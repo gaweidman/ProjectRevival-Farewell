@@ -1,0 +1,2272 @@
+<Logging continued from "data/ulx_logs/02-08-21.txt">
+[00:28:53] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_interiors/table_cafeteria.mdl
+[00:29:13] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_unique/hospital/hospital_bed.mdl
+[00:29:18] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_unique/hospital/hospital_bed.mdl
+[00:29:45] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_urban/hotel_curtain001.mdl
+[00:29:53] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_urban/hotel_curtain001.mdl
+[00:30:30] Lee Maylor<STEAM_0:1:53097688> used the tool stacker_improved on models/props_urban/hotel_curtain001.mdl
+[00:30:30] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_urban/hotel_curtain001.mdl
+[00:30:37] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_urban/hotel_curtain001.mdl
+[00:30:45] Lee Maylor<STEAM_0:1:53097688> used the tool stacker_improved on models/props_urban/hotel_curtain001.mdl
+[00:30:45] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_urban/hotel_curtain001.mdl
+[00:30:57] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_c17/metalladder003.mdl
+[00:31:00] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_c17/utilitypole01a.mdl
+[00:31:03] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_docks/dock01_pole01a_256.mdl
+[00:31:04] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_docks/dock01_pole01a_128.mdl
+[00:31:21] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_docks/dock03_pole01a_256.mdl
+[00:31:26] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_c17/signpole001.mdl
+[00:31:36] Lee Maylor<STEAM_0:1:53097688> used the tool stacker_improved on models/props_urban/hotel_curtain001.mdl
+[00:31:36] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_urban/hotel_curtain001.mdl
+[00:31:47] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_c17/signpole001.mdl
+[00:31:52] Lee Maylor<STEAM_0:1:53097688> spawned model models/hunter/blocks/cube025x2x025.mdl
+[00:31:58] Lee Maylor<STEAM_0:1:53097688> used the tool stacker_improved on models/props_urban/hotel_curtain001.mdl
+[00:31:58] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_urban/hotel_curtain001.mdl
+[00:32:14] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/hunter/blocks/cube025x2x025.mdl
+[00:32:34] Lee Maylor<STEAM_0:1:53097688> used the tool stacker_improved on models/props_urban/hotel_curtain001.mdl
+[00:32:34] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_urban/hotel_curtain001.mdl
+[00:32:43] Lee Maylor<STEAM_0:1:53097688> used the tool stacker_improved on models/props_urban/hotel_curtain001.mdl
+[00:32:43] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_urban/hotel_curtain001.mdl
+[00:32:57] Lee Maylor<STEAM_0:1:53097688> spawned model models/hunter/blocks/cube025x1x025.mdl
+[00:32:58] Lee Maylor<STEAM_0:1:53097688> spawned model models/hunter/blocks/cube025x2x025.mdl
+[00:33:07] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/hunter/blocks/cube025x2x025.mdl
+[00:33:37] Lee Maylor<STEAM_0:1:53097688> used the tool stacker_improved on models/props_urban/hotel_curtain001.mdl
+[00:33:37] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_urban/hotel_curtain001.mdl
+[00:33:47] Lee Maylor<STEAM_0:1:53097688> used the tool material on models/hunter/blocks/cube025x2x025.mdl
+[00:33:54] Lee Maylor<STEAM_0:1:53097688> used the tool material on models/hunter/blocks/cube025x2x025.mdl
+[00:33:55] Lee Maylor<STEAM_0:1:53097688> used the tool material on models/props_urban/hotel_curtain001.mdl
+[00:33:56] Lee Maylor<STEAM_0:1:53097688> used the tool material on models/props_urban/hotel_curtain001.mdl
+[00:33:56] Lee Maylor<STEAM_0:1:53097688> used the tool material on models/props_urban/hotel_curtain001.mdl
+[00:33:58] Lee Maylor<STEAM_0:1:53097688> used the tool material on models/props_urban/hotel_curtain001.mdl
+[00:33:58] Lee Maylor<STEAM_0:1:53097688> used the tool material on models/props_urban/hotel_curtain001.mdl
+[00:34:00] Lee Maylor<STEAM_0:1:53097688> used the tool material on models/props_urban/hotel_curtain001.mdl
+[00:34:01] Lee Maylor<STEAM_0:1:53097688> used the tool material on models/hunter/blocks/cube025x2x025.mdl
+[00:34:08] Lee Maylor<STEAM_0:1:53097688> used the tool colour on maps/rp_i17_variation_v0.bsp
+[00:34:09] Lee Maylor<STEAM_0:1:53097688> used the tool colour on models/hunter/blocks/cube025x2x025.mdl
+[00:34:11] Lee Maylor<STEAM_0:1:53097688> used the tool colour on models/props_urban/hotel_curtain001.mdl
+[00:34:12] Lee Maylor<STEAM_0:1:53097688> used the tool colour on models/props_urban/hotel_curtain001.mdl
+[00:34:16] Lee Maylor<STEAM_0:1:53097688> used the tool colour on models/props_urban/hotel_curtain001.mdl
+[00:34:17] Lee Maylor<STEAM_0:1:53097688> used the tool colour on models/props_urban/hotel_curtain001.mdl
+[00:34:17] Lee Maylor<STEAM_0:1:53097688> used the tool colour on maps/rp_i17_variation_v0.bsp
+[00:34:18] Lee Maylor<STEAM_0:1:53097688> used the tool colour on models/hunter/blocks/cube025x2x025.mdl
+[00:34:20] Lee Maylor<STEAM_0:1:53097688> used the tool colour on models/hunter/blocks/cube025x2x025.mdl
+[00:34:22] Lee Maylor<STEAM_0:1:53097688> used the tool colour on models/hunter/blocks/cube025x2x025.mdl
+[00:34:24] Lee Maylor<STEAM_0:1:53097688> used the tool colour on models/hunter/blocks/cube025x2x025.mdl
+[00:34:25] Lee Maylor<STEAM_0:1:53097688> used the tool colour on models/hunter/blocks/cube025x2x025.mdl
+[00:34:32] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/hunter/blocks/cube025x2x025.mdl
+[00:34:32] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/hunter/blocks/cube025x2x025.mdl
+[00:34:32] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/hunter/blocks/cube025x2x025.mdl
+[00:34:32] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/hunter/blocks/cube025x2x025.mdl
+[00:34:33] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_urban/hotel_curtain001.mdl
+[00:34:33] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_urban/hotel_curtain001.mdl
+[00:34:33] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_urban/hotel_curtain001.mdl
+[00:34:33] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/hunter/blocks/cube025x2x025.mdl
+[00:34:33] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/hunter/blocks/cube025x2x025.mdl
+[00:34:34] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_urban/hotel_curtain001.mdl
+[00:34:34] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_urban/hotel_curtain001.mdl
+[00:34:34] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_urban/hotel_curtain001.mdl
+[00:34:34] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/hunter/blocks/cube025x2x025.mdl
+[00:34:34] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/hunter/blocks/cube025x2x025.mdl
+[00:34:34] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/hunter/blocks/cube025x2x025.mdl
+[00:34:35] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_urban/hotel_curtain001.mdl
+[00:34:35] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_urban/hotel_curtain001.mdl
+[00:34:36] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_urban/hotel_curtain001.mdl
+[00:34:36] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_urban/hotel_curtain001.mdl
+[00:34:36] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/hunter/blocks/cube025x2x025.mdl
+[00:34:36] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_urban/hotel_curtain001.mdl
+[00:34:36] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_urban/hotel_curtain001.mdl
+[00:34:37] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_urban/hotel_curtain001.mdl
+[00:34:37] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_urban/hotel_curtain001.mdl
+[00:34:39] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_urban/hotel_curtain001.mdl
+[00:34:40] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/hunter/blocks/cube025x2x025.mdl
+[00:34:41] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_urban/hotel_curtain001.mdl
+[00:34:42] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_urban/hotel_curtain001.mdl
+[00:34:45] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/hunter/blocks/cube025x2x025.mdl
+[00:34:46] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_urban/hotel_curtain001.mdl
+[00:35:03] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_unique/hospital/hospital_bed.mdl
+[00:35:04] Lee Maylor was killed by prop_physics
+[00:35:23] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_unique/hospital/hospital_bed.mdl
+[00:35:44] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_unique/hospital/iv_pole.mdl
+[00:35:49] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_unique/hospital/iv_pole.mdl
+[00:36:03] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_interiors/painting_landscape01.mdl
+[00:36:05] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_interiors/painting_portrait01.mdl
+[00:36:10] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_furniture/picture_frame8.mdl
+[00:36:12] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_interiors/painting_landscape01.mdl
+[00:36:18] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on maps/rp_i17_variation_v0.bsp
+[00:36:29] Lee Maylor<STEAM_0:1:53097688> used the tool rb655_easy_bodygroup on models/props_interiors/painting_landscape01.mdl
+[00:36:29] Lee Maylor<STEAM_0:1:53097688> used the tool rb655_easy_bodygroup on models/props_interiors/painting_landscape01.mdl
+[00:37:28] Lee Maylor<STEAM_0:1:53097688> spawned model models/testmodels/sofa_double.mdl
+[00:37:30] Lee Maylor<STEAM_0:1:53097688> spawned model models/chairs/armchair.mdl
+[00:37:39] Lee Maylor<STEAM_0:1:53097688> spawned model models/chairs/armchair.mdl
+[00:37:45] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/cs_office/sofa.mdl
+[00:37:51] Lee Maylor<STEAM_0:1:53097688> spawned model models/scenery/furniture/coffeetable1/vestbl.mdl
+[00:37:57] Lee Maylor<STEAM_0:1:53097688> spawned model models/scenery/furniture/coffeetable1/vestbl.mdl
+[00:38:22] Lee Maylor<STEAM_0:1:53097688> used the tool rb655_easy_bodygroup on models/props/cs_office/sofa.mdl
+[00:38:28] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_plants/plantairport01.mdl
+[00:38:35] Lee Maylor<STEAM_0:1:53097688> spawned model models/env/decor/tall_plant_b/tall_plant_b.mdl
+[00:38:36] Lee Maylor<STEAM_0:1:53097688> spawned model models/highrise/potted_plant_05.mdl
+[00:38:38] Lee Maylor<STEAM_0:1:53097688> spawned model models/env/decor/plant_decofern/plant_decofern.mdl
+[00:38:40] Lee Maylor<STEAM_0:1:53097688> spawned model models/env/decor/tall_plant_b/tall_plant_b.mdl
+[00:39:08] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/cs_office/sofa_chair.mdl
+[00:40:12] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_c17/light_industrialbell01_on.mdl
+[00:40:15] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_c17/pillarcluster_001b.mdl
+[00:40:15] Lee Maylor was killed by prop_physics
+[00:40:47] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_c17/hospital_shelf01.mdl
+[00:40:54] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_c17/hospital_surgerytable01.mdl
+[00:40:57] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_c17/hospital_cart01.mdl
+[00:41:05] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_unique/hospital/hospital_bed.mdl
+[00:41:06] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_unique/hospital/iv_pole.mdl
+[00:41:08] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/env/decor/tall_plant_b/tall_plant_b.mdl
+[00:41:08] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on maps/rp_i17_variation_v0.bsp
+[00:41:09] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on maps/rp_i17_variation_v0.bsp
+[00:41:09] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on maps/rp_i17_variation_v0.bsp
+[00:41:10] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_unique/hospital/iv_pole.mdl
+[00:41:11] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_unique/hospital/hospital_bed.mdl
+[00:41:13] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props/cs_office/sofa_chair.mdl
+[00:41:13] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_interiors/painting_landscape01.mdl
+[00:41:33] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on maps/rp_i17_variation_v0.bsp
+[00:41:34] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on maps/rp_i17_variation_v0.bsp
+[00:41:41] Lee Maylor: /doorsettitle Loyalist Ward
+[00:41:42] Lee Maylor: /doorsethidden false
+[00:42:39] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_office/desk_01.mdl
+[00:43:33] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/cs_office/chair_office.mdl
+[00:43:55] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_filecabinet002a.mdl
+[00:44:15] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_filecabinet002a.mdl
+[00:44:32] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_interiors/copymachine01.mdl
+[00:44:55] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_lab/monitor01a.mdl
+[00:45:02] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_lab/harddrive02.mdl
+[00:45:39] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_lab/monitor01a.mdl
+[00:45:49] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_lab/monitor02.mdl
+[00:47:09] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_c17/computer01_keyboard.mdl
+[00:47:24] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/cs_office/radio.mdl
+[00:48:27] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/cs_office/phone.mdl
+[00:48:47] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/cs_office/offcorkboarda.mdl
+[00:48:48] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/cs_office/offcertificatea.mdl
+[00:49:50] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models\props/cs_office/offcertificatea.mdl
+[00:49:51] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props/cs_office/chair_office.mdl
+[00:49:52] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models\props/cs_office/radio.mdl
+[00:49:53] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models\props/cs_office/phone.mdl
+[00:49:53] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_office/desk_01.mdl
+[00:49:54] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_lab/monitor02.mdl
+[00:49:55] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_lab/harddrive02.mdl
+[00:49:55] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_c17/computer01_keyboard.mdl
+[00:49:57] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_interiors/copymachine01.mdl
+[00:50:28] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/cs_office/bookshelf1.mdl
+[00:52:00] Lee Maylor<STEAM_0:1:53097688> spawned sent ix_unionlock
+[00:52:13] Lee Maylor: /DOORSETTITLE "Manager's Office"
+[00:52:14] Lee Maylor: /doorsethidden false
+[00:55:51] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_filecabinet002a.mdl
+[00:55:59] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_storagecloset001a.mdl
+[00:56:03] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_filecabinet002a.mdl
+[00:56:10] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_filecabinet002a.mdl
+[00:56:20] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_filecabinet002a.mdl
+[00:56:37] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/kitchen_shelf001a.mdl
+[00:56:58] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_desk001b.mdl
+[00:57:34] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_storagecloset001a.mdl
+[00:58:05] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_wasteland/kitchen_shelf001a.mdl
+[00:58:14] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_wasteland/controlroom_desk001b.mdl
+[00:58:38] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on maps/rp_i17_variation_v0.bsp
+[00:58:39] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on maps/rp_i17_variation_v0.bsp
+[00:58:50] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on maps/rp_i17_variation_v0.bsp
+[00:59:32] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_interiors/copymachine01.mdl
+[00:59:37] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_interiors/copymachine01.mdl
+[01:00:04] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props/cs_office/table_coffee.mdl
+[01:00:06] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props/cs_office/table_coffee.mdl
+[01:00:07] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_c17/door01_left.mdl
+[01:00:12] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_c17/door01_left.mdl
+[01:00:18] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on maps/rp_i17_variation_v0.bsp
+[01:01:21] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_interiors/chair_cafeteria.mdl
+[01:01:25] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_interiors/chair_cafeteria.mdl
+[01:01:51] Lee Maylor<STEAM_0:1:53097688> spawned sent ix_airvent
+[01:02:08] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/combine_emitter01.mdl
+[01:02:23] Lee Maylor<STEAM_0:1:53097688> spawned sent ix_airvent
+[01:02:34] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/combine_emitter01.mdl
+[01:02:42] Lee Maylor<STEAM_0:1:53097688> spawned sent ix_airvent
+[01:02:54] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/combine_emitter01.mdl
+[01:03:00] Lee Maylor<STEAM_0:1:53097688> spawned sent ix_airvent
+[01:03:13] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/combine_emitter01.mdl
+[01:03:19] Lee Maylor<STEAM_0:1:53097688> spawned sent ix_airvent
+[01:03:38] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/combine_emitter01.mdl
+[01:04:02] Lee Maylor<STEAM_0:1:53097688> spawned sent ix_airvent
+[01:04:16] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/combine_emitter01.mdl
+[01:04:19] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on maps/rp_i17_variation_v0.bsp
+[01:04:25] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on maps/rp_i17_variation_v0.bsp
+[01:04:27] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on maps/rp_i17_variation_v0.bsp
+[01:04:38] Lee Maylor<STEAM_0:1:53097688> spawned sent ix_airvent
+[01:04:48] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/combine_emitter01.mdl
+[01:05:05] Lee Maylor<STEAM_0:1:53097688> spawned sent ix_airvent
+[01:05:15] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/combine_emitter01.mdl
+[01:05:53] Lee Maylor<STEAM_0:1:53097688> spawned sent ix_airvent
+[01:06:13] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/combine_emitter01.mdl
+[01:06:46] Lee Maylor: /adminspawnmenu
+[01:07:07] Lee Maylor: t
+[01:07:11] Lee Maylor: /chargiveitem maylor bleah
+[01:07:12] Lee Maylor: /chargiveitem maylor bleach
+[01:07:20] Lee Maylor: /adminq
+[01:07:21] Lee Maylor: /adminspawnmenu
+[01:07:32] Lee Maylor: /adminspawnmenu
+[01:09:25] Lee Maylor: /chargiveitem lee notepad 9999
+[01:11:57] Lee Maylor<STEAM_0:1:53097688> used the tool ledscreen on maps/rp_i17_variation_v0.bsp
+[01:11:58] Lee Maylor<STEAM_0:1:53097688> used the tool ledscreen on maps/rp_i17_variation_v0.bsp
+[01:12:00] Lee Maylor<STEAM_0:1:53097688> used the tool ledscreen on maps/rp_i17_variation_v0.bsp
+[01:12:01] Lee Maylor<STEAM_0:1:53097688> used the tool ledscreen on maps/rp_i17_variation_v0.bsp
+[01:12:02] Lee Maylor<STEAM_0:1:53097688> used the tool ledscreen on maps/rp_i17_variation_v0.bsp
+[01:12:03] Lee Maylor<STEAM_0:1:53097688> used the tool ledscreen on maps/rp_i17_variation_v0.bsp
+[01:12:04] Lee Maylor<STEAM_0:1:53097688> used the tool ledscreen on maps/rp_i17_variation_v0.bsp
+[01:12:05] Lee Maylor<STEAM_0:1:53097688> used the tool ledscreen on maps/rp_i17_variation_v0.bsp
+[01:12:05] Lee Maylor<STEAM_0:1:53097688> used the tool ledscreen on maps/rp_i17_variation_v0.bsp
+[01:12:18] Lee Maylor<STEAM_0:1:53097688> used the tool ledscreen on maps/rp_i17_variation_v0.bsp
+[01:12:19] Lee Maylor<STEAM_0:1:53097688> used the tool ledscreen on maps/rp_i17_variation_v0.bsp
+[01:12:20] Lee Maylor<STEAM_0:1:53097688> used the tool ledscreen on maps/rp_i17_variation_v0.bsp
+[01:12:22] Lee Maylor<STEAM_0:1:53097688> used the tool ledscreen on maps/rp_i17_variation_v0.bsp
+[01:12:22] Lee Maylor<STEAM_0:1:53097688> used the tool ledscreen on maps/rp_i17_variation_v0.bsp
+[01:12:24] Lee Maylor<STEAM_0:1:53097688> used the tool ledscreen on maps/rp_i17_variation_v0.bsp
+[01:12:38] Lee Maylor<STEAM_0:1:53097688> used the tool ledscreen on maps/rp_i17_variation_v0.bsp
+[01:12:39] Lee Maylor<STEAM_0:1:53097688> used the tool ledscreen on maps/rp_i17_variation_v0.bsp
+[01:12:46] Lee Maylor<STEAM_0:1:53097688> used the tool ledscreen on maps/rp_i17_variation_v0.bsp
+[01:12:47] Lee Maylor<STEAM_0:1:53097688> used the tool ledscreen on maps/rp_i17_variation_v0.bsp
+[01:12:48] Lee Maylor<STEAM_0:1:53097688> used the tool ledscreen on maps/rp_i17_variation_v0.bsp
+[01:12:51] Lee Maylor<STEAM_0:1:53097688> used the tool ledscreen on maps/rp_i17_variation_v0.bsp
+[01:12:51] Lee Maylor<STEAM_0:1:53097688> used the tool ledscreen on maps/rp_i17_variation_v0.bsp
+[01:12:52] Lee Maylor<STEAM_0:1:53097688> used the tool ledscreen on maps/rp_i17_variation_v0.bsp
+[01:12:53] Lee Maylor<STEAM_0:1:53097688> used the tool ledscreen on maps/rp_i17_variation_v0.bsp
+[01:13:09] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/squad/sf_plates/sf_plate1x4.mdl
+[01:13:09] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/squad/sf_plates/sf_plate1x4.mdl
+[01:15:23] Lee Maylor<STEAM_0:1:53097688> spawned NPC npc_combine_s
+[01:16:30] Lee Maylor: /toggleraise
+[01:16:31] Lee Maylor: /toggleraise
+[01:20:42] Lee Maylor<STEAM_0:1:53097688> spawned NPC npc_poisonzombie
+[01:20:50] Lee Maylor<STEAM_0:1:53097688> spawned NPC npc_zombie
+[01:20:51] Lee Maylor<STEAM_0:1:53097688> spawned NPC npc_zombie
+[01:20:52] Lee Maylor<STEAM_0:1:53097688> spawned NPC npc_zombie
+[01:20:56] Lee Maylor<STEAM_0:1:53097688> spawned NPC npc_fastzombie
+[01:21:00] Lee Maylor<STEAM_0:1:53097688> spawned NPC npc_zombie
+[01:21:03] Lee Maylor<STEAM_0:1:53097688> spawned NPC npc_headcrab_fast
+[01:21:05] Lee Maylor<STEAM_0:1:53097688> spawned NPC npc_headcrab_fast
+[01:21:07] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/headcrab.mdl
+[01:21:09] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/zombie/poison.mdl
+[01:21:10] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/zombie/classic.mdl
+[01:21:10] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/zombie/fast.mdl
+[01:21:13] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/zombie/classic.mdl
+[01:21:14] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/zombie/classic.mdl
+[01:21:15] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/headcrab.mdl
+[01:21:17] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/zombie/classic.mdl
+[01:21:59] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_canal/locks_large2.mdl
+[01:22:04] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/eaqwertys_models/checkpoint2.mdl
+[01:22:15] Lee Maylor<STEAM_0:1:53097688> spawned effect models/props/industrial17/crematorfactorywheel.mdl
+[01:22:16] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/industrial17/arcademachinerow.mdl
+[01:22:22] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/industrial17/mapstand.mdl
+[01:22:32] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/industrial17/table.mdl
+[01:22:34] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/industrial17/garbagechute.mdl
+[01:22:47] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/industrial17/lettersbox.mdl
+[01:22:52] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/industrial17/opensign.mdl
+[01:22:54] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/industrial17/propagandascreen.mdl
+[01:22:56] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/industrial17/booth.mdl
+[01:22:57] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/industrial17/basketballhoop.mdl
+[01:23:01] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props/industrial17/garbagechute.mdl
+[01:23:25] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props/industrial17/garbagechute.mdl
+[01:23:30] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props/industrial17/garbagechute.mdl
+[01:23:33] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props/industrial17/garbagechute.mdl
+[01:23:36] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/industrial17/c17mp.mdl
+[01:23:40] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/industrial17/constructionsidea.mdl
+[01:23:50] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/industrial17/propagandascreen.mdl
+[01:24:01] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/industrial17/propagandascreen2.mdl
+[01:24:02] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/industrial17/propagandascreen.mdl
+[01:24:11] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/industrial17/propagandascreen.mdl
+[01:24:27] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/industrial17/detainmentplatform.mdl
+[01:24:29] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/industrial17/detainmentpod.mdl
+[01:24:32] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/industrial17/basketballhoop.mdl
+[01:24:35] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/apoc/crematorfactory2.mdl
+[01:24:38] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/apoc/doortower.mdl
+[01:24:40] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/apoc/crematorfactory.mdl
+[01:24:44] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/industrial17/opensign.mdl
+[01:24:45] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/industrial17/nexuselevatorplatform.mdl
+[01:24:45] Lee Maylor was killed by prop_physics
+[01:25:01] Lee Maylor<STEAM_0:1:53097688> spawned effect models/props/industrial17/skyboxplaza2.mdl
+[01:25:05] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/industrial17/lettersbox.mdl
+[01:25:07] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/industrial17/globe2.mdl
+[01:25:10] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/industrial17/globe.mdl
+[01:25:14] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/industrial17/arcademachinerow2.mdl
+[01:25:20] Lee Maylor<STEAM_0:1:53097688> spawned effect models/props/industrial17/consulplatform.mdl
+[01:25:24] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/industrial17/constructionsideb.mdl
+[01:25:27] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/industrial17/combinewallprefab2.mdl
+[01:33:32] Lee Maylor<STEAM_0:1:53097688> used the tool ledscreen on maps/rp_i17_variation_v0.bsp
+[01:33:33] Lee Maylor<STEAM_0:1:53097688> used the tool ledscreen on maps/rp_i17_variation_v0.bsp
+[01:33:34] Lee Maylor<STEAM_0:1:53097688> used the tool ledscreen on maps/rp_i17_variation_v0.bsp
+[01:33:35] Lee Maylor<STEAM_0:1:53097688> used the tool ledscreen on maps/rp_i17_variation_v0.bsp
+[01:33:37] Lee Maylor<STEAM_0:1:53097688> used the tool ledscreen on maps/rp_i17_variation_v0.bsp
+[01:33:38] Lee Maylor<STEAM_0:1:53097688> used the tool ledscreen on maps/rp_i17_variation_v0.bsp
+[01:33:38] Lee Maylor<STEAM_0:1:53097688> used the tool ledscreen on maps/rp_i17_variation_v0.bsp
+[01:33:45] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/squad/sf_plates/sf_plate1x4.mdl
+[01:33:58] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/industrial17/mailbox.mdl
+[01:34:10] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props/industrial17/mailbox.mdl
+[01:34:19] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/industrial17/mailbox.mdl
+[01:34:34] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props/industrial17/mailbox.mdl
+[01:38:08] Lee Maylor: /doorsettitle Office
+[01:38:10] Lee Maylor: /doorsettitle Office
+[01:38:12] Lee Maylor: /doorsethidden false
+[01:38:13] Lee Maylor: /doorsethidden false
+[01:38:25] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_office/desk_01.mdl
+[01:39:03] Lee Maylor<STEAM_0:1:53097688> used the tool stacker_improved on maps/rp_i17_variation_v0.bsp
+[01:39:04] Lee Maylor<STEAM_0:1:53097688> used the tool stacker_improved on models/props_office/desk_01.mdl
+[01:39:04] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_office/desk_01.mdl
+[01:39:15] Lee Maylor<STEAM_0:1:53097688> used the tool stacker_improved on maps/rp_i17_variation_v0.bsp
+[01:39:15] Lee Maylor<STEAM_0:1:53097688> used the tool stacker_improved on models/props_office/desk_01.mdl
+[01:39:15] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_office/desk_01.mdl
+[01:39:23] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_office/desk_01.mdl
+[01:39:31] Lee Maylor<STEAM_0:1:53097688> used the tool stacker_improved on models/props_office/desk_01.mdl
+[01:39:31] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_office/desk_01.mdl
+[01:39:33] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_office/desk_01.mdl
+[01:39:39] Lee Maylor<STEAM_0:1:53097688> used the tool stacker_improved on models/props_office/desk_01.mdl
+[01:39:39] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_office/desk_01.mdl
+[01:39:42] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_office/desk_01.mdl
+[01:39:55] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_office/desk_01.mdl
+[01:40:08] Lee Maylor<STEAM_0:1:53097688> used the tool stacker_improved on models/props_office/desk_01.mdl
+[01:40:08] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_office/desk_01.mdl
+[01:40:27] Lee Maylor<STEAM_0:1:53097688> used the tool stacker_improved on models/props_office/desk_01.mdl
+[01:40:27] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_office/desk_01.mdl
+[01:40:27] Lee Maylor<STEAM_0:1:53097688> used the tool stacker_improved on models/props_office/desk_01.mdl
+[01:40:27] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_office/desk_01.mdl
+[01:40:37] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_office/desk_01.mdl
+[01:40:46] Lee Maylor<STEAM_0:1:53097688> used the tool stacker_improved on models/props_office/desk_01.mdl
+[01:40:46] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_office/desk_01.mdl
+[01:40:51] Lee Maylor<STEAM_0:1:53097688> used the tool stacker_improved on models/props_office/desk_01.mdl
+[01:40:51] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_office/desk_01.mdl
+[01:41:03] Lee Maylor<STEAM_0:1:53097688> used the tool stacker_improved on models/props_office/desk_01.mdl
+[01:41:03] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_office/desk_01.mdl
+[01:41:09] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/cs_office/chair_office.mdl
+[01:41:13] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/cs_office/chair_office.mdl
+[01:41:28] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/cs_office/chair_office.mdl
+[01:41:32] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/cs_office/chair_office.mdl
+[01:41:45] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/cs_office/chair_office.mdl
+[01:42:15] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/cs_office/chair_office.mdl
+[01:42:47] Lee Maylor<STEAM_0:1:53097688> used the tool stacker_improved on models/props_office/desk_01.mdl
+[01:42:47] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_office/desk_01.mdl
+[01:42:53] Lee Maylor<STEAM_0:1:53097688> used the tool stacker_improved on models/props_office/desk_01.mdl
+[01:42:53] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_office/desk_01.mdl
+[01:43:31] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/cs_office/chair_office.mdl
+[01:44:45] Lee Maylor extinguished all 5 fires.
+[01:44:45] Lee Maylor: !vextinguishall
+[01:45:09] Lee Maylor<STEAM_0:1:53097688> used the tool stacker_improved on models/props_office/desk_01.mdl
+[01:45:09] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_office/desk_01.mdl
+[01:45:13] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/cs_office/chair_office.mdl
+[01:45:32] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/cs_office/chair_office.mdl
+[01:45:44] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_lab/monitor01a.mdl
+[01:45:48] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_lab/harddrive02.mdl
+[01:46:02] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_lab/monitor02.mdl
+[01:47:39] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_lab/harddrive02.mdl
+[01:47:53] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_lab/monitor02.mdl
+[01:48:33] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_c17/consolebox01a.mdl
+[01:48:35] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_c17/computer01_keyboard.mdl
+[01:48:48] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_c17/computer01_keyboard.mdl
+[01:49:03] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_lab/monitor02.mdl
+[01:49:04] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_c17/computer01_keyboard.mdl
+[01:49:05] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_lab/harddrive02.mdl
+[01:49:05] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_office/desk_01.mdl
+[01:49:06] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props/cs_office/chair_office.mdl
+[01:49:06] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_office/desk_01.mdl
+[01:49:07] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props/cs_office/chair_office.mdl
+[01:49:08] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_lab/monitor02.mdl
+[01:49:08] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_c17/computer01_keyboard.mdl
+[01:49:10] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props/cs_office/chair_office.mdl
+[01:49:11] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_office/desk_01.mdl
+[01:49:11] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_office/desk_01.mdl
+[01:49:12] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props/cs_office/chair_office.mdl
+[01:49:13] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_office/desk_01.mdl
+[01:49:14] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props/cs_office/chair_office.mdl
+[01:49:15] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_office/desk_01.mdl
+[01:49:15] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props/cs_office/chair_office.mdl
+[01:49:15] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props/cs_office/chair_office.mdl
+[01:49:16] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_office/desk_01.mdl
+[01:49:16] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_office/desk_01.mdl
+[01:49:17] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props/cs_office/chair_office.mdl
+[01:49:22] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_lab/monitor01a.mdl
+[01:49:35] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_lab/harddrive02.mdl
+[01:49:50] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_lab/monitor02.mdl
+[01:50:03] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_c17/computer01_keyboard.mdl
+[01:50:28] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_lab/harddrive02.mdl
+[01:50:57] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_lab/monitor01a.mdl
+[01:50:59] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_lab/monitor02.mdl
+[01:51:15] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_c17/computer01_keyboard.mdl
+[01:51:33] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_lab/monitor02.mdl
+[01:51:33] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_lab/harddrive02.mdl
+[01:51:34] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_c17/computer01_keyboard.mdl
+[01:51:35] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_c17/computer01_keyboard.mdl
+[01:51:36] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_lab/monitor02.mdl
+[01:51:37] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_lab/harddrive02.mdl
+[01:53:15] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_lab/harddrive02.mdl
+[01:53:25] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_lab/harddrive02.mdl
+[01:54:06] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_lab/monitor02.mdl
+[01:54:18] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_lab/monitor02.mdl
+[01:54:31] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_c17/computer01_keyboard.mdl
+[01:55:03] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_lab/monitor02.mdl
+[01:55:04] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_c17/computer01_keyboard.mdl
+[01:55:05] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_lab/harddrive02.mdl
+[01:55:29] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_c17/consolebox01a.mdl
+[01:55:30] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_c17/computer01_keyboard.mdl
+[01:55:51] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_c17/computer01_keyboard.mdl
+[01:56:43] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_lab/harddrive02.mdl
+[01:57:10] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_lab/harddrive02.mdl
+[01:58:28] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_lab/monitor02.mdl
+[01:58:37] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_lab/monitor02.mdl
+[01:59:24] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_c17/computer01_keyboard.mdl
+[01:59:33] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_c17/computer01_keyboard.mdl
+[01:59:53] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_lab/monitor02.mdl
+[01:59:54] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_lab/harddrive02.mdl
+[01:59:59] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_lab/harddrive02.mdl
+[02:00:09] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_c17/computer01_keyboard.mdl
+[02:00:10] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_lab/monitor02.mdl
+[02:00:11] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_lab/harddrive02.mdl
+[02:00:11] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_lab/monitor02.mdl
+[02:00:11] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_lab/harddrive02.mdl
+[02:00:12] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_c17/computer01_keyboard.mdl
+[02:00:38] Lee Maylor: /doorsettitle Closet
+[02:00:38] Lee Maylor: /doorsethidden false
+[02:00:39] Lee Maylor: /doorsethidden false
+[02:01:38] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_interiors/copymachine01.mdl
+[02:01:48] Lee Maylor: /doorsethidden true
+[02:01:51] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_interiors/corkboardverticle01.mdl
+[02:02:06] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_filecabinet002a.mdl
+[02:02:30] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_filecabinet002a.mdl
+[02:02:43] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_filecabinet002a.mdl
+[02:03:06] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_trainstation/ceiling_arch001a.mdl
+[02:03:23] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_trainstation/clock01.mdl
+[02:03:24] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_trainstation/column_arch001a.mdl
+[02:03:29] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_trainstation/mount_connection001a.mdl
+[02:03:55] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_warehouse/office_furniture_desk.mdl
+[02:03:56] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_warehouse/office_furniture_desk.mdl
+[02:04:00] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_office/desk_01.mdl
+[02:04:04] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_desk001b.mdl
+[02:04:05] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_desk001a.mdl
+[02:04:08] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_desk001b.mdl
+[02:04:14] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_interiors/printer.mdl
+[02:04:35] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_interiors/paper_tray.mdl
+[02:05:11] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_interiors/copymachine01.mdl
+[02:05:21] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_equipment/phone_booth.mdl
+[02:05:25] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_interiors/paper_tray.mdl
+[02:05:28] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/cs_office/file_box.mdl
+[02:05:30] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/cs_office/offcorkboarda.mdl
+[02:05:47] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props/cs_office/offcorkboarda.mdl
+[02:06:04] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/cs_office/offcorkboarda.mdl
+[02:06:39] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_office/file_cabinet_03.mdl
+[02:06:40] Lee Maylor<STEAM_0:1:53097688> spawned model models/highrise/cubicle_monitor_01.mdl
+[02:06:58] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_interiors/printer.mdl
+[02:06:58] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_interiors/paper_tray.mdl
+[02:06:59] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_wasteland/controlroom_desk001b.mdl
+[02:06:59] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props/cs_office/offcorkboarda.mdl
+[02:07:02] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/cs_office/chair_office.mdl
+[02:07:09] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_interiors/chairs_airport.mdl
+[02:07:14] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_interiors/copymachine01.mdl
+[02:07:16] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_interiors/corkboardverticle01.mdl
+[02:07:21] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_desk001b.mdl
+[02:07:28] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_wasteland/controlroom_desk001b.mdl
+[02:07:59] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/cs_office/table_meeting.mdl
+[02:08:06] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/cs_office/table_meeting.mdl
+[02:08:10] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props/cs_office/table_meeting.mdl
+[02:08:35] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/cs_office/table_meeting.mdl
+[02:08:39] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props/cs_office/table_meeting.mdl
+[02:08:44] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props/cs_office/table_meeting.mdl
+[02:09:35] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_interiors/chair01.mdl
+[02:09:51] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_c17/furniturechair001a.mdl
+[02:09:51] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_c17/furniturechair001a.mdl
+[02:09:55] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_c17/furniturechair001a.mdl
+[02:10:04] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_c17/furniturechair001a.mdl
+[02:10:09] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_c17/furniturechair001a.mdl
+[02:10:12] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_c17/chair02a.mdl
+[02:10:19] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_c17/chair02a.mdl
+[02:10:25] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_c17/chair02a.mdl
+[02:11:10] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_interiors/dinning_table_oval.mdl
+[02:11:47] Lee Maylor<STEAM_0:1:53097688> spawned model models/u4lab/chair_office_a.mdl
+[02:11:51] Lee Maylor<STEAM_0:1:53097688> spawned model models/u4lab/chair_office_a.mdl
+[02:11:55] Lee Maylor<STEAM_0:1:53097688> spawned model models/u4lab/chair_office_a.mdl
+[02:11:58] Lee Maylor<STEAM_0:1:53097688> spawned model models/u4lab/chair_office_a.mdl
+[02:12:02] Lee Maylor<STEAM_0:1:53097688> spawned model models/u4lab/chair_office_a.mdl
+[02:12:06] Lee Maylor<STEAM_0:1:53097688> spawned model models/u4lab/chair_office_a.mdl
+[02:12:13] Lee Maylor<STEAM_0:1:53097688> spawned model models/u4lab/chair_office_a.mdl
+[02:12:40] Lee Maylor<STEAM_0:1:53097688> spawned model models/u4lab/chair_office_a.mdl
+[02:13:09] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/u4lab/chair_office_a.mdl
+[02:13:10] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/u4lab/chair_office_a.mdl
+[02:13:11] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/u4lab/chair_office_a.mdl
+[02:13:12] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/u4lab/chair_office_a.mdl
+[02:13:14] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/u4lab/chair_office_a.mdl
+[02:13:14] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props/cs_office/table_meeting.mdl
+[02:13:17] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/u4lab/chair_office_a.mdl
+[02:13:18] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/u4lab/chair_office_a.mdl
+[02:13:18] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/u4lab/chair_office_a.mdl
+[02:13:34] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/cs_office/projector.mdl
+[02:13:42] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/cs_office/phone.mdl
+[02:17:22] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_interiors/sofa02.mdl
+[02:17:23] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_interiors/sofa01.mdl
+[02:17:26] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_interiors/sofa02.mdl
+[02:17:36] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/cs_office/table_coffee.mdl
+[02:17:58] Lee Maylor<STEAM_0:1:53097688> spawned model models/rt screens/monitor01b.mdl
+[02:17:59] Lee Maylor<STEAM_0:1:53097688> spawned model models/rt screens/tv_monitor01.mdl
+[02:18:15] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_interiors/sofa02.mdl
+[02:18:16] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/rt screens/tv_monitor01.mdl
+[02:18:16] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props/cs_office/table_coffee.mdl
+[02:18:32] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_interiors/painting_landscape01.mdl
+[02:18:35] Lee Maylor<STEAM_0:1:53097688> spawned model models/testmodels/macbook_pro.mdl
+[02:18:43] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_interiors/dinning_table_oval.mdl
+[02:18:46] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_warehouse/office_furniture_desk.mdl
+[02:18:51] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_warehouse/office_furniture_coffee_table.mdl
+[02:18:57] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_c17/furnituretable002a.mdl
+[02:19:01] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_desk001b.mdl
+[02:19:15] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_warehouse/office_furniture_couch.mdl
+[02:19:24] Lee Maylor<STEAM_0:1:53097688> spawned model models/maxib123/pooltable.mdl
+[02:19:29] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_interiors/coffee_maker.mdl
+[02:20:00] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_c17/furniturefridge001a.mdl
+[02:20:38] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_interiors/sinkkitchen01a.mdl
+[02:21:16] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_interiors/sinkkitchen01a.mdl
+[02:21:23] Lee Maylor<STEAM_0:1:53097688> spawned sent ix_airvent
+[02:21:36] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/combine_emitter01.mdl
+[02:21:56] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_wasteland/controlroom_desk001b.mdl
+[02:21:58] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_interiors/coffee_maker.mdl
+[02:22:09] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on maps/rp_i17_variation_v0.bsp
+[02:22:21] Lee Maylor: /doorsettitle Break Room
+[02:22:22] Lee Maylor: /doorsethidden false
+[02:22:44] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_filecabinet002a.mdl
+[02:22:57] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_office/desk_01.mdl
+[02:23:28] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/cs_office/chair_office.mdl
+[02:24:02] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_lab/plotter.mdl
+[02:24:04] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_lab/harddrive02.mdl
+[02:24:52] Lee Maylor<STEAM_0:1:53097688> spawned effect models/props_lab/ladel.mdl
+[02:24:54] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_lab/monitor02.mdl
+[02:30:01] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_c17/computer01_keyboard.mdl
+[02:30:16] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_office/desk_01.mdl
+[02:30:17] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_lab/monitor02.mdl
+[02:30:18] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_lab/harddrive02.mdl
+[02:30:18] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_c17/computer01_keyboard.mdl
+[02:30:19] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props/cs_office/chair_office.mdl
+[02:30:31] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_interiors/copymachine01.mdl
+[02:30:43] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_interiors/magazine_rack.mdl
+[02:31:26] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_desk001a.mdl
+[02:31:33] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_desk001b.mdl
+[02:31:50] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/kitchen_shelf001a.mdl
+[02:31:58] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_interiors/printer.mdl
+[02:32:42] Lee Maylor: /chargiveitem lee ota
+[02:36:35] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_interiors/printer.mdl
+[02:36:36] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_interiors/copymachine01.mdl
+[02:36:49] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_interiors/paper_tray.mdl
+[02:36:58] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_interiors/printer.mdl
+[02:36:59] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_interiors/paper_tray.mdl
+[02:36:59] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_wasteland/controlroom_desk001b.mdl
+[02:37:03] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_interiors/copymachine01.mdl
+[02:44:29] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/combine_emitter01.mdl
+[02:44:29] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_interiors/copymachine01.mdl
+[02:45:07] Lee Maylor: /doorsettitle "CCD Manager's Office"
+[02:45:10] Lee Maylor: /doorsethidden false
+[02:45:17] Lee Maylor: /doorsettitle Director's Office
+[02:45:26] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_office/desk_01.mdl
+[02:45:53] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_filecabinet002a.mdl
+[02:45:56] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_filecabinet002a.mdl
+[02:46:23] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_lab/harddrive02.mdl
+[02:46:59] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_c17/computer01_keyboard.mdl
+[02:47:15] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_lab/monitor02.mdl
+[02:47:29] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/cs_office/chair_office.mdl
+[02:47:47] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_office/desk_01.mdl
+[02:47:48] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_lab/monitor02.mdl
+[02:47:48] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_lab/harddrive02.mdl
+[02:47:48] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_c17/computer01_keyboard.mdl
+[02:47:49] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props/cs_office/chair_office.mdl
+[02:48:17] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_interiors/copymachine01.mdl
+[02:48:48] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_desk001b.mdl
+[02:50:28] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_interiors/coffee_maker.mdl
+[02:50:33] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_interiors/paper_tray.mdl
+[02:50:34] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_interiors/paper_tray.mdl
+[02:50:35] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_interiors/printer.mdl
+[02:50:41] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_interiors/paper_tray.mdl
+[02:50:47] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/cs_office/offcorkboarda.mdl
+[02:51:01] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props/cs_office/offcorkboarda.mdl
+[02:51:08] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_interiors/printer.mdl
+[02:51:08] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_wasteland/controlroom_desk001b.mdl
+[02:51:09] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_interiors/paper_tray.mdl
+[02:51:10] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_interiors/copymachine01.mdl
+[02:51:37] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on maps/rp_i17_variation_v0.bsp
+[02:51:43] Lee Maylor: /doorsethidden false
+[02:51:54] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/cs_office/microwave.mdl
+[02:52:03] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props/cs_office/microwave.mdl
+[02:52:06] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_interiors/trashcankitchen01.mdl
+[02:52:15] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_interiors/trashcankitchen01.mdl
+[02:52:58] Lee Maylor<STEAM_0:1:53097688> spawned sent ix_unionlock
+[02:53:01] Lee Maylor<STEAM_0:1:53097688> spawned sent ix_unionlock
+[02:53:26] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_filecabinet002a.mdl
+[02:53:32] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_filecabinet002a.mdl
+[02:53:39] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_chair001a.mdl
+[02:53:49] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_chair001a.mdl
+[02:53:57] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_wasteland/controlroom_chair001a.mdl
+[02:54:12] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_wasteland/controlroom_chair001a.mdl
+[02:54:20] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on maps/rp_i17_variation_v0.bsp
+[02:54:28] Lee Maylor<STEAM_0:1:53097688> spawned sent ix_unionlock
+[02:54:31] Lee Maylor<STEAM_0:1:53097688> spawned sent ix_unionlock
+[02:54:34] Lee Maylor<STEAM_0:1:53097688> spawned sent ix_unionlock
+[02:54:57] Lee Maylor<STEAM_0:1:53097688> spawned sent ix_unionlock
+[02:55:00] Lee Maylor<STEAM_0:1:53097688> spawned sent ix_unionlock
+[02:55:05] Lee Maylor<STEAM_0:1:53097688> spawned sent ix_unionlock
+[02:57:15] Lee Maylor<STEAM_0:1:53097688> spawned sent ix_unionlock
+[02:57:35] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_c17/furniturecouch001a.mdl
+[02:58:20] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_c17/furniturecouch001a.mdl
+[02:58:30] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/laundry_dryer002.mdl
+[02:58:47] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/laundry_dryer001.mdl
+[02:59:20] Lee Maylor<STEAM_0:1:53097688> spawned model models/rt screens/monitor01b.mdl
+[02:59:22] Lee Maylor<STEAM_0:1:53097688> spawned model models/rt screens/tv_monitor01.mdl
+[02:59:29] Lee Maylor<STEAM_0:1:53097688> spawned model models/combine_tv1.mdl
+[02:59:31] Lee Maylor<STEAM_0:1:53097688> spawned model models/combine_tv2.mdl
+[02:59:33] Lee Maylor<STEAM_0:1:53097688> spawned model models/combine_tv_3_1.mdl
+[02:59:34] Lee Maylor<STEAM_0:1:53097688> spawned model models/combine_tv_big_1c.mdl
+[02:59:35] Lee Maylor<STEAM_0:1:53097688> spawned model models/combine_tv_3_1.mdl
+[02:59:36] Lee Maylor<STEAM_0:1:53097688> spawned model models/combine_tv_bay_1.mdl
+[02:59:38] Lee Maylor<STEAM_0:1:53097688> spawned model models/combine_small_tv1c.mdl
+[02:59:44] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/combine_small_tv1c.mdl
+[03:00:14] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/combine_small_tv1c.mdl
+[03:00:18] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/combine_small_tv1c.mdl
+[03:03:21] Dropped "Lee Maylor" from server<STEAM_0:1:53097688>
+[03:10:00] Client "matt saton" connected.
+
+
+
+[03:23:41] New map: rp_i17_variation_v0
+[09:05:01] Client "Apollo7771FO3" connected.
+[09:08:42] Client "Apollo7771FO3" spawned in server <STEAM_0:1:40787669> (took 221 seconds).
+[09:11:35] Apollo7771FO3<STEAM_0:1:40787669> changed their name to Todd Muller
+[09:13:50] Todd Muller: Hm
+[09:14:01] Dropped "Todd Muller" from server<STEAM_0:1:40787669>
+[10:37:17] Client "FraZer" connected.
+[10:41:56] Client "FraZer" spawned in server <STEAM_0:0:457261159> (took 279 seconds).
+[11:06:45] Client "Dilly_" connected.
+[11:10:39] Client "Dilly_" spawned in server <STEAM_0:0:52468151> (took 234 seconds).
+[11:11:32] Dilly_<STEAM_0:0:52468151> changed their name to CCA.C17-UNION.i3.93347
+[11:12:44] CCA.C17-UNION.i3.93347<STEAM_0:0:52468151> changed their name to Carson Copper
+[11:19:18] Dropped "Carson Copper" from server<STEAM_0:0:52468151>
+[11:27:58] Client "Dilly_" connected.
+[11:29:47] Client "Dilly_" spawned in server <STEAM_0:0:52468151> (took 109 seconds).
+[11:30:20] Client "elkay" connected.
+[11:31:13] Dilly_<STEAM_0:0:52468151> changed their name to CCA.C17-UNION.i3.93347
+[11:31:25] CCA.C17-UNION.i3.93347<STEAM_0:0:52468151> changed their name to Carson Copper
+[11:32:07] Client "elkay" spawned in server <STEAM_0:1:76095374> (took 107 seconds).
+[11:32:42] elkay<STEAM_0:1:76095374> changed their name to Artyom Kuznetsov
+[11:38:11] Artyom Kuznetsov: /content
+[11:39:29] Carson Copper was killed by trigger_hurt
+[11:41:17] Carson Copper<STEAM_0:0:52468151> changed their name to CCA.C17-UNION.i3.93347
+[11:47:25] Dropped "CCA.C17-UNION.i3.93347" from server<STEAM_0:0:52468151>
+[12:00:36] FraZer<STEAM_0:0:457261159> changed their name to Teressa 'Tess' Richards
+[12:03:07] Client "Apollo7771FO3" connected.
+[12:05:30] Client "Apollo7771FO3" spawned in server <STEAM_0:1:40787669> (took 143 seconds).
+[12:09:46] Artyom Kuznetsov was killed by npc_zombine
+[12:10:00] Artyom Kuznetsov: /ooc what the fuck
+[12:10:11] Teressa 'Tess' Richards: /OOC ?
+[12:10:21] Artyom Kuznetsov: /ooc a combine zombie just suicide bombed me as i went around a corner
+[12:10:31] Teressa 'Tess' Richards: /OOC oh yeah they do that
+[12:10:45] Artyom Kuznetsov: /ooc i completely forgot they do that lmao
+[12:12:45] Teressa 'Tess' Richards: want some soap?
+[12:13:14] Teressa 'Tess' Richards: hey
+[12:13:17] Artyom Kuznetsov: Hey.
+[12:13:18] Teressa 'Tess' Richards: take this
+[12:13:25] Artyom Kuznetsov: Thanks.
+[12:13:34] Teressa 'Tess' Richards: better than being unarmed down here
+[12:15:19] Teressa 'Tess' Richards: these things hurt
+[12:15:23] Artyom Kuznetsov: Yeah, they do
+[12:15:28] Teressa 'Tess' Richards: /looc fast zombies go crazy
+[12:16:05] Teressa 'Tess' Richards: i'll lure it away
+[12:20:09] Teressa 'Tess' Richards was killed by npc_zombie
+[12:21:14] Artyom Kuznetsov was killed by npc_fastzombie
+[12:21:41] Artyom Kuznetsov: /ooc fast zombies are a fuckin pain
+[12:40:18] Apollo7771FO3<STEAM_0:1:40787669> changed their name to Todd Muller
+[12:42:37] Teressa 'Tess' Richards: /OOC E
+[12:42:42] Artyom Kuznetsov: /ooc EW
+[12:42:44] Artyom Kuznetsov: /ooc E
+[12:48:56] Client "DRD" connected.
+[12:51:21] Client "DRD" spawned in server <STEAM_0:0:193599766> (took 145 seconds).
+[12:55:23] DRD<STEAM_0:0:193599766> changed their name to Hollie Reynolds
+[12:55:44] Hollie Reynolds: // hmm
+[12:56:00] Hollie Reynolds: // my bar lost all the airvents
+[12:57:59] Hollie Reynolds<STEAM_0:0:193599766> changed their name to CCA.C17-GRID.i1.59212
+[13:01:12] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_c17/chair02a.mdl
+[13:01:15] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_combine/breenchair.mdl
+[13:01:20] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_combine/breenchair.mdl
+[13:01:47] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_junk/trafficcone001a.mdl
+[13:01:48] Dropped "Todd Muller" from server<STEAM_0:1:40787669>
+[13:01:52] CCA.C17-GRID.i1.59212: // f
+[13:01:55] Artyom Kuznetsov: /ooc G
+[13:02:09] Artyom Kuznetsov: Found this near one of the construction gates.
+[13:02:19] Client "matt saton" connected.
+[13:02:28] Artyom Kuznetsov: Not sure if you guys will get anything notable from it but.
+[13:02:30] CCA.C17-GRID.i1.59212: hm
+[13:02:37] CCA.C17-GRID.i1.59212: give me it
+[13:03:50] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 91 seconds).
+[13:04:37] matt saton<STEAM_0:1:53097688> changed their name to Anne Wayle
+[13:04:54] Anne Wayle: /plywhitelist artyom cac
+[13:05:00] Anne Wayle: /plywhitelist artyom alien
+[13:05:02] CCA.C17-GRID.i1.59212: // q the air vents and stools are gone from the drunken headcrab :(
+[13:05:04] Anne Wayle: /plywhitelist artyom bird
+[13:05:15] Anne Wayle: /chargiveflag artyom pet
+[13:05:32] Anne Wayle<STEAM_0:1:53097688> spawned sent ix_cidprinter
+[13:05:34] Anne Wayle<STEAM_0:1:53097688> spawned sent ix_airvent
+[13:05:35] Anne Wayle<STEAM_0:1:53097688> spawned sent ix_forcefield
+[13:05:36] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_furniture/cafe_barstool1.mdl
+[13:05:38] Artyom Kuznetsov: /ooc ty q
+[13:05:40] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_furniture/cafe_barstool1.mdl
+[13:05:45] Anne Wayle: //thank you!
+[13:05:48] Anne Wayle: /chargiveflag artyom osa
+[13:05:54] Anne Wayle: /chartakeflag artyom osa
+[13:05:59] Anne Wayle: /plywhitelist artyom artyom osa
+[13:06:03] Anne Wayle: /plywhitelist artyom osa
+[13:06:10] Anne Wayle: //so CAC is your stalker
+[13:06:15] Anne Wayle: //it's also your cremator
+[13:06:19] Anne Wayle: //OSA is your hunter
+[13:06:25] Anne Wayle: //alien is self explanatory
+[13:06:29] Anne Wayle: //and bird is for your advisor char
+[13:06:40] Artyom Kuznetsov: /ooc got it
+[13:06:48] Anne Wayle: //the limitations on the CWU perk are you have to tell staff you want the char to be CWU *before* you get your ID
+[13:07:13] Artyom Kuznetsov: /ooc i figured, i was probably gonna make a CWU character in a bit 
+[13:07:16] Anne Wayle: //once you get your ID, you can't use the perk
+[13:07:30] Anne Wayle: //wuntch i'm testing something with cca ca youy please hop on it
+[13:07:37] Anne Wayle<STEAM_0:1:53097688> spawned sent ix_airvent
+[13:07:40] CCA.C17-GRID.i1.59212: // im on it
+[13:07:47] Anne Wayle: //i mena on a new rct
+[13:07:58] Anne Wayle<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/combine_emitter01.mdl
+[13:08:06] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> changed their name to CCA.C17-RCT.52934
+[13:08:11] CCA.C17-RCT.52934: // h
+[13:08:19] Anne Wayle: /charsetname rct CCA.C17-QrM.52934
+[13:08:19] CCA.C17-RCT.52934<STEAM_0:0:193599766> changed their name to CCA.C17-QrM.52934
+[13:08:26] Anne Wayle: /charsetskin qrm 7
+[13:08:29] Anne Wayle teleported to CCA.C17-QrM.52934
+[13:08:32] CCA.C17-QrM.52934: // im red
+[13:08:36] Anne Wayle: /charsetskin qrm 4
+[13:08:39] Anne Wayle: /charsetskin qrm 9
+[13:08:45] CCA.C17-QrM.52934: // very cool
+[13:08:49] Anne Wayle: /charsetbodygroup qrm "cloak/summka" 1
+[13:09:00] CCA.C17-QrM.52934 suicided!
+[13:09:00] Anne Wayle slayed CCA.C17-QrM.52934
+[13:09:00] Anne Wayle: !slay qrm
+[13:09:06] CCA.C17-QrM.52934: // god killed me
+[13:09:07] Anne Wayle: /chareditbodygroup qrm
+[13:09:10] Artyom Kuznetsov: /ooc finally
+[13:09:24] CCA.C17-QrM.52934: // oh! spawns are fucked up
+[13:09:29] Anne Wayle: /spawnadd civil
+[13:09:30] Anne Wayle: /spawnadd civil
+[13:09:32] Anne Wayle: /spawnadd civil
+[13:09:35] Anne Wayle: /chareditbodygroup qrm
+[13:09:40] Anne Wayle: /spawnadd civil
+[13:09:42] Anne Wayle: /spawnadd civil
+[13:09:43] Anne Wayle: /spawnadd civil
+[13:09:46] Anne Wayle: /spawnadd civil
+[13:09:50] Anne Wayle: /spawnadd civil
+[13:09:56] CCA.C17-QrM.52934 suicided!
+[13:09:56] Anne Wayle slayed CCA.C17-QrM.52934
+[13:09:56] Anne Wayle: !slay qrm
+[13:10:28] Artyom Kuznetsov: /ooc when making a CAC character should i leave the name be and fill random shit for description or
+[13:10:50] Artyom Kuznetsov<STEAM_0:1:76095374> spawned model models/props_c17/furniturefridge001a.mdl
+[13:10:51] Anne Wayle: //leave the name be and set your description to what you want the char to be
+[13:10:58] Anne Wayle: //so if you plan on it being a crm, set it to the desc of a cremator
+[13:11:11] Artyom Kuznetsov<STEAM_0:1:76095374> spawned model models/props_c17/furnituresink001a.mdl
+[13:11:20] CCA.C17-QrM.52934: // set your description to be the description of the consul
+[13:11:35] CCA.C17-QrM.52934: /pm anne set my class to whatever lets me use the vendor
+[13:11:41] Artyom Kuznetsov: /ooc got it, ty
+[13:11:43] CCA.C17-QrM.52934: /pm anne please*
+[13:11:44] Anne Wayle: /charsetclass qrm armory
+[13:12:49] Anne Wayle<STEAM_0:1:53097688> spawned model models/props_warehouse/office_furniture_desk.mdl
+[13:13:18] Anne Wayle: //bruh the printer ent isn't in
+[13:13:18] Anne Wayle: //fig
+[13:13:19] Anne Wayle: //fug
+[13:14:21] Anne Wayle: //also i made the hospital nice
+[13:14:23] Artyom Kuznetsov<STEAM_0:1:76095374> changed their name to AWAITING ASSIGNMENT
+[13:14:38] Anne Wayle: //stalker or cremator?
+[13:14:38] AWAITING ASSIGNMENT: /ooc ayo third person hl2 gordon freeman model
+[13:14:41] AWAITING ASSIGNMENT: /ooc cremator
+[13:14:41] CCA.C17-QrM.52934<STEAM_0:0:193599766> changed their name to CCA.C17-GRID.i1.59212
+[13:14:46] Anne Wayle: /charsetclass assignment cremator
+[13:14:46] AWAITING ASSIGNMENT<STEAM_0:1:76095374> changed their name to CAC.C17-CRM.71096
+[13:14:56] Anne Wayle: /spawnadd cac creamtor
+[13:14:58] Anne Wayle: /spawnadd cac cremator
+[13:15:02] Anne Wayle: /spawnadd cac creamtor
+[13:15:07] CAC.C17-CRM.71096 suicided!
+[13:15:07] Anne Wayle slayed CAC.C17-CRM.71096
+[13:15:07] Anne Wayle: !slay crm
+[13:15:10] Anne Wayle: /spawnadd cac creamtor
+[13:15:12] Anne Wayle: /spawnadd cac creamtor
+[13:15:17] Anne Wayle: /spawnadd cac cremator
+[13:15:19] Anne Wayle: /spawnadd cac cremator
+[13:15:20] CAC.C17-CRM.71096: /ooc god has decided to deny living rights
+[13:15:31] Anne Wayle brought CAC.C17-CRM.71096
+[13:15:31] Anne Wayle: !bring crm
+[13:15:41] Anne Wayle: //left click is fire, right clcik is extignuisher
+[13:15:48] CAC.C17-CRM.71096: /ooc got it
+[13:16:10] Teressa 'Tess' Richards<STEAM_0:0:457261159> changed their name to Billy Bob
+[13:16:29] Billy Bob<STEAM_0:0:457261159> changed their name to Teressa 'Tess' Richards
+[13:16:42] CCA.C17-GRID.i1.59212: // DONT LIGHT ENTIRE BUILDINGS ON FIRE
+[13:16:56] CAC.C17-CRM.71096: /ooc arson isnt my main goal
+[13:16:58] CCA.C17-GRID.i1.59212: // it has happened before
+[13:17:01] Anne Wayle: //it's only a secondary goal
+[13:17:04] CCA.C17-GRID.i1.59212: // but it is mine
+[13:17:08] CAC.C17-CRM.71096: /ooc oh
+[13:17:28] CAC.C17-CRM.71096: /me stares at the figure for a few seconds, then over at the civilian.
+[13:17:43] CCA.C17-GRID.i1.59212: // god has decided to let me live another day, and i am going to make that your problem
+[13:17:50] CAC.C17-CRM.71096: /ooc o
+[13:18:03] CAC.C17-CRM.71096: /me walks away eventually.
+[13:18:29] CAC.C17-CRM.71096: /chardesc [ 7'6" | Standard Cremator Unit. ]
+[13:18:54] Anne Wayle: /spawnadd cac stalker
+[13:18:57] Anne Wayle: /spawnadd cac stalker
+[13:18:58] Anne Wayle: /spawnadd cac stalker
+[13:19:00] Anne Wayle: /spawnadd cac stalker
+[13:19:01] Anne Wayle: /spawnadd cac stalker
+[13:19:02] Anne Wayle: /spawnadd cac stalker
+[13:19:04] Anne Wayle: /spawnadd cac stalker
+[13:19:43] CAC.C17-CRM.71096: /me stares at the civilian.
+[13:20:08] Teressa 'Tess' Richards: /me gives the cremator unit a thumbs up.
+[13:20:20] Anne Wayle: //the best thing to do on cremator is just stare
+[13:20:29] CCA.C17-GRID.i1.59212: // yes
+[13:20:31] CAC.C17-CRM.71096: /ooc yes
+[13:20:31] Anne Wayle: //creep people out
+[13:20:40] CCA.C17-GRID.i1.59212: // im not going to lie
+[13:20:50] CCA.C17-GRID.i1.59212: // a cremator was a main plot point of a nightmare i had
+[13:21:00] CCA.C17-GRID.i1.59212: // what it did? idk i just remember a cremator being involved
+[13:21:06] CCA.C17-GRID.i1.59212: // they creep me the fuck out
+[13:21:13] Anne Wayle: //cremators are creepy as shit
+[13:21:17] Teressa 'Tess' Richards: /OOC but cremators are so harmless looking an innocent.
+[13:21:23] CCA.C17-GRID.i1.59212: // NO THEY'RE NOT
+[13:21:27] Anne Wayle: //yeah they have zero evil auras about them
+[13:21:45] Teressa 'Tess' Richards: /OOC cremators wouldn't hurt a fly
+[13:21:51] CCA.C17-GRID.i1.59212: // wellll
+[13:21:54] CAC.C17-CRM.71096: /ooc hmmmmmmmm
+[13:21:58] CCA.C17-GRID.i1.59212: // if that fly was on some garbage
+[13:22:14] Anne Wayle: //y'all really should check out the hospital doe
+[13:22:19] CAC.C17-CRM.71096: /ooc ok
+[13:22:21] CCA.C17-GRID.i1.59212: // meta?
+[13:22:27] CCA.C17-GRID.i1.59212: // oh q
+[13:22:31] Teressa 'Tess' Richards: /OOC sure i'm down for some metagaming
+[13:22:31] Anne Wayle: //i'm going to come by and stab one of you so you have to go to the hospital
+[13:22:36] Anne Wayle: //or i'll just drop a piano on you
+[13:22:37] CCA.C17-GRID.i1.59212: // can you put some air vents in the drunken headcrab
+[13:22:41] CAC.C17-CRM.71096: /ooc lmfao
+[13:22:46] Anne Wayle: //already did
+[13:22:50] CCA.C17-GRID.i1.59212: // oh cool
+[13:22:56] Anne Wayle<STEAM_0:1:53097688> spawned model models/props_furniture/piano.mdl
+[13:22:58] CAC.C17-CRM.71096: /ooc did you do apartments or do they not get em
+[13:23:01] CCA.C17-GRID.i1.59212: // i went on my cwu char and instantly started dying
+[13:23:15] Anne Wayle: //did what
+[13:23:17] Teressa 'Tess' Richards: /OOC o a piano just fell on my head, guess i'll go to the hospital
+[13:23:28] CAC.C17-CRM.71096: /ooc put vents in apartments
+[13:23:38] Anne Wayle: //not yet, the citizen air vent for some resaon isn't in
+[13:23:57] CCA.C17-GRID.i1.59212: .// very cool
+[13:24:00] CAC.C17-CRM.71096: /looc here to check it out and leave
+[13:24:01] Anne Wayle<STEAM_0:1:53097688> spawned sent ix_unionlock
+[13:24:07] CAC.C17-CRM.71096: /looc holy fuck its bright
+[13:24:11] CCA.C17-GRID.i1.59212: .// crm needs medical attention
+[13:24:22] CAC.C17-CRM.71096: /looc yea im here about my breathing problems again
+[13:24:32] Anne Wayle: .//vader syndrome
+[13:24:39] Teressa 'Tess' Richards: /looc i'd thought it would be for your skin condition
+[13:24:52] CCA.C17-GRID.i1.59212: ././ wait
+[13:24:54] CAC.C17-CRM.71096: /looc doctors said its fine
+[13:24:54] CCA.C17-GRID.i1.59212: .// wait
+[13:24:59] CAC.C17-CRM.71096: /looc yo
+[13:25:01] CCA.C17-GRID.i1.59212: // do cremators have blood
+[13:25:09] Anne Wayle: //no
+[13:25:16] CCA.C17-GRID.i1.59212: // why is there a red scab
+[13:25:16] Teressa 'Tess' Richards: /looc skinny arms
+[13:25:21] Anne Wayle: //did you know cremator heads are made by child slaves
+[13:25:33] CAC.C17-CRM.71096: /looc bro cremators have the exact same arm thing i got going on
+[13:25:39] CAC.C17-CRM.71096: /looc am i becoming an irl cremator
+[13:25:40] Anne Wayle: .//pale and skinny
+[13:25:50] CAC.C17-CRM.71096: /looc besides the pale
+[13:25:59] CCA.C17-GRID.i1.59212: .// crm arms look like they'd sna like a twig
+[13:26:02] Anne Wayle<STEAM_0:1:53097688> spawned/gave himself swep weapon_shotgun
+[13:26:02] Anne Wayle: /toggleraise
+[13:26:06] Teressa 'Tess' Richards: /looc just gotta be like 6,10 and you'll be a cremator
+[13:26:07] Anne Wayle<STEAM_0:1:53097688> spawned model models/props_furniture/piano.mdl
+[13:26:16] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_furniture/piano.mdl
+[13:26:16] Anne Wayle<STEAM_0:1:53097688> spawned model models/props_furniture/piano.mdl
+[13:26:17] CAC.C17-CRM.71096: /looc ok i guess i need medical attention
+[13:26:17] CAC.C17-CRM.71096 was killed by prop_physics
+[13:26:21] Teressa 'Tess' Richards: /charfallover
+[13:26:24] CAC.C17-CRM.71096: /looc ok i guess im dead
+[13:26:25] Anne Wayle: !bring crm
+[13:26:27] Anne Wayle: !bring crm
+[13:26:27] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_furniture/piano.mdl
+[13:26:28] Anne Wayle brought CAC.C17-CRM.71096
+[13:26:28] Anne Wayle: !bring crm
+[13:26:28] CCA.C17-GRID.i1.59212 was killed by prop_physics
+[13:26:34] Teressa 'Tess' Richards: /looc lol
+[13:26:35] Anne Wayle: !Bring i1
+[13:26:38] Anne Wayle: !Bring i1
+[13:26:39] Anne Wayle brought CCA.C17-GRID.i1.59212
+[13:26:39] Anne Wayle: !Bring i1
+[13:26:58] CCA.C17-GRID.i1.59212: // i didnt think that through, now i need ammo
+[13:27:06] Anne Wayle: !giveammo i2 24
+[13:27:06] CAC.C17-CRM.71096: /ooc lmfao
+[13:27:10] Anne Wayle gave CCA.C17-GRID.i1.59212 24 rounds
+[13:27:10] Anne Wayle: !giveammo i1 24
+[13:27:15] Anne Wayle gave CCA.C17-GRID.i1.59212 75 rounds
+[13:27:15] Anne Wayle: !giveammo i1 75
+[13:27:31] CCA.C17-GRID.i1.59212: /toggleraise
+[13:27:34] CCA.C17-GRID.i1.59212: citizen
+[13:27:36] CCA.C17-GRID.i1.59212: wall
+[13:27:37] CCA.C17-GRID.i1.59212: now
+[13:27:49] CAC.C17-CRM.71096: /me stares.
+[13:27:52] Anne Wayle<STEAM_0:1:53097688> spawned/gave himself swep weapon_egon
+[13:27:52] Anne Wayle: /toggleraise
+[13:27:54] CCA.C17-GRID.i1.59212: /me stares
+[13:27:57] CCA.C17-GRID.i1.59212: /rollstat str
+[13:27:58] Anne Wayle: /y hey gus wannasee my new vacuum cleaner
+[13:28:05] CCA.C17-GRID.i1.59212: .// i stared really good
+[13:28:14] CAC.C17-CRM.71096: /looc holy fuck your arm broke using that
+[13:28:14] Teressa 'Tess' Richards: really cleans up the place
+[13:28:29] CCA.C17-GRID.i1.59212: nice
+[13:28:34] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_interiors/coffee_maker.mdl
+[13:28:36] CAC.C17-CRM.71096: /me stares in approval.
+[13:28:47] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_c17/bench01a.mdl
+[13:28:51] Anne Wayle<STEAM_0:1:53097688> spawned/gave himself swep weapon_9mmhandgun
+[13:28:52] Anne Wayle<STEAM_0:1:53097688> spawned/gave himself swep weapon_chumtoad
+[13:28:52] Anne Wayle: /toggleraise
+[13:29:07] CCA.C17-GRID.i1.59212: // make a chumtoad an item pls
+[13:29:12] Anne Wayle: //frogge
+[13:29:16] CCA.C17-GRID.i1.59212: // FROGGE
+[13:29:16] Teressa 'Tess' Richards: /looc pretty sire it is
+[13:29:50] Anne Wayle: /toggleraise
+[13:29:51] Anne Wayle: /toggleraise
+[13:29:53] Anne Wayle<STEAM_0:1:53097688> spawned/gave himself swep weapon_penguin
+[13:29:53] Anne Wayle: /toggleraise
+[13:30:05] CAC.C17-CRM.71096: /ooc i wait for snark invasion rp
+[13:30:18] CCA.C17-GRID.i1.59212: /toggleraise
+[13:30:21] Anne Wayle suicided!
+[13:30:23] CAC.C17-CRM.71096: /ooc those-
+[13:30:24] CAC.C17-CRM.71096: /ooc hm
+[13:30:28] Teressa 'Tess' Richards: he's dead
+[13:30:42] CAC.C17-CRM.71096: /me stares at the explosion mark.
+[13:30:48] Anne Wayle<STEAM_0:1:53097688> changed their name to Marliu
+[13:30:52] Teressa 'Tess' Richards: strider
+[13:30:57] Marliu<STEAM_0:1:53097688> spawned/gave himself swep weapon_barnacle
+[13:30:58] Marliu: /toggleraise
+[13:31:01] Marliu<STEAM_0:1:53097688> spawned sent ix_vendingmachine
+[13:31:05] Teressa 'Tess' Richards: good god
+[13:31:16] Marliu<STEAM_0:1:53097688> used the tool permaprops on maps/rp_i17_variation_v0.bsp
+[13:31:23] Marliu cleared decals
+[13:31:23] Marliu: !cleardecals
+[13:31:29] Marliu<STEAM_0:1:53097688> spawned NPC monster_bullsquid
+[13:31:41] Marliu<STEAM_0:1:53097688> spawned NPC npc_turret_floor
+[13:31:49] CCA.C17-GRID.i1.59212: /toggleraise
+[13:31:50] Marliu: //yay! my blood is ylelo1
+[13:31:53] CAC.C17-CRM.71096: /ooc snark character option when?
+[13:31:58] CCA.C17-GRID.i1.59212: /toggleraise
+[13:32:03] Marliu<STEAM_0:1:53097688> changed their name to Lee Maylor
+[13:32:10] CCA.C17-GRID.i1.59212 killed Teressa 'Tess' Richards using ix_hands
+[13:32:14] CCA.C17-GRID.i1.59212: /toggleraise
+[13:32:37] Lee Maylor<STEAM_0:1:53097688> spawned NPC monster_alien_snark
+[13:32:38] Lee Maylor<STEAM_0:1:53097688> spawned NPC monster_alien_snark
+[13:32:39] Lee Maylor<STEAM_0:1:53097688> spawned NPC monster_alien_snark
+[13:32:40] Lee Maylor<STEAM_0:1:53097688> spawned NPC monster_alien_snark
+[13:32:42] Lee Maylor<STEAM_0:1:53097688> spawned NPC monster_alien_snark
+[13:32:44] Lee Maylor<STEAM_0:1:53097688> spawned NPC monster_alien_snark
+[13:32:45] Lee Maylor<STEAM_0:1:53097688> spawned NPC monster_alien_snark
+[13:32:46] Lee Maylor<STEAM_0:1:53097688> spawned NPC monster_alien_snark
+[13:32:48] Lee Maylor<STEAM_0:1:53097688> spawned NPC monster_alien_snark
+[13:32:50] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on maps/rp_i17_variation_v0.bsp
+[13:32:50] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on maps/rp_i17_variation_v0.bsp
+[13:32:51] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on maps/rp_i17_variation_v0.bsp
+[13:32:51] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on maps/rp_i17_variation_v0.bsp
+[13:32:52] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/half-life/snark.mdl
+[13:32:52] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/half-life/snark.mdl
+[13:32:53] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/half-life/snark.mdl
+[13:32:54] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on maps/rp_i17_variation_v0.bsp
+[13:32:56] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on maps/rp_i17_variation_v0.bsp
+[13:32:57] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/half-life/snark.mdl
+[13:32:58] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/half-life/snark.mdl
+[13:32:59] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/half-life/snark.mdl
+[13:33:02] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/half-life/snark.mdl
+[13:33:03] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on maps/rp_i17_variation_v0.bsp
+[13:33:04] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on maps/rp_i17_variation_v0.bsp
+[13:33:05] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/half-life/snark.mdl
+[13:33:13] Lee Maylor: //hey so you know how i'm worse than hitler
+[13:33:18] CAC.C17-CRM.71096: /ooc oh no
+[13:33:20] CCA.C17-GRID.i1.59212: // yep
+[13:33:27] CCA.C17-GRID.i1.59212: // i am hit;er
+[13:33:29] CCA.C17-GRID.i1.59212: // i am hitler
+[13:33:29] Lee Maylor: //oh no is the correct response
+[13:33:35] CCA.C17-GRID.i1.59212: // i am canonically hitler
+[13:33:44] Lee Maylor<STEAM_0:1:53097688> spawned model models/jq/hlvr/props/xenpack/xen_flower001_tendril_large.mdl
+[13:34:00] Lee Maylor: //btw any time i passed a xen light in hl:a i would fondle it
+[13:34:08] Lee Maylor<STEAM_0:1:53097688> spawned model models/jq/hlvr/props/xenpack/xen_leaking_fluid_hardened_cluster_1.mdl
+[13:34:11] Lee Maylor<STEAM_0:1:53097688> spawned model models/jq/hlvr/props/infestation/p1/xen_lamp_plant.mdl
+[13:34:12] CCA.C17-GRID.i1.59212: // what
+[13:34:16] CAC.C17-CRM.71096: /ooc ze fak
+[13:34:17] Lee Maylor: //you hear d me
+[13:34:23] Lee Maylor<STEAM_0:1:53097688> spawned model models/jq/hlvr/props/xenpack/xen_flower004.mdl
+[13:34:24] Lee Maylor<STEAM_0:1:53097688> spawned model models/jq/hlvr/props/xenpack/xen_bz_coralearpod01.mdl
+[13:34:27] Lee Maylor<STEAM_0:1:53097688> spawned model models/jq/hlvr/props/xenpack/xen_floor_wall002_wide_flat.mdl
+[13:34:30] Lee Maylor<STEAM_0:1:53097688> spawned model models/jq/hlvr/props/xenpack/xen_leaking_fluid_hardened_cluster_1.mdl
+[13:34:31] Lee Maylor<STEAM_0:1:53097688> spawned model models/jq/hlvr/props/xenpack/xen_tendril_03.mdl
+[13:34:33] Lee Maylor<STEAM_0:1:53097688> spawned model models/jq/hlvr/props/xenpack/xen_tendril_02.mdl
+[13:34:33] CAC.C17-CRM.71096: /me stares.
+[13:34:36] Lee Maylor<STEAM_0:1:53097688> spawned model models/jq/hlvr/props/xenpack/xen_web_corner_small003.mdl
+[13:34:40] Lee Maylor<STEAM_0:1:53097688> spawned model models/jq/hlvr/props/infestation/p1/plant1a.mdl
+[13:34:45] Lee Maylor<STEAM_0:1:53097688> spawned model models/jq/hlvr/props/infestation/p1/plant1a.mdl
+[13:34:54] Lee Maylor: //i enjoyed it
+[13:34:56] Lee Maylor<STEAM_0:1:53097688> spawned model models/jq/hlvr/props/xenpack/xen_floor_ceiling001.mdl
+[13:34:56] CAC.C17-CRM.71096: /ooc if nord pops up again asking me to update im gonna cry
+[13:35:00] Lee Maylor<STEAM_0:1:53097688> spawned model models/jq/hlvr/props/xenpack/xen_floor_ceiling001.mdl
+[13:35:16] Lee Maylor: //nordvpn.com/projrev when
+[13:35:26] Lee Maylor<STEAM_0:1:53097688> spawned model models/jq/hlvr/props/xenpack/xen_plant_4_head_2.mdl
+[13:35:27] Lee Maylor<STEAM_0:1:53097688> spawned model models/jq/hlvr/props/xenpack/xen_pod_structure001.mdl
+[13:35:33] Lee Maylor<STEAM_0:1:53097688> spawned effect models/jq/hlvr/props/xenpack/xen_a3_pitwall_lod1.mdl
+[13:35:34] CAC.C17-CRM.71096: /ooc make it so only nordvpn-protected users can connect
+[13:35:38] CAC.C17-CRM.71096: /ooc ez 
+[13:35:40] Lee Maylor<STEAM_0:1:53097688> spawned model models/jq/hlvr/props/infestationv2/xen_v2_clam.mdl
+[13:35:43] Lee Maylor<STEAM_0:1:53097688> spawned model models/jq/hlvr/props/xenpack/xen_floor_ceiling001.mdl
+[13:35:53] Lee Maylor<STEAM_0:1:53097688> spawned model models/jq/hlvr/props/xenpack/xen_flower001_tendril_small.mdl
+[13:35:55] Lee Maylor<STEAM_0:1:53097688> spawned model models/jq/hlvr/props/xenpack/xen_flower001_tendril_smaller.mdl
+[13:35:58] Lee Maylor<STEAM_0:1:53097688> spawned model models/jq/hlvr/props/xenpack/xen_antlion_cluster001.mdl
+[13:36:05] Lee Maylor<STEAM_0:1:53097688> spawned effect models/jq/hlvr/props/infestation/dead_body/xen_dead_body.mdl
+[13:36:20] Lee Maylor<STEAM_0:1:53097688> spawned model models/jq/hlvr/props/xenpack/xen_wall_mass001.mdl
+[13:36:27] Lee Maylor<STEAM_0:1:53097688> spawned model models/jq/hlvr/props/xenpack/xen_tendril_03.mdl
+[13:36:30] Lee Maylor<STEAM_0:1:53097688> spawned model models/jq/hlvr/props/xenpack/xen_bud001.mdl
+[13:36:34] Lee Maylor<STEAM_0:1:53097688> spawned effect models/jq/hlvr/props/xenpack/xen_barrel_tendrils.mdl
+[13:36:41] Lee Maylor<STEAM_0:1:53097688> spawned model models/jq/hlvr/props/xenpack/xen_vort_plant.mdl
+[13:36:43] Lee Maylor<STEAM_0:1:53097688> spawned model models/jq/hlvr/props/xenpack/xen_strand_anchor007.mdl
+[13:36:44] Lee Maylor<STEAM_0:1:53097688> spawned model models/jq/hlvr/props/xenpack/xen_strand_anchor006.mdl
+[13:36:45] Lee Maylor<STEAM_0:1:53097688> spawned model models/jq/hlvr/props/xenpack/xen_strand_anchor005.mdl
+[13:36:46] Lee Maylor<STEAM_0:1:53097688> spawned model models/jq/hlvr/props/xenpack/xen_strand_anchor003.mdl
+[13:36:48] Lee Maylor<STEAM_0:1:53097688> spawned model models/jq/hlvr/props/xenpack/xen_flower001_tendril_small.mdl
+[13:36:49] Lee Maylor<STEAM_0:1:53097688> spawned model models/jq/hlvr/props/xenpack/xen_antlion_cluster001.mdl
+[13:36:58] Lee Maylor<STEAM_0:1:53097688> spawned model models/jq/hlvr/props/xenpack/xen_plant_4_head_2.mdl
+[13:37:00] Lee Maylor<STEAM_0:1:53097688> spawned model models/jq/hlvr/props/xenpack/xen_cluster007.mdl
+[13:37:04] Lee Maylor<STEAM_0:1:53097688> spawned model models/jq/hlvr/props/infestation/p1/xen_grenade_plant.mdl
+[13:37:09] Lee Maylor: //fondle fondle
+[13:37:16] Teressa 'Tess' Richards: /OOC o
+[13:37:16] Lee Maylor<STEAM_0:1:53097688> spawned model models/jq/hlvr/props/xenpack/xen_bz_coralearpod01.mdl
+[13:37:29] Lee Maylor: //i did do that though
+[13:37:31] Lee Maylor<STEAM_0:1:53097688> spawned model models/jq/hlvr/props/xenpack/xen_spore001.mdl
+[13:37:44] CCA.C17-GRID.i1.59212: // can we get a demonstration
+[13:37:47] Lee Maylor<STEAM_0:1:53097688> spawned model models/jq/hlvr/props/xenpack/xen_wall_mass001.mdl
+[13:37:58] Lee Maylor<STEAM_0:1:53097688> spawned model models/jq/hlvr/props/infestation/p1/boomerplant_exploded.mdl
+[13:38:03] Lee Maylor<STEAM_0:1:53097688> spawned model models/jq/hlvr/props/xenpack/xen_headcrab_cluster002.mdl
+[13:38:07] Lee Maylor<STEAM_0:1:53097688> spawned model models/jq/hlvr/props/xenpack/xen_bulb002.mdl
+[13:38:09] Lee Maylor<STEAM_0:1:53097688> spawned model models/jq/hlvr/props/xenpack/xen_clusterpod_008.mdl
+[13:38:11] Lee Maylor<STEAM_0:1:53097688> spawned model models/jq/hlvr/props/xenpack/xen_pod_structure001.mdl
+[13:38:12] Lee Maylor<STEAM_0:1:53097688> spawned model models/jq/hlvr/props/xenpack/xen_plant_4_head_2.mdl
+[13:38:13] Lee Maylor<STEAM_0:1:53097688> spawned model models/jq/hlvr/props/xenpack/xen_flat_blob01.mdl
+[13:38:16] Lee Maylor<STEAM_0:1:53097688> spawned model models/jq/hlvr/props/xenpack/xen_flat_blob01_barrel_mush01.mdl
+[13:38:23] Lee Maylor<STEAM_0:1:53097688> spawned model models/jq/hlvr/props/xenpack/xen_strand_anchor005.mdl
+[13:38:27] Lee Maylor<STEAM_0:1:53097688> spawned model models/jq/hlvr/props/xenpack/xen_wall_mass001.mdl
+[13:38:29] Lee Maylor<STEAM_0:1:53097688> spawned model models/jq/hlvr/props/xenpack/xen_bulb001.mdl
+[13:38:43] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on maps/rp_i17_variation_v0.bsp
+[13:38:48] Lee Maylor: /adminspawnmenu
+[13:39:21] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on maps/rp_i17_variation_v0.bsp
+[13:39:28] Lee Maylor was killed by monster_alien_snark
+[13:39:53] Lee Maylor set the hp for Themself to 99999999
+[13:39:53] Lee Maylor: !Hp ^ 99999999
+[13:39:57] Lee Maylor: /adminspawnmenu
+[13:40:00] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_c17/playgroundtick-tack-toe_block01a.mdl
+[13:41:05] Lee Maylor: /chargiveitem maylor zip 3
+[13:41:12] Lee Maylor: /adminspawnmenu
+[13:41:59] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on maps/rp_i17_variation_v0.bsp
+[13:42:17] Lee Maylor: //i have one more order of business
+[13:42:30] Lee Maylor: //but i forgot what it was
+[13:42:40] CCA.C17-GRID.i1.59212: // giving us all admin? great
+[13:43:08] CAC.C17-CRM.71096<STEAM_0:1:76095374> changed their name to "Wilbur"
+[13:43:14] "Wilbur": /ooc oh fuck yea
+[13:43:40] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on maps/rp_i17_variation_v0.bsp
+[13:43:58] CCA.C17-GRID.i1.59212: /toggleraise
+[13:44:02] CCA.C17-GRID.i1.59212 killed "Wilbur" using ix_hands
+[13:44:04] CCA.C17-GRID.i1.59212: /toggleraise
+[13:44:04] Teressa 'Tess' Richards: /me rides the bird.
+[13:44:06] "Wilbur": /ooc hm
+[13:44:07] Teressa 'Tess' Richards: /it or not
+[13:44:25] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> changed their name to Charlie
+[13:44:58] Lee Maylor: //i put chumtoad spawns like everywhere
+[13:45:08] "Wilbur": /ooc c h u m t o a d
+[13:45:13] Charlie<STEAM_0:0:193599766> changed their name to Hollie Reynolds
+[13:45:20] Hollie Reynolds: // time to get my stuff delivered
+[13:45:26] Lee Maylor<STEAM_0:1:53097688> spawned NPC monster_hound_eye
+[13:46:25] Hollie Reynolds: // furniture store not open :(
+[13:46:31] Teressa 'Tess' Richards: /OOC =(
+[13:46:47] Teressa 'Tess' Richards: /charfallover
+[13:46:53] Hollie Reynolds: // Q
+[13:46:59] "Wilbur": /looc hm
+[13:47:05] Teressa 'Tess' Richards: /me bodyslams bird
+[13:47:11] Teressa 'Tess' Richards: /roll 
+[13:47:19] "Wilbur": /me attempts to fly out of the pathway.
+[13:47:21] "Wilbur": /roll agi
+[13:47:24] Teressa 'Tess' Richards: /charfallover
+[13:47:43] Teressa 'Tess' Richards: lucky
+[13:48:24] Lee Maylor: //what was it that light metagamed yesterday
+[13:48:26] Lee Maylor: //i forgot
+[13:48:34] Lee Maylor: //oh right hte tunndl
+[13:48:37] Hollie Reynolds: // i think you said a base?
+[13:48:42] Hollie Reynolds: // oh
+[13:49:07] Hollie Reynolds: // q open ur furniturestore, no meta
+[13:49:14] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_office/desk_01.mdl
+[13:49:36] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_office/desk_01.mdl
+[13:49:53] Hollie Reynolds<STEAM_0:0:193599766> spawned model models/props_c17/playground_jungle_gym01a.mdl
+[13:49:53] Lee Maylor<STEAM_0:1:53097688> used the tool ledscreen on maps/rp_i17_variation_v0.bsp
+[13:49:54] Lee Maylor<STEAM_0:1:53097688> used the tool ledscreen on maps/rp_i17_variation_v0.bsp
+[13:49:56] Lee Maylor<STEAM_0:1:53097688> used the tool ledscreen on maps/rp_i17_variation_v0.bsp
+[13:49:57] Lee Maylor<STEAM_0:1:53097688> used the tool ledscreen on maps/rp_i17_variation_v0.bsp
+[13:49:58] Lee Maylor<STEAM_0:1:53097688> used the tool ledscreen on maps/rp_i17_variation_v0.bsp
+[13:49:59] Lee Maylor<STEAM_0:1:53097688> used the tool ledscreen on maps/rp_i17_variation_v0.bsp
+[13:50:04] Lee Maylor<STEAM_0:1:53097688> used the tool ledscreen on maps/rp_i17_variation_v0.bsp
+[13:50:05] Lee Maylor<STEAM_0:1:53097688> used the tool ledscreen on maps/rp_i17_variation_v0.bsp
+[13:50:06] Lee Maylor<STEAM_0:1:53097688> used the tool ledscreen on maps/rp_i17_variation_v0.bsp
+[13:50:09] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/squad/sf_plates/sf_plate1x7.mdl
+[13:50:22] Lee Maylor: /me doesn't resist being tied, searched or anything. They are completely compliant given that the situation does not escalate.
+[13:50:26] Lee Maylor: //okay homework and shit time
+[13:50:27] Lee Maylor: //back alter
+[13:50:31] Dropped "Lee Maylor" from server<STEAM_0:1:53097688>
+[13:50:32] Hollie Reynolds: // MY FURNITURE
+
+
+
+[13:54:36] New map: rp_i17_variation_v0
+[13:54:46] Client "elkay" connected.
+[13:55:56] Client "elkay" spawned in server <STEAM_0:1:76095374> (took 70 seconds).
+[13:56:37] elkay<STEAM_0:1:76095374> changed their name to "Wilbur"
+[14:03:33] "Wilbur"<STEAM_0:1:76095374> changed their name to Artyom Kuznetsov
+[14:03:47] Artyom Kuznetsov<STEAM_0:1:76095374> spawned model models/props_c17/furniturecouch001a.mdl
+[14:05:01] Artyom Kuznetsov<STEAM_0:1:76095374> spawned model models/props_junk/cardboard_box001a.mdl
+[14:05:08] Artyom Kuznetsov<STEAM_0:1:76095374> spawned model models/props_junk/cardboard_box001b.mdl
+[14:05:45] Client "FraZer" connected.
+[14:05:50] Artyom Kuznetsov<STEAM_0:1:76095374> spawned model models/props_interiors/vendingmachinesoda01a_door.mdl
+[14:05:52] Artyom Kuznetsov<STEAM_0:1:76095374> spawned model models/props_interiors/vendingmachinesoda01a.mdl
+[14:05:59] Artyom Kuznetsov<STEAM_0:1:76095374> used the tool ledscreen on maps/rp_i17_variation_v0.bsp
+[14:06:04] Artyom Kuznetsov<STEAM_0:1:76095374> used the tool ledscreen on maps/rp_i17_variation_v0.bsp
+[14:06:09] Artyom Kuznetsov<STEAM_0:1:76095374> used the tool ledscreen on maps/rp_i17_variation_v0.bsp
+[14:07:27] Artyom Kuznetsov<STEAM_0:1:76095374> used the tool textscreen on maps/rp_i17_variation_v0.bsp
+[14:07:45] Client "FraZer" spawned in server <STEAM_0:0:457261159> (took 120 seconds).
+[14:08:46] Artyom Kuznetsov<STEAM_0:1:76095374> spawned model models/mechanics/robotics/a1.mdl
+[14:09:03] Artyom Kuznetsov<STEAM_0:1:76095374> spawned model models/items/battery.mdl
+[14:09:04] Artyom Kuznetsov<STEAM_0:1:76095374> spawned model models/items/battery.mdl
+[14:09:08] Artyom Kuznetsov<STEAM_0:1:76095374> spawned model models/items/car_battery01.mdl
+[14:09:28] Artyom Kuznetsov<STEAM_0:1:76095374> spawned model models/props_furniture/picture_frame8.mdl
+[14:09:41] Artyom Kuznetsov<STEAM_0:1:76095374> spawned model models/props_furniture/picture_frame8.mdl
+[14:10:12] Artyom Kuznetsov<STEAM_0:1:76095374> used the tool cpoutfit on models/props_furniture/picture_frame8.mdl
+[14:10:14] Artyom Kuznetsov<STEAM_0:1:76095374> used the tool cpoutfit on models/props_furniture/picture_frame8.mdl
+[14:10:14] Artyom Kuznetsov<STEAM_0:1:76095374> used the tool cpoutfit on models/props_furniture/picture_frame8.mdl
+[14:10:14] Artyom Kuznetsov<STEAM_0:1:76095374> used the tool cpoutfit on models/props_furniture/picture_frame8.mdl
+[14:10:20] Artyom Kuznetsov<STEAM_0:1:76095374> used the tool cpoutfit on models/props_furniture/picture_frame8.mdl
+[14:10:27] Artyom Kuznetsov<STEAM_0:1:76095374> used the tool cpoutfit on models/props_furniture/picture_frame8.mdl
+[14:10:31] Artyom Kuznetsov<STEAM_0:1:76095374> used the tool cpoutfit on models/props_furniture/picture_frame8.mdl
+[14:11:09] Artyom Kuznetsov<STEAM_0:1:76095374> spawned model models/props_lab/clipboard.mdl
+[14:11:15] Artyom Kuznetsov<STEAM_0:1:76095374> spawned model models/props_junk/garbage128_composite001b.mdl
+[14:11:17] Artyom Kuznetsov<STEAM_0:1:76095374> spawned model models/props_junk/garbage256_composite002a.mdl
+[14:11:23] Artyom Kuznetsov<STEAM_0:1:76095374> spawned model models/nova/airboat_seat.mdl
+[14:11:28] Artyom Kuznetsov<STEAM_0:1:76095374> spawned model models/maxofs2d/companion_doll.mdl
+[14:11:40] Artyom Kuznetsov<STEAM_0:1:76095374> spawned model models/props_c17/gate_door02a.mdl
+[14:11:43] Artyom Kuznetsov<STEAM_0:1:76095374> spawned model models/props_c17/canister_propane01a.mdl
+[14:12:10] Artyom Kuznetsov<STEAM_0:1:76095374> spawned model models/hlvr/characters/combine_captain/torch/captain_torch_hlvr.mdl
+[14:12:21] Artyom Kuznetsov<STEAM_0:1:76095374> spawned model models/items/ammobox.mdl
+[14:12:24] Artyom Kuznetsov<STEAM_0:1:76095374> spawned model models/deadbodies/dead_male_civilian_radio.mdl
+[14:12:29] Artyom Kuznetsov<STEAM_0:1:76095374> spawned model models/gibs/humans/brain_gib.mdl
+[14:12:33] Artyom Kuznetsov<STEAM_0:1:76095374> spawned model models/vj_weapons/w_glock.mdl
+[14:12:42] Artyom Kuznetsov<STEAM_0:1:76095374> spawned model models/weapons/w_packatp.mdl
+[14:12:50] Artyom Kuznetsov<STEAM_0:1:76095374> spawned model models/weapons/w_packatb.mdl
+[14:12:53] Artyom Kuznetsov<STEAM_0:1:76095374> spawned model models/weapons/w_packatc.mdl
+[14:12:56] Artyom Kuznetsov<STEAM_0:1:76095374> spawned model models/weapons/w_packate.mdl
+[14:12:58] Artyom Kuznetsov<STEAM_0:1:76095374> spawned model models/weapons/w_packati.mdl
+[14:13:01] Artyom Kuznetsov<STEAM_0:1:76095374> spawned model models/weapons/w_packatl.mdl
+[14:13:07] Artyom Kuznetsov<STEAM_0:1:76095374> spawned model models/weapons/w_packatm.mdl
+[14:13:12] Artyom Kuznetsov<STEAM_0:1:76095374> spawned model models/weapons/w_packatp.mdl
+[14:13:19] Artyom Kuznetsov<STEAM_0:1:76095374> spawned model models/probs_misc/tobccco_box-1.mdl
+[14:13:34] Artyom Kuznetsov<STEAM_0:1:76095374> spawned model models/pg_plops/pg_food/pg_tortellinas.mdl
+[14:13:38] Artyom Kuznetsov<STEAM_0:1:76095374> spawned model models/bioshockinfinite/bag_of_hhips.mdl
+[14:13:44] Artyom Kuznetsov<STEAM_0:1:76095374> spawned model models/closedboxshin.mdl
+[14:13:50] Artyom Kuznetsov<STEAM_0:1:76095374> spawned model models/bioshockinfinite/hext_apple.mdl
+[14:13:57] Artyom Kuznetsov<STEAM_0:1:76095374> spawned model models/gibs/props_canteen/vm_sneckol.mdl
+[14:14:02] FraZer<STEAM_0:0:457261159> changed their name to Teressa 'Tess' Richards
+[14:14:05] Artyom Kuznetsov<STEAM_0:1:76095374> spawned model models/pg_plops/pg_food/pg_tortellinat.mdl
+[14:14:19] Artyom Kuznetsov<STEAM_0:1:76095374> spawned model models/props/apoc/vendingmachine.mdl
+[14:14:21] Artyom Kuznetsov<STEAM_0:1:76095374> spawned model models/props/industrial17/arcademachine.mdl
+[14:14:32] Artyom Kuznetsov<STEAM_0:1:76095374> spawned model models/props_lab/citizenradio.mdl
+[14:14:50] Artyom Kuznetsov<STEAM_0:1:76095374> spawned model models/items/crafting_metal/resin_puck03.mdl
+[14:14:52] Artyom Kuznetsov<STEAM_0:1:76095374> spawned model models/items/crafting_metal/resin_puck01.mdl
+[14:14:54] Artyom Kuznetsov<STEAM_0:1:76095374> spawned model models/items/crafting_metal/resin_puck_stack.mdl
+[14:14:55] Artyom Kuznetsov<STEAM_0:1:76095374> spawned model models/items/crafting_metal/resin_puck_stack.mdl
+[14:15:15] Artyom Kuznetsov<STEAM_0:1:76095374> spawned model models/cloud/dragshield.mdl
+[14:15:17] Artyom Kuznetsov<STEAM_0:1:76095374> spawned model models/cloud/ballisticshield_mod.mdl
+[14:15:32] Artyom Kuznetsov<STEAM_0:1:76095374> spawned model models/dorado/tarjetazero.mdl
+[14:21:23] Teressa 'Tess' Richards: u
+[14:24:22] Dropped "Artyom Kuznetsov" from server<STEAM_0:1:76095374>
+[14:26:50] Dropped "Teressa 'Tess' Richards" from server<STEAM_0:0:457261159>
+[14:57:34] Client "shereedaniellelopez" connected.
+[15:02:41] Client "shereedaniellelopez" spawned in server <STEAM_0:1:573302688> (took 307 seconds).
+[15:05:41] shereedaniellelopez<STEAM_0:1:573302688> changed their name to DANNY
+[15:06:40] Dropped "DANNY" from server<STEAM_0:1:573302688>
+[15:39:41] Client "DRD" connected.
+[15:43:17] Client "DRD" spawned in server <STEAM_0:0:193599766> (took 216 seconds).
+[15:45:18] Client "Apollo7771FO3" connected.
+[15:48:20] Dropped "DRD" from server<STEAM_0:0:193599766>
+[15:48:37] Client "Apollo7771FO3" spawned in server <STEAM_0:1:40787669> (took 199 seconds).
+[15:50:59] Dropped "Apollo7771FO3" from server<STEAM_0:1:40787669>
+[16:11:21] Client "poggers" connected.
+[16:15:47] Client "poggers" spawned in server <STEAM_0:1:513914177> (took 266 seconds).
+[16:17:46] poggers<STEAM_0:1:513914177> changed their name to Johnny Benson
+[16:18:41] Johnny Benson<STEAM_0:1:513914177> changed their name to Kane Habuto
+[16:19:04] Kane Habuto: /charfallover .1
+[16:19:14] Kane Habuto: /charfallover .1
+[16:19:17] Kane Habuto: /charfallover .1
+[16:19:20] Kane Habuto: /charfallover .1
+[16:19:23] Kane Habuto: /charfallover .1
+[16:19:26] Kane Habuto: /charfallover .1
+[16:19:49] Kane Habuto: /charfallover .1
+[16:19:52] Kane Habuto: /charfallover .1
+[16:19:56] Kane Habuto: /charfallover .1
+[16:19:59] Kane Habuto: /charfallover .1
+[16:20:02] Kane Habuto: /charfallover .1
+[16:20:04] Kane Habuto: /charfallover .1
+[16:20:07] Kane Habuto: /charfallover .1
+[16:20:10] Kane Habuto: /charfallover .1
+[16:20:13] Kane Habuto: /charfallover .1
+[16:20:15] Kane Habuto: /charfallover .1
+[16:20:18] Kane Habuto: /charfallover .1
+[16:20:20] Kane Habuto: /charfallover .1
+[16:20:23] Kane Habuto: /charfallover .1
+[16:20:26] Kane Habuto: /charfallover .1
+[16:20:38] Kane Habuto<STEAM_0:1:513914177> changed their name to Johnny Hansen
+[16:21:03] Johnny Hansen<STEAM_0:1:513914177> changed their name to Kane Habuto
+[16:21:04] Kane Habuto: /charfallover .1
+[16:21:08] Kane Habuto: /charfallover .1
+[16:21:12] Kane Habuto: /charfallover .1
+[16:21:16] Kane Habuto: /charfallover .1
+[16:21:30] Kane Habuto: /charfallover .1
+[16:21:38] Kane Habuto<STEAM_0:1:513914177> changed their name to Johnny Benson
+[16:24:28] Johnny Benson: /charfallover .1
+[16:24:35] Johnny Benson: /charfallover .1
+[16:30:43] Client "Apollo7771FO3" connected.
+[16:33:14] Client "Apollo7771FO3" spawned in server <STEAM_0:1:40787669> (took 151 seconds).
+[16:36:11] Apollo7771FO3<STEAM_0:1:40787669> changed their name to Todd Muller
+[16:37:03] Client "DRD" connected.
+[16:37:26] Johnny Benson: /charfallover .1
+[16:37:32] Johnny Benson: /charfallover .1
+[16:37:36] Johnny Benson: /charfallover .1
+[16:37:41] Johnny Benson: /charfallover .1
+[16:37:52] Johnny Benson: /charfallover .1
+[16:38:11] Johnny Benson: /charfallover .1
+[16:38:16] Johnny Benson: /charfallover .1
+[16:39:40] Client "DRD" spawned in server <STEAM_0:0:193599766> (took 157 seconds).
+[16:40:10] Johnny Benson: /charfallover .1
+[16:40:17] Johnny Benson: /charfallover .1
+[16:40:25] Johnny Benson: /charfallover .1
+[16:40:29] Johnny Benson: /charfallover .1
+[16:40:36] Johnny Benson: /charfallover .1
+[16:40:39] Johnny Benson: /charfallover .1
+[16:40:42] Johnny Benson: /charfallover .1
+[16:40:45] Johnny Benson: /charfallover .1
+[16:40:50] Johnny Benson: /charfallover .1
+[16:40:53] Johnny Benson: /charfallover .1
+[16:44:43] Dropped "DRD" from server<STEAM_0:0:193599766>
+[16:45:32] Todd Muller: /me Leans against the fence, his air canister making him slightly lean a different direction.
+[16:49:33] Todd Muller: /me Looks around the empty train station before standing up straight and then walking off.
+[16:57:24] Dropped "Todd Muller" from server<STEAM_0:1:40787669>
+[17:01:39] Client "DRD" connected.
+[17:03:21] Johnny Benson was killed by trigger_hurt
+[17:06:26] Client "DRD" spawned in server <STEAM_0:0:193599766> (took 287 seconds).
+[17:09:18] DRD<STEAM_0:0:193599766> changed their name to CCA.C17-QrM.52934
+[17:09:57] Johnny Benson: // uwu quartermaster
+[17:10:09] CCA.C17-QrM.52934: // IM GOING TO DRAW AND QUARTER YPU
+[17:11:02] Client "Apollo7771FO3" connected.
+[17:12:18] CCA.C17-QrM.52934: /toggleraise
+[17:13:27] CCA.C17-QrM.52934: // TFW im charged for zipties
+[17:13:27] CCA.C17-QrM.52934: /toggleraise
+[17:14:14] Johnny Benson: // this map is so insecure
+[17:14:27] Johnny Benson: // half  the doors aren't locked yet so you can go anywhere
+[17:14:36] CCA.C17-QrM.52934: // we just changed maps
+[17:14:45] Johnny Benson: // ik
+[17:15:58] CCA.C17-QrM.52934<STEAM_0:0:193599766> changed their name to CCA.C17-GRID.i1.59212
+[17:16:59] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_c17/furniturestove001a.mdl
+[17:17:16] Johnny Benson: hii
+[17:17:17] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_c17/gate_door02a.mdl
+[17:17:17] Johnny Benson: hi
+[17:17:21] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_c17/gaspipes006a.mdl
+[17:17:24] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_c17/gaspipes006a.mdl
+[17:17:29] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_c17/gravestone_coffinpiece001a.mdl
+[17:17:35] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_c17/gravestone_coffinpiece001a.mdl
+[17:17:51] CCA.C17-GRID.i1.59212 was killed by prop_physics
+[17:18:12] Johnny Benson: // good one silly
+[17:18:20] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_c17/gate_door02a.mdl
+[17:18:39] CCA.C17-GRID.i1.59212: // i am a failure
+[17:18:42] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool item_item_crate on maps/rp_i17_variation_v0.bsp
+[17:18:43] CCA.C17-GRID.i1.59212: /toggleraise
+[17:19:01] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool item_item_crate on maps/rp_i17_variation_v0.bsp
+[17:19:03] CCA.C17-GRID.i1.59212: /toggleraise
+[17:19:20] Johnny Benson: // the climb plugin is borked as well
+[17:19:29] CCA.C17-GRID.i1.59212: // there's a climb plugin?
+[17:19:36] Johnny Benson: // yeah
+[17:19:39] CCA.C17-GRID.i1.59212: // huh
+[17:19:49] Johnny Benson: // you can just look at any brush / model and launch 20 feet in the air
+[17:19:55] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_c17/gate_door02a.mdl
+[17:20:25] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_c17/gravestone003a.mdl
+[17:20:34] Johnny Benson: // try double jumping on a short ledge
+[17:21:01] CCA.C17-GRID.i1.59212: // OH JESUS
+[17:21:41] Johnny Benson: .// come look at this
+[17:22:41] Johnny Benson: // i looked at the code and its just copy pasted from the climb swep
+[17:22:53] Client "XYZ509" connected.
+[17:23:10] Johnny Benson: // but they forgot the timeout part so you can just spam it
+[17:23:17] CCA.C17-GRID.i1.59212: // whats the difference between plugins and addons anyways
+[17:23:40] Johnny Benson: // plugins go directly in the helix folder
+[17:23:55] Johnny Benson: // they can call specific helix functions and add new stuff to the gamemode
+[17:24:03] CCA.C17-GRID.i1.59212: // oh
+[17:24:15] CCA.C17-GRID.i1.59212: // so addons in disguise
+[17:24:51] Johnny Benson: // pretty much
+[17:25:20] Johnny Benson: // they also use them to implement optional helix features such as notepads
+[17:25:31] Johnny Benson: // so you can just delete the lua file
+[17:25:34] Client "XYZ509" spawned in server <STEAM_0:1:116497963> (took 161 seconds).
+[17:28:15] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_junk/plasticcrate01a.mdl
+[17:29:28] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool trigger on maps/rp_i17_variation_v0.bsp
+[17:29:28] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool trigger on models/props_junk/plasticcrate01a.mdl
+[17:29:37] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_c17/gravestone002a.mdl
+[17:29:38] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool trigger on models/props_c17/gravestone002a.mdl
+[17:29:42] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_c17/gravestone002a.mdl
+[17:30:23] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_c17/furniturestove001a.mdl
+[17:30:27] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_c17/furnituretable001a.mdl
+[17:30:36] XYZ509<STEAM_0:1:116497963> changed their name to CCA.C17-UNION.i5.01477
+[17:30:58] CCA.C17-UNION.i5.01477<STEAM_0:1:116497963> spawned model models/props_c17/furnituretable003a.mdl
+[17:31:06] CCA.C17-GRID.i1.59212: // mine
+[17:31:13] CCA.C17-UNION.i5.01477<STEAM_0:1:116497963> spawned model models/props_c17/furnituretable003a.mdl
+[17:31:17] CCA.C17-UNION.i5.01477<STEAM_0:1:116497963> spawned model models/props_c17/furnituretable003a.mdl
+[17:31:24] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> changed their name to CCA.C17-QrM.52934
+[17:31:31] CCA.C17-UNION.i5.01477<STEAM_0:1:116497963> spawned model models/props_c17/furnituretable003a.mdl
+[17:31:35] Johnny Benson: // what was the rumbling
+[17:31:35] CCA.C17-UNION.i5.01477<STEAM_0:1:116497963> spawned model models/props_c17/furnituretable003a.mdl
+[17:31:44] CCA.C17-QrM.52934: // train or a prop hitting the ground
+[17:31:44] CCA.C17-UNION.i5.01477: // ntohing
+[17:32:14] CCA.C17-UNION.i5.01477<STEAM_0:1:116497963> changed their name to chezbugor
+[17:32:43] chezbugor was killed by npc_barnacle
+[17:33:02] CCA.C17-QrM.52934: // chezbugor
+[17:33:26] chezbugor: /pm qrm let me through train station lol dont kill me
+[17:33:54] chezbugor: /pm qrm he still has to fix it
+
+
+
+[17:37:24] New map: rp_i17_variation_v0
+[17:42:49] Client "poggers" connected.
+[17:44:09] Client "poggers" spawned in server <STEAM_0:1:513914177> (took 80 seconds).
+[17:45:42] poggers<STEAM_0:1:513914177> changed their name to Johnny Benson
+[17:52:42] Client "DRD" connected.
+[17:54:17] Client "DRD" spawned in server <STEAM_0:0:193599766> (took 95 seconds).
+[17:57:33] Johnny Benson<STEAM_0:1:513914177> changed their name to Johnny Hansen
+[17:57:44] Johnny Hansen<STEAM_0:1:513914177> changed their name to Johnny Benson
+[17:58:06] Johnny Benson: /chargiveitem
+[17:58:45] DRD<STEAM_0:0:193599766> changed their name to CCA.C17-QrM.52934
+[18:01:31] Johnny Benson: /charfallover .1
+[18:13:16] Dropped "Johnny Benson" from server<STEAM_0:1:513914177>
+[18:13:17] Client "poggers" connected.
+[18:14:29] Client "poggers" spawned in server <STEAM_0:1:513914177> (took 72 seconds).
+[18:16:08] CCA.C17-QrM.52934<STEAM_0:0:193599766> changed their name to Hollie Reynolds
+[18:16:21] poggers<STEAM_0:1:513914177> changed their name to Johnny Benson
+[18:16:58] Hollie Reynolds<STEAM_0:0:193599766> spawned model models/props_interiors/furniture_vanity01a.mdl
+[18:17:48] Hollie Reynolds<STEAM_0:0:193599766> spawned model models/hunter/misc/cone4x2mirrored.mdl
+[18:17:52] Hollie Reynolds<STEAM_0:0:193599766> spawned model models/hunter/triangles/075x075mirrored.mdl
+[18:19:09] Hollie Reynolds<STEAM_0:0:193599766> spawned model models/props_interiors/pot02a.mdl
+[18:20:22] Hollie Reynolds<STEAM_0:0:193599766> spawned model models/props_interiors/pot01a.mdl
+[18:20:35] Hollie Reynolds<STEAM_0:0:193599766> spawned model models/props/de_inferno/claypot03.mdl
+[18:20:49] Hollie Reynolds<STEAM_0:0:193599766> spawned model models/props/de_inferno/claypot03_damage_05.mdl
+[18:21:22] Hollie Reynolds<STEAM_0:0:193599766> spawned model models/gibs/hgibs.mdl
+[18:21:25] Client "Methfred" connected.
+[18:21:39] Hollie Reynolds<STEAM_0:0:193599766> used the tool winch on models/gibs/hgibs.mdl
+[18:21:40] Hollie Reynolds<STEAM_0:0:193599766> used the tool winch on maps/rp_i17_variation_v0.bsp
+[18:21:50] Hollie Reynolds<STEAM_0:0:193599766> spawned model models/gibs/hgibs.mdl
+[18:22:00] Hollie Reynolds<STEAM_0:0:193599766> used the tool winch on maps/rp_i17_variation_v0.bsp
+[18:22:01] Hollie Reynolds<STEAM_0:0:193599766> used the tool winch on maps/rp_i17_variation_v0.bsp
+[18:22:05] Hollie Reynolds<STEAM_0:0:193599766> used the tool winch on maps/rp_i17_variation_v0.bsp
+[18:22:05] Hollie Reynolds<STEAM_0:0:193599766> used the tool winch on maps/rp_i17_variation_v0.bsp
+[18:22:06] Hollie Reynolds<STEAM_0:0:193599766> used the tool winch on maps/rp_i17_variation_v0.bsp
+[18:22:07] Hollie Reynolds<STEAM_0:0:193599766> used the tool winch on maps/rp_i17_variation_v0.bsp
+[18:22:09] Hollie Reynolds<STEAM_0:0:193599766> used the tool winch on maps/rp_i17_variation_v0.bsp
+[18:22:11] Hollie Reynolds<STEAM_0:0:193599766> used the tool winch on maps/rp_i17_variation_v0.bsp
+[18:22:16] Hollie Reynolds<STEAM_0:0:193599766> spawned model models/gibs/hgibs.mdl
+[18:22:17] Hollie Reynolds<STEAM_0:0:193599766> used the tool winch on models/gibs/hgibs.mdl
+[18:22:17] Hollie Reynolds<STEAM_0:0:193599766> used the tool winch on maps/rp_i17_variation_v0.bsp
+[18:22:41] Hollie Reynolds<STEAM_0:0:193599766> used the tool winch on models/gibs/hgibs.mdl
+[18:22:45] Hollie Reynolds<STEAM_0:0:193599766> used the tool winch on maps/rp_i17_variation_v0.bsp
+[18:23:03] Hollie Reynolds<STEAM_0:0:193599766> used the tool winch on models/gibs/hgibs.mdl
+[18:23:04] Hollie Reynolds<STEAM_0:0:193599766> used the tool winch on maps/rp_i17_variation_v0.bsp
+[18:23:21] Hollie Reynolds<STEAM_0:0:193599766> used the tool winch on maps/rp_i17_variation_v0.bsp
+[18:23:21] Hollie Reynolds<STEAM_0:0:193599766> used the tool winch on maps/rp_i17_variation_v0.bsp
+[18:23:29] Hollie Reynolds<STEAM_0:0:193599766> used the tool rope on maps/rp_i17_variation_v0.bsp
+[18:23:29] Hollie Reynolds<STEAM_0:0:193599766> used the tool rope on maps/rp_i17_variation_v0.bsp
+[18:23:33] Hollie Reynolds<STEAM_0:0:193599766> used the tool rope on maps/rp_i17_variation_v0.bsp
+[18:23:33] Hollie Reynolds<STEAM_0:0:193599766> used the tool rope on maps/rp_i17_variation_v0.bsp
+[18:24:13] Hollie Reynolds<STEAM_0:0:193599766> used the tool rope on maps/rp_i17_variation_v0.bsp
+[18:24:14] Hollie Reynolds<STEAM_0:0:193599766> used the tool rope on maps/rp_i17_variation_v0.bsp
+[18:24:18] Hollie Reynolds<STEAM_0:0:193599766> used the tool rope on maps/rp_i17_variation_v0.bsp
+[18:24:18] Hollie Reynolds<STEAM_0:0:193599766> used the tool rope on maps/rp_i17_variation_v0.bsp
+[18:24:18] Hollie Reynolds<STEAM_0:0:193599766> used the tool rope on maps/rp_i17_variation_v0.bsp
+[18:24:22] Hollie Reynolds<STEAM_0:0:193599766> used the tool rope on maps/rp_i17_variation_v0.bsp
+[18:24:25] Hollie Reynolds<STEAM_0:0:193599766> used the tool rope on maps/rp_i17_variation_v0.bsp
+[18:24:26] Hollie Reynolds<STEAM_0:0:193599766> used the tool rope on maps/rp_i17_variation_v0.bsp
+[18:24:29] Hollie Reynolds<STEAM_0:0:193599766> used the tool rope on maps/rp_i17_variation_v0.bsp
+[18:24:34] Hollie Reynolds<STEAM_0:0:193599766> used the tool rope on maps/rp_i17_variation_v0.bsp
+[18:24:36] Hollie Reynolds<STEAM_0:0:193599766> used the tool rope on maps/rp_i17_variation_v0.bsp
+[18:24:38] Hollie Reynolds<STEAM_0:0:193599766> used the tool rope on maps/rp_i17_variation_v0.bsp
+[18:24:41] Hollie Reynolds<STEAM_0:0:193599766> used the tool rope on maps/rp_i17_variation_v0.bsp
+[18:24:47] Hollie Reynolds<STEAM_0:0:193599766> used the tool rope on maps/rp_i17_variation_v0.bsp
+[18:24:54] Hollie Reynolds<STEAM_0:0:193599766> used the tool rope on maps/rp_i17_variation_v0.bsp
+[18:24:55] Hollie Reynolds<STEAM_0:0:193599766> used the tool rope on maps/rp_i17_variation_v0.bsp
+[18:24:57] Client "Ollie Garner" connected.
+[18:25:00] Hollie Reynolds<STEAM_0:0:193599766> used the tool rope on maps/rp_i17_variation_v0.bsp
+[18:25:02] Hollie Reynolds<STEAM_0:0:193599766> used the tool rope on maps/rp_i17_variation_v0.bsp
+[18:25:06] Hollie Reynolds<STEAM_0:0:193599766> used the tool rope on maps/rp_i17_variation_v0.bsp
+[18:25:07] Hollie Reynolds<STEAM_0:0:193599766> used the tool rope on maps/rp_i17_variation_v0.bsp
+[18:25:09] Hollie Reynolds<STEAM_0:0:193599766> used the tool rope on maps/rp_i17_variation_v0.bsp
+[18:25:12] Client "Methfred" spawned in server <STEAM_0:1:48276840> (took 227 seconds).
+[18:25:22] Hollie Reynolds<STEAM_0:0:193599766> used the tool rope on maps/rp_i17_variation_v0.bsp
+[18:25:25] Hollie Reynolds<STEAM_0:0:193599766> used the tool rope on maps/rp_i17_variation_v0.bsp
+[18:25:26] Hollie Reynolds<STEAM_0:0:193599766> used the tool rope on maps/rp_i17_variation_v0.bsp
+[18:25:28] Hollie Reynolds<STEAM_0:0:193599766> used the tool rope on maps/rp_i17_variation_v0.bsp
+[18:25:30] Hollie Reynolds<STEAM_0:0:193599766> used the tool rope on maps/rp_i17_variation_v0.bsp
+[18:25:30] Hollie Reynolds<STEAM_0:0:193599766> used the tool rope on maps/rp_i17_variation_v0.bsp
+[18:25:32] Hollie Reynolds<STEAM_0:0:193599766> used the tool rope on maps/rp_i17_variation_v0.bsp
+[18:25:33] Hollie Reynolds<STEAM_0:0:193599766> used the tool rope on maps/rp_i17_variation_v0.bsp
+[18:25:34] Hollie Reynolds<STEAM_0:0:193599766> used the tool rope on maps/rp_i17_variation_v0.bsp
+[18:25:36] Hollie Reynolds<STEAM_0:0:193599766> used the tool rope on maps/rp_i17_variation_v0.bsp
+[18:25:37] Hollie Reynolds<STEAM_0:0:193599766> used the tool rope on maps/rp_i17_variation_v0.bsp
+[18:25:38] Hollie Reynolds<STEAM_0:0:193599766> used the tool rope on maps/rp_i17_variation_v0.bsp
+[18:25:38] Hollie Reynolds<STEAM_0:0:193599766> used the tool rope on maps/rp_i17_variation_v0.bsp
+[18:25:40] Hollie Reynolds<STEAM_0:0:193599766> used the tool rope on maps/rp_i17_variation_v0.bsp
+[18:25:41] Hollie Reynolds<STEAM_0:0:193599766> used the tool rope on maps/rp_i17_variation_v0.bsp
+[18:25:42] Hollie Reynolds<STEAM_0:0:193599766> used the tool rope on maps/rp_i17_variation_v0.bsp
+[18:25:43] Hollie Reynolds<STEAM_0:0:193599766> used the tool rope on maps/rp_i17_variation_v0.bsp
+[18:25:44] Hollie Reynolds<STEAM_0:0:193599766> used the tool rope on maps/rp_i17_variation_v0.bsp
+[18:25:45] Hollie Reynolds<STEAM_0:0:193599766> used the tool rope on maps/rp_i17_variation_v0.bsp
+[18:25:46] Hollie Reynolds<STEAM_0:0:193599766> used the tool rope on maps/rp_i17_variation_v0.bsp
+[18:25:50] Hollie Reynolds<STEAM_0:0:193599766> used the tool rope on maps/rp_i17_variation_v0.bsp
+[18:27:43] Hollie Reynolds<STEAM_0:0:193599766> changed their name to CCA.C17-GRID.i1.59212
+[18:28:42] Johnny Benson: /charsearch
+[18:28:48] Client "Ollie Garner" spawned in server <STEAM_0:1:52892973> (took 231 seconds).
+[18:30:04] Ollie Garner<STEAM_0:1:52892973> changed their name to Morgan Beck
+[18:30:07] Morgan Beck: // Yuh
+[18:30:11] CCA.C17-GRID.i1.59212: // hi
+[18:30:20] Methfred<STEAM_0:1:48276840> changed their name to Ezekiel Newmann
+[18:30:26] Ezekiel Newmann: // what is up my goobers
+[18:30:29] Client "MilkyWay" connected.
+[18:30:32] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_furniture/cafe_barstool1.mdl
+[18:30:36] Morgan Beck: // Heyo
+[18:30:38] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_furniture/cafe_barstool1.mdl
+[18:30:41] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_furniture/cafe_barstool1.mdl
+[18:31:08] Ezekiel Newmann: Excuse me.
+[18:31:14] Ezekiel Newmann: I believe I had found contraband.
+[18:31:20] CCA.C17-GRID.i1.59212: show me
+[18:31:32] Ezekiel Newmann: /me reaches into his magical bag of goodies, retrieving a bigass motor.
+[18:31:49] Ezekiel Newmann: /me heaves it in his hands, holding it out to the unit.
+[18:32:07] CCA.C17-GRID.i1.59212: this.. uhh
+[18:32:25] CCA.C17-GRID.i1.59212: this isn't contraband
+[18:32:29] Ezekiel Newmann: Ah.
+[18:32:34] Ezekiel Newmann: I apologize.
+[18:32:54] Ezekiel Newmann: What should I have done with it, though?
+[18:33:17] CCA.C17-GRID.i1.59212: throw it away?
+[18:33:28] Ezekiel Newmann: Okay.
+[18:33:49] Ezekiel Newmann: // woah props really do be rotating with hands
+[18:33:52] Ezekiel Newmann: // fuckin wild dude
+[18:34:01] Morgan Beck<STEAM_0:1:52892973> used the tool ledscreen on maps/rp_i17_variation_v0.bsp
+[18:34:03] Morgan Beck<STEAM_0:1:52892973> used the tool ledscreen on maps/rp_i17_variation_v0.bsp
+[18:34:49] CCA.C17-GRID.i1.59212: // brb, gotta piss
+[18:35:36] Ezekiel Newmann<STEAM_0:1:48276840> changed their name to Alfred Langenberg
+[18:35:43] Client "MilkyWay" spawned in server <STEAM_0:1:118336892> (took 314 seconds).
+[18:35:59] Client "elkay" connected.
+[18:37:05] Alfred Langenberg: ey
+[18:37:09] Johnny Benson: hi
+[18:37:19] Alfred Langenberg: you know if they finally got those air vents set up in the apartments yet?
+[18:37:26] Johnny Benson: [[ do you see a pistol
+[18:37:32] Alfred Langenberg: Also nice gun
+[18:37:45] Johnny Benson: [[ i dropped it and it looks like a pistol for some reason
+[18:37:49] Johnny Benson: [[ its a can
+[18:38:00] Johnny Benson: .// oh its fixed
+[18:38:05] Johnny Benson: .// weird
+[18:38:10] Alfred Langenberg: well did they?
+[18:38:19] Johnny Benson: I don't know man
+[18:38:22] Johnny Benson: I'm homeless
+[18:38:24] Alfred Langenberg: I guess I'm gonna go find out
+[18:38:30] Johnny Benson: Wait
+[18:38:38] CCA.C17-GRID.i1.59212: // back
+[18:38:42] Alfred Langenberg: // wel ba
+[18:38:44] Johnny Benson: Have you got any crafting materials?
+[18:38:46] Johnny Benson: Wood?
+[18:38:53] Alfred Langenberg: oodly specific question
+[18:38:55] Alfred Langenberg: No I do not
+[18:38:57] Johnny Benson: Ok..
+[18:38:59] Client "elkay" connected.
+[18:39:11] Alfred Langenberg: oi, duds
+[18:39:22] Alfred Langenberg: you know if they got those air vents in the apartments working yet?
+[18:39:34] CCA.C17-GRID.i1.59212: no clue, also, do not call me that.
+[18:39:41] Alfred Langenberg: You know you love it
+[18:39:48] CCA.C17-GRID.i1.59212: /toggleraise
+[18:39:57] Alfred Langenberg: Aw, come on, give me a dumb nickname too
+[18:40:08] Alfred Langenberg: Jeez, alright.
+[18:40:10] CCA.C17-GRID.i1.59212: /toggleraise
+[18:40:20] Alfred Langenberg: // im not gonna stop bro
+[18:40:22] MilkyWay<STEAM_0:1:118336892> changed their name to Andrew Philip
+[18:40:25] Alfred Langenberg: // i never will
+[18:40:28] CCA.C17-GRID.i1.59212: // L(
+[18:40:31] CCA.C17-GRID.i1.59212: // :(
+[18:40:31] Client "elkay" spawned in server <STEAM_0:1:76095374> (took 92 seconds).
+[18:40:36] Alfred Langenberg: // why are you sad
+[18:40:39] Alfred Langenberg: // its a good nickname
+[18:40:42] CCA.C17-GRID.i1.59212: / =(
+[18:40:45] CCA.C17-GRID.i1.59212: // =(
+[18:40:49] Alfred Langenberg: // im literally saying you got a cooler uniform than the other units
+[18:40:56] CCA.C17-GRID.i1.59212: // ==(
+[18:41:04] elkay<STEAM_0:1:76095374> changed their name to "Wilbur"
+[18:41:05] Alfred Langenberg: // :)
+[18:41:05] CCA.C17-GRID.i1.59212: // =============(
+[18:41:09] Andrew Philip: // xD
+[18:41:31] Andrew Philip killed "Wilbur" using ix_hands
+[18:41:39] Johnny Benson: // i think something brokie
+[18:41:41] Andrew Philip: // fuck you elkay
+[18:41:53] Johnny Benson: // whenever i try and equip a pan it gives an error
+[18:42:04] CCA.C17-GRID.i1.59212: // unworthy
+[18:42:07] Morgan Beck: // It's fine for me.
+[18:42:14] Johnny Benson: // "Inform a staff member of this error: wid!xt"
+[18:42:46] Alfred Langenberg: // bruh i thought the apartments got air vents set up
+[18:42:49] Alfred Langenberg: // i still choke in them
+[18:42:56] CCA.C17-GRID.i1.59212: // oLLIE 
+[18:42:57] Johnny Benson: // maybe it's an old version of the pan or something
+[18:42:58] Andrew Philip: hey Morgan
+[18:43:02] Morgan Beck: Heyo.
+[18:43:07] Morgan Beck: // what GRID
+[18:43:08] Andrew Philip: you've got any cloth scrap?
+[18:43:16] Morgan Beck: Uh, no. I have some uh...
+[18:43:21] Morgan Beck: Duct Tape.
+[18:43:27] Andrew Philip: darn
+[18:43:29] CCA.C17-GRID.i1.59212: // can you put air vents in apartments
+[18:43:30] Morgan Beck: Sorry.
+[18:43:39] Morgan Beck: // Alright. Give me a second.
+[18:43:43] Andrew Philip: hey there
+[18:43:46] Alfred Langenberg: // thanks *dad*
+[18:43:47] Johnny Benson: What?
+[18:43:51] Andrew Philip: you've got any cloth scrap that I can buy off you
+[18:43:59] Morgan Beck<STEAM_0:1:52892973> spawned sent ix_airvent
+[18:44:02] Morgan Beck<STEAM_0:1:52892973> spawned sent ix_citizenairvent
+[18:44:09] Alfred Langenberg: How is that bird breathing?
+[18:44:12] Johnny Benson: No.. do you have anything of use?
+[18:44:14] Morgan Beck<STEAM_0:1:52892973> used the tool permaprops on models/props_c17/furnitureradiator001a.mdl
+[18:44:21] "Wilbur": /me squawks.
+[18:44:26] Johnny Benson: Wood perhaps..
+[18:44:29] Morgan Beck<STEAM_0:1:52892973> spawned sent ix_citizenairvent
+[18:44:32] Alfred Langenberg: Tell me your secrets, avian!
+[18:44:33] Morgan Beck<STEAM_0:1:52892973> spawned sent ix_citizenairvent
+[18:44:38] Morgan Beck<STEAM_0:1:52892973> used the tool permaprops on maps/rp_i17_variation_v0.bsp
+[18:44:39] Andrew Philip: /looc I used to, but it got deleted after map change lo
+[18:44:40] Morgan Beck<STEAM_0:1:52892973> spawned sent ix_citizenairvent
+[18:44:44] Andrew Philip: nah - I don't...
+[18:44:47] Andrew Philip: hey you
+[18:44:52] Andrew Philip: yeah
+[18:44:57] Andrew Philip: do you have any cloth scrap?
+[18:44:58] Morgan Beck<STEAM_0:1:52892973> used the tool permaprops on models/props_c17/furnitureradiator001a.mdl
+[18:45:00] "Wilbur": /me eventually flies away.
+[18:45:03] Alfred Langenberg: no
+[18:45:13] Johnny Benson: Where do you even get cloth scrap
+[18:45:18] Morgan Beck<STEAM_0:1:52892973> spawned sent ix_citizenairvent
+[18:45:20] Alfred Langenberg: clothes, duh
+[18:45:21] Andrew Philip: you find it I guess
+[18:45:30] Johnny Benson: All I find is resin
+[18:45:42] "Wilbur"<STEAM_0:1:76095374> changed their name to CAC.C17-CRM.71096
+[18:45:44] Andrew Philip: you can sell it in the CCA place
+[18:45:49] Johnny Benson: .// what they don't know is i have 10 rpgs and a crossbow in my suitcase
+[18:45:49] Morgan Beck<STEAM_0:1:52892973> used the tool permaprops on models/props_c17/furnitureradiator001a.mdl
+[18:45:53] Morgan Beck: // Alright done I think
+[18:45:58] Alfred Langenberg: .// can i have a crowbar
+[18:46:03] Andrew Philip: /looc that's a step in the right direction - no
+[18:46:06] Alfred Langenberg: .// alfred has a very special connection to crowbars
+[18:46:11] Alfred Langenberg: .// he is gordon 0.5
+[18:46:14] CAC.C17-CRM.71096: /pm beck I didn't spawn with my flamethrower, can you spawn me it rq
+[18:46:26] Morgan Beck: /reply Here this shouldddd work. Maybe
+[18:46:30] Johnny Benson: .// i don't have a crowbar but i don't have some glitched scrap items
+[18:46:31] CAC.C17-CRM.71096 suicided!
+[18:46:31] Morgan Beck slayed CAC.C17-CRM.71096
+[18:46:31] Morgan Beck: !slay CRM
+[18:46:34] Alfred Langenberg: // aight thanks lemme go test it as i am skeptical
+[18:46:39] Johnny Benson: .// they are stuck in a suitcase
+[18:46:41] Morgan Beck: // Ignore if CRMs have biosignal which I think they don't.
+[18:46:45] Alfred Langenberg: I'm gonna go crash in the apartment block
+[18:46:46] CAC.C17-CRM.71096: /reply works, ty
+[18:46:51] Alfred Langenberg: you two have fun using up filters
+[18:46:51] CAC.C17-CRM.71096: /pm beck ty
+[18:46:54] Johnny Benson: ..
+[18:47:25] Morgan Beck<STEAM_0:1:52892973> used the tool ledscreen on models/squad/sf_plates/sf_plate1x8.mdl
+[18:47:29] Andrew Philip: // Grid? never heard of her
+[18:47:54] Johnny Benson: // btw the climb plugin is very mingey
+[18:48:03] Johnny Benson: // you can fling yourself
+[18:48:07] Alfred Langenberg: // we have a climb plugin?
+[18:48:18] Morgan Beck: // To my knowledge we don't have any climb plugin.
+[18:48:19] Johnny Benson: // apparently
+[18:48:28] Andrew Philip: // No Morgan, we do
+[18:48:30] CAC.C17-CRM.71096: /ooc we do
+[18:48:34] Morgan Beck: // Bruh moment.
+[18:48:41] CAC.C17-CRM.71096: /ooc dunno how tf it works
+[18:48:45] Alfred Langenberg: // air vents are working grats ollie you did a thing
+[18:48:49] Morgan Beck: // :)
+[18:49:02] Johnny Benson: // double jump whenever your looking at a map brush or prop
+[18:49:03] Andrew Philip: // if you near a edge, it auto - jumps you a bit higher to get it
+[18:49:08] Morgan Beck: // Ah.
+[18:49:12] Johnny Benson: .// look
+[18:49:13] Andrew Philip: // and if you want you can get on high surfaces by pressing W or double space
+[18:49:20] Johnny Benson: .// oops
+[18:49:22] Andrew Philip: // that's why sometimes you auto climb an edge
+[18:49:26] Morgan Beck: // Ah, I see.
+[18:50:10] Morgan Beck: // We haven't had problems with anyone minging with it yet so eh.
+[18:50:33] Johnny Benson: // don't worry i'll find a way
+[18:50:40] Alfred Langenberg: // mingery finds a way
+[18:50:48] Andrew Philip: // IF THERES A HOLE THERE IS A WAY
+[18:50:52] Andrew Philip: // wait...
+[18:51:04] Alfred Langenberg: // please dont use all of the holes
+[18:51:22] Johnny Benson: hi
+[18:52:11] Johnny Benson: hi
+[18:52:11] Alfred Langenberg: // damn... now what do i do
+[18:52:20] CAC.C17-CRM.71096: /me stares blankly at the locked door.
+[18:52:38] Johnny Benson: // ok alf lasagna
+[18:52:42] Johnny Benson: Stop
+[18:52:42] Alfred Langenberg: // oh
+[18:52:49] Johnny Benson: Theres a cremator that way
+[18:52:52] Johnny Benson: He'll burn you
+[18:52:58] Alfred Langenberg: why would he burn me?
+[18:53:04] Johnny Benson: He's guarding the gate
+[18:53:12] Alfred Langenberg: I'm gonna go say hello to it
+[18:53:17] Johnny Benson: Ok.. Be careful
+[18:53:18] CAC.C17-CRM.71096: /pm beck could you also bring me back to where i was before you slayed me by chance
+[18:53:27] CAC.C17-CRM.71096: /pm beck i was right outside the side door to manufacturing
+[18:54:00] Morgan Beck brought CAC.C17-CRM.71096
+[18:54:00] Morgan Beck: !bring CRM
+[18:54:03] Morgan Beck: /looc close enough?
+[18:54:06] CAC.C17-CRM.71096: /looc ye 
+[18:54:07] CAC.C17-CRM.71096: /looc ty
+[18:54:35] Johnny Benson: nice
+[18:54:43] Johnny Benson: /me shambles over the wall
+[18:54:48] Johnny Benson: Oooh shit..
+[18:54:59] Johnny Benson: I'll take my chances..
+[18:55:11] Johnny Benson: /me holds onto the pipe for dear lie
+[18:55:12] Johnny Benson: [[ life
+[18:55:18] CAC.C17-CRM.71096: /me stares blankly.
+[18:55:35] Johnny Benson: Where now..
+[18:55:35] Alfred Langenberg: .// big cuddlwy cwemator
+[18:55:39] Alfred Langenberg: .// do you want a hug
+[18:55:54] CAC.C17-CRM.71096: /looc bro id probably turn into a pile of bones from that seeing how frail they look lmao
+[18:56:13] Alfred Langenberg: .// can I have your immolator if i break you
+[18:56:17] CAC.C17-CRM.71096: /looc no
+[18:56:19] Andrew Philip was killed by npc_zombine
+[18:56:20] Alfred Langenberg: .// aw
+[18:56:29] Alfred Langenberg: .// can I have the coat at least? its pretty cool looking
+[18:56:37] CAC.C17-CRM.71096: /looc no
+[18:56:46] Alfred Langenberg: .// a high five?
+[18:56:51] CAC.C17-CRM.71096: /looc no
+[18:56:55] Alfred Langenberg: .// aaaw why not
+[18:56:55] CAC.C17-CRM.71096: /looc only stare
+[18:57:00] Alfred Langenberg: .// oh okay
+[18:57:03] Alfred Langenberg: /me stares
+[18:57:06] Alfred Langenberg: /rollstat con
+[18:57:08] CAC.C17-CRM.71096: /me stares in return
+[18:57:10] CAC.C17-CRM.71096: /roll
+[18:57:24] Alfred Langenberg: /me blinks. But neither can tell when the other blinks. So whoops.
+[18:57:28] Andrew Philip: /rollstat Agility
+[18:57:35] Alfred Langenberg: You guys ever talk?
+[18:57:42] CAC.C17-CRM.71096: /me continues to stare.
+[18:57:52] Alfred Langenberg: hmm...
+[18:57:55] CCA.C17-GRID.i1.59212: // cremator deserves ratioms
+[18:57:59] CCA.C17-GRID.i1.59212: apply
+[18:58:00] Andrew Philip: /apply
+[18:58:01] CAC.C17-CRM.71096: /looc +1
+[18:58:02] Alfred Langenberg: /me raises his index finger into the air.
+[18:58:03] CAC.C17-CRM.71096: /ooc +1
+[18:58:04] CCA.C17-GRID.i1.59212: /viewdata andrew
+[18:58:21] CAC.C17-CRM.71096: /me stares at the index finger for a second, then back to the general person.
+[18:58:25] Morgan Beck: /apply
+[18:58:26] CCA.C17-GRID.i1.59212: /viewdata andrew
+[18:58:30] CCA.C17-GRID.i1.59212: apply
+[18:58:31] CCA.C17-GRID.i1.59212: oh
+[18:58:31] Johnny Benson: ow
+[18:58:32] Andrew Philip<STEAM_0:1:118336892> changed their name to Hyo Jeong
+[18:58:42] Alfred Langenberg: /me looks over at the piled trash bags, then back to the cremator.
+[18:58:42] Morgan Beck: Thanks, Officer. Have a good rest of your day.
+[18:58:49] Johnny Benson: no way
+[18:58:51] Johnny Benson: fuck that
+[18:58:57] CAC.C17-CRM.71096: /me slowly turns around and continues their incineration procedures.
+[18:59:03] Johnny Benson: the fuck is this
+[18:59:15] Alfred Langenberg: .// flamethrower? cringe! the immolator is a beam weapon
+[18:59:16] CCA.C17-GRID.i1.59212: apply
+[18:59:22] Hyo Jeong: /me bows to the officer before noding and applying
+[18:59:23] Hyo Jeong: /apply
+[18:59:32] CAC.C17-CRM.71096: /looc immolator top tier
+[18:59:42] Hyo Jeong: /me takes the ration pack and walks off, avoiding any eye contact
+[18:59:44] Alfred Langenberg: You have fun there, bud.
+[18:59:59] CAC.C17-CRM.71096: /me stares at the person for a little bit then goes back to incinerating the pile.
+[19:00:16] Alfred Langenberg: // i just had an idea
+[19:00:20] Hyo Jeong: /me tries to unlock the door but it wont budge, sighing and looking around
+[19:00:21] Alfred Langenberg: .// a really fucking bad one
+[19:00:22] CCA.C17-GRID.i1.59212: // what
+[19:00:25] Alfred Langenberg: // a really fucking bad one
+[19:00:31] Alfred Langenberg: // im gonna give the cremator a hat
+[19:00:35] CCA.C17-GRID.i1.59212: // DO IT
+[19:00:42] Johnny Benson: // i wonder if you can ziptie a cremator
+[19:00:44] Hyo Jeong: /me would turn around, holding a ration pack with both of her hands before bowing to the Cafe owner
+[19:00:47] Alfred Langenberg: // also did you mean to end rations i never saw them begin
+[19:00:48] CCA.C17-GRID.i1.59212: // probably
+[19:00:56] Johnny Benson: // don't tempt me
+[19:00:57] CCA.C17-GRID.i1.59212: // yes i meant to end then
+[19:01:02] Alfred Langenberg: // oh shit
+[19:01:05] Alfred Langenberg: // i didnt see it
+[19:01:07] Morgan Beck: Uh, hi? Heard you fiddle with the door. Anything you wanted? We're not open yet, but I
+[19:01:09] Morgan Beck: /looc shit
+[19:01:17] Morgan Beck: but I'm finalizing some stuff.
+[19:01:18] Alfred Langenberg: // why the fuck is the ration announcement so quiet i always miss it
+[19:01:26] CCA.C17-GRID.i1.59212: // its in chat
+[19:01:38] Alfred Langenberg: // im illiterate and only notice what i can hear
+[19:01:46] CCA.C17-GRID.i1.59212: / mDispatch broadcasts "Attention. Rations are now available at the train station. Reminder: Civil Workers Union members are subject to priority distribution."
+[19:01:47] Morgan Beck: // I wish that a city wide sound would play with it, but that could be abused by a i5.
+[19:01:50] Alfred Langenberg: /me digs through the trash, hoping to find a baseball cap.
+[19:01:51] Alfred Langenberg: /roll
+[19:01:53] CCA.C17-GRID.i1.59212: // Dispatch broadcasts "Attention. Rations are now available at the train station. Reminder: Civil Workers Union members are subject to priority distribution."
+[19:01:55] CCA.C17-GRID.i1.59212: /me takes a photograph of the citizen, with a bright flash
+[19:01:56] Johnny Benson: Nice
+[19:02:08] Hyo Jeong: /me nods, but asks with hesitation, trying to not sound demanding "May I come in? I need to eat my food - somewhere with air..."
+[19:02:15] Alfred Langenberg: /me rips out a raggedy cap for a nondescript baseball team.
+[19:02:16] CAC.C17-CRM.71096: /ooc if an i5 were to abuse it, how would they have passed interviews to begin with as well as basic training
+[19:02:19] Alfred Langenberg: // i told you im illiterate
+[19:02:20] Morgan Beck: Uh, sure. Go ahead.
+[19:02:32] Alfred Langenberg: you need something bud?
+[19:02:35] Hyo Jeong: /me slightly bows to him again, saying "Thank you."
+[19:02:41] Johnny Benson: Just watching you dig for gold.
+[19:02:46] Alfred Langenberg: hey, want to watch me die?
+[19:02:50] Johnny Benson: Sure.
+[19:02:53] Hyo Jeong: /me takes off the gas mask and takes a seat, opening her ration
+[19:02:59] Alfred Langenberg: hey, bud
+[19:03:04] Alfred Langenberg: hey there
+[19:03:08] CAC.C17-CRM.71096: /me stares at the person.
+[19:03:13] Alfred Langenberg: you want a gift?
+[19:03:21] CAC.C17-CRM.71096: /me continues to stare with no response.
+[19:03:23] Morgan Beck: /me began to fiddle with his stove, trying to make sure everything is functional.
+[19:03:29] Alfred Langenberg: /me tries to get fairly close to the cremator.
+[19:03:44] CAC.C17-CRM.71096: /me would not do anything, except move its head down to keep staring.
+[19:03:50] Johnny Benson: /me comes out eating a bag of chips
+[19:03:55] Morgan Beck: Do you have a apartment? I think there's fresh air there. Or should be at least.
+[19:04:02] Alfred Langenberg: /me raises his right hand up, a worn baseball cap in hand.
+[19:04:06] Alfred Langenberg: .// (:
+[19:04:17] Johnny Benson: /me edges back towards the door a little
+[19:04:28] CAC.C17-CRM.71096: /me looks up at the baseball cap, then back down at the person.
+[19:04:43] Morgan Beck: You have a apartment? There's fresh air there. Or well, fresh isn't the right word. Air that won't outright kill you.
+[19:04:50] Alfred Langenberg: /me tries to, with a surgeon's precision, place the cap unto the "head" of the cremator.
+[19:05:06] Johnny Benson: /me eats chips louder
+[19:05:19] CAC.C17-CRM.71096: /me would not budge, only turning around to face the man eating chips.
+[19:05:20] Hyo Jeong: /me stops eating as soon as she sees the man walks up, staying quite and leaving her food on the table before speaking " I do - I will leave if I have to. "
+[19:05:23] Johnny Benson: hi
+[19:05:35] Johnny Benson: /me starts edging towards the door again
+[19:05:49] Morgan Beck: No, it's fine. Been needing a opinion on additions for the main booths. I'm just wondering.
+[19:05:50] Alfred Langenberg: /me gives the hat a little adjustment after it's placed, getting it straight on the alien's head.
+[19:06:03] Johnny Benson: nice
+[19:06:22] CAC.C17-CRM.71096: /me turns around again, staring at the person, seemingly unbothered by the cap.
+[19:06:30] Alfred Langenberg: enjoy the hat, big guy.
+[19:06:31] Alfred Langenberg: /me gives the Methfred seal of approval™!
+[19:06:32] Hyo Jeong: 한국 장식 추가 (hangug jangsig chuga)
+[19:06:34] Johnny Benson: /me cracks open the door
+[19:06:45] Morgan Beck: So if you have any complaints about the look of things, give me a uh, shout.
+[19:06:46] CAC.C17-CRM.71096: /me continues to stare, providing no form of response.
+[19:06:53] Hyo Jeong: /me would stay quite shaking her head " Sorry - the place look nice as it is "
+[19:07:01] Morgan Beck: Alrighty.
+[19:07:10] Alfred Langenberg: .// you want me to give you a PAC with a hat for big bro cremator?
+[19:07:14] Hyo Jeong: /me dosen't eat until the man leaves, a sign of respect
+[19:07:16] Morgan Beck: Well, enjoy your ration.
+[19:07:18] CAC.C17-CRM.71096: /looc sure
+[19:07:19] Client "Apollo7771FO3" connected.
+[19:07:21] Alfred Langenberg: .// kk
+[19:07:36] CAC.C17-CRM.71096: /looc imma get some food rq as that happens i havent eaten yet
+[19:07:42] Alfred Langenberg: .// aight have fun
+[19:08:12] Johnny Benson: nice
+[19:08:20] Alfred Langenberg: .// shit i was tabbed our you scared me
+[19:08:26] Alfred Langenberg: You really love that word, don't you?
+[19:08:35] Johnny Benson: yeah
+[19:08:43] Alfred Langenberg: nice
+[19:08:53] Johnny Benson: what
+[19:08:58] Johnny Benson: where did the can come from
+[19:09:03] Alfred Langenberg: From your pocket
+[19:09:04] Johnny Benson: /me picks up the can
+[19:09:11] Johnny Benson: Must of fell
+[19:09:12] Alfred Langenberg: now put it in the trash can
+[19:09:17] Johnny Benson: heads up
+[19:09:26] Johnny Benson: its raining cans
+[19:09:26] Hyo Jeong: /me eats the food rather slowly, trying and making sure not to drop any piece, and trying to supress the munching sound that she would cause
+[19:09:37] Alfred Langenberg: at least they're empty
+[19:09:45] Alfred Langenberg: Getting smacked with a full one wouldn't be nice
+[19:09:47] Hyo Jeong: /me after she finishs the food, she opens the can, and drinking the water
+[19:09:52] Johnny Benson: Maybe it's trash from a plane
+[19:09:55] Johnny Benson: uh oh
+[19:10:00] Johnny Benson: Behind you...
+[19:10:12] Alfred Langenberg: what's behind me?
+[19:10:14] Hyo Jeong: /me takes a tissue and start cleaning the desk and checking if she left any dirt on the floor, cleaning that too
+[19:10:21] Morgan Beck: /me walks over to the Industrial Grade Oven, checking it over, making sure there isn't any major damage during the installation process.
+[19:10:23] Johnny Benson: Big guy coming fast
+[19:10:30] Alfred Langenberg: Oh, he's fine
+[19:10:34] Client "Apollo7771FO3" spawned in server <STEAM_0:1:40787669> (took 195 seconds).
+[19:10:34] Alfred Langenberg: He wouldn't hurt a fly
+[19:10:40] Alfred Langenberg: unless he recognized it as garbage, I guess
+[19:10:42] Johnny Benson: Turn around and see, it doesn't look good
+[19:10:53] Hyo Jeong: /me takes her jumpsuit and wears it, before lookg around if the person is look, she would start cleaning where she would put her i17 Unifrom and removes any dirty that her shoes casued
+[19:11:07] Alfred Langenberg: // god cremators are fuckin cool
+[19:11:12] Morgan Beck: // Truly. 
+[19:11:15] Hyo Jeong: /me spots the man and walks towards the door
+[19:11:19] Alfred Langenberg: // seein them from a distance is spooky
+[19:11:29] Morgan Beck: /y See ya! Come on over once we're open!
+[19:11:31] Hyo Jeong: /me bows to the man thankfully
+[19:11:41] Morgan Beck: /w Fuckin weird.
+[19:11:47] Alfred Langenberg: hey uuh
+[19:11:49] CCA.C17-GRID.i1.59212: // anyone give the crm a hat yet?
+[19:11:53] Johnny Benson: watch out
+[19:11:54] Alfred Langenberg: why don't you got a suit on?
+[19:12:03] Alfred Langenberg: // i did i was about to tell you
+[19:12:05] Hyo Jeong: /looc void that lool
+[19:12:13] CCA.C17-GRID.i1.59212: .// mine now
+[19:12:15] Alfred Langenberg: hey, grid. Guess what I did?
+[19:12:37] CCA.C17-GRID.i1.59212: .// how do you know im a grid ic
+[19:12:47] CAC.C17-CRM.71096: /ooc i got food that probably doesnt fit the bill for dinner
+[19:12:56] Alfred Langenberg: .// i thought we were keeping all our stories, if so then your name was mentioned multiple times in front of me
+[19:13:11] Johnny Benson: Watch out
+[19:13:20] CCA.C17-GRID.i1.59212: .// i think beta chars are seperate from the other chars
+[19:13:35] Alfred Langenberg: .// no q said we'd be keeping the retail char's stories
+[19:13:43] CCA.C17-GRID.i1.59212: .// wait when
+[19:13:44] Apollo7771FO3<STEAM_0:1:40787669> changed their name to Todd Muller
+[19:13:53] Alfred Langenberg: .// one sec
+[19:14:28] Hyo Jeong<STEAM_0:1:118336892> changed their name to CCA.C17-UNION.i5.09143
+[19:14:33] CCA.C17-UNION.i5.09143: /radio 10-8
+[19:14:41] CCA.C17-GRID.i1.59212: /r 10-4
+[19:14:53] CCA.C17-GRID.i1.59212: What did you do?
+[19:15:05] Alfred Langenberg: .// Will we be abandoning our server lore?No, we will not. All of the past events, stories, and characters will still be canon to the server. I cannot disclose the means by which this will happen.
+[19:15:10] CCA.C17-GRID.i1.59212: CRM, stop standing here.
+[19:15:10] CCA.C17-UNION.i5.09143: /actstand
+[19:15:11] Todd Muller: Officer.
+[19:15:14] CCA.C17-UNION.i5.09143: hm
+[19:15:15] Alfred Langenberg: I did that
+[19:15:16] CCA.C17-UNION.i5.09143: what is it
+[19:15:22] CAC.C17-CRM.71096: /me moves away after some more staring.
+[19:15:30] Alfred Langenberg: heheheh
+[19:15:35] CCA.C17-GRID.i1.59212: did what?
+[19:15:39] Todd Muller: Here, I didn't see anyone at the train station so... Guess I'll give this to you.
+[19:15:39] Alfred Langenberg: you didn't see his hat?
+[19:15:45] CCA.C17-GRID.i1.59212: .// did he have a pac
+[19:15:52] Alfred Langenberg: .// ye
+[19:15:56] Todd Muller: /me Hands the officer a relocation coupon.
+[19:15:59] CCA.C17-GRID.i1.59212: .// didnt load for me
+[19:16:02] Alfred Langenberg: .// darn
+[19:16:06] Alfred Langenberg: .// well he did have it on for me
+[19:16:07] CCA.C17-UNION.i5.09143: follow me
+[19:16:25] CCA.C17-GRID.i1.59212: /r UNION, what are you doing?
+[19:16:28] Alfred Langenberg: I think it suits ihm
+[19:16:46] Johnny Benson: hi
+[19:16:52] CAC.C17-CRM.71096: /me stares at the passing person.
+[19:16:54] Alfred Langenberg: // cremator is now my favorite character, sorry duds.
+[19:17:02] CCA.C17-UNION.i5.09143: wait for me in the other side of the booth
+[19:17:03] CCA.C17-GRID.i1.59212: .// oh my god the hat
+[19:17:07] Todd Muller: Okay.
+[19:17:09] Alfred Langenberg: you like it?
+[19:17:25] CAC.C17-CRM.71096: /me stares at the two in front.
+[19:17:25] CCA.C17-GRID.i1.59212: CRM, bend down
+[19:17:29] CCA.C17-UNION.i5.09143: /radio Grid, the train station door is locked
+[19:17:30] CAC.C17-CRM.71096: /me bends down as instructed.
+[19:17:33] Alfred Langenberg: aw, don't take it off him
+[19:17:33] CCA.C17-UNION.i5.09143: /radio never mind
+[19:17:33] CCA.C17-GRID.i1.59212: .// BEND OVER
+[19:17:41] Alfred Langenberg: he let me do it
+[19:17:42] CAC.C17-CRM.71096: /looc as far as i can lmao
+[19:17:52] CCA.C17-UNION.i5.09143: what's your name?
+[19:17:57] CCA.C17-GRID.i1.59212: /me snatches the hat from atop the CRMs head, throwing it aside
+[19:17:58] Todd Muller: Todd Muller
+[19:18:06] CCA.C17-GRID.i1.59212: .// nothing says you cant put it back on him :)
+[19:18:12] Alfred Langenberg: .// i intend to
+[19:18:20] CCA.C17-UNION.i5.09143: /me places his coupon inside the processing machine
+[19:18:28] CCA.C17-GRID.i1.59212: do *not* touch the Cremators.
+[19:18:40] Alfred Langenberg: If we're not allowed to touch them why do they allow us to?
+[19:18:46] CCA.C17-UNION.i5.09143: /me takes his Datapad out, inserting inside of it a black card
+[19:18:50] CCA.C17-UNION.i5.09143: /viewdata alf
+[19:18:52] CAC.C17-CRM.71096: /me stares blankly.
+[19:18:56] CCA.C17-GRID.i1.59212: Cremator, follow me
+[19:18:56] CCA.C17-UNION.i5.09143: /viewdata todd
+[19:19:06] Alfred Langenberg: /me picks up the hat, stashing it away.
+[19:19:10] CCA.C17-UNION.i5.09143: Mr Todd, what is your Date of Birth?
+[19:19:16] CCA.C17-UNION.i5.09143: /me he asks the man while holding his data pad
+[19:19:16] CCA.C17-GRID.i1.59212: // this is why it let you
+[19:19:18] Alfred Langenberg: // your drip will be returned cremator, in time.
+[19:19:30] Todd Muller: /looc I'm new to this server, what year does it take place in?
+[19:19:32] CCA.C17-GRID.i1.59212: /r Deservicing defective CRM unit.
+[19:19:41] CCA.C17-GRID.i1.59212: /toggleraise
+[19:19:43] Alfred Langenberg: // and wdym
+[19:19:47] CCA.C17-UNION.i5.09143: // check the you tap for more information, 2006, the minimum age to be alive is 21
+[19:19:49] CCA.C17-GRID.i1.59212 killed CAC.C17-CRM.71096 using player
+[19:19:55] CCA.C17-GRID.i1.59212: /toggleraise
+[19:19:55] Todd Muller: /looc Thanks.
+[19:20:02] CCA.C17-GRID.i1.59212: // god damn cremators are strong
+[19:20:08] CAC.C17-CRM.71096: /ooc lmao yea
+[19:20:10] Alfred Langenberg: // yeah what about the age matters?
+[19:20:16] Todd Muller: I was born 1979.
+[19:20:16] Morgan Beck<STEAM_0:1:52892973> changed their name to CCA.C17-HELIX.DvL.33698
+[19:20:23] CCA.C17-HELIX.DvL.33698: /r Why was I hearing gunshots?
+[19:20:26] CCA.C17-UNION.i5.09143: Day and Month?
+[19:20:35] CCA.C17-GRID.i1.59212: /r As I said, deservicing defective CRM unit.
+[19:20:35] CCA.C17-UNION.i5.09143: /viewdata john
+[19:20:42] Todd Muller: 3rd of june.
+[19:20:48] CCA.C17-HELIX.DvL.33698: /r Ah, alright. Didn't get the message. Radio must've been messing up.
+[19:20:53] CCA.C17-HELIX.DvL.33698<STEAM_0:1:52892973> changed their name to Morgan Beck
+[19:21:05] CCA.C17-GRID.i1.59212: /r Apologies for scaring you, then.
+[19:21:05] Alfred Langenberg: // hey drd i have a genuine question
+[19:21:10] CCA.C17-GRID.i1.59212: // hi
+[19:21:11] Alfred Langenberg: // actually, two genuine questions
+[19:21:19] Morgan Beck: // Prob gonna get off for a bit.
+[19:21:23] CCA.C17-UNION.i5.09143: sex, and the blood type
+[19:21:23] Morgan Beck: // Talk to y'all later.
+[19:21:25] Alfred Langenberg: // do you actually have a problem with being called duds or is it just an ic thing?
+[19:21:27] Alfred Langenberg: // cya ollie
+[19:21:29] CAC.C17-CRM.71096: /ooc bye
+[19:21:30] CCA.C17-UNION.i5.09143: /viewdata todd
+[19:21:31] Dropped "Morgan Beck" from server<STEAM_0:1:52892973>
+[19:21:33] CCA.C17-GRID.i1.59212: // ic think, dont worry
+[19:21:35] Todd Muller: Male and O-
+[19:21:39] CCA.C17-GRID.i1.59212: // thing*
+[19:21:40] CCA.C17-UNION.i5.09143: /viewdata todd
+[19:21:47] Alfred Langenberg: // if you had to give alfred a dumb nickname what would it be?
+[19:21:54] CCA.C17-GRID.i1.59212: // no clue
+[19:21:58] CCA.C17-UNION.i5.09143: do you have any Medical and Mental Conditions that I need to be aware of?
+[19:22:10] CAC.C17-CRM.71096<STEAM_0:1:76095374> changed their name to Artyom Kuznetsov
+[19:22:11] CCA.C17-UNION.i5.09143: /me checks his Datapad after saying that, and turning back to face the man
+[19:22:17] Alfred Langenberg: // if you don't give me a nickname I will give myself one and it will be horrible
+[19:22:18] Todd Muller: I have some color blindness in my left eye.
+[19:22:25] Todd Muller: That's about it.
+[19:22:26] Johnny Benson: /setnickname
+[19:22:32] CCA.C17-GRID.i1.59212: // you can call my qrm char duds tho
+[19:22:33] Johnny Benson: /setnickname King
+[19:22:33] Johnny Benson<STEAM_0:1:513914177> changed their name to Johnny 'King' Benson
+[19:22:37] Johnny 'King' Benson: /setnickname
+[19:22:37] Johnny 'King' Benson<STEAM_0:1:513914177> changed their name to Johnny Benson
+[19:22:43] CCA.C17-UNION.i5.09143: /me types in the information in the datapad
+[19:22:45] CCA.C17-UNION.i5.09143: /viewdata tod
+[19:22:45] Alfred Langenberg: // but qrm isn't duds
+[19:22:46] CCA.C17-GRID.i1.59212: // and 36307 when we get the chars back
+[19:22:48] Johnny Benson: // didn't know we had the nickname plugin
+[19:22:53] Alfred Langenberg: // we dont
+[19:22:59] Alfred Langenberg: // im just calling him duds ic
+[19:23:08] Johnny Benson: // we do its /setnickname
+[19:23:25] Alfred Langenberg: // why do i not know we have all these plguins bruh
+[19:23:30] Alfred Langenberg: // but as i was saying
+[19:23:34] Alfred Langenberg: // duds is duds,  qrm is...
+[19:23:38] Alfred Langenberg: // hrmmmn
+[19:23:42] CCA.C17-UNION.i5.09143: /me takes out the black card from the datapad and places it on the booth's desk, saying to the man " Walk past the Force Shield, welcome to the Industrial section of City 17, Citizen. "
+[19:24:04] Alfred Langenberg: // QrM is Mule, cause he's always gotta carry shit for the other units
+[19:24:04] Todd Muller: /me Nods before grabbing the card and pocketing it.
+[19:24:17] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> changed their name to CCA.C17-QrM.52934
+[19:24:25] CCA.C17-QrM.52934: // it seems im charged for zipties
+[19:24:39] CCA.C17-QrM.52934: // the cost to resupply units comes directly from my paycheque
+[19:24:56] Johnny Benson: // can you lend me a shotgun
+[19:24:57] Alfred Langenberg: // okay then you're a poor mule
+[19:25:02] CCA.C17-QrM.52934: // yeah, sure
+[19:25:07] CCA.C17-QrM.52934: // want some ammo with it?
+[19:25:19] Johnny Benson: // yeah just drop it in the plaza  when you can
+[19:25:24] Alfred Langenberg: // I would like to requisition a wife. I am desperate and will take any make or model
+[19:25:24] CCA.C17-QrM.52934<STEAM_0:0:193599766> changed their name to CCA.C17-GRID.i1.59212
+[19:25:35] Johnny Benson: // just spawn one
+[19:25:35] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> changed their name to CCA.C17-QrM.52934
+[19:25:42] Alfred Langenberg: // I don't got perms bruh!
+[19:25:47] CCA.C17-QrM.52934: // i have a blender in the back, will that work?
+[19:25:53] Alfred Langenberg: // hmmm
+[19:25:58] Alfred Langenberg: // can you paint it pink>?
+[19:26:06] CCA.C17-QrM.52934: // already pink
+[19:26:10] Alfred Langenberg: // yeah that'll do
+[19:26:20] CCA.C17-QrM.52934: // that'll be 39048 tokens
+[19:26:28] Alfred Langenberg: // alright thanks bro i owe you one
+[19:26:28] CCA.C17-QrM.52934<STEAM_0:0:193599766> changed their name to Hollie Reynolds
+[19:26:33] Hollie Reynolds: // come buy alcohol
+[19:26:48] Alfred Langenberg: // alcohol is for losers
+[19:26:53] Hollie Reynolds: // come buy alcohol
+[19:26:55] Artyom Kuznetsov: /ooc then alcohol is for me
+[19:26:59] Alfred Langenberg: // ah cool
+[19:27:01] Johnny Benson: // no
+[19:27:11] Todd Muller: Sorry.
+[19:27:12] Johnny Benson: scuse me
+[19:27:41] Hollie Reynolds: hi- your hat is floating
+[19:27:47] Artyom Kuznetsov: /looc is it not gone
+[19:27:50] Alfred Langenberg: .// no
+[19:27:51] Hollie Reynolds: .// nope
+[19:27:53] Artyom Kuznetsov: /looc now?
+[19:27:57] Hollie Reynolds: .// nope
+[19:27:59] Todd Muller: Thank you..
+[19:28:01] CCA.C17-UNION.i5.09143: wait
+[19:28:04] CCA.C17-UNION.i5.09143: follow me
+[19:28:05] Artyom Kuznetsov: /looc now?
+[19:28:08] Hollie Reynolds: .// nope
+[19:28:11] Alfred Langenberg: .// bro
+[19:28:14] Artyom Kuznetsov: /looc someones about to be shot
+[19:28:16] Alfred Langenberg: .// go into q menu
+[19:28:20] Alfred Langenberg: .// go to utilities
+[19:28:22] Alfred Langenberg: .// pac3
+[19:28:24] CCA.C17-UNION.i5.09143: go inside and get yourself some filters, citizen.
+[19:28:25] Alfred Langenberg: .// hit panic button
+[19:28:29] Todd Muller: Okay.
+[19:28:37] Artyom Kuznetsov: /looc now?
+[19:28:41] Alfred Langenberg: .// okay tf
+[19:28:45] Hollie Reynolds: .// ...panic button?
+[19:28:47] Alfred Langenberg: .// open console and type pac_restart
+[19:28:54] Artyom Kuznetsov: /looc did that already
+[19:28:56] Alfred Langenberg: .// yah pac3 has a panic button
+[19:29:04] Alfred Langenberg: .// dunno why its no
+[19:29:07] Alfred Langenberg: .// oh there it goes
+[19:29:08] Alfred Langenberg: .// fixed
+[19:29:09] CCA.C17-UNION.i5.09143: you
+[19:29:12] Johnny Benson: hi
+[19:29:13] Artyom Kuznetsov: /looc ok just had to become tall
+[19:29:19] Alfred Langenberg: .// understandable
+[19:29:19] Hollie Reynolds: can I get you two anything?
+[19:29:20] CCA.C17-UNION.i5.09143: would you like to do a job
+[19:29:24] Johnny Benson: Sure.
+[19:29:25] Artyom Kuznetsov: Gin please.
+[19:29:27] CCA.C17-UNION.i5.09143: follow me
+[19:29:30] Hollie Reynolds: 15 tokens
+[19:29:36] Artyom Kuznetsov: /me takes off his suit and sets down the tokens.
+[19:29:39] Artyom Kuznetsov: /droptokens 15
+[19:29:46] Alfred Langenberg: Can I just sit here, for the air?
+[19:29:54] Hollie Reynolds: paying customers only
+[19:30:11] Johnny Benson: What's thids
+[19:30:13] Johnny Benson: [[ this*
+[19:30:16] CCA.C17-UNION.i5.09143: alright
+[19:30:39] CCA.C17-UNION.i5.09143: /me takes a bucket filled with water and a spongage and gives it to the citizen
+[19:30:45] Johnny Benson: ..
+[19:30:49] CCA.C17-UNION.i5.09143: follow me, you'll be cleaning some windows
+[19:30:58] Johnny Benson: Do I get paid?
+[19:31:02] Alfred Langenberg: Can I just get some water?
+[19:31:03] Artyom Kuznetsov: Appreciated.
+[19:31:04] CCA.C17-UNION.i5.09143: yes with LP
+[19:31:08] Johnny Benson: Nice
+[19:31:11] CCA.C17-UNION.i5.09143: clean the windows of the other store
+[19:31:14] Hollie Reynolds: I only sell gin and lager
+[19:31:18] Johnny Benson: XCCR?
+[19:31:21] Alfred Langenberg: No food?
+[19:31:22] Artyom Kuznetsov: /looc lol gin tooltip causes lua errors
+[19:31:22] CCA.C17-UNION.i5.09143: yes
+[19:31:26] Hollie Reynolds: nope
+[19:31:29] Johnny Benson: Ok..
+[19:31:31] Alfred Langenberg: w-Why not?
+[19:31:37] Hollie Reynolds: don't have any
+[19:31:38] Johnny Benson: /me rolls up the shutters
+[19:31:53] Alfred Langenberg: Well, I don't drink so... I guess I'm off
+[19:31:55] Alfred Langenberg: See you aroubd.
+[19:31:58] Johnny Benson: /me places down the bucket of water and dips the sponge in
+[19:31:59] Alfred Langenberg: .// around*
+[19:32:07] CCA.C17-UNION.i5.09143: you
+[19:32:18] Alfred Langenberg: // damn not even giving your paying customer a seat at the bar?
+[19:32:21] Johnny Benson: /me presses the sponge against the window and starts wiping
+[19:32:22] CCA.C17-UNION.i5.09143: /looc void
+[19:32:31] Hollie Reynolds: // he didnt pay the seat fee
+[19:32:36] Artyom Kuznetsov: /ooc lmao
+[19:32:38] Alfred Langenberg: // damn u greedy bro
+[19:32:46] Johnny Benson: /it A noticeable streak appears in the window, the rest remains green
+[19:32:58] Hollie Reynolds: // i earned more that 130 tokens in 2 days
+[19:33:05] Hollie Reynolds<STEAM_0:0:193599766> changed their name to CCA.C17-GRID.i1.59212
+[19:33:14] Johnny Benson: What do I do with the dirty sponge? Just drain it?
+[19:33:42] CCA.C17-UNION.i5.09143: yes
+[19:33:45] Johnny Benson: Ok..
+[19:33:54] Alfred Langenberg: Oh, I'm just... Sort of walking.
+[19:33:56] Johnny Benson: /me  drains the sponge into the bucket and swishes the water around
+[19:34:02] CCA.C17-UNION.i5.09143: mhm, move along then
+[19:34:04] CCA.C17-UNION.i5.09143: /actstand
+[19:34:14] Johnny Benson: /me continues wiping along the window, making sure to get the edges
+[19:34:16] Artyom Kuznetsov<STEAM_0:1:76095374> used the tool camera on maps/rp_i17_variation_v0.bsp
+[19:34:19] Alfred Langenberg: Can I get a, uh, job, I guess?
+[19:34:38] CCA.C17-UNION.i5.09143: /me turns around checking if the bucket is still there
+[19:35:01] CCA.C17-UNION.i5.09143: yeah actually join him - we only have one sponage though and you both need to split it 
+[19:35:21] Alfred Langenberg: I'd rather, uh, just go sleep. He can keep the sponge.
+[19:35:36] CCA.C17-UNION.i5.09143: /actmotion
+[19:35:50] Alfred Langenberg: /me thonkers for a moment.
+[19:35:59] Alfred Langenberg: Nice duds, though.
+[19:36:23] CCA.C17-UNION.i5.09143: 10-14
+[19:36:46] Johnny Benson: /me continues scrubbing away at the window
+[19:37:05] Johnny Benson: I think this one is done..
+[19:37:07] Artyom Kuznetsov<STEAM_0:1:76095374> used the tool ledscreen on maps/rp_i17_variation_v0.bsp
+[19:37:12] Alfred Langenberg: .// give me a nickname I beg of you
+[19:37:21] Johnny Benson: /me picks up the bucket and moves it along to the next window
+[19:37:23] CCA.C17-GRID.i1.59212: .// im sorry idk
+[19:37:28] CCA.C17-UNION.i5.09143: /me dosen't respond to the man, rather still holding his stunstick firmly
+[19:37:40] Alfred Langenberg: .// damn maybe think more bruh
+[19:38:02] Alfred Langenberg: .// i am going to give myself a horrible nickname
+[19:38:08] CCA.C17-GRID.i1.59212: .// do it
+[19:38:25] Alfred Langenberg: .// hrnnnng
+[19:38:28] Alfred Langenberg: .// th ink
+[19:38:30] Alfred Langenberg: .// ing
+[19:39:08] Alfred Langenberg: .// okay lets try this
+[19:39:16] Alfred Langenberg: .// name a word that defines my character
+[19:39:23] CCA.C17-GRID.i1.59212: .// hat
+[19:39:28] Alfred Langenberg: .// hmmm
+[19:39:30] Alfred Langenberg: .// hat
+[19:39:33] Alfred Langenberg: .// baseball hat
+[19:39:38] CCA.C17-GRID.i1.59212: .// baseball
+[19:39:42] Alfred Langenberg: .// sport
+[19:39:42] CCA.C17-GRID.i1.59212: .// ball?
+[19:39:44] CCA.C17-GRID.i1.59212: .// cap?
+[19:39:48] Alfred Langenberg: .// hnnnnng
+[19:39:55] CCA.C17-GRID.i1.59212: .// cap
+[19:40:03] Alfred Langenberg: .// no cap
+[19:40:21] Johnny Benson: /me reaches to the top of the window
+[19:40:23] CCA.C17-UNION.i5.09143: /me holsters his stunstick and turns around, checking the first window
+[19:40:52] Alfred Langenberg: .// sport nicknames
+[19:40:54] Alfred Langenberg: .// hnnng
+[19:40:58] Alfred Langenberg: .// is ace cringes?
+[19:41:04] CCA.C17-GRID.i1.59212: .// not really
+[19:41:16] Alfred Langenberg: .// Alfred "the Ace" Langenberg?
+[19:41:45] CCA.C17-UNION.i5.09143: /me takes his left hand which is covered with his black combat gloves, placing his finger on the glass as you can hear a screech, he checks his finger tip for any remaining dust, as he turns to the citizen
+[19:41:50] CCA.C17-UNION.i5.09143: good, keep it up
+[19:42:02] Alfred Langenberg: .// how's that?
+[19:42:03] Johnny Benson: /me drains the rag again and swishes the water around
+[19:42:10] CCA.C17-GRID.i1.59212: .// cut out the
+[19:42:19] Johnny Benson: /me wipes up and down the window
+[19:42:26] Alfred Langenberg: .// naaah that doesn't sound as good when said all at once thouh
+[19:42:33] Dropped "Artyom Kuznetsov" from server<STEAM_0:1:76095374>
+[19:43:35] CCA.C17-UNION.i5.09143: you
+[19:43:37] Todd Muller: Yes?
+[19:43:40] Johnny Benson: /me goes around the edges of the windows again
+[19:43:42] CCA.C17-UNION.i5.09143: you seem injured
+[19:43:42] Alfred Langenberg: .// I could play off his pre-war job and call him "chief" as in "fire chief"
+[19:43:49] Todd Muller: Erm, some what.
+[19:43:53] CCA.C17-UNION.i5.09143: explain why
+[19:43:53] CCA.C17-GRID.i1.59212: .// yes
+[19:44:12] Todd Muller: When I first came here I... Didn't have my mask on.
+[19:44:14] Alfred Langenberg: .// are you just saying yes so that i will leave you alone
+[19:44:35] CCA.C17-GRID.i1.59212: .// ye- no
+[19:44:43] CCA.C17-GRID.i1.59212: .// i like "chief?
+[19:44:43] Alfred Langenberg: .// aaaaw my feelings are hurt
+[19:44:46] CCA.C17-GRID.i1.59212: .// i like "chief"
+[19:44:50] CCA.C17-GRID.i1.59212: .// that sounds good
+[19:44:57] Alfred Langenberg: .// you think that's the one?
+[19:44:59] CCA.C17-UNION.i5.09143: yeah, I can see you were holding your chest - I know it hurts, I have something that helps but you will have to see me after I am done with this other person
+[19:45:06] CCA.C17-GRID.i1.59212: .// yeah
+[19:45:10] Alfred Langenberg: .// alrighty
+[19:45:15] Alfred Langenberg: .// the help is appreciated
+[19:45:18] CCA.C17-UNION.i5.09143: /me motions to the person who is near the windows
+[19:45:20] CCA.C17-UNION.i5.09143: /actmotion
+[19:45:23] CCA.C17-GRID.i1.59212: .// yes
+[19:45:26] Todd Muller: Erm, alright.
+[19:45:33] CCA.C17-UNION.i5.09143: you can go
+[19:45:37] Alfred Langenberg: .// i think im gonna go tho
+[19:45:40] CCA.C17-UNION.i5.09143: done?
+[19:45:41] CCA.C17-GRID.i1.59212: .// yes
+[19:45:44] Johnny Benson: Yeah..
+[19:45:49] CCA.C17-UNION.i5.09143: let me check
+[19:45:52] Alfred Langenberg: .// i'll cya around broh
+[19:45:56] CCA.C17-GRID.i1.59212: .// yes
+[19:46:00] Alfred Langenberg: .// uh huh
+[19:46:02] CCA.C17-GRID.i1.59212: .// yes
+[19:46:05] Alfred Langenberg: .// yep
+[19:46:07] CCA.C17-GRID.i1.59212: .// yes
+[19:46:10] Alfred Langenberg: .// sure
+[19:46:13] CCA.C17-GRID.i1.59212: .// yes
+[19:46:16] Alfred Langenberg: .// okie dokie
+[19:46:18] CCA.C17-GRID.i1.59212: .// yes
+[19:46:21] Alfred Langenberg: .// you got it
+[19:46:25] CCA.C17-GRID.i1.59212: .// yes
+[19:46:29] CCA.C17-UNION.i5.09143: /me takes his left arm again, which is covered with block combat gloves as he taps the window with his finger tip and goes down checking the window before checking his finger tip for any dirt, he lowers his arms and turns to the citizen
+[19:46:30] Alfred Langenberg: .// indubitably
+[19:46:33] CCA.C17-UNION.i5.09143: good enough
+[19:46:37] CCA.C17-GRID.i1.59212: .// yes
+[19:46:38] CCA.C17-UNION.i5.09143: take the bucket and follow me
+[19:46:41] Johnny Benson: Ok...
+[19:46:42] Alfred Langenberg: // most certainly
+[19:46:48] CCA.C17-GRID.i1.59212: .// yes
+[19:46:49] CCA.C17-GRID.i1.59212: .// yes
+[19:46:50] CCA.C17-GRID.i1.59212: .// yes
+[19:46:51] CCA.C17-GRID.i1.59212: .// yes
+[19:46:51] CCA.C17-GRID.i1.59212: .// yes
+[19:46:52] CCA.C17-GRID.i1.59212: .// yes
+[19:46:53] CCA.C17-GRID.i1.59212: .// yes
+[19:46:54] CCA.C17-GRID.i1.59212: .// yes
+[19:46:54] CCA.C17-GRID.i1.59212: .// yes
+[19:46:55] Alfred Langenberg: .// oh no
+[19:46:55] CCA.C17-GRID.i1.59212: .// yes\
+[19:46:56] CCA.C17-GRID.i1.59212: .// yes\
+[19:46:57] CCA.C17-GRID.i1.59212: .// yes\
+[19:46:58] Alfred Langenberg: .// system overload
+[19:46:59] CCA.C17-GRID.i1.59212: .// yes\
+[19:46:59] CCA.C17-GRID.i1.59212: .// yes\
+[19:47:00] CCA.C17-GRID.i1.59212: .// yes\
+[19:47:01] CCA.C17-GRID.i1.59212: .// yes\
+[19:47:01] CCA.C17-GRID.i1.59212: .// yes\
+[19:47:05] CCA.C17-GRID.i1.59212: /toggleraise
+[19:47:05] CCA.C17-UNION.i5.09143: place the bucket on the floor and apply
+[19:47:09] CCA.C17-GRID.i1.59212: .// yes
+[19:47:11] Alfred Langenberg: .// alright fr i'll see you later dude
+[19:47:12] Johnny Benson: /me places the bucket down
+[19:47:13] Johnny Benson: /apply
+[19:47:14] CCA.C17-GRID.i1.59212: .// cya
+[19:47:16] Dropped "Alfred Langenberg" from server<STEAM_0:1:48276840>
+[19:47:19] CCA.C17-UNION.i5.09143: /me takes out his data pad and inserting the citizen name in
+[19:47:22] CCA.C17-UNION.i5.09143: /viewdata Johnn
+[19:48:08] CCA.C17-UNION.i5.09143: also, if you want to sell resin you can insert it here
+[19:48:13] CCA.C17-UNION.i5.09143: /me takes his datapad and holsters it
+[19:48:16] CCA.C17-UNION.i5.09143: one LP added
+[19:48:20] CCA.C17-UNION.i5.09143: you can go
+[19:48:20] Johnny Benson: ..Cool.
+[19:48:32] Johnny Benson: .// /me pulls out pistol
+[19:49:21] Johnny Benson: Psst
+[19:49:27] Todd Muller: Hm?
+[19:49:33] Johnny Benson: Got anything to sell?
+[19:49:38] Dropped "CCA.C17-UNION.i5.09143" from server<STEAM_0:1:118336892>
+[19:49:43] Todd Muller: Erm, nothing really.
+[19:49:51] Johnny Benson: Hm.. Any crafting stuff? Wood?
+[19:50:16] Todd Muller: No.. All I have is air- Why do you need these things anyway?
+[19:50:23] Johnny Benson: Nevermind..
+[19:50:27] Todd Muller: Hm.
+[19:51:19] Dropped "Johnny Benson" from server<STEAM_0:1:513914177>
+[19:51:46] Dropped "Todd Muller" from server<STEAM_0:1:40787669>
+[19:52:35] Dropped "CCA.C17-GRID.i1.59212" from server<STEAM_0:0:193599766>
+[22:25:52] Client "matt saton" connected.
+[22:28:06] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 134 seconds).
+[22:29:06] matt saton<STEAM_0:1:53097688> changed their name to Anne Wayle
+[22:29:33] Anne Wayle<STEAM_0:1:53097688> spawned model models/props_warehouse/office_furniture_desk.mdl
+[22:29:45] Anne Wayle<STEAM_0:1:53097688> spawned sent ix_printer
+[22:30:02] Anne Wayle<STEAM_0:1:53097688> used the tool permaprops on models/props_warehouse/office_furniture_desk.mdl
+[22:30:18] Anne Wayle<STEAM_0:1:53097688> spawned sent ix_citizenairvent
+[22:30:30] Anne Wayle: /adminspawnmenu
+[22:32:14] Anne Wayle: /adminspawnmenu
+[22:32:56] Anne Wayle: /adminspawnmenu
+[22:36:01] Anne Wayle<STEAM_0:1:53097688> spawned sent ix_printer
+[22:36:04] Anne Wayle<STEAM_0:1:53097688> spawned model models/props_warehouse/office_furniture_desk.mdl
+[22:36:14] Anne Wayle<STEAM_0:1:53097688> used the tool permaprops on models/props_warehouse/office_furniture_desk.mdl
+[22:36:32] Anne Wayle<STEAM_0:1:53097688> spawned model models/props_warehouse/office_furniture_desk.mdl
+[22:36:36] Anne Wayle<STEAM_0:1:53097688> used the tool permaprops on models/props_warehouse/office_furniture_desk.mdl
+[22:36:41] Anne Wayle<STEAM_0:1:53097688> spawned sent ix_printer
+[22:37:46] Anne Wayle<STEAM_0:1:53097688> spawned sent ix_printer
+[22:38:35] Anne Wayle: /chargiveitem anne copier
+[22:38:41] Anne Wayle: /chargiveitem anne "copy paper"
+[22:38:43] Anne Wayle: /adminspawnmenu
+[22:38:59] Anne Wayle: /chargiveitem anne "printer paper"
+[22:39:03] Anne Wayle: /chargiveitem anne "printer paper" 3
+[22:39:15] Anne Wayle: /chargiveitem anne "paper" 5
+[22:39:26] Anne Wayle: /chargiveitem wayle ota
+[22:39:41] Anne Wayle: /chargiveitem notepad ota
+[22:39:52] Anne Wayle: /chargiveitem wayle notepad 7
+[22:40:08] Anne Wayle: /chargiveitem wayle notepad 7
+[22:40:34] Anne Wayle<STEAM_0:1:53097688> spawned/gave himself swep weapon_ar2
+[22:40:35] Anne Wayle: /toggleraise
+[22:40:37] Anne Wayle<STEAM_0:1:53097688> spawned/gave himself swep weapon_crossbow
+[22:40:37] Anne Wayle: /toggleraise
+[22:40:40] Anne Wayle<STEAM_0:1:53097688> spawned/gave himself swep weapon_shotgun
+[22:40:40] Anne Wayle: /toggleraise
+[22:41:47] Anne Wayle: /chargiveitem wayle printer 7
+[22:42:08] Anne Wayle: /chargiveitem wayle printer 5
+[22:42:20] Anne Wayle: /chargiveitem wayle notepad 5
+[22:42:22] Anne Wayle: /chargiveitem wayle notepad 6
+[22:42:43] Anne Wayle: /chargiveitem wayle notepad 3
+[22:42:51] Anne Wayle: /chargiveitem wayle notepad 8
+[22:43:15] Anne Wayle: /chargiveitem wayle paper 2
+[22:43:56] Anne Wayle: /chargiveitem wayle paper 7
+[22:43:57] Anne Wayle: /chargiveitem wayle paper 77
+[22:44:38] Anne Wayle: /adminspawnmenu
+[22:51:14] Anne Wayle<STEAM_0:1:53097688> spawned model models/props_interiors/side_table_square.mdl
+[22:51:23] Anne Wayle<STEAM_0:1:53097688> used the tool permaprops on models/props_interiors/side_table_square.mdl
+[22:51:35] Anne Wayle<STEAM_0:1:53097688> spawned model models/props_warehouse/office_furniture_desk.mdl
+[22:51:47] Anne Wayle<STEAM_0:1:53097688> spawned sent ix_printer
+[22:52:03] Anne Wayle: /adminspawnmenu
+[22:53:12] Anne Wayle: /chargiveitem wayle copier 5
+[22:53:18] Anne Wayle<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_filecabinet001a.mdl
+[22:53:30] Anne Wayle<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_filecabinet001a.mdl
+[22:53:54] Anne Wayle<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_filecabinet001a.mdl
+[22:54:06] Anne Wayle<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/controlroom_filecabinet001a.mdl
+[22:54:09] Anne Wayle<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/controlroom_filecabinet001a.mdl
+[22:54:11] Anne Wayle<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_warehouse/office_furniture_desk.mdl
+[22:54:36] Anne Wayle<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/controlroom_filecabinet001a.mdl
+[22:54:53] Anne Wayle<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_warehouse/office_furniture_desk.mdl
+[22:55:07] Anne Wayle: /chargiveitem wayle printer 8
+[22:55:24] Anne Wayle: /chargiveitem wayle printer 4
+[22:55:35] Anne Wayle: /chargiveitem wayle printer 7
+[22:56:20] Anne Wayle: /chargiveitem wayle paper 7
+[22:56:33] Anne Wayle: /chargiveitem wayle paper 7
+[23:05:22] Dropped "Anne Wayle" from server<STEAM_0:1:53097688>
+[23:52:57] Client "matt saton" connected.
+[23:54:10] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 73 seconds).
+[23:55:19] matt saton<STEAM_0:1:53097688> changed their name to Anne Wayle
+<Logging continued in "data/ulx_logs/02-10-21.txt">

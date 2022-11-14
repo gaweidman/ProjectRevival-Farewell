@@ -1,0 +1,2312 @@
+[02:04:30] New map: rp_city8_edit_v4r
+[10:06:56] Client "DRD" connected.
+[10:07:46] Client "LynxQueen" connected.
+[10:11:19] Client "LynxQueen" spawned in server <STEAM_0:1:70540942> (took 213 seconds).
+[10:12:15] Client "DRD" spawned in server <STEAM_0:0:193599766> (took 319 seconds).
+[10:12:30] LynxQueen<STEAM_0:1:70540942> changed their name to Chloe Cullen
+[10:13:37] Chloe Cullen<STEAM_0:1:70540942> spawned sent ix_unionlock
+[10:14:22] Chloe Cullen<STEAM_0:1:70540942> spawned model models/props/de_inferno/bed.mdl
+[10:14:32] Chloe Cullen<STEAM_0:1:70540942> used the tool permaprops on models/props/de_inferno/bed.mdl
+[10:14:42] Chloe Cullen: /adminspawnmenu
+[10:15:27] Chloe Cullen: /adminspawnmenu
+[10:15:29] Dropped "DRD" from server<STEAM_0:0:193599766>
+[10:20:44] Client "DRD" connected.
+[10:24:19] Chloe Cullen: /charaddattribute Chloe Main 100
+[10:24:28] Chloe Cullen: /charaddattribute Chloe Fabr 100
+[10:24:33] Chloe Cullen: /charaddattribute Chloe Engin 100
+[10:25:19] Client "DRD" spawned in server <STEAM_0:0:193599766> (took 275 seconds).
+[10:26:12] Chloe Cullen: /viewdata Chloe
+[10:26:43] Chloe Cullen: /chargiveflag Chloe Vort
+[10:26:53] Chloe Cullen: /chargiveflag Chloe Vortigaunt
+[10:27:12] Chloe Cullen: /plywhitelist Chloe 
+[10:27:15] Chloe Cullen: /plywhitelist Chloe Vortigaunt
+[10:27:21] Chloe Cullen: /plywhitelist Chloe Consc
+[10:28:35] Chloe Cullen<STEAM_0:1:70540942> changed their name to Kal'Taar
+[10:28:51] Kal'Taar: /plywhitelist Kal biot
+[10:29:11] DRD to admins: don't whitelist yourself for everything
+[10:29:41] Dropped "DRD" from server<STEAM_0:0:193599766>
+[10:29:45] Client "DRD" connected.
+[10:31:11] Kal'Taar<STEAM_0:1:70540942> changed their name to Chloe Cullen
+[10:31:58] Client "DRD" spawned in server <STEAM_0:0:193599766> (took 133 seconds).
+[10:33:21] Chloe Cullen<STEAM_0:1:70540942> spawned sent ix_testent9
+[10:33:26] Chloe Cullen<STEAM_0:1:70540942> spawned sent ix_airvent
+[10:33:46] Chloe Cullen<STEAM_0:1:70540942> spawned sent ix_airvent
+[10:34:02] Chloe Cullen<STEAM_0:1:70540942> used the tool permaprops on models/props_combine/combine_emitter01.mdl
+[10:34:44] DRD: /plyshitelist drd covo
+[10:34:46] Chloe Cullen<STEAM_0:1:70540942> spawned sent ix_testent6
+[10:34:57] DRD: /plywhitelist drd civil
+[10:35:09] DRD: /plywhitelist drd transhuman
+[10:35:16] DRD: /plywhitelist drd arm
+[10:35:22] DRD: /plywhitelist drd administrator
+[10:35:29] DRD<STEAM_0:0:193599766> changed their name to CCA.C08-GRID.i1.23710
+[10:35:41] Chloe Cullen to admins: I knew I was forgetting one
+[10:35:43] CCA.C08-GRID.i1.23710: // there we go
+[10:35:50] CCA.C08-GRID.i1.23710 to admins: forgetting what
+[10:36:01] Chloe Cullen: /plywhitelist Chloe Admin
+[10:36:12] CCA.C08-GRID.i1.23710: /plyunwhitelist chloe admin
+[10:36:20] Chloe Cullen: /plywhitelist Chloe Admin
+[10:36:24] CCA.C08-GRID.i1.23710 to admins: stop
+[10:36:26] CCA.C08-GRID.i1.23710: /plyunwhitelist chloe admin
+[10:36:31] Chloe Cullen to admins: stop unwhitelisting me then
+[10:36:32] Chloe Cullen: /plywhitelist Chloe Admin
+[10:36:41] CCA.C08-GRID.i1.23710 to admins: you aren't an administrator
+[10:36:43] CCA.C08-GRID.i1.23710: /plyunwhitelist chloe admin
+[10:37:52] CCA.C08-GRID.i1.23710 to admins: oh yeah, the combine lock was on the scrap store ic
+[10:38:26] CCA.C08-GRID.i1.23710: /viewdata chloe
+[10:39:55] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> spawned sent ix_combinelock
+[10:40:01] Chloe Cullen<STEAM_0:1:70540942> changed their name to Merissa Myers
+[10:40:43] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> spawned ragdoll models/combine_scanner.mdl
+[10:40:56] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> used the tool permaprops on models/combine_scanner.mdl
+[10:41:13] Merissa Myers<STEAM_0:1:70540942> spawned sent ix_printer
+[10:42:34] CCA.C08-GRID.i1.23710: // shut up consul
+[10:42:55] CCA.C08-GRID.i1.23710 to admins: oh yeah, why do you have a vort?
+[10:43:21] Merissa Myers to admins: Because I'm nearly done writing the fucking vortigaunt guide.
+[10:43:36] CCA.C08-GRID.i1.23710 to admins: ohok
+[10:43:51] Merissa Myers to admins: seems prudent for the writer of the guide to have a vortigaunt.
+[10:44:10] CCA.C08-GRID.i1.23710 to admins: i thought you just gave yourself it randomly, my bad
+[10:44:53] CCA.C08-GRID.i1.23710: /toggleraise
+[10:45:01] CCA.C08-GRID.i1.23710: bbq
+[10:45:14] CCA.C08-GRID.i1.23710: /toggleraise
+[10:45:17] Merissa Myers to admins: Gabe hasn't spawned new loot in days
+[10:45:33] CCA.C08-GRID.i1.23710 to admins: scatter some stuff around if you want
+[10:45:52] CCA.C08-GRID.i1.23710 to admins: just no guns or weapons beyond a rock
+[10:45:52] Merissa Myers to admins: Might just do that
+[10:46:57] Merissa Myers to admins: Might hide some really good items in really particular spots
+[10:47:12] CCA.C08-GRID.i1.23710 to admins: alright
+[10:47:19] CCA.C08-GRID.i1.23710 to admins: no blow torches or anything
+[10:47:31] Merissa Myers to admins: why blow torches specifically?
+[10:47:44] CCA.C08-GRID.i1.23710 to admins: because they roll around and cant be picked up
+[10:48:01] Merissa Myers: /adminspawnmenu
+[10:48:51] Merissa Myers to admins: Nobody is ever going to find this
+[10:48:56] CCA.C08-GRID.i1.23710 to admins: oh yes they will
+[10:49:15] CCA.C08-GRID.i1.23710 to admins: oh
+[10:49:16] Merissa Myers: /adminspawnmenu
+[10:49:17] CCA.C08-GRID.i1.23710 to admins: nvm
+[10:49:24] CCA.C08-GRID.i1.23710 to admins: thought this was a different pipe
+[10:49:33] CCA.C08-GRID.i1.23710 to admins: i thought it was the one that connected the 2 areas
+[10:50:11] Merissa Myers to admins: Nope. Picked the useless one
+[10:50:32] CCA.C08-GRID.i1.23710 to admins: wtf
+[10:50:36] Merissa Myers to admins: ?
+[10:50:40] CCA.C08-GRID.i1.23710 to admins: There's just 5 padlocks
+[10:50:51] Merissa Myers to admins: Yeah I threw them out of my inventory
+[10:50:57] Merissa Myers: /adminspawnmenu
+[10:51:00] CCA.C08-GRID.i1.23710 to admins: in the shape of a lambda?????????? foreshadowing???? new campaign revealed???
+[10:52:05] Merissa Myers: /adminspawnmenu
+[10:52:25] Merissa Myers to admins: piss.
+[10:52:32] Merissa Myers<STEAM_0:1:70540942> spawned/gave himself swep weapon_rpg
+[10:52:34] CCA.C08-GRID.i1.23710 to admins: piss.
+[10:52:36] CCA.C08-GRID.i1.23710 to admins: piss item when
+[10:52:54] Merissa Myers to admins: moonshine has no model
+[10:53:12] Merissa Myers<STEAM_0:1:70540942> spawned/gave himself swep weapon_extinguisher_infinite
+[10:53:14] CCA.C08-GRID.i1.23710 to admins: dont place any food down unless it's uu stuff or rations, chances are it has no model
+[10:53:33] CCA.C08-GRID.i1.23710 to admins: also if you didnt know this already, if its an error, its usually best to just gluon gun it
+[10:53:34] Merissa Myers to admins: I'll test in the staff room
+[10:53:43] Merissa Myers to admins: Gluon? Aight
+[10:53:47] Merissa Myers<STEAM_0:1:70540942> spawned/gave himself swep weapon_egon
+[10:54:22] Merissa Myers: /adminspawnmenu
+[10:55:07] Merissa Myers to admins: my gluon stopped working
+[10:55:09] Merissa Myers<STEAM_0:1:70540942> spawned sent ammo_gaussclip
+[10:55:30] CCA.C08-GRID.i1.23710 to admins: uhhhh
+[10:55:37] CCA.C08-GRID.i1.23710 gave Merissa Myers 999999 rounds
+[10:55:39] CCA.C08-GRID.i1.23710 to admins: try now
+[10:56:05] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> spawned/gave himself swep weapon_rpg
+[10:56:11] CCA.C08-GRID.i1.23710 to admins: step back
+[10:56:11] CCA.C08-GRID.i1.23710: /toggleraise
+[10:56:22] CCA.C08-GRID.i1.23710 to admins: um
+[10:56:32] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> spawned/gave himself swep weapon_ar2
+[10:56:32] CCA.C08-GRID.i1.23710: /toggleraise
+[10:56:49] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> spawned/gave himself swep weapon_fireextinguisher
+[10:56:50] CCA.C08-GRID.i1.23710: /toggleraise
+[10:57:05] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> spawned/gave himself swep weapon_vj_flaregun
+[10:57:06] CCA.C08-GRID.i1.23710: /toggleraise
+[10:57:08] Merissa Myers<STEAM_0:1:70540942> spawned/gave himself swep weapon_possessor
+[10:57:10] CCA.C08-GRID.i1.23710 to admins: hey watch this
+[10:57:12] Merissa Myers was killed by obj_vj_flareround
+[10:57:22] Merissa Myers to admins: pain
+[10:57:24] Merissa Myers<STEAM_0:1:70540942> spawned/gave himself swep weapon_possessor
+[10:57:25] CCA.C08-GRID.i1.23710 to admins: [SERVER] Merissa Myers has taken 500 damage from obj_vj_flareround.
+[10:57:27] Merissa Myers was killed by obj_vj_flareround
+[10:57:42] CCA.C08-GRID.i1.23710: /toggleraise
+[10:57:47] Merissa Myers<STEAM_0:1:70540942> spawned/gave himself swep weapon_sporelauncher
+[10:57:53] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> spawned/gave himself swep swep_vortigaunt_sweep
+[10:57:53] CCA.C08-GRID.i1.23710: /toggleraise
+[10:57:57] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> spawned/gave himself swep swep_vortigaunt_beam_edit
+[10:57:58] CCA.C08-GRID.i1.23710: /toggleraise
+[10:57:58] Merissa Myers<STEAM_0:1:70540942> spawned/gave himself swep weapon_barnacle
+[10:58:08] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> spawned/gave himself swep swep_vortigaunt_heal
+[10:58:09] CCA.C08-GRID.i1.23710: /toggleraise
+[10:58:09] Merissa Myers<STEAM_0:1:70540942> spawned/gave himself swep weapon_shockrifle
+[10:58:18] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> spawned/gave himself swep weapon_vj_mp40
+[10:58:19] CCA.C08-GRID.i1.23710: /toggleraise
+[10:58:28] Merissa Myers<STEAM_0:1:70540942> spawned/gave himself swep tfa_rustalpha_stone_hatchet
+[10:58:30] CCA.C08-GRID.i1.23710: .// for deustchland?
+[10:58:38] Merissa Myers<STEAM_0:1:70540942> spawned/gave himself swep tfa_rustalpha_m4
+[10:58:44] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> spawned/gave himself swep weapon_vj_rpg
+[10:58:45] CCA.C08-GRID.i1.23710: /toggleraise
+[10:58:46] Merissa Myers<STEAM_0:1:70540942> spawned/gave himself swep weapon_vj_mp40
+[10:58:48] CCA.C08-GRID.i1.23710: .// um
+[10:58:52] Merissa Myers<STEAM_0:1:70540942> spawned/gave himself swep weapon_vj_rpg
+[10:58:54] Merissa Myers suicided!
+[10:58:54] Merissa Myers killed CCA.C08-GRID.i1.23710 using player
+[10:58:55] CCA.C08-GRID.i1.23710: .// i dont think im holding this right
+[10:59:13] Merissa Myers<STEAM_0:1:70540942> spawned/gave himself swep weapon_vj_m16a1
+[10:59:24] Merissa Myers<STEAM_0:1:70540942> spawned/gave himself swep weapon_vj_spas12
+[10:59:35] Merissa Myers<STEAM_0:1:70540942> spawned NPC npc_citizen
+[10:59:45] Merissa Myers<STEAM_0:1:70540942> spawned NPC npc_citizen
+[10:59:59] Merissa Myers: /adminspawnmenu
+[11:00:51] Merissa Myers to admins: the fuckin uhhhhhhh pipe revolver accuracy is literally the entire screen
+[11:01:09] CCA.C08-GRID.i1.23710 to admins: huh?
+[11:01:22] CCA.C08-GRID.i1.23710: /toggleraise
+[11:01:30] CCA.C08-GRID.i1.23710: .// ITS SO BIG
+[11:01:36] CCA.C08-GRID.i1.23710 gave Themself 10 rounds
+[11:01:45] Merissa Myers: .// try shooting 
+[11:01:56] Client "Anthem" connected.
+[11:02:25] CCA.C08-GRID.i1.23710: .// did i hit
+[11:02:26] Merissa Myers to admins: HAHAHA
+[11:02:30] Merissa Myers to admins: ITS SO BAD
+[11:02:42] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> spawned/gave himself swep tfa_rustalpha_handcannon
+[11:02:46] CCA.C08-GRID.i1.23710 gave Themself -1515424615 rounds
+[11:02:53] CCA.C08-GRID.i1.23710 gave Themself 1000 rounds
+[11:02:55] CCA.C08-GRID.i1.23710: /toggleraise
+[11:03:04] CCA.C08-GRID.i1.23710: .// THE CROSSHAIR IS SO BIG
+[11:03:06] Merissa Myers to admins: 2 damage
+[11:03:08] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[11:03:08] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> spawned/gave himself swep tfa_rustalpha_handcannon
+[11:03:12] CCA.C08-GRID.i1.23710: /toggleraise
+[11:03:26] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> spawned/gave himself swep tfa_rustalpha_stone_hatchet
+[11:03:26] CCA.C08-GRID.i1.23710: /toggleraise
+[11:03:41] Merissa Myers: !ammo
+[11:03:49] Merissa Myers: .// whats the fuckin uhh ammo command
+[11:03:57] Merissa Myers<STEAM_0:1:70540942> spawned/gave himself swep weapon_vj_rpg
+[11:04:24] Merissa Myers<STEAM_0:1:70540942> spawned/gave himself swep weapon_vj_glock17
+[11:04:39] Merissa Myers<STEAM_0:1:70540942> spawned NPC npc_citizen
+[11:05:09] Merissa Myers<STEAM_0:1:70540942> spawned/gave himself swep weapon_vj_9mmpistol
+[11:05:15] Merissa Myers<STEAM_0:1:70540942> spawned/gave himself swep weapon_vj_blaster
+[11:05:28] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> spawned/gave himself swep tfa_rustalpha_pipeshotgun
+[11:05:28] CCA.C08-GRID.i1.23710: /toggleraise
+[11:05:40] Merissa Myers<STEAM_0:1:70540942> spawned/gave himself swep swep_vortigaunt_heal
+[11:05:41] Merissa Myers<STEAM_0:1:70540942> spawned/gave himself swep swep_vortigaunt_heal
+[11:05:42] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> spawned/gave himself swep tfa_rustalpha_mp5
+[11:05:43] CCA.C08-GRID.i1.23710: /toggleraise
+[11:05:46] CCA.C08-GRID.i1.23710 killed Merissa Myers using tfa_rustalpha_mp5
+[11:05:48] Merissa Myers<STEAM_0:1:70540942> spawned/gave himself swep swep_vortigaunt_sweep
+[11:05:51] CCA.C08-GRID.i1.23710 brought Merissa Myers
+[11:05:51] CCA.C08-GRID.i1.23710: !BRING MER
+[11:05:54] Merissa Myers<STEAM_0:1:70540942> spawned/gave himself swep swep_vortigaunt_beam_edit
+[11:05:55] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> spawned/gave himself swep tfa_rustalpha_torch
+[11:06:02] CCA.C08-GRID.i1.23710: /toggleraise
+[11:06:07] CCA.C08-GRID.i1.23710: .// WHAT IS THAT NOISE
+[11:06:15] Merissa Myers<STEAM_0:1:70540942> spawned/gave himself swep weapon_vfirethrower
+[11:06:15] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> spawned/gave himself swep tfa_rustalpha_hunting_bow
+[11:06:16] CCA.C08-GRID.i1.23710: /toggleraise
+[11:06:35] CCA.C08-GRID.i1.23710 killed Merissa Myers using tfa_rustalpha_hunting_bow
+[11:06:59] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> spawned/gave himself swep tfa_rustalpha_f1_grenade
+[11:07:00] CCA.C08-GRID.i1.23710: /toggleraise
+[11:07:07] Merissa Myers<STEAM_0:1:70540942> changed their name to CCA.C08-UNION.i3.67098
+[11:07:13] CCA.C08-UNION.i3.67098<STEAM_0:1:70540942> spawned vehicle models/combine_apc.mdl
+[11:07:25] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> spawned vehicle models/props_c17/furniturecouch002a.mdl
+[11:07:36] CCA.C08-GRID.i1.23710: // HOP IN
+[11:08:24] CCA.C08-UNION.i3.67098<STEAM_0:1:70540942> spawned/gave himself swep weapon_rpg
+[11:08:27] CCA.C08-UNION.i3.67098 killed CCA.C08-GRID.i1.23710 using rpg_missile
+[11:08:34] CCA.C08-UNION.i3.67098 to admins: got it
+[11:08:41] Client "deantheone" connected.
+[11:09:06] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> spawned vehicle models/blu/gtav/dukes/dukes.mdl
+[11:09:08] CCA.C08-GRID.i1.23710 killed CCA.C08-UNION.i3.67098 using gmod_sent_vehicle_fphysics_base
+[11:09:11] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> spawned vehicle models/blu/gtav/dukes/dukes.mdl
+[11:09:41] CCA.C08-GRID.i1.23710 killed CCA.C08-UNION.i3.67098 using gmod_sent_vehicle_fphysics_base
+[11:09:44] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> spawned vehicle models/blu/gtav/dukes/dukes.mdl
+[11:09:49] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> spawned vehicle models/blu/gtav/dukes/dukes.mdl
+[11:10:18] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> spawned vehicle models/blu/gtav/dukes/dukes.mdl
+[11:10:26] CCA.C08-GRID.i1.23710 killed CCA.C08-UNION.i3.67098 using gmod_sent_vehicle_fphysics_base
+[11:10:43] CCA.C08-UNION.i3.67098<STEAM_0:1:70540942> spawned/gave himself swep riot_shield
+[11:11:17] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> spawned/gave himself swep weapon_crossbow
+[11:11:19] CCA.C08-GRID.i1.23710: /toggleraise
+[11:11:19] CCA.C08-UNION.i3.67098 to admins: you have blood splattered ALL over you
+[11:11:38] CCA.C08-GRID.i1.23710 gave Themself 1000 rounds
+[11:11:51] CCA.C08-GRID.i1.23710 killed CCA.C08-UNION.i3.67098 using crossbow_bolt
+[11:12:04] CCA.C08-GRID.i1.23710: /DISPATCH
+[11:12:14] CCA.C08-UNION.i3.67098: // Bruh Im bugged
+[11:12:20] CCA.C08-UNION.i3.67098: // my flight speed is slower than my walk
+[11:12:28] CCA.C08-UNION.i3.67098<STEAM_0:1:70540942> spawned/gave himself swep riot_shield
+[11:12:49] Client "deantheone" spawned in server <STEAM_0:1:116497963> (took 248 seconds).
+[11:13:19] CCA.C08-GRID.i1.23710 to admins: damn a stinky PLAYER is coming on
+[11:13:22] CCA.C08-GRID.i1.23710 to admins: ic time?
+[11:13:26] CCA.C08-GRID.i1.23710 suicided!
+[11:13:27] CCA.C08-UNION.i3.67098 suicided!
+[11:13:27] CCA.C08-GRID.i1.23710 slayed Themself,CCA.C08-UNION.i3.67098
+[11:13:31] CCA.C08-UNION.i3.67098 to admins: guess so
+[11:13:47] CCA.C08-GRID.i1.23710 gave Themself 50 rounds
+[11:13:53] CCA.C08-GRID.i1.23710 gave Themself 90 rounds
+[11:13:54] CCA.C08-UNION.i3.67098<STEAM_0:1:70540942> spawned sent ix_unionlock
+[11:14:50] CCA.C08-UNION.i3.67098<STEAM_0:1:70540942> changed their name to Chloe Cullen
+[11:15:07] Client "Anthem" spawned in server <STEAM_0:0:511415379> (took 791 seconds).
+[11:15:21] Chloe Cullen to admins: I wanna get done with this scanner bs cmon
+[11:15:53] CCA.C08-GRID.i1.23710 to admins: i need to like
+[11:16:00] CCA.C08-GRID.i1.23710 to admins: harass death to get on for his judge
+[11:16:35] Chloe Cullen to admins: judges aren't a necessity if one isn't available
+[11:16:46] CCA.C08-GRID.i1.23710 to admins: they needed to be added to contraband
+[11:16:50] CCA.C08-GRID.i1.23710 to admins: actually
+[11:16:58] CCA.C08-GRID.i1.23710 to admins: the manhack would count as a weapon
+[11:17:00] CCA.C08-GRID.i1.23710 to admins: yeah?
+[11:17:51] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> spawned sent ix_combinelock
+[11:19:11] Anthem<STEAM_0:0:511415379> changed their name to Vincent Blackmore
+[11:19:37] CCA.C08-GRID.i1.23710: // welcome!
+[11:19:37] Chloe Cullen to admins: A manhack in 3 pieces?
+[11:19:40] Chloe Cullen to admins: I doubt it
+[11:19:49] CCA.C08-GRID.i1.23710 to admins: it was a manhack at one point
+[11:20:00] CCA.C08-GRID.i1.23710 to admins: it could at least be theft of uu property
+[11:21:11] CCA.C08-GRID.i1.23710 to admins: or intentional damage of uu property
+[11:21:29] Vincent Blackmore: /content
+[11:21:36] CCA.C08-GRID.i1.23710: hey
+[11:21:43] CCA.C08-GRID.i1.23710: go to the window
+[11:21:45] Vincent Blackmore: downloading files
+[11:21:47] Vincent Blackmore: one sec
+[11:21:48] CCA.C08-GRID.i1.23710: .// ohok
+[11:21:50] Vincent Blackmore: /content
+[11:22:06] Vincent Blackmore: subscribed
+[11:22:10] Vincent Blackmore: do i gotta rejoin
+[11:22:13] CCA.C08-GRID.i1.23710: .// yes
+[11:22:18] CCA.C08-GRID.i1.23710: // brb
+[11:22:20] CCA.C08-GRID.i1.23710: .// wait
+[11:22:22] Vincent Blackmore: =Alright, just gonna let all of this stuff mount.
+[11:22:24] CCA.C08-GRID.i1.23710: .// restart gmod entirely
+[11:22:28] Vincent Blackmore: k
+[11:22:34] Vincent Blackmore: how do i go ooc
+[11:24:08] Dropped "Vincent Blackmore" from server<STEAM_0:0:511415379>
+[11:24:22] Chloe Cullen was killed by trigger_hurt
+[11:25:04] Chloe Cullen to admins: the gas masks make meat sounds
+[11:25:21] CCA.C08-GRID.i1.23710 to admins: are you putting meat in the masks, lynx?
+[11:25:30] Chloe Cullen to admins: m e a t
+[11:25:57] deantheone<STEAM_0:1:116497963> changed their name to Jim Bostello
+[11:26:10] CCA.C08-GRID.i1.23710 to admins: um
+[11:26:15] CCA.C08-GRID.i1.23710 to admins: there's a camera right there
+[11:26:20] Client "Anthem" connected.
+[11:26:28] Chloe Cullen to admins: Then kill him
+[11:26:56] Chloe Cullen<STEAM_0:1:70540942> changed their name to CCA.C08-UNION.i3.67098
+[11:27:14] CCA.C08-GRID.i1.23710 to admins: ratio is fucking great
+[11:27:33] CCA.C08-UNION.i3.67098 to admins: do you want help dealing with him or not
+[11:27:37] CCA.C08-GRID.i1.23710 to admins: he ran off
+[11:28:04] CCA.C08-UNION.i3.67098: /viewdata jim
+[11:28:17] CCA.C08-UNION.i3.67098 to admins: he's fucking suppose to be PK'd
+[11:28:22] CCA.C08-UNION.i3.67098 to admins: look at his viewdata
+[11:28:30] CCA.C08-GRID.i1.23710: /viewdata jim
+[11:28:38] Client "Anthem" spawned in server <STEAM_0:0:511415379> (took 138 seconds).
+[11:28:43] CCA.C08-GRID.i1.23710 to admins: SO HE IS
+[11:29:00] CCA.C08-UNION.i3.67098<STEAM_0:1:70540942> changed their name to Merissa Myers
+[11:29:06] CCA.C08-GRID.i1.23710 to admins: uh
+[11:29:09] CCA.C08-GRID.i1.23710: /viewdata jim
+[11:29:21] Anthem<STEAM_0:0:511415379> changed their name to Vincent Blackmore
+[11:29:22] CCA.C08-GRID.i1.23710: /pm jim are you supposed to be PK'd?
+[11:29:24] Merissa Myers to admins: yeah?
+[11:29:28] Vincent Blackmore: /con
+[11:29:31] CCA.C08-GRID.i1.23710 to admins: that is weird
+[11:29:33] Jim Bostello: /reply no? tf?
+[11:29:33] Vincent Blackmore: /content
+[11:29:37] CCA.C08-GRID.i1.23710: /pm jim Civil Status: CCA UnitDeceased for unknown reasons in the nexus, .357 magnum shot to the head.
+[11:29:41] Merissa Myers to admins: the fact he's dead?
+[11:29:44] CCA.C08-GRID.i1.23710: /pm jim thats your info
+[11:29:49] CCA.C08-GRID.i1.23710 to admins: that he wasnt PK'd
+[11:29:52] Jim Bostello: /reply thats how i got here
+[11:29:53] Merissa Myers<STEAM_0:1:70540942> changed their name to CCA.C08-UNION.i3.67098
+[11:30:04] Jim Bostello: /reply i killed myself in this universe
+[11:30:08] CCA.C08-UNION.i3.67098 to admins: A Judge execution is a PK
+[11:30:10] CCA.C08-GRID.i1.23710: /pm bost OHHHHH, you took the place of them!
+[11:30:13] CCA.C08-GRID.i1.23710 to admins: NEVERMIND
+[11:30:16] Jim Bostello: /reply yeaaah lol
+[11:30:18] CCA.C08-UNION.i3.67098 to admins: ?
+[11:30:19] CCA.C08-GRID.i1.23710 to admins: you weren't there for the campaign
+[11:30:29] CCA.C08-GRID.i1.23710 to admins: uh
+[11:30:38] CCA.C08-GRID.i1.23710 to admins: the multiverse theory is canon
+[11:30:52] CCA.C08-GRID.i1.23710 to admins: so we've had a few chars cross over from the retail universe
+[11:31:02] CCA.C08-GRID.i1.23710 to admins: paul-henri, ethan king, jim bostello
+[11:31:16] CCA.C08-GRID.i1.23710 to admins: jim took the place of his counterpart since he killed himself
+[11:31:42] CCA.C08-UNION.i3.67098 to admins: did you know he's just staring at you
+[11:31:43] CCA.C08-GRID.i1.23710 to admins: ethan and paul just kind of came, they were in a combine base when it exploded, causing some REALLY FUCKY stuff
+[11:31:52] CCA.C08-GRID.i1.23710 to admins: i cant see him, can I?
+[11:32:02] CCA.C08-UNION.i3.67098 to admins: you totally can
+[11:32:11] CCA.C08-GRID.i1.23710 to admins: SO I CAN, WHAT IS THIS BUILDING CALLED IMA RADIO YOU
+[11:32:22] CCA.C08-UNION.i3.67098 to admins: Slum tower or something I guess
+[11:32:24] Jim Bostello: /radio How's the view?
+[11:32:25] CCA.C08-GRID.i1.23710 to admins: or this district
+[11:32:37] CCA.C08-GRID.i1.23710: // views great, thanks for asking
+[11:32:48] CCA.C08-UNION.i3.67098 to admins: That was IC. He's on our channel.
+[11:32:51] Jim Bostello: // yeah ofc <3
+[11:32:51] Vincent Blackmore: /ooc
+[11:32:53] CCA.C08-GRID.i1.23710: /r The fuck are you doing up there?
+[11:32:59] Vincent Blackmore: i'm still missing models and textures
+[11:33:06] CCA.C08-UNION.i3.67098: /radio That's not a CCA signal.
+[11:33:09] Jim Bostello: /radio The fuck are you doing talking to me like that?
+[11:33:14] Vincent Blackmore: /ooc i'm still missing models and textures where can i find 'em
+[11:33:19] CCA.C08-UNION.i3.67098<STEAM_0:1:70540942> spawned sent item_ammo_smg1_large
+[11:33:19] CCA.C08-UNION.i3.67098<STEAM_0:1:70540942> spawned sent item_ammo_smg1_large
+[11:33:19] CCA.C08-UNION.i3.67098<STEAM_0:1:70540942> spawned sent item_ammo_smg1_large
+[11:33:19] CCA.C08-UNION.i3.67098<STEAM_0:1:70540942> spawned sent item_ammo_smg1_large
+[11:33:21] CCA.C08-UNION.i3.67098<STEAM_0:1:70540942> spawned sent item_ammo_pistol_large
+[11:33:22] CCA.C08-UNION.i3.67098<STEAM_0:1:70540942> spawned sent item_ammo_pistol_large
+[11:33:22] CCA.C08-UNION.i3.67098<STEAM_0:1:70540942> spawned sent item_ammo_pistol_large
+[11:33:24] CCA.C08-GRID.i1.23710: /r I didnt hear that anyone was assigned up there, just caught off guard.
+[11:33:31] CCA.C08-GRID.i1.23710: // oh, xyz
+[11:33:34] Jim Bostello: /radio Right
+[11:33:35] CCA.C08-GRID.i1.23710: // check your description
+[11:33:39] CCA.C08-GRID.i1.23710: // you're 7 inches tall
+[11:33:44] Vincent Blackmore: /ooc LOL
+[11:33:55] Jim Bostello: // shiit gotta do 0.2 scale now
+[11:34:05] Vincent Blackmore: /ooc whoops
+[11:34:07] CCA.C08-GRID.i1.23710: /r I ask again, what are you doing up- Where'd you go?
+[11:34:15] CCA.C08-UNION.i3.67098: /radio What is it? Who is it?
+[11:34:22] CCA.C08-GRID.i1.23710: /r Some conscript.
+[11:34:31] CCA.C08-UNION.i3.67098: /radio 237.
+[11:34:39] CCA.C08-UNION.i3.67098: /radio Conscripts aren't allowed in the city.
+[11:34:48] Vincent Blackmore: /ooc seriously though can someone help me find the other stuff i gotta download so i'm not being blasted by pink and red lights
+[11:34:54] CCA.C08-GRID.i1.23710: /r ...Is that a new regulation?
+[11:35:00] Jim Bostello: /radio Technically, I'm not in the city, but sure, I'll go back to the empty lands.
+[11:35:08] CCA.C08-GRID.i1.23710: /r I always saw one guarding the Nexus.
+[11:35:14] CCA.C08-GRID.i1.23710: /pm jim confusion.mp3
+[11:35:17] CCA.C08-UNION.i3.67098: /radio Wh-
+[11:35:22] CCA.C08-UNION.i3.67098: /radio Oh my god.
+[11:35:35] CCA.C08-GRID.i1.23710: /r Come down here for a second, conscript.
+[11:35:47] CCA.C08-UNION.i3.67098: /radio There's your signal.
+[11:35:48] CCA.C08-GRID.i1.23710: /viewobjectives
+[11:35:55] CCA.C08-GRID.i1.23710: /viewobjectives
+[11:36:00] Jim Bostello: /radio What does it say, GRID?
+[11:36:09] CCA.C08-GRID.i1.23710 to admins: what
+[11:36:23] CCA.C08-UNION.i3.67098: He should be shot.
+[11:37:05] CCA.C08-GRID.i1.23710: /r Come down here.
+[11:37:23] Jim Bostello: /radio Why should I do that?
+[11:37:34] CCA.C08-UNION.i3.67098: /radio Because all CCA personnel outrank you.
+[11:37:54] Jim Bostello: /radio Oh well, tell it to the SqL.. His shotgun fits in my hands quite nicely.
+[11:38:01] CCA.C08-UNION.i3.67098: Move in.
+[11:38:06] CCA.C08-GRID.i1.23710: // 1 sec
+[11:38:11] CCA.C08-GRID.i1.23710: // pause for a sec i gotta check something
+[11:38:14] Vincent Blackmore: /ooc oke
+[11:38:21] CCA.C08-UNION.i3.67098 to admins: He just admitted to being hostile.
+[11:38:22] Jim Bostello: // VINCENT BLACKMORE
+[11:38:28] Vincent Blackmore: /ooc my balls
+[11:38:32] Jim Bostello: // are you black tho
+[11:38:33] CCA.C08-GRID.i1.23710 to admins: im finding a code for compromised radio signal
+[11:38:37] Vincent Blackmore: /ooc no :(
+[11:38:42] Jim Bostello: // :(
+[11:39:33] CCA.C08-UNION.i3.67098: Midnight
+[11:39:35] CCA.C08-GRID.i1.23710: /r 10-3.
+[11:39:48] Jim Bostello: /radio Don't come up these stairs.
+[11:39:55] Jim Bostello: /radio Or, up the ladder, rather.
+[11:39:58] CCA.C08-GRID.i1.23710 to admins: remind me to get on my dvl and set an objective
+[11:40:15] CCA.C08-UNION.i3.67098 to admins: You can ICly radio it in and set sociostatus to yellow or black
+[11:40:29] CCA.C08-GRID.i1.23710: /sociostatus yellow
+[11:40:39] CCA.C08-GRID.i1.23710: /changesociostatus yellow
+[11:40:42] CCA.C08-UNION.i3.67098: Right let's go. I'll kick.
+[11:40:47] CCA.C08-GRID.i1.23710: /toggleraise
+[11:41:03] CCA.C08-GRID.i1.23710: .// hold on
+[11:41:12] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> spawned/gave himself swep weapon_flashbang_qi
+[11:41:13] CCA.C08-GRID.i1.23710: /toggleraise
+[11:41:24] Jim Bostello: /radio I'm warning you.
+[11:41:35] CCA.C08-GRID.i1.23710: /w You a good throw?
+[11:41:45] CCA.C08-GRID.i1.23710: /toggleraise
+[11:41:50] Dropped "Vincent Blackmore" from server<STEAM_0:0:511415379>
+[11:41:50] Jim Bostello: /radio Grenades, really?
+[11:42:00] CCA.C08-GRID.i1.23710: // help ladder bad
+[11:42:10] Jim Bostello: /radio You are in the worst spot right now, men.
+[11:42:11] Client "Anthem" connected.
+[11:42:20] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> spawned/gave himself swep weapon_flashbang_qi
+[11:42:20] CCA.C08-GRID.i1.23710: /toggleraise
+[11:42:23] CCA.C08-UNION.i3.67098: /radio Surrender and you might live.
+[11:42:27] CCA.C08-GRID.i1.23710: /toggleraise
+[11:42:33] Jim Bostello: Doubt it
+[11:42:46] CCA.C08-GRID.i1.23710: // you wanna just s2k or what
+[11:42:48] CCA.C08-UNION.i3.67098<STEAM_0:1:70540942> spawned sent ix_combinelock
+[11:42:51] Jim Bostello: // your call
+[11:42:54] CCA.C08-UNION.i3.67098<STEAM_0:1:70540942> spawned sent ix_unionlock
+[11:42:59] CCA.C08-GRID.i1.23710: // nah, yours
+[11:43:04] CCA.C08-UNION.i3.67098<STEAM_0:1:70540942> spawned sent ix_combinelock
+[11:43:07] CCA.C08-UNION.i3.67098<STEAM_0:1:70540942> spawned sent ix_combinelock
+[11:43:09] CCA.C08-UNION.i3.67098<STEAM_0:1:70540942> spawned sent ix_unionlock
+[11:43:10] Jim Bostello: // dont put that pressure on me LOL
+[11:43:19] CCA.C08-UNION.i3.67098: // Can I call it
+[11:43:24] CCA.C08-GRID.i1.23710: // do you wanna /me or shooty shooty bang bang
+[11:43:33] Jim Bostello: // either way, we'll both be shooty shooty bang bang
+[11:43:40] Client "Anthem" spawned in server <STEAM_0:0:511415379> (took 89 seconds).
+[11:43:41] CCA.C08-GRID.i1.23710: // true
+[11:43:50] CCA.C08-GRID.i1.23710: // also poor anthem is waiting to be processed
+[11:44:16] Anthem<STEAM_0:0:511415379> changed their name to Vincent Blackmore
+[11:44:18] CCA.C08-UNION.i3.67098: // Aight I'll make the call
+[11:44:22] CCA.C08-UNION.i3.67098: // S2K
+[11:44:35] Jim Bostello: // prepare for mayhem
+[11:44:39] CCA.C08-GRID.i1.23710: what floor?
+[11:44:46] Vincent Blackmore: //oodoiedahnwedfojnfs
+[11:44:51] Vincent Blackmore: /aedsiojb
+[11:44:52] CCA.C08-GRID.i1.23710: // sorry vincent
+[11:44:57] Vincent Blackmore: help my backspace isn't working
+[11:44:57] CCA.C08-GRID.i1.23710: // we are experiencing an issue
+[11:45:01] CCA.C08-GRID.i1.23710: // of a firefight 
+[11:45:07] CCA.C08-UNION.i3.67098: Go dark
+[11:45:10] Vincent Blackmore: /ooc i am too my BACKSPACE ISN'T WORKING
+[11:45:19] CCA.C08-GRID.i1.23710: // tab in and out
+[11:45:28] Vincent Blackmore: sefiyf
+[11:45:33] Vincent Blackmore: /ooc ok ty lul
+[11:45:44] Vincent Blackmore: /ooc i also have one more issue, i'm missing some models n shit
+[11:45:47] CCA.C08-GRID.i1.23710: // wait how am i shooting from a ladder
+[11:45:48] CCA.C08-GRID.i1.23710: // my bad
+[11:46:48] Jim Bostello: /y I could do this all day!
+[11:47:02] CCA.C08-GRID.i1.23710: /y So can we, and we have the ability to get supplies!
+[11:47:07] CCA.C08-UNION.i3.67098 killed Jim Bostello using player
+[11:47:12] CCA.C08-UNION.i3.67098 to admins: gottem
+[11:47:15] Jim Bostello: // LOL WHAT KINDA SHIT--
+[11:47:20] CCA.C08-UNION.i3.67098: // YEEEEEEHAW
+[11:47:23] CCA.C08-UNION.i3.67098: // ARMOR BABEH
+[11:47:23] Vincent Blackmore: heeyaw
+[11:47:25] Jim Bostello: // just double pumped some cop and he didnt die
+[11:47:30] Vincent Blackmore: /ooc my balls
+[11:47:31] CCA.C08-GRID.i1.23710: // we have armor
+[11:47:37] CCA.C08-GRID.i1.23710 to admins: i cant fucking ladder
+[11:47:42] Jim Bostello: // thats 24 little pellets
+[11:47:44] Vincent Blackmore: /ooc me want become CWU :^)
+[11:47:47] CCA.C08-UNION.i3.67098 to admins: alright
+[11:47:49] CCA.C08-UNION.i3.67098 to admins: PK?
+[11:47:53] CCA.C08-GRID.i1.23710 to admins: im not sure
+[11:48:05] CCA.C08-GRID.i1.23710 to admins: do we have pk guidelines yet?
+[11:48:14] Vincent Blackmore: /ooc :(
+[11:48:21] CCA.C08-GRID.i1.23710: // ok firefight over
+[11:48:22] Jim Bostello: // killed u ur dead vincent BLACKMORE
+[11:48:27] CCA.C08-GRID.i1.23710: // processing time
+[11:48:33] Jim Bostello: // wow i am really tall
+[11:48:34] Vincent Blackmore: /me types /kill in console
+[11:48:47] Jim Bostello: // that was fun
+[11:49:17] Vincent Blackmore: /ooc i am the nut boy
+[11:49:41] Jim Bostello: // i hate the helix thirdperson camera
+[11:49:43] Jim Bostello: // its so bad
+[11:49:50] Vincent Blackmore: /ooc what cca divisions are there
+[11:49:52] CCA.C08-GRID.i1.23710: /pm jim freq. change : (
+[11:49:58] CCA.C08-GRID.i1.23710: // helix, judge, grid, union
+[11:49:58] Vincent Blackmore: /ooc i see we have GRID and HELIX
+[11:50:04] Vincent Blackmore: /OOC dang no razor
+[11:50:07] Jim Bostello: /reply :((((((( I cant be edgy anymore XD
+[11:50:10] CCA.C08-UNION.i3.67098 to admins: PISS
+[11:50:19] CCA.C08-GRID.i1.23710: /pm jim we're trying to figure out if that should be a pk
+[11:50:27] CCA.C08-UNION.i3.67098 to admins: We shouldn't have done S2K
+[11:50:39] CCA.C08-GRID.i1.23710 to admins: 329.01 is new freq
+[11:51:17] Jim Bostello: /reply I mean, it's only us 4, and idrk the rules regarding low player count firefights n such but i mean whatever works works dawg, just dont know what'll happen to rebel rp
+[11:52:01] CCA.C08-UNION.i3.67098 to admins: Conscripts are gunna get shot on sight at this rate
+[11:52:07] Jim Bostello: // i shall suffocate with my massive muscles
+[11:52:12] Vincent Blackmore: /ooc mold
+[11:52:26] CCA.C08-GRID.i1.23710: /toggleraise
+[11:52:28] Vincent Blackmore: /ooc my reflection maps are broken as FUCK everything is glowing
+[11:52:35] Jim Bostello: // mat_specular 0
+[11:52:35] CCA.C08-GRID.i1.23710: /toggleraise
+[11:52:36] Vincent Blackmore: /ooc what downloads am i missing
+[11:52:42] CCA.C08-UNION.i3.67098: // Do you have the games
+[11:52:42] Jim Bostello: // just the map being stupid
+[11:52:45] Vincent Blackmore: /ooc it no let me open console
+[11:52:51] CCA.C08-GRID.i1.23710: .// I THOUGHT IT HAD NO AMMPO LMAO
+[11:52:51] Jim Bostello: // lol the rust revvy
+[11:52:58] CCA.C08-GRID.i1.23710: /toggleraise
+[11:53:02] CCA.C08-UNION.i3.67098: // Do you have the games, Vincent?
+[11:53:03] CCA.C08-GRID.i1.23710: /toggleraise
+[11:53:09] Vincent Blackmore: /ooc what games, HLA?
+[11:53:12] Jim Bostello: // go into settings and click advanced and click enable dev console
+[11:53:20] CCA.C08-UNION.i3.67098: // Also disable HDR
+[11:53:24] CCA.C08-UNION.i3.67098: // ANyways
+[11:53:29] Vincent Blackmore: /ooc shows how much i fucking play gmod
+[11:53:34] Vincent Blackmore: /ooc gimme a minute
+[11:53:34] CCA.C08-GRID.i1.23710 to admins: SO... PK?
+[11:53:36] CCA.C08-UNION.i3.67098: // No. HL2, HL2E2, HL2E1
+[11:53:41] CCA.C08-UNION.i3.67098 to admins: Since it was S2K no
+[11:53:43] Vincent Blackmore: /ooc i do not
+[11:53:47] CCA.C08-GRID.i1.23710 to admins: alright
+[11:53:51] CCA.C08-UNION.i3.67098: // Then install those and mount them.
+[11:53:53] CCA.C08-GRID.i1.23710: /pm jim okay cool, s2k no pk
+[11:53:53] Vincent Blackmore: /ooc only gmod and the HL2 assets it comes with
+[11:53:59] CCA.C08-GRID.i1.23710: /pm jim but your ammo is fucked
+[11:54:05] Vincent Blackmore: /ooc fug i gotta spend money
+[11:54:08] Jim Bostello: /reply yeaah i figured ;-; 
+[11:54:12] Jim Bostello: /reply im gonna hop on another character
+[11:54:18] CCA.C08-UNION.i3.67098: // Those are the basics for 99% of servers
+[11:54:21] Jim Bostello<STEAM_0:1:116497963> changed their name to Chris 'Cyclops' LeVon
+[11:54:23] Vincent Blackmore: /ooc shid
+[11:54:28] Chris 'Cyclops' LeVon: // no one has came to my bar ;-;
+[11:54:35] Vincent Blackmore: /ooc i can handle some missing models idc
+[11:54:47] CCA.C08-GRID.i1.23710: /pm chris you gotta stop staring at passing CPs through windows lol, your lenses glow pure white
+[11:54:50] Vincent Blackmore: /ooc gimme fukin CAURD
+[11:54:55] CCA.C08-GRID.i1.23710: // pay me
+[11:55:03] Vincent Blackmore: /ooc i fart on u
+[11:55:06] CCA.C08-GRID.i1.23710: // deal
+[11:55:06] Chris 'Cyclops' LeVon: /reply serious? for me they dont lol
+[11:55:08] CCA.C08-GRID.i1.23710: coupon?
+[11:55:11] Vincent Blackmore: /ooc LOL
+[11:55:17] CCA.C08-GRID.i1.23710: /pm chris maybe my reflections are just fucked
+[11:55:23] Vincent Blackmore: /ooc how do i give coupon to u
+[11:55:29] Vincent Blackmore: /ooc it's in my inventory
+[11:55:35] CCA.C08-UNION.i3.67098: /plysearch
+[11:55:41] CCA.C08-GRID.i1.23710: .// right click it
+[11:55:43] CCA.C08-GRID.i1.23710: .// then drop
+[11:55:46] Vincent Blackmore: /ooc k
+[11:55:56] CCA.C08-UNION.i3.67098: /charsearch
+[11:56:00] CCA.C08-UNION.i3.67098: /charsearch
+[11:56:17] CCA.C08-UNION.i3.67098: /plysearch
+[11:56:22] CCA.C08-GRID.i1.23710: /y Jesus Christ
+[11:56:25] CCA.C08-GRID.i1.23710 to admins: oh
+[11:56:26] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned model models/props_junk/shoe001a.mdl
+[11:56:27] CCA.C08-GRID.i1.23710: .// oh
+[11:56:30] CCA.C08-UNION.i3.67098 to admins: I was testing a command
+[11:56:33] CCA.C08-GRID.i1.23710 to admins: lmao
+[11:56:37] CCA.C08-GRID.i1.23710: .// void
+[11:57:00] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned model models/props_debris/metal_panel02a.mdl
+[11:57:03] CCA.C08-UNION.i3.67098: /plysearch
+[11:57:04] CCA.C08-GRID.i1.23710: blood type, sex, date of birth.
+[11:57:13] CCA.C08-GRID.i1.23710: .// YYYY-MM-DD format pls
+[11:57:15] CCA.C08-UNION.i3.67098: /plysearch
+[11:57:23] CCA.C08-GRID.i1.23710: .// or DD/MM/YYYY or whatever order
+[11:57:26] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned model models/props_debris/metal_panel02a.mdl
+[11:57:27] Vincent Blackmore: /ooc man what year does this shit take place in
+[11:57:31] CCA.C08-UNION.i3.67098: // 2006
+[11:57:39] CCA.C08-UNION.i3.67098: // Combine invasion was 2003
+[11:57:45] Vincent Blackmore: /ooc k lemme do some math
+[11:57:54] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned model models/props_c17/gate_door01a.mdl
+[11:57:56] CCA.C08-UNION.i3.67098: // Try not to be 17 or below.
+[11:58:02] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned model models/props_debris/metal_panel02a.mdl
+[11:58:05] CCA.C08-UNION.i3.67098: // Or do
+[11:58:08] CCA.C08-UNION.i3.67098: // It'll be fun
+[11:58:13] CCA.C08-GRID.i1.23710: .// 21 or below are shot
+[11:58:17] CCA.C08-GRID.i1.23710: // 21 or below are shot
+[11:58:26] CCA.C08-UNION.i3.67098: // Was it 21?
+[11:58:27] CCA.C08-GRID.i1.23710: holy crap, -10!
+[11:58:30] CCA.C08-UNION.i3.67098: // They aren't shot btw
+[11:58:30] CCA.C08-GRID.i1.23710: // yeah
+[11:58:33] Vincent Blackmore: AB, Male, December Twenty Second, Nineteen-Eighty.
+[11:58:33] CCA.C08-UNION.i3.67098: // They're inslaved.
+[11:58:34] CCA.C08-GRID.i1.23710: // IT IS -10 DEGREES
+[11:58:37] CCA.C08-UNION.i3.67098: // *enslaved
+[11:58:48] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool item_item_crate on maps/rp_city8_edit_v4r.bsp
+[11:58:50] CCA.C08-GRID.i1.23710 to admins: if they're in the city, shot
+[11:58:54] CCA.C08-GRID.i1.23710: /viewdata vinc
+[11:59:04] Vincent Blackmore: /ooc i think i disabled something on voicemod hold on
+[11:59:20] Chris 'Cyclops' LeVon: // LOL
+[11:59:20] Vincent Blackmore: /ooc we good
+[11:59:41] CCA.C08-GRID.i1.23710: alright
+[11:59:48] CCA.C08-UNION.i3.67098: /plysearch
+[11:59:50] CCA.C08-UNION.i3.67098: /plysearch
+[11:59:52] Vincent Blackmore: /ooc the nut boy cometh
+[12:00:00] Vincent Blackmore: /ooc it won't let me grab
+[12:00:04] Chris 'Cyclops' LeVon: // is there still the adv. parkour plugin
+[12:00:08] CCA.C08-UNION.i3.67098 to admins: we have an issue
+[12:00:10] Vincent Blackmore: /ooc nvm
+[12:00:26] CCA.C08-UNION.i3.67098 to admins: Chris pulled an RPG out.
+[12:00:29] Vincent Blackmore: /me inhales sharply
+[12:00:30] CCA.C08-UNION.i3.67098 to admins: He has no RPG
+[12:00:31] Client "Odin" connected.
+[12:00:32] Vincent Blackmore: void
+[12:00:32] Chris 'Cyclops' LeVon: sorry
+[12:00:34] CCA.C08-GRID.i1.23710: /pm jim your character is way too tall 
+[12:00:42] CCA.C08-GRID.i1.23710: /pm chris your character is way too tall 
+[12:00:50] Vincent Blackmore: I can go now, right?
+[12:00:52] CCA.C08-GRID.i1.23710: did you take the card?
+[12:00:54] CCA.C08-GRID.i1.23710: yes.
+[12:00:54] Vincent Blackmore: yes
+[12:00:58] Vincent Blackmore: aaaaalright
+[12:01:00] Chris 'Cyclops' LeVon: /reply wym this is base height :(
+[12:01:06] CCA.C08-GRID.i1.23710: /pm cycl check your pac
+[12:01:07] CCA.C08-UNION.i3.67098 to admins: He's a user how the FUCK is he spawning weapons
+[12:01:11] CCA.C08-GRID.i1.23710 to admins: what
+[12:01:13] CCA.C08-GRID.i1.23710 to admins: who
+[12:01:20] CCA.C08-UNION.i3.67098 to admins: Chris
+[12:01:22] Chris 'Cyclops' LeVon: /reply no seriously lol i got rid of the entity this is just my base model height
+[12:01:27] CCA.C08-UNION.i3.67098 to admins: dean
+[12:01:31] Chris 'Cyclops' LeVon: /reply idk why i look so tiny
+[12:01:31] CCA.C08-GRID.i1.23710: /plysearch
+[12:01:33] Vincent Blackmore: /ooc how do i open the dev console AHH
+[12:01:35] Client "Death Razor" connected.
+[12:01:44] Chris 'Cyclops' LeVon: // the squiggly behind 1
+[12:01:44] CCA.C08-GRID.i1.23710 to admins: what does he have
+[12:01:47] CCA.C08-GRID.i1.23710: // ~
+[12:01:47] Vincent Blackmore: /ooc i turned the setting on but tilde ain't doing it
+[12:02:00] CCA.C08-UNION.i3.67098 to admins: He somehow spawned an RPG. But he has none in his inventory
+[12:02:04] Vincent Blackmore: /ooc source spaghetti
+[12:02:07] CCA.C08-GRID.i1.23710 to admins: get him to pull it out
+[12:02:10] CCA.C08-GRID.i1.23710: .// yo wtf
+[12:02:13] CCA.C08-UNION.i3.67098: .// yo can we see that RPG again
+[12:02:19] Client "Odin" spawned in server <STEAM_0:0:595064043> (took 108 seconds).
+[12:02:23] CCA.C08-UNION.i3.67098: .// is that a PAC or
+[12:02:27] CCA.C08-GRID.i1.23710: /chartakeflag chris T
+[12:02:40] CCA.C08-GRID.i1.23710: .// no spawning weapons
+[12:02:46] Vincent Blackmore: /ooc my suit expires in 27 minutes rip
+[12:02:48] Chris 'Cyclops' LeVon: .// im not im not
+[12:02:49] Client "FB|| light ROOM" connected.
+[12:02:53] CCA.C08-GRID.i1.23710: .// how do you have an rpg
+[12:02:54] Vincent Blackmore: /ooc and i can't even open my console
+[12:02:54] Odin<STEAM_0:0:595064043> changed their name to Sybil Rose
+[12:02:58] CCA.C08-GRID.i1.23710: /plysearch
+[12:03:02] CCA.C08-UNION.i3.67098 to admins: off to the staff room
+[12:03:06] Sybil Rose cloaked Themself by amount 0
+[12:03:06] Sybil Rose: !cloak
+[12:03:08] Sybil Rose: !noclip
+[12:03:08] Chris 'Cyclops' LeVon: .// it disappears after i rejoin i dont even have ammo for it
+[12:03:12] Sybil Rose to admins: Off to the Time-Out Box.
+[12:03:22] CCA.C08-GRID.i1.23710: .// but how do you have it
+[12:03:39] CCA.C08-UNION.i3.67098 brought Chris 'Cyclops' LeVon
+[12:03:39] CCA.C08-UNION.i3.67098: !bring chris
+[12:03:43] Chris 'Cyclops' LeVon: .// oh i spawned it i might still have some admin perms idk tho
+[12:03:46] CCA.C08-UNION.i3.67098 brought CCA.C08-GRID.i1.23710
+[12:03:46] CCA.C08-UNION.i3.67098: !bring GRID
+[12:03:48] Chris 'Cyclops' LeVon: /drop
+[12:03:59] Chris 'Cyclops' LeVon: .// ah it burns
+[12:04:01] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> spawned sent ix_airvent
+[12:04:01] CCA.C08-UNION.i3.67098<STEAM_0:1:70540942> spawned sent ix_airvent
+[12:04:04] Sybil Rose to admins: Yo whats goin' on with LeVon
+[12:04:04] CCA.C08-GRID.i1.23710: .// execution
+[12:04:08] CCA.C08-GRID.i1.23710 to admins: he has an rpg
+[12:04:08] Chris 'Cyclops' LeVon: .// fine
+[12:04:15] Sybil Rose to admins: LMAO
+[12:04:17] CCA.C08-GRID.i1.23710: .// but yeah
+[12:04:21] CCA.C08-GRID.i1.23710: .// how did you get it
+[12:04:26] Client "Death Razor" spawned in server <STEAM_0:1:66880501> (took 171 seconds).
+[12:04:28] Chris 'Cyclops' LeVon: .// i spawned it
+[12:04:31] CCA.C08-GRID.i1.23710: .// with?
+[12:04:42] Chris 'Cyclops' LeVon: .// literally just the context menu lol 
+[12:04:49] Client "FB|| light ROOM" spawned in server <STEAM_0:1:17219621> (took 120 seconds).
+[12:04:51] CCA.C08-GRID.i1.23710 to admins: try
+[12:04:52] CCA.C08-GRID.i1.23710 to admins: wha
+[12:04:58] CCA.C08-GRID.i1.23710 to admins: try spawning an ar2
+[12:05:04] CCA.C08-UNION.i3.67098 to admins: I can spawn weapons im staff
+[12:05:08] CCA.C08-GRID.i1.23710 to admins: oops
+[12:05:12] CCA.C08-GRID.i1.23710: .//try spawning an ar2
+[12:05:28] CCA.C08-GRID.i1.23710: .// wait
+[12:05:30] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:05:31] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:05:31] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:05:33] FB|| light ROOM<STEAM_0:1:17219621> changed their name to CCA.C08-QrM.98240
+[12:05:37] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:05:37] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:05:37] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:05:37] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:05:38] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:05:38] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:05:39] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:05:39] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:05:42] Chris 'Cyclops' LeVon: .// cant spawn ar2
+[12:05:43] CCA.C08-QrM.98240<STEAM_0:1:17219621> changed their name to Ethan King
+[12:05:45] Dropped "Vincent Blackmore" from server<STEAM_0:0:511415379>
+[12:05:48] CCA.C08-GRID.i1.23710: .// did you use the biox
+[12:05:53] CCA.C08-UNION.i3.67098<STEAM_0:1:70540942> spawned/gave himself swep weapon_rpg
+[12:05:54] Chris 'Cyclops' LeVon: .// biox?
+[12:05:59] Ethan King: // Fucking christ
+[12:06:00] CCA.C08-GRID.i1.23710: .// box, mb
+[12:06:01] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> used the tool item_item_crate on maps/rp_city8_edit_v4r.bsp
+[12:06:02] CCA.C08-GRID.i1.23710: /toggleraise
+[12:06:02] Ethan King: //Hello
+[12:06:07] Sybil Rose<STEAM_0:0:595064043> spawned/gave himself swep pill_wep_pro
+[12:06:08] Chris 'Cyclops' LeVon: .// oh i CAN do that
+[12:06:14] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:14] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:16] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:16] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:16] CCA.C08-GRID.i1.23710: .// is that what you used
+[12:06:16] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:16] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:18] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:18] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:18] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:18] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:19] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:19] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:19] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:19] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:22] CCA.C08-GRID.i1.23710: /chargiveflag chris T
+[12:06:23] Chris 'Cyclops' LeVon: .// wtf
+[12:06:26] CCA.C08-UNION.i3.67098: .// JESUS FUCK
+[12:06:29] Chris 'Cyclops' LeVon: .// ITS SO LOUD
+[12:06:29] CCA.C08-GRID.i1.23710: .// try now
+[12:06:30] Chris 'Cyclops' LeVon: .// MY EARS
+[12:06:31] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:31] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:32] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:32] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:33] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:33] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:33] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:33] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:33] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:33] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:33] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:33] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:33] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:33] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:34] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:34] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:34] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:34] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:34] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:34] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:34] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:34] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:34] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:34] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:35] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:35] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:35] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:35] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:35] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:35] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:35] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:35] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:35] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:35] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:36] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:36] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:36] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:36] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:36] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:36] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:36] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:36] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:36] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:36] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:36] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:36] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:37] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:37] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:37] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:37] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:37] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:37] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:37] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:37] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:37] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:37] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:38] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:38] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:38] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:38] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:38] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:38] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:38] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:38] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:38] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:38] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:38] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:38] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:38] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:38] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:39] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:39] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:39] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:39] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:39] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:39] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:39] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:39] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:39] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:39] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:41] Chris 'Cyclops' LeVon: .// i cant
+[12:06:41] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:41] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:42] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:42] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:42] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:42] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:42] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:42] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:42] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:42] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:42] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:42] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:43] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:43] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:43] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:43] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:43] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:43] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:43] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:43] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:44] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:44] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:46] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:46] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:46] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:46] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:46] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:46] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:47] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:47] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:49] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:49] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:49] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:49] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:49] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:49] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:49] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:49] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:49] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:49] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:49] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:49] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:50] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:50] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:50] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:50] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:50] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:50] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:50] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:50] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:50] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:50] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:51] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:51] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:51] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:51] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:51] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:51] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:51] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:51] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:51] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:51] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:51] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:51] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:52] CCA.C08-UNION.i3.67098<STEAM_0:1:70540942> spawned/gave himself swep weapon_oicw
+[12:06:52] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:52] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:52] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:52] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:52] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:52] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:52] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:52] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:52] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:52] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:53] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:53] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:53] CCA.C08-GRID.i1.23710: .// are you using the q menu
+[12:06:53] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:53] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:53] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:53] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:53] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:53] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:53] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:53] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:54] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:54] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:54] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[12:06:54] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> spawned/gave himself swep weapon_ar2
+[12:06:56] CCA.C08-GRID.i1.23710: .// or a toolgun thing
+[12:07:08] Death Razor<STEAM_0:1:66880501> changed their name to Andrew 'Razor' Gonzalez
+[12:07:10] Sybil Rose<STEAM_0:0:595064043> spawned/gave himself swep weapon_m249
+[12:07:17] Chris 'Cyclops' LeVon: .l// i guess it did give me ammo
+[12:07:17] CCA.C08-GRID.i1.23710: .// explain to me exactly how you spawned it
+[12:07:23] Sybil Rose uncloaked Themself
+[12:07:23] Sybil Rose: !uncloak
+[12:07:23] CCA.C08-GRID.i1.23710: /toggleraise
+[12:07:26] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool item_item_crate on maps/rp_city8_edit_v4r.bsp
+[12:07:28] Andrew 'Razor' Gonzalez to admins: What in the flying fuck
+[12:07:31] CCA.C08-GRID.i1.23710: .// ok can you like
+[12:07:32] Andrew 'Razor' Gonzalez to admins: Is going on
+[12:07:36] CCA.C08-GRID.i1.23710: .// not crowd the staff room
+[12:07:42] CCA.C08-GRID.i1.23710 to admins: he spawned an rpg
+[12:07:43] Sybil Rose to admins: Someone was able to spawn an RPG :)
+[12:07:45] Chris 'Cyclops' LeVon: .// M249 SAW?
+[12:07:48] Sybil Rose: .// si
+[12:07:53] Andrew 'Razor' Gonzalez to admins: Oh are you fucking kidding me
+[12:08:00] CCA.C08-GRID.i1.23710: .// explain to me how you spawned it
+[12:08:02] Sybil Rose to admins: No we are not fucking kidding lmfao
+[12:08:06] CCA.C08-GRID.i1.23710: .// what did you sue
+[12:08:08] CCA.C08-GRID.i1.23710: .// use
+[12:08:09] Chris 'Cyclops' LeVon: .// this
+[12:08:11] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool item_item_crate on maps/rp_city8_edit_v4r.bsp
+[12:08:11] Andrew 'Razor' Gonzalez to admins: God fucking dammit
+[12:08:11] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool item_item_crate on maps/rp_city8_edit_v4r.bsp
+[12:08:11] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool item_item_crate on maps/rp_city8_edit_v4r.bsp
+[12:08:11] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool item_item_crate on maps/rp_city8_edit_v4r.bsp
+[12:08:12] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool item_item_crate on maps/rp_city8_edit_v4r.bsp
+[12:08:16] CCA.C08-GRID.i1.23710: .// okay cool
+[12:08:18] Chris 'Cyclops' LeVon: .// yea
+[12:08:22] Andrew 'Razor' Gonzalez to admins: I hate the t flag
+[12:08:25] Chris 'Cyclops' LeVon: .// it was supposed to be a practical joke
+[12:08:28] CCA.C08-GRID.i1.23710: .// im gonna give you your toolgun privellages back in 5 days
+[12:08:29] CCA.C08-UNION.i3.67098<STEAM_0:1:70540942> spawned model models/items/item_item_crate.mdl
+[12:08:34] CCA.C08-GRID.i1.23710: .// sound good?
+[12:08:36] Chris 'Cyclops' LeVon: .// ok makes sense
+[12:08:37] CCA.C08-UNION.i3.67098<STEAM_0:1:70540942> spawned model models/items/item_item_crate.mdl
+[12:08:40] CCA.C08-UNION.i3.67098<STEAM_0:1:70540942> spawned model models/items/item_item_crate.mdl
+[12:08:42] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool item_item_crate on maps/rp_city8_edit_v4r.bsp
+[12:08:43] CCA.C08-GRID.i1.23710: /chartakeflag chris T
+[12:08:43] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool item_item_crate on maps/rp_city8_edit_v4r.bsp
+[12:08:43] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool item_item_crate on maps/rp_city8_edit_v4r.bsp
+[12:08:44] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool item_item_crate on maps/rp_city8_edit_v4r.bsp
+[12:08:45] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> used the tool item_item_crate on maps/rp_city8_edit_v4r.bsp
+[12:08:46] CCA.C08-GRID.i1.23710: /chartakeflag chris t
+[12:08:46] Sybil Rose: .// just going to put this out thee
+[12:08:50] Sybil Rose: .// you can also make ammo crates
+[12:08:57] Sybil Rose<STEAM_0:0:595064043> used the tool item_ammo_crate on maps/rp_city8_edit_v4r.bsp
+[12:08:57] CCA.C08-GRID.i1.23710: .// but first
+[12:09:00] Andrew 'Razor' Gonzalez: [[ sorry to crowd
+[12:09:04] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> spawned/gave himself swep weapon_vj_flaregun
+[12:09:04] CCA.C08-GRID.i1.23710: /toggleraise
+[12:09:05] CCA.C08-UNION.i3.67098 to admins: what fuckin
+[12:09:06] Chris 'Cyclops' LeVon was killed by obj_vj_flareround
+[12:09:08] CCA.C08-UNION.i3.67098 to admins: thing is he spawning
+[12:09:09] Andrew 'Razor' Gonzalez: [[ But I hate t flags
+[12:09:13] Chris 'Cyclops' LeVon: // me brains
+[12:09:19] CCA.C08-GRID.i1.23710: // had to get rid of it lol
+[12:09:24] Sybil Rose to admins: He's spawning Item Crates and Ammo Crates from Half Life 2 tools
+[12:09:27] Sybil Rose to admins: pretty simple
+[12:09:29] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> changed their name to Jim Bostello
+[12:09:33] Andrew 'Razor' Gonzalez to admins: Figured
+[12:09:37] Andrew 'Razor' Gonzalez to admins: It's been a thing
+[12:09:43] CCA.C08-UNION.i3.67098<STEAM_0:1:70540942> used the tool item_item_crate on maps/rp_city8_edit_v4r.bsp
+[12:09:45] Andrew 'Razor' Gonzalez to admins: That's why I don't like giving t flags
+[12:09:45] Jim Bostello: // ME ME SEWER RAT RAAAH
+[12:09:50] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> spawned/gave himself swep weapon_cuff_rope
+[12:09:51] CCA.C08-GRID.i1.23710: /toggleraise
+[12:09:54] CCA.C08-UNION.i3.67098: // right well
+[12:10:00] Andrew 'Razor' Gonzalez: // Rat
+[12:10:01] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> spawned/gave himself swep weapon_cuff_rope
+[12:10:03] CCA.C08-GRID.i1.23710: /toggleraise
+[12:10:04] Jim Bostello: // pucker up king
+[12:10:11] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> spawned/gave himself swep weapon_cuff_rope
+[12:10:11] Sybil Rose<STEAM_0:0:595064043> spawned/gave himself swep weapon_rpg_hl
+[12:10:12] CCA.C08-GRID.i1.23710: /toggleraise
+[12:10:16] CCA.C08-UNION.i3.67098 suicided!
+[12:10:18] Ethan King: // Cease your talking
+[12:10:26] Sybil Rose<STEAM_0:0:595064043> spawned/gave himself swep weapon_pipewrench
+[12:10:28] Ethan King: // Also DRD, fucking answer in VC you rat.
+[12:10:33] Sybil Rose killed CCA.C08-GRID.i1.23710 using weapon_pipewrench
+[12:10:38] Sybil Rose: !noclip
+[12:10:40] Sybil Rose cloaked Themself by amount 0
+[12:10:40] Sybil Rose: !cloak
+[12:10:48] Sybil Rose was killed by trigger_hurt
+[12:10:49] Sybil Rose was killed by trigger_hurt
+[12:10:50] CCA.C08-GRID.i1.23710 to admins: ok go forth and multiply
+[12:10:51] Sybil Rose was killed by trigger_hurt
+[12:10:54] Sybil Rose: !noclip
+[12:10:54] CCA.C08-GRID.i1.23710 to admins: i mean do staff stuff
+[12:11:01] CCA.C08-GRID.i1.23710 gave Themself 90 rounds
+[12:11:05] Sybil Rose to admins: d i v i d e a n d c o n q u e r
+[12:11:08] CCA.C08-GRID.i1.23710 gave Themself 90 rounds
+[12:11:37] Jim Bostello: // can i get some shotgun ammo and .357 at least ;-;
+[12:11:38] CCA.C08-GRID.i1.23710: // gonna grab a glass of milk : )
+[12:11:41] CCA.C08-GRID.i1.23710: // no
+[12:11:43] CCA.C08-GRID.i1.23710: // you died
+[12:11:45] CCA.C08-UNION.i3.67098: // Find it
+[12:11:47] Jim Bostello: // your rude
+[12:11:47] CCA.C08-GRID.i1.23710: // you lose ammo when you die
+[12:11:48] CCA.C08-UNION.i3.67098: // Craft it
+[12:12:01] CCA.C08-GRID.i1.23710: // brb 
+[12:12:06] Jim Bostello: a
+[12:12:09] CCA.C08-GRID.i1.23710: // death is in charge 
+[12:12:17] Andrew 'Razor' Gonzalez: // I'm on the phone you cunt
+[12:12:20] Andrew 'Razor' Gonzalez: // F
+[12:12:21] CCA.C08-GRID.i1.23710: // dont care
+[12:12:24] CCA.C08-UNION.i3.67098: // I AM IN CHARGE
+[12:12:25] CCA.C08-GRID.i1.23710: // take responsibility fucker
+[12:12:27] CCA.C08-GRID.i1.23710: // no
+[12:12:29] CCA.C08-GRID.i1.23710: // xyz is in charge
+[12:12:30] CCA.C08-UNION.i3.67098: // YES!
+[12:12:33] Jim Bostello: // bet?
+[12:12:40] CCA.C08-UNION.i3.67098: // I AM
+[12:12:41] CCA.C08-UNION.i3.67098: // FUCK
+[12:12:52] CCA.C08-GRID.i1.23710: // chumtoads are in chbarge
+[12:12:52] Jim Bostello: // no no i am
+[12:12:52] CCA.C08-UNION.i3.67098: /changesociostatus green
+[12:12:53] Jim Bostello: // i am xyz
+[12:12:54] CCA.C08-GRID.i1.23710: // chumtoad chargheijuk
+[12:13:01] CCA.C08-GRID.i1.23710: // ok fr brb
+[12:13:21] Jim Bostello: King of King's.
+[12:13:21] CCA.C08-UNION.i3.67098<STEAM_0:1:70540942> changed their name to Merissa Myers
+[12:13:27] Ethan King: .// I think you might be a bit large.
+[12:13:31] Jim Bostello: .// nope
+[12:13:35] Jim Bostello: .// pac aint equipped
+[12:13:42] Ethan King: What? 
+[12:13:51] Jim Bostello: What, no one ever said that to you?
+[12:14:05] Ethan King: I've been called a prince before, but not "King of King's
+[12:14:23] Ethan King: That is a first, I'll have to add that to my nicknames.
+[12:14:30] Andrew 'Razor' Gonzalez<STEAM_0:1:66880501> changed their name to Enrique 'Franco' Gonzalez
+[12:14:36] Ethan King: Also, did you need something?
+[12:14:45] Ethan King: Well then
+[12:14:46] Enrique 'Franco' Gonzalez: /adminspawnmenu
+[12:14:49] Merissa Myers: Oh hey. Guess what!
+[12:14:56] Ethan King: What?
+[12:15:01] Merissa Myers: Found a place. One issue.
+[12:15:11] Ethan King: What is the issue?
+[12:15:16] Merissa Myers: Antlions.
+[12:15:27] Enrique 'Franco' Gonzalez: /adminspawnmenu
+[12:15:30] Jim Bostello: .// if your talking about the house next to the combine entrance your head is blown off but nvm
+[12:15:30] Ethan King: I can assume you went into that sewer pipe then.
+[12:15:43] CCA.C08-GRID.i1.23710: // back
+[12:15:51] Merissa Myers: It's a great place
+[12:15:55] Merissa Myers: Could be.
+[12:16:05] Ethan King: Correct, it could be a good spot to live.
+[12:16:35] Ethan King: We can get that Vort to help with helping take it back from the Antlions.
+[12:16:50] Ethan King: For now, just try to get by in the random houses you can find within the Outlands.
+[12:16:59] Merissa Myers: Yeah, I have been.
+[12:17:04] Ethan King: Good, keep at it.
+[12:17:08] Jim Bostello: What house?
+[12:17:10] Merissa Myers: Who's the tall guy?
+[12:17:32] Ethan King: .// I completely forgot that was Watcher for a second.
+[12:17:34] Jim Bostello: I don't like that noise
+[12:17:43] Merissa Myers: Just zombies.
+[12:17:43] Ethan King: This would be a good friend of mine.
+[12:17:51] Jim Bostello: .// dark matter ball just comes flying down the tunnel
+[12:17:56] Merissa Myers: So, Watcher? Or somebody else?
+[12:18:01] Ethan King: Watcher, correct.
+[12:18:13] Merissa Myers: Uh
+[12:18:17] Jim Bostello: Damn, alright then, I guess I won't explain myself
+[12:18:17] Enrique 'Franco' Gonzalez: /adminspawnmenu
+[12:18:20] Ethan King killed CCA.C08-GRID.i1.23710 using player
+[12:18:31] Merissa Myers: To be fair I gave a warning.
+[12:18:36] Ethan King: // Thanks for fucking forcing me to waste ammo.
+[12:18:39] CCA.C08-GRID.i1.23710: // yw 
+[12:18:40] Ethan King: // I love when that shit happens.
+[12:18:41] CCA.C08-GRID.i1.23710: // <3
+[12:18:43] Ethan King: // Makes me really happy.
+[12:18:51] CCA.C08-GRID.i1.23710: // you seemed too happy
+[12:19:00] Ethan King: // Good fucking GM'ing at its finest.
+[12:19:11] Jim Bostello: Well, now then, got any shells?
+[12:19:35] Ethan King: Negative, I can make some probably.
+[12:19:39] Enrique 'Franco' Gonzalez to admins: How to massacre the tunnels 101
+[12:19:49] Jim Bostello: Aye, lady.
+[12:19:54] Jim Bostello: What's your name?
+[12:19:58] Merissa Myers: Scout.
+[12:20:06] Ethan King: .// Can't you set your nickname.
+[12:20:06] Enrique 'Franco' Gonzalez to admins: I wish we had non-lambda outfits
+[12:20:12] Ethan King: .// Do /setnickname
+[12:20:14] CCA.C08-GRID.i1.23710 to admins: thatd be cool
+[12:20:14] Merissa Myers: /setnickname Scout
+[12:20:14] Merissa Myers<STEAM_0:1:70540942> changed their name to Merissa 'Scout' Myers
+[12:20:15] Jim Bostello: /setnickname Scout
+[12:20:16] Jim Bostello<STEAM_0:1:116497963> changed their name to Jim 'Scout' Bostello
+[12:20:18] Ethan King: .// Cool
+[12:20:19] Enrique 'Franco' Gonzalez to admins: I just have to rp not having the symbol
+[12:20:25] Jim 'Scout' Bostello: .// it just says my name back to me lol
+[12:20:26] Enrique 'Franco' Gonzalez to admins: On my dealer
+[12:20:36] Jim 'Scout' Bostello: .// OH
+[12:20:39] Jim 'Scout' Bostello: .// IT SETS MY NICKNAME
+[12:20:39] CCA.C08-GRID.i1.23710 to admins: it'd a shame if 57 hunters flooded into the chamber and killed all 3 of them
+[12:20:39] Enrique 'Franco' Gonzalez: /setnickname Franco
+[12:20:43] Ethan King: .// Correct
+[12:20:43] Merissa 'Scout' Myers: // wait what
+[12:20:44] Jim 'Scout' Bostello: /setnickname Watcher 3
+[12:20:45] Jim 'Scout' Bostello<STEAM_0:1:116497963> changed their name to Jim 'Watcher 3' Bostello
+[12:20:53] Enrique 'Franco' Gonzalez to admins: Facts
+[12:20:56] Merissa 'Scout' Myers: // forgot the . again
+[12:21:03] Merissa 'Scout' Myers to admins: BRUH
+[12:21:06] Merissa 'Scout' Myers to admins: IF YOU DO
+[12:21:09] Jim 'Watcher 3' Bostello: .// just f3 me, i recognize faces
+[12:21:14] Jim 'Watcher 3' Bostello: .// i wont fuck up your name
+[12:21:18] Enrique 'Franco' Gonzalez to admins: *Or will he?*
+[12:21:23] Jim 'Watcher 3' Bostello: More sloshing around
+[12:21:28] Merissa 'Scout' Myers: .// dont forget to F3 me
+[12:21:37] Merissa 'Scout' Myers: Zombie
+[12:21:39] CCA.C08-GRID.i1.23710: .// go forth my child
+[12:21:42] Ethan King: Fuck it, we should just get moving.
+[12:21:44] Sybil Rose: .// Could you not mingepush lmao
+[12:21:45] CCA.C08-GRID.i1.23710: .// slaughter and kill
+[12:21:51] Sybil Rose: .// stealth
+[12:21:53] Sybil Rose to admins: Stealth Check
+[12:21:58] CCA.C08-GRID.i1.23710 to admins: roll a d20
+[12:22:21] Merissa 'Scout' Myers: .// eyy it isnt blocked off
+[12:22:24] Enrique 'Franco' Gonzalez: /adminspawnmenu
+[12:22:32] Merissa 'Scout' Myers: .// earlier we accidentally perma'd the entrance and it became a solid object
+[12:22:36] Jim 'Watcher 3' Bostello: .// tfw your base only contains electronics
+[12:22:38] Ethan King: .// Bruh
+[12:22:44] Sybil Rose to admins: They have fled.
+[12:22:48] Sybil Rose to admins: That was a wise decision
+[12:22:56] Enrique 'Franco' Gonzalez to admins: Wiser idea
+[12:22:59] Merissa 'Scout' Myers: You know I thought it'd be bigger.
+[12:23:10] Merissa 'Scout' Myers: .// The pistol is Mary's btw
+[12:23:12] Jim 'Watcher 3' Bostello: Think we can get that damned radio working?
+[12:23:15] Enrique 'Franco' Gonzalez<STEAM_0:1:66880501> spawned sent ammo_357
+[12:23:16] Sybil Rose: !noclip
+[12:23:28] Jim 'Watcher 3' Bostello: I got some electronics I could probably re-wire into the thing.
+[12:23:29] Enrique 'Franco' Gonzalez<STEAM_0:1:66880501> spawned sent item_ammo_smg1_large
+[12:23:34] Ethan King: Paul can work on that, he was a GRID unit.
+[12:23:46] Jim 'Watcher 3' Bostello: Right, if he ever wakes up.
+[12:23:48] Merissa 'Scout' Myers: How do you have a defective GRID unit?
+[12:23:53] Enrique 'Franco' Gonzalez to admins: Is it snowing?
+[12:23:58] CCA.C08-GRID.i1.23710 to admins: yes
+[12:24:08] Ethan King: We went some very fucked up shit.
+[12:24:12] Sybil Rose: /it *A Bird flies through the Small Pipeline leading to the Undercove.*
+[12:24:18] Ethan King: .// we went through****
+[12:24:32] Sybil Rose: /it *It Caws.*
+[12:24:37] Jim 'Watcher 3' Bostello: /me would whistle down to the bird, putting two fingers up.
+[12:24:38] CCA.C08-GRID.i1.23710 to admins: sybil rose is a bird
+[12:24:43] Sybil Rose to admins: I am all
+[12:24:44] Merissa 'Scout' Myers: .// this doesnt look like an elderly man.
+[12:24:51] Ethan King: .// LMAO
+[12:24:52] Sybil Rose: .// This is an elderly bird
+[12:24:59] Sybil Rose: .// You don't assume what I am
+[12:25:07] Sybil Rose: .// I feel attacked
+[12:25:14] Jim 'Watcher 3' Bostello: It's almost turning grey, clearly been around for a while.
+[12:25:33] Jim 'Watcher 3' Bostello: // gray or grey, hmm
+[12:25:42] Merissa 'Scout' Myers: There's a whole car in these boxes basically.
+[12:25:43] Sybil Rose: /me *The Bird looks up at the whistling man, but stands on the ground. It's feathers are matted in snow, its feathers greyed and worn.*
+[12:26:01] Jim 'Watcher 3' Bostello: /me would turn, "Which is completely useless."
+[12:26:14] Enrique 'Franco' Gonzalez to admins: Alright full disclosure my dealer is going to know where this underground basement is
+[12:26:14] Merissa 'Scout' Myers: Not really. There's plenty of wrecked cars.
+[12:26:18] Jim 'Watcher 3' Bostello: I don't know if you or Dusty know, but I have a *working* car.
+[12:26:22] CCA.C08-GRID.i1.23710 to admins: no
+[12:26:23] Jim 'Watcher 3' Bostello: Completely working car.
+[12:26:25] CCA.C08-GRID.i1.23710 to admins: no he isnt lol
+[12:26:27] Jim 'Watcher 3' Bostello: That drives, and everything.
+[12:26:29] Sybil Rose: /it *The Crow begings to trot around.*
+[12:26:32] Enrique 'Franco' Gonzalez to admins: The vort told him
+[12:26:35] CCA.C08-GRID.i1.23710 to admins: oh
+[12:26:42] Ethan King: Don't call me "Dusty" please, King will work.
+[12:26:44] Enrique 'Franco' Gonzalez to admins: No shit lmao
+[12:26:46] Merissa 'Scout' Myers to admins: I don't recall finishing the Vort guide btw
+[12:26:59] Sybil Rose to admins: Speed it up then
+[12:27:02] Enrique 'Franco' Gonzalez to admins: Not like I'm using the vort for anything but social interaction
+[12:27:05] Jim 'Watcher 3' Bostello: Sure, anyways, I have a working car, like nothing ever happened to it.
+[12:27:07] Jim 'Watcher 3' Bostello: It's in my garage.
+[12:27:14] Enrique 'Franco' Gonzalez to admins: It's literally just a morale booster which is working
+[12:27:25] Merissa 'Scout' Myers to admins: this fucking bird
+[12:27:27] Sybil Rose to admins: If theres one thing outlanders need its a moral boost
+[12:27:31] Ethan King: How did you get a working car?
+[12:27:34] Enrique 'Franco' Gonzalez to admins: To do shit? Yeah
+[12:27:42] Ethan King: .// Did Q set that up? or????
+[12:27:42] Enrique 'Franco' Gonzalez to admins: Instead of hiding
+[12:27:44] CCA.C08-GRID.i1.23710: // petition to call all outlanders sassanechs
+[12:27:47] Ethan King: .// Just wondering
+[12:27:47] Sybil Rose to admins: That wasn't sarcasm but alright lmao
+[12:27:49] Jim 'Watcher 3' Bostello: .// yeah he hid it on the map and i found it
+[12:27:59] Jim 'Watcher 3' Bostello: I had to hotwire it.
+[12:28:09] Merissa 'Scout' Myers: Do you guys need rations or anything? Food?
+[12:28:13] Enrique 'Franco' Gonzalez to admins: I'm just stating facts I haven't seen much after my epu was gunned down in broad daylight
+[12:28:17] Merissa 'Scout' Myers: I can do another supply run.
+[12:28:19] Jim 'Watcher 3' Bostello: Personally, I'm fine.
+[12:28:24] Ethan King: Go for it if you want.
+[12:28:30] Sybil Rose: /it *The bird flutters back to the Pipeline.*
+[12:28:37] Jim 'Watcher 3' Bostello: /me would take this time to remove the bandage from his pack, applying it along his back as best he could.
+[12:28:38] CCA.C08-GRID.i1.23710 to admins: OH YEAH
+[12:28:46] CCA.C08-GRID.i1.23710 to admins: WE SHOULD FINALLY ARREST CHLOE
+[12:28:53] Enrique 'Franco' Gonzalez to admins: For the scanner?
+[12:28:53] Merissa 'Scout' Myers: I need money first off. I can only get one ration package.
+[12:28:57] CCA.C08-GRID.i1.23710 to admins: yeah
+[12:29:02] Enrique 'Franco' Gonzalez to admins: o
+[12:29:05] Sybil Rose to admins: So enthusiastic lmao
+[12:29:08] Merissa 'Scout' Myers to admins: bruh
+[12:29:13] Jim 'Watcher 3' Bostello: I got a hundred or two tokens.
+[12:29:16] Ethan King: One moment
+[12:29:24] CCA.C08-GRID.i1.23710 to admins: i have a personal vendetta against lynx so yes im enthusiastic
+[12:29:24] Sybil Rose: !noclip
+[12:29:26] CCA.C08-GRID.i1.23710 to admins: jk
+[12:29:31] Jim 'Watcher 3' Bostello: Some idiot cop believed I was really a conscript, and gave me two hundred tokens.
+[12:29:37] Sybil Rose: !noclip
+[12:29:39] Sybil Rose: !noclip
+[12:29:46] CCA.C08-GRID.i1.23710 to admins: can one of you spawn like 5 cca rations
+[12:29:52] CCA.C08-GRID.i1.23710 to admins: someone keeps fucking stealing them
+[12:29:53] Ethan King: Well then, we have some Rations but they appear to be missing.
+[12:29:54] Ethan King: Odd
+[12:30:00] Ethan King: Fucking hell
+[12:30:16] Ethan King: Hm...
+[12:30:26] Merissa 'Scout' Myers: .// Somebody might be breaking in without IC knowledge and stealing them.
+[12:30:36] Ethan King: /me Drops down a large Laptop onto to the table.
+[12:30:38] Jim 'Watcher 3' Bostello: .// wouldnt be too far of a stretch
+[12:30:57] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> spawned sent ix_combinelock
+[12:31:01] Ethan King: Alrighty, update on a little pet project of mine.
+[12:31:04] CCA.C08-GRID.i1.23710 teleported to Ethan King
+[12:31:10] Ethan King: This laptop can override and open Combine doors.
+[12:31:12] CCA.C08-GRID.i1.23710: /adminspawnmenu
+[12:31:13] Ethan King: Well....
+[12:31:16] Ethan King: Atleast one from my knowledge.
+[12:31:23] Merissa 'Scout' Myers: And.. what door is that?
+[12:31:27] Jim 'Watcher 3' Bostello: We could've used this LONG ago.
+[12:31:30] Ethan King: Are you aware of the Combine outpost?
+[12:31:41] Merissa 'Scout' Myers: Yeah. Think everybody out here is.
+[12:31:48] CCA.C08-GRID.i1.23710: /adminspawnmenu
+[12:32:00] Jim 'Watcher 3' Bostello: .// no use, i got into it yesterday, it isnt finished theres absolutely nothing in it except random props
+[12:32:09] Ethan King: There is a Combine door inside that outpost that can be opened via this laptop.
+[12:32:20] Jim 'Watcher 3' Bostello: I've been in it, there's nada.
+[12:32:23] Merissa 'Scout' Myers: .// You can search most of those props via lootrp
+[12:32:32] Merissa 'Scout' Myers: .// Which I can host 
+[12:32:38] Jim 'Watcher 3' Bostello: .// you want to search infestation props..?
+[12:32:46] Merissa 'Scout' Myers: .// There's an APC and a chopper
+[12:32:46] Jim 'Watcher 3' Bostello: Just infestation shit.
+[12:33:05] Jim 'Watcher 3' Bostello: .// realistically you wouldnt be able to get in the chopper anyways
+[12:33:15] Ethan King: I know, but the reason this is important is that we can find a way to override most other Combine doors.
+[12:33:21] Sybil Rose<STEAM_0:0:595064043> changed their name to Uriel Akkad
+[12:33:24] Uriel Akkad uncloaked Themself
+[12:33:24] Uriel Akkad: !uncloak
+[12:33:34] Jim 'Watcher 3' Bostello: There's a door just before the train station with some stuff in it.
+[12:33:46] Jim 'Watcher 3' Bostello: Forcefield blocking it, that's it.
+[12:33:49] Merissa 'Scout' Myers: I'm not against going into the city. That's what I do.
+[12:33:57] Merissa 'Scout' Myers: I'll break into anywhere and anything.
+[12:34:04] Jim 'Watcher 3' Bostello: We won't even *have* to.
+[12:34:18] Uriel Akkad: /me *Tunes all his Padlocks to a Familiar Code, tired of having to utilize 8 codes just to unlock his Storage, grabbing the Padlocks and filing them.*
+[12:34:22] Jim 'Watcher 3' Bostello: Just go through the sewers and unlock the forcefield, looked like there were some armor in there or something.
+[12:35:03] Ethan King: .// Back, what was happpening.
+[12:35:04] Ethan King: .// Wha
+[12:35:11] Jim 'Watcher 3' Bostello: .// read the chat dunce
+[12:35:16] Ethan King: .// Fuck off
+[12:35:20] Jim 'Watcher 3' Bostello: .// </3
+[12:35:24] Merissa 'Scout' Myers: .// angwy
+[12:35:40] Jim 'Watcher 3' Bostello: // with a description like 'looks are remarkable' I should put 'devilishly handsome' in mine
+[12:35:49] Merissa 'Scout' Myers: Right. See what you can do with it and I'll see if I can't get into a higher risk area.
+[12:35:58] Uriel Akkad: // "has phat nuts"
+[12:36:03] CCA.C08-GRID.i1.23710: /charwhitelist grid alien
+[12:36:07] Ethan King: Alright, I'm not much of a coder so I'll see what happens.
+[12:36:08] Uriel Akkad: /adminspawnmenu
+[12:36:10] CCA.C08-GRID.i1.23710: /plywhitelist grid alien
+[12:36:22] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> changed their name to Grasshopper
+[12:36:25] Jim 'Watcher 3' Bostello: // every CW description; 6'4" | Devilishly Handsome | Hate Combine
+[12:36:27] Merissa 'Scout' Myers: With any luck it'll override high security locks. Get into the Nexus.
+[12:36:29] Ethan King: You start scouting the city for anything, Combine movement, places to get into, that shit.
+[12:36:39] Ethan King: And yes, I'll try that.
+[12:36:44] Grasshopper: // my description is the best tho
+[12:36:54] Grasshopper: // Overgrown grasshopper | President of France | US Navy Admiral | Secretly Aslan from Narnia
+[12:36:54] Uriel Akkad: // 7'3" | Phat Nutz | Crosseyed.
+[12:37:04] Ethan King: I haven't heard Combine talking on the radio in a while so they might have changed their frequency.
+[12:37:11] Uriel Akkad: // Time to finally build my t h i n g 
+[12:37:17] Jim 'Watcher 3' Bostello: They definitely did, haven't heard nada.
+[12:37:25] Ethan King: Alright
+[12:37:46] Merissa 'Scout' Myers: Wonder why that happened. Some idiot probably compromised it.
+[12:37:53] Grasshopper to admins: lmao
+[12:38:04] Merissa 'Scout' Myers to admins: What, my comment?
+[12:38:05] Uriel Akkad<STEAM_0:0:595064043> spawned model models/illusion/eftcontainers/militarybattery.mdl
+[12:38:09] Grasshopper to admins: yeah
+[12:38:10] Jim 'Watcher 3' Bostello: Right.
+[12:38:15] Ethan King: Scout, I need you to start checking in on Combine movement. We're in the dark so you'll have to work double time.
+[12:38:18] Grasshopper to admins: throwing shade
+[12:38:27] Jim 'Watcher 3' Bostello: Ah, ah, ah! Wrong.
+[12:38:27] Merissa 'Scout' Myers to admins: He's an absolute fool
+[12:38:27] Ethan King: Just sit in the city for a bit, see if anything is happening.
+[12:38:35] Uriel Akkad to admins: Throwing Absolute Nuts
+[12:38:49] Grasshopper to admins: if he gets in a firefight again and dies i think it should be a pk
+[12:38:56] Uriel Akkad<STEAM_0:0:595064043> spawned model models/props/de_inferno/tablecoffee.mdl
+[12:38:57] Jim 'Watcher 3' Bostello: I was in the city for a while one day, posing as Samuel Brody. The cops usually hang around the Work Desk next to the nightclub.
+[12:39:06] Uriel Akkad<STEAM_0:0:595064043> spawned model models/props/cs_militia/table_kitchen.mdl
+[12:39:11] Jim 'Watcher 3' Bostello: If not, they just walk the alleys.
+[12:39:16] Ethan King: Got it
+[12:39:23] Uriel Akkad<STEAM_0:0:595064043> spawned model models/props/cs_militia/table_kitchen.mdl
+[12:39:29] Uriel Akkad<STEAM_0:0:595064043> used the tool nocollideeverything on models/props/cs_militia/table_kitchen.mdl
+[12:39:37] Ethan King: But regardless, Scout should start checking in on them. She isn't called Scout for nothing.
+[12:39:49] Ethan King: Live up to your name, that is important.
+[12:39:59] Uriel Akkad<STEAM_0:0:595064043> used the tool nocollideeverything on models/props/cs_militia/table_kitchen.mdl
+[12:39:59] Uriel Akkad<STEAM_0:0:595064043> used the tool nocollideeverything on models/props/cs_militia/table_kitchen.mdl
+[12:40:02] Uriel Akkad<STEAM_0:0:595064043> used the tool nocollideeverything on models/props/cs_militia/table_kitchen.mdl
+[12:40:04] Merissa 'Scout' Myers: That is what I do. Do you need anything?
+[12:40:13] Merissa 'Scout' Myers: Other than information.
+[12:40:19] Uriel Akkad<STEAM_0:0:595064043> spawned model models/props/cs_militia/table_kitchen.mdl
+[12:40:25] Uriel Akkad<STEAM_0:0:595064043> used the tool nocollideeverything on models/props/cs_militia/table_kitchen.mdl
+[12:40:29] Uriel Akkad<STEAM_0:0:595064043> used the tool nocollideeverything on models/props/cs_militia/table_kitchen.mdl
+[12:40:29] Jim 'Watcher 3' Bostello: I would say shotgun shells, but I don't know how you would get your hands on some.
+[12:40:29] Uriel Akkad<STEAM_0:0:595064043> used the tool nocollideeverything on models/props/cs_militia/table_kitchen.mdl
+[12:40:30] Ethan King: Not really, just keep touch with us and stay safe.
+[12:40:42] Merissa 'Scout' Myers: Don't think I'm getting shells in the city.
+[12:40:44] Ethan King: My Frequency is 124.6
+[12:40:53] Jim 'Watcher 3' Bostello: // gonna ever be a BMD?
+[12:40:53] Uriel Akkad: /me *Sets out the Following Items to Consctruct an Electric Generator.*
+[12:41:05] Merissa 'Scout' Myers: Heh. I'll keep that in mind if I find a radio.
+[12:41:09] Ethan King: Alright
+[12:41:20] Merissa 'Scout' Myers: Right. Well. Off I go.
+[12:41:23] Ethan King: Yep
+[12:41:37] Ethan King: Watcher, you will be tasked with keeping tabs on all rebels in the Outlands.
+[12:41:41] Merissa 'Scout' Myers: // snow?
+[12:41:45] Jim 'Watcher 3' Bostello: Easy enough.
+[12:41:50] Ethan King: Any and all you find or know, you need to keep a close eye on them.
+[12:42:06] Merissa 'Scout' Myers: /yell IT'S FUCKING SNOWING WHAT THE HELL!
+[12:42:10] Jim 'Watcher 3' Bostello: Right, and about the one with the god complex?
+[12:42:24] Ethan King: Uriel? just treat him like any other rebel.
+[12:42:35] Uriel Akkad: /me *Motor Controller (1) , Military Circuit Board (2) , Cables (1) , Insulating Tape (1) , Car Battery (1) , Broken Hard Drive (1) , Electric Motor (1) ,  Screwdriver (1) , Set of CWU Tools (1)*
+[12:42:44] Ethan King: Keep tabs with him, and if he resist then force any and all information out of him.
+[12:42:51] Uriel Akkad<STEAM_0:0:595064043> used the tool remover on models/illusion/eftcontainers/militarybattery.mdl
+[12:42:52] Uriel Akkad<STEAM_0:0:595064043> used the tool remover on models/illusion/eftcontainers/controller.mdl
+[12:42:53] Uriel Akkad<STEAM_0:0:595064043> used the tool remover on models/illusion/eftcontainers/carbattery.mdl
+[12:42:53] Uriel Akkad<STEAM_0:0:595064043> used the tool remover on models/illusion/eftcontainers/militaryboard.mdl
+[12:42:54] Uriel Akkad<STEAM_0:0:595064043> used the tool remover on models/illusion/eftcontainers/militaryboard.mdl
+[12:42:54] Uriel Akkad<STEAM_0:0:595064043> used the tool remover on models/illusion/eftcontainers/wires.mdl
+[12:42:55] Uriel Akkad<STEAM_0:0:595064043> used the tool remover on models/illusion/eftcontainers/insulatingtape.mdl
+[12:42:55] Uriel Akkad<STEAM_0:0:595064043> used the tool remover on models/illusion/eftcontainers/hdd.mdl
+[12:42:56] Uriel Akkad<STEAM_0:0:595064043> used the tool remover on models/illusion/eftcontainers/engine.mdl
+[12:43:03] Ethan King: We must keep an iron fist in the Outlands to secure victory, although many might not like it.
+[12:43:12] Ethan King: I will be giving others the same task as you.
+[12:43:15] Uriel Akkad<STEAM_0:0:595064043> spawned model models/illusion/eftcontainers/controller.mdl
+[12:43:29] Jim 'Watcher 3' Bostello: Right.. And what information will I be looking for?
+[12:43:36] Uriel Akkad<STEAM_0:0:595064043> used the tool nocollideeverything on models/illusion/eftcontainers/controller.mdl
+[12:43:41] Uriel Akkad<STEAM_0:0:595064043> used the tool nocollideeverything on models/illusion/eftcontainers/controller.mdl
+[12:43:42] Uriel Akkad<STEAM_0:0:595064043> used the tool nocollideeverything on models/illusion/eftcontainers/controller.mdl
+[12:43:45] Uriel Akkad<STEAM_0:0:595064043> spawned model models/illusion/eftcontainers/militarybattery.mdl
+[12:43:59] Ethan King: The most important is locations of weapons, equipment, and Combine movement.
+[12:43:59] Uriel Akkad<STEAM_0:0:595064043> used the tool nocollideeverything on models/illusion/eftcontainers/militarybattery.mdl
+[12:44:09] Uriel Akkad<STEAM_0:0:595064043> used the tool nocollideeverything on models/illusion/eftcontainers/militarybattery.mdl
+[12:44:09] Uriel Akkad<STEAM_0:0:595064043> used the tool nocollideeverything on models/illusion/eftcontainers/militarybattery.mdl
+[12:44:10] Ethan King: But any information is useful I suppose.
+[12:44:17] Merissa 'Scout' Myers: // The snow is actually very pretty
+[12:44:27] Uriel Akkad: /me *Grabs out a Power Cable as well from one of his Crates.*
+[12:44:29] Jim 'Watcher 3' Bostello: // i dont see any snow
+[12:44:37] Uriel Akkad<STEAM_0:0:595064043> spawned model models/illusion/eftcontainers/powercord.mdl
+[12:44:45] Uriel Akkad<STEAM_0:0:595064043> used the tool nocollideeverything on models/illusion/eftcontainers/powercord.mdl
+[12:44:51] Ethan King: Any methods for information extraction is authorized, you can torture for all I care, we just need to know everything about what the Combine is doing.
+[12:45:27] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/powercord.mdl
+[12:45:28] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/powercord.mdl
+[12:45:28] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/powercord.mdl
+[12:45:28] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/powercord.mdl
+[12:45:29] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/powercord.mdl
+[12:45:29] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/powercord.mdl
+[12:45:29] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/powercord.mdl
+[12:45:29] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/powercord.mdl
+[12:45:29] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/powercord.mdl
+[12:45:30] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/powercord.mdl
+[12:45:30] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/powercord.mdl
+[12:45:30] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/powercord.mdl
+[12:45:30] Ethan King: .// If you haven't noticed, I suck at giving orders.
+[12:45:30] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/powercord.mdl
+[12:45:37] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/powercord.mdl
+[12:45:37] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/powercord.mdl
+[12:45:37] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/powercord.mdl
+[12:45:38] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/powercord.mdl
+[12:45:38] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/props/cs_militia/table_kitchen.mdl
+[12:45:38] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/props/cs_militia/table_kitchen.mdl
+[12:45:39] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/powercord.mdl
+[12:45:39] Jim 'Watcher 3' Bostello: I'll try to keep a lookout for the inside man for the Combine
+[12:45:39] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/powercord.mdl
+[12:45:39] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/powercord.mdl
+[12:45:39] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/powercord.mdl
+[12:45:40] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/props/cs_militia/table_kitchen.mdl
+[12:45:40] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/props/cs_militia/table_kitchen.mdl
+[12:45:42] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/props/cs_militia/table_kitchen.mdl
+[12:45:43] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/props/cs_militia/table_kitchen.mdl
+[12:45:43] Jim 'Watcher 3' Bostello: .// oh yeah, i know
+[12:45:44] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/props/cs_militia/table_kitchen.mdl
+[12:45:45] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/props/cs_militia/table_kitchen.mdl
+[12:45:46] Ethan King: Got it
+[12:45:49] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/powercord.mdl
+[12:45:52] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/militarybattery.mdl
+[12:45:53] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/militarybattery.mdl
+[12:46:01] Uriel Akkad<STEAM_0:0:595064043> spawned model models/illusion/eftcontainers/wires.mdl
+[12:46:14] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/props/cs_militia/table_kitchen.mdl
+[12:46:14] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/wires.mdl
+[12:46:14] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/wires.mdl
+[12:46:15] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/wires.mdl
+[12:46:15] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/wires.mdl
+[12:46:15] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/wires.mdl
+[12:46:17] Jim 'Watcher 3' Bostello: Well then, if that concludes the debrief, I'm going to find Uriel and have him make me ammo.
+[12:46:23] Ethan King: Alright, get to it.
+[12:46:26] Uriel Akkad<STEAM_0:0:595064043> spawned model models/illusion/eftcontainers/engine.mdl
+[12:46:26] Ethan King: // brb for a bit.
+[12:46:47] Enrique 'Franco' Gonzalez to admins: Oh shit everyone fucked off
+[12:46:47] Dropped "Merissa 'Scout' Myers" from server<STEAM_0:1:70540942>
+[12:46:52] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/engine.mdl
+[12:46:52] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/engine.mdl
+[12:46:54] Enrique 'Franco' Gonzalez to admins: Damn
+[12:47:03] Uriel Akkad to admins: im just doing my crafting rp so its fine by me lmao
+[12:47:24] Uriel Akkad<STEAM_0:0:595064043> spawned model models/illusion/eftcontainers/lcdclean.mdl
+[12:47:31] Jim 'Watcher 3' Bostello: Uriel.
+[12:47:38] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/lcdclean.mdl
+[12:47:39] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/lcdclean.mdl
+[12:47:39] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/lcdclean.mdl
+[12:47:39] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/lcdclean.mdl
+[12:47:39] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/lcdclean.mdl
+[12:47:40] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/lcdclean.mdl
+[12:47:40] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/lcdclean.mdl
+[12:47:40] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/lcdclean.mdl
+[12:47:40] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/lcdclean.mdl
+[12:47:40] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/lcdclean.mdl
+[12:47:41] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/lcdclean.mdl
+[12:47:41] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/lcdclean.mdl
+[12:47:41] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/lcdclean.mdl
+[12:47:41] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/lcdclean.mdl
+[12:47:42] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/lcdclean.mdl
+[12:47:42] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/lcdclean.mdl
+[12:47:42] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/lcdclean.mdl
+[12:47:42] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/lcdclean.mdl
+[12:47:42] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/lcdclean.mdl
+[12:47:42] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/lcdclean.mdl
+[12:47:43] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/lcdclean.mdl
+[12:47:43] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/lcdclean.mdl
+[12:47:43] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/lcdclean.mdl
+[12:47:43] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/lcdclean.mdl
+[12:47:43] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/lcdclean.mdl
+[12:47:44] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/lcdclean.mdl
+[12:47:44] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/lcdclean.mdl
+[12:47:44] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/lcdclean.mdl
+[12:47:44] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/lcdclean.mdl
+[12:47:44] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/lcdclean.mdl
+[12:47:45] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/lcdclean.mdl
+[12:47:45] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/lcdclean.mdl
+[12:47:45] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/lcdclean.mdl
+[12:47:45] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/lcdclean.mdl
+[12:47:45] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/lcdclean.mdl
+[12:47:46] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/lcdclean.mdl
+[12:47:46] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/lcdclean.mdl
+[12:47:46] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/lcdclean.mdl
+[12:47:46] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/lcdclean.mdl
+[12:47:46] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/lcdclean.mdl
+[12:47:46] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/lcdclean.mdl
+[12:47:47] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/lcdclean.mdl
+[12:47:47] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/lcdclean.mdl
+[12:47:47] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/lcdclean.mdl
+[12:47:47] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/lcdclean.mdl
+[12:47:48] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/lcdclean.mdl
+[12:47:48] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/lcdclean.mdl
+[12:47:48] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/lcdclean.mdl
+[12:47:48] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/lcdclean.mdl
+[12:47:49] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/lcdclean.mdl
+[12:47:49] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/lcdclean.mdl
+[12:47:49] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/lcdclean.mdl
+[12:47:49] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/lcdclean.mdl
+[12:47:49] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/lcdclean.mdl
+[12:47:49] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/lcdclean.mdl
+[12:47:49] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/lcdclean.mdl
+[12:47:50] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/lcdclean.mdl
+[12:47:50] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/lcdclean.mdl
+[12:47:50] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/lcdclean.mdl
+[12:47:50] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/lcdclean.mdl
+[12:47:51] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/lcdclean.mdl
+[12:47:52] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/lcdclean.mdl
+[12:47:52] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/lcdclean.mdl
+[12:47:52] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/lcdclean.mdl
+[12:47:53] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/lcdclean.mdl
+[12:47:53] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/lcdclean.mdl
+[12:47:54] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/lcdclean.mdl
+[12:47:54] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/lcdclean.mdl
+[12:47:55] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/lcdclean.mdl
+[12:47:56] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/lcdclean.mdl
+[12:48:01] Uriel Akkad<STEAM_0:0:595064043> spawned model models/illusion/eftcontainers/militaryboard.mdl
+[12:48:14] Uriel Akkad<STEAM_0:0:595064043> used the tool nocollideeverything on models/illusion/eftcontainers/militaryboard.mdl
+[12:48:21] Jim 'Watcher 3' Bostello: /y Uriel, I need your assistance.
+[12:48:26] Uriel Akkad: /y Not now.
+[12:48:35] Uriel Akkad<STEAM_0:0:595064043> spawned model models/illusion/eftcontainers/weaponparts.mdl
+[12:48:45] Jim 'Watcher 3' Bostello: /y What are you doing that is *that* important, I need some shells, I'll pay you handsomely.
+[12:48:46] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/weaponparts.mdl
+[12:48:46] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/weaponparts.mdl
+[12:48:46] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/weaponparts.mdl
+[12:48:47] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/weaponparts.mdl
+[12:48:55] Uriel Akkad: /y ...I don't have a Die Cast?
+[12:49:02] Jim 'Watcher 3' Bostello: /y What happened to it?
+[12:49:14] Uriel Akkad: /y I never *had* one, your base has one for shells, I just have Gunpowder.
+[12:49:31] Jim 'Watcher 3' Bostello: /y Well then, I'll be back.
+[12:49:34] Uriel Akkad: /y Alright.
+[12:49:44] Uriel Akkad<STEAM_0:0:595064043> spawned model models/illusion/eftcontainers/pressuregauge.mdl
+[12:49:53] Uriel Akkad<STEAM_0:0:595064043> used the tool nocollideeverything on models/illusion/eftcontainers/pressuregauge.mdl
+[12:50:20] Uriel Akkad<STEAM_0:0:595064043> spawned model models/illusion/eftcontainers/capacitors.mdl
+[12:50:30] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/capacitors.mdl
+[12:50:31] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/capacitors.mdl
+[12:50:31] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/capacitors.mdl
+[12:50:31] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/capacitors.mdl
+[12:50:36] Uriel Akkad<STEAM_0:0:595064043> spawned model models/illusion/eftcontainers/powerbank.mdl
+[12:50:44] Uriel Akkad<STEAM_0:0:595064043> used the tool nocollideeverything on models/illusion/eftcontainers/powerbank.mdl
+[12:51:09] Uriel Akkad<STEAM_0:0:595064043> spawned model models/illusion/eftcontainers/powersupplyunit.mdl
+[12:51:13] Uriel Akkad<STEAM_0:0:595064043> spawned model models/illusion/eftcontainers/powersupplyunit.mdl
+[12:51:16] Uriel Akkad<STEAM_0:0:595064043> used the tool nocollideeverything on models/illusion/eftcontainers/powersupplyunit.mdl
+[12:51:46] Uriel Akkad<STEAM_0:0:595064043> spawned model models/illusion/eftcontainers/virtex.mdl
+[12:52:03] Uriel Akkad<STEAM_0:0:595064043> spawned model models/illusion/eftcontainers/screwnutbolt.mdl
+[12:52:11] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/screwnutbolt.mdl
+[12:52:11] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/screwnutbolt.mdl
+[12:52:11] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/screwnutbolt.mdl
+[12:52:11] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/screwnutbolt.mdl
+[12:52:14] Uriel Akkad<STEAM_0:0:595064043> spawned model models/illusion/eftcontainers/gasoline.mdl
+[12:52:20] Jim 'Watcher 3' Bostello: // damn these fuckers really did a number on the base minged everything including the die cast for shells
+[12:52:34] Uriel Akkad: // ...Then call an admin to respawn it lol
+[12:52:37] Uriel Akkad<STEAM_0:0:595064043> spawned model models/illusion/eftcontainers/medpile.mdl
+[12:52:42] Uriel Akkad<STEAM_0:0:595064043> spawned model models/illusion/eftcontainers/hdd.mdl
+[12:52:51] Jim 'Watcher 3' Bostello: // death razor...
+[12:52:53] Uriel Akkad<STEAM_0:0:595064043> used the tool nocollideeverything on models/illusion/eftcontainers/hdd.mdl
+[12:53:07] Enrique 'Franco' Gonzalez: // What
+[12:53:32] Jim 'Watcher 3' Bostello: // can you pls respawn the die cast for shells
+[12:53:49] Uriel Akkad<STEAM_0:0:595064043> spawned model models/illusion/eftcontainers/ducttape.mdl
+[12:53:51] Enrique 'Franco' Gonzalez: // one sec
+[12:53:59] Uriel Akkad<STEAM_0:0:595064043> used the tool nocollideeverything on models/illusion/eftcontainers/ducttape.mdl
+[12:54:01] Uriel Akkad<STEAM_0:0:595064043> used the tool nocollideeverything on models/illusion/eftcontainers/ducttape.mdl
+[12:54:01] Uriel Akkad<STEAM_0:0:595064043> used the tool nocollideeverything on models/illusion/eftcontainers/ducttape.mdl
+[12:54:03] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/ducttape.mdl
+[12:54:03] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/ducttape.mdl
+[12:54:03] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/ducttape.mdl
+[12:54:03] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/ducttape.mdl
+[12:54:04] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/ducttape.mdl
+[12:54:04] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/ducttape.mdl
+[12:54:16] Uriel Akkad<STEAM_0:0:595064043> spawned model models/illusion/eftcontainers/30mmround.mdl
+[12:54:19] Uriel Akkad<STEAM_0:0:595064043> spawned model models/illusion/eftcontainers/circuitboard.mdl
+[12:54:24] Dropped "Grasshopper" from server<STEAM_0:0:193599766>
+[12:54:36] Uriel Akkad<STEAM_0:0:595064043> used the tool nocollideeverything on models/illusion/eftcontainers/circuitboard.mdl
+[12:54:56] Uriel Akkad<STEAM_0:0:595064043> used the tool nocollideeverything on models/illusion/eftcontainers/circuitboard.mdl
+[12:54:59] Uriel Akkad<STEAM_0:0:595064043> used the tool nocollideeverything on models/illusion/eftcontainers/circuitboard.mdl
+[12:55:07] Uriel Akkad<STEAM_0:0:595064043> spawned model models/illusion/eftcontainers/powerfilter.mdl
+[12:55:18] Uriel Akkad<STEAM_0:0:595064043> used the tool nocollideeverything on models/props/cs_militia/table_kitchen.mdl
+[12:55:33] Enrique 'Franco' Gonzalez: [[ what happened
+[12:55:49] Uriel Akkad<STEAM_0:0:595064043> used the tool nocollideeverything on models/props/cs_militia/table_kitchen.mdl
+[12:55:50] Uriel Akkad<STEAM_0:0:595064043> used the tool nocollideeverything on models/illusion/eftcontainers/powerfilter.mdl
+[12:55:55] Enrique 'Franco' Gonzalez: [[ which die cast
+[12:55:56] Jim 'Watcher 3' Bostello: .// bunch of dicks jumped in the base and locked all the boxes and took everything without rp knowledge
+[12:55:59] Jim 'Watcher 3' Bostello: .// shells
+[12:56:05] Enrique 'Franco' Gonzalez: /adminspawnmenu
+[12:56:23] Uriel Akkad<STEAM_0:0:595064043> spawned model models/illusion/eftcontainers/gyrotachometer.mdl
+[12:56:27] Enrique 'Franco' Gonzalez: [[ how much
+[12:56:31] Enrique 'Franco' Gonzalez<STEAM_0:1:66880501> spawned sent ix_vendor
+[12:56:43] Jim 'Watcher 3' Bostello: .// how many die casts?
+[12:56:47] Enrique 'Franco' Gonzalez: [[ yeah
+[12:56:48] Jim 'Watcher 3' Bostello: .// i think only 1
+[12:57:01] Enrique 'Franco' Gonzalez: [[ what round
+[12:57:07] Jim 'Watcher 3' Bostello: .// 12G
+[12:57:30] Enrique 'Franco' Gonzalez: [[ get it
+[12:57:31] Uriel Akkad<STEAM_0:0:595064043> spawned model models/illusion/eftcontainers/thermometer.mdl
+[12:57:34] Uriel Akkad<STEAM_0:0:595064043> spawned model models/illusion/eftcontainers/thermometer.mdl
+[12:57:39] Jim 'Watcher 3' Bostello: .// <3
+[12:57:41] Uriel Akkad<STEAM_0:0:595064043> used the tool nocollideeverything on models/illusion/eftcontainers/thermometer.mdl
+[12:57:48] Enrique 'Franco' Gonzalez: [[ alright cool
+[12:58:33] Uriel Akkad<STEAM_0:0:595064043> spawned model models/illusion/eftcontainers/militarycable.mdl
+[12:58:41] Jim 'Watcher 3' Bostello: /y Got the Die Cast.
+[12:59:11] Uriel Akkad: /me *Finishes creating the Electric Generator Table, placing away his Drill, Tool Set and Screwdriver.*
+[12:59:14] Uriel Akkad<STEAM_0:0:595064043> used the tool permaprops on models/illusion/eftcontainers/engine.mdl
+[12:59:15] Uriel Akkad<STEAM_0:0:595064043> used the tool permaprops on models/props/cs_militia/table_kitchen.mdl
+[12:59:15] Uriel Akkad<STEAM_0:0:595064043> used the tool permaprops on models/illusion/eftcontainers/ducttape.mdl
+[12:59:15] Uriel Akkad<STEAM_0:0:595064043> used the tool permaprops on models/illusion/eftcontainers/weaponparts.mdl
+[12:59:16] Uriel Akkad<STEAM_0:0:595064043> used the tool permaprops on models/illusion/eftcontainers/screwnutbolt.mdl
+[12:59:16] Uriel Akkad<STEAM_0:0:595064043> used the tool permaprops on models/illusion/eftcontainers/capacitors.mdl
+[12:59:17] Uriel Akkad<STEAM_0:0:595064043> used the tool permaprops on models/illusion/eftcontainers/wires.mdl
+[12:59:18] Uriel Akkad<STEAM_0:0:595064043> used the tool permaprops on models/illusion/eftcontainers/pressuregauge.mdl
+[12:59:19] Uriel Akkad<STEAM_0:0:595064043> used the tool permaprops on models/illusion/eftcontainers/militarybattery.mdl
+[12:59:19] Uriel Akkad<STEAM_0:0:595064043> used the tool permaprops on models/illusion/eftcontainers/hdd.mdl
+[12:59:20] Uriel Akkad<STEAM_0:0:595064043> used the tool permaprops on models/illusion/eftcontainers/thermometer.mdl
+[12:59:20] Uriel Akkad<STEAM_0:0:595064043> used the tool permaprops on models/illusion/eftcontainers/lcdclean.mdl
+[12:59:21] Uriel Akkad<STEAM_0:0:595064043> used the tool permaprops on models/illusion/eftcontainers/powerbank.mdl
+[12:59:21] Uriel Akkad<STEAM_0:0:595064043> used the tool permaprops on models/illusion/eftcontainers/powersupplyunit.mdl
+[12:59:22] Uriel Akkad<STEAM_0:0:595064043> used the tool permaprops on models/illusion/eftcontainers/controller.mdl
+[12:59:22] Uriel Akkad<STEAM_0:0:595064043> used the tool permaprops on models/illusion/eftcontainers/militaryboard.mdl
+[12:59:23] Uriel Akkad<STEAM_0:0:595064043> used the tool permaprops on models/illusion/eftcontainers/powercord.mdl
+[12:59:25] Uriel Akkad<STEAM_0:0:595064043> used the tool permaprops on models/illusion/eftcontainers/circuitboard.mdl
+[12:59:26] Uriel Akkad<STEAM_0:0:595064043> used the tool permaprops on models/illusion/eftcontainers/powerfilter.mdl
+[12:59:31] Uriel Akkad: /y Great
+[12:59:40] Uriel Akkad: /y So you want *Bullets*?
+[12:59:45] Jim 'Watcher 3' Bostello: /y Shells, yeah.
+[12:59:49] Uriel Akkad: /y One moment
+[13:00:40] Uriel Akkad: Come on in
+[13:00:57] Uriel Akkad: Just finished up the Electric Generator.
+[13:00:58] Jim 'Watcher 3' Bostello: Holy shit
+[13:01:08] Jim 'Watcher 3' Bostello: This im impressive, to say the least.
+[13:01:20] Jim 'Watcher 3' Bostello: What're you gonna use this for?
+[13:01:28] Uriel Akkad: Yeah, still got to install the Car Batteries and Extra Energy Storage Units but, the 6-STEN Battery is hooked up to just about anything.
+[13:01:39] Uriel Akkad: Got the LCD Monitor hooked up reporting Stats and Vitals of the Systems.
+[13:01:44] Uriel Akkad: Heating and Cooling Valves.
+[13:01:53] Uriel Akkad: Not really sure but, it can applied to just about anything.
+[13:02:08] Uriel Akkad: Heating Rebar Bolts, Charing Electric Units.
+[13:02:16] Uriel Akkad: Automatic Shell Forging.
+[13:02:24] Jim 'Watcher 3' Bostello: And, Car Battery charging?
+[13:02:30] Uriel Akkad: Anything charging.
+[13:02:35] Uriel Akkad: But yeah I got a car battery.
+[13:02:40] Jim 'Watcher 3' Bostello: Well then, I'll have to stop by when my car battery dies.
+[13:02:44] Uriel Akkad: Sure.
+[13:03:00] Uriel Akkad: It's portable too, can hook it all up and pack it down incase I ever got to move.
+[13:03:08] Jim 'Watcher 3' Bostello: And if you didn't know, I have a car - If we ever have to go anywhere, we could fit you, Ethan, and someone else in it.
+[13:03:34] Uriel Akkad: I heard, yeah. I'll stick to boots on ground for now but if you need a recharge for a small fee this Generator could make quick work of it.
+[13:03:44] Jim 'Watcher 3' Bostello: Alright, fair enough.
+[13:03:51] Uriel Akkad: Now uh can I get those shells.
+[13:03:52] Dropped "Ethan King" from server<STEAM_0:1:17219621>
+[13:04:01] Jim 'Watcher 3' Bostello: You know of the new frequency? -
+[13:04:08] Uriel Akkad: Come on in to the Living Room. New Freq for what?
+[13:04:11] Jim 'Watcher 3' Bostello: /me would take the die cast out of his bag, putting it down
+[13:04:20] Jim 'Watcher 3' Bostello: Communication..?
+[13:04:25] Uriel Akkad: For Combine?
+[13:04:28] Uriel Akkad: Did they change it?
+[13:04:42] Jim 'Watcher 3' Bostello: Nah, between the rebels, they changed the Combine frequency though.
+[13:04:50] Uriel Akkad: Oh, damn. Well does anyone know that?
+[13:05:03] Jim 'Watcher 3' Bostello: Ethan and I, the new frequency is 124.6
+[13:05:10] Uriel Akkad: Alrighty.
+[13:05:13] Uriel Akkad: Now uh, where's the metal.
+[13:05:17] Jim 'Watcher 3' Bostello: Right, right.
+[13:05:47] Jim 'Watcher 3' Bostello: Ah, shit, I think I left my metal in my locker, Armor scraps work? Their pretty much the same thing anyways.
+[13:06:19] Uriel Akkad: I'm not really sure, we could try to break it down into some metal and that might actually give us a fair amount of refined resources. Just need source hot enough to smelt it.
+[13:07:02] Jim 'Watcher 3' Bostello: Well, I got wires, you could hook them up to the battery and try melting the armor with said copper wires? Or..
+[13:07:36] Uriel Akkad: Uh, Yeah. Could make the Electric Generator heat up some kind of Kiln.
+[13:08:07] Jim 'Watcher 3' Bostello: /me would dig through his bag..
+[13:08:37] Jim 'Watcher 3' Bostello: I'm getting fucked in the *ass* here, I left my fuckin' wires in my locker. You ain't got spare wires?
+[13:09:01] Uriel Akkad: All my Cables went into making the Generator, I got a roll of a Powercable that's about it.
+[13:09:14] Jim 'Watcher 3' Bostello: Well, bigger wire.
+[13:09:19] Jim 'Watcher 3' Bostello: Might conduct more heat.
+[13:09:27] Uriel Akkad: It's a bit more then "Bigger" and it conducts 220 Volts.
+[13:09:42] Jim 'Watcher 3' Bostello: Well then, that should work, no?
+[13:09:56] Uriel Akkad: It should, if you have a container *for* the Armor Scraps.
+[13:10:01] Uriel Akkad: I'm not just going to melt it on the table.
+[13:10:06] Jim 'Watcher 3' Bostello: Well, yeah.
+[13:10:26] Jim 'Watcher 3' Bostello: Small items case work?
+[13:10:29] Uriel Akkad: /me *Lays out the Secondary Power Cable, syncing it up to the Electric Generator and Hooking up the Full Car Battery.*
+[13:10:35] Uriel Akkad: You want me. To melt *Metal*
+[13:10:38] Uriel Akkad: In a cloth pouch.
+[13:10:41] Jim 'Watcher 3' Bostello: Okay, okay, dumb question.
+[13:10:45] Uriel Akkad: Very.
+[13:10:58] Uriel Akkad: How many Armor Scraps you got.
+[13:11:06] Jim 'Watcher 3' Bostello: Four
+[13:11:22] Jim 'Watcher 3' Bostello: I got blacksmith tongs, I could just hold them up?
+[13:11:28] Uriel Akkad: /me *Begins to Cave out a Small Dig-Out about 6 Inches Wide, 10 Inches Long and a Foot Deep.*
+[13:11:38] Uriel Akkad: And have them melt onto the floor or hopefully into the die cast?
+[13:11:39] Uriel Akkad: Wont work.
+[13:11:45] Uriel Akkad: We need a container.
+[13:11:53] Uriel Akkad: To melt the metal, have it stored, and then pour it in.
+[13:12:11] Uriel Akkad: /me *Finishes matting out the hole, he'd move over to his Crates.*
+[13:12:30] Uriel Akkad: You said there was money involved, right?
+[13:12:34] Jim 'Watcher 3' Bostello: Yes.
+[13:12:43] Uriel Akkad: Great, because this is very pricey.
+[13:12:56] Jim 'Watcher 3' Bostello: Just name your price.
+[13:14:44] Uriel Akkad: /me *Syncs up a Radiator Helix and Two Double-AA Batteries for a Booster Shot of Electricity, he'd hook up the Helix to the Hole and fed in Glass Shards to Smelt and Make a Container-Mold out of, With the Hole serving as a Pseudo Cast, making sure the-*
+[13:15:00] Uriel Akkad: /me *Smelting / Molding Process was stable, he'd then give the Glass time to cool, moving back to his Crates.*
+[13:16:14] Uriel Akkad: /me *Extracts Mixed Components of High Melting Points from some bundles of Scrap Electronics, Wire and Cables to Serve as an Inner-Insulting Layer to the Mold.*
+[13:16:32] Uriel Akkad: /me *Melts down the Component Scrap Metals, casing the Glass Mold in the Metal Layer.*
+[13:17:04] Uriel Akkad: Alright, got our Casting Mold.
+[13:17:24] Dropped "Enrique 'Franco' Gonzalez" from server<STEAM_0:1:66880501>
+[13:17:30] Uriel Akkad: /me *Giving it time to cool, Uriel would prod at the Mold to loosen it with the Earthen Ground.*
+[13:17:37] Uriel Akkad: Alright, give me the Armor Scraps.
+[13:17:45] Jim 'Watcher 3' Bostello: Right.
+[13:17:51] Jim 'Watcher 3' Bostello: /me would lay the scraps out.
+[13:18:18] Uriel Akkad: /me *Dumps the Armor Scraps into the Cast, focusing the Radiator Helix atop the Mold to smelt down the Armor Scrap to their burning Points.*
+[13:18:32] Uriel Akkad: /me *He'd observe the bounty retrieved from each scrap.*
+[13:18:33] Uriel Akkad: /roll
+[13:18:34] Uriel Akkad: /roll
+[13:18:36] Uriel Akkad: /roll
+[13:18:37] Uriel Akkad: /roll
+[13:19:08] Uriel Akkad: /me *One of the Scrap was rendered into a useless material, with two giving average yields and another yielding valuable Metals, all in a Liquid State.*
+[13:19:46] Uriel Akkad: /me *Grabs the Edges of the Cooled-Glass Mold, grabbing it our of the ground and moving to the Die Cast.*
+[13:20:28] Uriel Akkad: .// 7000 Grain in a Pound, 40 - 45 Grain per 12ga Shell, let me do some math.
+[13:20:41] Uriel Akkad: .// Alright.
+[13:21:12] Uriel Akkad: /me *Pours some Refined Metals into the Die Cast allowing them to fit the Mold, he'd continue this process after measuring out a Pound of Gunpowder.*
+[13:21:29] Uriel Akkad: /me *Repeating the Process, over a length of time Uriel would end up with ~...*
+[13:21:40] Uriel Akkad: /adminspawnmenu
+[13:22:08] Uriel Akkad: /me *Seventeen-Boxes worth of Shell Casings.* (Rounding down to 170).
+[13:22:18] Uriel Akkad: /adminspawnmenu
+[13:23:19] Uriel Akkad: /me *Moves the 17 Piles of Shotgun Shells tediously over to the table, 10 by 10. Then placing down a Pound of Gunpowder he'd begin to fill in the grain.*
+[13:23:28] Uriel Akkad: /adminspawnmenu
+[13:23:40] Uriel Akkad: You got 100 Tokens?
+[13:23:43] Uriel Akkad: /adminspawnmenu
+[13:23:43] Jim 'Watcher 3' Bostello: Yeah.
+[13:23:50] Uriel Akkad: That's the price, and that's low.
+[13:23:54] Uriel Akkad: /adminspawnmenu
+[13:24:05] Jim 'Watcher 3' Bostello: Right, I'll make sure carry more for the future.
+[13:24:13] Uriel Akkad: .// Don't pick them up
+[13:24:16] Jim 'Watcher 3' Bostello: .// oh
+[13:24:18] Uriel Akkad: .// I need to count them
+[13:24:39] Uriel Akkad: /adminspawnmenu
+[13:25:11] Uriel Akkad: /me *Divides up the Shells into Small Cardboard Cartons, he'd off-set Seven of the Boxes, dropping Ten for the man to take.*
+[13:25:25] Jim 'Watcher 3' Bostello: /me would dig through his pre-war wallet, digging up said tokens.
+[13:25:29] Jim 'Watcher 3' Bostello: One-hundred you said?
+[13:25:30] Uriel Akkad: Ten Boxes, 100 Tokens.
+[13:25:34] Jim 'Watcher 3' Bostello: Alright.
+[13:25:40] Jim 'Watcher 3' Bostello: /givetokens 100
+[13:25:56] Uriel Akkad: Alright, take this stuff. I got to cool off the rest of the Metal and take care of the Generator
+[13:26:05] Jim 'Watcher 3' Bostello: Alright, thank you.
+[13:26:20] Jim 'Watcher 3' Bostello: I'm not gonna bother with the Cast.
+[13:26:28] Uriel Akkad: /me *Turns off the Electric Generator, De-Sycning the Car Battery with both of the AA Batteries used up. He'd disconnect the Radiator Helix and Powercord.*
+[13:26:36] Uriel Akkad: Alright, guess I'll keep it around
+[13:27:03] Uriel Akkad: Stay safe.
+[13:27:03] Jim 'Watcher 3' Bostello: Cheers, I'll see you 'round.
+[13:27:43] Dropped "Jim 'Watcher 3' Bostello" from server<STEAM_0:1:116497963>
+[13:29:07] Uriel Akkad<STEAM_0:0:595064043> used the tool nocollideeverything on models/illusion/eftcontainers/airfilter.mdl
+[13:29:13] Uriel Akkad<STEAM_0:0:595064043> used the tool nocollideeverything on models/illusion/eftcontainers/airfilter.mdl
+[13:29:14] Uriel Akkad<STEAM_0:0:595064043> used the tool nocollideeverything on models/illusion/eftcontainers/airfilter.mdl
+[13:29:14] Uriel Akkad<STEAM_0:0:595064043> used the tool nocollideeverything on models/illusion/eftcontainers/airfilter.mdl
+[13:29:14] Uriel Akkad<STEAM_0:0:595064043> used the tool nocollideeverything on models/illusion/eftcontainers/airfilter.mdl
+[13:32:18] Uriel Akkad<STEAM_0:0:595064043> spawned model models/illusion/eftcontainers/carbattery.mdl
+[13:32:33] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/carbattery.mdl
+[13:32:33] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/carbattery.mdl
+[13:32:34] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/carbattery.mdl
+[13:32:36] Uriel Akkad<STEAM_0:0:595064043> used the tool permaprops on models/illusion/eftcontainers/carbattery.mdl
+[13:34:00] Uriel Akkad: /me *Moves the Casting Mold over to the Die Cast, allowing it to cool off.*
+[13:34:13] Uriel Akkad<STEAM_0:0:595064043> spawned model models/illusion/eftcontainers/magnet.mdl
+[13:34:27] Uriel Akkad<STEAM_0:0:595064043> used the tool nocollideeverything on models/illusion/eftcontainers/magnet.mdl
+[13:35:13] Uriel Akkad<STEAM_0:0:595064043> used the tool permaprops on models/illusion/eftcontainers/magnet.mdl
+[13:35:19] Uriel Akkad<STEAM_0:0:595064043> spawned model models/illusion/eftcontainers/grizzly.mdl
+[13:35:36] Uriel Akkad<STEAM_0:0:595064043> spawned model models/illusion/eftcontainers/sparkplug.mdl
+[13:35:47] Uriel Akkad<STEAM_0:0:595064043> spawned model models/illusion/eftcontainers/wrench.mdl
+[13:36:07] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/wrench.mdl
+[13:36:07] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/wrench.mdl
+[13:36:08] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/wrench.mdl
+[13:36:08] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/wrench.mdl
+[13:36:20] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/wrench.mdl
+[13:36:20] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/wrench.mdl
+[13:36:20] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/wrench.mdl
+[13:36:21] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/wrench.mdl
+[13:36:21] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/wrench.mdl
+[13:36:21] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/wrench.mdl
+[13:36:21] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/wrench.mdl
+[13:36:21] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/wrench.mdl
+[13:36:22] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/wrench.mdl
+[13:36:22] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/wrench.mdl
+[13:36:22] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/wrench.mdl
+[13:36:22] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/wrench.mdl
+[13:36:23] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/wrench.mdl
+[13:36:23] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/wrench.mdl
+[13:36:23] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/wrench.mdl
+[13:36:23] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/wrench.mdl
+[13:36:27] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/wrench.mdl
+[13:36:28] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/wrench.mdl
+[13:36:29] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/wrench.mdl
+[13:36:32] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/wrench.mdl
+[13:36:33] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/wrench.mdl
+[13:36:34] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/wrench.mdl
+[13:36:34] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/wrench.mdl
+[13:36:34] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/wrench.mdl
+[13:36:34] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/wrench.mdl
+[13:36:35] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/wrench.mdl
+[13:36:35] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/wrench.mdl
+[13:36:35] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/wrench.mdl
+[13:36:40] Uriel Akkad<STEAM_0:0:595064043> used the tool permaprops on models/illusion/eftcontainers/wrench.mdl
+[13:36:51] Uriel Akkad<STEAM_0:0:595064043> spawned model models/illusion/eftcontainers/isakalunchbox.mdl
+[13:36:54] Uriel Akkad<STEAM_0:0:595064043> spawned model models/illusion/eftcontainers/intel.mdl
+[13:37:02] Uriel Akkad<STEAM_0:0:595064043> spawned model models/illusion/eftcontainers/intel.mdl
+[13:37:09] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/intel.mdl
+[13:37:09] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/intel.mdl
+[13:37:09] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/intel.mdl
+[13:37:10] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/intel.mdl
+[13:37:10] Uriel Akkad<STEAM_0:0:595064043> used the tool precision on models/illusion/eftcontainers/intel.mdl
+[13:37:12] Uriel Akkad<STEAM_0:0:595064043> used the tool permaprops on models/illusion/eftcontainers/intel.mdl
+[13:37:47] Uriel Akkad<STEAM_0:0:595064043> spawned model models/illusion/eftcontainers/gasanalyser.mdl
+[13:38:08] Uriel Akkad<STEAM_0:0:595064043> spawned model models/illusion/eftcontainers/gyrotachometer.mdl
+[13:38:21] Uriel Akkad<STEAM_0:0:595064043> spawned model models/illusion/eftcontainers/moneycase.mdl
+[13:38:43] Uriel Akkad<STEAM_0:0:595064043> spawned model models/illusion/eftcontainers/helsingcrossbow.mdl
+[13:39:12] Uriel Akkad<STEAM_0:0:595064043> spawned model models/illusion/eftcontainers/wirelesstransmitter.mdl
+[13:39:26] Uriel Akkad<STEAM_0:0:595064043> used the tool nocollideeverything on models/illusion/eftcontainers/wirelesstransmitter.mdl
+[13:40:02] Uriel Akkad<STEAM_0:0:595064043> spawned model models/illusion/eftcontainers/virtex.mdl
+[13:40:27] Uriel Akkad<STEAM_0:0:595064043> spawned model models/illusion/eftcontainers/rfidreader.mdl
+[13:40:42] Uriel Akkad<STEAM_0:0:595064043> spawned model models/illusion/eftcontainers/wirelesstransmitter.mdl
+[13:40:55] Uriel Akkad<STEAM_0:0:595064043> used the tool nocollideeverything on models/illusion/eftcontainers/wirelesstransmitter.mdl
+[13:41:21] Uriel Akkad<STEAM_0:0:595064043> spawned model models/illusion/eftcontainers/phaserelay.mdl
+[13:41:40] Uriel Akkad<STEAM_0:0:595064043> used the tool permaprops on models/illusion/eftcontainers/wirelesstransmitter.mdl
+[13:41:40] Uriel Akkad<STEAM_0:0:595064043> used the tool permaprops on models/illusion/eftcontainers/phaserelay.mdl
+[13:42:03] Uriel Akkad<STEAM_0:0:595064043> spawned/gave himself swep gmod_camera
+[13:54:54] Dropped "Uriel Akkad" from server<STEAM_0:0:595064043>
+[14:17:28] Client "AXION" connected.
+[14:23:00] Client "AXION" spawned in server <STEAM_0:1:54101851> (took 332 seconds).
+[14:24:04] AXION<STEAM_0:1:54101851> changed their name to CCA.C08-UNION.i5.81530
+[14:30:09] CCA.C08-UNION.i5.81530<STEAM_0:1:54101851> changed their name to Fred Angerly
+[14:38:44] Fred Angerly was killed by trigger_hurt
+[14:44:32] Fred Angerly was killed by npc_poisonzombie
+[14:47:04] Fred Angerly was killed by monster_bullsquid
+[15:21:56] Fred Angerly<STEAM_0:1:54101851> changed their name to CCA.C08-UNION.i5.81530
+[16:20:24] CCA.C08-UNION.i5.81530: /kickdoor
+[17:21:21] Client "DRD" connected.
+[17:28:48] CCA.C08-UNION.i5.81530<STEAM_0:1:54101851> changed their name to Fred Angerly
+[17:47:41] Fred Angerly<STEAM_0:1:54101851> spawned model models/props_junk/propanecanister001a.mdl
+[17:52:31] Fred Angerly<STEAM_0:1:54101851> changed their name to CCA.C08-UNION.i5.81530
+[17:55:32] Client "Dilly_" connected.
+[18:00:23] Client "Dilly_" spawned in server <STEAM_0:0:52468151> (took 291 seconds).
+[18:01:36] CCA.C08-UNION.i5.81530: /me would be eating his rations after whole day.
+[18:01:40] Dilly_<STEAM_0:0:52468151> changed their name to Crimson
+[18:01:44] CCA.C08-UNION.i5.81530: Damn
+[18:01:50] Crimson: //e
+[18:01:51] CCA.C08-UNION.i5.81530: I missed my food
+[18:01:56] CCA.C08-UNION.i5.81530: // Again bird bruh
+[18:02:15] Crimson: // not just any bird
+[18:02:26] CCA.C08-UNION.i5.81530: // A really crungle one
+[18:04:36] Crimson: // he has a cig
+[18:04:44] CCA.C08-UNION.i5.81530: // Bruh
+[18:04:53] CCA.C08-UNION.i5.81530: // 2 mins. Need to make my launch
+[18:04:54] Crimson: // ye ic took one from the machines
+[18:05:01] CCA.C08-UNION.i5.81530: // First meal after Whole day
+[18:05:09] Crimson: // wha what time is for you?
+[18:05:15] Crimson: // bru
+[18:07:03] CCA.C08-UNION.i5.81530: // Iam here
+[18:07:07] CCA.C08-UNION.i5.81530: // 1 AM
+[18:07:11] Crimson: // *o*
+[18:07:26] CCA.C08-UNION.i5.81530: // Well yeah Didnt eat yesterday whole time lmao
+[18:07:36] Crimson: // not healthy maaan
+[18:07:45] CCA.C08-UNION.i5.81530: // Thats a life of a working person
+[18:07:59] Crimson: // noooooo
+[18:08:08] Crimson: // you should get breaks to eat no?
+[18:08:31] CCA.C08-UNION.i5.81530<STEAM_0:1:54101851> changed their name to Emanuel
+[18:09:00] Crimson: .// buy cig
+[18:09:02] Crimson: .// come feller
+[18:09:04] Emanuel: // O no
+[18:09:18] Crimson: .// we must deliver to the webuls in the outlands
+[18:09:27] Crimson: .// messenger pidgeon
+[18:09:29] Emanuel: // NO :D
+[18:10:21] Emanuel: /looc Dont help rebels, We must Smoke cigs and shit on people :D
+[18:10:31] Crimson: .// why not do both
+[18:10:32] Crimson: .// e
+[18:10:38] Crimson: .// lets not limit our options here
+[18:10:38] Emanuel: // Eh
+[18:10:45] Crimson: /me pecks ground
+[18:11:01] Emanuel: /me would peck the ground few times
+[18:11:10] Crimson: /me does the same but better
+[18:11:41] Emanuel: /me would call the God, Sending Lightning on the Pigeon
+[18:11:49] Crimson: /rollstat agi 
+[18:11:50] Emanuel: /looc lmfao
+[18:11:52] Emanuel: /roll
+[18:12:13] Emanuel: /looc Hold it
+[18:12:17] Emanuel: /looc what you rolled ?
+[18:12:17] Crimson: /me evades god's lightning strike by the paladin crow
+[18:12:29] Crimson: .// 31 with my agility stat
+[18:12:36] Emanuel: /looc You rolled agi ?
+[18:12:36] Crimson: .// /rollstat (stat)
+[18:12:48] Crimson: .// so for agility I did /rollstat agi 
+[18:12:56] Crimson: .// my bird has a few upgrades in his stats
+[18:12:57] Emanuel: /looc I wonder what I should actualy roll on that Lightning lmao
+[18:13:18] Emanuel: /looc I miss my unique Stat :-:
+[18:13:22] Emanuel: // Loyalty :D
+[18:13:34] Crimson: .// ye *E*
+[18:13:55] Emanuel: // Where are others  ?
+[18:14:02] Crimson: .// other people?
+[18:14:04] Emanuel: // Is server always dead like this over wekk ?
+[18:14:13] Crimson: // nah we get players during the day
+[18:14:17] Emanuel: // aha
+[18:14:19] Crimson: // I'm off tomorrow / the day after
+[18:14:26] Crimson: // I had work today 
+[18:14:32] Emanuel: // Same
+[18:14:32] Crimson: // is why I wasn't on earlier
+[18:16:01] Emanuel: // HOLD ON
+[18:16:05] Emanuel: // Crimson
+[18:16:15] Emanuel: // how Do I look ?
+[18:16:56] Crimson: .// o
+[18:17:02] Crimson: .// the same?
+[18:17:04] Emanuel: /looc Yeah 
+[18:17:08] Crimson: // wait
+[18:17:09] Emanuel: /looc ?
+[18:17:10] Crimson: .// WHA
+[18:17:12] Crimson: .// Uniform
+[18:17:13] Emanuel: /looc :D
+[18:17:15] Emanuel: /
+[18:17:18] Emanuel: /looc lmfao
+[18:17:18] Crimson: .// YOU BROKE THE SYSTEM
+[18:17:19] Crimson: .// AAAA
+[18:17:21] Emanuel: /looc :D
+[18:18:03] Emanuel: // XD
+[18:18:03] Crimson: // OML If you fly lol
+[18:18:08] Emanuel: /looc LMFAO
+[18:18:13] Emanuel: // TIME TO TROLL PEOPLE !
+[18:18:28] Crimson: // lemme see you fly
+[18:18:35] Crimson: // BRUH
+[18:19:12] Emanuel: // We need a CP :D
+[18:19:43] Emanuel: /apply
+[18:20:08] Crimson<STEAM_0:0:52468151> changed their name to CCA.C08-UNION.i1.93347
+[18:20:18] Emanuel: // o.O You are union I1 ?
+[18:20:24] CCA.C08-UNION.i1.93347: // yeah 
+[18:20:30] CCA.C08-UNION.i1.93347: // I've been on this server for awhile
+[18:20:40] CCA.C08-UNION.i1.93347: // way back in C14
+[18:20:40] Emanuel: // I read Book, Do we have actualy a Riot shield or Grenades ?
+[18:20:45] CCA.C08-UNION.i1.93347: // yes
+[18:20:49] Emanuel: // Cool
+[18:21:03] Emanuel: /me would peck
+[18:21:19] Emanuel: /me A sudden light would hit the Raven
+[18:21:23] CCA.C08-UNION.i1.93347: Come little crow
+[18:21:32] CCA.C08-UNION.i1.93347: I must show you the wonders of the onion.
+[18:21:34] Emanuel: /looc lmfao
+[18:21:55] Emanuel: // What a wonder...
+[18:22:03] CCA.C08-UNION.i1.93347: .// that was a flash
+[18:22:09] CCA.C08-UNION.i1.93347: .// but it only works of it's a bit closer
+[18:22:18] Emanuel: // I see so its CQC then
+[18:22:22] CCA.C08-UNION.i1.93347: .// next is smoke
+[18:22:28] CCA.C08-UNION.i1.93347: .// which is personally my fav
+[18:22:40] Emanuel: // Waaa ? There is only Flash and Tear gas grenades in the book
+[18:23:15] CCA.C08-UNION.i1.93347: // lasts for awhile
+[18:23:23] Emanuel: /looc Stand on me
+[18:23:44] CCA.C08-UNION.i1.93347: engaging
+[18:23:47] Emanuel: // Lmao I love this suit xD
+[18:23:55] Emanuel<STEAM_0:1:54101851> changed their name to CCA.C08-UNION.i5.81530
+[18:24:00] CCA.C08-UNION.i5.81530: /r 10-8
+[18:24:34] CCA.C08-UNION.i5.81530: Hello
+[18:24:39] CCA.C08-UNION.i1.93347: /radio 815, 10-3.
+[18:24:45] CCA.C08-UNION.i1.93347: We're on the wrong frequency.
+[18:24:53] CCA.C08-UNION.i1.93347: Did you check your objectives?
+[18:25:05] CCA.C08-UNION.i5.81530: Just came to work
+[18:25:25] CCA.C08-UNION.i5.81530: How it got compromised ?
+[18:25:30] CCA.C08-UNION.i5.81530: /me would shrug
+[18:25:32] CCA.C08-UNION.i1.93347: Unknown.
+[18:25:36] CCA.C08-UNION.i1.93347: Might say on the objectives.
+[18:25:46] CCA.C08-UNION.i1.93347: /me he raises his PDA typing a few things into it
+[18:25:56] CCA.C08-UNION.i1.93347: You should be able to see them too.
+[18:25:59] CCA.C08-UNION.i1.93347: .// /view objectives
+[18:26:04] CCA.C08-UNION.i1.93347: .// no space
+[18:26:06] CCA.C08-UNION.i5.81530: /viewobjectives
+[18:26:12] CCA.C08-UNION.i1.93347: /viewobjectives
+[18:26:55] CCA.C08-UNION.i1.93347: Hm.
+[18:27:04] CCA.C08-UNION.i1.93347: Nobody updated.
+[18:27:06] CCA.C08-UNION.i1.93347: Interesting.
+[18:27:09] CCA.C08-UNION.i5.81530: /me would take the PDA, Searching for something in it
+[18:27:17] CCA.C08-UNION.i5.81530: Yeah, I dont see anything either
+[18:27:31] CCA.C08-UNION.i5.81530: Whats the Freq. ?
+[18:27:37] CCA.C08-UNION.i5.81530: /me would look arround
+[18:27:38] CCA.C08-UNION.i1.93347: Let's not talk about it out here.
+[18:28:00] CCA.C08-UNION.i5.81530: hm
+[18:28:17] CCA.C08-UNION.i1.93347: 329.01.
+[18:28:17] CCA.C08-UNION.i5.81530: Lazy CWUs...
+[18:28:20] CCA.C08-UNION.i5.81530: Ah
+[18:28:37] CCA.C08-UNION.i5.81530: /r Test
+[18:29:13] CCA.C08-UNION.i1.93347: Let's try this out now.
+[18:29:16] CCA.C08-UNION.i5.81530: /me would stare at the knife
+[18:29:18] CCA.C08-UNION.i1.93347: We'll get some distance first.
+[18:29:32] CCA.C08-UNION.i1.93347: /radio How copy?
+[18:29:37] CCA.C08-UNION.i5.81530: /r Good
+[18:29:59] CCA.C08-UNION.i5.81530: /pm Union how do you use CH chat ?
+[18:30:01] CCA.C08-UNION.i1.93347: /radio Interesting... I don't think we switched.
+[18:30:12] CCA.C08-UNION.i1.93347: Try 329.1
+[18:30:19] CCA.C08-UNION.i5.81530: /me would check his radio
+[18:30:38] CCA.C08-UNION.i5.81530: /r Test
+[18:30:40] CCA.C08-UNION.i1.93347: Try 329.1
+[18:30:46] CCA.C08-UNION.i1.93347: /radio Five by five.
+[18:31:00] CCA.C08-UNION.i1.93347: Glad that was sorted out.
+[18:31:03] CCA.C08-UNION.i5.81530: Yeah
+[18:31:05] CCA.C08-UNION.i5.81530: /me would nod
+[18:31:19] CCA.C08-UNION.i5.81530: How did you got the knife If I may ask...
+[18:31:24] CCA.C08-UNION.i5.81530: /me would be staring at the knife
+[18:31:31] CCA.C08-UNION.i1.93347: Oh
+[18:31:33] CCA.C08-UNION.i1.93347: Uh...
+[18:31:48] CCA.C08-UNION.i1.93347: /me he eyes down at his utility belt, "The quartermaster gave em' to me."
+[18:31:56] CCA.C08-UNION.i5.81530: Aha...
+[18:31:57] CCA.C08-UNION.i1.93347: You should probably have one as well.
+[18:32:09] CCA.C08-UNION.i5.81530: Intersting... I spoke with one QuarterMaster
+[18:32:11] CCA.C08-UNION.i1.93347: Do you have a squad link device?
+[18:32:21] CCA.C08-UNION.i5.81530: We talked a lot but he didnt mentioned anything about a knife...
+[18:32:26] CCA.C08-UNION.i1.93347: Identification device excu-... Oh interesting.
+[18:32:28] CCA.C08-UNION.i5.81530: Squad Link Device ?
+[18:32:34] CCA.C08-UNION.i5.81530: hm
+[18:32:53] CCA.C08-UNION.i5.81530: I feel like someone was missing some stuff while training me
+[18:32:56] CCA.C08-UNION.i5.81530: /me would gesture
+[18:32:59] CCA.C08-UNION.i1.93347: Could be.
+[18:33:05] CCA.C08-UNION.i1.93347: Wonder if we can find some more.
+[18:33:07] CCA.C08-UNION.i5.81530: Wouldnt be Surprised as everyone is busy here
+[18:33:14] CCA.C08-UNION.i1.93347: Just a bit.
+[18:33:29] CCA.C08-UNION.i1.93347: So much for forming a PT.
+[18:34:33] CCA.C08-UNION.i5.81530: What a mess...
+[18:34:41] CCA.C08-UNION.i1.93347: Yeah I'll have to call grid about this crap.
+[18:34:46] CCA.C08-UNION.i1.93347: Not my shit.
+[18:34:49] CCA.C08-UNION.i5.81530: haha
+[18:35:13] CCA.C08-UNION.i1.93347: Pistol and empty glass- this is probably the contraband hold... shouldn't touch this.
+[18:35:21] CCA.C08-UNION.i1.93347: empty.
+[18:35:24] CCA.C08-UNION.i5.81530: Best guess
+[18:35:29] CCA.C08-UNION.i1.93347: Aaaand- Locked.
+[18:35:32] CCA.C08-UNION.i1.93347: Welp.
+[18:35:34] CCA.C08-UNION.i1.93347: I tried.
+[18:35:38] CCA.C08-UNION.i5.81530: Well
+[18:36:26] CCA.C08-UNION.i5.81530: Shall we do patrol ?
+[18:36:34] CCA.C08-UNION.i1.93347: Eh.
+[18:36:58] CCA.C08-UNION.i5.81530: I would like to check the Clovei Scrap shop
+[18:37:05] CCA.C08-UNION.i5.81530: She is wanted
+[18:37:09] CCA.C08-UNION.i1.93347: Sure let's uh...
+[18:37:10] CCA.C08-UNION.i1.93347: Oh.
+[18:37:13] CCA.C08-UNION.i5.81530: Yeah
+[18:37:25] CCA.C08-UNION.i5.81530: I found her should being filled with Manhack and Camera parts
+[18:37:35] CCA.C08-UNION.i1.93347: Where did you hear this from? I don't think she's recorded as a BOL on our list.
+[18:37:45] CCA.C08-UNION.i5.81530: I and Grid I1 put it under lock and She is wanted for questioning
+[18:37:54] CCA.C08-UNION.i1.93347: Interesting.
+[18:38:01] CCA.C08-UNION.i1.93347: Sure let's go check it out.
+[18:38:03] CCA.C08-UNION.i5.81530: mhm
+[18:38:53] CCA.C08-UNION.i1.93347: /radio 815, 347, Forming PT-1 For patrol along 10-20, RDT, Main Streets, and possibly trainstation. 
+[18:40:11] CCA.C08-UNION.i1.93347: I thought this place was for sale...
+[18:40:17] CCA.C08-UNION.i5.81530: hm
+[18:40:20] CCA.C08-UNION.i1.93347: I take it that we're looking for the previous owner? 
+[18:40:33] CCA.C08-UNION.i1.93347: They probably sold it off n' ran.
+[18:40:36] CCA.C08-UNION.i5.81530: Not really Sure, but
+[18:40:42] CCA.C08-UNION.i5.81530: /me would point on his right
+[18:40:45] CCA.C08-UNION.i5.81530: We got new shop
+[18:41:00] CCA.C08-UNION.i1.93347: Oh interesting.
+[18:41:12] CCA.C08-UNION.i1.93347: /me he eyes the scrap piece of paper on the table
+[18:41:14] CCA.C08-UNION.i5.81530: /me would look inside through the window
+[18:41:23] CCA.C08-UNION.i5.81530: hm
+[18:41:26] CCA.C08-UNION.i1.93347: No author.
+[18:41:29] CCA.C08-UNION.i5.81530: ?
+[18:41:33] CCA.C08-UNION.i5.81530: What do you mean ?
+[18:41:38] CCA.C08-UNION.i5.81530: /me would turn to the Union
+[18:41:41] CCA.C08-UNION.i1.93347: Who would write this horible piece of- Oh just read this.
+[18:41:47] CCA.C08-UNION.i5.81530: mhm
+[18:41:55] CCA.C08-UNION.i5.81530: /me would aproach the table, Start reading the paper
+[18:42:07] CCA.C08-UNION.i5.81530: What the fuck
+[18:42:10] CCA.C08-UNION.i1.93347: /me he grabs his knife from his utility belt
+[18:42:15] CCA.C08-UNION.i5.81530: /me would stare at the paper
+[18:42:29] CCA.C08-UNION.i1.93347: Can't have this holdin' up 'round here.
+[18:42:33] CCA.C08-UNION.i5.81530: Yeah
+[18:42:43] CCA.C08-UNION.i1.93347: /me he begins to cut up the piece of paper with his knife
+[18:42:44] CCA.C08-UNION.i5.81530: /me would step away from the table, Making space for the Union
+[18:42:55] CCA.C08-UNION.i1.93347: That otta' teach em'.
+[18:42:59] CCA.C08-UNION.i5.81530: Well I would say good job
+[18:43:08] CCA.C08-UNION.i5.81530: Shall we continue ?
+[18:43:25] CCA.C08-UNION.i5.81530: /me would look inside once again before leaving
+[18:43:25] CCA.C08-UNION.i1.93347: Sure thing.
+[18:43:46] CCA.C08-UNION.i1.93347: .// ERROR AAAA
+[18:43:50] CCA.C08-UNION.i5.81530: /looc Yeah
+[18:43:55] CCA.C08-UNION.i1.93347: Bedroom perhaps?
+[18:44:05] CCA.C08-UNION.i5.81530: Seems like, There are 2 cwu Owners
+[18:44:19] CCA.C08-UNION.i5.81530: They are working here together
+[18:44:25] CCA.C08-UNION.i5.81530: At least what I know
+[18:44:46] CCA.C08-UNION.i1.93347: Bath?... wow this place really isn't being used for sales...
+[18:44:56] CCA.C08-UNION.i5.81530: Who knows
+[18:45:09] CCA.C08-UNION.i5.81530: Lets continue with exploring
+[18:45:09] CCA.C08-UNION.i1.93347: More like... 'personal luxurie'
+[18:45:22] CCA.C08-UNION.i1.93347: Another bedroom.
+[18:45:23] CCA.C08-UNION.i5.81530: Quite nice room
+[18:45:34] CCA.C08-UNION.i1.93347: A bit *too* nice for my understanding.
+[18:45:36] CCA.C08-UNION.i5.81530: Looks like 2 CWUs working here are True
+[18:45:49] CCA.C08-UNION.i1.93347: They shouldn't *live* at the workplace.
+[18:45:59] CCA.C08-UNION.i1.93347: We have dedicated housing for them,
+[18:46:12] CCA.C08-UNION.i5.81530: Oh well..
+[18:46:12] CCA.C08-UNION.i1.93347: Kitchen.
+[18:46:21] CCA.C08-UNION.i5.81530: More like storage room for me
+[18:46:27] CCA.C08-UNION.i1.93347: Perhaps both.
+[18:46:30] CCA.C08-UNION.i5.81530: Yeah
+[18:46:31] CCA.C08-UNION.i5.81530: /me would nod
+[18:46:57] CCA.C08-UNION.i1.93347: We'll have to have a talk about this whenever they come back.
+[18:47:01] CCA.C08-UNION.i5.81530: Yeah
+[18:47:14] CCA.C08-UNION.i5.81530: Wont we continue over main street ?
+[18:47:22] CCA.C08-UNION.i1.93347: yep
+[18:47:43] CCA.C08-UNION.i5.81530: hm
+[18:47:51] CCA.C08-UNION.i1.93347: And another one.
+[18:47:55] CCA.C08-UNION.i5.81530: Dont tell me
+[18:47:58] CCA.C08-UNION.i1.93347: /me he takes out his knife once again
+[18:47:59] CCA.C08-UNION.i5.81530: /me would look at the paper
+[18:48:11] CCA.C08-UNION.i5.81530: This starts to be a problem
+[18:48:23] CCA.C08-UNION.i1.93347: /me he takes his knife out and completely shreds the paper 
+[18:48:32] CCA.C08-UNION.i5.81530: /me would step away so Union would have space for work
+[18:48:42] CCA.C08-UNION.i1.93347: Wait...
+[18:48:44] CCA.C08-UNION.i5.81530: hm
+[18:48:48] CCA.C08-UNION.i1.93347: /me he lifts open the crate
+[18:48:59] CCA.C08-UNION.i5.81530: Anything there ?
+[18:49:04] CCA.C08-UNION.i1.93347: Nothin' shady... just a bunch of scraps n' shit.
+[18:49:09] CCA.C08-UNION.i5.81530: Alright
+[18:49:20] CCA.C08-UNION.i5.81530: Shall we check other shops as well ?
+[18:49:26] CCA.C08-UNION.i1.93347: Eh... no reason to.
+[18:49:33] CCA.C08-UNION.i5.81530: Do you hear it ?
+[18:49:35] CCA.C08-UNION.i1.93347: Those one's were new and I was a bit curious.
+[18:49:39] CCA.C08-UNION.i1.93347: Hear what?
+[18:49:44] CCA.C08-UNION.i5.81530: That sound
+[18:49:47] CCA.C08-UNION.i5.81530: /me would listen
+[18:49:57] CCA.C08-UNION.i5.81530: It comes from there
+[18:50:06] CCA.C08-UNION.i5.81530: /me would poin on the shop on his left
+[18:50:11] CCA.C08-UNION.i5.81530: /looc Point*
+[18:50:25] CCA.C08-UNION.i5.81530: /me would enter the shop area
+[18:50:35] CCA.C08-UNION.i1.93347: // o fuq gotta leave 
+[18:50:37] CCA.C08-UNION.i5.81530: Do you hear it ?
+[18:50:41] CCA.C08-UNION.i5.81530: // CMON
+[18:50:46] CCA.C08-UNION.i5.81530: // Why ?
+[18:50:49] CCA.C08-UNION.i1.93347: // nuuuuuu family
+[18:50:52] CCA.C08-UNION.i5.81530: // Bruh
+[18:50:57] CCA.C08-UNION.i1.93347: // :/ aaaaa
+[18:51:02] CCA.C08-UNION.i1.93347: // brb
+[18:51:10] CCA.C08-UNION.i5.81530: // kk
+[18:51:12] Dropped "CCA.C08-UNION.i1.93347" from server<STEAM_0:0:52468151>
+[19:13:48] Client "Dilly_" connected.
+[19:16:04] Client "Dilly_" spawned in server <STEAM_0:0:52468151> (took 136 seconds).
+[19:17:06] Dilly_<STEAM_0:0:52468151> changed their name to CCA.C08-UNION.i1.93347
+[19:17:15] CCA.C08-UNION.i1.93347: 9
+[19:17:17] CCA.C08-UNION.i1.93347: 9
+[19:17:18] CCA.C08-UNION.i1.93347: 9
+[19:17:19] CCA.C08-UNION.i1.93347: 9
+[19:17:19] CCA.C08-UNION.i1.93347: 9
+[19:17:20] CCA.C08-UNION.i1.93347: 9
+[19:17:20] CCA.C08-UNION.i1.93347: 9
+[19:17:21] CCA.C08-UNION.i1.93347: 9
+[19:17:22] CCA.C08-UNION.i1.93347: 9
+[19:17:23] CCA.C08-UNION.i1.93347: 9
+[19:17:24] CCA.C08-UNION.i1.93347: 9
+[19:17:24] CCA.C08-UNION.i1.93347: 9
+[19:17:38] CCA.C08-UNION.i1.93347: // <:: Nine. ::>
+[19:18:24] CCA.C08-UNION.i5.81530: // yay
+[19:18:35] CCA.C08-UNION.i5.81530: /r Interlocking to PT-1
+[19:18:54] CCA.C08-UNION.i5.81530: // Lets continue the RP
+[19:19:01] CCA.C08-UNION.i5.81530: Do you hear it ,
+[19:19:08] CCA.C08-UNION.i1.93347: The camera?
+[19:19:14] CCA.C08-UNION.i5.81530: /me would motion to the Union to come closer
+[19:19:32] CCA.C08-UNION.i5.81530: /looc Are you deaf or you dont hear the gas
+[19:19:43] CCA.C08-UNION.i1.93347: .// don't hear the gas
+[19:19:47] CCA.C08-UNION.i5.81530: /looc wtf
+[19:19:57] CCA.C08-UNION.i5.81530: /looc I hear it
+[19:19:58] CCA.C08-UNION.i1.93347: .// just hear the cameras
+[19:20:02] CCA.C08-UNION.i5.81530: /looc Let me fix it
+[19:20:16] CCA.C08-UNION.i1.93347: .// now I hear it
+[19:20:18] CCA.C08-UNION.i5.81530: /looc wtf
+[19:20:30] CCA.C08-UNION.i5.81530: Do you hear it ?
+[19:20:51] CCA.C08-UNION.i1.93347: A little? What it's just in the shop here.
+[19:21:04] CCA.C08-UNION.i5.81530: hm ?
+[19:21:06] CCA.C08-UNION.i1.93347: Someone is probably using the stove.
+[19:21:15] CCA.C08-UNION.i5.81530: Seems like, Let me Knock
+[19:21:29] CCA.C08-UNION.i1.93347<STEAM_0:0:52468151> spawned model models/props_c17/furnituredrawer002a.mdl
+[19:21:31] CCA.C08-UNION.i1.93347<STEAM_0:0:52468151> spawned model models/props_c17/furnituredrawer002a.mdl
+[19:21:32] CCA.C08-UNION.i1.93347<STEAM_0:0:52468151> spawned model models/props_c17/furnituredrawer002a.mdl
+[19:21:34] CCA.C08-UNION.i1.93347<STEAM_0:0:52468151> spawned model models/props_c17/furnituredrawer002a.mdl
+[19:21:36] CCA.C08-UNION.i1.93347<STEAM_0:0:52468151> spawned model models/props_c17/furnituredrawer002a.mdl
+[19:21:38] CCA.C08-UNION.i1.93347<STEAM_0:0:52468151> spawned model models/props_c17/furnituredrawer003a.mdl
+[19:21:39] CCA.C08-UNION.i5.81530: /me would aproach the Doors, Knocking Twice on
+[19:22:03] CCA.C08-UNION.i5.81530: /me Would repeat
+[19:22:11] CCA.C08-UNION.i1.93347: Nobody home?
+[19:22:14] CCA.C08-UNION.i5.81530: Wierd
+[19:22:26] CCA.C08-UNION.i5.81530: /me would aproach the window, Knocking twice on it
+[19:22:34] CCA.C08-UNION.i1.93347: Let's skip the formalities. 
+[19:22:38] CCA.C08-UNION.i5.81530: mhm
+[19:22:45] CCA.C08-UNION.i1.93347: /me he swipes over the lock, walking inside
+[19:22:54] CCA.C08-UNION.i1.93347: Civil Protection, Coming through.
+[19:23:09] CCA.C08-UNION.i5.81530: That smell...
+[19:23:10] CCA.C08-UNION.i1.93347: Nothing picked up on the cameras.
+[19:23:29] CCA.C08-UNION.i1.93347: Smell? Do you keep food in your facemask?
+[19:23:38] CCA.C08-UNION.i5.81530: /looc No, Its just...
+[19:23:42] CCA.C08-UNION.i5.81530: /looc IC*
+[19:23:51] CCA.C08-UNION.i1.93347: .// ye its ic
+[19:23:52] CCA.C08-UNION.i5.81530: No, It just ... Wierd
+[19:24:04] CCA.C08-UNION.i5.81530: This whole Uniform is old
+[19:24:06] CCA.C08-UNION.i5.81530: ugh
+[19:24:07] CCA.C08-UNION.i1.93347: Must be new to your uniform huh?
+[19:24:26] CCA.C08-UNION.i5.81530: /looc okay lets leave the shop to explode :D
+[19:24:38] CCA.C08-UNION.i5.81530: /me would stare at the bed
+[19:24:44] CCA.C08-UNION.i5.81530: Seems like someone sleeps here as well
+[19:25:10] CCA.C08-UNION.i1.93347<STEAM_0:0:52468151> spawned model models/props_c17/canister02a.mdl
+[19:25:22] CCA.C08-UNION.i5.81530: // lmfao
+[19:25:26] CCA.C08-UNION.i1.93347: .// rigged
+[19:25:29] CCA.C08-UNION.i1.93347: .// doesn't explode
+[19:25:31] CCA.C08-UNION.i1.93347: .// uninstalled
+[19:25:36] CCA.C08-UNION.i1.93347: .// 0/10 
+[19:25:40] CCA.C08-UNION.i1.93347: .// -1 star
+[19:25:40] CCA.C08-UNION.i5.81530: // Bruh
+[19:25:45] CCA.C08-UNION.i1.93347: .// lol kidding
+[19:26:12] CCA.C08-UNION.i5.81530: /looc Okay We will have one less shop now then :D
+[19:26:26] CCA.C08-UNION.i5.81530: Lets check the Store
+[19:26:36] CCA.C08-UNION.i5.81530: hm
+[19:26:40] CCA.C08-UNION.i5.81530: Thats new
+[19:26:55] CCA.C08-UNION.i1.93347: New ish
+[19:27:01] CCA.C08-UNION.i1.93347: I've seen this place around. Just aint active.
+[19:27:06] CCA.C08-UNION.i5.81530: I see
+[19:27:31] CCA.C08-UNION.i5.81530: /me would point on the CCA Lock
+[19:27:37] CCA.C08-UNION.i5.81530: Thats the lock we changed
+[19:27:37] CCA.C08-UNION.i1.93347: Chloe? 
+[19:27:42] CCA.C08-UNION.i5.81530: /me would motion
+[19:27:44] CCA.C08-UNION.i5.81530: Come
+[19:27:45] CCA.C08-UNION.i1.93347: Uhuh.
+[19:28:05] CCA.C08-UNION.i1.93347: Oh that's damaging union property right there.
+[19:28:08] CCA.C08-UNION.i5.81530: We took the Manhack.... For security
+[19:28:17] CCA.C08-UNION.i1.93347: That's already a high-level infraction.
+[19:28:19] CCA.C08-UNION.i5.81530: You know how those blades are dangerous
+[19:28:33] CCA.C08-UNION.i1.93347: They're already done for.
+[19:28:41] CCA.C08-UNION.i1.93347: Should have locked this person up.
+[19:28:47] CCA.C08-UNION.i5.81530: I would swear the camera was on the left side ....
+[19:28:48] CCA.C08-UNION.i1.93347: Unless we... already did that.
+[19:29:18] CCA.C08-UNION.i5.81530: Yesterday the Camera was on the Left corner of the table
+[19:29:24] CCA.C08-UNION.i5.81530: Now its in the middle
+[19:29:26] CCA.C08-UNION.i1.93347: Interesting...
+[19:29:28] CCA.C08-UNION.i5.81530: Lets go inside to check
+[19:29:42] CCA.C08-UNION.i1.93347: /me he eyes the paper before entering
+[19:29:51] CCA.C08-UNION.i5.81530: Its there from yesterday
+[19:29:52] CCA.C08-UNION.i5.81530: all good
+[19:30:04] CCA.C08-UNION.i1.93347: Gas tank here...
+[19:30:06] CCA.C08-UNION.i5.81530: /me would stare at the papers on the ground
+[19:30:10] CCA.C08-UNION.i1.93347: Gotta watch out.
+[19:30:10] CCA.C08-UNION.i5.81530: Wait...
+[19:30:14] CCA.C08-UNION.i5.81530: This wasnt been here
+[19:30:23] CCA.C08-UNION.i5.81530: That paper
+[19:30:40] CCA.C08-UNION.i1.93347: What's it say>
+[19:30:40] CCA.C08-UNION.i5.81530: /me would crouch down, Reading the paper
+[19:30:47] CCA.C08-UNION.i1.93347: .// ?*
+[19:30:49] CCA.C08-UNION.i5.81530: uh....
+[19:30:52] CCA.C08-UNION.i5.81530: Take a look
+[19:30:58] CCA.C08-UNION.i5.81530: /looc Take a look*
+[19:31:06] CCA.C08-UNION.i5.81530: /looc Voice got triggered
+[19:31:17] CCA.C08-UNION.i1.93347: Oh we have a name.
+[19:31:18] CCA.C08-UNION.i1.93347: Ray.
+[19:31:19] CCA.C08-UNION.i5.81530: I swear, this wasnt been here yesterday...
+[19:31:29] CCA.C08-UNION.i5.81530: /me would look arround
+[19:31:36] CCA.C08-UNION.i1.93347: Where did they say to run?
+[19:31:43] CCA.C08-UNION.i5.81530: Not sure...
+[19:31:51] CCA.C08-UNION.i1.93347: 'Sewers are now open?'
+[19:31:52] CCA.C08-UNION.i5.81530: This cabinet is still empty... Good
+[19:31:56] CCA.C08-UNION.i5.81530: Hm ?
+[19:32:05] CCA.C08-UNION.i5.81530: Aint we have sewers locked by forceField ?
+[19:32:14] CCA.C08-UNION.i1.93347: And via lock. Yeah.
+[19:32:17] CCA.C08-UNION.i5.81530: Thats only way I remember...
+[19:32:19] CCA.C08-UNION.i5.81530: Lock ?
+[19:32:19] CCA.C08-UNION.i1.93347: Guess we need more protection.
+[19:32:27] CCA.C08-UNION.i1.93347: Door locks. Yep.
+[19:32:32] CCA.C08-UNION.i5.81530: /me would stare at the paper
+[19:32:39] CCA.C08-UNION.i5.81530: /me would crouch down, Reading
+[19:32:52] CCA.C08-UNION.i5.81530: Shit
+[19:32:53] CCA.C08-UNION.i1.93347: We'll take these papers in- no need to destroy. They're good evidence.
+[19:33:01] CCA.C08-UNION.i5.81530: Read !
+[19:33:07] CCA.C08-UNION.i5.81530: /me would rise quickly
+[19:33:11] CCA.C08-UNION.i1.93347: Oh interesting.
+[19:33:18] CCA.C08-UNION.i1.93347: We'll take these back.
+[19:33:26] CCA.C08-UNION.i5.81530: This isnt good Union,
+[19:33:35] CCA.C08-UNION.i1.93347: Oh it's fine.
+[19:33:55] CCA.C08-UNION.i1.93347: This place is extremely new.
+[19:34:01] CCA.C08-UNION.i5.81530: Anti Civil Propaganda All arround the city and now Shop cooperating with them ?
+[19:34:05] CCA.C08-UNION.i5.81530: Its not good.
+[19:34:16] CCA.C08-UNION.i5.81530: /me would shake his head
+[19:34:26] CCA.C08-UNION.i1.93347: Well of course it's not good, but they gave us the answers we need.
+[19:34:48] CCA.C08-UNION.i5.81530: I wonder where she got so much electronic parts...
+[19:34:56] CCA.C08-UNION.i1.93347: '*go to the sewers*' for one thing, and now we can confirm that this individual is related.
+[19:35:08] CCA.C08-UNION.i1.93347: Scavengers every now and there.
+[19:35:12] CCA.C08-UNION.i5.81530: Where is the Locked way to the sewers ?
+[19:35:32] CCA.C08-UNION.i5.81530: /me would take the paper
+[19:35:40] CCA.C08-UNION.i1.93347: We'll take this back first.
+[19:35:45] CCA.C08-UNION.i5.81530: alright
+[19:36:06] CCA.C08-UNION.i5.81530: // Ah fuck this
+[19:36:22] CCA.C08-UNION.i1.93347: .// welp
+[19:36:32] CCA.C08-UNION.i5.81530: /looc hmmmmmmmmm
+[19:36:39] CCA.C08-UNION.i5.81530<STEAM_0:1:54101851> spawned model models/props_junk/cardboard_box003a.mdl
+[19:36:42] CCA.C08-UNION.i5.81530<STEAM_0:1:54101851> spawned model models/props_junk/cardboard_box003a.mdl
+[19:37:17] CCA.C08-UNION.i5.81530: // FUCK THIS :D
+[19:37:26] CCA.C08-UNION.i1.93347: .// slip
+[19:37:34] CCA.C08-UNION.i5.81530: // good job
+[19:37:59] CCA.C08-UNION.i5.81530: // Thanks god that second paper was Tookable
+[19:38:46] CCA.C08-UNION.i5.81530: // lol
+[19:39:07] CCA.C08-UNION.i1.93347: .// wait I'm curious
+[19:39:12] CCA.C08-UNION.i5.81530: /looc hm ?
+[19:39:17] CCA.C08-UNION.i5.81530: /looc What is it ?
+[19:39:19] CCA.C08-UNION.i1.93347<STEAM_0:0:52468151> used the tool prop_door on maps/rp_city8_edit_v4r.bsp
+[19:39:25] CCA.C08-UNION.i1.93347<STEAM_0:0:52468151> used the tool prop_door on maps/rp_city8_edit_v4r.bsp
+[19:39:36] CCA.C08-UNION.i1.93347: /kickdoor
+[19:39:44] CCA.C08-UNION.i5.81530: /looc :O
+[19:39:44] CCA.C08-UNION.i1.93347: .// They still got it 
+[19:39:45] CCA.C08-UNION.i1.93347: .// HEHE
+[19:39:54] CCA.C08-UNION.i5.81530: /kickdoor
+[19:40:03] CCA.C08-UNION.i1.93347: /kickdoor
+[19:40:25] CCA.C08-UNION.i5.81530: Shit
+[19:40:31] CCA.C08-UNION.i5.81530: I need to get ties
+[19:40:40] CCA.C08-UNION.i1.93347: Ah don't worry I got plenty.
+[19:40:44] CCA.C08-UNION.i5.81530: Ah good
+[19:41:18] CCA.C08-UNION.i1.93347: Interesting.
+[19:41:21] CCA.C08-UNION.i5.81530: uh ?
+[19:41:22] CCA.C08-UNION.i1.93347: Broken glass.
+[19:41:29] CCA.C08-UNION.i1.93347: And currently no lock.
+[19:41:40] CCA.C08-UNION.i5.81530: Here should be a lock ?
+[19:41:44] CCA.C08-UNION.i1.93347: yep
+[19:41:49] CCA.C08-UNION.i5.81530: Where is it then ?
+[19:41:53] CCA.C08-UNION.i1.93347: /me shrugs
+[19:41:58] CCA.C08-UNION.i1.93347: Someone musta' broken it.
+[19:42:01] CCA.C08-UNION.i5.81530: hmm
+[19:42:05] CCA.C08-UNION.i1.93347: Wouldn't be the first time.
+[19:42:14] CCA.C08-UNION.i1.93347: Unfortunate we don't have a camera there.
+[19:42:19] CCA.C08-UNION.i5.81530: wait
+[19:42:36] CCA.C08-UNION.i5.81530: /looc wtf I cant look at it
+[19:42:40] CCA.C08-UNION.i5.81530: /looc bugged ?
+[19:42:42] CCA.C08-UNION.i1.93347: We got another name.
+[19:42:48] CCA.C08-UNION.i5.81530: /looc Whats there ?
+[19:42:54] CCA.C08-UNION.i5.81530: Hm ? what it says ?
+[19:43:19] CCA.C08-UNION.i1.93347: Andew. Resistance propaganda bullshit.
+[19:43:23] CCA.C08-UNION.i1.93347: .// andrew*
+[19:43:24] CCA.C08-UNION.i5.81530: Aha
+[19:43:29] CCA.C08-UNION.i5.81530: Knife time ?
+[19:43:35] CCA.C08-UNION.i1.93347: It's more evidence.
+[19:43:38] CCA.C08-UNION.i5.81530: I see
+[19:43:47] CCA.C08-UNION.i5.81530: /looc I cant pick it up or anything
+[19:44:12] CCA.C08-UNION.i5.81530: // lol Master !
+[19:45:09] CCA.C08-UNION.i5.81530: So What now ?
+[19:45:11] CCA.C08-UNION.i1.93347: yup
+[19:45:12] CCA.C08-UNION.i5.81530: We should report it
+[19:45:22] CCA.C08-UNION.i1.93347: It's good here.
+[19:45:28] CCA.C08-UNION.i1.93347: I'll document it later.
+[19:45:32] CCA.C08-UNION.i5.81530: Alright
+[19:45:36] CCA.C08-UNION.i1.93347: Well... Kinda why all this is here anyway.
+[19:45:52] CCA.C08-UNION.i5.81530: Dont forget to mention me as well in the logs....
+[19:45:56] CCA.C08-UNION.i5.81530: /me would say a bit pissed
+[19:46:16] CCA.C08-UNION.i5.81530: Sonner the new rank... The sooner new bright uniform....
+[19:46:20] CCA.C08-UNION.i1.93347: None of us get mention on the documentation.
+[19:46:30] CCA.C08-UNION.i5.81530: /me would look at his ugly old uniform
+[19:46:38] CCA.C08-UNION.i5.81530: Pity...
+[19:46:45] CCA.C08-UNION.i5.81530: I wonder how many people wore this
+[19:47:02] CCA.C08-UNION.i5.81530: Quartermaster told me that he was wearing exactly this one
+[19:47:10] CCA.C08-UNION.i1.93347: /me shrugs, "couldn't tell ya." 
+[19:47:11] CCA.C08-UNION.i5.81530: When he was Recruit...
+[19:47:15] CCA.C08-UNION.i1.93347: *Interesting* 
+[19:47:23] CCA.C08-UNION.i1.93347: I got mine brand new.
+[19:47:34] CCA.C08-UNION.i5.81530: /me would look at him with big Envy....
+[19:47:35] CCA.C08-UNION.i1.93347: Smelled like a new car.
+[19:47:40] CCA.C08-UNION.i5.81530: Yeah.... Nice.....
+[19:48:03] CCA.C08-UNION.i5.81530: This is so bad
+[19:48:04] CCA.C08-UNION.i1.93347: Oh well. It is what it is.
+[19:48:07] CCA.C08-UNION.i1.93347: I don't have much of a say in it,
+[19:48:17] CCA.C08-UNION.i5.81530: Yeah ... Understandable
+[19:48:34] CCA.C08-UNION.i5.81530: Well I guess Iam going 10-7
+[19:48:41] CCA.C08-UNION.i1.93347: Likewise.
+[19:48:42] CCA.C08-UNION.i5.81530: // Need to go sleep....  Iam so tired
+[19:48:49] CCA.C08-UNION.i1.93347: // yeee no worries gn gn 
+[19:48:55] CCA.C08-UNION.i5.81530: // Will you come tommorow ,
+[19:49:03] CCA.C08-UNION.i1.93347: // Ye I don't have work, I'll be home all of tomorrow
+[19:49:07] CCA.C08-UNION.i5.81530: // Sweet !
+[19:49:09] CCA.C08-UNION.i1.93347: // first thing in the morning if peeps are on
+[19:49:17] CCA.C08-UNION.i5.81530: // When peeps are usualy on ?
+[19:49:28] CCA.C08-UNION.i1.93347: // closer towards the evening est time
+[19:49:32] CCA.C08-UNION.i5.81530: // aha
+[19:49:46] CCA.C08-UNION.i5.81530: // Alright Thanks for the Info :)
+[19:49:51] CCA.C08-UNION.i1.93347: // no worries *E* 
+[19:49:51] CCA.C08-UNION.i5.81530: // Good Night :)
+[19:49:54] CCA.C08-UNION.i1.93347: // gn gn
+[19:49:58] Dropped "CCA.C08-UNION.i5.81530" from server<STEAM_0:1:54101851>
+[19:50:02] Dropped "CCA.C08-UNION.i1.93347" from server<STEAM_0:0:52468151>

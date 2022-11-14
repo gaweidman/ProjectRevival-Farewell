@@ -1,0 +1,1098 @@
+L 11/08/2022 - 19:34:26: Log file started (file "logs\L1108006.log") (game "c:\servers\revivalhl2rp\garrysmod") (version "8607")
+L 11/08/2022 - 19:34:27: "Val<2><STEAM_0:1:65067683><>" connected, address "24.217.228.156:27005"
+L 11/08/2022 - 19:34:27: Connection to Steam servers successful.
+L 11/08/2022 - 19:34:27:    Public IP is 192.223.26.159.
+L 11/08/2022 - 19:34:27: Assigned persistent gameserver Steam ID [G-1:3334754].
+L 11/08/2022 - 19:34:28: VAC secure mode is activated.
+L 11/08/2022 - 19:34:28: "Val<2><STEAM_0:1:65067683><>" STEAM USERID validated
+L 11/08/2022 - 19:34:30: "Lildirtyharry04<3><STEAM_0:0:247487472><>" connected, address "152.37.143.67:27005"
+L 11/08/2022 - 19:34:31: "Lildirtyharry04<3><STEAM_0:0:247487472><>" STEAM USERID validated
+L 11/08/2022 - 19:34:34: "Leon_DP<4><STEAM_0:1:82160962><>" connected, address "173.238.77.18:27005"
+L 11/08/2022 - 19:34:34: "Leon_DP<4><STEAM_0:1:82160962><>" STEAM USERID validated
+L 11/08/2022 - 19:34:41: "Enclave<5><STEAM_0:0:34463192><>" connected, address "75.248.18.54:27005"
+L 11/08/2022 - 19:34:41: "Enclave<5><STEAM_0:0:34463192><>" STEAM USERID validated
+L 11/08/2022 - 19:34:43: "Bean<6><STEAM_0:1:591779303><>" connected, address "24.67.80.36:27005"
+L 11/08/2022 - 19:34:43: "Bean<6><STEAM_0:1:591779303><>" STEAM USERID validated
+L 11/08/2022 - 19:34:44: "Chicken<7><STEAM_0:0:143523274><>" connected, address "173.16.69.239:27005"
+L 11/08/2022 - 19:34:44: "Chicken<7><STEAM_0:0:143523274><>" STEAM USERID validated
+L 11/08/2022 - 19:34:51: "Mal0 v0.9<8><STEAM_0:1:207594832><>" connected, address "24.178.166.67:27005"
+L 11/08/2022 - 19:34:52: "Mal0 v0.9<8><STEAM_0:1:207594832><>" STEAM USERID validated
+L 11/08/2022 - 19:35:11: "Val<2><STEAM_0:1:65067683><>" entered the game
+L 11/08/2022 - 19:35:11: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/08/2022 - 19:35:23: "Leon_DP<4><STEAM_0:1:82160962><>" entered the game
+L 11/08/2022 - 19:35:23: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/08/2022 - 19:35:30: "matt saton<9><STEAM_0:1:53097688><>" connected, address "73.103.251.115:27005"
+L 11/08/2022 - 19:35:31: "matt saton<9><STEAM_0:1:53097688><>" STEAM USERID validated
+L 11/08/2022 - 19:35:54: "Lildirtyharry04<3><STEAM_0:0:247487472><>" entered the game
+L 11/08/2022 - 19:35:54: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/08/2022 - 19:35:56: Lua Error: [Helix] Attempt to index unknown item 'purifiedwater'
+
+L 11/08/2022 - 19:35:56: "Chicken<7><STEAM_0:0:143523274><>" entered the game
+L 11/08/2022 - 19:35:56: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/08/2022 - 19:35:56: "Bean<6><STEAM_0:1:591779303><>" entered the game
+L 11/08/2022 - 19:35:58: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/08/2022 - 19:36:05: "wendigo<10><STEAM_0:1:429480781><>" connected, address "107.128.116.69:27005"
+L 11/08/2022 - 19:36:05: "wendigo<10><STEAM_0:1:429480781><>" STEAM USERID validated
+L 11/08/2022 - 19:36:10: "Nums<11><STEAM_0:1:196547442><>" connected, address "71.79.98.104:27005"
+L 11/08/2022 - 19:36:10: "Nums<11><STEAM_0:1:196547442><>" STEAM USERID validated
+L 11/08/2022 - 19:36:38: "Mal0 v0.9<8><STEAM_0:1:207594832><>" entered the game
+L 11/08/2022 - 19:36:39: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/08/2022 - 19:36:47: "Lynch<12><STEAM_0:1:626926779><>" connected, address "78.61.145.227:27005"
+L 11/08/2022 - 19:36:47: "Lynch<12><STEAM_0:1:626926779><>" STEAM USERID validated
+L 11/08/2022 - 19:36:52: "Otizem<13><STEAM_0:0:52002800><>" connected, address "87.59.109.244:27005"
+L 11/08/2022 - 19:36:52: "Otizem<13><STEAM_0:0:52002800><>" STEAM USERID validated
+L 11/08/2022 - 19:36:59: Lua Error: [Helix] Attempt to index unknown item 'handheld_radio'
+
+L 11/08/2022 - 19:36:59: Lua Error: [Helix] Attempt to index unknown item 'handheld_radio'
+
+L 11/08/2022 - 19:36:59: Lua Error: [Helix] Attempt to index unknown item 'band_blue'
+
+L 11/08/2022 - 19:36:59: Lua Error: [Helix] Attempt to index unknown item 'band_green'
+
+L 11/08/2022 - 19:36:59: Lua Error: [Helix] Attempt to index unknown item 'morphine'
+
+L 11/08/2022 - 19:36:59: Lua Error: [Helix] Attempt to index unknown item 'burned_metal'
+
+L 11/08/2022 - 19:36:59: Lua Error: [Helix] Attempt to index unknown item 'cmbfood'
+
+L 11/08/2022 - 19:36:59: "matt saton<9><STEAM_0:1:53097688><>" entered the game
+L 11/08/2022 - 19:36:59: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/08/2022 - 19:37:11: "Enclave<5><STEAM_0:0:34463192><>" entered the game
+L 11/08/2022 - 19:37:11: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/08/2022 - 19:37:30: [ULX] Leon Taylor<STEAM_0:1:82160962> spawned model models/sickness/bk_booth2.mdl
+L 11/08/2022 - 19:37:32: [ULX] Leon Taylor<STEAM_0:1:82160962> spawned model models/props/industrial17/booth.mdl
+L 11/08/2022 - 19:37:45: [ULX] Leon Taylor<STEAM_0:1:82160962> spawned model models/props/industrial17/booth.mdl
+L 11/08/2022 - 19:37:46: "wendigo<10><STEAM_0:1:429480781><>" entered the game
+L 11/08/2022 - 19:37:46: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/08/2022 - 19:37:52: "Otizem<13><STEAM_0:0:52002800><>" disconnected (reason "Map is missing")
+L 11/08/2022 - 19:37:55: "Weaponized Turtles<14><STEAM_0:0:69165544><>" connected, address "73.17.224.161:27005"
+L 11/08/2022 - 19:37:55: "Nums<11><STEAM_0:1:196547442><>" entered the game
+L 11/08/2022 - 19:37:56: "Weaponized Turtles<14><STEAM_0:0:69165544><>" STEAM USERID validated
+L 11/08/2022 - 19:37:56: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/08/2022 - 19:38:29: [ULX] Carlos Rodriguez Esse<STEAM_0:0:143523274> spawned model models/props_c17/trappropeller_blade.mdl
+L 11/08/2022 - 19:38:34: [ULX] Leon Taylor<STEAM_0:1:82160962> spawned model models/props_junk/garbage128_composite001b.mdl
+L 11/08/2022 - 19:38:36: "Lynch<12><STEAM_0:1:626926779><>" entered the game
+L 11/08/2022 - 19:38:36: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/08/2022 - 19:38:36: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> spawned sent ix_forcefield
+L 11/08/2022 - 19:38:41: [ULX] Carlos Rodriguez Esse<STEAM_0:0:143523274> spawned model models/props_c17/shelfunit01a.mdl
+L 11/08/2022 - 19:38:41: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> spawned sent ix_forcefield
+L 11/08/2022 - 19:38:44: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> spawned sent ix_forcefield
+L 11/08/2022 - 19:38:46: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> spawned sent ix_forcefield
+L 11/08/2022 - 19:38:50: [ULX] Leon Taylor<STEAM_0:1:82160962> used the tool precision on models/props_junk/garbage128_composite001b.mdl
+L 11/08/2022 - 19:39:06: "DRD<15><STEAM_0:0:193599766><>" connected, address "156.34.58.106:27005"
+L 11/08/2022 - 19:39:06: "DRD<15><STEAM_0:0:193599766><>" STEAM USERID validated
+L 11/08/2022 - 19:39:08: "Weaponized Turtles<14><STEAM_0:0:69165544><>" entered the game
+L 11/08/2022 - 19:39:08: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/08/2022 - 19:39:12: [ULX] OTA.C17-ECHO:ORD.19343 brought Qul'jal
+L 11/08/2022 - 19:39:14: [ULX] Leon Taylor<STEAM_0:1:82160962> spawned model models/props_junk/garbage128_composite001c.mdl
+L 11/08/2022 - 19:39:18: [ULX] OTA.C17-ECHO:ORD.19343 teleported to Ashley Greene
+L 11/08/2022 - 19:39:20: [ULX] Leon Taylor<STEAM_0:1:82160962> used the tool precision on models/props_junk/garbage128_composite001c.mdl
+L 11/08/2022 - 19:39:26: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> spawned model models/hunter/blocks/cube6x6x05.mdl
+L 11/08/2022 - 19:39:30: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> used the tool nocollideeverything on models/hunter/blocks/cube6x6x05.mdl
+L 11/08/2022 - 19:39:34: [ULX] Leon Taylor<STEAM_0:1:82160962> spawned model models/props_junk/garbage256_composite001a.mdl
+L 11/08/2022 - 19:39:44: "Lildirtyharry04<3><STEAM_0:0:247487472><>" disconnected (reason "Disconnect by user.")
+L 11/08/2022 - 19:39:51: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> used the tool colour on models/hunter/blocks/cube6x6x05.mdl
+L 11/08/2022 - 19:39:55: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> used the tool nocollideeverything on models/hunter/blocks/cube6x6x05.mdl
+L 11/08/2022 - 19:40:10: [ULX] Leon Taylor<STEAM_0:1:82160962> used the tool remover on models/props/industrial17/booth.mdl
+L 11/08/2022 - 19:40:10: [ULX] Leon Taylor<STEAM_0:1:82160962> used the tool remover on models/props/industrial17/booth.mdl
+L 11/08/2022 - 19:40:15: Lua Error: [Helix] Attempt to index unknown item 'cmbfood'
+
+L 11/08/2022 - 19:40:15: Lua Error: [Helix] Attempt to index unknown item 'cmbdrink'
+
+L 11/08/2022 - 19:40:15: Lua Error: [Helix] Attempt to index unknown item 'cmbdrink'
+
+L 11/08/2022 - 19:40:15: Lua Error: [Helix] Attempt to index unknown item 'handheld_radio'
+
+L 11/08/2022 - 19:40:15: Lua Error: [Helix] Attempt to index unknown item 'cmbdrink'
+
+L 11/08/2022 - 19:40:15: Lua Error: [Helix] Attempt to index unknown item 'combineration'
+
+L 11/08/2022 - 19:40:15: Lua Error: [Helix] Attempt to index unknown item 'ration'
+
+L 11/08/2022 - 19:40:15: "DRD<15><STEAM_0:0:193599766><>" entered the game
+L 11/08/2022 - 19:40:15: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/08/2022 - 19:40:16: [ULX] Leon Taylor<STEAM_0:1:82160962> spawned model models/props/industrial17/booth.mdl
+L 11/08/2022 - 19:40:23: "Enclave<5><STEAM_0:0:34463192><>" disconnected (reason "Enclave timed out")
+L 11/08/2022 - 19:40:26: [ULX] Leon Taylor<STEAM_0:1:82160962> spawned model models/props/industrial17/booth.mdl
+L 11/08/2022 - 19:40:28: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> spawned sent ix_forcefield
+L 11/08/2022 - 19:40:36: "Dilly_<16><STEAM_0:0:52468151><>" connected, address "37.19.212.33:27005"
+L 11/08/2022 - 19:40:36: "Dilly_<16><STEAM_0:0:52468151><>" STEAM USERID validated
+L 11/08/2022 - 19:40:37: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> spawned sent ix_forcefield
+L 11/08/2022 - 19:40:46: "Otizem<17><STEAM_0:0:52002800><>" connected, address "87.59.109.244:27005"
+L 11/08/2022 - 19:40:46: "Otizem<17><STEAM_0:0:52002800><>" STEAM USERID validated
+L 11/08/2022 - 19:40:59: [ULX] Leon Taylor<STEAM_0:1:82160962> spawned model models/props_forest/table_shed.mdl
+L 11/08/2022 - 19:41:20: [ULX] Leon Taylor<STEAM_0:1:82160962> spawned model models/props/industrial17/booth.mdl
+L 11/08/2022 - 19:41:24: [ULX] Leon Taylor<STEAM_0:1:82160962> spawned model models/props/industrial17/booth.mdl
+L 11/08/2022 - 19:41:39: [ULX] OTA.C17-ECHO:ORD.19343 slayed THE LEGENDRY BLACK CHICKEN
+L 11/08/2022 - 19:41:41: [ULX] Carlos Rodriguez Esse<STEAM_0:0:143523274> spawned model models/props_c17/shelfunit01a.mdl
+L 11/08/2022 - 19:41:48: [ULX] OTA.C17-ECHO:ORD.19343 brought Ashley Greene,Ava Carter,CCA.C17-GRID.i4.94233,Carlos Rodriguez Esse,Leon Taylor,OTA.C17-ECHO.OHZ.75702,PVT Nathan Pierce,Paul-Henri Cartier,Recruit Oliver MacMillan,THE LEGENDRY BLACK CHICKEN
+L 11/08/2022 - 19:41:51: [ULX] Carlos Rodriguez Esse<STEAM_0:0:143523274> spawned model models/props_c17/shelfunit01a.mdl
+L 11/08/2022 - 19:41:58: "Chicken<7><STEAM_0:0:143523274><>" disconnected (reason "Disconnect by user.")
+L 11/08/2022 - 19:42:00: [ULX] Paul-Henri Cartier to admins: does this map have fucking credits on the wall that players see
+L 11/08/2022 - 19:42:08: [ULX] OTA.C17-ECHO:ORD.19343 to admins: noooo
+L 11/08/2022 - 19:42:17: [ULX] Paul-Henri Cartier to admins: blocking them
+L 11/08/2022 - 19:42:24: "Otizem<17><STEAM_0:0:52002800><>" entered the game
+L 11/08/2022 - 19:42:24: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/08/2022 - 19:42:28: [ULX] Paul-Henri Cartier<STEAM_0:0:193599766> used the tool paint on maps/rp_city45_2013.bsp
+L 11/08/2022 - 19:42:33: "Enclave<18><STEAM_0:0:34463192><>" connected, address "75.248.18.54:27005"
+L 11/08/2022 - 19:42:34: "Enclave<18><STEAM_0:0:34463192><>" STEAM USERID validated
+L 11/08/2022 - 19:42:41: [ULX] Paul-Henri Cartier<STEAM_0:0:193599766> used the tool paint on maps/rp_city45_2013.bsp
+L 11/08/2022 - 19:42:41: [ULX] Paul-Henri Cartier<STEAM_0:0:193599766> used the tool paint on maps/rp_city45_2013.bsp
+L 11/08/2022 - 19:42:41: [ULX] OTA.C17-ECHO.OHZ.75702 to admins: Mmm
+L 11/08/2022 - 19:42:42: [ULX] Paul-Henri Cartier<STEAM_0:0:193599766> used the tool paint on maps/rp_city45_2013.bsp
+L 11/08/2022 - 19:42:43: [ULX] Paul-Henri Cartier<STEAM_0:0:193599766> used the tool paint on maps/rp_city45_2013.bsp
+L 11/08/2022 - 19:42:46: [ULX] Paul-Henri Cartier<STEAM_0:0:193599766> used the tool paint on maps/rp_city45_2013.bsp
+L 11/08/2022 - 19:42:48: [ULX] Ava Carter<STEAM_0:1:429480781> spawned model models/props_c17/furniturechair001a.mdl
+L 11/08/2022 - 19:42:48: [ULX] Paul-Henri Cartier<STEAM_0:0:193599766> used the tool paint on maps/rp_city45_2013.bsp
+L 11/08/2022 - 19:42:49: [ULX] Paul-Henri Cartier<STEAM_0:0:193599766> used the tool paint on maps/rp_city45_2013.bsp
+L 11/08/2022 - 19:42:49: [ULX] Paul-Henri Cartier<STEAM_0:0:193599766> used the tool paint on maps/rp_city45_2013.bsp
+L 11/08/2022 - 19:42:50: [ULX] Paul-Henri Cartier<STEAM_0:0:193599766> used the tool paint on maps/rp_city45_2013.bsp
+L 11/08/2022 - 19:42:51: [ULX] Paul-Henri Cartier<STEAM_0:0:193599766> used the tool paint on maps/rp_city45_2013.bsp
+L 11/08/2022 - 19:42:53: Lua Error: [Helix] Attempt to index unknown item 'union_chips'
+
+L 11/08/2022 - 19:42:53: Lua Error: [Helix] Attempt to index unknown item 'union_chips'
+
+L 11/08/2022 - 19:42:53: Lua Error: [Helix] Attempt to index unknown item 'battered_scrap'
+
+L 11/08/2022 - 19:42:53: Lua Error: [Helix] Attempt to index unknown item 'morphine'
+
+L 11/08/2022 - 19:42:53: "Dilly_<16><STEAM_0:0:52468151><>" entered the game
+L 11/08/2022 - 19:42:53: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/08/2022 - 19:42:57: [ULX] Paul-Henri Cartier<STEAM_0:0:193599766> used the tool paint on maps/rp_city45_2013.bsp
+L 11/08/2022 - 19:42:59: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> spawned sent ix_forcefield
+L 11/08/2022 - 19:43:04: [ULX] Paul-Henri Cartier<STEAM_0:0:193599766> used the tool paint on maps/rp_city45_2013.bsp
+L 11/08/2022 - 19:43:05: [ULX] Paul-Henri Cartier<STEAM_0:0:193599766> used the tool paint on maps/rp_city45_2013.bsp
+L 11/08/2022 - 19:43:06: [ULX] Paul-Henri Cartier<STEAM_0:0:193599766> used the tool paint on maps/rp_city45_2013.bsp
+L 11/08/2022 - 19:43:08: [ULX] Paul-Henri Cartier<STEAM_0:0:193599766> used the tool paint on maps/rp_city45_2013.bsp
+L 11/08/2022 - 19:43:10: [ULX] Paul-Henri Cartier<STEAM_0:0:193599766> used the tool paint on maps/rp_city45_2013.bsp
+L 11/08/2022 - 19:43:12: [ULX] Paul-Henri Cartier<STEAM_0:0:193599766> used the tool paint on maps/rp_city45_2013.bsp
+L 11/08/2022 - 19:43:12: [ULX] Paul-Henri Cartier<STEAM_0:0:193599766> used the tool paint on maps/rp_city45_2013.bsp
+L 11/08/2022 - 19:43:12: [ULX] Paul-Henri Cartier<STEAM_0:0:193599766> used the tool paint on maps/rp_city45_2013.bsp
+L 11/08/2022 - 19:43:12: [ULX] Paul-Henri Cartier<STEAM_0:0:193599766> used the tool paint on maps/rp_city45_2013.bsp
+L 11/08/2022 - 19:43:12: [ULX] Paul-Henri Cartier<STEAM_0:0:193599766> used the tool paint on maps/rp_city45_2013.bsp
+L 11/08/2022 - 19:43:12: [ULX] Paul-Henri Cartier<STEAM_0:0:193599766> used the tool paint on maps/rp_city45_2013.bsp
+L 11/08/2022 - 19:43:14: [ULX] Paul-Henri Cartier<STEAM_0:0:193599766> used the tool paint on maps/rp_city45_2013.bsp
+L 11/08/2022 - 19:43:14: [ULX] Paul-Henri Cartier<STEAM_0:0:193599766> used the tool paint on maps/rp_city45_2013.bsp
+L 11/08/2022 - 19:43:27: [ULX] Paul-Henri Cartier<STEAM_0:0:193599766> used the tool paint on maps/rp_city45_2013.bsp
+L 11/08/2022 - 19:43:35: [ULX] Paul-Henri Cartier<STEAM_0:0:193599766> used the tool paint on maps/rp_city45_2013.bsp
+L 11/08/2022 - 19:43:35: [ULX] Paul-Henri Cartier<STEAM_0:0:193599766> used the tool paint on maps/rp_city45_2013.bsp
+L 11/08/2022 - 19:43:35: [ULX] Paul-Henri Cartier<STEAM_0:0:193599766> used the tool paint on maps/rp_city45_2013.bsp
+L 11/08/2022 - 19:43:35: [ULX] Paul-Henri Cartier<STEAM_0:0:193599766> used the tool paint on maps/rp_city45_2013.bsp
+L 11/08/2022 - 19:43:35: [ULX] Paul-Henri Cartier<STEAM_0:0:193599766> used the tool paint on maps/rp_city45_2013.bsp
+L 11/08/2022 - 19:43:35: [ULX] Paul-Henri Cartier<STEAM_0:0:193599766> used the tool paint on maps/rp_city45_2013.bsp
+L 11/08/2022 - 19:43:35: [ULX] Paul-Henri Cartier<STEAM_0:0:193599766> used the tool paint on maps/rp_city45_2013.bsp
+L 11/08/2022 - 19:43:35: [ULX] Paul-Henri Cartier<STEAM_0:0:193599766> used the tool paint on maps/rp_city45_2013.bsp
+L 11/08/2022 - 19:43:35: [ULX] Paul-Henri Cartier<STEAM_0:0:193599766> used the tool paint on maps/rp_city45_2013.bsp
+L 11/08/2022 - 19:43:36: [ULX] Paul-Henri Cartier<STEAM_0:0:193599766> used the tool paint on maps/rp_city45_2013.bsp
+L 11/08/2022 - 19:43:36: [ULX] Paul-Henri Cartier<STEAM_0:0:193599766> used the tool paint on maps/rp_city45_2013.bsp
+L 11/08/2022 - 19:43:36: [ULX] Paul-Henri Cartier<STEAM_0:0:193599766> used the tool paint on maps/rp_city45_2013.bsp
+L 11/08/2022 - 19:43:36: [ULX] Paul-Henri Cartier<STEAM_0:0:193599766> used the tool paint on maps/rp_city45_2013.bsp
+L 11/08/2022 - 19:43:36: [ULX] Paul-Henri Cartier<STEAM_0:0:193599766> used the tool paint on maps/rp_city45_2013.bsp
+L 11/08/2022 - 19:43:36: [ULX] Paul-Henri Cartier<STEAM_0:0:193599766> used the tool paint on maps/rp_city45_2013.bsp
+L 11/08/2022 - 19:43:36: [ULX] Paul-Henri Cartier<STEAM_0:0:193599766> used the tool paint on maps/rp_city45_2013.bsp
+L 11/08/2022 - 19:43:36: [ULX] Paul-Henri Cartier<STEAM_0:0:193599766> used the tool paint on maps/rp_city45_2013.bsp
+L 11/08/2022 - 19:43:36: [ULX] Paul-Henri Cartier<STEAM_0:0:193599766> used the tool paint on maps/rp_city45_2013.bsp
+L 11/08/2022 - 19:43:36: [ULX] Paul-Henri Cartier<STEAM_0:0:193599766> used the tool paint on maps/rp_city45_2013.bsp
+L 11/08/2022 - 19:43:36: [ULX] Paul-Henri Cartier<STEAM_0:0:193599766> used the tool paint on maps/rp_city45_2013.bsp
+L 11/08/2022 - 19:43:36: [ULX] Paul-Henri Cartier<STEAM_0:0:193599766> used the tool paint on maps/rp_city45_2013.bsp
+L 11/08/2022 - 19:43:36: [ULX] Paul-Henri Cartier<STEAM_0:0:193599766> used the tool paint on maps/rp_city45_2013.bsp
+L 11/08/2022 - 19:43:36: [ULX] Paul-Henri Cartier<STEAM_0:0:193599766> used the tool paint on maps/rp_city45_2013.bsp
+L 11/08/2022 - 19:43:36: [ULX] Paul-Henri Cartier<STEAM_0:0:193599766> used the tool paint on maps/rp_city45_2013.bsp
+L 11/08/2022 - 19:43:38: [ULX] Paul-Henri Cartier<STEAM_0:0:193599766> used the tool paint on maps/rp_city45_2013.bsp
+L 11/08/2022 - 19:43:38: [ULX] Paul-Henri Cartier<STEAM_0:0:193599766> used the tool paint on maps/rp_city45_2013.bsp
+L 11/08/2022 - 19:43:39: [ULX] Paul-Henri Cartier<STEAM_0:0:193599766> used the tool paint on maps/rp_city45_2013.bsp
+L 11/08/2022 - 19:43:51: [ULX] Paul-Henri Cartier<STEAM_0:0:193599766> spawned model models/hunter/plates/plate2x2.mdl
+L 11/08/2022 - 19:43:53: [ULX] Paul-Henri Cartier<STEAM_0:0:193599766> spawned model models/hunter/plates/plate5x5.mdl
+L 11/08/2022 - 19:44:07: [ULX] Paul-Henri Cartier<STEAM_0:0:193599766> spawned model models/hunter/plates/plate5x5.mdl
+L 11/08/2022 - 19:44:22: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/schema/sv_hooks.lua:993: attempt to index a nil value
+  1. unknown - gamemodes/ixhl2rp/schema/sv_hooks.lua:993
+   2. Run - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:354
+    3. Send - gamemodes/helix/gamemode/core/libs/sh_chatbox.lua:344
+     4. OnRun - gamemodes/ixhl2rp/schema/sh_commands.lua:254
+      5. Run - gamemodes/helix/gamemode/core/libs/sh_command.lua:499
+       6. Parse - gamemodes/helix/gamemode/core/libs/sh_command.lua:561
+        7. Run - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:324
+         8. func - gamemodes/ixhl2rp/plugins/chatbox/sh_plugin.lua:235
+          9. unknown - lua/includes/extensions/net.lua:33
+
+
+L 11/08/2022 - 19:44:23: "Mal0 v0.9<8><STEAM_0:1:207594832><>" disconnected (reason "Mal0 v0.9 timed out")
+L 11/08/2022 - 19:44:23: [ULX] Paul-Henri Cartier to admins: do you want the rainbow text?
+L 11/08/2022 - 19:44:31: [ULX] OTA.C17-ECHO:ORD.19343 to admins: sure, fine
+L 11/08/2022 - 19:44:38: [ULX] Paul-Henri Cartier<STEAM_0:0:193599766> used the tool paint on maps/rp_city45_2013.bsp
+L 11/08/2022 - 19:44:43: [ULX] Paul-Henri Cartier<STEAM_0:0:193599766> used the tool paint on maps/rp_city45_2013.bsp
+L 11/08/2022 - 19:44:44: "Enclave<18><STEAM_0:0:34463192><>" entered the game
+L 11/08/2022 - 19:44:44: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/08/2022 - 19:44:50: [ULX] Paul-Henri Cartier<STEAM_0:0:193599766> used the tool paint on maps/rp_city45_2013.bsp
+L 11/08/2022 - 19:44:51: [ULX] Paul-Henri Cartier<STEAM_0:0:193599766> used the tool paint on maps/rp_city45_2013.bsp
+L 11/08/2022 - 19:44:52: [ULX] Paul-Henri Cartier<STEAM_0:0:193599766> used the tool paint on maps/rp_city45_2013.bsp
+L 11/08/2022 - 19:44:57: [ULX] Paul-Henri Cartier<STEAM_0:0:193599766> used the tool paint on maps/rp_city45_2013.bsp
+L 11/08/2022 - 19:44:58: [ULX] Paul-Henri Cartier<STEAM_0:0:193599766> used the tool paint on maps/rp_city45_2013.bsp
+L 11/08/2022 - 19:45:00: [ULX] Paul-Henri Cartier<STEAM_0:0:193599766> used the tool paint on maps/rp_city45_2013.bsp
+L 11/08/2022 - 19:45:01: [ULX] Paul-Henri Cartier<STEAM_0:0:193599766> used the tool paint on maps/rp_city45_2013.bsp
+L 11/08/2022 - 19:45:03: [ULX] Paul-Henri Cartier<STEAM_0:0:193599766> used the tool paint on maps/rp_city45_2013.bsp
+L 11/08/2022 - 19:45:03: [ULX] Paul-Henri Cartier<STEAM_0:0:193599766> used the tool paint on maps/rp_city45_2013.bsp
+L 11/08/2022 - 19:45:04: [ULX] Paul-Henri Cartier<STEAM_0:0:193599766> used the tool paint on maps/rp_city45_2013.bsp
+L 11/08/2022 - 19:45:04: [ULX] Paul-Henri Cartier<STEAM_0:0:193599766> used the tool paint on maps/rp_city45_2013.bsp
+L 11/08/2022 - 19:45:04: [ULX] OTA.C17-ECHO.OHZ.75702 to admins: Ngl...I sorta like this map...
+L 11/08/2022 - 19:45:05: [ULX] Paul-Henri Cartier<STEAM_0:0:193599766> used the tool paint on maps/rp_city45_2013.bsp
+L 11/08/2022 - 19:45:05: [ULX] Paul-Henri Cartier<STEAM_0:0:193599766> used the tool paint on maps/rp_city45_2013.bsp
+L 11/08/2022 - 19:45:05: [ULX] Paul-Henri Cartier<STEAM_0:0:193599766> used the tool paint on maps/rp_city45_2013.bsp
+L 11/08/2022 - 19:45:06: [ULX] Paul-Henri Cartier<STEAM_0:0:193599766> used the tool paint on maps/rp_city45_2013.bsp
+L 11/08/2022 - 19:45:06: [ULX] Paul-Henri Cartier<STEAM_0:0:193599766> used the tool paint on maps/rp_city45_2013.bsp
+L 11/08/2022 - 19:45:16: [ULX] OTA.C17-ECHO.OHZ.75702 to admins: I wouldn't honestly have an issue staying
+L 11/08/2022 - 19:45:23: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/schema/sv_hooks.lua:587: attempt to call method 'SetVortessence' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/schema/sv_hooks.lua:587
+   2. Run - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:354
+    3. func - gamemodes/helix/gamemode/core/libs/sh_character.lua:923
+     4. unknown - lua/includes/extensions/net.lua:33
+
+
+L 11/08/2022 - 19:45:40: "Mal0 v0.9<19><STEAM_0:1:207594832><>" connected, address "24.178.166.67:27005"
+L 11/08/2022 - 19:45:40: [ULX] Paul-Henri Cartier to admins: its like
+L 11/08/2022 - 19:45:40: "Mal0 v0.9<19><STEAM_0:1:207594832><>" STEAM USERID validated
+L 11/08/2022 - 19:45:45: [ULX] Paul-Henri Cartier to admins: hl2 17 but fucked up
+L 11/08/2022 - 19:45:52: [ULX] OTA.C17-ECHO.OHZ.75702 to admins: Yeah...It does seem a bit goofy
+L 11/08/2022 - 19:45:56: [ULX] OTA.C17-ECHO.OHZ.75702 to admins: But so far not bad
+L 11/08/2022 - 19:46:02: [ULX] Paul-Henri Cartier to admins: ahem
+L 11/08/2022 - 19:46:05: [ULX] OTA.C17-ECHO.OHZ.75702 to admins: IDEA
+L 11/08/2022 - 19:46:09: [ULX] Paul-Henri Cartier to admins: giant rainbow text credits in the spawn
+L 11/08/2022 - 19:46:15: [ULX] OTA.C17-ECHO.OHZ.75702 to admins: WE SHOULD GO TO GM_CONSTRUCT!
+L 11/08/2022 - 19:47:04: [ULX] CCA.C17-GRID.i4.94233<STEAM_0:0:69165544> spawned model models/props_combine/combine_barricade_short02a.mdl
+L 11/08/2022 - 19:47:23: [ULX] CCA.C17-GRID.i4.94233<STEAM_0:0:69165544> spawned model models/props_combine/combine_barricade_short02a.mdl
+L 11/08/2022 - 19:48:34: "Mal0 v0.9<19><STEAM_0:1:207594832><>" entered the game
+L 11/08/2022 - 19:48:35: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/08/2022 - 19:49:40: Lua Error: attempted to add entry to non-existent log type "Player [10][Nums]"
+L 11/08/2022 - 19:49:40: Lua Error: 
+[ulib] gamemodes/helix/gamemode/core/libs/sh_log.lua:115: bad argument #1 to 'WriteString' (string expected, got nil)
+  1. WriteString - [C]:-1
+   2. Send - gamemodes/helix/gamemode/core/libs/sh_log.lua:115
+    3. callback - gamemodes/helix/gamemode/core/libs/sh_log.lua:105
+     4. onResult - gamemodes/helix/gamemode/core/libs/thirdparty/sh_cami.lua:443
+      5. callback - gamemodes/helix/gamemode/core/libs/thirdparty/sh_cami.lua:448
+       6. fn - addons/ulib/lua/ulib/shared/cami_ulib.lua:23
+        7. Call - addons/ulib/lua/ulib/shared/hook.lua:109
+         8. PlayerHasAccess - gamemodes/helix/gamemode/core/libs/thirdparty/sh_cami.lua:383
+          9. GetPlayersWithAccess - gamemodes/helix/gamemode/core/libs/thirdparty/sh_cami.lua:447
+           10. Add - gamemodes/helix/gamemode/core/libs/sh_log.lua:104
+            11. SearchPlayer - gamemodes/ixhl2rp/schema/sv_schema.lua:393
+             12. func - gamemodes/ixhl2rp/schema/sv_hooks.lua:2012
+              13. unknown - lua/includes/extensions/net.lua:33
+
+
+L 11/08/2022 - 19:49:41: Lua Error: 
+[ERROR] Warning! A net message (ixLogStream) is already started! Discarding in favor of the new message! (ixChatMessage)
+  1. Send - gamemodes/helix/gamemode/core/libs/sh_chatbox.lua:346
+   2. Run - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:329
+    3. func - gamemodes/ixhl2rp/plugins/chatbox/sh_plugin.lua:235
+     4. unknown - lua/includes/extensions/net.lua:33
+
+
+L 11/08/2022 - 19:49:58: Lua Error: attempted to add entry to non-existent log type "Player [12][Weaponized Turtles]"
+L 11/08/2022 - 19:49:58: Lua Error: 
+[ulib] gamemodes/helix/gamemode/core/libs/sh_log.lua:115: bad argument #1 to 'WriteString' (string expected, got nil)
+  1. WriteString - [C]:-1
+   2. Send - gamemodes/helix/gamemode/core/libs/sh_log.lua:115
+    3. callback - gamemodes/helix/gamemode/core/libs/sh_log.lua:105
+     4. onResult - gamemodes/helix/gamemode/core/libs/thirdparty/sh_cami.lua:443
+      5. callback - gamemodes/helix/gamemode/core/libs/thirdparty/sh_cami.lua:448
+       6. fn - addons/ulib/lua/ulib/shared/cami_ulib.lua:23
+        7. Call - addons/ulib/lua/ulib/shared/hook.lua:109
+         8. PlayerHasAccess - gamemodes/helix/gamemode/core/libs/thirdparty/sh_cami.lua:383
+          9. GetPlayersWithAccess - gamemodes/helix/gamemode/core/libs/thirdparty/sh_cami.lua:447
+           10. Add - gamemodes/helix/gamemode/core/libs/sh_log.lua:104
+            11. SearchPlayer - gamemodes/ixhl2rp/schema/sv_schema.lua:393
+             12. func - gamemodes/ixhl2rp/schema/sv_hooks.lua:2012
+              13. unknown - lua/includes/extensions/net.lua:33
+
+
+L 11/08/2022 - 19:49:58: Lua Error: 
+[ERROR] Warning! A net message (ixLogStream) is already started! Discarding in favor of the new message! (ixCharacterData)
+  1. SetData - gamemodes/helix/gamemode/core/libs/sh_character.lua:741
+   2. SetAllLimbHealth - gamemodes/ixhl2rp/schema/meta/sh_character.lua:173
+    3. unknown - gamemodes/ixhl2rp/schema/sv_hooks.lua:666
+
+
+L 11/08/2022 - 19:50:17: Lua Error: attempted to add entry to non-existent log type "Player [10][Nums]"
+L 11/08/2022 - 19:50:17: Lua Error: 
+[ulib] gamemodes/helix/gamemode/core/libs/sh_log.lua:115: bad argument #1 to 'WriteString' (string expected, got nil)
+  1. WriteString - [C]:-1
+   2. Send - gamemodes/helix/gamemode/core/libs/sh_log.lua:115
+    3. callback - gamemodes/helix/gamemode/core/libs/sh_log.lua:105
+     4. onResult - gamemodes/helix/gamemode/core/libs/thirdparty/sh_cami.lua:443
+      5. callback - gamemodes/helix/gamemode/core/libs/thirdparty/sh_cami.lua:448
+       6. fn - addons/ulib/lua/ulib/shared/cami_ulib.lua:23
+        7. Call - addons/ulib/lua/ulib/shared/hook.lua:109
+         8. PlayerHasAccess - gamemodes/helix/gamemode/core/libs/thirdparty/sh_cami.lua:383
+          9. GetPlayersWithAccess - gamemodes/helix/gamemode/core/libs/thirdparty/sh_cami.lua:447
+           10. Add - gamemodes/helix/gamemode/core/libs/sh_log.lua:104
+            11. SearchPlayer - gamemodes/ixhl2rp/schema/sv_schema.lua:393
+             12. func - gamemodes/ixhl2rp/schema/sv_hooks.lua:2012
+              13. unknown - lua/includes/extensions/net.lua:33
+
+
+L 11/08/2022 - 19:50:17: Lua Error: 
+[ERROR] Warning! A net message (ixLogStream) is already started! Discarding in favor of the new message! (ixNetVarSet)
+  1. SendNetVar - gamemodes/helix/gamemode/core/libs/sv_networking.lua:171
+   2. SetNetVar - gamemodes/helix/gamemode/core/libs/sv_networking.lua:162
+    3. unknown - gamemodes/helix/gamemode/core/meta/sh_player.lua:190
+
+
+L 11/08/2022 - 19:50:34: Lua Error: attempted to add entry to non-existent log type "Player [12][Weaponized Turtles]"
+L 11/08/2022 - 19:50:34: Lua Error: 
+[ulib] gamemodes/helix/gamemode/core/libs/sh_log.lua:115: bad argument #1 to 'WriteString' (string expected, got nil)
+  1. WriteString - [C]:-1
+   2. Send - gamemodes/helix/gamemode/core/libs/sh_log.lua:115
+    3. callback - gamemodes/helix/gamemode/core/libs/sh_log.lua:105
+     4. onResult - gamemodes/helix/gamemode/core/libs/thirdparty/sh_cami.lua:443
+      5. callback - gamemodes/helix/gamemode/core/libs/thirdparty/sh_cami.lua:448
+       6. fn - addons/ulib/lua/ulib/shared/cami_ulib.lua:23
+        7. Call - addons/ulib/lua/ulib/shared/hook.lua:109
+         8. PlayerHasAccess - gamemodes/helix/gamemode/core/libs/thirdparty/sh_cami.lua:383
+          9. GetPlayersWithAccess - gamemodes/helix/gamemode/core/libs/thirdparty/sh_cami.lua:447
+           10. Add - gamemodes/helix/gamemode/core/libs/sh_log.lua:104
+            11. SearchPlayer - gamemodes/ixhl2rp/schema/sv_schema.lua:393
+             12. func - gamemodes/ixhl2rp/schema/sv_hooks.lua:2012
+              13. unknown - lua/includes/extensions/net.lua:33
+
+
+L 11/08/2022 - 19:50:35: Lua Error: 
+[ulib] Warning! A net message (ixLogStream) is already started! Discarding in favor of the new message! (ixLogStream)
+  1. Send - gamemodes/helix/gamemode/core/libs/sh_log.lua:114
+   2. callback - gamemodes/helix/gamemode/core/libs/sh_log.lua:105
+    3. onResult - gamemodes/helix/gamemode/core/libs/thirdparty/sh_cami.lua:443
+     4. callback - gamemodes/helix/gamemode/core/libs/thirdparty/sh_cami.lua:448
+      5. fn - addons/ulib/lua/ulib/shared/cami_ulib.lua:23
+       6. Call - addons/ulib/lua/ulib/shared/hook.lua:109
+        7. PlayerHasAccess - gamemodes/helix/gamemode/core/libs/thirdparty/sh_cami.lua:383
+         8. GetPlayersWithAccess - gamemodes/helix/gamemode/core/libs/thirdparty/sh_cami.lua:447
+          9. Add - gamemodes/helix/gamemode/core/libs/sh_log.lua:104
+           10. v - gamemodes/helix/plugins/propprotect.lua:125
+            11. Call - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+             12. Spawn_SENT - gamemodes/sandbox/gamemode/commands.lua:825
+              13. unknown - gamemodes/sandbox/gamemode/commands.luaL 11/08/2022 - 19:50:35: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> spawned sent ix_sewergarbagespawn
+L 11/08/2022 - 19:50:37: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> used the tool colour on models/hunter/blocks/cube025x025x025.mdl
+L 11/08/2022 - 19:50:39: Lua Error: attempted to add entry to non-existent log type "Player [13][DRD]"
+L 11/08/2022 - 19:50:39: Lua Error: 
+[ulib] gamemodes/helix/gamemode/core/libs/sh_log.lua:115: bad argument #1 to 'WriteString' (string expected, got nil)
+  1. WriteString - [C]:-1
+   2. Send - gamemodes/helix/gamemode/core/libs/sh_log.lua:115
+    3. callback - gamemodes/helix/gamemode/core/libs/sh_log.lua:105
+     4. onResult - gamemodes/helix/gamemode/core/libs/thirdparty/sh_cami.lua:443
+      5. callback - gamemodes/helix/gamemode/core/libs/thirdparty/sh_cami.lua:448
+       6. fn - addons/ulib/lua/ulib/shared/cami_ulib.lua:23
+        7. Call - addons/ulib/lua/ulib/shared/hook.lua:109
+         8. PlayerHasAccess - gamemodes/helix/gamemode/core/libs/thirdparty/sh_cami.lua:383
+          9. GetPlayersWithAccess - gamemodes/helix/gamemode/core/libs/thirdparty/sh_cami.lua:447
+           10. Add - gamemodes/helix/gamemode/core/libs/sh_log.lua:104
+            11. SearchPlayer - gamemodes/ixhl2rp/schema/sv_schema.lua:393
+             12. OnRun - gamemodes/ixhl2rp/schema/sh_commands.lua:577
+              13. Run - gamemodes/helix/gamemode/core/libs/sh_command.lua:499
+               14. ParL 11/08/2022 - 19:50:39: Lua Error: 
+[ERROR] Warning! A net message (ixLogStream) is already started! Discarding in favor of the new message! (ixTypeClass)
+  1. func - gamemodes/helix/plugins/typing.lua:232
+   2. unknown - lua/includes/extensions/net.lua:33
+
+
+L 11/08/2022 - 19:50:42: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> used the tool permaprops on models/hunter/blocks/cube025x025x025.mdl
+L 11/08/2022 - 19:50:56: Lua Error: attempted to add entry to non-existent log type "Player [13][DRD]"
+L 11/08/2022 - 19:50:56: Lua Error: 
+[ulib] gamemodes/helix/gamemode/core/libs/sh_log.lua:115: bad argument #1 to 'WriteString' (string expected, got nil)
+  1. WriteString - [C]:-1
+   2. Send - gamemodes/helix/gamemode/core/libs/sh_log.lua:115
+    3. callback - gamemodes/helix/gamemode/core/libs/sh_log.lua:105
+     4. onResult - gamemodes/helix/gamemode/core/libs/thirdparty/sh_cami.lua:443
+      5. callback - gamemodes/helix/gamemode/core/libs/thirdparty/sh_cami.lua:448
+       6. fn - addons/ulib/lua/ulib/shared/cami_ulib.lua:23
+        7. Call - addons/ulib/lua/ulib/shared/hook.lua:109
+         8. PlayerHasAccess - gamemodes/helix/gamemode/core/libs/thirdparty/sh_cami.lua:383
+          9. GetPlayersWithAccess - gamemodes/helix/gamemode/core/libs/thirdparty/sh_cami.lua:447
+           10. Add - gamemodes/helix/gamemode/core/libs/sh_log.lua:104
+            11. SearchPlayer - gamemodes/ixhl2rp/schema/sv_schema.lua:393
+             12. OnRun - gamemodes/ixhl2rp/schema/sh_commands.lua:577
+              13. Run - gamemodes/helix/gamemode/core/libs/sh_command.lua:499
+               14. ParL 11/08/2022 - 19:50:56: Lua Error: 
+[ERROR] Warning! A net message (ixLogStream) is already started! Discarding in favor of the new message! (ixTypeClass)
+  1. func - gamemodes/helix/plugins/typing.lua:232
+   2. unknown - lua/includes/extensions/net.lua:33
+
+
+L 11/08/2022 - 19:51:30: Lua Error: attempted to add entry to non-existent log type "Player [10][Nums]"
+L 11/08/2022 - 19:51:30: Lua Error: 
+[ulib] gamemodes/helix/gamemode/core/libs/sh_log.lua:115: bad argument #1 to 'WriteString' (string expected, got nil)
+  1. WriteString - [C]:-1
+   2. Send - gamemodes/helix/gamemode/core/libs/sh_log.lua:115
+    3. callback - gamemodes/helix/gamemode/core/libs/sh_log.lua:105
+     4. onResult - gamemodes/helix/gamemode/core/libs/thirdparty/sh_cami.lua:443
+      5. callback - gamemodes/helix/gamemode/core/libs/thirdparty/sh_cami.lua:448
+       6. fn - addons/ulib/lua/ulib/shared/cami_ulib.lua:23
+        7. Call - addons/ulib/lua/ulib/shared/hook.lua:109
+         8. PlayerHasAccess - gamemodes/helix/gamemode/core/libs/thirdparty/sh_cami.lua:383
+          9. GetPlayersWithAccess - gamemodes/helix/gamemode/core/libs/thirdparty/sh_cami.lua:447
+           10. Add - gamemodes/helix/gamemode/core/libs/sh_log.lua:104
+            11. SearchPlayer - gamemodes/ixhl2rp/schema/sv_schema.lua:393
+             12. func - gamemodes/ixhl2rp/schema/sv_hooks.lua:2012
+              13. unknown - lua/includes/extensions/net.lua:33
+
+
+L 11/08/2022 - 19:51:30: Lua Error: 
+[pac3_104691717] Warning! A net message (ixLogStream) is already started! Discarding in favor of the new message! (pac_in_editor_posang)
+  1. func - addons/pac3_104691717/lua/pac3/editor/server/init.lua:32
+   2. unknown - lua/includes/extensions/net.lua:33
+
+
+L 11/08/2022 - 19:51:59: [ULX] Leon Taylor<STEAM_0:1:82160962> spawned model models/props/de_tides/menu_stand.mdl
+L 11/08/2022 - 19:52:05: [ULX] Leon Taylor<STEAM_0:1:82160962> spawned model models/props/de_tides/menu_stand.mdl
+L 11/08/2022 - 19:52:16: [ULX] Leon Taylor<STEAM_0:1:82160962> spawned model models/props_interiors/cashregister01.mdl
+L 11/08/2022 - 19:52:25: [ULX] Leon Taylor<STEAM_0:1:82160962> spawned model models/props_interiors/magazine_rack.mdl
+L 11/08/2022 - 19:52:38: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> spawned sent ix_forcefield
+L 11/08/2022 - 19:53:05: [ULX] Leon Taylor<STEAM_0:1:82160962> spawned model models/props_unique/spawn_apartment/coffeeammo.mdl
+L 11/08/2022 - 19:53:15: [ULX] Leon Taylor<STEAM_0:1:82160962> spawned model models/props_interiors/shelvinggrocery01.mdl
+L 11/08/2022 - 19:53:20: [ULX] Leon Taylor<STEAM_0:1:82160962> spawned model models/props_interiors/shelvinggrocery01.mdl
+L 11/08/2022 - 19:53:22: [ULX] Leon Taylor<STEAM_0:1:82160962> spawned model models/props_interiors/shelvinggrocery01.mdl
+L 11/08/2022 - 19:53:25: [ULX] Leon Taylor<STEAM_0:1:82160962> spawned model models/props_interiors/shelvingstore01.mdl
+L 11/08/2022 - 19:53:34: [ULX] Leon Taylor<STEAM_0:1:82160962> spawned model models/props/cs_office/bookshelf1.mdl
+L 11/08/2022 - 19:53:37: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> spawned model models/combinefortifictaionpack/wall01b.mdl
+L 11/08/2022 - 19:53:54: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> spawned model models/combinefortifictaionpack/combinelocker01a.mdl
+L 11/08/2022 - 19:53:58: [ULX] Leon Taylor<STEAM_0:1:82160962> spawned model models/props_junk/garbage256_composite002b.mdl
+L 11/08/2022 - 19:54:08: [ULX] Leon Taylor<STEAM_0:1:82160962> spawned model models/props_junk/garbage128_composite001a.mdl
+L 11/08/2022 - 19:54:15: [ULX] Leon Taylor<STEAM_0:1:82160962> spawned model models/props_junk/garbage128_composite001d.mdl
+L 11/08/2022 - 19:54:25: [ULX] Leon Taylor<STEAM_0:1:82160962> spawned model models/props_junk/garbage128_composite001d.mdl
+L 11/08/2022 - 19:54:43: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> spawned sent ix_forcefield
+L 11/08/2022 - 19:54:45: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> spawned sent ix_forcefield
+L 11/08/2022 - 19:54:46: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> spawned sent ix_forcefield
+L 11/08/2022 - 19:54:54: [ULX] Leon Taylor<STEAM_0:1:82160962> spawned model models/props_c17/bench01a.mdl
+L 11/08/2022 - 19:54:59: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> spawned model models/hunter/blocks/cube05x7x025.mdl
+L 11/08/2022 - 19:55:00: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> spawned model models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:55:02: [ULX] Leon Taylor<STEAM_0:1:82160962> spawned model models/props_c17/briefcase001a.mdl
+L 11/08/2022 - 19:55:04: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> used the tool nocollideeverything on models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:55:12: [ULX] Leon Taylor<STEAM_0:1:82160962> spawned model models/props_lab/harddrive01.mdl
+L 11/08/2022 - 19:55:13: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> spawned sent ix_forcefield
+L 11/08/2022 - 19:55:15: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> spawned sent ix_forcefield
+L 11/08/2022 - 19:55:19: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> spawned sent ix_forcefield
+L 11/08/2022 - 19:55:28: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> spawned sent ix_forcefield
+L 11/08/2022 - 19:55:30: [ULX] Leon Taylor<STEAM_0:1:82160962> spawned model models/props_junk/garbage128_composite001d.mdl
+L 11/08/2022 - 19:55:33: [ULX] Leon Taylor<STEAM_0:1:82160962> used the tool precision on models/props_junk/garbage128_composite001d.mdl
+L 11/08/2022 - 19:55:33: [ULX] Paul-Henri Cartier to admins: HOLY SHIT, ROTATING TABLE
+L 11/08/2022 - 19:55:45: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> used the tool stacker_improved on models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:55:45: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> spawned model models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:55:50: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> used the tool stacker_improved on models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:55:50: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> spawned model models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:55:51: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> used the tool stacker_improved on models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:55:51: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> spawned model models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:55:56: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> spawned sent ix_forcefield
+L 11/08/2022 - 19:55:57: [ULX] Leon Taylor<STEAM_0:1:82160962> spawned model models/props_phx/construct/wood/wood_panel2x4.mdl
+L 11/08/2022 - 19:55:59: [ULX] Leon Taylor<STEAM_0:1:82160962> used the tool precision on models/props_phx/construct/wood/wood_panel2x4.mdl
+L 11/08/2022 - 19:56:09: "Lynch<12><STEAM_0:1:626926779><>" disconnected (reason "Disconnect by user.")
+L 11/08/2022 - 19:56:15: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> spawned model models/hunter/blocks/cube025x4x025.mdl
+L 11/08/2022 - 19:56:23: [ULX] CCA.C17-UNION.i5.83253 to admins: Found the ration center if we're doing one
+L 11/08/2022 - 19:56:24: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> used the tool stacker_improved on models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:56:24: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> spawned model models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:56:27: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> used the tool stacker_improved on models/props_combine/combine_fence01b.mdl
+L 11/08/2022 - 19:56:28: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> used the tool stacker_improved on models/props_combine/combine_fence01b.mdl
+L 11/08/2022 - 19:56:28: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> used the tool stacker_improved on models/props_combine/combine_fence01b.mdl
+L 11/08/2022 - 19:56:29: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> used the tool stacker_improved on models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:56:29: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> spawned model models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:56:29: [ULX] Paul-Henri Cartier teleported to CCA.C17-UNION.i5.83253
+L 11/08/2022 - 19:56:30: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> used the tool stacker_improved on models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:56:30: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> spawned model models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:56:31: [ULX] Leon Taylor<STEAM_0:1:82160962> spawned model models/props_phx/gibs/wooden_wheel1_gib1.mdl
+L 11/08/2022 - 19:56:39: [ULX] Leon Taylor<STEAM_0:1:82160962> spawned model models/props/de_prodigy/wood_pallet_01.mdl
+L 11/08/2022 - 19:56:39: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> used the tool precision on models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:56:39: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> used the tool precision on models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:56:40: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> used the tool precision on models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:56:40: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> used the tool precision on models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:56:40: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> used the tool precision on models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:56:40: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> used the tool precision on models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:56:41: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> used the tool precision on models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:56:41: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> used the tool precision on models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:56:41: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> used the tool precision on models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:56:41: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> used the tool precision on models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:56:41: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> used the tool precision on models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:56:42: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> used the tool precision on models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:56:42: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> used the tool precision on models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:56:42: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> used the tool precision on models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:56:42: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> used the tool precision on models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:56:42: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> used the tool precision on models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:56:42: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> used the tool precision on models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:56:43: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> used the tool precision on models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:56:43: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> used the tool precision on models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:56:43: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> used the tool precision on models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:56:43: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> used the tool precision on models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:56:43: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> used the tool precision on models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:56:43: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> used the tool precision on models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:56:44: [ULX] Leon Taylor<STEAM_0:1:82160962> spawned model models/props_junk/wood_crate001a_damagedmax.mdl
+L 11/08/2022 - 19:56:44: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> used the tool precision on models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:56:44: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> used the tool precision on models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:56:44: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> used the tool precision on models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:56:44: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> used the tool precision on models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:56:45: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> used the tool precision on models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:56:45: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> used the tool precision on models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:56:45: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> used the tool precision on models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:56:45: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> used the tool precision on models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:56:45: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> used the tool precision on models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:56:45: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> used the tool precision on models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:56:46: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> used the tool precision on models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:56:46: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> used the tool precision on models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:56:46: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> used the tool precision on models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:56:46: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> used the tool precision on models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:56:46: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> used the tool precision on models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:56:47: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> used the tool precision on models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:56:47: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> used the tool precision on models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:56:47: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> used the tool precision on models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:56:47: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> used the tool precision on models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:56:47: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> used the tool precision on models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:56:48: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> used the tool precision on models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:56:48: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> used the tool precision on models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:56:48: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> used the tool precision on models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:56:49: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> used the tool precision on models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:56:49: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> used the tool precision on models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:56:50: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> used the tool precision on models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:56:50: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> used the tool precision on models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:56:52: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> used the tool precision on models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:56:58: [ULX] CCA.C17-UNION.i5.83253 to admins: I see what you mean by watered down C17
+L 11/08/2022 - 19:57:01: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> used the tool precision on maps/rp_city45_2013.bsp
+L 11/08/2022 - 19:57:01: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> used the tool precision on models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:57:01: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> used the tool precision on models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:57:01: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> used the tool precision on models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:57:01: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> used the tool precision on models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:57:05: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> used the tool precision on models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:57:05: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> used the tool precision on models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:57:08: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> used the tool precision on models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:57:08: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> used the tool precision on models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:57:08: [ULX] Shamish McFarlen<STEAM_0:1:207594832> used the tool light on maps/rp_city45_2013.bsp
+L 11/08/2022 - 19:57:09: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> used the tool precision on models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:57:09: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> used the tool precision on models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:57:10: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> used the tool precision on models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:57:11: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> used the tool precision on models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:57:17: [ULX] Shamish McFarlen<STEAM_0:1:207594832> used the tool light on maps/rp_city45_2013.bsp
+L 11/08/2022 - 19:57:19: [ULX] Leon Taylor<STEAM_0:1:82160962> spawned model models/props_c17/woodbarrel001.mdl
+L 11/08/2022 - 19:57:19: "DRD<15><STEAM_0:0:193599766><>" disconnected (reason "Disconnect by user.")
+L 11/08/2022 - 19:57:20: [ULX] Shamish McFarlen<STEAM_0:1:207594832> used the tool light on maps/rp_city45_2013.bsp
+L 11/08/2022 - 19:57:21: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> used the tool stacker_improved on models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:57:21: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> spawned model models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:57:23: [ULX] Shamish McFarlen<STEAM_0:1:207594832> used the tool light on maps/rp_city45_2013.bsp
+L 11/08/2022 - 19:57:25: [ULX] CCA.C17-UNION.i5.83253 to admins: then again this is from 2013
+L 11/08/2022 - 19:57:26: [ULX] Shamish McFarlen<STEAM_0:1:207594832> used the tool light on maps/rp_city45_2013.bsp
+L 11/08/2022 - 19:57:30: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> used the tool stacker_improved on models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:57:30: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> spawned model models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:57:31: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> used the tool stacker_improved on models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:57:31: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> spawned model models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:57:31: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> used the tool stacker_improved on models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:57:31: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> spawned model models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:57:32: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> used the tool stacker_improved on models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:57:32: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> spawned model models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:57:33: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> used the tool stacker_improved on models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:57:33: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> spawned model models/hunter/blocks/cube025x6x025.mdl
+L 11/08/2022 - 19:57:38: [ULX] Shamish McFarlen<STEAM_0:1:207594832> used the tool light on maps/rp_city45_2013.bsp
+L 11/08/2022 - 19:57:39: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> spawned sent ix_forcefield
+L 11/08/2022 - 19:57:42: [ULX] Shamish McFarlen<STEAM_0:1:207594832> used the tool light on maps/rp_city45_2013.bsp
+L 11/08/2022 - 19:57:44: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> spawned sent ix_forcefield
+L 11/08/2022 - 19:57:47: [ULX] Leon Taylor<STEAM_0:1:82160962> spawned model models/props_mining/wood_stack.mdl
+L 11/08/2022 - 19:57:50: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> spawned sent ix_forcefield
+L 11/08/2022 - 19:57:52: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> spawned sent ix_forcefield
+L 11/08/2022 - 19:57:55: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> spawned sent ix_forcefield
+L 11/08/2022 - 19:57:57: "wendigo<10><STEAM_0:1:429480781><>" disconnected (reason "Disconnect by user.")
+L 11/08/2022 - 19:57:58: [ULX] Leon Taylor<STEAM_0:1:82160962> spawned model models/props_junk/wood_crate001a_chunk09.mdl
+L 11/08/2022 - 19:58:01: [ULX] OTA.C17-ECHO:ORD.19343<STEAM_0:1:53097688> spawned sent ix_forcefield
+L 11/08/2022 - 19:58:09: [ULX] Leon Taylor<STEAM_0:1:82160962> spawned model models/props_junk/wood_crate001a_chunk01.mdl
+L 11/08/2022 - 19:58:11: Lua Error: 
+[stealthdooropen] gamemodes/helix/gamemode/core/meta/sh_entity.lua:33: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. IsDoor - gamemodes/helix/gamemode/core/meta/sh_entity.lua:33
+    3. fn - addons/stealthdooropen/lua/autorun/server/sv_stealthopendoor.lua:49
+     4. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+      5. Play - [C]:-1
+       6. unknown - gamemodes/ixhl2rp/entities/entities/ix_forcefield.lua:104
+
+
+L 11/08/2022 - 19:58:32: [ULX] Leon Taylor<STEAM_0:1:82160962> spawned model models/props_c17/bench01a.mdl
+L 11/08/2022 - 19:58:55: [ULX] Andrew Cloverman<STEAM_0:1:53097688> spawned sent ix_vendor
+L 11/08/2022 - 20:00:56: [ULX] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_warehouse/table_01.mdl
+L 11/08/2022 - 20:02:38: [ULX] Shamish McFarlen<STEAM_0:1:207594832> spawned model models/hunter/tubes/tube4x4x3c.mdl
+L 11/08/2022 - 20:02:44: [ULX] Shamish McFarlen<STEAM_0:1:207594832> spawned model models/hunter/tubes/tube2x2x2c.mdl
+L 11/08/2022 - 20:03:23: [ULX] Shamish McFarlen<STEAM_0:1:207594832> spawned model models/hunter/tubes/circle2x2c.mdl
+L 11/08/2022 - 20:03:41: [ULX] Shamish McFarlen<STEAM_0:1:207594832> spawned model models/hunter/tubes/circle2x2d.mdl
+L 11/08/2022 - 20:04:04: [ULX] Shamish McFarlen<STEAM_0:1:207594832> spawned model models/hunter/tubes/tubebend1x2x90.mdl
+L 11/08/2022 - 20:04:07: [ULX] Shamish McFarlen<STEAM_0:1:207594832> spawned model models/hunter/tubes/tubebend2x2x90outer.mdl
+L 11/08/2022 - 20:04:12: [ULX] Shamish McFarlen<STEAM_0:1:207594832> spawned model models/hunter/tubes/tubebendoutsidesquare.mdl
+L 11/08/2022 - 20:04:33: "Otizem<17><STEAM_0:0:52002800><>" disconnected (reason "Disconnect by user.")
+L 11/08/2022 - 20:05:01: "Lildirtyharry04<20><STEAM_0:0:247487472><>" connected, address "152.37.143.67:27005"
+L 11/08/2022 - 20:05:01: "Lildirtyharry04<20><STEAM_0:0:247487472><>" STEAM USERID validated
+L 11/08/2022 - 20:05:10: [ULX] Shamish McFarlen<STEAM_0:1:207594832> spawned model models/hunter/tubes/tubebendoutsidesquare.mdl
+L 11/08/2022 - 20:05:16: [ULX] Leon Taylor<STEAM_0:1:82160962> spawned model models/props_junk/bicycle01a.mdl
+L 11/08/2022 - 20:05:33: [ULX] Leon Taylor<STEAM_0:1:82160962> spawned model models/props_junk/wood_crate002a.mdl
+L 11/08/2022 - 20:05:39: [ULX] Leon Taylor<STEAM_0:1:82160962> spawned model models/props_junk/wood_crate001a_damagedmax.mdl
+L 11/08/2022 - 20:05:45: [ULX] Leon Taylor<STEAM_0:1:82160962> used the tool precision on models/props_junk/wood_crate001a_damagedmax.mdl
+L 11/08/2022 - 20:05:48: [ULX] Leon Taylor<STEAM_0:1:82160962> used the tool precision on models/props_junk/wood_crate002a.mdl
+L 11/08/2022 - 20:05:55: [ULX] Leon Taylor<STEAM_0:1:82160962> spawned model models/props_junk/wood_crate002a.mdl
+L 11/08/2022 - 20:06:36: "Lildirtyharry04<20><STEAM_0:0:247487472><>" entered the game
+L 11/08/2022 - 20:06:36: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/08/2022 - 20:06:51: [ULX] Shamish McFarlen<STEAM_0:1:207594832> used the tool nocollideeverything on models/hunter/tubes/tubebendoutsidesquare.mdl
+L 11/08/2022 - 20:07:25: [ULX] Eric Etringeux<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_combine/combine_interface001.mdl
+L 11/08/2022 - 20:07:26: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/schema/sv_hooks.lua:587: attempt to call method 'SetVortessence' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/schema/sv_hooks.lua:587
+   2. Run - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:354
+    3. func - gamemodes/helix/gamemode/core/libs/sh_character.lua:923
+     4. unknown - lua/includes/extensions/net.lua:33
+
+
+L 11/08/2022 - 20:07:34: [ULX] Eric Etringeux<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_combine/combine_interface001.mdl
+L 11/08/2022 - 20:07:48: [ULX] Shamish McFarlen<STEAM_0:1:207594832> used the tool material on models/hunter/tubes/tube2x2x2c.mdl
+L 11/08/2022 - 20:07:51: [ULX] Shamish McFarlen<STEAM_0:1:207594832> used the tool material on models/hunter/tubes/tube2x2x2c.mdl
+L 11/08/2022 - 20:07:51: [ULX] Shamish McFarlen<STEAM_0:1:207594832> used the tool material on models/hunter/tubes/circle2x2c.mdl
+L 11/08/2022 - 20:07:53: [ULX] Shamish McFarlen<STEAM_0:1:207594832> used the tool material on models/hunter/tubes/tubebendoutsidesquare.mdl
+L 11/08/2022 - 20:07:53: [ULX] Shamish McFarlen<STEAM_0:1:207594832> used the tool material on models/hunter/tubes/tubebendoutsidesquare.mdl
+L 11/08/2022 - 20:08:22: Lua Error: attempted to add entry to non-existent log type "Player [5][Bean]"
+L 11/08/2022 - 20:08:22: Lua Error: 
+[ulib] gamemodes/helix/gamemode/core/libs/sh_log.lua:115: bad argument #1 to 'WriteString' (string expected, got nil)
+  1. WriteString - [C]:-1
+   2. Send - gamemodes/helix/gamemode/core/libs/sh_log.lua:115
+    3. callback - gamemodes/helix/gamemode/core/libs/sh_log.lua:105
+     4. onResult - gamemodes/helix/gamemode/core/libs/thirdparty/sh_cami.lua:443
+      5. callback - gamemodes/helix/gamemode/core/libs/thirdparty/sh_cami.lua:448
+       6. fn - addons/ulib/lua/ulib/shared/cami_ulib.lua:23
+        7. Call - addons/ulib/lua/ulib/shared/hook.lua:109
+         8. PlayerHasAccess - gamemodes/helix/gamemode/core/libs/thirdparty/sh_cami.lua:383
+          9. GetPlayersWithAccess - gamemodes/helix/gamemode/core/libs/thirdparty/sh_cami.lua:447
+           10. Add - gamemodes/helix/gamemode/core/libs/sh_log.lua:104
+            11. SearchPlayer - gamemodes/ixhl2rp/schema/sv_schema.lua:393
+             12. OnRun - gamemodes/ixhl2rp/schema/sh_commands.lua:562
+              13. Run - gamemodes/helix/gamemode/core/libs/sh_command.lua:499
+               14. ParL 11/08/2022 - 20:08:22: Lua Error: 
+[ERROR] Warning! A net message (ixLogStream) is already started! Discarding in favor of the new message! (ixTypeClass)
+  1. func - gamemodes/helix/plugins/typing.lua:232
+   2. unknown - lua/includes/extensions/net.lua:33
+
+
+L 11/08/2022 - 20:10:56: Lua Error: attempted to add entry to non-existent log type "Player [5][Bean]"
+L 11/08/2022 - 20:10:56: Lua Error: 
+[ulib] gamemodes/helix/gamemode/core/libs/sh_log.lua:115: bad argument #1 to 'WriteString' (string expected, got nil)
+  1. WriteString - [C]:-1
+   2. Send - gamemodes/helix/gamemode/core/libs/sh_log.lua:115
+    3. callback - gamemodes/helix/gamemode/core/libs/sh_log.lua:105
+     4. onResult - gamemodes/helix/gamemode/core/libs/thirdparty/sh_cami.lua:443
+      5. callback - gamemodes/helix/gamemode/core/libs/thirdparty/sh_cami.lua:448
+       6. fn - addons/ulib/lua/ulib/shared/cami_ulib.lua:23
+        7. Call - addons/ulib/lua/ulib/shared/hook.lua:109
+         8. PlayerHasAccess - gamemodes/helix/gamemode/core/libs/thirdparty/sh_cami.lua:383
+          9. GetPlayersWithAccess - gamemodes/helix/gamemode/core/libs/thirdparty/sh_cami.lua:447
+           10. Add - gamemodes/helix/gamemode/core/libs/sh_log.lua:104
+            11. SearchPlayer - gamemodes/ixhl2rp/schema/sv_schema.lua:393
+             12. func - gamemodes/ixhl2rp/schema/sv_hooks.lua:2012
+              13. unknown - lua/includes/extensions/net.lua:33
+
+
+L 11/08/2022 - 20:10:56: Lua Error: 
+[ulib] Warning! A net message (ixLogStream) is already started! Discarding in favor of the new message! (ixLogStream)
+  1. Send - gamemodes/helix/gamemode/core/libs/sh_log.lua:114
+   2. callback - gamemodes/helix/gamemode/core/libs/sh_log.lua:105
+    3. onResult - gamemodes/helix/gamemode/core/libs/thirdparty/sh_cami.lua:443
+     4. callback - gamemodes/helix/gamemode/core/libs/thirdparty/sh_cami.lua:448
+      5. fn - addons/ulib/lua/ulib/shared/cami_ulib.lua:23
+       6. Call - addons/ulib/lua/ulib/shared/hook.lua:109
+        7. PlayerHasAccess - gamemodes/helix/gamemode/core/libs/thirdparty/sh_cami.lua:383
+         8. GetPlayersWithAccess - gamemodes/helix/gamemode/core/libs/thirdparty/sh_cami.lua:447
+          9. Add - gamemodes/helix/gamemode/core/libs/sh_log.lua:104
+           10. v - gamemodes/helix/plugins/logging.lua:188
+            11. Run - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+             12. PerformInventoryAction - gamemodes/helix/gamemode/core/libs/sh_item.lua:660
+              13. func - gamemodes/helix/gamemode/corL 11/08/2022 - 20:10:57: "Otizem<21><STEAM_0:0:52002800><>" connected, address "87.59.109.244:27005"
+L 11/08/2022 - 20:10:57: "Otizem<21><STEAM_0:0:52002800><>" STEAM USERID validated
+L 11/08/2022 - 20:12:43: [ULX] Leon Taylor<STEAM_0:1:82160962> spawned model models/props_trainstation/trashcan_indoor001b.mdl
+L 11/08/2022 - 20:13:05: "Otizem<21><STEAM_0:0:52002800><>" entered the game
+L 11/08/2022 - 20:13:05: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/08/2022 - 20:13:49: [ULX] Daniel J. Cutter set the armor for Themself to 100
+L 11/08/2022 - 20:15:18: "wendigo<22><STEAM_0:1:429480781><>" connected, address "107.128.116.69:27005"
+L 11/08/2022 - 20:15:19: "wendigo<22><STEAM_0:1:429480781><>" STEAM USERID validated
+L 11/08/2022 - 20:17:05: "wendigo<22><STEAM_0:1:429480781><>" entered the game
+L 11/08/2022 - 20:17:05: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/08/2022 - 20:17:52: [ULX] Eric Etringeux to admins: why are you in a secret base
+L 11/08/2022 - 20:18:01: [ULX] Eric Etringeux to admins: wait
+L 11/08/2022 - 20:18:02: [ULX] Eric Etringeux to admins: i'm dumb
+L 11/08/2022 - 20:18:04: [ULX] Daniel J. Cutter to admins: Yeah
+L 11/08/2022 - 20:18:17: [ULX] Daniel J. Cutter to admins: sewer entry
+L 11/08/2022 - 20:18:36: [ULX] Daniel J. Cutter brought Ava Carter
+L 11/08/2022 - 20:18:43: [ULX] Leon Taylor<STEAM_0:1:82160962> spawned model models/props_trainstation/traincar_rack001.mdl
+L 11/08/2022 - 20:18:50: [ULX] Leon Taylor<STEAM_0:1:82160962> used the tool material on models/props_trainstation/traincar_rack001.mdl
+L 11/08/2022 - 20:19:16: [ULX] Leon Taylor<STEAM_0:1:82160962> spawned model models/props_debris/wood_board07a.mdl
+L 11/08/2022 - 20:19:19: [ULX] Leon Taylor<STEAM_0:1:82160962> spawned model models/props_debris/wood_board03a.mdl
+L 11/08/2022 - 20:19:31: [ULX] Leon Taylor<STEAM_0:1:82160962> spawned model models/props_debris/wood_board03a.mdl
+L 11/08/2022 - 20:19:42: [ULX] Leon Taylor<STEAM_0:1:82160962> spawned model models/props_debris/wood_board03a.mdl
+L 11/08/2022 - 20:20:04: "Harmanecha<23><STEAM_0:1:12340044><>" connected, address "67.242.168.141:27005"
+L 11/08/2022 - 20:20:04: "Harmanecha<23><STEAM_0:1:12340044><>" STEAM USERID validated
+L 11/08/2022 - 20:21:02: "Global Defence Initiative<24><STEAM_0:0:49504081><>" connected, address "174.114.216.104:27005"
+L 11/08/2022 - 20:21:03: "Global Defence Initiative<24><STEAM_0:0:49504081><>" STEAM USERID validated
+L 11/08/2022 - 20:21:16: [ULX] Daniel J. Cutter to admins: Mmm...Close ration center...Flashbang I have
+L 11/08/2022 - 20:21:23: [ULX] Daniel J. Cutter to admins: Flashbang ration centre I must
+L 11/08/2022 - 20:22:09: [ULX] Leon Taylor<STEAM_0:1:82160962> spawned model models/xqm/hoverboard.mdl
+L 11/08/2022 - 20:22:16: "Mal0 v0.9<19><STEAM_0:1:207594832><>" disconnected (reason "Disconnect by user.")
+L 11/08/2022 - 20:22:19: "Mal0 v0.9<25><STEAM_0:1:207594832><>" connected, address "24.178.166.67:27005"
+L 11/08/2022 - 20:22:20: "Mal0 v0.9<25><STEAM_0:1:207594832><>" STEAM USERID validated
+L 11/08/2022 - 20:23:26: "Mal0 v0.9<25><STEAM_0:1:207594832><>" entered the game
+L 11/08/2022 - 20:23:26: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/08/2022 - 20:23:29: Lua Error: [Helix] Attempt to index unknown item 'reclaimed_metal'
+
+L 11/08/2022 - 20:23:29: "Global Defence Initiative<24><STEAM_0:0:49504081><>" entered the game
+L 11/08/2022 - 20:23:29: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/08/2022 - 20:24:14: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/08/2022 - 20:24:14: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/08/2022 - 20:24:14: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/08/2022 - 20:24:14: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/08/2022 - 20:24:14: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/08/2022 - 20:24:14: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/08/2022 - 20:24:14: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/08/2022 - 20:24:14: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/08/2022 - 20:24:14: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/08/2022 - 20:24:14: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/08/2022 - 20:24:14: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/08/2022 - 20:24:14: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/08/2022 - 20:24:14: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/08/2022 - 20:24:14: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/08/2022 - 20:24:14: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/08/2022 - 20:24:14: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/08/2022 - 20:24:14: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/08/2022 - 20:24:14: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/08/2022 - 20:24:14: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/08/2022 - 20:24:15: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/08/2022 - 20:24:15: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/08/2022 - 20:24:15: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/08/2022 - 20:24:15: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/08/2022 - 20:25:25: [ULX] Daniel J. Cutter to admins: Man legit didn't react to my flashing of the RDC
+L 11/08/2022 - 20:25:33: [ULX] CCA.C17-GRID.i3.10945 to admins: why are you
+L 11/08/2022 - 20:25:50: [ULX] Daniel J. Cutter to admins: Since its close, wanted to scare the CPs into knowing we're here
+L 11/08/2022 - 20:26:02: [ULX] CCA.C17-GRID.i3.10945 to admins: where did you throw the flashbang
+L 11/08/2022 - 20:26:06: "Lildirtyharry04<20><STEAM_0:0:247487472><>" disconnected (reason "Disconnect by user.")
+L 11/08/2022 - 20:26:06: [ULX] Leon Taylor<STEAM_0:1:82160962> spawned model models/props_forest/table_shed.mdl
+L 11/08/2022 - 20:26:12: [ULX] Leon Taylor<STEAM_0:1:82160962> spawned model models/props/cs_militia/table_shed.mdl
+L 11/08/2022 - 20:26:14: [ULX] Leon Taylor<STEAM_0:1:82160962> spawned model models/props/cs_militia/table_kitchen.mdl
+L 11/08/2022 - 20:26:18: [ULX] Daniel J. Cutter to admins: Right into the main room of the RDC
+L 11/08/2022 - 20:26:23: [ULX] Daniel J. Cutter to admins: I opened the door, threw it and ran
+L 11/08/2022 - 20:26:35: [ULX] CCA.C17-GRID.i3.10945 to admins: i'll react for her
+L 11/08/2022 - 20:26:40: [ULX] Leon Taylor<STEAM_0:1:82160962> spawned model models/testmodels/coffee_table_long.mdl
+L 11/08/2022 - 20:26:45: [ULX] Leon Taylor<STEAM_0:1:82160962> spawned model models/props/cs_office/table_coffee_p1.mdl
+L 11/08/2022 - 20:26:59: [ULX] Leon Taylor<STEAM_0:1:82160962> spawned model models/props/cs_office/table_coffee_p2.mdl
+L 11/08/2022 - 20:27:21: "Mal0 v0.9<25><STEAM_0:1:207594832><>" disconnected (reason "Disconnect by user.")
+L 11/08/2022 - 20:27:31: [ULX] Leon Taylor<STEAM_0:1:82160962> spawned model models/props_vtmb/turntable.mdl
+L 11/08/2022 - 20:27:36: [ULX] Leon Taylor<STEAM_0:1:82160962> spawned model models/props/de_inferno/tablecoffee_damage_a01.mdl
+L 11/08/2022 - 20:27:37: [ULX] CCA.C17-GRID.i3.10945 transported Lin'Garung to Jacob Desmone
+L 11/08/2022 - 20:27:50: [ULX] Leon Taylor<STEAM_0:1:82160962> spawned model models/props/de_inferno/tablecoffee_damage_a02.mdl
+L 11/08/2022 - 20:29:56: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/schema/sv_hooks.lua:587: attempt to call method 'SetVortessence' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/schema/sv_hooks.lua:587
+   2. Run - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:354
+    3. func - gamemodes/helix/gamemode/core/libs/sh_character.lua:923
+     4. unknown - lua/includes/extensions/net.lua:33
+
+
+L 11/08/2022 - 20:30:54: [ULX] Leon Taylor<STEAM_0:1:82160962> used the tool remover on models/props_trainstation/trashcan_indoor001b.mdl
+L 11/08/2022 - 20:32:26: [ULX] CCA.C17-GRID.i3.10945 to admins: can you please clal all citizens to the traisntation? city 17 is in working order
+L 11/08/2022 - 20:32:36: [ULX] Leon Taylor<STEAM_0:1:82160962> spawned model models/props_wasteland/cafeteria_table001a_chunk08.mdl
+L 11/08/2022 - 20:32:38: [ULX] Leon Taylor<STEAM_0:1:82160962> spawned model models/props_wasteland/cafeteria_table001a_chunk04.mdl
+L 11/08/2022 - 20:32:46: [ULX] Leon Taylor<STEAM_0:1:82160962> spawned model models/props_wasteland/cafeteria_table001a_chunk06.mdl
+L 11/08/2022 - 20:32:53: [ULX] Leon Taylor<STEAM_0:1:82160962> spawned model models/gibs/furniture_gibs/furnituretable001a_chunk01.mdl
+L 11/08/2022 - 20:33:08: [ULX] CCA.C17-GRID.i3.10945 to admins: can you please clal all citizens to the traisntation? city 17 is in working order
+L 11/08/2022 - 20:33:09: [ULX] Leon Taylor<STEAM_0:1:82160962> spawned model models/pg_props/pg_hospital/pg_optable.mdl
+L 11/08/2022 - 20:33:14: [ULX] Leon Taylor<STEAM_0:1:82160962> spawned model models/props_wasteland/cafeteria_table001a_chunk01.mdl
+L 11/08/2022 - 20:33:15: [ULX] Alex Palovichov to admins: C17!!
+L 11/08/2022 - 20:33:22: [ULX] Alex Palovichov to admins: YES
+L 11/08/2022 - 20:34:25: [ULX] Alex Palovichov to admins: Want me to hop on combine for this?
+L 11/08/2022 - 20:34:30: [ULX] CCA.C17-GRID.i3.10945 to admins: do vvhatever
+L 11/08/2022 - 20:34:38: [ULX] Alex Palovichov to admins: gwunt :)
+L 11/08/2022 - 20:34:48: Lua Error: attempted to add entry to non-existent log type "Player [8][matt saton]"
+L 11/08/2022 - 20:34:48: Lua Error: 
+[ulib] gamemodes/helix/gamemode/core/libs/sh_log.lua:115: bad argument #1 to 'WriteString' (string expected, got nil)
+  1. WriteString - [C]:-1
+   2. Send - gamemodes/helix/gamemode/core/libs/sh_log.lua:115
+    3. callback - gamemodes/helix/gamemode/core/libs/sh_log.lua:105
+     4. onResult - gamemodes/helix/gamemode/core/libs/thirdparty/sh_cami.lua:443
+      5. callback - gamemodes/helix/gamemode/core/libs/thirdparty/sh_cami.lua:448
+       6. fn - addons/ulib/lua/ulib/shared/cami_ulib.lua:23
+        7. Call - addons/ulib/lua/ulib/shared/hook.lua:109
+         8. PlayerHasAccess - gamemodes/helix/gamemode/core/libs/thirdparty/sh_cami.lua:383
+          9. GetPlayersWithAccess - gamemodes/helix/gamemode/core/libs/thirdparty/sh_cami.lua:447
+           10. Add - gamemodes/helix/gamemode/core/libs/sh_log.lua:104
+            11. SearchPlayer - gamemodes/ixhl2rp/schema/sv_schema.lua:393
+             12. OnRun - gamemodes/ixhl2rp/schema/sh_commands.lua:577
+              13. Run - gamemodes/helix/gamemode/core/libs/sh_command.lua:499
+               14. ParL 11/08/2022 - 20:34:48: Lua Error: 
+[ERROR] Warning! A net message (ixLogStream) is already started! Discarding in favor of the new message! (ixTypeClass)
+  1. func - gamemodes/helix/plugins/typing.lua:232
+   2. unknown - lua/includes/extensions/net.lua:33
+
+
+L 11/08/2022 - 20:36:44: [ULX] CCA.C17-GRID.i3.10945 changed the map to rp_industrial17_v1
+L 11/08/2022 - 20:36:44: Log file closed.

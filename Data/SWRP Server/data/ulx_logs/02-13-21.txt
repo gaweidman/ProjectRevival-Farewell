@@ -1,0 +1,444 @@
+<Logging continued from "data/ulx_logs/02-12-21.txt">
+[00:00:04] Sergeant PT-9823: // crungle
+[00:00:09] TNK Private Humphry Stanton: // ew
+[00:01:27] Threva: /toggleraise
+[00:01:33] TNK Private Humphry Stanton: /toggleraise
+[00:01:36] TNK Private Humphry Stanton: /toggleraise
+[00:01:37] TNK Private Humphry Stanton: /toggleraise
+[00:01:38] TNK Private Humphry Stanton: /toggleraise
+[00:01:41] TNK Private Humphry Stanton: /toggleraise
+[00:01:48] TNK Private Humphry Stanton: /toggleraise
+[00:02:32] R2-Z7: // : (
+[00:02:47] TNK Private Humphry Stanton: // ew
+[00:02:48] TNK Private Humphry Stanton: /y Army!!!
+[00:02:51] Sergeant RT-9824: /y Stand at attention Recruit!
+[00:03:00] TNK Private Humphry Stanton: /y Army!!!
+[00:03:05] Recruit TK-1248: /me salutes
+[00:03:23] TNK Private Humphry Stanton: /y Army!!!
+[00:03:30] Recruit TK-1248: /me stands at attention and her chin is up, as well paying respect to said officer
+[00:03:32] TNK Private Humphry Stanton: /charfallover 0
+[00:03:36] R4-K5: /y ARMY!!!
+[00:04:05] Sergeant RT-9824: /y Alright, congratulations you've entered the Storm trooper corps, as of now you are nothing but a soldier and a extention of the Emperors will!
+[00:04:33] Sergeant RT-9824: /y I will be training you on the basics of being a soldier!
+[00:05:14] Sergeant RT-9824: Soldier
+[00:05:17] TNK Private Humphry Stanton<STEAM_0:1:127409364> spawned ragdoll models/player/ven/tk_501_02/tk_501.mdl
+[00:05:23] TNK Private Humphry Stanton<STEAM_0:1:127409364> spawned ragdoll models/player/ven/tk_501_01/tk_501.mdl
+[00:05:31] Sergeant RT-9824: /y Alrighty! show me a right face!
+[00:05:34] TNK Private Humphry Stanton<STEAM_0:1:127409364> spawned ragdoll models/player/ven/tk_basic_01/tk_basic.mdl
+[00:05:38] Sergeant RT-9824: h
+[00:05:45] Sergeant RT-9824: /y Left face!
+[00:05:51] Sergeant RT-9824: /y About face!
+[00:06:03] Petty Officer Third Class Karissa Novar: // models/player/ven/tk_501_02/tk_501.mdl
+[00:06:10] Sergeant RT-9824: /y Front face!
+[00:06:21] Sergeant RT-9824: Alright, good.
+[00:06:28] Sergeant RT-9824: We'll be doing formations now.
+[00:06:33] TNK Private Humphry Stanton: /charsetmodel recruit models/player/ven/tk_501_02/tk_501.mdl
+[00:06:44] Sergeant RT-9824: /y Firing line!
+[00:06:59] Sergeant RT-9824: /y Advanced firing line!
+[00:07:08] Sergeant RT-9824: /y Single collumn!
+[00:07:16] Sergeant RT-9824: /y Double collumn!
+[00:07:50] Sergeant RT-9824: /y Wedge!
+[00:08:02] Sergeant RT-9824: /y Then loose!
+[00:08:22] Sergeant RT-9824: /y Alright, in front of me!
+[00:08:35] Sergeant RT-9824: Okay, do you know all your regiments?
+[00:08:49] Recruit TK-1248: Yes sir, I've seen loads of them in the recruitment posts and papers
+[00:09:56] Petty Officer Third Class Karissa Novar: can I-
+[00:10:08] Petty Officer Third Class Karissa Novar: /Y HEY!
+[00:10:09] TNK Private Humphry Stanton: /charfallover 0
+[00:10:12] TNK Private Humphry Stanton: /charfallover 0
+[00:10:30] TNK Private Humphry Stanton: /toggleraise
+[00:10:30] Petty Officer Third Class Karissa Novar: Can you not read?
+[00:10:32] TNK Private Humphry Stanton: /toggleraise
+[00:10:35] TNK Private Humphry Stanton: No
+[00:11:21] Petty Officer Third Class Karissa Novar: can I help you?
+[00:11:26] TNK Private Humphry Stanton: I don't know
+[00:11:53] TNK Private Humphry Stanton: /charsetbodygroup humph helmet 0
+[00:12:04] TNK Private Humphry Stanton: /charsetbodygroup humph hat 0
+[00:12:08] TNK Private Humphry Stanton: /charsetbodygroup humph headgear 0
+[00:12:12] TNK Private Humphry Stanton: /charsetbodygroup humph mask 0
+[00:12:27] TNK Private Humphry Stanton<STEAM_0:1:127409364> spawned ragdoll models/kriegsyntax/imperial/stormtroopers/tanktroopers/playermodel_male_01.mdl
+[00:12:46] Petty Officer Third Class Karissa Novar: /c I got a notification of someone new transferring on, since they don't have a medical record yet. Can you have them come to the sickbay as soon as possible?
+[00:12:46] TNK Private Humphry Stanton: /charsetbodygroup humph "Helmet - hat" 4
+[00:12:51] TNK Private Humphry Stanton<STEAM_0:1:127409364> spawned ragdoll models/kriegsyntax/imperial/stormtroopers/tanktroopers/officers/playermodel_male_01.mdl
+[00:13:04] TNK Private Humphry Stanton: /charsetbodygroup humph "Helmet - Hat" 4
+[00:13:06] Sergeant RT-9824: /c Copy, he'll be on his way in a moment.
+[00:13:08] TNK Private Humphry Stanton: /charsetbodygroup humph "Helmet" 4
+[00:13:12] Sergeant RT-9824: /c Just getting him his equipment.
+[00:13:17] Recruit TK-1248: /radio Testing comms.
+[00:13:22] TNK Private Humphry Stanton: /charsetbodygroup humphrt "Helmet" 4
+[00:13:27] TNK Private Humphry Stanton: /charsetbodygroup humphry "Helmet" 4
+[00:13:31] TNK Private Humphry Stanton: /charsetbodygroup humphry "Helmet - hat" 4
+[00:13:33] TNK Private Humphry Stanton: /charsetbodygroup humphry "Helmet-hat" 4
+[00:13:46] TNK Private Humphry Stanton<STEAM_0:1:127409364> spawned NPC npc_vjks_ttrooperf
+[00:13:52] Sergeant RT-9824: Alright, come with me.
+[00:15:46] Sergeant RT-9824: Alright, she's all yours Medical Officer.
+[00:15:51] Petty Officer Third Class Karissa Novar: alright
+[00:15:59] Petty Officer Third Class Karissa Novar: follow me
+[00:16:25] Petty Officer Third Class Karissa Novar: sit down, and I'll be right back
+[00:16:34] Petty Officer Third Class Karissa Novar: /me closes over the curtains
+[00:17:10] Petty Officer Third Class Karissa Novar: /me opens up the cabinet, taking out a butterfly needle and some tubes
+[00:17:38] Recruit TK-1248: /me take the plushie from the officer a bit confused
+[00:17:40] Petty Officer Third Class Karissa Novar: take the armour off of your right arm
+[00:18:05] Recruit TK-1248: /me holsters the plushie in the utility belt before taking off a armor plate from her right arm
+[00:18:11] Sergeant RT-9824: hey!
+[00:18:23] TNK Private Humphry Stanton: /looc dat was a missclick nerd
+[00:18:24] Sergeant RT-9824: Push me again and a Fleet Trooper will be in here immediately.
+[00:18:30] Petty Officer Third Class Karissa Novar: can I help you?
+[00:18:33] Recruit TK-1248: /me looks at the Tank Trooper inspecting his armor
+[00:18:40] Petty Officer Third Class Karissa Novar: wait
+[00:18:40] Petty Officer Third Class Karissa Novar: you
+[00:18:53] Petty Officer Third Class Karissa Novar: you're the one who went in the morgue, sat in a bed, then said they couldn't read
+[00:19:02] TNK Private Humphry Stanton: /looc cause you told me to ooc
+[00:19:04] Sergeant RT-9824: /me Chuckles
+[00:19:06] Sergeant RT-9824: What in the fuck
+[00:19:10] TNK Private Humphry Stanton: /looc so i'm voiding it
+[00:19:10] Petty Officer Third Class Karissa Novar: .// FAIR ENOUGH
+[00:19:21] Petty Officer Third Class Karissa Novar: .// I DIDNT SAY DONT SAY YOU CANT READ
+[00:19:30] Petty Officer Third Class Karissa Novar: .// caps
+[00:19:39] TNK Private Humphry Stanton: /looc I'M SAYING VOID IT OR ELSE
+[00:19:42] Petty Officer Third Class Karissa Novar: if you're not injured, go away
+[00:19:45] TNK Private Humphry Stanton: /LOOC I WILL EAT YOU
+[00:19:48] Petty Officer Third Class Karissa Novar: // VORE
+[00:20:09] Recruit TK-1248: /me looks down waiting patiently
+[00:20:20] Recruit TK-1248: /me spots the officer walk by, giving her right arm
+[00:20:32] Petty Officer Third Class Karissa Novar: /me puts the butterfly needle into the troopers arm, we don't have the budget for the rubber bands
+[00:20:35] Petty Officer Third Class Karissa Novar: /rollstat medical
+[00:20:42] Petty Officer Third Class Karissa Novar: /rollstat medical
+[00:20:43] Petty Officer Third Class Karissa Novar: /rollstat medical
+[00:21:53] TNK Private Humphry Stanton: /it You miss the vein just barely
+[00:22:00] Petty Officer Third Class Karissa Novar: fuck a duck
+[00:22:03] Recruit TK-1248: soo, what we doing extacly?
+[00:22:10] Petty Officer Third Class Karissa Novar: /me takes the needle out, retrying
+[00:22:19] Petty Officer Third Class Karissa Novar: I'm taking your blood
+[00:22:22] Petty Officer Third Class Karissa Novar: /rollstat medical
+[00:22:22] Recruit TK-1248: /looc extacly -> exactly
+[00:22:29] TNK Private Humphry Stanton: /it Congrats
+[00:22:33] Recruit TK-1248: aa-right
+[00:22:42] Petty Officer Third Class Karissa Novar: there we go
+[00:22:51] TNK Private Humphry Stanton: /charsetname recruit Private TK-1248
+[00:23:16] Private TK-1248: /looc s
+[00:23:17] Petty Officer Third Class Karissa Novar: /me pulls the needle out from the troopers arm
+[00:23:33] Sergeant RT-9824: .// gruaegneruoignar
+[00:23:42] Private TK-1248: /pm TNK Private TK-1248 "Jenny"
+[00:23:53] Private TK-1248: /pm TNK 'Jenny'
+[00:24:05] TNK Private Humphry Stanton: /charsetname sergeant Sergeant RT-9824 "Warkbull"
+[00:24:22] TNK Private Humphry Stanton: /charsetname sergeant Sergeant RT-9824 ''Warkbull''
+[00:24:39] TNK Private Humphry Stanton: /charsetname sergeant Sergeant RT-9824 ''Wark'
+[00:24:45] TNK Private Humphry Stanton: /charsetname sergeant Sergeant RT-9824 ''Wark''
+[00:24:45] Petty Officer Third Class Karissa Novar: alright, that's honestly all I needed
+[00:24:52] Private TK-1248: mhm
+[00:24:57] TNK Private Humphry Stanton: /charsetname sergeant Sergeant RT-9824 ''Warkwark''
+[00:25:02] Petty Officer Third Class Karissa Novar: the medical officer where you signed up was an idiot, though.
+[00:25:03] Sergeant RT-9824 ''Warkwark'': .// BULLWARK
+[00:25:04] Private TK-1248: /me puts her armor plate back on
+[00:25:08] TNK Private Humphry Stanton: /charsetname sergeant Sergeant RT-9824 ''GALUNGA''
+[00:25:10] Petty Officer Third Class Karissa Novar: you're good to go
+[00:25:16] Private TK-1248: Thank you
+[00:25:17] TNK Private Humphry Stanton: /charsetname sergeant Sergeant RT-9824 ''Bulwark''
+[00:25:18] Sergeant RT-9824 ''Bulwark'': .// Bulwark
+[00:25:33] Private TK-1248: what's next, sir?
+[00:25:49] Sergeant RT-9824 ''Bulwark'': Other than just telling you congrats, not much else.
+[00:25:53] Sergeant RT-9824 ''Bulwark'': Also don't call me "sir"
+[00:26:04] Sergeant RT-9824 ''Bulwark'': I'm a Soldier like everyone else.
+[00:26:14] Petty Officer Third Class Karissa Novar: i need that doll back
+[00:26:16] Petty Officer Third Class Karissa Novar: budget cuts
+[00:26:16] Sergeant RT-9824 ''Bulwark'': Ranks are pointless when we're all getting shot at by 100 rebels.
+[00:26:25] Private TK-1248: I am keeping it
+[00:26:30] Petty Officer Third Class Karissa Novar: you are not
+[00:26:43] Private TK-1248: yes I am
+[00:26:57] Petty Officer Third Class Karissa Novar: I'm an NCO, you're in my medbay
+[00:27:12] Private TK-1248: rock paper scissors or no deal
+[00:27:20] Private TK-1248: /looc no doll*
+[00:27:32] Petty Officer Third Class Karissa Novar: /roll
+[00:27:33] Private TK-1248: /roll stm 
+[00:27:36] Petty Officer Third Class Karissa Novar: fuck
+[00:27:40] Private TK-1248: /me chuckles
+[00:28:10] TNK Private Humphry Stanton: You wanna spar?
+[00:28:14] Private TK-1248: /me stand, checking her equipment one more time
+[00:28:25] Petty Officer Third Class Karissa Novar<STEAM_0:0:193599766> spawned model models/hunter/blocks/cube025x025x025.mdl
+[00:28:27] Sergeant RT-9824 ''Bulwark'': /c Gonna go to the Sparring Ring, anybody want to train?
+[00:28:35] Petty Officer Third Class Karissa Novar<STEAM_0:0:193599766> spawned model models/hunter/blocks/cube025x025x025.mdl
+[00:28:35] Petty Officer Third Class Karissa Novar<STEAM_0:0:193599766> spawned model models/hunter/blocks/cube025x025x025.mdl
+[00:28:35] Petty Officer Third Class Karissa Novar<STEAM_0:0:193599766> spawned model models/hunter/blocks/cube025x025x025.mdl
+[00:28:35] Petty Officer Third Class Karissa Novar<STEAM_0:0:193599766> spawned model models/hunter/blocks/cube025x025x025.mdl
+[00:28:35] Petty Officer Third Class Karissa Novar<STEAM_0:0:193599766> spawned model models/hunter/blocks/cube025x025x025.mdl
+[00:28:35] Petty Officer Third Class Karissa Novar<STEAM_0:0:193599766> spawned model models/hunter/blocks/cube025x025x025.mdl
+[00:28:35] Petty Officer Third Class Karissa Novar<STEAM_0:0:193599766> spawned model models/hunter/blocks/cube025x025x025.mdl
+[00:28:35] Petty Officer Third Class Karissa Novar<STEAM_0:0:193599766> spawned model models/hunter/blocks/cube025x025x025.mdl
+[00:28:35] Petty Officer Third Class Karissa Novar<STEAM_0:0:193599766> spawned model models/hunter/blocks/cube025x025x025.mdl
+[00:28:35] Petty Officer Third Class Karissa Novar<STEAM_0:0:193599766> spawned model models/hunter/blocks/cube025x025x025.mdl
+[00:28:35] Petty Officer Third Class Karissa Novar<STEAM_0:0:193599766> spawned model models/hunter/blocks/cube025x025x025.mdl
+[00:28:35] Petty Officer Third Class Karissa Novar<STEAM_0:0:193599766> spawned model models/hunter/blocks/cube025x025x025.mdl
+[00:28:35] Petty Officer Third Class Karissa Novar<STEAM_0:0:193599766> spawned model models/hunter/blocks/cube025x025x025.mdl
+[00:28:35] Petty Officer Third Class Karissa Novar<STEAM_0:0:193599766> spawned model models/hunter/blocks/cube025x025x025.mdl
+[00:28:35] Petty Officer Third Class Karissa Novar<STEAM_0:0:193599766> spawned model models/hunter/blocks/cube025x025x025.mdl
+[00:29:13] Private TK-1248: /me spots the Tank Trooper leaving, approaching him and trying to speak to him
+[00:29:18] Private TK-1248: hey
+[00:29:22] TNK Private Humphry Stanton: Yes?
+[00:29:24] Private TK-1248: Your a tank Trooper right?
+[00:29:27] TNK Private Humphry Stanton: Indeed
+[00:29:33] Private TK-1248: Hm, how'd get in?
+[00:29:42] TNK Private Humphry Stanton: There were tryouts, and I tried out.
+[00:30:05] Private TK-1248: /me shows him a storm trooper blushie 
+[00:30:10] TNK Private Humphry Stanton: Nice
+[00:30:12] Private TK-1248: join us back
+[00:30:21] Private TK-1248: we are stronger
+[00:30:24] TNK Private Humphry Stanton: Nah
+[00:30:29] TNK Private Humphry Stanton: I get to drive tanks
+[00:30:41] R4-K5: /dr Hello.
+[00:30:43] Private TK-1248: hm?
+[00:32:09] Private TK-1248 to admins: Can an admin please come and transfer
+[00:32:30] TNK Private Humphry Stanton: /charsetmodel private models/player/ven/tk_updatedjump_01/tk_jumptrooper_new.mdl
+[00:32:46] TNK Private Humphry Stanton: /charsetmodel private models/kriegsyntax/imperial/stormtroopers/tanktroopers/playermodel_male_01.mdl
+[00:33:06] TNK Private Humphry Stanton: /charsetmodel 1248 models/player/ven/tk_updatedjump_01/tk_jumptrooper_new.mdl
+[00:33:29] TNK Private Humphry Stanton: /charsetname 1248 Private HA-1248
+[00:33:46] TNK Private Humphry Stanton: /charsetmodel humphry models/npc/markus/swbf2/characters/imperial/imperial_tanktrooper/imperial_tanktrooper_01.mdl
+[00:34:13] TNK Private Humphry Stanton: /charsetmodel humphry models/npc/markus/swbf2/characters/imperial/imperial_tanktrooper/imperial_tanktrooper_02.mdl
+[00:34:31] TNK Private Humphry Stanton<STEAM_0:1:127409364> spawned ragdoll models/player/markus/swbf2/characters/imperial/imperial_tanktrooper/imperial_tanktrooper_01.mdl
+[00:34:37] TNK Private Humphry Stanton<STEAM_0:1:127409364> spawned ragdoll models/kriegsyntax/imperial/stormtroopers/tanktroopers/npc_male_01.mdl
+[00:34:40] TNK Private Humphry Stanton<STEAM_0:1:127409364> spawned ragdoll models/kriegsyntax/imperial/stormtroopers/tanktroopers/officers/npc_male_01.mdl
+[00:34:42] TNK Private Humphry Stanton<STEAM_0:1:127409364> spawned ragdoll models/kriegsyntax/imperial/stormtroopers/tanktroopers/officers/playermodel_male_01.mdl
+[00:34:50] TNK Private Humphry Stanton: /charsetmodel humph models/npc/markus/swbf2/characters/imperial/imperial_tanktrooper/imperial_tanktrooper_01.mdl
+[00:35:03] Private HA-1248: -
+[00:35:14] TNK Private Humphry Stanton: /plywhitelist 1248 droid
+[00:35:39] Private HA-1248: Private HA-1248 "Jenny"
+[00:36:01] TNK Private Humphry Stanton: /charsetname 1248 Private HA-1248 ''Jenny''
+[00:36:23] TNK Private Humphry Stanton: /charsetskin humph 1
+[00:36:24] TNK Private Humphry Stanton: /charsetskin humph 2
+[00:36:28] TNK Private Humphry Stanton: /charsetskin humph 3
+[00:37:01] TNK Private Humphry Stanton<STEAM_0:1:127409364> spawned ragdoll models/kriegsyntax/imperial/stormtroopers/tanktroopers/npc_male_01.mdl
+[00:37:11] TNK Private Humphry Stanton: /charsetmodel humph models/kriegsyntax/imperial/stormtroopers/tanktroopers/npc_male_01.mdl
+[00:37:43] Private HA-1248 ''Jenny'': // C
+[00:37:52] Private First Class HA-1617: // gbl ujrtfgeqlghikuugfrewpohiugedfpoiuhweg;opil/qrh
+[00:37:53] Sergeant RT-9824 ''Bulwark'': // Imagine 
+[00:38:09] TNK Private Humphry Stanton: /charaddattribute Class strength 5
+[00:38:19] TNK Private Humphry Stanton: /charaddattribute Class constit 3
+[00:38:30] TNK Private Humphry Stanton: /charaddattribute Class agility 2
+[00:38:52] TNK Private Humphry Stanton: /charsetmodel humph models/npc/markus/swbf2/characters/imperial/imperial_tanktrooper/imperial_tanktrooper_01.mdl
+[00:39:03] TNK Private Humphry Stanton<STEAM_0:1:127409364> spawned ragdoll models/npc/markus/swbf2/characters/imperial/imperial_tanktrooper/imperial_tanktrooper_02.mdl
+[00:39:06] TNK Private Humphry Stanton<STEAM_0:1:127409364> spawned ragdoll models/npc/markus/swbf2/characters/imperial/imperial_tanktrooper/imperial_tanktrooper_03.mdl
+[00:39:12] TNK Private Humphry Stanton<STEAM_0:1:127409364> spawned ragdoll models/npc/markus/swbf2/characters/imperial/imperial_tanktrooper/imperial_tanktrooper_04.mdl
+[00:39:19] TNK Private Humphry Stanton: /charsetmodel humph models/npc/markus/swbf2/characters/imperial/imperial_tanktrooper/imperial_tanktrooper_04.mdl
+[00:39:29] Sergeant RT-9824 ''Bulwark'': Who wants a match?
+[00:39:38] Private HA-1248 ''Jenny'': /me sits down
+[00:39:49] TNK Private Humphry Stanton: /y Army!!!!
+[00:39:54] Private HA-1248 ''Jenny'': /me places the plushie on the table
+[00:39:55] Sergeant RT-9824 ''Bulwark'': What the fuck
+[00:40:27] Private HA-1248 ''Jenny'': /me inspects the plushie while humming the imperial theme
+[00:40:48] Sergeant RT-9824 ''Bulwark'': Who the hell gave you a plushie and allowed you to keep it?
+[00:41:33] Private HA-1248 ''Jenny'': /me turns around around answering to the officer 'Its a moral boost sir'
+[00:41:49] Sergeant RT-9824 ''Bulwark'': Moral boost? really?
+[00:42:04] Private HA-1248 ''Jenny'': yeah actually,
+[00:42:06] Private HA-1248 ''Jenny'': hey!
+[00:42:31] Sergeant RT-9824 ''Bulwark'': Fuckin, nobody is showing.
+[00:42:36] Sergeant RT-9824 ''Bulwark'': Have I scared people that much?
+[00:42:36] Private HA-1248 ''Jenny'': back in my planet 3 of my kids have one
+[00:42:46] Sergeant RT-9824 ''Bulwark'': Hmph, what planet do you come from?
+[00:42:53] Private HA-1248 ''Jenny'': Coreilla actually
+[00:43:10] Sergeant RT-9824 ''Bulwark'': Ah, I hail from Ilum.
+[00:43:44] Private HA-1248 ''Jenny'': Ilum? My friend is from Ilum - well before he got killed
+[00:44:05] Private HA-1248 ''Jenny'': /me takes the plushie back in her utility belt
+[00:44:16] Private HA-1248 ''Jenny'': /me sighs for a moment reminding herself 
+[00:45:53] TNK Private Humphry Stanton: /charsetattribute sergeant strength 3
+[00:49:03] Sergeant RT-9824 ''Bulwark'': /me Sits down and places his E-22 down onto the table.
+[00:49:18] Private HA-1248 ''Jenny'': is there a vending machine?
+[00:49:42] Sergeant RT-9824 ''Bulwark'': Uhhhhh, no not from what I know.
+[00:50:03] Sergeant RT-9824 ''Bulwark'': You can grab a decent variety of foods from the Mess Hall.
+[00:50:11] Sergeant RT-9824 ''Bulwark'': Mostly freeze dried shit.
+[00:50:29] Private HA-1248 ''Jenny'': like what?
+[00:50:50] Sergeant RT-9824 ''Bulwark'': Meats, Veggies, fruits, et-cetera.
+[00:51:21] Sergeant RT-9824 ''Bulwark'': All of it is pretty decent for being on a massive space ship.
+[00:51:30] Private HA-1248 ''Jenny'': No deserts?
+[00:51:30] Sergeant RT-9824 ''Bulwark'': Don't eat the standard rations though.
+[00:51:33] Sergeant RT-9824 ''Bulwark'': Negative
+[00:52:32] Private HA-1248 ''Jenny'': that sucks...
+[00:52:37] Dropped "Sergeant RT-9824 ''Bulwark''" from server<STEAM_0:1:17219621>
+[00:54:08] Private HA-1248 ''Jenny'': /me would just be sitting waiting before spoting the tank trooper that yelled "Army"
+[00:54:22] Private HA-1248 ''Jenny'': /w Army?
+[00:54:25] TNK Private Humphry Stanton: /y Army!!!!
+[00:54:30] Private HA-1248 ''Jenny'': Army!
+[00:54:30] R4-K5: /dr Army.
+[00:54:32] TNK Private Humphry Stanton: /y Army!!!!
+[00:54:36] R4-K5: /dr Army!!!!!!!!!
+[00:54:51] Private HA-1248 ''Jenny'': /me joins the tank trooper before increasing the volume
+[00:54:52] Private HA-1248 ''Jenny'': Army!!
+[00:55:06] R4-K5: /me beeps extremely loud
+[00:55:09] R4-K5: /dr ARMY!
+[00:55:10] Private HA-1248 ''Jenny'': why are we yelling Army?
+[00:55:32] R4-K5<STEAM_0:0:193599766> spawned model models/props_interiors/pot01a.mdl
+[00:55:43] Private HA-1248 ''Jenny'': Thank you very much~
+[00:55:44] TNK Private Humphry Stanton: That's the power of loyalty!
+[00:55:57] TNK Private Humphry Stanton: And love for the empire
+[00:56:00] Private HA-1248 ''Jenny'': True, actually I was dying to ask before your encounter 
+[00:56:09] Private HA-1248 ''Jenny'': have anyone aboard this ship been deployed to missions?
+[00:56:22] R4-K5: /w UwU~
+[00:56:36] TNK Private Humphry Stanton: Yes
+[00:56:38] TNK Private Humphry Stanton: Many times
+[00:57:35] Private HA-1248 ''Jenny'': Tell me about them, I am rookie around here, I just passed my sky trooper training in the Imperial Academy and been assigned here ever since
+[00:58:07] Private First Class HA-1617: hello
+[00:58:18] Private HA-1248 ''Jenny'': /me spots the other sky trooper joining them, noding as a hi
+[00:58:36] TNK Private Humphry Stanton: Well we've had some really weird ones that I can't fully remember, but we've been deployed to one of those frozen planets, and occupied it for a while
+[00:58:52] TNK Private Humphry Stanton: Fought off waves of natives
+[00:59:04] Private HA-1248 ''Jenny'': natives?
+[00:59:33] Private HA-1248 ''Jenny'': were they very hostile?
+[01:00:11] TNK Private Humphry Stanton: Mhm
+[01:00:20] Private HA-1248 ''Jenny'': good, they probably deserved it
+[01:00:46] Private HA-1248 ''Jenny'': and also hey there
+[01:00:56] Private HA-1248 ''Jenny'': Private "First Class" 
+[01:01:06] Private First Class HA-1617: hi
+[01:01:12] Private First Class HA-1617: are you new aboard?
+[01:01:17] Private HA-1248 ''Jenny'': aye
+[01:01:26] Private First Class HA-1617: huh
+[01:01:36] Private HA-1248 ''Jenny'': what else has happened in that operation? 
+[01:03:22] TNK Private Humphry Stanton: Not too much
+[01:03:40] TNK Private Humphry Stanton: We were attacked a few times, had to fend off bombings, met with locals
+[01:04:02] Private HA-1248 ''Jenny'': interesting, is that the only mission?
+[01:04:43] TNK Private Humphry Stanton: Nope
+[01:04:55] Dropped "Private First Class HA-1617" from server<STEAM_0:0:193599766>
+[01:04:55] TNK Private Humphry Stanton: We've had a good few
+[01:05:36] Private HA-1248 ''Jenny'': I mean you can tell me more about them, I am always fascinated about such things
+[01:05:46] Private HA-1248 ''Jenny'': and it will give me a chance to write it all done when this war is over
+[01:05:54] Private HA-1248 ''Jenny'': /looc done->down
+[01:06:12] TNK Private Humphry Stanton: Mhm
+[01:06:30] TNK Private Humphry Stanton: Well we've had to remove our fair share of invaders from the ship
+[01:06:39] TNK Private Humphry Stanton: People got slaughtered left and right sometimes
+[01:07:50] TNK Private Humphry Stanton: Another time, there was this planet we were investigating, and it was a blood bath, with abnormal creatures, and tools we hadn't seen much
+[01:08:14] TNK Private Humphry Stanton: You had to be there to truly get the experience
+[01:10:19] Private HA-1248 ''Jenny'': No I get it, I've seen some morbid stuff close to me, I understand - but I try to forget about it with corellian wine, you probably never tried it because of how large and big this galaxy system is, have you?
+[01:10:56] TNK Private Humphry Stanton: Nah, but I've had some weird alien alcohol before
+[01:11:09] TNK Private Humphry Stanton: They had a bar in the occupied base
+[01:11:46] Private HA-1248 ''Jenny'': we are allowed to get a drinks? damn, I though I'd never seen them for the next decade 
+[01:12:05] TNK Private Humphry Stanton: As long as you aren't on duty yeah
+[01:12:23] Private HA-1248 ''Jenny'': that make sense - actually that bring me to another question
+[01:12:39] Private HA-1248 ''Jenny'': do we get stationed on ground bases? or are we always in a star destroyer?
+[01:12:49] TNK Private Humphry Stanton: We're here most of the time
+[01:13:22] Private HA-1248 ''Jenny'': what about long term city occupation that takes weeks - months until the city capitulates
+[01:13:54] TNK Private Humphry Stanton: That's not an often occurence here
+[01:14:04] Private HA-1248 ''Jenny'': I used to be a Patrol Trooper in Coreilla actually, but I left it to join the Army - 
+[01:14:41] Private HA-1248 ''Jenny'': that's good, that's good, so far this job seems better then being in Coreilla to be honest
+[01:15:01] TNK Private Humphry Stanton: Well skytroopers are still corp. If you wanna be army, then you might wanna find my commander eventually.
+[01:15:32] Private HA-1248 ''Jenny'': who are the commanders of the ship?
+[01:16:21] TNK Private Humphry Stanton: We have Lieutenant Linmer, Lord Vader, Grand Admiral Thrawn, and a couple others I believe
+[01:16:38] Private HA-1248 ''Jenny'': L-lord vader and Thrawn?
+[01:17:28] Private HA-1248 ''Jenny'': /me mumbles to herself for a moment
+[01:17:55] Private HA-1248 ''Jenny'': right, which regiments are active or exist on this ship
+[01:21:07] TNK Private Humphry Stanton: Well we have a few different people you can join, we have 501st which is the default you get shoved into, Shock troopers I think, shadow troopers, walker troopers, tank troopers, scout troopers, medical, royal guard, fleet, ISB, and some others I think
+[01:22:45] Private HA-1248 ''Jenny'': Walker Troopers?
+[01:23:44] Private HA-1248 ''Jenny'': do I get to keep my jet pack with me?
+[01:25:47] Dropped "Lieutenant Ezyn Linmer" from server<STEAM_0:1:53097688>
+[01:26:26] Private HA-1248 ''Jenny'': you dead inside? 
+[01:26:42] TNK Private Humphry Stanton: Nope
+[01:27:11] Private HA-1248 ''Jenny'': well-here
+[01:27:49] Private HA-1248 ''Jenny'': if I do keep my sky trooper stuff, then I will consider joining another regiment
+[01:28:13] Private HA-1248 ''Jenny'': maybe tank trooper because you seem like an aight guy, but if not then I'll stay in the storm crops 
+[01:34:38] TNK Private Humphry Stanton: // magic time
+[01:34:40] Dropped "TNK Private Humphry Stanton" from server<STEAM_0:1:127409364>
+[02:53:20] Private HA-1248 ''Jenny'': fuck.
+[02:53:25] Dropped "Private HA-1248 ''Jenny''" from server<STEAM_0:1:118336892>
+
+
+
+[04:26:40] New map: rp_stardestroyer_v2_5
+
+
+
+[05:41:33] New map: rp_stardestroyer_v2_5
+[15:51:11] Client "FB|| light ROOM" connected.
+[15:52:13] Client "FB|| light ROOM" spawned in server <STEAM_0:1:17219621> (took 62 seconds).
+[16:09:08] Dropped "Lance Corporal TX-7062" from server<STEAM_0:1:17219621>
+[16:29:53] Client "FB|| light ROOM" connected.
+[16:30:55] Client "FB|| light ROOM" spawned in server <STEAM_0:1:17219621> (took 62 seconds).
+[16:47:35] Dropped "Lance Corporal TX-7062" from server<STEAM_0:1:17219621>
+[17:47:49] Client "FB|| light ROOM" connected.
+[17:48:06] Client "DRD" connected.
+[17:48:31] Client "FB|| light ROOM" spawned in server <STEAM_0:1:17219621> (took 42 seconds).
+[17:51:04] Dropped "Sergeant RT-9824 ''Bulwark''" from server<STEAM_0:1:17219621>
+[17:51:28] Client "DRD" spawned in server <STEAM_0:0:193599766> (took 202 seconds).
+[17:56:24] Client "FB|| light ROOM" connected.
+[17:56:26] R4-K5: // e09w
+[17:56:31] Dropped "R4-K5" from server<STEAM_0:0:193599766>
+[17:57:36] Client "FB|| light ROOM" spawned in server <STEAM_0:1:17219621> (took 72 seconds).
+[17:58:02] Client "DRD" connected.
+[17:59:16] Client "DRD" spawned in server <STEAM_0:0:193599766> (took 74 seconds).
+[18:06:16] Lance Corporal TX-7062: /d Hello there!
+[18:06:25] Lance Corporal TX-7062: /dr Hello there.
+[18:06:33] Lance Corporal TX-7062: Hello there little droid.
+[18:07:25] R4-K5: /dr Hello.
+[18:08:23] Lance Corporal TX-7062: How are you doing little droid?
+[18:08:40] R4-K5: /dr I am functioning.
+[18:08:48] Lance Corporal TX-7062: Fair enough
+[18:09:02] Lance Corporal TX-7062: I guess you guys don't really understand the term "good" do you?
+[18:10:01] R4-K5: /dr Good, adjectove, to be desired or approved of. Noun, benefit or advantage to someone or something.
+[18:10:06] R4-K5: .// adjective
+[18:11:38] Lance Corporal TX-7062: well, that is the technical side of the term.
+[18:12:09] Lance Corporal TX-7062: You guys just "function
+[18:12:24] Lance Corporal TX-7062: How>
+[18:12:26] Lance Corporal TX-7062: .// ?
+[18:12:41] R4-K5: /dr Mystic forces.
+[18:14:03] Lance Corporal TX-7062: Mystic forces?
+[18:14:04] Lance Corporal TX-7062: What?
+[18:24:32] Sergeant RT-9824 ''Bulwark'': // Go to the mess hall smh.
+[18:24:42] R4-K5: // i need you to buy me a commlink
+[18:24:44] Sergeant RT-9824 ''Bulwark'': // I did
+[18:24:55] R4-K5: ?? COMING
+[18:24:57] R4-K5: // coming
+[18:24:58] Sergeant RT-9824 ''Bulwark'': // Go to the mess hall and you shall recieve.
+[18:26:15] R4-K5: // im making it ic that R2-Z7 found an escape pod and drifted to this star destroyer
+[18:26:37] R4-K5: /c
+[18:26:43] Sergeant RT-9824 ''Bulwark'': /c
+[18:26:50] R4-K5: /c
+[18:26:51] R4-K5: /c
+[18:26:51] R4-K5: /c
+[18:26:52] R4-K5: /c
+[18:26:54] R4-K5: /c
+[18:26:55] R4-K5: /c
+[18:26:56] R4-K5: /c
+[18:26:56] R4-K5: /c
+[18:26:57] R4-K5: /c
+[18:26:57] R4-K5: /c
+[18:26:58] R4-K5: /c
+[18:26:59] R4-K5: /c
+[18:26:59] R4-K5: /c
+[18:27:00] R4-K5: /c
+[18:27:01] R4-K5: /c
+[18:27:02] R4-K5: /c
+[18:29:35] Sergeant RT-9824 ''Bulwark'' killed R4-K5 using rw_sw_e22
+[18:33:43] Dropped "Sergeant PT-9823" from server<STEAM_0:1:17219621>
+[18:33:57] Dropped "Private PT-2932" from server<STEAM_0:0:193599766>
+[21:37:46] Client "FB|| light ROOM" connected.
+[21:38:18] Client "Doughnut" connected.
+[21:38:29] Client "FB|| light ROOM" spawned in server <STEAM_0:1:17219621> (took 43 seconds).
+[21:39:34] Client "DRD" connected.
+[21:39:34] Client "Doughnut" spawned in server <STEAM_0:1:127409364> (took 76 seconds).
+[21:39:40] Dropped "FB|| light ROOM" from server<STEAM_0:1:17219621>
+[21:39:40] Dropped "Doughnut" from server<STEAM_0:1:127409364>
+[21:39:58] Client "Doughnut" connected.
+[21:40:10] Client "FB|| light ROOM" connected.
+[21:40:32] Client "Doughnut" spawned in server <STEAM_0:1:127409364> (took 34 seconds).
+[21:40:49] Client "FB|| light ROOM" spawned in server <STEAM_0:1:17219621> (took 39 seconds).
+[21:42:11] Petty Officer Second Class Arnold Jackson: /charfallover 0
+[21:42:14] Dropped "Sergeant RT-9824 ''Bulwark''" from server<STEAM_0:1:17219621>
+[21:43:19] Client "FB|| light ROOM" connected.
+[21:43:57] Client "DRD" spawned in server <STEAM_0:0:193599766> (took 263 seconds).
+[21:44:33] Client "FB|| light ROOM" spawned in server <STEAM_0:1:17219621> (took 74 seconds).
+[21:46:18] Sergeant RT-9824 ''Bulwark'' killed Petty Officer Second Class Arnold Jackson using rw_sw_e22
+[21:46:30] Petty Officer Second Class Arnold Jackson: !goto rt
+[21:46:33] Petty Officer Second Class Arnold Jackson teleported to Sergeant RT-9824 ''Bulwark''
+[21:46:33] Petty Officer Second Class Arnold Jackson: !goto rt
+[21:46:36] Petty Officer Second Class Arnold Jackson: !menu
+[21:47:04] Petty Officer Second Class Arnold Jackson: !menu
+[21:47:17] Petty Officer Second Class Arnold Jackson: !menu
+[21:47:36] Petty Officer Second Class Arnold Jackson: !menu
+[21:47:37] Petty Officer Second Class Arnold Jackson mauled Sergeant RT-9824 ''Bulwark''
+[21:47:37] Sergeant RT-9824 ''Bulwark'' killed Petty Officer Second Class Arnold Jackson using rw_sw_e22
+[21:47:49] Sergeant RT-9824 ''Bulwark'' was killed by npc_fastzombie
+[21:48:43] Petty Officer Second Class Arnold Jackson: /toggleraise
+[21:50:04] Petty Officer Second Class Arnold Jackson: !menu
+[21:50:19] Petty Officer Second Class Arnold Jackson ignited Sergeant PT-9823 for 46 seconds
+[21:50:22] Petty Officer Second Class Arnold Jackson: /toggleraise
+[21:50:40] Sergeant PT-9823 was killed by entityflame
+[21:51:00] Dropped "R4-K5" from server<STEAM_0:0:193599766>
+[21:51:51] Petty Officer Second Class Arnold Jackson: /charfallover 0
+[21:52:26] Lance Corporal TX-7062 killed Petty Officer Second Class Arnold Jackson using rw_sw_e22
+[21:53:33] Dropped "Lance Corporal TX-7062" from server<STEAM_0:1:17219621>
+[21:53:41] Dropped "Petty Officer Second Class Arnold Jackson" from server<STEAM_0:1:127409364>

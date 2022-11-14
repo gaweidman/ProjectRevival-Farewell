@@ -1,0 +1,1330 @@
+[03:14:46] New map: rp_i17_variation_v0
+[03:16:14] Client "matt saton" connected.
+[03:18:18] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 124 seconds).
+[03:20:39] matt saton<STEAM_0:1:53097688> changed their name to Lee Maylor
+[03:35:35] Lee Maylor removed group Deputy
+[03:36:58] Lee Maylor added DRD to group trialmod
+[03:38:05] Lee Maylor changed group superadmin to only be able to target admin
+[03:38:14] Lee Maylor changed group superadmin to only be able to target admin,trialmod,moderator
+[03:38:59] Lee Maylor changed group trialmod to be able to target anyone
+[03:39:04] Lee Maylor changed group trialmod to only be able to target !*
+[03:39:07] Lee Maylor changed group trialmod to only be able to target ^
+[03:40:55] Lee Maylor changed group trialmod to only be able to target v
+[03:41:13] Lee Maylor changed group trialmod to only be able to target admin !%superadmin
+[03:42:58] Lee Maylor changed group moderator to only be able to target admin
+[03:43:12] Lee Maylor changed group moderator to only be able to target admin,superadmin
+[03:44:14] Lee Maylor changed group moderator to only be able to target admin superadmin
+[03:44:24] Lee Maylor changed group moderator to only be able to target !%admin
+[03:47:05] Lee Maylor changed group superadmin to be able to target anyone
+[03:47:30] Lee Maylor changed group admin to only be able to target !%admin
+[03:47:37] Lee Maylor changed group moderator to only be able to target !%admin
+[03:47:46] Lee Maylor changed group admin to only be able to target !%superadmin
+[03:49:14] Lee Maylor changed group user to be able to target anyone
+[03:49:24] Lee Maylor changed group user to only be able to target !*
+[03:57:53] Lee Maylor granted access "helix - chareditbodygroup" to group trialmod
+[03:58:29] Lee Maylor granted access "helix - event" to group trialmod
+[03:58:32] Lee Maylor revoked access "helix - event" to group trialmod
+[03:58:33] Lee Maylor granted access "helix - event" to group trialmod
+[03:58:44] Lee Maylor revoked access "helix - manage character flags" to group trialmod
+[03:58:46] Lee Maylor granted access "helix - manage character flags" to group trialmod
+[03:59:08] Lee Maylor granted access "helix - mapentremove" to group trialmod
+[03:59:43] Lee Maylor granted access "stormfox weatheredit" to group trialmod
+[03:59:44] Lee Maylor granted access "stormfox settings" to group trialmod
+[03:59:45] Lee Maylor granted access "stormfox changemap" to group trialmod
+[03:59:46] Lee Maylor revoked access "stormfox changemap" to group trialmod
+[03:59:49] Lee Maylor revoked access "stormfox settings" to group trialmod
+[04:00:33] Lee Maylor revoked access "helix - mapentremove" to group trialmod
+[04:00:34] Lee Maylor granted access "helix - mapentremove" to group trialmod
+[04:02:03] Lee Maylor removed all access rights from John Sewick
+[04:02:11] Lee Maylor granted access "helix - manage doors" to group moderator
+[04:02:13] Lee Maylor granted access "helix - manage map scenes" to group moderator
+[04:02:14] Lee Maylor revoked access "helix - manage map scenes" to group moderator
+[04:02:15] Lee Maylor granted access "helix - manage map scenes" to group moderator
+[04:02:18] Lee Maylor revoked access "helix - manage map scenes" to group moderator
+[04:02:25] Lee Maylor granted access "helix - plytransfer" to group moderator
+[04:02:26] Lee Maylor granted access "helix - plysearch" to group moderator
+[04:02:41] Lee Maylor granted access "helix - removetoxicgas" to group trialmod
+[04:02:42] Lee Maylor revoked access "helix - removetoxicgas" to group trialmod
+[04:02:52] Lee Maylor revoked access "helix - observer" to group trialmod
+[04:02:52] Lee Maylor granted access "helix - observer" to group trialmod
+[04:04:12] Lee Maylor granted access "helix - plytransfer" to group trialmod
+[04:05:07] Lee Maylor granted access "ulx ungimp" to group trialmod
+[04:05:08] Lee Maylor granted access "ulx unpgag" to group trialmod
+[04:05:18] Lee Maylor granted access "ulx notifications" to group trialmod
+[04:05:20] Lee Maylor revoked access "ulx notifications" to group trialmod
+[04:05:36] Lee Maylor granted access "ulx notifications" to group trialmod
+[04:05:41] Lee Maylor revoked access "ulx tsay" to group trialmod
+[04:05:42] Lee Maylor granted access "ulx tsay" to group trialmod
+[04:05:44] Lee Maylor granted access "ulx tsaycolor" to group trialmod
+[04:05:44] Lee Maylor revoked access "ulx tsaycolor" to group trialmod
+[04:05:48] Lee Maylor granted access "ulx csay" to group trialmod
+[04:05:55] Lee Maylor revoked access "ulx armor" to group trialmod
+[04:06:00] Lee Maylor revoked access "ulx cloak" to group trialmod
+[04:06:01] Lee Maylor granted access "ulx cloak" to group trialmod
+[04:06:02] Lee Maylor revoked access "ulx cloak" to group trialmod
+[04:06:05] Lee Maylor revoked access "ulx giveammo" to group trialmod
+[04:06:06] Lee Maylor revoked access "ulx god" to group trialmod
+[04:06:10] Lee Maylor revoked access "ulx hp" to group trialmod
+[04:06:11] Lee Maylor revoked access "ulx jail" to group trialmod
+[04:06:12] Lee Maylor granted access "ulx jail" to group trialmod
+[04:06:26] Lee Maylor granted access "ulx scale" to group trialmod
+[04:06:42] Lee Maylor granted access "ulx unblind" to group trialmod
+[04:06:47] Lee Maylor granted access "ulx unfreeze" to group trialmod
+[04:07:14] Lee Maylor granted access "ulx addnote" to group trialmod
+[04:07:15] Lee Maylor granted access "ulx shownotes" to group trialmod
+[04:08:33] Lee Maylor granted access "ulx fbring" to group trialmod
+[04:08:34] Lee Maylor granted access "ulx fteleport" to group trialmod
+[04:09:54] Lee Maylor granted access "ulx ban" to group trialmod
+[04:10:17] Lee Maylor granted access "ulx ban" with tag "* :1w" to group trialmod
+[04:10:35] Lee Maylor granted access "ulx bancheck" to group trialmod
+[04:10:38] Lee Maylor granted access "ulx banid" to group trialmod
+[04:10:46] Lee Maylor granted access "ulx banid" with tag "* :1w" to group trialmod
+[04:10:51] Lee Maylor granted access "ulx banip" to group trialmod
+[04:11:02] Lee Maylor granted access "ulx banip" with tag ":1w" to group trialmod
+[04:11:13] Lee Maylor granted access "ulx cleardecals" to group trialmod
+[04:11:15] Lee Maylor granted access "ulx dban" to group trialmod
+[04:11:29] Lee Maylor granted access "ulx forcerespawn" to group trialmod
+[04:11:37] Lee Maylor granted access "ulx friends" to group trialmod
+[04:11:56] Lee Maylor granted access "ulx ip" to group trialmod
+[04:12:15] Lee Maylor granted access "ulx hide" to group trialmod
+[04:12:17] Lee Maylor revoked access "ulx hide" to group trialmod
+[04:12:20] Lee Maylor granted access "ulx kick" to group trialmod
+[04:12:37] Lee Maylor granted access "ulx removeragdolls" to group trialmod
+[04:13:20] Lee Maylor granted access "ulx spectate" to group trialmod
+[04:13:43] Lee Maylor granted access "ulx unbanip" to group trialmod
+[04:13:45] Lee Maylor revoked access "ulx unbanip" to group trialmod
+[04:13:46] Lee Maylor revoked access "ulx unban" to group trialmod
+[04:14:04] Lee Maylor: ulx watch
+[04:14:10] (SILENT) Lee Maylor added Themself to the watchlist (test)
+[04:14:16] Lee Maylor granted access "ulx watch" to group trialmod
+[04:14:21] (SILENT) Lee Maylor added Themself to the watchlist (no)
+[04:14:28] (SILENT) Lee Maylor removed Themself from the watchlist
+[04:14:42] Lee Maylor granted access "ulx watchlist" to group trialmod
+[04:14:49] Lee Maylor granted access "ulx vstartfire" to group trialmod
+[04:14:50] Lee Maylor revoked access "ulx vstartfire" to group trialmod
+[04:14:51] Lee Maylor granted access "ulx vstartfire" to group trialmod
+[04:14:52] Lee Maylor revoked access "ulx vstartfire" to group trialmod
+[04:14:52] Lee Maylor granted access "ulx vstartfire" to group trialmod
+[04:15:51] Lee Maylor revoked access "ulx seeanonymousechoes" to group trialmod
+[04:15:52] Lee Maylor granted access "ulx seeasay" to group trialmod
+[04:15:53] Lee Maylor granted access "ulx seeanonymousechoes" to group trialmod
+[04:17:31] Lee Maylor granted access "ulx ban" with tag "* :2w" to group moderator
+[04:17:41] (SILENT) Lee Maylor cancelled the timed command
+[04:17:50] Lee Maylor granted access "ulx banid" with tag "* 0:2w" to group moderator
+[04:17:55] Lee Maylor granted access "ulx banip" with tag "0:2w" to group moderator
+[04:17:58] Lee Maylor granted access "ulx ban" with tag "* 0:2w" to group moderator
+[04:18:45] Lee Maylor revoked access "ulx dban" to group trialmod
+[04:19:10] Lee Maylor revoked access "ulx color" to group admin
+[04:19:13] Lee Maylor revoked access "ulx deaths" to group admin
+[04:19:16] Lee Maylor granted access "ulx deaths" to group admin
+[04:19:25] Lee Maylor revoked access "ulx model" to group admin
+[04:20:13] Lee Maylor granted access "helix - createcustomitem" to group admin
+[04:20:32] Lee Maylor granted access "ulx banid" to group admin
+[04:20:38] Lee Maylor granted access "ulx banip" to group admin
+[04:21:57] Lee Maylor changed group user to only be able to target !*
+[04:22:01] Lee Maylor changed group user to be able to target anyone
+[04:22:29] Lee Maylor changed group trialmod to only be able to target !%trialmod,!^
+[04:22:41] Lee Maylor changed group moderator to only be able to target !%moderator,!^
+[04:22:47] Lee Maylor changed group moderator to only be able to target !%moderator
+[04:22:56] Lee Maylor changed group admin to only be able to target !%superadmin
+[04:23:02] Lee Maylor changed group superadmin to only be able to target *dmin
+[04:23:05] Lee Maylor changed group superadmin to be able to target anyone
+[11:33:45] Client "Luke Starkiller" connected.
+[11:41:19] Client "Luke Starkiller" spawned in server <STEAM_0:1:62746535> (took 454 seconds).
+[11:41:33] Client "MilkyWay" connected.
+[11:44:37] Luke Starkiller<STEAM_0:1:62746535> changed their name to John Hickson
+[11:47:25] Client "MilkyWay" spawned in server <STEAM_0:1:118336892> (took 352 seconds).
+[11:49:00] Client "Friendly Hoovy" connected.
+[11:57:09] Dropped "John Hickson" from server<STEAM_0:1:62746535>
+[12:16:03] MilkyWay<STEAM_0:1:118336892> changed their name to Andrew Philip
+[12:30:31] Andrew Philip<STEAM_0:1:118336892> changed their name to Hyo Jeong
+[12:33:27] Dropped "Hyo Jeong" from server<STEAM_0:1:118336892>
+[12:51:44] Client "Banana Face" connected.
+[12:55:34] Client "MilkyWay" connected.
+[12:58:14] Client "MilkyWay" spawned in server <STEAM_0:1:118336892> (took 160 seconds).
+[13:00:43] Client "Banana Face" spawned in server <STEAM_0:1:95427441> (took 539 seconds).
+[13:01:53] MilkyWay<STEAM_0:1:118336892> changed their name to Andrew Philip
+[13:02:48] Banana Face<STEAM_0:1:95427441> changed their name to Joe Jones
+[13:03:00] Joe Jones: // why
+[13:03:36] Dropped "Joe Jones" from server<STEAM_0:1:95427441>
+[13:14:00] Client "Frazzy" connected.
+[13:17:54] Client "Frazzy" spawned in server <STEAM_0:0:457261159> (took 234 seconds).
+[13:17:54] Andrew Philip suicided!
+[13:20:44] Andrew Philip suicided!
+[13:20:45] Frazzy<STEAM_0:0:457261159> changed their name to Sophie Clermont
+[13:21:05] Sophie Clermont: /OOC ello boys
+[13:47:34] Andrew Philip suicided!
+[13:47:34] Sophie Clermont suicided!
+[13:47:35] Andrew Philip suicided!
+[13:47:35] Sophie Clermont suicided!
+[13:47:35] Andrew Philip suicided!
+[13:47:35] Sophie Clermont suicided!
+[13:47:35] Andrew Philip suicided!
+[13:47:35] Sophie Clermont suicided!
+[13:47:35] Andrew Philip suicided!
+[13:47:42] Sophie Clermont: /looc lol
+[13:51:50] Sophie Clermont was killed by npc_barnacle
+[13:51:50] Andrew Philip suicided!
+[13:51:50] Sophie Clermont suicided!
+[13:51:50] Andrew Philip suicided!
+[13:51:50] Sophie Clermont suicided!
+[13:51:50] Andrew Philip suicided!
+[13:51:51] Sophie Clermont suicided!
+[13:51:51] Andrew Philip suicided!
+[13:51:51] Sophie Clermont suicided!
+[13:51:51] Andrew Philip suicided!
+[13:51:51] Sophie Clermont suicided!
+[13:51:51] Andrew Philip suicided!
+[13:51:51] Sophie Clermont suicided!
+[13:51:51] Andrew Philip suicided!
+[13:51:51] Sophie Clermont suicided!
+[13:51:51] Andrew Philip suicided!
+[13:51:51] Sophie Clermont suicided!
+[13:51:51] Andrew Philip suicided!
+[13:51:51] Sophie Clermont suicided!
+[13:51:52] Andrew Philip suicided!
+[13:51:52] Sophie Clermont suicided!
+[13:51:52] Andrew Philip suicided!
+[13:51:52] Sophie Clermont suicided!
+[13:51:52] Andrew Philip suicided!
+[13:54:21] Sophie Clermont<STEAM_0:0:457261159> used the tool rb655_easy_bodygroup on maps/rp_i17_variation_v0.bsp
+[13:54:25] Sophie Clermont<STEAM_0:0:457261159> used the tool rb655_easy_bodygroup on maps/rp_i17_variation_v0.bsp
+[13:55:29] Sophie Clermont<STEAM_0:0:457261159> used the tool rb655_easy_bodygroup on maps/rp_i17_variation_v0.bsp
+[13:55:31] Sophie Clermont<STEAM_0:0:457261159> used the tool rb655_easy_bodygroup on maps/rp_i17_variation_v0.bsp
+[13:56:03] Sophie Clermont<STEAM_0:0:457261159> used the tool rb655_easy_bodygroup on maps/rp_i17_variation_v0.bsp
+[13:56:04] Sophie Clermont<STEAM_0:0:457261159> used the tool rb655_easy_bodygroup on maps/rp_i17_variation_v0.bsp
+[14:44:14] Andrew Philip: // sorry back
+[14:44:44] Sophie Clermont: /OOC wb
+[14:44:49] Andrew Philip: // what did I miss
+[14:44:58] Sophie Clermont: /OOC nothin 
+[14:46:00] Sophie Clermont: /ooc I forgot to put on mu suit
+[14:46:08] Sophie Clermont: Hey Andrew.
+[14:46:11] Andrew Philip: Hey there
+[14:46:24] Sophie Clermont: I finished the book you lent me
+[14:46:40] Sophie Clermont: thanks again by the way.
+[14:46:51] Sophie Clermont: it's been nice having something to do.
+[14:47:22] Andrew Philip: Its fine, what's have you been up to lately?
+[14:47:55] Sophie Clermont: just reading really, played a bit of chess the other day.
+[14:48:44] Andrew Philip: I have a question for you Miss Sophie, do you consider yourself a loyalist, a pro-union or something else?
+[14:49:39] Sophie Clermont: I mean its better to follow the union than to rebel.
+[14:49:49] Sophie Clermont: i've... seen what happens to those that do.
+[14:50:22] Sophie Clermont: and besides it's not the worst thing, humans were made to adapt.
+[14:51:42] Andrew Philip: I took some notes down, and the union discourge reading certain books, like History or Religious books, what do you think about that?
+[14:52:49] Client "Apollo7771FO3" connected.
+[14:53:14] Sophie Clermont: I understand the unions reasoning for doing so I guess, whats with the questions?
+[14:55:03] Client "Apollo7771FO3" spawned in server <STEAM_0:1:40787669> (took 134 seconds).
+[14:55:50] Dropped "Apollo7771FO3" from server<STEAM_0:1:40787669>
+[14:56:51] Andrew Philip: just understanding psychology, there is still people in this city  who have different political or religious beliefs, I was just interested if you still have such independent opinion then the others.
+[14:57:59] Client "Apollo7771FO3" connected.
+[14:59:58] Client "Apollo7771FO3" spawned in server <STEAM_0:1:40787669> (took 119 seconds).
+[15:00:26] Sophie Clermont: You see I was catholic before the war, I threw away my faith for two reasons. One, the union frowns upon religion as you said and two, if god did exist than why would he make a world like this.
+[15:01:12] Andrew Philip: /looc literally made noodles
+[15:01:25] Sophie Clermont: and as for political opinion, I believe that no longer holds any relevance in this world.
+[15:01:31] Sophie Clermont: /looc sic
+[15:03:34] Andrew Philip: Maybe, but faith is the strongest thing to have right now, even the union is afraid of it
+[15:04:37] Andrew Philip: I appreciate you speaking and sharing your opinion with me, would you like to help me real quick, I need to clean few things inside the CMD building 
+[15:05:06] Sophie Clermont: of course, i'd like to repay you for lending me those books.
+[15:06:44] Andrew Philip: /it there is a tray (that has some tools and blood on the tools) and blood on the floor and the operation table, some blood not a lot to be but not too much to be by disturbed 
+[15:07:02] Andrew Philip: /looc wait sorry
+[15:07:07] Andrew Philip: /looc I spilled noodles on my keyboard
+[15:07:13] Sophie Clermont: /looc FFF
+[15:07:37] Andrew Philip: /looc enough blood to not get distrubed by it
+[15:08:04] Andrew Philip: /me take a bucket and a mop and give it to Sophie
+[15:08:11] Andrew Philip: spread the water, I'll get you some bleach
+[15:08:16] Sophie Clermont: you got it
+[15:08:57] Andrew Philip<STEAM_0:1:118336892> spawned model models/props_junk/metalbucket02a.mdl
+[15:09:07] Andrew Philip: don't drink the bleacH!
+[15:09:17] Sophie Clermont: don't need to tell me
+[15:09:25] Client "Friendly Hoovy" connected.
+[15:10:54] Sophie Clermont: /me puts some bleach into the tub afterward filling it with water and mopping the floor with it.
+[15:11:12] Apollo7771FO3<STEAM_0:1:40787669> changed their name to Todd Muller
+[15:11:24] Dropped "Todd Muller" from server<STEAM_0:1:40787669>
+[15:14:04] Andrew Philip: // is watching beastars makes you a furry
+[15:14:10] Sophie Clermont: /OOC nah
+[15:14:32] Sophie Clermont: finished mopping.
+[15:14:44] Andrew Philip: perfect
+[15:15:07] Andrew Philip: here's your tip
+[15:15:11] Andrew Philip: /droptokens 5
+[15:15:24] Sophie Clermont: thank you
+[15:15:47] Sophie Clermont: question, do you take care of the entire building yourself?
+[15:15:53] Andrew Philip: yes.
+[15:16:08] Sophie Clermont: is there nobody else in the CMU?
+[15:17:40] Client "Apollo7771FO3" connected.
+[15:19:18] Andrew Philip: /looc back
+[15:19:31] Andrew Philip: nope, only me sadly
+[15:20:30] Sophie Clermont: it's a shame they have to put all the work on you.
+[15:21:00] Client "Apollo7771FO3" spawned in server <STEAM_0:1:40787669> (took 200 seconds).
+[15:21:14] Andrew Philip: indeed, I don't even get paid 
+[15:21:41] Sophie Clermont: you don't get paid?
+[15:21:55] Andrew Philip: nope
+[15:22:38] Andrew Philip: I give bandages for free
+[15:22:56] Sophie Clermont: I feel like you at the very least be compensated
+[15:23:55] Andrew Philip: nah, I do this job to help people, you know what they say - An Apple A Day May Keep the Combine Away. 
+[15:24:23] Sophie Clermont: I actually didn't know people say that
+[15:24:44] Andrew Philip: well I heard it and stole it from someone - its catchy 
+[15:25:07] Apollo7771FO3<STEAM_0:1:40787669> changed their name to Todd Muller
+[15:25:53] Sophie Clermont: thank you for allowing me to repay you somewhat, if you need anything feel free to ask me.
+[15:26:19] Andrew Philip: I might need a few things, but they can wait for later
+[15:26:37] Sophie Clermont: just ask and i'll see what I can do, within reason of course.
+[15:27:03] Sophie Clermont: If thats all I thank you again.
+[15:27:07] Andrew Philip: take care
+[15:27:10] Sophie Clermont: you too
+[15:27:19] Andrew Philip: /pm sophie wanna get bullied for no reason for char development
+[15:27:38] Andrew Philip<STEAM_0:1:118336892> changed their name to CCA.C17-UNION.i5.09143
+[15:27:46] Sophie Clermont: /reply sure?
+[15:28:11] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> spawned model models/props_wasteland/laundry_cart001.mdl
+[15:28:17] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> spawned model models/props_junk/metalbucket01a.mdl
+[15:28:19] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> spawned model models/props_junk/metalbucket02a.mdl
+[15:28:43] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> spawned model models/props_debris/concrete_chunk09a.mdl
+[15:28:45] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> spawned model models/props_debris/concrete_chunk09a.mdl
+[15:28:46] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> spawned model models/props_debris/concrete_column001a_base.mdl
+[15:28:51] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> spawned model models/props_debris/concrete_chunk08a.mdl
+[15:28:53] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> spawned model models/props_debris/concrete_chunk05g.mdl
+[15:28:54] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> spawned model models/props_debris/concrete_chunk06c.mdl
+[15:28:57] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> spawned model models/props_debris/metal_panelshard01c.mdl
+[15:28:59] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> spawned model models/props_debris/rebar002b_48.mdl
+[15:29:00] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> spawned model models/props_debris/tile_wall001a_chunk04.mdl
+[15:29:33] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> spawned model models/props_junk/metalgascan.mdl
+[15:29:37] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> spawned model models/props_junk/plasticbucket001a.mdl
+[15:29:50] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> spawned model models/props_junk/garbage_metalcan001a.mdl
+[15:29:51] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> spawned model models/props_junk/garbage_metalcan002a.mdl
+[15:29:52] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> spawned model models/props_junk/garbage_milkcarton001a.mdl
+[15:30:08] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> used the tool remover on models/props_debris/rebar002b_48.mdl
+[15:30:09] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> used the tool remover on models/props_debris/concrete_chunk06c.mdl
+[15:30:48] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> spawned model models/props_junk/metalbucket01a.mdl
+[15:30:54] CCA.C17-UNION.i5.09143: you here for some work?
+[15:30:58] Todd Muller: Indeed.
+[15:31:22] CCA.C17-UNION.i5.09143: go clean the shop's windows here and near the furniture store
+[15:31:25] Sophie Clermont: /OOC ey is that the work desk I see?
+[15:32:05] Todd Muller: /looc Holy
+[15:32:09] CCA.C17-UNION.i5.09143: /me puts a bucket of water and a sponage
+[15:32:39] Todd Muller: /me Grabs both the bucket of water and the sponage before walking off.
+[15:32:53] CCA.C17-UNION.i5.09143: your here for work too?
+[15:32:56] Sophie Clermont: yes.
+[15:33:04] CCA.C17-UNION.i5.09143: /me take out his stunstcik
+[15:33:06] CCA.C17-UNION.i5.09143: follow me
+[15:33:11] CCA.C17-UNION.i5.09143: /looc stick*
+[15:34:02] CCA.C17-UNION.i5.09143: IN
+[15:34:18] Todd Muller: /me Dips the sponage in the water before starting to rub the sponage accross the window. Starting at the top before slowly coming down, making sure to clean every inch of the window.                                                                          
+[15:34:26] CCA.C17-UNION.i5.09143: The trash, pick it up and throw it to the abyss after you open the hatch
+[15:34:37] Sophie Clermont: Understood
+[15:35:28] Todd Muller: /me Quickly moves the bucket over to the next window. Peforming the same task he did the last time. Dripping the sponage into the Bucket Of Water before cleaning every inch of the window.                                                                     
+[15:35:39] CCA.C17-UNION.i5.09143: /viewdata sop
+[15:36:13] Todd Muller: /me Picks up the bucket of water before looking around for a moment, then walking to the left. Checking to see if there were any windows left un-cleaned.
+[15:36:39] Sophie Clermont: I believe that is everything.
+[15:36:41] Todd Muller: /me Stops for a moment to look at the "Furniture Store" before then walking off.
+[15:36:53] CCA.C17-UNION.i5.09143: hm, have a look for me
+[15:37:02] Sophie Clermont: isn't that a bit dangerous?
+[15:37:09] CCA.C17-UNION.i5.09143: I don't think so.
+[15:37:12] CCA.C17-UNION.i5.09143: go on
+[15:37:16] CCA.C17-UNION.i5.09143: /me pushs the female to the trash
+[15:37:25] CCA.C17-UNION.i5.09143: haha
+[15:37:34] Todd Muller: /me Sets both the bucket of water and the sponage on the table, before looking around. Awaiting a officer to come along.
+[15:37:46] CCA.C17-UNION.i5.09143: perfect
+[15:37:48] CCA.C17-UNION.i5.09143: apply
+[15:37:50] Todd Muller: /apply
+[15:37:55] CCA.C17-UNION.i5.09143: /viewdata todd
+[15:38:01] Sophie Clermont: /me would be at a loss for words.
+[15:38:05] CCA.C17-UNION.i5.09143: you can go
+[15:38:08] Todd Muller: Wonderful!
+[15:38:19] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> changed their name to I Death Machine
+[15:38:37] I Death Machine: ribbit 2
+[15:38:48] I Death Machine: ribbit 2
+[15:39:12] I Death Machine: melm 1
+[15:39:14] I Death Machine: ribbit 2
+[15:39:21] Todd Muller: What the...
+[15:39:21] Sophie Clermont: /me would jump back.
+[15:39:26] I Death Machine: ribbit 2
+[15:39:32] Todd Muller: Is that a... Frog?
+[15:39:33] Sophie Clermont: what is that?
+[15:39:36] Todd Muller: /looc Brb.
+[15:40:17] I Death Machine<STEAM_0:1:118336892> changed their name to Andrew Philip
+[15:40:42] Andrew Philip: The hell you doing here?
+[15:40:43] Sophie Clermont: uuh...
+[15:40:51] Sophie Clermont: not really here by choice.
+[15:41:17] Sophie Clermont: what are you doing here?
+[15:41:40] Todd Muller: /looc Back.
+[15:41:50] Andrew Philip: /looc lagging 
+[15:41:57] Andrew Philip: // 666 ping
+[15:42:05] Andrew Philip: lets get you out of here
+[15:42:07] Sophie Clermont: /looc rip
+[15:42:07] Todd Muller: /ooc Evil.
+[15:42:25] Andrew Philip: Do not tell anyone you saw me here
+[15:42:38] Sophie Clermont: Andrew
+[15:42:42] Andrew Philip: what
+[15:42:49] Sophie Clermont: I wont meddle in your life...
+[15:42:58] Andrew Philip: your running out of filters
+[15:43:02] Andrew Philip: go buy some
+[15:43:07] Sophie Clermont: it's fine
+[15:43:28] Andrew Philip<STEAM_0:1:118336892> changed their name to CCA.C17-UNION.i5.09143
+[15:43:31] Todd Muller: /looc Magic.
+[15:43:38] CCA.C17-UNION.i5.09143: // oh
+[15:43:42] Sophie Clermont: /OOC oh
+[15:43:45] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> changed their name to Hyo Jeong
+[15:43:58] Todd Muller: /ooc E gads.
+[15:44:17] Hyo Jeong: oh hey there
+[15:44:19] Sophie Clermont: Evening.
+[15:44:26] Hyo Jeong: /me inspects the citizen's uniform
+[15:44:39] Hyo Jeong: /it how are they
+[15:44:50] Sophie Clermont: /looc wdym by that?
+[15:45:00] Todd Muller: /ooc Amogus.
+[15:45:05] Hyo Jeong: /looc are they wet or dirty cuz u just got thrown to the trash
+[15:45:09] Sophie Clermont: /OOC Amongus
+[15:45:16] Hyo Jeong: // sugnomA
+[15:45:26] Todd Muller: /ooc Amongsus
+[15:45:34] Hyo Jeong: // Among ussn't
+[15:45:49] Hyo Jeong: // unAmongus
+[15:46:03] Todd Muller: /ooc Sus.
+[15:46:06] Sophie Clermont: /it Their suit would be soaked with a mix of spoiled milk and dirty water.
+[15:46:35] Hyo Jeong: what happened to you, I can smell spoiled milk coming from you
+[15:46:42] Hyo Jeong: through my mask even
+[15:46:57] Sophie Clermont: Fell into some trash, wasn't very pleasant.
+[15:47:54] Hyo Jeong: You got an yourself a apartment?
+[15:48:12] Sophie Clermont: Yeah I was just headed there, gotta get my suit washed since I don't have a spare.
+[15:48:36] Hyo Jeong: My name is Hyo, what's yours?
+[15:48:56] Sophie Clermont: Sophie nice to meet you Miss Hyo.
+[15:49:14] Sophie Clermont: now I really need to get this cleaned so, see you around.
+[15:49:16] Hyo Jeong: take care, be careful next time
+[15:49:24] Hyo Jeong<STEAM_0:1:118336892> changed their name to CCA.C17-UNION.i5.09143
+[15:49:34] CCA.C17-UNION.i5.09143: oh hey
+[15:49:39] Sophie Clermont: Hello officer.
+[15:49:42] CCA.C17-UNION.i5.09143: how did you manage to get out
+[15:50:18] Sophie Clermont: I just walked out, warehouse door was open.
+[15:50:42] CCA.C17-UNION.i5.09143: well, its raining so you better get yourself cleaned before you get in furter trouble
+[15:51:15] CCA.C17-UNION.i5.09143: before the rain is gone
+[15:51:19] Sophie Clermont: thats the plan, I completed the job so did I still get any points applied?
+[15:51:43] CCA.C17-UNION.i5.09143: apply
+[15:51:47] Sophie Clermont: /apply
+[15:52:41] CCA.C17-UNION.i5.09143: You wanna clean more trash and clean your uniform or you wanna go in and relax with your dirty filthy uniform
+[15:53:23] Sophie Clermont: i'll pick the first option if theres anything left to do just give me a second.
+[15:54:18] Sophie Clermont: /me puts their suit in the wash.
+[15:57:53] Sophie Clermont: /me takes their suit out of the wash and plops it in the dryer.
+[15:59:04] CCA.C17-UNION.i5.09143: // ya'll afk?
+[16:01:51] Todd Muller: You... Got any work?
+[16:01:58] CCA.C17-UNION.i5.09143: /me gives him am op
+[16:02:04] CCA.C17-UNION.i5.09143: go clean both apartment blocks
+[16:02:46] CCA.C17-UNION.i5.09143: circulation and manufacturing that is
+[16:03:04] Todd Muller: Erm, okie dokie.
+[16:03:19] Todd Muller: What do you... Want me to clean the apartment blocks with?
+[16:03:32] CCA.C17-UNION.i5.09143: /looc oh I said op
+[16:03:35] CCA.C17-UNION.i5.09143: /me gives him a mop
+[16:03:42] CCA.C17-UNION.i5.09143: /looc I ment to say mop not op, soz
+[16:03:45] Todd Muller: /me Grabs the mop.
+[16:03:48] Todd Muller: /looc All good.
+[16:03:51] Todd Muller: Alrighty.
+[16:04:04] Sophie Clermont: anything avaliable?
+[16:04:22] CCA.C17-UNION.i5.09143: hmm, let me check
+[16:04:43] CCA.C17-UNION.i5.09143: hmm...
+[16:05:08] CCA.C17-UNION.i5.09143: there is alot of trash piles around the city, collect them and throw them in the bin
+[16:05:17] CCA.C17-UNION.i5.09143: /me points to the trash under the poster near Terminal Hotel
+[16:05:18] CCA.C17-UNION.i5.09143: like that
+[16:05:28] Sophie Clermont: alright thank you
+[16:06:28] Todd Muller: /me Plops the mop on the floor before moving it around for a moment, cleaning. Making sure to get every bit of dirt and dust and whatever dirty things were on the floor.                                                                                       
+[16:06:32] Sophie Clermont: /me picks up all the garbage 1 by one throwing the bags into a dumpster
+[16:06:49] Todd Muller: /me Drags the mop around the floor, cleaning.
+[16:07:55] Todd Muller: /me Stops around the machine thing, stopping to stare at it for a moment before walking off, still dragging the mop behide him. Still cleaning the floor.
+[16:08:55] Sophie Clermont: /me collects the garbage littering the street chucking it into the dumpster.
+[16:09:09] Todd Muller: /me Stops for a moment to push all the dirt and grime to the wall.
+[16:09:53] Todd Muller: /me Cleans the last bit of floor before taking a long breath before then walking off, the broom inches away from the ground.
+[16:11:18] Todd Muller: Guess this is it.
+[16:11:32] Sophie Clermont: /me picks up the garbage chucking it into a dumpster.
+[16:11:44] Todd Muller: /me Starts cleaning the floor with the mop, moving it from side-to-side, cleaning the floor.
+[16:11:46] CCA.C17-UNION.i5.09143: // eggs are just fried chicken fetuses
+[16:11:55] Todd Muller: /ooc ....
+[16:12:53] Sophie Clermont: Done
+[16:12:58] CCA.C17-UNION.i5.09143: apply
+[16:13:01] Sophie Clermont: /apply
+[16:13:03] Todd Muller: /me Looks up at the stairs before letting out a defeated sigh before then just smacking the first few steps with the broom, before then slowly dragging the broom off the stairs. Then walking out of the room, slightly leaned over.
+[16:13:10] CCA.C17-UNION.i5.09143: /viewdata sop
+[16:13:26] CCA.C17-UNION.i5.09143: you can now apply for CWU or CMD.
+[16:13:31] Sophie Clermont: thanks
+[16:14:19] Todd Muller: /me Slowly walks over to the desk before tossing the mop on the table, whilst breathing heavy.
+[16:14:30] CCA.C17-UNION.i5.09143: why you breathing for
+[16:14:36] CCA.C17-UNION.i5.09143: /looc panting*
+[16:14:39] CCA.C17-UNION.i5.09143: /viewdata todd
+[16:15:04] Todd Muller: Eh, tired.... Well, tired-ish.
+[16:15:10] CCA.C17-UNION.i5.09143: apply
+[16:15:13] Todd Muller: /apply
+[16:15:15] CCA.C17-UNION.i5.09143: get out
+[16:15:18] Todd Muller: Okay..
+[16:15:36] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> changed their name to Andrew Philip
+[16:19:21] Todd Muller: /ooc Alright, be right back. Imma go donate.
+[16:19:25] Dropped "Todd Muller" from server<STEAM_0:1:40787669>
+[16:22:11] Client "Apollo7771FO3" connected.
+[16:23:31] Client "Apollo7771FO3" spawned in server <STEAM_0:1:40787669> (took 80 seconds).
+[16:24:32] Apollo7771FO3<STEAM_0:1:40787669> changed their name to Todd Muller
+[16:24:38] Todd Muller: /ooc Back.
+[16:29:03] Client "Zarekatreo™" connected.
+[16:30:19] Andrew Philip: // let me see if I can give u ur stuff
+[16:30:28] Andrew Philip: /plywhitelist Todd Bird
+[16:30:40] Andrew Philip: /plywhitelist Todd Xen
+[16:30:42] Andrew Philip: /plywhitelist Todd alien
+[16:30:55] Andrew Philip: /plywhitelist Todd ancill
+[16:31:05] Client "Zarekatreo™" spawned in server <STEAM_0:1:419533834> (took 122 seconds).
+[16:31:11] Andrew Philip: /chargiveflag Todd pet
+[16:31:21] Andrew Philip: // that should be it
+[16:31:25] Todd Muller: /ooc Thanks!
+[16:31:37] Zarekatreo™<STEAM_0:1:419533834> changed their name to Calvin Henderson
+[16:34:57] Andrew Philip was killed by npc_zombie
+[16:35:02] Todd Muller<STEAM_0:1:40787669> changed their name to Bubba
+[16:35:16] Bubba: E.
+[16:36:10] Client "ralph" connected.
+[16:37:28] Bubba: /me Pecks at the ground.
+[16:38:11] Andrew Philip: oh hey there
+[16:38:14] Calvin Henderson: hello!
+[16:38:20] Andrew Philip: Calvin?
+[16:38:26] Calvin Henderson: that's me
+[16:38:30] Andrew Philip: how are you doing
+[16:38:46] Calvin Henderson: fine, you?
+[16:39:00] Client "ralph" spawned in server <STEAM_0:1:116497963> (took 170 seconds).
+[16:39:02] Andrew Philip: Just, wondering... may I ask you a couple of questions?
+[16:39:11] Calvin Henderson: uhm... Sure
+[16:39:23] Andrew Philip: do you consider yourself a loyalist?
+[16:39:43] Calvin Henderson: I try to not do anything against the Union
+[16:39:47] Calvin Henderson: so yes?
+[16:39:55] Andrew Philip: /me writes down some notes
+[16:40:07] Andrew Philip: what do you think about the union?
+[16:40:10] ralph<STEAM_0:1:116497963> changed their name to CCA.C17-UNION.i5.01477
+[16:40:54] Andrew Philip: /looc magic CP
+[16:41:12] Calvin Henderson: as long as they keep me fed and comfortable I like having them around
+[16:41:34] Andrew Philip: would you join the CWU or CMD because if you get 5 loyalist points you'd be able to sign up
+[16:41:52] Bubba<STEAM_0:1:40787669> changed their name to Crab.
+[16:42:00] Calvin Henderson: I don't know much about medical stuff
+[16:42:12] Calvin Henderson: so I don't think I'm very qualified to join the CMU
+[16:42:26] CCA.C17-UNION.i5.01477: Then join the C-W-U.
+[16:42:31] CCA.C17-UNION.i5.01477: Or -- try.
+[16:42:35] Crab. was killed by trigger_hurt
+[16:43:03] Calvin Henderson: I'm pretty strong so I guess I could try and join it once I get the points
+[16:43:21] CCA.C17-UNION.i5.01477: What're you wantin' to do.
+[16:43:46] CCA.C17-UNION.i5.01477: /mynotes
+[16:44:03] Calvin Henderson: I'd probably join it
+[16:44:18] CCA.C17-UNION.i5.01477: Is there somethin' wrong with your head?
+[16:44:26] Calvin Henderson: no?
+[16:45:10] CCA.C17-UNION.i5.01477: Seems like it - Maybe you should learn about the C-W-U before you join, yeah?
+[16:45:32] Andrew Philip: Actually, what other things do the CWU actually do, I've only seen shop owners
+[16:45:41] Crab.<STEAM_0:1:40787669> changed their name to Bubba
+[16:46:06] Sophie Clermont: /OOC back
+[16:46:12] Andrew Philip: // wb
+[16:46:16] CCA.C17-UNION.i5.01477: Well, it's really all about keepin' a shop - except for if you want to be a workshift leader.. I think you would have to get higher authority for that.
+[16:46:23] Bubba: /me Pecks at the ground.
+[16:46:34] CCA.C17-UNION.i5.01477: I don't research it, or care.
+[16:46:46] Andrew Philip: is there a research or Science section?
+[16:47:09] CCA.C17-UNION.i5.01477: Maybe, haven't heard one startin' up yet.. I've heard other cities got U-I-L, short for; Union Innovation Labs.
+[16:47:56] Calvin Henderson: so.. Uh.. Do CWU workers do any actual work themselves or do they just put other people to work?
+[16:48:17] CCA.C17-UNION.i5.01477: They're workers... Whatddya think.
+[16:48:38] Calvin Henderson: okay....
+[16:49:02] CCA.C17-UNION.i5.01477: They work for their shop, keep it nice - and the customers.
+[16:49:15] Bubba: /me Pecks at the ground.
+[16:49:20] Sophie Clermont: hello
+[16:49:33] CCA.C17-UNION.i5.01477: Then join the C-W-U.
+[16:49:36] CCA.C17-UNION.i5.01477: .// woops
+[16:49:37] CCA.C17-UNION.i5.01477: .// void that
+[16:49:44] CCA.C17-UNION.i5.01477: .// accidently pressed the down arrow
+[16:49:52] Bubba: /me Looks up at the human for a moment before letting out a "SQUACK!" Then flying off.
+[16:50:03] CCA.C17-UNION.i5.01477: What's your loyalty points?
+[16:50:14] Calvin Henderson: I don't have any right now
+[16:50:22] CCA.C17-UNION.i5.01477: Ahh.
+[16:50:31] CCA.C17-UNION.i5.01477: Could you apply for me?
+[16:50:38] Calvin Henderson: okay
+[16:50:43] Calvin Henderson: /me shows him his ID
+[16:50:49] Calvin Henderson: /it it says Calvin Henderson
+[16:51:12] Andrew Philip: I should head my way, you two take care
+[16:51:16] Calvin Henderson: cya
+[16:51:22] CCA.C17-UNION.i5.01477: /me would grab the ID, looking over it. "Confirm the name and ID number for me."
+[16:51:31] CCA.C17-UNION.i5.01477: .// drop your CID
+[16:51:45] Bubba: /me Pecks at the ground.
+[16:51:49] CCA.C17-UNION.i5.01477: .// do /apply to confirm
+[16:51:51] Andrew Philip<STEAM_0:1:118336892> changed their name to crabyy
+[16:51:52] Calvin Henderson: /apply
+[16:52:00] CCA.C17-UNION.i5.01477: .// when an officer asks just do /apply B)
+[16:52:06] crabyy: /pm bub time to reek havoc
+[16:52:07] CCA.C17-UNION.i5.01477: Aw'lright, Calvin.
+[16:52:09] Calvin Henderson: .// ok ty
+[16:52:20] CCA.C17-UNION.i5.01477: /me would toss it back, re-gripping his stun baton.
+[16:52:23] Bubba: /reply Mmmmmmmmmmmmmmmmmmmm, yesh.
+[16:52:28] Bubba<STEAM_0:1:40787669> changed their name to Crab.
+[16:52:32] Calvin Henderson: /me takes it back and puts it in his pocket
+[16:52:47] crabyy: crab noises
+[16:52:49] CCA.C17-UNION.i5.01477: When did yah' transfer?
+[16:52:52] Crab.: /looc Sus.
+[16:52:57] crabyy: /looc Red is sus
+[16:53:00] Calvin Henderson: about a day ago
+[16:53:09] Calvin Henderson: .// I joined like a week ago but with the events and stuff I haven't been on
+[16:53:20] CCA.C17-UNION.i5.01477: .// ahh okk
+[16:53:28] CCA.C17-UNION.i5.01477: Aye, where from?
+[16:53:35] crabyy: /w sh
+[16:53:38] Calvin Henderson: I got trsanfered from City 8
+[16:53:41] CCA.C17-UNION.i5.01477: /viewchardata calvin
+[16:53:47] Calvin Henderson: what a weird place
+[16:54:01] Sophie Clermont<STEAM_0:0:457261159> changed their name to Shmerm
+[16:54:01] CCA.C17-UNION.i5.01477: Ahh, '08. Japan, a lovely-
+[16:54:17] Calvin Henderson: w-w
+[16:54:25] CCA.C17-UNION.i5.01477: /me would hold his baton up, flicking it to life.
+[16:54:26] Calvin Henderson: /me takes a step back
+[16:54:28] Crab.: /me Slowly walks over to the CP. Before letting out a sort of hiss.
+[16:55:06] crabyy: /me does some random headcrab noises, preparing his self to jump
+[16:55:20] Calvin Henderson: /me backs up into the railing
+[16:55:36] CCA.C17-UNION.i5.01477: /me would crouch, going for a strike right on the headcrabs back!
+[16:55:41] CCA.C17-UNION.i5.01477: .// sorry had a brainfart
+[16:55:51] CCA.C17-UNION.i5.01477: .// roll agi and ill roll str i guess
+[16:55:58] Crab.: /roll
+[16:55:58] crabyy: /looc just jump off the fucking rail
+[16:56:00] Crab.: /looc Copy.
+[16:56:06] CCA.C17-UNION.i5.01477: /roll
+[16:56:14] CCA.C17-UNION.i5.01477: /me would miss, cracking his stunstick against the pavement!
+[16:56:14] Calvin Henderson: /me falls onto the bench
+[16:56:16] Calvin Henderson: /y agh!
+[16:56:30] CCA.C17-UNION.i5.01477: .// go ahead and /me
+[16:56:34] Crab.: /me Lets out a loud kiss, ready to jump.
+[16:56:38] crabyy<STEAM_0:1:118336892> changed their name to CCA.C17-UNION.i5.09143
+[16:56:49] Calvin Henderson: /me gets up
+[16:57:13] CCA.C17-UNION.i5.01477: /me would hold the stun stick up infront of his face, waiting for the headcrab to stupidly jump into it!
+[16:57:26] Calvin Henderson: hey
+[16:57:37] CCA.C17-UNION.i5.09143: /me puts away his stunstick and take out a knife
+[16:57:42] Calvin Henderson: /me dusts himself off
+[16:57:42] CCA.C17-UNION.i5.09143: you need help
+[16:57:44] Crab.: /me Jumps towards the Civil Protection Officer, aiming towards his head.
+[16:57:46] Crab.: /roll
+[16:57:48] CCA.C17-UNION.i5.01477: /roll
+[16:57:53] Crab.: /looc F.
+[16:57:57] Shmerm<STEAM_0:0:457261159> changed their name to Sophie Clermont
+[16:58:48] CCA.C17-UNION.i5.01477: /me would completely underestimate where he should have put his stunstick, facing the unevitable event of the headcrab latching onto him.
+[16:58:50] CCA.C17-UNION.i5.01477: /y help
+[16:59:03] CCA.C17-UNION.i5.09143: /me would spot the headcrab jumping, he would rush trying to stab the headcrab before it lands on the unit
+[16:59:06] CCA.C17-UNION.i5.09143: /rollstat agi
+[16:59:09] Crab.: /roll
+[16:59:31] CCA.C17-UNION.i5.09143: /me as he rushs, he would slap the headcrab, with the knife, but not killing saving the unit
+[16:59:42] CCA.C17-UNION.i5.09143: /looc not killing it*\
+[17:00:00] CCA.C17-UNION.i5.01477: .// dont accidentally kill it lmfao
+[17:00:03] Crab.: /me Gets slap away from the unit, landing on it back before letting out some angry hiss before quickly getting back up.
+[17:00:16] CCA.C17-UNION.i5.09143: get up
+[17:00:33] CCA.C17-UNION.i5.01477: /me would pick himself up, redying his stunstick once more.
+[17:00:43] CCA.C17-UNION.i5.01477: .// englis
+[17:00:51] CCA.C17-UNION.i5.09143: /looc very guod england
+[17:01:08] Crab.: /me Looks over at the two units, before quicky rushing to the Civil Protection Officer with the knife.
+[17:01:32] CCA.C17-UNION.i5.01477: .// your turn
+[17:01:36] CCA.C17-UNION.i5.09143: /looc oh
+[17:01:59] CCA.C17-UNION.i5.09143: /me holds his knife firmly, attempting to stab the headcrab on the head to kill it
+[17:02:06] Crab.: /roll
+[17:02:12] CCA.C17-UNION.i5.09143: /rollstat stm
+[17:02:28] CCA.C17-UNION.i5.01477: .// oof the crab won by 5
+[17:02:43] CCA.C17-UNION.i5.01477: .// i dont know but they only count the first number
+[17:02:46] CCA.C17-UNION.i5.01477: .// so you got 30
+[17:03:13] CCA.C17-UNION.i5.09143: /me misses the hit 
+[17:03:44] CCA.C17-UNION.i5.01477: ./// go headcrab
+[17:03:52] Crab.: /me Gets ready to launch at the unit, letting out some very obvious sounds that it's getting ready to attack.
+[17:04:27] CCA.C17-UNION.i5.01477: /me would get down again, swinging towards the headcrab, aiming right for the back, hoping the highest setting would put it out of it's misery.
+[17:04:31] CCA.C17-UNION.i5.01477: /roll str
+[17:04:35] Crab.: /roll
+[17:04:38] CCA.C17-UNION.i5.01477: .// my god
+[17:04:41] CCA.C17-UNION.i5.01477: .// i have the worst luck
+[17:04:54] CCA.C17-UNION.i5.01477: /me would miss, striking the ground again. He started to look like a complete fool
+[17:05:26] CCA.C17-UNION.i5.09143: /looc who's turn is it now
+[17:05:31] Crab.: /me After one final hiss it would launch itself at the Civil Protection officer.
+[17:05:38] CCA.C17-UNION.i5.01477: .// now yours lol
+[17:05:50] CCA.C17-UNION.i5.09143: /me would try to stab the headcrab in the air while its mid-air
+[17:05:54] CCA.C17-UNION.i5.09143: /roll
+[17:05:55] Crab.: /roll
+[17:05:58] CCA.C17-UNION.i5.01477: .// OH MY GOD
+[17:06:01] Crab.: /looc F.
+[17:06:09] Calvin Henderson: .// no krab kabab for dinner :(
+[17:06:25] CCA.C17-UNION.i5.09143: /looc save me 147
+[17:06:28] CCA.C17-UNION.i5.01477: .// ill try
+[17:06:52] Crab.: /me Attaches to the Civil Protection Unit's mask, digging it's legs into the sides of their head.
+[17:07:14] CCA.C17-UNION.i5.09143: /me would try to get the headcrab off his head, shouting
+[17:07:18] CCA.C17-UNION.i5.01477: /me would try to grab it's hind legs and pry it off, "Grab the other set of legs!"
+[17:07:19] CCA.C17-UNION.i5.09143: /y get it off,
+[17:07:20] CCA.C17-UNION.i5.09143: /y get it off,
+[17:07:23] Crab.: /roll
+[17:07:24] CCA.C17-UNION.i5.01477: /roll str
+[17:07:54] CCA.C17-UNION.i5.01477: /me would free the officer from the nails that dug in the side of his face, leaving the top ones to seep in, 'Grab the other legs!"
+[17:08:11] CCA.C17-UNION.i5.09143: /me grabs the other legs, trying to get the headcrab fully off him
+[17:08:12] CCA.C17-UNION.i5.09143: /roll
+[17:08:14] Crab.: /roll
+[17:08:17] Crab.: /looc E.
+[17:08:20] CCA.C17-UNION.i5.01477: .// now we get good rolls
+[17:08:25] CCA.C17-UNION.i5.01477: .// of course
+[17:08:29] Crab.: /me Gets pulled off of the units head.
+[17:08:31] CCA.C17-UNION.i5.01477: .// your turn headcrab
+[17:08:33] CCA.C17-UNION.i5.01477: .// oh
+[17:09:18] CCA.C17-UNION.i5.01477: /me would try to throw it to the wall - if he could pry it from the other officers hands.
+[17:09:40] CCA.C17-UNION.i5.01477: .// if you dont want to roll for that just /me you letting go lol
+[17:09:49] Crab.: /looc Who going next?
+[17:09:57] CCA.C17-UNION.i5.01477: .// talking to you btw i5
+[17:10:16] CCA.C17-UNION.i5.01477: .// itll be your turn after i5 reacts
+[17:10:19] CCA.C17-UNION.i5.09143: /me lets go of the headcrab
+[17:10:33] CCA.C17-UNION.i5.09143: /looc ur turn
+[17:10:42] CCA.C17-UNION.i5.01477: .// do you want to roll to see if you get sent to the wall or if your too slippery
+[17:10:50] Crab.: /looc Yesh.
+[17:10:51] CCA.C17-UNION.i5.09143: /looc too slippery
+[17:10:51] Crab.: /roll
+[17:10:54] CCA.C17-UNION.i5.01477: /roll str
+[17:10:56] CCA.C17-UNION.i5.01477: .// oof
+[17:10:59] CCA.C17-UNION.i5.01477: .// alright
+[17:11:00] Crab.: /looc F.
+[17:11:02] CCA.C17-UNION.i5.01477: .// go ahead and /me
+[17:11:08] Crab.: /
+[17:11:13] CCA.C17-UNION.i5.09143: /looc who?
+[17:11:16] CCA.C17-UNION.i5.01477: .// the crabbbbbbb
+[17:11:38] CCA.C17-UNION.i5.01477: .// you have slipped out of my hands, and you are on the ground
+[17:12:01] CCA.C17-UNION.i5.01477: // tfw no cmu
+[17:12:17] Crab.: /me Is too slippery for the units hands and then falls on the ground, before letting out a loud and very mad hiss before trying to launch itself once more at the unit with the knife.
+[17:12:20] CCA.C17-UNION.i5.09143: // I'll flag on it for RP
+[17:12:37] CCA.C17-UNION.i5.09143: /me when the headcrab does so, he'd attempt to stab it mid-air
+[17:12:38] CCA.C17-UNION.i5.01477: .// cant, your the one thats hurt -- ill just think of something to do in rp
+[17:12:50] CCA.C17-UNION.i5.09143: /looc roll
+[17:12:52] Crab.: /roll
+[17:12:53] CCA.C17-UNION.i5.09143: /roll
+[17:12:56] CCA.C17-UNION.i5.09143: /looc wtf
+[17:12:59] CCA.C17-UNION.i5.01477: .// pffffft
+[17:13:11] Crab.: /looc *100.*
+[17:13:25] CCA.C17-UNION.i5.01477: .// thats a definite latch on i cant try to stop him
+[17:13:52] Crab.: /looc Whom is the person going next?
+[17:13:55] CCA.C17-UNION.i5.01477: .// you
+[17:13:59] Crab.: /looc M'kay.
+[17:14:01] CCA.C17-UNION.i5.01477: .// i cant go
+[17:14:38] Crab.: /me Latches onto the units head once again, repeating the same thing it did last time. Digging it's legs into the sides of their head. Whilst hissing.
+[17:15:05] CCA.C17-UNION.i5.01477: .// also, headcrab, do you agree to no PK for whoever dies in this? This includes your headcrab, and the officer - who is most likely going to be turned into a host.
+[17:15:17] CCA.C17-UNION.i5.09143: /me would shake around and trying to get it off him, before using the knife and try to aim on his own head
+[17:15:25] Crab.: /looc Agreed. No PK.
+[17:15:41] Crab.: /roll
+[17:15:43] CCA.C17-UNION.i5.01477: .// alright, just go by NLR then - 30 minutes i think it is -- if anyone dies.
+[17:15:44] CCA.C17-UNION.i5.09143: /roll
+[17:15:49] Crab.: /looc F.
+[17:16:03] CCA.C17-UNION.i5.09143: /me misses , losing control over himself
+[17:16:06] CCA.C17-UNION.i5.09143: /y pain1
+[17:16:09] CCA.C17-UNION.i5.09143: /y pain2
+[17:16:18] CCA.C17-UNION.i5.01477: Try to cut his legs off!
+[17:16:24] CCA.C17-UNION.i5.01477: I don't have a knife, I can't help you!
+[17:16:35] CCA.C17-UNION.i5.09143: /me would try again a final time (last action before becoming a zombie)
+[17:16:53] Crab.: /me Starts to crack it's inner mouth fang things into the units head, digging it's two back legs into the units back.
+[17:17:12] Crab.: /looc Uhhh.
+[17:17:17] CCA.C17-UNION.i5.09143: /looc roll?
+[17:17:20] Crab.: /looc Sure.
+[17:17:22] Client "elkay" connected.
+[17:17:23] Crab.: /roll 
+[17:17:24] CCA.C17-UNION.i5.01477: .// uhh just do a normal roll
+[17:17:25] CCA.C17-UNION.i5.09143: /roll
+[17:17:27] CCA.C17-UNION.i5.01477: .// LOL
+[17:17:30] Crab.: /looc Oof.
+[17:17:35] CCA.C17-UNION.i5.09143: /looc do I stab you 
+[17:17:57] Crab.: /looc Uhhh, did you try and stab me?
+[17:17:59] CCA.C17-UNION.i5.01477: .// are you stabbing yourself with the knife aimed right at your face?
+[17:18:07] CCA.C17-UNION.i5.09143: /looc yes.
+[17:18:18] CCA.C17-UNION.i5.01477: .// then you would prolly end up killing the crab - and yourself.
+[17:18:23] Sophie Clermont<STEAM_0:0:457261159> changed their name to Kevin
+[17:18:32] CCA.C17-UNION.i5.01477: .// roll for it lol i dont know how to determine that
+[17:18:33] CCA.C17-UNION.i5.09143: /me uses the knife to end himself and the crab to not harm anyone
+[17:18:38] CCA.C17-UNION.i5.01477: .// or - alright
+[17:18:45] CCA.C17-UNION.i5.09143: /looc we already rolled unless we do another roll to survive
+[17:18:49] CCA.C17-UNION.i5.09143: /looc u wanna do that or just end myself
+[17:19:04] Client "elkay" spawned in server <STEAM_0:1:76095374> (took 102 seconds).
+[17:19:06] CCA.C17-UNION.i5.01477: .// i mean you could roll to see if you missed since you would probably only see the opening of the crabs head.
+[17:19:09] CCA.C17-UNION.i5.01477: .// mouth*
+[17:19:16] Crab.: /me Gets stabbed by the knife, letting out one last hiss before green blood would start to leak from it then it would start to go limp, clearly dead.
+[17:19:24] Calvin Henderson: .// gtg afk
+[17:19:27] CCA.C17-UNION.i5.01477: .// dont have to anymore he p2l
+[17:19:35] elkay<STEAM_0:1:76095374> changed their name to "Wilbur"
+[17:19:37] CCA.C17-UNION.i5.01477: .// so your both dead, r.i.p
+[17:19:43] Crab.: /looc F.
+[17:19:46] Crab.: /looc AGAIN.
+[17:19:48] Crab.: /looc STAB ME.
+[17:19:50] Crab.: /looc DO IT.
+[17:19:51] CCA.C17-UNION.i5.09143 killed Crab. using weapon_knife
+[17:19:56] CCA.C17-UNION.i5.09143 suicided!
+[17:19:56] CCA.C17-UNION.i5.09143 slayed Themself
+[17:19:56] CCA.C17-UNION.i5.09143: !slay ^
+[17:19:58] Crab.: /ooc GG, epic RP.
+[17:19:59] CCA.C17-UNION.i5.01477: .// judgement
+[17:20:04] Crab.<STEAM_0:1:40787669> changed their name to Bubba
+[17:20:10] "Wilbur": /ooc what did i join
+[17:20:10] CCA.C17-UNION.i5.01477: /me would watch as he fell limp, facepalming.
+[17:20:20] Kevin: me pecks the dead headcrab.
+[17:20:26] Bubba<STEAM_0:1:40787669> changed their name to Todd Muller
+[17:20:26] CCA.C17-UNION.i5.01477: .// hey no
+[17:20:29] CCA.C17-UNION.i5.01477: .// nonono
+[17:20:32] Kevin: /looc yes?
+[17:20:40] CCA.C17-UNION.i5.01477: /me would flick the stunsick off, clipping it to his belt.
+[17:20:45] CCA.C17-UNION.i5.09143: /looc owo
+[17:20:51] Kevin: /looc why do I hear boss music?
+[17:20:53] CCA.C17-UNION.i5.09143: /chargiveflag 09143 petr
+[17:21:06] Kevin: /looc oh its just another bird
+[17:21:11] CCA.C17-UNION.i5.09143: /looc let me spawn the ragdoll
+[17:21:12] CCA.C17-UNION.i5.01477: .// idk
+[17:21:12] "Wilbur": /looc yea how you doing
+[17:21:15] Todd Muller<STEAM_0:1:40787669> changed their name to AWAITING ASSIGNMENT
+[17:21:15] CCA.C17-UNION.i5.01477: .// i have to afk tho
+[17:21:20] Kevin: whats poppin my g
+[17:21:22] AWAITING ASSIGNMENT: /ooc Uhhhhhhhhhh.
+[17:21:34] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> spawned ragdoll models/police.mdl
+[17:21:34] "Wilbur": Aye bro just flyin and annoying the fuck outta these tall dudes
+[17:21:36] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> spawned ragdoll models/headcrabblack.mdl
+[17:21:46] Kevin: ayo you gotta try this crab bro.
+[17:21:52] "Wilbur": Ayo??
+[17:21:53] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> spawned ragdoll models/police_nemez.mdl
+[17:22:03] Kevin: its bustin bruh.
+[17:22:04] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> spawned ragdoll models/zombie/poison.mdl
+[17:22:06] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> spawned ragdoll models/headcrabblack.mdl
+[17:22:15] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> used the tool weld on models/headcrabblack.mdl
+[17:22:18] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> used the tool weld on models/police_nemez.mdl
+[17:22:23] "Wilbur": Really now. We talkin' three michelin star type food?
+[17:22:28] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> used the tool paint on maps/rp_i17_variation_v0.bsp
+[17:22:28] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> used the tool paint on maps/rp_i17_variation_v0.bsp
+[17:22:28] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> used the tool paint on maps/rp_i17_variation_v0.bsp
+[17:22:28] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> used the tool paint on maps/rp_i17_variation_v0.bsp
+[17:22:34] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> used the tool paint on maps/rp_i17_variation_v0.bsp
+[17:22:34] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> used the tool paint on maps/rp_i17_variation_v0.bsp
+[17:22:35] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> used the tool paint on maps/rp_i17_variation_v0.bsp
+[17:22:35] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> used the tool paint on maps/rp_i17_variation_v0.bsp
+[17:22:37] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> used the tool paint on maps/rp_i17_variation_v0.bsp
+[17:22:37] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> used the tool paint on maps/rp_i17_variation_v0.bsp
+[17:22:43] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> used the tool paint on maps/rp_i17_variation_v0.bsp
+[17:22:43] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> used the tool paint on maps/rp_i17_variation_v0.bsp
+[17:22:43] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> used the tool paint on maps/rp_i17_variation_v0.bsp
+[17:22:43] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> used the tool paint on maps/rp_i17_variation_v0.bsp
+[17:22:43] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> used the tool paint on maps/rp_i17_variation_v0.bsp
+[17:22:43] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> used the tool paint on maps/rp_i17_variation_v0.bsp
+[17:22:43] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> used the tool paint on maps/rp_i17_variation_v0.bsp
+[17:22:44] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> used the tool paint on maps/rp_i17_variation_v0.bsp
+[17:22:44] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> used the tool paint on maps/rp_i17_variation_v0.bsp
+[17:22:44] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> used the tool paint on maps/rp_i17_variation_v0.bsp
+[17:22:44] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> used the tool paint on maps/rp_i17_variation_v0.bsp
+[17:22:44] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> used the tool paint on maps/rp_i17_variation_v0.bsp
+[17:22:44] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> used the tool paint on maps/rp_i17_variation_v0.bsp
+[17:22:44] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> used the tool paint on maps/rp_i17_variation_v0.bsp
+[17:22:44] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> used the tool paint on maps/rp_i17_variation_v0.bsp
+[17:22:44] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> used the tool paint on maps/rp_i17_variation_v0.bsp
+[17:22:44] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> used the tool paint on maps/rp_i17_variation_v0.bsp
+[17:22:44] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> used the tool paint on maps/rp_i17_variation_v0.bsp
+[17:22:44] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> used the tool paint on maps/rp_i17_variation_v0.bsp
+[17:22:44] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> used the tool paint on maps/rp_i17_variation_v0.bsp
+[17:22:44] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> used the tool paint on maps/rp_i17_variation_v0.bsp
+[17:22:44] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> used the tool paint on maps/rp_i17_variation_v0.bsp
+[17:22:44] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> used the tool paint on maps/rp_i17_variation_v0.bsp
+[17:22:45] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> used the tool paint on maps/rp_i17_variation_v0.bsp
+[17:22:45] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> used the tool paint on maps/rp_i17_variation_v0.bsp
+[17:22:45] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> used the tool paint on maps/rp_i17_variation_v0.bsp
+[17:22:45] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> used the tool paint on maps/rp_i17_variation_v0.bsp
+[17:22:45] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> used the tool paint on maps/rp_i17_variation_v0.bsp
+[17:22:45] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> used the tool paint on maps/rp_i17_variation_v0.bsp
+[17:22:45] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> used the tool paint on maps/rp_i17_variation_v0.bsp
+[17:22:45] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> used the tool paint on models/headcrabblack.mdl
+[17:22:45] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> used the tool paint on maps/rp_i17_variation_v0.bsp
+[17:22:45] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> used the tool paint on maps/rp_i17_variation_v0.bsp
+[17:22:45] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> used the tool paint on maps/rp_i17_variation_v0.bsp
+[17:22:45] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> used the tool paint on maps/rp_i17_variation_v0.bsp
+[17:22:45] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> used the tool paint on maps/rp_i17_variation_v0.bsp
+[17:22:45] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> used the tool paint on maps/rp_i17_variation_v0.bsp
+[17:22:45] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> used the tool paint on maps/rp_i17_variation_v0.bsp
+[17:22:45] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> used the tool paint on maps/rp_i17_variation_v0.bsp
+[17:22:46] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> used the tool paint on maps/rp_i17_variation_v0.bsp
+[17:22:46] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> used the tool paint on models/headcrabblack.mdl
+[17:22:46] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> used the tool paint on models/headcrabblack.mdl
+[17:22:46] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> used the tool paint on models/headcrabblack.mdl
+[17:22:46] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> used the tool paint on models/headcrabblack.mdl
+[17:22:46] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> used the tool paint on models/headcrabblack.mdl
+[17:22:46] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> used the tool paint on models/headcrabblack.mdl
+[17:22:51] Kevin: yessir I only dine on the best.
+[17:22:57] "Wilbur": Yessir
+[17:23:01] Kevin: /me pecks the corpse.
+[17:23:03] AWAITING ASSIGNMENT: /ooc Erm, what do I.... Do? Await assignment?
+[17:23:06] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> changed their name to AFK BRB
+[17:23:07] "Wilbur": /me pecks the corpse as well.
+[17:23:19] "Wilbur": /ooc an admin will ask you if you wanna be a stalker or cremator
+[17:23:20] AFK BRB: // I don't have the rank to set ur cermator up
+[17:23:27] AFK BRB: suh
+[17:23:31] "Wilbur": Aye bro
+[17:23:34] Kevin: ayo 
+[17:23:39] AFK BRB: it us AFK BRB
+[17:23:57] AWAITING ASSIGNMENT: /ooc Okie dokie.
+[17:24:00] AFK BRB: #BirdGang
+[17:24:05] AWAITING ASSIGNMENT<STEAM_0:1:40787669> changed their name to Todd Muller
+[17:24:07] "Wilbur": #BirdGang.
+[17:24:08] Kevin: #BirdGang
+[17:24:22] Kevin: /me throws gang signs with his feathers.
+[17:24:41] "Wilbur": /me throws gang signs as well. "Yessir."
+[17:24:48] Kevin: Yessir
+[17:24:58] AFK BRB: ye
+[17:25:15] Kevin: aight i'm out bro gotta pay my child support or some shit.
+[17:25:25] "Wilbur": Child support?
+[17:25:31] AFK BRB: Aight i'm out bro gotta pay my mama 
+[17:25:31] Todd Muller<STEAM_0:1:40787669> spawned model models/props_c17/furniturechair001a.mdl
+[17:25:36] "Wilbur": Aight bro.
+[17:25:40] AFK BRB<STEAM_0:1:118336892> changed their name to Andrew Philip
+[17:25:48] Todd Muller<STEAM_0:1:40787669> spawned model models/props_c17/furniturechair001a.mdl
+[17:25:53] Kevin<STEAM_0:0:457261159> changed their name to Sophie Clermont
+[17:26:11] "Wilbur"<STEAM_0:1:76095374> changed their name to CCA.C17-UNION.i5.74645
+[17:26:20] Andrew Philip<STEAM_0:1:118336892> changed their name to CCA.C17-UNION.i5.09143
+[17:26:21] Todd Muller<STEAM_0:1:40787669> used the tool rb655_easy_bodygroup on maps/rp_i17_variation_v0.bsp
+[17:26:40] CCA.C17-UNION.i5.74645: Uh.
+[17:27:01] Todd Muller<STEAM_0:1:40787669> changed their name to Bubba
+[17:27:23] CCA.C17-UNION.i5.74645: Was that up at that overview?
+[17:27:31] Bubba: /OOC Imma say the funny.
+[17:27:32] CCA.C17-UNION.i5.09143: yes
+[17:27:35] CCA.C17-UNION.i5.74645: Hm.
+[17:27:37] CCA.C17-UNION.i5.09143: already overviewed
+[17:27:42] CCA.C17-UNION.i5.74645: Got ot
+[17:27:43] CCA.C17-UNION.i5.74645: it*
+[17:27:45] Bubba: /ooc "Amogus."
+[17:27:48] CCA.C17-UNION.i5.74645: /ooc AAAAAAAAAAAA
+[17:27:53] CCA.C17-UNION.i5.09143: that's the new guy too
+[17:27:55] Bubba: /ooc There, I said it.
+[17:27:59] CCA.C17-UNION.i5.74645: God dammit.
+[17:28:23] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> changed their name to Andrew Philip
+[17:28:44] Andrew Philip: Officer I found some contraband while I was looking for Resin
+[17:28:52] CCA.C17-UNION.i5.01477: Let me see it.
+[17:29:09] CCA.C17-UNION.i5.01477: Oh - wow, err.. Give me a moment.
+[17:29:37] CCA.C17-UNION.i5.01477: Hey.
+[17:29:40] CCA.C17-UNION.i5.01477: Unit.
+[17:30:36] CCA.C17-UNION.i5.01477: .// aggh
+[17:30:50] Andrew Philip: /looc ?
+[17:30:51] CCA.C17-UNION.i5.01477: .// i cant stadnd up
+[17:30:56] Andrew Philip: /looc Alt+Shift
+[17:31:00] Andrew Philip: /looc ez
+[17:31:43] CCA.C17-UNION.i5.01477: /radio This guy just passed over Red Tier contraband - know the rewards for it?
+[17:31:51] CCA.C17-UNION.i5.01477: /radio I don't know what to do with this one.
+[17:32:03] CCA.C17-UNION.i5.01477: You got anything else on you?
+[17:32:03] CCA.C17-UNION.i5.74645: /radio What was the contraband specifically?
+[17:32:12] Andrew Philip: Nope
+[17:32:16] CCA.C17-UNION.i5.01477: /radio A box of twelve three-fifty-seven rounds.
+[17:32:29] Bubba: /me Pecks at the ground.
+[17:32:49] CCA.C17-UNION.i5.74645: /radio 3 LP reward.
+[17:32:54] CCA.C17-UNION.i5.01477: Riight.
+[17:33:00] CCA.C17-UNION.i5.01477: Apply for me, please.
+[17:33:03] Andrew Philip: /apply
+[17:33:11] Bubba: /me Looks up at the human.
+[17:33:12] CCA.C17-UNION.i5.01477: /viewold data andrew philip
+[17:33:17] CCA.C17-UNION.i5.74645: /me looks down at the bird.
+[17:33:20] CCA.C17-UNION.i5.01477: /oldviewdata andrew philip
+[17:33:32] CCA.C17-UNION.i5.01477: /viewdata andrew philip
+[17:33:42] Bubba: /me Turns away from the human before letting out a "SQUACK!" Then flying away.
+[17:33:51] CCA.C17-UNION.i5.74645: Hm
+[17:34:18] CCA.C17-UNION.i5.01477: Your points were distributed.
+[17:34:22] CCA.C17-UNION.i5.01477: Thank you for your loyalty.
+[17:34:36] Andrew Philip: How many points do I have?
+[17:34:40] CCA.C17-UNION.i5.01477: Twenty-three.
+[17:34:49] Sophie Clermont: /OOC E
+[17:34:54] CCA.C17-UNION.i5.74645: /ooc same
+[17:34:55] Andrew Philip: oh right
+[17:34:57] Andrew Philip: thanks!
+[17:35:00] CCA.C17-UNION.i5.01477: O' course.
+[17:35:17] Bubba: /me Attemps to land on the human's head.
+[17:35:21] Bubba: /roll
+[17:35:26] CCA.C17-UNION.i5.01477: /radio Why does a twenty-three point civilian have a green armband?
+[17:35:28] Andrew Philip: /roll
+[17:35:39] Andrew Philip: oh hey
+[17:35:40] CCA.C17-UNION.i5.01477: /radio Last I remember - it was fifty points for that.
+[17:35:47] Andrew Philip<STEAM_0:1:118336892> changed their name to CCA.C17-UNION.i5.09143
+[17:35:53] CCA.C17-UNION.i5.09143: =
+[17:36:02] CCA.C17-UNION.i5.74645: /radio Green armbands are issued at 10 LP.
+[17:36:04] Bubba: /ooc What the..
+[17:36:11] CCA.C17-UNION.i5.74645: /radio If he's at twenty-three, he should have red.
+[17:36:19] CCA.C17-UNION.i5.09143: /radio I have been given permission to host a Ration Cycle.
+[17:36:30] CCA.C17-UNION.i5.74645: /radio 10-4.
+[17:36:46] Bubba: /me Attemps to land on the human's head.
+[17:36:49] Bubba: /roll
+[17:37:21] CCA.C17-UNION.i5.01477: // ima hop off, peace guys
+[17:37:25] CCA.C17-UNION.i5.74645: /ooc bye bye
+[17:37:26] Bubba: /ooc Goodbye.
+[17:37:29] Dropped "CCA.C17-UNION.i5.01477" from server<STEAM_0:1:116497963>
+[17:37:41] Bubba: /me Attemps to land on the human's head.
+[17:37:43] Bubba: /roll
+[17:37:48] CCA.C17-UNION.i5.09143: // cya luv
+[17:38:25] Bubba: /me Pecks at the ground.
+[17:38:33] Bubba: Caw!
+[17:38:46] Calvin Henderson: /me walks towards the bird and holds out a bottle of something
+[17:38:50] Calvin Henderson: /me offers it to the bird
+[17:38:58] CCA.C17-UNION.i5.09143: // dam really no one came at the ration cycle for once
+[17:39:08] CCA.C17-UNION.i5.74645: /ooc that is in fact a mood
+[17:39:09] Sophie Clermont: /OOC wait there was a ration cycle!
+[17:39:14] Calvin Henderson: // I was adk
+[17:39:17] CCA.C17-UNION.i5.74645: /ooc yea it was announced in the chat
+[17:39:24] Bubba: /me Walks over to the bottle before flying on top of it before pecking at the lid.
+[17:39:30] Sophie Clermont: /OOC oh no no no imma have to meta this
+[17:39:39] Calvin Henderson: /me watches the bird do its magic
+[17:39:40] CCA.C17-UNION.i5.09143: // its not meta, its lterially announced
+[17:39:50] CCA.C17-UNION.i5.09143: /looc literally*
+[17:39:54] Sophie Clermont: /OOC oh yeah true 
+[17:39:54] CCA.C17-UNION.i5.09143: /ooc literally*
+[17:39:56] CCA.C17-UNION.i5.74645: /ooc its meta if your character is death ez
+[17:40:00] CCA.C17-UNION.i5.74645: /ooc deaf*
+[17:40:18] CCA.C17-UNION.i5.74645: /ooc well it could work both ways nvm
+[17:40:20] Bubba: /me Puts the lid half way in it's mouth before popping the lid off, then tossing it to the side.
+[17:40:26] CCA.C17-UNION.i5.09143: apply
+[17:40:28] Sophie Clermont: /apply
+[17:40:36] Calvin Henderson: /me crocuhes down to get a better look
+[17:40:37] CCA.C17-UNION.i5.09143: /viewdata sop
+[17:40:40] Sophie Clermont: /OOC i mean
+[17:41:02] Bubba: /me Puts it's head inside the bottle, trying to drink whatever was inside.
+[17:41:16] CCA.C17-UNION.i5.74645: /me observes silently.
+[17:41:21] Calvin Henderson: /me does the same
+[17:41:50] CCA.C17-UNION.i5.09143: /pm 744 come and takeover cuz my citizen is gonna starve to deat
+[17:41:52] Sophie Clermont: two?
+[17:41:56] CCA.C17-UNION.i5.09143: /pm 74 come and takeover cuz my citizen is gonna starve to death
+[17:42:05] CCA.C17-UNION.i5.74645: /reply sure
+[17:42:06] CCA.C17-UNION.i5.09143: mhm you are a yellow loyalist rank
+[17:42:07] CCA.C17-UNION.i5.09143: /viewdata sop
+[17:42:11] Bubba: /me After a moment the bird would pop it's head out of the bottle, it's face covered in some sort of liquid before flying off.
+[17:42:12] Sophie Clermont: ah ok.
+[17:42:14] Sophie Clermont: thank you
+[17:42:19] Bubba: Caw!
+[17:42:20] Calvin Henderson: /me picks the bottle back up
+[17:42:27] CCA.C17-UNION.i5.09143: take the shit
+[17:42:34] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> changed their name to Andrew Philip
+[17:42:59] CCA.C17-UNION.i5.74645: apply
+[17:42:59] Bubba<STEAM_0:1:40787669> changed their name to Todd Muller
+[17:43:00] Calvin Henderson: hello
+[17:43:01] Calvin Henderson: /apply
+[17:43:06] CCA.C17-UNION.i5.74645: /viewdata calvin
+[17:43:08] Calvin Henderson: \
+[17:43:12] Calvin Henderson: .// ignore that
+[17:43:17] Todd Muller: Huh..
+[17:43:19] CCA.C17-UNION.i5.74645: /viewdata calvin
+[17:43:25] Calvin Henderson: /me shows his ID
+[17:43:36] CCA.C17-UNION.i5.74645: No need.
+[17:43:40] Calvin Henderson: okay
+[17:43:43] Calvin Henderson: thank you
+[17:43:44] CCA.C17-UNION.i5.74645: Mhm.
+[17:43:45] CCA.C17-UNION.i5.74645: Next
+[17:43:49] CCA.C17-UNION.i5.74645: apply
+[17:43:49] Andrew Philip: /apply
+[17:43:55] CCA.C17-UNION.i5.74645: /viewdata andrew
+[17:43:58] Sophie Clermont: /fr Hello
+[17:44:09] Andrew Philip: /looc 2 more chars
+[17:44:17] Andrew Philip: how many points do I have may I ask?
+[17:44:22] CCA.C17-UNION.i5.74645: /viewdata andrew
+[17:44:24] CCA.C17-UNION.i5.74645: 15.
+[17:44:30] Andrew Philip: oh right, thanks
+[17:44:32] CCA.C17-UNION.i5.74645: Mhm.
+[17:44:33] CCA.C17-UNION.i5.74645: Next
+[17:44:34] Todd Muller: /apply
+[17:44:35] CCA.C17-UNION.i5.74645: apply
+[17:44:40] CCA.C17-UNION.i5.74645: /viewdata todd
+[17:44:46] Andrew Philip<STEAM_0:1:118336892> changed their name to Hyo Jeong
+[17:44:48] CCA.C17-UNION.i5.74645: /viewdata todd
+[17:44:58] Todd Muller: Thanks.
+[17:45:00] CCA.C17-UNION.i5.74645: mhm
+[17:45:04] CCA.C17-UNION.i5.74645: apply
+[17:45:06] Hyo Jeong: /apply
+[17:45:10] CCA.C17-UNION.i5.74645: /viewdata hyo
+[17:45:14] Todd Muller<STEAM_0:1:40787669> changed their name to Bubba
+[17:45:26] Hyo Jeong: thank you
+[17:45:28] CCA.C17-UNION.i5.74645: mhm
+[17:45:30] Calvin Henderson: /forums
+[17:45:45] Hyo Jeong<STEAM_0:1:118336892> changed their name to Andrew Philip
+[17:45:53] Andrew Philip: oh hey sophie
+[17:46:02] Sophie Clermont: Hello again Andrew
+[17:46:06] Bubba: /me Jumps on the human's head.
+[17:46:25] Andrew Philip: /me opens his ration and sits
+[17:46:35] Bubba: /looc Fuck.
+[17:46:41] Bubba: /looc I had the perfect shot.
+[17:46:42] Sophie Clermont: /looc I agree
+[17:47:04] Andrew Philip: sorry about earlier, you didn't have to see that
+[17:47:04] Bubba: /looc Agh, forget it.
+[17:47:28] Sophie Clermont: It's not that big of a deal, got me back into the city anyways.
+[17:47:56] Bubba<STEAM_0:1:40787669> changed their name to Todd Muller
+[17:48:12] Sophie Clermont: /w still though you should be careful, you know what will happen if Civil protection find you outside the city
+[17:48:46] Andrew Philip: /w It's important.
+[17:49:02] Sophie Clermont: Whatcha get in your rations?
+[17:49:15] Andrew Philip: strawberry favour can
+[17:49:18] Calvin Henderson: // just realized Dark Interval released a play test for part 2
+[17:49:23] Calvin Henderson: // gonna go play it now
+[17:49:29] Dropped "Calvin Henderson" from server<STEAM_0:1:419533834>
+[17:49:31] CCA.C17-UNION.i5.74645: /ooc ight 
+[17:49:34] Andrew Philip: and a package with sweet biscuits
+[17:49:39] CCA.C17-UNION.i5.74645: /ooc imma probably go too, take home test time
+[17:49:48] Dropped "CCA.C17-UNION.i5.74645" from server<STEAM_0:1:76095374>
+[17:49:49] Sophie Clermont: Nice sounds tastey.
+[17:50:06] Andrew Philip: would you like to try it? I have a lot of them anyways
+[17:50:14] Todd Muller<STEAM_0:1:40787669> changed their name to Skinny
+[17:50:15] Sophie Clermont: no i'm fine thank you.
+[17:50:24] Sophie Clermont: /me cracks open a can of water and takes a sip.
+[17:50:53] Sophie Clermont: been up to anything interesting lately?
+[17:51:58] Skinny was killed by trigger_hurt
+[17:52:44] Andrew Philip: Well.. I uh
+[17:52:49] Skinny<STEAM_0:1:40787669> changed their name to Bubba
+[17:52:57] Sophie Clermont: /me takes another sip of their water.
+[17:53:04] Sophie Clermont: hm?
+[17:53:15] Andrew Philip: /me dosen't open his can before finishing his food and take out a bottle and taking a sip from it instead
+[17:53:23] Andrew Philip: /it beer bottl
+[17:53:26] Andrew Philip: /looc bottle
+[17:53:43] Andrew Philip: I haven't no, not really.
+[17:53:49] Andrew Philip: what about you?
+[17:54:14] Sophie Clermont: it's been the same since I got here, nothing really going on at the moment.
+[17:54:53] Andrew Philip: /me wraps his food leaving it on half, and putting it in his back before getting up
+[17:55:01] Andrew Philip: I gotta do some work
+[17:55:18] Sophie Clermont: alright see ya.
+[17:55:24] Andrew Philip: alright, see you
+[17:56:02] Andrew Philip: /pm sophi can u flag on vinicent?
+[17:56:14] Sophie Clermont: /pm andrew sure
+[17:56:21] Sophie Clermont: /looc bird
+[17:56:23] Bubba: /me Pecks at the ground.
+[17:56:26] Bubba: /looc Maybe...
+[17:56:31] Sophie Clermont: /looc o
+[17:56:36] Bubba: /looc Yesn't.
+[17:56:40] Sophie Clermont: /looc e
+[17:56:45] Bubba: /looc f
+[17:56:46] Sophie Clermont<STEAM_0:0:457261159> changed their name to Vincint Abernathy
+[17:57:39] Bubba: /me Pecks at the ground.
+[17:57:42] Bubba: /looc RUDE.
+[17:57:50] Vincint Abernathy: /looc no u
+[17:57:55] Bubba: /looc Mean ;(
+[17:57:59] Andrew Philip: // who here watchs beastars
+[17:58:12] Bubba: /ooc What that?
+[17:58:29] Vincint Abernathy: /OOC an all cgi anime
+[17:58:45] Bubba: /ooc Hmm, is it good?
+[17:58:50] Vincint Abernathy: oh Andrew just the guy I was looking for.
+[17:58:55] Vincint Abernathy: /OOC I mean its aight.
+[17:58:58] Andrew Philip: /me as he leaps to go in and spots vinicent he would say "Vinicent?" Focusing on him before dropping on the floor
+[17:59:04] Andrew Philip: /me gets up and says 
+[17:59:05] Andrew Philip: holy shit -
+[17:59:23] Vincint Abernathy: I'm back, had something I had to take care of for a bit.
+[17:59:43] Andrew Philip: /me scratchs his back " Yeah - I though you died "
+[18:00:08] Vincint Abernathy: me? nah i'd never d- eh well actually probably very likely.
+[18:00:45] Vincint Abernathy: well, what have you guys been up to while I was gone?
+[18:00:58] Andrew Philip: loads of silly stuff, I took care of your cat.
+[18:01:09] Vincint Abernathy: my cat?
+[18:01:50] Vincint Abernathy: /me clutches their head.
+[18:01:57] Vincint Abernathy: right right... the cat god I remember.
+[18:02:19] Vincint Abernathy: you made sure to give him offerings while I was gone right?
+[18:02:25] Andrew Philip: yes
+[18:02:29] Vincint Abernathy: great
+[18:02:40] Andrew Philip: god my back hurt from that fall
+[18:02:40] Vincint Abernathy: you first.
+[18:02:43] Andrew Philip: great to see you
+[18:02:46] Vincint Abernathy: fall?
+[18:02:57] Andrew Philip: /looc did you not see me /me, I falled on the floor as soon as I saw you
+[18:03:01] Andrew Philip: /looc when I was going inside the window
+[18:03:15] Vincint Abernathy: /looc i did not just void that then.
+[18:03:17] Andrew Philip: we gotta make a run for it, I don't have my gadgets
+[18:03:37] Bubba<STEAM_0:1:40787669> changed their name to Todd Muller
+[18:03:44] Andrew Philip: shit shit shit
+[18:04:14] Todd Muller: /ooc Alright, imma head out. See ya.'
+[18:04:17] Andrew Philip: // cya luv
+[18:04:17] Vincint Abernathy: /OOC cya
+[18:04:19] Dropped "Todd Muller" from server<STEAM_0:1:40787669>
+[18:04:31] Vincint Abernathy: place looks more or less the same.
+[18:04:58] Andrew Philip: yeah, stuff been slow becasue I was the only person around
+[18:05:13] Andrew Philip: I've managed to kill a few zombine too but I've only used their stuff to get my LP up
+[18:05:32] Vincint Abernathy: well the less the better, at least in this case.
+[18:05:42] Andrew Philip: one minute!
+[18:05:54] Andrew Philip: /me mumbles to himself
+[18:06:01] Andrew Philip: /me leans on the wall with a sigh
+[18:06:05] Andrew Philip: /looc fencE*
+[18:06:12] Vincint Abernathy: whats up?
+[18:06:58] Andrew Philip: Stuff been rough lately, I haven't seen marcus or carson, and I am worried to invite people here from the surface
+[18:07:27] Andrew Philip: I know 3 more people, 2 males named Todd and other one named Calvin and a Female named Sophie
+[18:07:35] Andrew Philip: but they all answered to me as a possible loyalist.
+[18:07:53] Vincint Abernathy: how long has it been since you've seen Marcus?
+[18:11:25] Andrew Philip: 3 or 4 days almost
+[18:11:37] Vincint Abernathy: thats not too bad.
+[18:11:50] Andrew Philip: I lost count...
+[18:11:53] Andrew Philip: maybe week or weeks...
+[18:12:06] Vincint Abernathy: I haven't even been gone for weeks.
+[18:12:15] Vincint Abernathy: I think your overreacting.
+[18:12:38] Andrew Philip: I don't know man, get me a calnder then I'll be fine
+[18:12:40] Andrew Philip: /me chuckles
+[18:12:54] Andrew Philip: /looc calendar*
+[18:13:01] Vincint Abernathy: i'll try if that'll calm you down a bit.
+[18:13:38] Vincint Abernathy: worst comes to worst we can just make tally marks on the wall
+[18:14:58] Andrew Philip: I wish stuff were more simple now and days, but its been rough being alone down here.. you don't know how happy I am seeing you
+[18:16:13] Vincint Abernathy: Likewise, what I think we should focus on moving forward is our next objective, i'm sure Marcus is fine.
+[18:16:33] Andrew Philip: I've started working on the tunnel
+[18:16:45] Andrew Philip: it may take some time until its finished
+[18:16:48] Vincint Abernathy: hows progress looking?
+[18:17:04] Andrew Philip: 5%.
+[18:17:24] Vincint Abernathy: ok... not bad for a couple of days solo in all honestly
+[18:18:39] Vincint Abernathy: /looc mole rp
+[18:18:51] Andrew Philip: /looc mole owo
+[18:18:54] Andrew Philip: /looc uwuw
+[18:20:49] Andrew Philip: so
+[18:20:50] Andrew Philip: who
+[18:20:56] Andrew Philip: do you think we should try to invite first
+[18:21:36] Vincint Abernathy: No idea, if you said they might be potential loyalist it's probably best we leave them be until we know for sure.
+[18:22:27] Andrew Philip: Todd is certain, Calvin dosen't know what CWU even is, as for Sophia she saw me in the 404 zone... but I don't think any of them would like this either so your right, its better to keep a distance for now
+[18:23:32] Andrew Philip: I got bleach, don't drink it
+[18:23:52] Andrew Philip: you wanna have a look at your cat statue god
+[18:24:05] Vincint Abernathy: /looc sorry back
+[18:24:11] Vincint Abernathy: cat god statue?
+[18:24:18] Andrew Philip: yes
+[18:24:44] Vincint Abernathy: cool
+[18:24:57] Andrew Philip: so, can you telle more about it
+[18:25:04] Andrew Philip: where did you start and why
+[18:25:19] Vincint Abernathy: it's a cat god statue that seems to be made out of wood.
+[18:25:27] Vincint Abernathy: pretty nice wood at that.
+[18:25:36] Vincint Abernathy: oh theres two.
+[18:25:45] Andrew Philip: /me scratchs his head
+[18:25:55] Vincint Abernathy: /me picks up the statue.
+[18:26:09] Andrew Philip: /looc Vinicent breaks the statue and woship true emperor 
+[18:26:14] Vincint Abernathy: really nice craftsmanship.
+[18:26:22] Andrew Philip: /looc then shouts "NO HERESEY HERE"
+[18:26:26] Vincint Abernathy: /looc emporor amongus
+[18:26:31] Andrew Philip: mhm
+[18:26:56] Andrew Philip: /looc amma fuck with you a little xDd
+[18:26:58] Vincint Abernathy: can't really tell you more than that.
+[18:27:01] Vincint Abernathy: /looc ?
+[18:27:07] Andrew Philip: you know why I am asking?
+[18:27:23] Vincint Abernathy: because it's a cool statue?
+[18:27:31] Andrew Philip: no, because I saw a Demon near i t
+[18:27:42] Vincint Abernathy: A demon?
+[18:27:46] Andrew Philip: yes
+[18:27:59] Vincint Abernathy: like possesing it or like just standing there?
+[18:28:07] Andrew Philip: standing here
+[18:28:16] Andrew Philip: he was toying with it.
+[18:28:34] Vincint Abernathy: umm... you sure sounds like your under the influence.
+[18:28:50] Andrew Philip: You do understand there was people here, before us
+[18:28:58] Andrew Philip: the place now is manfisted by its ghosts...
+[18:29:06] Vincint Abernathy: /me looks around.
+[18:29:10] Andrew Philip: don't you realize the fire never turns off.
+[18:29:17] Vincint Abernathy: no that... no
+[18:29:21] Andrew Philip: mhm...
+[18:29:30] Vincint Abernathy: ghosts don't exist.
+[18:29:40] Andrew Philip: Proof how the fire isn't off.
+[18:29:59] Vincint Abernathy: /me tries to snuff out the fire.
+[18:30:06] Andrew Philip: /it nothing happens
+[18:30:15] Vincint Abernathy: i'll be back.
+[18:30:54] Vincint Abernathy: /me cracks open some water and pours it over the fire.
+[18:31:02] Andrew Philip: /it the water can breaks
+[18:31:09] Vincint Abernathy: what the hell.
+[18:31:18] Andrew Philip: indeed, what the *hell**
+[18:31:24] Andrew Philip: scaryyy
+[18:31:28] Vincint Abernathy: ...
+[18:31:33] Vincint Abernathy: /me stares at the fire.
+[18:31:45] Andrew Philip: ooga booga
+[18:31:56] Andrew Philip: /me punchs Vinicent on the arm
+[18:31:58] Andrew Philip: I am messing with you
+[18:32:04] Vincint Abernathy: ow
+[18:32:27] Andrew Philip: the fire can't be turned off because I poured some charcol and liquid gas
+[18:32:39] Andrew Philip: and no demons or ghosts were, that was some wacky non-sense
+[18:32:44] Andrew Philip: /looc were here
+[18:32:54] Andrew Philip: don't... hurt me... please
+[18:33:15] Vincint Abernathy: /me clears his throat. "Yeah no I already knew that I was just... going along with it."
+[18:33:26] Vincint Abernathy: ghosts? don't make me laugh.
+[18:33:35] Vincint Abernathy: /me laughs akwardly.
+[18:33:45] Andrew Philip: /w there was people here before us though.
+[18:33:54] Vincint Abernathy: ...
+[18:34:06] Andrew Philip: /me looks at the map of the city
+[18:34:35] Vincint Abernathy: nice
+[18:34:45] Andrew Philip: want some beer?
+[18:34:50] Vincint Abernathy: sure.
+[18:35:52] Andrew Philip: /me sings to himself "It is a Wonderful my life, please could you kiss my name?
+[18:35:58] Vincint Abernathy: /me grabs the bottle popping the corck off and chugging it down.
+[18:36:02] Andrew Philip: when the music is over
+[18:36:11] Andrew Philip: turn off light - it was such a sweet time
+[18:36:26] Andrew Philip: could you pray for me, my friend? it's starting overtime.
+[18:36:38] Andrew Philip: taking over the night, taking over blue time
+[18:36:49] Andrew Philip: if you head that screaming shout in your mind
+[18:36:53] Andrew Philip: /looc heard*
+[18:36:58] Vincint Abernathy: /looc that fuckin wild side?
+[18:37:13] Andrew Philip: taking over shine, taking over shooting star
+[18:37:23] Andrew Philip: all I was talking about was music
+[18:37:30] Vincint Abernathy: and thats called jazz.
+[18:37:36] Andrew Philip: ayeee
+[18:37:44] Vincint Abernathy: aye
+[18:38:12] Andrew Philip: /me does it in a Mexican accent "Somebody's going to die tonight."
+[18:38:13] Vincint Abernathy: /me downs some more beer.
+[18:38:54] Andrew Philip: you heard the story of El Macho?
+[18:39:18] Andrew Philip: from 20 Years ago, 
+[18:39:48] Vincint Abernathy: El Macho? You mean the guy from dispicable me 2?
+[18:40:00] Andrew Philip: he was ruthless 
+[18:40:05] Andrew Philip: he was dangerous
+[18:40:10] Andrew Philip: as the name implies, El Macho.
+[18:40:21] Andrew Philip: ~El Macho~
+[18:40:43] Andrew Philip: he had the reputation doing he heist *using only his bare hands!*
+[18:40:50] Andrew Philip: ahhhh... but sadly...
+[18:40:58] Andrew Philip: like all the greats!
+[18:41:07] Andrew Philip: El Macho was gone, too son.
+[18:41:09] Andrew Philip: /looc soon*(
+[18:41:15] Vincint Abernathy: you ok?
+[18:41:19] Andrew Philip: he died in the most El Macho was possible
+[18:41:35] Andrew Philip: sorry I was telling you the great story of El Macho.
+[18:41:53] Vincint Abernathy: it was a nice story
+[18:42:11] Andrew Philip: He died riding a shark with 250 pounds of dynamites strapped to his chest into a volcano
+[18:42:25] Andrew Philip: it was glorious.
+[18:42:32] Vincint Abernathy: yeah that sounds about right
+[18:42:53] Vincint Abernathy: /me coughs.
+[18:43:24] Andrew Philip: id you ever hear the tragedy of Darth Plagueis The Wise?
+[18:43:31] Andrew Philip: /looc did*
+[18:43:41] Vincint Abernathy: /me burries his face in his hands.
+[18:43:59] Vincint Abernathy: no.. no I haven't.
+[18:44:20] Andrew Philip: I thought not.
+[18:44:26] Andrew Philip: It's not a story the Combine would tell you
+[18:44:47] Andrew Philip: It's a Sith Legend. Darth Plaguies was a Dark Lord of the Sith, so powerful and so wise.
+[18:45:01] Andrew Philip: he could use the Force to influence the midi-chlorians to create... life
+[18:45:16] Andrew Philip: He had such a knowledge of the Dark side, he could even keep the ones he cared about... from dying
+[18:45:50] Andrew Philip: The dark side of The force is a pathway to many abilites, some consider to be unnatural
+[18:45:52] Vincint Abernathy: ...
+[18:46:09] Andrew Philip: He became so powerful, the only thing he was afriad of was losing his power... which, eventually of course,he did.
+[18:46:36] Andrew Philip: Unfortunately, he taught his apprentice everything he knew. Then his apprentice killed him in his sleep.
+[18:46:38] Andrew Philip: Ironic
+[18:46:47] Andrew Philip: he could save others from death... but not himself
+[18:47:01] Vincint Abernathy: yeah that checks out
+[18:47:46] Andrew Philip: have you heard the story of Little Red Riding Hood Short 
+[18:47:57] Vincint Abernathy: no but have you ever played amongus?
+[18:48:03] Vincint Abernathy: /looc void
+[18:48:11] Vincint Abernathy: no tell me
+[18:48:17] Andrew Philip: that's a bit sus but sure
+[18:48:25] Vincint Abernathy: -_-
+[18:48:37] Andrew Philip: Little red Riding hood lived in a wood with her mother
+[18:48:52] Andrew Philip: One day little red riding hood went to visit her granny, she had a nice cake in her basket.
+[18:49:01] Andrew Philip: On her way, little red riding hood met a wolf
+[18:49:11] Andrew Philip:  'Hello" said the wolf 'Where are you going?'
+[18:49:35] Andrew Philip: "I am going to see my grandmother. she lives in a house behind those trees."
+[18:49:42] Andrew Philip: The wolf ran to Granny's house and ate Granny up
+[18:49:48] Andrew Philip: He got into Granny's bed
+[18:50:00] Andrew Philip: A little later, little red riding hood reached the house, she looked at the wolf
+[18:50:06] Andrew Philip: Granny, what big eyes you have
+[18:50:16] Andrew Philip: all the better to see you with" said the wolf
+[18:50:23] Andrew Philip: Granny, what big ears you have!
+[18:50:34] Andrew Philip: All better to hear you with!" said the wolf
+[18:50:43] Andrew Philip: Granny, what a big nose you have!
+[18:50:53] Andrew Philip: All the better to smell you with!" said the wolf
+[18:51:01] Andrew Philip: Granny, what big teeth you have"
+[18:51:08] Andrew Philip: All the better to eat you with!" Shouted the Wolf
+[18:51:19] Andrew Philip: A woodcutter was in the wood. He heard a loud scream and ran to the house
+[18:51:29] Vincint Abernathy: /looc I went downstairs to get some water.
+[18:51:42] Andrew Philip: The woodcutter hit the wolf over the head. The wolf opened his mouth wide and shouted and Granny Jumped out
+[18:52:06] Andrew Philip: /looc the story sounds so stupid now then I remember it.
+[18:52:15] Andrew Philip: /looc "Jumped out" XD
+[18:52:27] Andrew Philip: The wolf ran away and Little Red riding Hood never saw the wold again
+[18:52:39] Vincint Abernathy: interesting
+[18:53:24] Andrew Philip: have you heard what happened in the  Wizarding World or known as  Harry Potter Story?
+[18:54:12] Andrew Philip: just kidding
+[18:54:53] Andrew Philip: /looc u there?
+[18:55:00] Vincint Abernathy: /looc no
+[18:55:06] Vincint Abernathy: /looc so uuuh i'm dying
+[18:55:08] Andrew Philip: /looc epic u duying btw
+[18:55:11] Vincint Abernathy: /looc ik
+[18:55:16] Vincint Abernathy: /looc seems its my time
+[18:55:39] Vincint Abernathy: /looc iss gone?
+[18:55:45] Vincint Abernathy: /looc o nvrmind
+[18:55:50] Vincint Abernathy: /looc ty
+[18:55:54] Andrew Philip: /looc that was gay ngl
+[18:56:02] Andrew Philip: you wanna head to the surface?
+[18:56:02] Vincint Abernathy: /looc wut wus?
+[18:56:14] Andrew Philip: /looc u moaning while I was on top of you
+[18:56:24] Vincint Abernathy: actually i'm prebably gonna head to bed.
+[18:56:35] Vincint Abernathy: /looc 0_0
+[18:56:54] Andrew Philip: I'll head to the surface and try to get my LP up, unless you'd like me to save some items for you (if I find any)
+[18:57:08] Andrew Philip: !menu
+[18:57:09] Vincint Abernathy: nah it's fine
+[18:57:15] Vincint Abernathy: thanks anyways
+[18:57:22] Andrew Philip: sus
+[18:57:24] Vincint Abernathy: e
+[18:57:31] Vincint Abernathy: /OOC see ya bruv
+[18:57:34] Andrew Philip: // k
+[18:57:35] Dropped "Vincint Abernathy" from server<STEAM_0:0:457261159>
+[18:58:16] Client "DRD" connected.
+[18:58:18] Andrew Philip<STEAM_0:1:118336892> used the tool paint on maps/rp_i17_variation_v0.bsp
+[18:58:19] Andrew Philip<STEAM_0:1:118336892> used the tool paint on maps/rp_i17_variation_v0.bsp
+[18:58:21] Andrew Philip<STEAM_0:1:118336892> used the tool paint on maps/rp_i17_variation_v0.bsp
+[18:58:21] Andrew Philip<STEAM_0:1:118336892> used the tool paint on maps/rp_i17_variation_v0.bsp
+[18:58:22] Andrew Philip<STEAM_0:1:118336892> used the tool paint on maps/rp_i17_variation_v0.bsp
+[18:58:22] Andrew Philip<STEAM_0:1:118336892> used the tool paint on maps/rp_i17_variation_v0.bsp
+[18:58:22] Andrew Philip<STEAM_0:1:118336892> used the tool paint on maps/rp_i17_variation_v0.bsp
+[18:58:23] Andrew Philip<STEAM_0:1:118336892> used the tool paint on maps/rp_i17_variation_v0.bsp
+[18:58:23] Andrew Philip<STEAM_0:1:118336892> used the tool paint on maps/rp_i17_variation_v0.bsp
+[18:58:23] Andrew Philip<STEAM_0:1:118336892> used the tool paint on maps/rp_i17_variation_v0.bsp
+[18:58:23] Andrew Philip<STEAM_0:1:118336892> used the tool paint on maps/rp_i17_variation_v0.bsp
+[18:58:42] Dropped "Andrew Philip" from server<STEAM_0:1:118336892>
+[19:16:46] Dropped "Lee Maylor" from server<STEAM_0:1:53097688>

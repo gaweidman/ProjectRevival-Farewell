@@ -1,0 +1,9 @@
+ENT.Base = "nut_readerbase"
+ENT.Type = "anim"
+ENT.PrintName = "ISB Reader"
+ENT.Author = "La Corporativa"
+ENT.Spawnable = true
+ENT.AdminOnly = true
+ENT.Category = "NutScript"
+ENT.Level = "Armory Storage"
+ENT.Cards = {"isbkey"}

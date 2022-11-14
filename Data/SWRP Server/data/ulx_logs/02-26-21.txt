@@ -1,0 +1,435 @@
+[02:56:22] New map: rp_stardestroyer_v2_5
+
+
+
+[16:45:52] New map: rp_metastasis
+[16:50:01] Client "matt saton" connected.
+[16:51:11] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 70 seconds).
+
+
+
+[16:54:24] New map: rp_metastasis
+[16:54:45] Client "matt saton" connected.
+[16:55:04] Client "DRD" connected.
+[16:55:40] Client "matt saton" connected.
+[16:55:44] Client "matt saton" connected.
+[16:56:16] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 32 seconds).
+[16:56:24] Client "DRD" connected.
+[16:57:16] Client "DRD" spawned in server <STEAM_0:0:193599766> (took 52 seconds).
+[16:57:16] matt saton suicided!
+[16:58:16] DRD: e
+[16:58:16] DRD suicided!
+
+
+
+[16:59:50] New map: rp_metastasis
+[16:59:50] Client "matt saton" connected.
+[17:00:45] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 55 seconds).
+[17:01:44] Unknown: /mapentremove
+[17:01:46] Unknown: /mapentremove
+[17:01:52] Unknown: /mapentremove
+[17:01:56] Unknown: /mapentremove
+[17:01:58] Unknown: /mapentremove
+[17:02:00] Unknown: /mapentremove
+[17:02:01] Unknown: /mapentremove
+[17:02:02] Unknown: /mapentremove
+[17:02:08] Unknown: /mapentremove
+[17:02:11] Unknown: /mapentremove
+[17:02:12] Unknown: /mapentremove
+[17:02:14] Unknown: /mapentremove
+[17:02:17] Client "DRD" connected.
+[17:02:18] Dropped "Unknown" from server<STEAM_0:1:53097688>
+[17:02:24] Client "matt saton" connected.
+[17:03:04] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 40 seconds).
+[17:03:41] Unknown: /mapentremove
+[17:03:45] Client "DRD" spawned in server <STEAM_0:0:193599766> (took 88 seconds).
+[17:03:46] Unknown: /mapentremove
+[17:03:48] Unknown: /mapentremove
+[17:03:50] Unknown: /mapentremove
+[17:03:58] Unknown: /mapentremove
+[17:04:01] Unknown: /mapentremove
+[17:04:03] Unknown: /mapentremove
+[17:04:06] Unknown: /mapentremove
+[17:04:08] Unknown: /mapentremove
+[17:06:30] CCA.C17-JUDGE.i2.12459: //yo
+[17:06:36] Kazimiera Wilczyńska: // i need perms
+[17:07:07] Unknown added Kazimiera Wilczyńska to group trialmod
+[17:07:15] Unknown: /chargiveflag kazi petncr
+[17:07:25] Unknown: //no npcs, just props
+[17:07:40] Kazimiera Wilczyńska: // what is where
+[17:07:45] Kazimiera Wilczyńska: // where is what
+[17:08:03] Unknown: //what
+[17:08:05] Unknown: //oh
+[17:08:08] Unknown: //right
+[17:08:26] Unknown: //so that elevator shaft is unreachable
+[17:09:34] Unknown: //this elevator here is a side elevaotr
+[17:09:44] Unknown: //uhhh
+[17:09:48] Kazimiera Wilczyńska: // hold on
+[17:10:05] Kazimiera Wilczyńska: // gotta do mat_specular 0, whenever i look at something shiny i am blinded
+[17:10:24] Unknown<STEAM_0:1:53097688> spawned model models/props_wasteland/kitchen_shelf001a.mdl
+[17:10:36] Unknown<STEAM_0:1:53097688> spawned model models/props_wasteland/kitchen_shelf001a.mdl
+[17:10:37] Unknown<STEAM_0:1:53097688> spawned model models/props_lab/filecabinet02.mdl
+[17:10:51] Unknown<STEAM_0:1:53097688> spawned model models/props_wasteland/kitchen_shelf001a.mdl
+[17:10:57] Unknown<STEAM_0:1:53097688> spawned model models/props_wasteland/kitchen_shelf001a.mdl
+[17:11:18] Unknown<STEAM_0:1:53097688> spawned model models/props_wasteland/kitchen_shelf001a.mdl
+[17:11:28] Unknown<STEAM_0:1:53097688> spawned model models/props_wasteland/kitchen_shelf001a.mdl
+[17:11:47] Unknown<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_storagecloset001a.mdl
+[17:12:06] Unknown<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_storagecloset001a.mdl
+[17:12:18] Unknown<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_filecabinet002a.mdl
+[17:12:27] Unknown<STEAM_0:1:53097688> spawned model models/props_junk/trashdumpster01a.mdl
+[17:12:41] Unknown<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_filecabinet002a.mdl
+[17:12:47] Unknown<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_filecabinet002a.mdl
+[17:13:54] Unknown: hola
+[17:14:02] Unknown: //remember, don't permaprop containers
+[17:14:05] Kazimiera Wilczyńska: why does it vanish when im on the other side of the room
+[17:14:10] Unknown: //map bug
+[17:14:26] Kazimiera Wilczyńska: // what even is this place supposed to be
+[17:14:27] Unknown<STEAM_0:1:53097688> spawned model models/props_lab/tpplugholder_single.mdl
+[17:14:29] Kazimiera Wilczyńska: // what needs done
+[17:14:35] Unknown: //time travel facility
+[17:14:39] Unknown: //tbh it's really well propped
+[17:14:52] Kazimiera Wilczyńska: // ah, time travel facility
+[17:14:59] Kazimiera Wilczyńska: // of course, what else could it be
+[17:15:07] Unknown: //can you make an administrator office
+[17:15:22] Kazimiera Wilczyńska: // sure
+[17:15:29] Unknown: //here will work
+[17:15:33] Unknown: /mapentremove
+[17:15:34] Unknown: /mapentremove
+[17:15:35] Unknown: /mapentremove
+[17:15:37] Unknown: /mapentremove
+[17:15:39] Unknown: /mapentremove
+[17:15:43] Kazimiera Wilczyńska: // why cant i pick up stuff
+[17:15:47] Unknown: /mapentremove
+[17:15:58] Unknown: !adduser kazimiera superadmin
+[17:16:20] Unknown added Kazimiera Wilczyńska to group superadmin
+[17:16:28] Unknown: //those can't be moved
+[17:16:31] Unknown: //they're map props
+[17:16:34] Unknown: //don't permaprop them
+[17:16:49] Unknown: //it doesn't have to be a lavish office like breen's, but you should able to tell
+[17:16:50] Kazimiera Wilczyńska<STEAM_0:0:193599766> spawned model models/props_combine/breendesk.mdl
+[17:16:56] Kazimiera Wilczyńska: // will Breendesk work
+[17:17:06] Unknown: //can you use the one white desk
+[17:17:16] Unknown: //from roleplay props exgtended
+[17:17:19] Kazimiera Wilczyńska: // sure
+[17:17:33] Kazimiera Wilczyńska<STEAM_0:0:193599766> spawned model models/props_warehouse/office_furniture_desk_corner.mdl
+[17:17:42] Kazimiera Wilczyńska<STEAM_0:0:193599766> spawned model models/props_office/desk_01.mdl
+[17:17:48] Kazimiera Wilczyńska<STEAM_0:0:193599766> spawned model models/props/cs_office/chair_office.mdl
+[17:18:03] Kazimiera Wilczyńska<STEAM_0:0:193599766> spawned model models/highrise/cubicle_monitor_01.mdl
+[17:18:14] Kazimiera Wilczyńska<STEAM_0:0:193599766> spawned model models/props_interiors/copymachine01.mdl
+[17:18:25] Kazimiera Wilczyńska<STEAM_0:0:193599766> spawned model models/props/cs_office/trash_can_p.mdl
+[17:18:33] Kazimiera Wilczyńska<STEAM_0:0:193599766> spawned model models/props/cs_office/table_meeting.mdl
+[17:18:35] Unknown<STEAM_0:1:53097688> spawned model models/highrise/trashcanashtray_01.mdl
+[17:18:47] Kazimiera Wilczyńska<STEAM_0:0:193599766> spawned model models/props_interiors/chairlobby01.mdl
+[17:18:51] Kazimiera Wilczyńska<STEAM_0:0:193599766> spawned model models/props_interiors/chairlobby01.mdl
+[17:19:12] Kazimiera Wilczyńska<STEAM_0:0:193599766> spawned model models/props_furniture/picture_frame8.mdl
+[17:19:19] Kazimiera Wilczyńska<STEAM_0:0:193599766> spawned model models/props_interiors/painting_portrait01.mdl
+[17:19:46] Kazimiera Wilczyńska<STEAM_0:0:193599766> spawned model models/props/cs_office/computer_keyboard_p2.mdl
+[17:19:49] Kazimiera Wilczyńska<STEAM_0:0:193599766> spawned model models/props/cs_office/computer_keyboard.mdl
+[17:20:09] Kazimiera Wilczyńska<STEAM_0:0:193599766> spawned model models/props/cs_office/computer_mouse.mdl
+[17:20:24] Kazimiera Wilczyńska<STEAM_0:0:193599766> spawned model models/props_interiors/paper_tray.mdl
+[17:20:25] Unknown<STEAM_0:1:53097688> spawned model models/hunter/blocks/cube3x3x05.mdl
+[17:20:26] Kazimiera Wilczyńska<STEAM_0:0:193599766> spawned model models/props_interiors/paper_tray.mdl
+[17:20:31] Unknown<STEAM_0:1:53097688> spawned model models/hunter/blocks/cube8x8x05.mdl
+[17:20:36] Kazimiera Wilczyńska<STEAM_0:0:193599766> spawned model models/props/cs_office/phone_p1.mdl
+[17:20:36] Unknown<STEAM_0:1:53097688> spawned model models/hunter/blocks/cube6x6x025.mdl
+[17:20:38] Kazimiera Wilczyńska<STEAM_0:0:193599766> spawned model models/props/cs_office/phone.mdl
+[17:20:39] Unknown<STEAM_0:1:53097688> spawned model models/hunter/blocks/cube6x6x1.mdl
+[17:21:08] Kazimiera Wilczyńska<STEAM_0:0:193599766> spawned model models/props/portedprops/telephone.mdl
+[17:21:11] Kazimiera Wilczyńska<STEAM_0:0:193599766> spawned model models/illusion/eftcontainers/gphone.mdl
+[17:21:17] Kazimiera Wilczyńska<STEAM_0:0:193599766> spawned model models/illusion/eftcontainers/gphonex.mdl
+[17:21:42] Kazimiera Wilczyńska<STEAM_0:0:193599766> spawned model models/props_combine/combine_interface001.mdl
+[17:22:01] Kazimiera Wilczyńska<STEAM_0:0:193599766> spawned model models/props_combine/combine_interface001.mdl
+[17:22:09] Unknown: //when you're done with the office we're likely gonnabme ove to rp_bmsectorc
+[17:22:10] Kazimiera Wilczyńska<STEAM_0:0:193599766> spawned model models/props_combine/combine_monitorbay.mdl
+[17:22:16] Kazimiera Wilczyńska<STEAM_0:0:193599766> spawned model models/props_combine/combine_intmonitor001.mdl
+[17:22:23] Kazimiera Wilczyńska: // does that need half life 1
+[17:22:33] Unknown: //no
+[17:23:02] Kazimiera Wilczyńska: // brb
+[17:23:48] Unknown: //brb restarting, please DM when you're done and everythign is permapropped
+[17:27:55] Kazimiera Wilczyńska: /toggleraise
+[17:27:57] Kazimiera Wilczyńska: /toggleraise
+[17:28:20] Dropped "Unknown" from server<STEAM_0:1:53097688>
+[17:29:51] Dropped "Kazimiera Wilczyńska" from server<STEAM_0:0:193599766>
+
+
+
+[17:35:50] New map: rp_bmsectorc
+[17:41:48] Client "matt saton" connected.
+[17:43:08] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 80 seconds).
+[17:46:17] Client "DRD" connected.
+[17:48:41] Client "DRD" spawned in server <STEAM_0:0:193599766> (took 144 seconds).
+[17:49:05] Dropped "Unknown" from server<STEAM_0:1:53097688>
+[17:52:52] Client "matt saton" connected.
+[17:53:25] CCA.C17-GRID.i1.36307: // uhhh
+[17:53:58] CCA.C17-GRID.i1.36307 suicided!
+[17:53:58] CCA.C17-GRID.i1.36307 slayed Themself
+[17:53:58] CCA.C17-GRID.i1.36307: !slay grid
+[17:54:04] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 72 seconds).
+[17:54:04] CCA.C17-GRID.i1.36307 suicided!
+[17:54:54] CCA.C17-GRID.i1.36307 suicided!
+[17:55:03] CCA.C17-JUDGE.i2.12459: //howdy
+[17:55:09] CCA.C17-GRID.i1.36307: // why is there a 
+[17:55:13] CCA.C17-GRID.i1.36307: // what the fuck
+[17:55:25] CCA.C17-GRID.i1.36307: // why are zombies t-posing
+[17:55:26] CCA.C17-JUDGE.i2.12459: //this isn't part of the map
+[17:55:28] CCA.C17-JUDGE.i2.12459: //uhhh
+[17:55:30] CCA.C17-JUDGE.i2.12459: //that's a you thing
+[17:55:37] CCA.C17-GRID.i1.36307: // why is magnusson t-posing wtf
+[17:55:41] CCA.C17-JUDGE.i2.12459: //that's a server thing
+[17:55:53] CCA.C17-GRID.i1.36307: // what do these buttons do
+[17:56:03] CCA.C17-JUDGE.i2.12459: //spawn those things along the facility, don't press them
+[17:56:09] CCA.C17-JUDGE.i2.12459: //go thorugh a teleporter
+[17:56:25] CCA.C17-JUDGE.i2.12459: /mapentreove
+[17:56:28] CCA.C17-JUDGE.i2.12459: /mapentremove
+[17:56:53] CCA.C17-JUDGE.i2.12459: //we need to prop laboratories
+[17:57:31] CCA.C17-JUDGE.i2.12459: //damn, this is even accurate to deay
+[17:57:42] CCA.C17-GRID.i1.36307: // what
+[17:57:55] Unknown: //decay was an HL1 game for PS1
+[17:58:14] CCA.C17-GRID.i1.36307: // i never played hl1
+[17:58:18] CCA.C17-GRID.i1.36307 was killed by trigger_hurt
+[17:58:18] Unknown: //you wot
+[17:58:22] CCA.C17-GRID.i1.36307: // i never played hl1
+[17:58:25] CCA.C17-GRID.i1.36307: // never got it
+[17:58:28] Unknown: //you wot m8
+[17:58:33] Unknown: //can you please prop laboratories
+[17:58:53] CCA.C17-GRID.i1.36307: // honestly haven't really played hl2 that much with the exception of with lightroom on the weird multiplayer thing
+[17:58:54] CCA.C17-GRID.i1.36307: // sure
+[17:59:29] CCA.C17-GRID.i1.36307: // so what kind of labs
+[17:59:46] Unknown: //offices mainly
+[17:59:49] Unknown: //office type labs that is
+[17:59:56] Unknown: //some scientific equipment as well
+[18:00:02] CCA.C17-GRID.i1.36307: // just like
+[18:00:05] CCA.C17-GRID.i1.36307: // analysis stuff
+[18:00:21] Unknown brought CCA.C17-GRID.i1.36307
+[18:00:21] Unknown: !bring grid
+[18:00:25] Unknown: //yeah basically
+[18:00:48] Unknown<STEAM_0:1:53097688> spawned model models/props_lab/servers.mdl
+[18:00:49] CCA.C17-GRID.i1.36307: // wait
+[18:00:54] CCA.C17-GRID.i1.36307: // time travel station
+[18:00:58] CCA.C17-GRID.i1.36307: // black mesa map
+[18:00:59] Unknown: //np
+[18:01:00] Unknown: //no
+[18:01:04] Unknown: //shush
+[18:01:06] CCA.C17-GRID.i1.36307: // oh hell yeah let's fuck up the timelin- oh
+[18:01:08] Unknown: //cease your critical thinking
+[18:01:19] Unknown: //I PAY OU TO BE A MINDLESS DRONE, NOT A FREE THINKER
+[18:01:23] Unknown: //YOU'RE AN AMAZON EMPLOYEE, JAMES
+[18:01:26] CCA.C17-GRID.i1.36307: // you don't pay me
+[18:01:31] CCA.C17-GRID.i1.36307<STEAM_0:0:193599766> spawned model models/props_lab/securitybank.mdl
+[18:01:40] CCA.C17-GRID.i1.36307<STEAM_0:0:193599766> spawned model models/props_lab/huladoll.mdl
+[18:01:41] Unknown: //maybe save that for a security room
+[18:01:44] Unknown<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_desk001b.mdl
+[18:01:48] CCA.C17-GRID.i1.36307<STEAM_0:0:193599766> spawned model models/props_lab/plotter.mdl
+[18:01:52] Unknown: //that's good
+[18:01:53] Unknown<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_desk001b.mdl
+[18:01:54] CCA.C17-GRID.i1.36307: // thing
+[18:02:07] CCA.C17-GRID.i1.36307: /// aaa i dont wanna be a desk- oh thanks
+[18:02:18] Unknown<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_chair001a.mdl
+[18:02:21] Unknown<STEAM_0:1:53097688> spawned model models/props_interiors/chair_cafeteria.mdl
+[18:02:30] Unknown<STEAM_0:1:53097688> spawned model models/props/cs_office/chair_office.mdl
+[18:02:37] CCA.C17-GRID.i1.36307: // im currently writing a species doc for a server i'm on so my responses might be delayed
+[18:02:40] Unknown<STEAM_0:1:53097688> spawned model models/props/cs_office/chair_office.mdl
+[18:02:56] CCA.C17-GRID.i1.36307: // im fucking altering turians to fit in star trek because i want god to fear me
+[18:03:01] CCA.C17-GRID.i1.36307<STEAM_0:0:193599766> spawned model models/props_lab/workspace004.mdl
+[18:03:06] CCA.C17-GRID.i1.36307<STEAM_0:0:193599766> spawned model models/props_lab/workspace003.mdl
+[18:03:12] CCA.C17-GRID.i1.36307<STEAM_0:0:193599766> spawned model models/props_lab/huladoll.mdl
+[18:03:15] Unknown: //we need desks too and stuff
+[18:03:19] Unknown: //regualr office stuff is also needed
+[18:03:25] Unknown<STEAM_0:1:53097688> spawned model models/props_interiors/copymachine01.mdl
+[18:03:40] CCA.C17-GRID.i1.36307: // i was just about to put that prop down lol
+[18:03:41] Unknown: /mapentremove
+[18:03:43] Unknown<STEAM_0:1:53097688> spawned model models/props_office/desk_01.mdl
+[18:03:50] CCA.C17-GRID.i1.36307<STEAM_0:0:193599766> spawned model models/props/cs_office/computer.mdl
+[18:04:01] Unknown: //no flatscreen computers
+[18:04:16] CCA.C17-GRID.i1.36307: // this is a cutting edge research facility isn't it
+[18:04:18] Unknown<STEAM_0:1:53097688> spawned model models/props_office/desk_01.mdl
+[18:04:29] Unknown: //yeah but their money goes into violating osha
+[18:04:45] CCA.C17-GRID.i1.36307: // the flatter the computer, the better it can be used to impale someone
+[18:04:51] CCA.C17-GRID.i1.36307<STEAM_0:0:193599766> spawned model models/props/cs_office/trash_can_p.mdl
+[18:04:56] Unknown<STEAM_0:1:53097688> spawned model models/props_warehouse/office_furniture_desk_corner.mdl
+[18:04:57] Unknown<STEAM_0:1:53097688> spawned model models/props_office/desk_01.mdl
+[18:04:57] CCA.C17-GRID.i1.36307<STEAM_0:0:193599766> spawned model models/props/cs_office/trash_can_p.mdl
+[18:05:26] CCA.C17-GRID.i1.36307: // what the fuck even is this
+[18:05:34] CCA.C17-GRID.i1.36307: // a seismograph or whatever the hell its called?
+[18:05:37] Unknown: //yeah believe os
+[18:05:39] Unknown: //so*
+[18:05:46] Unknown<STEAM_0:1:53097688> spawned model models/props_interiors/corkboardverticle01.mdl
+[18:05:51] Unknown<STEAM_0:1:53097688> spawned model models/props/cs_office/offcorkboarda.mdl
+[18:05:59] CCA.C17-GRID.i1.36307: // i love that black mesa recycles
+[18:06:07] Unknown<STEAM_0:1:53097688> spawned model models/props_interiors/water_cooler.mdl
+[18:06:11] Unknown<STEAM_0:1:53097688> spawned model models/u4lab/chair_office_a.mdl
+[18:06:12] CCA.C17-GRID.i1.36307<STEAM_0:0:193599766> spawned model models/props_interiors/paper_tray.mdl
+[18:06:16] Unknown<STEAM_0:1:53097688> spawned model models/props/cs_office/file_box.mdl
+[18:06:30] CCA.C17-GRID.i1.36307<STEAM_0:0:193599766> spawned model models/props_lab/monitor01a.mdl
+[18:06:33] Unknown<STEAM_0:1:53097688> spawned model models/props_lab/clipboard.mdl
+[18:06:37] CCA.C17-GRID.i1.36307<STEAM_0:0:193599766> spawned model models/props_lab/harddrive02.mdl
+[18:06:49] Unknown: //getting dinner be back fast as possibel
+[18:06:54] Unknown: //after tihs office is please done move on
+[18:06:59] Unknown: //make sure permaprop please
+[18:07:00] CCA.C17-GRID.i1.36307: // hhhhahahah q dinenr eat slow
+[18:07:05] Unknown: //no i'm on campus
+[18:07:18] CCA.C17-GRID.i1.36307: // were you fed like a 5 course meal
+[18:07:25] CCA.C17-GRID.i1.36307<STEAM_0:0:193599766> spawned model models/props_c17/computer01_keyboard.mdl
+[18:08:32] CCA.C17-GRID.i1.36307<STEAM_0:0:193599766> spawned model models/props_c17/computer01_keyboard.mdl
+[18:08:53] Client "Ollie Garner" connected.
+[18:09:05] CCA.C17-GRID.i1.36307<STEAM_0:0:193599766> spawned model models/props_lab/monitor01a.mdl
+[18:09:33] CCA.C17-GRID.i1.36307<STEAM_0:0:193599766> spawned model models/props_lab/reciever_cart.mdl
+[18:09:49] CCA.C17-GRID.i1.36307<STEAM_0:0:193599766> spawned model models/props_interiors/corkboardverticle01.mdl
+[18:09:59] CCA.C17-GRID.i1.36307<STEAM_0:0:193599766> spawned model models/props/cs_office/offcorkboarda.mdl
+[18:10:19] CCA.C17-GRID.i1.36307<STEAM_0:0:193599766> spawned model models/props_interiors/water_cooler.mdl
+[18:10:25] Dropped "CCA.C17-GRID.i1.36307" from server<STEAM_0:0:193599766>
+[18:10:25] Dropped "Unknown" from server<STEAM_0:1:53097688>
+[18:11:10] Client "DRD" connected.
+[18:11:25] Client "Ollie Garner" spawned in server <STEAM_0:1:52892973> (took 152 seconds).
+[18:12:10] Client "DRD" spawned in server <STEAM_0:0:193599766> (took 60 seconds).
+[18:12:21] Morgan Beck: // Yuh
+[18:14:05] CCA.C17-GRID.i1.36307: // rewp9iugahpo9iea
+[18:14:14] Morgan Beck<STEAM_0:1:52892973> spawned model models/props_lab/partsbin01.mdl
+[18:14:29] Morgan Beck<STEAM_0:1:52892973> spawned model models/props_lab/servers.mdl
+[18:14:38] Morgan Beck<STEAM_0:1:52892973> spawned model models/props_lab/workspace003.mdl
+[18:14:43] Morgan Beck<STEAM_0:1:52892973> spawned model models/props_junk/garbage_coffeemug001a.mdl
+[18:14:58] Morgan Beck<STEAM_0:1:52892973> spawned model models/props_lab/plotter.mdl
+[18:15:08] Morgan Beck<STEAM_0:1:52892973> spawned model models/props_combine/breenchair.mdl
+[18:15:52] Morgan Beck<STEAM_0:1:52892973> spawned model models/props_wasteland/kitchen_shelf001a.mdl
+[18:15:58] Morgan Beck<STEAM_0:1:52892973> spawned model models/props_wasteland/kitchen_shelf001a.mdl
+[18:16:17] Morgan Beck<STEAM_0:1:52892973> spawned model models/props_combine/breenchair.mdl
+[18:16:31] Morgan Beck<STEAM_0:1:52892973> spawned model models/props_wasteland/controlroom_storagecloset001a.mdl
+[18:16:40] Morgan Beck<STEAM_0:1:52892973> spawned model models/props_combine/breenchair.mdl
+[18:16:48] Morgan Beck<STEAM_0:1:52892973> spawned model models/props_wasteland/kitchen_shelf001a.mdl
+[18:17:43] Morgan Beck<STEAM_0:1:52892973> spawned model models/props_wasteland/controlroom_storagecloset001b.mdl
+[18:17:46] Morgan Beck<STEAM_0:1:52892973> spawned model models/props_wasteland/controlroom_storagecloset001a.mdl
+[18:17:49] Morgan Beck<STEAM_0:1:52892973> spawned model models/props_wasteland/controlroom_filecabinet002a.mdl
+[18:17:58] Morgan Beck<STEAM_0:1:52892973> spawned model models/props_wasteland/controlroom_storagecloset001a.mdl
+[18:18:02] Morgan Beck<STEAM_0:1:52892973> spawned model models/props_wasteland/controlroom_storagecloset001b.mdl
+[18:18:24] Morgan Beck<STEAM_0:1:52892973> spawned model models/props_wasteland/kitchen_shelf002a.mdl
+[18:18:27] Morgan Beck<STEAM_0:1:52892973> spawned model models/props_wasteland/kitchen_shelf002a.mdl
+[18:18:31] Morgan Beck<STEAM_0:1:52892973> spawned model models/props_wasteland/kitchen_shelf001a.mdl
+[18:18:38] Morgan Beck<STEAM_0:1:52892973> spawned model models/props_wasteland/controlroom_desk001b.mdl
+[18:18:52] Morgan Beck<STEAM_0:1:52892973> spawned model models/props_junk/cardboard_box004a.mdl
+[18:18:54] Morgan Beck<STEAM_0:1:52892973> spawned model models/props_junk/wood_crate001a_damaged.mdl
+[18:20:05] Morgan Beck<STEAM_0:1:52892973> spawned model models/props_interiors/furniture_chair03a.mdl
+[18:20:18] Morgan Beck<STEAM_0:1:52892973> spawned model models/props_interiors/furniture_chair03a.mdl
+[18:20:19] Morgan Beck<STEAM_0:1:52892973> spawned model models/props_interiors/furniture_chair03a.mdl
+[18:20:20] Morgan Beck<STEAM_0:1:52892973> spawned model models/props_interiors/furniture_chair03a.mdl
+[18:21:14] CCA.C17-GRID.i1.36307 was killed by trigger_hurt
+[18:21:14] Morgan Beck<STEAM_0:1:52892973> spawned model models/props_interiors/furniture_chair03a.mdl
+[18:21:23] Morgan Beck<STEAM_0:1:52892973> spawned model models/props_interiors/furniture_chair03a.mdl
+[18:21:30] Morgan Beck<STEAM_0:1:52892973> spawned model models/props_interiors/furniture_chair03a.mdl
+[18:21:37] Morgan Beck<STEAM_0:1:52892973> spawned model models/props_interiors/furniture_chair03a.mdl
+[18:21:44] CCA.C17-GRID.i1.36307<STEAM_0:0:193599766> spawned model models/props_c17/furnituredresser001a.mdl
+[18:21:59] Morgan Beck<STEAM_0:1:52892973> spawned model models/props_combine/breenchair.mdl
+[18:22:02] CCA.C17-GRID.i1.36307<STEAM_0:0:193599766> spawned model models/props_c17/furnitureradiator001a.mdl
+[18:23:22] CCA.C17-GRID.i1.36307: // brb
+[18:25:30] Morgan Beck<STEAM_0:1:52892973> spawned model models/decay/items/health.mdl
+[18:25:32] CCA.C17-GRID.i1.36307<STEAM_0:0:193599766> spawned model models/props_phx/construct/metal_plate1.mdl
+[18:25:41] CCA.C17-GRID.i1.36307<STEAM_0:0:193599766> spawned model models/props_c17/oildrum001.mdl
+[18:26:13] CCA.C17-GRID.i1.36307<STEAM_0:0:193599766> spawned model models/props_c17/oildrum001_explosive.mdl
+[18:26:41] CCA.C17-GRID.i1.36307: !menu
+[18:26:45] CCA.C17-GRID.i1.36307 extinguished all 3 fires.
+[18:26:51] Morgan Beck: // ...?
+[18:27:02] Morgan Beck<STEAM_0:1:52892973> spawned model models/props/hazardous/console_02.mdl
+[18:27:04] CCA.C17-GRID.i1.36307: // uhhhhhhhhhhhhhhhh
+[18:27:04] Morgan Beck<STEAM_0:1:52892973> spawned model models/props/hazardous/console.mdl
+[18:27:08] CCA.C17-GRID.i1.36307: // come here for a sec
+[18:27:14] Morgan Beck teleported to CCA.C17-GRID.i1.36307
+[18:27:14] Morgan Beck: !goto GRID
+[18:27:20] Morgan Beck: /looc weird
+[18:27:26] Morgan Beck returned Themself to their original position
+[18:27:26] Morgan Beck: !return
+[18:27:30] Morgan Beck<STEAM_0:1:52892973> spawned model models/props/hl10props/amsblastdoor00.mdl
+[18:27:52] Morgan Beck<STEAM_0:1:52892973> spawned model models/props/hl5props/supermachine00.mdl
+[18:27:53] CCA.C17-GRID.i1.36307: // IT HAS ME IN NOCLIP HELP
+[18:28:00] Morgan Beck: // no
+[18:28:04] Morgan Beck<STEAM_0:1:52892973> spawned model models/props/reqprops/tram_seat.mdl
+[18:28:08] CCA.C17-GRID.i1.36307: // HOW IS IT HOLDING ONTO ME
+[18:28:17] Morgan Beck<STEAM_0:1:52892973> spawned model models/props/propshl2/supercomputer01.mdl
+[18:28:24] Morgan Beck<STEAM_0:1:52892973> spawned model models/props/hl6props/terminal01.mdl
+[18:28:33] Morgan Beck<STEAM_0:1:52892973> spawned model models/props/hl18props/machine00.mdl
+[18:28:41] Morgan Beck<STEAM_0:1:52892973> spawned model models/props/hl18props/machine01.mdl
+[18:28:44] CCA.C17-GRID.i1.36307: .// oh fun
+[18:28:48] CCA.C17-GRID.i1.36307: .// missing textures
+[18:28:59] Morgan Beck: // It's fine for me
+[18:29:09] Morgan Beck<STEAM_0:1:52892973> spawned model models/props/hazardous/console.mdl
+[18:29:13] Morgan Beck<STEAM_0:1:52892973> spawned model models/props/hazardous/console_03.mdl
+[18:29:28] CCA.C17-GRID.i1.36307: // what addon is that from
+[18:29:36] Morgan Beck: // Half-Life 1 Prop Pack
+[18:29:52] CCA.C17-GRID.i1.36307: // why the FUCK is it misisng textures with the exception of a keyboard
+[18:30:01] Morgan Beck: // I dunno
+[18:30:19] Morgan Beck<STEAM_0:1:52892973> spawned model models/decay/props/chair_office.mdl
+[18:30:33] Morgan Beck: // What the fuck is with the barnacles?
+[18:30:53] CCA.C17-GRID.i1.36307: // uhhh i pressed a button without knowing what it did
+[18:30:57] Morgan Beck: // BRUH
+[18:31:27] CCA.C17-GRID.i1.36307: // they should fuck off once there's a restart
+[18:31:31] Morgan Beck: // Hopefully
+[18:31:38] Morgan Beck<STEAM_0:1:52892973> spawned model models/props_wasteland/kitchen_shelf001a.mdl
+[18:31:41] Morgan Beck<STEAM_0:1:52892973> spawned model models/props_wasteland/kitchen_shelf002a.mdl
+[18:31:58] CCA.C17-GRID.i1.36307: // they're map things
+[18:32:04] CCA.C17-GRID.i1.36307: // spawned by a button
+[18:32:07] CCA.C17-GRID.i1.36307: // in the map
+[18:32:13] Morgan Beck: // Don't touch them.
+[18:33:06] Morgan Beck<STEAM_0:1:52892973> spawned model models/props_interiors/furniture_chair03a.mdl
+[18:33:11] Morgan Beck<STEAM_0:1:52892973> spawned model models/props_interiors/furniture_chair03a.mdl
+[18:34:14] Morgan Beck<STEAM_0:1:52892973> spawned model models/props_interiors/furniture_shelf01a.mdl
+[18:34:22] Client "matt saton" connected.
+[18:34:31] Morgan Beck<STEAM_0:1:52892973> spawned model models/props_combine/breenchair.mdl
+[18:34:46] Morgan Beck<STEAM_0:1:52892973> spawned model models/props_lab/servers.mdl
+[18:34:51] Morgan Beck<STEAM_0:1:52892973> spawned model models/props_lab/securitybank.mdl
+[18:35:13] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 51 seconds).
+[18:35:14] Morgan Beck<STEAM_0:1:52892973> spawned model models/props_lab/tpplugholder_single.mdl
+[18:35:24] Morgan Beck<STEAM_0:1:52892973> spawned model models/props_lab/tpplugholder_single.mdl
+[18:35:50] Morgan Beck<STEAM_0:1:52892973> spawned model models/props_wasteland/kitchen_shelf001a.mdl
+[18:35:53] Dropped "Morgan Beck" from server<STEAM_0:1:52892973>
+[18:35:53] Dropped "CCA.C17-GRID.i1.36307" from server<STEAM_0:0:193599766>
+[18:36:55] Client "Ollie Garner" connected.
+[18:36:59] Dropped "matt saton" from server<STEAM_0:1:53097688>
+[18:37:07] Client "matt saton" connected.
+[18:37:57] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 50 seconds).
+[18:38:23] Client "Ollie Garner" spawned in server <STEAM_0:1:52892973> (took 88 seconds).
+[18:41:58] Unknown<STEAM_0:1:53097688> spawned model models/props_c17/furnituresink001a.mdl
+[18:41:59] Unknown<STEAM_0:1:53097688> spawned model models/props_c17/furnitureshelf002a.mdl
+[18:42:36] Morgan Beck: // Yuh
+[18:42:40] Unknown: //yo
+[18:42:43] Unknown<STEAM_0:1:53097688> spawned model models/props_c17/trappropeller_blade.mdl
+[18:42:44] Unknown<STEAM_0:1:53097688> spawned model models/props_c17/furnitureshelf002a.mdl
+[18:42:47] Morgan Beck<STEAM_0:1:52892973> spawned model models/props_wasteland/controlroom_filecabinet002a.mdl
+[18:42:50] Unknown<STEAM_0:1:53097688> spawned model models/props_c17/furnitureshelf002a.mdl
+[18:43:00] Unknown<STEAM_0:1:53097688> spawned model models/props_c17/furnitureshelf002a.mdl
+[18:43:07] Unknown<STEAM_0:1:53097688> spawned model models/props_c17/furnitureshelf002a.mdl
+[18:43:15] Unknown: //i am very nerovus
+[18:43:20] Morgan Beck: // Don't be.
+[18:43:22] Unknown<STEAM_0:1:53097688> spawned model models/props_c17/furnitureshelf002a.mdl
+[18:43:25] Morgan Beck<STEAM_0:1:52892973> spawned model models/props_wasteland/kitchen_counter001a.mdl
+[18:43:27] Unknown<STEAM_0:1:53097688> spawned model models/props_c17/furnitureshelf002a.mdl
+[18:43:38] Unknown<STEAM_0:1:53097688> spawned model models/props_c17/furnitureshelf002a.mdl
+[18:43:40] Morgan Beck<STEAM_0:1:52892973> spawned ragdoll models/props_junk/cardboard_box003a_gib01.mdl
+[18:43:45] Morgan Beck<STEAM_0:1:52892973> spawned ragdoll models/props_junk/cardboard_box003a_gib01.mdl
+[18:43:46] Unknown<STEAM_0:1:53097688> spawned model models/props_c17/furnitureshelf002a.mdl
+[18:43:49] Morgan Beck<STEAM_0:1:52892973> spawned model models/props_junk/cardboard_box003b.mdl
+[18:43:52] Unknown<STEAM_0:1:53097688> spawned model models/props_c17/furnitureshelf002a.mdl
+[18:44:10] Unknown: //we're cutting it very close
+[18:44:21] Unknown: /spawnadd
+[18:44:23] Unknown: /spawnadd citien
+[18:44:26] Unknown: /spawnadd citizen
+[18:44:28] Unknown: /spawnadd cca
+[18:44:31] Unknown: /spawnadd civil
+[18:44:32] Unknown: /spawnadd civil
+[18:44:33] Unknown: /spawnadd civil
+[18:44:34] Unknown: /spawnadd civil
+[18:44:35] Unknown: /spawnadd civil
+[18:44:36] Unknown: /spawnadd civil
+[18:44:37] Unknown: /spawnadd civil
+[18:44:40] Unknown: /spawnadd citizen
+[18:44:41] Unknown: /spawnadd citizen
+[18:44:41] Unknown: /spawnadd citizen
+[18:44:42] Unknown: /spawnadd citizen
+[18:44:43] Unknown: /spawnadd citizen
+[18:44:45] Unknown: /spawnadd citizen
+[18:44:46] Unknown: /spawnadd citizen
+[18:44:47] Morgan Beck: // I think we're all set. Most of the important places are propped to look alright
+[18:44:58] Morgan Beck: // Some of the offices n shit are kinda propped.
+[18:46:35] Morgan Beck<STEAM_0:1:52892973> spawned model models/props_lab/reciever_cart.mdl
+[18:47:06] Unknown: //are we ready
+[18:47:11] Morgan Beck: // Probably.
+[18:47:12] Unknown: //to open up to build210
+[18:47:22] Morgan Beck: // I have no clue tbh. I just propped what I could
+[18:47:57] Unknown: //alright, going odwn

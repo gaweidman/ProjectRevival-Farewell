@@ -1,0 +1,145 @@
+[00:01:32]	matt saton (STEAM_0:1:53097688) has disconnected (timed out).
+[00:02:46]	matt saton has connected.
+[00:04:41]	matt saton loaded the character 'Joseph Kimsler'
+[00:04:43]	Joseph Kimsler entered observer.
+[00:16:48]	Joseph Kimsler has spawned 'models/props_lab/bindergreen.mdl'.
+[00:16:50]	Joseph Kimsler exited observer at their location.
+[00:16:51]	Joseph Kimsler has spawned 'models/props_lab/bindergraylabel01b.mdl'.
+[00:16:54]	Joseph Kimsler has spawned 'models/props_lab/bindergreen.mdl'.
+[00:21:54]	matt saton has connected.
+[00:23:42]	matt saton loaded the character 'Retarded Bird'
+[00:23:47]	Retarded Bird has gained a 'High School Runner' #5811.
+[00:23:47]	Retarded Bird used command '/CharGiveItem bird school'.
+[00:23:47]	Retarded Bird entered observer.
+[00:29:55]	Retarded Bird ran 'read' on item 'High School Runner' (#5811)
+[00:35:33]	Retarded Bird ran 'read' on item 'High School Runner' (#5811)
+[00:37:42]	Retarded Bird ran 'read' on item 'High School Runner' (#5811)
+[00:39:16]	Retarded Bird exited observer at their location.
+[00:39:20]	Retarded Bird ran 'read' on item 'High School Runner' (#5811)
+[00:40:03]	Retarded Bird entered observer.
+[00:40:10]	Retarded Bird ran 'read' on item 'High School Runner' (#5811)
+[00:40:23]	Retarded Bird ran 'read' on item 'High School Runner' (#5811)
+[00:40:30]	Retarded Bird ran 'read' on item 'High School Runner' (#5811)
+[00:44:31]	matt saton has connected.
+[00:46:18]	matt saton loaded the character 'Retarded Bird'
+[00:46:27]	Retarded Bird ran 'drop' on item 'High School Runner' (#5811)
+[00:46:27]	Retarded Bird has lost a 'High School Runner' #5811.
+[00:46:28]	Retarded Bird entered observer.
+[00:46:35]	Retarded Bird has gained a 'High School Runner' #5811.
+[00:46:35]	Retarded Bird used command '/CharGiveItem bird high'.
+[00:46:45]	Retarded Bird ran 'read' on item 'High School Runner' (#5811)
+[00:49:36]	Retarded Bird ran 'drop' on item 'High School Runner' (#5811)
+[00:49:37]	Retarded Bird has lost a 'High School Runner' #5811.
+[00:49:43]	Retarded Bird has gained a 'High School Runner' #5811.
+[00:49:43]	Retarded Bird used command '/CharGiveItem bird high'.
+[00:49:45]	Retarded Bird ran 'read' on item 'High School Runner' (#5811)
+[00:53:41]	matt saton has connected.
+[00:55:21]	matt saton loaded the character 'Retarded Bird'
+[00:55:29]	Retarded Bird entered observer.
+[00:55:37]	Retarded Bird ran 'read' on item 'High School Runner' (#5811)
+[01:11:26]	matt saton has connected.
+[01:13:11]	matt saton loaded the character 'Gabe Hill'
+[01:13:18]	matt saton loaded the character 'Retarded Bird'
+[01:13:36]	Retarded Bird ran 'read' on item 'High School Runner' (#5811)
+[01:14:03]	Retarded Bird has gained a 'High School Runner' #5811.
+[01:14:03]	Retarded Bird used command '/CharGiveItem bird high'.
+[01:14:05]	Retarded Bird ran 'Equip' on item '.9mm Pistol' (#1988)
+[01:14:08]	Retarded Bird ran 'EquipUn' on item '.9mm Pistol' (#1988)
+[01:14:09]	Retarded Bird ran 'read' on item 'High School Runner' (#5811)
+[01:14:16]	Retarded Bird entered observer.
+[01:24:15]	matt saton has connected.
+[01:26:08]	matt saton loaded the character 'Retarded Bird'
+[01:26:19]	Retarded Bird has gained a 'High School Runner' #5811.
+[01:26:19]	Retarded Bird used command '/CharGiveItem bird high'.
+[01:26:21]	Retarded Bird ran 'read' on item 'High School Runner' (#5811)
+[01:26:32]	Retarded Bird has gained a 'High School Runner' #5811.
+[01:26:32]	Retarded Bird used command '/CharGiveItem bird high'.
+[01:26:33]	Retarded Bird ran 'read' on item 'High School Runner' (#5811)
+[01:30:22]	Retarded Bird used command '/ToggleRaise'.
+[01:30:29]	Retarded Bird used command '/ToggleRaise'.
+[01:30:29]	Retarded Bird entered observer.
+[01:30:37]	Retarded Bird has spawned a 'NPC [3265][npc_cscanner]'.
+[01:30:43]	Retarded Bird has spawned a 'NPC [3267][npc_cscanner]'.
+[01:31:03]	Retarded Bird has spawned a 'NPC [3266][npc_manhack]'.
+[01:31:04]	Retarded Bird exited observer at their location.
+[01:31:05]	Retarded Bird has taken 4 damage from npc_manhack leaving them at 44 HP!
+[01:31:05]	Retarded Bird has taken 4 damage from npc_manhack.
+[01:31:08]	Retarded Bird entered observer.
+[01:36:30]	matt saton has connected.
+[01:38:29]	matt saton loaded the character 'Retarded Bird'
+[01:38:34]	Retarded Bird entered observer.
+[01:39:00]	Retarded Bird used command '/CharSetModel bird models/hlvr/characters/combine/heavy/combine_heavy_hlvr_player.mdl'.
+[01:39:03]	Retarded Bird exited observer at their location.
+[01:39:15]	Retarded Bird used command '/CharSetModel bird models/characters/combine_soldier/jqblk/combine_s_super.mdl'.
+[01:39:30]	Retarded Bird used command '/CharSetModel bird models/hlvr/characters/combine/suppressor/combine_suppressor_hlvr_player.mdl'.
+[01:39:40]	Retarded Bird used command '/CharSetModel bird models/hlvr/characters/combine/heavy/combine_heavy_hlvr_npc.mdl'.
+[01:39:49]	Retarded Bird used command '/ToggleRaise'.
+[01:39:54]	Retarded Bird used command '/ToggleRaise'.
+[01:40:02]	Retarded Bird used command '/ToggleRaise'.
+[01:40:03]	Retarded Bird used command '/ToggleRaise'.
+[01:40:08]	Retarded Bird used command '/ToggleRaise'.
+[01:40:11]	Retarded Bird used command '/ToggleRaise'.
+[01:40:13]	Retarded Bird used command '/ToggleRaise'.
+[01:41:02]	Retarded Bird used command '/CharSetModel bird models/characters/combine_soldier/jqblk/combine_s_super.mdl'.
+[01:41:13]	Retarded Bird used command '/ToggleRaise'.
+[01:41:15]	Retarded Bird used command '/ToggleRaise'.
+[01:46:37]	matt saton has connected.
+[01:49:29]	matt saton loaded the character 'Retarded Bird'
+[01:50:23]	Retarded Bird entered observer.
+[01:51:22]	Retarded Bird exited observer at their location.
+[01:53:08]	Retarded Bird entered observer.
+[01:54:01]	Retarded Bird exited observer at their location.
+[01:54:24]	Retarded Bird entered observer.
+[01:56:31]	Retarded Bird exited observer at their location.
+[01:56:32]	Retarded Bird entered observer.
+[01:56:34]	Retarded Bird exited observer at their location.
+[01:56:35]	Retarded Bird entered observer.
+[01:56:36]	Retarded Bird exited observer at their location.
+[01:56:39]	Retarded Bird entered observer.
+[01:56:39]	Retarded Bird exited observer at their location.
+[01:58:13]	Retarded Bird entered observer.
+[01:58:43]	Retarded Bird exited observer at their location.
+[01:58:47]	Retarded Bird entered observer.
+[02:01:13]	Retarded Bird exited observer at their location.
+[02:01:28]	Retarded Bird entered observer.
+[02:01:30]	Retarded Bird exited observer at their location.
+[02:01:34]	Retarded Bird entered observer.
+[02:02:24]	Retarded Bird exited observer at their location.
+[02:03:37]	Retarded Bird entered observer.
+[02:03:38]	Retarded Bird exited observer at their location.
+[02:03:39]	Retarded Bird entered observer.
+[02:03:49]	Retarded Bird exited observer at their location.
+[02:03:51]	Retarded Bird entered observer.
+[02:03:52]	Retarded Bird exited observer at their location.
+[02:04:37]	Retarded Bird entered observer.
+[02:09:00]	matt saton loaded the character 'CCA.C17-GRID.i4.69192'
+[02:18:49]	CCA.C17-GRID.i4.69192 has gained 10 tokens.
+[02:25:26]	CCA.C17-GRID.i4.69192 has gained 10 tokens.
+[02:30:26]	CCA.C17-GRID.i4.69192 has gained 10 tokens.
+[02:35:26]	CCA.C17-GRID.i4.69192 has gained 10 tokens.
+[02:40:26]	CCA.C17-GRID.i4.69192 has gained 10 tokens.
+[02:45:26]	CCA.C17-GRID.i4.69192 has gained 10 tokens.
+[02:50:26]	CCA.C17-GRID.i4.69192 has gained 10 tokens.
+[02:55:26]	CCA.C17-GRID.i4.69192 has gained 10 tokens.
+[03:00:26]	CCA.C17-GRID.i4.69192 has gained 10 tokens.
+[03:05:26]	CCA.C17-GRID.i4.69192 has gained 10 tokens.
+[03:10:26]	CCA.C17-GRID.i4.69192 has gained 10 tokens.
+[23:50:51]	matt saton has connected.
+[23:52:58]	matt saton loaded the character 'CCA.C17-GRID.i4.69192'
+[23:53:17]	CCA.C17-GRID.i4.69192 entered observer.
+[23:53:22]	CCA.C17-GRID.i4.69192 exited observer at their location.
+[23:53:30]	CCA.C17-GRID.i4.69192 entered observer.
+[23:55:04]	CCA.C17-GRID.i4.69192 exited observer at their location.
+[23:55:30]	CCA.C17-GRID.i4.69192 entered observer.
+[23:55:39]	CCA.C17-GRID.i4.69192 exited observer at their location.
+[23:55:40]	CCA.C17-GRID.i4.69192 entered observer.
+[23:55:41]	CCA.C17-GRID.i4.69192 exited observer at their location.
+[23:55:44]	CCA.C17-GRID.i4.69192 entered observer.
+[23:55:45]	CCA.C17-GRID.i4.69192 exited observer at their location.
+[23:55:52]	CCA.C17-GRID.i4.69192 entered observer.
+[23:57:09]	CCA.C17-GRID.i4.69192 exited observer at their location.
+[23:57:58]	CCA.C17-GRID.i4.69192 has gained 10 tokens.
+[23:58:18]	CCA.C17-GRID.i4.69192 entered observer.
+[23:58:21]	CCA.C17-GRID.i4.69192 exited observer at their location.
+[23:58:30]	CCA.C17-GRID.i4.69192 entered observer.
+[23:59:24]	CCA.C17-GRID.i4.69192 exited observer at their location.

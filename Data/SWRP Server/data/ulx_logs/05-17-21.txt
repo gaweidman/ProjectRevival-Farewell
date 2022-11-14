@@ -1,0 +1,51 @@
+<Logging continued from "data/ulx_logs/05-16-21.txt">
+[02:01:56] Client "Breakout" connected.
+
+
+
+[03:51:06] New map: rp_stardestroyer_v2_5
+[20:29:06] Client "FB|| light ROOM" connected.
+[20:29:13] Client "DRD" connected.
+[20:30:10] Client "FB|| light ROOM" spawned in server <STEAM_0:1:17219621> (took 64 seconds).
+[20:32:06] Client "DRD" spawned in server <STEAM_0:0:193599766> (took 173 seconds).
+[20:35:19] Petty Officer Third Class Kariss Novar: /toggleraise
+[20:35:26] Dropped "Petty Officer Third Class Kariss Novar" from server<STEAM_0:0:193599766>
+[20:40:01] Client "DRD" connected.
+[20:42:10] Client "DRD" spawned in server <STEAM_0:0:193599766> (took 129 seconds).
+[20:48:52] Private IN-3630: /CHARSETBODYGROUP IN PAULDRON 1
+[20:48:53] Private IN-3630: /CHARSETBODYGROUP IN PAULDRON 2
+[20:48:54] Private IN-3630: /CHARSETBODYGROUP IN PAULDRON 3
+[20:48:55] Private IN-3630: /CHARSETBODYGROUP IN PAULDRON 4
+[20:48:56] Private IN-3630: /CHARSETBODYGROUP IN PAULDRON 5
+[20:48:58] Private IN-3630: /CHARSETBODYGROUP IN PAULDRON 6
+[20:48:59] Private IN-3630: /CHARSETBODYGROUP IN PAULDRON 6
+[20:49:01] Private IN-3630: /CHARSETBODYGROUP IN PAULDRON 7
+[20:49:03] Private IN-3630: /CHARSETBODYGROUP IN PAULDRON 8
+[20:49:03] Private IN-3630: /toggleraise
+[20:50:09] Sergeant Owen ''Bulwark'' Tump<STEAM_0:1:17219621> spawned model models/props_junk/garbage_coffeemug001a.mdl
+[20:50:12] Sergeant Owen ''Bulwark'' Tump<STEAM_0:1:17219621> spawned model models/props_junk/garbage_coffeemug001a.mdl
+[20:55:58] Private IN-3630<STEAM_0:0:193599766> spawned model models/props_interiors/pot02a.mdl
+[20:55:59] Private IN-3630<STEAM_0:0:193599766> spawned model models/props_interiors/pot02a.mdl
+[20:56:00] Private IN-3630<STEAM_0:0:193599766> spawned model models/props_interiors/pot02a.mdl
+[20:56:01] Private IN-3630<STEAM_0:0:193599766> spawned model models/props_interiors/pot02a.mdl
+[20:56:02] Private IN-3630<STEAM_0:0:193599766> spawned model models/props_interiors/pot02a.mdl
+[20:56:03] Private IN-3630<STEAM_0:0:193599766> spawned model models/props_interiors/pot02a.mdl
+[20:56:04] Private IN-3630<STEAM_0:0:193599766> spawned model models/props_interiors/radiator01a.mdl
+[20:56:06] Private IN-3630<STEAM_0:0:193599766> spawned model models/props_interiors/radiator01a.mdl
+[20:56:07] Private IN-3630<STEAM_0:0:193599766> spawned model models/props_interiors/radiator01a.mdl
+[20:56:08] Private IN-3630<STEAM_0:0:193599766> spawned model models/props_interiors/radiator01a.mdl
+[20:57:15] Sergeant Owen ''Bulwark'' Tump killed Private IN-3630 using rw_sw_scoutblaster
+[20:58:24] Private IN-3630<STEAM_0:0:193599766> spawned model models/props_c17/furniturewashingmachine001a.mdl
+[20:58:52] Private IN-3630<STEAM_0:0:193599766> spawned model models/cire992/props/cup01.mdl
+[20:59:03] Private IN-3630<STEAM_0:0:193599766> spawned model models/cire992/props/cup01.mdl
+[20:59:44] Private IN-3630: /CREATECUSTOMITEM "Cup of Coffee" models/cire992/props/cup01.mdl "A steaming hot cup of coffee."
+[21:00:04] Sergeant Owen ''Bulwark'' Tump killed Private IN-3630 using rw_sw_e11t
+[21:00:10] Sergeant Owen ''Bulwark'' Tump suicided!
+[21:00:10] Private IN-3630 suicided!
+[21:00:10] Private IN-3630 slayed Everyone
+[21:00:10] Private IN-3630: !slay *
+[21:00:22] Dropped "Sergeant Owen ''Bulwark'' Tump" from server<STEAM_0:1:17219621>
+[21:00:28] Private IN-3630<STEAM_0:0:193599766> spawned model models/cire992/liq/n7_mi_floor_cap_corner.mdl
+[21:00:32] Private IN-3630<STEAM_0:0:193599766> spawned model models/cire992/props/miningvehicletire.mdl
+[21:01:44] Private IN-3630<STEAM_0:0:193599766> spawned vehicle models/props_phx/carseat3.mdl
+[21:04:49] Dropped "Private IN-3630" from server<STEAM_0:0:193599766>

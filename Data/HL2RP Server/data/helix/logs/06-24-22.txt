@@ -1,0 +1,1947 @@
+[00:00:02]	CCA.C17-GRID.i3.08313 used command '/adminspawnmenu'.
+[00:00:11]	CCA.C17-GRID.i3.08313 has spawned "OTA Filter"
+[00:00:27]	CCA.C17-GRID.i3.08313 has spawned "Pulse Ammunition"
+[00:00:28]	CCA.C17-GRID.i3.08313 has gained 10 tokens.
+[00:00:31]	CCA.C17-GRID.i3.08313 exited observer at their location.
+[00:00:31]	CCA.C17-GRID.i3.08313 entered observer.
+[00:00:52]	CCA.C17-GRID.i3.08313 used command '/adminspawnmenu'.
+[00:00:59]	CCA.C17-GRID.i3.08313 has spawned "Pulse Ammunition"
+[00:01:03]	[OOC] Pecka: i need assistance
+[00:01:03]	CCA.C17-GRID.i3.08313 has spawned "OTA Filter"
+[00:01:08]	[OOC] CCA.C17-GRID.i3.08313: be right over
+[00:01:13]	[LOOC] CCA.C17-GRID.i3.08313: hear
+[00:01:31]	[LOOC] Pecka: ty
+[00:01:42]	CCA.C17-GRID.i3.08313 used command '/adminspawnmenu'.
+[00:01:57]	[IT] Pecka: you hear a pecking at the door
+[00:02:27]	CCA.C17-GRID.i3.08313 has spawned "AR1 (Ordinal Rifle)"
+[00:02:34]	[OOC] CCA.C17-GRID.i3.08313: hey cna i borrow one of your guys' blood
+[00:02:36]	CCA.C17-GRID.i3.08313 ran 'take' on item 'AR1 (Ordinal Rifle)' (#24389)
+[00:02:40]	[OOC] Alex Palovichov: I...I guess
+[00:02:44]	[OOC] CCA.C17-GRID.i3.08313: let me rephrase that
+[00:02:52]	[OOC] CCA.C17-GRID.i3.08313: can i get either of you to do me a huge favor
+[00:02:56]	[OOC] CCA.C17-GRID.i3.08313: preferably the bird
+[00:03:00]	CCA.C17-GRID.i3.08313 ran 'drop' on item 'A Set of Tools' (#24345)
+[00:03:00]	CCA.C17-GRID.i3.08313 has lost a 'A Set of Tools' #24345.
+[00:03:06]	CCA.C17-GRID.i3.08313 used command '/CharGiveItem i3 blood collection syringe'.
+[00:03:11]	CCA.C17-GRID.i3.08313 has gained a 'Blood Sample' #24390.
+[00:03:11]	CCA.C17-GRID.i3.08313 used command '/CharGiveItem i3 blood'.
+[00:03:14]	CCA.C17-GRID.i3.08313 has gained a 'Blood Collecting Syringe' #24391.
+[00:03:14]	CCA.C17-GRID.i3.08313 used command '/CharGiveItem i3 syringe'.
+[00:03:32]	[LOOC] CCA.C17-GRID.i3.08313: when y'all are done i need to steal some of pecka's blood
+[00:03:34]	[ME] Alex Palovichov: Tries to grab the bird
+[00:03:44]	[ME] Pecka: tries to resist
+[00:03:48]	Alex Palovichov rolled 88 out of 100.
+[00:03:48]	Alex Palovichov used command '/Roll'.
+[00:03:50]	Pecka rolled 34 out of 100.
+[00:03:50]	Pecka used command '/Roll'.
+[00:04:00]	[ME] Alex Palovichov: Gets both of his hands around the birds body
+[00:04:07]	CCA.C17-GRID.i3.08313 ran 'DrawBlood' on item 'Blood Collecting Syringe' (#24391)
+[00:04:11]	CCA.C17-GRID.i3.08313 has gained a 'Blood Sample' #24392.
+[00:04:15]	[OOC] CCA.C17-GRID.i3.08313: thanks
+[00:04:15]	Pecka used command '/CharFallOver'.
+[00:04:19]	CCA.C17-GRID.i3.08313 ran 'drop' on item 'Blood Sample' (#24390)
+[00:04:19]	CCA.C17-GRID.i3.08313 has lost a 'Blood Sample' #24390.
+[00:04:39]	[ME] Alex Palovichov: Grabs a key and locks the bathroom door
+[00:04:43]	Pecka used command '/CharGetUp'.
+[00:04:49]	CCA.C17-GRID.i3.08313 exited observer at their location.
+[00:05:06]	[ME] Alex Palovichov: Begins to search through the boxes
+[00:05:10]	CCA.C17-GRID.i3.08313 has spawned a 'Entity [1249][ix_genecoder]'.
+[00:05:13]	CCA.C17-GRID.i3.08313 entered observer.
+[00:05:13]	CCA.C17-GRID.i3.08313 exited observer at their location.
+[00:05:20]	CCA.C17-GRID.i3.08313 has gained a 'AR1 (Ordinal Rifle)' #24393.
+[00:05:20]	CCA.C17-GRID.i3.08313 used command '/CharGiveItem grid ar1'.
+[00:05:27]	[OOC] CCA.C17-GRID.i3.08313: love the genecoder
+[00:05:28]	CCA.C17-GRID.i3.08313 has gained 10 tokens.
+[00:05:30]	[OOC] CCA.C17-GRID.i3.08313: gotta be my favorite netity i made
+[00:05:32]	[OOC] CCA.C17-GRID.i3.08313: not true
+[00:05:32]	CCA.C17-GRID.i3.08313 entered observer.
+[00:05:37]	CCA.C17-GRID.i3.08313 ran 'Equip' on item 'AR1 (Ordinal Rifle)' (#24393)
+[00:05:39]	CCA.C17-GRID.i3.08313 ran 'EquipUn' on item 'AR1 (Ordinal Rifle)' (#24393)
+[00:05:44]	[OOC] CCA.C17-GRID.i3.08313: cool, genecoding is-
+[00:05:46]	[OOC] CCA.C17-GRID.i3.08313: fuck
+[00:05:50]	[OOC] CCA.C17-GRID.i3.08313: just remember
+[00:05:54]	[OOC] CCA.C17-GRID.i3.08313: why genecoding doedsn't owkr
+[00:05:59]	[OOC] CCA.C17-GRID.i3.08313: fuck
+[00:06:00]	[ME] Alex Palovichov: Opens up the yellow ICT box and searches through it
+[00:06:08]	[ME] Alex Palovichov: Grabs out a syringe
+[00:06:13]	[IT] Pecka: you hear a pecking at the door.
+[00:06:34]	[IT] Pecka: the sound of flapping wings can be heard.
+[00:06:40]	CCA.C17-GRID.i3.08313 has spawned a 'NPC [1251][monster_gonome]'.
+[00:06:42]	CCA.C17-GRID.i3.08313 has spawned a 'NPC [1252][monster_gonome]'.
+[00:06:49]	CCA.C17-GRID.i3.08313 has spawned a 'NPC [1252][npc_headcrab_black]'.
+[00:06:51]	CCA.C17-GRID.i3.08313 has spawned a 'NPC [1254][npc_headcrab_black]'.
+[00:06:54]	[LOOC] Pecka: void
+[00:06:54]	CCA.C17-GRID.i3.08313 has spawned a 'NPC [1252][npc_zombie]'.
+[00:06:55]	CCA.C17-GRID.i3.08313 has spawned a 'NPC [1254][npc_zombie]'.
+[00:07:05]	CCA.C17-GRID.i3.08313 has spawned 'models/romka/romka_combine_soldier.mdl'.
+[00:07:37]	[ME] Alex Palovichov: Puts a gas canister onto the ground 
+[00:07:41]	CCA.C17-GRID.i3.08313 used command '/adminspawnmenu'.
+[00:07:45]	CCA.C17-GRID.i3.08313 has spawned "OTA Filter"
+[00:07:56]	CCA.C17-GRID.i3.08313 has spawned "AI-2 Medikit"
+[00:08:00]	[ME] Alex Palovichov: Kicks the top of the canister and stuffs its end under the door 
+[00:08:13]	[IT] Alex Palovichov: It doesn't do anything
+[00:08:13]	CCA.C17-GRID.i3.08313 has spawned 'models/romka/romka_combine_soldier.mdl'.
+[00:08:29]	CCA.C17-GRID.i3.08313 has spawned 'models/hlvr/characters/combine/grunt/combine_grunt_hlvr_npc.mdl'.
+[00:08:33]	[ME] Alex Palovichov: Grabs the canister and inspects it
+[00:08:52]	CCA.C17-GRID.i3.08313 has spawned 'models/hlvr/characters/combine/grunt/combine_grunt_hlvr_npc.mdl'.
+[00:08:55]	[ME] Alex Palovichov: Takes his mask off and begins to inspect the canister
+[00:09:24]	[IT] Alex Palovichov: The canister suddenly sprays gas into the mans face
+[00:09:46]	[ME] Alex Palovichov: The man falls over, bumping the door lock on his way down
+[00:09:53]	[IT] Alex Palovichov: The door becomes unlocked
+[00:09:55]	Alex Palovichov used command '/CharFallOver'.
+[00:10:28]	[ME] Pecka: tries to resist the gas just like the toxic air outside.
+[00:10:28]	CCA.C17-GRID.i3.08313 has gained 10 tokens.
+[00:10:31]	Pecka rolled 47 out of 100.
+[00:10:31]	Pecka used command '/Roll'.
+[00:10:41]	Pecka used command '/CharFallOver'.
+[00:10:49]	thirdeye.karl loaded the character 'Antilion'
+[00:10:49]	Feng Yi 'Eric' Hseuh has killed Feng Yi 'Eric' Hseuh.
+[00:10:51]	[IT] Alex Palovichov: The room falls dead silent
+[00:11:08]	[IT] Antilion: an odd noise can be heard. 
+[00:11:15]	CCA.C17-GRID.i3.08313 has gained a 'Cybercafe Combine Data Card' #24396.
+[00:11:15]	CCA.C17-GRID.i3.08313 used command '/CreateCustomItem Cybercafe Combine Data Card models/dorado/tarjeta1.mdl A small card, no bigger than a credit card, meant to hold data.'.
+[00:11:18]	[IT] Antilion: a growl emerges.
+[00:11:25]	CCA.C17-GRID.i3.08313 has gained a 'Combine Data Card' #24397.
+[00:11:25]	CCA.C17-GRID.i3.08313 used command '/CreateCustomItem Combine Data Card models/dorado/tarjeta1.mdl A small card, no bigger than a credit card, meant to hold data.'.
+[00:11:28]	[ME] Alex Palovichov: The man slowly begins to wake up
+[00:11:33]	CCA.C17-GRID.i3.08313 ran 'drop' on item 'Combine Data Card' (#24397)
+[00:11:33]	CCA.C17-GRID.i3.08313 has lost a 'Combine Data Card' #24397.
+[00:11:40]	[IT] Antilion: the squack slowly turns into a growl.
+[00:11:46]	[ME] Alex Palovichov: Begins to stand up
+[00:11:47]	Alex Palovichov used command '/CharGetUp'.
+[00:12:00]	[ME] Alex Palovichov: Quickly locks the door
+[00:12:15]	[ME] Antilion: attempts to break open the door.
+[00:12:21]	Antilion rolled 3 out of 100.
+[00:12:21]	Antilion used command '/Roll'.
+[00:12:31]	[ME] Alex Palovichov: Quickly searches for his request device
+[00:12:43]	[ME] Antilion: screeches.
+[00:12:59]	CCA.C17-GRID.i3.08313 has spawned 'models/props_combine/combine_mine01.mdl'.
+[00:13:02]	[ME] Alex Palovichov: Turns around and runs to the front door
+[00:13:02]	[ME] Antilion: throws their body against the door.
+[00:13:05]	Antilion rolled 71 out of 100.
+[00:13:05]	Antilion used command '/Roll'.
+[00:13:22]	[Y] Alex Palovichov: CPs!
+[00:13:26]	[Y] Alex Palovichov: HOLY SHIT!
+[00:13:26]	CCA.C17-GRID.i3.08313 used command '/adminspawnmenu'.
+[00:13:37]	[Y] Alex Palovichov: Ruuuuun!
+[00:13:38]	[ME] Antilion: throws their body against the switch.
+[00:13:40]	Antilion rolled 50 out of 100.
+[00:13:40]	Antilion used command '/Roll'.
+[00:13:57]	[Y] Alex Palovichov: Help!
+[00:13:59]	CCA.C17-GRID.i3.08313 has spawned 'models/props_combine/combine_generator01.mdl'.
+[00:14:07]	CCA.C17-GRID.i3.08313 has spawned 'models/props_combine/combine_light001b.mdl'.
+[00:14:09]	CCA.C17-GRID.i3.08313 has spawned 'models/props_combine/combine_light001a.mdl'.
+[00:14:35]	CCA.C17-GRID.i3.08313 has spawned a 'NPC [1251][npc_poisonzombie]'.
+[00:14:35]	[ME] Antilion: barges through the door.
+[00:14:43]	[ME] Antilion: screeches.
+[00:14:48]	[Y] Alex Palovichov: Help!
+[00:15:08]	[ME] Antilion: lets out a loud screech.
+[00:15:18]	CCA.C17-GRID.i3.08313 has spawned 'models/Items/battery.mdl'.
+[00:15:28]	[ME] Antilion: barges through the door.
+[00:15:28]	CCA.C17-GRID.i3.08313 has gained 10 tokens.
+[00:15:28]	CCA.C17-GRID.i3.08313 has spawned 'models/props_lab/reciever01b.mdl'.
+[00:16:11]	[ME] Antilion: lets out a screech.
+[00:16:16]	CCA.C17-GRID.i3.08313 has spawned 'models/Zombie/Poison.mdl'.
+[00:16:41]	thirdeye.karl (STEAM_0:1:70789676) has disconnected.
+[00:16:44]	Alex Palovichov opened the '' #245 container.
+[00:16:46]	Alex Palovichov closed the '' #245 container.
+[00:16:46]	CCA.C17-GRID.i3.08313 exited observer at their location.
+[00:16:46]	CCA.C17-GRID.i3.08313 entered observer.
+[00:17:02]	CCA.C17-GRID.i3.08313 exited observer at their location.
+[00:17:13]	CCA.C17-GRID.i3.08313 has taken 1 damage from CCA.C17-GRID.i3.08313.
+[00:17:14]	CCA.C17-GRID.i3.08313 entered observer.
+[00:17:21]	CCA.C17-GRID.i3.08313 exited observer at their location.
+[00:17:21]	CCA.C17-GRID.i3.08313 entered observer.
+[00:17:22]	CCA.C17-GRID.i3.08313 exited observer at their location.
+[00:17:26]	CCA.C17-GRID.i3.08313 has spawned 'models/Items/battery.mdl'.
+[00:17:28]	CCA.C17-GRID.i3.08313 has taken 1 damage from CCA.C17-GRID.i3.08313.
+[00:17:39]	CCA.C17-GRID.i3.08313 entered observer.
+[00:18:24]	thirdeye.karl has connected.
+[00:18:24]	Feng Yi 'Eric' Hseuh has killed Feng Yi 'Eric' Hseuh.
+[00:18:39]	thirdeye.karl loaded the character 'Antilion'
+[00:18:39]	Feng Yi 'Eric' Hseuh has killed Feng Yi 'Eric' Hseuh.
+[00:18:39]	matt saton created the character 'OTA.C14-ECHO.OWC.71728'
+[00:18:39]	OTA.C14-ECHO.OWC.71728 has gained a 'USP Match' #24397.
+[00:18:39]	OTA.C14-ECHO.OWC.71728 has gained a '9mm Pistol Magazine' #24398.
+[00:18:39]	OTA.C14-ECHO.OWC.71728 has gained a '9mm Pistol Magazine' #24399.
+[00:18:39]	OTA.C14-ECHO.OWC.71728 has gained a 'AR2 (Pulse-Rifle)' #24400.
+[00:18:39]	OTA.C14-ECHO.OWC.71728 has gained a 'Pulse Ammunition' #24401.
+[00:18:39]	OTA.C14-ECHO.OWC.71728 has gained a 'Pulse Ammunition' #24402.
+[00:18:46]	matt saton loaded the character 'OTA.C14-ECHO.OWC.71728'
+[00:18:46]	Feng Yi 'Eric' Hseuh has killed Feng Yi 'Eric' Hseuh.
+[00:18:52]	[ME] Antilion: lets out a screech.
+[00:18:59]	OTA.C17-ECHO.OHZ.19343 used command '/CharSetName owc OTA.C17-ECHO.OHZ.19343'.
+[00:18:59]	OTA.C17-ECHO.OHZ.19343 entered observer.
+[00:19:14]	OTA.C17-ECHO.OHZ.19343 used command '/CharSetModel ohz models/hlvr/characters/combine/grunt/combine_grunt_hlvr_npc.mdl'.
+[00:19:18]	OTA.C17-ECHO.OHZ.19343 exited observer at their location.
+[00:19:28]	matt saton loaded the character 'CCA.C17-GRID.i3.08313'
+[00:19:28]	Feng Yi 'Eric' Hseuh has killed Feng Yi 'Eric' Hseuh.
+[00:19:28]	CCA.C17-GRID.i3.08313 entered observer.
+[00:19:34]	[ME] Antilion: screeches.
+[00:19:47]	[ME] Antilion: throws their body against the door.
+[00:19:49]	Antilion rolled 88 out of 100.
+[00:19:49]	Antilion used command '/Roll'.
+[00:20:05]	[ME] Antilion: lets out a screech.
+[00:20:18]	[ME] Antilion: throws their body against the door.
+[00:20:25]	[LOOC] Alex Palovichov: roll?
+[00:20:57]	[LOOC] Alex Palovichov: You gotta roll for that 
+[00:21:11]	[LOOC] Antilion: i didnt enter
+[00:21:17]	[LOOC] Antilion: accident
+[00:21:19]	[LOOC] Alex Palovichov: I mean for the slamming
+[00:21:29]	[LOOC] Alex Palovichov: If you were trying to break it down of course
+[00:21:33]	[LOOC] Antilion: oh i did
+[00:21:40]	[LOOC] Antilion: went out the same door i slammed open
+[00:21:42]	[LOOC] Alex Palovichov: You did roll?
+[00:21:53]	[LOOC] Alex Palovichov: Oh I didn't see it?
+[00:22:17]	[LOOC] Antilion: ill do it again for u
+[00:22:25]	[ME] Antilion: slammed their body against the door
+[00:22:27]	Antilion rolled 83 out of 100.
+[00:22:27]	Antilion used command '/Roll'.
+[00:22:34]	CCA.C17-GRID.i3.08313 used command '/CharGiveItem i3 pope'.
+[00:22:39]	CCA.C17-GRID.i3.08313 used command '/CharGiveItem i3 pope paper'.
+[00:22:41]	[ME] Antilion: slammed their body against the door.
+[00:22:43]	Antilion rolled 13 out of 100.
+[00:22:43]	Antilion used command '/Roll'.
+[00:22:44]	CCA.C17-GRID.i3.08313 has gained a 'Paper' #24403.
+[00:22:44]	CCA.C17-GRID.i3.08313 used command '/CharGiveItem i3 paper'.
+[00:22:46]	CCA.C17-GRID.i3.08313 ran 'Edit' on item 'Paper' (#24403)
+[00:23:01]	[ME] Antilion: bounces back from the door, erraticly searching elsewhere.
+[00:23:11]	[ME] Antilion: screeches.
+[00:23:22]	[ME] Antilion: attempts to break open the door.
+[00:23:24]	Antilion rolled 1 out of 100.
+[00:23:24]	Antilion used command '/Roll'.
+[00:23:25]	[Y] Alex Palovichov: Cps Help.
+[00:23:30]	[Y] Alex Palovichov: Anyone!
+[00:23:37]	[ME] Antilion: bounces back and lets out a screech.
+[00:23:39]	CCA.C17-GRID.i3.08313 ran 'Edit' on item 'Paper' (#24403)
+[00:23:57]	[ME] Antilion: throws their body against the elevator button.
+[00:23:58]	Antilion rolled 54 out of 100.
+[00:23:58]	Antilion used command '/Roll'.
+[00:24:16]	[ME] Antilion: misses.
+[00:24:19]	CCA.C17-GRID.i3.08313 ran 'drop' on item 'Paper' (#24403)
+[00:24:19]	CCA.C17-GRID.i3.08313 has lost a 'Paper' #24403.
+[00:24:22]	CCA.C17-GRID.i3.08313 ran 'take' on item 'Paper' (#24403)
+[00:24:22]	CCA.C17-GRID.i3.08313 has gained a 'Paper' #24403.
+[00:24:28]	CCA.C17-GRID.i3.08313 has gained 10 tokens.
+[00:24:36]	[ME] Antilion: runs towards the door in attempt to break it open.
+[00:24:38]	Antilion rolled 8 out of 100.
+[00:24:38]	Antilion used command '/Roll'.
+[00:24:51]	[OOC] CCA.C17-GRID.i3.08313: i love worldbuiulding
+[00:25:04]	[OOC] Alex Palovichov: I hate getting chased...
+[00:25:07]	[ME] Antilion: runs towards the door and attempts to break it open
+[00:25:10]	Antilion rolled 32 out of 100.
+[00:25:11]	Antilion used command '/Roll'.
+[00:25:24]	[ME] Antilion: attempts to break down the door.
+[00:25:25]	Antilion rolled 41 out of 100.
+[00:25:25]	Antilion used command '/Roll'.
+[00:25:34]	[ME] Antilion: attempts to break down the door.
+[00:25:36]	Antilion rolled 64 out of 100.
+[00:25:36]	Antilion used command '/Roll'.
+[00:25:47]	[Y] Alex Palovichov: COME ON!
+[00:25:52]	[ME] Antilion: screeches.
+[00:25:53]	[Y] Alex Palovichov: DONT GET ANY CLOSER!
+[00:25:57]	CCA.C17-GRID.i3.08313 ran 'Edit' on item 'Paper' (#24403)
+[00:26:10]	[ME] Alex Palovichov: Reaches into a vest taking out a vial of a light green liquid
+[00:26:15]	[Y] Alex Palovichov: See this?!
+[00:26:25]	[Y] Alex Palovichov: I've killed your kind before!
+[00:26:31]	[Y] Alex Palovichov: You're not special!
+[00:26:39]	[ME] Antilion: attempts to rush up the stairs.
+[00:26:40]	[Y] Alex Palovichov: You sand dwelling bugs!
+[00:26:59]	[ME] Alex Palovichov: Grabs a vial and throws it at the Antlion
+[00:27:05]	Antilion rolled 93 out of 100.
+[00:27:05]	Antilion used command '/Roll'.
+[00:27:06]	Alex Palovichov rolled 29 out of 100.
+[00:27:06]	Alex Palovichov used command '/Roll'.
+[00:27:23]	[ME] Alex Palovichov: Reaches into his vest again, taking out another vial
+[00:27:39]	[Y] Alex Palovichov: You think I only have one! The Union supplies me plenty!
+[00:28:03]	[ME] Antilion: attempts to knock you over the rail with a running start.
+[00:28:07]	CCA.C17-GRID.i3.08313 exited observer at their location.
+[00:28:08]	CCA.C17-GRID.i3.08313 entered observer.
+[00:28:09]	CCA.C17-GRID.i3.08313 exited observer at their location.
+[00:28:11]	CCA.C17-GRID.i3.08313 ran 'Edit' on item 'Paper' (#24403)
+[00:28:14]	CCA.C17-GRID.i3.08313 ran 'View' on item 'Paper' (#24403)
+[00:28:14]	Antilion rolled 14 out of 100.
+[00:28:14]	Antilion used command '/Roll'.
+[00:28:14]	[ME] Alex Palovichov: Attempts to dodge, and throw a vial at the antlion
+[00:28:15]	CCA.C17-GRID.i3.08313 has taken 1 damage from CCA.C17-GRID.i3.08313.
+[00:28:16]	Alex Palovichov rolled 38 out of 100.
+[00:28:16]	Alex Palovichov used command '/Roll'.
+[00:28:16]	CCA.C17-GRID.i3.08313 entered observer.
+[00:28:17]	CCA.C17-GRID.i3.08313 ran 'drop' on item 'Paper' (#24403)
+[00:28:17]	CCA.C17-GRID.i3.08313 has lost a 'Paper' #24403.
+[00:28:30]	[IT] Alex Palovichov: The vial hits the antlion on its way towards the man
+[00:28:41]	CCA.C17-GRID.i3.08313 used command '/CharGiveItem i3 pope paper'.
+[00:28:48]	CCA.C17-GRID.i3.08313 has gained a 'Paper' #24404.
+[00:28:48]	CCA.C17-GRID.i3.08313 used command '/CharGiveItem i3 paper'.
+[00:28:50]	[IT] Alex Palovichov: It begins to burn the antlions exo-skeleton
+[00:28:51]	CCA.C17-GRID.i3.08313 ran 'Edit' on item 'Paper' (#24404)
+[00:29:07]	[ME] Antilion: lets out a burning screech.
+[00:29:08]	[ME] Alex Palovichov: Reaches into his vest, taking out another vial
+[00:29:19]	[ME] Alex Palovichov: Gets off the railing and runs behind the antlion
+[00:29:28]	CCA.C17-GRID.i3.08313 has gained 10 tokens.
+[00:30:10]	[IT] Antilion: the antilion acts as if it is dying. the gas within its blood that caused the mutation is acting strangely. 
+[00:30:38]	Alex Palovichov rolled 35 out of 100.
+[00:30:38]	Alex Palovichov used command '/Roll'.
+[00:30:42]	Antilion rolled 53 out of 100.
+[00:30:42]	Antilion used command '/Roll'.
+[00:30:47]	[ME] Alex Palovichov: Seems to believe the false act
+[00:31:24]	[IT] Antilion: the antiltion is given time to slowly crawl away.
+[00:31:27]	CCA.C17-GRID.i3.08313 ran 'drop' on item 'Paper' (#24404)
+[00:31:27]	CCA.C17-GRID.i3.08313 has lost a 'Paper' #24404.
+[00:31:36]	Parish The Wolf has connected.
+[00:31:36]	Feng Yi 'Eric' Hseuh has killed Feng Yi 'Eric' Hseuh.
+[00:31:42]	CCA.C17-GRID.i3.08313 exited observer at their location.
+[00:31:45]	CCA.C17-GRID.i3.08313 has taken 1 damage from CCA.C17-GRID.i3.08313.
+[00:31:46]	CCA.C17-GRID.i3.08313 entered observer.
+[00:31:47]	Antilion used command '/CharFallOver'.
+[00:31:59]	[OOC] CCA.C17-GRID.i3.08313: sleep meds are kicking ni
+[00:32:03]	[IT] Antilion: the antilion goes limp.
+[00:32:03]	CCA.C17-GRID.i3.08313 exited observer at their location.
+[00:32:15]	CCA.C17-GRID.i3.08313 has taken 1 damage from CCA.C17-GRID.i3.08313.
+[00:32:24]	CCA.C17-GRID.i3.08313 has spawned 'models/props_unique/firepit_campground.mdl'.
+[00:32:31]	CCA.C17-GRID.i3.08313 has taken 1 damage from CCA.C17-GRID.i3.08313.
+[00:32:32]	[ME] Alex Palovichov: Grabs ahold the antlions abdomen 
+[00:32:46]	CCA.C17-GRID.i3.08313 has taken 1 damage from CCA.C17-GRID.i3.08313.
+[00:32:47]	[IT] Antilion: an unfamiliar motion dwells within the antilion.
+[00:32:52]	CCA.C17-GRID.i3.08313 has spawned 'models/props_interiors/chair_cafeteria.mdl'.
+[00:32:55]	[IT] Antilion: the antilion remains limp.
+[00:33:01]	CCA.C17-GRID.i3.08313 has taken 1 damage from CCA.C17-GRID.i3.08313.
+[00:33:11]	[OOC] CCA.C17-GRID.i3.08313: i wonder
+[00:33:16]	CCA.C17-GRID.i3.08313 has taken 1 damage from CCA.C17-GRID.i3.08313.
+[00:33:20]	[OOC] CCA.C17-GRID.i3.08313: if i could add in music zones to encourage different feelings in different areas
+[00:33:26]	[OOC] Antilion: you can
+[00:33:27]	[ME] Alex Palovichov: Takes out a small notepad and begins to read it
+[00:33:30]	[OOC] CCA.C17-GRID.i3.08313: i mean i can
+[00:33:31]	CCA.C17-GRID.i3.08313 has taken 1 damage from CCA.C17-GRID.i3.08313.
+[00:33:33]	not a bot has connected.
+[00:33:33]	Feng Yi 'Eric' Hseuh has killed Feng Yi 'Eric' Hseuh.
+[00:33:35]	[OOC] CCA.C17-GRID.i3.08313: but i wonder if that' be a good idea
+[00:33:46]	CCA.C17-GRID.i3.08313 has taken 1 damage from CCA.C17-GRID.i3.08313.
+[00:33:50]	[OOC] CCA.C17-GRID.i3.08313: like, for example, daisuke from hotline miami one would be a great fit to go in district 4's courtyard
+[00:33:58]	[OOC] CCA.C17-GRID.i3.08313: to encourage chilling
+[00:33:59]	CCA.C17-GRID.i3.08313 entered observer.
+[00:33:59]	CCA.C17-GRID.i3.08313 exited observer at their location.
+[00:33:59]	CCA.C17-GRID.i3.08313 entered observer.
+[00:34:00]	[ME] Alex Palovichov: Puts the notepad away and approached the antlion
+[00:34:00]	CCA.C17-GRID.i3.08313 exited observer at their location.
+[00:34:01]	CCA.C17-GRID.i3.08313 has taken 1 damage from CCA.C17-GRID.i3.08313.
+[00:34:01]	CCA.C17-GRID.i3.08313 has taken 2 damage from CCA.C17-GRID.i3.08313.
+[00:34:05]	CCA.C17-GRID.i3.08313 has spawned 'models/props_wasteland/controlroom_chair001a.mdl'.
+[00:34:11]	CCA.C17-GRID.i3.08313 used command '/CharSetHunger gri 100'.
+[00:34:16]	CCA.C17-GRID.i3.08313 used command '/CharSetThirst gri 100'.
+[00:34:20]	CCA.C17-GRID.i3.08313 has spawned 'models/props_interiors/Furniture_chair01a.mdl'.
+[00:34:21]	[ME] Alex Palovichov: Grabs ahold of the antlions right wing cover
+[00:34:23]	CCA.C17-GRID.i3.08313 has spawned 'models/props_interiors/Furniture_chair03a.mdl'.
+[00:34:28]	CCA.C17-GRID.i3.08313 has gained 10 tokens.
+[00:34:57]	CCA.C17-GRID.i3.08313 has spawned 'models/props_junk/TrashBin01a.mdl'.
+[00:35:22]	CCA.C17-GRID.i3.08313 has spawned 'models/props_wasteland/cafeteria_bench001a.mdl'.
+[00:35:24]	CCA.C17-GRID.i3.08313 has spawned 'models/props_wasteland/kitchen_shelf001a.mdl'.
+[00:35:26]	[ME] Alex Palovichov: Jabs his hand into the fleshy part between the wing cover and the exo skeleton
+[00:35:31]	CCA.C17-GRID.i3.08313 has spawned 'models/props_interiors/Furniture_Couch01a.mdl'.
+[00:35:38]	[IT] Antilion: you feel a twitch.
+[00:35:49]	Antilion rolled 21 out of 100.
+[00:35:49]	Antilion used command '/Roll'.
+[00:35:49]	[ME] Alex Palovichov: Quickly backs off the antlion
+[00:35:52]	Alex Palovichov rolled 98 out of 100.
+[00:35:52]	Alex Palovichov used command '/Roll'.
+[00:36:01]	CCA.C17-GRID.i3.08313 has spawned 'models/props_equipment/sleeping_bag1.mdl'.
+[00:36:10]	[ME] Alex Palovichov: Reaches into his vest and takes out another vial
+[00:36:13]	[IT] Antilion: muscle memory preceds you once more.
+[00:36:28]	CCA.C17-GRID.i3.08313 has spawned 'models/props/railing4.mdl'.
+[00:36:35]	Parish has gained a 'Cyclopic Citizen Suit' #24405.
+[00:36:35]	Parish has gained a 'Citizen Filter' #24406.
+[00:36:35]	Parish The Wolf created the character 'Parish'
+[00:36:35]	Parish has gained a 'Suitcase' #24407.
+[00:36:35]	Parish has gained a 'Relocation Coupon' #24408.
+[00:36:35]	Parish The Wolf loaded the character 'Parish'
+[00:36:35]	Feng Yi 'Eric' Hseuh has killed Feng Yi 'Eric' Hseuh.
+[00:36:51]	[OOC] CCA.C17-GRID.i3.08313: hey, welcome
+[00:37:04]	[OOC] CCA.C17-GRID.i3.08313: you're gonna have to pick a second name for your character, either a surname or a firstname
+[00:37:04]	CCA.C17-GRID.i3.08313 entered observer.
+[00:37:10]	[ME] Alex Palovichov: Reaches into his vest again and takes out a bright purple fluid
+[00:37:13]	[IT] Antilion: the usual post mortem smell of an antilion is not present.
+[00:37:28]	CCA.C17-GRID.i3.08313 has spawned 'models/barn/roofcap1.mdl'.
+[00:37:40]	[ME] Alex Palovichov: Splashes the Antlion with the bright purple fluid while its on the ground
+[00:37:52]	CCA.C17-GRID.i3.08313 has spawned 'models/barn/roofcap1.mdl'.
+[00:37:54]	CCA.C17-GRID.i3.08313 has spawned 'models/barn/roofcap2.mdl'.
+[00:38:00]	[IT] Alex Palovichov: The antlion begins to feel extremely...tired...
+[00:38:07]	CCA.C17-GRID.i3.08313 exited observer at their location.
+[00:38:08]	CCA.C17-GRID.i3.08313 entered observer.
+[00:38:08]	CCA.C17-GRID.i3.08313 exited observer at their location.
+[00:38:14]	Parish The Wolf (STEAM_0:0:128620976) deleted character 'Parish'
+[00:38:22]	CCA.C17-GRID.i3.08313 entered observer.
+[00:38:23]	CCA.C17-GRID.i3.08313 exited observer at their location.
+[00:38:23]	CCA.C17-GRID.i3.08313 entered observer.
+[00:38:25]	CCA.C17-GRID.i3.08313 exited observer at their location.
+[00:38:25]	CCA.C17-GRID.i3.08313 entered observer.
+[00:38:32]	[IT] Alex Palovichov: The antlion seems to almost completely fall into a deep "sleep" does it try to resist the effects?
+[00:38:38]	CCA.C17-GRID.i3.08313 has spawned a 'Entity [570][ix_airvent]'.
+[00:39:00]	[IT] Antilion: the antilion seems to make a final small twitch.
+[00:39:02]	Antilion rolled 87 out of 100.
+[00:39:02]	Antilion used command '/Roll'.
+[00:39:04]	Alex Palovichov rolled 33 out of 100.
+[00:39:04]	Alex Palovichov used command '/Roll'.
+[00:39:27]	[IT] Antilion: the antilion twitches.
+[00:39:28]	CCA.C17-GRID.i3.08313 has gained 10 tokens.
+[00:39:38]	[ME] Alex Palovichov: Backs away from the antlion
+[00:39:49]	Antilion rolled 7 out of 100.
+[00:39:49]	Antilion used command '/Roll'.
+[00:39:51]	Alex Palovichov rolled 82 out of 100.
+[00:39:51]	Alex Palovichov used command '/Roll'.
+[00:40:03]	[ME] Alex Palovichov: Reaches back into his vest and takes out another bright purple vial
+[00:40:04]	John Orwell has gained a 'Green Citizen Suit' #24405.
+[00:40:04]	John Orwell has gained a 'Citizen Filter' #24406.
+[00:40:04]	not a bot created the character 'John Orwell'
+[00:40:04]	John Orwell has gained a 'Suitcase' #24407.
+[00:40:04]	John Orwell has gained a 'Relocation Coupon' #24408.
+[00:40:04]	not a bot loaded the character 'John Orwell'
+[00:40:04]	Feng Yi 'Eric' Hseuh has killed Feng Yi 'Eric' Hseuh.
+[00:40:13]	[OOC] CCA.C17-GRID.i3.08313: hey, welcome
+[00:40:23]	Parish Cassidy has gained a 'Cyclopic Citizen Suit' #24409.
+[00:40:23]	Parish Cassidy has gained a 'Citizen Filter' #24410.
+[00:40:23]	Parish The Wolf created the character 'Parish Cassidy'
+[00:40:23]	Parish Cassidy has gained a 'Suitcase' #24411.
+[00:40:23]	Parish Cassidy has gained a 'Relocation Coupon' #24412.
+[00:40:23]	Parish The Wolf loaded the character 'Parish Cassidy'
+[00:40:23]	Feng Yi 'Eric' Hseuh has killed Feng Yi 'Eric' Hseuh.
+[00:40:23]	CCA.C17-GRID.i3.08313 exited observer at their location.
+[00:40:25]	[ME] Alex Palovichov: Takes out a sample extractor
+[00:40:29]	[IT] Antilion: the antilion loosens its muscles. it has reached a state of unconciousness.
+[00:40:31]	[OOC] CCA.C17-GRID.i3.08313: and welcome back parish
+[00:40:44]	[OOC] John Orwell: so..
+[00:40:52]	[OOC] CCA.C17-GRID.i3.08313: you should put on oyur suits before leaving the train
+[00:40:58]	CCA.C17-GRID.i3.08313 entered observer.
+[00:40:58]	CCA.C17-GRID.i3.08313 exited observer at their location.
+[00:40:59]	CCA.C17-GRID.i3.08313 entered observer.
+[00:40:59]	CCA.C17-GRID.i3.08313 exited observer at their location.
+[00:41:00]	John Orwell ran 'Equip' on item 'Green Citizen Suit' (#24405)
+[00:41:02]	[ME] Alex Palovichov: Changes the mode of the extractor to "injection"
+[00:41:12]	CCA.C17-GRID.i3.08313 entered observer.
+[00:41:12]	CCA.C17-GRID.i3.08313 exited observer at their location.
+[00:41:12]	CCA.C17-GRID.i3.08313 entered observer.
+[00:41:12]	CCA.C17-GRID.i3.08313 exited observer at their location.
+[00:41:16]	[LOOC] CCA.C17-GRID.i3.08313: hey can you fix your description
+[00:41:18]	[ME] Alex Palovichov: Injects the antlion with the fluid
+[00:41:25]	[LOOC] John Orwell: ok
+[00:41:27]	[LOOC] CCA.C17-GRID.i3.08313: thanks
+[00:41:31]	[IT] Alex Palovichov: The antlion looses all feeling in its body
+[00:42:04]	[OOC] CCA.C17-GRID.i3.08313: now i am become sleepy, the taker of sleeping pills
+[00:42:20]	CCA.C17-GRID.i3.08313 used command '/PlySearch john'.
+[00:42:27]	[OOC] Antilion: may your rule last a thousand winters
+[00:42:42]	[OOC] CCA.C17-GRID.i3.08313: it will last until i collapse
+[00:42:45]	Parish Cassidy ran 'Equip' on item 'Cyclopic Citizen Suit' (#24409)
+[00:42:49]	[OOC] Antilion: ok eminem
+[00:42:51]	not a bot (STEAM_0:1:43270455) deleted character 'edp445'
+[00:42:53]	not a bot (STEAM_0:1:43270455) deleted character 'Joe mama'
+[00:42:54]	not a bot (STEAM_0:1:43270455) deleted character 'John Orwell'
+[00:43:09]	[OOC] Antilion: jk luv u
+[00:43:11]	[OOC] CCA.C17-GRID.i3.08313: if i wake up with keyboard print on my face oyu know why
+[00:43:25]	Parish Cassidy ran 'drop' on item 'Relocation Coupon' (#24412)
+[00:43:25]	Parish Cassidy has lost a 'Relocation Coupon' #24412.
+[00:43:32]	[ME] CCA.C17-GRID.i3.08313: would take the citizen's relocation coupon.
+[00:43:34]	CCA.C17-GRID.i3.08313 ran 'take' on item 'Relocation Coupon' (#24412)
+[00:43:34]	CCA.C17-GRID.i3.08313 has gained a 'Relocation Coupon' #24412.
+[00:44:02]	[ME] CCA.C17-GRID.i3.08313: would step into the booth and hold the relocation coupon up to the light. He inspects thoroughly, front and back.
+[00:44:14]	John Orwell has gained a 'Green Citizen Suit' #24413.
+[00:44:14]	John Orwell has gained a 'Citizen Filter' #24414.
+[00:44:14]	not a bot created the character 'John Orwell'
+[00:44:14]	John Orwell has gained a 'Suitcase' #24415.
+[00:44:14]	John Orwell has gained a 'Relocation Coupon' #24416.
+[00:44:14]	not a bot loaded the character 'John Orwell'
+[00:44:15]	Feng Yi 'Eric' Hseuh has killed Feng Yi 'Eric' Hseuh.
+[00:44:18]	[IT] CCA.C17-GRID.i3.08313: Seemingly satisfied, he inserts the card into the machine on the wall.
+[00:44:22]	[ME] Alex Palovichov: Puts a small gas canister down onto the ground and seems to set a timer for it
+[00:44:24]	John Orwell ran 'Equip' on item 'Green Citizen Suit' (#24413)
+[00:44:28]	CCA.C17-GRID.i3.08313 has gained 10 tokens.
+[00:44:29]	[ME] Alex Palovichov: Rushes up the stairs
+[00:44:30]	John Orwell ran 'equip' on item 'Citizen Filter' (#24414)
+[00:44:45]	thirdeye.karl loaded the character 'Pecka'
+[00:44:45]	Feng Yi 'Eric' Hseuh has killed Feng Yi 'Eric' Hseuh.
+[00:44:47]	[ME] CCA.C17-GRID.i3.08313: would take the output card and hold it in his left hand.
+[00:44:48]	CCA.C17-GRID.i3.08313 ran 'take' on item 'Citizen ID' (#24417)
+[00:44:48]	CCA.C17-GRID.i3.08313 has gained a 'Citizen ID' #24417.
+[00:44:49]	[IT] Alex Palovichov: The gas canister releases all of its contents into the air
+[00:45:03]	[IT] Alex Palovichov: The antlion seems to become hazy...
+[00:45:10]	[LOOC] CCA.C17-GRID.i3.08313: current year is 2006, war was 2003, so the minimum year to be born is 1985
+[00:45:18]	thirdeye.karl loaded the character 'Antilion'
+[00:45:18]	Feng Yi 'Eric' Hseuh has killed Feng Yi 'Eric' Hseuh.
+[00:45:25]	Antilion used command '/CharFallOver'.
+[00:45:28]	[LOOC] Alex Palovichov: Lmaooo
+[00:45:32]	[LOOC] Alex Palovichov: You can get up
+[00:45:46]	[LOOC] Alex Palovichov: You're just hazy as shit and can't really attack anymore
+[00:45:53]	Antilion used command '/CharGetUp'.
+[00:45:54]	CCA.C17-GRID.i3.08313 used command '/ViewData cass'.
+[00:46:12]	[ME] Antilion: slowly gets to its feet.
+[00:46:28]	[ME] Antilion: lets out a minor grumble.
+[00:46:46]	CCA.C17-GRID.i3.08313 used command '/ViewData cassidy'.
+[00:47:20]	[ME] Alex Palovichov: Reaches into a small pack and takes out a small package labeled "Zombie Tissue Samples, DO NOT EAT"
+[00:47:28]	[ME] Antilion: makes a sound quite familiar to that of a humans. Mockingly, a slow pocket of air lets out "Fuck! Not again!"
+[00:48:00]	[ME] CCA.C17-GRID.i3.08313: would extend his left hand with the citizen's ID for him to take.
+[00:48:02]	CCA.C17-GRID.i3.08313 ran 'drop' on item 'Citizen ID' (#24417)
+[00:48:02]	CCA.C17-GRID.i3.08313 has lost a 'Citizen ID' #24417.
+[00:48:03]	[ME] Alex Palovichov: Grabs out another package labeled "BiRd seEDs"
+[00:48:05]	Parish Cassidy ran 'take' on item 'Citizen ID' (#24417)
+[00:48:05]	Parish Cassidy has gained a 'Citizen ID' #24417.
+[00:48:15]	[ME] Alex Palovichov: Opens both packages and places the contents on the ground in front of him
+[00:48:31]	[ME] Antilion: brings their head up to the freshly thrown bits.
+[00:48:34]	[ME] John Orwell: gives you my coupon
+[00:48:36]	[LOOC] CCA.C17-GRID.i3.08313: dude, you're 6'11? that's a bit tall, don't you think
+[00:48:39]	[LOOC] CCA.C17-GRID.i3.08313: like ridiculously tall
+[00:48:41]	[ME] Antilion: pecks at the ground.
+[00:48:42]	[IT] Alex Palovichov: The meat being on the right side of the Man and the seeds being on the left side of him
+[00:48:49]	[LOOC] CCA.C17-GRID.i3.08313: also drop the actual relocation coupon item
+[00:48:51]	[IT] Alex Palovichov: Which one does the Antlion eat?
+[00:48:55]	John Orwell ran 'drop' on item 'Relocation Coupon' (#24416)
+[00:48:55]	John Orwell has lost a 'Relocation Coupon' #24416.
+[00:49:04]	[ME] CCA.C17-GRID.i3.08313: takes the relocation coupon and reads its front.
+[00:49:05]	CCA.C17-GRID.i3.08313 ran 'take' on item 'Relocation Coupon' (#24416)
+[00:49:05]	CCA.C17-GRID.i3.08313 has gained a 'Relocation Coupon' #24416.
+[00:49:14]	[ME] Antilion: goes towards the seeds immediately.
+[00:49:21]	[ME] CCA.C17-GRID.i3.08313: flips it around, reading its back, then inspecting it carefully, likely checking if it's a counterfeit.
+[00:49:28]	CCA.C17-GRID.i3.08313 has gained 10 tokens.
+[00:49:32]	[LOOC] Antilion: fuckin zombie noise
+[00:49:33]	[ME] CCA.C17-GRID.i3.08313: would insert the coupon into the machine on the wall.
+[00:49:36]	CCA.C17-GRID.i3.08313 opened the '' #2369 container.
+[00:49:41]	CCA.C17-GRID.i3.08313 closed the '' #2369 container.
+[00:49:56]	[ME] Alex Palovichov: Reaches into a sack and takes out a small bowl
+[00:50:02]	[W] CCA.C17-GRID.i3.08313: <:: Ugh, misprints. ::>
+[00:50:02]	[ME] Antilion: pecks at the ground.
+[00:50:11]	[ME] CCA.C17-GRID.i3.08313: lets an exhale out through his mask.
+[00:50:13]	CCA.C17-GRID.i3.08313 ran 'take' on item 'Citizen ID' (#24418)
+[00:50:13]	CCA.C17-GRID.i3.08313 has gained a 'Citizen ID' #24418.
+[00:50:17]	[ME] Alex Palovichov: Fills the bowl with water and mixes in a green looking powder
+[00:50:30]	[ME] Alex Palovichov: Slides the bowl to the Antlion
+[00:50:32]	[LOOC] CCA.C17-GRID.i3.08313: i'm sure you already saw me saying the year from the last dude
+[00:50:44]	[ME] Antilion: smells the bowl.
+[00:50:45]	Antilion rolled 98 out of 100.
+[00:50:45]	Antilion used command '/Roll'.
+[00:50:49]	Alex Palovichov rolled 5 out of 100.
+[00:50:49]	Alex Palovichov used command '/Roll'.
+[00:51:01]	[ME] Antilion: rejects the bowl and returns to the seed.
+[00:51:04]	[LOOC] CCA.C17-GRID.i3.08313: please decrease your height
+[00:51:20]	[ME] Alex Palovichov: Picks the bowl up and dumps the contents onto the ground
+[00:51:23]	[IT] Antilion: a strange grumble can be heard.
+[00:51:31]	Parish Cassidy has taken 10 damage from npc_zombie.
+[00:51:43]	CCA.C17-GRID.i3.08313 used command '/ViewData john'.
+[00:52:12]	thirdeye.karl loaded the character 'Pecka'
+[00:52:12]	Feng Yi 'Eric' Hseuh has killed Feng Yi 'Eric' Hseuh.
+[00:52:31]	Alex Palovichov has lost 5 tokens.
+[00:52:33]	Alex Palovichov ran 'take' on item 'Consulate Water' (#24419)
+[00:52:33]	Alex Palovichov has gained a 'Consulate Water' #24419.
+[00:52:33]	[LOOC] CCA.C17-GRID.i3.08313: change your height please.
+[00:52:38]	thirdeye.karl loaded the character 'Antilion'
+[00:52:38]	Feng Yi 'Eric' Hseuh has killed Feng Yi 'Eric' Hseuh.
+[00:52:46]	thirdeye.karl loaded the character 'Pecka'
+[00:52:46]	Feng Yi 'Eric' Hseuh has killed Feng Yi 'Eric' Hseuh.
+[00:53:08]	thirdeye.karl loaded the character 'Antilion'
+[00:53:08]	Feng Yi 'Eric' Hseuh has killed Feng Yi 'Eric' Hseuh.
+[00:53:13]	John Orwell used command '/CharDesc 5'11 male, brown eyes and hair.'.
+[00:53:32]	[ME] Alex Palovichov: Opens a normal can of water and places it on the ground
+[00:53:33]	Alex Palovichov ran 'drop' on item 'Consulate Water' (#24419)
+[00:53:33]	Alex Palovichov has lost a 'Consulate Water' #24419.
+[00:53:44]	[ME] Antilion: senses the water.
+[00:53:50]	Antilion ran 'take' on item 'Consulate Water' (#24419)
+[00:53:50]	Antilion has gained a 'Consulate Water' #24419.
+[00:53:55]	thirdeye.karl (STEAM_0:1:70789676) has disconnected (timed out).
+[00:54:02]	[ME] CCA.C17-GRID.i3.08313: would unclip his stunstick and flick it on.
+[00:54:05]	CCA.C17-GRID.i3.08313 used command '/ToggleRaise'.
+[00:54:28]	CCA.C17-GRID.i3.08313 has gained 10 tokens.
+[00:54:53]	[ME] CCA.C17-GRID.i3.08313: would deliver a single blow to the citizen's back, below his left shoulder.
+[00:54:55]	John Orwell has taken 5 damage from CCA.C17-GRID.i3.08313.
+[00:55:11]	Alex Palovichov ran 'Edit' on item 'Notepad' (#24083)
+[00:55:11]	[LOOC] CCA.C17-GRID.i3.08313: you gonna painRP?
+[00:55:59]	[LOOC] John Orwell: fine
+[00:56:23]	[LOOC] CCA.C17-GRID.i3.08313: okay
+[00:56:25]	[LOOC] CCA.C17-GRID.i3.08313: go ahead
+[00:56:32]	thirdeye.karl has connected.
+[00:56:32]	Feng Yi 'Eric' Hseuh has killed Feng Yi 'Eric' Hseuh.
+[00:56:45]	Alex Palovichov ran 'take' on item 'Fingerless Gloves' (#23957)
+[00:56:45]	Alex Palovichov has gained a 'Fingerless Gloves' #23957.
+[00:56:47]	[LOOC] John Orwell: i just don't know what to type in
+[00:56:47]	Alex Palovichov ran 'take' on item 'Fingerless Gloves' (#23958)
+[00:56:47]	Alex Palovichov has gained a 'Fingerless Gloves' #23958.
+[00:56:48]	Alex Palovichov ran 'take' on item 'Blue Pre-War Shirt' (#23961)
+[00:56:48]	Alex Palovichov has gained a 'Blue Pre-War Shirt' #23961.
+[00:57:03]	Alex Palovichov has taken 5 damage from npc_headcrab.
+[00:57:06]	[LOOC] John Orwell: plus the lag on this map
+[00:57:11]	Parish Cassidy has taken 17 damage from worldspawn.
+[00:57:20]	[LOOC] CCA.C17-GRID.i3.08313: not sure the lag is the map's problem. this map is pretty old, and stable.
+[00:57:33]	[LOOC] CCA.C17-GRID.i3.08313: this isn't really city24. maybe check your system? this map is not intensive
+[00:57:47]	[LOOC] CCA.C17-GRID.i3.08313: anyways do a /me about you grunting in pain or something, or you wincing when the stunstick hits you
+[00:57:52]	[LOOC] CCA.C17-GRID.i3.08313: or just make a pain noise in IC chat. up to you
+[00:57:57]	[LOOC] Alex Palovichov: sadge
+[00:58:02]	[LOOC] CCA.C17-GRID.i3.08313: what do you do when you get hurt
+[00:58:14]	Parish Cassidy has taken 15 damage from worldspawn.
+[00:58:14]	Parish Cassidy has taken 50 damage from worldspawn.
+[00:58:20]	[ME] John Orwell: grunts
+[00:58:38]	Parish Cassidy has taken 15 damage from npc_barnacle.
+[00:58:38]	npc_barnacle has killed Parish Cassidy.
+[00:58:49]	[ME] CCA.C17-GRID.i3.08313: would move his arm back to about a quarter of its natural span and deliver another lashing, to the same part of the citizen's back. Below the left shoulderblade.
+[00:58:51]	John Orwell has taken 5 damage from CCA.C17-GRID.i3.08313.
+[00:59:17]	Alex Palovichov ran 'take' on item 'Raw Headcrab Meat' (#24352)
+[00:59:17]	Alex Palovichov has gained a 'Raw Headcrab Meat' #24352.
+[00:59:23]	thirdeye.karl loaded the character 'Pecka'
+[00:59:25]	[ME] John Orwell: grunts a little bit louder
+[00:59:28]	CCA.C17-GRID.i3.08313 has gained 10 tokens.
+[00:59:43]	[ME] CCA.C17-GRID.i3.08313: flicks his stunstick off and clips it to his utility belt.
+[00:59:44]	CCA.C17-GRID.i3.08313 used command '/ToggleRaise'.
+[01:00:01]	thirdeye.karl loaded the character 'Antilion'
+[01:00:09]	[ME] CCA.C17-GRID.i3.08313: would pull the man's CID from a satchel on his utility belt and hold it out for him.
+[01:00:11]	CCA.C17-GRID.i3.08313 ran 'drop' on item 'Citizen ID' (#24418)
+[01:00:11]	CCA.C17-GRID.i3.08313 has lost a 'Citizen ID' #24418.
+[01:00:25]	[ME] John Orwell: takes it
+[01:00:28]	John Orwell ran 'take' on item 'Citizen ID' (#24418)
+[01:00:28]	John Orwell has gained a 'Citizen ID' #24418.
+[01:00:29]	[ME] Antilion: lets out a grumble
+[01:00:51]	CCA.C17-GRID.i3.08313 entered observer.
+[01:01:03]	CCA.C17-GRID.i3.08313 exited observer at their location.
+[01:01:04]	[ME] Alex Palovichov: Pushes the headcrab closer
+[01:01:10]	CCA.C17-GRID.i3.08313 entered observer.
+[01:01:11]	[ME] Antilion: is repulsed.
+[01:01:20]	not a bot (STEAM_0:1:43270455) has disconnected.
+[01:01:32]	CCA.C17-GRID.i3.08313 exited observer at their location.
+[01:01:35]	[IT] Antilion: the body of the antilion seems morphed..
+[01:02:01]	thirdeye.karl loaded the character 'Pecka'
+[01:02:03]	CCA.C17-GRID.i3.08313 entered observer.
+[01:02:04]	CCA.C17-GRID.i3.08313 exited observer at their location.
+[01:02:04]	CCA.C17-GRID.i3.08313 entered observer.
+[01:03:05]	CCA.C17-GRID.i3.08313 exited observer at their location.
+[01:03:33]	[ME] Pecka: pecks at the headcrab.
+[01:03:45]	CCA.C17-GRID.i3.08313 entered observer.
+[01:03:45]	CCA.C17-GRID.i3.08313 exited observer at their location.
+[01:04:00]	[ME] Alex Palovichov: Cuts a small chunk out of the headcrab and hands it over to "Pecka"
+[01:04:04]	CCA.C17-GRID.i3.08313 entered observer.
+[01:04:24]	[ME] Pecka: pecks the chunk out of your hand, almost breaking your skin.
+[01:04:28]	CCA.C17-GRID.i3.08313 has gained 10 tokens.
+[01:04:37]	[ME] Alex Palovichov: Quickly moves his hand away from the bird
+[01:05:21]	thirdeye.karl loaded the character 'Leviticus Zombie'
+[01:05:28]	thirdeye.karl loaded the character 'Pecka'
+[01:05:39]	CCA.C17-GRID.i3.08313 exited observer at their location.
+[01:05:47]	[ME] Pecka: lets out a human-eske chuckle.
+[01:07:17]	[ME] Pecka: pecks at the ground vigorously.
+[01:08:21]	[OOC] CCA.C17-GRID.i3.08313: note to sefl
+[01:08:28]	CCA.C17-GRID.i3.08313 set birdChat to '[false]'.
+[01:08:35]	Alex Palovichov ran 'drop' on item 'Blue Pre-War Shirt' (#23961)
+[01:08:35]	Alex Palovichov has lost a 'Blue Pre-War Shirt' #23961.
+[01:08:36]	CCA.C17-GRID.i3.08313 set birdFlightSpeed to '50'.
+[01:08:38]	[OOC] Pecka: perfect
+[01:08:41]	[OOC] CCA.C17-GRID.i3.08313: fixed
+[01:08:49]	[ME] CCA.C17-GRID.i3.08313: would take the shirt.
+[01:08:50]	CCA.C17-GRID.i3.08313 ran 'take' on item 'Blue Pre-War Shirt' (#23961)
+[01:08:50]	CCA.C17-GRID.i3.08313 has gained a 'Blue Pre-War Shirt' #23961.
+[01:09:02]	Alex Palovichov ran 'drop' on item 'Fingerless Gloves' (#23958)
+[01:09:02]	Alex Palovichov has lost a 'Fingerless Gloves' #23958.
+[01:09:04]	Alex Palovichov ran 'drop' on item 'Fingerless Gloves' (#23957)
+[01:09:04]	Alex Palovichov has lost a 'Fingerless Gloves' #23957.
+[01:09:16]	[ME] Pecka: pecks at the ground.
+[01:09:20]	Mr.Ganar has connected.
+[01:09:28]	CCA.C17-GRID.i3.08313 has gained 10 tokens.
+[01:09:33]	Alex Palovichov ran 'take' on item 'Fingerless Gloves' (#23958)
+[01:09:33]	Alex Palovichov has gained a 'Fingerless Gloves' #23958.
+[01:09:34]	Alex Palovichov ran 'take' on item 'Fingerless Gloves' (#23957)
+[01:09:34]	Alex Palovichov has gained a 'Fingerless Gloves' #23957.
+[01:09:53]	Mr.Ganar (STEAM_0:0:80909581) has disconnected.
+[01:10:09]	[ME] Pecka: pecks at a familiar head.
+[01:10:54]	Alex Palovichov ran 'drop' on item 'Fingerless Gloves' (#23958)
+[01:10:54]	Alex Palovichov has lost a 'Fingerless Gloves' #23958.
+[01:10:55]	Alex Palovichov ran 'drop' on item 'Fingerless Gloves' (#23957)
+[01:10:55]	Alex Palovichov has lost a 'Fingerless Gloves' #23957.
+[01:11:04]	thirdeye.karl loaded the character 'Antilion'
+[01:11:10]	Alex Palovichov ran 'take' on item 'Fingerless Gloves' (#23957)
+[01:11:10]	Alex Palovichov has gained a 'Fingerless Gloves' #23957.
+[01:11:12]	Alex Palovichov ran 'take' on item 'Fingerless Gloves' (#23958)
+[01:11:12]	Alex Palovichov has gained a 'Fingerless Gloves' #23958.
+[01:11:28]	[ME] CCA.C17-GRID.i3.08313: hands the shirt back to the man.
+[01:11:32]	CCA.C17-GRID.i3.08313 ran 'drop' on item 'Blue Pre-War Shirt' (#23961)
+[01:11:32]	CCA.C17-GRID.i3.08313 has lost a 'Blue Pre-War Shirt' #23961.
+[01:11:39]	Alex Palovichov ran 'take' on item 'Blue Pre-War Shirt' (#23961)
+[01:11:39]	Alex Palovichov has gained a 'Blue Pre-War Shirt' #23961.
+[01:11:59]	[ME] Antilion: throws their body against the door.
+[01:12:00]	[ME] CCA.C17-GRID.i3.08313: would shuffle through his pockets.
+[01:12:01]	Antilion rolled 73 out of 100.
+[01:12:01]	Antilion used command '/Roll'.
+[01:12:03]	CCA.C17-GRID.i3.08313 ran 'View' on item 'Notepad' (#24315)
+[01:12:06]	CCA.C17-GRID.i3.08313 ran 'View' on item 'Notepad' (#24314)
+[01:12:30]	Parish Cassidy has lost 5 tokens.
+[01:12:34]	CCA.C17-GRID.i3.08313 ran 'Edit' on item 'Notepad' (#24314)
+[01:12:35]	[ME] Antilion: throws their body against the door.
+[01:12:36]	Antilion rolled 98 out of 100.
+[01:12:36]	Antilion used command '/Roll'.
+[01:12:39]	CCA.C17-GRID.i3.08313 ran 'Edit' on item 'Notepad' (#24314)
+[01:12:58]	[ME] CCA.C17-GRID.i3.08313: pulls out a piece of paper and a pen. He scribbles over something on the paper.
+[01:13:03]	[ME] CCA.C17-GRID.i3.08313: hands the paper over to the man.
+[01:13:05]	CCA.C17-GRID.i3.08313 ran 'Edit' on item 'Notepad' (#24314)
+[01:13:07]	thirdeye.karl loaded the character 'Pecka'
+[01:13:12]	CCA.C17-GRID.i3.08313 ran 'drop' on item 'Notepad' (#24314)
+[01:13:12]	CCA.C17-GRID.i3.08313 has lost a 'Notepad' #24314.
+[01:13:15]	Alex Palovichov ran 'take' on item 'Notepad' (#24314)
+[01:13:15]	Alex Palovichov has gained a 'Notepad' #24314.
+[01:13:16]	Alex Palovichov ran 'View' on item 'Notepad' (#24314)
+[01:14:28]	CCA.C17-GRID.i3.08313 has gained 10 tokens.
+[01:14:35]	[ME] Pecka: pecks your feet.
+[01:15:22]	[ME] Alex Palovichov: Quickly glances at the citizen before facing the CP again
+[01:16:12]	[LOOC] Alex Palovichov: And so it begins...
+[01:16:26]	[OOC] CCA.C17-GRID.i3.08313: parish make sure you check your discord before you head off, we put all of our info and stuff there. /discord for the link
+[01:16:35]	thirdeye.karl loaded the character 'Antilion'
+[01:16:38]	[OOC] CCA.C17-GRID.i3.08313: now i am become sleepy, the goer to bed
+[01:16:44]	[OOC] CCA.C17-GRID.i3.08313: goodnigt 
+[01:16:45]	[OOC] Alex Palovichov: Gn
+[01:16:48]	[OOC] CCA.C17-GRID.i3.08313: thank you guys for bieng on
+[01:16:54]	[OOC] Alex Palovichov: Always happy to be, 
+[01:16:55]	[OOC] Antilion: np :)
+[01:16:58]	[OOC] CCA.C17-GRID.i3.08313: karl thank you so much for the donation
+[01:17:00]	[OOC] CCA.C17-GRID.i3.08313: means a lotw
+[01:17:03]	[ME] Antilion: grumbles.
+[01:17:06]	[OOC] CCA.C17-GRID.i3.08313: i have things iw ant to commision for hte server so this is really helpful
+[01:17:12]	[OOC] CCA.C17-GRID.i3.08313: models and stuff
+[01:17:27]	[ME] Antilion: grumbles.
+[01:17:43]	[OOC] Parish Cassidy: This sever is nice. First time I've been on a public one.
+[01:17:47]	[ME] Alex Palovichov: Reaches into a pocket and holds out a small cracker
+[01:17:54]	[ME] Antilion: gently grabs the cracker.
+[01:18:10]	[OOC] CCA.C17-GRID.i3.08313: thanks. this is kind of our inactive ohurs
+[01:18:12]	[OOC] CCA.C17-GRID.i3.08313: not kind of
+[01:18:12]	[OOC] CCA.C17-GRID.i3.08313: it is
+[01:18:39]	CCA.C17-GRID.i3.08313 used command '/PM ant if you really insist on donating more, true gamer might be available if you buy the other tiers only but i could be wrong. up to you of ocurse, becuase $25 is a wild amount to donate. i know you mentioned donating more'.
+[01:18:50]	[OOC] CCA.C17-GRID.i3.08313: still, great to have you here
+[01:18:52]	[OOC] CCA.C17-GRID.i3.08313: we're a tight knit one
+[01:18:56]	[OOC] CCA.C17-GRID.i3.08313: but i enjoy what i do and PR is my baby
+[01:19:07]	[OOC] CCA.C17-GRID.i3.08313: so, it's always the best i can manage
+[01:19:16]	[OOC] CCA.C17-GRID.i3.08313: alright i really am going to bed becuasei  am so tired
+[01:19:18]	[OOC] CCA.C17-GRID.i3.08313: goodnight guys
+[01:19:28]	CCA.C17-GRID.i3.08313 has gained 10 tokens.
+[01:19:29]	[OOC] Alex Palovichov: Gn 
+[01:19:31]	[OOC] CCA.C17-GRID.i3.08313: thanks for being on
+[01:19:39]	[OOC] Parish Cassidy: I'll see if I can be here during the active hours. In the meantime, I have to get back on my shift on VRChat, I'm way behind on my beating quota.
+[01:19:47]	[OOC] CCA.C17-GRID.i3.08313: lmao
+[01:19:52]	[OOC] CCA.C17-GRID.i3.08313: alright take care. make sure to join the discord
+[01:20:06]	[OOC] CCA.C17-GRID.i3.08313: for every day you'er not in the discord, i'll steal one of your toes
+[01:20:10]	[OOC] Parish Cassidy: Alrighty then. Good night.
+[01:20:15]	[ME] Antilion: grumbles in an oddly excited tone.
+[01:20:18]	Parish The Wolf (STEAM_0:0:128620976) has disconnected.
+[01:20:20]	[OOC] CCA.C17-GRID.i3.08313: on the eleventh day you become indebted with toes
+[01:20:23]	[OOC] CCA.C17-GRID.i3.08313: on the twelfth day?
+[01:20:29]	[OOC] CCA.C17-GRID.i3.08313: christmas
+[01:20:34]	[OOC] CCA.C17-GRID.i3.08313: okay i'm fucking exhausted and loopy goodnight
+[01:20:35]	matt saton (STEAM_0:1:53097688) has disconnected.
+[01:21:01]	[ME] Antilion: motions to the crack in the window, small enough for just a bird to escape from.
+[01:21:34]	[ME] Alex Palovichov: Opens a box and reaches inside of it
+[01:21:54]	[ME] Alex Palovichov: Grabs his Caulk and quickly fills the crack in the wall
+[01:22:16]	[ME] Antilion: wiggles the doorknob effortlessly.
+[01:22:38]	[ME] Alex Palovichov: Opens up a barrel and takes out a small box of crackers
+[01:23:01]	[ME] Alex Palovichov: Puts the box of crackers on the ground
+[01:23:12]	[ME] Antilion: dances an excited dance.
+[01:23:21]	Antilion used command '/ActCheer'.
+[01:23:58]	[ME] Alex Palovichov: Locks the door
+[01:24:09]	thirdeye.karl loaded the character 'Karlos Wilsono'
+[01:24:29]	[OOC] Alex Palovichov: anyway fr tho, Its late and I'm tired af
+[01:24:38]	[OOC] Karlos Wilsono: sammeee. great rp bro
+[01:24:40]	[OOC] Alex Palovichov: Imma head off for the night
+[01:24:53]	[OOC] Alex Palovichov: Lmaooo 
+[01:24:57]	[OOC] Alex Palovichov: That RP was something else
+[01:25:00]	[OOC] Alex Palovichov: Anyway GN
+[01:25:06]	[OOC] Karlos Wilsono: gn
+[01:25:08]	Bean (STEAM_0:1:591779303) has disconnected.
+[01:27:48]	Karlos Wilsono opened the '' #2384 container.
+[01:27:51]	Karlos Wilsono closed the '' #2384 container.
+[01:27:54]	hnbug01 (STEAM_0:1:575208276) has disconnected (timed out).
+[01:28:11]	Karlos Wilsono opened the '' #2384 container.
+[01:28:12]	Karlos Wilsono closed the '' #2384 container.
+[01:28:13]	Karlos Wilsono opened the 'File Cabinet' #2415 container.
+[01:28:16]	Karlos Wilsono closed the 'File Cabinet' #2415 container.
+[01:28:17]	Karlos Wilsono opened the '' #2384 container.
+[01:28:19]	Karlos Wilsono closed the '' #2384 container.
+[01:28:22]	Karlos Wilsono opened the '' #2396 container.
+[01:28:24]	Karlos Wilsono closed the '' #2396 container.
+[01:28:25]	Karlos Wilsono opened the '' #2396 container.
+[01:28:32]	Karlos Wilsono closed the '' #2396 container.
+[01:28:39]	Karlos Wilsono opened the '' #2387 container.
+[01:28:42]	Karlos Wilsono closed the '' #2387 container.
+[01:29:37]	thirdeye.karl (STEAM_0:1:70789676) has disconnected.
+[02:05:08]	Mr.Ganar has connected.
+[02:07:02]	Mr.Ganar (STEAM_0:0:80909581) has disconnected.
+[02:49:02]	Mr.Ganar has connected.
+[02:49:47]	Mr.Ganar (STEAM_0:0:80909581) has disconnected.
+[03:55:03]	Mr.Ganar has connected.
+[03:55:27]	Mr.Ganar (STEAM_0:0:80909581) has disconnected.
+[04:36:11]	Mr.Ganar has connected.
+[04:36:35]	Mr.Ganar (STEAM_0:0:80909581) has disconnected.
+[06:35:55]	Mr.Ganar has connected.
+[06:36:19]	Mr.Ganar (STEAM_0:0:80909581) has disconnected.
+[06:53:56]	Global Defence Initiative has connected.
+[06:54:23]	Global Defence Initiative loaded the character 'Robbert Garth'
+[06:54:49]	Robbert Garth opened the '' #239 container.
+[06:54:51]	Robbert Garth closed the '' #239 container.
+[06:55:34]	Robbert Garth opened the '' #250 container.
+[06:55:36]	Robbert Garth closed the '' #250 container.
+[06:55:37]	Robbert Garth opened the '' #251 container.
+[06:55:48]	Robbert Garth has gained a 'Empty Consulate Water Can' #24371.
+[06:55:49]	Robbert Garth has gained a 'Empty Consulate Water Can' #24366.
+[06:55:50]	Robbert Garth has gained a 'Empty Consulate Water Can' #24367.
+[06:55:51]	Robbert Garth has gained a 'Empty Flavored Consulate Water Can' #24372.
+[06:55:52]	Robbert Garth closed the '' #251 container.
+[06:56:19]	Robbert Garth ran 'take' on item 'Consulate Water' (#24420)
+[06:56:19]	Robbert Garth has gained a 'Consulate Water' #24420.
+[06:59:39]	Robbert Garth opened the '' #240 container.
+[06:59:41]	Robbert Garth closed the '' #240 container.
+[07:00:08]	Robbert Garth has taken 5 damage from npc_headcrab.
+[07:01:25]	Robbert Garth has taken 5 damage from npc_headcrab.
+[07:01:40]	Robbert Garth has taken 5 damage from npc_headcrab.
+[07:02:43]	Robbert Garth has taken 10 damage from npc_zombie.
+[07:02:49]	Robbert Garth has taken 5 damage from npc_headcrab.
+[07:03:09]	Robbert Garth has taken 5 damage from npc_headcrab.
+[07:03:18]	Robbert Garth has taken 5 damage from npc_headcrab.
+[07:05:38]	Robbert Garth opened the '' #253 container.
+[07:05:40]	Robbert Garth closed the '' #253 container.
+[07:07:49]	Robbert Garth opened the '' #2387 container.
+[07:07:52]	Robbert Garth closed the '' #2387 container.
+[07:07:53]	Robbert Garth opened the '' #2386 container.
+[07:07:55]	Robbert Garth closed the '' #2386 container.
+[07:08:11]	Robbert Garth opened the '' #2383 container.
+[07:08:13]	Robbert Garth closed the '' #2383 container.
+[07:08:30]	Robbert Garth opened the '' #2396 container.
+[07:08:32]	Robbert Garth closed the '' #2396 container.
+[07:08:33]	Robbert Garth opened the '' #2395 container.
+[07:08:34]	Robbert Garth closed the '' #2395 container.
+[07:08:36]	Robbert Garth opened the '' #2385 container.
+[07:08:38]	Robbert Garth closed the '' #2385 container.
+[07:08:39]	Robbert Garth opened the '' #2384 container.
+[07:08:41]	Robbert Garth closed the '' #2384 container.
+[07:09:27]	Robbert Garth ran 'Consume' on item 'Consulate Water' (#24420)
+[07:14:02]	Robbert Garth opened the '' #237 container.
+[07:14:07]	Robbert Garth closed the '' #237 container.
+[07:14:16]	Robbert Garth opened the '' #252 container.
+[07:14:18]	Robbert Garth closed the '' #252 container.
+[07:16:20]	Robbert Garth ran 'Consume' on item 'Minimum Grade Food Product' (#23926)
+[07:16:33]	Robbert Garth opened the '' #251 container.
+[07:16:35]	Robbert Garth closed the '' #251 container.
+[07:16:55]	Robbert Garth ran 'take' on item 'Rusty Can' (#23999)
+[07:16:55]	Robbert Garth has gained a 'Rusty Can' #23999.
+[07:20:20]	Robbert Garth ran 'drop' on item 'Empty Consulate Water Can' (#24366)
+[07:20:20]	Robbert Garth has lost a 'Empty Consulate Water Can' #24366.
+[07:20:23]	Robbert Garth ran 'take' on item 'Empty Consulate Water Can' (#24366)
+[07:20:23]	Robbert Garth has gained a 'Empty Consulate Water Can' #24366.
+[07:21:06]	Robbert Garth ran 'drop' on item 'Suitcase' (#21484)
+[07:21:06]	Robbert Garth has lost a 'Suitcase' #21484.
+[07:21:06]	Robbert Garth has lost a 'Empty Consulate Water Can' #24371.
+[07:21:06]	Robbert Garth has lost a 'Scrap Metal' #23772.
+[07:21:06]	Robbert Garth has lost a 'Resin' #1976.
+[07:21:06]	Robbert Garth has lost a 'Consulate Water' #21565.
+[07:21:06]	Robbert Garth has lost a 'Scrap Metal' #23773.
+[07:21:06]	Robbert Garth has lost a 'Broken Clock' #23942.
+[07:21:06]	Robbert Garth has lost a 'Minimum Grade Supplements' #23925.
+[07:21:08]	Robbert Garth ran 'take' on item 'Suitcase' (#21484)
+[07:21:08]	Robbert Garth has gained a 'Suitcase' #21484.
+[07:21:08]	Robbert Garth has gained a 'Empty Consulate Water Can' #24371.
+[07:21:08]	Robbert Garth has gained a 'Scrap Metal' #23772.
+[07:21:08]	Robbert Garth has gained a 'Resin' #1976.
+[07:21:08]	Robbert Garth has gained a 'Consulate Water' #21565.
+[07:21:08]	Robbert Garth has gained a 'Scrap Metal' #23773.
+[07:21:08]	Robbert Garth has gained a 'Broken Clock' #23942.
+[07:21:08]	Robbert Garth has gained a 'Minimum Grade Supplements' #23925.
+[07:21:28]	Robbert Garth ran 'drop' on item 'Empty Consulate Water Can' (#24371)
+[07:21:28]	Robbert Garth has lost a 'Empty Consulate Water Can' #24371.
+[07:21:31]	Robbert Garth ran 'take' on item 'Empty Consulate Water Can' (#24371)
+[07:21:31]	Robbert Garth has gained a 'Empty Consulate Water Can' #24371.
+[07:24:57]	Robbert Garth opened the '' #239 container.
+[07:25:06]	Robbert Garth closed the '' #239 container.
+[07:26:20]	Robbert Garth opened the '' #2374 container.
+[07:26:22]	Robbert Garth closed the '' #2374 container.
+[07:26:23]	Robbert Garth opened the '' #308 container.
+[07:26:24]	Robbert Garth closed the '' #308 container.
+[07:26:25]	Robbert Garth opened the '' #308 container.
+[07:26:27]	Robbert Garth closed the '' #308 container.
+[07:27:19]	Robbert Garth ran 'drop' on item 'Empty Consulate Water Can' (#24371)
+[07:27:19]	Robbert Garth has lost a 'Empty Consulate Water Can' #24371.
+[07:27:22]	Robbert Garth ran 'drop' on item 'Empty Flavored Consulate Water Can' (#24372)
+[07:27:22]	Robbert Garth has lost a 'Empty Flavored Consulate Water Can' #24372.
+[07:27:24]	Robbert Garth ran 'drop' on item 'Empty Consulate Water Can' (#24366)
+[07:27:24]	Robbert Garth has lost a 'Empty Consulate Water Can' #24366.
+[07:27:51]	Robbert Garth ran 'take' on item 'Car Battery' (#24239)
+[07:27:51]	Robbert Garth has gained a 'Car Battery' #24239.
+[07:31:31]	Global Defence Initiative (STEAM_0:0:49504081) has disconnected.
+[07:44:30]	Global Defence Initiative has connected.
+[07:44:49]	Dilly_ has connected.
+[07:45:43]	Dilly_ loaded the character 'Jackson Steere'
+[07:46:06]	Jackson Steere opened the '' #245 container.
+[07:46:11]	Jackson Steere closed the '' #245 container.
+[07:46:31]	Jackson Steere ran 'View' on item 'Paper' (#24266)
+[07:47:06]	Global Defence Initiative loaded the character 'Robbert Garth'
+[07:47:12]	[OOC] Robbert Garth: A
+[07:47:15]	[OOC] Jackson Steere: e
+[07:47:33]	[LOOC] Jackson Steere: old store sign I had
+[07:47:46]	Robbert Garth ran 'drop' on item 'Empty Consulate Water Can' (#24367)
+[07:47:46]	Robbert Garth has lost a 'Empty Consulate Water Can' #24367.
+[07:48:24]	[OOC] Robbert Garth: NOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO CANNOT BBUY FILTERS
+[07:48:42]	[OOC] Jackson Steere: que
+[07:48:54]	[OOC] Jackson Steere: o Ik 
+[07:48:56]	[OOC] Jackson Steere: uno sec
+[07:49:03]	Dilly_ loaded the character 'CCA.C17-UNION.i1.93347'
+[07:49:14]	[OOC] CCA.C17-UNION.i1.93347: e
+[07:49:40]	Robbert Garth used the 'Shopkeeper' vendor.
+[07:49:43]	Robbert Garth has lost 10 tokens.
+[07:49:43]	Robbert Garth has gained a 'Pan' #24420.
+[07:50:03]	Robbert Garth ran 'drop' on item 'Rusty Can' (#23999)
+[07:50:03]	Robbert Garth has lost a 'Rusty Can' #23999.
+[07:50:04]	Dilly_ loaded the character 'Jackson Steere'
+[07:50:07]	Robbert Garth ran 'take' on item 'Rusty Can' (#23999)
+[07:50:07]	Robbert Garth has gained a 'Rusty Can' #23999.
+[07:50:09]	Robbert Garth ran 'Equip' on item 'Pan' (#24420)
+[07:51:41]	Robbert Garth opened the '' #240 container.
+[07:51:42]	Robbert Garth closed the '' #240 container.
+[07:51:53]	Robbert Garth ran 'View' on item 'Paper' (#24404)
+[07:54:02]	Robbert Garth ran 'Consume' on item 'Consulate Water' (#21565)
+[07:54:49]	Robbert Garth ran 'take' on item 'Cloth Scrap' (#24422)
+[07:54:49]	Robbert Garth has gained a 'Cloth Scrap' #24422.
+[07:56:34]	Robbert Garth has taken 13 damage from monster_hound_eye.
+[07:58:13]	Robbert Garth has taken 10 damage from npc_zombie.
+[07:58:28]	Robbert Garth ran 'take' on item 'Blue Pre-War Shirt' (#24423)
+[07:59:18]	Robbert Garth opened the '' #242 container.
+[07:59:21]	Robbert Garth closed the '' #242 container.
+[08:00:20]	Robbert Garth ran 'take' on item 'AA Battery' (#24052)
+[08:01:00]	Robbert Garth has gained 10 tokens.
+[08:01:04]	[OOC] Robbert Garth: Oo money
+[08:01:18]	[OOC] Jackson Steere: oo money
+[08:01:39]	Robbert Garth ran 'take' on item 'Fingerless Gloves' (#24425)
+[08:02:33]	Jackson Steere ran 'Consume' on item 'Standard Grade Food Product' (#24342)
+[08:02:42]	Robbert Garth has taken 3 damage from npc_fastzombie.
+[08:02:42]	Robbert Garth has taken 3 damage from npc_fastzombie.
+[08:02:52]	Robbert Garth has taken 3 damage from npc_fastzombie.
+[08:02:52]	Robbert Garth has taken 3 damage from npc_fastzombie.
+[08:02:58]	Robbert Garth has taken 3 damage from npc_fastzombie.
+[08:02:58]	Robbert Garth has taken 3 damage from npc_fastzombie.
+[08:02:58]	npc_fastzombie has killed Robbert Garth.
+[08:03:02]	[OOC] Robbert Garth: Im dead
+[08:03:15]	Jackson Steere has spawned 'models/hunter/plates/plate1x6.mdl'.
+[08:03:37]	Jackson Steere has spawned 'models/hunter/plates/plate1x7.mdl'.
+[08:05:00]	Jackson Steere has spawned 'models/hunter/plates/plate1x7.mdl'.
+[08:05:53]	Jackson Steere has spawned 'models/hunter/plates/plate1x2.mdl'.
+[08:06:38]	Jackson Steere has spawned 'models/hunter/plates/plate1x2.mdl'.
+[08:07:15]	Robbert Garth ran 'Equip' on item 'Pan' (#24420)
+[08:07:49]	Robbert Garth has taken 3 damage from npc_fastzombie.
+[08:07:49]	Robbert Garth has taken 3 damage from npc_fastzombie.
+[08:07:57]	Robbert Garth has taken 5 damage from npc_fastzombie.
+[08:08:06]	Robbert Garth has taken 3 damage from npc_fastzombie.
+[08:08:09]	Robbert Garth has taken 3 damage from npc_fastzombie.
+[08:08:10]	Robbert Garth has taken 3 damage from npc_fastzombie.
+[08:08:10]	Robbert Garth has taken 3 damage from npc_fastzombie.
+[08:08:30]	Robbert Garth has taken 5 damage from npc_fastzombie.
+[08:08:41]	Robbert Garth has taken 3 damage from npc_fastzombie.
+[08:08:41]	Robbert Garth has taken 3 damage from npc_fastzombie.
+[08:08:43]	Robbert Garth has taken 3 damage from npc_fastzombie.
+[08:08:44]	Robbert Garth has taken 3 damage from npc_fastzombie.
+[08:08:44]	Robbert Garth has taken 3 damage from npc_fastzombie.
+[08:08:47]	Robbert Garth has taken 3 damage from npc_fastzombie.
+[08:08:59]	Robbert Garth has gained 10 tokens.
+[08:09:32]	[OOC] Robbert Garth: o
+[08:09:36]	[OOC] Jackson Steere: e
+[08:09:37]	[OOC] Robbert Garth: Antlions on the beaches
+[08:09:43]	[OOC] Jackson Steere: always has been
+[08:09:58]	Jackson Steere has spawned 'models/hunter/plates/plate1x4.mdl'.
+[08:10:01]	Jackson Steere has spawned 'models/hunter/plates/plate1x5.mdl'.
+[08:10:02]	[OOC] Robbert Garth: vort, enough said
+[08:10:06]	Jackson Steere has spawned 'models/hunter/plates/plate1x6.mdl'.
+[08:10:12]	Jackson Steere has spawned 'models/hunter/plates/plate1x7.mdl'.
+[08:10:37]	Robbert Garth has taken 10 damage from npc_zombie.
+[08:10:45]	Robbert Garth has taken 10 damage from npc_zombie.
+[08:11:25]	Robbert Garth ran 'take' on item 'AA Battery' (#24426)
+[08:11:31]	Robbert Garth ran 'drop' on item 'Broken Clock' (#23942)
+[08:11:31]	Robbert Garth has lost a 'Broken Clock' #23942.
+[08:11:34]	Robbert Garth ran 'take' on item 'AA Battery' (#24426)
+[08:11:34]	Robbert Garth has gained a 'AA Battery' #24426.
+[08:11:48]	Jackson Steere has spawned 'models/hunter/plates/plate1x7.mdl'.
+[08:13:21]	Robbert Garth has taken 7 damage from monster_hound_eye.
+[08:13:27]	Robbert Garth has taken 9 damage from monster_hound_eye.
+[08:13:55]	Jackson Steere has spawned 'models/hunter/plates/plate2x7.mdl'.
+[08:14:14]	Jackson Steere has spawned 'models/hunter/plates/plate2x8.mdl'.
+[08:14:23]	Jackson Steere has spawned 'models/hunter/plates/plate2x6.mdl'.
+[08:15:05]	Robbert Garth has taken 10 damage from npc_zombie.
+[08:15:18]	Robbert Garth ran 'take' on item 'Powercord' (#24428)
+[08:15:26]	Robbert Garth ran 'Consume' on item 'Minimum Grade Supplements' (#23925)
+[08:15:28]	Robbert Garth ran 'take' on item 'Powercord' (#24428)
+[08:15:47]	Robbert Garth ran 'drop' on item 'Rusty Can' (#23999)
+[08:15:47]	Robbert Garth has lost a 'Rusty Can' #23999.
+[08:15:50]	Robbert Garth ran 'take' on item 'Powercord' (#24428)
+[08:15:53]	Robbert Garth ran 'take' on item 'Powercord' (#24428)
+[08:15:53]	Robbert Garth has gained a 'Powercord' #24428.
+[08:16:41]	Robbert Garth has taken 10 damage from npc_poisonzombie.
+[08:16:56]	Robbert Garth has taken 10 damage from npc_poisonzombie.
+[08:16:56]	npc_poisonzombie has killed Robbert Garth.
+[08:17:13]	Robbert Garth ran 'Equip' on item 'Pan' (#24420)
+[08:18:18]	Robbert Garth opened the '' #245 container.
+[08:18:32]	Jackson Steere has spawned 'models/hunter/plates/plate2x6.mdl'.
+[08:18:43]	Robbert Garth closed the '' #245 container.
+[08:18:57]	Jackson Steere has spawned 'models/hunter/plates/plate2x6.mdl'.
+[08:18:58]	Robbert Garth ran 'drop' on item 'Scrap Metal' (#23773)
+[08:18:58]	Robbert Garth has lost a 'Scrap Metal' #23773.
+[08:19:01]	Robbert Garth ran 'take' on item 'Scrap Metal' (#23773)
+[08:19:01]	Robbert Garth has gained a 'Scrap Metal' #23773.
+[08:19:01]	Robbert Garth opened the '' #245 container.
+[08:19:02]	Jackson Steere has spawned 'models/hunter/plates/plate2x6.mdl'.
+[08:19:24]	Robbert Garth closed the '' #245 container.
+[08:21:10]	[OOC] Jackson Steere: blade barrier, planar ally, otherworldly form
+[08:21:30]	[OOC] Robbert Garth: Indeed thoes are 6 level spells
+[08:23:13]	Jackson Steere opened the '' #245 container.
+[08:23:20]	Jackson Steere closed the '' #245 container.
+[08:23:31]	Robbert Garth ran 'take' on item 'Rusty Can' (#23999)
+[08:23:31]	Robbert Garth has gained a 'Rusty Can' #23999.
+[08:26:57]	Robbert Garth has taken 15 damage from npc_barnacle.
+[08:27:02]	Jackson Steere has spawned 'models/hunter/plates/plate1x4.mdl'.
+[08:27:07]	Jackson Steere has spawned 'models/hunter/blocks/cube1x2x025.mdl'.
+[08:27:16]	Jackson Steere has spawned 'models/hunter/blocks/cube1x4x025.mdl'.
+[08:27:22]	Jackson Steere has spawned 'models/hunter/blocks/cube1x5x025.mdl'.
+[08:27:25]	Jackson Steere has spawned 'models/hunter/blocks/cube1x6x025.mdl'.
+[08:27:29]	Jackson Steere has spawned 'models/hunter/blocks/cube1x7x025.mdl'.
+[08:28:13]	Robbert Garth ran 'take' on item 'Pliers' (#24429)
+[08:28:13]	Robbert Garth has gained a 'Pliers' #24429.
+[08:28:17]	[OOC] Robbert Garth: YOOOOOOOOO
+[08:28:40]	Jackson Steere has spawned 'models/hunter/blocks/cube1x7x025.mdl'.
+[08:28:56]	Robbert Garth ran 'take' on item 'Empty Paint Can' (#24430)
+[08:28:56]	Robbert Garth has gained a 'Empty Paint Can' #24430.
+[08:29:09]	[OOC] Jackson Steere: question mark
+[08:29:10]	Robbert Garth ran 'take' on item 'Bar of Soap' (#24056)
+[08:29:10]	Robbert Garth has gained a 'Bar of Soap' #24056.
+[08:29:20]	[OOC] Robbert Garth: PLIERS
+[08:29:49]	[OOC] Robbert Garth: You know you can do with a bunch of wires
+[08:29:55]	[OOC] Jackson Steere: e
+[08:30:09]	[OOC] Robbert Garth: Electromagnets
+[08:30:15]	[OOC] Robbert Garth: Charged by capacitors 
+[08:30:21]	Robbert Garth ran 'take' on item 'Fingerless Gloves' (#24425)
+[08:30:21]	Robbert Garth has gained a 'Fingerless Gloves' #24425.
+[08:30:23]	Robbert Garth ran 'Equip' on item 'Fingerless Gloves' (#24425)
+[08:30:31]	Robbert Garth ran 'take' on item 'Broken Clock' (#23942)
+[08:30:31]	Robbert Garth has gained a 'Broken Clock' #23942.
+[08:30:33]	Robbert Garth ran 'take' on item 'Fingerless Gloves' (#24427)
+[08:30:33]	Robbert Garth has gained a 'Fingerless Gloves' #24427.
+[08:30:49]	Robbert Garth ran 'take' on item 'Bar of Soap' (#23905)
+[08:30:49]	Robbert Garth has gained a 'Bar of Soap' #23905.
+[08:31:13]	Robbert Garth ran 'take' on item 'Bar of Soap' (#23912)
+[08:31:13]	Robbert Garth has gained a 'Bar of Soap' #23912.
+[08:31:25]	Robbert Garth ran 'take' on item 'Bar of Soap' (#23855)
+[08:31:25]	Robbert Garth has gained a 'Bar of Soap' #23855.
+[08:32:06]	Robbert Garth ran 'take' on item 'Bar of Soap' (#23907)
+[08:32:06]	Robbert Garth has gained a 'Bar of Soap' #23907.
+[08:32:28]	Robbert Garth ran 'take' on item 'Bar of Soap' (#24048)
+[08:32:28]	Robbert Garth has gained a 'Bar of Soap' #24048.
+[08:32:45]	Robbert Garth has taken 3 damage from npc_fastzombie.
+[08:32:45]	Robbert Garth has taken 3 damage from npc_fastzombie.
+[08:33:12]	Robbert Garth has taken 3 damage from npc_fastzombie.
+[08:33:12]	Robbert Garth has taken 3 damage from npc_fastzombie.
+[08:33:17]	Robbert Garth has taken 3 damage from npc_fastzombie.
+[08:33:17]	Robbert Garth has taken 3 damage from npc_fastzombie.
+[08:33:31]	Robbert Garth has taken 3 damage from npc_fastzombie.
+[08:33:31]	Robbert Garth has taken 3 damage from npc_fastzombie.
+[08:33:41]	Robbert Garth has taken 3 damage from npc_fastzombie.
+[08:33:41]	Robbert Garth has taken 3 damage from npc_fastzombie.
+[08:33:44]	Robbert Garth has gained 10 tokens.
+[08:34:10]	Robbert Garth ran 'take' on item 'Adjustable Wrench' (#24043)
+[08:34:10]	Robbert Garth has gained a 'Adjustable Wrench' #24043.
+[08:34:15]	Jackson Steere ran 'take' on item 'Empty Consulate Water Can' (#24367)
+[08:34:15]	Jackson Steere has gained a 'Empty Consulate Water Can' #24367.
+[08:34:15]	[OOC] Robbert Garth: A WRENCH
+[08:34:21]	[OOC] Robbert Garth: COGGERS
+[08:35:20]	[OOC] Robbert Garth: time to take apart every single combine air vent
+[08:35:34]	[OOC] Jackson Steere: but my free oxygen :c 
+[08:36:10]	[OOC] Robbert Garth: You think they store it in a tank? or is it actualy its own air network?
+[08:36:35]	[OOC] Jackson Steere: that's a fucking good question and I have absolutely no idea
+[08:36:51]	[OOC] Robbert Garth: Both could be weaponized
+[08:36:52]	Jackson Steere used the 'Shopkeeper' vendor.
+[08:36:55]	Jackson Steere has lost 10 tokens.
+[08:36:55]	Jackson Steere has gained a 'Flashlight' #24431.
+[08:37:08]	[OOC] Robbert Garth: Might just be on site filtrations
+[08:37:24]	[OOC] Robbert Garth: Which means it must be powered
+[08:38:12]	Robbert Garth opened the '' #245 container.
+[08:38:12]	Robbert Garth closed the '' #245 container.
+[08:38:13]	Robbert Garth opened the '' #245 container.
+[08:38:17]	Robbert Garth closed the '' #245 container.
+[08:38:30]	Robbert Garth ran 'drop' on item 'Bar of Soap' (#23905)
+[08:38:30]	Robbert Garth has lost a 'Bar of Soap' #23905.
+[08:38:30]	Jackson Steere opened the '' #245 container.
+[08:38:31]	Robbert Garth ran 'drop' on item 'Bar of Soap' (#24056)
+[08:38:31]	Robbert Garth has lost a 'Bar of Soap' #24056.
+[08:38:33]	Robbert Garth ran 'drop' on item 'Bar of Soap' (#23907)
+[08:38:33]	Robbert Garth has lost a 'Bar of Soap' #23907.
+[08:38:34]	Robbert Garth ran 'drop' on item 'Bar of Soap' (#24048)
+[08:38:34]	Robbert Garth has lost a 'Bar of Soap' #24048.
+[08:38:35]	Robbert Garth ran 'drop' on item 'Bar of Soap' (#23855)
+[08:38:35]	Robbert Garth has lost a 'Bar of Soap' #23855.
+[08:38:37]	Robbert Garth ran 'drop' on item 'Fingerless Gloves' (#24427)
+[08:38:37]	Robbert Garth has lost a 'Fingerless Gloves' #24427.
+[08:38:39]	Robbert Garth ran 'EquipUn' on item 'Fingerless Gloves' (#24425)
+[08:38:40]	Jackson Steere closed the '' #245 container.
+[08:38:45]	[LOOC] Jackson Steere: error
+[08:38:48]	[LOOC] Jackson Steere: do you see?
+[08:39:00]	Robbert Garth ran 'drop' on item 'Fingerless Gloves' (#24425)
+[08:39:00]	Robbert Garth has lost a 'Fingerless Gloves' #24425.
+[08:39:09]	[LOOC] Robbert Garth: No
+[08:39:11]	[LOOC] Jackson Steere: all of those are errors
+[08:39:13]	[LOOC] Jackson Steere: waa
+[08:39:14]	[LOOC] Jackson Steere: o fuk
+[08:39:16]	[LOOC] Robbert Garth: they are bars of soap
+[08:39:22]	Robbert Garth ran 'drop' on item 'Bar of Soap' (#23912)
+[08:39:22]	Robbert Garth has lost a 'Bar of Soap' #23912.
+[08:40:20]	[LOOC] Jackson Steere: weird
+[08:40:23]	[LOOC] Jackson Steere: addons is a fuc
+[08:40:25]	Jackson Steere used command '/Content'.
+[08:40:33]	[LOOC] Robbert Garth: Ye but found a wrench and pliers
+[08:40:57]	[LOOC] Robbert Garth: Time to takeapart service pannels and start "tinkering"
+[08:41:07]	[LOOC] Jackson Steere: yes
+[08:41:11]	[LOOC] Jackson Steere: gremlin
+[08:41:13]	[LOOC] Jackson Steere: it Is I
+[08:41:17]	[LOOC] Jackson Steere: who will restart gam
+[08:41:23]	[LOOC] Robbert Garth: y?
+[08:41:28]	[LOOC] Jackson Steere: contento
+[08:45:41]	Dilly_ (STEAM_0:0:52468151) has disconnected.
+[08:46:07]	Robbert Garth used the 'Shopkeeper' vendor.
+[08:46:42]	Robbert Garth opened the '' #2374 container.
+[08:46:44]	Robbert Garth closed the '' #2374 container.
+[08:49:08]	Dilly_ has connected.
+[08:49:40]	Dilly_ loaded the character 'Jackson Steere'
+[08:49:45]	[OOC] Jackson Steere: FUCK
+[08:49:52]	[OOC] Robbert Garth: lovit
+[08:50:03]	Dilly_ (STEAM_0:0:52468151) has disconnected.
+[08:50:10]	Robbert Garth opened the '' #245 container.
+[08:50:16]	Robbert Garth closed the '' #245 container.
+[08:51:05]	Dilly_ has connected.
+[08:54:16]	Dilly_ loaded the character 'Jackson Steere'
+[08:54:23]	[OOC] Jackson Steere: Whyyyyyyyyy\
+[08:54:31]	[OOC] Jackson Steere: gosh dilly darn addons
+[08:54:49]	[OOC] Robbert Garth: No idea, they are errors for me aswell
+[08:54:58]	[OOC] Robbert Garth: Also do zo mbies respawn or is that when the map resests?
+[08:55:28]	[OOC] Jackson Steere: uhhh could be resets. Can't remember
+[08:55:42]	Robbert Garth ran 'Equip' on item 'Adjustable Wrench' (#24043)
+[08:55:45]	Robbert Garth ran 'EquipUn' on item 'Pan' (#24420)
+[08:55:46]	Robbert Garth ran 'Equip' on item 'Adjustable Wrench' (#24043)
+[08:56:06]	[OOC] Robbert Garth: WAAAAIT
+[08:56:17]	[OOC] Robbert Garth: YOU CAN USE THE WRENCH AS A MELEE WEAPON WAAAAAAAAAAAAAAAAAAAAAA
+[08:57:32]	Robbert Garth has taken 5 damage from npc_headcrab.
+[08:57:35]	Robbert Garth has taken 5 damage from npc_headcrab.
+[08:57:44]	Robbert Garth has taken 5 damage from npc_headcrab_poison.
+[08:57:44]	Robbert Garth has taken 39 damage from npc_headcrab_poison.
+[08:58:14]	Robbert Garth has taken 10 damage from npc_poisonzombie.
+[08:58:31]	Robbert Garth has taken 10 damage from npc_poisonzombie.
+[08:58:32]	Robbert Garth has taken 10 damage from npc_poisonzombie.
+[08:58:36]	Robbert Garth has taken 10 damage from npc_poisonzombie.
+[08:58:36]	npc_poisonzombie has killed Robbert Garth.
+[08:59:01]	Robbert Garth ran 'Equip' on item 'Adjustable Wrench' (#24043)
+[08:59:59]	Jackson Steere has taken 8 damage from Robbert Garth.
+[09:00:07]	Robbert Garth has taken 5 damage from Jackson Steere.
+[09:00:08]	Jackson Steere has taken 6 damage from Robbert Garth.
+[09:00:09]	Robbert Garth has taken 5 damage from Jackson Steere.
+[09:00:10]	Robbert Garth has taken 5 damage from Jackson Steere.
+[09:00:13]	Robbert Garth has taken 5 damage from Jackson Steere.
+[09:00:14]	Robbert Garth has taken 5 damage from Jackson Steere.
+[09:00:15]	Robbert Garth has taken 5 damage from Jackson Steere.
+[09:00:17]	Robbert Garth has taken 5 damage from Jackson Steere.
+[09:00:18]	Jackson Steere has taken 8 damage from Robbert Garth.
+[09:00:18]	Robbert Garth has taken 5 damage from Jackson Steere.
+[09:00:19]	Jackson Steere has taken 8 damage from Robbert Garth.
+[09:00:20]	Jackson Steere has taken 8 damage from Robbert Garth.
+[09:00:20]	Robbert Garth has taken 5 damage from Jackson Steere.
+[09:00:20]	Jackson Steere has taken 8 damage from Robbert Garth.
+[09:00:21]	Robbert Garth has taken 5 damage from Jackson Steere.
+[09:00:21]	Jackson Steere has taken 8 damage from Robbert Garth.
+[09:00:21]	Robbert Garth has taken 5 damage from Jackson Steere.
+[09:00:22]	Jackson Steere has taken 8 damage from Robbert Garth.
+[09:00:22]	Robbert Garth has taken 5 damage from Jackson Steere.
+[09:00:22]	Jackson Steere has taken 8 damage from Robbert Garth.
+[09:00:23]	Jackson Steere has taken 8 damage from Robbert Garth.
+[09:00:23]	Robbert Garth has killed Jackson Steere with weapon_pipewrench.
+[09:01:51]	Robbert Garth has taken 10 damage from npc_poisonzombie.
+[09:02:11]	Robbert Garth has gained 20 tokens.
+[09:02:20]	Robbert Garth has taken 5 damage from npc_headcrab_poison.
+[09:02:20]	Robbert Garth has taken 24 damage from npc_headcrab_poison.
+[09:03:13]	Robbert Garth ran 'take' on item 'Cloth Scrap' (#24433)
+[09:03:13]	Robbert Garth has gained a 'Cloth Scrap' #24433.
+[09:03:16]	Robbert Garth ran 'take' on item 'Cloth Scrap' (#24432)
+[09:03:16]	Robbert Garth has gained a 'Cloth Scrap' #24432.
+[09:03:22]	Robbert Garth ran 'take' on item 'Blue Pre-War Shirt' (#24423)
+[09:03:22]	Robbert Garth has gained a 'Blue Pre-War Shirt' #24423.
+[09:04:03]	Robbert Garth has taken 10 damage from npc_zombie.
+[09:04:13]	Robbert Garth ran 'take' on item 'Scrap Metal' (#24434)
+[09:04:13]	Robbert Garth has gained a 'Scrap Metal' #24434.
+[09:04:26]	Robbert Garth opened the '' #242 container.
+[09:04:28]	Robbert Garth closed the '' #242 container.
+[09:04:54]	Robbert Garth ran 'take' on item 'AA Battery' (#24435)
+[09:04:54]	Robbert Garth has gained a 'AA Battery' #24435.
+[09:04:55]	Robbert Garth opened the '' #242 container.
+[09:04:57]	Robbert Garth closed the '' #242 container.
+[09:05:39]	Robbert Garth has taken 15 damage from npc_barnacle.
+[09:05:39]	npc_barnacle has killed Robbert Garth.
+[09:08:31]	Jackson Steere opened the '' #245 container.
+[09:08:35]	Jackson Steere closed the '' #245 container.
+[09:08:55]	Dilly_ (STEAM_0:0:52468151) has disconnected.
+[09:09:56]	Global Defence Initiative (STEAM_0:0:49504081) has disconnected.
+[09:35:24]	moe has connected.
+[09:36:14]	moe loaded the character 'Liam Acer'
+[09:37:12]	Liam Acer used the 'Shopkeeper' vendor.
+[09:37:19]	moe (STEAM_0:1:426474993) has disconnected.
+[10:35:49]	Dilly_ has connected.
+[10:38:55]	Dilly_ loaded the character 'CCA.C17-UNION.i1.93347'
+[10:46:55]	Dilly_ loaded the character 'OTA.C08-ECHO:OWS.69173'
+[10:47:17]	OTA.C08-ECHO:OWS.69173 ran 'Equip' on item 'LA71 (Pulse SMG)' (#20470)
+[10:50:45]	OTA.C08-ECHO:OWS.69173 has taken 15 damage from npc_barnacle.
+[10:50:46]	OTA.C08-ECHO:OWS.69173 has taken 15 damage from npc_barnacle.
+[10:50:48]	OTA.C08-ECHO:OWS.69173 has taken 15 damage from npc_barnacle.
+[10:50:49]	OTA.C08-ECHO:OWS.69173 has taken 15 damage from npc_barnacle.
+[10:52:08]	OTA.C08-ECHO:OWS.69173 opened the '' #221 container.
+[10:52:10]	OTA.C08-ECHO:OWS.69173 closed the '' #221 container.
+[10:54:01]	Dilly_ loaded the character 'Jackson Steere'
+[10:58:23]	moe has connected.
+[10:58:50]	moe loaded the character 'Liam Acer'
+[10:58:56]	moe (STEAM_0:1:426474993) has disconnected.
+[10:59:47]	Jackson Steere ran 'EquipUn' on item 'Combine Worker Suit' (#24305)
+[11:26:44]	Global Defence Initiative has connected.
+[11:27:33]	Global Defence Initiative loaded the character 'Robbert Garth'
+[11:27:51]	Robbert Garth opened the '' #245 container.
+[11:27:54]	Robbert Garth closed the '' #245 container.
+[11:28:05]	[OOC] Robbert Garth: Vort or no vort there is no inbetween
+[11:28:16]	[OOC] Jackson Steere: vort
+[11:28:22]	Dilly_ loaded the character 'Yur'Go'
+[11:28:26]	[OOC] Yur'Go: gremlin hours
+[11:28:34]	[OOC] Robbert Garth: Fuckoff
+[11:28:39]	Robbert Garth opened the '' #245 container.
+[11:28:41]	Robbert Garth closed the '' #245 container.
+[11:28:55]	[OOC] Yur'Go: however this vort is stick
+[11:28:56]	[OOC] Robbert Garth: Heckoff before i skin u alive with a pipe wrench
+[11:29:00]	Yur'Go used command '/CharFallOver 1'.
+[11:29:03]	Yur'Go used command '/CharFallOver 1'.
+[11:29:06]	Yur'Go used command '/CharFallOver 1'.
+[11:29:09]	Yur'Go used command '/CharFallOver 1'.
+[11:29:09]	Yur'Go has taken 50 damage from worldspawn.
+[11:29:13]	Yur'Go used command '/CharFallOver 1'.
+[11:29:18]	Yur'Go used command '/CharFallOver 1'.
+[11:29:20]	Yur'Go used command '/CharFallOver 1'.
+[11:29:29]	Dilly_ loaded the character 'Crimson'
+[11:29:46]	[OOC] Robbert Garth: Stuck in ur shop
+[11:29:51]	[OOC] Crimson: fuck
+[11:30:11]	Dilly_ loaded the character 'Jackson Steere'
+[11:30:16]	Jackson Steere ran 'Equip' on item 'Combine Worker Suit' (#24305)
+[11:30:33]	LynxQueen has connected.
+[11:30:46]	[OOC] Jackson Steere: oh shit I have to b e serious
+[11:32:08]	LynxQueen loaded the character 'Merissa 'Scout' Myers'
+[11:32:13]	Merissa 'Scout' Myers ran 'Frequency' on item 'Handheld Radio' (#13992)
+[11:32:21]	Merissa 'Scout' Myers ran 'Edit' on item 'Notepad' (#17310)
+[11:32:46]	LynxQueen loaded the character 'CCA.C17-HELIX.i3.67098'
+[11:33:19]	[OOC] CCA.C17-HELIX.i3.67098: helix time
+[11:33:24]	[OOC] Jackson Steere: helix time
+[11:33:41]	[OOC] Robbert Garth: vort time, oh wait *dies*
+[11:33:49]	[OOC] Jackson Steere: riggity rekt
+[11:34:23]	[LOOC] Jackson Steere: I'm fucking proud of this
+[11:34:25]	CCA.C17-HELIX.i3.67098 used the 'Ration Dispenser' vendor.
+[11:34:29]	[LOOC] Jackson Steere: the wood / metal here
+[11:34:31]	CCA.C17-HELIX.i3.67098 has gained 0 tokens.
+[11:34:31]	CCA.C17-HELIX.i3.67098 has gained a 'Civil Protection Functionary Grade Ration' #24436.
+[11:34:36]	[LOOC] Jackson Steere: I have it set perfectly on this corner
+[11:34:43]	CCA.C17-HELIX.i3.67098 ran 'Open' on item 'Civil Protection Functionary Grade Ration' (#24436)
+[11:34:57]	CCA.C17-HELIX.i3.67098 ran 'take' on item 'Consulate Water' (#24163)
+[11:34:57]	CCA.C17-HELIX.i3.67098 has gained a 'Consulate Water' #24163.
+[11:35:01]	CCA.C17-HELIX.i3.67098 ran 'take' on item 'Consulate Water' (#24029)
+[11:35:01]	CCA.C17-HELIX.i3.67098 has gained a 'Consulate Water' #24029.
+[11:36:30]	Jackson Steere used command '/PM Robbert don't fuckin die from that ol cp reee'.
+[11:37:36]	CCA.C17-HELIX.i3.67098 opened the '' #43 container.
+[11:37:38]	CCA.C17-HELIX.i3.67098 closed the '' #43 container.
+[11:37:46]	CCA.C17-HELIX.i3.67098 has gained 10 tokens.
+[11:37:59]	Robbert Garth opened the '' #253 container.
+[11:37:59]	Robbert Garth closed the '' #253 container.
+[11:38:00]	Robbert Garth opened the '' #253 container.
+[11:38:02]	Robbert Garth closed the '' #253 container.
+[11:38:09]	Jackson Steere has spawned 'models/props_c17/shelfunit01a.mdl'.
+[11:38:12]	Jackson Steere has spawned 'models/props_c17/shelfunit01a.mdl'.
+[11:38:17]	Jackson Steere has spawned 'models/props_c17/shelfunit01a.mdl'.
+[11:38:28]	FB|| light ROOM has connected.
+[11:38:35]	Jackson Steere has spawned 'models/props_c17/FurnitureBed001a.mdl'.
+[11:38:52]	Jackson Steere has spawned 'models/props_c17/FurnitureCouch002a.mdl'.
+[11:39:31]	Jackson Steere has spawned 'models/props_c17/FurnitureCouch001a.mdl'.
+[11:40:09]	Jackson Steere has spawned 'models/props_interiors/Furniture_Couch02a.mdl'.
+[11:40:43]	FB|| light ROOM loaded the character 'CCA.C17-QrM.98240'
+[11:40:54]	FB|| light ROOM loaded the character 'Ethan King'
+[11:40:56]	[OOC] Ethan King: Nuts
+[11:41:00]	[OOC] Jackson Steere: balls even
+[11:41:24]	[OOC] Ethan King: Cum?
+[11:41:32]	[OOC] Jackson Steere: woah buddy that's too far
+[11:41:36]	[OOC] Ethan King: Damn
+[11:41:55]	[OOC] CCA.C17-HELIX.i3.67098: hey ethan you should stop by the uhhhhhhhhhhhhh nexus
+[11:42:02]	Jackson Steere has spawned 'models/props_c17/FurnitureDrawer001a.mdl'.
+[11:42:04]	[OOC] Ethan King: Yeah, yeah, sure, one second./
+[11:42:04]	Robbert Garth opened the '' #308 container.
+[11:42:06]	Robbert Garth closed the '' #308 container.
+[11:42:16]	[OOC] CCA.C17-HELIX.i3.67098: There's something cool in the prison I'd love to show you
+[11:42:16]	Ethan King ran 'Frequency' on item 'Handheld Radio' (#10648)
+[11:42:20]	Ethan King used command '/SetFreq 201.4'.
+[11:42:23]	Ethan King used command '/Radio Nuts'.
+[11:42:25]	Ethan King used command '/Radio Balls'.
+[11:42:27]	Jackson Steere has spawned 'models/props_interiors/Furniture_chair03a.mdl'.
+[11:42:29]	Ethan King used command '/Radio Perhaps even cum?'.
+[11:42:37]	CCA.C17-HELIX.i3.67098 used command '/Radio What?'.
+[11:42:46]	CCA.C17-HELIX.i3.67098 has gained 10 tokens.
+[11:42:48]	Ethan King used command '/Radio AGH'.
+[11:42:50]	Ethan King used command '/Radio AUGH'.
+[11:42:53]	Ethan King used command '/Radio NO'.
+[11:42:55]	Ethan King used command '/Radio AH'.
+[11:43:05]	[Y] Jackson Steere: Hey, over here!
+[11:43:11]	Ethan King used command '/rooc Void this of course lmao'.
+[11:43:21]	CCA.C17-HELIX.i3.67098 used command '/rooc Im taking it all IC'.
+[11:43:24]	Ethan King used command '/rooc Bet'.
+[11:43:33]	Ethan King ran 'Frequency' on item 'Handheld Radio' (#10648)
+[11:43:35]	Ethan King used command '/SetFreq 200.5'.
+[11:44:19]	Ethan King ran 'Eat' on item 'Cooked Headcrab Meat' (#24327)
+[11:44:32]	[OOC] Ethan King: Who wants a power supply unit?
+[11:44:36]	Ethan King ran 'Frequency' on item 'Handheld Radio' (#10648)
+[11:44:39]	[OOC] Robbert Garth: Fucking me
+[11:44:40]	[OOC] Jackson Steere: All of the above
+[11:44:40]	Ethan King used command '/SetFreq 201.4'.
+[11:44:44]	[OOC] Ethan King: Based
+[11:44:52]	Jackson Steere has spawned 'models/hunter/plates/plate1x2.mdl'.
+[11:44:58]	[OOC] CCA.C17-HELIX.i3.67098: are all y'all in outlands
+[11:44:58]	Jackson Steere has spawned 'models/hunter/plates/plate2x3.mdl'.
+[11:45:07]	[OOC] Ethan King: M-M-META
+[11:45:09]	[OOC] Robbert Garth: Outlands being sewers?
+[11:45:20]	[OOC] CCA.C17-HELIX.i3.67098: I was asking to know if I should get on vortie or not
+[11:45:22]	[OOC] Jackson Steere: outlands being your mom
+[11:45:24]	[OOC] Jackson Steere: o wait
+[11:45:50]	[OOC] Ethan King: Yes, Vort RP 
+[11:46:34]	CCA.C17-HELIX.i3.67098 ran 'Use' on item 'Zip Tie' (#24353)
+[11:46:41]	CCA.C17-HELIX.i3.67098 used command '/CharSearch'.
+[11:47:35]	CCA.C17-HELIX.i3.67098 ran 'drop' on item 'Consulate Water' (#24029)
+[11:47:35]	CCA.C17-HELIX.i3.67098 has lost a 'Consulate Water' #24029.
+[11:47:46]	CCA.C17-HELIX.i3.67098 has gained 10 tokens.
+[11:47:53]	[ME] Robbert Garth: leans over picking up the can
+[11:48:04]	[OOC] Ethan King: Antlion spooky ;-;
+[11:48:04]	Robbert Garth ran 'take' on item 'Consulate Water' (#24029)
+[11:48:04]	Robbert Garth has gained a 'Consulate Water' #24029.
+[11:48:17]	[ME] Robbert Garth: Places the can inside the blue bin
+[11:48:22]	Robbert Garth ran 'drop' on item 'Consulate Water' (#24029)
+[11:48:22]	Robbert Garth has lost a 'Consulate Water' #24029.
+[11:48:44]	[OOC] CCA.C17-HELIX.i3.67098: had to do it.
+[11:48:48]	[OOC] Robbert Garth: Always 
+[11:49:34]	CCA.C17-HELIX.i3.67098 used the 'Shopkeeper' vendor.
+[11:49:36]	[OOC] Jackson Steere: broom gaming
+[11:49:39]	Jackson Steere has spawned 'models/props_interiors/Furniture_Lamp01a.mdl'.
+[11:50:18]	LynxQueen loaded the character 'Kal'Taar'
+[11:50:22]	[OOC] Kal'Taar: Vortie gaming
+[11:50:27]	[OOC] Ethan King: Based Vort gaming 
+[11:50:35]	Kal'Taar has taken 11 damage from worldspawn.
+[11:50:36]	[OOC] Ethan King: EVERYBODY, LOLWEBUL
+[11:50:43]	[OOC] Jackson Steere: cringe
+[11:50:45]	[OOC] Kal'Taar: NO
+[11:50:47]	[OOC] Ethan King: fuck you 
+[11:51:22]	[ME] Ethan King: would nod towards the Vort, "Greetings, Kal."
+[11:52:20]	[ME] Ethan King: would unsheathe a small combat knife, nodding, "Indeed I do."
+[11:52:36]	[ME] Ethan King: nods, cutting the Headcrab up.
+[11:52:39]	Jackson Steere has spawned 'models/props_c17/handrail04_corner.mdl'.
+[11:53:06]	[LOOC] Kal'Taar: did it not work 
+[11:53:09]	[LOOC] Ethan King: Odd
+[11:53:11]	[LOOC] Ethan King: Hold 
+[11:53:15]	Ethan King has gained a 'Raw Headcrab Meat' #24436.
+[11:53:22]	[LOOC] Ethan King: Hold, let me go see something.
+[11:53:35]	Jackson Steere has spawned 'models/props_c17/handrail04_cap.mdl'.
+[11:53:51]	[OOC] Ethan King: Huh
+[11:54:11]	Ethan King ran 'drop' on item 'Raw Headcrab Meat' (#24436)
+[11:54:11]	Ethan King has lost a 'Raw Headcrab Meat' #24436.
+[11:54:18]	Kal'Taar ran 'take' on item 'Raw Headcrab Meat' (#24436)
+[11:54:18]	Kal'Taar has gained a 'Raw Headcrab Meat' #24436.
+[11:54:27]	Jackson Steere has spawned 'models/props_c17/handrail04_corner.mdl'.
+[11:54:33]	[ME] Ethan King: nods
+[11:55:24]	Jackson Steere has spawned 'models/props_c17/handrail04_corner.mdl'.
+[11:56:09]	[ME] Ethan King: would look around, observing the...'store' "This...this is nice."
+[11:57:08]	Kal'Taar opened the '' #2418 container.
+[11:57:11]	Kal'Taar closed the '' #2418 container.
+[11:57:18]	Jackson Steere has spawned 'models/props_c17/handrail04_cap.mdl'.
+[11:58:04]	[OOC] Ethan King: Chicken is getting on, everybody panic.
+[11:58:22]	[ME] Ethan King: would motion behind him, 'And yes, Paul is a rogue.'
+[11:59:11]	Ethan King used command '/kickdoor'.
+[12:02:07]	Jackson Steere opened the '' #245 container.
+[12:02:10]	Jackson Steere closed the '' #245 container.
+[12:02:13]	[LOOC] Jackson Steere: dnd time
+[12:02:51]	Lil Chicken has connected.
+[12:03:07]	Ethan King has taken 68 damage from worldspawn.
+[12:03:07]	Ethan King has taken 100 damage from worldspawn.
+[12:03:07]	worldspawn has killed Ethan King.
+[12:03:10]	[OOC] Ethan King: BRUH
+[12:03:12]	[OOC] Kal'Taar: BRUH
+[12:03:17]	[OOC] Jackson Steere: nice glock
+[12:03:23]	[OOC] Ethan King: Welp, sadge 
+[12:03:24]	[OOC] Jackson Steere: huge c***
+[12:03:31]	Jackson Steere used the 'Shopkeeper' vendor.
+[12:03:33]	[OOC] Kal'Taar: did you fuckin die
+[12:03:40]	[OOC] Ethan King: See, want to know what happened?
+[12:03:41]	Lil Chicken loaded the character 'Jimmy Dexon'
+[12:03:47]	[OOC] Kal'Taar: yes
+[12:03:52]	Jackson Steere has lost 2 tokens.
+[12:03:52]	Jackson Steere has gained a 'Citizen Filter' #24437.
+[12:04:02]	[OOC] Ethan King: I crouch jumped, so I jumped too high, and so I tried to just walk off and strafe onto where I had to.
+[12:04:05]	[OOC] Ethan King: And uh....
+[12:04:08]	[OOC] Ethan King: It didn't go well 
+[12:04:13]	[OOC] Kal'Taar: ppffff
+[12:04:15]	Jimmy Dexon used the 'Shopkeeper' vendor.
+[12:04:17]	[OOC] Kal'Taar: and we were almost here, too
+[12:04:20]	Jimmy Dexon has lost 2 tokens.
+[12:04:20]	Jimmy Dexon has gained a 'Citizen Filter' #24438.
+[12:04:21]	Jimmy Dexon has lost 2 tokens.
+[12:04:21]	Jimmy Dexon has gained a 'Citizen Filter' #24439.
+[12:04:25]	Jimmy Dexon ran 'equip' on item 'Citizen Filter' (#24439)
+[12:04:28]	[OOC] Ethan King: God fucking, whatever, we're gonna roll with it, coming back.
+[12:04:39]	[OOC] Jimmy Dexon: ethan king dies to a table
+[12:04:52]	[OOC] Ethan King: Most important rebel in server history gets PKed from fall damage 
+[12:05:03]	[OOC] Kal'Taar: gets eaten by vorts
+[12:05:11]	[OOC] Ethan King: if you see me, void it./
+[12:05:22]	[OOC] Kal'Taar: Did you tell Kal that your name was King or Ethan?
+[12:05:24]	Dilly_ (STEAM_0:0:52468151) has disconnected.
+[12:05:26]	[OOC] Ethan King: king
+[12:05:38]	[OOC] Kal'Taar: "The King returns from his fumble!"
+[12:05:39]	[LOOC] Ethan King: Void
+[12:06:01]	Ethan King used command '/PM Kal where go'.
+[12:06:16]	Kal'Taar used command '/PM King I'm still up here'.
+[12:06:35]	Ethan King used command '/Reply cool, coming back'.
+[12:06:39]	Ethan King ran 'Equip' on item 'MP7' (#10532)
+[12:06:40]	Ethan King ran 'Equip' on item 'USP Match' (#23809)
+[12:06:40]	Ethan King ran 'Equip' on item 'Combat Knife' (#23517)
+[12:07:18]	Jimmy Dexon ran 'View' on item 'Paper' (#24404)
+[12:08:18]	[LOOC] Ethan King: WHY IS IT LOCKED 
+[12:08:25]	[LOOC] Ethan King: THIS ISN'T SUPPOSED TO BE LOCKED 
+[12:08:28]	[LOOC] Ethan King: I FUCKING HATE CC-
+[12:08:41]	Global Defence Initiative (STEAM_0:0:49504081) has disconnected.
+[12:09:07]	Ethan King ran 'View' on item 'Paper' (#24404)
+[12:09:20]	Kal'Taar ran 'View' on item 'Paper' (#24404)
+[12:10:40]	[LOOC] Ethan King: My knees 
+[12:11:00]	[OOC] Ethan King: afk for a second
+[12:12:16]	[OOC] Ethan King: bacmk 
+[12:12:28]	[LOOC] Ethan King: Vort ERP
+[12:12:39]	Kal'Taar has taken 15 damage from worldspawn.
+[12:12:42]	[OOC] Ethan King: LMAO
+[12:14:10]	Kal'Taar ran 'Eat' on item 'Cooked Headcrab Meat' (#24325)
+[12:15:33]	Jimmy Dexon opened the '' #244 container.
+[12:15:35]	Jimmy Dexon closed the '' #244 container.
+[12:15:57]	Jimmy Dexon opened the '' #2418 container.
+[12:15:59]	Jimmy Dexon closed the '' #2418 container.
+[12:16:23]	[ME] Ethan King: nods, "I trust you, Kal, Vortigaunts are trustworthy...even if I have a rough history with your kind."
+[12:17:33]	[ME] Ethan King: nods, "Yes...however I've also had some...interesting confrontations with Vorts."
+[12:19:18]	[ME] Ethan King: sighs, "Damn...you know more than I expected.."
+[12:19:24]	[Y] Jimmy Dexon: AHHHHHH.
+[12:19:25]	[Y] Jimmy Dexon: AHHHHHH.
+[12:19:28]	[Y] Jimmy Dexon: AHHHHHH.
+[12:19:33]	Jimmy Dexon has taken 15 damage from npc_barnacle.
+[12:19:34]	Jimmy Dexon has taken 15 damage from npc_barnacle.
+[12:19:36]	Jimmy Dexon has taken 15 damage from npc_barnacle.
+[12:19:37]	Jimmy Dexon has taken 15 damage from npc_barnacle.
+[12:19:39]	Jimmy Dexon has taken 62 damage from worldspawn.
+[12:19:39]	worldspawn has killed Jimmy Dexon.
+[12:20:25]	[LOOC] Ethan King: He died to a Barnicle lmao 
+[12:20:38]	[LOOC] Kal'Taar: but its dead
+[12:20:45]	[LOOC] Ethan King: He died to the fall damage 
+[12:20:47]	[LOOC] Ethan King: Amazing 
+[12:20:47]	[LOOC] Kal'Taar: oh wait he fell-
+[12:20:52]	[OOC] Kal'Taar: did you die to a barnacle
+[12:21:00]	[OOC] Jimmy Dexon: NO I KILLED IT AND FELL
+[12:21:03]	[OOC] Ethan King: Get your ass back here, we'll do some RP 
+[12:21:19]	[LOOC] Ethan King: Let's wait, better we get some RP out of this.
+[12:22:10]	[LOOC] Ethan King: Slow mother-
+[12:22:14]	Jimmy Dexon used command '/CharFallOver'.
+[12:22:15]	Jimmy Dexon has taken 50 damage from worldspawn.
+[12:22:35]	[ME] Ethan King: would look over the body, huffing, "Fucking dumbass...."
+[12:22:41]	[ME] Jimmy Dexon: Would let out a groan
+[12:22:46]	[ME] Ethan King: kneels down, inspecting him for any obvious damage.
+[12:23:11]	[ME] Jimmy Dexon: The mans leg looks find he landed on his face
+[12:23:57]	[OOC] Kal'Taar: I dont have my swep-
+[12:24:15]	[ME] Ethan King: simply roll him over, taking off the mans sleeve, taking out a small AI-2 medkit and flicking it open, taking out one of many syringes inside and taking off the cap, injecting the man with all sorts of painkillers.
+[12:24:33]	[ME] Jimmy Dexon: would turn his head seeing a vortigaunts hoof and conscript
+[12:24:40]	Jimmy Dexon used command '/CharGetUp'.
+[12:24:47]	[VORTIGESE] Kal'Taar: We will see if he survives.
+[12:24:48]	Ethan King ran 'drop' on item 'AI-2 Medikit' (#19950)
+[12:24:48]	Ethan King has lost a 'AI-2 Medikit' #19950.
+[12:24:51]	Jimmy Dexon ran 'Apply' on item 'AI-2 Medikit' (#19950)
+[12:25:05]	[ME] Jimmy Dexon: would look up at the vortigaunt and conscript
+[12:26:06]	[VORTIGESE] Kal'Taar: The King is a terrible liar.
+[12:26:09]	[ME] Ethan King: snickered, patting the man on the shoulder, "Right, if you get it, don't say dumb shit, what's your name?"
+[12:26:24]	[LOOC] Jimmy Dexon: Jim*
+[12:26:31]	Jimmy 'Jim' Dexon used command '/SetNickname Jim'.
+[12:27:17]	[LOOC] Ethan King: back 
+[12:28:45]	[ME] Ethan King: chuckled, "Right, fair enough, so a refugee...."
+[12:32:57]	[OOC] Kal'Taar: my game froze up
+[12:33:06]	[OOC] Ethan King: We're in the arcade 
+[12:35:03]	[ME] Ethan King: nods to Kal, "Affirm, Antlions especially..."
+[12:37:13]	[ME] Ethan King: nods, huffing, "Now....Jim, what do you intend on doing in the future? I have made it my duty right now to assist refugees where I can."
+[12:38:20]	[ME] Ethan King: nods, "Don't thank me, I intend to get that back when you find a replacement."
+[12:38:35]	[OOC] Kal'Taar: is there a way I can set my speed so im not constantly jogging
+[12:38:46]	[OOC] Ethan King: Walking speed is fine?
+[12:38:57]	[OOC] Kal'Taar: yeah i just dont want to hold alt all the time
+[12:39:10]	[OOC] Ethan King: I mean, no, talk to Q 
+[12:39:58]	[ME] Ethan King: leans forward, chuckling to himself, "I am aware of such things, destroying the Combine...feels like it's in the realm of possibilities with what I've been through."
+[12:42:05]	[LOOC] Jimmy 'Jim' Dexon: dont you dare go on pandora
+[12:42:10]	[LOOC] Ethan King: I'm going on Pandora 
+[12:42:18]	[OOC] Ethan King: Gonna hop off for a bit, be on later today 
+[12:42:24]	[OOC] Jimmy 'Jim' Dexon: gb
+[12:42:24]	[LOOC] Ethan King: FUck you Chicken 
+[12:42:26]	[LOOC] Jimmy 'Jim' Dexon: fu
+[12:42:27]	FB|| light ROOM (STEAM_0:1:17219621) has disconnected.
+[12:42:48]	Lil Chicken (STEAM_0:0:143523274) has disconnected.
+[12:47:57]	Kal'Taar has taken 2 damage from worldspawn.
+[13:00:28]	Kal'Taar has spawned 'models/mosi/fallout4/props/junk/cementbag.mdl'.
+[13:00:32]	Kal'Taar has spawned 'models/vj_props/duffle_bag.mdl'.
+[13:01:49]	LynxQueen (STEAM_0:1:70540942) has disconnected.
+[13:37:38]	LynxQueen has connected.
+[13:38:37]	LynxQueen (STEAM_0:1:70540942) deleted character 'CAC.C08-CRM.10287'
+[13:38:39]	LynxQueen loaded the character 'Chloe Cullen'
+[13:38:56]	Chloe Cullen ran 'EquipUn' on item 'CWU Commerce Shirt' (#14316)
+[13:38:57]	Chloe Cullen ran 'EquipUn' on item 'Gloves' (#12149)
+[13:38:58]	Chloe Cullen ran 'EquipUn' on item 'Gray Jeans' (#14317)
+[13:39:02]	Chloe Cullen ran 'Equip' on item 'CWU Commerce Shirt' (#14316)
+[13:39:05]	Chloe Cullen ran 'EquipUn' on item 'CWU Commerce Shirt' (#14316)
+[13:39:17]	Chloe Cullen opened the '' #251 container.
+[13:39:20]	Chloe Cullen closed the '' #251 container.
+[13:39:39]	Chloe Cullen ran 'Smoke' on item 'UU Brand Cigarette' (#20270)
+[13:39:40]	Chloe Cullen ran 'Smoke' on item 'UU Brand Cigarette' (#20268)
+[13:39:41]	Chloe Cullen ran 'Smoke' on item 'UU Brand Cigarette' (#20267)
+[13:39:42]	Chloe Cullen ran 'Smoke' on item 'UU Brand Cigarette' (#20265)
+[13:39:43]	Chloe Cullen ran 'Smoke' on item 'UU Brand Cigarette' (#20266)
+[13:39:53]	Chloe Cullen ran 'drop' on item 'Suitcase' (#13040)
+[13:39:53]	Chloe Cullen has lost a 'Suitcase' #13040.
+[13:39:53]	Chloe Cullen has lost a 'Notepad' #13967.
+[13:39:53]	Chloe Cullen has lost a 'Notepad' #13965.
+[13:39:53]	Chloe Cullen has lost a 'UU Brand Cigarette Pack' #20159.
+[13:39:53]	Chloe Cullen has lost a 'Cables' #12954.
+[13:39:53]	Chloe Cullen has lost a 'Cables' #12955.
+[13:40:54]	Chloe Cullen ran 'Equip' on item 'CWU Leadership Suit' (#20162)
+[13:41:03]	Chloe Cullen ran 'EquipUn' on item 'CWU Leadership Suit' (#20162)
+[13:41:07]	Chloe Cullen ran 'drop' on item 'Suitcase' (#19686)
+[13:41:07]	Chloe Cullen has lost a 'Suitcase' #19686.
+[13:41:07]	Chloe Cullen has lost a 'CWU Leadership Suit' #20162.
+[13:41:07]	Chloe Cullen has lost a 'Gray Jeans' #14317.
+[13:41:07]	Chloe Cullen has lost a 'Gloves' #12149.
+[13:41:07]	Chloe Cullen has lost a 'Flashlight' #13723.
+[13:41:07]	Chloe Cullen has lost a 'CWU Commerce Shirt' #14316.
+[13:41:27]	LynxQueen (STEAM_0:1:70540942) deleted character 'Chloe Cullen'
+[13:41:31]	LynxQueen (STEAM_0:1:70540942) deleted character 'OTA.C17-ECHO.OWC.32217'
+[13:41:33]	LynxQueen (STEAM_0:1:70540942) deleted character 'CAC.C17-STK.16919'
+[13:41:36]	LynxQueen (STEAM_0:1:70540942) deleted character 'Crabby'
+[13:41:38]	LynxQueen (STEAM_0:1:70540942) deleted character 'Chummy'
+[13:41:39]	LynxQueen loaded the character 'Merissa 'Scout' Myers'
+[13:41:50]	Merissa 'Scout' Myers ran 'Toggle' on item 'Handheld Radio' (#13992)
+[13:42:22]	Merissa 'Scout' Myers ran 'drop' on item 'Suitcase' (#13039)
+[13:42:22]	Merissa 'Scout' Myers has lost a 'Suitcase' #13039.
+[13:42:22]	Merissa 'Scout' Myers has lost a 'OTA Filter' #10683.
+[13:42:22]	Merissa 'Scout' Myers has lost a 'OTA Filter' #10680.
+[13:42:22]	Merissa 'Scout' Myers has lost a 'Citizen Filter' #13948.
+[13:42:22]	Merissa 'Scout' Myers has lost a 'Citizen Filter' #13949.
+[13:42:22]	Merissa 'Scout' Myers has lost a 'Citizen Filter' #13947.
+[13:42:27]	Merissa 'Scout' Myers ran 'drop' on item 'Suitcase' (#13038)
+[13:42:27]	Merissa 'Scout' Myers has lost a 'Suitcase' #13038.
+[13:42:27]	Merissa 'Scout' Myers has lost a 'Respirator' #19395.
+[13:42:27]	Merissa 'Scout' Myers has lost a 'Flashlight' #13036.
+[13:42:27]	Merissa 'Scout' Myers has lost a 'Notepad' #17310.
+[13:42:27]	Merissa 'Scout' Myers has lost a 'Handheld Radio' #13992.
+[13:42:29]	Merissa 'Scout' Myers ran 'take' on item 'Suitcase' (#13039)
+[13:42:29]	Merissa 'Scout' Myers has gained a 'Suitcase' #13039.
+[13:42:29]	Merissa 'Scout' Myers has gained a 'OTA Filter' #10683.
+[13:42:29]	Merissa 'Scout' Myers has gained a 'OTA Filter' #10680.
+[13:42:29]	Merissa 'Scout' Myers has gained a 'Citizen Filter' #13948.
+[13:42:29]	Merissa 'Scout' Myers has gained a 'Citizen Filter' #13949.
+[13:42:29]	Merissa 'Scout' Myers has gained a 'Citizen Filter' #13947.
+[13:43:16]	Merissa 'Scout' Myers ran 'drop' on item 'Suitcase' (#13031)
+[13:43:16]	Merissa 'Scout' Myers has lost a 'Suitcase' #13031.
+[13:43:16]	Merissa 'Scout' Myers has lost a 'Grenade Body Die Cast' #20276.
+[13:43:28]	Merissa 'Scout' Myers ran 'drop' on item 'Suitcase' (#13039)
+[13:43:28]	Merissa 'Scout' Myers has lost a 'Suitcase' #13039.
+[13:43:28]	Merissa 'Scout' Myers has lost a 'OTA Filter' #10683.
+[13:43:28]	Merissa 'Scout' Myers has lost a 'OTA Filter' #10680.
+[13:43:28]	Merissa 'Scout' Myers has lost a 'Citizen Filter' #13948.
+[13:43:28]	Merissa 'Scout' Myers has lost a 'Citizen Filter' #13949.
+[13:43:28]	Merissa 'Scout' Myers has lost a 'Citizen Filter' #13947.
+[13:43:50]	LynxQueen (STEAM_0:1:70540942) deleted character 'Merissa 'Scout' Myers'
+[13:48:33]	LynxQueen created the character 'Roxanne Roberts'
+[13:48:33]	Roxanne Roberts has gained a 'Conscript Hazmat Armor' #24439.
+[13:48:33]	LynxQueen loaded the character 'Recruit Roxanne Roberts'
+[13:48:37]	Recruit Roxanne Roberts opened the '' #44 container.
+[13:48:39]	Recruit Roxanne Roberts closed the '' #44 container.
+[13:48:42]	Recruit Roxanne Roberts ran 'Equip' on item 'Conscript Hazmat Armor' (#24439)
+[13:48:50]	Recruit Roxanne Roberts opened the '' #43 container.
+[13:48:52]	Recruit Roxanne Roberts closed the '' #43 container.
+[13:58:53]	Lil Chicken has connected.
+[14:01:45]	Lil Chicken loaded the character 'Matthew 'Matt' Miller'
+[14:03:51]	Matthew 'Matt' Miller has spawned 'models/props_debris/metal_panel02a.mdl'.
+[14:04:21]	Matthew 'Matt' Miller has spawned 'models/props_citizen_tech/windmill_blade002a.mdl'.
+[14:04:22]	Matthew 'Matt' Miller has spawned 'models/props_debris/metal_panel02a.mdl'.
+[14:04:24]	Matthew 'Matt' Miller has spawned 'models/props_debris/metal_panel02a.mdl'.
+[14:04:26]	Matthew 'Matt' Miller has spawned 'models/props_debris/metal_panel02a.mdl'.
+[14:23:03]	[OOC] Recruit Roxanne Roberts: E
+[14:29:55]	Seung Shi-eun has gained a 'Cyclopic Citizen Suit' #24440.
+[14:29:55]	Seung Shi-eun has gained a 'Citizen Filter' #24441.
+[14:29:55]	LynxQueen created the character 'Seung Shi-eun'
+[14:29:55]	Seung Shi-eun has gained a 'Suitcase' #24442.
+[14:29:55]	Seung Shi-eun has gained a 'Relocation Coupon' #24443.
+[14:36:51]	LynxQueen created the character 'AWAITING ASSIGNMENT'
+[14:36:56]	LynxQueen loaded the character 'AWAITING ASSIGNMENT'
+[14:38:57]	LynxQueen loaded the character 'Seung Shi-eun'
+[14:39:09]	Seung Shi-eun ran 'Equip' on item 'Cyclopic Citizen Suit' (#24440)
+[14:39:10]	Seung Shi-eun ran 'equip' on item 'Citizen Filter' (#24441)
+[14:39:39]	Matthew 'Matt' Miller has taken 2 damage from Matthew 'Matt' Miller.
+[14:39:48]	LynxQueen loaded the character 'Kal'Taar'
+[14:39:54]	Matthew 'Matt' Miller has taken 2 damage from Matthew 'Matt' Miller.
+[14:40:01]	LynxQueen loaded the character 'CCA.C17-HELIX.i3.67098'
+[14:40:09]	Matthew 'Matt' Miller has taken 2 damage from Matthew 'Matt' Miller.
+[14:40:24]	Matthew 'Matt' Miller has taken 2 damage from Matthew 'Matt' Miller.
+[14:40:26]	CCA.C17-HELIX.i3.67098 ran 'take' on item 'Suitcase' (#749)
+[14:40:26]	CCA.C17-HELIX.i3.67098 has gained a 'Suitcase' #749.
+[14:40:26]	CCA.C17-HELIX.i3.67098 has gained a 'Notepad' #766.
+[14:40:26]	CCA.C17-HELIX.i3.67098 has gained a 'Notepad' #765.
+[14:40:26]	CCA.C17-HELIX.i3.67098 has gained a 'Citizen ID' #755.
+[14:40:27]	CCA.C17-HELIX.i3.67098 opened the '' #203 container.
+[14:40:34]	CCA.C17-HELIX.i3.67098 closed the '' #203 container.
+[14:40:39]	CCA.C17-HELIX.i3.67098 ran 'Edit' on item 'Notepad' (#765)
+[14:40:39]	Matthew 'Matt' Miller has taken 2 damage from Matthew 'Matt' Miller.
+[14:40:42]	CCA.C17-HELIX.i3.67098 ran 'Edit' on item 'Notepad' (#766)
+[14:40:47]	CCA.C17-HELIX.i3.67098 ran 'drop' on item 'Suitcase' (#749)
+[14:40:47]	CCA.C17-HELIX.i3.67098 has lost a 'Suitcase' #749.
+[14:40:47]	CCA.C17-HELIX.i3.67098 has lost a 'Notepad' #766.
+[14:40:47]	CCA.C17-HELIX.i3.67098 has lost a 'Notepad' #765.
+[14:40:47]	CCA.C17-HELIX.i3.67098 has lost a 'Citizen ID' #755.
+[14:40:54]	Matthew 'Matt' Miller has taken 2 damage from Matthew 'Matt' Miller.
+[14:41:09]	Matthew 'Matt' Miller has taken 2 damage from Matthew 'Matt' Miller.
+[14:41:24]	Matthew 'Matt' Miller has taken 2 damage from Matthew 'Matt' Miller.
+[14:41:39]	Matthew 'Matt' Miller has taken 2 damage from Matthew 'Matt' Miller.
+[14:41:54]	Matthew 'Matt' Miller has taken 2 damage from Matthew 'Matt' Miller.
+[14:42:09]	Matthew 'Matt' Miller has taken 2 damage from Matthew 'Matt' Miller.
+[14:42:10]	CCA.C17-HELIX.i3.67098 opened the '' #221 container.
+[14:42:12]	CCA.C17-HELIX.i3.67098 closed the '' #221 container.
+[14:42:25]	Matthew 'Matt' Miller has taken 2 damage from Matthew 'Matt' Miller.
+[14:42:40]	Matthew 'Matt' Miller has taken 2 damage from Matthew 'Matt' Miller.
+[14:42:55]	Matthew 'Matt' Miller has taken 2 damage from Matthew 'Matt' Miller.
+[14:43:10]	Matthew 'Matt' Miller has taken 2 damage from Matthew 'Matt' Miller.
+[14:43:25]	Matthew 'Matt' Miller has taken 2 damage from Matthew 'Matt' Miller.
+[14:43:40]	Matthew 'Matt' Miller has taken 2 damage from Matthew 'Matt' Miller.
+[14:43:48]	CCA.C17-HELIX.i3.67098 ran 'take' on item 'AI-2 Medikit' (#23952)
+[14:43:48]	CCA.C17-HELIX.i3.67098 has gained a 'AI-2 Medikit' #23952.
+[14:43:53]	CCA.C17-HELIX.i3.67098 ran 'take' on item '4.6x30 Rounds' (#24228)
+[14:43:53]	CCA.C17-HELIX.i3.67098 has gained a '4.6x30 Rounds' #24228.
+[14:43:55]	Matthew 'Matt' Miller has taken 2 damage from Matthew 'Matt' Miller.
+[14:43:56]	CCA.C17-HELIX.i3.67098 ran 'drop' on item '4.6x30 Rounds' (#24228)
+[14:43:56]	CCA.C17-HELIX.i3.67098 has lost a '4.6x30 Rounds' #24228.
+[14:44:10]	Matthew 'Matt' Miller has taken 2 damage from Matthew 'Matt' Miller.
+[14:44:12]	CCA.C17-HELIX.i3.67098 ran 'take' on item 'Zip Tie' (#4767)
+[14:44:12]	CCA.C17-HELIX.i3.67098 has gained a 'Zip Tie' #4767.
+[14:44:20]	CCA.C17-HELIX.i3.67098 ran 'take' on item 'Zip Tie' (#4772)
+[14:44:20]	CCA.C17-HELIX.i3.67098 has gained a 'Zip Tie' #4772.
+[14:44:25]	Matthew 'Matt' Miller has taken 2 damage from Matthew 'Matt' Miller.
+[14:44:40]	Matthew 'Matt' Miller has taken 2 damage from Matthew 'Matt' Miller.
+[14:44:55]	Matthew 'Matt' Miller has taken 2 damage from Matthew 'Matt' Miller.
+[14:45:01]	CCA.C17-HELIX.i3.67098 has gained 10 tokens.
+[14:45:10]	Matthew 'Matt' Miller has taken 2 damage from Matthew 'Matt' Miller.
+[14:45:25]	Matthew 'Matt' Miller has taken 2 damage from Matthew 'Matt' Miller.
+[14:45:40]	Matthew 'Matt' Miller has taken 2 damage from Matthew 'Matt' Miller.
+[14:45:55]	Matthew 'Matt' Miller has taken 2 damage from Matthew 'Matt' Miller.
+[14:46:10]	Matthew 'Matt' Miller has taken 2 damage from Matthew 'Matt' Miller.
+[14:46:25]	Matthew 'Matt' Miller has taken 2 damage from Matthew 'Matt' Miller.
+[14:46:40]	Matthew 'Matt' Miller has taken 2 damage from Matthew 'Matt' Miller.
+[14:46:55]	Matthew 'Matt' Miller has taken 2 damage from Matthew 'Matt' Miller.
+[14:47:10]	Matthew 'Matt' Miller has taken 2 damage from Matthew 'Matt' Miller.
+[14:47:25]	Matthew 'Matt' Miller has taken 2 damage from Matthew 'Matt' Miller.
+[14:47:40]	Matthew 'Matt' Miller has taken 2 damage from Matthew 'Matt' Miller.
+[14:47:55]	Matthew 'Matt' Miller has taken 2 damage from Matthew 'Matt' Miller.
+[14:48:10]	Matthew 'Matt' Miller has taken 2 damage from Matthew 'Matt' Miller.
+[14:48:25]	Matthew 'Matt' Miller has taken 2 damage from Matthew 'Matt' Miller.
+[14:48:40]	Matthew 'Matt' Miller has taken 2 damage from Matthew 'Matt' Miller.
+[14:48:55]	Matthew 'Matt' Miller has taken 2 damage from Matthew 'Matt' Miller.
+[14:49:10]	Matthew 'Matt' Miller has taken 2 damage from Matthew 'Matt' Miller.
+[14:49:19]	CCA.C17-HELIX.i3.67098 ran 'take' on item 'Bar of Soap' (#24056)
+[14:49:19]	CCA.C17-HELIX.i3.67098 has gained a 'Bar of Soap' #24056.
+[14:49:25]	CCA.C17-HELIX.i3.67098 ran 'drop' on item 'Bar of Soap' (#24056)
+[14:49:25]	CCA.C17-HELIX.i3.67098 has lost a 'Bar of Soap' #24056.
+[14:49:25]	Matthew 'Matt' Miller has taken 2 damage from Matthew 'Matt' Miller.
+[14:49:40]	Matthew 'Matt' Miller has taken 2 damage from Matthew 'Matt' Miller.
+[14:49:55]	Matthew 'Matt' Miller has taken 2 damage from Matthew 'Matt' Miller.
+[14:50:01]	CCA.C17-HELIX.i3.67098 has gained 10 tokens.
+[14:50:10]	Matthew 'Matt' Miller has taken 2 damage from Matthew 'Matt' Miller.
+[14:50:25]	Matthew 'Matt' Miller has taken 2 damage from Matthew 'Matt' Miller.
+[14:50:41]	Matthew 'Matt' Miller has taken 2 damage from Matthew 'Matt' Miller.
+[14:50:56]	Matthew 'Matt' Miller has taken 2 damage from Matthew 'Matt' Miller.
+[14:51:11]	Matthew 'Matt' Miller has taken 2 damage from Matthew 'Matt' Miller.
+[14:51:26]	Matthew 'Matt' Miller has taken 2 damage from Matthew 'Matt' Miller.
+[14:51:41]	Matthew 'Matt' Miller has taken 2 damage from Matthew 'Matt' Miller.
+[14:51:56]	Matthew 'Matt' Miller has taken 2 damage from Matthew 'Matt' Miller.
+[14:52:11]	Matthew 'Matt' Miller has taken 2 damage from Matthew 'Matt' Miller.
+[14:52:26]	Matthew 'Matt' Miller has taken 2 damage from Matthew 'Matt' Miller.
+[14:52:41]	Matthew 'Matt' Miller has taken 2 damage from Matthew 'Matt' Miller.
+[14:52:48]	CCA.C17-HELIX.i3.67098 used command '/kickdoor'.
+[14:52:56]	Matthew 'Matt' Miller has taken 2 damage from Matthew 'Matt' Miller.
+[14:53:11]	Matthew 'Matt' Miller has taken 2 damage from Matthew 'Matt' Miller.
+[14:53:18]	CCA.C17-HELIX.i3.67098 used command '/kickdoor'.
+[14:53:26]	Matthew 'Matt' Miller has taken 2 damage from Matthew 'Matt' Miller.
+[14:53:41]	Matthew 'Matt' Miller has taken 2 damage from Matthew 'Matt' Miller.
+[14:53:56]	Matthew 'Matt' Miller has taken 2 damage from Matthew 'Matt' Miller.
+[14:54:11]	Matthew 'Matt' Miller has taken 2 damage from Matthew 'Matt' Miller.
+[14:54:25]	CCA.C17-HELIX.i3.67098 used command '/kickdoor'.
+[14:54:26]	Matthew 'Matt' Miller has taken 2 damage from Matthew 'Matt' Miller.
+[14:54:41]	Matthew 'Matt' Miller has taken 2 damage from Matthew 'Matt' Miller.
+[14:54:56]	Matthew 'Matt' Miller has taken 2 damage from Matthew 'Matt' Miller.
+[14:55:01]	CCA.C17-HELIX.i3.67098 has gained 10 tokens.
+[14:55:08]	LynxQueen (STEAM_0:1:70540942) has disconnected.
+[14:55:11]	Matthew 'Matt' Miller has taken 2 damage from Matthew 'Matt' Miller.
+[14:55:26]	Matthew 'Matt' Miller has taken 2 damage from Matthew 'Matt' Miller.
+[14:55:41]	Matthew 'Matt' Miller has taken 2 damage from Matthew 'Matt' Miller.
+[14:55:56]	Matthew 'Matt' Miller has taken 2 damage from Matthew 'Matt' Miller.
+[14:56:11]	Matthew 'Matt' Miller has taken 2 damage from Matthew 'Matt' Miller.
+[14:56:11]	Matthew 'Matt' Miller has killed Matthew 'Matt' Miller.
+[15:03:00]	Lil Chicken (STEAM_0:0:143523274) has disconnected.
+[16:53:00]	Global Defence Initiative has connected.
+[16:53:52]	Global Defence Initiative loaded the character 'Robbert Garth'
+[16:54:00]	Robbert Garth opened the '' #245 container.
+[16:54:04]	Robbert Garth closed the '' #245 container.
+[16:54:12]	Global Defence Initiative (STEAM_0:0:49504081) has disconnected.
+[18:39:25]	Global Defence Initiative has connected.
+[18:40:04]	Global Defence Initiative loaded the character 'Robbert Garth'
+[18:40:21]	Robbert Garth opened the '' #245 container.
+[18:40:23]	Robbert Garth closed the '' #245 container.
+[18:40:28]	Robbert Garth ran 'drop' on item 'Scrap Metal' (#24434)
+[18:40:28]	Robbert Garth has lost a 'Scrap Metal' #24434.
+[18:40:32]	Robbert Garth ran 'drop' on item 'Blue Pre-War Shirt' (#24423)
+[18:40:32]	Robbert Garth has lost a 'Blue Pre-War Shirt' #24423.
+[18:40:40]	Robbert Garth ran 'drop' on item 'AA Battery' (#24435)
+[18:40:40]	Robbert Garth has lost a 'AA Battery' #24435.
+[18:40:44]	Robbert Garth ran 'drop' on item 'AA Battery' (#24426)
+[18:40:44]	Robbert Garth has lost a 'AA Battery' #24426.
+[18:41:14]	Robbert Garth ran 'drop' on item 'Cloth Scrap' (#24432)
+[18:41:14]	Robbert Garth has lost a 'Cloth Scrap' #24432.
+[18:41:15]	Robbert Garth ran 'drop' on item 'Cloth Scrap' (#24433)
+[18:41:15]	Robbert Garth has lost a 'Cloth Scrap' #24433.
+[18:41:31]	Robbert Garth ran 'drop' on item 'Rusty Can' (#23999)
+[18:41:31]	Robbert Garth has lost a 'Rusty Can' #23999.
+[18:41:33]	Robbert Garth ran 'drop' on item 'Empty Paint Can' (#24430)
+[18:41:33]	Robbert Garth has lost a 'Empty Paint Can' #24430.
+[18:44:37]	Robbert Garth used command '/CharFallOver'.
+[18:44:40]	Robbert Garth used command '/CharGetUp'.
+[18:44:41]	Robbert Garth used command '/CharGetUp'.
+[18:44:42]	Robbert Garth used command '/CharGetUp'.
+[18:44:42]	Robbert Garth used command '/CharGetUp'.
+[18:45:03]	Robbert Garth used command '/CharFallOver'.
+[18:45:14]	Robbert Garth used command '/CharGetUp'.
+[18:45:28]	Robbert Garth used command '/CharFallOver'.
+[18:45:29]	Robbert Garth used command '/CharGetUp'.
+[18:45:30]	Robbert Garth used command '/CharGetUp'.
+[18:45:31]	Robbert Garth used command '/CharGetUp'.
+[18:45:31]	Robbert Garth used command '/CharGetUp'.
+[18:45:32]	Robbert Garth used command '/CharGetUp'.
+[18:45:32]	Robbert Garth used command '/CharGetUp'.
+[18:45:33]	Robbert Garth used command '/CharGetUp'.
+[18:45:33]	Robbert Garth used command '/CharGetUp'.
+[18:45:34]	Robbert Garth used command '/CharGetUp'.
+[18:45:35]	Robbert Garth used command '/CharGetUp'.
+[18:45:35]	Robbert Garth used command '/CharGetUp'.
+[18:45:36]	Robbert Garth used command '/CharGetUp'.
+[18:45:36]	Robbert Garth used command '/CharGetUp'.
+[18:45:37]	Robbert Garth used command '/CharGetUp'.
+[18:45:38]	Robbert Garth used command '/CharGetUp'.
+[18:45:38]	Robbert Garth used command '/CharGetUp'.
+[18:45:43]	Robbert Garth used command '/CharFallOver'.
+[18:45:44]	Robbert Garth used command '/CharGetUp'.
+[18:45:44]	Robbert Garth used command '/CharGetUp'.
+[18:45:45]	Robbert Garth used command '/CharGetUp'.
+[18:45:45]	Robbert Garth used command '/CharGetUp'.
+[18:45:46]	Robbert Garth used command '/CharGetUp'.
+[18:45:47]	Robbert Garth used command '/CharGetUp'.
+[18:45:47]	Robbert Garth used command '/CharGetUp'.
+[18:45:48]	Robbert Garth used command '/CharGetUp'.
+[18:45:57]	Robbert Garth used command '/CharFallOver'.
+[18:46:00]	Robbert Garth used command '/CharGetUp'.
+[18:46:00]	Robbert Garth used command '/CharGetUp'.
+[18:46:01]	Robbert Garth used command '/CharGetUp'.
+[18:46:02]	Robbert Garth used command '/CharGetUp'.
+[18:46:02]	Robbert Garth used command '/CharGetUp'.
+[18:46:03]	Robbert Garth used command '/CharGetUp'.
+[18:46:05]	Robbert Garth used command '/CharGetUp'.
+[18:46:06]	Robbert Garth used command '/CharGetUp'.
+[18:46:07]	Robbert Garth used command '/CharGetUp'.
+[18:46:07]	Robbert Garth used command '/CharGetUp'.
+[18:46:21]	Robbert Garth used command '/CharFallOver'.
+[18:46:31]	Robbert Garth used command '/CharGetUp'.
+[18:47:29]	Robbert Garth used command '/CharFallOver'.
+[18:47:30]	Robbert Garth used command '/CharGetUp'.
+[18:47:31]	Robbert Garth used command '/CharGetUp'.
+[18:47:32]	Robbert Garth used command '/CharGetUp'.
+[18:47:32]	Robbert Garth used command '/CharGetUp'.
+[18:47:34]	Robbert Garth used command '/CharGetUp'.
+[18:47:34]	Robbert Garth used command '/CharGetUp'.
+[18:54:14]	Dilly_ has connected.
+[18:55:16]	Dilly_ loaded the character 'Jackson Steere'
+[18:55:28]	[OOC] Jackson Steere: the time is
+[18:55:33]	[OOC] Robbert Garth: blackmesa
+[18:55:51]	[OOC] Robbert Garth: blackmesa
+[18:55:53]	[OOC] Jackson Steere: if an admin doesn't come on all my shit is gonna yeet
+[18:56:02]	Robbert Garth opened the '' #239 container.
+[18:56:04]	Robbert Garth closed the '' #239 container.
+[18:56:42]	Robbert Garth opened the '' #240 container.
+[18:56:43]	Robbert Garth closed the '' #240 container.
+[18:57:48]	Robbert Garth opened the '' #240 container.
+[18:57:49]	Robbert Garth closed the '' #240 container.
+[18:58:02]	Robbert Garth used command '/CharFallOver'.
+[18:58:04]	Robbert Garth used command '/CharGetUp'.
+[18:58:05]	Robbert Garth used command '/CharGetUp'.
+[18:58:06]	Robbert Garth used command '/CharGetUp'.
+[18:58:07]	Robbert Garth used command '/CharGetUp'.
+[18:58:08]	Robbert Garth used command '/CharGetUp'.
+[18:59:42]	Dilly_ loaded the character 'OTA.C08-ECHO:OWS.69173'
+[19:00:09]	Robbert Garth ran 'take' on item 'AA Battery' (#24426)
+[19:00:09]	Robbert Garth has gained a 'AA Battery' #24426.
+[19:00:13]	Robbert Garth ran 'take' on item 'Scrap Metal' (#24434)
+[19:00:13]	Robbert Garth has gained a 'Scrap Metal' #24434.
+[19:00:25]	Robbert Garth ran 'take' on item 'AA Battery' (#24435)
+[19:00:25]	Robbert Garth has gained a 'AA Battery' #24435.
+[19:00:33]	[OOC] Robbert Garth: Thank
+[19:00:35]	Global Defence Initiative (STEAM_0:0:49504081) has disconnected.
+[19:01:19]	Dilly_ loaded the character 'Jackson Steere'
+[19:08:30]	Dilly_ (STEAM_0:0:52468151) has disconnected.
+[20:16:04]	Dilly_ has connected.
+[20:17:09]	Dilly_ loaded the character 'Crimson'
+[20:19:30]	Dilly_ loaded the character 'CCA.C17-UNION.i1.93347'
+[20:20:26]	Dilly_ loaded the character 'Crimson'
+[20:21:47]	Dilly_ loaded the character 'CCA.C17-UNION.i1.93347'
+[20:22:46]	Dilly_ loaded the character 'Crimson'
+[20:36:48]	Dilly_ (STEAM_0:0:52468151) has disconnected.
+[20:56:12]	Mr.Ganar has connected.
+[20:56:48]	Mr.Ganar (STEAM_0:0:80909581) has disconnected.
+[22:24:53]	Bean has connected.
+[22:25:28]	Bean loaded the character 'Alex Palovichov'
+[22:25:34]	Alex Palovichov ran 'EquipUn' on item 'CWU Leadership Suit' (#24097)
+[22:25:34]	Alex Palovichov ran 'Equip' on item 'CWU Leadership Suit' (#24097)
+[22:28:42]	Alex Palovichov opened the '' #2395 container.
+[22:28:46]	Alex Palovichov ran 'drop' on item 'Blue Pre-War Shirt' (#23961)
+[22:28:46]	Alex Palovichov has lost a 'Blue Pre-War Shirt' #23961.
+[22:28:48]	Alex Palovichov closed the '' #2395 container.
+[22:28:50]	Alex Palovichov ran 'take' on item 'Blue Pre-War Shirt' (#23961)
+[22:28:50]	Alex Palovichov has gained a 'Blue Pre-War Shirt' #23961.
+[22:28:53]	Alex Palovichov opened the '' #2395 container.
+[22:29:03]	Alex Palovichov closed the '' #2395 container.
+[22:29:29]	Alex Palovichov ran 'drop' on item 'Raw Headcrab Meat' (#24352)
+[22:29:29]	Alex Palovichov has lost a 'Raw Headcrab Meat' #24352.
+[22:29:31]	Alex Palovichov ran 'combine' on item 'Documents Case' (#24098)
+[22:29:32]	Alex Palovichov ran 'combine' on item 'Documents Case' (#24098)
+[22:29:56]	Alex Palovichov ran 'combine' on item 'Suitcase' (#21316)
+[22:29:57]	Alex Palovichov ran 'combine' on item 'Suitcase' (#21316)
+[22:30:01]	Alex Palovichov ran 'combine' on item 'Suitcase' (#21316)
+[22:37:13]	Alex Palovichov opened the '' #2387 container.
+[22:37:15]	Alex Palovichov closed the '' #2387 container.
+[22:38:08]	Alex Palovichov opened the '' #2395 container.
+[22:38:11]	Alex Palovichov closed the '' #2395 container.
+[22:38:25]	Alex Palovichov opened the '' #2395 container.
+[22:38:28]	Alex Palovichov closed the '' #2395 container.
+[22:38:32]	Alex Palovichov ran 'View' on item 'Notepad' (#24083)
+[22:38:36]	Alex Palovichov ran 'View' on item 'Notepad' (#24314)
+[22:39:24]	Alex Palovichov used the 'Shopkeeper' vendor.
+[22:39:31]	Alex Palovichov has lost 3 tokens.
+[22:39:31]	Alex Palovichov has gained a 'UU Brand Chips' #24444.
+[22:39:34]	Alex Palovichov has lost 2 tokens.
+[22:39:34]	Alex Palovichov has gained a 'Notepad' #24445.
+[22:39:40]	Alex Palovichov ran 'Edit' on item 'Notepad' (#24445)
+[22:40:38]	Alex Palovichov ran 'Consume' on item 'UU Brand Chips' (#24444)
+[22:40:46]	Alex Palovichov has lost 5 tokens.
+[22:40:50]	Alex Palovichov ran 'Consume' on item 'Consulate Water' (#24446)
+[22:42:43]	Alex Palovichov ran 'Edit' on item 'Notepad' (#24445)
+[22:47:04]	Alex Palovichov ran 'Edit' on item 'Notepad' (#24445)
+[22:47:13]	Alex Palovichov ran 'Edit' on item 'Notepad' (#24445)
+[22:47:22]	Alex Palovichov ran 'View' on item 'Notepad' (#24445)
+[22:47:25]	Alex Palovichov ran 'Edit' on item 'Notepad' (#24445)
+[22:47:40]	Alex Palovichov ran 'View' on item 'Notepad' (#24445)
+[22:47:44]	Alex Palovichov ran 'Edit' on item 'Notepad' (#24445)
+[22:48:04]	Alex Palovichov ran 'View' on item 'Notepad' (#24445)
+[22:48:08]	Alex Palovichov ran 'Edit' on item 'Notepad' (#24445)
+[22:48:27]	Alex Palovichov ran 'View' on item 'Notepad' (#24445)
+[22:48:32]	Alex Palovichov ran 'Edit' on item 'Notepad' (#24445)
+[22:48:37]	Alex Palovichov ran 'View' on item 'Notepad' (#24445)
+[22:49:22]	Bean (STEAM_0:1:591779303) has disconnected.
+[23:34:11]	LynxQueen has connected.
+[23:35:37]	LynxQueen loaded the character 'CCA.C17-HELIX.i3.67098'
+[23:36:38]	CCA.C17-HELIX.i3.67098 used the 'Ration Dispenser' vendor.
+[23:36:42]	CCA.C17-HELIX.i3.67098 has gained 0 tokens.
+[23:36:42]	CCA.C17-HELIX.i3.67098 has gained a 'Loyalist Grade Ration' #24447.
+[23:36:48]	CCA.C17-HELIX.i3.67098 ran 'Open' on item 'Loyalist Grade Ration' (#24447)
+[23:36:48]	CCA.C17-HELIX.i3.67098 has gained a 'Loyalist Grade Food Product' #24448.
+[23:36:48]	CCA.C17-HELIX.i3.67098 has gained a 'Loyalist Grade Supplements' #24449.
+[23:36:48]	CCA.C17-HELIX.i3.67098 has gained a 'Flavored Consulate Water' #24450.
+[23:36:52]	CCA.C17-HELIX.i3.67098 ran 'Consume' on item 'Loyalist Grade Food Product' (#24448)
+[23:36:56]	CCA.C17-HELIX.i3.67098 ran 'Consume' on item 'Loyalist Grade Supplements' (#24449)
+[23:36:59]	CCA.C17-HELIX.i3.67098 ran 'Consume' on item 'Flavored Consulate Water' (#24450)
+[23:37:02]	CCA.C17-HELIX.i3.67098 used the 'Ration Dispenser' vendor.
+[23:37:04]	CCA.C17-HELIX.i3.67098 has gained 0 tokens.
+[23:37:04]	CCA.C17-HELIX.i3.67098 has gained a 'Loyalist Grade Ration' #24447.
+[23:37:10]	CCA.C17-HELIX.i3.67098 ran 'Open' on item 'Loyalist Grade Ration' (#24447)
+[23:37:10]	CCA.C17-HELIX.i3.67098 has gained a 'Loyalist Grade Food Product' #24448.
+[23:37:10]	CCA.C17-HELIX.i3.67098 has gained a 'Loyalist Grade Supplements' #24449.
+[23:37:10]	CCA.C17-HELIX.i3.67098 has gained a 'Flavored Consulate Water' #24450.
+[23:37:12]	CCA.C17-HELIX.i3.67098 ran 'Consume' on item 'Loyalist Grade Food Product' (#24448)
+[23:37:13]	CCA.C17-HELIX.i3.67098 ran 'Consume' on item 'Loyalist Grade Supplements' (#24449)
+[23:37:16]	CCA.C17-HELIX.i3.67098 ran 'Consume' on item 'Flavored Consulate Water' (#24450)
+[23:37:17]	CCA.C17-HELIX.i3.67098 used the 'Ration Dispenser' vendor.
+[23:37:20]	CCA.C17-HELIX.i3.67098 has gained 0 tokens.
+[23:37:20]	CCA.C17-HELIX.i3.67098 has gained a 'Biotic Grade Ration' #24447.
+[23:37:24]	CCA.C17-HELIX.i3.67098 ran 'Open' on item 'Biotic Grade Ration' (#24447)
+[23:37:24]	CCA.C17-HELIX.i3.67098 has gained a 'Biotic Grade Food' #24448.
+[23:37:24]	CCA.C17-HELIX.i3.67098 has gained a 'Biotic Grade Supplements' #24449.
+[23:37:24]	CCA.C17-HELIX.i3.67098 has gained a 'Biotic Grade Beverage' #24450.
+[23:37:31]	CCA.C17-HELIX.i3.67098 ran 'Drink' on item 'Biotic Grade Beverage' (#24450)
+[23:37:33]	CCA.C17-HELIX.i3.67098 ran 'Eat' on item 'Biotic Grade Food' (#24448)
+[23:37:34]	CCA.C17-HELIX.i3.67098 ran 'Eat' on item 'Biotic Grade Supplements' (#24449)
+[23:39:37]	CCA.C17-HELIX.i3.67098 used the 'Shopkeeper' vendor.
+[23:40:02]	CCA.C17-HELIX.i3.67098 opened the '' #252 container.
+[23:40:04]	CCA.C17-HELIX.i3.67098 closed the '' #252 container.
+[23:40:37]	CCA.C17-HELIX.i3.67098 has gained 10 tokens.
+[23:40:45]	CCA.C17-HELIX.i3.67098 ran 'View' on item 'Paper' (#23948)
+[23:40:55]	CCA.C17-HELIX.i3.67098 opened the '' #237 container.
+[23:41:01]	CCA.C17-HELIX.i3.67098 has given 500 tokens to '' #237 (500 tokens left).
+[23:41:03]	CCA.C17-HELIX.i3.67098 closed the '' #237 container.
+[23:42:51]	CCA.C17-HELIX.i3.67098 ran 'Apply' on item 'AI-2 Medikit' (#23952)
+[23:50:37]	CCA.C17-HELIX.i3.67098 has gained 10 tokens.
+[23:50:55]	LynxQueen (STEAM_0:1:70540942) has disconnected.
+[23:51:00]	thirdeye.karl has connected.
+[23:51:23]	thirdeye.karl loaded the character 'Pecka'
+[23:52:42]	Pecka used the 'Shopkeeper' vendor.
+[23:53:09]	Pecka opened the '' #308 container.
+[23:53:15]	Pecka has given 30 tokens to '' #308 (30 tokens left).
+[23:53:18]	Pecka has taken 30 tokens from '' #308 (0 tokens left).
+[23:53:20]	Pecka closed the '' #308 container.
+[23:53:32]	thirdeye.karl loaded the character 'Fedcrab'
+[23:54:19]	Mr.Ganar has connected.
+[23:54:21]	thirdeye.karl created the character 'yeeee'
+[23:54:28]	thirdeye.karl loaded the character 'yeeee'
+[23:54:50]	yeeee opened the '' #308 container.
+[23:54:54]	yeeee has given 35 tokens to '' #308 (35 tokens left).
+[23:54:56]	yeeee closed the '' #308 container.
+[23:55:02]	thirdeye.karl loaded the character 'Pecka'
+[23:55:09]	Pecka opened the '' #2374 container.
+[23:55:09]	Pecka closed the '' #2374 container.
+[23:55:11]	Pecka opened the '' #2374 container.
+[23:55:14]	Pecka closed the '' #2374 container.
+[23:55:19]	Pecka opened the '' #308 container.
+[23:55:25]	Pecka has taken 35 tokens from '' #308 (0 tokens left).
+[23:55:27]	Pecka closed the '' #308 container.
+[23:55:35]	thirdeye.karl (STEAM_0:1:70789676) deleted character 'yeeee'
+[23:56:06]	thirdeye.karl created the character 'Bird'
+[23:56:09]	thirdeye.karl loaded the character 'Bird'
+[23:56:32]	Bird opened the '' #308 container.
+[23:56:36]	Bird has given 35 tokens to '' #308 (35 tokens left).
+[23:56:38]	Bird closed the '' #308 container.
+[23:56:44]	thirdeye.karl (STEAM_0:1:70789676) deleted character 'Bird'
+[23:56:45]	thirdeye.karl loaded the character 'Pecka'
+[23:56:47]	Pecka opened the '' #308 container.
+[23:56:50]	Pecka has taken 35 tokens from '' #308 (0 tokens left).
+[23:56:52]	Pecka closed the '' #308 container.
+[23:56:58]	thirdeye.karl loaded the character 'Karlos Wilsono'
+[23:57:18]	Mr.Ganar (STEAM_0:0:80909581) has disconnected.
+[23:57:48]	Bean has connected.
+[23:57:52]	Karlos Wilsono opened the '' #308 container.
+[23:57:56]	Karlos Wilsono closed the '' #308 container.
+[23:58:02]	thirdeye.karl loaded the character 'Pecka'
+[23:58:04]	Pecka opened the '' #308 container.
+[23:58:08]	Pecka has given 105 tokens to '' #308 (105 tokens left).
+[23:58:10]	Pecka closed the '' #308 container.
+[23:58:10]	Bean loaded the character 'Alex Palovichov'
+[23:58:13]	Alex Palovichov ran 'EquipUn' on item 'CWU Leadership Suit' (#24097)
+[23:58:14]	Alex Palovichov ran 'Equip' on item 'CWU Leadership Suit' (#24097)
+[23:58:16]	thirdeye.karl loaded the character 'Karlos Wilsono'
+[23:58:17]	Karlos Wilsono opened the '' #308 container.
+[23:58:22]	Karlos Wilsono has taken 105 tokens from '' #308 (0 tokens left).
+[23:58:24]	Karlos Wilsono closed the '' #308 container.
+[23:58:38]	thirdeye.karl loaded the character 'Fedcrab'
+[23:58:49]	[OOC] Fedcrab: Heya bean.
+[23:58:53]	[OOC] Alex Palovichov: Heya
+[23:59:11]	Alex Palovichov ran 'combine' on item 'Documents Case' (#24098)
+[23:59:40]	thirdeye.karl created the character 'Bird'
+[23:59:43]	thirdeye.karl loaded the character 'Bird'

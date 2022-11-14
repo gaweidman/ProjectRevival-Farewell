@@ -1,0 +1,2299 @@
+[00:04:03]	Bean has connected.
+[00:04:23]	Bean loaded the character 'CCA.C17-UNION.i5.83253'
+[00:04:29]	CCA.C17-UNION.i5.83253 entered observer.
+[00:04:40]	CCA.C17-UNION.i5.83253 has spawned a 'NPC [2504][npc_zombine]'.
+[00:04:54]	CCA.C17-UNION.i5.83253 destroyed a '12-Gauge Shells' #31739.
+[00:05:22]	CCA.C17-UNION.i5.83253 ran 'use' on item '9mm Pistol Magazine' (#31660)
+[00:05:22]	CCA.C17-UNION.i5.83253 ran 'use' on item '9mm Pistol Magazine' (#31656)
+[00:05:32]	CCA.C17-UNION.i5.83253 exited observer at their location.
+[00:05:35]	CCA.C17-UNION.i5.83253 ran 'use' on item '9mm Pistol Magazine' (#31661)
+[00:05:35]	CCA.C17-UNION.i5.83253 ran 'use' on item '9mm Pistol Magazine' (#31659)
+[00:05:36]	CCA.C17-UNION.i5.83253 ran 'use' on item '9mm Pistol Magazine' (#31658)
+[00:05:43]	Bean loaded the character 'Daniel J. Cutter'
+[00:06:13]	Daniel J. Cutter entered observer.
+[00:06:23]	Daniel J. Cutter has spawned a 'NPC [2504][npc_headcrab]'.
+[00:06:26]	Daniel J. Cutter exited observer at their location.
+[00:06:35]	Daniel J. Cutter ran 'Equip' on item 'Axe' (#31613)
+[00:08:11]	Daniel J. Cutter entered observer.
+[00:08:13]	Daniel J. Cutter exited observer at their location.
+[00:08:21]	Daniel J. Cutter has gained a 'Empty Milk Gallon' #31739.
+[00:08:24]	Daniel J. Cutter has gained a 'Scrap Plastic' #31739.
+[00:08:29]	Daniel J. Cutter ran 'take' on item 'Empty Flavored Consulate Water Can' (#31398)
+[00:08:29]	Daniel J. Cutter has gained a 'Empty Flavored Consulate Water Can' #31398.
+[00:08:33]	Daniel J. Cutter has gained a 'Scrap Metal' #31740.
+[00:08:53]	Daniel J. Cutter has gained a 'Empty Pill Bottle' #31741.
+[00:08:57]	Daniel J. Cutter ran 'drop' on item 'Empty Pill Bottle' (#31741)
+[00:08:57]	Daniel J. Cutter has lost a 'Empty Pill Bottle' #31741.
+[00:09:00]	Daniel J. Cutter ran 'take' on item 'Empty Bleach Bottle' (#31343)
+[00:09:00]	Daniel J. Cutter has gained a 'Empty Bleach Bottle' #31343.
+[00:09:04]	Daniel J. Cutter ran 'drop' on item 'Empty Bleach Bottle' (#31343)
+[00:09:04]	Daniel J. Cutter has lost a 'Empty Bleach Bottle' #31343.
+[00:09:12]	Daniel J. Cutter ran 'take' on item 'Empty Chinese Takeout' (#31495)
+[00:09:12]	Daniel J. Cutter has gained a 'Empty Chinese Takeout' #31495.
+[00:09:14]	Daniel J. Cutter ran 'drop' on item 'Empty Chinese Takeout' (#31495)
+[00:09:14]	Daniel J. Cutter has lost a 'Empty Chinese Takeout' #31495.
+[00:09:19]	Daniel J. Cutter entered observer.
+[00:10:08]	Daniel J. Cutter ran 'take' on item 'Pulse Ammunition' (#31742)
+[00:10:08]	Daniel J. Cutter has gained a 'Pulse Ammunition' #31742.
+[00:10:10]	Daniel J. Cutter entered observer.
+[00:10:11]	Daniel J. Cutter exited observer at their location.
+[00:10:18]	Daniel J. Cutter ran 'EquipUn' on item 'Axe' (#31613)
+[00:10:27]	Daniel J. Cutter ran 'Equip' on item 'Crowbar' (#31301)
+[00:10:29]	Daniel J. Cutter has taken 5 damage from npc_headcrab.
+[00:11:24]	Daniel J. Cutter has taken 5 damage from npc_headcrab_fast.
+[00:11:29]	Daniel J. Cutter has taken 10 damage from npc_poisonzombie.
+[00:11:36]	Daniel J. Cutter has gained 20 tokens.
+[00:11:40]	Daniel J. Cutter has taken 5 damage from npc_headcrab.
+[00:11:42]	Daniel J. Cutter has gained a 'Broken LCD Monitor' #31745.
+[00:11:47]	Daniel J. Cutter ran 'drop' on item 'Broken LCD Monitor' (#31745)
+[00:11:47]	Daniel J. Cutter has lost a 'Broken LCD Monitor' #31745.
+[00:12:38]	Daniel J. Cutter ran 'take' on item 'Bleach' (#31336)
+[00:12:38]	Daniel J. Cutter has gained a 'Bleach' #31336.
+[00:12:42]	Daniel J. Cutter ran 'drop' on item 'Bleach' (#31336)
+[00:12:42]	Daniel J. Cutter has lost a 'Bleach' #31336.
+[00:12:43]	Daniel J. Cutter has gained a 'Nylon Cord' #31751.
+[00:12:46]	Daniel J. Cutter ran 'drop' on item 'Nylon Cord' (#31751)
+[00:12:46]	Daniel J. Cutter has lost a 'Nylon Cord' #31751.
+[00:12:46]	Daniel J. Cutter ran 'drop' on item 'Scrap Plastic' (#31739)
+[00:12:46]	Daniel J. Cutter has lost a 'Scrap Plastic' #31739.
+[00:12:52]	Daniel J. Cutter ran 'take' on item 'Radio Case' (#31374)
+[00:12:52]	Daniel J. Cutter has gained a 'Radio Case' #31374.
+[00:13:00]	Daniel J. Cutter destroyed a 'Radio Case' #31342.
+[00:13:05]	Daniel J. Cutter destroyed a 'Bleach' #31153.
+[00:13:06]	Daniel J. Cutter ran 'take' on item 'Empty Soda Bottle' (#31477)
+[00:13:06]	Daniel J. Cutter has gained a 'Empty Soda Bottle' #31477.
+[00:13:10]	Daniel J. Cutter ran 'drop' on item 'Empty Soda Bottle' (#31477)
+[00:13:10]	Daniel J. Cutter has lost a 'Empty Soda Bottle' #31477.
+[00:13:12]	Daniel J. Cutter ran 'take' on item 'Empty Consulate Water Can' (#31490)
+[00:13:12]	Daniel J. Cutter has gained a 'Empty Consulate Water Can' #31490.
+[00:13:15]	Daniel J. Cutter has gained a 'Scrap Metal' #31752.
+[00:13:30]	Daniel J. Cutter entered observer.
+[00:13:42]	Daniel J. Cutter exited observer at their location.
+[00:13:54]	Daniel J. Cutter entered observer.
+[00:14:15]	Daniel J. Cutter ran 'take' on item 'Green Citizen Suit' (#31668)
+[00:14:15]	Daniel J. Cutter has gained a 'Green Citizen Suit' #31668.
+[00:14:19]	Daniel J. Cutter entered observer.
+[00:14:31]	Daniel J. Cutter ran 'take' on item 'Cloth Scrap' (#24794)
+[00:14:31]	Daniel J. Cutter has gained a 'Cloth Scrap' #24794.
+[00:14:34]	Daniel J. Cutter entered observer.
+[00:14:39]	Daniel J. Cutter ran 'take' on item 'Cloth Scrap' (#31595)
+[00:14:39]	Daniel J. Cutter has gained a 'Cloth Scrap' #31595.
+[00:14:42]	Daniel J. Cutter entered observer.
+[00:14:59]	Daniel J. Cutter exited observer at their location.
+[00:15:00]	Daniel J. Cutter entered observer.
+[00:15:00]	Daniel J. Cutter exited observer at their location.
+[00:15:04]	Daniel J. Cutter has taken 3 damage from npc_fastzombie.
+[00:15:04]	Daniel J. Cutter has taken 3 damage from npc_fastzombie.
+[00:15:05]	Daniel J. Cutter has taken 5 damage from npc_headcrab.
+[00:15:06]	Daniel J. Cutter has taken 5 damage from npc_headcrab.
+[00:15:09]	Daniel J. Cutter has gained 20 tokens.
+[00:15:14]	Daniel J. Cutter has taken 5 damage from npc_headcrab.
+[00:15:21]	Daniel J. Cutter has gained a 'Adjustable Wrench' #31754.
+[00:15:23]	Daniel J. Cutter ran 'drop' on item 'Adjustable Wrench' (#31754)
+[00:15:23]	Daniel J. Cutter has lost a 'Adjustable Wrench' #31754.
+[00:15:26]	Daniel J. Cutter has gained a 'Bandage' #31755.
+[00:15:30]	Daniel J. Cutter ran 'AHealSelf' on item 'Bandage' (#31755)
+[00:15:35]	Daniel J. Cutter opened the 'Crate' #2778 container.
+[00:15:37]	Daniel J. Cutter closed the 'Crate' #2778 container.
+[00:15:38]	Daniel J. Cutter ran 'take' on item 'Cloth Scrap' (#31180)
+[00:15:38]	Daniel J. Cutter has gained a 'Cloth Scrap' #31180.
+[00:15:49]	Daniel J. Cutter entered observer.
+[00:15:50]	Daniel J. Cutter exited observer at their location.
+[00:15:55]	Daniel J. Cutter entered observer.
+[00:16:19]	Daniel J. Cutter opened the 'Crate' #244 container.
+[00:16:21]	Daniel J. Cutter closed the 'Crate' #244 container.
+[00:16:32]	Daniel J. Cutter exited observer at their location.
+[00:16:33]	Daniel J. Cutter ran 'take' on item 'Cloth Scrap' (#31570)
+[00:16:33]	Daniel J. Cutter has gained a 'Cloth Scrap' #31570.
+[00:16:38]	Daniel J. Cutter has gained a 'Bandage' #31756.
+[00:16:40]	Daniel J. Cutter ran 'AHealSelf' on item 'Bandage' (#31756)
+[00:16:51]	Daniel J. Cutter ran 'drop' on item 'Green Citizen Suit' (#31668)
+[00:16:51]	Daniel J. Cutter has lost a 'Green Citizen Suit' #31668.
+[00:17:03]	Daniel J. Cutter opened the 'Padlocked Item Crate' #2851 container.
+[00:17:07]	Daniel J. Cutter closed the 'Padlocked Item Crate' #2851 container.
+[00:17:10]	Daniel J. Cutter ran 'drop' on item 'Scrap Metal' (#31740)
+[00:17:10]	Daniel J. Cutter has lost a 'Scrap Metal' #31740.
+[00:17:12]	Daniel J. Cutter ran 'drop' on item 'Scrap Metal' (#31752)
+[00:17:12]	Daniel J. Cutter has lost a 'Scrap Metal' #31752.
+[00:17:19]	Daniel J. Cutter ran 'drop' on item 'Radio Case' (#31374)
+[00:17:19]	Daniel J. Cutter has lost a 'Radio Case' #31374.
+[00:18:30]	Daniel J. Cutter entered observer.
+[00:19:06]	Daniel J. Cutter exited observer at their location.
+[00:19:12]	Bean (STEAM_0:1:591779303) has disconnected.
+[00:32:04]	Bean has connected.
+[00:32:25]	Bean loaded the character 'Daniel J. Cutter'
+[00:32:45]	Daniel J. Cutter entered observer.
+[00:33:13]	Daniel J. Cutter has spawned a 'NPC [2347][npc_zombine]'.
+[00:33:21]	Daniel J. Cutter destroyed a '12-Gauge Shells' #31756.
+[00:33:50]	Daniel J. Cutter has spawned a 'NPC [2347][npc_zombine]'.
+[00:33:57]	Daniel J. Cutter destroyed a 'Pulse Ammunition' #31756.
+[00:34:18]	Daniel J. Cutter ran 'take' on item 'Empty Flavored Consulate Water Can' (#30296)
+[00:34:18]	Daniel J. Cutter has gained a 'Empty Flavored Consulate Water Can' #30296.
+[00:34:21]	Daniel J. Cutter entered observer.
+[00:34:31]	Daniel J. Cutter used the 'Shopkeeper Jim' vendor.
+[00:34:33]	Daniel J. Cutter has lost 10 tokens.
+[00:34:33]	Daniel J. Cutter has gained a 'Request Device' #31756.
+[00:34:38]	Daniel J. Cutter has gained a 'Scrap Metal' #31757.
+[00:34:48]	Daniel J. Cutter opened the 'Crate' #2778 container.
+[00:34:51]	Daniel J. Cutter has gained a 'Screwdriver' #28631.
+[00:34:52]	Daniel J. Cutter has gained a 'Pliers' #25394.
+[00:34:54]	Daniel J. Cutter closed the 'Crate' #2778 container.
+[00:35:01]	Daniel J. Cutter exited observer at their location.
+[00:35:04]	Daniel J. Cutter ran 'drop' on item 'Pliers' (#25394)
+[00:35:04]	Daniel J. Cutter has lost a 'Pliers' #25394.
+[00:35:07]	Daniel J. Cutter has gained a 'Single-Channel RF Transmitter' #31758.
+[00:35:07]	Daniel J. Cutter has gained a 'Scrap Electronics' #31759.
+[00:35:12]	Daniel J. Cutter ran 'drop' on item 'Single-Channel RF Transmitter' (#31758)
+[00:35:12]	Daniel J. Cutter has lost a 'Single-Channel RF Transmitter' #31758.
+[00:35:14]	Daniel J. Cutter ran 'drop' on item 'Scrap Electronics' (#31759)
+[00:35:14]	Daniel J. Cutter has lost a 'Scrap Electronics' #31759.
+[00:35:38]	Daniel J. Cutter ran 'take' on item 'Single-Channel RF Transmitter' (#31758)
+[00:35:38]	Daniel J. Cutter has gained a 'Single-Channel RF Transmitter' #31758.
+[00:35:40]	Daniel J. Cutter ran 'take' on item 'Refined Electronics' (#1735)
+[00:35:40]	Daniel J. Cutter has gained a 'Refined Electronics' #1735.
+[00:35:51]	Daniel J. Cutter ran 'drop' on item 'Refined Electronics' (#1735)
+[00:35:51]	Daniel J. Cutter has lost a 'Refined Electronics' #1735.
+[00:35:52]	Daniel J. Cutter ran 'drop' on item 'Single-Channel RF Transmitter' (#31758)
+[00:35:52]	Daniel J. Cutter has lost a 'Single-Channel RF Transmitter' #31758.
+[00:35:55]	Daniel J. Cutter ran 'drop' on item 'Screwdriver' (#28631)
+[00:35:55]	Daniel J. Cutter has lost a 'Screwdriver' #28631.
+[00:35:58]	Daniel J. Cutter ran 'drop' on item 'Scrap Metal' (#31757)
+[00:35:58]	Daniel J. Cutter has lost a 'Scrap Metal' #31757.
+[00:36:02]	Daniel J. Cutter entered observer.
+[00:36:16]	Daniel J. Cutter has spawned a 'NPC [2503][npc_zombine]'.
+[00:36:23]	Daniel J. Cutter ran 'take' on item '.357 Rounds' (#31760)
+[00:36:23]	Daniel J. Cutter has gained a '.357 Rounds' #31760.
+[00:36:26]	Daniel J. Cutter entered observer.
+[00:36:27]	Daniel J. Cutter opened the 'Padlocked Item Crate' #2851 container.
+[00:36:30]	Daniel J. Cutter closed the 'Padlocked Item Crate' #2851 container.
+[00:36:35]	Daniel J. Cutter exited observer at their location.
+[00:36:37]	Bean loaded the character 'CCA.C17-UNION.i5.83253'
+[00:37:51]	CCA.C17-UNION.i5.83253 entered observer.
+[00:37:56]	CCA.C17-UNION.i5.83253 exited observer at their location.
+[00:38:18]	CCA.C17-UNION.i5.83253 entered observer.
+[00:38:26]	CCA.C17-UNION.i5.83253 used the 'Ration Dispenser' vendor.
+[00:38:34]	CCA.C17-UNION.i5.83253 exited observer at their location.
+[00:38:35]	CCA.C17-UNION.i5.83253 entered observer.
+[00:38:36]	CCA.C17-UNION.i5.83253 used the 'Ration Dispenser' vendor.
+[00:38:54]	CCA.C17-UNION.i5.83253 used the 'Ration Dispenser' vendor.
+[00:39:08]	CCA.C17-UNION.i5.83253 exited observer at their location.
+[00:39:09]	CCA.C17-UNION.i5.83253 entered observer.
+[00:39:11]	CCA.C17-UNION.i5.83253 exited observer at their location.
+[00:39:12]	CCA.C17-UNION.i5.83253 opened the 'File Cabinet' #2366 container.
+[00:39:14]	CCA.C17-UNION.i5.83253 closed the 'File Cabinet' #2366 container.
+[00:39:15]	CCA.C17-UNION.i5.83253 opened the 'File Cabinet' #2366 container.
+[00:39:19]	CCA.C17-UNION.i5.83253 closed the 'File Cabinet' #2366 container.
+[00:39:32]	CCA.C17-UNION.i5.83253 entered observer.
+[00:39:35]	CCA.C17-UNION.i5.83253 exited observer at their location.
+[00:39:35]	CCA.C17-UNION.i5.83253 opened the 'Metal Cabinet' #2498 container.
+[00:39:39]	CCA.C17-UNION.i5.83253 ran 'View' on item 'Paper' (#23846)
+[00:39:44]	CCA.C17-UNION.i5.83253 ran 'View' on item 'Paper' (#23791)
+[00:39:46]	CCA.C17-UNION.i5.83253 ran 'View' on item 'Paper' (#24892)
+[00:39:51]	CCA.C17-UNION.i5.83253 closed the 'Metal Cabinet' #2498 container.
+[00:39:52]	CCA.C17-UNION.i5.83253 opened the 'Metal Cabinet' #2499 container.
+[00:39:56]	CCA.C17-UNION.i5.83253 ran 'View' on item 'Paper' (#29735)
+[00:40:00]	CCA.C17-UNION.i5.83253 closed the 'Metal Cabinet' #2499 container.
+[00:40:05]	CCA.C17-UNION.i5.83253 ran 'take' on item 'Suitcase' (#25895)
+[00:40:05]	CCA.C17-UNION.i5.83253 has gained a 'Suitcase' #25895.
+[00:40:05]	CCA.C17-UNION.i5.83253 has gained a 'Armor Scraps' #30923.
+[00:40:05]	CCA.C17-UNION.i5.83253 has gained a 'Sewing Kit' #30834.
+[00:40:05]	CCA.C17-UNION.i5.83253 has gained a 'Box of Matches' #30896.
+[00:40:05]	CCA.C17-UNION.i5.83253 has gained a 'Refined Metal' #26440.
+[00:40:05]	CCA.C17-UNION.i5.83253 has gained a 'Sewn Cloth' #30860.
+[00:40:05]	CCA.C17-UNION.i5.83253 has gained a 'Refined Metal' #26432.
+[00:40:05]	CCA.C17-UNION.i5.83253 has gained a 'Cloth Scrap' #23731.
+[00:40:05]	CCA.C17-UNION.i5.83253 has gained a 'Adjustable Wrench' #26439.
+[00:40:08]	CCA.C17-UNION.i5.83253 ran 'drop' on item 'Suitcase' (#25895)
+[00:40:08]	CCA.C17-UNION.i5.83253 has lost a 'Suitcase' #25895.
+[00:40:08]	CCA.C17-UNION.i5.83253 has lost a 'Armor Scraps' #30923.
+[00:40:08]	CCA.C17-UNION.i5.83253 has lost a 'Sewing Kit' #30834.
+[00:40:08]	CCA.C17-UNION.i5.83253 has lost a 'Box of Matches' #30896.
+[00:40:08]	CCA.C17-UNION.i5.83253 has lost a 'Refined Metal' #26440.
+[00:40:08]	CCA.C17-UNION.i5.83253 has lost a 'Sewn Cloth' #30860.
+[00:40:08]	CCA.C17-UNION.i5.83253 has lost a 'Refined Metal' #26432.
+[00:40:08]	CCA.C17-UNION.i5.83253 has lost a 'Cloth Scrap' #23731.
+[00:40:08]	CCA.C17-UNION.i5.83253 has lost a 'Adjustable Wrench' #26439.
+[00:40:18]	CCA.C17-UNION.i5.83253 opened the 'File Cabinet' #203 container.
+[00:40:20]	CCA.C17-UNION.i5.83253 closed the 'File Cabinet' #203 container.
+[00:40:22]	CCA.C17-UNION.i5.83253 entered observer.
+[00:40:48]	CCA.C17-UNION.i5.83253 exited observer at their location.
+[00:41:01]	CCA.C17-UNION.i5.83253 used command '/ActLean'.
+[00:41:04]	CCA.C17-UNION.i5.83253 used command '/ActLean'.
+[00:41:05]	CCA.C17-UNION.i5.83253 entered observer.
+[00:41:08]	CCA.C17-UNION.i5.83253 exited observer at their location.
+[00:41:10]	CCA.C17-UNION.i5.83253 used command '/ActLean'.
+[00:41:16]	CCA.C17-UNION.i5.83253 used command '/ExitAct'.
+[00:41:20]	CCA.C17-UNION.i5.83253 used command '/ActMotion'.
+[00:41:26]	CCA.C17-UNION.i5.83253 used command '/ActStand'.
+[00:41:36]	CCA.C17-UNION.i5.83253 used command '/ActThreat'.
+[00:41:37]	CCA.C17-UNION.i5.83253 has gained 10 tokens.
+[00:41:39]	CCA.C17-UNION.i5.83253 used command '/ExitAct'.
+[00:41:49]	CCA.C17-UNION.i5.83253 entered observer.
+[00:41:50]	CCA.C17-UNION.i5.83253 exited observer at their location.
+[00:41:53]	CCA.C17-UNION.i5.83253 entered observer.
+[00:42:04]	CCA.C17-UNION.i5.83253 exited observer at their location.
+[00:42:09]	CCA.C17-UNION.i5.83253 entered observer.
+[00:42:10]	CCA.C17-UNION.i5.83253 opened the 'Metal Cabinet' #2685 container.
+[00:42:12]	CCA.C17-UNION.i5.83253 closed the 'Metal Cabinet' #2685 container.
+[00:42:14]	CCA.C17-UNION.i5.83253 opened the 'Metal Cabinet' #2686 container.
+[00:42:16]	CCA.C17-UNION.i5.83253 closed the 'Metal Cabinet' #2686 container.
+[00:42:46]	CCA.C17-UNION.i5.83253 exited observer at their location.
+[00:43:03]	CCA.C17-UNION.i5.83253 entered observer.
+[00:43:03]	CCA.C17-UNION.i5.83253 exited observer at their location.
+[00:43:04]	CCA.C17-UNION.i5.83253 entered observer.
+[00:43:07]	CCA.C17-UNION.i5.83253 exited observer at their location.
+[00:43:27]	CCA.C17-UNION.i5.83253 entered observer.
+[00:43:31]	CCA.C17-UNION.i5.83253 exited observer at their location.
+[00:44:01]	Bean loaded the character 'Daniel J. Cutter'
+[00:44:03]	Daniel J. Cutter entered observer.
+[00:44:24]	Daniel J. Cutter opened the 'Locker' #2853 container.
+[00:44:26]	Daniel J. Cutter closed the 'Locker' #2853 container.
+[00:44:31]	Daniel J. Cutter opened the 'Metal Cabinet' #161 container.
+[00:44:33]	Daniel J. Cutter closed the 'Metal Cabinet' #161 container.
+[00:44:47]	Daniel J. Cutter exited observer at their location.
+[00:44:49]	Daniel J. Cutter entered observer.
+[00:44:50]	Daniel J. Cutter opened the 'Crate' #214 container.
+[00:44:52]	Daniel J. Cutter closed the 'Crate' #214 container.
+[00:44:54]	Daniel J. Cutter opened the 'Crate' #213 container.
+[00:44:58]	Daniel J. Cutter has gained a 'Bullet Casings' #1734.
+[00:44:59]	Daniel J. Cutter closed the 'Crate' #213 container.
+[00:45:00]	Daniel J. Cutter opened the 'Crate' #214 container.
+[00:45:03]	Daniel J. Cutter has gained a 'Sewn Cloth' #1679.
+[00:45:04]	Daniel J. Cutter has gained a 'Cloth Scrap' #1500.
+[00:45:05]	Daniel J. Cutter has gained a 'Blacksmith Tongs' #1678.
+[00:45:07]	Daniel J. Cutter has gained a 'Cables' #1730.
+[00:45:08]	Daniel J. Cutter has gained a 'Cables' #1731.
+[00:45:12]	Daniel J. Cutter closed the 'Crate' #214 container.
+[00:45:39]	Daniel J. Cutter exited observer at their location.
+[00:45:44]	Daniel J. Cutter ran 'drop' on item 'Sewn Cloth' (#1679)
+[00:45:44]	Daniel J. Cutter has lost a 'Sewn Cloth' #1679.
+[00:45:49]	Daniel J. Cutter ran 'take' on item 'Radio Case' (#31374)
+[00:45:49]	Daniel J. Cutter has gained a 'Radio Case' #31374.
+[00:45:52]	Daniel J. Cutter ran 'drop' on item 'Radio Case' (#31374)
+[00:45:52]	Daniel J. Cutter has lost a 'Radio Case' #31374.
+[00:46:04]	Daniel J. Cutter ran 'drop' on item 'Blacksmith Tongs' (#1678)
+[00:46:04]	Daniel J. Cutter has lost a 'Blacksmith Tongs' #1678.
+[00:46:17]	Daniel J. Cutter ran 'drop' on item 'Cloth Scrap' (#1500)
+[00:46:17]	Daniel J. Cutter has lost a 'Cloth Scrap' #1500.
+[00:46:20]	Daniel J. Cutter ran 'drop' on item 'Cables' (#1730)
+[00:46:20]	Daniel J. Cutter has lost a 'Cables' #1730.
+[00:46:22]	Daniel J. Cutter ran 'drop' on item 'Cables' (#1731)
+[00:46:22]	Daniel J. Cutter has lost a 'Cables' #1731.
+[00:46:24]	Daniel J. Cutter opened the 'Padlocked Item Crate' #2851 container.
+[00:46:28]	Daniel J. Cutter closed the 'Padlocked Item Crate' #2851 container.
+[00:46:36]	Daniel J. Cutter entered observer.
+[00:46:40]	Daniel J. Cutter exited observer at their location.
+[00:46:51]	Bean (STEAM_0:1:591779303) has disconnected.
+[01:45:56]	matt saton has connected.
+[01:51:46]	matt saton loaded the character 'Andrew Cloverman'
+[01:53:21]	Andrew Cloverman entered observer.
+[01:53:33]	Andrew Cloverman exited observer at their location.
+[01:53:45]	Andrew Cloverman entered observer.
+[01:53:48]	Andrew Cloverman exited observer at their location.
+[01:53:58]	Andrew Cloverman entered observer.
+[01:54:01]	Andrew Cloverman exited observer at their location.
+[01:54:04]	Andrew Cloverman entered observer.
+[01:54:09]	Andrew Cloverman exited observer at their location.
+[01:54:20]	Andrew Cloverman used command '/ToggleRaise'.
+[01:54:39]	Andrew Cloverman used command '/ToggleRaise'.
+[01:54:52]	Andrew Cloverman used command '/ToggleRaise'.
+[01:57:48]	Andrew Cloverman ran 'drop' on item 'Flashlight' (#27272)
+[01:57:48]	Andrew Cloverman has lost a 'Flashlight' #27272.
+[02:27:13]	Andrew Cloverman entered observer.
+[02:27:18]	Andrew Cloverman exited observer at their location.
+[02:27:53]	Andrew Cloverman has spawned 'models/props/de_dust/du_antenna_a.mdl'.
+[02:27:55]	Andrew Cloverman has spawned 'models/props/de_dust/door01a.mdl'.
+[02:28:03]	Andrew Cloverman has spawned 'models/props/de_dust/du_door_slim.mdl'.
+[02:28:05]	Andrew Cloverman has spawned 'models/props/de_dust/du_crate_128x128.mdl'.
+[02:28:07]	Andrew Cloverman entered observer.
+[02:28:09]	Andrew Cloverman has spawned 'models/props/de_dust/du_crate_64x80.mdl'.
+[02:28:10]	Andrew Cloverman has spawned 'models/props/de_dust/du_crate_96x96.mdl'.
+[02:28:16]	Andrew Cloverman exited observer at their location.
+[02:29:43]	Andrew Cloverman has spawned 'models/props/de_inferno/archroofb.mdl'.
+[02:29:45]	Andrew Cloverman has spawned 'models/props/de_inferno/archroofb.mdl'.
+[02:29:50]	Andrew Cloverman has spawned 'models/props/de_inferno/bench_wood.mdl'.
+[02:30:34]	Andrew Cloverman has spawned 'models/hunter/blocks/cube2x6x025.mdl'.
+[02:30:37]	Andrew Cloverman has spawned 'models/hunter/blocks/cube2x4x025.mdl'.
+[02:30:39]	Andrew Cloverman has spawned 'models/hunter/blocks/cube2x4x05.mdl'.
+[02:30:47]	Andrew Cloverman has spawned 'models/hunter/blocks/cube2x4x05.mdl'.
+[02:30:51]	Andrew Cloverman entered observer.
+[02:30:53]	Andrew Cloverman exited observer at their location.
+[02:33:27]	Andrew Cloverman entered observer.
+[02:33:32]	Andrew Cloverman exited observer at their location.
+[02:36:52]	Andrew Cloverman entered observer.
+[02:36:53]	Andrew Cloverman exited observer at their location.
+[02:40:18]	Andrew Cloverman has spawned 'models/props_c17/gravestone001a.mdl'.
+[02:41:55]	Andrew Cloverman has spawned 'models/hunter/misc/sphere025x025.mdl'.
+[02:42:04]	Andrew Cloverman entered observer.
+[02:42:12]	Andrew Cloverman has spawned 'models/hunter/misc/sphere075x075.mdl'.
+[02:42:14]	Andrew Cloverman has spawned 'models/hunter/misc/shell2x2.mdl'.
+[02:42:24]	Andrew Cloverman has spawned 'models/hunter/tubes/tube4x4x2to2x2.mdl'.
+[02:42:41]	Andrew Cloverman has spawned 'models/hunter/tubes/tube1x1x1.mdl'.
+[02:42:43]	Andrew Cloverman has spawned 'models/hunter/tubes/tube1x1x2.mdl'.
+[02:42:59]	Andrew Cloverman has spawned 'models/xeon133/slider/slider_12x12x24.mdl'.
+[02:43:31]	Andrew Cloverman has spawned 'models/hunter/misc/sphere075x075.mdl'.
+[02:43:32]	Andrew Cloverman has spawned 'models/hunter/misc/sphere375x375.mdl'.
+[02:43:35]	Andrew Cloverman has spawned 'models/hunter/misc/sphere075x075.mdl'.
+[02:44:29]	Andrew Cloverman has spawned 'models/maxofs2d/hover_basic.mdl'.
+[02:44:31]	Andrew Cloverman has spawned 'models/maxofs2d/hover_classic.mdl'.
+[02:45:57]	Andrew Cloverman has spawned 'models/maxofs2d/hover_classic.mdl'.
+[02:46:03]	Andrew Cloverman has spawned 'models/maxofs2d/hover_classic.mdl'.
+[02:46:06]	Andrew Cloverman has spawned 'models/maxofs2d/hover_classic.mdl'.
+[02:46:10]	Andrew Cloverman has spawned 'models/maxofs2d/hover_classic.mdl'.
+[02:46:20]	Andrew Cloverman has spawned 'models/maxofs2d/hover_classic.mdl'.
+[02:46:31]	Andrew Cloverman has spawned 'models/maxofs2d/hover_classic.mdl'.
+[02:46:38]	Andrew Cloverman has spawned 'models/maxofs2d/hover_classic.mdl'.
+[02:47:21]	Andrew Cloverman exited observer at their location.
+[02:47:31]	Andrew Cloverman entered observer.
+[02:47:33]	Andrew Cloverman exited observer at their location.
+[02:47:38]	Andrew Cloverman has spawned 'models/props_c17/gravestone001a.mdl'.
+[02:47:51]	Andrew Cloverman has spawned 'models/props_c17/gravestone004a.mdl'.
+[02:47:52]	Andrew Cloverman entered observer.
+[02:48:35]	Andrew Cloverman exited observer at their location.
+[02:48:37]	Andrew Cloverman entered observer.
+[02:48:43]	Andrew Cloverman exited observer at their location.
+[02:48:44]	Andrew Cloverman entered observer.
+[02:48:46]	Andrew Cloverman exited observer at their location.
+[02:49:00]	Andrew Cloverman entered observer.
+[02:49:01]	Andrew Cloverman exited observer at their location.
+[02:49:19]	Andrew Cloverman has spawned 'models/props_c17/gravestone002a.mdl'.
+[02:49:31]	Andrew Cloverman has spawned 'models/props_c17/gravestone003a.mdl'.
+[02:49:45]	Andrew Cloverman has spawned 'models/props_c17/gravestone001a.mdl'.
+[02:49:49]	Andrew Cloverman has spawned 'models/props_c17/gravestone004a.mdl'.
+[02:50:08]	Andrew Cloverman entered observer.
+[02:50:42]	Andrew Cloverman exited observer at their location.
+[02:51:02]	Andrew Cloverman has spawned 'models/props_c17/gravestone003a.mdl'.
+[02:51:06]	Andrew Cloverman has spawned 'models/props_c17/gravestone003a.mdl'.
+[02:51:09]	Andrew Cloverman entered observer.
+[02:51:15]	Andrew Cloverman has spawned 'models/props_c17/gravestone003a.mdl'.
+[02:51:20]	Andrew Cloverman has spawned 'models/props_c17/gravestone003a.mdl'.
+[02:51:35]	Andrew Cloverman has spawned 'models/props_c17/gravestone003a.mdl'.
+[02:52:07]	Andrew Cloverman has spawned 'models/props_c17/gravestone003a.mdl'.
+[02:53:03]	Andrew Cloverman has spawned 'models/props_c17/gravestone003a.mdl'.
+[02:53:33]	Andrew Cloverman exited observer at their location.
+[03:03:39]	Andrew Cloverman entered observer.
+[03:03:40]	Andrew Cloverman exited observer at their location.
+[03:04:02]	Andrew Cloverman has gained a 'Notepad' #31761.
+[03:04:02]	Andrew Cloverman used command '/CharGiveItem andrew notepad'.
+[03:04:05]	Andrew Cloverman ran 'Edit' on item 'Notepad' (#31761)
+[03:04:14]	Andrew Cloverman ran 'drop' on item 'Notepad' (#31761)
+[03:04:14]	Andrew Cloverman has lost a 'Notepad' #31761.
+[03:04:31]	Andrew Cloverman used command '/ToggleRaise'.
+[03:04:46]	Andrew Cloverman used command '/ToggleRaise'.
+[03:04:53]	Andrew Cloverman ran 'take' on item 'Notepad' (#31761)
+[03:04:53]	Andrew Cloverman has gained a 'Notepad' #31761.
+[03:04:54]	Andrew Cloverman ran 'drop' on item 'Notepad' (#31761)
+[03:04:54]	Andrew Cloverman has lost a 'Notepad' #31761.
+[03:07:37]	Andrew Cloverman used command '/TextAdd <font=HUDTextGlow>Bulletin Board</font> 2'.
+[03:07:43]	Andrew Cloverman used command '/TextAdd <font=HUDText>Bulletin Board</font> 2'.
+[03:07:52]	Andrew Cloverman used command '/TextRemove'.
+[03:13:53]	Andrew Cloverman used command '/TextAdd <font=HUDNumbers>@    H<color=2>A</colorLF-LIFE '</font> 1.8'.
+[03:13:57]	Andrew Cloverman used command '/TextRemove'.
+[03:14:43]	Andrew Cloverman used command '/TextAdd <font=HUDNumbers>@    H<color=255,90,0>A</color>LF-LIFE '</font> 1.8'.
+[03:14:47]	Andrew Cloverman used command '/TextRemove'.
+[03:15:55]	Andrew Cloverman used command '/TextRemove'.
+[03:15:57]	Andrew Cloverman used command '/TextAdd <font=HUDNumbers>@    H<color=255,90,0>A</color>LF-LIFE '</font> 1.8'.
+[03:16:05]	Andrew Cloverman used command '/TextRemove'.
+[03:16:24]	Andrew Cloverman used command '/TextAdd <font=HUDNumbers>@    H<color=255,90,0>A</color>LF-LIFE '</font> 1.8'.
+[03:16:28]	Andrew Cloverman used command '/TextRemove'.
+[03:16:32]	Andrew Cloverman used command '/TextAdd <font=HUDNumbers>@    H<color=255,90,0>A</color>LF-LIFE '</font> 1.8'.
+[03:18:04]	Andrew Cloverman used command '/TextRemove'.
+[03:18:27]	Andrew Cloverman entered observer.
+[03:18:30]	Andrew Cloverman exited observer at their location.
+[03:24:09]	matt saton (STEAM_0:1:53097688) has disconnected.
+[03:31:16]	matt saton has connected.
+[03:32:34]	matt saton loaded the character 'Andrew Cloverman'
+[03:33:27]	Andrew Cloverman used command '/TextAdd <color=255, 255,255><font=ixPrinted>Bulletin Board</font></color> 2.5'.
+[03:35:49]	Andrew Cloverman entered observer.
+[03:45:02]	Andrew Cloverman exited observer at their location.
+[03:45:03]	Andrew Cloverman entered observer.
+[03:45:41]	Andrew Cloverman has gained a 'Consul Poster' #31761.
+[03:45:41]	Andrew Cloverman used command '/CharGiveItem andrew consul poster'.
+[03:45:51]	Andrew Cloverman ran 'place' on item 'Consul Poster' (#31761)
+[03:48:32]	Andrew Cloverman exited observer at their location.
+[03:49:13]	Hello has connected.
+[03:49:38]	Andrew Cloverman has gained a 'Return of the King Poster' #31761.
+[03:49:38]	Andrew Cloverman used command '/CharGiveItem andrew return of the king'.
+[03:49:38]	Andrew Cloverman entered observer.
+[03:49:41]	Andrew Cloverman ran 'place' on item 'Return of the King Poster' (#31761)
+[03:49:47]	Andrew Cloverman exited observer at their location.
+[03:49:52]	Andrew Cloverman entered observer.
+[03:49:53]	matt saton (STEAM_0:1:53097688) has disconnected.
+[03:57:39]	Kennedy Bill has gained a 'Cyclopic Citizen Suit' #31761.
+[03:57:39]	Kennedy Bill has gained a 'Citizen Filter' #31762.
+[03:57:39]	Hello created the character 'Kennedy Bill'
+[03:57:39]	Kennedy Bill has gained a 'Suitcase' #31763.
+[03:57:39]	Kennedy Bill has gained a 'Relocation Coupon' #31764.
+[03:57:40]	Hello loaded the character 'Kennedy Bill'
+[03:57:47]	Kennedy Bill has taken 1 damage from worldspawn.
+[03:57:48]	Kennedy Bill has taken 1 damage from worldspawn.
+[03:57:48]	Kennedy Bill has taken 1 damage from worldspawn.
+[03:57:49]	Kennedy Bill has taken 1 damage from worldspawn.
+[03:57:50]	Kennedy Bill has taken 1 damage from worldspawn.
+[03:57:51]	Kennedy Bill has taken 1 damage from worldspawn.
+[03:58:03]	Kennedy Bill ran 'Equip' on item 'Cyclopic Citizen Suit' (#31761)
+[03:58:06]	Kennedy Bill ran 'equip' on item 'Citizen Filter' (#31762)
+[03:59:57]	Hello (STEAM_0:0:42840820) has disconnected.
+[04:15:50]	Mr.Ganar has connected.
+[04:16:22]	Mr.Ganar (STEAM_0:0:80909581) has disconnected.
+[05:46:26]	Lynch has connected.
+[05:47:10]	Lynch loaded the character 'Henry Blackwoods'
+[05:47:48]	Lynch (STEAM_0:1:626926779) has disconnected.
+[05:54:05]	Lynch has connected.
+[05:54:54]	Lynch loaded the character 'Henry Blackwoods'
+[05:55:52]	Lynch (STEAM_0:1:626926779) has disconnected.
+[06:19:22]	Lynch has connected.
+[06:20:31]	Lynch loaded the character 'Henry Blackwoods'
+[06:21:09]	Lynch (STEAM_0:1:626926779) has disconnected.
+[06:27:04]	Lynch has connected.
+[06:27:41]	Lynch loaded the character 'Henry Blackwoods'
+[06:28:21]	Lynch (STEAM_0:1:626926779) has disconnected.
+[08:12:47]	Lynch has connected.
+[08:14:01]	Lynch loaded the character 'Henry Blackwoods'
+[08:37:24]	Lynch (STEAM_0:1:626926779) has disconnected.
+[09:09:38]	Lynch has connected.
+[09:10:34]	Lynch loaded the character 'Henry Blackwoods'
+[09:14:00]	Henry Blackwoods ran 'take' on item 'Single-Channel RF Transmitter' (#31758)
+[09:14:00]	Henry Blackwoods has gained a 'Single-Channel RF Transmitter' #31758.
+[09:14:04]	Henry Blackwoods ran 'drop' on item 'Single-Channel RF Transmitter' (#31758)
+[09:14:04]	Henry Blackwoods has lost a 'Single-Channel RF Transmitter' #31758.
+[09:14:40]	Lynch (STEAM_0:1:626926779) has disconnected.
+[09:18:04]	7 Days has connected.
+[09:18:45]	7 Days loaded the character 'Raul Fernandez'
+[09:19:02]	Raul Fernandez has taken 10 damage from npc_zombie.
+[09:19:12]	Raul Fernandez has taken 10 damage from npc_zombie.
+[09:20:47]	Raul Fernandez ran 'drop' on item 'Scrap Plastic' (#31512)
+[09:20:47]	Raul Fernandez has lost a 'Scrap Plastic' #31512.
+[09:20:48]	Raul Fernandez ran 'drop' on item 'Scrap Plastic' (#31507)
+[09:20:48]	Raul Fernandez has lost a 'Scrap Plastic' #31507.
+[09:20:49]	Raul Fernandez ran 'drop' on item 'Scrap Plastic' (#31509)
+[09:20:49]	Raul Fernandez has lost a 'Scrap Plastic' #31509.
+[09:20:56]	Raul Fernandez ran 'Consume' on item 'Priority Grade Supplements (Chocolate Flavor)' (#30332)
+[09:20:59]	Raul Fernandez ran 'drop' on item 'Scrap Electronics' (#31515)
+[09:20:59]	Raul Fernandez has lost a 'Scrap Electronics' #31515.
+[09:23:10]	Raul Fernandez ran 'take' on item 'Pack of Screws' (#31749)
+[09:23:10]	Raul Fernandez has gained a 'Pack of Screws' #31749.
+[09:23:14]	Raul Fernandez has gained a 'Circuit Board' #31766.
+[09:23:55]	Raul Fernandez has gained a 'Cloth Scrap' #31767.
+[09:24:00]	Raul Fernandez has gained a 'Bandage' #31767.
+[09:24:14]	Raul Fernandez has gained a 'Refined Metal' #31768.
+[09:27:01]	Lynch has connected.
+[09:27:25]	Raul Fernandez has taken 10 damage from npc_zombie.
+[09:27:41]	Lynch loaded the character 'Henry Blackwoods'
+[09:27:55]	7 Days (STEAM_0:1:17454649) has disconnected (timed out).
+[09:28:01]	Henry Blackwoods ran 'take' on item 'Padlock' (#31408)
+[09:28:01]	Henry Blackwoods has gained a 'Padlock' #31408.
+[09:28:10]	Henry Blackwoods ran 'drop' on item 'Padlock' (#31408)
+[09:28:10]	Henry Blackwoods has lost a 'Padlock' #31408.
+[09:28:20]	Henry Blackwoods used command '/CharDesc'.
+[09:29:19]	Henry Blackwoods used command '/CharDesc 5,10| The figure wore a CWU worker outfit with the UU's symbols seemingly scracthed off. | An axe strapped behind his back could be seen.|'.
+[09:29:53]	7 Days has connected.
+[09:33:19]	Andrea Garcia has gained a 'Cyclopic Citizen Suit' #31770.
+[09:33:19]	Andrea Garcia has gained a 'Citizen Filter' #31771.
+[09:33:19]	7 Days created the character 'Andrea Garcia'
+[09:33:19]	Andrea Garcia has gained a 'Suitcase' #31772.
+[09:33:19]	Andrea Garcia has gained a 'Relocation Coupon' #31773.
+[09:33:19]	7 Days loaded the character 'Andrea Garcia'
+[09:33:24]	Andrea Garcia has taken 1 damage from worldspawn.
+[09:33:24]	Andrea Garcia has taken 1 damage from worldspawn.
+[09:33:25]	Andrea Garcia has taken 1 damage from worldspawn.
+[09:33:31]	Andrea Garcia ran 'Equip' on item 'Cyclopic Citizen Suit' (#31770)
+[09:33:32]	Andrea Garcia ran 'equip' on item 'Citizen Filter' (#31771)
+[09:43:00]	Lynch (STEAM_0:1:626926779) has disconnected.
+[10:00:13]	7 Days (STEAM_0:1:17454649) has disconnected.
+[14:10:14]	DRD has connected.
+[14:11:17]	DRD loaded the character 'OTA.S17-ECHO.OWS.85171'
+[14:13:59]	OTA.S17-ECHO.OWS.85171 has spawned a 'Entity [4340][npc_binocularlooking_combinesoldier]'.
+[14:14:05]	OTA.S17-ECHO.OWS.85171 entered observer.
+[14:14:18]	OTA.S17-ECHO.OWS.85171 has spawned a 'Entity [4340][npc_walking_unarmed_combine_soldier]'.
+[14:14:22]	OTA.S17-ECHO.OWS.85171 has spawned a 'NPC [4340][npc_combine_s]'.
+[14:14:24]	OTA.S17-ECHO.OWS.85171 exited observer at their location.
+[14:14:25]	OTA.S17-ECHO.OWS.85171 has taken 59 damage from npc_combine_s.
+[14:14:26]	OTA.S17-ECHO.OWS.85171 entered observer.
+[14:14:31]	OTA.S17-ECHO.OWS.85171 has spawned a 'Entity [4340][npc_binocularlooking_combinesoldier]'.
+[14:14:38]	OTA.S17-ECHO.OWS.85171 has spawned 'models/ninja/combine/combine_super_soldier.mdl'.
+[14:16:18]	DRD (STEAM_0:0:193599766) has disconnected.
+[15:10:01]	Nums has connected.
+[15:20:29]	NamRm has connected.
+[15:21:26]	NamRm loaded the character 'Aurelio Grau'
+[15:21:42]	NamRm loaded the character 'CCA.C17-UNION.i5.60555'
+[15:26:39]	Nums loaded the character 'CCA.C17-JUDGE.i4.77460'
+[15:27:03]	CCA.C17-JUDGE.i4.77460 ran 'take' on item 'Flashlight' (#27272)
+[15:27:03]	CCA.C17-JUDGE.i4.77460 has gained a 'Flashlight' #27272.
+[15:27:33]	[OOC] CCA.C17-JUDGE.i4.77460: i dont think I have ever seen u bfore
+[15:27:56]	[OOC] CCA.C17-UNION.i5.60555: like ever on the server?
+[15:28:08]	[OOC] CCA.C17-JUDGE.i4.77460: no just here in this server
+[15:28:39]	[OOC] CCA.C17-UNION.i5.60555: probably haven't. i have not been playing for a while
+[15:29:04]	[OOC] CCA.C17-JUDGE.i4.77460: oh well welcome, during the week populated hours are very random so I normally just hang around and wait
+[15:29:43]	[OOC] CCA.C17-UNION.i5.60555: oh i think you misunderstand. ive been playing with this community for like 2 years. just been a while since ive been on
+[15:30:21]	[OOC] CCA.C17-JUDGE.i4.77460: oh fuck ur older here than myself
+[15:30:55]	[OOC] CCA.C17-UNION.i5.60555: ye i have a union i2 from when i did play but i am going to play this i5 for a little bit to see how it feels before i hop back in
+[15:31:42]	CCA.C17-UNION.i5.60555 has gained 10 tokens.
+[15:34:45]	[OOC] CCA.C17-JUDGE.i4.77460: well welcome back the more the merrier
+[15:36:39]	CCA.C17-JUDGE.i4.77460 has gained 10 tokens.
+[15:41:15]	[OOC] CCA.C17-UNION.i5.60555: thanks
+[15:41:42]	CCA.C17-UNION.i5.60555 has gained 10 tokens.
+[15:42:33]	CCA.C17-UNION.i5.60555 opened the 'Metal Cabinet' #2499 container.
+[15:42:39]	CCA.C17-UNION.i5.60555 closed the 'Metal Cabinet' #2499 container.
+[15:42:41]	CCA.C17-UNION.i5.60555 opened the 'Metal Cabinet' #2498 container.
+[15:42:50]	CCA.C17-UNION.i5.60555 closed the 'Metal Cabinet' #2498 container.
+[15:46:42]	CCA.C17-UNION.i5.60555 has gained 10 tokens.
+[15:50:38]	CCA.C17-JUDGE.i4.77460 has taken 2 damage from CCA.C17-JUDGE.i4.77460.
+[15:50:53]	CCA.C17-JUDGE.i4.77460 has taken 2 damage from CCA.C17-JUDGE.i4.77460.
+[15:51:08]	CCA.C17-JUDGE.i4.77460 has taken 2 damage from CCA.C17-JUDGE.i4.77460.
+[15:51:23]	CCA.C17-JUDGE.i4.77460 has taken 2 damage from CCA.C17-JUDGE.i4.77460.
+[15:51:38]	CCA.C17-JUDGE.i4.77460 has taken 2 damage from CCA.C17-JUDGE.i4.77460.
+[15:51:53]	CCA.C17-JUDGE.i4.77460 has taken 2 damage from CCA.C17-JUDGE.i4.77460.
+[15:52:08]	CCA.C17-JUDGE.i4.77460 has taken 2 damage from CCA.C17-JUDGE.i4.77460.
+[15:52:23]	CCA.C17-JUDGE.i4.77460 has taken 2 damage from CCA.C17-JUDGE.i4.77460.
+[15:52:38]	CCA.C17-JUDGE.i4.77460 has taken 2 damage from CCA.C17-JUDGE.i4.77460.
+[15:52:53]	CCA.C17-JUDGE.i4.77460 has taken 2 damage from CCA.C17-JUDGE.i4.77460.
+[15:53:08]	CCA.C17-JUDGE.i4.77460 has taken 2 damage from CCA.C17-JUDGE.i4.77460.
+[15:53:23]	CCA.C17-JUDGE.i4.77460 has taken 2 damage from CCA.C17-JUDGE.i4.77460.
+[15:53:35]	CCA.C17-UNION.i5.60555 opened the 'File Cabinet' #203 container.
+[15:53:35]	CCA.C17-UNION.i5.60555 closed the 'File Cabinet' #203 container.
+[15:53:36]	CCA.C17-UNION.i5.60555 opened the 'File Cabinet' #203 container.
+[15:53:38]	CCA.C17-JUDGE.i4.77460 has taken 2 damage from CCA.C17-JUDGE.i4.77460.
+[15:53:38]	CCA.C17-UNION.i5.60555 closed the 'File Cabinet' #203 container.
+[15:53:42]	CCA.C17-UNION.i5.60555 opened the 'Metal Cabinet' #2498 container.
+[15:53:44]	CCA.C17-UNION.i5.60555 closed the 'Metal Cabinet' #2498 container.
+[15:53:45]	CCA.C17-UNION.i5.60555 opened the 'Metal Cabinet' #2499 container.
+[15:53:51]	CCA.C17-UNION.i5.60555 closed the 'Metal Cabinet' #2499 container.
+[15:53:53]	CCA.C17-JUDGE.i4.77460 has taken 2 damage from CCA.C17-JUDGE.i4.77460.
+[15:53:57]	CCA.C17-UNION.i5.60555 ran 'take' on item 'Documents Case' (#25929)
+[15:53:57]	CCA.C17-UNION.i5.60555 has gained a 'Documents Case' #25929.
+[15:53:57]	CCA.C17-UNION.i5.60555 has gained a 'Flashlight' #26021.
+[15:53:57]	CCA.C17-UNION.i5.60555 has gained a 'AI-2 Medikit' #26426.
+[15:53:57]	CCA.C17-UNION.i5.60555 has gained a 'Cloth Scrap' #30892.
+[15:53:57]	CCA.C17-UNION.i5.60555 has gained a 'Reinforced Padlock' #30697.
+[15:53:57]	CCA.C17-UNION.i5.60555 has gained a 'Gas Analyser' #30518.
+[15:54:08]	CCA.C17-JUDGE.i4.77460 has taken 2 damage from CCA.C17-JUDGE.i4.77460.
+[15:54:08]	CCA.C17-UNION.i5.60555 ran 'drop' on item 'Documents Case' (#25929)
+[15:54:08]	CCA.C17-UNION.i5.60555 has lost a 'Documents Case' #25929.
+[15:54:08]	CCA.C17-UNION.i5.60555 has lost a 'Flashlight' #26021.
+[15:54:08]	CCA.C17-UNION.i5.60555 has lost a 'AI-2 Medikit' #26426.
+[15:54:08]	CCA.C17-UNION.i5.60555 has lost a 'Cloth Scrap' #30892.
+[15:54:08]	CCA.C17-UNION.i5.60555 has lost a 'Reinforced Padlock' #30697.
+[15:54:08]	CCA.C17-UNION.i5.60555 has lost a 'Gas Analyser' #30518.
+[15:54:23]	CCA.C17-JUDGE.i4.77460 has taken 2 damage from CCA.C17-JUDGE.i4.77460.
+[15:54:38]	CCA.C17-JUDGE.i4.77460 has taken 2 damage from CCA.C17-JUDGE.i4.77460.
+[15:54:53]	CCA.C17-JUDGE.i4.77460 has taken 2 damage from CCA.C17-JUDGE.i4.77460.
+[15:55:08]	CCA.C17-JUDGE.i4.77460 has taken 2 damage from CCA.C17-JUDGE.i4.77460.
+[15:55:23]	CCA.C17-JUDGE.i4.77460 has taken 2 damage from CCA.C17-JUDGE.i4.77460.
+[15:55:38]	CCA.C17-JUDGE.i4.77460 has taken 2 damage from CCA.C17-JUDGE.i4.77460.
+[15:55:53]	CCA.C17-JUDGE.i4.77460 has taken 2 damage from CCA.C17-JUDGE.i4.77460.
+[15:56:08]	CCA.C17-JUDGE.i4.77460 has taken 2 damage from CCA.C17-JUDGE.i4.77460.
+[15:56:23]	CCA.C17-JUDGE.i4.77460 has taken 2 damage from CCA.C17-JUDGE.i4.77460.
+[15:56:38]	CCA.C17-JUDGE.i4.77460 has taken 2 damage from CCA.C17-JUDGE.i4.77460.
+[15:56:42]	CCA.C17-UNION.i5.60555 has gained 10 tokens.
+[15:56:53]	CCA.C17-JUDGE.i4.77460 has taken 2 damage from CCA.C17-JUDGE.i4.77460.
+[15:57:08]	CCA.C17-JUDGE.i4.77460 has taken 2 damage from CCA.C17-JUDGE.i4.77460.
+[15:57:23]	CCA.C17-JUDGE.i4.77460 has taken 2 damage from CCA.C17-JUDGE.i4.77460.
+[15:57:38]	CCA.C17-JUDGE.i4.77460 has taken 2 damage from CCA.C17-JUDGE.i4.77460.
+[15:57:53]	CCA.C17-JUDGE.i4.77460 has taken 2 damage from CCA.C17-JUDGE.i4.77460.
+[15:58:08]	CCA.C17-JUDGE.i4.77460 has taken 2 damage from CCA.C17-JUDGE.i4.77460.
+[15:58:24]	CCA.C17-JUDGE.i4.77460 has taken 2 damage from CCA.C17-JUDGE.i4.77460.
+[15:58:39]	CCA.C17-JUDGE.i4.77460 has taken 2 damage from CCA.C17-JUDGE.i4.77460.
+[15:58:54]	CCA.C17-JUDGE.i4.77460 has taken 2 damage from CCA.C17-JUDGE.i4.77460.
+[15:59:09]	CCA.C17-JUDGE.i4.77460 has taken 2 damage from CCA.C17-JUDGE.i4.77460.
+[15:59:24]	CCA.C17-JUDGE.i4.77460 has taken 2 damage from CCA.C17-JUDGE.i4.77460.
+[15:59:39]	CCA.C17-JUDGE.i4.77460 has taken 2 damage from CCA.C17-JUDGE.i4.77460.
+[15:59:54]	CCA.C17-JUDGE.i4.77460 has taken 2 damage from CCA.C17-JUDGE.i4.77460.
+[16:00:09]	CCA.C17-JUDGE.i4.77460 has taken 2 damage from CCA.C17-JUDGE.i4.77460.
+[16:00:24]	CCA.C17-JUDGE.i4.77460 has taken 2 damage from CCA.C17-JUDGE.i4.77460.
+[16:00:39]	CCA.C17-JUDGE.i4.77460 has taken 2 damage from CCA.C17-JUDGE.i4.77460.
+[16:00:54]	CCA.C17-JUDGE.i4.77460 has taken 2 damage from CCA.C17-JUDGE.i4.77460.
+[16:01:09]	CCA.C17-JUDGE.i4.77460 has taken 2 damage from CCA.C17-JUDGE.i4.77460.
+[16:01:24]	CCA.C17-JUDGE.i4.77460 has taken 2 damage from CCA.C17-JUDGE.i4.77460.
+[16:01:39]	CCA.C17-JUDGE.i4.77460 has taken 2 damage from CCA.C17-JUDGE.i4.77460.
+[16:01:54]	CCA.C17-JUDGE.i4.77460 has taken 2 damage from CCA.C17-JUDGE.i4.77460.
+[16:02:09]	CCA.C17-JUDGE.i4.77460 has taken 2 damage from CCA.C17-JUDGE.i4.77460.
+[16:02:24]	CCA.C17-JUDGE.i4.77460 has taken 2 damage from CCA.C17-JUDGE.i4.77460.
+[16:02:39]	CCA.C17-JUDGE.i4.77460 has taken 2 damage from CCA.C17-JUDGE.i4.77460.
+[16:02:54]	CCA.C17-JUDGE.i4.77460 has taken 2 damage from CCA.C17-JUDGE.i4.77460.
+[16:03:09]	CCA.C17-JUDGE.i4.77460 has taken 2 damage from CCA.C17-JUDGE.i4.77460.
+[16:03:24]	CCA.C17-JUDGE.i4.77460 has taken 2 damage from CCA.C17-JUDGE.i4.77460.
+[16:03:39]	CCA.C17-JUDGE.i4.77460 has taken 2 damage from CCA.C17-JUDGE.i4.77460.
+[16:03:54]	CCA.C17-JUDGE.i4.77460 has taken 2 damage from CCA.C17-JUDGE.i4.77460.
+[16:04:09]	CCA.C17-JUDGE.i4.77460 has taken 2 damage from CCA.C17-JUDGE.i4.77460.
+[16:04:24]	CCA.C17-JUDGE.i4.77460 has taken 2 damage from CCA.C17-JUDGE.i4.77460.
+[16:04:39]	CCA.C17-JUDGE.i4.77460 has taken 2 damage from CCA.C17-JUDGE.i4.77460.
+[16:04:54]	CCA.C17-JUDGE.i4.77460 has taken 2 damage from CCA.C17-JUDGE.i4.77460.
+[16:05:09]	CCA.C17-JUDGE.i4.77460 has taken 2 damage from CCA.C17-JUDGE.i4.77460.
+[16:05:24]	CCA.C17-JUDGE.i4.77460 has taken 2 damage from CCA.C17-JUDGE.i4.77460.
+[16:05:39]	CCA.C17-JUDGE.i4.77460 has taken 2 damage from CCA.C17-JUDGE.i4.77460.
+[16:05:54]	CCA.C17-JUDGE.i4.77460 has taken 2 damage from CCA.C17-JUDGE.i4.77460.
+[16:06:09]	CCA.C17-JUDGE.i4.77460 has taken 2 damage from CCA.C17-JUDGE.i4.77460.
+[16:06:24]	CCA.C17-JUDGE.i4.77460 has taken 2 damage from CCA.C17-JUDGE.i4.77460.
+[16:06:40]	CCA.C17-JUDGE.i4.77460 has taken 2 damage from CCA.C17-JUDGE.i4.77460.
+[16:06:55]	CCA.C17-JUDGE.i4.77460 has taken 2 damage from CCA.C17-JUDGE.i4.77460.
+[16:07:10]	CCA.C17-JUDGE.i4.77460 has taken 2 damage from CCA.C17-JUDGE.i4.77460.
+[16:07:10]	CCA.C17-JUDGE.i4.77460 has killed CCA.C17-JUDGE.i4.77460.
+[16:16:39]	CCA.C17-JUDGE.i4.77460 has gained 10 tokens.
+[16:16:42]	CCA.C17-UNION.i5.60555 has gained 10 tokens.
+[16:18:01]	[OOC] CCA.C17-UNION.i5.60555: will go for now but may be on later
+[16:18:25]	NamRm (STEAM_0:0:69476140) has disconnected.
+[16:22:27]	Nums (STEAM_0:1:196547442) has disconnected.
+[16:43:03]	Megatron405 has connected.
+[16:46:12]	Elizabeth Anderson has gained a 'Green Citizen Suit' #31774.
+[16:46:12]	Elizabeth Anderson has gained a 'Citizen Filter' #31775.
+[16:46:12]	Megatron405 created the character 'Elizabeth Anderson'
+[16:46:12]	Elizabeth Anderson has gained a 'Suitcase' #31776.
+[16:46:12]	Elizabeth Anderson has gained a 'Relocation Coupon' #31777.
+[16:46:13]	Megatron405 loaded the character 'Elizabeth Anderson'
+[16:46:38]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:46:39]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:46:39]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:46:40]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:47:11]	Elizabeth Anderson ran 'Equip' on item 'Green Citizen Suit' (#31774)
+[16:47:14]	Elizabeth Anderson ran 'EquipUn' on item 'Green Citizen Suit' (#31774)
+[16:47:49]	Elizabeth Anderson ran 'drop' on item 'Citizen Filter' (#31775)
+[16:47:49]	Elizabeth Anderson has lost a 'Citizen Filter' #31775.
+[16:47:55]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:47:56]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:48:35]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:48:35]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:48:36]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:48:37]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:48:38]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:48:50]	Elizabeth Anderson ran 'drop' on item 'Suitcase' (#31776)
+[16:48:50]	Elizabeth Anderson has lost a 'Suitcase' #31776.
+[16:48:57]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:49:00]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:49:00]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:49:01]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:49:08]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:49:08]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:49:09]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:49:10]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:49:11]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:49:11]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:49:12]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:49:13]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:49:14]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:49:15]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:49:15]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:49:16]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:49:17]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:49:18]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:49:18]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:49:19]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:49:20]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:49:21]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:49:21]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:49:22]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:49:23]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:49:24]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:49:24]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:49:25]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:49:26]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:49:27]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:49:27]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:49:28]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:49:29]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:49:30]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:49:30]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:49:31]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:49:32]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:49:33]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:49:33]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:49:34]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:49:35]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:49:36]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:49:36]	Elizabeth Anderson ran 'Equip' on item 'Green Citizen Suit' (#31774)
+[16:49:36]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:49:37]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:49:38]	Elizabeth Anderson ran 'EquipUn' on item 'Green Citizen Suit' (#31774)
+[16:49:38]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:49:39]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:49:40]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:49:40]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:49:41]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:49:42]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:49:43]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:49:43]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:49:44]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:49:45]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:49:46]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:49:46]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:49:47]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:49:48]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:49:49]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:49:49]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:49:50]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:49:51]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:49:52]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:49:52]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:49:53]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:49:54]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:49:55]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:49:55]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:49:56]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:49:57]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:49:58]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:49:58]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:49:59]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:50:00]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:50:01]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:50:01]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:50:02]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:50:03]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:50:04]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:50:05]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:50:05]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:50:06]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:50:07]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:50:08]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:50:08]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:50:09]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:50:10]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:50:11]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:50:11]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:50:11]	worldspawn has killed Elizabeth Anderson.
+[16:50:25]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:50:27]	Elizabeth Anderson has taken 1 damage from worldspawn.
+[16:52:15]	Elizabeth Johnson. has gained a 'Green Citizen Suit' #31778.
+[16:52:15]	Elizabeth Johnson. has gained a 'Citizen Filter' #31779.
+[16:52:15]	Megatron405 created the character 'Elizabeth Johnson.'
+[16:52:15]	Elizabeth Johnson. has gained a 'Suitcase' #31780.
+[16:52:15]	Elizabeth Johnson. has gained a 'Relocation Coupon' #31781.
+[16:52:21]	Megatron405 (STEAM_0:1:511439154) deleted character 'Elizabeth Anderson'
+[16:52:23]	Megatron405 loaded the character 'Elizabeth Johnson.'
+[16:53:14]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:53:15]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:53:16]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:53:16]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:53:17]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:53:18]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:53:19]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:53:19]	Elizabeth Johnson. ran 'drop' on item 'Citizen Filter' (#31779)
+[16:53:19]	Elizabeth Johnson. has lost a 'Citizen Filter' #31779.
+[16:53:19]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:53:20]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:53:21]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:53:22]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:53:22]	Elizabeth Johnson. ran 'take' on item 'Citizen Filter' (#31779)
+[16:53:22]	Elizabeth Johnson. has gained a 'Citizen Filter' #31779.
+[16:53:22]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:53:23]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:53:24]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:53:25]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:53:25]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:53:26]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:53:27]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:53:28]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:53:29]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:53:29]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:53:30]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:53:31]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:53:44]	Elizabeth Johnson. ran 'drop' on item 'Citizen Filter' (#31779)
+[16:53:44]	Elizabeth Johnson. has lost a 'Citizen Filter' #31779.
+[16:53:46]	Elizabeth Johnson. ran 'take' on item 'Citizen Filter' (#31779)
+[16:53:46]	Elizabeth Johnson. has gained a 'Citizen Filter' #31779.
+[16:54:55]	Elizabeth Johnson. ran 'combine' on item 'Suitcase' (#31780)
+[16:55:02]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:55:03]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:55:04]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:56:16]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:56:16]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:56:17]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:56:18]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:56:48]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:56:49]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:56:50]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:56:51]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:56:52]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:56:57]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:56:58]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:57:11]	Elizabeth Johnson. ran 'drop' on item 'Citizen Filter' (#31779)
+[16:57:11]	Elizabeth Johnson. has lost a 'Citizen Filter' #31779.
+[16:57:23]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:57:24]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:57:24]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:57:25]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:57:26]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:57:27]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:57:27]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:57:28]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:57:29]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:57:30]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:57:31]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:57:31]	Elizabeth Johnson. ran 'take' on item 'Citizen Filter' (#31779)
+[16:57:31]	Elizabeth Johnson. has gained a 'Citizen Filter' #31779.
+[16:57:31]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:57:32]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:57:43]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:57:44]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:57:44]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:57:45]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:57:46]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:57:47]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:57:47]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:57:48]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:57:49]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:57:50]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:57:50]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:57:51]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:57:52]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:57:53]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:57:53]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:57:54]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:57:55]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:57:56]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:57:56]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:57:57]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:57:58]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:57:59]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:58:00]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:58:00]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:58:01]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:58:02]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:58:03]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:58:03]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:58:04]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:58:05]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:58:06]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:58:06]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:58:07]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:58:08]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:58:09]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:58:09]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:58:10]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:58:11]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:58:12]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:58:12]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:58:13]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:58:14]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:58:15]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:58:15]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:58:16]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:58:17]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:58:18]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:58:18]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:58:19]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:58:20]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:58:20]	worldspawn has killed Elizabeth Johnson..
+[16:58:35]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:58:37]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:59:09]	Elizabeth Johnson. ran 'Equip' on item 'Green Citizen Suit' (#31778)
+[16:59:13]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:59:14]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[16:59:16]	Elizabeth Johnson. ran 'EquipUn' on item 'Green Citizen Suit' (#31778)
+[17:00:00]	Elizabeth Johnson. used command '/Gasmask'.
+[17:00:03]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[17:00:04]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[17:00:11]	Elizabeth Johnson. used command '/Gasmask'.
+[17:00:19]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[17:00:20]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[17:00:21]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[17:00:22]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[17:00:22]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[17:00:23]	Elizabeth Johnson. used command '/Gasmask'.
+[17:00:23]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[17:01:14]	Elizabeth Johnson. used command '/Gasmask'.
+[17:01:16]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[17:01:17]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[17:02:21]	Elizabeth Johnson. ran 'Equip' on item 'Green Citizen Suit' (#31778)
+[17:02:28]	Elizabeth Johnson. used command '/Gasmask'.
+[17:02:32]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[17:02:33]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[17:02:33]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[17:02:34]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[17:02:35]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[17:02:36]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[17:02:36]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[17:02:37]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[17:02:37]	Elizabeth Johnson. used command '/Gasmask'.
+[17:02:38]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[17:02:39]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[17:02:46]	Elizabeth Johnson. ran 'equip' on item 'Citizen Filter' (#31779)
+[17:02:52]	Elizabeth Johnson. ran 'EquipUn' on item 'Green Citizen Suit' (#31778)
+[17:02:52]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[17:02:53]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[17:02:54]	Elizabeth Johnson. ran 'Equip' on item 'Green Citizen Suit' (#31778)
+[17:03:09]	Elizabeth Johnson. ran 'EquipUn' on item 'Green Citizen Suit' (#31778)
+[17:03:54]	Elizabeth Johnson. ran 'Equip' on item 'Green Citizen Suit' (#31778)
+[17:04:12]	Elizabeth Johnson. used command '/Apply'.
+[17:05:16]	Elizabeth Johnson. ran 'EquipUn' on item 'Green Citizen Suit' (#31778)
+[17:05:21]	Megatron405 (STEAM_0:1:511439154) has disconnected.
+[17:17:32]	NamRm has connected.
+[17:24:59]	NamRm loaded the character 'Aurelio Grau'
+[17:25:06]	NamRm loaded the character 'CCA.C17-UNION.i5.60555'
+[17:25:13]	Bean has connected.
+[17:25:35]	Bean loaded the character 'Alex Palovichov'
+[17:25:42]	Alex Palovichov entered observer.
+[17:25:48]	[OOC] CCA.C17-UNION.i5.60555: hey bean i need you to unstuck my other guy
+[17:25:52]	NamRm loaded the character 'Aurelio Grau'
+[17:25:54]	[OOC] Aurelio Grau: this guy
+[17:26:10]	[OOC] Aurelio Grau: thank you
+[17:26:12]	[OOC] Alex Palovichov: there ya go
+[17:26:16]	Alex Palovichov ran 'EquipUn' on item 'CWU Leadership Suit' (#24484)
+[17:26:17]	Alex Palovichov ran 'Equip' on item 'CWU Leadership Suit' (#24484)
+[17:26:22]	Alex Palovichov exited observer at their location.
+[17:26:28]	Alex Palovichov ran 'drop' on item 'Flashlight' (#24485)
+[17:26:28]	Alex Palovichov has lost a 'Flashlight' #24485.
+[17:26:43]	Alex Palovichov entered observer.
+[17:26:53]	Alex Palovichov exited observer at their location.
+[17:26:56]	Bean loaded the character 'Daniel J. Cutter'
+[17:26:57]	Daniel J. Cutter entered observer.
+[17:27:15]	Daniel J. Cutter exited observer at their location.
+[17:27:18]	Daniel J. Cutter ran 'take' on item 'Pulse Ammunition' (#31782)
+[17:27:18]	Daniel J. Cutter has gained a 'Pulse Ammunition' #31782.
+[17:27:36]	Daniel J. Cutter ran 'take' on item 'Cloth Scrap' (#31784)
+[17:27:36]	Daniel J. Cutter has gained a 'Cloth Scrap' #31784.
+[17:27:47]	Daniel J. Cutter ran 'take' on item 'Scrap Metal' (#31785)
+[17:27:47]	Daniel J. Cutter has gained a 'Scrap Metal' #31785.
+[17:28:28]	Daniel J. Cutter has gained a 'Padlock' #31786.
+[17:28:40]	Daniel J. Cutter destroyed a 'Blue Pre-War Shirt' #31592.
+[17:28:44]	Daniel J. Cutter destroyed a 'Empty Paint Can' #31623.
+[17:29:02]	Daniel J. Cutter has gained 5 tokens.
+[17:29:12]	Daniel J. Cutter ran 'take' on item 'Cloth Scrap' (#31765)
+[17:29:12]	Daniel J. Cutter has gained a 'Cloth Scrap' #31765.
+[17:29:22]	Daniel J. Cutter has gained a 'Nylon Cord' #31788.
+[17:29:34]	Daniel J. Cutter has gained a 'Empty Paint Can' #31789.
+[17:29:35]	Daniel J. Cutter ran 'drop' on item 'Empty Paint Can' (#31789)
+[17:29:35]	Daniel J. Cutter has lost a 'Empty Paint Can' #31789.
+[17:29:36]	Daniel J. Cutter entered observer.
+[17:29:38]	Daniel J. Cutter entered observer.
+[17:29:54]	Daniel J. Cutter exited observer at their location.
+[17:30:00]	Daniel J. Cutter ran 'take' on item 'Cloth Scrap' (#31790)
+[17:30:00]	Daniel J. Cutter has gained a 'Cloth Scrap' #31790.
+[17:30:06]	Daniel J. Cutter destroyed a 'Blue Pre-War Shirt' #31686.
+[17:30:17]	Daniel J. Cutter has gained 10 tokens.
+[17:30:18]	Daniel J. Cutter entered observer.
+[17:30:19]	Daniel J. Cutter entered observer.
+[17:30:21]	Daniel J. Cutter exited observer at their location.
+[17:30:23]	Daniel J. Cutter entered observer.
+[17:30:28]	Daniel J. Cutter exited observer at their location.
+[17:30:29]	Daniel J. Cutter entered observer.
+[17:30:37]	Daniel J. Cutter has gained a 'Bandage' #31790.
+[17:30:46]	Daniel J. Cutter exited observer at their location.
+[17:30:54]	Daniel J. Cutter ran 'drop' on item 'Cloth Scrap' (#31784)
+[17:30:54]	Daniel J. Cutter has lost a 'Cloth Scrap' #31784.
+[17:30:59]	Daniel J. Cutter ran 'drop' on item 'Scrap Metal' (#31785)
+[17:30:59]	Daniel J. Cutter has lost a 'Scrap Metal' #31785.
+[17:31:12]	Daniel J. Cutter ran 'drop' on item 'Padlock' (#31786)
+[17:31:12]	Daniel J. Cutter has lost a 'Padlock' #31786.
+[17:31:23]	Daniel J. Cutter opened the 'Padlocked Item Crate' #2851 container.
+[17:31:26]	wendigo has connected.
+[17:31:27]	Daniel J. Cutter closed the 'Padlocked Item Crate' #2851 container.
+[17:31:33]	Daniel J. Cutter ran 'drop' on item 'Nylon Cord' (#31788)
+[17:31:33]	Daniel J. Cutter has lost a 'Nylon Cord' #31788.
+[17:31:38]	Daniel J. Cutter entered observer.
+[17:31:50]	Daniel J. Cutter exited observer at their location.
+[17:31:53]	Daniel J. Cutter entered observer.
+[17:31:54]	Daniel J. Cutter exited observer at their location.
+[17:32:03]	Daniel J. Cutter opened the 'Padlocked Item Crate' #2851 container.
+[17:32:03]	Daniel J. Cutter closed the 'Padlocked Item Crate' #2851 container.
+[17:32:15]	Daniel J. Cutter ran 'View' on item 'Paper' (#31346)
+[17:32:22]	wendigo loaded the character 'Stewie Lou'
+[17:32:24]	Daniel J. Cutter ran 'take' on item 'Padlock' (#31786)
+[17:32:24]	Daniel J. Cutter has gained a 'Padlock' #31786.
+[17:32:30]	Daniel J. Cutter ran 'Use' on item 'Padlock' (#31786)
+[17:32:32]	Stewie Lou opened the 'Refrigerator' #2404 container.
+[17:32:35]	Stewie Lou closed the 'Refrigerator' #2404 container.
+[17:32:47]	Daniel J. Cutter entered observer.
+[17:32:58]	Daniel J. Cutter exited observer at their location.
+[17:33:00]	Bean loaded the character 'CCA.C17-UNION.i5.83253'
+[17:33:12]	[W] CCA.C17-UNION.i5.83253: <:: Unit is on-duty, 10-8. ::>
+[17:34:02]	Stewie Lou has gained a 'A Roll of Toilet Paper' #31791.
+[17:34:29]	CCA.C17-UNION.i5.83253 used command '/ViewData Aurelio Grau'.
+[17:34:46]	Stewie Lou has gained a 'AA Battery' #31792.
+[17:34:55]	Stewie Lou ran 'take' on item 'Raw Flying Alien Meat' (#31731)
+[17:34:55]	Stewie Lou has gained a 'Raw Flying Alien Meat' #31731.
+[17:35:14]	Stewie Lou has gained a 'Empty Soda Bottle' #31793.
+[17:35:28]	Stewie Lou has gained a 'Empty Cooking Oil Bottle' #31794.
+[17:35:34]	Stewie Lou opened the 'Dumpster' #2736 container.
+[17:35:41]	Stewie Lou closed the 'Dumpster' #2736 container.
+[17:36:00]	Stewie Lou opened the 'Reinforced Padlocked Crate' #235 container.
+[17:36:02]	Stewie Lou closed the 'Reinforced Padlocked Crate' #235 container.
+[17:36:30]	CCA.C17-UNION.i5.83253 entered observer.
+[17:36:40]	[LOOC] CCA.C17-UNION.i5.83253: Uhh...
+[17:36:51]	[LOOC] CCA.C17-UNION.i5.83253: Im trying to see how you would even get this out
+[17:37:00]	[LOOC] Stewie Lou: i could throw it
+[17:37:08]	[LOOC] CCA.C17-UNION.i5.83253: Can't just throw a heavy ass crate
+[17:37:09]	[LOOC] Stewie Lou: over that fence right there
+[17:37:09]	CCA.C17-UNION.i5.83253 opened the 'Reinforced Padlocked Crate' #235 container.
+[17:37:11]	CCA.C17-UNION.i5.83253 closed the 'Reinforced Padlocked Crate' #235 container.
+[17:37:15]	[LOOC] CCA.C17-UNION.i5.83253: 100% not that
+[17:37:17]	[LOOC] Stewie Lou: YOU COULD
+[17:37:22]	[LOOC] CCA.C17-UNION.i5.83253: No...
+[17:37:44]	[LOOC] CCA.C17-UNION.i5.83253: Unless you can get a ramp throw that window, I doubt you can get it out
+[17:37:55]	[LOOC] CCA.C17-UNION.i5.83253: through*
+[17:37:58]	Stewie Lou opened the 'Reinforced Padlocked Crate' #235 container.
+[17:38:00]	Stewie Lou closed the 'Reinforced Padlocked Crate' #235 container.
+[17:38:00]	CCA.C17-UNION.i5.83253 has gained 10 tokens.
+[17:38:05]	[LOOC] CCA.C17-UNION.i5.83253: but lemme see...
+[17:38:18]	[LOOC] CCA.C17-UNION.i5.83253: Doesnt fit though
+[17:38:25]	[LOOC] Stewie Lou: FUCK IWANTED VBOX!
+[17:38:35]	[LOOC] Stewie Lou: stupid window being too small
+[17:38:38]	[LOOC] CCA.C17-UNION.i5.83253: Lol
+[17:38:45]	[LOOC] CCA.C17-UNION.i5.83253: Try stealing from other people
+[17:38:51]	[LOOC] Stewie Lou: later
+[17:38:55]	Stewie Lou ran 'take' on item 'AA Battery' (#30917)
+[17:38:55]	Stewie Lou has gained a 'AA Battery' #30917.
+[17:39:04]	Stewie Lou ran 'take' on item 'AA Battery' (#31580)
+[17:39:04]	Stewie Lou has gained a 'AA Battery' #31580.
+[17:39:25]	Stewie Lou ran 'take' on item 'Pliers' (#31609)
+[17:39:25]	Stewie Lou has gained a 'Pliers' #31609.
+[17:39:37]	Stewie Lou has gained a 'Rock' #31795.
+[17:39:42]	Stewie Lou has taken 5 damage from npc_headcrab.
+[17:39:46]	Stewie Lou has taken 5 damage from npc_headcrab.
+[17:39:59]	Stewie Lou has gained a 'Empty Chinese Takeout' #31796.
+[17:40:00]	CCA.C17-UNION.i5.83253 exited observer at their location.
+[17:40:03]	Bean loaded the character 'Daniel J. Cutter'
+[17:40:05]	Daniel J. Cutter entered observer.
+[17:40:20]	Stewie Lou has gained a 'Broken LCD Monitor' #31797.
+[17:40:24]	Daniel J. Cutter has spawned a 'NPC [1893][npc_zombie]'.
+[17:40:26]	Stewie Lou ran 'drop' on item 'Broken LCD Monitor' (#31797)
+[17:40:26]	Stewie Lou has lost a 'Broken LCD Monitor' #31797.
+[17:40:29]	Stewie Lou ran 'drop' on item 'Rock' (#31795)
+[17:40:29]	Stewie Lou has lost a 'Rock' #31795.
+[17:40:30]	Stewie Lou ran 'drop' on item 'Empty Chinese Takeout' (#31796)
+[17:40:30]	Stewie Lou has lost a 'Empty Chinese Takeout' #31796.
+[17:40:31]	Daniel J. Cutter has spawned a 'NPC [4329][npc_headcrab]'.
+[17:40:49]	Stewie Lou has gained a 'Scrap Plastic' #31798.
+[17:40:52]	Stewie Lou ran 'take' on item 'Silicone Tube' (#31699)
+[17:40:52]	Stewie Lou has gained a 'Silicone Tube' #31699.
+[17:40:55]	Stewie Lou ran 'take' on item 'LCD Monitor' (#31265)
+[17:40:55]	Stewie Lou has gained a 'LCD Monitor' #31265.
+[17:40:57]	Daniel J. Cutter has spawned a 'NPC [1587][npc_zombie]'.
+[17:41:05]	Stewie Lou has gained a 'Empty Flavored Consulate Water Can' #31799.
+[17:41:11]	Daniel J. Cutter has spawned a 'NPC [4323][npc_headcrab]'.
+[17:41:17]	Stewie Lou ran 'drop' on item 'Empty Flavored Consulate Water Can' (#31799)
+[17:41:17]	Stewie Lou has lost a 'Empty Flavored Consulate Water Can' #31799.
+[17:41:19]	Stewie Lou ran 'take' on item 'Rope' (#31448)
+[17:41:19]	Stewie Lou has gained a 'Rope' #31448.
+[17:41:20]	Stewie Lou has gained a 'Graphics Card' #31800.
+[17:41:27]	Daniel J. Cutter has spawned a 'NPC [4332][npc_zombie]'.
+[17:41:28]	Daniel J. Cutter exited observer at their location.
+[17:41:28]	Stewie Lou has taken 5 damage from npc_headcrab.
+[17:41:33]	Daniel J. Cutter entered observer.
+[17:41:37]	Stewie Lou has gained a 'Circuit Board' #31802.
+[17:41:38]	Megatron405 has connected.
+[17:41:44]	Stewie Lou has taken 5 damage from npc_headcrab.
+[17:41:50]	Stewie Lou ran 'take' on item 'Screw Nuts' (#31454)
+[17:41:50]	Stewie Lou has gained a 'Screw Nuts' #31454.
+[17:41:52]	Stewie Lou has gained a 'Bar of Soap' #31803.
+[17:41:58]	Megatron405 loaded the character 'Elizabeth Johnson.'
+[17:42:00]	Daniel J. Cutter has spawned a 'NPC [1956][npc_zombie]'.
+[17:42:05]	Stewie Lou ran 'take' on item 'Pack of Nails' (#31743)
+[17:42:05]	Stewie Lou has gained a 'Pack of Nails' #31743.
+[17:42:11]	Stewie Lou ran 'drop' on item 'Bar of Soap' (#31803)
+[17:42:11]	Stewie Lou has lost a 'Bar of Soap' #31803.
+[17:42:12]	Daniel J. Cutter has spawned a 'NPC [4360][npc_headcrab]'.
+[17:42:14]	Elizabeth Johnson. ran 'Equip' on item 'Green Citizen Suit' (#31778)
+[17:42:18]	Daniel J. Cutter has spawned a 'NPC [4365][npc_zombie]'.
+[17:42:20]	Stewie Lou has gained a 'Light Bulb' #31804.
+[17:42:30]	Stewie Lou ran 'take' on item 'Scrap Plastic' (#31338)
+[17:42:30]	Stewie Lou has gained a 'Scrap Plastic' #31338.
+[17:42:41]	Stewie Lou ran 'take' on item 'Pack of Screws' (#31746)
+[17:42:41]	Stewie Lou has gained a 'Pack of Screws' #31746.
+[17:42:44]	[OOC] Daniel J. Cutter: Welcome! I'll be right with you! Don't forget to put your suit on and insert its filter!
+[17:42:45]	Stewie Lou ran 'take' on item 'Powercord' (#31624)
+[17:42:45]	Stewie Lou has gained a 'Powercord' #31624.
+[17:42:52]	Daniel J. Cutter exited observer at their location.
+[17:42:55]	Bean loaded the character 'CCA.C17-UNION.i5.83253'
+[17:42:55]	CCA.C17-UNION.i5.83253 entered observer.
+[17:43:03]	Stewie Lou has taken 5 damage from npc_headcrab.
+[17:43:03]	npc_headcrab has killed Stewie Lou.
+[17:43:05]	[OOC] CCA.C17-UNION.i5.83253: huh...my icon is wrong
+[17:43:07]	CCA.C17-UNION.i5.83253 exited observer at their location.
+[17:43:14]	[OOC] Elizabeth Johnson.: Huh
+[17:43:24]	[OOC] CCA.C17-UNION.i5.83253: Oh nothing, just have to speak with Q bout something
+[17:44:56]	Stewie Lou ran 'drop' on item 'Citizen ID' (#30858)
+[17:44:56]	Stewie Lou has lost a 'Citizen ID' #30858.
+[17:44:59]	CCA.C17-UNION.i5.83253 ran 'take' on item 'Citizen ID' (#30858)
+[17:44:59]	CCA.C17-UNION.i5.83253 has gained a 'Citizen ID' #30858.
+[17:45:12]	CCA.C17-UNION.i5.83253 used command '/ViewData Stewie Lou'.
+[17:45:27]	CCA.C17-UNION.i5.83253 ran 'drop' on item 'Citizen ID' (#30858)
+[17:45:27]	CCA.C17-UNION.i5.83253 has lost a 'Citizen ID' #30858.
+[17:45:31]	Aurelio Grau ran 'View' on item 'Paper' (#5259)
+[17:45:33]	Stewie Lou ran 'take' on item 'Citizen ID' (#30858)
+[17:45:33]	Stewie Lou has gained a 'Citizen ID' #30858.
+[17:46:03]	Aurelio Grau ran 'View' on item 'Paper' (#24266)
+[17:46:13]	Elizabeth Johnson. ran 'drop' on item 'Relocation Coupon' (#31781)
+[17:46:13]	Elizabeth Johnson. has lost a 'Relocation Coupon' #31781.
+[17:46:22]	[ME] CCA.C17-UNION.i5.83253: Would grab the coupon, inspecting it
+[17:46:27]	CCA.C17-UNION.i5.83253 ran 'take' on item 'Relocation Coupon' (#31781)
+[17:46:27]	CCA.C17-UNION.i5.83253 has gained a 'Relocation Coupon' #31781.
+[17:46:29]	[LOOC] CCA.C17-UNION.i5.83253: mfw ping
+[17:46:38]	[LOOC] Elizabeth Johnson.: Lmao, happens
+[17:46:51]	CCA.C17-UNION.i5.83253 ran 'take' on item 'Citizen ID' (#31806)
+[17:46:51]	CCA.C17-UNION.i5.83253 has gained a 'Citizen ID' #31806.
+[17:46:54]	Stewie Lou has gained a 'Spark Plug' #31807.
+[17:47:09]	Stewie Lou opened the 'Dumpster' #2684 container.
+[17:47:14]	Stewie Lou closed the 'Dumpster' #2684 container.
+[17:47:45]	Stewie Lou opened the 'Dumpster' #239 container.
+[17:47:46]	[ME] CCA.C17-UNION.i5.83253: Would reach into his vest, taking out his PDA, pressing a button the screen lights up with a harsh blue
+[17:47:47]	Stewie Lou closed the 'Dumpster' #239 container.
+[17:47:52]	CCA.C17-UNION.i5.83253 used command '/ViewData Elizabeth Johnson'.
+[17:47:55]	CCA.C17-UNION.i5.83253 has gained 10 tokens.
+[17:48:00]	Aurelio Grau ran 'View' on item 'Paper' (#26647)
+[17:48:14]	[LOOC] CCA.C17-UNION.i5.83253: Takes place in 2006, minimum is 1986
+[17:48:22]	Aurelio Grau ran 'View' on item 'Notepad' (#29496)
+[17:48:50]	CCA.C17-UNION.i5.83253 used command '/ViewData Elizabeth Johnson'.
+[17:48:55]	[LOOC] Elizabeth Johnson.: Was gonna use a random but eh, lazy for that aswell lol
+[17:49:16]	CCA.C17-UNION.i5.83253 used command '/ViewData Elizabeth Johnson'.
+[17:50:00]	Stewie Lou opened the 'Metal Cabinet' #2763 container.
+[17:50:05]	[LOOC] Elizabeth Johnson.: I look like a clown smh
+[17:50:08]	[ME] CCA.C17-UNION.i5.83253: Would look at his PDA, pressing a few more buttons
+[17:50:12]	CCA.C17-UNION.i5.83253 used command '/ViewData Elizabeth Johnson'.
+[17:50:14]	Stewie Lou ran 'equip' on item 'Citizen Filter' (#30334)
+[17:50:33]	Stewie Lou has gained a 'Scrap Electronics' #29174.
+[17:50:34]	Stewie Lou has gained a 'Scrap Electronics' #29175.
+[17:50:50]	Stewie Lou closed the 'Metal Cabinet' #2763 container.
+[17:51:15]	[LOOC] Elizabeth Johnson.: As in like if I work in CWU-?
+[17:51:23]	[LOOC] CCA.C17-UNION.i5.83253: Correct
+[17:51:47]	[ME] CCA.C17-UNION.i5.83253: Would reach into his pocket, tossing her CID to her
+[17:51:49]	CCA.C17-UNION.i5.83253 ran 'drop' on item 'Citizen ID' (#31806)
+[17:51:49]	CCA.C17-UNION.i5.83253 has lost a 'Citizen ID' #31806.
+[17:51:54]	Elizabeth Johnson. ran 'take' on item 'Citizen ID' (#31806)
+[17:51:54]	Elizabeth Johnson. has gained a 'Citizen ID' #31806.
+[17:51:56]	CCA.C17-UNION.i5.83253 opened the 'File Cabinet' #2584 container.
+[17:51:59]	CCA.C17-UNION.i5.83253 closed the 'File Cabinet' #2584 container.
+[17:52:04]	CCA.C17-UNION.i5.83253 used command '/ViewData Elizabeth Johnson'.
+[17:52:11]	CCA.C17-UNION.i5.83253 entered observer.
+[17:52:15]	Elizabeth Johnson. ran 'combine' on item 'Suitcase' (#31780)
+[17:52:33]	[LOOC] CCA.C17-UNION.i5.83253: You really think...you can carry a metal cabinet...
+[17:52:40]	[LOOC] Stewie Lou: maybe
+[17:52:42]	[LOOC] CCA.C17-UNION.i5.83253: Down stairs...Then up them, across the city...
+[17:52:45]	[LOOC] CCA.C17-UNION.i5.83253: Yeah...No
+[17:52:50]	[LOOC] CCA.C17-UNION.i5.83253: Not alone you won't
+[17:52:55]	CCA.C17-UNION.i5.83253 has gained 10 tokens.
+[17:52:58]	[LOOC] Stewie Lou: what if i roll really high in strength
+[17:53:02]	[OOC] Elizabeth Johnson.: I can walk to any spot...right?
+[17:53:14]	[LOOC] CCA.C17-UNION.i5.83253: No, you can't carry a cabinet up a flight of stairs alone
+[17:53:21]	[OOC] CCA.C17-UNION.i5.83253: Elaborate on that?
+[17:53:31]	CCA.C17-UNION.i5.83253 exited observer at their location.
+[17:53:33]	[LOOC] Stewie Lou: well FUCK
+[17:53:47]	[OOC] Elizabeth Johnson.: As of, you know, going to the other sector, like near the Nexus for example.
+[17:53:52]	CCA.C17-UNION.i5.83253 entered observer.
+[17:54:13]	[OOC] CCA.C17-UNION.i5.83253: If you are saying you can only walk, yes, if you are saying you can go anywhere, yesish
+[17:54:28]	CCA.C17-UNION.i5.83253 exited observer at their location.
+[17:54:35]	[OOC] Elizabeth Johnson.: No I do not want to suicide like other people do to try and get in Nexus.
+[17:54:45]	[OOC] Aurelio Grau: try going anywhere and see what happens
+[17:54:59]	[OOC] CCA.C17-UNION.i5.83253: There is the nexus lobby that is acessable
+[17:55:34]	Elizabeth Johnson. used command '/DoorBuy'.
+[17:55:48]	[LOOC] CCA.C17-UNION.i5.83253: Wait...Dont tell me, you can see me?
+[17:55:51]	[LOOC] CCA.C17-UNION.i5.83253: AH FUCK
+[17:55:58]	[LOOC] Aurelio Grau: yes
+[17:56:05]	[LOOC] CCA.C17-UNION.i5.83253: Thought i was in noclip! 
+[17:56:05]	[OOC] Elizabeth Johnson.: Can't own an apartment :skull:
+[17:56:09]	[LOOC] CCA.C17-UNION.i5.83253: My bad lmaooo
+[17:56:12]	[LOOC] Aurelio Grau: oh nice
+[17:56:15]	[OOC] CCA.C17-UNION.i5.83253: You'd need to speak with a cp about that
+[17:56:21]	[OOC] Elizabeth Johnson.: Huh.
+[17:56:23]	[LOOC] CCA.C17-UNION.i5.83253: My bad, was speaking with Q bout something
+[17:56:28]	[LOOC] Aurelio Grau: all good
+[17:56:30]	CCA.C17-UNION.i5.83253 entered observer.
+[17:56:36]	[LOOC] Aurelio Grau: yup
+[17:56:40]	[LOOC] Stewie Lou: ghost cp SCARY!!
+[17:56:45]	[LOOC] Aurelio Grau: terrifying
+[17:57:31]	[W] Stewie Lou: Wanna buy some stuff?
+[17:57:38]	[OOC] CCA.C17-UNION.i5.83253: You would need to speak with a CP about getting a room
+[17:57:40]	[W] Aurelio Grau: What... 'stuff'?
+[17:57:42]	CCA.C17-UNION.i5.83253 exited observer at their location.
+[17:57:45]	Bean loaded the character 'Daniel J. Cutter'
+[17:57:46]	Daniel J. Cutter entered observer.
+[17:57:51]	[OOC] Elizabeth Johnson.: I already saw it.
+[17:57:55]	[OOC] Daniel J. Cutter: Oh
+[17:58:09]	Daniel J. Cutter exited observer at their location.
+[17:58:11]	Bean loaded the character 'Alex Palovichov'
+[17:58:13]	[W] Stewie Lou: Like scrap, scrap eletronics, tools, graphics cars, and more.
+[17:58:14]	Alex Palovichov ran 'EquipUn' on item 'CWU Leadership Suit' (#24484)
+[17:58:15]	Alex Palovichov ran 'Equip' on item 'CWU Leadership Suit' (#24484)
+[17:58:15]	Alex Palovichov entered observer.
+[17:58:20]	Alex Palovichov exited observer at their location.
+[17:58:25]	[LOOC] Stewie Lou: cards*
+[17:59:18]	Elizabeth Johnson. ran 'EquipUn' on item 'Green Citizen Suit' (#31778)
+[17:59:18]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[17:59:18]	Elizabeth Johnson. has taken 1 damage from worldspawn.
+[17:59:18]	Elizabeth Johnson. ran 'Equip' on item 'Green Citizen Suit' (#31778)
+[17:59:35]	Alex Palovichov used the 'Shopkeeper Jim' vendor.
+[17:59:38]	[W] Aurelio Grau: Not interested.
+[17:59:47]	Alex Palovichov entered observer.
+[17:59:53]	[W] Stewie Lou: Ya sure? got some real good stuff.
+[17:59:58]	[OOC] Elizabeth Johnson.: You can't take your mask off anywhere, huh..
+[18:00:09]	[OOC] Alex Palovichov: Nope, you can take it off when you are around a filter
+[18:00:30]	[OOC] Elizabeth Johnson.: I see.
+[18:00:55]	[W] Aurelio Grau: I think I'm alright. You also realize you are advertising right in front of the nexus?
+[18:01:14]	[W] Stewie Lou: I am aware, that's the fun of it.
+[18:01:35]	[W] Stewie Lou: Anyways if you want to buy some materials try to find me.
+[18:01:46]	Alex Palovichov exited observer at their location.
+[18:03:51]	Elizabeth Johnson. ran 'View' on item 'Paper' (#26647)
+[18:04:26]	Alex Palovichov entered observer.
+[18:04:29]	Alex Palovichov opened the 'Metal Cabinet' #2713 container.
+[18:04:31]	Alex Palovichov closed the 'Metal Cabinet' #2713 container.
+[18:04:32]	Elizabeth Johnson. ran 'take' on item 'Empty Milk Gallon' (#31243)
+[18:04:32]	Elizabeth Johnson. has gained a 'Empty Milk Gallon' #31243.
+[18:04:39]	Elizabeth Johnson. ran 'drop' on item 'Empty Milk Gallon' (#31243)
+[18:04:39]	Elizabeth Johnson. has lost a 'Empty Milk Gallon' #31243.
+[18:04:47]	Alex Palovichov exited observer at their location.
+[18:04:49]	Stewie Lou opened the 'File Cabinet' #237 container.
+[18:04:52]	Stewie Lou closed the 'File Cabinet' #237 container.
+[18:04:53]	[Y] Alex Palovichov: Hey!
+[18:04:57]	[Y] Alex Palovichov: You can't be back here!
+[18:05:02]	[Y] Alex Palovichov: Its trespassing!
+[18:05:07]	[Y] Alex Palovichov: Get out! Now!
+[18:05:08]	[LOOC] Stewie Lou: how tf are you finding me lol
+[18:05:15]	[Y] Stewie Lou: OK OK!
+[18:05:16]	[LOOC] Alex Palovichov: you are legit in my area of operations...
+[18:05:26]	[LOOC] Stewie Lou: nerd
+[18:05:34]	Alex Palovichov entered observer.
+[18:05:35]	Alex Palovichov exited observer at their location.
+[18:05:38]	[OOC] Elizabeth Johnson.: trying to become a CP is gonna be more harder than I though..
+[18:05:50]	[OOC] Alex Palovichov: Meh, not too hard
+[18:06:01]	[OOC] Alex Palovichov: Its a forums application, you require 10+ LP to join
+[18:06:05]	Alex Palovichov entered observer.
+[18:06:06]	Alex Palovichov exited observer at their location.
+[18:06:08]	Bean loaded the character 'Daniel J. Cutter'
+[18:06:09]	Daniel J. Cutter entered observer.
+[18:06:12]	[OOC] Elizabeth Johnson.: Yep, 0 LP, great..
+[18:06:22]	Daniel J. Cutter exited observer at their location.
+[18:06:43]	Daniel J. Cutter entered observer.
+[18:07:33]	Nums has connected.
+[18:07:41]	Daniel J. Cutter opened the 'Padlocked Crate' #2881 container.
+[18:07:43]	Daniel J. Cutter closed the 'Padlocked Crate' #2881 container.
+[18:07:44]	Daniel J. Cutter opened the 'Padlocked Crate' #2872 container.
+[18:07:46]	Daniel J. Cutter closed the 'Padlocked Crate' #2872 container.
+[18:07:47]	Daniel J. Cutter opened the 'Crate' #2558 container.
+[18:07:48]	Daniel J. Cutter closed the 'Crate' #2558 container.
+[18:07:50]	Daniel J. Cutter opened the 'File Cabinet' #2819 container.
+[18:07:53]	Daniel J. Cutter closed the 'File Cabinet' #2819 container.
+[18:08:11]	Stewie Lou opened the 'File Cabinet' #2819 container.
+[18:08:13]	Nums loaded the character 'CCA.C17-JUDGE.i4.77460'
+[18:08:14]	Stewie Lou closed the 'File Cabinet' #2819 container.
+[18:08:15]	Stewie Lou opened the 'Padlocked Crate' #2872 container.
+[18:08:17]	Stewie Lou closed the 'Padlocked Crate' #2872 container.
+[18:08:18]	Stewie Lou opened the 'Padlocked Crate' #2881 container.
+[18:08:20]	Stewie Lou closed the 'Padlocked Crate' #2881 container.
+[18:08:23]	Stewie Lou opened the 'Crate' #2558 container.
+[18:08:25]	Stewie Lou closed the 'Crate' #2558 container.
+[18:08:28]	[OOC] Elizabeth Johnson.: Judge!?!?1
+[18:08:28]	Stewie Lou opened the 'Refrigerator' #2404 container.
+[18:08:31]	[OOC] Daniel J. Cutter: For some unknown reason, by symbol isn't showing up...But for any new people, I am a Mod, so if you need help, lemme know
+[18:08:36]	Stewie Lou closed the 'Refrigerator' #2404 container.
+[18:08:54]	[LOOC] Daniel J. Cutter: Ey!
+[18:09:07]	[LOOC] CCA.C17-JUDGE.i4.77460: hello
+[18:09:23]	[LOOC] Daniel J. Cutter: Just a question since your the only CP i've seen yet
+[18:09:29]	[LOOC] Daniel J. Cutter: how do the trainings work...
+[18:09:48]	[LOOC] Daniel J. Cutter: If you remember of course
+[18:09:51]	[OOC] CCA.C17-JUDGE.i4.77460: they're doen by a higher up
+[18:09:55]	[LOOC] CCA.C17-JUDGE.i4.77460: wrong chat
+[18:10:01]	[LOOC] CCA.C17-JUDGE.i4.77460: but yea done by a higher up
+[18:10:07]	[LOOC] Daniel J. Cutter: What sorta "higher up"?
+[18:10:16]	Aurelio Grau ran 'View' on item 'Notepad' (#30984)
+[18:10:18]	[LOOC] CCA.C17-JUDGE.i4.77460: officer of the MPF like Q or DRD
+[18:10:25]	[LOOC] Daniel J. Cutter: Ah alr
+[18:10:29]	[LOOC] CCA.C17-JUDGE.i4.77460: why?
+[18:10:40]	[LOOC] Daniel J. Cutter: Oh I got my app accepted and was wondering
+[18:10:49]	[LOOC] CCA.C17-JUDGE.i4.77460: oh ok yea just ask one of them
+[18:10:54]	[LOOC] Daniel J. Cutter: alrighty then
+[18:10:57]	[LOOC] Daniel J. Cutter: thx
+[18:11:35]	Daniel J. Cutter exited observer at their location.
+[18:11:37]	Bean loaded the character 'Alex Palovichov'
+[18:11:38]	Alex Palovichov entered observer.
+[18:11:44]	Alex Palovichov exited observer at their location.
+[18:11:47]	Alex Palovichov ran 'EquipUn' on item 'CWU Leadership Suit' (#24484)
+[18:11:49]	Alex Palovichov ran 'Equip' on item 'CWU Leadership Suit' (#24484)
+[18:12:35]	[W] Alex Palovichov: That dude...Been runnin' around alot and jumpin' a fuck ton...Caught em doin' it inside the CWU...also seen em whisperin' to others bout something...
+[18:12:47]	[W] Alex Palovichov: //cwu hq***.
+[18:12:48]	[W] CCA.C17-JUDGE.i4.77460: <:: Something to keep in mind. ::>
+[18:13:13]	CCA.C17-JUDGE.i4.77460 has gained 10 tokens.
+[18:14:06]	[OOC] Elizabeth Johnson.: I'm gonna go now, prob come back tomorrow
+[18:14:12]	[OOC] CCA.C17-JUDGE.i4.77460: booo
+[18:14:14]	[OOC] Alex Palovichov: Alrighty! Cya
+[18:14:19]	[OOC] Elizabeth Johnson.: Cya.
+[18:14:26]	Megatron405 (STEAM_0:1:511439154) has disconnected.
+[18:14:39]	[OOC] Stewie Lou: yo their name MEGATRON!??!?!?!
+[18:14:44]	[OOC] Stewie Lou: you know they srs
+[18:15:44]	Alex Palovichov entered observer.
+[18:15:46]	Alex Palovichov exited observer at their location.
+[18:16:19]	Bean loaded the character 'Daniel J. Cutter'
+[18:16:20]	Daniel J. Cutter entered observer.
+[18:16:26]	Daniel J. Cutter exited observer at their location.
+[18:16:40]	Daniel J. Cutter entered observer.
+[18:17:02]	Daniel J. Cutter exited observer at their location.
+[18:17:08]	Stewie Lou opened the 'Padlocked Crate' #2881 container.
+[18:17:11]	Stewie Lou ran 'equip' on item 'Citizen Filter' (#26022)
+[18:17:12]	Stewie Lou closed the 'Padlocked Crate' #2881 container.
+[18:17:15]	Stewie Lou opened the 'Padlocked Crate' #2881 container.
+[18:17:17]	Stewie Lou ran 'equip' on item 'Citizen Filter' (#31309)
+[18:17:18]	Stewie Lou ran 'equip' on item 'Citizen Filter' (#31537)
+[18:17:19]	Stewie Lou closed the 'Padlocked Crate' #2881 container.
+[18:17:42]	[OOC] Stewie Lou: why is the max time for gasmask suits or whatever 60 mins now
+[18:18:03]	[OOC] Stewie Lou: just wasted 3 filters because i thought it was bugged or smth
+[18:18:08]	Stewie Lou opened the 'Padlocked Crate' #2872 container.
+[18:18:09]	[OOC] Daniel J. Cutter: lmao
+[18:18:10]	Stewie Lou closed the 'Padlocked Crate' #2872 container.
+[18:18:11]	Stewie Lou opened the 'Padlocked Crate' #2881 container.
+[18:18:13]	Stewie Lou closed the 'Padlocked Crate' #2881 container.
+[18:18:14]	Stewie Lou opened the 'Crate' #2558 container.
+[18:18:18]	Stewie Lou closed the 'Crate' #2558 container.
+[18:18:28]	Stewie Lou opened the 'Padlocked File Cabinet' #245 container.
+[18:18:33]	Stewie Lou closed the 'Padlocked File Cabinet' #245 container.
+[18:18:36]	Stewie Lou opened the 'File Cabinet' #2819 container.
+[18:18:39]	Stewie Lou closed the 'File Cabinet' #2819 container.
+[18:19:03]	[OOC] Stewie Lou: great... now i have to go to the sewers later or smth to find more
+[18:19:19]	[OOC] Aurelio Grau: time to raid sewers thanks for heads up
+[18:19:26]	[OOC] Stewie Lou: np sexy
+[18:19:46]	[OOC] Aurelio Grau: ;)
+[18:19:48]	[OOC] CCA.C17-JUDGE.i4.77460: more ppl coming in 10
+[18:19:52]	Nums loaded the character 'Finan O'Conall'
+[18:20:02]	NamRm loaded the character 'CCA.C17-UNION.i5.60555'
+[18:20:09]	CCA.C17-UNION.i5.60555 used command '/Radio 10-8'.
+[18:20:19]	Daniel J. Cutter entered observer.
+[18:20:57]	CCA.C17-UNION.i5.60555 used command '/CharDesc 5'9 | Clean CCA Uniform | UNION I5 Armband | Stunstick clipped to his belt | Pistol holstered on his right hip'.
+[18:21:02]	Finan O'Conall has taken 5 damage from npc_antlion.
+[18:21:10]	CCA.C17-UNION.i5.60555 opened the 'File Cabinet' #2366 container.
+[18:21:12]	CCA.C17-UNION.i5.60555 closed the 'File Cabinet' #2366 container.
+[18:21:19]	CCA.C17-UNION.i5.60555 used the 'Box of Posters' vendor.
+[18:21:28]	Daniel J. Cutter exited observer at their location.
+[18:21:29]	Finan O'Conall has taken 5 damage from npc_antlion.
+[18:21:30]	Finan O'Conall has taken 5 damage from npc_antlion.
+[18:21:47]	Finan O'Conall has taken 5 damage from npc_antlion.
+[18:21:55]	Daniel J. Cutter has taken 5 damage from npc_antlion.
+[18:21:58]	Daniel J. Cutter entered observer.
+[18:22:00]	Daniel J. Cutter exited observer at their location.
+[18:22:51]	[ME] CCA.C17-UNION.i5.60555: looks down to his left, then right, scanning the ground for something. He looks to the left again, saying, "Ah, there we go."
+[18:22:55]	CCA.C17-UNION.i5.60555 used the 'Box of Posters' vendor.
+[18:23:03]	CCA.C17-UNION.i5.60555 has gained 0 tokens.
+[18:23:03]	CCA.C17-UNION.i5.60555 has gained a 'Human Science Eye Poster' #31809.
+[18:23:05]	CCA.C17-UNION.i5.60555 has gained 0 tokens.
+[18:23:05]	CCA.C17-UNION.i5.60555 has gained a 'Human Science Rat Poster' #31810.
+[18:23:07]	CCA.C17-UNION.i5.60555 has gained 0 tokens.
+[18:23:07]	CCA.C17-UNION.i5.60555 has gained a 'Red Metropolice Poster' #31811.
+[18:23:08]	CCA.C17-UNION.i5.60555 has gained 0 tokens.
+[18:23:08]	CCA.C17-UNION.i5.60555 has gained a 'Report the Vort Poster' #31812.
+[18:23:33]	[ME] CCA.C17-UNION.i5.60555: rummages through a box. He takes some posters out, setting them on a table. He slides them torward the man.
+[18:24:00]	CCA.C17-UNION.i5.60555 ran 'drop' on item 'Human Science Rat Poster' (#31810)
+[18:24:00]	CCA.C17-UNION.i5.60555 has lost a 'Human Science Rat Poster' #31810.
+[18:24:01]	CCA.C17-UNION.i5.60555 ran 'drop' on item 'Red Metropolice Poster' (#31811)
+[18:24:01]	CCA.C17-UNION.i5.60555 has lost a 'Red Metropolice Poster' #31811.
+[18:24:02]	CCA.C17-UNION.i5.60555 ran 'drop' on item 'Report the Vort Poster' (#31812)
+[18:24:02]	CCA.C17-UNION.i5.60555 has lost a 'Report the Vort Poster' #31812.
+[18:24:06]	Stewie Lou ran 'drop' on item 'Silicone Tube' (#31699)
+[18:24:06]	Stewie Lou has lost a 'Silicone Tube' #31699.
+[18:24:07]	Stewie Lou ran 'drop' on item 'Pliers' (#31609)
+[18:24:07]	Stewie Lou has lost a 'Pliers' #31609.
+[18:24:09]	Stewie Lou ran 'drop' on item 'Scrap Glass' (#31546)
+[18:24:09]	Stewie Lou has lost a 'Scrap Glass' #31546.
+[18:24:11]	Stewie Lou ran 'take' on item 'Report the Vort Poster' (#31812)
+[18:24:11]	Stewie Lou has gained a 'Report the Vort Poster' #31812.
+[18:24:12]	Stewie Lou ran 'view' on item 'Red Metropolice Poster' (#31811)
+[18:24:14]	Stewie Lou ran 'take' on item 'Red Metropolice Poster' (#31811)
+[18:24:14]	Stewie Lou has gained a 'Red Metropolice Poster' #31811.
+[18:24:15]	Stewie Lou ran 'view' on item 'Human Science Rat Poster' (#31810)
+[18:24:16]	Stewie Lou ran 'take' on item 'Human Science Rat Poster' (#31810)
+[18:24:16]	Stewie Lou has gained a 'Human Science Rat Poster' #31810.
+[18:24:26]	Stewie Lou ran 'place' on item 'Human Science Rat Poster' (#31810)
+[18:24:33]	CCA.C17-UNION.i5.60555 opened the 'File Cabinet' #2366 container.
+[18:24:37]	CCA.C17-UNION.i5.60555 closed the 'File Cabinet' #2366 container.
+[18:24:44]	Stewie Lou ran 'place' on item 'Red Metropolice Poster' (#31811)
+[18:24:59]	CCA.C17-UNION.i5.60555 ran 'view' on item 'Human Science Eye Poster' (#31809)
+[18:25:00]	Stewie Lou ran 'place' on item 'Report the Vort Poster' (#31812)
+[18:25:02]	CCA.C17-UNION.i5.60555 has gained 10 tokens.
+[18:25:03]	CCA.C17-UNION.i5.60555 used the 'Box of Posters' vendor.
+[18:25:11]	CCA.C17-UNION.i5.60555 ran 'drop' on item 'Human Science Eye Poster' (#31809)
+[18:25:11]	CCA.C17-UNION.i5.60555 has lost a 'Human Science Eye Poster' #31809.
+[18:25:19]	Stewie Lou ran 'take' on item 'Human Science Eye Poster' (#31809)
+[18:25:19]	Stewie Lou has gained a 'Human Science Eye Poster' #31809.
+[18:25:25]	Stewie Lou ran 'place' on item 'Human Science Eye Poster' (#31809)
+[18:25:43]	Stewie Lou ran 'take' on item 'Scrap Glass' (#31546)
+[18:25:43]	Stewie Lou has gained a 'Scrap Glass' #31546.
+[18:25:44]	Stewie Lou ran 'take' on item 'Silicone Tube' (#31699)
+[18:25:44]	Stewie Lou has gained a 'Silicone Tube' #31699.
+[18:25:44]	Stewie Lou ran 'take' on item 'Pliers' (#31609)
+[18:25:44]	Stewie Lou has gained a 'Pliers' #31609.
+[18:25:57]	[ME] CCA.C17-UNION.i5.60555: flicks his head up torward the exclamation, obviously not paying attention.
+[18:26:17]	Stewie Lou used command '/Apply'.
+[18:27:10]	Painevan has connected.
+[18:27:20]	[ME] CCA.C17-UNION.i5.60555: grabs at his right hip at nothing, trying to find his PDA. He switches to the left, finding it after a few loose grasps. He pulls it close to his chest, just so he could see it. He types in it with several pauses.
+[18:27:24]	[LOOC] CCA.C17-UNION.i5.60555: quality
+[18:27:33]	CCA.C17-UNION.i5.60555 used command '/ViewData Stewie'.
+[18:27:34]	[ME] Daniel J. Cutter: Chuckles "Who would want to pass by here?"
+[18:27:38]	[LOOC] Stewie Lou: ofc
+[18:28:29]	[ME] CCA.C17-UNION.i5.60555: looks up at him. Then back down at his PDA. He powers it off and clips it back onto his left side.
+[18:28:48]	[ME] Daniel J. Cutter: Would open the locker, taking out a small sealed letter before shutting it
+[18:29:10]	CCA.C17-UNION.i5.60555 used command '/ViewData Stewie'.
+[18:29:30]	Painevan loaded the character 'Jonathan Jackson'
+[18:29:37]	Daniel J. Cutter entered observer.
+[18:29:43]	[OOC] Jonathan Jackson: ayy
+[18:29:55]	Daniel J. Cutter exited observer at their location.
+[18:29:58]	Daniel J. Cutter entered observer.
+[18:30:02]	CCA.C17-UNION.i5.60555 has gained 10 tokens.
+[18:30:15]	Daniel J. Cutter exited observer at their location.
+[18:30:23]	[OOC] Jonathan Jackson: And then he said it's fooding time
+[18:30:25]	[ME] CCA.C17-UNION.i5.60555: leans down below the desk. He grabs a broom and a bin, setting it onto the table in front of them.
+[18:30:29]	Daniel J. Cutter entered observer.
+[18:30:38]	Daniel J. Cutter has spawned a 'NPC [4394][npc_zombie]'.
+[18:30:42]	Daniel J. Cutter has spawned a 'NPC [4395][npc_zombine]'.
+[18:31:01]	Nums loaded the character 'CCA.C17-JUDGE.i4.77460'
+[18:31:03]	Jonathan Jackson opened the 'Crate' #2706 container.
+[18:31:04]	[ME] Stewie Lou: grabs the broom and bin and starts to go collect trash
+[18:31:06]	Jonathan Jackson has gained a 'Crowbar' #23643.
+[18:31:10]	Jonathan Jackson closed the 'Crate' #2706 container.
+[18:31:22]	Stewie Lou ran 'drop' on item 'Rope' (#31448)
+[18:31:22]	Stewie Lou has lost a 'Rope' #31448.
+[18:31:24]	Stewie Lou ran 'take' on item 'Empty Milk Gallon' (#31243)
+[18:31:24]	Stewie Lou has gained a 'Empty Milk Gallon' #31243.
+[18:31:42]	Stewie Lou ran 'drop' on item 'AA Battery' (#30917)
+[18:31:42]	Stewie Lou has lost a 'AA Battery' #30917.
+[18:31:44]	Stewie Lou ran 'take' on item 'Empty Flavored Consulate Water Can' (#31732)
+[18:31:44]	Stewie Lou has gained a 'Empty Flavored Consulate Water Can' #31732.
+[18:31:52]	Jonathan Jackson ran 'take' on item 'Fingerless Gloves' (#30951)
+[18:31:52]	Jonathan Jackson has gained a 'Fingerless Gloves' #30951.
+[18:31:55]	[ME] CCA.C17-UNION.i5.60555: starts lightly tapping his foot on the ground and his fingers on the table in an alternating pattern. Seems to possibly be nervous.
+[18:31:57]	Jonathan Jackson opened the 'Dumpster' #2736 container.
+[18:32:02]	Jonathan Jackson has gained a 'A Roll of Toilet Paper' #31791.
+[18:32:03]	Jonathan Jackson closed the 'Dumpster' #2736 container.
+[18:32:09]	Jonathan Jackson opened the 'Metal Cabinet' #2810 container.
+[18:32:10]	Jonathan Jackson closed the 'Metal Cabinet' #2810 container.
+[18:32:31]	Jonathan Jackson ran 'drop' on item 'A Roll of Toilet Paper' (#31791)
+[18:32:31]	Jonathan Jackson has lost a 'A Roll of Toilet Paper' #31791.
+[18:32:32]	Stewie Lou ran 'drop' on item 'AA Battery' (#31792)
+[18:32:32]	Stewie Lou has lost a 'AA Battery' #31792.
+[18:32:38]	Stewie Lou ran 'drop' on item 'Pack of Screws' (#31746)
+[18:32:38]	Stewie Lou has lost a 'Pack of Screws' #31746.
+[18:32:40]	CCA.C17-UNION.i5.60555 used command '/ViewData ste'.
+[18:32:40]	Stewie Lou ran 'drop' on item 'Light Bulb' (#31804)
+[18:32:40]	Stewie Lou has lost a 'Light Bulb' #31804.
+[18:32:54]	Stewie Lou ran 'drop' on item 'Pack of Nails' (#31743)
+[18:32:54]	Stewie Lou has lost a 'Pack of Nails' #31743.
+[18:33:00]	Stewie Lou ran 'take' on item 'Shovel' (#31810)
+[18:33:00]	Stewie Lou has gained a 'Shovel' #31810.
+[18:33:25]	Stewie Lou ran 'drop' on item 'Pliers' (#31609)
+[18:33:25]	Stewie Lou has lost a 'Pliers' #31609.
+[18:33:27]	Stewie Lou ran 'take' on item 'Empty Cooking Oil Bottle' (#31808)
+[18:33:27]	Stewie Lou has gained a 'Empty Cooking Oil Bottle' #31808.
+[18:33:39]	Daniel J. Cutter exited observer at their location.
+[18:33:52]	Daniel J. Cutter entered observer.
+[18:33:55]	Stewie Lou opened the 'Dumpster' #2736 container.
+[18:34:04]	Stewie Lou has gained a 'Empty Soda Bottle' #31793.
+[18:34:10]	Daniel J. Cutter ran 'EquipUn' on item 'Crowbar' (#31301)
+[18:34:11]	Stewie Lou has gained a 'Empty Cooking Oil Bottle' #31794.
+[18:34:12]	Stewie Lou closed the 'Dumpster' #2736 container.
+[18:34:25]	Daniel J. Cutter ran 'Equip' on item 'Axe' (#31613)
+[18:35:02]	CCA.C17-UNION.i5.60555 has gained 10 tokens.
+[18:35:20]	[ME] CCA.C17-UNION.i5.60555: slowly shifts the alternate tapping of the ground and table into various rhythms or beats to a song playing in his head. He immedietly stops when he gets approached.
+[18:35:49]	[ME] Stewie Lou: hands the broom and bin back
+[18:36:04]	[ME] CCA.C17-UNION.i5.60555: takes the broom and bin. He lowers them down below the desk.
+[18:36:13]	[LOOC] Stewie Lou: do i just drop the trash on the desk or what'
+[18:36:20]	[LOOC] CCA.C17-UNION.i5.60555: Sure
+[18:36:24]	Stewie Lou ran 'drop' on item 'Empty Flavored Consulate Water Can' (#31732)
+[18:36:24]	Stewie Lou has lost a 'Empty Flavored Consulate Water Can' #31732.
+[18:36:26]	Stewie Lou ran 'drop' on item 'Empty Cooking Oil Bottle' (#31794)
+[18:36:26]	Stewie Lou has lost a 'Empty Cooking Oil Bottle' #31794.
+[18:36:28]	Stewie Lou ran 'drop' on item 'Empty Soda Bottle' (#31793)
+[18:36:28]	Stewie Lou has lost a 'Empty Soda Bottle' #31793.
+[18:36:30]	Stewie Lou ran 'take' on item 'Empty Soda Bottle' (#31793)
+[18:36:30]	Stewie Lou has gained a 'Empty Soda Bottle' #31793.
+[18:36:32]	Stewie Lou ran 'drop' on item 'Empty Soda Bottle' (#31793)
+[18:36:32]	Stewie Lou has lost a 'Empty Soda Bottle' #31793.
+[18:36:36]	Stewie Lou ran 'drop' on item 'Empty Cooking Oil Bottle' (#31808)
+[18:36:36]	Stewie Lou has lost a 'Empty Cooking Oil Bottle' #31808.
+[18:36:41]	Stewie Lou ran 'drop' on item 'Empty Milk Gallon' (#31243)
+[18:36:41]	Stewie Lou has lost a 'Empty Milk Gallon' #31243.
+[18:36:50]	CCA.C17-UNION.i5.60555 ran 'take' on item 'Empty Cooking Oil Bottle' (#31794)
+[18:36:50]	CCA.C17-UNION.i5.60555 has gained a 'Empty Cooking Oil Bottle' #31794.
+[18:36:51]	CCA.C17-UNION.i5.60555 ran 'take' on item 'Empty Milk Gallon' (#31243)
+[18:36:51]	CCA.C17-UNION.i5.60555 has gained a 'Empty Milk Gallon' #31243.
+[18:36:52]	CCA.C17-UNION.i5.60555 ran 'take' on item 'Empty Cooking Oil Bottle' (#31808)
+[18:36:52]	CCA.C17-UNION.i5.60555 has gained a 'Empty Cooking Oil Bottle' #31808.
+[18:36:54]	CCA.C17-UNION.i5.60555 ran 'take' on item 'Empty Soda Bottle' (#31793)
+[18:36:54]	CCA.C17-UNION.i5.60555 has gained a 'Empty Soda Bottle' #31793.
+[18:36:55]	CCA.C17-UNION.i5.60555 ran 'take' on item 'Empty Flavored Consulate Water Can' (#31732)
+[18:36:55]	CCA.C17-UNION.i5.60555 has gained a 'Empty Flavored Consulate Water Can' #31732.
+[18:36:58]	Stewie Lou ran 'Equip' on item 'Shovel' (#31810)
+[18:37:01]	Daniel J. Cutter exited observer at their location.
+[18:37:03]	Daniel J. Cutter ran 'take' on item 'Scrap Metal' (#31752)
+[18:37:03]	Daniel J. Cutter has gained a 'Scrap Metal' #31752.
+[18:37:03]	Daniel J. Cutter ran 'take' on item 'Scrap Metal' (#31740)
+[18:37:03]	Daniel J. Cutter has gained a 'Scrap Metal' #31740.
+[18:37:06]	Stewie Lou ran 'EquipUn' on item 'Shovel' (#31810)
+[18:37:09]	Daniel J. Cutter ran 'take' on item 'Scrap Metal' (#31785)
+[18:37:09]	Daniel J. Cutter has gained a 'Scrap Metal' #31785.
+[18:37:41]	[ME] CCA.C17-UNION.i5.60555: glances at the JUDGE, then back at his left side. He unclips the PDA, powering it on. He holds it close to his chest once again, so only he may see it.
+[18:37:41]	Daniel J. Cutter has gained a 'Citizen Shirt' #31811.
+[18:37:41]	Daniel J. Cutter used command '/CharGiveItem Cutter Citizen shirt 1'.
+[18:37:47]	Daniel J. Cutter ran 'drop' on item 'Citizen Shirt' (#31811)
+[18:37:47]	Daniel J. Cutter has lost a 'Citizen Shirt' #31811.
+[18:37:49]	Daniel J. Cutter ran 'take' on item 'Citizen Shirt' (#31811)
+[18:37:49]	Daniel J. Cutter has gained a 'Citizen Shirt' #31811.
+[18:37:52]	Daniel J. Cutter ran 'take' on item 'Armor Scraps' (#31479)
+[18:37:52]	Daniel J. Cutter has gained a 'Armor Scraps' #31479.
+[18:37:53]	Daniel J. Cutter ran 'take' on item 'Armor Scraps' (#31421)
+[18:37:53]	Daniel J. Cutter has gained a 'Armor Scraps' #31421.
+[18:38:03]	Daniel J. Cutter ran 'take' on item 'Sewing Kit' (#28776)
+[18:38:03]	Daniel J. Cutter has gained a 'Sewing Kit' #28776.
+[18:38:06]	[ME] CCA.C17-UNION.i5.60555: begins typing on it, occasionally glancing up and around to ensure know one is peeking.
+[18:38:06]	Daniel J. Cutter has gained a 'Reinforced Citizen Shirt' #31811.
+[18:38:12]	Daniel J. Cutter ran 'take' on item 'Sewn Cloth' (#31422)
+[18:38:12]	Daniel J. Cutter has gained a 'Sewn Cloth' #31422.
+[18:38:14]	Daniel J. Cutter has gained a 'Reinforced Citizen Shirt' #31811.
+[18:38:15]	CCA.C17-UNION.i5.60555 used command '/ViewData ste'.
+[18:38:21]	Daniel J. Cutter ran 'drop' on item 'Reinforced Citizen Shirt' (#31811)
+[18:38:21]	Daniel J. Cutter has lost a 'Reinforced Citizen Shirt' #31811.
+[18:38:23]	Jonathan Jackson used command '/PM Judge Tell me whenever you want to do that raid'.
+[18:38:23]	Daniel J. Cutter ran 'take' on item 'Reinforced Citizen Shirt' (#31811)
+[18:38:23]	Daniel J. Cutter has gained a 'Reinforced Citizen Shirt' #31811.
+[18:38:24]	Daniel J. Cutter ran 'Equip' on item 'Reinforced Citizen Shirt' (#31811)
+[18:38:28]	Daniel J. Cutter ran 'drop' on item 'Reinforced Citizen Shirt' (#31811)
+[18:38:28]	Daniel J. Cutter has lost a 'Reinforced Citizen Shirt' #31811.
+[18:38:32]	Daniel J. Cutter ran 'drop' on item 'Sewing Kit' (#28776)
+[18:38:32]	Daniel J. Cutter has lost a 'Sewing Kit' #28776.
+[18:38:40]	Jonathan Jackson opened the 'Crate' #2706 container.
+[18:38:43]	Daniel J. Cutter ran 'take' on item 'Reinforced Citizen Shirt' (#31811)
+[18:38:43]	Daniel J. Cutter has gained a 'Reinforced Citizen Shirt' #31811.
+[18:38:46]	Daniel J. Cutter ran 'EquipUn' on item 'Rebel Armor with Blue Undershirt' (#31478)
+[18:38:47]	Daniel J. Cutter ran 'Equip' on item 'Reinforced Citizen Shirt' (#31811)
+[18:38:48]	Jonathan Jackson closed the 'Crate' #2706 container.
+[18:38:49]	Daniel J. Cutter ran 'EquipUn' on item 'Reinforced Citizen Shirt' (#31811)
+[18:38:50]	Daniel J. Cutter ran 'Equip' on item 'Rebel Armor with Blue Undershirt' (#31478)
+[18:38:54]	Daniel J. Cutter ran 'drop' on item 'Reinforced Citizen Shirt' (#31811)
+[18:38:54]	Daniel J. Cutter has lost a 'Reinforced Citizen Shirt' #31811.
+[18:38:55]	Jonathan Jackson opened the 'Crate' #2726 container.
+[18:38:58]	Daniel J. Cutter ran 'drop' on item 'Scrap Metal' (#31740)
+[18:38:58]	Daniel J. Cutter has lost a 'Scrap Metal' #31740.
+[18:38:59]	Daniel J. Cutter ran 'take' on item 'Scrap Metal' (#31740)
+[18:38:59]	Daniel J. Cutter has gained a 'Scrap Metal' #31740.
+[18:39:00]	Jonathan Jackson ran 'EquipUn' on item 'CWU Commerce Shirt' (#29251)
+[18:39:00]	Daniel J. Cutter ran 'take' on item 'Scrap Metal' (#31438)
+[18:39:00]	Daniel J. Cutter has gained a 'Scrap Metal' #31438.
+[18:39:01]	Daniel J. Cutter ran 'take' on item 'Scrap Metal' (#31757)
+[18:39:01]	Daniel J. Cutter has gained a 'Scrap Metal' #31757.
+[18:39:01]	Jonathan Jackson ran 'EquipUn' on item 'Gray Jeans' (#29252)
+[18:39:01]	Daniel J. Cutter entered observer.
+[18:39:03]	Daniel J. Cutter entered observer.
+[18:39:04]	Jonathan Jackson has gained a 'Blue Pre-War Shirt' #24423.
+[18:39:07]	Jonathan Jackson closed the 'Crate' #2726 container.
+[18:39:11]	Jonathan Jackson ran 'Equip' on item 'Blue Pre-War Shirt' (#24423)
+[18:39:15]	Daniel J. Cutter exited observer at their location.
+[18:39:16]	CCA.C17-UNION.i5.60555 used command '/ViewData ste'.
+[18:39:20]	Jonathan Jackson opened the 'Crate' #2726 container.
+[18:39:22]	Daniel J. Cutter ran 'EquipUn' on item 'Axe' (#31613)
+[18:39:22]	Jonathan Jackson has gained a 'Gray Jeans' #29252.
+[18:39:23]	Jonathan Jackson closed the 'Crate' #2726 container.
+[18:39:25]	Jonathan Jackson ran 'Equip' on item 'Gray Jeans' (#29252)
+[18:39:27]	Jonathan Jackson ran 'EquipUn' on item 'Gray Jeans' (#29252)
+[18:39:28]	Jonathan Jackson opened the 'Crate' #2726 container.
+[18:39:28]	Jonathan Jackson closed the 'Crate' #2726 container.
+[18:39:29]	Daniel J. Cutter ran 'Equip' on item 'Crowbar' (#31301)
+[18:39:30]	Jonathan Jackson opened the 'Crate' #2726 container.
+[18:39:33]	Jonathan Jackson closed the 'Crate' #2726 container.
+[18:39:37]	Daniel J. Cutter ran 'EquipUn' on item 'Crowbar' (#31301)
+[18:39:39]	Daniel J. Cutter ran 'Equip' on item 'Crowbar' (#31301)
+[18:39:46]	Daniel J. Cutter has gained 20 tokens.
+[18:39:56]	Stewie Lou ran 'drop' on item 'LCD Monitor' (#31265)
+[18:39:56]	Stewie Lou has lost a 'LCD Monitor' #31265.
+[18:39:59]	Stewie Lou ran 'drop' on item 'Scrap Glass' (#31546)
+[18:39:59]	Stewie Lou has lost a 'Scrap Glass' #31546.
+[18:40:01]	Stewie Lou ran 'drop' on item 'Scrap Plastic' (#31798)
+[18:40:01]	Stewie Lou has lost a 'Scrap Plastic' #31798.
+[18:40:02]	CCA.C17-UNION.i5.60555 has gained 10 tokens.
+[18:40:04]	Daniel J. Cutter has taken 5 damage from npc_headcrab.
+[18:40:15]	Stewie Lou ran 'take' on item 'Scrap Plastic' (#31798)
+[18:40:15]	Stewie Lou has gained a 'Scrap Plastic' #31798.
+[18:40:17]	Daniel J. Cutter has gained a 'Refined Metal' #31813.
+[18:40:20]	Stewie Lou ran 'drop' on item 'Scrap Plastic' (#31798)
+[18:40:20]	Stewie Lou has lost a 'Scrap Plastic' #31798.
+[18:40:22]	Daniel J. Cutter entered observer.
+[18:40:29]	Stewie Lou ran 'drop' on item 'Powercord' (#31624)
+[18:40:29]	Stewie Lou has lost a 'Powercord' #31624.
+[18:40:32]	Stewie Lou ran 'drop' on item 'Spark Plug' (#31807)
+[18:40:32]	Stewie Lou has lost a 'Spark Plug' #31807.
+[18:40:34]	Daniel J. Cutter exited observer at their location.
+[18:40:35]	Stewie Lou ran 'drop' on item 'Scrap Electronics' (#29174)
+[18:40:35]	Stewie Lou has lost a 'Scrap Electronics' #29174.
+[18:40:37]	Daniel J. Cutter ran 'drop' on item 'Refined Metal' (#31813)
+[18:40:37]	Daniel J. Cutter has lost a 'Refined Metal' #31813.
+[18:40:42]	Stewie Lou ran 'drop' on item 'Scrap Plastic' (#31338)
+[18:40:42]	Stewie Lou has lost a 'Scrap Plastic' #31338.
+[18:40:58]	Stewie Lou ran 'Equip' on item 'Shovel' (#31810)
+[18:41:02]	Stewie Lou has taken 5 damage from npc_headcrab.
+[18:41:03]	Daniel J. Cutter ran 'take' on item 'Cloth Scrap' (#31784)
+[18:41:03]	Daniel J. Cutter has gained a 'Cloth Scrap' #31784.
+[18:41:04]	Stewie Lou has taken 5 damage from npc_headcrab.
+[18:41:07]	Daniel J. Cutter entered observer.
+[18:41:14]	Daniel J. Cutter has spawned a 'NPC [2538][npc_headcrab]'.
+[18:41:20]	Stewie Lou has taken 5 damage from npc_headcrab.
+[18:41:24]	Stewie Lou has taken 5 damage from npc_headcrab.
+[18:41:36]	Daniel J. Cutter ran 'EquipUn' on item 'Crowbar' (#31301)
+[18:41:41]	Stewie Lou has gained a 'Pin' #31815.
+[18:41:42]	[ME] CCA.C17-UNION.i5.60555: takes a few posters out of a box. He walks back over to the table and slides the posters over torward the man.
+[18:41:43]	Daniel J. Cutter ran 'Equip' on item 'Axe' (#31613)
+[18:41:44]	CCA.C17-UNION.i5.60555 used the 'Box of Posters' vendor.
+[18:41:45]	Stewie Lou ran 'drop' on item 'Pin' (#31815)
+[18:41:45]	Stewie Lou has lost a 'Pin' #31815.
+[18:41:46]	CCA.C17-UNION.i5.60555 has gained 0 tokens.
+[18:41:46]	CCA.C17-UNION.i5.60555 has gained a 'Blue Metropolice Poster' #31816.
+[18:41:47]	CCA.C17-UNION.i5.60555 has gained 0 tokens.
+[18:41:47]	CCA.C17-UNION.i5.60555 has gained a 'Consul Poster' #31817.
+[18:41:49]	CCA.C17-UNION.i5.60555 has gained 0 tokens.
+[18:41:49]	CCA.C17-UNION.i5.60555 has gained a 'Cremator Poster' #31818.
+[18:41:51]	CCA.C17-UNION.i5.60555 has gained 0 tokens.
+[18:41:51]	CCA.C17-UNION.i5.60555 has gained a 'Human Science Eye Poster' #31819.
+[18:41:57]	CCA.C17-UNION.i5.60555 ran 'drop' on item 'Blue Metropolice Poster' (#31816)
+[18:41:57]	CCA.C17-UNION.i5.60555 has lost a 'Blue Metropolice Poster' #31816.
+[18:41:57]	Daniel J. Cutter has spawned a 'NPC [4399][npc_zombie]'.
+[18:41:58]	CCA.C17-UNION.i5.60555 ran 'drop' on item 'Consul Poster' (#31817)
+[18:41:58]	CCA.C17-UNION.i5.60555 has lost a 'Consul Poster' #31817.
+[18:41:59]	CCA.C17-UNION.i5.60555 ran 'drop' on item 'Cremator Poster' (#31818)
+[18:41:59]	CCA.C17-UNION.i5.60555 has lost a 'Cremator Poster' #31818.
+[18:42:00]	CCA.C17-UNION.i5.60555 ran 'drop' on item 'Human Science Eye Poster' (#31819)
+[18:42:00]	CCA.C17-UNION.i5.60555 has lost a 'Human Science Eye Poster' #31819.
+[18:42:18]	Stewie Lou has taken 10 damage from npc_zombine.
+[18:42:20]	[ME] Jonathan Jackson: takes the handful of posters in one arm.
+[18:42:22]	Jonathan Jackson ran 'take' on item 'Cremator Poster' (#31818)
+[18:42:22]	Jonathan Jackson has gained a 'Cremator Poster' #31818.
+[18:42:24]	Jonathan Jackson ran 'take' on item 'Human Science Eye Poster' (#31819)
+[18:42:24]	Jonathan Jackson has gained a 'Human Science Eye Poster' #31819.
+[18:42:25]	Jonathan Jackson ran 'take' on item 'Consul Poster' (#31817)
+[18:42:25]	Jonathan Jackson has gained a 'Consul Poster' #31817.
+[18:42:26]	npc_zombine destroyed a 'Empty Flavored Consulate Water Can' #31296.
+[18:42:27]	Jonathan Jackson ran 'take' on item 'Blue Metropolice Poster' (#31816)
+[18:42:27]	Jonathan Jackson has gained a 'Blue Metropolice Poster' #31816.
+[18:42:47]	Daniel J. Cutter has gained a 'Grenade' #31821.
+[18:42:47]	Daniel J. Cutter used command '/CharGiveItem cutter grenade 1'.
+[18:42:48]	Stewie Lou has gained a 'Empty Soda Bottle' #31822.
+[18:42:50]	Daniel J. Cutter ran 'Equip' on item 'Grenade' (#31821)
+[18:42:50]	Stewie Lou ran 'drop' on item 'Empty Soda Bottle' (#31822)
+[18:42:50]	Stewie Lou has lost a 'Empty Soda Bottle' #31822.
+[18:43:12]	Stewie Lou ran 'take' on item 'Motor Controller' (#30103)
+[18:43:12]	Stewie Lou has gained a 'Motor Controller' #30103.
+[18:43:14]	Stewie Lou ran 'take' on item 'Nylon Cord' (#31356)
+[18:43:14]	Stewie Lou has gained a 'Nylon Cord' #31356.
+[18:43:28]	Stewie Lou opened the 'Crate' #2778 container.
+[18:43:29]	Daniel J. Cutter opened the 'Crate' #2778 container.
+[18:43:31]	Stewie Lou closed the 'Crate' #2778 container.
+[18:43:39]	Stewie Lou has gained a 'Screw Nuts' #31823.
+[18:43:41]	Stewie Lou ran 'take' on item 'Adjustable Wrench' (#31754)
+[18:43:41]	Stewie Lou has gained a 'Adjustable Wrench' #31754.
+[18:43:53]	Jonathan Jackson ran 'place' on item 'Cremator Poster' (#31818)
+[18:43:56]	Daniel J. Cutter has spawned a 'NPC [1698][npc_poisonzombie]'.
+[18:44:18]	Daniel J. Cutter has spawned a 'NPC [4324][npc_zombie]'.
+[18:44:23]	Stewie Lou has taken 5 damage from npc_headcrab.
+[18:44:25]	Stewie Lou has taken 5 damage from npc_headcrab.
+[18:44:25]	Daniel J. Cutter has spawned a 'NPC [4395][npc_headcrab_black]'.
+[18:44:29]	Nums (STEAM_0:1:196547442) has disconnected.
+[18:44:49]	Stewie Lou opened the 'Dumpster' #2756 container.
+[18:44:52]	Daniel J. Cutter ran 'EquipUn' on item 'Axe' (#31613)
+[18:44:53]	Stewie Lou closed the 'Dumpster' #2756 container.
+[18:44:53]	Daniel J. Cutter ran 'combine' on item 'Suitcase' (#30930)
+[18:44:58]	Jonathan Jackson ran 'place' on item 'Consul Poster' (#31817)
+[18:45:02]	CCA.C17-UNION.i5.60555 has gained 10 tokens.
+[18:45:07]	Stewie Lou has gained a 'Minimum Grade Food Product (No Flavor)' #31824.
+[18:45:14]	Daniel J. Cutter has spawned a 'NPC [2474][npc_headcrab_fast]'.
+[18:45:36]	[OOC] CCA.C17-UNION.i5.60555: rip nums
+[18:45:41]	[OOC] Daniel J. Cutter: Crashed?
+[18:45:43]	[OOC] CCA.C17-UNION.i5.60555: would of had the coolest passive rp
+[18:45:43]	Stewie Lou opened the 'Padlocked Crate' #243 container.
+[18:45:44]	[OOC] CCA.C17-UNION.i5.60555: idk
+[18:45:45]	Stewie Lou closed the 'Padlocked Crate' #243 container.
+[18:45:48]	Stewie Lou opened the 'Crate' #244 container.
+[18:45:50]	[OOC] Jonathan Jackson: Prob just left
+[18:45:51]	Stewie Lou closed the 'Crate' #244 container.
+[18:45:54]	Jonathan Jackson ran 'place' on item 'Human Science Eye Poster' (#31819)
+[18:46:05]	Stewie Lou ran 'take' on item 'Circuit Board' (#31362)
+[18:46:05]	Stewie Lou has gained a 'Circuit Board' #31362.
+[18:46:15]	Daniel J. Cutter ran 'Equip' on item 'Crowbar' (#31301)
+[18:46:23]	Stewie Lou ran 'take' on item 'Electric Motor' (#31261)
+[18:46:29]	Stewie Lou has gained a 'Cinderblock' #31826.
+[18:46:31]	Stewie Lou ran 'drop' on item 'Cinderblock' (#31826)
+[18:46:31]	Stewie Lou has lost a 'Cinderblock' #31826.
+[18:46:33]	Stewie Lou ran 'take' on item 'Electric Motor' (#31261)
+[18:46:33]	Stewie Lou has gained a 'Electric Motor' #31261.
+[18:46:52]	Daniel J. Cutter has spawned a 'NPC [2494][npc_zombine]'.
+[18:47:00]	Jonathan Jackson ran 'place' on item 'Blue Metropolice Poster' (#31816)
+[18:47:37]	Daniel J. Cutter exited observer at their location.
+[18:47:47]	Stewie Lou ran 'drop' on item 'Minimum Grade Food Product (No Flavor)' (#31824)
+[18:47:47]	Stewie Lou has lost a 'Minimum Grade Food Product (No Flavor)' #31824.
+[18:47:50]	[ME] Daniel J. Cutter: Would swing his crowbar towards the persons head while they aren't looking
+[18:47:57]	Daniel J. Cutter rolled 102 (97 + 5) out of 100 on Strength.
+[18:47:57]	Daniel J. Cutter used command '/RollAttribute Strength'.
+[18:47:58]	[LOOC] Stewie Lou: scary
+[18:48:12]	[LOOC] Stewie Lou: ok i know you cheating with that roll lmao
+[18:48:14]	Apex has connected.
+[18:48:17]	[IT] Daniel J. Cutter: The crowbar would bash them over the head, them quickly becoming unconcious
+[18:48:29]	[LOOC] Daniel J. Cutter: really hope you're joking bout that
+[18:48:32]	Jonathan Jackson used command '/Apply'.
+[18:48:32]	[ME] Stewie Lou: would fall on the ground
+[18:48:39]	[LOOC] Daniel J. Cutter: /charfallover
+[18:48:46]	Stewie Lou used command '/CharFallOver'.
+[18:48:56]	[ME] CCA.C17-UNION.i5.60555: unclips his PDA from his left side. He powers it on.
+[18:49:03]	[LOOC] Stewie Lou: man i was just trying to put some shit for people ;-;
+[18:49:12]	[LOOC] Daniel J. Cutter: and im taking your shit
+[18:49:21]	Apex loaded the character 'CCA.C17-HELIX.i5.00344'
+[18:49:26]	[LOOC] Stewie Lou: wow so mean!!!! jk i luv u
+[18:49:35]	[ME] Daniel J. Cutter: Would take out zipties, tying the persons hands behind their back
+[18:49:37]	Daniel J. Cutter ran 'Use' on item 'Zip Tie' (#31250)
+[18:49:40]	Daniel J. Cutter ran 'Use' on item 'Zip Tie' (#31250)
+[18:49:42]	CCA.C17-HELIX.i5.00344 used command '/Radio 10-8'.
+[18:49:46]	[LOOC] Daniel J. Cutter: stand up for a sec
+[18:49:47]	[ME] CCA.C17-UNION.i5.60555: pulls the PDA close to his chest to ensure no one else can take a peak. He taps on it with a few brief pauses.
+[18:49:53]	CCA.C17-UNION.i5.60555 used command '/ViewData jon'.
+[18:49:57]	[LOOC] Stewie Lou: how lol
+[18:50:02]	CCA.C17-UNION.i5.60555 has gained 10 tokens.
+[18:50:02]	[LOOC] Daniel J. Cutter: press space
+[18:50:04]	Stewie Lou used command '/CharGetUp'.
+[18:50:12]	Daniel J. Cutter ran 'Use' on item 'Zip Tie' (#31250)
+[18:50:20]	[LOOC] Daniel J. Cutter: alr fall back down
+[18:50:21]	[LOOC] Stewie Lou: craziest rp ever
+[18:50:30]	Stewie Lou used command '/CharFallOver'.
+[18:50:36]	[ME] Jonathan Jackson: puts his hands in his pocket, just waiting around.
+[18:50:41]	[ME] CCA.C17-UNION.i5.60555: glances up at the man and back down to the PDA. He powers the PDA off, then clips it back onto his side.
+[18:51:12]	CCA.C17-HELIX.i5.00344 used command '/CharDesc A 6'6 concealed figure stands before you | Their body stature appears to be mesomorphic (Strong and muscular) | Their armour and uniform appears to be clean, with the vocoder concealing most of their identity and voice, however people can hear a faint Australian accent to it | An i5 patch would be seen on his right shoulder pad, revealing his rank | He appears to be wearing a HELIX uniform.'.
+[18:51:13]	CCA.C17-HELIX.i5.00344 used command '/CharDesc A 6'6 concealed figure stands before you | Their body stature appears to be mesomorphic (Strong and muscular) | Their armour and uniform appears to be clean, with the vocoder concealing most of their identity and voice, however people can hear a faint Australian accent to it | An i5 patch would be seen on his right shoulder pad, revealing his rank | He appears to be wearing a HELIX uniform.'.
+[18:51:13]	CCA.C17-HELIX.i5.00344 used command '/CharDesc A 6'6 concealed figure stands before you | Their body stature appears to be mesomorphic (Strong and muscular) | Their armour and uniform appears to be clean, with the vocoder concealing most of their identity and voice, however people can hear a faint Australian accent to it | A RCT patch would be seen on his right shoulder pad, revealing his rank | He appears to be wearing a UNION uniform.'.
+[18:51:18]	[ME] Daniel J. Cutter: Would sling the person over his shoulder, having them rest on it
+[18:51:26]	[ME] Jonathan Jackson: waves him goodbye, then starts walking away.
+[18:51:32]	[ME] CCA.C17-UNION.i5.60555: waves.
+[18:52:11]	[ME] Daniel J. Cutter: Would begin to search the person
+[18:52:25]	[LOOC] Daniel J. Cutter: stand up and drop everything, note you won't be losing that much I promise you
+[18:52:28]	Stewie Lou used command '/CharGetUp'.
+[18:52:38]	[LOOC] Stewie Lou: last time you just stole a battery lol
+[18:52:50]	[LOOC] Daniel J. Cutter: I stole from you before? Huh
+[18:52:53]	[LOOC] Daniel J. Cutter: alr drop everything
+[18:52:56]	CCA.C17-UNION.i5.60555 ran 'Equip' on item 'USP Match' (#31518)
+[18:52:57]	[LOOC] Stewie Lou: i cant
+[18:53:01]	CCA.C17-UNION.i5.60555 ran 'use' on item '9mm Hollow Point Magazine' (#31523)
+[18:53:03]	[LOOC] Stewie Lou: im still zip tied
+[18:53:06]	[LOOC] Daniel J. Cutter: wait I can just charsearch lmao
+[18:53:13]	[LOOC] Stewie Lou: smh!
+[18:53:16]	CCA.C17-UNION.i5.60555 ran 'use' on item '9mm Pistol Magazine' (#31520)
+[18:53:18]	Daniel J. Cutter ran 'drop' on item 'Shovel' (#31810)
+[18:53:18]	Stewie Lou has lost a 'Shovel' #31810.
+[18:53:21]	Daniel J. Cutter has gained a 'Screw Nuts' #31823.
+[18:53:25]	Daniel J. Cutter has gained a 'Motor Controller' #30103.
+[18:53:27]	Daniel J. Cutter has gained a 'Scrap Electronics' #29175.
+[18:53:30]	Jonathan Jackson opened the 'Crate' #2706 container.
+[18:53:39]	Jonathan Jackson has gained a 'Crowbar' #23643.
+[18:53:43]	Jonathan Jackson closed the 'Crate' #2706 container.
+[18:53:44]	Jonathan Jackson opened the 'Crate' #2726 container.
+[18:53:48]	Jonathan Jackson has gained a 'CWU Commerce Shirt' #29251.
+[18:53:49]	[LOOC] Daniel J. Cutter: alr fall back over
+[18:53:50]	Jonathan Jackson closed the 'Crate' #2726 container.
+[18:53:53]	Jonathan Jackson ran 'EquipUn' on item 'Blue Pre-War Shirt' (#24423)
+[18:53:55]	Jonathan Jackson ran 'Equip' on item 'CWU Commerce Shirt' (#29251)
+[18:53:56]	Jonathan Jackson opened the 'Crate' #2726 container.
+[18:53:56]	[LOOC] CCA.C17-UNION.i5.60555: why dont i see you typing in the chat?
+[18:54:00]	[LOOC] Stewie Lou: bruh not my shovel ;-;
+[18:54:01]	Jonathan Jackson has gained a 'Gray Jeans' #29252.
+[18:54:02]	Jonathan Jackson closed the 'Crate' #2726 container.
+[18:54:04]	Jonathan Jackson ran 'Equip' on item 'Gray Jeans' (#29252)
+[18:54:06]	[LOOC] CCA.C17-HELIX.i5.00344: It's a bug, I asked Q about it.
+[18:54:07]	[LOOC] Daniel J. Cutter: Its MY shovel now...
+[18:54:10]	Stewie Lou used command '/CharFallOver'.
+[18:54:11]	[LOOC] Daniel J. Cutter: Always needed one
+[18:54:19]	[LOOC] CCA.C17-UNION.i5.60555: literally just seems to be you. weird
+[18:54:21]	CCA.C17-HELIX.i5.00344 has gained 10 tokens.
+[18:54:27]	[LOOC] CCA.C17-HELIX.i5.00344: odd
+[18:54:30]	[LOOC] Daniel J. Cutter: btw you can't see nor remember anything you see here since you're knocked out
+[18:54:34]	[OOC] Jonathan Jackson: Yall should do a work cycle
+[18:54:50]	[ME] Daniel J. Cutter: Would take out a peice of sharp metal, cutting the zipties
+[18:54:55]	[LOOC] Daniel J. Cutter: stand up
+[18:54:58]	Stewie Lou used command '/CharGetUp'.
+[18:55:01]	[OOC] CCA.C17-HELIX.i5.00344: I think we need CIU for that.
+[18:55:02]	CCA.C17-UNION.i5.60555 has gained 10 tokens.
+[18:55:05]	[OOC] Jonathan Jackson: pshh
+[18:55:12]	[OOC] Jonathan Jackson: Who need approval?
+[18:55:17]	Stewie Lou used command '/CharFallOver'.
+[18:55:37]	Daniel J. Cutter entered observer.
+[18:55:47]	[ME] Stewie Lou: would start to wake up
+[18:55:48]	[LOOC] Daniel J. Cutter: alr wake up whenever...make sure to react
+[18:55:52]	Stewie Lou used command '/CharGetUp'.
+[18:56:33]	[LOOC] CCA.C17-HELIX.i5.00344: I can't even see your chat, LMAO.
+[18:56:39]	[LOOC] CCA.C17-UNION.i5.60555: oh what
+[18:56:39]	[Y] Stewie Lou: HEY IS ANYBODY THERE?
+[18:56:45]	Jonathan Jackson opened the 'Dumpster' #252 container.
+[18:56:45]	[LOOC] CCA.C17-UNION.i5.60555: damn
+[18:56:46]	[LOOC] CCA.C17-HELIX.i5.00344: yeah
+[18:56:47]	Jonathan Jackson closed the 'Dumpster' #252 container.
+[18:56:47]	Jonathan Jackson opened the 'Dumpster' #2548 container.
+[18:56:49]	Jonathan Jackson closed the 'Dumpster' #2548 container.
+[18:56:57]	[IT] Daniel J. Cutter: The room would remain silent...
+[18:57:12]	Daniel J. Cutter exited observer at their location.
+[18:57:16]	Daniel J. Cutter entered observer.
+[18:57:18]	Daniel J. Cutter exited observer at their location.
+[18:57:19]	Stewie Lou has gained a 'Spark Plug' #31827.
+[18:57:19]	Daniel J. Cutter ran 'drop' on item 'Motor Controller' (#30103)
+[18:57:19]	Daniel J. Cutter has lost a 'Motor Controller' #30103.
+[18:57:25]	Daniel J. Cutter ran 'drop' on item 'Scrap Electronics' (#29175)
+[18:57:25]	Daniel J. Cutter has lost a 'Scrap Electronics' #29175.
+[18:57:28]	Stewie Lou has taken 5 damage from npc_headcrab.
+[18:57:30]	Stewie Lou has taken 5 damage from npc_headcrab.
+[18:57:31]	Daniel J. Cutter ran 'drop' on item 'Screw Nuts' (#31823)
+[18:57:31]	Daniel J. Cutter has lost a 'Screw Nuts' #31823.
+[18:57:31]	Stewie Lou has taken 5 damage from npc_headcrab.
+[18:57:32]	CCA.C17-HELIX.i5.00344 ran 'create' on item 'Squad Identification Device' (#30310)
+[18:57:39]	Stewie Lou has gained a 'Electric Drill' #31828.
+[18:57:41]	CCA.C17-HELIX.i5.00344 ran 'manage' on item 'Squad Identification Device' (#30310)
+[18:57:45]	Daniel J. Cutter ran 'drop' on item 'Cloth Scrap' (#31784)
+[18:57:45]	Daniel J. Cutter has lost a 'Cloth Scrap' #31784.
+[18:57:49]	CCA.C17-HELIX.i5.00344 ran 'setcolor' on item 'Squad Identification Device' (#30310)
+[18:57:50]	Daniel J. Cutter entered observer.
+[18:57:57]	Stewie Lou has taken 5 damage from npc_headcrab.
+[18:58:03]	Stewie Lou has gained a 'Empty Bleach Bottle' #31829.
+[18:58:08]	Stewie Lou ran 'drop' on item 'Empty Bleach Bottle' (#31829)
+[18:58:08]	Stewie Lou has lost a 'Empty Bleach Bottle' #31829.
+[18:58:13]	Stewie Lou has taken 5 damage from npc_headcrab.
+[18:58:14]	Stewie Lou has taken 5 damage from npc_headcrab.
+[18:58:16]	CCA.C17-UNION.i5.60555 ran 'join' on item 'Squad Identification Device' (#31521)
+[18:58:26]	Daniel J. Cutter exited observer at their location.
+[18:58:31]	Daniel J. Cutter entered observer.
+[18:58:32]	Stewie Lou has gained a 'Circuit Board' #31831.
+[18:58:52]	CCA.C17-HELIX.i5.00344 used command '/Radio PT-Foxtrot. 10-50. SS: Green. Code-100.'.
+[18:58:58]	Stewie Lou has gained a 'Corrugated Hose' #31833.
+[18:59:21]	CCA.C17-HELIX.i5.00344 has gained 10 tokens.
+[18:59:30]	Stewie Lou ran 'drop' on item 'Electric Drill' (#31828)
+[18:59:30]	Stewie Lou has lost a 'Electric Drill' #31828.
+[18:59:34]	Stewie Lou ran 'drop' on item 'Graphics Card' (#31800)
+[18:59:34]	Stewie Lou has lost a 'Graphics Card' #31800.
+[18:59:38]	Stewie Lou ran 'drop' on item 'Circuit Board' (#31802)
+[18:59:38]	Stewie Lou has lost a 'Circuit Board' #31802.
+[18:59:41]	Stewie Lou ran 'drop' on item 'Nylon Cord' (#31356)
+[18:59:41]	Stewie Lou has lost a 'Nylon Cord' #31356.
+[18:59:45]	Stewie Lou ran 'drop' on item 'Corrugated Hose' (#31833)
+[18:59:45]	Stewie Lou has lost a 'Corrugated Hose' #31833.
+[18:59:51]	CCA.C17-HELIX.i5.00344 opened the 'Metal Cabinet' #2763 container.
+[18:59:55]	CCA.C17-UNION.i5.60555 opened the 'Metal Cabinet' #2763 container.
+[19:00:00]	CCA.C17-HELIX.i5.00344 ran 'Edit' on item 'Notepad' (#29210)
+[19:00:02]	CCA.C17-UNION.i5.60555 has gained 10 tokens.
+[19:00:02]	CCA.C17-HELIX.i5.00344 ran 'Edit' on item 'Notepad' (#30432)
+[19:00:04]	Stewie Lou opened the 'Dumpster' #2549 container.
+[19:00:06]	Stewie Lou closed the 'Dumpster' #2549 container.
+[19:00:07]	CCA.C17-HELIX.i5.00344 ran 'Edit' on item 'Notepad' (#30338)
+[19:00:07]	[IT] Daniel J. Cutter: The sound of running can be heard...The sound of someone running across...Catwalks
+[19:00:09]	CCA.C17-HELIX.i5.00344 closed the 'Metal Cabinet' #2763 container.
+[19:00:14]	Daniel J. Cutter exited observer at their location.
+[19:00:26]	CCA.C17-HELIX.i5.00344 used command '/Radio On me.'.
+[19:00:33]	Daniel J. Cutter entered observer.
+[19:00:40]	CCA.C17-HELIX.i5.00344 used command '/Radio Split off, find him.'.
+[19:00:56]	[OOC] Jonathan Jackson: Actually locked the side door
+[19:00:58]	[OOC] Jonathan Jackson: Kinda cringe
+[19:01:20]	Stewie Lou ran 'EquipUn' on item 'Cyclopic Citizen Suit' (#30829)
+[19:01:25]	[Y] Daniel J. Cutter: CPs!
+[19:01:31]	[OOC] Stewie Lou: well imma go for now cya
+[19:01:35]	[OOC] Jonathan Jackson: Cya
+[19:01:36]	[OOC] CCA.C17-HELIX.i5.00344: Cya.
+[19:01:39]	wendigo (STEAM_0:1:429480781) has disconnected.
+[19:01:43]	[Y] Daniel J. Cutter: Run for your Life!
+[19:02:33]	Daniel J. Cutter has spawned a 'NPC [2447][npc_headcrab]'.
+[19:02:52]	[Y] Daniel J. Cutter: Civil Protection!
+[19:03:06]	Daniel J. Cutter exited observer at their location.
+[19:03:10]	Daniel J. Cutter entered observer.
+[19:03:21]	Daniel J. Cutter exited observer at their location.
+[19:03:29]	Daniel J. Cutter entered observer.
+[19:04:06]	Daniel J. Cutter has spawned a 'NPC [2447][npc_zombie]'.
+[19:04:09]	Daniel J. Cutter has spawned a 'NPC [2507][npc_zombie]'.
+[19:04:21]	CCA.C17-HELIX.i5.00344 has gained 10 tokens.
+[19:04:26]	[ME] CCA.C17-HELIX.i5.00344: signs "On me."
+[19:04:31]	[ME] CCA.C17-HELIX.i5.00344: signs "Code Midnight."
+[19:04:38]	Daniel J. Cutter has spawned a 'NPC [3744][npc_zombie]'.
+[19:04:44]	CCA.C17-UNION.i5.60555 ran 'use' on item '9mm Pistol Magazine' (#31519)
+[19:04:51]	[Y] Daniel J. Cutter: Here they Come!
+[19:05:02]	CCA.C17-UNION.i5.60555 has gained 10 tokens.
+[19:05:13]	Daniel J. Cutter has spawned a 'NPC [2507][npc_poisonzombie]'.
+[19:05:58]	Daniel J. Cutter has spawned 'models/props_c17/FurnitureTable002a.mdl'.
+[19:05:58]	[LOOC] CCA.C17-UNION.i5.60555: they probably cant see your text
+[19:06:17]	Daniel J. Cutter has spawned a 'NPC [4384][npc_zombie]'.
+[19:06:19]	Daniel J. Cutter has spawned a 'NPC [4415][npc_headcrab]'.
+[19:06:40]	[LOOC] CCA.C17-HELIX.i5.00344: type out this /me then:
+[19:06:43]	[LOOC] CCA.C17-HELIX.i5.00344: For me.
+[19:06:45]	[LOOC] CCA.C17-HELIX.i5.00344: Wait.
+[19:06:47]	[IT] Daniel J. Cutter: The sound of walking can be heard on the other side...
+[19:07:03]	[ME] CCA.C17-HELIX.i5.00344: aims his pistol at the door lock and fired two shots into it.
+[19:07:12]	Daniel J. Cutter has spawned 'models/industrial_uniforms/industrial_uniform.mdl'.
+[19:07:37]	[IT] Daniel J. Cutter: The door's lock seemingly remaining intact...
+[19:07:46]	[ME] CCA.C17-HELIX.i5.00344: walks over to the front, and attempts to kick down the door.
+[19:08:07]	[IT] Daniel J. Cutter: The metal door seems to be kept shut by a reinforced lock...
+[19:08:12]	[LOOC] Daniel J. Cutter: Roll 90+ strength
+[19:08:19]	CCA.C17-HELIX.i5.00344 rolled 19 (11 + 8) out of 100 on Strength.
+[19:08:19]	CCA.C17-HELIX.i5.00344 used command '/RollAttribute strength'.
+[19:08:30]	[IT] Daniel J. Cutter: The kick would strike the door, barely budging...
+[19:08:41]	[LOOC] CCA.C17-HELIX.i5.00344: brb
+[19:09:12]	[LOOC] CCA.C17-HELIX.i5.00344: back.
+[19:09:21]	CCA.C17-HELIX.i5.00344 has gained 10 tokens.
+[19:09:23]	Daniel J. Cutter exited observer at their location.
+[19:09:25]	Bean loaded the character 'Alex Palovichov'
+[19:09:25]	[ME] CCA.C17-HELIX.i5.00344: reaided himself once more, the man would kick the door once again.
+[19:09:26]	Alex Palovichov entered observer.
+[19:09:29]	Alex Palovichov ran 'EquipUn' on item 'CWU Leadership Suit' (#24484)
+[19:09:30]	CCA.C17-HELIX.i5.00344 rolled 59 (51 + 8) out of 100 on Strength.
+[19:09:30]	CCA.C17-HELIX.i5.00344 used command '/RollAttribute strength'.
+[19:09:30]	Alex Palovichov ran 'Equip' on item 'CWU Leadership Suit' (#24484)
+[19:09:50]	[IT] Alex Palovichov: The door would only barely move...The lock remaining intact
+[19:10:02]	[ME] CCA.C17-HELIX.i5.00344: looks at the lock, attempting to see what type of lock it is.
+[19:10:02]	CCA.C17-UNION.i5.60555 has gained 10 tokens.
+[19:10:18]	[IT] Alex Palovichov: The lock would seem to be a reinforced metal lock, quite hard to break through
+[19:10:31]	[LOOC] CCA.C17-HELIX.i5.00344: any pins?
+[19:10:36]	[LOOC] CCA.C17-HELIX.i5.00344: or key inserts?
+[19:10:52]	[LOOC] Alex Palovichov: The padlock itself would have a key, though it would be difficult to break into
+[19:11:04]	[LOOC] CCA.C17-HELIX.i5.00344: can I try to pick the lock?
+[19:11:12]	[LOOC] Alex Palovichov: You can, it'd be hard
+[19:11:27]	Alex Palovichov has spawned a 'NPC [2550][npc_headcrab]'.
+[19:11:37]	[LOOC] CCA.C17-UNION.i5.60555: could roll sleight of hand too
+[19:12:03]	[ME] CCA.C17-HELIX.i5.00344: begins to go through his tools, the man would pull out a pin and another tool for picking the lock. He inserted them both into the lock, attempting to pick it.
+[19:12:07]	[LOOC] CCA.C17-HELIX.i5.00344: what do I roll?
+[19:12:32]	[LOOC] Alex Palovichov: Hmm...
+[19:12:38]	[LOOC] Alex Palovichov: Slight of hand...80
+[19:12:48]	[LOOC] CCA.C17-HELIX.i5.00344: I just put it as that in stats ot attribute.
+[19:13:01]	[LOOC] CCA.C17-UNION.i5.60555: /rollskill
+[19:13:01]	[LOOC] Alex Palovichov: Its a attribute
+[19:13:05]	[LOOC] Alex Palovichov: skill****
+[19:13:07]	CCA.C17-HELIX.i5.00344 used command '/RollSkill slightofhand'.
+[19:13:11]	CCA.C17-HELIX.i5.00344 used command '/RollSkill soh'.
+[19:13:15]	[LOOC] CCA.C17-UNION.i5.60555: probably rollskill sleight or something like that
+[19:13:16]	[LOOC] CCA.C17-HELIX.i5.00344: what do I put after that?
+[19:13:24]	[LOOC] Alex Palovichov: /rollskill sleight?
+[19:13:28]	CCA.C17-HELIX.i5.00344 used command '/RollSkill sleight'.
+[19:13:31]	[LOOC] CCA.C17-HELIX.i5.00344: nope.
+[19:13:39]	CCA.C17-UNION.i5.60555 rolled 58 (53 + 5) out of 100 on Sleight of Hand.
+[19:13:39]	CCA.C17-UNION.i5.60555 used command '/RollSkill sleightofhand'.
+[19:13:42]	[LOOC] CCA.C17-UNION.i5.60555: sleightofhand
+[19:13:45]	[LOOC] Alex Palovichov: ah
+[19:13:47]	[LOOC] Alex Palovichov: alr
+[19:13:49]	CCA.C17-HELIX.i5.00344 rolled 90 (85 + 5) out of 100 on Sleight of Hand.
+[19:13:49]	CCA.C17-HELIX.i5.00344 used command '/RollSkill sleightofhand'.
+[19:14:07]	[IT] Alex Palovichov: The doors lock would be picked open, the sound of it clicking would be heard
+[19:14:21]	CCA.C17-HELIX.i5.00344 has gained 10 tokens.
+[19:14:28]	Painevan loaded the character 'CCA.C17-HELIX.i3.08874'
+[19:14:34]	CCA.C17-HELIX.i5.00344 has taken 2 damage from npc_headcrab.
+[19:14:37]	CCA.C17-HELIX.i3.08874 used command '/Radio is 10-8'.
+[19:14:43]	[IT] Alex Palovichov: The sound of the door clicking, it locked behind you
+[19:14:55]	CCA.C17-HELIX.i5.00344 has taken 2 damage from npc_headcrab_poison.
+[19:14:55]	CCA.C17-HELIX.i5.00344 has taken 70 damage from npc_headcrab_poison.
+[19:15:02]	CCA.C17-UNION.i5.60555 has gained 10 tokens.
+[19:15:08]	CCA.C17-HELIX.i5.00344 has gained 30 tokens.
+[19:15:35]	CCA.C17-UNION.i5.60555 ran 'use' on item '9mm Hollow Point Magazine' (#31525)
+[19:15:38]	CCA.C17-UNION.i5.60555 ran 'use' on item '9mm Hollow Point Magazine' (#31524)
+[19:15:42]	[LOOC] CCA.C17-UNION.i5.60555: dude what
+[19:15:44]	[ME] CCA.C17-HELIX.i5.00344: crouches down, the man checking the corpse.
+[19:15:52]	[LOOC] CCA.C17-UNION.i5.60555: i keep loading ammo into my gun but it just doesnt care
+[19:15:55]	CCA.C17-HELIX.i3.08874 used command '/Radio Report status'.
+[19:15:59]	[LOOC] CCA.C17-UNION.i5.60555: legit just lost like 4 mags
+[19:16:01]	[LOOC] Alex Palovichov: what sort of ammo are you using?
+[19:16:05]	[LOOC] Alex Palovichov: Might be the bugged one
+[19:16:06]	[LOOC] CCA.C17-UNION.i5.60555: pistol
+[19:16:08]	[LOOC] CCA.C17-UNION.i5.60555: idk
+[19:16:22]	CCA.C17-UNION.i5.60555 has gained a '9mm Pistol Magazine' #31838.
+[19:16:22]	CCA.C17-UNION.i5.60555 has gained a '9mm Pistol Magazine' #31839.
+[19:16:22]	CCA.C17-UNION.i5.60555 has gained a '9mm Pistol Magazine' #31840.
+[19:16:22]	Alex Palovichov used command '/CharGiveItem 60555 9mm pistol magazine 3'.
+[19:16:25]	[LOOC] Alex Palovichov: try that
+[19:16:35]	CCA.C17-UNION.i5.60555 ran 'use' on item '9mm Pistol Magazine' (#31840)
+[19:16:37]	[LOOC] CCA.C17-UNION.i5.60555: good
+[19:16:39]	[LOOC] Alex Palovichov: knew it
+[19:16:45]	[LOOC] CCA.C17-HELIX.i5.00344: The fucking ammo we get is SAD.
+[19:16:45]	[LOOC] Alex Palovichov: used those hallow point rounds
+[19:17:08]	[IT] Alex Palovichov: The body would seemingly be almost empty, though something....shines in the mask under the flashlight
+[19:17:24]	[ME] CCA.C17-HELIX.i5.00344: looks over to the mask, the man would look up at his buddy.
+[19:17:38]	Spaghetti has connected.
+[19:17:55]	[ME] CCA.C17-HELIX.i5.00344: would slowly places his hand onto the mask, attempting to take it off.
+[19:18:11]	[IT] Alex Palovichov: The mask would remove quite easily...Revealing a small silver key
+[19:18:25]	[ME] CCA.C17-HELIX.i5.00344: grabs the silver key.
+[19:18:29]	[Y] CCA.C17-HELIX.i5.00344: <:: Clear. ::>
+[19:18:44]	[ME] CCA.C17-HELIX.i5.00344: walks over to the door and attempts to insert the key into it.
+[19:18:56]	[IT] Alex Palovichov: The key would fit in the door easily
+[19:18:59]	Spaghetti (STEAM_0:1:186685962) has disconnected.
+[19:19:02]	[ME] CCA.C17-HELIX.i5.00344: turns the key.
+[19:19:16]	[IT] Alex Palovichov: The door would unlock with a loud   *Click*  
+[19:19:21]	CCA.C17-HELIX.i5.00344 has gained 10 tokens.
+[19:19:25]	[ME] CCA.C17-HELIX.i5.00344: picks up the body from the floor.
+[19:19:28]	CCA.C17-HELIX.i3.08874 has gained 10 tokens.
+[19:19:34]	[LOOC] Alex Palovichov: wait
+[19:19:38]	[OOC] CCA.C17-HELIX.i5.00344: looc Yeah?
+[19:19:38]	[LOOC] Alex Palovichov: go back
+[19:19:47]	[OOC] CCA.C17-HELIX.i3.08874: Nice one
+[19:19:52]	[OOC] CCA.C17-HELIX.i5.00344: Thanks.
+[19:20:02]	CCA.C17-UNION.i5.60555 has gained 10 tokens.
+[19:20:09]	[IT] Alex Palovichov: The body would move easily, though a small piece of string would suddenly rip off from the ground....A quick glance reveals something
+[19:20:18]	Alex Palovichov has gained a 'Grenade' #31840.
+[19:20:18]	Alex Palovichov used command '/CharGiveItem Palovichov grenade 1'.
+[19:20:22]	[IT] Alex Palovichov: A grenade...
+[19:20:24]	Alex Palovichov ran 'Equip' on item 'Grenade' (#31840)
+[19:20:25]	[Y] CCA.C17-HELIX.i5.00344: <:: GET BACK! ::>
+[19:20:33]	[ME] CCA.C17-HELIX.i5.00344: would let go of the body, the man running back.
+[19:20:36]	[IT] Alex Palovichov: You have a few seconds to react...
+[19:20:40]	[ME] CCA.C17-UNION.i5.60555: dives back and behind.
+[19:20:41]	CCA.C17-HELIX.i5.00344 used command '/Radio BOUNCER!'.
+[19:20:58]	Spaghetti has connected.
+[19:20:58]	[ME] CCA.C17-HELIX.i5.00344: walks back into the room after the explosion went off.
+[19:21:10]	[LOOC] CCA.C17-HELIX.i5.00344: I assume the body's just nothing now?
+[19:21:12]	[LOOC] Alex Palovichov: yeah
+[19:21:37]	[OOC] Alex Palovichov: Hope yall liked that
+[19:21:41]	[OOC] CCA.C17-HELIX.i5.00344: It was good.
+[19:21:43]	[OOC] CCA.C17-UNION.i5.60555: yes
+[19:21:55]	[OOC] Alex Palovichov: Somethin' quick I brewed up
+[19:21:58]	CCA.C17-HELIX.i3.08874 used command '/Radio Repeat, report status.'.
+[19:22:04]	CCA.C17-HELIX.i5.00344 used command '/Radio PT-Foxtrot. 10-19.'.
+[19:22:11]	Alex Palovichov exited observer at their location.
+[19:22:25]	[OOC] Alex Palovichov: void that, cam is cringe when coming out of no clip
+[19:22:38]	Alex Palovichov entered observer.
+[19:22:43]	Spaghetti (STEAM_0:1:186685962) has disconnected.
+[19:23:08]	[ME] CCA.C17-UNION.i5.60555: shakily brings his gun into his holster. He seems jittery.
+[19:23:12]	CCA.C17-HELIX.i3.08874 ran 'Frequency' on item 'Handheld Radio' (#29969)
+[19:23:35]	CCA.C17-HELIX.i5.00344 used command '/ViewObjectives'.
+[19:23:51]	CCA.C17-HELIX.i3.08874 ran 'Frequency' on item 'Handheld Radio' (#29969)
+[19:23:59]	[LOOC] CCA.C17-HELIX.i3.08874: It's 201.4
+[19:24:00]	CCA.C17-UNION.i5.60555 used command '/ViewObjectives'.
+[19:24:05]	[LOOC] CCA.C17-HELIX.i5.00344: I have it set to that.
+[19:24:06]	[LOOC] CCA.C17-UNION.i5.60555: yup
+[19:24:10]	CCA.C17-HELIX.i3.08874 ran 'Toggle' on item 'Handheld Radio' (#29969)
+[19:24:14]	CCA.C17-HELIX.i3.08874 ran 'Toggle' on item 'Handheld Radio' (#29969)
+[19:24:20]	[LOOC] CCA.C17-HELIX.i3.08874: Wtf then
+[19:24:21]	CCA.C17-HELIX.i5.00344 has gained 10 tokens.
+[19:24:28]	CCA.C17-HELIX.i3.08874 has gained 10 tokens.
+[19:24:34]	[LOOC] CCA.C17-HELIX.i3.08874: Testing this real fast
+[19:24:36]	Alex Palovichov exited observer at their location.
+[19:24:37]	CCA.C17-HELIX.i3.08874 used command '/Radio test'.
+[19:24:39]	Alex Palovichov has spawned 'models/industrial_uniforms/industrial_uniform2.mdl'.
+[19:24:42]	[LOOC] CCA.C17-HELIX.i5.00344: Chat is bugged.
+[19:24:45]	[LOOC] CCA.C17-HELIX.i5.00344: That's why.
+[19:24:47]	[LOOC] CCA.C17-UNION.i5.60555: only shows up above your head
+[19:24:53]	Alex Palovichov has gained a 'Grenade' #31840.
+[19:24:53]	Alex Palovichov used command '/CharGiveItem Palovichov grenade 1'.
+[19:25:00]	[LOOC] CCA.C17-HELIX.i3.08874: Bruh, how did q screw that up
+[19:25:02]	CCA.C17-UNION.i5.60555 has gained 10 tokens.
+[19:25:06]	[LOOC] CCA.C17-HELIX.i5.00344: idfk.
+[19:25:26]	Alex Palovichov ran 'Equip' on item 'Grenade' (#31840)
+[19:25:49]	Alex Palovichov used command '/Request Yeah...I found some strange body on the top of metrop- WHAT THE FU- *BOOM*'.
+[19:25:58]	Alex Palovichov entered observer.
+[19:26:08]	Alex Palovichov exited observer at their location.
+[19:26:11]	Alex Palovichov entered observer.
+[19:26:12]	Alex Palovichov exited observer at their location.
+[19:26:12]	Alex Palovichov has taken 219 damage from worldspawn.
+[19:26:12]	worldspawn has killed Alex Palovichov.
+[19:26:21]	Alex Palovichov entered observer.
+[19:26:23]	Alex Palovichov exited observer at their location.
+[19:26:24]	Alex Palovichov entered observer.
+[19:26:25]	Alex Palovichov exited observer at their location.
+[19:26:26]	Alex Palovichov has taken 35 damage from worldspawn.
+[19:26:26]	Alex Palovichov entered observer.
+[19:26:28]	[OOC] CCA.C17-HELIX.i3.08874: Just use combine IC channel for now
+[19:26:32]	[OOC] CCA.C17-HELIX.i3.08874: In the discord
+[19:26:33]	Alex Palovichov exited observer at their location.
+[19:26:38]	Alex Palovichov used command '/CharFallOver'.
+[19:26:42]	Alex Palovichov used command '/CharGetUp'.
+[19:26:45]	Alex Palovichov used command '/CharGetUp'.
+[19:26:57]	Alex Palovichov used command '/CharFallOver'.
+[19:27:32]	[IT] Alex Palovichov: The ground seems to be charred...A large amount of citizen uniform scraps are littered across the area...
+[19:27:41]	[IT] Alex Palovichov: No blood at all...
+[19:27:43]	[ME] CCA.C17-HELIX.i5.00344: walks over to Alex, the man inspecting his wounds.
+[19:28:22]	[IT] Alex Palovichov: The man would have a few pieces of concrete stuck within him, though seemingly not too injured
+[19:28:34]	[ME] CCA.C17-HELIX.i5.00344: picks up Alex, the man would walk away from the body.
+[19:29:21]	CCA.C17-HELIX.i5.00344 has gained 10 tokens.
+[19:29:28]	CCA.C17-HELIX.i3.08874 has gained 10 tokens.
+[19:29:44]	[ME] Alex Palovichov: Would seem to slowly wake up...
+[19:30:02]	CCA.C17-UNION.i5.60555 has gained 10 tokens.
+[19:30:15]	[ME] CCA.C17-HELIX.i3.08874: looks for an ID card on the individual.
+[19:30:58]	[LOOC] CCA.C17-HELIX.i3.08874: Messaging bean to see if they have a CID
+[19:31:21]	[LOOC] CCA.C17-HELIX.i3.08874: Ah whatever they are taking too long
+[19:31:40]	[ME] CCA.C17-HELIX.i3.08874: pulls a CID card off the guy, but it seems badly damaged.
+[19:31:46]	[ME] CCA.C17-HELIX.i5.00344: places Alex onto the bed, the man would then remove the part of the uniform with the bits and pieces of shrapnel and concrete.
+[19:32:09]	[ME] CCA.C17-HELIX.i3.08874: grabs the pole and slides down.
+[19:34:20]	[ME] CCA.C17-HELIX.i3.08874: takes a small PDA off of their holster, switching it on. It illuminates green.
+[19:34:21]	CCA.C17-HELIX.i5.00344 has gained 10 tokens.
+[19:34:28]	CCA.C17-HELIX.i3.08874 has gained 10 tokens.
+[19:35:02]	CCA.C17-UNION.i5.60555 has gained 10 tokens.
+[19:35:19]	[ME] CCA.C17-HELIX.i5.00344: pulls out medical disinfectant and begins to spray it onto and aroudn the wound, the man then pulled out some morphine. He injected him with the right amount to numb the pain, he then placed on medical  gloves before grabbing some pliers and removing the concrete and shrapnel from the body. After doing so, he placed them to the side and began to cauterize the wounds to prevent internal bleeding, then sewed up the wounds closed with padded gauze.
+[19:35:59]	[ME] CCA.C17-HELIX.i5.00344: gently places Alex onto the bench
+[19:36:13]	[ME] Alex Palovichov: Would slowly begin to wake up
+[19:36:16]	Alex Palovichov used command '/CharGetUp'.
+[19:36:30]	[ME] CCA.C17-HELIX.i3.08874: looks up from their PDA.
+[19:37:12]	[ME] Alex Palovichov: Would grunt, slowly standing up from the bench
+[19:37:45]	[OOC] CCA.C17-HELIX.i5.00344: Cya gamers.
+[19:37:49]	[OOC] CCA.C17-HELIX.i3.08874: Adios
+[19:37:52]	Apex (STEAM_0:0:170921441) has disconnected.
+[19:39:01]	[ME] Alex Palovichov: Would slightly nod at the officer "Thanks..."
+[19:39:12]	NamRm loaded the character 'Aurelio Grau'
+[19:39:20]	Alex Palovichov entered observer.
+[19:39:28]	CCA.C17-HELIX.i3.08874 has gained 10 tokens.
+[19:39:37]	[OOC] Aurelio Grau: wish chat wasnt broke
+[19:39:40]	[OOC] Alex Palovichov: The crazed body bomber strikes again
+[19:39:41]	[OOC] Aurelio Grau: would be nice
+[19:39:45]	[OOC] CCA.C17-HELIX.i3.08874: It's extremely annoying
+[19:40:32]	Painevan loaded the character 'Harold George'
+[19:40:44]	[OOC] Aurelio Grau: i am sleep
+[19:40:47]	[OOC] Aurelio Grau: see you guys later
+[19:40:51]	[OOC] Harold George: See ya
+[19:40:58]	[OOC] Aurelio Grau: was real fun btw bean i like that shit
+[19:41:13]	NamRm (STEAM_0:0:69476140) has disconnected.
+[19:41:33]	[OOC] Harold George: I'll probably head off for the night too, I'll be on again Friday
+[19:41:44]	[OOC] Harold George: I really want a work cycle :(
+[19:41:48]	Painevan (STEAM_0:0:68118061) has disconnected.
+[19:42:24]	Alex Palovichov exited observer at their location.
+[19:42:27]	Bean (STEAM_0:1:591779303) has disconnected.
+[22:43:39]	Bean has connected.
+[22:44:00]	Bean loaded the character 'Daniel J. Cutter'
+[22:44:06]	Daniel J. Cutter entered observer.
+[22:44:06]	Daniel J. Cutter exited observer at their location.
+[22:44:07]	Daniel J. Cutter entered observer.
+[22:44:16]	Daniel J. Cutter has gained 20 tokens.
+[22:44:20]	Daniel J. Cutter entered observer.
+[22:44:55]	Daniel J. Cutter has spawned a 'NPC [1587][npc_zombine]'.
+[22:45:02]	Daniel J. Cutter destroyed a '4.6x30 Rounds' #31841.
+[22:45:08]	Daniel J. Cutter has spawned a 'NPC [1587][npc_zombine]'.
+[22:45:15]	Daniel J. Cutter destroyed a '12-Gauge Shells' #31841.
+[22:45:19]	Daniel J. Cutter has spawned a 'NPC [1587][npc_zombine]'.
+[22:45:26]	Daniel J. Cutter ran 'take' on item '9mm Pistol Magazine' (#31841)
+[22:45:26]	Daniel J. Cutter has gained a '9mm Pistol Magazine' #31841.
+[22:45:29]	Daniel J. Cutter entered observer.
+[22:45:37]	Daniel J. Cutter has spawned a 'NPC [1587][npc_poisonzombie]'.
+[22:45:45]	Daniel J. Cutter has gained 30 tokens.
+[22:45:47]	Daniel J. Cutter entered observer.
+[22:45:49]	Daniel J. Cutter has spawned a 'NPC [1587][npc_zombine]'.
+[22:45:54]	Daniel J. Cutter destroyed a '12-Gauge Shells' #31842.
+[22:46:04]	Daniel J. Cutter has spawned a 'NPC [1587][npc_fastzombie]'.
+[22:46:09]	Daniel J. Cutter has spawned a 'NPC [1587][npc_zombine]'.
+[22:46:24]	Daniel J. Cutter has spawned a 'NPC [1587][npc_zombine]'.
+[22:46:37]	Daniel J. Cutter destroyed a 'Pulse Ammunition' #31842.
+[22:46:57]	Daniel J. Cutter has spawned a 'NPC [1587][npc_zombine]'.
+[22:47:02]	Daniel J. Cutter destroyed a 'Pulse Ammunition' #31842.
+[22:47:06]	Daniel J. Cutter has spawned a 'NPC [1587][npc_zombie]'.
+[22:47:11]	Daniel J. Cutter ran 'take' on item 'Cloth Scrap' (#31842)
+[22:47:11]	Daniel J. Cutter has gained a 'Cloth Scrap' #31842.
+[22:47:14]	Daniel J. Cutter entered observer.
+[22:47:15]	Daniel J. Cutter has spawned a 'NPC [1587][npc_fastzombie]'.
+[22:47:19]	Daniel J. Cutter has gained 20 tokens.
+[22:47:21]	Daniel J. Cutter has spawned a 'NPC [1587][npc_zombine]'.
+[22:47:22]	Daniel J. Cutter entered observer.
+[22:47:26]	Daniel J. Cutter ran 'take' on item '4.6x30 Rounds' (#31843)
+[22:47:26]	Daniel J. Cutter has gained a '4.6x30 Rounds' #31843.
+[22:47:29]	Daniel J. Cutter entered observer.
+[22:47:33]	Daniel J. Cutter exited observer at their location.
+[22:47:33]	Daniel J. Cutter opened the 'Padlocked Item Crate' #2851 container.
+[22:47:37]	Daniel J. Cutter closed the 'Padlocked Item Crate' #2851 container.
+[22:47:41]	Daniel J. Cutter ran 'drop' on item 'Cloth Scrap' (#31842)
+[22:47:41]	Daniel J. Cutter has lost a 'Cloth Scrap' #31842.
+[22:47:42]	Daniel J. Cutter opened the 'Padlocked Item Crate' #2851 container.
+[22:47:44]	Daniel J. Cutter ran 'drop' on item 'Pulse Ammunition' (#31742)
+[22:47:44]	Daniel J. Cutter ran 'drop' on item 'Pulse Ammunition' (#31782)
+[22:47:45]	Daniel J. Cutter closed the 'Padlocked Item Crate' #2851 container.
+[22:47:53]	Daniel J. Cutter destroyed a 'Pulse Ammunition' #31782.
+[22:47:54]	Daniel J. Cutter destroyed a 'Pulse Ammunition' #31742.
+[22:47:54]	Daniel J. Cutter opened the 'Padlocked Item Crate' #2851 container.
+[22:48:00]	Daniel J. Cutter closed the 'Padlocked Item Crate' #2851 container.
+[22:48:02]	Daniel J. Cutter ran 'take' on item 'Cloth Scrap' (#31784)
+[22:48:02]	Daniel J. Cutter has gained a 'Cloth Scrap' #31784.
+[22:48:04]	Daniel J. Cutter ran 'take' on item 'Cloth Scrap' (#31842)
+[22:48:04]	Daniel J. Cutter has gained a 'Cloth Scrap' #31842.
+[22:48:08]	Daniel J. Cutter has gained a 'Bandage' #31844.
+[22:48:40]	Daniel J. Cutter has gained a 'Cloth Scrap' #31845.
+[22:48:40]	Daniel J. Cutter has gained a 'Cloth Scrap' #31846.
+[22:48:40]	Daniel J. Cutter has gained a 'Cloth Scrap' #31847.
+[22:48:40]	Daniel J. Cutter has gained a 'Cloth Scrap' #31848.
+[22:48:40]	Daniel J. Cutter used command '/CharGiveItem cutter cloth 4'.
+[22:48:46]	Daniel J. Cutter ran 'take' on item 'Sewing Kit' (#28776)
+[22:48:46]	Daniel J. Cutter has gained a 'Sewing Kit' #28776.
+[22:48:49]	Daniel J. Cutter has gained a 'Sewn Cloth' #31849.
+[22:48:49]	Daniel J. Cutter has gained a 'Sewn Cloth' #31850.
+[22:48:54]	Daniel J. Cutter ran 'drop' on item 'Sewn Cloth' (#31849)
+[22:48:54]	Daniel J. Cutter has lost a 'Sewn Cloth' #31849.
+[22:48:56]	Daniel J. Cutter ran 'drop' on item 'Sewn Cloth' (#31850)
+[22:48:56]	Daniel J. Cutter has lost a 'Sewn Cloth' #31850.
+[22:48:58]	Daniel J. Cutter has gained a 'Cloth Scrap' #31851.
+[22:48:58]	Daniel J. Cutter has gained a 'Cloth Scrap' #31852.
+[22:48:58]	Daniel J. Cutter has gained a 'Cloth Scrap' #31853.
+[22:48:58]	Daniel J. Cutter has gained a 'Cloth Scrap' #31854.
+[22:48:58]	Daniel J. Cutter used command '/CharGiveItem cutter cloth 4'.
+[22:49:02]	Daniel J. Cutter has gained a 'Sewn Cloth' #31854.
+[22:49:02]	Daniel J. Cutter has gained a 'Sewn Cloth' #31855.
+[22:49:07]	Daniel J. Cutter ran 'drop' on item 'Sewn Cloth' (#31854)
+[22:49:07]	Daniel J. Cutter has lost a 'Sewn Cloth' #31854.
+[22:49:08]	Daniel J. Cutter ran 'drop' on item 'Sewn Cloth' (#31855)
+[22:49:08]	Daniel J. Cutter has lost a 'Sewn Cloth' #31855.
+[22:49:31]	Daniel J. Cutter has gained a 'Cloth Scrap' #31856.
+[22:49:31]	Daniel J. Cutter has gained a 'Cloth Scrap' #31857.
+[22:49:31]	Daniel J. Cutter has gained a 'Cloth Scrap' #31858.
+[22:49:31]	Daniel J. Cutter has gained a 'Cloth Scrap' #31859.
+[22:49:31]	Daniel J. Cutter used command '/CharGiveItem cutter cloth 4'.
+[22:49:33]	Daniel J. Cutter has gained a 'Sewn Cloth' #31860.
+[22:49:33]	Daniel J. Cutter has gained a 'Sewn Cloth' #31861.
+[22:49:37]	Daniel J. Cutter ran 'drop' on item 'Sewn Cloth' (#31861)
+[22:49:37]	Daniel J. Cutter has lost a 'Sewn Cloth' #31861.
+[22:49:57]	Daniel J. Cutter ran 'drop' on item 'Sewn Cloth' (#31860)
+[22:49:57]	Daniel J. Cutter has lost a 'Sewn Cloth' #31860.
+[22:50:20]	Daniel J. Cutter has spawned 'models/props_junk/wood_crate001a.mdl'.
+[22:50:27]	Daniel J. Cutter ran 'take' on item 'Padlock' (#31408)
+[22:50:27]	Daniel J. Cutter has gained a 'Padlock' #31408.
+[22:50:31]	Daniel J. Cutter ran 'Use' on item 'Padlock' (#31408)
+[22:50:37]	Daniel J. Cutter ran 'Edit' on item 'Paper' (#31346)
+[22:50:43]	Daniel J. Cutter ran 'Edit' on item 'Paper' (#31346)
+[22:50:52]	Daniel J. Cutter ran 'take' on item 'Sewn Cloth' (#31860)
+[22:50:52]	Daniel J. Cutter has gained a 'Sewn Cloth' #31860.
+[22:50:53]	Daniel J. Cutter ran 'take' on item 'Sewn Cloth' (#31850)
+[22:50:53]	Daniel J. Cutter has gained a 'Sewn Cloth' #31850.
+[22:50:55]	Daniel J. Cutter ran 'take' on item 'Sewn Cloth' (#31855)
+[22:50:55]	Daniel J. Cutter has gained a 'Sewn Cloth' #31855.
+[22:51:00]	Daniel J. Cutter opened the 'Padlocked Crate' #2900 container.
+[22:51:06]	Daniel J. Cutter closed the 'Padlocked Crate' #2900 container.
+[22:51:34]	Daniel J. Cutter has gained a 'Shotgun Shell Head Die Cast' #31862.
+[22:51:34]	Daniel J. Cutter used command '/CharGiveItem cutter die 1'.
+[22:51:38]	Daniel J. Cutter ran 'drop' on item 'Shotgun Shell Head Die Cast' (#31862)
+[22:51:38]	Daniel J. Cutter has lost a 'Shotgun Shell Head Die Cast' #31862.
+[22:51:41]	Daniel J. Cutter destroyed a 'Shotgun Shell Head Die Cast' #31862.
+[22:53:52]	Daniel J. Cutter entered observer.
+[22:54:32]	Daniel J. Cutter ran 'take' on item 'Electric Drill' (#31828)
+[22:54:32]	Daniel J. Cutter has gained a 'Electric Drill' #31828.
+[22:54:33]	Daniel J. Cutter ran 'take' on item 'Minimum Grade Food Product (No Flavor)' (#31824)
+[22:54:33]	Daniel J. Cutter has gained a 'Minimum Grade Food Product (No Flavor)' #31824.
+[22:54:54]	Daniel J. Cutter entered observer.
+[22:55:01]	Daniel J. Cutter exited observer at their location.
+[22:55:03]	Daniel J. Cutter ran 'drop' on item 'Minimum Grade Food Product (No Flavor)' (#31824)
+[22:55:03]	Daniel J. Cutter has lost a 'Minimum Grade Food Product (No Flavor)' #31824.
+[22:55:22]	Daniel J. Cutter ran 'drop' on item 'Electric Drill' (#31828)
+[22:55:22]	Daniel J. Cutter has lost a 'Electric Drill' #31828.
+[22:55:33]	Daniel J. Cutter opened the 'Padlocked Item Crate' #2851 container.
+[22:55:45]	Daniel J. Cutter closed the 'Padlocked Item Crate' #2851 container.
+[22:55:46]	Daniel J. Cutter entered observer.
+[22:56:11]	Daniel J. Cutter exited observer at their location.
+[22:56:20]	Daniel J. Cutter opened the 'File Cabinet' #2819 container.
+[22:56:23]	Daniel J. Cutter closed the 'File Cabinet' #2819 container.
+[22:56:25]	Daniel J. Cutter opened the 'Crate' #2558 container.
+[22:56:27]	Daniel J. Cutter closed the 'Crate' #2558 container.
+[22:56:32]	Daniel J. Cutter has removed the password for 'Padlocked File Cabinet'.
+[22:56:32]	Daniel J. Cutter opened the 'Padlocked File Cabinet' #245 container.
+[22:56:36]	Daniel J. Cutter closed the 'Padlocked File Cabinet' #245 container.
+[22:56:37]	Daniel J. Cutter opened the 'Refrigerator' #2404 container.
+[22:56:39]	Daniel J. Cutter has gained a 'Minimal Grade Ration' #31541.
+[22:56:41]	Daniel J. Cutter closed the 'Refrigerator' #2404 container.
+[22:56:46]	Daniel J. Cutter ran 'Open' on item 'Minimal Grade Ration' (#31541)
+[22:56:46]	Daniel J. Cutter has gained a 'Minimum Grade Supplements (No Flavor)' #31862.
+[22:56:46]	Daniel J. Cutter has gained a 'Minimum Grade Food Product (Liver Flavor)' #31863.
+[22:56:46]	Daniel J. Cutter has gained a 'Consulate Water' #31864.
+[22:56:46]	Daniel J. Cutter has gained 5 tokens.
+[22:57:07]	Daniel J. Cutter entered observer.
+[22:57:18]	Daniel J. Cutter opened the 'Metal Cabinet' #2763 container.
+[22:57:31]	Daniel J. Cutter closed the 'Metal Cabinet' #2763 container.
+[22:57:42]	Daniel J. Cutter ran 'take' on item 'Suitcase' (#30046)
+[22:57:44]	Daniel J. Cutter ran 'take' on item 'Suitcase' (#30046)
+[22:57:44]	Daniel J. Cutter has gained a 'Suitcase' #30046.
+[22:57:49]	Daniel J. Cutter ran 'drop' on item 'Suitcase' (#30046)
+[22:57:49]	Daniel J. Cutter has lost a 'Suitcase' #30046.
+[22:57:49]	Daniel J. Cutter entered observer.
+[22:57:56]	Daniel J. Cutter entered observer.
+[22:59:06]	Daniel J. Cutter ran 'take' on item 'Citizen Filter' (#30473)
+[22:59:06]	Daniel J. Cutter has gained a 'Citizen Filter' #30473.
+[22:59:07]	Daniel J. Cutter ran 'take' on item 'Citizen Filter' (#31775)
+[22:59:07]	Daniel J. Cutter has gained a 'Citizen Filter' #31775.
+[22:59:10]	Daniel J. Cutter ran 'take' on item 'Suitcase' (#31776)
+[22:59:14]	Daniel J. Cutter ran 'combine' on item 'Suitcase' (#30930)
+[22:59:15]	Daniel J. Cutter ran 'take' on item 'Suitcase' (#31776)
+[22:59:15]	Daniel J. Cutter has gained a 'Suitcase' #31776.
+[22:59:19]	Daniel J. Cutter entered observer.
+[22:59:36]	Daniel J. Cutter exited observer at their location.
+[22:59:41]	Daniel J. Cutter ran 'drop' on item 'Minimum Grade Food Product (Liver Flavor)' (#31863)
+[22:59:41]	Daniel J. Cutter has lost a 'Minimum Grade Food Product (Liver Flavor)' #31863.
+[22:59:50]	Daniel J. Cutter ran 'drop' on item 'Minimum Grade Supplements (No Flavor)' (#31862)
+[22:59:50]	Daniel J. Cutter has lost a 'Minimum Grade Supplements (No Flavor)' #31862.
+[22:59:58]	Daniel J. Cutter ran 'drop' on item 'Consulate Water' (#31864)
+[22:59:58]	Daniel J. Cutter has lost a 'Consulate Water' #31864.
+[23:00:06]	Daniel J. Cutter ran 'drop' on item 'Citizen Filter' (#31775)
+[23:00:06]	Daniel J. Cutter has lost a 'Citizen Filter' #31775.
+[23:00:17]	Daniel J. Cutter ran 'drop' on item 'Citizen Filter' (#30473)
+[23:00:17]	Daniel J. Cutter has lost a 'Citizen Filter' #30473.
+[23:00:41]	Daniel J. Cutter entered observer.
+[23:00:45]	Daniel J. Cutter exited observer at their location.
+[23:00:49]	Bean (STEAM_0:1:591779303) has disconnected.

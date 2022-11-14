@@ -1,0 +1,5 @@
+; List of maps that are either included in the votemap command or excluded from it
+; Make sure to set votemapMapmode in config.txt to what you want.
+gm_construct
+gm_flatgrass
+rp_industrial17_v1

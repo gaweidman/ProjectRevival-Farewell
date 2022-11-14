@@ -1,0 +1,1809 @@
+[02:14:27] New map: rp_city8_edit_v4r
+[14:46:42] Client "Beedle" connected.
+[14:48:16] Client "Beedle" spawned in server <STEAM_0:1:31603520> (took 94 seconds).
+[14:48:54] Beedle<STEAM_0:1:31603520> changed their name to Jagraj Singh
+[14:51:02] Dropped "Jagraj Singh" from server<STEAM_0:1:31603520>
+[16:12:23] Client "matt saton" connected.
+[16:15:14] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 171 seconds).
+[16:16:30] matt saton<STEAM_0:1:53097688> changed their name to Lee Maylor
+[16:19:40] Lee Maylor: /toggleraise
+[16:19:41] Lee Maylor: /toggleraise
+[16:20:52] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/kitchen_counter001b.mdl
+[16:21:44] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_interiors/table_cafeteria.mdl
+[16:26:04] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_combine/suit_charger001.mdl
+[16:26:49] Lee Maylor<STEAM_0:1:53097688> spawned sent ix_station_poweroutlet
+[16:28:04] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/suit_charger001.mdl
+[16:28:20] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_lab/citizenradio.mdl
+[16:31:20] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_interiors/medicalcabinet02.mdl
+[16:37:45] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/cs_office/tv_plasma.mdl
+[16:38:47] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_combine/combine_intmonitor003.mdl
+[16:40:35] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_combine/combine_ballsocket.mdl
+[16:40:42] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_combine/combine_ballsocket.mdl
+[16:40:44] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on maps/rp_city8_edit_v4r.bsp
+[16:40:45] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_combine/combine_ballsocket.mdl
+[16:40:47] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_combine/combine_ballsocket.mdl
+[16:41:41] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_combine/combine_intwallunit.mdl
+[16:42:01] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_combine/combine_emitter01.mdl
+[16:42:51] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_combine/combinebutton.mdl
+[16:44:12] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/combinebutton.mdl
+[16:44:14] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city8_edit_v4r.bsp
+[16:45:10] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_combine/combine_intmonitor001.mdl
+[16:45:12] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_combine/breenclock.mdl
+[16:45:43] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_combine/combine_binocular01.mdl
+[16:46:14] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_combine/combine_binocular01.mdl
+[16:50:11] Client "Lithi" connected.
+[16:50:53] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_interiors/table_cafeteria.mdl
+[16:51:19] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_warehouse/office_furniture_desk.mdl
+[16:51:23] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_office/desk_01.mdl
+[16:51:41] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_combine/combine_binocular01.mdl
+[16:51:41] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/combine_binocular01.mdl
+[16:51:41] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/combine_binocular01.mdl
+[16:51:42] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/combine_binocular01.mdl
+[16:53:39] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city8_edit_v4r.bsp
+[16:53:54] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city8_edit_v4r.bsp
+[16:54:02] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city8_edit_v4r.bsp
+[16:54:44] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_interiors/table_cafeteria.mdl
+[16:54:58] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city8_edit_v4r.bsp
+[17:13:59] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city8_edit_v4r.bsp
+[17:17:16] Client "Lithi" connected.
+[17:20:29] Client "Beedle" connected.
+[17:22:03] Client "Beedle" spawned in server <STEAM_0:1:31603520> (took 94 seconds).
+[17:23:27] Client "Lithi" spawned in server <STEAM_0:0:19369750> (took 371 seconds).
+[17:28:29] Dropped "Lithi" from server<STEAM_0:0:19369750>
+[17:39:36] Beedle<STEAM_0:1:31603520> changed their name to Jagraj Singh
+[17:40:10] Dropped "Jagraj Singh" from server<STEAM_0:1:31603520>
+[17:41:35] Client "Beedle" connected.
+[17:42:44] Client "Beedle" spawned in server <STEAM_0:1:31603520> (took 69 seconds).
+[17:43:12] Beedle<STEAM_0:1:31603520> changed their name to CCA.C08-UNION.i5.67908
+[17:49:03] Dropped "CCA.C08-UNION.i5.67908" from server<STEAM_0:1:31603520>
+[17:49:18] Client "Lithi" connected.
+[17:52:30] Client "Beedle" connected.
+[17:53:46] Client "Beedle" spawned in server <STEAM_0:1:31603520> (took 76 seconds).
+[17:54:18] Beedle<STEAM_0:1:31603520> changed their name to CCA.C08-UNION.i5.67908
+[17:56:47] Client "Lithi" spawned in server <STEAM_0:0:19369750> (took 449 seconds).
+[17:59:29] Dropped "CCA.C08-UNION.i5.67908" from server<STEAM_0:1:31603520>
+[18:02:24] Lithi<STEAM_0:0:19369750> changed their name to Brandon Miller
+[18:02:41] Brandon Miller: // hello
+[18:16:53] Lee Maylor: //hey wha's good
+[18:16:55] Lee Maylor: //sorry, was eating dinner
+[18:16:58] Brandon Miller: // hello
+[18:17:09] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_interiors/table_cafeteria.mdl
+[18:17:17] Lee Maylor: /chargiveitem maylor notepad
+[18:17:34] Brandon Miller: // in about an hour the event will begin!
+[18:19:27] Dropped "Lee Maylor" from server<STEAM_0:1:53097688>
+[18:20:08] Client "matt saton" connected.
+[18:21:18] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 70 seconds).
+[18:22:04] matt saton<STEAM_0:1:53097688> changed their name to Lee Maylor
+[18:24:00] Brandon Miller: // soon there will be an event!
+[18:24:04] Lee Maylor: //indeed!
+[18:24:08] Lee Maylor: //i'm doing event prep atm
+[18:24:17] Brandon Miller: // teleport me that i may watch
+[18:27:11] Client "Beedle" connected.
+[18:28:24] Client "Wyatt" connected.
+[18:28:45] Client "Beedle" spawned in server <STEAM_0:1:31603520> (took 94 seconds).
+[18:28:59] Brandon Miller: // welcome beedle
+[18:29:11] Beedle<STEAM_0:1:31603520> changed their name to CCA.C08-UNION.i5.67908
+[18:29:16] Lee Maylor: //welcome welcome
+[18:29:17] Lee Maylor: //he cometh
+[18:30:54] Brandon Miller: /me stands wordlessly
+[18:31:00] CCA.C08-UNION.i5.67908: Evening..
+[18:31:05] Brandon Miller: oh I already have my card
+[18:31:09] Brandon Miller: evenin
+[18:31:19] CCA.C08-UNION.i5.67908: Well you're free to go on through, then.
+[18:31:27] Brandon Miller: its not illegal?
+[18:31:59] CCA.C08-UNION.i5.67908: What card do you have? A transfer card? Then you're in need of a badge for this city sector.
+[18:32:22] Brandon Miller: /loo im going to non stop make characters until the event begins and subject you to carding every one of them
+[18:32:33] Brandon Miller: no I have a CID
+[18:32:49] Brandon Miller: /looc im going to non stop make new characters until the event begins
+[18:32:52] CCA.C08-UNION.i5.67908: Yeah, you're all good then.
+[18:33:01] Brandon Miller: /looc and subject you to carding every single one of them
+[18:33:04] Brandon Miller: /looc it will be torment
+[18:33:10] CCA.C08-UNION.i5.67908: [[ gr8 m8
+[18:33:23] CCA.C08-UNION.i5.67908: [[ it will be excrusiating
+[18:34:16] Brandon Miller<STEAM_0:0:19369750> changed their name to Richard Huberman
+[18:34:25] Richard Huberman: phew!
+[18:34:30] Richard Huberman: what a train ride that was!
+[18:34:37] Richard Huberman: god the air in here smells like shit!
+[18:34:41] CCA.C08-UNION.i5.67908: [[ lol fix that description plz
+[18:34:49] Richard Huberman: what a shit-hole
+[18:35:22] CCA.C08-UNION.i5.67908: /me clears his throat, it makes a very strange noise through the V coder.
+[18:35:45] CCA.C08-UNION.i5.67908: Let me see your transfer card, partner.
+[18:35:51] Richard Huberman: cyborgs in this city too huh....
+[18:35:53] Richard Huberman: my word...
+[18:36:11] CCA.C08-UNION.i5.67908: Yeah, you'll have to put your suit on, they should have gave you one on the train. 
+[18:36:12] Richard Huberman: /me produces his transfer card and sets it down on the counter
+[18:36:25] Richard Huberman: oh!  Right!
+[18:36:26] CCA.C08-UNION.i5.67908: The industrial area here, the air quality isn't so good.
+[18:36:31] Richard Huberman: /me abruptly leaves to get his suit
+[18:36:38] Richard Huberman: /it he leaves his card
+[18:36:41] CCA.C08-UNION.i5.67908: /me takes the card, turning.
+[18:37:04] CCA.C08-UNION.i5.67908: /me inserts the plastic card into the machine.
+[18:37:06] Richard Huberman: ugly old thing, this is
+[18:37:17] Richard Huberman: its covered in soot and shit...
+[18:37:20] CCA.C08-UNION.i5.67908: [[ tf
+[18:37:29] Richard Huberman: /looc what
+[18:37:42] Richard Huberman: /looc dw about it if it glitched, ill just delete this guy
+[18:37:45] CCA.C08-UNION.i5.67908: [[ lol card wouldnt go thru field
+[18:37:49] Richard Huberman: /looc oohh
+[18:37:52] Lee Maylor: //brb looking atm aps
+[18:38:02] CCA.C08-UNION.i5.67908: /me sets the new card down on the concrete counter.
+[18:38:04] Richard Huberman: /me grabs the card with a gloved hand
+[18:38:10] Richard Huberman: thanks
+[18:38:15] Dropped "Lee Maylor" from server<STEAM_0:1:53097688>
+[18:38:17] Richard Huberman: /me stuffs the card into a fold in his suit
+[18:38:45] CCA.C08-UNION.i5.67908: Alright, that should get you through any field which is legal for you to go through, including the trainstation. Keep that suit and mask on while you're out there.
+[18:38:54] Richard Huberman: roger that
+[18:39:00] Richard Huberman: /me walks off
+[18:39:20] CCA.C08-UNION.i5.67908: /viewdata Richard Huberman
+[18:39:25] Richard Huberman: /me donates blood, removing his sleeve to do so
+[18:42:16] CCA.C08-UNION.i5.67908: Hey.
+[18:42:17] Richard Huberman: hello officer
+[18:42:42] CCA.C08-UNION.i5.67908: Huberman, right? There were some questions I forgot to ask, if you'll follow me please.
+[18:42:47] Richard Huberman: right
+[18:43:21] Richard Huberman: /looc its not needed to f3 if im wearing a suit, is it
+[18:43:33] Richard Huberman: /looc are you able to recognize thru a suit?
+[18:43:41] CCA.C08-UNION.i5.67908: /me pulls out his datapad, "Alright just some things I forgot, new policy for new citizens here in the city..."
+[18:43:48] Richard Huberman: ask away
+[18:43:50] CCA.C08-UNION.i5.67908: [[ if you did it no
+[18:44:13] CCA.C08-UNION.i5.67908: Alright first, your date of birth?
+[18:44:31] CCA.C08-UNION.i5.67908: [[ its 2006 now keep that in mind
+[18:44:52] Richard Huberman: ah... uhh... Seventy two?  Seventy three?  Seventy two.  May third, 1972
+[18:44:56] Richard Huberman: I think...
+[18:45:12] Richard Huberman: /me has trouble remembering things
+[18:45:26] CCA.C08-UNION.i5.67908: Alright... Uhm, do you happen to know your blood type off hand? 
+[18:45:34] Richard Huberman: B Negative
+[18:45:34] CCA.C08-UNION.i5.67908: It's alright if not.
+[18:45:39] CCA.C08-UNION.i5.67908: Right, great...
+[18:45:53] CCA.C08-UNION.i5.67908: /me is clearly jotting things down on his datapad
+[18:46:05] CCA.C08-UNION.i5.67908: /viewdata Richard Huberman
+[18:46:33] Richard Huberman: /me wiggles his toes in the grime and rotten leather at the bottom of his boots
+[18:46:39] Richard Huberman: /it it is utterly disgusting
+[18:47:23] CCA.C08-UNION.i5.67908: Okay, and last question... Do you have any physical or mental abnormalities?
+[18:47:36] Richard Huberman: Ahhh.... *No*
+[18:47:41] Richard Huberman: *I do not*
+[18:47:56] CCA.C08-UNION.i5.67908: /me pauses for a moment, looking at the man.
+[18:47:57] Richard Huberman: quiet joe!
+[18:48:01] Richard Huberman: not now!
+[18:48:07] Richard Huberman: /me turns back to the officer
+[18:48:23] Richard Huberman: /me turns back to Joe
+[18:48:33] Richard Huberman: no Joe, YOU'RE the schizo!
+[18:48:33] CCA.C08-UNION.i5.67908: /me shifts his weight to his other side, studying the man.
+[18:48:41] Richard Huberman: /me faces the officer again
+[18:49:24] Richard Huberman: /me smiles under his gasmask, then realizes the CP cannot see it, and his smile fades
+[18:49:26] CCA.C08-UNION.i5.67908: /me clears his throat, again making a strange noise through the V coder.
+[18:50:10] CCA.C08-UNION.i5.67908: /me reaches for his radio slowly, quietly speaking into it.
+[18:50:11] Richard Huberman: Joe I know he cant hear you, but theres no need to say nasty things about him.  Remember the conversation we had about being unkind to strangers?
+[18:50:23] Richard Huberman: Disgraceful!
+[18:50:30] CCA.C08-UNION.i5.67908: /radiowhisper Test.
+[18:50:37] Richard Huberman: I'm sorry about him, he gets a little paranoid sometimes
+[18:51:02] CCA.C08-UNION.i5.67908: /radio Ten-One-Oh-Two-M, 10-20 trainstation lobby...
+[18:51:09] Richard Huberman: /me is very obviously mentally unfit
+[18:51:13] CCA.C08-UNION.i5.67908: [[ fuck
+[18:52:38] CCA.C08-UNION.i5.67908: Alright, Richard, you've been selected for a quick erm- Citizen suppliment testing. We select citizens at random to test new suppliment flavors.. 
+[18:52:44] CCA.C08-UNION.i5.67908: How's that sound?
+[18:52:49] Richard Huberman: oh, great!
+[18:53:31] Richard Huberman: Joe what do you mean dont... trust...
+[18:53:47] Richard Huberman: /me falls silent
+[18:53:57] CCA.C08-UNION.i5.67908: Alright if you'll just step over here and face the wall for me, I'll need to cuff you- Just standard procedure for entering the test-
+[18:54:28] Richard Huberman: /me silently moves towards the wall
+[18:54:44] CCA.C08-UNION.i5.67908: /me reaches down, gripping his stunstick on his belt. "Good, Richard... This will only take a moment..."
+[18:55:43] CCA.C08-UNION.i5.67908: [[ Uhm- wait here for me a moment. I was supposed to ICly get my radio and things already I dont have.
+[18:55:47] CCA.C08-UNION.i5.67908: [[ brb srty
+[18:56:24] Richard Huberman: // im gonna get imprisoned!
+[18:56:40] CCA.C08-UNION.i5.67908: // No, suppliment testing ;>
+[18:57:28] Richard Huberman: // are there three players on the server or two, does joe count as a person
+[18:57:51] CCA.C08-UNION.i5.67908: // Ya he's ICly here so yea I think so lol
+[18:58:10] Richard Huberman: // hes icly a voice in my guys head
+[18:58:36] Richard Huberman: // you look around as i talk to joe and its just me talking to the air
+[19:00:23] CCA.C08-UNION.i5.67908: /me takes a ziptie from his utility pouch, he'd gently grab onto the man's wrist, in clear attempt to tie him.
+[19:00:29] Richard Huberman: /me does not resist
+[19:00:41] Richard Huberman: /me mumbles to himself as hes tied
+[19:01:05] CCA.C08-UNION.i5.67908: /me gives the man a quick pat-down, checking any place he could be hiding anything.
+[19:01:10] CCA.C08-UNION.i5.67908: /charsearch
+[19:01:23] Richard Huberman: /it you dont find anything
+[19:02:12] CCA.C08-UNION.i5.67908: /me grabs the man's arm, guiding him as he begins to walk. "Alright, just this way. A bit of a walk."
+[19:04:42] Richard Huberman: in here?
+[19:04:42] CCA.C08-UNION.i5.67908: Step inside here for me.
+[19:04:59] CCA.C08-UNION.i5.67908: Yes- We will... Bring you the suppliments soon. Sit tight.
+[19:05:04] Richard Huberman: alright
+[19:05:29] CCA.C08-UNION.i5.67908: /me walks over to the table, setting his PDA down and reviews some information on it.
+[19:08:11] Richard Huberman: /actsit 2
+[19:08:30] CCA.C08-UNION.i5.67908: /viewdata Richard
+[19:08:49] Richard Huberman: /me tests the sink, does it work?
+[19:09:57] CCA.C08-UNION.i5.67908: Alright, Richard come with me.
+[19:11:10] CCA.C08-UNION.i5.67908: /me grabs onto the man's arm, he'd hold a utility knife in his other hand, he'd quickly cut the man's ties.
+[19:11:19] Richard Huberman: phew!
+[19:11:39] CCA.C08-UNION.i5.67908: There was a bit of a mixup, we happened to run out of test suppliments, our apologies.
+[19:11:46] CCA.C08-UNION.i5.67908: You're free to go.
+[19:11:53] Richard Huberman: /looc my guy is nuts, are you sure?
+[19:12:00] Richard Huberman: /looc youre not gonna amputate him or something?
+[19:12:22] CCA.C08-UNION.i5.67908: [[ yeah I reviewed the protocols and its simply not my place to do anything 
+[19:12:30] Richard Huberman: /looc alright
+[19:12:36] CCA.C08-UNION.i5.67908: [[ you'll def be watched now tho lol
+[19:12:50] Richard Huberman: /looc with joe by my side, no threat can harm me
+[19:12:54] Richard Huberman: good day
+[19:13:03] CCA.C08-UNION.i5.67908: [[ If joe is for you who could stop you lol
+[19:13:19] Richard Huberman: /me silently walks off
+[19:15:06] Richard Huberman<STEAM_0:0:19369750> changed their name to Brandon Miller
+[19:15:43] Brandon Miller<STEAM_0:0:19369750> changed their name to Richard Huberman
+[19:17:46] CCA.C08-UNION.i5.67908<STEAM_0:1:31603520> changed their name to CCA.C17-RCT.05486
+[19:18:10] CCA.C17-RCT.05486<STEAM_0:1:31603520> changed their name to CCA.C08-UNION.i5.67908
+[19:18:50] CCA.C08-UNION.i5.67908: /viewobjectives
+
+
+
+[19:24:59] New map: rp_city8_edit_v4r
+[19:25:48] Client "Beedle" connected.
+[19:25:59] Client "matt saton" connected.
+[19:27:16] Client "Beedle" spawned in server <STEAM_0:1:31603520> (took 88 seconds).
+[19:27:38] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 99 seconds).
+[19:28:33] Client "Lithi" connected.
+[19:29:03] matt saton<STEAM_0:1:53097688> changed their name to Dispatch/Overwatch
+[19:29:18] Beedle<STEAM_0:1:31603520> changed their name to CCA.C08-UNION.i5.67908
+[19:29:38] Dispatch/Overwatch<STEAM_0:1:53097688> changed their name to CCA.C08-QrM.95283
+[19:29:51] CCA.C08-QrM.95283: /mey would clear his throat loudly.
+[19:29:57] CCA.C08-QrM.95283: Can I help you?
+[19:30:20] CCA.C08-UNION.i5.67908: Erm- Evening.. I'm trying to fill out requisition for some ties and a radio..
+[19:30:49] CCA.C08-QrM.95283: Right, let me get to my counter.
+[19:31:08] CCA.C08-QrM.95283: Ties and a radio? Ties should be available in apartment, erm... 4C.
+[19:31:13] CCA.C08-QrM.95283: But I can get you some.
+[19:31:36] CCA.C08-UNION.i5.67908: Yeah- Four C, where exactly is that?
+[19:31:54] CCA.C08-QrM.95283: Sorry, Apartment 4C in the 17th street towers.
+[19:31:57] CCA.C08-QrM.95283: The really nice ones.
+[19:32:04] CCA.C08-QrM.95283: Top floor, the one with a combine lock.
+[19:32:10] CCA.C08-UNION.i5.67908: Interesting.. Alright.
+[19:32:30] CCA.C08-UNION.i5.67908: Oh- Nice.
+[19:32:39] CCA.C08-UNION.i5.67908: Don't have this, yet.
+[19:32:42] Client "Michael's World" connected.
+[19:32:51] CCA.C08-UNION.i5.67908: /me straps the item onto his utility belt.
+[19:33:02] CCA.C08-QrM.95283: Frequency is 328.1
+[19:33:27] CCA.C08-QrM.95283: Don't repeat that out loud. Got it?
+[19:33:35] CCA.C08-UNION.i5.67908: copy that
+[19:33:44] CCA.C08-QrM.95283: Alright. Ammunition is in that apartment too, it's a resupply.
+[19:34:00] CCA.C08-UNION.i5.67908: Right, makes it easier than coming way back up here.
+[19:34:18] CCA.C08-QrM.95283: Yep.
+[19:34:21] Client "Michael's World" spawned in server <STEAM_0:1:75161355> (took 99 seconds).
+[19:34:25] CCA.C08-QrM.95283: We plan on putting more of those around the city.
+[19:34:36] CCA.C08-QrM.95283: At least from what I'm being told.
+[19:34:48] CCA.C08-QrM.95283: Oh, I want that case back.
+[19:34:48] Michael's World<STEAM_0:1:75161355> changed their name to John Smith
+[19:34:52] CCA.C08-QrM.95283: I"ll get you a personal satchel.
+[19:35:02] CCA.C08-UNION.i5.67908: Right... Hmm, alright.
+[19:35:04] John Smith: // good evening
+[19:35:44] CCA.C08-UNION.i5.67908: Oh erm- I guess you can take this? I'll no longer be needing it.
+[19:35:55] CCA.C08-QrM.95283: Yep.
+[19:35:59] CCA.C08-QrM.95283: One moment.
+[19:36:01] CCA.C08-UNION.i5.67908: /me places a citizen issue filter down.
+[19:36:22] Client "Red blood cell" connected.
+[19:36:23] Client "Lithi" spawned in server <STEAM_0:0:19369750> (took 470 seconds).
+[19:36:32] John Smith: // hmm yes, very quiet
+[19:36:33] CCA.C08-QrM.95283: /chargiveitem qrm "small item"
+[19:36:40] CCA.C08-QrM.95283: Here you go.
+[19:36:56] CCA.C08-UNION.i5.67908: /me takes the pouch, clipping it on his utility belt.
+[19:37:01] CCA.C08-QrM.95283: You can get more, the lines for what you can have for storage items is pretty lax as long as you're not being batshit insane.
+[19:37:55] CCA.C08-UNION.i5.67908: Right- Ah, do you have any contact with JUDGE divisionals or officers, I've been meaning to get into contact with them...
+[19:38:08] CCA.C08-QrM.95283: Not personally, no, sorry.
+[19:38:52] CCA.C08-UNION.i5.67908: Right- Well I can send some type of message through the datapad, maybe. I'll see what else I can do..
+[19:38:57] CCA.C08-UNION.i5.67908: Appreciate the resupply.
+[19:38:58] CCA.C08-QrM.95283: Yeah. I can try to ask around.
+[19:39:02] CCA.C08-QrM.95283: //howdy, sorry, doing resupply n shit
+[19:39:05] CCA.C08-QrM.95283: //n passiveRP
+[19:39:10] John Smith: // got it
+[19:39:29] CCA.C08-UNION.i5.67908: Thanks, I should get back to my duties.
+[19:39:34] CCA.C08-QrM.95283: Right. Take care.
+[19:39:39] CCA.C08-UNION.i5.67908: /me nods, walking off.
+[19:39:45] Client "Red blood cell" spawned in server <STEAM_0:0:38537787> (took 203 seconds).
+[19:40:06] CCA.C08-QrM.95283<STEAM_0:1:53097688> changed their name to Lee Maylor
+[19:41:06] Lithi<STEAM_0:0:19369750> changed their name to Richard Huberman
+[19:42:04] Lee Maylor<STEAM_0:1:53097688> spawned model models/hlvr/combine_hazardprops/combinehazardprops_barrel_lock.mdl
+[19:42:05] Lee Maylor<STEAM_0:1:53097688> spawned model models/hlvr/combine_hazardprops/combinehazardprops_barrel.mdl
+[19:42:07] Red blood cell<STEAM_0:0:38537787> changed their name to PFC Emily Brown
+[19:42:10] John Smith: // thank you consul
+[19:42:13] Richard Huberman: // /me bends over and emits a sickening groan, there is a loud ripping sound, and he begins to fill the inside of his suit with a thick and steady stream of fluid shit
+[19:42:23] PFC Emily Brown: // thanks
+[19:42:30] Lee Maylor<STEAM_0:1:53097688> used the tool rope on models/hlvr/combine_hazardprops/combinehazardprops_barrel.mdl
+[19:42:35] PFC Emily Brown<STEAM_0:0:38537787> used the tool rope on maps/rp_city8_edit_v4r.bsp
+[19:42:36] PFC Emily Brown<STEAM_0:0:38537787> used the tool rope on maps/rp_city8_edit_v4r.bsp
+[19:42:38] Lee Maylor<STEAM_0:1:53097688> used the tool rope on models/hlvr/combine_hazardprops/combinehazardprops_barrel.mdl
+[19:42:46] Lee Maylor<STEAM_0:1:53097688> used the tool rope on models/hlvr/combine_hazardprops/combinehazardprops_barrel.mdl
+[19:42:52] Lee Maylor<STEAM_0:1:53097688> used the tool rope on models/hlvr/combine_hazardprops/combinehazardprops_barrel.mdl
+[19:42:54] PFC Emily Brown<STEAM_0:0:38537787> used the tool rope on maps/rp_city8_edit_v4r.bsp
+[19:42:59] John Smith: // can i go home-
+[19:43:00] PFC Emily Brown<STEAM_0:0:38537787> used the tool rb655_easy_bodygroup on maps/rp_city8_edit_v4r.bsp
+[19:43:00] Lee Maylor<STEAM_0:1:53097688> used the tool rope on models/hlvr/combine_hazardprops/combinehazardprops_barrel.mdl
+[19:43:06] Lee Maylor<STEAM_0:1:53097688> used the tool rope on models/hlvr/combine_hazardprops/combinehazardprops_barrel.mdl
+[19:43:08] John Smith: // HEARD THAT TOOL GUN!
+[19:43:17] Lee Maylor: //I AM 
+[19:43:19] Lee Maylor: //SO FAR BELOW YOU
+[19:43:26] Lee Maylor: //AND FAR FROM YOU IN GENERLA
+[19:43:27] Lee Maylor: //HOW THE SHIT
+[19:43:32] PFC Emily Brown: // when the john smith is real
+[19:43:34] John Smith: // FUCK YOU BLAME IT ON SOURCE LOL
+[19:44:45] PFC Emily Brown: // did the conscript name get changed
+[19:44:49] PFC Emily Brown: // thought it was hem
+[19:44:51] Lee Maylor: //no?
+[19:44:54] PFC Emily Brown: // but it says
+[19:44:55] Lee Maylor: //yeah, HEM
+[19:44:59] Lee Maylor: //as in human earth military
+[19:45:02] PFC Emily Brown: // human conscripted military
+[19:45:07] PFC Emily Brown: // in the leaderboard
+[19:45:13] Lee Maylor: //oh fuck
+[19:45:16] Lee Maylor: //that's outdated thank you
+[19:45:19] PFC Emily Brown: // np
+[19:45:21] John Smith: // nice job there Q
+[19:45:38] Richard Huberman: theres a lady with a military outfit over there
+[19:46:11] CCA.C08-UNION.i5.67908: Uhm- Yes. That's a military conscript. They're- Normal around here.
+[19:46:12] PFC Emily Brown: /radio Testing.
+[19:46:17] Richard Huberman: ah, alright
+[19:46:25] John Smith: // once again
+[19:46:29] PFC Emily Brown: // so basically Q i dont have a radio anymore and i cannot enter through the nexus forcefield
+[19:46:34] CCA.C08-UNION.i5.67908: They carry out Union duties, same as I. Just a different job.
+[19:46:37] Richard Huberman: /looc where do i have to be for the event
+[19:46:45] Richard Huberman: ah alright, alright
+[19:46:49] John Smith: // not a PR rvent without it being delayed by at least 15-20 minutes...
+[19:46:50] CCA.C08-UNION.i5.67908: [[ idk just around I guess
+[19:46:58] Lee Maylor<STEAM_0:1:53097688> changed their name to Dispatch/Overwatch
+[19:47:01] PFC Emily Brown: .// i think it registers me as a citizen
+[19:47:01] Richard Huberman: /me roleplays
+[19:47:05] CCA.C08-UNION.i5.67908: [[ lol
+[19:47:10] Dispatch/Overwatch: //this time it was my fault
+[19:47:23] Dispatch/Overwatch<STEAM_0:1:53097688> used the tool dynamite on maps/rp_city8_edit_v4r.bsp
+[19:47:28] Dispatch/Overwatch<STEAM_0:1:53097688> used the tool dynamite on maps/rp_city8_edit_v4r.bsp
+[19:47:36] John Smith: // i love how in the Scoreboard Dispatch's model is HL1 Gina
+[19:47:37] Dispatch/Overwatch: //explosions IC
+[19:47:43] Dispatch/Overwatch: //it's just models/player.mdl
+[19:47:47] Dispatch/Overwatch: //that's probably because you have fuckin uhhh
+[19:47:48] Richard Huberman: // /me effortfully strains to drag himself along, his suit now full to the waistline in pungent shit
+[19:47:50] PFC Emily Brown: // do i need to wait for a qrm or 
+[19:47:58] Richard Huberman: // okay im done
+[19:47:58] Dispatch/Overwatch: /chargiveitem brown radio
+[19:48:01] Dispatch/Overwatch: //here's your radio
+[19:48:02] Richard Huberman: // ill stop
+[19:48:05] PFC Emily Brown: // ty
+[19:48:17] PFC Emily Brown: // YES ITS THE SIMPLE RADIO
+[19:48:21] PFC Emily Brown: // THANK THE LORD
+[19:48:22] PFC Emily Brown: // Q
+[19:48:28] Dispatch/Overwatch: //yeah we switched the old ones sucked dick
+[19:48:39] John Smith: // i spent...
+[19:48:45] PFC Emily Brown: /pm 678 mind telling me the freq?
+[19:48:50] Richard Huberman: // THIRTY SIX YEARS
+[19:48:53] PFC Emily Brown: /pm union mind telling me the freq?
+[19:49:10] John Smith: // 20 fucking minutes trying to figure out how the damned things worked on Samuel Brody (RIP) and now they're changed
+[19:49:14] John Smith: // ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+[19:49:18] John Smith: // FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+[19:49:25] John Smith: // FUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+[19:49:27] CCA.C08-UNION.i5.67908: /pm emily yea hold on one sec
+[19:49:32] Richard Huberman: // *fuck*
+[19:49:33] PFC Emily Brown: /pm union alr
+[19:49:34] Dispatch/Overwatch: /dispatch overwatch acknowledges
+[19:49:35] Dispatch/Overwatch: //what
+[19:49:42] Richard Huberman: // nothing
+[19:49:43] CCA.C08-UNION.i5.67908: /pm emily 328.1
+[19:49:50] PFC Emily Brown: /pm union thx
+[19:49:53] Dispatch/Overwatch: /r Attention, all units report.
+[19:50:01] Dispatch/Overwatch: /radio Attention, all units report.
+[19:50:05] PFC Emily Brown: /radio Testing.
+[19:50:06] Dispatch/Overwatch: Attention, all units report.
+[19:50:12] PFC Emily Brown: /radio Testinggg.
+[19:50:12] John Smith: the hell...?
+[19:50:24] Dispatch/Overwatch: .//just do regular speech
+[19:50:31] PFC Emily Brown: /radio Test
+[19:50:38] Dispatch/Overwatch: Attention, all units report.
+[19:50:39] CCA.C08-UNION.i5.67908: /radio Unit 67908 clamping nexus hardpoint...
+[19:50:46] PFC Emily Brown: // my radio doesnt seem to work it keeps saying "you need a radio to do this"
+[19:50:51] CCA.C08-UNION.i5.67908: /radio Unit 67908 clamping nexus hardpoint...
+[19:50:52] Dispatch/Overwatch: //yes
+[19:50:55] PFC Emily Brown: // and it wont let me change the frequency
+[19:50:57] John Smith: // q i've not heard a singular explosion
+[19:50:58] PFC Emily Brown: // its toggled
+[19:50:58] CCA.C08-UNION.i5.67908: // my radio is bugged...
+[19:51:19] Dispatch/Overwatch: //how do you hear the toolgun from miles away but not the 3 distinct explosions
+[19:51:23] PFC Emily Brown: // its stuck on "this radio is set to 100.0 frequency"
+[19:51:27] Dispatch/Overwatch: //yep i hear you
+[19:51:27] PFC Emily Brown: // when its clearly not
+[19:51:32] PFC Emily Brown: // alr
+[19:51:32] Dispatch/Overwatch: Attention, all units report.
+[19:51:35] John Smith: // i have no fuckin idea
+[19:51:42] CCA.C08-UNION.i5.67908: /radio Unit 67908 clamping nexus hardpoint, all clear so far...
+[19:51:50] John Smith: // source is fucking broke as fuck
+[19:51:50] Dispatch/Overwatch: .//just talk normally
+[19:52:03] PFC Emily Brown: // no explosion moment
+[19:52:04] CCA.C08-UNION.i5.67908: Unit 67908 clamping nexus hardpoint, all clear so far...
+[19:52:08] CCA.C08-UNION.i5.67908: [[ why radio bugged
+[19:52:10] CCA.C08-UNION.i5.67908: [[ weird
+[19:52:13] Dispatch/Overwatch: //because bad
+[19:52:16] Dispatch/Overwatch: //wrong chat
+[19:52:37] Dispatch/Overwatch: Copy. We have an exogen outbreak, being handled by HEM units.
+[19:52:45] Dispatch/Overwatch: Be alert, keep tabs on local citizen populus.
+[19:53:28] Dispatch/Overwatch: //lag spike 
+[19:53:50] PFC Emily Brown: // DDOS
+[19:53:50] CCA.C08-UNION.i5.67908: Radio- Copy, I hear necrotics, possibly high... On the rooftops. Requesting units to recon Nexus rooftops, they could be up there.
+[19:54:54] Dispatch/Overwatch: /r All units report.
+[19:54:58] Dispatch/Overwatch: /radio test
+[19:54:59] Dispatch/Overwatch: /radio //test
+[19:55:01] CCA.C08-UNION.i5.67908: Radio- Leaving hardpoint to servey citizens.
+[19:55:02] Dispatch/Overwatch: //radios working
+[19:55:07] Dispatch/Overwatch: //reset your radios if they're not already set up
+[19:55:07] CCA.C08-UNION.i5.67908: /radio Test
+[19:55:19] Dispatch/Overwatch: /r Emily Brown, report to district 1 immediately.
+[19:55:25] Dispatch/Overwatch: /radio Emily Brown, report to district 1 immediately.
+[19:55:28] Dispatch/Overwatch: /plysearch
+[19:55:39] Dispatch/Overwatch: /r Union, investigate citizen populus and report.
+[19:55:41] PFC Emily Brown: /radio Testing, all availible units sociostatus report.
+[19:55:46] Dispatch/Overwatch: /radio Union, investigate citizen populus and report.
+[19:55:50] John Smith: // hmm yes slow event start
+[19:55:54] CCA.C08-UNION.i5.67908: /radio Leaving Nexus hardpoint to survey Citizens. All clear so far. I hear necrotics possibly on rooftops, requesting Overwatch support up there.
+[19:56:40] CCA.C08-UNION.i5.67908: Citizen
+[19:56:44] Richard Huberman: yeah
+[19:56:46] Dispatch/Overwatch: /dispatch Attention: Local outbreak of Xenobic origin has been reported in your community. Protection team members, investigate citizen populus and report.
+[19:57:01] Dispatch/Overwatch: /dispatch Human Earth Military units, report to District 1 immediately.
+[19:57:08] PFC Emily Brown: // where is district 1
+[19:57:09] John Smith: // oh god oh fuck xenians in city 8 this totally isnt a common occurance
+[19:57:15] CCA.C08-UNION.i5.67908: There is an exogen breach in the city, for your saftey, you should rally in the Ration distribution, or go to your apartment.
+[19:57:20] Dispatch/Overwatch: //just give it a sec
+[19:57:21] Richard Huberman: alright
+[19:57:25] Dispatch/Overwatch: //its the same one as the train station
+[19:57:28] PFC Emily Brown: // ah okay
+[19:57:46] John Smith: // just threw myself in a building because fuck you why not
+[19:58:08] PFC Emily Brown: /toggleraise
+[19:58:10] John Smith: // thank you consul
+[19:58:11] PFC Emily Brown: /toggleraise
+[19:58:26] Dispatch/Overwatch<STEAM_0:1:53097688> spawned NPC npc_antlion_f
+[19:58:38] Dispatch/Overwatch<STEAM_0:1:53097688> spawned NPC npc_antlion_behemoth
+[19:58:41] Dispatch/Overwatch<STEAM_0:1:53097688> spawned NPC npc_antlion_behemoth
+[19:58:54] Dispatch/Overwatch<STEAM_0:1:53097688> spawned NPC npc_antlion_g
+[19:58:56] Dispatch/Overwatch: /toggleraise
+[19:58:57] PFC Emily Brown: /radio Union, is your radio working?
+[19:59:01] Dispatch/Overwatch: /toggleraise
+[19:59:12] CCA.C08-UNION.i5.67908: You see any citizens over here?
+[19:59:15] Dispatch/Overwatch: /r All units report status.
+[19:59:21] PFC Emily Brown: No. Is your radio working?
+[19:59:25] Dispatch/Overwatch: /radio All units report status.
+[19:59:38] Dispatch/Overwatch: //are you guys not getting the radio messages
+[19:59:42] John Smith: // woah spike for anyone else?
+[19:59:45] CCA.C08-UNION.i5.67908: Yeah. fine now, problems earlier.
+[19:59:46] Dispatch/Overwatch: //nope just you
+[19:59:49] CCA.C08-UNION.i5.67908: Yours not?
+[19:59:50] PFC Emily Brown: // no im not getting any radio messages
+[19:59:58] PFC Emily Brown: No, I'm not recieving anything on my end.
+[19:59:59] John Smith: // AT&T moment
+[20:00:02] Dispatch/Overwatch: //fuck me to tears
+[20:00:04] CCA.C08-UNION.i5.67908: /radio Test.
+[20:00:07] Dispatch/Overwatch: /r All units report status.
+[20:00:10] PFC Emily Brown: /radio Testing.
+[20:00:12] Dispatch/Overwatch: /radio All units report status.
+[20:00:44] CCA.C08-UNION.i5.67908: /radio Unit 67908, continuing citizen survey in district 1-
+[20:00:47] Richard Huberman: oh-
+[20:00:49] Richard Huberman: hey
+[20:00:55] CCA.C08-UNION.i5.67908: Hey, you.
+[20:00:58] John Smith: hello there.
+[20:01:01] CCA.C08-UNION.i5.67908: hm
+[20:01:03] PFC Emily Brown: /radio PFC Emily Brown reporting, District 1 sociostatus is currently green, no visual or audio contact with xenobes.
+[20:01:17] Richard Huberman: just on my way to get this old suit off
+[20:01:20] PFC Emily Brown: /radio Continuing patrol.
+[20:01:23] CCA.C08-UNION.i5.67908: Both of you need to come with me... Come.
+[20:01:40] Dispatch/Overwatch: /r Brown, report into central science building, down the street from the civil hospital.
+[20:01:45] Dispatch/Overwatch: /radio Brown, report into central science building, down the street from the civil hospital.
+[20:01:53] PFC Emily Brown: /radio Copy.
+[20:02:16] CCA.C08-UNION.i5.67908: /radio Dispatch, I have two citizens on my way to the ration distribution. I figure that is a safe location for time being.
+[20:02:34] Richard Huberman: /looc void that
+[20:02:36] John Smith: // do you have a respirator
+[20:02:41] Richard Huberman: // no
+[20:03:08] Dispatch/Overwatch: //vpoid biosignal loss
+[20:03:11] CCA.C08-UNION.i5.67908: come.
+[20:03:22] Dispatch/Overwatch<STEAM_0:1:53097688> changed their name to Lee Maylor
+[20:03:28] Lee Maylor<STEAM_0:1:53097688> changed their name to Dispatch/Overwatch
+[20:03:47] CCA.C08-UNION.i5.67908: Alright, sit tight in here.
+[20:03:53] John Smith: yes sir.
+[20:04:01] PFC Emily Brown: // is this forcefield supposed to lock me out?
+[20:04:10] Dispatch/Overwatch brought PFC Emily Brown
+[20:04:10] Dispatch/Overwatch: !bring brown
+[20:04:19] CCA.C08-UNION.i5.67908: I'll be back to look for more people... Just keep your eyes open and if you have to run, I suggest going into a housing block.
+[20:04:23] Dispatch/Overwatch: /r Brown, you may not enter the elevator.
+[20:04:26] Richard Huberman: alright
+[20:04:28] Dispatch/Overwatch: /radio Brown, you may not enter the elevator.
+[20:04:29] John Smith: got it
+[20:04:40] PFC Emily Brown: /radio Understood.
+[20:04:40] Richard Huberman: Im gonna get this suit off
+[20:04:47] Richard Huberman: cant breathe in this fuckin thing...
+[20:05:07] John Smith: you may wanna try and get a respirator
+[20:05:10] CCA.C08-UNION.i5.67908: /radio Two citizens secured at ration distribution. Resuming citizen survey.
+[20:05:13] Richard Huberman: /me straps on his new respirator that he bought
+[20:05:18] Richard Huberman: yep!
+[20:05:28] Dispatch/Overwatch brought PFC Emily Brown
+[20:05:28] Dispatch/Overwatch: !bring brown
+[20:05:41] John Smith: at least you can breathe in these damned things.
+[20:05:54] Richard Huberman: yeah, thank goodness
+[20:06:25] CCA.C08-UNION.i5.67908: //Ugh my display keeps warning me about Emily and recognizing them as an enemy
+[20:06:31] John Smith: I keep one on me just in case.
+[20:06:48] PFC Emily Brown: // its because im holding a weapon the camera recognizes me as a citizen
+[20:06:50] John Smith: better safe then sorry, yeah?
+[20:07:12] Richard Huberman: yeah, I've got my suit folded up and stuffed into my case
+[20:08:01] Dispatch/Overwatch: /r Emily Brown, report.
+[20:08:06] Dispatch/Overwatch: /radio Emily Brown, report.
+[20:08:22] Richard Huberman: /looc if they dont include we citizens in this event somehow im gonna vomit
+[20:08:35] Richard Huberman: // if you guys dont include we citizens in this event i will vomit
+[20:08:39] PFC Emily Brown: /radio Green, still no contact with xenobes. The Science building is clear.
+[20:08:45] Richard Huberman: hello officer
+[20:08:55] CCA.C08-UNION.i5.67908: /radio Citizen survey complete, two accounted for in ration distribution.
+[20:09:02] Dispatch/Overwatch: /radio Copy.
+[20:09:04] Richard Huberman: yep...
+[20:09:25] CCA.C08-UNION.i5.67908: Alright, now we just wait this out, gentlemen.
+[20:09:25] Richard Huberman: /me strains to breathe thru the stuffy old respirator
+[20:09:37] John Smith: /me would begin fiddling with his Amulet a little bit... seemingly out of habit.
+[20:09:41] CCA.C08-UNION.i5.67908: Oh- Erm...
+[20:09:47] Dispatch/Overwatch: /radio Error: Citywide forcefield failure has been reported.
+[20:09:48] John Smith: thats...
+[20:09:53] John Smith: probably not good
+[20:10:02] CCA.C08-UNION.i5.67908: /radio Dispatch, the fields just shut down. Status?
+[20:10:08] Richard Huberman: op-
+[20:10:14] Richard Huberman: the forcefield...
+[20:10:21] Dispatch/Overwatch: /radio Union, report status.
+[20:10:30] Richard Huberman: what do you think exogen breach means anyway
+[20:10:45] CCA.C08-UNION.i5.67908: /me gets his firearm into a more readied stance and position,
+[20:10:54] Richard Huberman: oh Lord...
+[20:10:55] John Smith: its a... outbreak of Xenians in the city, I've gone through quite a few 'ere
+[20:11:02] Dispatch/Overwatch: /radio Union, report status immediately.
+[20:11:04] Richard Huberman: like... Aliens?
+[20:11:08] John Smith: yep.
+[20:11:10] CCA.C08-UNION.i5.67908: /radio Dispatch, repeat, the fields are down and we're sitting out here now...
+[20:11:11] Dispatch/Overwatch: .//is your radio on or
+[20:11:11] Richard Huberman: Christ
+[20:11:13] Dispatch/Overwatch: .//oh
+[20:11:17] CCA.C08-UNION.i5.67908: [[ ya
+[20:11:25] Dispatch/Overwatch: /radio Explain why you are attending the citizens.
+[20:11:32] Richard Huberman: I know Joe, I'm scared too
+[20:11:47] Dispatch/Overwatch: /radio You were assigned to check their status and report.
+[20:12:12] John Smith: /me would let go of his Amulet, letting is arm flop beside him, and then would quickly move to his left leg, after getting broken in the last event...
+[20:12:29] John Smith: thats...
+[20:12:38] John Smith: that didn't sound good
+[20:12:40] PFC Emily Brown: /toggleraise
+[20:12:48] PFC Emily Brown: /toggleraise
+[20:13:01] Richard Huberman: fuckin citys falling apart...
+[20:13:10] PFC Emily Brown: /radio I don't think his radio is working.
+[20:13:32] CCA.C08-UNION.i5.67908: Alright, lets move this way.. Come on.
+[20:13:36] PFC Emily Brown: /radio He told me he was having technical issues with it earlier.
+[20:13:37] CCA.C08-UNION.i5.67908: /radio I copy your last.
+[20:13:42] PFC Emily Brown: /radio Oh.
+[20:14:09] John Smith: better than nothing.
+[20:14:13] Richard Huberman: you hear that?
+[20:14:36] CCA.C08-UNION.i5.67908: /radio Dispatch, fields are down, I've moved citizens to Civil Worker's HQ. Holding position until further instruction.
+[20:15:00] CCA.C08-UNION.i5.67908: /me aims his weapon, peeking out the door looking left and right.
+[20:15:37] Dispatch/Overwatch: /radio Why are you moving citizens?
+[20:15:49] Dispatch/Overwatch: /radio Again, your assignment was not to protect anyone.
+[20:15:53] Richard Huberman: oh I dunno, what do you make of this, Joe?
+[20:15:55] Dispatch/Overwatch: /radio Your assignment was to check their status, nothing more.
+[20:16:03] Richard Huberman: no, youre right...
+[20:16:09] John Smith: who the hell is Joe?
+[20:16:23] Dispatch/Overwatch<STEAM_0:1:53097688> changed their name to CCA.C08-GRID.OfC.01993
+[20:16:24] John Smith: .// dont fucking say it
+[20:16:31] Richard Huberman: Oh dont worry about him
+[20:16:35] Richard Huberman: hes my ghost friend
+[20:16:35] CCA.C08-GRID.OfC.01993: /r Union, what the hell is wrong with you?
+[20:16:41] CCA.C08-GRID.OfC.01993: /radio Union, what the hell is wrong with you?
+[20:16:45] CCA.C08-UNION.i5.67908: /radio Dispatch, they're possibly on the rooftops- Damaging city defensive equipment. And erm- Right. Citizens accounted for though.
+[20:16:52] Richard Huberman: only I can hear him, he keeps me company
+[20:17:03] CCA.C08-GRID.OfC.01993: /radio We have xenobes, let them go. We have more pressing matters.
+[20:17:08] Richard Huberman: /me is schizo as shit
+[20:17:12] John Smith: Sounds more like Schitzophrenia to me but ok.
+[20:17:15] CCA.C08-GRID.OfC.01993: /radio Report to central science immediately.
+[20:17:20] Richard Huberman: schizo-what?
+[20:17:20] PFC Emily Brown: /radio They're definitely doing something to the wiring.
+[20:17:29] PFC Emily Brown: /radio I keep hearing electrical sparks.
+[20:17:31] Richard Huberman: listen pal, that sounds like a made up word.
+[20:17:33] CCA.C08-GRID.OfC.01993<STEAM_0:1:53097688> spawned NPC monster_hound_eye
+[20:17:36] John Smith: it's not
+[20:17:49] CCA.C08-UNION.i5.67908: Alright gentlemen, I have to let you go. I suggest keeping indoors somewhere. 
+[20:17:55] CCA.C08-GRID.OfC.01993: /radio The citizens are with the unit, it's not them. Release the citizens. One more insubordinate comment and I'll have you cleaning out my toilet.
+[20:17:57] Richard Huberman: alrighty
+[20:17:59] CCA.C08-GRID.OfC.01993<STEAM_0:1:53097688> spawned NPC monster_head_crab
+[20:18:02] CCA.C08-UNION.i5.67908: You gotta leave here though.
+[20:18:08] CCA.C08-GRID.OfC.01993<STEAM_0:1:53097688> spawned NPC monster_zombie_scientist
+[20:18:15] CCA.C08-GRID.OfC.01993: /it You hear groaning behind you.
+[20:18:22] PFC Emily Brown: /radio I was referring to the xenobes-
+[20:18:28] CCA.C08-GRID.OfC.01993: /radio Ah, apologies, then.
+[20:18:31] PFC Emily Brown: /radio Viscon with necrotics, investigating
+[20:18:32] PFC Emily Brown: /toggleraise
+[20:18:37] PFC Emily Brown: /radio audcon*)
+[20:18:37] CCA.C08-UNION.i5.67908: /radio Citizens dispersed. Falling back as ordered.
+[20:18:39] PFC Emily Brown: /toggleraise
+[20:18:54] CCA.C08-GRID.OfC.01993: /radio Reinforce the conscript. District one. Go. You. Now.
+[20:19:09] CCA.C08-GRID.OfC.01993: /radio That's an order.
+[20:19:10] CCA.C08-UNION.i5.67908: /radio rodger that
+[20:19:23] CCA.C08-GRID.OfC.01993<STEAM_0:1:53097688> spawned NPC npc_headcrab
+[20:19:24] CCA.C08-GRID.OfC.01993<STEAM_0:1:53097688> spawned NPC npc_headcrab
+[20:19:26] PFC Emily Brown: /radio Necrotic neutralized in Central Science enterance, waiting for the Union.
+[20:19:28] John Smith: anyways...
+[20:19:30] PFC Emily Brown: /toggleraise
+[20:19:33] John Smith: as I was saying
+[20:19:35] Richard Huberman: now its just you, me, and Joe
+[20:19:48] PFC Emily Brown: /radio There may be more.
+[20:20:01] John Smith: it's a very real word and mental illness, it's effectively you hallucinating constantly.
+[20:20:27] CCA.C08-UNION.i5.67908: Hell of a night. 
+[20:20:27] PFC Emily Brown: You alright?
+[20:20:27] PFC Emily Brown: /toggleraise
+[20:20:29] Richard Huberman: Bah!  Absurd!  If that were true, for all I know, you could be a hallucination!
+[20:20:31] PFC Emily Brown: Sure is.
+[20:20:36] Richard Huberman: you're real, arent you?
+[20:20:40] John Smith: yes...
+[20:20:45] John Smith: I am very much so real
+[20:20:46] Richard Huberman: I know, Joe, what a fool he is
+[20:20:47] PFC Emily Brown: Alright, careful. There may be more in here. Sneaky bastard tried to grab my from behind.
+[20:20:50] Richard Huberman: I was thinking the same thing
+[20:20:51] John Smith: Joe is no-
+[20:20:52] PFC Emily Brown: /me pushes the button
+[20:20:54] Richard Huberman: oh_
+[20:20:55] PFC Emily Brown: .// missclick also
+[20:20:56] Richard Huberman: oh-
+[20:20:58] PFC Emily Brown: .// wtf
+[20:20:59] Richard Huberman: gunshots!
+[20:21:00] CCA.C08-UNION.i5.67908: Copy, I got your 6.
+[20:21:01] PFC Emily Brown: /toggleraise
+[20:21:02] PFC Emily Brown: /toggleraise
+[20:21:06] John Smith: eh...
+[20:21:17] John Smith: 'Nother day in City 8...
+[20:21:34] PFC Emily Brown: /toggleraise
+[20:21:36] CCA.C08-UNION.i5.67908: /y cleaned
+[20:21:38] CCA.C08-GRID.OfC.01993<STEAM_0:1:53097688> spawned NPC monster_pitdrone
+[20:21:41] PFC Emily Brown: /toggleraise
+[20:21:42] Richard Huberman: my word...
+[20:21:45] CCA.C08-UNION.i5.67908: /y shit
+[20:21:50] PFC Emily Brown: We're good.
+[20:21:51] John Smith: eventually you get used to the insanity...
+[20:21:56] CCA.C08-UNION.i5.67908: Good hits.
+[20:22:21] PFC Emily Brown: /radio First floor of Science building cleared out, moving to second floor. Several xenobes neutralized.
+[20:22:29] PFC Emily Brown: // it keeps shooting for no reason im not even clicking
+[20:22:30] John Smith: /me would begin fiddling with his Amulet again, for longer this time...
+[20:22:36] PFC Emily Brown: // wtf enter is shooting
+[20:22:45] Richard Huberman: dont lose that
+[20:22:50] John Smith: I'm not...
+[20:22:51] Richard Huberman: lotta thiefs in this city
+[20:23:04] PFC Emily Brown: // i had enter set as my primary attack, epic bind fail
+[20:23:06] John Smith: It's the only reminder I have of my family
+[20:23:12] PFC Emily Brown: Alright, c'mon.
+[20:23:14] PFC Emily Brown: /toggleraise
+[20:23:17] PFC Emily Brown: Get ready.
+[20:23:18] John Smith: not losing this thing...
+[20:23:22] PFC Emily Brown: /me taps the button
+[20:23:27] Richard Huberman: family... hmm... the only family I have is Joe here... somewhere...
+[20:23:37] PFC Emily Brown: /toggleraise
+[20:23:47] PFC Emily Brown: Seems clear.
+[20:23:51] CCA.C08-UNION.i5.67908: Looks- Yeah.
+[20:23:54] PFC Emily Brown: /me pivots around the room
+[20:23:56] John Smith: you ever get the feeling that you're being watched from a distance...
+[20:24:03] Richard Huberman: sometimes
+[20:24:19] John Smith: yeah, all the time over 'ere...
+[20:24:25] PFC Emily Brown: /radio PFC Brown to Dispatch, Central Science building looks clear, both floors have been cleaned of xenobes.
+[20:24:35] John Smith: oh, where are my manners...
+[20:24:35] Richard Huberman: yeah watched by those cameras anyway
+[20:24:39] PFC Emily Brown: /toggleraise
+[20:24:42] PFC Emily Brown: /toggleraise
+[20:24:45] PFC Emily Brown: /toggleraise
+[20:24:46] PFC Emily Brown: /toggleraise
+[20:24:54] John Smith: /me would hold out his right hand, "John, Smith."
+[20:25:02] CCA.C08-UNION.i5.67908: We need recon on the rooftops before they do more damage up there.
+[20:25:04] Richard Huberman: /me shakes the man's hand
+[20:25:07] PFC Emily Brown: I only have what's left in my gun.
+[20:25:08] Richard Huberman: Richard Huberman
+[20:25:10] PFC Emily Brown: Yeah.
+[20:25:11] CCA.C08-GRID.OfC.01993: /r We're getting a weird disturbance...
+[20:25:14] Richard Huberman: and you've already met Joe of course
+[20:25:17] CCA.C08-UNION.i5.67908: You have a sidearm?
+[20:25:22] CCA.C08-GRID.OfC.01993: /radio We've got a disturbance, systems are going off downstairs...
+[20:25:25] John Smith: pleasure to meet you, Richard.
+[20:25:25] PFC Emily Brown: I'm not issued a sidearm.
+[20:25:32] Richard Huberman: likewise
+[20:25:38] CCA.C08-GRID.OfC.01993: /radio Do you see anythi----- *static*
+[20:25:43] PFC Emily Brown: /radio In the Science Building?
+[20:25:53] CCA.C08-GRID.OfC.01993: /r ---At your 10-20.
+[20:25:54] CCA.C08-UNION.i5.67908: Wait. In there.
+[20:25:57] John Smith: /me would shiver a bit.
+[20:25:57] PFC Emily Brown: /toggleraise
+[20:25:58] CCA.C08-GRID.OfC.01993: /radio At your 10-20.
+[20:26:04] John Smith: damn it's cold in here...
+[20:26:13] PFC Emily Brown: /radio I was told not to enter the elevator by Dispatch.
+[20:26:14] CCA.C08-UNION.i5.67908: hm
+[20:26:14] Richard Huberman: No, Joe, he's worth more than his weight in flesh...  We'll not be eating him just yet...
+[20:26:15] PFC Emily Brown: /toggleraise
+[20:26:25] PFC Emily Brown: /radio I'm not sure what's down there.
+[20:26:25] Richard Huberman: ahh maybe theres a blanket somewhere around
+[20:26:27] CCA.C08-GRID.OfC.01993: /Radio you may enter the elevator.
+[20:26:30] Richard Huberman: wouldnt trust it to be clean tho
+[20:26:30] PFC Emily Brown: /radio Alright.
+[20:26:32] John Smith: i heard that...
+[20:26:37] Richard Huberman: heard what
+[20:26:44] CCA.C08-GRID.OfC.01993: .//just pretend
+[20:26:56] Richard Huberman: Listen pal, my conversations with Joe are private, its rude to eavsedrop!
+[20:26:57] PFC Emily Brown: /toggleraise
+[20:26:59] CCA.C08-UNION.i5.67908: [[ did we go up or down
+[20:27:03] PFC Emily Brown: .// down
+[20:27:11] John Smith: i'm right fucking next to you mate.
+[20:27:13] CCA.C08-GRID.OfC.01993 brought PFC Emily Brown
+[20:27:13] CCA.C08-GRID.OfC.01993: !bring brown
+[20:27:15] CCA.C08-GRID.OfC.01993 brought PFC Emily Brown
+[20:27:15] CCA.C08-GRID.OfC.01993: !bring emily
+[20:27:21] PFC Emily Brown: /toggleraise
+[20:27:21] Richard Huberman: oh... yes....
+[20:27:25] Richard Huberman: thats true
+[20:27:29] CCA.C08-GRID.OfC.01993 brought CCA.C08-UNION.i5.67908
+[20:27:29] CCA.C08-GRID.OfC.01993: !bring union
+[20:27:33] CCA.C08-GRID.OfC.01993<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city8_edit_v4r.bsp
+[20:27:38] John Smith: also there's not much else to do 'ere
+[20:27:39] CCA.C08-GRID.OfC.01993<STEAM_0:1:53097688> spawned model models/hunter/misc/lift2x2.mdl
+[20:27:48] CCA.C08-GRID.OfC.01993: !bring emily
+[20:27:51] CCA.C08-GRID.OfC.01993 teleported PFC Emily Brown
+[20:27:51] CCA.C08-GRID.OfC.01993: !teleport emily
+[20:28:01] CCA.C08-GRID.OfC.01993 teleported CCA.C08-UNION.i5.67908
+[20:28:01] CCA.C08-GRID.OfC.01993: !teleport union
+[20:28:16] Richard Huberman: think we should investigate the gunfire?
+[20:28:20] CCA.C08-GRID.OfC.01993: /it The elevator doors close behind you. You hear elevator music.
+[20:28:22] John Smith: doubt it.
+[20:28:24] Richard Huberman: there might be somebody hurt
+[20:28:24] CCA.C08-UNION.i5.67908: [[ lol cush elevator
+[20:28:34] CCA.C08-GRID.OfC.01993: /it You hear creaking from above.
+[20:28:40] CCA.C08-GRID.OfC.01993: /it Then you feel yourself falling.
+[20:28:43] John Smith: if there's one thing I've learned here...
+[20:28:44] PFC Emily Brown: I don't like thi-
+[20:28:50] John Smith: don't get involved in shit
+[20:28:52] PFC Emily Brown: // LOL
+[20:28:55] Richard Huberman: right
+[20:29:01] CCA.C08-GRID.OfC.01993<STEAM_0:1:53097688> changed their name to Ryan Maley
+[20:29:03] PFC Emily Brown: /toggleraise
+[20:29:05] PFC Emily Brown: /toggleraise
+[20:29:07] John Smith: // what?
+[20:29:09] Ryan Maley teleported to John Smith
+[20:29:11] PFC Emily Brown: // nothing
+[20:29:12] CCA.C08-UNION.i5.67908: // Event over we died in elevator falling
+[20:29:19] Ryan Maley: /y hey over here
+[20:29:19] John Smith: // pees
+[20:29:21] Ryan Maley: /y over here
+[20:29:23] PFC Emily Brown: // "you do not have a biosignal"
+[20:29:23] Ryan Maley: /y over here
+[20:29:28] PFC Emily Brown: // :(
+[20:29:38] Ryan Maley: /y Central science is cop free! Cameras are down!
+[20:29:38] Richard Huberman: /looc gaslight gatekeep girlboss?
+[20:29:41] Ryan Maley: /y Loot for the taking!
+[20:29:46] Richard Huberman: oh hello there
+[20:30:17] PFC Emily Brown: // was that on purpose Q or did you mess up and kill us
+[20:30:19] Richard Huberman: my word!
+[20:30:24] Ryan Maley: //that was on purpose, elevator machine broke
+[20:30:28] Ryan Maley: /y There's an emergency elevator down!
+[20:30:29] Ryan Maley: /y Good loot!
+[20:30:35] PFC Emily Brown: // so we died nlr?
+[20:30:42] Ryan Maley: //correct
+[20:30:47] PFC Emily Brown: // kk
+[20:30:50] Ryan Maley: wait
+[20:30:52] Ryan Maley: wait
+[20:30:53] Ryan Maley: /y hey
+[20:31:00] CCA.C08-UNION.i5.67908: // lol gr8 m8
+[20:31:07] Ryan Maley<STEAM_0:1:53097688> spawned NPC monster_zombie_scientist
+[20:31:14] Ryan Maley<STEAM_0:1:53097688> changed their name to CCA.C08-GRID.OfC.01993
+[20:31:15] PFC Emily Brown: // can i have some ammo i cant access the apartment vendor 
+[20:31:20] PFC Emily Brown: // and theres no qrm
+[20:31:24] CCA.C08-GRID.OfC.01993: /r We've got two units down in central science, we need two more units to report immediately.
+[20:31:32] CCA.C08-GRID.OfC.01993: /radio We've got two units down in central science, we need two more units to report immediately.
+[20:31:33] Richard Huberman: // help!
+[20:31:36] PFC Emily Brown: // and i lost it in death
+[20:31:37] CCA.C08-GRID.OfC.01993 gave PFC Emily Brown 195 rounds
+[20:31:39] CCA.C08-GRID.OfC.01993 teleported to Richard Huberman
+[20:31:40] PFC Emily Brown: // thx
+[20:31:44] PFC Emily Brown: /radio Copy that, enroute.
+[20:31:52] CCA.C08-UNION.i5.67908: /radio Unit 67908 clamping Nex- Copy that. Inbound.
+[20:31:55] CCA.C08-GRID.OfC.01993: /it The elevator doesn't come.
+[20:32:14] John Smith: // then we take the stairs
+[20:32:18] CCA.C08-GRID.OfC.01993: /it The doors open, however. There's a ladder down, but the doors on the top floor don't seem too reliable.
+[20:32:21] CCA.C08-GRID.OfC.01993<STEAM_0:1:53097688> used the tool ladder on maps/rp_city8_edit_v4r.bsp
+[20:32:21] Richard Huberman: damn lift!
+[20:32:32] Richard Huberman: /me vents fury on the doors!
+[20:32:33] CCA.C08-GRID.OfC.01993: //just walk in
+[20:32:55] CCA.C08-UNION.i5.67908: Jesus- What's going on?
+[20:32:59] PFC Emily Brown: Holy crap.
+[20:33:03] CCA.C08-UNION.i5.67908: Exogens?
+[20:33:03] CCA.C08-GRID.OfC.01993: //this event is a failed abortion
+[20:33:04] PFC Emily Brown: /toggleraise
+[20:33:13] John Smith: // yep
+[20:33:14] CCA.C08-UNION.i5.67908: Ah!
+[20:33:18] CCA.C08-GRID.OfC.01993: //have a good night
+[20:33:20] Dropped "CCA.C08-GRID.OfC.01993" from server<STEAM_0:1:53097688>
+[20:33:23] Richard Huberman: good lord!
+[20:33:23] PFC Emily Brown: What are y-
+[20:33:27] Richard Huberman: zombies!
+[20:33:28] John Smith: // are you fucking
+[20:33:34] Richard Huberman: *We werent looting*
+[20:33:36] PFC Emily Brown: What are you doing in here?
+[20:33:38] John Smith: // QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ
+[20:33:45] Richard Huberman: *Not looting, thats for sure*
+[20:33:49] PFC Emily Brown: /toggleraise
+[20:33:54] John Smith: // FUCK THIS SHIT
+[20:33:56] PFC Emily Brown: // ok well mingetime
+[20:34:10] Richard Huberman: // *what an unhinged event*
+[20:34:10] PFC Emily Brown<STEAM_0:0:38537787> changed their name to Joe Biden
+[20:34:11] CCA.C08-UNION.i5.67908: // Uhm- What just happened???
+[20:34:16] John Smith: // GIMME A PHYSGUN ILL BEAT THE SHIT OUT OF Q WITH IT
+[20:34:18] Joe Biden: /charfallover
+[20:34:39] Dropped "John Smith" from server<STEAM_0:1:75161355>
+[20:35:05] Richard Huberman: FUCK!
+[20:35:06] Richard Huberman: /y NOO!
+[20:35:14] Richard Huberman: /y HAVE MERCY!
+[20:35:20] Richard Huberman: /me raises his arms in defesne
+[20:35:26] Joe Biden: /toggleraise
+[20:35:31] Joe Biden: /toggleraise
+[20:35:35] Joe Biden: /toggleraise
+[20:35:38] Joe Biden: /toggleraise
+[20:35:39] Richard Huberman: /y DIE CREATURE!
+[20:36:08] Richard Huberman killed Joe Biden using ix_hands
+[20:36:12] CCA.C08-UNION.i5.67908: /y get down
+[20:36:14] Richard Huberman: /y Hah!
+[20:36:18] CCA.C08-UNION.i5.67908: /y shit
+[20:36:20] Richard Huberman: got the beast!
+[20:36:26] Joe Biden<STEAM_0:0:38537787> changed their name to CAC.C08-CRM.13569
+[20:36:30] CCA.C08-UNION.i5.67908: can
+[20:36:33] CCA.C08-UNION.i5.67908: can 1
+[20:36:35] CCA.C08-UNION.i5.67908: can1
+[20:36:39] CCA.C08-UNION.i5.67908: can1
+[20:36:43] CCA.C08-UNION.i5.67908: can2
+[20:36:46] Richard Huberman: /me searches for a can
+[20:36:47] CCA.C08-UNION.i5.67908: can3
+[20:36:53] CCA.C08-UNION.i5.67908: can3
+[20:36:57] CCA.C08-UNION.i5.67908: can4
+[20:36:58] Richard Huberman: /me cannot find a can
+[20:37:04] CCA.C08-UNION.i5.67908: haha
+[20:37:08] Richard Huberman: /me puts the can into the trash can with Joe's help of course
+[20:37:10] CCA.C08-UNION.i5.67908: shit
+[20:37:12] Richard Huberman: AH!
+[20:37:24] CCA.C08-UNION.i5.67908: AHHHHHHHH
+[20:37:28] CCA.C08-UNION.i5.67908: WHAT IN THe
+[20:37:31] CCA.C08-UNION.i5.67908: AHHHHHHHH
+[20:37:55] Client "matt saton" connected.
+[20:38:02] CAC.C08-CRM.13569<STEAM_0:0:38537787> changed their name to CCA.C08-GRID.i3.39867
+[20:38:08] CCA.C08-GRID.i3.39867: // u wanna see something
+[20:38:11] CCA.C08-GRID.i3.39867: // epic 679
+[20:38:17] CCA.C08-GRID.i3.39867: // come to nexus
+[20:38:38] Richard Huberman: ah!
+[20:39:00] CCA.C08-UNION.i5.67908 killed Richard Huberman using ix_stunstick
+[20:39:02] Richard Huberman: damn
+[20:39:05] Richard Huberman: /looc damn lol
+[20:39:08] CCA.C08-UNION.i5.67908: [[ lol
+[20:39:14] CCA.C08-GRID.i3.39867: // where are u
+[20:39:18] Richard Huberman: // spawn
+[20:39:24] CCA.C08-UNION.i5.67908: // lol killed mingerunner
+[20:39:39] Richard Huberman: // i just raaan i ran all night and daaay
+[20:39:39] CCA.C08-UNION.i5.67908: // lets go back for event
+[20:39:45] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 110 seconds).
+[20:39:55] Richard Huberman: // was that not the event?
+[20:40:06] Richard Huberman: // i thought we were all done and minging
+[20:40:11] CCA.C08-UNION.i5.67908: // There will be more event actually
+[20:40:11] CCA.C08-GRID.i3.39867: // q said
+[20:40:14] CCA.C08-GRID.i3.39867: // lets continue
+[20:40:17] Richard Huberman: // ooooh my bad
+[20:40:21] CCA.C08-GRID.i3.39867: // he thought it was shit but he said
+[20:40:21] Richard Huberman: // void my running
+[20:40:26] CCA.C08-GRID.i3.39867: // fuck it lets continue
+[20:40:39] matt saton<STEAM_0:1:53097688> changed their name to CCA.C08-GRID.EpU.06912
+[20:40:41] CCA.C08-GRID.i3.39867: .// boys
+[20:40:45] Richard Huberman: /looc hello
+[20:41:07] Client "Michael's World" connected.
+[20:41:13] CCA.C08-GRID.EpU.06912: //let's salvage this piece of shit event
+[20:41:18] CCA.C08-GRID.EpU.06912: /y central science, you, now!
+[20:41:20] CCA.C08-UNION.i5.67908: // yeeeee
+[20:41:23] Richard Huberman: // but how?
+[20:41:24] CCA.C08-GRID.EpU.06912: /y you! Meat shield! Get in!
+[20:41:27] CCA.C08-GRID.EpU.06912: /y Follow me!
+[20:41:27] Richard Huberman: ah!
+[20:41:53] CCA.C08-GRID.EpU.06912: /r GRID, get to central science immediately, that's an order.
+[20:42:01] Richard Huberman: /me wears a filthy suit
+[20:42:06] CCA.C08-UNION.i5.67908: [[ lol
+[20:42:14] CCA.C08-GRID.i3.39867: What's the sociostatus?
+[20:42:14] CCA.C08-GRID.EpU.06912: We've got aliens in the central science.
+[20:42:21] CCA.C08-GRID.EpU.06912: Green, the problem is alien, not civil.
+[20:42:25] Richard Huberman: /it inside Richard's suit is an inch of built up sweat sloshing about in the bottoms of his boots
+[20:42:29] CCA.C08-GRID.EpU.06912<STEAM_0:1:53097688> spawned/gave himself swep weapon_oicw
+[20:42:31] Richard Huberman: /looc do you like my rp
+[20:42:35] CCA.C08-GRID.i3.39867: Alright.
+[20:42:37] CCA.C08-GRID.EpU.06912 gave Themself 50 rounds
+[20:42:38] Client "Michael's World" spawned in server <STEAM_0:1:75161355> (took 91 seconds).
+[20:42:38] CCA.C08-UNION.i5.67908: [[ Yes its #1
+[20:42:44] Richard Huberman: /looc thank you
+[20:42:52] CCA.C08-UNION.i5.67908: Two units down, heard on the scanner.
+[20:42:53] CCA.C08-GRID.EpU.06912: .//hold on let's let michael get on a char
+[20:43:01] CCA.C08-GRID.i3.39867: .// alright
+[20:43:10] Michael's World<STEAM_0:1:75161355> changed their name to John Smith
+[20:43:17] John Smith: // i am back
+[20:43:28] CCA.C08-GRID.i3.39867: // john bob
+[20:43:31] CCA.C08-GRID.EpU.06912: We need another meat shield.
+[20:43:37] John Smith: // q if you leave again i will slap the fuck out of you
+[20:43:45] CCA.C08-GRID.EpU.06912: //good i deserve it
+[20:43:45] CCA.C08-UNION.i5.67908: We should get the citizen in- Yeah, exactly what I was thinking.
+[20:43:49] John Smith: // i will fly to my house and beat the shit out of y-
+[20:43:51] CCA.C08-GRID.EpU.06912: /y YOU, CITIZEN.
+[20:43:55] Richard Huberman: Don't listen to him Joe, we arent meat shields
+[20:43:57] CCA.C08-GRID.EpU.06912: /y With me, now. You're a meat shield now.
+[20:44:04] Richard Huberman: /looc cat cp
+[20:44:06] CCA.C08-GRID.EpU.06912: /radio Code SWORD.
+[20:44:13] CCA.C08-GRID.i3.39867: // furgatory
+[20:44:27] CCA.C08-GRID.EpU.06912: .//take it off, and do it now.
+[20:44:40] Richard Huberman: /looc *no, leave it on*
+[20:44:43] CCA.C08-GRID.EpU.06912: .//giving you to the count of 10
+[20:44:46] CCA.C08-GRID.EpU.06912: .//10
+[20:44:47] CCA.C08-UNION.i5.67908: This citizen here is possible 10-102M I logged earlier, we will possibly knock two birds with one stone if you get what I mean.
+[20:44:48] CCA.C08-GRID.EpU.06912: //9
+[20:44:52] CCA.C08-GRID.EpU.06912: .//8
+[20:44:52] John Smith: // id recommend taking off the pac permanantly
+[20:44:54] CCA.C08-GRID.EpU.06912: .//7
+[20:44:56] CCA.C08-GRID.EpU.06912: .//6
+[20:44:58] CCA.C08-GRID.EpU.06912: .//5
+[20:45:00] CCA.C08-GRID.EpU.06912: .//4
+[20:45:02] CCA.C08-GRID.EpU.06912: .//3
+[20:45:04] John Smith: // dude its off
+[20:45:08] CCA.C08-GRID.EpU.06912: //bruh i see it
+[20:45:08] John Smith: // for me anyways
+[20:45:15] Richard Huberman: // put it back on and take it back off
+[20:45:19] CCA.C08-GRID.i3.39867: .// its off lol
+[20:45:23] CCA.C08-GRID.EpU.06912: .//weird i see it on
+[20:45:28] CCA.C08-GRID.EpU.06912: /y move in
+[20:45:30] CCA.C08-GRID.EpU.06912: /toggleraise
+[20:45:32] CCA.C08-GRID.EpU.06912: /toggleraise
+[20:45:34] CCA.C08-GRID.i3.39867: /toggleraise
+[20:45:42] CCA.C08-GRID.i3.39867: /toggleraise
+[20:45:47] CCA.C08-GRID.EpU.06912: /y We're going to the basement, not the sub-basement.
+[20:45:48] CCA.C08-GRID.i3.39867: What happened to citizens first.
+[20:45:52] CCA.C08-GRID.EpU.06912: They're meat shields.
+[20:46:01] CCA.C08-GRID.EpU.06912: First stop, we get off.
+[20:46:03] John Smith: // fuck you this shit aint canon
+[20:46:04] CCA.C08-GRID.EpU.06912: Walk in.
+[20:46:11] John Smith: // my character aint goin out as a meatshield
+[20:46:15] CCA.C08-GRID.i3.39867: /c harfallover
+[20:46:18] CCA.C08-GRID.i3.39867: /charfallover
+[20:46:19] Richard Huberman: /looc im sorry
+[20:46:28] John Smith: // also they're stuck down there
+[20:46:29] CCA.C08-GRID.EpU.06912: //just walk into the elevator doors
+[20:46:34] CCA.C08-UNION.i5.67908: // Ques Cypress Hill "I Aint Goin Out Like That"
+[20:46:38] CCA.C08-GRID.i3.39867: /toggleraise
+[20:46:40] CCA.C08-GRID.i3.39867: /toggleraise
+[20:46:41] John Smith: // yep
+[20:46:44] CCA.C08-GRID.i3.39867: /toggleraise
+[20:46:47] CCA.C08-GRID.i3.39867: /toggleraise
+[20:47:00] CCA.C08-GRID.EpU.06912: I'm not sure what to expect, but we need to GO.
+[20:47:02] CCA.C08-UNION.i5.67908: Alright, they go first? Tell us how it... Looks?
+[20:47:02] CCA.C08-GRID.i3.39867: /toggleraise
+[20:47:09] CCA.C08-GRID.EpU.06912: We're not, breaching, we're just moving in tactically-
+[20:47:11] Richard Huberman: /me readies his weapons
+[20:47:15] CCA.C08-GRID.EpU.06912: /toggleraise
+[20:47:24] CCA.C08-GRID.EpU.06912: Meat shields, whatever. move in
+[20:47:35] CCA.C08-GRID.EpU.06912: clean?
+[20:47:38] CCA.C08-GRID.i3.39867: Yep.
+[20:47:41] CCA.C08-UNION.i5.67908: /y You hear em?
+[20:47:41] Richard Huberman: sounds like trouble
+[20:47:44] CCA.C08-GRID.EpU.06912: Doesn't sound clean in there.
+[20:47:46] CCA.C08-GRID.EpU.06912: /y affirmative
+[20:47:48] CCA.C08-GRID.EpU.06912: /toggleraise
+[20:47:54] Richard Huberman: lets uhh
+[20:47:55] CCA.C08-GRID.EpU.06912: /y this way.
+[20:47:57] Richard Huberman: here listen
+[20:47:58] CCA.C08-GRID.EpU.06912: /toggleraise
+[20:47:59] Richard Huberman: i'll
+[20:48:01] Richard Huberman: OH
+[20:48:21] Richard Huberman: Fuck!
+[20:48:22] CCA.C08-GRID.i3.39867: /toggleraise
+[20:48:29] CCA.C08-GRID.EpU.06912: it's behind glass, it's fine.
+[20:48:30] CCA.C08-UNION.i5.67908: Cute...
+[20:48:32] CCA.C08-GRID.EpU.06912: Well, it's like glass.
+[20:48:34] CCA.C08-GRID.EpU.06912: Not cute.
+[20:48:36] CCA.C08-GRID.EpU.06912: /toggleraise
+[20:48:38] CCA.C08-GRID.EpU.06912: Not cute.
+[20:48:38] CCA.C08-GRID.i3.39867: /me taps the glass
+[20:48:42] CCA.C08-GRID.EpU.06912: Incredibly not cute.
+[20:48:49] CCA.C08-GRID.EpU.06912: Don't tease the bloodthirsty beast.
+[20:48:56] CCA.C08-GRID.EpU.06912: union
+[20:48:58] CCA.C08-GRID.EpU.06912: move in first
+[20:49:02] Richard Huberman: ah-
+[20:49:04] CCA.C08-GRID.EpU.06912: /toggleraise
+[20:49:04] CCA.C08-GRID.i3.39867: /toggleraise
+[20:49:07] CCA.C08-UNION.i5.67908: Ermm...
+[20:49:08] Richard Huberman: fuckin thing
+[20:49:18] CCA.C08-UNION.i5.67908: /me raises his sidearm, moving swiftly through the door.
+[20:49:19] CCA.C08-GRID.EpU.06912: We need to eliminate the threat, so get it moving.
+[20:49:38] CCA.C08-GRID.EpU.06912 gave Themself 50 rounds
+[20:49:43] CCA.C08-GRID.EpU.06912 gave Themself 500 rounds
+[20:49:47] CCA.C08-GRID.EpU.06912: /y hold it
+[20:49:50] CCA.C08-GRID.EpU.06912: /y move back out
+[20:49:50] CCA.C08-GRID.i3.39867: /toggleraise
+[20:49:51] Richard Huberman: got it!
+[20:49:56] CCA.C08-GRID.EpU.06912: This thing..
+[20:49:59] CCA.C08-UNION.i5.67908: /me winces in pain.
+[20:50:00] CCA.C08-GRID.EpU.06912: This doesn't look good.
+[20:50:07] CCA.C08-GRID.i3.39867: Looks like my left nut.
+[20:50:15] Richard Huberman: /looc a headcrab birthing sack!
+[20:50:24] CCA.C08-GRID.EpU.06912: /it The... sack... or something... spits out a single baby headcrab.
+[20:50:24] John Smith: .// beeg momma
+[20:50:31] CCA.C08-GRID.EpU.06912<STEAM_0:1:53097688> spawned NPC monster_roach
+[20:50:31] CCA.C08-GRID.i3.39867: /me would step back
+[20:50:32] CCA.C08-GRID.EpU.06912<STEAM_0:1:53097688> spawned NPC monster_babyheadcrab
+[20:50:34] CCA.C08-GRID.i3.39867: what the fuck.
+[20:50:35] CCA.C08-GRID.i3.39867: /toggleraise
+[20:50:36] CCA.C08-GRID.EpU.06912: /y agh
+[20:50:39] CCA.C08-GRID.EpU.06912: /ypain2
+[20:50:41] CCA.C08-GRID.EpU.06912: /y pain2
+[20:50:48] CCA.C08-GRID.EpU.06912: lITTLE FUCKERS.
+[20:50:49] CCA.C08-GRID.i3.39867: /me kneels down
+[20:50:50] John Smith: // why is it missing textures for me?
+[20:50:52] CCA.C08-GRID.EpU.06912: /event 5 more.
+[20:50:54] CCA.C08-GRID.EpU.06912: //me too
+[20:50:55] CCA.C08-GRID.EpU.06912<STEAM_0:1:53097688> spawned NPC monster_babyheadcrab
+[20:50:56] Richard Huberman: ah!
+[20:50:56] CCA.C08-GRID.EpU.06912<STEAM_0:1:53097688> spawned NPC monster_babyheadcrab
+[20:50:56] CCA.C08-GRID.EpU.06912<STEAM_0:1:53097688> spawned NPC monster_babyheadcrab
+[20:50:57] CCA.C08-GRID.EpU.06912<STEAM_0:1:53097688> spawned NPC monster_babyheadcrab
+[20:50:57] CCA.C08-GRID.i3.39867: // we dont have half life source
+[20:50:57] CCA.C08-GRID.EpU.06912<STEAM_0:1:53097688> spawned NPC monster_babyheadcrab
+[20:51:00] CCA.C08-GRID.i3.39867: // mounted
+[20:51:05] CCA.C08-GRID.EpU.06912: //no, i have half life sourcem ounted
+[20:51:07] CCA.C08-GRID.EpU.06912: //that's not the problem
+[20:51:10] CCA.C08-GRID.i3.39867: // idk then
+[20:51:15] Richard Huberman: ah!  Ah!
+[20:51:17] CCA.C08-GRID.EpU.06912 set the hp for Everyone to 500
+[20:51:19] Richard Huberman: FucK!
+[20:51:28] CCA.C08-UNION.i5.67908: Good hits!
+[20:51:31] CCA.C08-GRID.i3.39867: What the fuck, should we destroy it?
+[20:51:33] CCA.C08-UNION.i5.67908: I think- One more!
+[20:51:35] Richard Huberman: Kill the fuckin thing!
+[20:51:38] CCA.C08-GRID.EpU.06912: /toggleraise
+[20:51:41] Richard Huberman: or seal this room!
+[20:51:46] CCA.C08-GRID.EpU.06912: /toggleraise
+[20:51:48] CCA.C08-GRID.i3.39867: /toggleraise
+[20:51:50] CCA.C08-GRID.EpU.06912: Well..
+[20:52:00] CCA.C08-GRID.i3.39867: It is actively attempting to murder us
+[20:52:05] CCA.C08-GRID.EpU.06912: I would expect there to be some kind of off button, but..
+[20:52:07] CCA.C08-GRID.EpU.06912: /toggleraise
+[20:52:10] CCA.C08-UNION.i5.67908: We should grenade this thing to hell.
+[20:52:14] CCA.C08-GRID.i3.39867: Yeah.
+[20:52:18] CCA.C08-GRID.i3.39867: It's clearly rogue or something.
+[20:52:22] Richard Huberman: /y a dead snowman head guy!
+[20:52:30] Richard Huberman: /y at least I think hes dead
+[20:52:32] CCA.C08-GRID.EpU.06912: /me would take out a frag grenade from his utility belt and move it just below the sack. He pulls the pin and quickly inserts it.
+[20:52:35] CCA.C08-GRID.i3.39867: There is a dead cremator in the other room.
+[20:52:38] CCA.C08-GRID.EpU.06912: /y get down
+[20:52:42] CCA.C08-GRID.i3.39867: /me dives to the floor
+[20:52:45] CCA.C08-GRID.EpU.06912<STEAM_0:1:53097688> spawned/gave himself swep weapon_frag
+[20:52:45] CCA.C08-GRID.EpU.06912: /toggleraise
+[20:52:49] Richard Huberman: ah!
+[20:52:51] CCA.C08-GRID.i3.39867: /me clambers behind the rock
+[20:52:52] CCA.C08-UNION.i5.67908: /y fire in the hole!
+[20:52:54] Richard Huberman: fuck!
+[20:53:00] Client "DRD" connected.
+[20:53:01] CCA.C08-GRID.i3.39867: /me flinches as bits of shrapnel barely miss him
+[20:53:07] Client "DRD" connected.
+[20:53:10] CCA.C08-UNION.i5.67908: Uhm- Just leave this room. Clear out.
+[20:53:14] CCA.C08-GRID.EpU.06912: /event The sack bursts open, spalttering alien blood everywhere.
+[20:53:20] Richard Huberman: eeeww!
+[20:53:20] CCA.C08-GRID.EpU.06912: huh
+[20:53:22] CCA.C08-GRID.EpU.06912: this is new
+[20:53:36] John Smith: what in fuck...
+[20:53:36] CCA.C08-GRID.i3.39867: Terrific.
+[20:53:42] CCA.C08-GRID.EpU.06912: Haven't seen one of these before.
+[20:53:46] CCA.C08-GRID.EpU.06912: Not a purple one.
+[20:53:48] CCA.C08-GRID.EpU.06912: What's the note say?
+[20:54:10] CCA.C08-GRID.EpU.06912: /me would press a button on the terminal, but it would make some kind of access denied sound.
+[20:54:11] Richard Huberman: maybe you can cut off its life support with this interface here...
+[20:54:12] CCA.C08-GRID.EpU.06912: hm.
+[20:54:17] CCA.C08-GRID.EpU.06912: This one isn't just biolocked.
+[20:54:20] CCA.C08-GRID.EpU.06912: weird
+[20:54:37] Richard Huberman: what an awful fucking creature...
+[20:54:48] CCA.C08-GRID.i3.39867: Why is it like that.#
+[20:54:51] CCA.C08-GRID.EpU.06912: I can't control this terminal...
+[20:54:56] CCA.C08-GRID.i3.39867: It says something about a prototype immolator.
+[20:54:57] CCA.C08-GRID.EpU.06912: /y union, grid
+[20:55:03] CCA.C08-UNION.i5.67908: I guess i'll radio dipatch we've clearedthe-
+[20:55:05] CCA.C08-GRID.EpU.06912: /y Go out into the main room, see what's going on there.
+[20:55:10] CCA.C08-GRID.EpU.06912: /y I think I heard a grumble.
+[20:55:14] CCA.C08-GRID.i3.39867: Alright>
+[20:55:26] CCA.C08-GRID.EpU.06912: Citizens, stay in here.
+[20:55:27] CCA.C08-UNION.i5.67908: Anyone got spare mags? I'm low.
+[20:55:31] CCA.C08-GRID.i3.39867: Nope]
+[20:55:34] CCA.C08-UNION.i5.67908: [[ lost them all in elevator 
+[20:55:34] CCA.C08-GRID.EpU.06912: I"ve got you.
+[20:55:39] CCA.C08-GRID.EpU.06912: /chargiveitem epu ".9mm"
+[20:55:46] CCA.C08-GRID.EpU.06912: /chargiveitem epu "9mm pistol magazine."
+[20:55:53] CCA.C08-GRID.EpU.06912: /me would hand union two 9mm magazines
+[20:55:58] CCA.C08-GRID.EpU.06912: /chargiveitem epu "9mm pistol magazine"
+[20:56:06] CCA.C08-GRID.EpU.06912: here.
+[20:56:09] CCA.C08-UNION.i5.67908: Appreciated.
+[20:56:15] CCA.C08-GRID.i3.39867: Let's go.
+[20:56:16] CCA.C08-UNION.i5.67908: Alright, let's move.
+[20:56:18] CCA.C08-GRID.EpU.06912: part of being a commanding officer.
+[20:56:23] CCA.C08-GRID.EpU.06912: you two
+[20:56:26] CCA.C08-GRID.i3.39867: /toggleraise
+[20:56:27] CCA.C08-GRID.EpU.06912: /y get the hell back in here
+[20:56:32] CCA.C08-GRID.EpU.06912: You two, keep an eye on this thing.
+[20:56:37] CCA.C08-GRID.EpU.06912: I'll be back.
+[20:56:39] Richard Huberman: the purple guy?
+[20:56:44] CCA.C08-GRID.EpU.06912: correct
+[20:56:45] CCA.C08-GRID.i3.39867: /toggleraise
+[20:56:48] CCA.C08-UNION.i5.67908: Uhhh...
+[20:56:51] CCA.C08-GRID.i3.39867: /radio Where is the main room?
+[20:56:53] CCA.C08-GRID.EpU.06912: /it You wouldn't be able to hear the unit through the glass.
+[20:56:56] Richard Huberman: if he comes to life im running
+[20:56:58] CCA.C08-GRID.EpU.06912: Hello?
+[20:56:59] CCA.C08-UNION.i5.67908: I don't think that was making that much noise when we came in.
+[20:57:02] CCA.C08-UNION.i5.67908: I don't think that was making that much noise when we came in.
+[20:57:05] CCA.C08-GRID.EpU.06912: /it Seems like the room is heavily soundproof. You don't hear a thing.
+[20:57:10] CCA.C08-GRID.i3.39867: What are we looking for?
+[20:57:11] Richard Huberman: if he comes to life Im running
+[20:57:11] CCA.C08-GRID.EpU.06912: .//soundproofed*
+[20:57:17] CCA.C08-GRID.EpU.06912: Okay.
+[20:57:22] CCA.C08-GRID.EpU.06912: If you run, I'm shooting.
+[20:57:24] CCA.C08-GRID.EpU.06912: get back in there.
+[20:57:30] CCA.C08-GRID.EpU.06912: I'm going to try to find a way to shut down all this... shit.
+[20:57:44] John Smith: bad idea to run...
+[20:57:45] CCA.C08-UNION.i5.67908: /radio Basements main room cleaned. This uh- Machine is making quite a funny noise down here though.
+[20:57:48] Richard Huberman: /me takes the weapon out of the cremator's hands
+[20:57:49] CCA.C08-GRID.EpU.06912: //if you hear the citizens, void it, they're osundproofed
+[20:57:53] CCA.C08-GRID.i3.39867: // i gtg its 2am
+[20:58:01] CCA.C08-GRID.i3.39867: // 3*
+[20:58:07] CCA.C08-GRID.EpU.06912<STEAM_0:1:53097688> changed their name to CAC.C08-CRM.65866
+[20:58:10] John Smith: // okey bye bye have good sleep
+[20:58:14] Richard Huberman: oh fuck!
+[20:58:16] CCA.C08-GRID.i3.39867: // bye bye you too
+[20:58:18] Richard Huberman: look!
+[20:58:18] Client "DRD" spawned in server <STEAM_0:0:193599766> (took 311 seconds).
+[20:58:19] Dropped "CCA.C08-GRID.i3.39867" from server<STEAM_0:0:38537787>
+[20:58:38] CAC.C08-CRM.65866: /charsetname crm CCA.E72-CRM.EXP.19195
+[20:58:38] CAC.C08-CRM.65866<STEAM_0:1:53097688> changed their name to CCA.E72-CRM.EXP.19195
+[20:58:41] Richard Huberman: a creature!
+[20:58:43] CCA.E72-CRM.EXP.19195 teleported to John Smith
+[20:58:46] Richard Huberman: oh wait, thats the sealed off one..
+[20:59:07] CCA.C08-UNION.i5.67908: Hey- Why is this locked?
+[20:59:08] CCA.E72-CRM.EXP.19195: .//hold on
+[20:59:09] CCA.E72-CRM.EXP.19195: .//hold on
+[20:59:10] CCA.E72-CRM.EXP.19195: .//hold on
+[20:59:13] CCA.C08-UNION.i5.67908: [[ ok
+[20:59:15] CCA.C08-UNION.i5.67908: [[ ok
+[20:59:15] Richard Huberman: /looc we did not lock it
+[20:59:30] John Smith: // why did q spam OOC?
+[20:59:35] Richard Huberman: /me sticks his tongue out at the CP, altho it is inside his suit so the CP cannot see
+[20:59:36] CCA.E72-CRM.EXP.19195: /it Union, this is GRID EpU
+[20:59:51] CCA.E72-CRM.EXP.19195: /it Union, this is GRID EpU. I need your help in the factory below, give it a good sweep. Take your time. 
+[21:00:08] CCA.E72-CRM.EXP.19195: /it This radio message would come in long before union got into the greenhouse.
+[21:00:38] CCA.E72-CRM.EXP.19195: /charsetname E72 CAC.E72-CRM.EXP.19195
+[21:00:38] CCA.E72-CRM.EXP.19195<STEAM_0:1:53097688> changed their name to CAC.E72-CRM.EXP.19195
+[21:00:48] CCA.C08-UNION.i5.67908: /radio This factory located down the elevator more?
+[21:00:55] CAC.E72-CRM.EXP.19195: /it You would fail to grab the immolator and pull it out of the hand. You notice that the cremator now has an iron grip.
+[21:01:20] DRD<STEAM_0:0:193599766> changed their name to CCA.C08-GRID.i1.23710
+[21:01:29] CAC.E72-CRM.EXP.19195: /it It slowly rises and stands tall, keeping an iron grip on its immolator.
+[21:01:36] CAC.E72-CRM.EXP.19195: /toggleraise
+[21:01:53] CAC.E72-CRM.EXP.19195: /charsetmodel e72 models/purmator.mdl
+[21:02:08] CCA.C08-GRID.i1.23710: // hello it is i, your god
+[21:02:08] CAC.E72-CRM.EXP.19195: /me would breathe heavily in the direction of the two.
+[21:02:12] CAC.E72-CRM.EXP.19195: //hello
+[21:02:13] CCA.C08-UNION.i5.67908: /me holsters his sidearm, climbing the ladder.
+[21:02:16] Richard Huberman: /looc you scared me
+[21:02:20] Richard Huberman: /looc hello
+[21:02:22] Richard Huberman: ah!
+[21:02:25] Richard Huberman: Fuck!
+[21:02:29] John Smith: holy...
+[21:02:32] Richard Huberman: its alive!
+[21:02:41] CCA.C08-GRID.i1.23710 to admins: whys the poor union down there alone
+[21:02:46] CAC.E72-CRM.EXP.19195: /@sweeping
+[21:02:47] Richard Huberman: /looc lmao your desc "heavy breathing"
+[21:02:50] CAC.E72-CRM.EXP.19195 to admins: sweeping
+[21:02:53] CAC.E72-CRM.EXP.19195: .//fuck
+[21:03:02] CCA.C08-GRID.i1.23710 to admins: ..there's nothing here
+[21:03:05] CAC.E72-CRM.EXP.19195: /me would point its immolator at the citizen in the green suit, but then stumble and trip slightly. A green beam comes from its immolator.
+[21:03:05] John Smith: .// no no no, leave it
+[21:03:13] Richard Huberman: RUN!
+[21:03:18] CAC.E72-CRM.EXP.19195: /it It hits the wall, leaving a scorch
+[21:03:19] Richard Huberman: /me tries to dodge
+[21:03:30] CAC.E72-CRM.EXP.19195<STEAM_0:1:53097688> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[21:03:32] Richard Huberman: /me scrambles up the monitor and tries to climb it away
+[21:03:39] CCA.C08-GRID.i1.23710: // flower :)
+[21:03:52] Richard Huberman: /me tries to jump and latch himself to the piping on the ceiling
+[21:03:55] CAC.E72-CRM.EXP.19195 to admins: go help him sweep please in the factor,y keep hi maway from the cremator area please
+[21:03:59] Richard Huberman: /me trips and falls
+[21:04:02] Richard Huberman: /charfallover
+[21:04:04] Richard Huberman: ugh!
+[21:04:05] CAC.E72-CRM.EXP.19195: /it You better fight or die.
+[21:04:13] CCA.C08-GRID.i1.23710 to admins: help him as in give him something to do or
+[21:04:16] Richard Huberman: /me stumbles to get up
+[21:04:25] CAC.E72-CRM.EXP.19195 to admins: something to do is best
+[21:04:31] Richard Huberman: /me readies his weapons
+[21:04:38] CAC.E72-CRM.EXP.19195: /charsetattribute E72 strength 2
+[21:04:40] Richard Huberman: lets knock it back out!
+[21:04:43] CCA.C08-GRID.i1.23710 to admins: are headcrabs and sit able to accezss here
+[21:04:45] CAC.E72-CRM.EXP.19195: /charsetattribute E72 constitution 4
+[21:04:49] CAC.E72-CRM.EXP.19195 to admins: sure, there's a leak
+[21:04:52] Richard Huberman: /me approaches the experimental cremator
+[21:04:55] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> spawned NPC npc_headcrab
+[21:04:58] Richard Huberman: /me swings!
+[21:05:01] CAC.E72-CRM.EXP.19195: /me would pant once-
+[21:05:06] CCA.C08-UNION.i5.67908: /radio Factory down here cleaned... Nothing but machines.
+[21:05:06] CAC.E72-CRM.EXP.19195: .//not how we do combatRP guy
+[21:05:13] Richard Huberman: /looc ive never done it before
+[21:05:29] CCA.C08-GRID.i1.23710: // ??? headcrab broke???
+[21:05:31] CAC.E72-CRM.EXP.19195: /me would pant once. Your move, he seems to be trying to get his balance.
+[21:05:54] CCA.C08-GRID.i1.23710: .// guess i have to do its job
+[21:05:56] John Smith: /me would move in for a swing.
+[21:05:57] Richard Huberman: /me attempts to approach and punch the cremator in one of his thin little arms
+[21:06:07] CCA.C08-UNION.i5.67908: [[ lolllll
+[21:06:08] CAC.E72-CRM.EXP.19195: .//both of you roll for initiative, we'll see who goes first
+[21:06:12] Richard Huberman: /roll 100
+[21:06:19] CAC.E72-CRM.EXP.19195: .//just do a regular roll
+[21:06:21] Richard Huberman: /looc oh out of 20?
+[21:06:23] Richard Huberman: /looc or 10
+[21:06:27] CAC.E72-CRM.EXP.19195: .//nah we don't use 20 here
+[21:06:28] Richard Huberman: /roll 20
+[21:06:28] CAC.E72-CRM.EXP.19195: .//just 100
+[21:06:32] John Smith: /roll 100
+[21:06:36] Richard Huberman: /looc take the 67 for me then
+[21:06:39] CAC.E72-CRM.EXP.19195: .//ye
+[21:06:43] CAC.E72-CRM.EXP.19195: .//smith goes first
+[21:06:45] CCA.C08-GRID.i1.23710: .// waltzx
+[21:06:46] CCA.C08-UNION.i5.67908: haha
+[21:06:48] CCA.C08-GRID.i1.23710: .// waltz
+[21:06:50] Richard Huberman: good show!
+[21:06:50] CAC.E72-CRM.EXP.19195: .//i didn't-
+[21:06:51] CAC.E72-CRM.EXP.19195: .//bruh
+[21:06:54] CAC.E72-CRM.EXP.19195: .//fuck it, fine
+[21:06:56] CCA.C08-GRID.i1.23710: // headcrab wa;tz
+[21:06:58] Richard Huberman: /looc lmao we dont know what were doing
+[21:07:12] CCA.C08-GRID.i1.23710: .// you ahve no ammmo or what
+[21:07:15] CAC.E72-CRM.EXP.19195: /me wouldn't really dodge, you land a hit pretty easily. He seems easily distracted.
+[21:07:17] CCA.C08-UNION.i5.67908: /me unloads on the crab
+[21:07:26] CCA.C08-GRID.i1.23710 suicided!
+[21:07:26] CCA.C08-GRID.i1.23710 slayed Themself
+[21:07:31] Richard Huberman: /me punches the cremator
+[21:07:40] CAC.E72-CRM.EXP.19195: /it You don't help it gain balance, you get another move in. Feel free to get more creative with your moves, but give him a punch.
+[21:07:40] Richard Huberman: /looc i will not hit cause i hit before
+[21:07:40] CCA.C08-UNION.i5.67908: // dam headcrab w biosignal
+[21:07:53] CAC.E72-CRM.EXP.19195 set the hp for Themself to 44
+[21:07:55] Richard Huberman: /looc but for my turn i punch
+[21:08:06] CCA.C08-GRID.i1.23710 to admins: im just gonna have the doors break
+[21:08:10] CAC.E72-CRM.EXP.19195 to admins: alright
+[21:08:18] CAC.E72-CRM.EXP.19195: .//alright
+[21:08:20] John Smith: .// void that punch
+[21:08:22] CAC.E72-CRM.EXP.19195: /me would try to gain his balance.
+[21:08:29] CAC.E72-CRM.EXP.19195: .//60 or higher and success
+[21:08:30] CAC.E72-CRM.EXP.19195: /rollstat agi
+[21:08:32] CAC.E72-CRM.EXP.19195: .//fuck
+[21:08:35] CCA.C08-GRID.i1.23710: /it A crah can be heard from behind the gate and door.
+[21:08:44] CCA.C08-UNION.i5.67908: /radio Dispatch, one exogen down here dealt with. We need to secure the vent systems.
+[21:08:54] Richard Huberman: /me tries to step on the nozzle of the gun to keep it lowered to the ground and pointed away from the citizens
+[21:08:56] CCA.C08-UNION.i5.67908: Crap...
+[21:09:01] CAC.E72-CRM.EXP.19195: /me would get enough balance and point his immolator toward the one in the green suit, given he's the closest. You better find a way to save yourself.
+[21:09:06] Richard Huberman: AH
+[21:09:06] CAC.E72-CRM.EXP.19195: .//go ahead and do a counter
+[21:09:10] Richard Huberman: /roll 100
+[21:09:16] Richard Huberman: /looc *oh no*
+[21:09:16] CAC.E72-CRM.EXP.19195: .//what
+[21:09:20] CAC.E72-CRM.EXP.19195: .//??????????
+[21:09:23] CCA.C08-UNION.i5.67908: /me reaches down, raising the warehouse door.
+[21:09:24] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> spawned sent pfx1_0a
+[21:09:30] CAC.E72-CRM.EXP.19195: .///me a way to counter what the cremator is doing it
+[21:09:34] John Smith: // he means an action dumbass
+[21:09:39] John Smith: .// FUCKING
+[21:09:40] CCA.C08-GRID.i1.23710: /it It doesn't budge.
+[21:09:42] CAC.E72-CRM.EXP.19195: //don't talk to him that way but based
+[21:09:43] Richard Huberman: /looc my counter is i try to step on the nozzle to lower the weapon but i got a 15
+[21:09:44] John Smith: .// FATASS FINGERS
+[21:09:50] CAC.E72-CRM.EXP.19195: .//do /rollstat agi
+[21:09:55] Richard Huberman: /rollstat agi
+[21:09:58] CAC.E72-CRM.EXP.19195: /me would just try to resist it.
+[21:10:00] CAC.E72-CRM.EXP.19195: /rollstat str
+[21:10:04] CCA.C08-UNION.i5.67908: /me tries the other door, it too won't open.
+[21:10:16] CCA.C08-GRID.i1.23710 to admins: are sparks able to be heard throughout the map
+[21:10:21] Richard Huberman: /looc uh oh
+[21:10:25] CCA.C08-UNION.i5.67908: /radio I'm stuck down here, the doors locks engaged somehow while I was sweeping.
+[21:10:33] CCA.C08-GRID.i1.23710 to admins: oh i can shut off sound nvm
+[21:10:33] CAC.E72-CRM.EXP.19195: /it It works, and the immolator is fired at you for a moment. It seems to be pretty weak against the rubberized clothes.
+[21:10:34] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> used the tool sparks on models/hunter/blocks/cube025x025x025.mdl
+[21:10:42] CAC.E72-CRM.EXP.19195 to admins: yeye, stopsoubd in console stops it on the client
+[21:10:43] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> used the tool sparks on models/police_nemez.mdl
+[21:10:46] Richard Huberman: /looc thank goodness
+[21:10:47] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> used the tool sparks on models/hunter/blocks/cube025x025x025.mdl
+[21:11:26] CAC.E72-CRM.EXP.19195: /it michael you're up next
+[21:11:32] CAC.E72-CRM.EXP.19195: .//feel free to get creative
+[21:11:51] John Smith: /me would then move in for a kick in the leg to knock the cremator off his balance.
+[21:11:52] CCA.C08-UNION.i5.67908: Damn door is fried...
+[21:12:08] Richard Huberman: /looc /me warps reality and goes backwards into time to include a self destruct voice command into the cremator
+[21:12:17] CCA.C08-UNION.i5.67908: shit
+[21:12:26] John Smith: /roll
+[21:12:27] CAC.E72-CRM.EXP.19195: .//rollstat str
+[21:12:33] CAC.E72-CRM.EXP.19195: /me would just try ot keep his balance.
+[21:12:34] CAC.E72-CRM.EXP.19195: /rollstat str
+[21:12:42] John Smith: /rollstat str
+[21:12:44] CCA.C08-UNION.i5.67908: /radio help
+[21:12:46] CAC.E72-CRM.EXP.19195: /it YOOOOOOOOOOOO
+[21:12:46] CCA.C08-GRID.i1.23710: // uh oh
+[21:12:54] John Smith: .// holy
+[21:12:56] CAC.E72-CRM.EXP.19195: /me would fall to the ground.
+[21:13:00] John Smith: .// wow
+[21:13:03] CAC.E72-CRM.EXP.19195: /me would be awake, but on its back.
+[21:13:18] Richard Huberman: quick, grab the gun!
+[21:13:23] CCA.C08-GRID.i1.23710: /it The headcrab gets caught in the turbine, youch
+[21:13:30] Richard Huberman: /me tries to grab the gun and remove it from the cremators hands
+[21:13:33] CCA.C08-UNION.i5.67908: [[ lol
+[21:13:39] John Smith: /me would move to grab the gun, as if to try and disarm it along with Richard.
+[21:13:40] CAC.E72-CRM.EXP.19195: .//rollstat str to rip it away from him
+[21:13:42] CAC.E72-CRM.EXP.19195: /rollstat str
+[21:13:46] CAC.E72-CRM.EXP.19195: .//well fuck
+[21:13:46] Richard Huberman: /rollstat str
+[21:13:49] CCA.C08-GRID.i1.23710: .// mission parameters are to keep you entertained
+[21:13:50] John Smith: /rollstat str
+[21:13:50] CAC.E72-CRM.EXP.19195: /it You get the immolator.
+[21:14:01] Richard Huberman: uhh... uhhh...
+[21:14:06] CCA.C08-UNION.i5.67908: [[ ive exhusted my ammo tho lol
+[21:14:08] John Smith: .// WHY DO I GET THE HIGH NUMBERS?!
+[21:14:13] Richard Huberman: the CPs will kill us if we torch it!
+[21:14:16] CCA.C08-UNION.i5.67908: [[ i will use this pipe
+[21:14:22] Richard Huberman: what do we do, burn the door down maybe?
+[21:14:22] John Smith: uh...
+[21:14:31] John Smith: beat the shit out of it with the gun!
+[21:14:36] Richard Huberman: oh yeah!
+[21:14:51] Richard Huberman: /me tries to knock the cremator out with the heavy ass gun
+[21:14:56] Richard Huberman: /looc immolator*
+[21:14:59] CAC.E72-CRM.EXP.19195: /it You notice that its joints are pretty loose. The neck is exposed, more or less.
+[21:15:08] Richard Huberman: TAKE ITS HEAD OFF
+[21:15:12] CAC.E72-CRM.EXP.19195: .//based
+[21:15:18] John Smith: /me would move to rip its head off.
+[21:15:19] Richard Huberman: /me tries to take its head off
+[21:15:24] CCA.C08-GRID.i1.23710 suicided!
+[21:15:24] CCA.C08-GRID.i1.23710 slayed Themself
+[21:15:24] Richard Huberman: /rollstat str
+[21:15:27] John Smith: /rollstat str
+[21:15:28] CCA.C08-UNION.i5.67908: // LOL
+[21:15:35] Richard Huberman: hah!
+[21:15:39] CAC.E72-CRM.EXP.19195: .//yeah john succeeds, richard doesn't
+[21:15:42] CCA.C08-GRID.i1.23710: /plytransfer grid alien
+[21:16:12] John Smith: /me would hold the cremators head in his hand, and then throw it on the ground and step on it.
+[21:16:14] CAC.E72-CRM.EXP.19195: .//hold on let me try to put in a uhhh
+[21:16:30] Richard Huberman: now we have a combine flamethrower
+[21:16:36] Richard Huberman: we can defend ourselves!
+[21:16:45] CCA.C08-UNION.i5.67908: // Alrighty guys ima go get dinner will be back if people are still on
+[21:16:45] John Smith: IF we can figure out how to use it.
+[21:16:52] Dropped "CCA.C08-UNION.i5.67908" from server<STEAM_0:1:31603520>
+[21:16:59] Richard Huberman: yeah if its not biocoded
+[21:17:14] CAC.E72-CRM.EXP.19195: /createcustomitem "Cremator Head" models/props_lab/crematorcase.mdl "It's not in the jar."
+[21:17:34] Richard Huberman: phew...
+[21:17:38] CAC.E72-CRM.EXP.19195<STEAM_0:1:53097688> spawned ragdoll models/purmator.mdl
+[21:17:42] Richard Huberman: lets get that door open
+[21:18:03] John Smith: /ME would pick up its (now detached and broken) head...
+[21:18:07] Richard Huberman: /looc lmao the resize tool
+[21:18:29] John Smith: /me would throw it at the glass and say, "FUCK OFF!"
+[21:18:37] CCA.C08-GRID.i1.23710 to admins: WHAT HAPPENED
+[21:18:41] Richard Huberman: fuckin thing!
+[21:18:52] CAC.E72-CRM.EXP.19195 to admins: cremator head go bye bye
+[21:19:02] CCA.C08-GRID.i1.23710 to admins: hate crime
+[21:19:05] Richard Huberman: you and your little fishnet cremator womb
+[21:19:10] Richard Huberman: awful fucking creature
+[21:19:10] CAC.E72-CRM.EXP.19195: /it You notice that there's a hose on the barrel, compatible with the immolator. Not sure why the rope disappeared.
+[21:19:14] CAC.E72-CRM.EXP.19195: /it But it's there.
+[21:19:14] John Smith: alright yeah lets try and get the hell out of 'ere.
+[21:19:34] Richard Huberman: /me tries to take the weapon
+[21:19:36] Dropped "CCA.C08-GRID.i1.23710" from server<STEAM_0:0:193599766>
+[21:19:48] Richard Huberman: /looc oh what, is it connected to his body
+[21:19:58] CAC.E72-CRM.EXP.19195: .//no the immolator isn't connected to the body
+[21:20:07] Richard Huberman: /me tries to take the immolator
+[21:20:28] Richard Huberman: /looc is it possible to use as a weapon or are we saying it biocoded or out of fuel or something
+[21:20:42] CAC.E72-CRM.EXP.19195: .//go ahead and try
+[21:20:49] Richard Huberman: /me tries to take it and use it
+[21:20:58] Richard Huberman: /it to burn down the door
+[21:20:58] CAC.E72-CRM.EXP.19195: /it It works! You hit the wall.
+[21:21:01] CAC.E72-CRM.EXP.19195<STEAM_0:1:53097688> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[21:21:01] CAC.E72-CRM.EXP.19195<STEAM_0:1:53097688> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[21:21:01] CAC.E72-CRM.EXP.19195<STEAM_0:1:53097688> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[21:21:01] CAC.E72-CRM.EXP.19195<STEAM_0:1:53097688> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[21:21:04] Richard Huberman: hoh!
+[21:21:14] Richard Huberman: /me tries to burn down the door with it
+[21:21:16] CAC.E72-CRM.EXP.19195: /it It's got a bit of a kick, but it's a pretty satisfying thing to use.
+[21:21:22] CAC.E72-CRM.EXP.19195: /it The door is outright disintegrated.
+[21:21:23] CAC.E72-CRM.EXP.19195<STEAM_0:1:53097688> used the tool colour on models/props_c17/door01_left.mdl
+[21:21:31] Richard Huberman: good!
+[21:21:34] Richard Huberman: lets go!
+[21:21:35] John Smith: let's roll!
+[21:21:35] CAC.E72-CRM.EXP.19195<STEAM_0:1:53097688> spawned sent pfx1_07
+[21:21:36] CAC.E72-CRM.EXP.19195<STEAM_0:1:53097688> spawned sent pfx1_07
+[21:21:42] Richard Huberman: oh!
+[21:21:46] Richard Huberman: should we burn this
+[21:21:54] John Smith: yeah, probably
+[21:22:01] Richard Huberman: /me tries to burn the *sack*
+[21:22:03] Richard Huberman: oh!
+[21:22:09] John Smith: AH PISS!
+[21:22:11] CAC.E72-CRM.EXP.19195: /it The sack is already destroyed.
+[21:22:15] Richard Huberman: lets go!
+[21:22:17] John Smith: RUN!
+[21:22:18] Richard Huberman: ruN!
+[21:22:23] CAC.E72-CRM.EXP.19195<STEAM_0:1:53097688> changed their name to Dispatch/Overwatch
+[21:22:45] John Smith: .// IT WONT OPEN
+[21:22:47] Dispatch/Overwatch: /dispatch Central science units, be aware:
+[21:22:58] Richard Huberman: /me tries to burn the metal door down, or at least burn the lock open
+[21:23:12] Richard Huberman: christ Im gonna get killed for this...
+[21:23:14] Dispatch/Overwatch: /broadcast Experimental Immolator has left the testing area.
+[21:23:19] Dispatch/Overwatch: /dispatch Experimental Immolator has left the testing area.
+[21:23:26] Richard Huberman: OH NO
+[21:23:38] Richard Huberman: oh the gun, they mean
+[21:23:42] Dispatch/Overwatch: /dispatch Shutting down.
+[21:23:42] Richard Huberman: lets uhh
+[21:24:02] Richard Huberman: /me hastily returns the immolator
+[21:24:06] John Smith: yeah just put it back
+[21:24:09] Richard Huberman: /me puts it back
+[21:24:25] Dispatch/Overwatch: /dispatch Attention, all units, central science has been locked down.
+[21:24:39] Richard Huberman: /me *presses the red button*
+[21:24:56] Richard Huberman: oh my word
+[21:24:59] Dispatch/Overwatch<STEAM_0:1:53097688> spawned sent pfx8_06
+[21:25:07] Dispatch/Overwatch<STEAM_0:1:53097688> spawned sent pfx8_06
+[21:25:13] Richard Huberman: FIRE!
+[21:25:36] Dispatch/Overwatch: /dispatch Alert, alert, alert.
+[21:26:01] Dispatch/Overwatch: /dispatch Attention, all units, experimental laser has been started.
+[21:26:05] Richard Huberman: oh christ
+[21:26:07] Richard Huberman: uhh...
+[21:26:09] Richard Huberman: uhh
+[21:26:15] Dispatch/Overwatch: /it Seems like you're locked in. You better get the fuck out if you want to get to the actual fun part.
+[21:26:17] Richard Huberman: that wasent us
+[21:26:32] Richard Huberman: // yeah this door is locked tho
+[21:26:33] John Smith: IMMOLATOR, NOW!
+[21:26:48] Richard Huberman: you take it!
+[21:26:51] John Smith: /ME would pick it up.
+[21:26:54] Dispatch/Overwatch: //please get back to the one room i'm doing a /event ;-;
+[21:27:07] Dropped "John Smith" from server<STEAM_0:1:75161355>
+[21:27:10] Dispatch/Overwatch: /event You notice the fence isn't barbed and the water below looks clean. There's no great, it's just a straight pit.
+[21:27:17] Dispatch/Overwatch: //he crashed
+[21:27:20] Dispatch/Overwatch: //he'll be back
+[21:27:21] Richard Huberman: oh
+[21:27:22] Dispatch/Overwatch: //no grate* fuck me
+[21:27:40] Richard Huberman: /me climbs the fence
+[21:27:47] Client "Michael's World" connected.
+[21:27:48] Dispatch/Overwatch brought Richard Huberman
+[21:27:51] Dispatch/Overwatch: //hold on michael is rejoninig
+[21:27:53] Richard Huberman: /y Friend!
+[21:27:54] Dispatch/Overwatch: //when we get back we're gonna
+[21:27:55] Dispatch/Overwatch: //yknow
+[21:27:56] Richard Huberman: /y Comeon!
+[21:28:38] Richard Huberman: /looc is that a stock player model i see
+[21:28:40] Dispatch/Overwatch brought Richard Huberman
+[21:28:45] Dispatch/Overwatch: //it is, i used it for dispatch
+[21:29:13] Richard Huberman: /me silently scuba dives
+[21:29:16] Client "Michael's World" spawned in server <STEAM_0:1:75161355> (took 89 seconds).
+[21:29:20] Richard Huberman: // im drowning!
+[21:29:41] Michael's World<STEAM_0:1:75161355> changed their name to John Smith
+[21:29:48] John Smith: // game crashed, am back
+[21:29:54] Dispatch/Overwatch brought John Smith
+[21:30:04] John Smith: // im in the roof
+[21:30:14] Dispatch/Overwatch: /event The path leads downwards, seems like a straight shot, let's get to the good part 
+[21:30:19] John Smith: // I CANT MOVE Q
+[21:30:20] Richard Huberman: /looc glug glug
+[21:30:24] Dispatch/Overwatch: //WHY
+[21:30:25] Dispatch/Overwatch: //IS THE MAP
+[21:30:26] Richard Huberman: /me drowns
+[21:30:27] Dispatch/Overwatch: //NOT ON THE SERVER
+[21:30:32] Richard Huberman: /me drowns
+[21:30:35] Dispatch/Overwatch set the hp for Everyone to 9999999
+[21:30:40] John Smith: // STILL CANT
+[21:30:42] Richard Huberman: /me accepts his fate as his air begins to run out
+[21:30:46] Richard Huberman: /me will die soon
+[21:30:47] Dispatch/Overwatch changed the map to rp_depot_interior with gamemode ixhl2rp
+[21:30:47] Server is shutting down/changing levels.
+
+
+
+[21:32:27] New map: rp_depot_interior
+[21:32:30] Client "Michael's World" connected.
+[21:33:38] Client "Michael's World" spawned in server <STEAM_0:1:75161355> (took 68 seconds).
+[21:33:48] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 128 seconds).
+[21:34:03] Michael's World<STEAM_0:1:75161355> changed their name to John Smith
+[21:34:34] matt saton<STEAM_0:1:53097688> changed their name to Dispatch/Overwatch
+[21:35:44] Dispatch/Overwatch teleported to John Smith
+[21:35:44] Dispatch/Overwatch: !goto john
+[21:36:19] Dispatch/Overwatch<STEAM_0:1:53097688> spawned NPC npc_antlion_behemoth
+[21:36:29] John Smith: // ello my friend
+[21:36:41] Dispatch/Overwatch: //what's good
+[21:36:44] Dispatch/Overwatch<STEAM_0:1:53097688> spawned NPC npc_antlion_f
+[21:37:23] Dispatch/Overwatch<STEAM_0:1:53097688> spawned NPC npc_antlionguard
+[21:37:29] John Smith: // nothing much just waiting for the others
+[21:37:31] Dispatch/Overwatch<STEAM_0:1:53097688> spawned NPC npc_antlion_sglow
+[21:37:35] Dispatch/Overwatch: //the other singular lmao
+[21:37:39] Dispatch/Overwatch: !hp ^ 9999999999
+[21:37:41] Dispatch/Overwatch set the hp for Themself to 9999999
+[21:37:41] Dispatch/Overwatch: !hp ^ 9999999
+[21:37:47] John Smith: // if this ends up being another solo event i will lose my shit
+[21:37:47] Dispatch/Overwatch<STEAM_0:1:53097688> spawned NPC npc_antlion_sglow
+[21:37:50] Dispatch/Overwatch<STEAM_0:1:53097688> spawned NPC npc_antlion_sglow
+[21:37:59] Dispatch/Overwatch: //pr events are bad lately dw
+[21:38:16] John Smith: // the solo event last time was actually pretty fun
+[21:38:19] Dispatch/Overwatch<STEAM_0:1:53097688> spawned NPC npc_antlion_g
+[21:38:36] Dispatch/Overwatch<STEAM_0:1:53097688> spawned NPC npc_antlion_f
+[21:38:38] John Smith: // just extreme horror, be a good halloween episode for the PR series
+[21:38:51] Dispatch/Overwatch: //based
+[21:38:56] Dispatch/Overwatch: //sorry this event sucks so much ass
+[21:38:59] Dispatch/Overwatch: //iou one good event
+[21:39:35] Client "Lithi" spawned in server <STEAM_0:0:19369750> (took 475 seconds).
+[21:39:47] John Smith: // then make it a horror one on Halloween, should be fun 
+[21:39:52] Dispatch/Overwatch: //that'll be good
+[21:40:31] John Smith: // thank you consul
+[21:43:29] Lithi<STEAM_0:0:19369750> changed their name to Richard Huberman
+[21:43:35] Richard Huberman: // its me!
+[21:43:37] Richard Huberman: hello
+[21:43:39] John Smith: // welcome
+[21:43:51] John Smith: // q Richard is here
+[21:44:05] Richard Huberman: // its me, richard huberman
+[21:44:08] Richard Huberman: // and joe of course
+[21:44:10] Dispatch/Overwatch: //i see, i'm trying to teleport you guys
+[21:44:21] Dispatch/Overwatch teleported Richard Huberman
+[21:44:24] John Smith: .// JOE MAMA
+[21:44:25] Dispatch/Overwatch teleported John Smith
+[21:44:52] Richard Huberman: /it we emerge from the pipe, covered in water
+[21:45:15] Richard Huberman: where...
+[21:45:19] Richard Huberman: the hell...
+[21:45:20] John Smith: where the hell?
+[21:45:27] Richard Huberman: oh my God
+[21:45:35] Richard Huberman: is that the ocean?
+[21:45:37] John Smith: // (would i still have the immolator?)
+[21:45:44] Dispatch/Overwatch: //if you do it don't work
+[21:45:59] John Smith: /me would drop the (now broken) immolator.
+[21:46:05] John Smith: i...
+[21:46:10] John Smith: i think that is...
+[21:46:13] Richard Huberman: // i love the idea that we just slogged thru hundreds of miles of pipe and emerged in the center of the now drained ocean lmao
+[21:46:19] Richard Huberman: good Lord...
+[21:46:25] Richard Huberman: theres nothing left of it!
+[21:46:45] Dispatch/Overwatch: //tokyo is very close to the sea
+[21:46:45] John Smith: this planet used to be beautiful once...
+[21:46:59] Richard Huberman: look!
+[21:47:02] Richard Huberman: a sub!
+[21:47:02] John Smith: careful...
+[21:47:05] Richard Huberman: an oil rig!
+[21:47:17] Dispatch/Overwatch set the hp for Everyone to 500
+[21:47:18] John Smith: a pipeline....
+[21:47:43] Richard Huberman: is that a crashed helicopter over there or are my eyes playing tricks on me
+[21:47:55] John Smith: Jesus Christ this is the bloody Atlantic!
+[21:48:04] Dispatch/Overwatch: //i'm back in the zone
+[21:48:12] Dispatch/Overwatch<STEAM_0:1:53097688> spawned ragdoll models/hlvr/characters/combine/grunt/combine_grunt_hlvr_npc.mdl
+[21:48:12] Richard Huberman: there, see that black mark?
+[21:48:16] Richard Huberman: is that a helicopter?
+[21:48:22] John Smith: i don't know...
+[21:48:30] John Smith: i don't think we should find out howeve-
+[21:48:31] Richard Huberman: ah well.  No way to get down there anyway
+[21:48:41] John Smith: piss...
+[21:48:43] Richard Huberman: well we're far from having failed to co-operate now...
+[21:48:51] Richard Huberman: we're anticitizens I guess
+[21:49:11] Dispatch/Overwatch<STEAM_0:1:53097688> spawned ragdoll models/hlvr/characters/combine/grunt/combine_grunt_hlvr_npc.mdl
+[21:49:17] John Smith: /me would slide down the side of this hill, attempting to land safely at the bottom...
+[21:49:29] Richard Huberman: /y you alright?
+[21:49:36] John Smith: /me would land right on his left leg...
+[21:49:42] John Smith: /y GAH FUCK!
+[21:49:43] Richard Huberman: /me also slides down the hill
+[21:49:51] Richard Huberman: made it!
+[21:49:55] Richard Huberman: hey, are  you alright?
+[21:49:56] Dispatch/Overwatch<STEAM_0:1:53097688> spawned ragdoll models/romka/romka_combine_soldier.mdl
+[21:50:00] John Smith: /Y F.....
+[21:50:04] Dispatch/Overwatch<STEAM_0:1:53097688> used the tool rb655_easy_bodygroup on models/romka/romka_combine_soldier.mdl
+[21:50:04] John Smith: no!
+[21:50:11] John Smith: god fucking damnit!
+[21:50:19] Richard Huberman: you think its broken?
+[21:50:21] John Smith: same goddamned leg!
+[21:50:35] John Smith: oh I KNOW it is...
+[21:51:01] Richard Huberman: /me somberly contemplates mercy strangling the man to death as he stares off into the distance of the drained ocean
+[21:51:13] John Smith: /me would let out multiple swear words and pained sounds and groans.
+[21:51:29] Dispatch/Overwatch<STEAM_0:1:53097688> used the tool ladder on maps/rp_depot_interior.bsp
+[21:51:30] Dispatch/Overwatch<STEAM_0:1:53097688> used the tool ladder on maps/rp_depot_interior.bsp
+[21:51:44] Richard Huberman: /me thinks of how easy it would be to kill John and take his belongings
+[21:51:54] Dispatch/Overwatch<STEAM_0:1:53097688> used the tool ladder on maps/rp_depot_interior.bsp
+[21:51:55] Dispatch/Overwatch<STEAM_0:1:53097688> used the tool ladder on maps/rp_depot_interior.bsp
+[21:51:59] Richard Huberman: /me puts those thoughts out of his mind
+[21:52:02] Dispatch/Overwatch<STEAM_0:1:53097688> used the tool ladder on maps/rp_depot_interior.bsp
+[21:52:03] Dispatch/Overwatch<STEAM_0:1:53097688> used the tool ladder on maps/rp_depot_interior.bsp
+[21:52:06] Dispatch/Overwatch<STEAM_0:1:53097688> used the tool ladder on maps/rp_depot_interior.bsp
+[21:52:08] Dispatch/Overwatch<STEAM_0:1:53097688> used the tool ladder on maps/rp_depot_interior.bsp
+[21:52:08] John Smith: we should probably get moving...
+[21:52:10] Dispatch/Overwatch<STEAM_0:1:53097688> used the tool ladder on maps/rp_depot_interior.bsp
+[21:52:11] Dispatch/Overwatch<STEAM_0:1:53097688> used the tool ladder on maps/rp_depot_interior.bsp
+[21:52:12] Richard Huberman: we should splint your leg and find some painkillers or something
+[21:52:13] Dispatch/Overwatch<STEAM_0:1:53097688> used the tool ladder on maps/rp_depot_interior.bsp
+[21:52:14] Dispatch/Overwatch<STEAM_0:1:53097688> used the tool ladder on maps/rp_depot_interior.bsp
+[21:52:36] John Smith: NOPE
+[21:52:38] Richard Huberman: /looc bro do not
+[21:52:40] Richard Huberman: /looc lmao
+[21:52:55] Dispatch/Overwatch<STEAM_0:1:53097688> used the tool ladder on maps/rp_depot_interior.bsp
+[21:52:55] Dispatch/Overwatch<STEAM_0:1:53097688> used the tool ladder on maps/rp_depot_interior.bsp
+[21:53:02] Dispatch/Overwatch<STEAM_0:1:53097688> used the tool ladder on maps/rp_depot_interior.bsp
+[21:53:02] Dispatch/Overwatch<STEAM_0:1:53097688> used the tool ladder on maps/rp_depot_interior.bsp
+[21:53:06] Dispatch/Overwatch<STEAM_0:1:53097688> used the tool ladder on maps/rp_depot_interior.bsp
+[21:53:08] Dispatch/Overwatch<STEAM_0:1:53097688> used the tool ladder on maps/rp_depot_interior.bsp
+[21:53:15] Dispatch/Overwatch: //FUCKING LADDERS
+[21:53:30] Richard Huberman: /me scans the rock face with his flashlight, searching for an easy place to clinb
+[21:53:34] Richard Huberman: /it to climb*
+[21:54:02] Dispatch/Overwatch<STEAM_0:1:53097688> spawned model models/props_combine/combine_explosivepanel_ceiling01a_shard02.mdl
+[21:54:08] Dispatch/Overwatch<STEAM_0:1:53097688> spawned model models/props_combine/combine_explosivepanel_ceiling01a_shard02.mdl
+[21:54:12] Dispatch/Overwatch<STEAM_0:1:53097688> spawned model models/props_combine/combine_explosivepanel_ceiling01a_shard03.mdl
+[21:54:14] Dispatch/Overwatch<STEAM_0:1:53097688> spawned model models/props_combine/combine_explosivepanel_shard03a.mdl
+[21:54:17] Dispatch/Overwatch<STEAM_0:1:53097688> spawned model models/props_combine/combine_bridge_b01.mdl
+[21:54:18] Richard Huberman: // i roleplayed today :)
+[21:55:36] John Smith: // HEY I PLAYED THIS MOD BEFORE!
+[21:55:37] Dispatch/Overwatch<STEAM_0:1:53097688> spawned NPC npc_vj_hla_antlion
+[21:55:49] John Smith: OH PISS
+[21:56:08] Dispatch/Overwatch set the hp for Richard Huberman to 50
+[21:56:13] Richard Huberman: Run!
+[21:56:27] Richard Huberman: to the thumper!
+[21:56:33] John Smith: // YEAH THIS IS A MAP FROM THE "DEPOT" MOD!
+[21:56:38] Richard Huberman: // yeah
+[21:56:45] Richard Huberman: they're scared of these I think
+[21:56:47] Dispatch/Overwatch: //haven't heard of it
+[21:56:50] Dispatch/Overwatch: //i just picked a map
+[21:56:51] John Smith: // HOLY SHIT I LOVE THIS MOD
+[21:57:07] Richard Huberman: // yeah this maps a really banger
+[21:57:33] Dispatch/Overwatch<STEAM_0:1:53097688> spawned NPC npc_vj_hla_antlion
+[21:57:37] Dispatch/Overwatch<STEAM_0:1:53097688> spawned NPC npc_vj_hla_antlion
+[21:57:43] Richard Huberman: cans
+[21:57:46] Dispatch/Overwatch set the hp for Everyone to 100
+[21:58:03] John Smith: oh this isn't at all dangerous...
+[21:58:27] Richard Huberman: well thats a scary building
+[21:58:41] Dispatch/Overwatch<STEAM_0:1:53097688> spawned ragdoll models/hlvr/characters/worker/worker_player.mdl
+[21:58:58] Dispatch/Overwatch<STEAM_0:1:53097688> used the tool rope on maps/rp_depot_interior.bsp
+[21:58:59] Dispatch/Overwatch<STEAM_0:1:53097688> used the tool rope on maps/rp_depot_interior.bsp
+[21:59:02] Dispatch/Overwatch<STEAM_0:1:53097688> used the tool rope on models/hlvr/characters/worker/worker_player.mdl
+[21:59:03] Dispatch/Overwatch<STEAM_0:1:53097688> used the tool rope on maps/rp_depot_interior.bsp
+[21:59:06] John Smith: ok...
+[21:59:11] Richard Huberman: /me tries to climb the metal truss
+[21:59:11] John Smith: well...
+[21:59:21] Richard Huberman: lets climb this, it looks easy enough
+[21:59:30] John Smith: this can't possibly go wrong...
+[21:59:54] John Smith: /me would begin fiddling with his Amulet again...
+[21:59:56] Dispatch/Overwatch<STEAM_0:1:53097688> spawned NPC npc_vj_hla_antlion
+[21:59:58] Dispatch/Overwatch<STEAM_0:1:53097688> spawned NPC npc_vj_hla_antlion
+[22:00:00] Dispatch/Overwatch<STEAM_0:1:53097688> spawned NPC npc_vj_hla_antlion
+[22:00:02] Dispatch/Overwatch<STEAM_0:1:53097688> spawned NPC npc_vj_hla_antlion
+[22:00:03] Dispatch/Overwatch<STEAM_0:1:53097688> spawned NPC npc_vj_hla_antlion
+[22:00:07] John Smith: hmm...
+[22:00:18] Richard Huberman: you wanna slide down this way or climb the truss?
+[22:00:22] John Smith: eh, fuck it.
+[22:00:34] Richard Huberman: hoooh!
+[22:00:43] Dispatch/Overwatch<STEAM_0:1:53097688> spawned NPC npc_vj_hla_antlion
+[22:00:44] Richard Huberman: another thumper!
+[22:00:45] John Smith: lot more graceful than the other one...
+[22:00:59] Dispatch/Overwatch<STEAM_0:1:53097688> spawned NPC npc_vj_hla_antlion
+[22:01:00] Richard Huberman: ah!
+[22:01:01] Dispatch/Overwatch<STEAM_0:1:53097688> spawned NPC npc_vj_hla_antlion
+[22:01:02] Dispatch/Overwatch<STEAM_0:1:53097688> spawned NPC npc_vj_hla_antlion
+[22:01:03] John Smith: antlions!
+[22:01:03] Richard Huberman: bugs...
+[22:01:11] Richard Huberman: holy fuck
+[22:01:16] Dispatch/Overwatch: //huh
+[22:01:17] Dispatch/Overwatch: //weird
+[22:01:19] Dispatch/Overwatch: //they igonre the thumoer
+[22:01:22] Dispatch/Overwatch<STEAM_0:1:53097688> spawned NPC npc_antlion
+[22:01:23] Dispatch/Overwatch<STEAM_0:1:53097688> spawned NPC npc_antlion
+[22:01:24] Dispatch/Overwatch<STEAM_0:1:53097688> spawned NPC npc_antlion
+[22:01:25] Dispatch/Overwatch<STEAM_0:1:53097688> spawned NPC npc_antlion
+[22:01:26] Dispatch/Overwatch<STEAM_0:1:53097688> spawned NPC npc_antlion
+[22:01:33] John Smith: // may be the HLA ones specifically that do that
+[22:01:40] Dispatch/Overwatch: //FUCKY
+[22:01:43] Dispatch/Overwatch: //I BROKE IT
+[22:01:46] Richard Huberman: ah
+[22:02:05] Dispatch/Overwatch<STEAM_0:1:53097688> spawned NPC npc_antlion_sglow
+[22:02:06] Richard Huberman: man youre covered in shit
+[22:02:29] John Smith: // WHY ARE THEY COMING AFTER ME
+[22:02:48] Dispatch/Overwatch: //i don't konw
+[22:02:50] Dispatch/Overwatch: //just
+[22:02:50] Richard Huberman: we gotta sprint for that other one
+[22:02:50] Dispatch/Overwatch: //how
+[22:02:54] Dispatch/Overwatch: //we got to this point
+[22:03:01] John Smith: ok...
+[22:03:03] John Smith: three
+[22:03:05] John Smith: two
+[22:03:07] Richard Huberman: // yes
+[22:03:11] John Smith: one
+[22:03:18] Richard Huberman: AH!
+[22:03:28] Richard Huberman: Fuck!
+[22:03:38] Richard Huberman: /me scrambles up the ladder
+[22:03:53] John Smith: // Q CLEAN UP THE MAP
+[22:03:55] Richard Huberman: i... I cant take this!
+[22:03:58] Richard Huberman: I cant take it!
+[22:04:00] Dispatch/Overwatch: //i literally can't
+[22:04:04] Dispatch/Overwatch: //it's disabled in hgelix
+[22:04:05] John Smith: // USE YOUR ADMIN PRIVLAGE-
+[22:04:07] Richard Huberman: I know its scary Joe, I know!
+[22:04:07] John Smith: FACK
+[22:04:17] Richard Huberman: we... We'll be okay...
+[22:04:32] John Smith: WE GOTTA SPRINT FOR THAT BRIDGE DOWN THERE!
+[22:04:36] Dispatch/Overwatch<STEAM_0:1:53097688> spawned NPC npc_vj_hla_antlion_spitter
+[22:04:43] Richard Huberman: oh... okay... 
+[22:04:44] Richard Huberman: RUN!
+[22:04:50] Dispatch/Overwatch set the hp for Everyone to 100
+[22:05:02] Richard Huberman: /y OH GOD
+[22:05:06] Richard Huberman: AH!
+[22:05:27] Dispatch/Overwatch<STEAM_0:1:53097688> spawned NPC npc_antlion_behemoth
+[22:05:55] Richard Huberman was killed by npc_antlion_behemoth
+[22:06:07] Richard Huberman: // ah thats a death for sure
+[22:06:21] Richard Huberman: // mauled to death by antlions
+[22:06:30] Dispatch/Overwatch: //it's an event, you don't get PKed during an event unless you purposefully sacrifice yourself or commit suicide
+[22:06:40] Richard Huberman: // oh could i be teleported?
+[22:06:40] John Smith: haha!
+[22:06:43] John Smith: get fucked
+[22:06:46] Dispatch/Overwatch brought Richard Huberman
+[22:06:51] Richard Huberman: // im definently pretty shredded up tho
+[22:07:11] Richard Huberman: /y FUCK YOU BUGS!
+[22:07:13] Richard Huberman: /y FUCK YOU!
+[22:07:45] Richard Huberman: /y you okay?
+[22:07:51] John Smith: /y YEAH
+[22:07:59] Richard Huberman: Joe, you okay?
+[22:08:02] Dispatch/Overwatch<STEAM_0:1:53097688> spawned/gave himself swep weapon_purpleimmolator
+[22:08:02] Dispatch/Overwatch: /toggleraise
+[22:08:06] Richard Huberman: Joes okay...
+[22:08:09] Richard Huberman: okay
+[22:08:11] Richard Huberman: lets uhh
+[22:08:18] Dispatch/Overwatch: /toggleraise
+[22:08:19] Dispatch/Overwatch: /toggleraise
+[22:08:24] John Smith: holy hell thats a lot of em
+[22:08:28] Richard Huberman: /y Im gonna check out that truck!
+[22:08:38] Dispatch/Overwatch<STEAM_0:1:53097688> spawned NPC npc_vj_hla_antlion_spitter
+[22:08:39] Dispatch/Overwatch<STEAM_0:1:53097688> spawned NPC npc_vj_hla_antlion_spitter
+[22:08:41] Dispatch/Overwatch<STEAM_0:1:53097688> spawned NPC npc_vj_hla_antlion_spitter
+[22:09:48] Richard Huberman: christ thats a lot of fucking bugs...
+[22:09:57] Richard Huberman: /y Friend?
+[22:10:09] Richard Huberman: /y find anything?
+[22:10:15] John Smith: no
+[22:10:25] Richard Huberman: hmm
+[22:10:31] Richard Huberman: maybe lets find a way back
+[22:10:35] Richard Huberman: to that combine building?
+[22:10:39] John Smith: yeah.
+[22:10:39] Richard Huberman: i dunno
+[22:10:42] John Smith: worth a shot
+[22:10:48] Richard Huberman: alright
+[22:10:52] Richard Huberman: uhh
+[22:10:52] John Smith: ready?
+[22:10:57] Richard Huberman: lets go!
+[22:11:14] Richard Huberman: AH
+[22:11:42] Richard Huberman was killed by npc_antlion
+[22:11:48] Richard Huberman: /looc damn
+[22:11:59] Dispatch/Overwatch brought Richard Huberman
+[22:13:22] Richard Huberman: i cant run in this fuckin thing
+[22:13:26] Richard Huberman: /me quickly takes his suit off
+[22:14:56] John Smith: lets wait here for a second yeah?
+[22:15:02] Richard Huberman: RUN!
+[22:15:07] Dispatch/Overwatch set the hp for Everyone to 100
+[22:15:36] Richard Huberman: // what a hot fucking map
+[22:15:47] John Smith: so
+[22:15:48] Richard Huberman: what is this, a ship?
+[22:15:50] John Smith: what now?
+[22:15:57] Richard Huberman: I dunno
+[22:16:05] Richard Huberman: no food out here so we cant stay
+[22:16:27] Richard Huberman: we need to find a route home, or find some rebels
+[22:16:47] Richard Huberman: or maybe a car or something, but theres too many antlions for us to stay
+[22:16:51] Richard Huberman: unless we eat the antlions
+[22:17:01] Richard Huberman: but for that we'd need weapons
+[22:17:24] Richard Huberman: // yeah just become a nomadic antlion hunting tribe, no sweat
+[22:17:31] Dispatch/Overwatch: //lmao
+[22:17:31] Richard Huberman: // nothing wrong with that plan
+[22:17:48] John Smith: /me would grab his left leg, which would be bleeding through his clothes and the bandage around his leg from before...
+[22:18:13] Richard Huberman: your legs looking pretty bad
+[22:18:21] John Smith: /me would scoff.
+[22:18:27] John Smith: yeah no shit Sherlock
+[22:19:05] Richard Huberman: lets rest here so your heart rate from all that running doesnt bleed you out
+[22:19:14] John Smith: yeah....
+[22:19:20] Richard Huberman: maybe tear up a shirt or something to replace that bandage
+[22:19:22] Richard Huberman: here
+[22:19:27] John Smith: // anyone else lagging a bit?
+[22:19:38] Richard Huberman: /me takes off his undershirt, its utterly drenched in sweat, he tosses it across to John
+[22:19:48] John Smith: /me would grab it.
+[22:19:55] John Smith: // this is just...
+[22:19:58] Richard Huberman: /it some parts are dry enough to be ripped off and used as a bandage
+[22:19:59] Dispatch/Overwatch: //a little bit but not much
+[22:20:03] Richard Huberman: /it its really fucking gross tho
+[22:20:17] John Smith: // this is far, far to gross my mans
+[22:20:19] Dispatch/Overwatch: //nvmi'm etting some
+[22:20:25] Dispatch/Overwatch: //what the shit
+[22:20:42] Richard Huberman: // okay its not SOAKED with sweat, but like
+[22:20:45] Richard Huberman: // i was running
+[22:20:49] John Smith: /me would toss it back over to him and say, "Fuck no, that shit can kill me."
+[22:21:01] Richard Huberman: // i dont have a fucking sweat fetish jesus christ
+[22:21:08] Richard Huberman: suit yourself
+[22:21:14] Richard Huberman: /me puts his shirt back on
+[22:21:34] John Smith: Sweat getting in an open wound is a VERY bad thing.
+[22:21:41] Richard Huberman: yes thats true
+[22:22:03] John Smith: // holy shit i am lagging a fuck-ton now wtf
+[22:22:51] Richard Huberman: // me too
+[22:23:01] Dispatch/Overwatch: //i don't know hy that is
+[22:23:07] Dispatch/Overwatch: //this is damn near unplayable
+[22:23:12] John Smith: // fuck it, imma head out boys, peace
+[22:23:19] John Smith: // me tired and need sleep soon
+[22:23:19] Dropped "Dispatch/Overwatch" from server<STEAM_0:1:53097688>
+[22:23:31] Dropped "John Smith" from server<STEAM_0:1:75161355>
+[22:24:08] Dropped "Richard Huberman" from server<STEAM_0:0:19369750>
+<Logging continued in "data/ulx_logs/10-02-21.txt">

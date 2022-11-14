@@ -1,0 +1,121 @@
+<Logging continued from "data/ulx_logs/07-04-21.txt">
+[01:46:28] Client "Shasta190" connected.
+
+
+
+[02:19:33] New map: rp_city8_edit_v4r
+[15:31:55] Client "hnbug01" connected.
+[15:34:23] Client "hnbug01" spawned in server <STEAM_0:1:575208276> (took 148 seconds).
+[15:36:18] hnbug01<STEAM_0:1:575208276> changed their name to Feng Yi Hseuh
+[15:36:38] Client "matt saton" connected.
+[15:38:54] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 136 seconds).
+[15:39:59] matt saton<STEAM_0:1:53097688> changed their name to Lee Maylor
+[15:57:20] Lee Maylor: /charsethunger maylor 100
+[15:57:24] Lee Maylor: /charsetthirst maylor 100
+[16:00:30] Lee Maylor<STEAM_0:1:53097688> used the tool ladder on maps/rp_city8_edit_v4r.bsp
+[16:00:36] Lee Maylor<STEAM_0:1:53097688> used the tool ladder on maps/rp_city8_edit_v4r.bsp
+[16:00:37] Lee Maylor<STEAM_0:1:53097688> used the tool ladder on maps/rp_city8_edit_v4r.bsp
+[16:00:40] Lee Maylor<STEAM_0:1:53097688> used the tool ladder on maps/rp_city8_edit_v4r.bsp
+[16:01:01] Lee Maylor<STEAM_0:1:53097688> spawned model models/hunter/plates/plate2x2.mdl
+[16:01:02] Lee Maylor<STEAM_0:1:53097688> spawned model models/hunter/plates/plate1x2.mdl
+[16:01:10] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/hunter/plates/plate1x2.mdl
+[16:01:41] Lee Maylor<STEAM_0:1:53097688> used the tool stacker_improved on models/hunter/plates/plate1x2.mdl
+[16:01:41] Lee Maylor<STEAM_0:1:53097688> spawned model models/hunter/plates/plate1x2.mdl
+[16:01:48] Lee Maylor<STEAM_0:1:53097688> used the tool stacker_improved on models/hunter/plates/plate1x2.mdl
+[16:01:48] Lee Maylor<STEAM_0:1:53097688> spawned model models/hunter/plates/plate1x2.mdl
+[16:01:59] Lee Maylor<STEAM_0:1:53097688> used the tool stacker_improved on models/hunter/plates/plate1x2.mdl
+[16:01:59] Lee Maylor<STEAM_0:1:53097688> spawned model models/hunter/plates/plate1x2.mdl
+[16:02:05] Lee Maylor<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate1x2.mdl
+[16:02:06] Lee Maylor<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate1x2.mdl
+[16:02:06] Lee Maylor<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate1x2.mdl
+[16:02:06] Lee Maylor<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate1x2.mdl
+[16:02:06] Lee Maylor<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate1x2.mdl
+[16:02:06] Lee Maylor<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate1x2.mdl
+[16:02:07] Lee Maylor<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate1x2.mdl
+[16:02:07] Lee Maylor<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate1x2.mdl
+[16:02:07] Lee Maylor<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate1x2.mdl
+[16:02:07] Lee Maylor<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate1x2.mdl
+[16:02:19] Lee Maylor<STEAM_0:1:53097688> used the tool stacker_improved on models/hunter/plates/plate1x2.mdl
+[16:02:19] Lee Maylor<STEAM_0:1:53097688> spawned model models/hunter/plates/plate1x2.mdl
+[16:02:19] Lee Maylor<STEAM_0:1:53097688> used the tool stacker_improved on models/hunter/plates/plate1x2.mdl
+[16:02:19] Lee Maylor<STEAM_0:1:53097688> spawned model models/hunter/plates/plate1x2.mdl
+[16:02:28] Lee Maylor<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate1x2.mdl
+[16:02:30] Lee Maylor<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate1x2.mdl
+[16:02:30] Lee Maylor<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate1x2.mdl
+[16:02:32] Lee Maylor<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate1x2.mdl
+[16:02:32] Lee Maylor<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate1x2.mdl
+[16:02:32] Lee Maylor<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate1x2.mdl
+[16:02:33] Lee Maylor<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate1x2.mdl
+[16:02:33] Lee Maylor<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate1x2.mdl
+[16:02:35] Lee Maylor<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate1x2.mdl
+[16:02:35] Lee Maylor<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate1x2.mdl
+[16:02:37] Lee Maylor<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate1x2.mdl
+[16:02:37] Lee Maylor<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate1x2.mdl
+[16:02:38] Lee Maylor<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate1x2.mdl
+[16:02:40] Lee Maylor<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate1x2.mdl
+[16:02:51] Lee Maylor<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate1x2.mdl
+[16:02:52] Lee Maylor<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate1x2.mdl
+[16:02:54] Lee Maylor<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate1x2.mdl
+[16:02:54] Lee Maylor<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate1x2.mdl
+[16:02:56] Lee Maylor<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate1x2.mdl
+[16:02:56] Lee Maylor<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate1x2.mdl
+[16:02:56] Lee Maylor<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate1x2.mdl
+[16:02:57] Lee Maylor<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate1x2.mdl
+[16:02:59] Lee Maylor<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate1x2.mdl
+[16:02:59] Lee Maylor<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate1x2.mdl
+[16:03:01] Lee Maylor<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate1x2.mdl
+[16:03:02] Lee Maylor<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate1x2.mdl
+[16:03:04] Lee Maylor<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate1x2.mdl
+[16:03:05] Lee Maylor<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate1x2.mdl
+[16:03:07] Lee Maylor<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate1x2.mdl
+[16:03:10] Lee Maylor<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate1x2.mdl
+[16:03:11] Lee Maylor<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate1x2.mdl
+[16:03:13] Lee Maylor<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate1x2.mdl
+[16:03:15] Lee Maylor<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate1x2.mdl
+[16:03:16] Lee Maylor<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate1x2.mdl
+[16:03:16] Lee Maylor<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate1x2.mdl
+[16:03:18] Lee Maylor<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate1x2.mdl
+[16:03:18] Lee Maylor<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate1x2.mdl
+[16:03:18] Lee Maylor<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate1x2.mdl
+[16:03:18] Lee Maylor<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate1x2.mdl
+[16:03:26] Lee Maylor<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate1x2.mdl
+[16:03:27] Lee Maylor<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate1x2.mdl
+[16:03:37] Lee Maylor<STEAM_0:1:53097688> used the tool material on models/hunter/plates/plate1x2.mdl
+[16:03:40] Lee Maylor<STEAM_0:1:53097688> used the tool material on models/hunter/plates/plate1x2.mdl
+[16:03:41] Lee Maylor<STEAM_0:1:53097688> used the tool material on models/hunter/plates/plate1x2.mdl
+[16:03:46] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/hunter/plates/plate1x2.mdl
+[16:03:46] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/hunter/plates/plate1x2.mdl
+[16:03:46] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/hunter/plates/plate1x2.mdl
+[16:03:46] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/hunter/plates/plate1x2.mdl
+[16:03:47] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/hunter/plates/plate1x2.mdl
+[16:03:47] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/hunter/plates/plate1x2.mdl
+[16:03:47] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/hunter/plates/plate1x2.mdl
+[16:03:47] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/hunter/plates/plate1x2.mdl
+[16:03:51] Lee Maylor<STEAM_0:1:53097688> used the tool stacker_improved on models/hunter/plates/plate1x2.mdl
+[16:03:51] Lee Maylor<STEAM_0:1:53097688> spawned model models/hunter/plates/plate1x2.mdl
+[16:03:52] Lee Maylor<STEAM_0:1:53097688> used the tool stacker_improved on models/hunter/plates/plate1x2.mdl
+[16:03:52] Lee Maylor<STEAM_0:1:53097688> spawned model models/hunter/plates/plate1x2.mdl
+[16:04:37] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/hunter/plates/plate1x2.mdl
+[16:04:38] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/hunter/plates/plate1x2.mdl
+[16:04:39] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/hunter/plates/plate1x2.mdl
+[16:04:40] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/hunter/plates/plate1x2.mdl
+[16:04:45] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_combine/combine_bridge_b.mdl
+[16:04:47] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_combine/combine_barricade_short02a.mdl
+[16:05:09] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_combine/combine_barricade_short02a.mdl
+[16:05:12] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_combine/combine_barricade_short03a.mdl
+[16:05:14] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_combine/combine_barricade_short01a.mdl
+[16:05:37] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_combine/combine_barricade_short01a.mdl
+[16:06:47] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_combine/combine_barricade_short01a.mdl
+[16:06:47] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_combine/combine_barricade_short01a.mdl
+[16:07:15] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_combine/combine_barricade_short01a.mdl
+[16:07:17] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/combine_barricade_short01a.mdl
+[16:21:49] Dropped "Lee Maylor" from server<STEAM_0:1:53097688>
+[20:43:10] Client "XTTain" connected.
+[21:28:48] Feng Yi Hseuh suicided!
+[22:25:47] Dropped "Feng Yi Hseuh" from server<STEAM_0:1:575208276>
+[22:43:20] Client "kinnairdkeisha" connected.
+[22:48:00] Client "kinnairdkeisha" spawned in server <STEAM_0:0:596396211> (took 280 seconds).
+[22:49:02] kinnairdkeisha<STEAM_0:0:596396211> changed their name to levi
+[22:55:00] levi<STEAM_0:0:596396211> spawned/gave himself swep weapon_vfirethrower
+[22:55:00] levi<STEAM_0:0:596396211> spawned/gave himself swep weapon_vfirethrower
+[22:58:51] Dropped "levi" from server<STEAM_0:0:596396211>

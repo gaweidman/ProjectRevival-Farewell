@@ -1,0 +1,694 @@
+[10:31:23]	matt saton has connected.
+[10:32:44]	matt saton loaded the character 'CCA.C17-GRID.i3.10945'
+[10:32:51]	CCA.C17-GRID.i3.10945 entered observer.
+[10:32:53]	CCA.C17-GRID.i3.10945 exited observer at their location.
+[10:32:56]	CCA.C17-GRID.i3.10945 used command '/AddTenant grid'.
+[10:33:03]	CCA.C17-GRID.i3.10945 used command '/RemoveTenant 1'.
+[10:33:03]	CCA.C17-GRID.i3.10945 entered observer.
+[10:33:25]	CCA.C17-GRID.i3.10945 exited observer at their location.
+[10:33:34]	CCA.C17-GRID.i3.10945 used command '/DoorSetTitle 2A'.
+[10:33:36]	CCA.C17-GRID.i3.10945 used command '/DoorSetTitle 2B'.
+[10:33:37]	CCA.C17-GRID.i3.10945 entered observer.
+[10:33:39]	CCA.C17-GRID.i3.10945 used command '/DoorSetTitle 2c'.
+[10:33:42]	CCA.C17-GRID.i3.10945 used command '/DoorSetTitle 2C'.
+[10:33:43]	CCA.C17-GRID.i3.10945 used command '/DoorSetTitle 2C'.
+[10:33:46]	CCA.C17-GRID.i3.10945 used command '/DoorSetTitle 2D'.
+[10:33:53]	CCA.C17-GRID.i3.10945 used command '/RemoveTenant 1'.
+[10:34:24]	[Y] CCA.C17-GRID.i3.10945: <:: TEST. ::>
+[10:34:52]	[MEY] CCA.C17-GRID.i3.10945: test
+[10:34:54]	[Y] CCA.C17-GRID.i3.10945: <:: Test. ::>
+[10:37:44]	CCA.C17-GRID.i3.10945 has gained 10 tokens.
+[10:39:05]	[Y] CCA.C17-GRID.i3.10945: <:: Test. ::>
+[10:39:08]	[W] CCA.C17-GRID.i3.10945: <:: Test. ::>
+[10:40:36]	CCA.C17-GRID.i3.10945 exited observer at their location.
+[10:40:42]	CCA.C17-GRID.i3.10945 has spawned 'models/hunter/blocks/cube2x6x025.mdl'.
+[10:40:46]	CCA.C17-GRID.i3.10945 has spawned 'models/hunter/plates/plate2x5.mdl'.
+[10:40:48]	CCA.C17-GRID.i3.10945 has spawned 'models/hunter/plates/plate2x4.mdl'.
+[10:40:54]	CCA.C17-GRID.i3.10945 entered observer.
+[10:41:28]	CCA.C17-GRID.i3.10945 exited observer at their location.
+[10:42:21]	CCA.C17-GRID.i3.10945 entered observer.
+[10:42:22]	CCA.C17-GRID.i3.10945 exited observer at their location.
+[10:42:23]	CCA.C17-GRID.i3.10945 entered observer.
+[10:42:23]	CCA.C17-GRID.i3.10945 exited observer at their location.
+[10:42:24]	CCA.C17-GRID.i3.10945 entered observer.
+[10:42:25]	CCA.C17-GRID.i3.10945 exited observer at their location.
+[10:42:25]	CCA.C17-GRID.i3.10945 entered observer.
+[10:42:26]	CCA.C17-GRID.i3.10945 exited observer at their location.
+[10:42:27]	CCA.C17-GRID.i3.10945 entered observer.
+[10:43:08]	CCA.C17-GRID.i3.10945 exited observer at their location.
+[10:43:08]	CCA.C17-GRID.i3.10945 entered observer.
+[10:43:12]	CCA.C17-GRID.i3.10945 exited observer at their location.
+[10:43:15]	CCA.C17-GRID.i3.10945 has spawned a 'Entity [4333][ix_vortlight]'.
+[10:43:16]	CCA.C17-GRID.i3.10945 has spawned a 'Entity [4334][ix_vendingmachine]'.
+[10:43:19]	CCA.C17-GRID.i3.10945 has gained 10 tokens.
+[10:43:21]	CCA.C17-GRID.i3.10945 entered observer.
+[10:43:31]	CCA.C17-GRID.i3.10945 exited observer at their location.
+[10:43:50]	CCA.C17-GRID.i3.10945 has spawned a 'Entity [4333][ix_searchdumpster]'.
+[10:43:56]	CCA.C17-GRID.i3.10945 entered observer.
+[10:43:58]	CCA.C17-GRID.i3.10945 exited observer at their location.
+[10:44:23]	CCA.C17-GRID.i3.10945 entered observer.
+[10:48:19]	CCA.C17-GRID.i3.10945 has gained 10 tokens.
+[11:02:44]	CCA.C17-GRID.i3.10945 has gained 10 tokens.
+[11:07:44]	CCA.C17-GRID.i3.10945 has gained 10 tokens.
+[11:08:19]	CCA.C17-GRID.i3.10945 used command '/adminspawnmenu'.
+[11:08:25]	CCA.C17-GRID.i3.10945 has spawned "Gas Mask"
+[11:08:27]	CCA.C17-GRID.i3.10945 exited observer at their location.
+[11:08:28]	CCA.C17-GRID.i3.10945 entered observer.
+[11:08:29]	CCA.C17-GRID.i3.10945 exited observer at their location.
+[11:08:38]	CCA.C17-GRID.i3.10945 has gained a 'Gas Mask' #29213.
+[11:08:38]	CCA.C17-GRID.i3.10945 used command '/CharGiveItem g gas mask'.
+[11:08:41]	CCA.C17-GRID.i3.10945 ran 'Equip' on item 'Gas Mask' (#29213)
+[11:08:50]	CCA.C17-GRID.i3.10945 has gained a 'Conscript Armor' #29214.
+[11:08:50]	CCA.C17-GRID.i3.10945 used command '/CharGiveItem g conscript'.
+[11:08:53]	CCA.C17-GRID.i3.10945 ran 'EquipUn' on item 'Gas Mask' (#29213)
+[11:09:06]	CCA.C17-GRID.i3.10945 ran 'drop' on item 'Gas Mask' (#29213)
+[11:09:06]	CCA.C17-GRID.i3.10945 has lost a 'Gas Mask' #29213.
+[11:09:58]	CCA.C17-GRID.i3.10945 ran 'drop' on item 'Conscript Armor' (#29214)
+[11:09:58]	CCA.C17-GRID.i3.10945 has lost a 'Conscript Armor' #29214.
+[11:11:23]	matt saton loaded the character 'Ryan Maley'
+[11:11:51]	Ryan Maley entered observer.
+[11:11:53]	Ryan Maley exited observer at their location.
+[11:12:05]	Ryan Maley has spawned a 'Entity [4338][ix_airvent]'.
+[11:12:07]	Ryan Maley ran 'EquipUn' on item 'Green Citizen Suit' (#24069)
+[11:39:32]	Ryan Maley has spawned 'models/gibs/antlion_gib_large_1.mdl'.
+[11:39:39]	Ryan Maley has spawned 'models/gibs/antlion_gib_large_2.mdl'.
+[11:39:52]	Ryan Maley has spawned 'models/gibs/antlion_gib_small_2.mdl'.
+[11:39:55]	Ryan Maley has spawned 'models/gibs/antlion_gib_small_3.mdl'.
+[11:39:57]	Ryan Maley has spawned 'models/gibs/antlion_gib_medium_1.mdl'.
+[11:39:59]	Ryan Maley has spawned 'models/gibs/antlion_gib_small_2.mdl'.
+[11:40:02]	Ryan Maley has spawned 'models/gibs/antlion_gib_large_2.mdl'.
+[11:40:10]	Ryan Maley has spawned 'models/gibs/strider_gib7.mdl'.
+[11:40:11]	Ryan Maley has spawned 'models/gibs/strider_gib7.mdl'.
+[11:41:40]	Ryan Maley has spawned 'models/gibs/strider_gib7.mdl'.
+[11:41:41]	Ryan Maley has spawned 'models/gibs/strider_gib6.mdl'.
+[11:41:43]	Ryan Maley has spawned 'models/gibs/strider_gib7.mdl'.
+[11:42:06]	Nums has connected.
+[12:22:57]	Ryan Maley has taken 1 damage from worldspawn.
+[12:23:00]	Ryan Maley has taken 1 damage from worldspawn.
+[12:23:04]	Ryan Maley has taken 1 damage from worldspawn.
+[12:23:07]	Ryan Maley has taken 1 damage from worldspawn.
+[12:23:18]	Ryan Maley has taken 1 damage from worldspawn.
+[12:23:27]	Ryan Maley has taken 1 damage from worldspawn.
+[12:23:42]	Ryan Maley has taken 1 damage from worldspawn.
+[12:32:00]	Ryan Maley has spawned 'models/mosi/fallout4/props/junk/components/fiberglass.mdl'.
+[12:32:02]	Ryan Maley has spawned 'models/mosi/fallout4/props/junk/components/rubber.mdl'.
+[12:32:04]	Ryan Maley entered observer.
+[12:32:06]	Ryan Maley has spawned 'models/mosi/fallout4/props/junk/components/ballisticfiber.mdl'.
+[12:32:12]	Ryan Maley has spawned 'models/mosi/fallout4/props/junk/schematic.mdl'.
+[12:32:14]	Ryan Maley has spawned 'models/mosi/fallout4/props/junk/components/cloth.mdl'.
+[12:32:20]	Ryan Maley has spawned 'models/mosi/fallout4/props/junk/components/ceramic.mdl'.
+[12:32:27]	Ryan Maley has spawned 'models/mosi/fallout4/props/junk/blueprint.mdl'.
+[12:32:31]	Ryan Maley has spawned 'models/mosi/fallout4/props/junk/components/crystal.mdl'.
+[12:32:34]	Ryan Maley has spawned 'models/mosi/fallout4/props/junk/components/copper.mdl'.
+[12:32:36]	Ryan Maley has spawned 'models/mosi/fallout4/props/junk/components/steel.mdl'.
+[12:32:38]	Ryan Maley has spawned 'models/mosi/fallout4/props/junk/components/gold.mdl'.
+[12:32:39]	Ryan Maley has spawned 'models/mosi/fallout4/props/junk/components/lead.mdl'.
+[12:32:44]	Ryan Maley has spawned 'models/mosi/fallout4/props/junk/components/leather.mdl'.
+[12:32:47]	Ryan Maley has spawned 'models/mosi/fallout4/props/junk/components/ballisticfiber.mdl'.
+[12:32:48]	Ryan Maley has spawned 'models/mosi/fallout4/props/junk/hammer03.mdl'.
+[12:32:50]	Ryan Maley has spawned 'models/mosi/fallout4/props/junk/adjustablewrench.mdl'.
+[12:32:52]	Ryan Maley has spawned 'models/mosi/fallout4/props/junk/hammer03.mdl'.
+[12:32:53]	Ryan Maley has spawned 'models/mosi/fallout4/props/junk/deathclaw_hide.mdl'.
+[12:33:00]	Ryan Maley has spawned 'models/mosi/fallout4/props/junk/components/ballisticfiber.mdl'.
+[12:33:12]	Ryan Maley has spawned 'models/mosi/fallout4/props/junk/components/fiberglass.mdl'.
+[12:33:19]	Ryan Maley has spawned 'models/mosi/fallout4/props/junk/components/fiberoptic.mdl'.
+[12:33:28]	Ryan Maley has spawned 'models/mosi/fallout4/props/junk/components/asbestos.mdl'.
+[12:33:30]	Ryan Maley has spawned 'models/mosi/fallout4/props/junk/components/asbestos.mdl'.
+[12:33:32]	Ryan Maley has spawned 'models/mosi/fallout4/props/junk/components/bone.mdl'.
+[12:33:35]	Ryan Maley has spawned 'models/mosi/fallout4/props/junk/components/gears.mdl'.
+[12:33:45]	Ryan Maley has spawned 'models/mosi/fallout4/props/junk/components/gears.mdl'.
+[12:33:52]	Ryan Maley has spawned 'models/mosi/fallout4/props/junk/components/screws.mdl'.
+[12:33:56]	Ryan Maley has spawned 'models/mosi/fallout4/props/junk/components/springs.mdl'.
+[12:34:23]	Ryan Maley has spawned 'models/mosi/fallout4/props/junk/components/adhesive.mdl'.
+[12:41:19]	Ryan Maley exited observer at their location.
+[12:41:22]	Ryan Maley has taken 1 damage from worldspawn.
+[12:41:22]	Ryan Maley has taken 1 damage from worldspawn.
+[12:41:23]	Ryan Maley entered observer.
+[12:41:33]	Ryan Maley has spawned a 'Entity [4338][ix_airvent]'.
+[12:41:34]	Ryan Maley exited observer at their location.
+[12:42:10]	Ryan Maley used command '/ToggleRaise'.
+[12:42:19]	Ryan Maley used command '/ToggleRaise'.
+[12:42:37]	Ryan Maley used command '/ToggleRaise'.
+[12:42:39]	Ryan Maley used command '/ToggleRaise'.
+[12:42:40]	Ryan Maley used command '/ToggleRaise'.
+[12:42:45]	Ryan Maley used command '/ToggleRaise'.
+[12:42:46]	Ryan Maley used command '/ToggleRaise'.
+[12:42:47]	Ryan Maley used command '/ToggleRaise'.
+[12:42:51]	Ryan Maley used command '/ToggleRaise'.
+[12:42:51]	Ryan Maley used command '/ToggleRaise'.
+[12:43:00]	Ryan Maley used command '/ToggleRaise'.
+[12:43:01]	Ryan Maley used command '/ToggleRaise'.
+[12:43:02]	Ryan Maley used command '/ToggleRaise'.
+[12:43:05]	Ryan Maley used command '/ToggleRaise'.
+[12:43:10]	Ryan Maley used command '/ToggleRaise'.
+[12:43:10]	Ryan Maley used command '/ToggleRaise'.
+[12:43:11]	Ryan Maley used command '/ToggleRaise'.
+[12:43:12]	Ryan Maley used command '/ToggleRaise'.
+[12:43:12]	Ryan Maley used command '/ToggleRaise'.
+[12:43:13]	Ryan Maley used command '/ToggleRaise'.
+[12:43:14]	Ryan Maley used command '/ToggleRaise'.
+[12:43:15]	Ryan Maley used command '/ToggleRaise'.
+[12:43:16]	Ryan Maley used command '/ToggleRaise'.
+[12:43:16]	Ryan Maley used command '/ToggleRaise'.
+[12:43:17]	Ryan Maley used command '/ToggleRaise'.
+[12:43:18]	Ryan Maley used command '/ToggleRaise'.
+[12:43:19]	Ryan Maley used command '/ToggleRaise'.
+[12:43:20]	Ryan Maley used command '/ToggleRaise'.
+[12:43:33]	Ryan Maley used command '/ToggleRaise'.
+[12:43:34]	Ryan Maley used command '/ToggleRaise'.
+[12:43:37]	Ryan Maley used command '/ToggleRaise'.
+[12:43:39]	Ryan Maley used command '/ToggleRaise'.
+[12:43:43]	Ryan Maley used command '/ToggleRaise'.
+[12:43:45]	Ryan Maley used command '/ToggleRaise'.
+[12:43:46]	Ryan Maley used command '/ToggleRaise'.
+[12:43:48]	Ryan Maley used command '/ToggleRaise'.
+[12:43:56]	Ryan Maley used command '/ToggleRaise'.
+[12:43:57]	Ryan Maley used command '/ToggleRaise'.
+[12:44:01]	Ryan Maley used command '/ToggleRaise'.
+[12:44:06]	Ryan Maley used command '/ToggleRaise'.
+[12:44:09]	Ryan Maley used command '/ToggleRaise'.
+[12:44:12]	Ryan Maley used command '/ToggleRaise'.
+[12:44:15]	Ryan Maley used command '/ToggleRaise'.
+[12:44:22]	Ryan Maley used command '/ToggleRaise'.
+[12:44:25]	Ryan Maley used command '/ToggleRaise'.
+[12:44:29]	Ryan Maley used command '/ToggleRaise'.
+[12:44:31]	Ryan Maley used command '/ToggleRaise'.
+[12:44:32]	Ryan Maley used command '/ToggleRaise'.
+[12:44:35]	Ryan Maley used command '/ToggleRaise'.
+[12:44:40]	Ryan Maley used command '/ToggleRaise'.
+[12:44:42]	Ryan Maley used command '/ToggleRaise'.
+[12:47:06]	Ryan Maley has taken 1 damage from worldspawn.
+[12:47:31]	Ryan Maley used command '/ToggleRaise'.
+[12:47:34]	Ryan Maley used command '/ToggleRaise'.
+[12:47:36]	Ryan Maley used command '/ToggleRaise'.
+[12:47:41]	Ryan Maley used command '/ToggleRaise'.
+[12:47:45]	Ryan Maley used command '/ToggleRaise'.
+[12:52:25]	Chicken has connected.
+[12:53:09]	Chicken loaded the character 'CCA.C17-UNION.i5.03672'
+[12:53:44]	[OOC] CCA.C17-UNION.i5.03672: Why is dominos only good if you microwave it
+[13:02:34]	Ryan Maley has spawned 'models/gibs/shield_scanner_gib2.mdl'.
+[13:02:43]	[OOC] CCA.C17-UNION.i5.03672: Q SMELLS
+[13:02:48]	[OOC] Ryan Maley: oh shitit's chicken
+[13:02:52]	[OOC] Ryan Maley: how long have you bee nhere
+[13:02:53]	[OOC] CCA.C17-UNION.i5.03672: bro iv been here
+[13:02:55]	[OOC] CCA.C17-UNION.i5.03672: for like 30 mins
+[13:02:59]	[OOC] CCA.C17-UNION.i5.03672: and i typed in ooc
+[13:02:59]	[OOC] Ryan Maley: WHAT
+[13:03:02]	[OOC] CCA.C17-UNION.i5.03672: what the hell bro
+[13:03:09]	CCA.C17-UNION.i5.03672 has gained 10 tokens.
+[13:03:13]	[OOC] Ryan Maley: i JUST noticed
+[13:03:15]	[OOC] CCA.C17-UNION.i5.03672: like 30 mins ago i started a convo and you didnt respond
+[13:03:16]	[OOC] Ryan Maley: what the FUCK
+[13:03:32]	[OOC] Ryan Maley: also bitch your domino's is bad because domino's is the shit
+[13:03:36]	[OOC] CCA.C17-UNION.i5.03672: q paying attention impossible!
+[13:03:36]	[OOC] Ryan Maley: their cheesy bread is unmatched
+[13:03:41]	[OOC] Ryan Maley: i am MAKING CRAFTING RECIPES
+[13:03:43]	[OOC] Ryan Maley: and ITEMS
+[13:03:56]	[OOC] CCA.C17-UNION.i5.03672: i am making all willard items and food
+[13:04:02]	[OOC] CCA.C17-UNION.i5.03672: and its really annoying
+[13:04:10]	[OOC] CCA.C17-UNION.i5.03672: cause its like 300 props
+[13:04:21]	[OOC] Ryan Maley: why not just decide on your own shit to make
+[13:04:25]	[OOC] Ryan Maley: instead of doing what willard is doing
+[13:04:32]	[OOC] Ryan Maley: makes it better and less of a chore
+[13:04:40]	[OOC] CCA.C17-UNION.i5.03672: Well im not doing it for myself
+[13:04:44]	[OOC] Ryan Maley: oh
+[13:04:47]	[OOC] CCA.C17-UNION.i5.03672: im doing it for leon
+[13:04:52]	[OOC] Ryan Maley: ohhhh
+[13:04:56]	[OOC] CCA.C17-UNION.i5.03672: aka after life rp
+[13:05:00]	[OOC] CCA.C17-UNION.i5.03672: aka wwc rp
+[13:05:08]	[OOC] Ryan Maley: wwc?
+[13:05:13]	[OOC] Ryan Maley: ...world war combine?
+[13:05:14]	[OOC] CCA.C17-UNION.i5.03672: when worlds colide
+[13:05:18]	[OOC] Ryan Maley: oh
+[13:05:35]	[OOC] CCA.C17-UNION.i5.03672: his servers are basically Outlands combine and wwc
+[13:05:51]	[OOC] CCA.C17-UNION.i5.03672: So there can be former  cps and such
+[13:06:10]	[OOC] CCA.C17-UNION.i5.03672: its nice for like small player counts
+[13:06:17]	[OOC] CCA.C17-UNION.i5.03672: like 6-10 players
+[13:06:35]	[OOC] Ryan Maley: oh that's coold
+[13:07:46]	CCA.C17-UNION.i5.03672 used the 'Shopkeeper' vendor.
+[13:08:09]	CCA.C17-UNION.i5.03672 has gained 10 tokens.
+[13:10:50]	[OOC] CCA.C17-UNION.i5.03672: alr ill catch you on flip side but you probably wont notice this text okay bye
+[13:10:52]	Chicken (STEAM_0:0:143523274) has disconnected.
+[13:10:54]	[OOC] Ryan Maley: alright
+[14:31:02]	Painevan has connected.
+[14:32:34]	Painevan loaded the character 'Jonathan Jackson'
+[14:33:44]	Jonathan Jackson ran 'Equip' on item 'Green Citizen Suit' (#28351)
+[14:36:54]	Jonathan Jackson opened the '' #235 container.
+[14:37:07]	Jonathan Jackson has gained a 'Resin' #27915.
+[14:37:10]	Jonathan Jackson has gained a 'Armor Scraps' #27873.
+[14:37:11]	[OOC] Ryan Maley: back
+[14:37:17]	Jonathan Jackson closed the '' #235 container.
+[14:37:22]	[OOC] Jonathan Jackson: Welcome back
+[14:37:29]	Ryan Maley entered observer.
+[14:37:31]	[OOC] Ryan Maley: howdy
+[14:37:45]	[OOC] Jonathan Jackson: hOla
+[14:38:22]	Jonathan Jackson ran 'EquipUn' on item 'Green Citizen Suit' (#28351)
+[14:38:41]	[OOC] Ryan Maley: i am making crafitng recipes
+[14:39:15]	Ryan Maley has spawned 'models/mosi/fallout4/props/junk/components/fertilizer.mdl'.
+[14:39:29]	Ryan Maley exited observer at their location.
+[14:39:29]	Ryan Maley has taken 1 damage from worldspawn.
+[14:39:29]	Ryan Maley has taken 1 damage from worldspawn.
+[14:39:30]	Ryan Maley entered observer.
+[14:39:32]	Ryan Maley has spawned 'models/mosi/fallout4/props/junk/kickball.mdl'.
+[14:39:38]	Ryan Maley has spawned 'models/mosi/fallout4/props/junk/lighter.mdl'.
+[14:39:40]	Ryan Maley has spawned 'models/mosi/fallout4/props/junk/locket.mdl'.
+[14:39:43]	Ryan Maley has spawned 'models/mosi/fallout4/props/junk/lighter.mdl'.
+[14:40:07]	Ryan Maley has spawned 'models/mosi/fallout4/props/junk/wonderglue_large.mdl'.
+[14:40:12]	Ryan Maley used command '/ToggleRaise'.
+[14:40:21]	Ryan Maley has spawned 'models/mosi/fallout4/props/junk/gasolinecanister.mdl'.
+[14:40:27]	[OOC] Jonathan Jackson: Crafting is great 
+[14:40:32]	[OOC] Ryan Maley: crafting is dope as shit
+[14:40:33]	Ryan Maley has spawned 'models/mosi/fallout4/props/junk/globe02.mdl'.
+[14:40:37]	Ryan Maley has spawned 'models/mosi/fallout4/props/junk/camera.mdl'.
+[14:40:39]	Ryan Maley has spawned 'models/mosi/fallout4/props/junk/camera.mdl'.
+[14:40:43]	Ryan Maley has spawned 'models/mosi/fallout4/props/junk/bloatflygland.mdl'.
+[14:40:44]	[OOC] Jonathan Jackson: Even greater if I could find places to hold items used for crafting
+[14:41:06]	[OOC] Ryan Maley: may i offer you a nice ix_container in this trying time
+[14:41:12]	[OOC] Jonathan Jackson: lmao
+[14:41:15]	Jonathan Jackson opened the '' #2726 container.
+[14:41:17]	[OOC] Ryan Maley: i actually stole a crate from dilly's old shop
+[14:41:18]	Jonathan Jackson closed the '' #2726 container.
+[14:41:20]	[OOC] Ryan Maley: the abandoned one
+[14:41:23]	[OOC] Ryan Maley: and hit it in the CZ
+[14:41:36]	[OOC] Jonathan Jackson: I only know of one crate in the CZ 
+[14:41:44]	[OOC] Ryan Maley: hid*
+[14:42:20]	[OOC] Jonathan Jackson: I am requiring someone to tell me to pick up a can
+[14:43:28]	[OOC] Ryan Maley: one second
+[14:43:31]	Ryan Maley exited observer at their location.
+[14:43:31]	Ryan Maley has taken 1 damage from worldspawn.
+[14:43:32]	Ryan Maley has taken 1 damage from worldspawn.
+[14:43:33]	Ryan Maley has taken 1 damage from worldspawn.
+[14:43:34]	Ryan Maley has taken 1 damage from worldspawn.
+[14:43:35]	Ryan Maley has taken 1 damage from worldspawn.
+[14:43:35]	matt saton loaded the character 'CCA.C17-GRID.i3.10945'
+[14:43:36]	CCA.C17-GRID.i3.10945 entered observer.
+[14:43:39]	CCA.C17-GRID.i3.10945 exited observer at their location.
+[14:44:10]	Jonathan Jackson ran 'drop' on item 'Armor Scraps' (#27873)
+[14:44:10]	Jonathan Jackson has lost a 'Armor Scraps' #27873.
+[14:44:12]	Jonathan Jackson ran 'drop' on item 'Resin' (#27915)
+[14:44:12]	Jonathan Jackson has lost a 'Resin' #27915.
+[14:44:13]	CCA.C17-GRID.i3.10945 ran 'take' on item 'Armor Scraps' (#27873)
+[14:44:13]	CCA.C17-GRID.i3.10945 has gained a 'Armor Scraps' #27873.
+[14:44:15]	CCA.C17-GRID.i3.10945 ran 'take' on item 'Resin' (#27915)
+[14:44:15]	CCA.C17-GRID.i3.10945 has gained a 'Resin' #27915.
+[14:44:26]	[ME] CCA.C17-GRID.i3.10945: takes out his PDA and types a few things on it.
+[14:45:08]	[ME] CCA.C17-GRID.i3.10945: would read off of the screen.
+[14:45:25]	[LOOC] CCA.C17-GRID.i3.10945: hmmm radio is broken that's funb
+[14:45:28]	CCA.C17-GRID.i3.10945 used command '/rooc test'.
+[14:45:31]	CCA.C17-GRID.i3.10945 used command '/rooc Judge.'.
+[14:45:34]	CCA.C17-GRID.i3.10945 used command '/Radio Judge.'.
+[14:45:39]	[LOOC] CCA.C17-GRID.i3.10945: oh it's radio voicelines
+[14:45:47]	[LOOC] Jonathan Jackson: lol
+[14:46:25]	CCA.C17-GRID.i3.10945 used command '/Radio I've got a piece of contraband here, it's a scrap of kevlar, what should I classify it as?'.
+[14:46:59]	[ME] Jonathan Jackson: stretches slightly while waiting.
+[14:47:21]	CCA.C17-GRID.i3.10945 used command '/Radio Green, copy that.'.
+[14:47:33]	[ME] CCA.C17-GRID.i3.10945: holds up the resin.
+[14:48:12]	[ME] CCA.C17-GRID.i3.10945: reaches into a satchel on his toolbelt and counts out 3 coins.
+[14:48:34]	[ME] CCA.C17-GRID.i3.10945: drops another of them back into his satchel and then slides two 5-pieces onto the counter.
+[14:48:35]	CCA.C17-GRID.i3.10945 has gained 10 tokens.
+[14:48:37]	CCA.C17-GRID.i3.10945 has lost 10 tokens.
+[14:48:37]	CCA.C17-GRID.i3.10945 used command '/DropTokens 10'.
+[14:48:51]	[ME] Jonathan Jackson: takes the tokens and places it in his side pocket.
+[14:48:52]	Jonathan Jackson has gained 10 tokens.
+[14:49:00]	[ME] CCA.C17-GRID.i3.10945: bends down slightly and places the resin into a bin under the desk.
+[14:49:05]	CCA.C17-GRID.i3.10945 ran 'drop' on item 'Resin' (#27915)
+[14:49:05]	CCA.C17-GRID.i3.10945 has lost a 'Resin' #27915.
+[14:49:08]	Jonathan Jackson used command '/Apply'.
+[14:49:18]	[ME] CCA.C17-GRID.i3.10945: types the man's CID into his PDA.
+[14:49:19]	CCA.C17-GRID.i3.10945 used command '/ViewData jackson'.
+[14:51:11]	CCA.C17-GRID.i3.10945 used command '/ViewData jon'.
+[14:51:43]	CCA.C17-GRID.i3.10945 ran 'take' on item 'Resin' (#27915)
+[14:51:43]	CCA.C17-GRID.i3.10945 has gained a 'Resin' #27915.
+[14:52:05]	CCA.C17-GRID.i3.10945 ran 'View' on item 'Notepad' (#24315)
+[14:52:08]	CCA.C17-GRID.i3.10945 ran 'take' on item 'Notepad' (#24315)
+[14:52:08]	CCA.C17-GRID.i3.10945 has gained a 'Notepad' #24315.
+[14:52:10]	CCA.C17-GRID.i3.10945 ran 'Edit' on item 'Notepad' (#24315)
+[14:52:18]	CCA.C17-GRID.i3.10945 ran 'View' on item 'Notepad' (#24315)
+[14:52:23]	[OOC] Jonathan Jackson: I need to go afk for a bit so I'll be back in a bit
+[14:52:28]	CCA.C17-GRID.i3.10945 ran 'Edit' on item 'Notepad' (#24315)
+[14:52:49]	CCA.C17-GRID.i3.10945 entered observer.
+[14:52:53]	CCA.C17-GRID.i3.10945 exited observer at their location.
+[14:52:55]	Painevan loaded the character 'Otto Von Habsburg'
+[14:52:56]	CCA.C17-GRID.i3.10945 entered observer.
+[14:53:03]	[OOC] CCA.C17-GRID.i3.10945: YOOO IT'S OTTOOOO
+[14:53:07]	[OOC] CCA.C17-GRID.i3.10945: also ight
+[14:53:14]	[OOC] CCA.C17-GRID.i3.10945: ty for not disocnnectinbg
+[14:53:15]	CCA.C17-GRID.i3.10945 exited observer at their location.
+[14:53:16]	CCA.C17-GRID.i3.10945 entered observer.
+[14:53:20]	CCA.C17-GRID.i3.10945 exited observer at their location.
+[14:53:21]	[OOC] Otto Von Habsburg: np
+[14:53:35]	CCA.C17-GRID.i3.10945 has gained 10 tokens.
+[14:54:15]	CCA.C17-GRID.i3.10945 has spawned 'models/mosi/fallout4/props/junk/components/steel.mdl'.
+[14:54:16]	CCA.C17-GRID.i3.10945 entered observer.
+[14:54:22]	CCA.C17-GRID.i3.10945 has spawned 'models/mosi/fallout4/props/junk/components/gold.mdl'.
+[14:55:09]	CCA.C17-GRID.i3.10945 has spawned 'models/mosi/fallout4/props/junk/components/gold.mdl'.
+[14:55:46]	CCA.C17-GRID.i3.10945 exited observer at their location.
+[14:55:47]	CCA.C17-GRID.i3.10945 entered observer.
+[14:55:47]	CCA.C17-GRID.i3.10945 exited observer at their location.
+[14:55:49]	CCA.C17-GRID.i3.10945 entered observer.
+[14:55:54]	CCA.C17-GRID.i3.10945 exited observer at their location.
+[14:56:28]	CCA.C17-GRID.i3.10945 has spawned 'models/mosi/fallout4/props/junk/components/gold.mdl'.
+[14:56:30]	CCA.C17-GRID.i3.10945 entered observer.
+[14:56:31]	CCA.C17-GRID.i3.10945 exited observer at their location.
+[14:56:41]	CCA.C17-GRID.i3.10945 has spawned 'models/mosi/fallout4/props/junk/components/gold.mdl'.
+[14:56:42]	CCA.C17-GRID.i3.10945 has spawned 'models/mosi/fallout4/props/junk/components/gold.mdl'.
+[14:56:44]	CCA.C17-GRID.i3.10945 has spawned 'models/mosi/fallout4/props/junk/components/lead.mdl'.
+[14:56:46]	CCA.C17-GRID.i3.10945 has spawned 'models/mosi/fallout4/props/junk/components/silver.mdl'.
+[14:56:48]	CCA.C17-GRID.i3.10945 has spawned 'models/mosi/fallout4/props/junk/components/steel.mdl'.
+[14:56:49]	CCA.C17-GRID.i3.10945 entered observer.
+[14:57:01]	CCA.C17-GRID.i3.10945 has spawned 'models/mosi/fallout4/props/junk/components/steel.mdl'.
+[14:57:07]	CCA.C17-GRID.i3.10945 has spawned 'models/mosi/fallout4/props/junk/components/lead.mdl'.
+[14:57:10]	CCA.C17-GRID.i3.10945 has spawned 'models/mosi/fallout4/props/junk/components/steel.mdl'.
+[14:57:10]	CCA.C17-GRID.i3.10945 has spawned 'models/mosi/fallout4/props/junk/components/lead.mdl'.
+[14:57:18]	CCA.C17-GRID.i3.10945 has spawned 'models/mosi/fallout4/props/junk/components/aluminum.mdl'.
+[14:57:23]	CCA.C17-GRID.i3.10945 has spawned 'models/mosi/fallout4/props/junk/components/aluminum.mdl'.
+[14:57:27]	CCA.C17-GRID.i3.10945 has spawned 'models/mosi/fallout4/props/junk/components/aluminum.mdl'.
+[14:57:30]	CCA.C17-GRID.i3.10945 has spawned 'models/mosi/fallout4/props/junk/components/steel.mdl'.
+[14:57:39]	CCA.C17-GRID.i3.10945 exited observer at their location.
+[14:57:44]	matt saton loaded the character 'Ryan Maley'
+[14:57:44]	Otto Von Habsburg has killed Otto Von Habsburg.
+[14:57:44]	Ryan Maley has taken 1 damage from worldspawn.
+[14:57:45]	Ryan Maley has taken 1 damage from worldspawn.
+[14:57:45]	Ryan Maley entered observer.
+[14:58:06]	Ryan Maley has spawned 'models/mosi/fallout4/props/junk/components/lead.mdl'.
+[14:58:08]	Ryan Maley has spawned 'models/mosi/fallout4/props/junk/components/steel.mdl'.
+[14:58:10]	Ryan Maley has spawned 'models/mosi/fallout4/props/junk/components/silver.mdl'.
+[14:58:12]	Ryan Maley has spawned 'models/mosi/fallout4/props/junk/components/silver.mdl'.
+[14:58:14]	Ryan Maley has spawned 'models/mosi/fallout4/props/junk/components/silver.mdl'.
+[14:58:18]	Ryan Maley has spawned 'models/mosi/fallout4/props/junk/components/gold.mdl'.
+[14:58:19]	Ryan Maley has spawned 'models/mosi/fallout4/props/junk/components/lead.mdl'.
+[14:58:21]	Ryan Maley has spawned 'models/mosi/fallout4/props/junk/components/lead.mdl'.
+[14:58:23]	Ryan Maley has spawned 'models/mosi/fallout4/props/junk/components/steel.mdl'.
+[14:58:25]	Ryan Maley has spawned 'models/mosi/fallout4/props/junk/components/steel.mdl'.
+[14:58:27]	Ryan Maley has spawned 'models/mosi/fallout4/props/junk/components/steel.mdl'.
+[14:58:33]	Ryan Maley has spawned 'models/mosi/fallout4/props/junk/components/aluminum.mdl'.
+[14:58:35]	Ryan Maley has spawned 'models/mosi/fallout4/props/junk/components/aluminum.mdl'.
+[14:58:37]	Ryan Maley has spawned 'models/mosi/fallout4/props/junk/components/aluminum.mdl'.
+[14:58:38]	Ryan Maley has spawned 'models/mosi/fallout4/props/junk/components/aluminum.mdl'.
+[14:58:40]	Ryan Maley has spawned 'models/mosi/fallout4/props/junk/components/aluminum.mdl'.
+[14:58:42]	Ryan Maley has spawned 'models/mosi/fallout4/props/junk/components/aluminum.mdl'.
+[14:58:44]	Ryan Maley has spawned 'models/mosi/fallout4/props/junk/components/gold.mdl'.
+[14:58:46]	Ryan Maley has spawned 'models/mosi/fallout4/props/junk/components/gold.mdl'.
+[14:58:48]	Ryan Maley has spawned 'models/mosi/fallout4/props/junk/components/lead.mdl'.
+[14:58:51]	Ryan Maley has spawned 'models/mosi/fallout4/props/junk/components/silver.mdl'.
+[14:58:53]	Ryan Maley has spawned 'models/mosi/fallout4/props/junk/components/silver.mdl'.
+[14:58:54]	Ryan Maley has spawned 'models/mosi/fallout4/props/junk/components/silver.mdl'.
+[14:58:57]	Ryan Maley has spawned 'models/mosi/fallout4/props/junk/components/steel.mdl'.
+[14:58:58]	Ryan Maley has spawned 'models/mosi/fallout4/props/junk/components/steel.mdl'.
+[14:59:05]	Ryan Maley has spawned 'models/mosi/fallout4/props/junk/components/aluminum.mdl'.
+[14:59:06]	Ryan Maley has spawned 'models/mosi/fallout4/props/junk/components/aluminum.mdl'.
+[15:07:05]	Ryan Maley exited observer at their location.
+[15:07:06]	Ryan Maley entered observer.
+[15:07:06]	Ryan Maley exited observer at their location.
+[15:07:07]	Ryan Maley entered observer.
+[15:07:07]	Ryan Maley exited observer at their location.
+[15:07:18]	Ryan Maley has taken 1 damage from worldspawn.
+[15:07:18]	Ryan Maley has taken 1 damage from worldspawn.
+[15:07:19]	Ryan Maley entered observer.
+[15:07:21]	Ryan Maley exited observer at their location.
+[15:07:23]	Ryan Maley has taken 1 damage from worldspawn.
+[15:07:23]	Ryan Maley has taken 1 damage from worldspawn.
+[15:07:24]	Ryan Maley has taken 1 damage from worldspawn.
+[15:07:28]	Ryan Maley has spawned a 'Entity [886][ix_airvent]'.
+[15:07:32]	Ryan Maley entered observer.
+[15:07:37]	Ryan Maley exited observer at their location.
+[15:07:39]	Ryan Maley entered observer.
+[15:07:41]	Ryan Maley exited observer at their location.
+[15:07:50]	Ryan Maley entered observer.
+[15:08:07]	Ryan Maley exited observer at their location.
+[15:08:56]	Ryan Maley entered observer.
+[15:14:42]	Ryan Maley used command '/adminspawnmenu'.
+[15:16:55]	Ryan Maley has spawned 'models/tnb/weapons/w_glock.mdl'.
+[15:16:55]	Ryan Maley has spawned 'models/tnb/weapons/ammo/glock.mdl'.
+[15:17:01]	Ryan Maley has spawned 'models/tnb/weapons/ammo/glock.mdl'.
+[15:17:02]	Ryan Maley has spawned 'models/tnb/weapons/w_glock.mdl'.
+[15:17:17]	Ryan Maley has spawned 'models/tnb/weapons/c_mp7.mdl'.
+[15:17:19]	Ryan Maley has spawned 'models/tnb/weapons/c_glock.mdl'.
+[15:17:20]	Ryan Maley has spawned 'models/tnb/weapons/w_glock.mdl'.
+[15:17:27]	Ryan Maley has spawned 'models/tnb/weapons/ammo/glock.mdl'.
+[15:18:00]	Ryan Maley has spawned 'models/shells/shell_556.mdl'.
+[15:18:01]	Ryan Maley has spawned 'models/shells/shell_762nato.mdl'.
+[15:18:10]	Ryan Maley has spawned 'models/Items/BoxMRounds.mdl'.
+[15:18:12]	Ryan Maley has spawned 'models/Items/357ammo.mdl'.
+[15:18:15]	Ryan Maley has spawned 'models/Items/357ammobox.mdl'.
+[15:18:19]	Ryan Maley has spawned 'models/Items/357ammo.mdl'.
+[15:18:22]	Ryan Maley has spawned 'models/Items/357ammobox.mdl'.
+[15:18:24]	Ryan Maley has spawned 'models/Items/357ammo.mdl'.
+[15:18:25]	Ryan Maley has spawned 'models/Items/BoxMRounds.mdl'.
+[15:28:24]	Otto Von Habsburg has gained a '4.6x30 Rounds' #29213.
+[15:28:24]	Ryan Maley used command '/CharGiveItem g 4.6x30'.
+[15:28:47]	Ryan Maley has gained a '4.6x30 Rounds' #29213.
+[16:34:30]	cell has connected.
+[16:34:30]	Otto Von Habsburg has killed Otto Von Habsburg.
+[16:37:52]	cell loaded the character 'Seva Smoker'
+[16:37:52]	Otto Von Habsburg has killed Otto Von Habsburg.
+[16:38:21]	Seva Smoker opened the '' #2726 container.
+[16:38:25]	Seva Smoker closed the '' #2726 container.
+[16:43:45]	Seva Smoker ran 'View' on item 'Paper' (#26647)
+[16:44:07]	Seva Smoker ran 'take' on item 'Green Citizen Suit' (#28756)
+[16:44:07]	Seva Smoker has gained a 'Green Citizen Suit' #28756.
+[16:44:32]	cell (STEAM_0:1:215437968) has disconnected.
+[17:25:36]	Painevan loaded the character 'Jonathan Jackson'
+[17:26:17]	Jonathan Jackson ran 'View' on item 'Paper' (#26871)
+[17:27:03]	Jonathan Jackson opened the '' #2404 container.
+[17:27:05]	Jonathan Jackson closed the '' #2404 container.
+[17:27:10]	Jonathan Jackson opened the '' #2403 container.
+[17:27:12]	Jonathan Jackson closed the '' #2403 container.
+[17:27:25]	Jonathan Jackson opened the '' #2576 container.
+[17:27:27]	Jonathan Jackson closed the '' #2576 container.
+[17:30:53]	Jonathan Jackson opened the '' #2551 container.
+[17:30:57]	Jonathan Jackson closed the '' #2551 container.
+[17:31:32]	Jonathan Jackson opened the '' #2549 container.
+[17:31:35]	Jonathan Jackson closed the '' #2549 container.
+[17:32:20]	Jonathan Jackson used the 'Shopkeeper' vendor.
+[17:32:39]	Jonathan Jackson has lost 8 tokens.
+[17:32:39]	Jonathan Jackson has gained a 'UU Brand Bandage' #29214.
+[17:32:44]	Jonathan Jackson ran 'AHealSelf' on item 'UU Brand Bandage' (#29214)
+[17:32:53]	Jonathan Jackson has lost 5 tokens.
+[17:32:59]	Jonathan Jackson ran 'Consume' on item 'Consulate Water' (#29214)
+[17:43:01]	[OOC] Jonathan Jackson: bac
+[17:43:58]	Jonathan Jackson ran 'Equip' on item 'Pipe' (#25364)
+[17:44:10]	Jonathan Jackson ran 'Equip' on item 'Green Citizen Suit' (#28351)
+[17:44:32]	Jonathan Jackson has taken 5 damage from npc_headcrab.
+[17:44:33]	Jonathan Jackson has taken 5 damage from npc_headcrab.
+[17:46:08]	Jonathan Jackson has gained a 'Broken Keyboard' #29216.
+[17:46:10]	Jonathan Jackson ran 'drop' on item 'Broken Keyboard' (#29216)
+[17:46:10]	Jonathan Jackson has lost a 'Broken Keyboard' #29216.
+[17:47:05]	Jonathan Jackson has gained a 'Scrap Plastic' #29217.
+[17:47:38]	Jonathan Jackson has gained a 'Empty Tin Can' #29218.
+[17:47:49]	Jonathan Jackson has gained a 'Empty Consulate Water Can' #29219.
+[17:47:52]	Jonathan Jackson ran 'drop' on item 'Empty Consulate Water Can' (#29219)
+[17:47:52]	Jonathan Jackson has lost a 'Empty Consulate Water Can' #29219.
+[17:47:54]	Jonathan Jackson ran 'drop' on item 'Empty Tin Can' (#29218)
+[17:47:54]	Jonathan Jackson has lost a 'Empty Tin Can' #29218.
+[17:47:55]	Jonathan Jackson ran 'drop' on item 'Scrap Plastic' (#29217)
+[17:47:55]	Jonathan Jackson has lost a 'Scrap Plastic' #29217.
+[17:48:00]	Jonathan Jackson has gained a 'Radio Case' #29220.
+[17:48:17]	Jonathan Jackson has gained a 'Blood Collecting Syringe' #29221.
+[17:48:19]	Jonathan Jackson ran 'drop' on item 'Blood Collecting Syringe' (#29221)
+[17:48:19]	Jonathan Jackson has lost a 'Blood Collecting Syringe' #29221.
+[17:48:36]	Jonathan Jackson has gained a 'Empty Flavored Consulate Water Can' #29222.
+[17:48:37]	Jonathan Jackson ran 'drop' on item 'Empty Flavored Consulate Water Can' (#29222)
+[17:48:37]	Jonathan Jackson has lost a 'Empty Flavored Consulate Water Can' #29222.
+[17:48:58]	Jonathan Jackson has gained a 'Capacitors' #29223.
+[17:49:13]	Jonathan Jackson has gained a 'Power Supply Unit' #29224.
+[17:49:38]	Jonathan Jackson ran 'take' on item 'Shovel' (#29225)
+[17:49:43]	Jonathan Jackson ran 'drop' on item 'Power Supply Unit' (#29224)
+[17:49:43]	Jonathan Jackson has lost a 'Power Supply Unit' #29224.
+[17:49:48]	Jonathan Jackson ran 'take' on item 'Shovel' (#29225)
+[17:49:48]	Jonathan Jackson has gained a 'Shovel' #29225.
+[17:49:51]	Jonathan Jackson ran 'Equip' on item 'Shovel' (#29225)
+[17:49:53]	Jonathan Jackson ran 'EquipUn' on item 'Pipe' (#25364)
+[17:49:54]	Jonathan Jackson ran 'Equip' on item 'Shovel' (#29225)
+[17:50:25]	Jonathan Jackson ran 'drop' on item 'Shovel' (#29225)
+[17:50:25]	Jonathan Jackson has lost a 'Shovel' #29225.
+[17:50:30]	Jonathan Jackson ran 'Equip' on item 'Pipe' (#25364)
+[17:50:34]	Jonathan Jackson ran 'take' on item 'Power Supply Unit' (#29224)
+[17:50:34]	Jonathan Jackson has gained a 'Power Supply Unit' #29224.
+[17:50:40]	Jonathan Jackson ran 'take' on item 'Padlock' (#29192)
+[17:50:40]	Jonathan Jackson has gained a 'Padlock' #29192.
+[17:50:49]	Jonathan Jackson has gained a 'Broken Clock' #29227.
+[17:50:51]	Jonathan Jackson ran 'drop' on item 'Broken Clock' (#29227)
+[17:50:51]	Jonathan Jackson has lost a 'Broken Clock' #29227.
+[17:51:20]	Jonathan Jackson has taken 5 damage from npc_headcrab_poison.
+[17:51:20]	Jonathan Jackson has taken 81 damage from npc_headcrab_poison.
+[17:52:03]	Jonathan Jackson has gained a 'Light Bulb' #29228.
+[17:52:07]	Jonathan Jackson ran 'drop' on item 'Light Bulb' (#29228)
+[17:52:07]	Jonathan Jackson has lost a 'Light Bulb' #29228.
+[17:53:47]	Jonathan Jackson ran 'take' on item 'Blue Pre-War Shirt' (#29232)
+[17:53:47]	Jonathan Jackson has gained a 'Blue Pre-War Shirt' #29232.
+[17:53:51]	Jonathan Jackson ran 'EquipUn' on item 'Green Citizen Suit' (#28351)
+[17:53:52]	Jonathan Jackson ran 'Equip' on item 'Blue Pre-War Shirt' (#29232)
+[17:53:54]	Jonathan Jackson ran 'EquipUn' on item 'Blue Pre-War Shirt' (#24423)
+[17:53:56]	Jonathan Jackson ran 'Equip' on item 'Blue Pre-War Shirt' (#24423)
+[17:53:59]	Jonathan Jackson ran 'drop' on item 'Blue Pre-War Shirt' (#29232)
+[17:53:59]	Jonathan Jackson has lost a 'Blue Pre-War Shirt' #29232.
+[17:54:00]	Jonathan Jackson ran 'Equip' on item 'Green Citizen Suit' (#28351)
+[17:54:22]	Jonathan Jackson has gained a 'Scrap Plastic' #29234.
+[17:54:27]	Jonathan Jackson ran 'drop' on item 'Scrap Plastic' (#29234)
+[17:54:27]	Jonathan Jackson has lost a 'Scrap Plastic' #29234.
+[17:54:40]	Jonathan Jackson opened the '' #244 container.
+[17:54:42]	Jonathan Jackson closed the '' #244 container.
+[17:54:43]	Jonathan Jackson opened the '' #243 container.
+[17:54:56]	Jonathan Jackson has gained a 'Refined Metal' #27822.
+[17:54:59]	Jonathan Jackson closed the '' #243 container.
+[17:55:24]	Jonathan Jackson opened the '' #2418 container.
+[17:55:26]	Jonathan Jackson closed the '' #2418 container.
+[17:56:29]	Jonathan Jackson has gained a 'Empty Pill Bottle' #29235.
+[17:56:44]	Jonathan Jackson has gained 20 tokens.
+[17:56:54]	Jonathan Jackson has gained a 'Empty Sparkling Consulate Water Can' #29236.
+[17:56:58]	Jonathan Jackson ran 'drop' on item 'Empty Sparkling Consulate Water Can' (#29236)
+[17:56:58]	Jonathan Jackson has lost a 'Empty Sparkling Consulate Water Can' #29236.
+[17:56:59]	Jonathan Jackson ran 'drop' on item 'Empty Pill Bottle' (#29235)
+[17:56:59]	Jonathan Jackson has lost a 'Empty Pill Bottle' #29235.
+[17:58:21]	Jonathan Jackson has taken 5 damage from npc_antlion.
+[17:58:22]	Jonathan Jackson has taken 5 damage from npc_antlion.
+[17:58:24]	Jonathan Jackson has taken 5 damage from npc_antlion.
+[17:58:55]	Jonathan Jackson has taken 5 damage from npc_antlion.
+[17:59:07]	Jonathan Jackson has taken 5 damage from npc_antlion.
+[17:59:08]	Jonathan Jackson has taken 5 damage from npc_antlion.
+[17:59:54]	Jonathan Jackson has taken 5 damage from npc_antlion.
+[18:01:25]	Jonathan Jackson has taken 5 damage from npc_antlion.
+[18:01:48]	Jonathan Jackson has taken 10 damage from npc_antlion.
+[18:06:59]	Jonathan Jackson has gained 10 tokens.
+[18:09:09]	Jonathan Jackson has gained a 'Wires' #29241.
+[18:10:04]	Jonathan Jackson ran 'take' on item 'Padlock' (#29242)
+[18:10:04]	Jonathan Jackson has gained a 'Padlock' #29242.
+[18:10:59]	Jonathan Jackson has gained a 'Broken LCD Monitor' #29244.
+[18:11:02]	Jonathan Jackson ran 'drop' on item 'Broken LCD Monitor' (#29244)
+[18:11:02]	Jonathan Jackson has lost a 'Broken LCD Monitor' #29244.
+[18:12:44]	Jonathan Jackson has gained 20 tokens.
+[18:13:15]	Jonathan Jackson has gained a 'Silicone Tube' #29247.
+[18:13:18]	Jonathan Jackson ran 'drop' on item 'Silicone Tube' (#29247)
+[18:13:18]	Jonathan Jackson has lost a 'Silicone Tube' #29247.
+[18:13:33]	Jonathan Jackson has gained a 'Empty Pill Bottle' #29248.
+[18:13:37]	Jonathan Jackson ran 'drop' on item 'Empty Pill Bottle' (#29248)
+[18:13:37]	Jonathan Jackson has lost a 'Empty Pill Bottle' #29248.
+[18:14:39]	Jonathan Jackson opened the '' #235 container.
+[18:14:56]	Jonathan Jackson closed the '' #235 container.
+[18:15:31]	Jonathan Jackson ran 'EquipUn' on item 'Pipe' (#25364)
+[18:15:35]	Jonathan Jackson ran 'EquipUn' on item 'Green Citizen Suit' (#28351)
+[18:17:23]	Jonathan Jackson opened the '' #2551 container.
+[18:17:26]	Jonathan Jackson ran 'drop' on item 'Pliers' (#28954)
+[18:17:28]	Jonathan Jackson closed the '' #2551 container.
+[18:17:31]	Jonathan Jackson ran 'take' on item 'Pliers' (#28954)
+[18:17:31]	Jonathan Jackson has gained a 'Pliers' #28954.
+[18:17:40]	Jonathan Jackson opened the '' #2549 container.
+[18:17:45]	Jonathan Jackson closed the '' #2549 container.
+[18:18:10]	Jonathan Jackson opened the '' #2726 container.
+[18:18:13]	Jonathan Jackson closed the '' #2726 container.
+[18:18:33]	Jonathan Jackson used the 'Shopkeeper' vendor.
+[18:18:41]	Jonathan Jackson has lost 8 tokens.
+[18:18:41]	Jonathan Jackson has gained a 'UU Brand Bandage' #29250.
+[18:18:42]	Jonathan Jackson has lost 8 tokens.
+[18:18:42]	Jonathan Jackson has gained a 'UU Brand Bandage' #29251.
+[18:18:50]	Jonathan Jackson ran 'AHealSelf' on item 'UU Brand Bandage' (#29251)
+[18:18:55]	Jonathan Jackson ran 'AHealSelf' on item 'UU Brand Bandage' (#29250)
+[18:19:10]	Jonathan Jackson opened the '' #308 container.
+[18:19:12]	Jonathan Jackson closed the '' #308 container.
+[18:19:34]	Jonathan Jackson ran 'View' on item 'Paper' (#28725)
+[18:20:17]	Jonathan Jackson ran 'EquipUn' on item 'Respirator' (#28465)
+[18:21:43]	Jonathan Jackson has taken 1 damage from worldspawn.
+[18:21:44]	Jonathan Jackson has taken 1 damage from worldspawn.
+[18:21:45]	Jonathan Jackson has taken 1 damage from worldspawn.
+[18:21:48]	Jonathan Jackson ran 'Equip' on item 'Respirator' (#28465)
+[18:45:15]	Painevan (STEAM_0:0:68118061) has disconnected.
+[22:55:32]	Nums (STEAM_0:1:196547442) has disconnected (timed out).
+[23:10:32]	Ryan Maley has spawned 'models/industrial_uniforms/industrial_uniform.mdl'.
+[23:10:41]	Ryan Maley has spawned 'models/industrial_uniforms/pm_industrial_uniform2.mdl'.
+[23:26:33]	Nums has connected.
+[23:27:05]	Nums loaded the character 'Finan O'Conall'
+[23:27:17]	[OOC] Finan O'Conall: lil lad
+[23:29:14]	Finan O'Conall destroyed a 'Silicone Tube' #29247.
+[23:29:15]	Finan O'Conall destroyed a 'Broken Clock' #29227.
+[23:29:15]	Finan O'Conall destroyed a 'Shovel' #29225.
+[23:29:19]	Finan O'Conall destroyed a 'Broken LCD Monitor' #29244.
+[23:29:33]	Finan O'Conall destroyed a 'A Roll of Toilet Paper' #29194.
+[23:29:37]	Finan O'Conall destroyed a 'Scrap Metal' #29189.
+[23:29:44]	Finan O'Conall destroyed a 'Powercord' #29245.
+[23:30:20]	Finan O'Conall destroyed a 'Scrap Plastic' #29198.
+[23:30:54]	Finan O'Conall destroyed a 'Pack of Screws' #29233.
+[23:30:58]	Finan O'Conall opened the '' #244 container.
+[23:31:01]	Finan O'Conall closed the '' #244 container.
+[23:31:14]	Finan O'Conall destroyed a 'Blue Pre-War Shirt' #29232.
+[23:31:46]	Finan O'Conall destroyed a 'Blue Pre-War Shirt' #29239.
+[23:32:12]	Finan O'Conall destroyed a 'Scrap Metal' #29037.
+[23:32:26]	Finan O'Conall destroyed a 'Bleach' #29199.
+[23:32:29]	Finan O'Conall destroyed a 'Scrap Glass' #28865.
+[23:34:15]	Finan O'Conall destroyed a 'Cloth Scrap' #29038.
+[23:34:17]	Finan O'Conall destroyed a 'Fingerless Gloves' #29145.
+[23:34:20]	Finan O'Conall destroyed a 'Fingerless Gloves' #28985.
+[23:34:23]	Finan O'Conall destroyed a 'Scrap Metal' #28866.
+[23:34:24]	Finan O'Conall destroyed a 'Light Bulb' #28863.
+[23:36:53]	Finan O'Conall destroyed a 'Pack of Nails' #29238.
+[23:37:40]	Finan O'Conall destroyed a 'Screwdriver' #29202.
+[23:37:45]	Finan O'Conall destroyed a 'Empty Consulate Water Can' #29219.
+[23:37:46]	Finan O'Conall destroyed a 'Empty Tin Can' #29218.
+[23:37:47]	Finan O'Conall destroyed a 'Scrap Plastic' #29217.
+[23:37:48]	Finan O'Conall destroyed a 'Boot' #29203.
+[23:37:59]	Finan O'Conall destroyed a 'Broken Clock' #29187.
+[23:38:29]	[OOC] Ryan Maley: God i'm the fucking besrt
+[23:38:38]	[OOC] Finan O'Conall: clap clap*
+[23:39:29]	Nums loaded the character 'CCA.C14-RCT.77460'
+[23:39:41]	[OOC] Ryan Maley: look at the new crafting menu
+[23:39:44]	[OOC] Ryan Maley: wellnot nnew but
+[23:39:45]	[OOC] Ryan Maley: expanded
+[23:39:51]	[OOC] Ryan Maley: i have a LOT of work to do but i adde some stuff in
+[23:40:06]	Spooky Wolf has connected.
+[23:40:08]	[OOC] CCA.C14-RCT.77460: I have concerns
+[23:40:23]	Ryan Maley used command '/CharSetName c14 CCA.C17-RCT.77460'.
+[23:40:30]	Ryan Maley used command '/CharSetModel rct models/police_nemez.mdl'.
+[23:40:36]	Ryan Maley used command '/CharSetSkin rct 4'.
+[23:41:19]	[OOC] CCA.C17-RCT.77460: how does one craft something like a crossbow when it is nearly impossible to get to 80 eng
+[23:41:33]	[OOC] Ryan Maley: one step at a time
+[23:41:42]	[OOC] CCA.C17-RCT.77460: fair fair
+[23:41:56]	[OOC] CCA.C17-RCT.77460: but dont be shocked if I come to you with the requirements and try to pull a fast one
+[23:42:13]	Spooky Wolf loaded the character 'Anastasia Ivanovich'
+[23:42:17]	[OOC] Ryan Maley: check out the breakdown hazmat suit recipe
+[23:42:59]	Anastasia Ivanovich ran 'EquipUn' on item 'Infestation Control Suit' (#28109)
+[23:43:12]	Ryan Maley exited observer at their location.
+[23:43:12]	Ryan Maley has taken 1 damage from worldspawn.
+[23:43:13]	Ryan Maley has taken 1 damage from worldspawn.
+[23:43:13]	Ryan Maley entered observer.
+[23:43:13]	[OOC] Anastasia Ivanovich: I am here
+[23:43:17]	[OOC] Ryan Maley: why
+[23:43:25]	[OOC] Anastasia Ivanovich: to haunt your server for a couple of days
+[23:43:29]	[OOC] CCA.C17-RCT.77460: What're you on about I don't seeit
+[23:43:29]	[OOC] Anastasia Ivanovich: and then disappear
+[23:43:40]	[OOC] Ryan Maley: oh sorry, infestation control suit i mean
+[23:43:50]	[OOC] Anastasia Ivanovich: why does my console get flooded
+[23:43:51]	[OOC] Ryan Maley: shows the actual model of the suit rather than
+[23:43:57]	[OOC] CCA.C17-RCT.77460: two teflon?
+[23:44:21]	[OOC] Ryan Maley: because i forgot to take out the debug PrintTable calls :sadtroll:
+[23:44:24]	[OOC] Ryan Maley: two teflon indeed
+[23:44:29]	CCA.C17-RCT.77460 has gained 10 tokens.
+[23:44:30]	[OOC] Ryan Maley: it's more than it sounds like
+[23:44:35]	[OOC] Ryan Maley: as far as crafting economy goes
+[23:44:50]	[OOC] CCA.C17-RCT.77460: The crafting economy no exist
+[23:45:10]	[OOC] Ryan Maley: it will damn you
+[23:45:22]	[OOC] Anastasia Ivanovich: I crashed
+[23:45:26]	[OOC] Anastasia Ivanovich: my discord trying to show the error
+[23:45:34]	[OOC] CCA.C17-RCT.77460: I hope, rebel RP could be so well on this server
+[23:45:47]	[OOC] Ryan Maley: oh nums you haven't seen my spreadsheeta
+[23:46:05]	[OOC] CCA.C17-RCT.77460: why do you think I made finan, also no I have not
+[23:46:42]	Nums loaded the character 'Finan O'Conall'
+[23:47:17]	[OOC] Ryan Maley: hold on let me find it
+[23:48:55]	Anastasia Ivanovich ran 'View' on item 'Paper' (#26871)
+[23:49:09]	Anastasia Ivanovich ran 'EquipUn' on item 'Combat Knife' (#20582)
+[23:49:10]	Anastasia Ivanovich ran 'Equip' on item 'Shovel' (#20581)
+[23:50:38]	Anastasia Ivanovich opened the '' #2726 container.
+[23:50:42]	Anastasia Ivanovich closed the '' #2726 container.
+[23:50:50]	[OOC] Finan O'Conall: I actually need to talk to you about something now that I've seen these spreadsheet thingy's
+[23:52:48]	Spooky Wolf (STEAM_0:1:58209231) has disconnected.
+[23:54:31]	Finan O'Conall destroyed a 'AA Battery' #29226.
+[23:55:08]	Finan O'Conall has taken 5 damage from npc_headcrab.
+[23:55:10]	Finan O'Conall has taken 5 damage from npc_headcrab.
+[23:55:49]	Finan O'Conall destroyed a 'Scrap Metal' #29249.
+[23:56:33]	[OOC] Ryan Maley: you mean the idea board?
+[23:56:52]	[OOC] Finan O'Conall: Ok so
+[23:57:11]	[OOC] Finan O'Conall: I've got two full gas canisters how much damage could I possibly cause on the city
+[23:57:37]	[OOC] Ryan Maley: let me google some things that are definitely gonna get me on a watchlist
+[23:57:44]	[OOC] Ryan Maley: i bet there's actually away to calculate this
+[23:57:56]	[OOC] Finan O'Conall: That's what I was thinking
+[23:58:03]	[OOC] Finan O'Conall: I need a target that's the problem
+[23:59:37]	[OOC] Ryan Maley: 2000 psi

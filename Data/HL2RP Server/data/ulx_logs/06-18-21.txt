@@ -1,0 +1,3195 @@
+[03:04:26] New map: rp_city8_edit_v4r
+[17:02:02] Client "wheat" connected.
+[17:03:49] Client "wheat" spawned in server <STEAM_0:0:460056698> (took 107 seconds).
+[17:04:26] wheat<STEAM_0:0:460056698> changed their name to CAC.C08-CRM.34712
+[17:07:40] Dropped "CAC.C08-CRM.34712" from server<STEAM_0:0:460056698>
+[17:48:35] Client "FB|| light ROOM" connected.
+
+
+
+[17:53:19] New map: rp_salvation
+[17:55:59] Client "FB|| light ROOM" connected.
+[17:56:10] Client "matt saton" connected.
+[17:57:49] Client "FB|| light ROOM" spawned in server <STEAM_0:1:17219621> (took 110 seconds).
+[17:57:59] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 109 seconds).
+[17:58:25] FB|| light ROOM<STEAM_0:1:17219621> changed their name to CCA.C08-QrM.98240
+[17:58:43] matt saton<STEAM_0:1:53097688> changed their name to Kermip the Space Frog
+[17:59:04] Kermip the Space Frog<STEAM_0:1:53097688> changed their name to Administrative Character
+[17:59:39] CCA.C08-QrM.98240: // [ERROR] gamemodes/ixhl2rp/plugins/combine_hud.lua:181: bad argument #1 to 'sub' (string expected, got nil)  1. sub - [C]:-1   2. v - gamemodes/ixhl2rp/plugins/combine_hud.lua:181    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345 (x252
+[17:59:52] Administrative Character<STEAM_0:1:53097688> changed their name to CCA.C17-JUDGE.OfC.36012
+[18:00:53] CCA.C08-QrM.98240 gave Themself 245 rounds
+[18:00:53] CCA.C08-QrM.98240: !giveammo 98240 245
+[18:00:57] CCA.C08-QrM.98240 gave Themself 245 rounds
+[18:00:57] CCA.C08-QrM.98240: !giveammo 98240 245
+[18:02:19] CCA.C17-JUDGE.OfC.36012<STEAM_0:1:53097688> changed their name to Odell Cubbage
+[18:02:38] Odell Cubbage: /chargiveitem odell ota filter
+[18:03:19] CCA.C08-QrM.98240<STEAM_0:1:17219621> spawned model models/props_wasteland/controlroom_storagecloset001a.mdl
+[18:03:27] Odell Cubbage<STEAM_0:1:53097688> used the tool mapret on maps/rp_salvation.bsp
+[18:03:28] CCA.C08-QrM.98240<STEAM_0:1:17219621> spawned model models/props_wasteland/controlroom_storagecloset001a.mdl
+[18:03:28] Odell Cubbage<STEAM_0:1:53097688> used the tool mapret on maps/rp_salvation.bsp
+[18:04:04] Odell Cubbage<STEAM_0:1:53097688> used the tool mapret on maps/rp_salvation.bsp
+[18:04:29] CCA.C08-QrM.98240<STEAM_0:1:17219621> spawned model models/props_wasteland/cafeteria_table001a.mdl
+[18:04:29] Odell Cubbage<STEAM_0:1:53097688> used the tool mapret on maps/rp_salvation.bsp
+[18:04:31] CCA.C08-QrM.98240<STEAM_0:1:17219621> spawned model models/props_wasteland/controlroom_desk001b.mdl
+[18:04:35] Odell Cubbage<STEAM_0:1:53097688> used the tool mapret on maps/rp_salvation.bsp
+[18:04:49] Odell Cubbage<STEAM_0:1:53097688> used the tool mapret on maps/rp_salvation.bsp
+[18:04:56] Odell Cubbage<STEAM_0:1:53097688> used the tool mapret on maps/rp_salvation.bsp
+[18:05:01] Odell Cubbage<STEAM_0:1:53097688> used the tool mapret on maps/rp_salvation.bsp
+[18:05:02] Odell Cubbage<STEAM_0:1:53097688> used the tool mapret on maps/rp_salvation.bsp
+[18:05:07] CCA.C08-QrM.98240<STEAM_0:1:17219621> spawned model models/props_wasteland/controlroom_desk001a.mdl
+[18:05:14] CCA.C08-QrM.98240<STEAM_0:1:17219621> spawned model models/props_wasteland/controlroom_filecabinet001a.mdl
+[18:05:18] Odell Cubbage<STEAM_0:1:53097688> used the tool mapret on maps/rp_salvation.bsp
+[18:05:20] CCA.C08-QrM.98240<STEAM_0:1:17219621> spawned model models/props_wasteland/controlroom_filecabinet001a.mdl
+[18:05:22] Odell Cubbage<STEAM_0:1:53097688> used the tool mapret on maps/rp_salvation.bsp
+[18:05:23] Odell Cubbage<STEAM_0:1:53097688> used the tool mapret on maps/rp_salvation.bsp
+[18:05:27] Odell Cubbage<STEAM_0:1:53097688> used the tool mapret on maps/rp_salvation.bsp
+[18:05:30] CCA.C08-QrM.98240<STEAM_0:1:17219621> spawned model models/props_wasteland/controlroom_filecabinet001a.mdl
+[18:05:31] Odell Cubbage<STEAM_0:1:53097688> used the tool mapret on maps/rp_salvation.bsp
+[18:05:36] Odell Cubbage<STEAM_0:1:53097688> used the tool mapret on maps/rp_salvation.bsp
+[18:05:42] Odell Cubbage<STEAM_0:1:53097688> used the tool mapret on maps/rp_salvation.bsp
+[18:05:43] Odell Cubbage<STEAM_0:1:53097688> used the tool mapret on maps/rp_salvation.bsp
+[18:05:45] CCA.C08-QrM.98240<STEAM_0:1:17219621> spawned model models/props_wasteland/kitchen_shelf001a.mdl
+[18:05:53] Odell Cubbage<STEAM_0:1:53097688> used the tool mapret on maps/rp_salvation.bsp
+[18:05:55] CCA.C08-QrM.98240<STEAM_0:1:17219621> spawned model models/props_wasteland/kitchen_shelf002a.mdl
+[18:05:57] Odell Cubbage<STEAM_0:1:53097688> used the tool mapret on maps/rp_salvation.bsp
+[18:06:01] Odell Cubbage<STEAM_0:1:53097688> used the tool mapret on maps/rp_salvation.bsp
+[18:06:08] Odell Cubbage<STEAM_0:1:53097688> used the tool mapret on maps/rp_salvation.bsp
+[18:06:13] Odell Cubbage<STEAM_0:1:53097688> used the tool mapret on maps/rp_salvation.bsp
+[18:06:15] CCA.C08-QrM.98240<STEAM_0:1:17219621> spawned model models/props_wasteland/laundry_cart002.mdl
+[18:06:16] Odell Cubbage<STEAM_0:1:53097688> used the tool mapret on maps/rp_salvation.bsp
+[18:06:18] CCA.C08-QrM.98240<STEAM_0:1:17219621> spawned model models/props_wasteland/laundry_cart001.mdl
+[18:06:18] Odell Cubbage<STEAM_0:1:53097688> used the tool mapret on maps/rp_salvation.bsp
+[18:06:20] CCA.C08-QrM.98240<STEAM_0:1:17219621> spawned model models/props_wasteland/laundry_cart002.mdl
+[18:06:33] Odell Cubbage<STEAM_0:1:53097688> used the tool mapret on maps/rp_salvation.bsp
+[18:06:37] Odell Cubbage<STEAM_0:1:53097688> used the tool mapret on maps/rp_salvation.bsp
+[18:06:49] Odell Cubbage<STEAM_0:1:53097688> used the tool mapret on maps/rp_salvation.bsp
+[18:06:50] Odell Cubbage<STEAM_0:1:53097688> used the tool mapret on maps/rp_salvation.bsp
+[18:06:50] Odell Cubbage<STEAM_0:1:53097688> used the tool mapret on maps/rp_salvation.bsp
+[18:06:54] Odell Cubbage<STEAM_0:1:53097688> used the tool mapret on maps/rp_salvation.bsp
+[18:06:54] Odell Cubbage<STEAM_0:1:53097688> used the tool mapret on maps/rp_salvation.bsp
+[18:06:55] Odell Cubbage<STEAM_0:1:53097688> used the tool mapret on maps/rp_salvation.bsp
+[18:06:57] Odell Cubbage<STEAM_0:1:53097688> used the tool mapret on maps/rp_salvation.bsp
+[18:06:58] Odell Cubbage<STEAM_0:1:53097688> used the tool mapret on maps/rp_salvation.bsp
+[18:06:58] Odell Cubbage<STEAM_0:1:53097688> used the tool mapret on maps/rp_salvation.bsp
+[18:07:36] CCA.C08-QrM.98240<STEAM_0:1:17219621> used the tool permaprops on maps/rp_salvation.bsp
+[18:07:36] CCA.C08-QrM.98240<STEAM_0:1:17219621> used the tool permaprops on models/props_wasteland/kitchen_shelf002a.mdl
+[18:07:39] CCA.C08-QrM.98240<STEAM_0:1:17219621> used the tool permaprops on models/props_wasteland/kitchen_shelf001a.mdl
+[18:07:41] CCA.C08-QrM.98240<STEAM_0:1:17219621> used the tool permaprops on models/props_wasteland/controlroom_desk001a.mdl
+[18:07:42] Odell Cubbage<STEAM_0:1:53097688> spawned model models/props_interiors/corkboardverticle01.mdl
+[18:07:42] CCA.C08-QrM.98240<STEAM_0:1:17219621> used the tool permaprops on maps/rp_salvation.bsp
+[18:07:42] CCA.C08-QrM.98240<STEAM_0:1:17219621> used the tool permaprops on models/props_wasteland/laundry_cart002.mdl
+[18:07:45] Odell Cubbage<STEAM_0:1:53097688> spawned model models/props/cs_office/offinspc.mdl
+[18:07:47] Odell Cubbage<STEAM_0:1:53097688> spawned model models/props/cs_office/offpaintingb.mdl
+[18:07:56] CCA.C08-QrM.98240<STEAM_0:1:17219621> spawned model models/props_wasteland/controlroom_storagecloset001b.mdl
+[18:08:04] CCA.C08-QrM.98240<STEAM_0:1:17219621> spawned model models/props_wasteland/controlroom_storagecloset001b.mdl
+[18:08:25] CCA.C08-QrM.98240<STEAM_0:1:17219621> spawned model models/props_wasteland/controlroom_filecabinet002a.mdl
+[18:08:27] Odell Cubbage<STEAM_0:1:53097688> spawned model models/props_combine/health_charger001.mdl
+[18:08:40] Odell Cubbage<STEAM_0:1:53097688> spawned sent ix_station_poweroutlet
+[18:09:31] CCA.C08-QrM.98240<STEAM_0:1:17219621> spawned model models/props_interiors/dining_table_round.mdl
+[18:09:32] Odell Cubbage<STEAM_0:1:53097688> spawned model models/props_c17/furnitureshelf001b.mdl
+[18:09:49] Odell Cubbage<STEAM_0:1:53097688> used the tool permaprops on models/props_c17/furnitureshelf001b.mdl
+[18:09:51] CCA.C08-QrM.98240<STEAM_0:1:17219621> used the tool colour on models/props_interiors/dining_table_round.mdl
+[18:09:57] CCA.C08-QrM.98240<STEAM_0:1:17219621> used the tool colour on models/props_interiors/dining_table_round.mdl
+[18:10:00] CCA.C08-QrM.98240<STEAM_0:1:17219621> used the tool colour on models/props_interiors/dining_table_round.mdl
+[18:10:03] CCA.C08-QrM.98240<STEAM_0:1:17219621> used the tool colour on models/props_interiors/dining_table_round.mdl
+[18:10:04] CCA.C08-QrM.98240<STEAM_0:1:17219621> used the tool colour on models/props_interiors/dining_table_round.mdl
+[18:10:24] Odell Cubbage<STEAM_0:1:53097688> used the tool mapret on maps/rp_salvation.bsp
+[18:10:30] Odell Cubbage<STEAM_0:1:53097688> used the tool mapret on maps/rp_salvation.bsp
+[18:10:35] Odell Cubbage<STEAM_0:1:53097688> used the tool mapret on maps/rp_salvation.bsp
+[18:10:37] Odell Cubbage<STEAM_0:1:53097688> used the tool mapret on maps/rp_salvation.bsp
+[18:10:40] Odell Cubbage<STEAM_0:1:53097688> used the tool mapret on maps/rp_salvation.bsp
+[18:10:49] Odell Cubbage<STEAM_0:1:53097688> used the tool mapret on maps/rp_salvation.bsp
+[18:10:50] Odell Cubbage<STEAM_0:1:53097688> used the tool mapret on maps/rp_salvation.bsp
+[18:10:50] Odell Cubbage<STEAM_0:1:53097688> used the tool mapret on maps/rp_salvation.bsp
+[18:10:54] Odell Cubbage<STEAM_0:1:53097688> used the tool mapret on maps/rp_salvation.bsp
+[18:10:55] Odell Cubbage<STEAM_0:1:53097688> used the tool mapret on maps/rp_salvation.bsp
+[18:10:59] Odell Cubbage<STEAM_0:1:53097688> used the tool mapret on maps/rp_salvation.bsp
+[18:11:04] Odell Cubbage<STEAM_0:1:53097688> used the tool mapret on maps/rp_salvation.bsp
+[18:11:09] Odell Cubbage<STEAM_0:1:53097688> used the tool mapret on maps/rp_salvation.bsp
+[18:11:11] Odell Cubbage<STEAM_0:1:53097688> used the tool mapret on maps/rp_salvation.bsp
+[18:11:11] Odell Cubbage<STEAM_0:1:53097688> used the tool mapret on maps/rp_salvation.bsp
+[18:11:18] Odell Cubbage<STEAM_0:1:53097688> used the tool mapret on maps/rp_salvation.bsp
+[18:11:19] Odell Cubbage<STEAM_0:1:53097688> used the tool mapret on maps/rp_salvation.bsp
+[18:11:19] Odell Cubbage<STEAM_0:1:53097688> used the tool mapret on maps/rp_salvation.bsp
+[18:11:26] Odell Cubbage<STEAM_0:1:53097688> used the tool mapret on maps/rp_salvation.bsp
+[18:11:29] Odell Cubbage<STEAM_0:1:53097688> used the tool mapret on maps/rp_salvation.bsp
+[18:11:32] Odell Cubbage<STEAM_0:1:53097688> used the tool mapret on maps/rp_salvation.bsp
+[18:11:37] Odell Cubbage<STEAM_0:1:53097688> used the tool mapret on maps/rp_salvation.bsp
+[18:11:41] Odell Cubbage<STEAM_0:1:53097688> used the tool mapret on maps/rp_salvation.bsp
+[18:11:45] Odell Cubbage<STEAM_0:1:53097688> used the tool mapret on maps/rp_salvation.bsp
+[18:11:48] Odell Cubbage<STEAM_0:1:53097688> used the tool mapret on maps/rp_salvation.bsp
+[18:12:01] Odell Cubbage<STEAM_0:1:53097688> used the tool mapret on maps/rp_salvation.bsp
+[18:12:20] Odell Cubbage<STEAM_0:1:53097688> used the tool mapret on maps/rp_salvation.bsp
+[18:12:20] Odell Cubbage<STEAM_0:1:53097688> used the tool mapret on maps/rp_salvation.bsp
+[18:12:30] Odell Cubbage<STEAM_0:1:53097688> used the tool mapret on maps/rp_salvation.bsp
+[18:12:41] Odell Cubbage<STEAM_0:1:53097688> used the tool mapret on maps/rp_salvation.bsp
+[18:12:42] Odell Cubbage<STEAM_0:1:53097688> used the tool mapret on maps/rp_salvation.bsp
+[18:12:53] Odell Cubbage<STEAM_0:1:53097688> used the tool mapret on maps/rp_salvation.bsp
+[18:12:58] Odell Cubbage<STEAM_0:1:53097688> used the tool mapret on models/props_c17/hospital_shelf01.mdl
+[18:12:58] Odell Cubbage<STEAM_0:1:53097688> used the tool mapret on maps/rp_salvation.bsp
+[18:12:58] Odell Cubbage<STEAM_0:1:53097688> used the tool mapret on maps/rp_salvation.bsp
+[18:12:58] Odell Cubbage<STEAM_0:1:53097688> used the tool mapret on maps/rp_salvation.bsp
+[18:12:59] Odell Cubbage<STEAM_0:1:53097688> used the tool mapret on maps/rp_salvation.bsp
+[18:12:59] Odell Cubbage<STEAM_0:1:53097688> used the tool mapret on models/props_c17/hospital_shelf01.mdl
+[18:13:00] Odell Cubbage<STEAM_0:1:53097688> used the tool mapret on models/props_c17/hospital_shelf01.mdl
+[18:13:03] Odell Cubbage<STEAM_0:1:53097688> used the tool mapret on maps/rp_salvation.bsp
+[18:13:08] Odell Cubbage<STEAM_0:1:53097688> used the tool mapret on maps/rp_salvation.bsp
+[18:13:14] Odell Cubbage<STEAM_0:1:53097688> used the tool mapret on models/props_c17/hospital_shelf01.mdl
+[18:13:15] Odell Cubbage<STEAM_0:1:53097688> used the tool mapret on maps/rp_salvation.bsp
+[18:13:26] Odell Cubbage<STEAM_0:1:53097688> used the tool mapret on models/props_c17/hospital_surgerytable01.mdl
+[18:13:26] Odell Cubbage<STEAM_0:1:53097688> used the tool mapret on maps/rp_salvation.bsp
+[18:13:27] Odell Cubbage<STEAM_0:1:53097688> used the tool mapret on models/props_c17/hospital_surgerytable01.mdl
+[18:13:27] Odell Cubbage<STEAM_0:1:53097688> used the tool mapret on models/props_c17/hospital_surgerytable01.mdl
+[18:13:30] CCA.C08-QrM.98240: // balls
+[18:13:37] Odell Cubbage<STEAM_0:1:53097688> used the tool mapret on maps/rp_salvation.bsp
+[18:13:37] CCA.C08-QrM.98240: // Negative
+[18:13:38] Odell Cubbage<STEAM_0:1:53097688> used the tool mapret on maps/rp_salvation.bsp
+[18:13:44] Odell Cubbage<STEAM_0:1:53097688> used the tool mapret on maps/rp_salvation.bsp
+[18:13:55] Odell Cubbage<STEAM_0:1:53097688> used the tool mapret on maps/rp_salvation.bsp
+[18:14:02] CCA.C08-QrM.98240: // My mom hasn't been able to stay at the house for over 4 weeks.
+[18:14:03] Odell Cubbage<STEAM_0:1:53097688> used the tool mapret on maps/rp_salvation.bsp
+[18:14:08] CCA.C08-QrM.98240: // Its fine
+[18:14:25] CCA.C08-QrM.98240: // You did this
+[18:14:37] CCA.C08-QrM.98240: // uhhhh, shit fuck
+[18:17:23] CCA.C08-QrM.98240<STEAM_0:1:17219621> spawned model models/props_combineal/combine_breenscreen_recruit_intr.mdl
+[18:17:26] CCA.C08-QrM.98240<STEAM_0:1:17219621> spawned model models/props_combineal/combine_battery_large.mdl
+[18:17:30] CCA.C08-QrM.98240<STEAM_0:1:17219621> spawned model models/props_combineal/combine_quarantine_door.mdl
+[18:17:32] CCA.C08-QrM.98240<STEAM_0:1:17219621> spawned model models/props_combineal/combine_light001b.mdl
+[18:17:48] CCA.C08-QrM.98240<STEAM_0:1:17219621> spawned model models/cmb-bio-computer/cmb-bio-computer.mdl
+[18:18:56] CCA.C08-QrM.98240<STEAM_0:1:17219621> spawned model models/props_combineal/vr_combine_interface_01.mdl
+[18:19:27] CCA.C08-QrM.98240<STEAM_0:1:17219621> spawned model models/props_combineal/vr_combine_interface_01.mdl
+[18:19:41] CCA.C08-QrM.98240<STEAM_0:1:17219621> spawned model models/props_combineal/combine_weaponcrate_1.mdl
+[18:20:01] CCA.C08-QrM.98240<STEAM_0:1:17219621> spawned model models/props_wasteland/kitchen_shelf001a.mdl
+[18:20:03] CCA.C08-QrM.98240<STEAM_0:1:17219621> spawned model models/props_wasteland/kitchen_shelf001a.mdl
+[18:20:07] CCA.C08-QrM.98240<STEAM_0:1:17219621> spawned model models/props_wasteland/kitchen_shelf001a.mdl
+[18:20:43] CCA.C08-QrM.98240<STEAM_0:1:17219621> spawned model models/cmb-bio-computer/cmb-bio-computer.mdl
+[18:20:53] CCA.C08-QrM.98240<STEAM_0:1:17219621> spawned model models/cmb-bio-computer/cmb-bio-computer.mdl
+[18:21:36] CCA.C08-QrM.98240<STEAM_0:1:17219621> spawned model models/props_combine/combine_interface003.mdl
+[18:21:41] CCA.C08-QrM.98240<STEAM_0:1:17219621> spawned model models/props_combine/combine_interface001.mdl
+[18:21:45] CCA.C08-QrM.98240<STEAM_0:1:17219621> spawned model models/props_trainstation/benchoutdoor01a.mdl
+[18:21:47] CCA.C08-QrM.98240<STEAM_0:1:17219621> spawned model models/props_combine/breenconsole.mdl
+[18:21:53] Client "DRD" connected.
+[18:22:15] CCA.C08-QrM.98240<STEAM_0:1:17219621> spawned model models/props_combine/combinethumper001a.mdl
+[18:22:17] CCA.C08-QrM.98240<STEAM_0:1:17219621> spawned model models/props_combine/combine_monitorbay.mdl
+[18:22:19] CCA.C08-QrM.98240<STEAM_0:1:17219621> spawned model models/props_combine/combine_intmonitor001.mdl
+[18:22:43] CCA.C08-QrM.98240<STEAM_0:1:17219621> spawned model models/props_combine/combine_intmonitor001.mdl
+[18:22:45] CCA.C08-QrM.98240<STEAM_0:1:17219621> spawned model models/props_combine/combine_intmonitor001.mdl
+[18:22:48] CCA.C08-QrM.98240<STEAM_0:1:17219621> spawned model models/props_combine/combine_intmonitor001.mdl
+[18:22:49] CCA.C08-QrM.98240<STEAM_0:1:17219621> spawned model models/props_combine/combine_intmonitor001.mdl
+[18:23:08] CCA.C08-QrM.98240<STEAM_0:1:17219621> spawned model models/props_combine/combine_interface001.mdl
+[18:23:16] CCA.C08-QrM.98240<STEAM_0:1:17219621> used the tool permaprops on models/cmb-bio-computer/cmb-bio-computer.mdl
+[18:23:16] CCA.C08-QrM.98240<STEAM_0:1:17219621> used the tool permaprops on models/props_combineal/vr_combine_interface_01.mdl
+[18:23:17] CCA.C08-QrM.98240<STEAM_0:1:17219621> used the tool permaprops on models/props_combine/combine_intmonitor001.mdl
+[18:23:17] CCA.C08-QrM.98240<STEAM_0:1:17219621> used the tool permaprops on models/props_combine/breenconsole.mdl
+[18:23:18] CCA.C08-QrM.98240<STEAM_0:1:17219621> used the tool permaprops on models/props_wasteland/kitchen_shelf001a.mdl
+[18:23:18] CCA.C08-QrM.98240<STEAM_0:1:17219621> used the tool permaprops on models/props_combineal/combine_weaponcrate_1.mdl
+[18:24:25] Client "DRD" spawned in server <STEAM_0:0:193599766> (took 152 seconds).
+[18:25:09] CCA.C08-QrM.98240<STEAM_0:1:17219621> spawned model models/props_wasteland/kitchen_shelf001a.mdl
+[18:25:12] CCA.C08-QrM.98240<STEAM_0:1:17219621> spawned model models/props_wasteland/kitchen_shelf001a.mdl
+[18:25:14] CCA.C08-QrM.98240<STEAM_0:1:17219621> spawned model models/props_wasteland/kitchen_shelf002a.mdl
+[18:25:20] CCA.C08-QrM.98240<STEAM_0:1:17219621> spawned model models/props_wasteland/kitchen_shelf002a.mdl
+[18:25:24] CCA.C08-QrM.98240<STEAM_0:1:17219621> spawned model models/props_wasteland/laundry_cart001.mdl
+[18:25:40] CCA.C08-QrM.98240<STEAM_0:1:17219621> spawned model models/props_wasteland/laundry_cart002.mdl
+[18:26:39] CCA.C08-QrM.98240<STEAM_0:1:17219621> spawned model models/props_debris/barricade_tall02a.mdl
+[18:26:45] DRD<STEAM_0:0:193599766> changed their name to Grasshopper
+[18:26:49] CCA.C08-QrM.98240<STEAM_0:1:17219621> spawned model models/props_combine/combine_barricade_short02a.mdl
+[18:27:12] CCA.C08-QrM.98240: // Jesus christ
+[18:27:16] CCA.C08-QrM.98240<STEAM_0:1:17219621> spawned model models/props_combine/combine_barricade_short02a.mdl
+[18:27:44] CCA.C08-QrM.98240<STEAM_0:1:17219621> spawned model models/props_combine/combine_barricade_short02a.mdl
+[18:28:21] CCA.C08-QrM.98240<STEAM_0:1:17219621> used the tool permaprops on models/props_combine/combine_barricade_short02a.mdl
+[18:29:00] CCA.C08-QrM.98240<STEAM_0:1:17219621> spawned model models/props_combine/combine_debris256barricade001a.mdl
+[18:30:03] CCA.C08-QrM.98240<STEAM_0:1:17219621> spawned model models/props_combine/combine_interface001.mdl
+[18:30:14] Grasshopper<STEAM_0:0:193599766> spawned model models/combinefortification/personalbarricade.mdl
+[18:30:26] Grasshopper<STEAM_0:0:193599766> spawned model models/combinefortification/personalbarricade.mdl
+[18:30:27] CCA.C08-QrM.98240<STEAM_0:1:17219621> spawned model models/props_combine/combine_interface001.mdl
+[18:30:35] Grasshopper<STEAM_0:0:193599766> spawned model models/props_combine/combine_barricade_short03a.mdl
+[18:31:03] Grasshopper<STEAM_0:0:193599766> spawned model models/combinefortification/personalbarricade.mdl
+[18:31:07] CCA.C08-QrM.98240<STEAM_0:1:17219621> spawned model models/cmb-bio-computer/cmb-bio-computer.mdl
+[18:31:12] Grasshopper<STEAM_0:0:193599766> spawned model models/combinefortification/personalbarricade.mdl
+[18:31:19] Grasshopper<STEAM_0:0:193599766> spawned model models/combinefortification/personalbarricade.mdl
+[18:31:20] CCA.C08-QrM.98240<STEAM_0:1:17219621> used the tool permaprops on models/cmb-bio-computer/cmb-bio-computer.mdl
+[18:31:21] CCA.C08-QrM.98240<STEAM_0:1:17219621> used the tool permaprops on models/props_combine/combine_interface001.mdl
+[18:31:31] Grasshopper<STEAM_0:0:193599766> spawned model models/military/barricade64.mdl
+[18:31:52] Grasshopper<STEAM_0:0:193599766> spawned model models/props_combine/combine_barricade_med03b.mdl
+[18:32:00] Grasshopper<STEAM_0:0:193599766> spawned model models/props_combine/combine_barricade_med04b.mdl
+[18:32:00] Client "Doughnut" connected.
+[18:32:02] Grasshopper<STEAM_0:0:193599766> spawned model models/props_combine/combine_barricade_med04b.mdl
+[18:32:03] Grasshopper<STEAM_0:0:193599766> spawned model models/props_combine/combine_barricade_short02a.mdl
+[18:32:20] Grasshopper<STEAM_0:0:193599766> spawned model models/props_combine/combine_barricade_short02a.mdl
+[18:32:34] Grasshopper<STEAM_0:0:193599766> spawned model models/props_combine/combine_barricade_tall03b.mdl
+[18:32:36] Grasshopper<STEAM_0:0:193599766> spawned model models/props_combine/combine_barricade_tall01a.mdl
+[18:32:40] Grasshopper<STEAM_0:0:193599766> spawned model models/combinefortification/personalbarricade.mdl
+[18:32:50] Grasshopper<STEAM_0:0:193599766> spawned model models/combinefortification/personalbarricade.mdl
+[18:32:57] CCA.C08-QrM.98240<STEAM_0:1:17219621> spawned model models/props_c17/cashregister01a.mdl
+[18:33:17] Grasshopper<STEAM_0:0:193599766> spawned model models/props_combine/combine_barricade_short02a.mdl
+[18:33:57] Grasshopper<STEAM_0:0:193599766> spawned model models/props_combine/combine_barricade_short02a.mdl
+[18:34:27] Grasshopper<STEAM_0:0:193599766> spawned model models/hla_combine_props/combine_background_pod_2.mdl
+[18:34:33] Client "Doughnut" spawned in server <STEAM_0:1:127409364> (took 153 seconds).
+[18:35:41] Doughnut<STEAM_0:1:127409364> changed their name to CCA.C08-JUDGE.i2.89295
+[18:35:46] Grasshopper<STEAM_0:0:193599766> spawned effect models/props_combine/stalkerpod_lid.mdl
+[18:35:50] Grasshopper<STEAM_0:0:193599766> spawned ragdoll models/props_combine/stalkerpod_nolid.mdl
+[18:35:56] Grasshopper<STEAM_0:0:193599766> spawned ragdoll models/props_combine/stalkerpod.mdl
+[18:36:19] Grasshopper<STEAM_0:0:193599766> spawned model models/props_combine/combine_barricade_short02a.mdl
+[18:36:32] Grasshopper<STEAM_0:0:193599766> spawned model models/props_combine/combine_barricade_short02a.mdl
+[18:36:43] Grasshopper<STEAM_0:0:193599766> used the tool permaprops on models/combinefortification/personalbarricade.mdl
+[18:36:44] Grasshopper<STEAM_0:0:193599766> used the tool permaprops on models/props_combine/combine_barricade_short02a.mdl
+[18:36:44] Grasshopper<STEAM_0:0:193599766> used the tool permaprops on maps/rp_salvation.bsp
+[18:36:45] Grasshopper<STEAM_0:0:193599766> used the tool permaprops on models/props_combine/combine_barricade_short02a.mdl
+[18:36:46] Grasshopper<STEAM_0:0:193599766> used the tool permaprops on models/combinefortification/personalbarricade.mdl
+[18:36:47] Grasshopper<STEAM_0:0:193599766> used the tool permaprops on models/props_combine/combine_barricade_short02a.mdl
+[18:36:51] Grasshopper<STEAM_0:0:193599766> used the tool permaprops on models/props_combine/combine_barricade_short02a.mdl
+[18:36:52] Grasshopper<STEAM_0:0:193599766> used the tool permaprops on models/combinefortification/personalbarricade.mdl
+[18:36:53] Grasshopper<STEAM_0:0:193599766> used the tool permaprops on models/props_combine/combine_barricade_short02a.mdl
+[18:36:53] Grasshopper<STEAM_0:0:193599766> used the tool permaprops on models/props_combine/combine_barricade_short02a.mdl
+[18:36:54] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> spawned model models/props_c17/concrete_barrier001a.mdl
+[18:37:52] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool mapret on maps/rp_salvation.bsp
+[18:38:47] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool map_builder on maps/rp_salvation.bsp
+[18:38:50] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool map_builder on maps/rp_salvation.bsp
+[18:38:56] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool map_builder on maps/rp_salvation.bsp
+[18:38:58] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool map_builder on maps/rp_salvation.bsp
+[18:38:59] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool map_builder on maps/rp_salvation.bsp
+[18:39:01] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool map_builder on maps/rp_salvation.bsp
+[18:39:02] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool map_builder on maps/rp_salvation.bsp
+[18:39:03] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool map_builder on maps/rp_salvation.bsp
+[18:39:03] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool map_builder on maps/rp_salvation.bsp
+[18:39:05] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool map_builder on maps/rp_salvation.bsp
+[18:39:14] CCA.C08-QrM.98240<STEAM_0:1:17219621> used the tool stacker_improved on models/hla_combine_props/combine_background_pod_2.mdl
+[18:39:14] CCA.C08-QrM.98240<STEAM_0:1:17219621> spawned model models/hla_combine_props/combine_background_pod_2.mdl
+[18:39:15] CCA.C08-QrM.98240<STEAM_0:1:17219621> used the tool stacker_improved on models/hla_combine_props/combine_background_pod_2.mdl
+[18:39:15] CCA.C08-QrM.98240<STEAM_0:1:17219621> spawned model models/hla_combine_props/combine_background_pod_2.mdl
+[18:39:17] CCA.C08-QrM.98240<STEAM_0:1:17219621> used the tool stacker_improved on models/hla_combine_props/combine_background_pod_2.mdl
+[18:39:17] CCA.C08-QrM.98240<STEAM_0:1:17219621> used the tool stacker_improved on models/hla_combine_props/combine_background_pod_2.mdl
+[18:39:17] CCA.C08-QrM.98240<STEAM_0:1:17219621> used the tool stacker_improved on models/hla_combine_props/combine_background_pod_2.mdl
+[18:39:18] CCA.C08-QrM.98240<STEAM_0:1:17219621> used the tool stacker_improved on models/hla_combine_props/combine_background_pod_2.mdl
+[18:39:18] CCA.C08-QrM.98240<STEAM_0:1:17219621> used the tool stacker_improved on models/hla_combine_props/combine_background_pod_2.mdl
+[18:39:19] CCA.C08-QrM.98240<STEAM_0:1:17219621> used the tool stacker_improved on models/hla_combine_props/combine_background_pod_2.mdl
+[18:39:19] CCA.C08-QrM.98240<STEAM_0:1:17219621> spawned model models/hla_combine_props/combine_background_pod_2.mdl
+[18:39:30] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> spawned model models/hunter/plates/plate2x3.mdl
+[18:39:34] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> spawned model models/hunter/plates/plate2x4.mdl
+[18:39:49] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> spawned model models/hunter/plates/plate4x5.mdl
+[18:39:59] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> spawned model models/hunter/plates/plate3x5.mdl
+[18:40:21] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool precision on models/hunter/plates/plate3x5.mdl
+[18:40:21] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool precision on models/hunter/plates/plate3x5.mdl
+[18:40:21] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool precision on models/hunter/plates/plate3x5.mdl
+[18:40:21] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool precision on models/hunter/plates/plate3x5.mdl
+[18:40:21] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool precision on models/hunter/plates/plate3x5.mdl
+[18:40:22] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool precision on models/hunter/plates/plate3x5.mdl
+[18:40:22] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool precision on models/hunter/plates/plate3x5.mdl
+[18:40:22] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool precision on models/hunter/plates/plate3x5.mdl
+[18:40:22] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool precision on models/hunter/plates/plate3x5.mdl
+[18:40:22] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool precision on models/hunter/plates/plate3x5.mdl
+[18:40:22] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool precision on models/hunter/plates/plate3x5.mdl
+[18:40:23] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool precision on models/hunter/plates/plate3x5.mdl
+[18:40:23] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool precision on models/hunter/plates/plate3x5.mdl
+[18:40:26] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool precision on models/hunter/plates/plate3x5.mdl
+[18:40:26] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool precision on models/hunter/plates/plate3x5.mdl
+[18:40:26] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool precision on models/hunter/plates/plate3x5.mdl
+[18:40:27] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool precision on models/hunter/plates/plate3x5.mdl
+[18:40:27] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool precision on models/hunter/plates/plate3x5.mdl
+[18:40:27] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool precision on models/hunter/plates/plate3x5.mdl
+[18:40:27] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool precision on models/hunter/plates/plate3x5.mdl
+[18:40:27] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool precision on models/hunter/plates/plate3x5.mdl
+[18:40:27] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool precision on models/hunter/plates/plate3x5.mdl
+[18:40:28] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool precision on models/hunter/plates/plate3x5.mdl
+[18:40:28] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool precision on models/hunter/plates/plate3x5.mdl
+[18:40:28] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool precision on models/hunter/plates/plate3x5.mdl
+[18:40:28] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool precision on models/hunter/plates/plate3x5.mdl
+[18:40:28] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool precision on models/hunter/plates/plate3x5.mdl
+[18:40:28] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool precision on models/hunter/plates/plate3x5.mdl
+[18:40:29] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool precision on models/hunter/plates/plate3x5.mdl
+[18:40:29] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool precision on models/hunter/plates/plate3x5.mdl
+[18:40:29] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool precision on models/hunter/plates/plate3x5.mdl
+[18:40:32] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool precision on models/hunter/plates/plate3x5.mdl
+[18:40:32] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool precision on models/hunter/plates/plate3x5.mdl
+[18:40:32] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool precision on models/hunter/plates/plate3x5.mdl
+[18:40:33] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool precision on models/hunter/plates/plate3x5.mdl
+[18:40:38] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> spawned model models/hunter/plates/plate05x3.mdl
+[18:41:10] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool precision on models/hunter/plates/plate05x3.mdl
+[18:41:11] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool precision on models/hunter/plates/plate05x3.mdl
+[18:41:11] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool precision on models/hunter/plates/plate05x3.mdl
+[18:41:11] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool precision on models/hunter/plates/plate05x3.mdl
+[18:41:11] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool precision on models/hunter/plates/plate05x3.mdl
+[18:41:11] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool precision on models/hunter/plates/plate05x3.mdl
+[18:41:11] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool precision on models/hunter/plates/plate05x3.mdl
+[18:41:12] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool precision on models/hunter/plates/plate05x3.mdl
+[18:41:12] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool precision on models/hunter/plates/plate05x3.mdl
+[18:41:12] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool precision on models/hunter/plates/plate05x3.mdl
+[18:41:12] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool precision on models/hunter/plates/plate05x3.mdl
+[18:41:12] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool precision on models/hunter/plates/plate05x3.mdl
+[18:41:12] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool precision on models/hunter/plates/plate05x3.mdl
+[18:41:13] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool precision on models/hunter/plates/plate05x3.mdl
+[18:41:13] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool precision on models/hunter/plates/plate05x3.mdl
+[18:41:13] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool precision on models/hunter/plates/plate05x3.mdl
+[18:41:13] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool precision on models/hunter/plates/plate05x3.mdl
+[18:41:14] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool precision on models/hunter/plates/plate05x3.mdl
+[18:41:14] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool precision on models/hunter/plates/plate05x3.mdl
+[18:41:14] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool precision on models/hunter/plates/plate05x3.mdl
+[18:41:14] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool precision on models/hunter/plates/plate05x3.mdl
+[18:41:14] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool precision on models/hunter/plates/plate05x3.mdl
+[18:41:14] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool precision on models/hunter/plates/plate05x3.mdl
+[18:41:14] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool precision on models/hunter/plates/plate05x3.mdl
+[18:41:14] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool precision on models/hunter/plates/plate05x3.mdl
+[18:41:15] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool precision on models/hunter/plates/plate05x3.mdl
+[18:41:15] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool precision on models/hunter/plates/plate05x3.mdl
+[18:41:15] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool precision on models/hunter/plates/plate05x3.mdl
+[18:41:15] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool precision on models/hunter/plates/plate05x3.mdl
+[18:41:17] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool precision on models/hunter/plates/plate05x3.mdl
+[18:41:18] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool precision on models/hunter/plates/plate05x3.mdl
+[18:41:18] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool precision on models/hunter/plates/plate05x3.mdl
+[18:41:18] Grasshopper<STEAM_0:0:193599766> spawned model models/props_equipment/sleeping_bag1.mdl
+[18:41:21] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool precision on models/hunter/plates/plate05x3.mdl
+[18:41:25] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool precision on models/hunter/plates/plate05x3.mdl
+[18:41:30] Grasshopper<STEAM_0:0:193599766> spawned model models/props_equipment/sleeping_bag1.mdl
+[18:41:35] Grasshopper<STEAM_0:0:193599766> spawned model models/props_equipment/sleeping_bag2.mdl
+[18:41:36] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool precision on models/hunter/plates/plate05x3.mdl
+[18:41:39] Grasshopper<STEAM_0:0:193599766> spawned model models/props_equipment/sleeping_bag2.mdl
+[18:41:43] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool precision on models/hunter/plates/plate05x3.mdl
+[18:41:43] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool precision on models/hunter/plates/plate05x3.mdl
+[18:41:47] Grasshopper<STEAM_0:0:193599766> spawned model models/props/cs_militia/table_shed.mdl
+[18:41:53] Grasshopper<STEAM_0:0:193599766> spawned model models/props_urban/plastic_chair001.mdl
+[18:41:55] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool material on models/hunter/plates/plate3x5.mdl
+[18:41:56] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool material on models/hunter/plates/plate05x3.mdl
+[18:41:58] Grasshopper<STEAM_0:0:193599766> spawned model models/props/cs_militia/table_kitchen.mdl
+[18:42:03] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool permaprops on models/hunter/plates/plate3x5.mdl
+[18:42:05] Grasshopper<STEAM_0:0:193599766> spawned model models/props_urban/plastic_chair001.mdl
+[18:42:12] Grasshopper<STEAM_0:0:193599766> spawned model models/props_urban/plastic_chair001.mdl
+[18:42:24] Grasshopper<STEAM_0:0:193599766> spawned model models/props_urban/plastic_chair001.mdl
+[18:42:33] Grasshopper<STEAM_0:0:193599766> spawned model models/props_urban/plastic_chair001.mdl
+[18:43:02] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> spawned model models/props_wasteland/kitchen_shelf001a.mdl
+[18:43:12] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> spawned model models/props_wasteland/kitchen_shelf002a.mdl
+[18:43:26] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> spawned model models/props_wasteland/prison_shelf002a.mdl
+[18:43:29] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> spawned model models/props_wasteland/prison_shelf002a.mdl
+[18:43:36] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool permaprops on models/props_wasteland/prison_shelf002a.mdl
+[18:43:36] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool permaprops on models/props_wasteland/prison_shelf002a.mdl
+[18:43:38] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool permaprops on models/props_wasteland/kitchen_shelf001a.mdl
+[18:43:39] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool permaprops on models/props_wasteland/kitchen_shelf002a.mdl
+[18:44:14] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> spawned model models/props_equipment/sleeping_bag1.mdl
+[18:44:19] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool permaprops on models/props_equipment/sleeping_bag1.mdl
+[18:44:22] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> spawned model models/props_equipment/sleeping_bag2.mdl
+[18:44:24] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> spawned model models/props_equipment/sleeping_bag2.mdl
+[18:44:26] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> spawned model models/props_equipment/sleeping_bag1.mdl
+[18:44:27] Grasshopper<STEAM_0:0:193599766> spawned model models/props/de_tides/patio_chair2.mdl
+[18:44:27] Grasshopper<STEAM_0:0:193599766> spawned model models/props/de_tides/patio_chair2.mdl
+[18:44:28] Grasshopper<STEAM_0:0:193599766> spawned model models/props/de_tides/patio_chair2.mdl
+[18:44:30] Grasshopper<STEAM_0:0:193599766> spawned model models/props/de_tides/patio_chair2.mdl
+[18:44:31] Grasshopper<STEAM_0:0:193599766> spawned model models/props/de_tides/patio_chair2.mdl
+[18:44:32] Grasshopper<STEAM_0:0:193599766> spawned model models/props/de_tides/patio_chair2.mdl
+[18:44:32] Grasshopper<STEAM_0:0:193599766> spawned model models/props/de_tides/patio_chair2.mdl
+[18:44:33] Grasshopper<STEAM_0:0:193599766> spawned model models/props/de_tides/patio_chair2.mdl
+[18:44:34] Grasshopper<STEAM_0:0:193599766> spawned model models/props/de_tides/patio_chair2.mdl
+[18:44:35] Grasshopper<STEAM_0:0:193599766> spawned model models/props/de_tides/patio_chair2.mdl
+[18:44:37] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool permaprops on models/props_equipment/sleeping_bag2.mdl
+[18:44:38] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool permaprops on models/props_equipment/sleeping_bag2.mdl
+[18:44:41] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool permaprops on models/props_equipment/sleeping_bag1.mdl
+[18:44:42] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool permaprops on maps/rp_salvation.bsp
+[18:44:48] Grasshopper<STEAM_0:0:193599766> spawned model models/props_interiors/copymachine01.mdl
+[18:45:16] CCA.C08-JUDGE.i2.89295: /toggleraise
+[18:45:23] CCA.C08-JUDGE.i2.89295 killed Grasshopper using player
+[18:45:31] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> spawned model models/props_c17/furnitureradiator001a.mdl
+[18:45:38] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool permaprops on models/props_c17/furnitureradiator001a.mdl
+[18:49:54] Grasshopper: /adminspawnmenu
+[18:50:33] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> spawned model models/props_wasteland/controlroom_chair001a.mdl
+[18:50:46] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool material on models/props_wasteland/controlroom_chair001a.mdl
+[18:50:50] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool material on maps/rp_salvation.bsp
+[18:50:51] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool material on models/props_wasteland/controlroom_chair001a.mdl
+[18:50:55] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool material on models/props_wasteland/controlroom_chair001a.mdl
+[18:50:57] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool material on models/props_wasteland/controlroom_chair001a.mdl
+[18:51:00] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool material on models/props_wasteland/controlroom_chair001a.mdl
+[18:51:01] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool material on models/props_wasteland/controlroom_chair001a.mdl
+[18:51:05] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool material on models/props_wasteland/controlroom_chair001a.mdl
+[18:51:07] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool material on models/props_wasteland/controlroom_chair001a.mdl
+[18:51:08] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool material on models/props_wasteland/controlroom_chair001a.mdl
+[18:51:11] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool material on models/props_wasteland/controlroom_chair001a.mdl
+[18:51:13] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool material on models/props_wasteland/controlroom_chair001a.mdl
+[18:51:20] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> used the tool permaprops on models/props_wasteland/controlroom_chair001a.mdl
+[18:57:16] CCA.C08-JUDGE.i2.89295: // anyone here
+[18:57:19] CCA.C08-JUDGE.i2.89295: // ?
+[18:58:08] Odell Cubbage teleported to CCA.C08-JUDGE.i2.89295
+[19:00:03] Odell Cubbage: /spawnadd citizen
+[19:00:04] Odell Cubbage: /spawnadd citizen
+[19:00:04] Odell Cubbage: /spawnadd citizen
+[19:00:05] Odell Cubbage: /spawnadd citizen
+[19:00:07] Odell Cubbage: /spawnadd citizen
+[19:00:09] Odell Cubbage: /spawnadd citizen
+[19:00:12] Odell Cubbage: /spawnadd conscript
+[19:00:12] Odell Cubbage: /spawnadd conscript
+[19:00:13] Odell Cubbage: /spawnadd conscript
+[19:00:14] Odell Cubbage: /spawnadd conscript
+[19:00:15] Odell Cubbage: /spawnadd conscript
+[19:00:37] Odell Cubbage: /spawnadd civil
+[19:00:38] Odell Cubbage: /spawnadd civil
+[19:00:38] Odell Cubbage: /spawnadd civil
+[19:00:39] Odell Cubbage: /spawnadd civil
+[19:00:40] Odell Cubbage: /spawnadd civil
+[19:00:41] Odell Cubbage: /spawnadd civil
+[19:00:42] Odell Cubbage: /spawnadd civil
+[19:00:46] Odell Cubbage: /spawnadd civil
+[19:00:47] Odell Cubbage: /spawnadd conscript
+[19:00:47] Odell Cubbage: /spawnadd conscript
+[19:00:48] Odell Cubbage: /spawnadd conscript
+
+
+
+[19:09:18] New map: rp_city8_edit_v4r
+[19:09:29] Client "matt saton" connected.
+[19:09:40] Client "FB|| light ROOM" connected.
+[19:11:01] Client "Odin" connected.
+[19:11:28] Client "FB|| light ROOM" spawned in server <STEAM_0:1:17219621> (took 108 seconds).
+[19:11:31] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 122 seconds).
+[19:12:19] FB|| light ROOM<STEAM_0:1:17219621> changed their name to CCA.C08-QrM.98240
+[19:12:41] matt saton<STEAM_0:1:53097688> changed their name to Lee Maylor
+[19:12:57] Lee Maylor: /charsetthirst lee 100
+[19:12:58] Client "Odin" spawned in server <STEAM_0:0:595064043> (took 117 seconds).
+[19:13:01] Lee Maylor: /charsethunger lee 100
+[19:13:01] Client "DRD" connected.
+[19:13:10] Client "Opia ❦" connected.
+[19:15:16] Client "DRD" spawned in server <STEAM_0:0:193599766> (took 135 seconds).
+[19:15:18] Client "Opia ❦" spawned in server <STEAM_0:1:205314685> (took 128 seconds).
+[19:15:23] CCA.C08-QrM.98240<STEAM_0:1:17219621> changed their name to Ethan King
+[19:16:03] Odin<STEAM_0:0:595064043> changed their name to Erwin Ramstein
+[19:16:04] Opia ❦<STEAM_0:1:205314685> changed their name to Clarissa Harrison
+[19:16:16] Clarissa Harrison: //Henlo
+[19:16:23] Lee Maylor: //howdy!
+[19:16:27] Erwin Ramstein: /pm lee Hey, uh. Are those Items done?
+[19:16:38] Erwin Ramstein<STEAM_0:0:595064043> used the tool prop_door on maps/rp_city8_edit_v4r.bsp
+[19:16:39] Ethan King<STEAM_0:1:17219621> changed their name to CCA.C08-UNION.i2.51514
+[19:16:53] Erwin Ramstein<STEAM_0:0:595064043> used the tool prop_door on maps/rp_city8_edit_v4r.bsp
+[19:17:03] CCA.C08-UNION.i2.51514: /radio Unit is 10-8
+[19:17:29] Lee Maylor: /pm erwin sorry, i've been preparing all day, negative. after the event i'll get them in, and if not, tomorrow after I wake up, hand to God
+[19:17:30] CCA.C08-UNION.i2.51514: /chareditbodygroup UNION
+[19:17:37] Lee Maylor: /pm erwin sorry to keep stringing you along like this, i'm sure it hurts your patience
+[19:17:50] Erwin Ramstein: /pm lee Alright, no it's all good I have nothing but I was just curious. If you have shit to do, you got shit to do.
+[19:18:41] Erwin Ramstein: /pm lee I'm, kind of fucking retarded and zoned out I'm not sure where that "I have nothing" came from..? I meant I have no, loss of patience? Lmao.
+[19:19:02] Lee Maylor: /pm erwin wat
+[19:19:12] Lee Maylor: /pm erwin oh lmao
+[19:19:13] Erwin Ramstein: /pm lee I zoned out and completely misinterpreted my own words.
+[19:20:00] Lee Maylor: /event lag spike, sorry!
+[19:20:07] DRD<STEAM_0:0:193599766> changed their name to Laoghaire Fraser
+[19:20:09] Client "Michλel's World" connected.
+[19:20:10] Laoghaire Fraser: // h
+[19:20:12] CCA.C08-UNION.i2.51514: // rgmiueojraGNMBIERUABV
+[19:20:14] Erwin Ramstein: // H
+[19:20:31] Clarissa Harrison: // when event starting-
+[19:20:42] Laoghaire Fraser: // yes
+[19:20:45] Lee Maylor: //when lag psikes done
+[19:20:48] Lee Maylor: //and then event start
+[19:21:18] Laoghaire Fraser<STEAM_0:0:193599766> changed their name to Hollie Reynolds
+[19:22:01] CCA.C08-UNION.i2.51514: Hm
+[19:22:21] CCA.C08-UNION.i2.51514: /me Starts looking around the map simple observing the humble little store.
+[19:22:25] Client "Michλel's World" spawned in server <STEAM_0:1:75161355> (took 136 seconds).
+[19:22:44] CCA.C08-UNION.i2.51514: /me Walks away silently.
+[19:22:58] Michλel's World<STEAM_0:1:75161355> changed their name to 1LT Samuel Brody
+[19:23:31] Clarissa Harrison: //hello gordon!!
+[19:23:40] Lee Maylor: //gordon, the code is being dumb!
+[19:23:41] 1LT Samuel Brody: // ya boy forgot to mount CSS
+[19:23:52] 1LT Samuel Brody: // eh, its whatever really
+[19:23:58] 1LT Samuel Brody: // only minor immersion breaking
+[19:24:05] Lee Maylor: /chargiveitem maylor hazmat
+[19:24:07] Lee Maylor: //ep1 and ep2?
+[19:24:12] 1LT Samuel Brody: // got those
+[19:24:23] Lee Maylor: /chargiveitem maylor "worker hazmat"
+[19:24:30] Lee Maylor: /adminspawnmenu
+[19:25:59] 1LT Samuel Brody: // hmm yes very good content
+[19:26:03] CCA.C08-UNION.i2.51514: // Wha
+[19:26:19] 1LT Samuel Brody: // i am literally staring at wall
+[19:26:28] Hollie Reynolds<STEAM_0:0:193599766> changed their name to CCA.C08-GRID.i1.23710
+[19:26:36] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> used the tool rb655_easy_bodygroup on *31
+[19:26:36] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> used the tool rb655_easy_bodygroup on *31
+[19:26:37] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> used the tool rb655_easy_bodygroup on *31
+[19:26:44] CCA.C08-UNION.i2.51514: // By the way, unless you're off duty get into the Nexus.
+[19:26:46] Lee Maylor: //gordon, what the fuck is going on with the code
+[19:26:55] CCA.C08-GRID.i1.23710: /charsetskin grid 3
+[19:27:18] Clarissa Harrison: // look, gordon! ropes! we can use these to help with pits.
+[19:27:25] Lee Maylor: //gordon, i found it!
+[19:27:31] CCA.C08-UNION.i2.51514: Do you own this establishment?
+[19:27:36] Clarissa Harrison: Er. No.
+[19:27:41] 1LT Samuel Brody: // dear lord please n o
+[19:27:46] 1LT Samuel Brody: // p l e a s e
+[19:27:46] CCA.C08-UNION.i2.51514: Then I would recommend you get out.
+[19:27:55] 1LT Samuel Brody: // i have ptsd from that series
+[19:28:00] 1LT Samuel Brody: // aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+[19:28:03] CCA.C08-UNION.i2.51514: // Crungle
+[19:28:21] 1LT Samuel Brody: // your mom
+[19:28:33] Lee Maylor: //gordon what the actual fuck
+[19:28:47] 1LT Samuel Brody: // STAHP
+[19:29:46] CCA.C08-GRID.i1.23710: hey
+[19:32:32] 1LT Samuel Brody: // q did the code stop being a piece of shit
+[19:32:43] CCA.C08-UNION.i2.51514: // Code go brrttttttt
+[19:33:02] Lee Maylor: //double lag spike
+[19:33:04] Lee Maylor: //sorry
+[19:33:07] Lee Maylor: //after this event, I swear to God
+[19:33:59] 1LT Samuel Brody: // server die?
+[19:34:31] Dropped "1LT Samuel Brody" from server<STEAM_0:1:75161355>
+[19:35:32] Client "Michλel's World" connected.
+[19:37:01] CCA.C08-UNION.i2.51514: // This is making me want to stop doing the breath
+[19:37:02] Client "Michλel's World" spawned in server <STEAM_0:1:75161355> (took 90 seconds).
+[19:37:31] Michλel's World<STEAM_0:1:75161355> changed their name to 1LT Samuel Brody
+[19:37:38] Client "Anti-swag gaming" connected.
+[19:37:40] 1LT Samuel Brody: // am return
+[19:37:45] 1LT Samuel Brody: // my gmod die
+[19:38:06] CCA.C08-UNION.i2.51514: // AGHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+[19:38:27] Erwin Ramstein: // Sorry am back :)
+[19:40:06] Dropped "Clarissa Harrison" from server<STEAM_0:1:205314685>
+[19:40:06] 1LT Samuel Brody: // q tell the code to stop being a piece of shit
+[19:40:30] Lee Maylor: /adminspawnmenu
+[19:41:30] 1LT Samuel Brody: REEEEEEEEEEE
+[19:41:35] 1LT Samuel Brody: // REEEEEEEEEEEEEEEEEEEEEEEEEEEEE
+[19:41:43] Lee Maylor: //IT FUCKING WORKS
+[19:41:49] 1LT Samuel Brody: // LESS GO
+[19:41:56] CCA.C08-UNION.i2.51514: // 1LT Samuel Brody says "REEEEEEEEEEE."
+[19:42:02] 1LT Samuel Brody: // shut
+[19:42:06] CCA.C08-GRID.i1.23710: do you have any sewing kits?
+[19:42:07] Lee Maylor: //alright
+[19:42:08] Client "Opia ❦" connected.
+[19:42:09] 1LT Samuel Brody: // shut
+[19:42:12] Lee Maylor: //we're gonna let opia rejoin and we'll start
+[19:42:16] Erwin Ramstein: Allow me to check my Inventory, Officer.
+[19:42:21] Lee Maylor: //everybody get on the character you want to be on for the event
+[19:42:22] 1LT Samuel Brody: // bad UNION
+[19:42:29] CCA.C08-GRID.i1.23710: .// i am stimulating the local economy
+[19:42:35] 1LT Samuel Brody: // well, i already am so re
+[19:42:53] CCA.C08-UNION.i2.51514<STEAM_0:1:17219621> changed their name to CCA.C08-QrM.98240
+[19:42:53] Erwin Ramstein: /me *he'd flip open a Green Book*
+[19:43:03] 1LT Samuel Brody: // why is that fuckup making me laugh so much
+[19:43:04] Erwin Ramstein: Ah, yes I have Three in stock.
+[19:43:16] CCA.C08-GRID.i1.23710: right, give me one
+[19:43:21] CCA.C08-GRID.i1.23710: 10 tokens, right?
+[19:43:28] Erwin Ramstein: Yes, 10.
+[19:43:29] CCA.C08-QrM.98240: // My existence is pain, also hello.
+[19:43:30] Client "Opia ❦" spawned in server <STEAM_0:1:205314685> (took 82 seconds).
+[19:43:32] CCA.C08-GRID.i1.23710: /droptokens 10
+[19:43:36] Lee Maylor: //cool, the fix didn't fucking work
+[19:43:39] 1LT Samuel Brody: // oh god
+[19:43:44] 1LT Samuel Brody: // its the qrm
+[19:43:50] 1LT Samuel Brody: // everyone run
+[19:43:52] Lee Maylor: //i'll just change it during a map change
+[19:43:58] CCA.C08-QrM.98240: // I have come to steal all of your shit.
+[19:44:05] 1LT Samuel Brody: // OH NO
+[19:44:09] 1LT Samuel Brody: // NOT MY SHIT
+[19:44:14] 1LT Samuel Brody: // ITS ALL I HAVE
+[19:44:15] 1LT Samuel Brody: /NO
+[19:44:16] CCA.C08-QrM.98240: // Your shit is mine
+[19:44:18] 1LT Samuel Brody: // NO
+[19:44:23] 1LT Samuel Brody: // no please
+[19:44:31] Opia ❦<STEAM_0:1:205314685> changed their name to Clarissa Harrison
+[19:44:31] CCA.C08-QrM.98240: // no
+[19:44:36] 1LT Samuel Brody: // oh hi god
+[19:44:49] 1LT Samuel Brody: // the consoles name is now god
+[19:45:04] 1LT Samuel Brody: // this is canon info
+[19:45:11] CCA.C08-QrM.98240: // I agree
+[19:45:20] 1LT Samuel Brody: // anyone says differently
+[19:45:31] Lee Maylor: //alright we're ready
+[19:45:31] 1LT Samuel Brody: // fack you
+[19:45:38] 1LT Samuel Brody: // not you q
+[19:45:41] 1LT Samuel Brody: // you aight
+[19:46:20] Lee Maylor: /it You hear a strange gurgling.
+[19:46:29] Clarissa Harrison: [[wat
+[19:46:34] Lee Maylor: .//you hear a strange gurgling
+[19:46:41] Clarissa Harrison: [[from where?
+[19:46:48] Clarissa Harrison: Uhh..?
+[19:46:59] Lee Maylor<STEAM_0:1:53097688> spawned NPC npc_vj_gc_foot
+[19:47:02] Lee Maylor<STEAM_0:1:53097688> spawned NPC npc_vj_gc_hand
+[19:47:04] Lee Maylor<STEAM_0:1:53097688> spawned NPC npc_vj_gc_foot
+[19:47:11] Clarissa Harrison: did I fuckin' hear that right?
+[19:47:13] Lee Maylor: /it Hmm, it seemed to be stronger in the building.
+[19:47:21] 1LT Samuel Brody: // now
+[19:47:22] Lee Maylor: /it Gurgle gurgle..
+[19:47:26] 1LT Samuel Brody: // less do dis event
+[19:47:30] Lee Maylor: /it colder, but you're getting close.
+[19:47:31] Clarissa Harrison: Hello?
+[19:47:34] Lee Maylor: //already doing it :)
+[19:47:40] Clarissa Harrison: [[ FUCING HELL YOU SCARED THE FUCK OUT OF ME
+[19:47:42] 1LT Samuel Brody: // hmmmmmmmmmmmmmm
+[19:47:48] Clarissa Harrison: Y'hear that?
+[19:47:50] CCA.C08-GRID.i1.23710: .// the gurgle was me smoking weed
+[19:47:52] 1LT Samuel Brody: // press x to doubt /j
+[19:47:54] CCA.C08-GRID.i1.23710: I did.
+[19:48:09] Lee Maylor: /it The gurgling is coming from the toilet.
+[19:48:19] Clarissa Harrison: [[ omfg 
+[19:48:25] Lee Maylor: /it Hmmm, that's strange.
+[19:48:31] Clarissa Harrison: [[ *pulls out a handgun*
+[19:48:32] CCA.C08-GRID.i1.23710 gave Themself 27 rounds
+[19:48:34] Lee Maylor: /it You don't see anything, but you hear something.
+[19:48:38] Lee Maylor: /it Something jumps out of it! What is that?
+[19:48:39] CCA.C08-GRID.i1.23710 gave Themself 90 rounds
+[19:48:39] Lee Maylor<STEAM_0:1:53097688> spawned NPC npc_vj_gc_foot
+[19:48:40] Clarissa Harrison: [[ I'M GOING IN
+[19:48:41] Lee Maylor<STEAM_0:1:53097688> spawned NPC npc_vj_gc_foot
+[19:48:45] CCA.C08-GRID.i1.23710: /toggleraise
+[19:48:51] Client "Doughnut" connected.
+[19:48:55] Clarissa Harrison: [[ AN ERROR
+[19:48:55] CCA.C08-GRID.i1.23710: /y WHAT THE FUCK?
+[19:49:00] Clarissa Harrison: [[ what is it
+[19:49:04] CCA.C08-GRID.i1.23710: .// grab the content
+[19:49:06] Clarissa Harrison: what.. is it?
+[19:49:18] Lee Maylor: /it Hmm, that's strange.
+[19:49:30] Lee Maylor: /it You hear a strange gurgling noise coming from your fridge.
+[19:49:43] CCA.C08-GRID.i1.23710: /r Dispatch, I just encountered a.... hostile potato? I don't know, unknown xenian.
+[19:49:50] Lee Maylor: /it That's strange.
+[19:49:53] CCA.C08-GRID.i1.23710: /toggleraise
+[19:50:03] Clarissa Harrison: // hostile potato
+[19:50:06] 1LT Samuel Brody: // wat
+[19:50:07] CCA.C08-GRID.i1.23710: .// dont judge me it looks like a potato
+[19:50:15] Lee Maylor: .//nvm it's locked back as you were
+[19:50:15] CCA.C08-GRID.i1.23710: // dont judge me it looks like a potato
+[19:50:20] CCA.C08-GRID.i1.23710: uh...
+[19:50:30] 1LT Samuel Brody: // dunno what dafuq u talkin bout
+[19:50:37] Clarissa Harrison: // hostile potato
+[19:50:43] CCA.C08-GRID.i1.23710: you okay?
+[19:50:49] 1LT Samuel Brody: // i dont even know where tf you are lmao
+[19:50:53] Clarissa Harrison: Urgh.. yeah, just nicked me is all..
+[19:50:56] Client "Doughnut" spawned in server <STEAM_0:1:127409364> (took 125 seconds).
+[19:50:59] Clarissa Harrison: /me rolls her shoulder, grunting.
+[19:51:11] CCA.C08-GRID.i1.23710: you should go to the CMB
+[19:51:17] Clarissa Harrison: Why th'hell did it come out of the toilet? Nah, I'll be fine.
+[19:51:36] Clarissa Harrison: /me goes back to the toilet, peering in. Not literally, per se. But you know what I mean.
+[19:51:37] Doughnut<STEAM_0:1:127409364> changed their name to CCA.C08-JUDGE.i2.89295
+[19:51:44] 1LT Samuel Brody: // oh fuck
+[19:51:50] CCA.C08-GRID.i1.23710: No idea, be glad you weren't using it, though.
+[19:51:51] 1LT Samuel Brody: // the JUDGE unit ishere
+[19:51:55] CCA.C08-GRID.i1.23710: Go wait outside.
+[19:51:57] CCA.C08-QrM.98240<STEAM_0:1:17219621> spawned NPC npc_vj_gc_civilian_slasher_male
+[19:51:59] 1LT Samuel Brody: // *fear*
+[19:52:01] Clarissa Harrison: Yeah.. spikey asshole does not sound good.
+[19:52:11] 1LT Samuel Brody: // wait a minute
+[19:52:27] 1LT Samuel Brody: // consul we in city 8 dafuq u talkin bout
+[19:52:31] Lee Maylor: //shush
+[19:52:36] 1LT Samuel Brody: // no
+[19:52:40] CCA.C08-GRID.i1.23710: // shouldn
+[19:52:43] CCA.C08-JUDGE.i2.89295<STEAM_0:1:127409364> changed their name to Klaudiusz Olszewski
+[19:52:44] 1LT Samuel Brody: // i need answers from the consu;
+[19:52:48] CCA.C08-GRID.i1.23710: // 't my character being doing that
+[19:52:48] CCA.C08-GRID.i1.23710: /toggleraise
+[19:52:49] CCA.C08-GRID.i1.23710: /toggleraise
+[19:52:52] CCA.C08-GRID.i1.23710: /toggleraise
+[19:52:55] CCA.C08-GRID.i1.23710: /toggleraise
+[19:53:06] Klaudiusz Olszewski: // hyelo am klaudiusz
+[19:53:08] CCA.C08-GRID.i1.23710: you hear that?
+[19:53:14] Clarissa Harrison: What?
+[19:53:25] Lee Maylor<STEAM_0:1:53097688> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[19:53:25] Lee Maylor<STEAM_0:1:53097688> spawned NPC npc_vj_gc_civilian_slasher_male
+[19:53:30] CCA.C08-GRID.i1.23710: /toggleraise
+[19:53:42] CCA.C08-GRID.i1.23710: /toggleraise
+[19:53:55] Lee Maylor<STEAM_0:1:53097688> changed their name to Dispatch
+[19:53:59] Dispatch: /dispatch exogen breach
+[19:54:01] Dispatch: //FUCK
+[19:54:02] Clarissa Harrison: // yes
+[19:54:05] Dispatch: /dispatch overwatch acknowledges
+[19:54:08] 1LT Samuel Brody: // bruh
+[19:54:08] CCA.C08-GRID.i1.23710: /r HOLY SHIT!
+[19:54:14] CCA.C08-GRID.i1.23710: /R IT WON'T FUCKING DIE!
+[19:54:24] CCA.C08-QrM.98240: /radio What happened?
+[19:54:29] CCA.C08-GRID.i1.23710: /R KATO CAFE!
+[19:54:35] CCA.C08-QrM.98240: /radio Need assistance?
+[19:54:35] Dispatch: /r Protection teams: Code: SWORD, DUTY, NEUTRALIZE.
+[19:54:36] CCA.C08-GRID.i1.23710: /R FUCKING SWORD LIMGS
+[19:54:41] Dispatch: /dispatch Protection teams: Code: SWORD, DUTY, NEUTRALIZE.
+[19:54:45] CCA.C08-QrM.98240: /radio Got it
+[19:54:52] Dispatch: /r Xenobic threat spotted in the city.
+[19:54:55] CCA.C08-GRID.i1.23710: /Y IN HERE
+[19:54:58] Dispatch: /r Please hnadle.
+[19:55:01] Clarissa Harrison: Don't need to tell me twice
+[19:55:02] CCA.C08-GRID.i1.23710: /toggleraise
+[19:55:04] Clarissa Harrison: [[*!
+[19:55:08] CCA.C08-QrM.98240: /radio The fuck?
+[19:55:17] Klaudiusz Olszewski<STEAM_0:1:127409364> changed their name to Preobrazhensky Bogolepov
+[19:55:25] Clarissa Harrison: [[ i'm gonna go ahead and download something req
+[19:55:27] CCA.C08-GRID.i1.23710: H-Holy shit...
+[19:55:31] Clarissa Harrison: Jesus..
+[19:55:31] CCA.C08-GRID.i1.23710: .// want me to wait for you
+[19:55:33] Dispatch<STEAM_0:1:53097688> spawned NPC npc_vj_gc_foot
+[19:55:34] Clarissa Harrison: [[ yes pls
+[19:55:34] Dispatch<STEAM_0:1:53097688> spawned NPC npc_vj_gc_foot
+[19:55:36] Dispatch<STEAM_0:1:53097688> spawned NPC npc_vj_gc_foot
+[19:55:42] Dropped "Clarissa Harrison" from server<STEAM_0:1:205314685>
+[19:55:43] CCA.C08-GRID.i1.23710: /toggleraise
+[19:55:43] Dispatch: /chargiveflag dispatch pet
+[19:55:49] CCA.C08-QrM.98240: /radio Got it!
+[19:55:53] CCA.C08-GRID.i1.23710: /toggleraise
+[19:55:59] CCA.C08-QrM.98240: /radio What the fuck is this thing!
+[19:56:06] Dispatch<STEAM_0:1:53097688> spawned NPC npc_vj_gc_civilian_slasher_female
+[19:56:11] Dispatch: .//you didn't see that
+[19:56:15] Dispatch<STEAM_0:1:53097688> spawned NPC npc_vj_gc_civilian_slasher_female
+[19:56:50] CCA.C08-QrM.98240: /radio it would appear we have some weird Xenian parasite or some shit infecting civvies.
+[19:56:52] Preobrazhensky Bogolepov<STEAM_0:1:127409364> changed their name to CCA.C08-JUDGE.DvL.69124
+[19:56:54] Dispatch: /it The... thing.... tries to put its claws through the window.
+[19:56:59] Dispatch: /it It seems to fail, but it's mad.
+[19:57:07] CCA.C08-GRID.i1.23710: /r There was one that looked like a potato in here.
+[19:57:12] Client "Opia ❦" connected.
+[19:57:18] CCA.C08-QrM.98240: Hm......
+[19:57:24] Erwin Ramstein: That.. Isn't good.
+[19:57:42] Dispatch<STEAM_0:1:53097688> spawned NPC npc_vj_gc_civilian_slasher_female
+[19:57:53] CCA.C08-QrM.98240: /radio Conscript, we'll need you to assist.
+[19:57:53] CCA.C08-GRID.i1.23710: let's... keep that door shut
+[19:57:59] Dispatch<STEAM_0:1:53097688> changed their name to CCA.C17-GRID.i3.26594
+[19:58:01] CCA.C08-GRID.i1.23710: go out the back
+[19:58:01] Client "Anti-swag gaming" spawned in server <STEAM_0:1:500792990> (took 1223 seconds).
+[19:58:06] CCA.C08-QrM.98240: // Micheal
+[19:58:10] CCA.C08-JUDGE.DvL.69124<STEAM_0:1:127409364> changed their name to PFC Lucas 'Chester' Arnal
+[19:58:10] 1LT Samuel Brody: // what
+[19:58:11] PFC Lucas 'Chester' Arnal: /toggleraise
+[19:58:12] CCA.C17-GRID.i3.26594 teleported to Erwin Ramstein
+[19:58:18] PFC Lucas 'Chester' Arnal: /toggleraise
+[19:58:19] CCA.C17-GRID.i3.26594: /toggleraise
+[19:58:24] CCA.C08-QrM.98240: // I called for your assistance.
+[19:58:26] CCA.C17-GRID.i3.26594: /r All units, report status!
+[19:58:26] CCA.C17-GRID.i3.26594: /toggleraise
+[19:58:28] CCA.C08-QrM.98240: // Is your radio functioning?
+[19:58:32] CCA.C08-QrM.98240: /radio Yellow
+[19:58:33] Client "Opia ❦" spawned in server <STEAM_0:1:205314685> (took 81 seconds).
+[19:58:35] 1LT Samuel Brody: // i didnt have it active sorry
+[19:58:37] PFC Lucas 'Chester' Arnal: /radio Green
+[19:58:38] CCA.C08-GRID.i1.23710: /r Status is... yellow, holy shit.
+[19:58:39] CCA.C17-GRID.i3.26594: /r I've got a single 10-98 at my 10-20, status green.
+[19:58:39] CCA.C08-QrM.98240: /radio Some odd Xenians are popping up.
+[19:58:51] 1LT Samuel Brody: // no its active?
+[19:58:51] CCA.C17-GRID.i3.26594: /r Any info on the Xenobes, and has anyone told us what to tell the 10-98s?
+[19:58:56] 1LT Samuel Brody: // dafuq
+[19:59:00] CCA.C17-GRID.i3.26594: /pm brody freq is 127.8
+[19:59:04] Opia ❦<STEAM_0:1:205314685> changed their name to Clarissa Harrison
+[19:59:07] PFC Lucas 'Chester' Arnal: /toggleraise
+[19:59:08] PFC Lucas 'Chester' Arnal: /toggleraise
+[19:59:09] CCA.C17-GRID.i3.26594: Stay calm. Close that window.
+[19:59:13] CCA.C08-QrM.98240: /radio They appear to be a parasite or something similar.
+[19:59:14] CCA.C08-QrM.98240: /radio And no
+[19:59:15] Erwin Ramstein: Alright.
+[19:59:16] Clarissa Harrison: [[ henlo
+[19:59:17] CCA.C17-GRID.i3.26594: We've got it under control.
+[19:59:20] 1LT Samuel Brody: // im on 127.8
+[19:59:23] Clarissa Harrison: [[ OH GOD THAT'S SO MUCH MORE CREEPIER
+[19:59:23] CCA.C08-GRID.i1.23710: right
+[19:59:24] CCA.C17-GRID.i3.26594: //DUDE
+[19:59:29] CCA.C17-GRID.i3.26594: //*i*
+[19:59:31] CCA.C08-QrM.98240: // WHAT THE FUCK
+[19:59:32] 1LT Samuel Brody: // fack
+[19:59:33] CCA.C17-GRID.i3.26594: //*i pmed it to you for a reason*
+[19:59:33] PFC Lucas 'Chester' Arnal: // *facepalm*
+[19:59:33] CCA.C08-GRID.i1.23710: /y QrM
+[19:59:35] 1LT Samuel Brody: // soz
+[19:59:37] 1LT Samuel Brody: //shit
+[19:59:37] CCA.C08-GRID.i1.23710: /toggleraise
+[19:59:38] CCA.C08-QrM.98240: What?
+[19:59:41] 1LT Samuel Brody: //am dum
+[19:59:46] 1LT Samuel Brody: //will now take my leave
+[19:59:47] CCA.C08-QrM.98240: Come on
+[19:59:48] CCA.C08-GRID.i1.23710: /toggleraise
+[19:59:49] CCA.C17-GRID.i3.26594: /y report status
+[19:59:50] CCA.C08-GRID.i1.23710: /toggleraise
+[19:59:56] Dropped "1LT Samuel Brody" from server<STEAM_0:1:75161355>
+[19:59:58] CCA.C17-GRID.i3.26594: .//didn't think that was a voiceline
+[20:00:07] Anti-swag gaming<STEAM_0:1:500792990> changed their name to Joe Morgan
+[20:00:08] CCA.C17-GRID.i3.26594: grid
+[20:00:08] PFC Lucas 'Chester' Arnal: /toggleraise
+[20:00:10] CCA.C08-GRID.i1.23710: /toggleraise
+[20:00:14] CCA.C17-GRID.i3.26594: //Welcome to the server!
+[20:00:18] CCA.C17-GRID.i3.26594: What's the status?
+[20:00:20] CCA.C17-GRID.i3.26594: What are we doing?
+[20:00:35] CCA.C08-GRID.i1.23710: That's a good question, kill what you can.
+[20:00:43] CCA.C17-GRID.i3.26594: Waiting on Dispatch orders.
+[20:00:45] CCA.C17-GRID.i3.26594: copy that
+[20:00:49] Clarissa Harrison: Er- not me though. Obviously
+[20:00:54] CCA.C08-QrM.98240: I would recommend we move to the Plaza.
+[20:00:56] CCA.C17-GRID.i3.26594: There's a 10-98 in the store, I recommend getting them to the apartments.
+[20:01:01] CCA.C08-QrM.98240: or that
+[20:01:02] CCA.C17-GRID.i3.26594: That way they're barricaded.
+[20:01:09] CCA.C17-GRID.i3.26594: /y I'm gonna go sweep.
+[20:01:14] PFC Lucas 'Chester' Arnal: /toggleraise
+[20:01:16] Joe Morgan: /removemask
+[20:01:21] Erwin Ramstein: /me *he'd peer over at his clock*
+[20:01:23] Joe Morgan: r
+[20:01:23] Joe Morgan: /removemask
+[20:01:24] Erwin Ramstein: Good Morning.
+[20:01:27] CCA.C17-GRID.i3.26594: //hello?
+[20:01:30] CCA.C17-GRID.i3.26594: //Joe?
+[20:01:35] Clarissa Harrison: Er- dude? Did you not hear the gunshots?
+[20:01:36] Joe Morgan: // hi
+[20:01:40] CCA.C17-GRID.i3.26594: //howdy, welcome to the server!
+[20:01:40] Clarissa Harrison: And the Dispatch lady?
+[20:01:42] Joe Morgan: /becomeclass
+[20:01:45] Erwin Ramstein: Yep, I did.
+[20:01:53] CCA.C08-GRID.i1.23710: move to your apartment, Citizen.
+[20:01:53] Clarissa Harrison: Why're y'so.. casual about it?
+[20:01:58] Erwin Ramstein: Saw a few Necrotics outside of my house, also.
+[20:02:00] CCA.C08-GRID.i1.23710: you too
+[20:02:01] Erwin Ramstein: This is my Housing Block.
+[20:02:05] Clarissa Harrison: right..
+[20:02:08] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned NPC sent_gc_necs
+[20:02:10] CCA.C08-GRID.i1.23710: what?
+[20:02:10] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned NPC npc_vj_gc_slasher
+[20:02:11] Erwin Ramstein: I was secure until you opened my Window.
+[20:02:12] CCA.C08-GRID.i1.23710: apply
+[20:02:14] Erwin Ramstein: /apply
+[20:02:18] CCA.C08-GRID.i1.23710: /viewdata erwin
+[20:02:19] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned NPC npc_vj_gc_slasher
+[20:02:20] PFC Lucas 'Chester' Arnal: /toggleraise
+[20:02:23] CCA.C08-GRID.i1.23710: huh
+[20:02:26] Erwin Ramstein: Yup.
+[20:02:32] Erwin Ramstein: Good luck with those things.
+[20:02:40] CCA.C08-GRID.i1.23710: /toggleraise
+[20:02:44] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> changed their name to OTA.C08-ECHO.OSS.19520
+[20:02:55] Joe Morgan: /removemask
+[20:02:56] Joe Morgan: /removemask
+[20:02:58] PFC Lucas 'Chester' Arnal: /toggleraise
+[20:02:58] CCA.C08-GRID.i1.23710: /toggleraise
+[20:02:58] OTA.C08-ECHO.OSS.19520: /dispatch Attention, citizens. Please report to your local housing block immediately.
+[20:03:04] CCA.C08-QrM.98240: /y Civvie!
+[20:03:08] CCA.C08-QrM.98240: Move it
+[20:03:08] Joe Morgan: help
+[20:03:10] Joe Morgan: how do
+[20:03:16] Joe Morgan: how do i get out of thirdperson
+[20:03:23] Joe Morgan: i pressed something on my keyboard
+[20:03:26] OTA.C08-ECHO.OSS.19520: /dispatch Protection teams: Ensure compliance with protection order of returning to housing blocks.
+[20:03:45] CCA.C08-QrM.98240: .// Hold your "C" key down, go to simple thirdperson and turn it off.
+[20:03:48] CCA.C08-GRID.i1.23710: hey!
+[20:03:50] Joe Morgan: cool
+[20:03:56] Erwin Ramstein: Yello.
+[20:03:57] CCA.C08-GRID.i1.23710: let's go.
+[20:04:02] Erwin Ramstein: Let's go, wher.e
+[20:04:05] Erwin Ramstein: This is my Housing Block.
+[20:04:06] OTA.C08-ECHO.OSS.19520<STEAM_0:1:53097688> spawned NPC npc_vj_gc_hunter
+[20:04:09] CCA.C08-QrM.98240: Stand in front of the window
+[20:04:10] CCA.C08-GRID.i1.23710: it'
+[20:04:14] Erwin Ramstein: See.
+[20:04:16] Erwin Ramstein: Bed n' all.
+[20:04:18] CCA.C08-GRID.i1.23710: it's more secure if you'
+[20:04:21] CCA.C08-GRID.i1.23710: re in the block.
+[20:04:29] CCA.C08-QrM.98240: Apply 
+[20:04:30] CCA.C08-GRID.i1.23710: we can keep an eye on everyone that way.
+[20:04:30] Erwin Ramstein: I mean if you *want* I can barricade the door n' all that. 
+[20:04:33] Joe Morgan: /apply
+[20:04:37] CCA.C08-GRID.i1.23710: no, move it.
+[20:04:40] OTA.C08-ECHO.OSS.19520<STEAM_0:1:53097688> spawned NPC npc_vj_gc_ds3_stalker
+[20:04:46] OTA.C08-ECHO.OSS.19520<STEAM_0:1:53097688> spawned NPC npc_vj_gc_ds2_stalker
+[20:04:51] Joe Morgan: /apply
+[20:04:56] CCA.C08-QrM.98240: /viewdata Joe
+[20:05:07] PFC Lucas 'Chester' Arnal: Everything good here?
+[20:05:11] CCA.C08-GRID.i1.23710: yep.
+[20:05:13] Erwin Ramstein: Not sure why I am being moved, *out* of my Housing Block..
+[20:05:13] OTA.C08-ECHO.OSS.19520: /dispatch Attention, citizens. Please prepare for a broadcast from the City 8 Minister of Health
+[20:05:14] CCA.C08-QrM.98240: DOB and blood type.
+[20:05:18] Erwin Ramstein: Oh, that sounds like danger.
+[20:05:18] PFC Lucas 'Chester' Arnal: /toggleraise
+[20:05:19] PFC Lucas 'Chester' Arnal was killed by npc_vj_gc_ds2_stalker
+[20:05:19] Erwin Ramstein: Fun.
+[20:05:20] Joe Morgan: what
+[20:05:22] CCA.C08-QrM.98240: .// Please note that it is 2006
+[20:05:24] Erwin Ramstein: I'm going away from this door now.
+[20:05:24] CCA.C08-GRID.i1.23710: /r I'm keeping an eye on Housing Block Collation.
+[20:05:31] CCA.C08-QrM.98240: Your date of birth and blood type?
+[20:05:31] CCA.C08-GRID.i1.23710: /toggleraise
+[20:05:51] CCA.C08-GRID.i1.23710: /toggleraise
+[20:05:52] PFC Lucas 'Chester' Arnal: /adminspawnmenu
+[20:05:53] Joe Morgan: 1956 and A+ 
+[20:05:56] CCA.C08-GRID.i1.23710: up here, somewhere safe
+[20:05:59] Erwin Ramstein: Sure.
+[20:06:00] CCA.C08-QrM.98240: Month and day?
+[20:06:00] PFC Lucas 'Chester' Arnal gave Themself 1000 rounds
+[20:06:00] PFC Lucas 'Chester' Arnal: !giveammo chester 1000
+[20:06:02] OTA.C08-ECHO.OSS.19520<STEAM_0:1:53097688> changed their name to Jason Mackey
+[20:06:03] PFC Lucas 'Chester' Arnal: /toggleraise
+[20:06:05] PFC Lucas 'Chester' Arnal: /toggleraise
+[20:06:12] Joe Morgan: 4th of february
+[20:06:13] Jason Mackey: t
+[20:06:16] CCA.C08-QrM.98240: /viewdata Joe
+[20:06:29] CCA.C08-GRID.i1.23710: come with me
+[20:06:51] PFC Lucas 'Chester' Arnal: /toggleraise
+[20:06:55] CCA.C08-QrM.98240: Medical and mental condition?
+[20:06:56] Jason Mackey: /broadcast Hello, everyone. This is Jason Mackey, your minister of Health for City 8.
+[20:07:00] Joe Morgan: None
+[20:07:03] CCA.C08-QrM.98240: I see
+[20:07:11] CCA.C08-QrM.98240: Hand me your transfer card.
+[20:07:11] Clarissa Harrison: [[ afk
+[20:07:13] CCA.C08-GRID.i1.23710: /toggleraise
+[20:07:14] Jason Mackey: /broadcast I'm here to talk to you about the very recent developments involving disturbing things you may be seeing on the streets.
+[20:07:16] Joe Morgan: /looc how
+[20:07:30] Jason Mackey: /broadcast The first thing to remember now is to take a deep breath and stay calm.
+[20:07:32] CCA.C08-QrM.98240: .// Press "tab" go to your inventory and drop your transfer card
+[20:07:39] PFC Lucas 'Chester' Arnal: /toggleraise
+[20:07:41] PFC Lucas 'Chester' Arnal: /toggleraise
+[20:07:41] Jason Mackey: /broadcast Please breathe deeply while listening.
+[20:08:04] CCA.C08-QrM.98240: Alright, stay here.
+[20:08:05] CCA.C08-GRID.i1.23710: /r 2 citizens in Housing block Collation, I'm keeping an eye on them.
+[20:08:11] PFC Lucas 'Chester' Arnal: /radio Copy
+[20:08:19] Erwin Ramstein: Oh hi.
+[20:08:21] CCA.C08-GRID.i1.23710: you two good?
+[20:08:23] Erwin Ramstein: I didn't even notice you.
+[20:08:26] Erwin Ramstein: I mean yeah.
+[20:08:31] Clarissa Harrison: yep
+[20:08:34] Erwin Ramstein: Well.
+[20:08:34] CCA.C08-QrM.98240: /me Holds out a CID to the civvie.
+[20:08:35] PFC Lucas 'Chester' Arnal: /toggleraise
+[20:08:37] Jason Mackey: /broadcast There is a very unrelenting Xenobe infection located within the following districts: 1, 7, 12, 13, 14, 23, 28, 30, 31, 33, and 57.
+[20:08:37] Erwin Ramstein: We're here now.
+[20:08:42] PFC Lucas 'Chester' Arnal: /toggleraise
+[20:08:45] Erwin Ramstein: Probably just another Portal Storm.
+[20:08:57] CCA.C08-QrM.98240: Drop the transfer card once more.
+[20:09:01] Clarissa Harrison: we should be safe from those, no?
+[20:09:03] Client "Beedle" connected.
+[20:09:06] Erwin Ramstein: Usually.
+[20:09:07] CCA.C08-QrM.98240: You may go
+[20:09:13] CCA.C08-GRID.i1.23710: stay way from the window, just in case.
+[20:09:15] Jason Mackey: /broadcast These particular infected individuals have not yet been identified in all Combine records. That said, please remember there is nothing to fear.
+[20:09:19] Erwin Ramstein: Saw a bunch of Xenobes with Electric Guns from my Store last time.
+[20:09:22] Erwin Ramstein: These guys can only slash.
+[20:09:25] Erwin Ramstein: Not as bad.
+[20:09:30] Jason Mackey: /broadcast Both the HEM and CCA are very effective, and will handle the threat.
+[20:09:56] Jason Mackey: /broadcast For now, stay away from all odd looking individuals and creatures, and try not to breathe if you are in the presence of one.
+[20:09:58] Clarissa Harrison: /actsit
+[20:10:32] Jason Mackey: /broadcast I will return occasionally with updates about the situation. For now, please stay safe and healthy. Xenobe infestation can have a nasty effect on the body.
+[20:10:42] Jason Mackey<STEAM_0:1:53097688> spawned NPC npc_vj_gc_uitslasher
+[20:10:58] Jason Mackey<STEAM_0:1:53097688> spawned NPC npc_vj_qc_feeder1
+[20:11:10] Jason Mackey<STEAM_0:1:53097688> spawned NPC npc_vj_gc_slasher4ds1
+[20:11:13] Jason Mackey<STEAM_0:1:53097688> spawned NPC npc_vj_gc_enhanced_leaper
+[20:11:27] Jason Mackey<STEAM_0:1:53097688> spawned NPC npc_vj_gc_leaper
+[20:11:29] CCA.C08-QrM.98240: /radio Units, do any of you need resupplies?
+[20:11:31] Jason Mackey<STEAM_0:1:53097688> spawned NPC npc_vj_gc_leaper
+[20:11:34] PFC Lucas 'Chester' Arnal: /toggleraise
+[20:11:41] CCA.C08-GRID.i1.23710: /r I do, housing block collation.
+[20:11:52] Client "Beedle" spawned in server <STEAM_0:1:31603520> (took 169 seconds).
+[20:12:03] PFC Lucas 'Chester' Arnal: /toggleraise
+[20:12:06] Jason Mackey<STEAM_0:1:53097688> spawned NPC npc_vj_qc_feeder
+[20:12:08] PFC Lucas 'Chester' Arnal: /toggleraise
+[20:12:08] CCA.C08-QrM.98240: What do you need?
+[20:12:11] Jason Mackey<STEAM_0:1:53097688> spawned NPC npc_vj_qc_feeder1
+[20:12:13] CCA.C08-GRID.i1.23710: shotgun ammunition.
+[20:12:14] Jason Mackey<STEAM_0:1:53097688> spawned NPC npc_vj_qc_feeder1
+[20:12:20] Beedle<STEAM_0:1:31603520> changed their name to Kane Davis
+[20:12:21] Clarissa Harrison: [[ woooooo
+[20:12:28] CCA.C08-GRID.i1.23710: /toggleraise
+[20:12:41] Jason Mackey<STEAM_0:1:53097688> spawned NPC npc_vj_gc_slasher_female
+[20:12:41] CCA.C08-GRID.i1.23710: /toggleraise
+[20:12:42] PFC Lucas 'Chester' Arnal: /toggleraise
+[20:12:42] Jason Mackey<STEAM_0:1:53097688> spawned NPC npc_vj_gc_slasher_female
+[20:12:47] Erwin Ramstein: .// Wish I could at least give you a nice seat at the Store, have you by a wooden chair and lamp light or smth
+[20:12:47] PFC Lucas 'Chester' Arnal: /toggleraise
+[20:12:49] Jason Mackey: /it Hmm, what's that noise?
+[20:12:49] PFC Lucas 'Chester' Arnal: /toggleraise
+[20:12:51] Erwin Ramstein: .// lmfao
+[20:12:52] PFC Lucas 'Chester' Arnal: /toggleraise
+[20:12:52] Clarissa Harrison: [[ yeah lol
+[20:13:00] PFC Lucas 'Chester' Arnal: /toggleraise
+[20:13:09] Erwin Ramstein: Oh hey
+[20:13:09] CCA.C08-QrM.98240: Jesus christ
+[20:13:12] Erwin Ramstein: What a funny noise
+[20:13:13] CCA.C08-GRID.i1.23710: /toggleraise
+[20:13:17] Clarissa Harrison: yeah..
+[20:13:19] Erwin Ramstein: Oh okay.
+[20:13:21] Clarissa Harrison: oh
+[20:13:23] Erwin Ramstein: That's a person.
+[20:13:25] Jason Mackey: //Welcome to the server!
+[20:13:26] PFC Lucas 'Chester' Arnal: Looks like they went on a diet for too long
+[20:13:30] CCA.C08-QrM.98240: haha
+[20:13:31] CCA.C08-QrM.98240: True
+[20:13:42] Erwin Ramstein: Oh wow.
+[20:13:44] Erwin Ramstein: Fucked up.
+[20:13:46] Clarissa Harrison: bang
+[20:13:48] Kane Davis: // Thxx 
+[20:13:49] Erwin Ramstein: Damnnnn.
+[20:13:51] Erwin Ramstein: Yo he fuckin' dead.
+[20:13:52] CCA.C08-GRID.i1.23710: /toggleraise
+[20:14:00] Jason Mackey: //We'll get someone to print you an ID here in a sec
+[20:14:04] Jason Mackey: /broadcast Attention, citizens. All deinfestation efforts are not going as well as we would like. We are considering other options as our brave defenders try to save us.
+[20:14:21] Clarissa Harrison: hello
+[20:14:39] Jason Mackey: /broadcast Please, stay calm and don't breathe too deep.
+[20:14:47] Jason Mackey<STEAM_0:1:53097688> spawned NPC monster_gonome
+[20:14:47] CCA.C08-GRID.i1.23710: ...Alright, we're moving.
+[20:14:51] CCA.C08-GRID.i1.23710: let's go.
+[20:14:57] Jason Mackey<STEAM_0:1:53097688> spawned NPC monster_gonome
+[20:15:01] PFC Lucas 'Chester' Arnal: /toggleraise
+[20:15:03] PFC Lucas 'Chester' Arnal: /toggleraise
+[20:15:07] PFC Lucas 'Chester' Arnal: /toggleraise
+[20:15:12] CCA.C08-GRID.i1.23710: we're going to that apartment block
+[20:15:13] Jason Mackey<STEAM_0:1:53097688> spawned NPC npc_barnacle
+[20:15:16] CCA.C08-GRID.i1.23710: book it across
+[20:15:20] PFC Lucas 'Chester' Arnal: /toggleraise
+[20:15:49] Jason Mackey: //someone is coming now! sorry aobut the delay
+[20:16:00] Kane Davis: // its all good
+[20:16:14] Jason Mackey<STEAM_0:1:53097688> spawned NPC npc_vj_gc_growler
+[20:16:20] CCA.C08-QrM.98240: apply 
+[20:16:26] Jason Mackey<STEAM_0:1:53097688> spawned NPC npc_vj_gc_foot
+[20:16:28] Kane Davis: Hello- I just came off the trains... Don't re-
+[20:16:30] Jason Mackey<STEAM_0:1:53097688> spawned NPC npc_vj_gc_hand
+[20:16:32] Jason Mackey<STEAM_0:1:53097688> spawned NPC npc_vj_gc_hand
+[20:16:33] CCA.C08-GRID.i1.23710: /toggleraise
+[20:16:35] Kane Davis: Uhm-
+[20:16:36] Kane Davis: /apply
+[20:16:38] CCA.C08-QrM.98240: Listen, pal.
+[20:16:43] Erwin Ramstein: Ow! They Jump!
+[20:16:44] CCA.C08-QrM.98240: Right now I don't have the time.
+[20:16:45] CCA.C08-QrM.98240: Alright
+[20:16:46] Jason Mackey<STEAM_0:1:53097688> spawned NPC npc_vj_qc_feeder1
+[20:16:46] Dropped "Joe Morgan" from server<STEAM_0:1:500792990>
+[20:16:47] Jason Mackey<STEAM_0:1:53097688> spawned NPC npc_vj_qc_feeder1
+[20:16:48] Erwin Ramstein: Thats a human hand!
+[20:16:49] PFC Lucas 'Chester' Arnal: /toggleraise
+[20:16:49] CCA.C08-QrM.98240: DOB and blood type.
+[20:16:50] CCA.C08-GRID.i1.23710: /toggleraise
+[20:16:51] Erwin Ramstein: Oh no.
+[20:16:51] Jason Mackey<STEAM_0:1:53097688> spawned NPC npc_vj_qc_feeder1
+[20:16:53] Erwin Ramstein: There is more.
+[20:16:55] CCA.C08-QrM.98240: .// Note that the date is 2006.
+[20:16:59] Erwin Ramstein: They, explode.
+[20:17:01] CCA.C08-GRID.i1.23710: it exploded!
+[20:17:03] Erwin Ramstein: Back down I go
+[20:17:04] Kane Davis: [[ shit well then erm
+[20:17:05] CCA.C08-QrM.98240: .// Also you must be 21 or older
+[20:17:06] Clarissa Harrison: up there!
+[20:17:12] Jason Mackey: //i know what will add to atmosphere!
+[20:17:17] PFC Lucas 'Chester' Arnal was killed by npc_vj_gc_growler
+[20:17:22] Clarissa Harrison: // what.
+[20:17:27] Clarissa Harrison: //the fuck
+[20:17:33] CCA.C08-GRID.i1.23710: /toggleraise
+[20:17:41] PFC Lucas 'Chester' Arnal: // magic demon thing
+[20:17:42] Kane Davis: DOB erm- December 23 1974...
+[20:17:45] CCA.C08-GRID.i1.23710: /toggleraise
+[20:17:46] CCA.C08-QrM.98240: I see
+[20:17:48] CCA.C08-GRID.i1.23710: /toggleraise
+[20:17:50] CCA.C08-QrM.98240: And your DOB?
+[20:17:51] PFC Lucas 'Chester' Arnal gave Themself 1000 rounds
+[20:17:51] PFC Lucas 'Chester' Arnal: !giveammo chester 1000
+[20:17:54] CCA.C08-QrM.98240: .// FIUCK
+[20:17:57] CCA.C08-QrM.98240: .// void
+[20:17:59] CCA.C08-QrM.98240: Blood type?
+[20:18:02] CCA.C08-GRID.i1.23710: stay here
+[20:18:09] Erwin Ramstein: Okay, sure.
+[20:18:10] Kane Davis: How should I know that?
+[20:18:10] Jason Mackey: /event In the distance, gunshots ring out. The sound of boots fills the streets.
+[20:18:19] CCA.C08-GRID.i1.23710: /adminspawnmenu
+[20:18:22] CCA.C08-QrM.98240: Whatever, it doesn't matter.
+[20:18:40] CCA.C08-QrM.98240: Alright, stand still for a moment and let me put in your data.
+[20:18:41] PFC Lucas 'Chester' Arnal: /toggleraise
+[20:18:42] PFC Lucas 'Chester' Arnal: /toggleraise
+[20:18:47] Jason Mackey: /broadcast Citizens, we have made the call to evacuate immediately. Repeat, evacuate immediately. Report to the train station at once.
+[20:18:47] CCA.C08-QrM.98240: /me Pulls out a small PDA and begins typing onto it.
+[20:18:53] CCA.C08-QrM.98240: /viewdata Kane
+[20:18:59] PFC Lucas 'Chester' Arnal: /toggleraise
+[20:18:59] Kane Davis: /action breaths deeply once.
+[20:19:00] Jason Mackey<STEAM_0:1:53097688> spawned NPC npc_vj_gc_phyon
+[20:19:03] PFC Lucas 'Chester' Arnal: /toggleraise
+[20:19:07] Clarissa Harrison: Oh no. A floating pan.
+[20:19:08] Erwin Ramstein: Pans.
+[20:19:12] Clarissa Harrison: /me grabs it.
+[20:19:12] Jason Mackey<STEAM_0:1:53097688> spawned NPC npc_vj_gc_divider_soldier
+[20:19:12] Kane Davis: Little.. Thin, the air.
+[20:19:17] Erwin Ramstein: To arms!
+[20:19:23] Kane Davis: What's the deal with this suit they gave me on the train?
+[20:19:24] Jason Mackey<STEAM_0:1:53097688> spawned NPC npc_vj_gc_waster
+[20:19:25] Clarissa Harrison: to arms, men!
+[20:19:37] Jason Mackey<STEAM_0:1:53097688> spawned NPC npc_vj_gc_puker
+[20:19:44] CCA.C08-QrM.98240: The air is toxic, currently you are near an airvent so it isn't effecting you.
+[20:19:45] Erwin Ramstein: .// i cant grab the pan how big is it
+[20:19:49] Jason Mackey<STEAM_0:1:53097688> spawned NPC npc_vj_gc_civilian_slasher_male
+[20:19:53] Jason Mackey<STEAM_0:1:53097688> spawned NPC npc_vj_gc_slasher3
+[20:19:55] CCA.C08-QrM.98240: Please place it on once you exit the trainstation.
+[20:20:00] Erwin Ramstein: .// l m a o
+[20:20:03] CCA.C08-QrM.98240: /viewdata Kane
+[20:20:11] CCA.C08-GRID.i1.23710: /y Come on.
+[20:20:11] Kane Davis: Greaaat- Where do I get more filters? They come with rations?
+[20:20:12] CCA.C08-GRID.i1.23710: /toggleraise
+[20:20:15] PFC Lucas 'Chester' Arnal: /y Lets go
+[20:20:16] PFC Lucas 'Chester' Arnal: /toggleraise
+[20:20:16] CCA.C08-GRID.i1.23710: suit
+[20:20:28] Jason Mackey: /broadcast All civil protection units are required to evacuate immediately. This is an order.
+[20:20:39] Jason Mackey: /broadcast The HEM and OTA will handle the city and re-sanitize it.
+[20:20:48] Kane Davis: /action looks around, "Damn, that's... Not good.."
+[20:20:53] CCA.C08-GRID.i1.23710: ew
+[20:20:56] Clarissa Harrison: /y REEEE!
+[20:20:56] PFC Lucas 'Chester' Arnal: Yuck
+[20:21:00] CCA.C08-QrM.98240: They come with rations and certain stores sell them.
+[20:21:02] CCA.C08-QrM.98240: Now then
+[20:21:10] CCA.C08-GRID.i1.23710: /toggleraise
+[20:21:16] Jason Mackey<STEAM_0:1:53097688> spawned NPC npc_vj_gc_scf_slasher
+[20:21:20] CCA.C08-GRID.i1.23710: /toggleraise
+[20:21:20] CCA.C08-QrM.98240: Any medical conditions or mental conditions I should know about>?
+[20:21:26] Jason Mackey set the hp for Everyone to 250
+[20:21:30] Jason Mackey set the armor for CCA.C08-GRID.i1.23710,CCA.C08-QrM.98240 to 150
+[20:21:33] Jason Mackey set the armor for PFC Lucas 'Chester' Arnal to 100
+[20:21:35] Clarissa Harrison: /Y FUCK!
+[20:21:38] Jason Mackey<STEAM_0:1:53097688> spawned NPC npc_vj_gc_scf_slasher
+[20:21:42] Jason Mackey<STEAM_0:1:53097688> spawned NPC npc_vj_gc_slasher6
+[20:21:48] Kane Davis: /action quickly and simply answers, "None."
+[20:21:51] Jason Mackey: /chargiveflag jason pet
+[20:22:05] CCA.C08-QrM.98240: I see
+[20:22:07] Clarissa Harrison was killed by npc_vj_gc_scf_slasher
+[20:22:10] Jason Mackey<STEAM_0:1:53097688> spawned NPC sent_gc_swarm
+[20:22:10] CCA.C08-QrM.98240: /viewdata Kane
+[20:22:10] Clarissa Harrison: //oof
+[20:22:22] CCA.C08-QrM.98240: Now then
+[20:22:23] CCA.C08-GRID.i1.23710: // that was me, sorry
+[20:22:27] CCA.C08-QrM.98240: Give me your transfer card.
+[20:22:30] Jason Mackey<STEAM_0:1:53097688> spawned NPC npc_vj_gc_swarm
+[20:22:32] CCA.C08-GRID.i1.23710: l
+[20:22:32] Jason Mackey<STEAM_0:1:53097688> spawned NPC npc_vj_gc_swarm
+[20:22:33] Jason Mackey<STEAM_0:1:53097688> spawned NPC npc_vj_gc_swarm
+[20:22:35] CCA.C08-GRID.i1.23710 brought Clarissa Harrison
+[20:22:41] Clarissa Harrison: [[hello
+[20:22:41] Kane Davis: /action sildes the card onto the table.
+[20:22:44] Jason Mackey<STEAM_0:1:53097688> used the tool remover on models/_maz_ter_/deadspace/deadspacenecros/slasher_variantsfix/slasher_cm2.mdl
+[20:22:44] Jason Mackey<STEAM_0:1:53097688> used the tool remover on models/_maz_ter_/deadspace/deadspacenecros/puker_necro.mdl
+[20:22:44] Jason Mackey<STEAM_0:1:53097688> used the tool remover on maps/rp_city8_edit_v4r.bsp
+[20:22:45] Jason Mackey<STEAM_0:1:53097688> used the tool remover on models/_maz_ter_/deadspace/deadspacenecros/slasher_variantsfix/slasher_s14.mdl
+[20:22:46] Jason Mackey<STEAM_0:1:53097688> used the tool remover on maps/rp_city8_edit_v4r.bsp
+[20:22:46] Jason Mackey<STEAM_0:1:53097688> used the tool remover on maps/rp_city8_edit_v4r.bsp
+[20:22:47] Jason Mackey<STEAM_0:1:53097688> used the tool remover on models/_maz_ter_/deadspace/deadspacenecros/slasher_variantsfix/slasher_d4.mdl
+[20:22:48] CCA.C08-GRID.i1.23710: /toggleraise
+[20:22:54] Jason Mackey gave Everyone 500 rounds
+[20:22:57] Kane Davis: [[ wtf
+[20:23:00] Jason Mackey cleared decals
+[20:23:03] Erwin Ramstein: Thank you.
+[20:23:04] CCA.C08-GRID.i1.23710 gave Themself 500 rounds
+[20:23:06] Clarissa Harrison: /y TEH PANS DO NOTHING
+[20:23:06] Jason Mackey gave Everyone 500 rounds
+[20:23:09] CCA.C08-QrM.98240: /y FUCK
+[20:23:10] CCA.C08-GRID.i1.23710: /toggleraise
+[20:23:22] Kane Davis: /action would be clutching his arm.
+[20:23:30] Jason Mackey<STEAM_0:1:53097688> spawned NPC npc_vj_gc_pregnant2
+[20:23:43] Erwin Ramstein: /y BIG ONE!
+[20:23:44] Kane Davis: /y What the hell is going on?!
+[20:23:49] CCA.C08-QrM.98240: /radio I need you fucks to pick me and a civvie up at the trainstation.
+[20:23:50] Clarissa Harrison was killed by npc_vj_gc_swarm
+[20:23:57] Jason Mackey set the hp for Everyone to 500
+[20:23:57] CCA.C08-QrM.98240: /y Xenian infestation!
+[20:23:59] Jason Mackey set the hp for Everyone to 500
+[20:23:59] PFC Lucas 'Chester' Arnal: /toggleraise
+[20:24:03] PFC Lucas 'Chester' Arnal: Fuck that
+[20:24:06] PFC Lucas 'Chester' Arnal: /toggleraise
+[20:24:18] CCA.C08-QrM.98240: /me Tosses a CID at the civvie
+[20:24:22] CCA.C08-QrM.98240: Come on!
+[20:24:23] Jason Mackey: /broadcast EVACUATE IMMEDIATELY. REPORT TO THE TRAIN STATION, THIS IS AN ORDER.
+[20:24:26] CCA.C08-QrM.98240: .// Hazmat
+[20:24:28] CCA.C08-GRID.i1.23710: /Y in!
+[20:24:34] CCA.C08-QrM.98240: Okay nevermind
+[20:24:35] CCA.C08-QrM.98240: Its fine
+[20:24:49] PFC Lucas 'Chester' Arnal: /toggleraise
+[20:24:49] CCA.C08-QrM.98240: /y Over here!
+[20:24:54] Jason Mackey<STEAM_0:1:53097688> changed their name to CCA.C17-GRID.i3.26594
+[20:25:02] Kane Davis: /action would be clutching his arm and clear pain.
+[20:25:03] PFC Lucas 'Chester' Arnal: /toggleraise
+[20:25:13] Erwin Ramstein: Hey, you alright Friend?
+[20:25:25] CCA.C17-GRID.i3.26594: /event A razor train *bullets* into the station. You've never seen a train stop so fast, you swear.
+[20:25:29] Kane Davis: Those... Things... Cut me open a bit I think.
+[20:25:33] CCA.C17-GRID.i3.26594: /Y EVERYBODY IN! NOW!
+[20:25:36] Kane Davis: [[ they are errors assuming headcarbs
+[20:25:39] CCA.C17-GRID.i3.26594: .//just /me it
+[20:25:40] Kane Davis: [[crabs
+[20:25:44] Erwin Ramstein: Oh jeez.. On the Train, I'll patch you up. Don't worry.
+[20:25:44] Clarissa Harrison: /me swooces right in.
+[20:25:44] CCA.C08-GRID.i1.23710: /me ins the in
+[20:25:50] Erwin Ramstein: /me *Enters the Train*
+[20:25:52] CCA.C08-GRID.i1.23710: .// this is how you go in
+[20:25:53] CCA.C17-GRID.i3.26594 blinded CCA.C08-GRID.i1.23710,CCA.C08-QrM.98240,Clarissa Harrison,Erwin Ramstein,Kane Davis,PFC Lucas 'Chester' Arnal by amount 255
+[20:25:54] Clarissa Harrison: swooce. swooce.
+[20:25:55] CCA.C08-GRID.i1.23710 was killed by trigger_hurt
+[20:26:00] Clarissa Harrison was killed by trigger_hurt
+[20:26:06] CCA.C17-GRID.i3.26594 blinded CCA.C08-GRID.i1.23710,CCA.C08-QrM.98240,Clarissa Harrison,Erwin Ramstein,Kane Davis,PFC Lucas 'Chester' Arnal by amount 255
+[20:26:13] Kane Davis: [[ wtf
+[20:26:16] CCA.C17-GRID.i3.26594: /event Everyone boards the train and the door shuts.
+[20:26:17] CCA.C08-GRID.i1.23710 unblinded Themself
+[20:26:17] Clarissa Harrison: [[ vision?
+[20:26:20] Clarissa Harrison: [[o
+[20:26:26] CCA.C17-GRID.i3.26594: /event You're not sure where you're going, but you pray it's somewhere safer than this hellhole.
+[20:26:37] Erwin Ramstein was killed by trigger_hurt
+[20:26:49] CCA.C17-GRID.i3.26594 changed the map to rp_betawasteland with gamemode ixhl2rp
+[20:26:49] Server is shutting down/changing levels.
+
+
+
+[20:28:21] New map: rp_betawasteland
+[20:29:51] Client "Opia ❦" spawned in server <STEAM_0:1:205314685> (took 142 seconds).
+[20:29:51] Client "Doughnut" spawned in server <STEAM_0:1:127409364> (took 142 seconds).
+[20:29:56] Client "Beedle" spawned in server <STEAM_0:1:31603520> (took 147 seconds).
+[20:29:59] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 150 seconds).
+[20:30:05] Client "FB|| light ROOM" spawned in server <STEAM_0:1:17219621> (took 156 seconds).
+[20:30:08] Client "Odin" spawned in server <STEAM_0:0:595064043> (took 159 seconds).
+[20:30:19] Beedle<STEAM_0:1:31603520> changed their name to Kane Davis
+[20:30:28] Opia ❦<STEAM_0:1:205314685> changed their name to Clarissa Harrison
+[20:30:32] Client "DRD" spawned in server <STEAM_0:0:193599766> (took 183 seconds).
+[20:30:46] FB|| light ROOM<STEAM_0:1:17219621> changed their name to CCA.C08-QrM.98240
+[20:30:47] matt saton<STEAM_0:1:53097688> changed their name to Lee Maylor
+[20:30:53] Lee Maylor blinded CCA.C08-QrM.98240,Clarissa Harrison,DRD,Doughnut,Kane Davis,Odin by amount 255
+[20:31:01] Odin<STEAM_0:0:595064043> changed their name to Erwin Ramstein
+[20:31:08] Clarissa Harrison: // why is my vision black
+[20:31:11] Kane Davis: // This is not the map I'm looking to join to run /away/ from headcrabs. thx.
+[20:31:12] Lee Maylor: //waiting for players
+[20:31:16] Erwin Ramstein: // mine do be too
+[20:31:23] Lee Maylor brought CCA.C08-QrM.98240,Clarissa Harrison,Erwin Ramstein,Kane Davis
+[20:31:28] Doughnut<STEAM_0:1:127409364> changed their name to Preobrazhensky Bogolepov
+[20:31:33] Lee Maylor brought Preobrazhensky Bogolepov
+[20:31:40] Lee Maylor blinded CCA.C08-QrM.98240,Clarissa Harrison,DRD,Erwin Ramstein,Kane Davis,Preobrazhensky Bogolepov by amount 255
+[20:31:55] Lee Maylor: /event We're waiting for everyone to join back, standby, and thank you for your patience!
+[20:31:59] Kane Davis: [[ hi 
+[20:32:05] Lee Maylor: /event Everything will be explained, including the map.
+[20:32:07] Kane Davis: [[ cray event huh
+[20:32:12] Lee Maylor: /spawnadd citizen
+[20:32:12] Lee Maylor: /spawnadd citizen
+[20:32:13] Lee Maylor: /spawnadd citizen
+[20:32:14] Lee Maylor: /spawnadd citizen
+[20:32:15] Lee Maylor: /spawnadd citizen
+[20:32:17] Lee Maylor: /spawnadd civil
+[20:32:18] Lee Maylor: /spawnadd civil
+[20:32:18] Lee Maylor: /spawnadd civil
+[20:32:19] Lee Maylor: /spawnadd civil
+[20:32:20] Lee Maylor: /spawnadd civil
+[20:32:21] Lee Maylor: /spawnadd civil
+[20:32:21] CCA.C08-QrM.98240: .// A lot of shit has just happened lmao.
+[20:32:34] Lee Maylor: .//don't worry it's gonna get way more terrible
+[20:32:54] Lee Maylor: .//or your money back
+[20:33:00] Kane Davis: [[ well seeing what map we're in and the headcrabs I can put two together
+[20:33:23] Lee Maylor: /event It would seem everyone is here.
+[20:33:27] Lee Maylor: /event Let's get started.
+[20:33:35] Lee Maylor: /EVENT Beginning IC /events.
+[20:34:06] Lee Maylor: /event The train rolls down the train track for.. how long has it been? 10 minutes? 3 hours? This thing gives you time dilation. You don't think you've ever been in a razor train.
+[20:34:39] Lee Maylor: /event All you know is that it gets warmer, and that these train cars are not air conditioned.
+[20:35:08] Lee Maylor: /event Then you hear it. A single *shunk*, and then the screeches of metal. The train is slowing down.
+[20:35:19] DRD<STEAM_0:0:193599766> changed their name to CCA.C08-GRID.i1.23710
+[20:35:27] CCA.C08-GRID.i1.23710 unblinded Themself
+[20:35:30] Lee Maylor: /event You feel just a little askew. You look, and you see the train is tilted sideways.
+[20:35:53] CCA.C08-GRID.i1.23710 gave Themself 28 rounds
+[20:35:58] CCA.C08-GRID.i1.23710 gave Themself 500 rounds
+[20:36:02] CCA.C08-GRID.i1.23710 gave Themself 500 rounds
+[20:36:30] Lee Maylor: /event It doesn't get better. From there, it tilts more. The screeching gets far worse. The train is falling down.
+[20:36:49] Clarissa Harrison: /y Ohh shit!
+[20:36:51] Lee Maylor: /event The last thing you hear is a crash.
+[20:36:58] CCA.C08-GRID.i1.23710: // we died
+[20:37:10] CCA.C08-QrM.98240: // Event over, we're all dead now
+[20:37:12] Preobrazhensky Bogolepov: // Great event gnight
+[20:37:14] Lee Maylor: //Those of you who are unblinded, you can do whatever. I will explain what happens to the rest.
+[20:37:20] Lee Maylor brought Kane Davis
+[20:37:25] Lee Maylor set the hp for Everyone to 100
+[20:37:34] CCA.C08-GRID.i1.23710: // sdiuhgosdhodsgil
+[20:37:35] Lee Maylor blinded Everyone by amount 255
+[20:37:39] Lee Maylor unblinded Everyone
+[20:37:52] Lee Maylor: /event You crawl out of the train. You think you see someone trapped under.
+[20:37:55] Lee Maylor cloaked CCA.C08-GRID.i1.23710,CCA.C08-QrM.98240 by amount 0
+[20:37:57] CCA.C08-GRID.i1.23710: /toggleraise
+[20:38:05] Kane Davis: [[ lol ok 
+[20:38:05] Preobrazhensky Bogolepov: Well shit
+[20:38:09] Clarissa Harrison: // so wait am i out of the train???
+[20:38:09] Lee Maylor: /event Looks like a metrocop.
+[20:38:12] Lee Maylor: //yes
+[20:38:18] Lee Maylor: //if you were unblinded, you made it out.
+[20:38:25] Kane Davis: /action crawls slowly out a train window groaning silently.
+[20:38:33] Erwin Ramstein: That, isn't good. Is everyone okay?
+[20:38:43] Clarissa Harrison: /me crawls out of the broken window, glass and shattered ceramic surrounding her.
+[20:38:55] Preobrazhensky Bogolepov: I'm a bit beat up but I'll live
+[20:39:02] Clarissa Harrison: ergh.. could be better
+[20:39:06] Kane Davis: I think erm- I think so... What in the-
+[20:39:23] Erwin Ramstein: Alright.. Don't have any Serious Medical on me but, some Sewn Cloth to dress anything that needs to be.. But.. Lets.. Assess our Situatio-
+[20:39:33] Erwin Ramstein: We appear to be in the middle of nowhere.
+[20:39:35] Lee Maylor unblinded Everyone
+[20:39:44] Clarissa Harrison: /me points. "There's a dead cop there."
+[20:39:51] Erwin Ramstein: This looks like a *Huge* Antlion Spot...
+[20:39:58] Lee Maylor: /event The cop doesn't seem dead. You didn't hear that death sound, whatever your citizen self knows it to be.
+[20:40:12] Erwin Ramstein: Oh, the other CCA may be responding, I'm sure there's some kind of.. Signal.
+[20:40:14] Clarissa Harrison: Or.. not dead?
+[20:40:18] Preobrazhensky Bogolepov: Should we put him out of his misery?
+[20:40:22] Erwin Ramstein: ...No?
+[20:40:25] Clarissa Harrison: Nah.
+[20:40:26] Erwin Ramstein: You shouldn't, murder someone.
+[20:40:30] Erwin Ramstein: There were other CCA.
+[20:40:36] Clarissa Harrison: /me waves. "Hey! Can y'hear me?"
+[20:40:43] Kane Davis: We should find a way down, but stay off the sand, or start walking back the way we came.
+[20:40:44] Lee Maylor: /it No response to the shouting.
+[20:40:57] Erwin Ramstein: /me *he'd latch onto the CCA's Arms, attaching himself lightly but with enough applied force to attempt to drag the man out from under the Railway Train.*
+[20:41:14] Lee Maylor: /it You drag out one metrocop. Inside, you see another one in there.
+[20:41:18] Lee Maylor brought CCA.C08-GRID.i1.23710
+[20:41:19] Kane Davis: /action walks over and begins to aid.
+[20:41:20] Lee Maylor uncloaked CCA.C08-GRID.i1.23710
+[20:41:25] Erwin Ramstein: Alright, look over this one.
+[20:41:29] Clarissa Harrison: /me reaches forward, pulling the second metro cop out.
+[20:41:29] Erwin Ramstein: /me *He'd click on his flashlight.*
+[20:41:32] Erwin Ramstein: Going in.
+[20:41:32] CCA.C08-GRID.i1.23710: .// hi
+[20:41:35] Lee Maylor uncloaked Everyone
+[20:41:36] Lee Maylor unblinded Everyone
+[20:41:38] Erwin Ramstein: /me *Pulls forward the Second CCA Unit.*
+[20:41:55] CCA.C08-GRID.i1.23710: my- fucking hell...
+[20:42:00] Erwin Ramstein: You alright?
+[20:42:02] CCA.C08-QrM.98240: /me The QrM unit slides out of the train door and simply sits down with his Mp7.
+[20:42:14] CCA.C08-GRID.i1.23710: Y-yeah, I think.
+[20:42:19] CCA.C08-QrM.98240: .// Erwin, can you move?
+[20:42:22] Erwin Ramstein: /me *he'd assess the Grid Unit.*
+[20:42:35] CCA.C08-QrM.98240: What in the fuck happened?
+[20:42:36] Erwin Ramstein: /me *Are there any Visible Wounds?*
+[20:42:39] Kane Davis: We need to figure out where we are... Where were we headed?
+[20:42:52] Erwin Ramstein: Train came to a harsh stop, lopsided and flopped with you two under it. Dragged you out.
+[20:43:03] CCA.C08-GRID.i1.23710: /it Nothing visible, the GRID is fine, relative to what just happened at least.
+[20:43:09] Erwin Ramstein: We're in, the middle of nowhere.. There are some House Remnants down the pathway.
+[20:43:22] CCA.C08-QrM.98240: /it The same can be said for the QrM.
+[20:43:31] Erwin Ramstein: We should attempt to establish contact with a nearby Patrol Unit.. or City?
+[20:43:32] Lee Maylor: /pm kane You notice some strange trip on the railroad where you just looked a few moments ago.
+[20:43:35] Erwin Ramstein: If you can.
+[20:43:40] CCA.C08-QrM.98240: Out here.......no.
+[20:43:41] CCA.C08-GRID.i1.23710: where even are we?
+[20:43:43] Erwin Ramstein: Damn..
+[20:43:47] Erwin Ramstein: I thought you'd know.
+[20:43:50] CCA.C08-QrM.98240: Looks to be the wasteland.
+[20:43:57] Erwin Ramstein: Well...
+[20:44:11] Erwin Ramstein: Does anyone want to come with me to *he'd point to the Barn* that way?
+[20:44:14] Kane Davis: /pm lee uhhhh wat?
+[20:44:25] Erwin Ramstein: Seems straightforward.. Literally.
+[20:44:25] CCA.C08-QrM.98240: Let me try something real quick.
+[20:44:36] Lee Maylor: /pm kane On the railroad behind you, where you just looked a minute ago, you notice some strange strip stretched across the track.
+[20:44:39] CCA.C08-QrM.98240: /me Starts speaking into his radio.
+[20:44:51] CCA.C08-GRID.i1.23710: i see a church
+[20:44:57] Lee Maylor: .//ignore me
+[20:45:08] Erwin Ramstein: // lmfao
+[20:45:11] Lee Maylor: //doughnut is coming back, just had an internet problem
+[20:45:12] CCA.C08-QrM.98240: /radio This is QrM.98240 speaking: We appear to be in the wasteland, can anybody hear this transmission?
+[20:45:20] Clarissa Harrison: /y Hey guys.
+[20:45:24] Erwin Ramstein: /y Hi?
+[20:45:28] Clarissa Harrison: /y There's some kind of lighthouse
+[20:45:35] Dropped "Preobrazhensky Bogolepov" from server<STEAM_0:1:127409364>
+[20:45:35] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_junk/ibeam01a.mdl
+[20:45:58] Erwin Ramstein: /y City... Ruins?
+[20:46:06] Lee Maylor<STEAM_0:1:53097688> used the tool material on models/props_junk/ibeam01a.mdl
+[20:46:07] Lee Maylor<STEAM_0:1:53097688> used the tool material on models/props_junk/ibeam01a.mdl
+[20:46:16] CCA.C08-GRID.i1.23710: /me would turn the knob, going through the frequencies
+[20:46:25] Kane Davis: /action trips over the door
+[20:46:29] Kane Davis: /y Agh!
+[20:46:35] CCA.C08-QrM.98240: You alright?
+[20:46:43] Kane Davis: The hell- A trap door?
+[20:46:47] CCA.C08-QrM.98240: Looks to be
+[20:46:49] CCA.C08-QrM.98240: Hey GRID
+[20:46:52] CCA.C08-QrM.98240: You go first
+[20:46:52] Erwin Ramstein: Down.. The Hatch?
+[20:46:54] CCA.C08-QrM.98240: Then the civvies
+[20:46:56] CCA.C08-QrM.98240: And me
+[20:47:14] Erwin Ramstein: Train?
+[20:47:17] Erwin Ramstein: I hear a train..
+[20:47:17] Kane Davis: /action stares silently at the poster for a moment.
+[20:47:18] CCA.C08-GRID.i1.23710: // ignore it
+[20:47:42] Lee Maylor<STEAM_0:1:53097688> spawned NPC npc_antlion
+[20:47:44] CCA.C08-GRID.i1.23710: hey
+[20:47:47] CCA.C08-GRID.i1.23710: did you see that church?
+[20:47:48] Clarissa Harrison: Heya.
+[20:47:51] Clarissa Harrison: Yeah, I did.
+[20:47:51] Erwin Ramstein: Neat.
+[20:47:53] CCA.C08-GRID.i1.23710: I saw what looked to be a farm house
+[20:48:02] Erwin Ramstein: /me *he'd pick up the Gnome, placing it in his Briefcase.*
+[20:48:11] Erwin Ramstein: A Nice Decoration.
+[20:48:13] Lee Maylor: .//i'll give the item, hold on
+[20:48:20] Erwin Ramstein: .// lmao you have a gnome item
+[20:48:27] CCA.C08-QrM.98240: Jesus christ
+[20:48:35] CCA.C08-QrM.98240: This situation has gone from shitty to beyond fucked
+[20:48:41] Erwin Ramstein: Yep, but you're the glue.
+[20:48:43] CCA.C08-GRID.i1.23710: over there
+[20:48:45] Erwin Ramstein: Keep it stuck together!
+[20:49:00] Lee Maylor: /createcustomitem "Garden Gnome" "Its eyes behold the pain of the void."
+[20:49:02] Lee Maylor: /plysearch
+[20:49:09] Lee Maylor: /createcustomitem "Garden Gnome" models/props_junk/gnome.mdl "Its eyes behold the pain of the void."
+[20:49:10] Lee Maylor: /plysearch
+[20:49:19] Kane Davis: Erm- 
+[20:49:23] Lee Maylor<STEAM_0:1:53097688> spawned NPC npc_vj_hla_antlion
+[20:49:23] CCA.C08-QrM.98240: ignore it
+[20:49:26] CCA.C08-GRID.i1.23710: /toggleraise
+[20:49:31] Kane Davis: /y Jesus!
+[20:49:32] Clarissa Harrison: /y Oi, fuck off!
+[20:49:39] Clarissa Harrison: /y Git back in your fuckin'.. hole
+[20:49:51] CCA.C08-GRID.i1.23710: /toggleraise
+[20:49:55] Kane Davis: The latter is broken!
+[20:49:55] CCA.C08-QrM.98240: Hm...
+[20:50:08] Lee Maylor: /chargiveitem albright nugget
+[20:50:15] CCA.C08-QrM.98240: /y Come on!
+[20:50:22] CCA.C08-GRID.i1.23710: .// this sign means nothing to me, i can't read
+[20:50:24] Clarissa Harrison: Look! Pallets. We can use these to help with big pits
+[20:50:32] Kane Davis: Ugh- We're all
+[20:50:36] Kane Davis: gonna die down here.
+[20:50:39] Lee Maylor<STEAM_0:1:53097688> spawned NPC npc_vj_hla_antlion
+[20:50:42] CCA.C08-QrM.98240: /y Are you stupid?!
+[20:50:50] CCA.C08-QrM.98240: Jesus fucking christ
+[20:50:51] Lee Maylor extinguished all 5 fires.
+[20:50:56] CCA.C08-QrM.98240: /y Civvie!
+[20:50:58] Kane Davis: /y We're gonna die down here! We're gonna die!
+[20:51:05] Clarissa Harrison: /y Calm down.
+[20:51:08] CCA.C08-GRID.i1.23710: /toggleraise
+[20:51:12] Client "Doughnut" connected.
+[20:51:25] Client "Royal Rouge" connected.
+[20:51:28] CCA.C08-GRID.i1.23710: /toggleraise
+[20:51:41] Lee Maylor<STEAM_0:1:53097688> spawned NPC npc_vj_st_zergling
+[20:51:43] Lee Maylor<STEAM_0:1:53097688> spawned NPC npc_vj_st_zergling
+[20:51:44] Lee Maylor<STEAM_0:1:53097688> spawned NPC npc_vj_st_zergling
+[20:51:46] CCA.C08-GRID.i1.23710: OH MY
+[20:51:46] CCA.C08-GRID.i1.23710: /toggleraise
+[20:51:55] CCA.C08-GRID.i1.23710: // ZERGY WERGY UWU
+[20:52:23] CCA.C08-GRID.i1.23710: /toggleraise
+[20:52:30] Lee Maylor extinguished all 3 fires.
+[20:52:50] CCA.C08-QrM.98240: Fucking asshole GRId
+[20:52:55] CCA.C08-QrM.98240: /me Holds out a hand to the civvie
+[20:53:01] Lee Maylor<STEAM_0:1:53097688> spawned/gave himself swep grub_combine_sniper
+[20:53:02] Lee Maylor: /toggleraise
+[20:53:04] Erwin Ramstein: /me *He'd extend his arm and hand*
+[20:53:18] CCA.C08-GRID.i1.23710: oh no
+[20:53:20] CCA.C08-QrM.98240 brought Erwin Ramstein
+[20:53:20] CCA.C08-QrM.98240: !bring Erwin
+[20:53:25] CCA.C08-GRID.i1.23710: /y SNIPER!
+[20:53:28] CCA.C08-QrM.98240: /me Holds out his hand to another civv-
+[20:53:32] CCA.C08-GRID.i1.23710: /Y DOWN HERE
+[20:53:32] Lee Maylor<STEAM_0:1:53097688> spawned/gave himself swep weapon_eagle
+[20:53:32] Client "Royal Rouge" spawned in server <STEAM_0:1:606773038> (took 127 seconds).
+[20:53:33] Lee Maylor: /toggleraise
+[20:53:38] Clarissa Harrison: /y Hit the deck!
+[20:53:43] Client "Doughnut" spawned in server <STEAM_0:1:127409364> (took 151 seconds).
+[20:53:49] Kane Davis: /y Who can be shooting at us with a sniper?!
+[20:53:58] CCA.C08-QrM.98240: /y Good question!
+[20:54:13] CCA.C08-GRID.i1.23710: This way
+[20:54:13] Lee Maylor<STEAM_0:1:53097688> spawned/gave himself swep grub_combine_sniper
+[20:54:14] Lee Maylor: /toggleraise
+[20:54:18] Kane Davis: Overwatch? They dont know.
+[20:55:02] Kane Davis: /y Over there!
+[20:55:05] CCA.C08-QrM.98240: /y FUCKING SHIT
+[20:55:19] Royal Rouge<STEAM_0:1:606773038> changed their name to Amelia Redd
+[20:55:25] Lee Maylor: //Welcome!
+[20:55:28] Amelia Redd: // I'm dying.
+[20:55:34] Kane Davis: That- That's a long way down.
+[20:55:34] Clarissa Harrison: // Aren't we all?
+[20:55:34] Doughnut<STEAM_0:1:127409364> changed their name to Preobrazhensky Bogolepov
+[20:55:41] Lee Maylor: //go ahead and put on your suit and your filters, you actually came on during an event!
+[20:55:45] Preobrazhensky Bogolepov: // new person hello
+[20:55:48] CCA.C08-QrM.98240: Okay
+[20:55:50] CCA.C08-QrM.98240: Cover
+[20:55:52] Lee Maylor<STEAM_0:1:53097688> spawned NPC npc_vj_st_mutalisk
+[20:55:56] Preobrazhensky Bogolepov: /looc follow me my child
+[20:55:57] CCA.C08-QrM.98240: And a decent home
+[20:56:02] Amelia Redd: .// Well what is going on lol
+[20:56:06] Preobrazhensky Bogolepov: /looc an event
+[20:56:11] CCA.C08-GRID.i1.23710: /toggleraise
+[20:56:11] Amelia Redd: .// what is the event about
+[20:56:12] Clarissa Harrison: /y fuck!
+[20:56:14] Lee Maylor set the hp for Everyone to 250
+[20:56:29] CCA.C08-GRID.i1.23710 was killed by func_door
+[20:56:31] Erwin Ramstein: // lmao
+[20:56:33] Preobrazhensky Bogolepov: /toggleraise
+[20:56:40] Preobrazhensky Bogolepov: Come
+[20:56:43] CCA.C08-QrM.98240: .// Missclick
+[20:56:49] CCA.C08-GRID.i1.23710 gave Themself 500 rounds
+[20:56:57] CCA.C08-GRID.i1.23710 gave Themself 500 rounds
+[20:57:02] CCA.C08-QrM.98240: /y Just wait here!
+[20:57:07] Clarissa Harrison: Alright..
+[20:57:14] CCA.C08-QrM.98240: Jesus fucking christ this situation is absolutely horrible.
+[20:57:15] Lee Maylor<STEAM_0:1:53097688> changed their name to Unknown #​1
+[20:57:19] CCA.C08-GRID.i1.23710: uh
+[20:57:21] Clarissa Harrison: Yeah, you're telling me
+[20:57:43] Kane Davis: I need a flashlight down here.
+[20:57:51] Clarissa Harrison: welcome back
+[20:58:07] CCA.C08-QrM.98240: Is this some fucking mine?
+[20:58:12] CCA.C08-GRID.i1.23710: blood
+[20:58:16] CCA.C08-QrM.98240: Probably pre-war
+[20:58:18] Clarissa Harrison: well yes. It's mine. But literally mine.
+[20:58:20] Amelia Redd: /pm Lee can you tell me what this event is about lol
+[20:58:20] Kane Davis: Does anyone have an extra flashlight?
+[20:58:25] Clarissa Harrison: I don't, sorry
+[20:58:29] CCA.C08-QrM.98240: Negative
+[20:58:36] CCA.C08-QrM.98240: Now then
+[20:58:38] CCA.C08-GRID.i1.23710: i don't.
+[20:58:41] Kane Davis: Dark down here... 
+[20:58:47] Unknown #​1: /charsetmodel maylor models/nasca/hl2/cmb/male_cp_penal4_pm.mdl
+[20:58:53] Unknown #​1: /charsetmodel unknown models/nasca/hl2/cmb/male_cp_penal4_pm.mdl
+[20:59:01] Unknown #​1: /charsetmodel unknown models/nasca/hl2/cmb/male_cp_penal4.mdl
+[20:59:19] Unknown #​1<STEAM_0:1:53097688> spawned/gave himself swep tfa_ordinalrifle
+[20:59:22] CCA.C08-QrM.98240: /y Come on!
+[20:59:26] Clarissa Harrison: How ominous.
+[20:59:31] Clarissa Harrison: Standing there with a pan
+[20:59:41] Kane Davis: Ugh- It's pitch black.
+[20:59:41] Unknown #​1<STEAM_0:1:53097688> spawned NPC npc_zombie
+[20:59:42] CCA.C08-QrM.98240: /y move it
+[20:59:46] CCA.C08-GRID.i1.23710: /toggleraise
+[20:59:50] Kane Davis: /y I can't see anything in there!
+[20:59:51] Unknown #​1: /chargiveitem unknown flashlight
+[20:59:56] Unknown #​1: /chargiveflag unknown petncrC
+[21:00:53] Unknown #​1<STEAM_0:1:53097688> spawned NPC npc_poisonzombie
+[21:00:56] Preobrazhensky Bogolepov: /toggleraise
+[21:01:00] Preobrazhensky Bogolepov: Guess we live here now
+[21:01:02] Unknown #​1<STEAM_0:1:53097688> spawned NPC npc_poisonzombie
+[21:01:04] Unknown #​1<STEAM_0:1:53097688> spawned NPC npc_fastzombie
+[21:01:11] Unknown #​1<STEAM_0:1:53097688> spawned/gave himself swep tfa_ordinalrifle
+[21:01:12] Unknown #​1: /toggleraise
+[21:01:12] Preobrazhensky Bogolepov: There was a group but no idea where they are
+[21:01:23] CCA.C08-GRID.i1.23710: wAIT
+[21:01:25] Amelia Redd: Damn... what a home.
+[21:01:26] CCA.C08-GRID.i1.23710: That was an AR2
+[21:01:27] CCA.C08-QrM.98240: Pulse shots
+[21:01:29] CCA.C08-QrM.98240: Stay sharp
+[21:01:33] Clarissa Harrison: gagh
+[21:01:34] Preobrazhensky Bogolepov: Indeed
+[21:01:36] Clarissa Harrison: i "m choking
+[21:01:37] CCA.C08-GRID.i1.23710: /Y WHO'S THERE?!
+[21:01:50] Kane Davis: // lol couldnt see anything in those dark ass tunnels and got left behind so taking it ICly
+[21:01:53] CCA.C08-GRID.i1.23710: Hey
+[21:01:53] Unknown #​1: /chargiveitem clarissa "ota filter"
+[21:01:54] Clarissa Harrison: Can I get a filter?
+[21:01:55] Preobrazhensky Bogolepov: Huh
+[21:01:55] CCA.C08-QrM.98240: // F
+[21:01:57] CCA.C08-GRID.i1.23710: see that?
+[21:02:00] Unknown #​1: /toggleraise
+[21:02:04] Amelia Redd: You see somethin'?
+[21:02:05] CCA.C08-QrM.98240: .// You got one
+[21:02:05] Clarissa Harrison: Can I get a filter? Please?
+[21:02:10] Preobrazhensky Bogolepov: Nah
+[21:02:10] Erwin Ramstein: Sure
+[21:02:10] Clarissa Harrison: [[ I need another
+[21:02:12] CCA.C08-GRID.i1.23710: /toggleraise
+[21:02:13] Erwin Ramstein: Where are you?
+[21:02:13] Clarissa Harrison: [[ I need another
+[21:02:17] Preobrazhensky Bogolepov: Should we keep looking?
+[21:02:18] CCA.C08-GRID.i1.23710: qRm
+[21:02:22] CCA.C08-QrM.98240: What?
+[21:02:24] Erwin Ramstein: Hey, Woman.
+[21:02:24] CCA.C08-GRID.i1.23710: There's someone up there
+[21:02:25] Unknown #​1: /pm clarissa you have a filter in your inv, check it
+[21:02:27] CCA.C08-QrM.98240: Cool
+[21:02:28] Erwin Ramstein: Behind you.
+[21:02:31] Amelia Redd: We better. Safer in numbers.
+[21:02:35] Unknown #​1<STEAM_0:1:53097688> spawned NPC npc_zombie
+[21:02:36] Clarissa Harrison: /pm unknown thankies
+[21:02:36] Unknown #​1<STEAM_0:1:53097688> spawned NPC npc_zombie
+[21:02:37] Unknown #​1<STEAM_0:1:53097688> spawned NPC npc_zombie
+[21:02:37] CCA.C08-GRID.i1.23710: /toggleraise
+[21:02:38] Preobrazhensky Bogolepov: Alright then
+[21:02:39] Unknown #​1: /toggleraise
+[21:02:40] Preobrazhensky Bogolepov: /toggleraise
+[21:02:50] Erwin Ramstein: I am..
+[21:02:56] Preobrazhensky Bogolepov: nope
+[21:02:57] Erwin Ramstein: Trying to help you?
+[21:03:03] CCA.C08-QrM.98240: /y move it
+[21:03:12] CCA.C08-GRID.i1.23710: /toggleraise
+[21:03:14] Unknown #​1<STEAM_0:1:53097688> spawned NPC npc_zombie_torso
+[21:03:17] Unknown #​1<STEAM_0:1:53097688> spawned NPC npc_zombie_torso
+[21:03:22] Client "Ｓｏｌａｒ" connected.
+[21:03:23] Preobrazhensky Bogolepov: Someone had a bad time here
+[21:03:25] Clarissa Harrison: /pm unknown umm im stuck lmfao
+[21:03:28] Amelia Redd: Blood everywhere.
+[21:03:31] Unknown #​1 teleported to Clarissa Harrison
+[21:03:34] CCA.C08-GRID.i1.23710: Who'd we lose?
+[21:03:41] Erwin Ramstein: The.. Woman I think
+[21:03:43] Clarissa Harrison: [[ i cant see a thing
+[21:03:48] CCA.C08-QrM.98240: We should look for her
+[21:04:03] Clarissa Harrison: /pm unknown can ya give me a flashlight
+[21:04:06] Unknown #​1<STEAM_0:1:53097688> spawned/gave himself swep tfa_ordinalrifle
+[21:04:06] Unknown #​1: /toggleraise
+[21:04:14] Kane Davis: /y Hello!
+[21:04:19] CCA.C08-GRID.i1.23710: keep up
+[21:04:19] CCA.C08-QrM.98240: Follow closely civvie
+[21:04:20] Clarissa Harrison: ah, hello.
+[21:04:22] Unknown #​1: /chargiveitem clarissa flashlight
+[21:04:25] Preobrazhensky Bogolepov: /toggleraise
+[21:04:26] Unknown #​1: /pm clarissa fuck it sure
+[21:04:29] Unknown #​1: /chargiveitem kane flashlight
+[21:04:35] Unknown #​1: /toggleraise
+[21:04:35] Clarissa Harrison: jesus..
+[21:04:37] Unknown #​1: /toggleraise
+[21:04:42] Kane Davis: [[ lol
+[21:04:44] Unknown #​1: /toggleraise
+[21:04:45] Unknown #​1: /toggleraise
+[21:04:50] Unknown #​1<STEAM_0:1:53097688> spawned NPC npc_zombie
+[21:04:52] Unknown #​1<STEAM_0:1:53097688> spawned NPC npc_zombie
+[21:04:53] Unknown #​1<STEAM_0:1:53097688> spawned NPC npc_zombie
+[21:04:54] Clarissa Harrison: /pm unknown thank u so much
+[21:04:54] Unknown #​1<STEAM_0:1:53097688> spawned NPC npc_zombie
+[21:04:56] CCA.C08-GRID.i1.23710: /toggleraise
+[21:05:20] Preobrazhensky Bogolepov: Not that far down
+[21:05:49] Unknown #​1: /toggleraise
+[21:05:50] Clarissa Harrison: and now comes the tower defense segment
+[21:05:51] Unknown #​1: /toggleraise
+[21:05:54] Preobrazhensky Bogolepov: /looc sorry just eating a but
+[21:05:58] Preobrazhensky Bogolepov: /looc bit*
+[21:05:59] CCA.C08-QrM.98240: Where are those Pulse shots coming from?
+[21:06:00] Erwin Ramstein: Hey, Fellow Civ.
+[21:06:03] Clarissa Harrison: hey
+[21:06:04] CCA.C08-GRID.i1.23710: /toggleraise
+[21:06:08] Client "Ｓｏｌａｒ" spawned in server <STEAM_0:0:162289290> (took 166 seconds).
+[21:06:14] Dropped "Kane Davis" from server<STEAM_0:1:31603520>
+[21:06:16] Clarissa Harrison: ah, I already got one
+[21:06:20] Erwin Ramstein: Take another.
+[21:06:25] Clarissa Harrison: thank ya
+[21:06:29] Erwin Ramstein: Yup.
+[21:06:36] Unknown #​1<STEAM_0:1:53097688> spawned NPC npc_antlion
+[21:06:36] Unknown #​1<STEAM_0:1:53097688> spawned NPC npc_antlion
+[21:06:37] CCA.C08-GRID.i1.23710: Alright, anyone have any ideas?
+[21:06:39] Unknown #​1: /toggleraise
+[21:06:45] Clarissa Harrison: Go up the elevator I suppose
+[21:06:45] CCA.C08-GRID.i1.23710: /toggleraise
+[21:07:01] Erwin Ramstein: /y I'd say give us some better Weapons so we can help you more but, I'm almost positive that's illegal.
+[21:07:03] CCA.C08-GRID.i1.23710: /toggleraise
+[21:07:19] Clarissa Harrison: bye grid
+[21:07:23] CCA.C08-GRID.i1.23710: uh..
+[21:07:26] Clarissa Harrison: oh
+[21:07:31] Erwin Ramstein: Akward.
+[21:07:32] Unknown #​1<STEAM_0:1:53097688> spawned NPC npc_zombie
+[21:07:33] Clarissa Harrison: this is awkward
+[21:07:40] CCA.C08-GRID.i1.23710: /toggleraise
+[21:07:43] CCA.C08-GRID.i1.23710: /y move
+[21:07:47] Preobrazhensky Bogolepov: /toggleraise
+[21:07:52] Ｓｏｌａｒ<STEAM_0:0:162289290> changed their name to Pogger
+[21:07:57] Pogger: // hELLO
+[21:08:01] Unknown #​1: //howdy
+[21:08:03] CCA.C08-GRID.i1.23710: /toggleraise
+[21:08:04] Unknown #​1: //what's good
+[21:08:09] Pogger: // uh
+[21:08:17] Pogger: // plenty of things i guess
+[21:08:20] CCA.C08-GRID.i1.23710: /toggleraise
+[21:08:22] CCA.C08-QrM.98240: // AFK for one moment
+[21:08:36] Unknown #​1<STEAM_0:1:53097688> spawned NPC npc_vj_hla_antlion_spitter
+[21:08:39] Preobrazhensky Bogolepov: /y Hey
+[21:08:46] Amelia Redd: /y Up here!
+[21:08:53] Erwin Ramstein: Antlions
+[21:08:54] Preobrazhensky Bogolepov: /y Hey!
+[21:08:55] Clarissa Harrison: he's like an ant down there
+[21:08:55] Erwin Ramstein: Below.
+[21:09:02] Erwin Ramstein: Blue One.. A Spitter.
+[21:09:12] Pogger: // The fuck is up with this
+[21:09:15] Erwin Ramstein: Either skittered off or its dead.
+[21:09:16] Amelia Redd: /y Helloooo!
+[21:09:21] Clarissa Harrison: oh you're back
+[21:09:27] Unknown #​1: /toggleraise
+[21:09:30] Unknown #​1<STEAM_0:1:53097688> spawned/gave himself swep grub_combine_sniper
+[21:09:30] Unknown #​1: /toggleraise
+[21:09:38] Preobrazhensky Bogolepov: Hi
+[21:09:40] Unknown #​1: /toggleraise
+[21:09:40] Clarissa Harrison: hello
+[21:09:44] CCA.C08-GRID.i1.23710: come on
+[21:09:47] Preobrazhensky Bogolepov: Hey
+[21:09:49] Preobrazhensky Bogolepov: /toggleraise
+[21:09:50] CCA.C08-QrM.98240: // back
+[21:10:05] CCA.C08-GRID.i1.23710: still a sniper
+[21:10:10] CCA.C08-QrM.98240: Oh wonderful
+[21:10:14] Erwin Ramstein: Want me to..
+[21:10:17] Erwin Ramstein: Throw my pan as bait?
+[21:10:18] CCA.C08-GRID.i1.23710: back down we go
+[21:10:20] Pogger<STEAM_0:0:162289290> changed their name to Gabriel Schechter
+[21:10:22] Erwin Ramstein: and then try and see where its at?
+[21:10:24] Unknown #​1 set the hp for Everyone to 250
+[21:10:31] Erwin Ramstein: Nope? Just gonna hide? Alright.
+[21:10:37] CCA.C08-QrM.98240: Fucking hell
+[21:10:37] CCA.C08-GRID.i1.23710: come on
+[21:10:38] Erwin Ramstein: Just saying that's, kind of how a Sniper wants it to be.
+[21:11:15] Clarissa Harrison: doo-doo-doo-doo
+[21:11:17] Unknown #​1: /toggleraise
+[21:11:18] Unknown #​1: /toggleraise
+[21:11:20] CCA.C08-QrM.98240: Fucking hell
+[21:11:29] Unknown #​1 brought Gabriel Schechter
+[21:11:37] Unknown #​1<STEAM_0:1:53097688> spawned NPC npc_vj_hla_antlion
+[21:11:37] Preobrazhensky Bogolepov: /toggleraise
+[21:11:38] Unknown #​1: /toggleraise
+[21:11:39] Preobrazhensky Bogolepov: /toggleraise
+[21:11:40] Erwin Ramstein: Joy.
+[21:11:41] Preobrazhensky Bogolepov: /toggleraise
+[21:11:43] CCA.C08-GRID.i1.23710: /toggleraise
+[21:11:46] Unknown #​1: /toggleraise
+[21:11:48] CCA.C08-QrM.98240: So, what do you guys think is the chance of surviving?
+[21:11:53] Unknown #​1: /toggleraise
+[21:11:58] Amelia Redd: Maybe like... 10 percent?
+[21:12:00] Preobrazhensky Bogolepov: /y URRRRRA
+[21:12:04] CCA.C08-QrM.98240: I would say 5
+[21:12:07] CCA.C08-GRID.i1.23710: /toggleraise
+[21:12:09] Preobrazhensky Bogolepov: /toggleraise
+[21:12:13] Amelia Redd: Sup.
+[21:12:25] Gabriel Schechter: Not much, apparently,.
+[21:12:30] Preobrazhensky Bogolepov: /toggleraise
+[21:12:34] Preobrazhensky Bogolepov: /toggleraise
+[21:12:50] Amelia Redd: Scary.
+[21:12:51] Unknown #​1: /adminspawnmenu
+[21:12:51] CCA.C08-GRID.i1.23710: /y Come on!
+[21:12:58] Clarissa Harrison: parkour
+[21:13:16] Preobrazhensky Bogolepov: /toggleraise
+[21:13:19] Preobrazhensky Bogolepov: /toggleraise
+[21:13:32] Preobrazhensky Bogolepov: // RIP
+[21:13:35] Gabriel Schechter: // lmfao
+[21:13:44] CCA.C08-GRID.i1.23710 brought Gabriel Schechter
+[21:13:47] CCA.C08-QrM.98240: Hey!
+[21:13:49] Preobrazhensky Bogolepov: /toggleraise
+[21:13:49] CCA.C08-QrM.98240: Actually
+[21:13:51] CCA.C08-QrM.98240: Fuck it
+[21:13:55] Clarissa Harrison: Sorry
+[21:13:56] CCA.C08-QrM.98240: I don't care at this point
+[21:14:01] CCA.C08-QrM.98240: No whatever
+[21:14:04] Preobrazhensky Bogolepov: /toggleraise
+[21:14:09] Preobrazhensky Bogolepov: Dead guy
+[21:14:39] CCA.C08-GRID.i1.23710: /toggleraise
+[21:14:52] CCA.C08-GRID.i1.23710: Huh?
+[21:15:00] Preobrazhensky Bogolepov: /toggleraise
+[21:15:00] CCA.C08-QrM.98240: The fuck?
+[21:15:04] Unknown #​1 set the hp for Themself to 2147483647
+[21:15:15] CCA.C08-QrM.98240: /y Other way!
+[21:15:27] Gabriel Schechter: // you fucking dick
+[21:16:24] Unknown #​1<STEAM_0:1:53097688> spawned NPC npc_antlion
+[21:16:28] Unknown #​1: /toggleraise
+[21:16:46] Amelia Redd: IT's dead.
+[21:16:49] Clarissa Harrison: I'm aware
+[21:16:51] Preobrazhensky Bogolepov: // imma get WOATER
+[21:17:19] CCA.C08-GRID.i1.23710: /toggleraise
+[21:17:26] CCA.C08-QrM.98240: Hm......
+[21:17:29] Unknown #​1: /adminspawnmenu
+[21:17:44] CCA.C08-QrM.98240: /y Civvies!
+[21:17:45] Erwin Ramstein: /y Hey
+[21:17:49] Erwin Ramstein: /y Something is up their!
+[21:17:52] Clarissa Harrison: ow
+[21:17:56] Unknown #​1: /event A shotgun drops down from up in the mine. Strange.
+[21:18:46] Unknown #​1: /adminspawnmenu
+[21:18:54] Client "mfn" connected.
+[21:18:59] CCA.C08-QrM.98240: /y Civvies!
+[21:19:04] Erwin Ramstein: Road Trip.
+[21:19:09] CCA.C08-QrM.98240: /y We need to find that weird unit.
+[21:19:09] CCA.C08-GRID.i1.23710: /y Get on the magic schoolbus!
+[21:19:14] Clarissa Harrison: you're babysitting a bunch of children.
+[21:19:17] Erwin Ramstein: Want some?
+[21:19:19] Unknown #​1: /event A voice yells down, "STAY SAFE DOWN THERE!"
+[21:19:21] Erwin Ramstein: Something dropped shells.
+[21:19:23] Erwin Ramstein: I-
+[21:19:24] CCA.C08-QrM.98240: /y What?
+[21:19:26] Erwin Ramstein: /y Thank.. You?
+[21:19:28] CCA.C08-GRID.i1.23710: shells?
+[21:19:28] Amelia Redd: Is that a good thing?
+[21:19:33] Unknown #​1: /event Shotgun shells come from the source.
+[21:19:33] Erwin Ramstein: Yeah a box of shotgun shells want the,
+[21:19:34] CCA.C08-GRID.i1.23710: give me them
+[21:19:36] Erwin Ramstein: Sure.
+[21:19:37] Clarissa Harrison was killed by func_door
+[21:19:41] CCA.C08-GRID.i1.23710: // oop
+[21:19:53] Erwin Ramstein: .// oh
+[21:19:53] CCA.C08-GRID.i1.23710: uh
+[21:19:56] Clarissa Harrison: //can someone tp me back lmfao
+[21:19:58] CCA.C08-QrM.98240: GRID
+[21:20:00] Erwin Ramstein: I'm sure they'll be fine
+[21:20:00] CCA.C08-GRID.i1.23710: where the fuck
+[21:20:04] Erwin Ramstein: Down there.
+[21:20:05] CCA.C08-QrM.98240: I'll be waiting at the bottom for now
+[21:20:07] Erwin Ramstein: It flew.
+[21:20:07] Unknown #​1 brought Clarissa Harrison
+[21:20:09] CCA.C08-QrM.98240: You keep the civvies with you
+[21:20:11] CCA.C08-GRID.i1.23710: alright
+[21:20:13] Clarissa Harrison: [[danke
+[21:20:36] Erwin Ramstein: Woah.
+[21:20:36] CCA.C08-GRID.i1.23710: you know what? I'm not going to question that gun right now
+[21:20:38] Erwin Ramstein: Nice gun.
+[21:20:42] CCA.C08-GRID.i1.23710: just don't shoot me
+[21:20:51] Amelia Redd: Awkward seeing you carry a gun.
+[21:20:52] Preobrazhensky Bogolepov: Thamls
+[21:20:57] Preobrazhensky Bogolepov: /looc thanks*
+[21:21:04] Gabriel Schechter: // thamls
+[21:21:08] Preobrazhensky Bogolepov: // yemns
+[21:21:17] Clarissa Harrison: /me kneels down, searching the corpse for anything useful.
+[21:21:20] CCA.C08-QrM.98240<STEAM_0:1:17219621> changed their name to Unknown #​2
+[21:21:24] CCA.C08-GRID.i1.23710: this is a dead end
+[21:21:31] Unknown #​1: /charsetmodel unknown models/nasca/hl2/cmb/male_cp_penal3.mdl
+[21:21:46] Amelia Redd: What are you doing?
+[21:21:46] Unknown #​1: /charsetmodel #2 models/nasca/hl2/cmb/male_cp_penal3.mdl
+[21:21:52] Unknown #​2: /adminspawnmenu
+[21:21:54] Unknown #​1: /charsetmodel #1 models/nasca/hl2/cmb/male_cp_penal4.mdl
+[21:21:54] Clarissa Harrison: nothin' of your concern.
+[21:21:59] CCA.C08-GRID.i1.23710: where's the...
+[21:22:03] Preobrazhensky Bogolepov: Wrong side
+[21:22:09] Client "mfn" spawned in server <STEAM_0:0:146905987> (took 195 seconds).
+[21:22:10] Unknown #​1: /charsetmodel "unknown #2" models/nasca/hl2/cmb/male_cp_penal4.mdl
+[21:22:23] Erwin Ramstein: What a nice workout.
+[21:22:23] Amelia Redd: So where is *my* flashlight?
+[21:22:26] Unknown #​1: /charsetmodel "Unknown #2" models/nasca/hl2/cmb/male_cp_penal4.mdl
+[21:22:29] CCA.C08-GRID.i1.23710: we'll find you one
+[21:22:31] Erwin Ramstein: Gets the blood flowing!
+[21:22:32] Unknown #​1: /charsetmodel "#2" models/nasca/hl2/cmb/male_cp_penal4.mdl
+[21:22:39] Unknown #​1: /charsetname Unknown "Unknown 1"
+[21:22:40] Unknown #​1<STEAM_0:1:53097688> changed their name to Unknown 1
+[21:22:40] Unknown 1: /charsetname Unknown "Unknown 2"
+[21:22:41] Unknown 1<STEAM_0:1:53097688> changed their name to Unknown 2
+[21:22:47] Amelia Redd: More?
+[21:22:48] Erwin Ramstein to admins: Can I switch Chars, Q? I'll need a weapon if so
+[21:22:52] Unknown 2: /charsetname Unknown "Unknown 1"
+[21:22:53] Unknown 2<STEAM_0:1:53097688> changed their name to Unknown 1
+[21:22:54] Erwin Ramstein: You found them!
+[21:22:55] Erwin Ramstein: Bravo.
+[21:22:58] Unknown 1 to admins: which char
+[21:23:00] Amelia Redd: Who the hell is dropping more ammo on us?
+[21:23:09] mfn<STEAM_0:0:146905987> changed their name to Louis Plouc
+[21:23:11] Unknown 1: /charsetname "unknown #2" Unknown 2
+[21:23:20] Unknown 1: /charsetname unknown placeholder
+[21:23:21] Unknown 1<STEAM_0:1:53097688> changed their name to placeholder
+[21:23:24] placeholder: /charsetname unknown "Unknown 2"
+[21:23:25] Unknown #​2<STEAM_0:1:17219621> changed their name to Unknown 2
+[21:23:25] Louis Plouc: // i will buy project revival merch!!! POG POG POG
+[21:23:29] placeholder: /charsetname placeholder "Unknown 1"
+[21:23:30] placeholder<STEAM_0:1:53097688> changed their name to Unknown 1
+[21:23:35] Erwin Ramstein: /pm placeholder Hey, did you see what I put in admin chat or nah
+[21:23:41] Unknown 1: //Welcome to the server!
+[21:23:44] CCA.C08-GRID.i1.23710: /y Come on.
+[21:23:46] Erwin Ramstein: /pm unknown 1 Hey, did you see what I put in Admin Chat?
+[21:23:56] Unknown 1: /pm erwin Sorry, i responded in admin chat like an idiot. which char?
+[21:23:58] Unknown 2: /charsetname Unknown 2 Hero
+[21:23:59] Unknown 1<STEAM_0:1:53097688> changed their name to 2 Hero
+[21:24:04] Erwin Ramstein: /pm unknown 1 Shockroach fella.
+[21:24:08] 2 Hero: /charsetmodel hero models/nasca/hl2/cmb/male_cp_penal4.mdl
+[21:24:12] 2 Hero: /charsetmodel hero models/nasca/hl2/cmb/male_cp_penal3.mdl
+[21:24:14] Unknown 2: /reply What
+[21:24:26] Erwin Ramstein: /pm unknown 2 It seems you are getting dms too, apologies lol
+[21:24:36] 2 Hero: /charsetname "hero" "Unknown 2"
+[21:24:36] 2 Hero<STEAM_0:1:53097688> changed their name to Unknown 2
+[21:24:36] Unknown 2: /reply Give us a second
+[21:24:41] Erwin Ramstein: /pm 2 hero Shockroach fella 
+[21:24:43] Unknown 2: /charsetname "unknown" "Unknown 1"
+[21:24:44] Unknown 2<STEAM_0:1:53097688> changed their name to Unknown 1
+[21:24:51] Erwin Ramstein: /pm unknown You have, all the time :)
+[21:24:59] Unknown 1: /charsetmodel "Unknown 1" models/nasca/hl2/cmb/male_cp_penal4.mdl
+[21:25:05] Louis Plouc: // why is city 8 a wasteland
+[21:25:05] Unknown 1: /charsetmodel "Unknown 2" models/nasca/hl2/cmb/male_cp_penal3.mdl
+[21:25:11] Unknown 1: //this isn't city 8
+[21:25:12] Erwin Ramstein: // fallout rp
+[21:25:14] Erwin Ramstein: // welcome
+[21:25:20] Unknown 1: //sorry, who are you in the discord?
+[21:25:21] Louis Plouc: // but it said hl2rp
+[21:25:22] Unknown 2<STEAM_0:1:17219621> spawned/gave himself swep tfa_ordinalrifle
+[21:25:22] Louis Plouc was killed by env_explosion
+[21:25:26] Unknown 2<STEAM_0:1:17219621> spawned/gave himself swep weapon_ar2
+[21:25:26] Louis Plouc: // i dont have discord
+[21:25:29] CCA.C08-GRID.i1.23710: // we're doing an event
+[21:25:32] Unknown 2<STEAM_0:1:17219621> spawned/gave himself swep weapon_smg1
+[21:25:34] Unknown 2<STEAM_0:1:17219621> spawned/gave himself swep weapon_ar2
+[21:25:35] Amelia Redd: // CAn someone PM context for the event?
+[21:25:37] Unknown 2<STEAM_0:1:17219621> spawned/gave himself swep tfa_ins2_mp5k
+[21:25:43] Louis Plouc: // its boring event since i am jusjt walking around D:
+[21:25:46] Unknown 2<STEAM_0:1:17219621> spawned/gave himself swep weapon_ar2
+[21:25:48] Preobrazhensky Bogolepov: a
+[21:25:50] Erwin Ramstein<STEAM_0:0:595064043> changed their name to Cameron Nixon
+[21:25:54] Preobrazhensky Bogolepov: /looc oops
+[21:26:01] Cameron Nixon: /pm unknown 1 weapon_shockrifle 
+[21:26:09] Louis Plouc was killed by env_explosion
+[21:26:11] Unknown 2: /chareditbodygroup Unknown 2
+[21:26:22] Louis Plouc was killed by env_explosion
+[21:26:30] Preobrazhensky Bogolepov: huh
+[21:26:32] Preobrazhensky Bogolepov: /toggleraise
+[21:26:34] Preobrazhensky Bogolepov: /toggleraise
+[21:26:34] Unknown 1: //quick lag spike to do a model fix!
+[21:26:35] Louis Plouc: oh god
+[21:26:38] Unknown 1: //don't worry, the server isn't dying!
+[21:26:40] Amelia Redd: // So no context?
+[21:26:40] Louis Plouc: /charfallover 0.01
+[21:26:47] Unknown 2: // That will be provided after
+[21:26:49] Louis Plouc was killed by env_explosion
+[21:26:53] CCA.C08-GRID.i1.23710: // no it will not
+[21:26:55] Unknown 1: //no it will not lightroom
+[21:26:55] CCA.C08-GRID.i1.23710: // so basically
+[21:26:58] Unknown 1: //grid you go ahead
+[21:26:59] Amelia Redd: // I have no idea how I got in this situation first of all.
+[21:27:22] CCA.C08-GRID.i1.23710: // there was a big xenien infestation
+[21:27:49] CCA.C08-GRID.i1.23710: // so we had to evacuate the city, and our traiin crashed
+[21:28:01] Amelia Redd: // Alright thank you.
+[21:28:05] Unknown 1 suicided!
+[21:28:05] Unknown 1 slayed Themself
+[21:28:09] CCA.C08-GRID.i1.23710: let's take a rest here
+[21:28:13] Unknown 1 teleported to Unknown 2
+[21:28:14] Louis Plouc was killed by env_explosion
+[21:28:16] Unknown 1 suicided!
+[21:28:16] Unknown 1 slayed Themself
+[21:28:20] Unknown 2 suicided!
+[21:28:20] Unknown 1 slayed Unknown 2
+[21:28:30] Amelia Redd: You units look extra scary in the dark.
+[21:28:32] Unknown 1 brought Unknown 2
+[21:28:36] Unknown 2<STEAM_0:1:17219621> spawned/gave himself swep weapon_ar2
+[21:28:38] CCA.C08-GRID.i1.23710: ...Thanks?
+[21:28:43] Unknown 2<STEAM_0:1:17219621> spawned/gave himself swep tfa_ordinalrifle
+[21:28:43] Louis Plouc: kaboom
+[21:28:44] Amelia Redd: You're welcome!
+[21:28:45] Louis Plouc was killed by env_explosion
+[21:28:45] Gabriel Schechter was killed by env_explosion
+[21:28:49] Unknown 1<STEAM_0:1:53097688> spawned/gave himself swep tfa_ordinalrifle
+[21:28:51] Unknown 1: /toggleraise
+[21:28:53] Unknown 1: /toggleraise
+[21:29:01] Louis Plouc was killed by env_explosion
+[21:29:01] Gabriel Schechter was killed by env_explosion
+[21:29:08] Unknown 1 brought Unknown 2
+[21:29:10] Cameron Nixon was killed by env_explosion
+[21:29:17] Louis Plouc: :D
+[21:29:22] Louis Plouc was killed by env_explosion
+[21:29:22] Gabriel Schechter was killed by env_explosion
+[21:29:28] CCA.C08-GRID.i1.23710: uh..
+[21:29:30] Cameron Nixon: /pm unknown 1 Whenever you're free for a moment:   weapon_shockrifle
+[21:29:30] Unknown 1: move back.
+[21:29:38] Unknown 1 gave Cameron Nixon weapon_shockrifle
+[21:29:50] Unknown 1: Hero, come in. Close the door.
+[21:29:54] CCA.C08-GRID.i1.23710: you two in the crash too?
+[21:30:01] Louis Plouc: // so much rp! :D
+[21:30:01] Unknown 1 set the hp for Themself,Unknown 2 to 999999999
+[21:30:02] Louis Plouc was killed by env_explosion
+[21:30:02] Gabriel Schechter was killed by env_explosion
+[21:30:06] Gabriel Schechter: // kaboom
+[21:30:12] Cameron Nixon: // kaboom
+[21:30:14] Cameron Nixon: // carpenter!
+[21:30:16] Unknown 1: /me ignores the grid unit.
+[21:30:17] Louis Plouc: // aye me bottle o' scrumpe
+[21:30:26] Louis Plouc: kaboomRP
+[21:30:27] Unknown 1: You three, civvies.
+[21:30:27] Amelia Redd: Wow they look really freaky in the dark.
+[21:30:28] CCA.C08-GRID.i1.23710: .//  how rude
+[21:30:32] Amelia Redd: Yup?
+[21:30:35] Unknown 1: Get on the other side of the room.
+[21:30:36] Preobrazhensky Bogolepov: Yeah?
+[21:30:37] Gabriel Schechter was killed by env_explosion
+[21:30:41] Unknown 1: with the other civvies
+[21:30:43] Amelia Redd: Gonna shoot us or something?
+[21:30:47] Unknown 1: nope
+[21:30:52] Unknown 1: You, holster that shotgun.
+[21:30:55] Gabriel Schechter: // kaboom moment
+[21:31:01] Louis Plouc: // kaboom machine broke
+[21:31:06] Clarissa Harrison: /w i can tell this will be bad
+[21:31:12] Amelia Redd: /w Freaky...
+[21:31:12] Cameron Nixon: // come back again later bro we gonna fix it
+[21:31:14] Unknown 1: Were you all on the train?
+[21:31:17] Clarissa Harrison: uh.
+[21:31:18] Clarissa Harrison: yeah.
+[21:31:20] Cameron Nixon: // for now no soft serve
+[21:31:23] Amelia Redd: How else would we have gotten here?
+[21:31:27] Louis Plouc killed Louis Plouc
+[21:31:29] Clarissa Harrison: that is true
+[21:31:32] Louis Plouc: // im just gonna commit suicide like 51% of the lgbt community
+[21:31:39] Louis Plouc: // woops wrong bind
+[21:31:44] Gabriel Schechter: // qs gonna ban u now
+[21:31:48] Louis Plouc: // oshit!!
+[21:31:55] Unknown 1 banned Louis Plouc permanently (that's cool but i don't remember asking)
+[21:31:55] Dropped "Louis Plouc" from server<STEAM_0:0:146905987>
+[21:32:02] Unknown 1: //banned
+[21:32:05] Gabriel Schechter: // yeahhh
+[21:32:07] Amelia Redd: // Amen
+[21:32:17] Unknown 1: .//sorry, back to RP
+[21:32:18] Preobrazhensky Bogolepov: // well that was a lovely conversation
+[21:32:26] Unknown 1: You'd be surprised how many people come here to escape from Combine scanning.
+[21:32:32] Unknown 1: They don't want to be here as much as us.
+[21:32:35] Cameron Nixon: // If possible could I get a tp down to the mines or wherever? :)
+[21:32:40] Unknown 1: Are any of you emotionally invested in this grid unit?
+[21:32:43] Unknown 2: /me Simply watches the GRID unit waiting for him to make any moves.
+[21:32:43] Unknown 1 transported Cameron Nixon to Gabriel Schechter
+[21:32:47] Unknown 1 brought Cameron Nixon
+[21:32:49] Amelia Redd: I thought he was a pretty cool guy.
+[21:32:58] Clarissa Harrison: yeah, I guess so
+[21:33:00] Unknown 1: Anything else?
+[21:33:02] Preobrazhensky Bogolepov: Over here bud
+[21:33:03] Dropped "Gabriel Schechter" from server<STEAM_0:0:162289290>
+[21:33:10] Amelia Redd: Kept us safe.... so...
+[21:33:16] Unknown 1: We've got guns.
+[21:33:17] Amelia Redd: I guess I am.
+[21:33:18] Unknown 1: grid
+[21:33:22] Unknown 1: get out. Find somewhere else.
+[21:33:27] Amelia Redd: Oh come on...
+[21:33:29] CCA.C08-GRID.i1.23710: what?
+[21:33:31] Amelia Redd: I like grid.
+[21:33:41] Unknown 1: Did I stutter?
+[21:33:47] Clarissa Harrison: // this is honestly comedical, and not in a bad way either.
+[21:33:54] CCA.C08-GRID.i1.23710: where? This is a dark cave, probably filled with god knows what
+[21:33:56] Amelia Redd: // This is kinda scary.
+[21:34:00] Unknown 1: That's the plan.
+[21:34:01] Preobrazhensky Bogolepov: // spoopy
+[21:34:03] CCA.C08-GRID.i1.23710: I'm not going anywhere.
+[21:34:09] Unknown 1: Hero.
+[21:34:12] Unknown 1: What's that in your hands again?
+[21:34:22] Clarissa Harrison: ambassador Pineapple?
+[21:34:23] Unknown 2: A Overwatch Standard Issue Pulse Rifle.
+[21:34:25] Amelia Redd: /w I don't like this.
+[21:34:31] Unknown 1: Right, an AR2.
+[21:34:42] Unknown 1: /charsetname "unknown 2" Hero
+[21:34:42] Unknown 2<STEAM_0:1:17219621> changed their name to Hero
+[21:34:43] Preobrazhensky Bogolepov: /whisper are they the good guys? orrrr...
+[21:34:44] Clarissa Harrison: /w I'm honestly just here for the ride at this point
+[21:34:49] Unknown 1: So scram.
+[21:34:53] Unknown 1: Before he has to use it.
+[21:35:01] Amelia Redd: /w Why do they not want the unit with us?
+[21:35:08] Unknown 1: Alright, God.
+[21:35:10] Unknown 1: Hero, watch the door.
+[21:35:13] Unknown 1: /me slings his AR1.
+[21:35:14] Hero: Copy that
+[21:35:22] Clarissa Harrison: so. Who are you?
+[21:35:26] Unknown 1: You all can call me Victor, that isn't my name, but it's the designation I use.
+[21:35:33] Unknown 1: /charsetname "unknown 1" Victor
+[21:35:33] Unknown 1<STEAM_0:1:53097688> changed their name to Victor
+[21:35:38] Clarissa Harrison: Are you some kinda.. insurgency?
+[21:35:44] Amelia Redd: Hi Victor, I'm Amelia.
+[21:35:46] Victor: You catch on quickly.
+[21:35:55] Victor: Nice to meet you, Amelia.
+[21:35:57] Clarissa Harrison: /me snaps her fingers. "Knew it."
+[21:35:59] Victor: Sorry you all got caught up in this.
+[21:36:08] Cameron Nixon: Were you the one to Blow the Train.
+[21:36:09] Victor: We figured it was just cops on that train.
+[21:36:14] Cameron Nixon: I was enjoying riding on the back of it.
+[21:36:19] Victor: Yeah, it's nothing Roller couldn't conjure up.
+[21:36:22] Amelia Redd: Why didn't you just shoot that unit?
+[21:36:22] Clarissa Harrison: Ohhh! You blew it up
+[21:36:25] Cameron Nixon: It scared my damn Shock-Roach.
+[21:36:30] Cameron Nixon: /me *he'd pet his left arm.*
+[21:36:37] Victor: It didn't get... blown up, necessarily.
+[21:36:47] Victor: Just knocked off the rails.
+[21:36:49] Preobrazhensky Bogolepov: // i gtg cya later nerds
+[21:36:52] Dropped "Preobrazhensky Bogolepov" from server<STEAM_0:1:127409364>
+[21:36:52] Cameron Nixon: // l8r
+[21:36:53] Victor: //take care, thanks for being on
+[21:36:55] Hero: // Aigh-
+[21:37:01] Clarissa Harrison: I'm pretty sure that's the definition of blown up
+[21:37:04] Clarissa Harrison: but carry on
+[21:37:09] Victor: Blown up, I think of as exploded.
+[21:37:24] Victor: Doesn't matter. First thing's first, let's find anywhere else to be. I can feel my mask turning gray from all the dust in here.
+[21:37:32] Victor: I will say, though, we don't want to hurt any of you.
+[21:37:38] Clarissa Harrison: well- that's good
+[21:37:51] Clarissa Harrison: I didn't wanna have to use my frying pan on your ass. Pfft
+[21:37:51] Victor: So, let's get out of this dank pit and find somewhere more suitable.
+[21:38:00] Victor: /me unslings his AR1.
+[21:38:09] Victor: /toggleraise
+[21:38:20] Cameron Nixon: /me *keeps his left arm slightly raised, ready to attack*
+[21:38:31] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> used the tool creator on maps/rp_betawasteland.bsp
+[21:38:31] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> spawned NPC npc_zombie
+[21:38:31] Clarissa Harrison: so, shockroach guy
+[21:38:31] Victor: Everything seems dead.
+[21:38:32] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> used the tool creator on maps/rp_betawasteland.bsp
+[21:38:32] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> spawned NPC npc_zombie
+[21:38:32] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> used the tool creator on maps/rp_betawasteland.bsp
+[21:38:32] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> spawned NPC npc_zombie
+[21:38:37] Clarissa Harrison: do you just.
+[21:38:43] Victor: /y necrotic
+[21:38:44] Clarissa Harrison: shove the thing up it's ass but
+[21:38:47] Clarissa Harrison: [[ *or what?
+[21:38:57] Victor: damn thing
+[21:38:59] Victor: /y clear
+[21:39:03] Victor: /toggleraise
+[21:39:08] Victor: /toggleraise
+[21:39:22] Victor: /y Been here a vvhile, you'd think I know how to navigate!
+[21:39:30] Victor: fucking..
+[21:39:39] Cameron Nixon: Need to get through here?
+[21:39:42] Victor: /y this way
+[21:39:47] Victor: /y let's run
+[21:40:02] Victor: i'm blind
+[21:40:05] Victor: not literally
+[21:40:12] Victor: You have got to be fucking shitting me.
+[21:40:16] Victor: let's go
+[21:40:26] CCA.C08-GRID.i1.23710: // thanks dispatch
+[21:40:35] Victor: /toggleraise
+[21:40:35] Clarissa Harrison: // thank u dispatch! very cool
+[21:40:36] Victor: /toggleraise
+[21:40:39] Amelia Redd: // thanks dispatch
+[21:40:47] Victor: /y anyone else just hear a bug?
+[21:40:47] Victor: /toggleraise
+[21:40:49] Victor: holy hell
+[21:40:52] Victor: Are you alright?
+[21:40:55] Cameron Nixon: Me?
+[21:40:57] Clarissa Harrison: do you just-
+[21:41:05] Clarissa Harrison: shove your hand up that things ass?
+[21:41:06] Victor: Yes, you.
+[21:41:12] Victor: The one with the alien on your arm. Are you okay?
+[21:41:13] Cameron Nixon: Sure yeah, I'm great. You scared my bug with the explosion though.
+[21:41:16] Cameron Nixon: This here is Tazer.
+[21:41:18] Cameron Nixon: He is my Gun.
+[21:41:24] Victor: He's.. a weapon?
+[21:41:26] Victor: huh
+[21:41:27] Cameron Nixon: Want to see?
+[21:41:29] Amelia Redd: Will it kill me if you shot me with it?
+[21:41:31] Victor: Sure
+[21:41:33] Cameron Nixon: /me *he'd squeeze slightly*
+[21:41:41] Hero: Odd....I would like to take a closer look at that later.
+[21:41:42] Victor: Not so bad.
+[21:41:43] Amelia Redd: I like the AR2 more.
+[21:41:44] Cameron Nixon: From what I know, it recharges. And blasts an EMP Charge.
+[21:41:45] Victor: Not something you see out here.
+[21:41:49] Clarissa Harrison: parkour
+[21:41:54] Victor: alright, let's roll
+[21:41:58] Cameron Nixon: Pretty neat, and a nice friend.
+[21:42:06] Cameron Nixon: .// uhhh
+[21:42:09] Cameron Nixon: .// 4 at a time
+[21:42:10] Victor: /y 3 per elevator
+[21:42:15] Victor: /y i'm not leaving somebody alone.
+[21:42:34] Victor: Does it.. hurt?
+[21:42:39] Victor: Like, is it poking into you?
+[21:42:41] Hero: /me Sighs while adjusting his AR2.
+[21:42:46] Hero: Fuckin hell
+[21:42:47] Amelia Redd: /me yawns.
+[21:42:47] Cameron Nixon: It sure did at first, this was connected to a very large Xeno creature.
+[21:42:50] Cameron Nixon: About ten feet tall.
+[21:42:55] Victor: Ten feet?
+[21:42:56] Cameron Nixon: I pinned it to a wall and stabbed it to death
+[21:42:58] Victor: Damn.
+[21:42:58] Cameron Nixon: Yup.
+[21:43:01] Cameron Nixon: They used em as weapons
+[21:43:01] Victor: Where'd you see that? Eight?
+[21:43:01] Client "spycrab" connected.
+[21:43:03] Cameron Nixon: So I do too.
+[21:43:05] Hero: You
+[21:43:07] Cameron Nixon: Sewers of Eight.
+[21:43:09] Hero: Stay in this room for me
+[21:43:09] Cameron Nixon: I live there.
+[21:43:09] Clarissa Harrison: yeah?
+[21:43:11] Cameron Nixon: Waiting.
+[21:43:12] Clarissa Harrison: gotcha
+[21:43:17] Cameron Nixon: Thought this was my ticket out
+[21:43:37] Cameron Nixon: Looks like we're going *back* though so I'll have to sneak my way there.
+[21:43:57] Victor: nope
+[21:44:07] Victor: /y up here
+[21:44:29] Victor: alright, we're going..
+[21:44:30] Victor: this way
+[21:44:33] Victor: Hold on, let me get the uh...
+[21:44:34] Victor: Stay here.
+[21:44:45] Clarissa Harrison: guys
+[21:44:46] Hero: /y Hey!
+[21:44:47] Victor: Stay back there.
+[21:44:49] Clarissa Harrison: he said stay there
+[21:44:57] Amelia Redd: Sorry I'm bad with instructions.
+[21:44:57] Hero: jesus christ
+[21:45:02] Hero: I noticed
+[21:45:08] Victor<STEAM_0:1:53097688> spawned vehicle models/vehicles/buggy_elite.mdl
+[21:45:08] Amelia Redd: Mhm...
+[21:45:13] Victor<STEAM_0:1:53097688> spawned vehicle models/vehicles/7seatvan.mdl
+[21:45:18] Amelia Redd: /me stretches her arms looking around
+[21:45:21] Hero: Alright, he'll be getting the car.
+[21:45:27] Clarissa Harrison: car
+[21:45:30] Cameron Nixon: /me *Moniters the Area.*
+[21:45:32] Amelia Redd: Wow.
+[21:45:35] Victor: /y Hop in!
+[21:45:36] Hero: /y Get in!
+[21:45:37] Clarissa Harrison: holy shit you do have a car
+[21:45:47] Victor: /y alright, let's move
+[21:45:59] Amelia Redd: HAven't ridden one of these in years.
+[21:46:06] Victor: Been a while, huh?
+[21:46:12] Clarissa Harrison: hey. You. You're finally awake
+[21:46:22] Cameron Nixon: We've been awake for quite a while.
+[21:46:27] Clarissa Harrison: Huh
+[21:46:29] Victor: down here
+[21:46:30] Cameron Nixon: Finally.
+[21:46:32] Cameron Nixon: A Church.
+[21:46:40] Victor: God doesn't see this place, guy.
+[21:46:55] Hero: /me Slings over his AR2.
+[21:47:18] Victor: /y This is our home, more or less.
+[21:47:20] Amelia Redd: The hell you doin?
+[21:47:21] Hero: jesus christ
+[21:47:24] Cameron Nixon: Cozy.
+[21:47:26] Clarissa Harrison: I have no idea
+[21:47:32] Hero: /y Hey!
+[21:47:38] Amelia Redd: /y Yeah?
+[21:47:39] Hero: /y Down here!
+[21:47:40] Hero: /y Now!
+[21:47:41] Clarissa Harrison: OH
+[21:47:51] Victor: /y All of Priority Group 6 lives here.
+[21:47:53] Amelia Redd: So you goin' to keep us locked in the basement?
+[21:47:54] Clarissa Harrison: Sorry I have a short attention span
+[21:47:55] Victor: The others are probably scouting.
+[21:48:02] Clarissa Harrison: [[ sorry
+[21:48:02] Hero: I believe so
+[21:48:04] Clarissa Harrison: [[misclick
+[21:48:05] Victor: This here is Hero, he's my, what would you say, brawn?
+[21:48:12] Victor: Gun guy? Big guns guy?
+[21:48:17] Cameron Nixon: // The True Citizen breaks the fuck out of City 8 and becomes a Rebel.
+[21:48:19] Hero: uhhhh. gun go boom guy?
+[21:48:24] Victor: Works
+[21:48:41] Victor: I was the founder of this group, but I'm not quite a leader.
+[21:48:51] Amelia Redd: You're doing it again.
+[21:48:54] Victor: We're all mutual sharing power, right
+[21:48:54] Amelia Redd: The fuck!?
+[21:48:55] Clarissa Harrison: sorry
+[21:49:02] Victor: so, let me show you all
+[21:49:03] Clarissa Harrison: I just have to break these palles
+[21:49:06] Clarissa Harrison: [[*pallets.
+[21:49:09] Client "spycrab" spawned in server <STEAM_0:0:155884561> (took 368 seconds).
+[21:49:19] Clarissa Harrison: // i'm honestly laughing so hard ngl
+[21:49:29] Amelia Redd: /w I just want to be in a city.
+[21:49:39] Clarissa Harrison: /w Just nod and smile then
+[21:49:46] Victor: Alright.
+[21:49:55] Amelia Redd: /w I don't know these guys might keep us for breeding purposes or some shit.
+[21:49:55] Victor: //pretend my physgun is a laser pointer.
+[21:50:00] Victor: //sorry, i can't do better for now
+[21:50:08] Clarissa Harrison: /w bre- No, they're not going to do that. Pfft
+[21:50:08] Victor: /me tkaes out a laser pointer and points on the map
+[21:50:14] Victor: see where I'm pointing?
+[21:50:17] CCA.C08-GRID.i1.23710: // it's a really high powered laser pointer
+[21:50:19] CCA.C08-GRID.i1.23710: // home made
+[21:50:20] Cameron Nixon: Yup
+[21:50:23] Amelia Redd: /me eyes jump to the map and she nods.
+[21:50:24] Victor: //styro pyro build
+[21:50:24] Clarissa Harrison: /me nods and smiles.
+[21:50:27] Amelia Redd: Uh huuuuuuuuuuh
+[21:50:29] Victor: That's where we are.
+[21:50:37] Amelia Redd: Nice
+[21:50:37] Victor: Just past old sea level.
+[21:50:46] Victor: This is a map of the nearby shore of Japan, you all come from...
+[21:50:50] Victor: Hereish.
+[21:50:59] spycrab<STEAM_0:0:155884561> changed their name to Marshall Gross
+[21:51:13] Victor: The train track runs this way, through the wasteland.
+[21:51:13] Amelia Redd: /w My eye itches.
+[21:51:20] Victor: //Welcome!
+[21:51:37] Victor: //server dying, it's okay
+[21:52:03] Dropped "Cameron Nixon" from server<STEAM_0:0:595064043>
+[21:52:35] Victor: /toggleraise
+[21:52:54] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> spawned sent ix_testent9
+[21:52:58] Victor: //FIXED
+[21:53:00] Victor: //I DIDN'T FIX IT
+[21:53:01] Victor: //BUT IT IS FIXED
+[21:53:10] Hero: // NFO had an implosion sorry
+[21:53:14] Victor: //anyways, welcome to the server!
+[21:53:15] Clarissa Harrison: /w Scratch it, then
+[21:53:30] Victor: //you caught us in the middle of an event, go ahead and put on your suit and filter, they're both in your inv.
+[21:53:34] Victor: //I'll bring you over to where we are now
+[21:53:40] Victor transported Marshall Gross to Hero
+[21:53:43] Marshall Gross: // Hello
+[21:53:45] Victor: The train track runs this way.
+[21:53:52] Client "Odin" connected.
+[21:53:55] Victor: Pretty much a straight shot.
+[21:54:03] Hero: /me Taps on the civvie shoulders
+[21:54:06] Victor: /me puts away his laser pointer.
+[21:54:07] Clarissa Harrison: sorry
+[21:54:08] Hero: Stop and pay attention
+[21:54:16] Amelia Redd: Okay, paying attention.
+[21:54:18] Victor: /y Right now, we're out here looking for some more combine technology.
+[21:54:26] Victor: /y Not sure if we should say, but we'll call it high priority.
+[21:54:37] Marshall Gross: Alrighty.
+[21:54:41] Victor: /y As a little brag, we're wanted in every city on the planet.
+[21:54:45] Clarissa Harrison: Why are you- yelling?
+[21:54:53] Clarissa Harrison: we can hear you
+[21:54:55] Victor: /y Wasn't sure if you all could hear me.
+[21:54:57] Victor: Can you hear me?
+[21:55:00] Victor: From there?
+[21:55:03] Clarissa Harrison: yeah- hah
+[21:55:03] Amelia Redd: I think so.
+[21:55:05] Victor: Shit, my bad.
+[21:55:12] Client "Odin" spawned in server <STEAM_0:0:595064043> (took 80 seconds).
+[21:55:21] Victor: Now, we're not going to shit on any of you, so just be honest.
+[21:55:28] Victor: If anyone here considers themself a loyalist, raise your hand.
+[21:55:39] Hero: // Thank you Dispatch very cool
+[21:55:49] Clarissa Harrison: // everyone thank dispatch for her input
+[21:55:51] Clarissa Harrison: Not me
+[21:55:51] Amelia Redd: If I do raise my hand will I get shot?
+[21:56:00] Victor: No ma'am.
+[21:56:12] Clarissa Harrison: /me puts up two finger guns to the woman.
+[21:56:13] Clarissa Harrison: Yes.
+[21:56:14] Victor: My gun is on my back, I have no intention to hurt anyone.
+[21:56:14] Clarissa Harrison: Bang
+[21:56:22] Amelia Redd: I kinda am.
+[21:56:29] Victor: Alright, that's no problem.
+[21:56:35] Victor: /chargiveitem amelia "ota filter"
+[21:56:37] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> spawned sent ix_testent9
+[21:56:37] Marshall Gross: Bro is dying.
+[21:56:39] Victor: /pm amelia check your inv, sorry
+[21:56:40] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> spawned sent ix_airvent
+[21:56:41] Clarissa Harrison: I hear someone dying up their
+[21:56:43] Victor set the hp for Everyone to 500
+[21:56:45] Clarissa Harrison: [[ There
+[21:56:46] Victor set the hp for Hero to 99999999
+[21:56:47] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> used the tool colour on models/props_combine/combine_emitter01.mdl
+[21:56:50] Victor set the hp for Themself to 99999999
+[21:56:53] Amelia Redd: .// say you are a loyalist and suddenly start choking
+[21:56:57] Odin<STEAM_0:0:595064043> changed their name to Cameron Nixon
+[21:56:57] Victor: .//force choke
+[21:56:58] Clarissa Harrison: [[LMFAO
+[21:57:02] Marshall Gross: I hate short people.
+[21:57:04] Victor: But yeah, that's no problem.
+[21:57:12] Victor: Would you mind elaborating?
+[21:57:13] Cameron Nixon: .// Need ma:  weapon_shockrifle 
+[21:57:18] Cameron Nixon: .// got the big freeze
+[21:57:19] Victor gave Cameron Nixon weapon_shockrifle
+[21:57:39] Victor: Like, on why you are a loyalist?
+[21:57:42] Victor: Or, kind are?
+[21:57:45] Victor: .//kinda*
+[21:57:49] Amelia Redd: Just the best thing to do.
+[21:57:54] Amelia Redd: Kinda stupid to fight them.
+[21:58:00] Victor: No, that's absolutely fair.
+[21:58:08] Victor: But, you don't think the Combine is good, right?
+[21:58:22] Victor: Or, do you?
+[21:58:48] Amelia Redd: Ehhh... why would I?
+[21:58:57] Victor: Some people really fall to propaganda.
+[21:59:08] Victor: Well, you're safe here.
+[21:59:18] Victor: If you want to get out a "Fuck the Combine", you won't be stopped.
+[21:59:27] Victor: alright
+[21:59:33] Hero: Stop
+[21:59:34] Hero: Now
+[21:59:36] Clarissa Harrison: sorry
+[21:59:39] Clarissa Harrison: [[ lmfao the vc
+[21:59:42] Hero: Jesus fucking christ
+[21:59:47] Victor: Hey, you, I didn't see you answer.
+[21:59:50] Victor: Are you a loyalist?
+[21:59:55] Victor: I'm gonna guess not considering that bug on your arm.
+[22:00:15] Clarissa Harrison: /w I'm really fuckin' bored, dude
+[22:00:17] Cameron Nixon: Oh I love the combine, I take leisurely walks to the ration cycle and smile at my friends being brainwashed or beaten over the head.
+[22:00:20] Amelia Redd: /w Me too dude.
+[22:00:39] Cameron Nixon: Tazer doesn't like the combine much.
+[22:00:41] Victor: Correct answer.
+[22:00:45] Victor: /me chuckles.
+[22:01:00] Victor: Well, since you all seem trustworthy, and quite frankly, who are you gonna contact in the wasteland anyways?
+[22:01:06] Marshall Gross: why you sitting like that bru.
+[22:01:08] Clarissa Harrison: No idea
+[22:01:18] Cameron Nixon: It is a lifestyle, my man.
+[22:01:23] Client "otamatone gaming" connected.
+[22:01:26] Marshall Gross: Ah, I understand
+[22:01:27] Clarissa Harrison: I suppose all we have is eachother
+[22:01:30] Cameron Nixon: Also, thing is. Cippies tried contacting a City over Radio earlier.
+[22:01:34] Victor: Alright, so, we're here tracking down some Combine base.
+[22:01:42] Cameron Nixon: Sides that, they and I don't have any contacts.
+[22:01:48] Dropped "Amelia Redd" from server<STEAM_0:1:606773038>
+[22:01:51] Clarissa Harrison: [[oop
+[22:01:54] Victor: //rip
+[22:01:59] Victor: Specifically one in the wastelands.
+[22:02:01] Clarissa Harrison: she's gone! She vanished. Oh well
+[22:02:16] Victor: We haven't located it yet, but that's not the biggest concern.
+[22:02:21] Victor: How many cops were there when you got off the train?
+[22:02:25] Clarissa Harrison: Uh, only two
+[22:02:31] Cameron Nixon: Pfft.. Two.. *but*
+[22:02:35] Cameron Nixon: One had Orange Stripes..
+[22:02:38] Victor: Well, one's probably dead or lost, so that should be a problem.
+[22:02:38] Cameron Nixon: Quartermaster.
+[22:02:46] Clarissa Harrison: I dunno where the fuck he went
+[22:02:48] Victor: What about the other one? Did you see where they went?
+[22:02:52] Clarissa Harrison: That was grid
+[22:02:55] Cameron Nixon: Quartermaster? Vanished.
+[22:02:57] Victor: hm
+[22:02:58] Cameron Nixon: Grid? You told him to fuck off
+[22:03:04] Victor: No, not grid.
+[22:03:06] Victor: The quartermaster.
+[22:03:06] Cameron Nixon: So both of them we don't know.
+[22:03:12] Victor: I know where GRID is, he's probably dead.
+[22:03:16] Cameron Nixon: Vanished, didn't die likely. Well Trained, Heavily Armed.
+[22:03:30] Victor: But unknown, that's good.
+[22:03:31] Dropped "Marshall Gross" from server<STEAM_0:0:155884561>
+[22:03:35] Victor: So, who here wants out?
+[22:03:38] Victor: //well
+[22:03:39] Victor: //ripe vent
+[22:03:47] CCA.C08-GRID.i1.23710: // what
+[22:03:47] Victor: And who here wants in on... all this cluster?
+[22:03:49] Cameron Nixon: I wouldn't mind.
+[22:03:54] Victor: //just kidding idgaf
+[22:03:58] Victor: //i give many fs
+[22:04:04] CCA.C08-GRID.i1.23710: // how do you ripen a vent
+[22:04:08] Clarissa Harrison: I'm down, honestly
+[22:04:14] CCA.C08-GRID.i1.23710: // what is the difference between a ripe and unripe vent
+[22:04:15] Clarissa Harrison: Might as well, got nothing better to do?
+[22:04:22] CCA.C08-GRID.i1.23710: // can you get ripe grates
+[22:04:36] Victor: What about you, bug guy?
+[22:04:46] Cameron Nixon: I'm in, yeah.
+[22:04:51] Victor: awesome.
+[22:05:06] Victor: Well, I don't have a bigger map anywhere nearby, but we're searching for some kind of synth factory.
+[22:05:10] Victor: You guys know synths?
+[22:05:12] Victor: The weird, fuckin...
+[22:05:17] Clarissa Harrison: Oh yeah those things
+[22:05:31] Victor: Striders, gunships, dropships, all those?
+[22:05:36] Cameron Nixon: Yup, Cremators march the streets of City-8.
+[22:05:43] Cameron Nixon: We've all seen a variant of Synth.
+[22:05:55] Victor: I'm not sure cremators are a synth, but yeah, that's right.
+[22:06:04] Cameron Nixon: Fuck if they aren't.
+[22:06:12] Cameron Nixon: Tall, Loud, Uncaring bastards.
+[22:06:17] Hero: .// Wha
+[22:06:18] Victor: //sorry, wrong key
+[22:06:21] Hero: // Lmao
+[22:06:35] Victor: The Combine is experimenting with new synths, ones that we don't have much data on.
+[22:06:42] Victor: Never before seen as far as we know.
+[22:07:05] Victor: We do remember an incident where this train crashed in the outlands near precinct 33.
+[22:07:07] Cameron Nixon: Joy...
+[22:07:17] Victor: But we can't be sure that was connected other than them not being specific about what was lost.
+[22:07:25] Cameron Nixon: // afk for a smol few, still around on server
+[22:07:39] Victor: So, we're making a guess.
+[22:07:46] Victor: Also, something about a purple vortigaunt?
+[22:07:49] Victor: The reports don't quite make sense.
+[22:07:55] Victor: Sorry, I'm boring you all.
+[22:08:01] Clarissa Harrison: Nah, you're good
+[22:08:30] Victor: So, we've been combing the wasteland.
+[22:08:36] Victor: For this... synth... place.
+[22:08:38] Victor: Any questions?
+[22:08:50] Client "otamatone gaming" spawned in server <STEAM_0:0:531587448> (took 447 seconds).
+[22:09:07] Victor: Gonna take that as a no.
+[22:09:09] Clarissa Harrison: No, I don't think so
+[22:09:12] Victor: alright.
+[22:09:18] Victor: Well, let me check our to do list.
+[22:09:22] Victor: In the meantime, anybody need a snack?
+[22:09:50] Clarissa Harrison: Nah, but, uh.. maybe a weapon would be nice? Been hitting things with this pan ever since we got out of City 8
+[22:10:02] Victor: Right, right.
+[22:10:06] Victor: Let me see what we have.
+[22:10:10] Client "XxXRationEnthusiastXxX" connected.
+[22:10:13] Victor: all of you, just standby here. Take care.
+[22:10:32] Hero: Heh, now I can sit here and look like the leader.
+[22:10:36] Clarissa Harrison: Pfft
+[22:10:49] Clarissa Harrison: If I fits, I sits.
+[22:10:51] Client "XxXRationEnthusiastXxX" connected.
+[22:10:57] Hero: /me Chuckles
+[22:12:18] Hero: You two are lucky
+[22:12:20] otamatone gaming<STEAM_0:0:531587448> changed their name to jimmy
+[22:12:25] Client "XxXRationEnthusiastXxX" spawned in server <STEAM_0:1:226358281> (took 94 seconds).
+[22:12:30] CCA.C08-GRID.i1.23710: // H M M
+[22:12:32] Clarissa Harrison: how so?
+[22:12:40] Hero: The wasteland is a dangerous place, you are both lucky that we found you before anybody else.
+[22:12:45] Clarissa Harrison: Yeah..
+[22:12:49] Victor: //Welcome!
+[22:12:52] Clarissa Harrison: Where is that guy anyway?
+[22:12:58] Hero: hey!
+[22:13:03] Hero: /y HEY!
+[22:13:04] Victor: //Jimmy?
+[22:13:06] Hero: /y back down!
+[22:13:18] Clarissa Harrison: /me pops her head up- "Huh? Okay, okay. Jeez."
+[22:13:23] jimmy: hi
+[22:13:37] Hero: We don't really appreciate people snooping around our home.
+[22:13:41] CCA.C08-GRID.i1.23710: /plytransfer
+[22:13:44] CCA.C08-GRID.i1.23710: /plytransfer
+[22:13:45] Clarissa Harrison: Ooh, spooky mus- Sorry
+[22:13:46] Clarissa Harrison: Heh
+[22:13:47] CCA.C08-GRID.i1.23710: /plytransfer
+[22:13:49] XxXRationEnthusiastXxX<STEAM_0:1:226358281> changed their name to jimmy vietnam
+[22:13:51] Hero: No problem
+[22:13:52] CCA.C08-GRID.i1.23710: /plysearch
+[22:13:54] jimmy vietnam: // i have see vietnam....
+[22:14:05] Victor<STEAM_0:1:53097688> spawned vehicle models/vehicle.mdl
+[22:14:07] Victor<STEAM_0:1:53097688> spawned vehicle models/buggy.mdl
+[22:14:11] Victor<STEAM_0:1:53097688> spawned vehicle models/props_vehicles/apc001.mdl
+[22:14:15] CCA.C08-GRID.i1.23710: /plytransfer
+[22:14:19] Victor<STEAM_0:1:53097688> spawned vehicle models/combine_apc.mdl
+[22:14:27] CCA.C08-GRID.i1.23710: /plysearch
+[22:14:31] CCA.C08-GRID.i1.23710: /plysearch
+[22:14:37] Victor<STEAM_0:1:53097688> spawned vehicle models/vehicles/buggy_elite.mdl
+[22:14:40] CCA.C08-GRID.i1.23710: /plysearch
+[22:14:44] Victor<STEAM_0:1:53097688> spawned vehicle models/vehicles/buggy_elite.mdl
+[22:14:48] jimmy vietnam: jimmy
+[22:14:50] jimmy vietnam: my brothe
+[22:14:54] Victor<STEAM_0:1:53097688> spawned vehicle models/vehicle.mdl
+[22:14:55] Victor<STEAM_0:1:53097688> spawned vehicle models/buggy.mdl
+[22:14:57] jimmy vietnam: stop dying
+[22:14:58] Victor<STEAM_0:1:53097688> spawned vehicle models/buggy.mdl
+[22:15:00] jimmy vietnam: hold tab my brother
+[22:15:06] jimmy vietnam: D:
+[22:15:10] jimmy vietnam: /me cries!
+[22:15:14] Victor: sorry about that
+[22:15:14] jimmy vietnam: JIMMY 
+[22:15:14] CCA.C08-GRID.i1.23710: /toggleraise
+[22:15:15] jimmy: how
+[22:15:16] CCA.C08-GRID.i1.23710 killed jimmy using ix_hands
+[22:15:17] jimmy vietnam: D:
+[22:15:20] CCA.C08-GRID.i1.23710: /toggleraise
+[22:15:20] Client "ComradeNathan" connected.
+[22:15:20] Clarissa Harrison: no problem
+[22:15:25] jimmy vietnam: :(
+[22:15:28] jimmy vietnam: ok jimmy
+[22:15:31] jimmy vietnam: you press tab
+[22:15:37] jimmy vietnam: and u press inventory
+[22:15:41] Clarissa Harrison: //jimmy.
+[22:15:41] jimmy vietnam: das it
+[22:15:48] jimmy vietnam: gg
+[22:15:48] Victor: got your guns
+[22:15:50] CCA.C08-GRID.i1.23710: .// what do you guys want your names to be
+[22:15:51] Victor: /adminspawnmenu
+[22:16:04] jimmy vietnam: wtf is happening
+[22:16:05] CCA.C08-GRID.i1.23710: .// what do you guys want your names to be\
+[22:16:10] jimmy vietnam: // what was that
+[22:16:15] CCA.C08-GRID.i1.23710: .// what do you guys want your names to be\
+[22:16:24] jimmy vietnam: Jimmy Vietnam? 
+[22:16:25] Hero: Take it
+[22:16:26] jimmy vietnam: its already my name
+[22:16:30] CCA.C08-GRID.i1.23710: .// pick another surname
+[22:16:31] Clarissa Harrison: Thanks.
+[22:16:37] jimmy: now do i put the mask on
+[22:16:39] jimmy vietnam: Jimmy Pepperoy
+[22:16:42] CCA.C08-GRID.i1.23710: .// yes
+[22:16:45] CCA.C08-GRID.i1.23710: .// put the suit on
+[22:16:47] Victor: alright..
+[22:16:48] CCA.C08-GRID.i1.23710: .// then equip the filter
+[22:17:00] CCA.C08-GRID.i1.23710: .// you need to put the hazmat suit on first
+[22:17:01] Cameron Nixon: .// Back
+[22:17:04] Victor: .//wb
+[22:17:06] jimmy vietnam: gg
+[22:17:12] Victor: i guess bug guy can't use a gun
+[22:17:16] CCA.C08-GRID.i1.23710: /charsetname "jimmy vietnam" "Jimmy Vetnam
+[22:17:17] jimmy vietnam<STEAM_0:1:226358281> changed their name to "Jimmy Vetnam
+[22:17:18] Cameron Nixon: Not with both hands no.
+[22:17:18] Victor: he's got one built in
+[22:17:19] CCA.C08-GRID.i1.23710: /charsetname "jimmy vietnam" "Jimmy Vetnam"
+[22:17:23] Cameron Nixon: I'll do fine
+[22:17:28] CCA.C08-GRID.i1.23710: /charsetname "jimmy vetnam" "Jimmy Vetnam"
+[22:17:29] "Jimmy Vetnam<STEAM_0:1:226358281> changed their name to Jimmy Vetnam
+[22:17:29] Hero: integral gun
+[22:17:35] Victor: all good
+[22:17:38] CCA.C08-GRID.i1.23710: .// what is your chatacyers last name
+[22:17:40] Jimmy Vetnam: // theres a i in vietnam
+[22:17:53] CCA.C08-GRID.i1.23710: /pm jimmy what's your char's surname
+[22:17:55] Victor: So, what we're looking for now is some scouting group that died not too far from here. They were apparently going through to another part of the wasteland.
+[22:17:58] Jimmy Vetnam: // Jimmy Vietnam
+[22:18:00] CCA.C08-GRID.i1.23710: /pm jimmy wrong guy, my bad
+[22:18:10] CCA.C08-GRID.i1.23710: /pm "jimmy" what's your surname
+[22:18:10] Cameron Nixon: // Vetnam
+[22:18:15] Victor: They've got a datachip with data on it that we need.
+[22:18:25] Victor: It could be a lead for us all.
+[22:18:30] Clarissa Harrison: Data? What sort of data?
+[22:18:30] CCA.C08-GRID.i1.23710: /charsetname "jimmy vietnam "Jimmy Vietnam"
+[22:18:34] CCA.C08-GRID.i1.23710: /charsetname "jimmy vetnam "Jimmy Vietnam"
+[22:18:38] Victor: We're not sure. It could be the location of the base for all we know.
+[22:18:41] Cameron Nixon: Lets go n' get it.
+[22:18:46] Clarissa Harrison: Well, let- yeah
+[22:18:47] CCA.C08-GRID.i1.23710: /charsetname "Jimmy Vetnam "Jimmy Vietnam"
+[22:18:49] Victor: Could just be a supply cache, or a password for some random device.
+[22:18:52] Victor: Could be anything.
+[22:18:58] Victor: Right, let me show you the cars.
+[22:19:02] Victor: That van is a bit of a junker.
+[22:19:09] CCA.C08-GRID.i1.23710: /charsetname "Jimmy Vetnam" "Jimmy Vietnam"
+[22:19:10] Jimmy Vetnam<STEAM_0:1:226358281> changed their name to Jimmy Vietnam
+[22:19:18] CCA.C08-GRID.i1.23710: /pm "jimmy"
+[22:19:20] Victor: come with me
+[22:19:27] CCA.C08-GRID.i1.23710: /pm jimmy oml i cant pm the other jimmy
+[22:19:35] CCA.C08-GRID.i1.23710: .// hey
+[22:19:39] Hero: ho!
+[22:19:42] CCA.C08-GRID.i1.23710: .// hold up a sec
+[22:19:42] Hero: .// go*
+[22:19:46] Victor<STEAM_0:1:53097688> spawned vehicle models/buggy.mdl
+[22:19:49] Victor<STEAM_0:1:53097688> spawned vehicle models/vehicles/buggy_elite.mdl
+[22:19:56] Victor: /y over here
+[22:19:57] CCA.C08-GRID.i1.23710: /pm "jimmy" what's your surname
+[22:20:03] CCA.C08-GRID.i1.23710: /pm "jimmy" wrong 
+[22:20:07] CCA.C08-GRID.i1.23710: .// what's your surname
+[22:20:08] Victor: /me unslings his AR1.
+[22:20:09] Victor: Sorry, bugs.
+[22:20:13] jimmy: jimmy
+[22:20:18] Clarissa Harrison: ooh
+[22:20:20] CCA.C08-GRID.i1.23710: .// i mean your last name
+[22:20:20] Cameron Nixon: dear god
+[22:20:20] jimmy: jim for short
+[22:20:32] Clarissa Harrison: I call this one
+[22:20:33] Cameron Nixon: ha got one
+[22:20:34] Clarissa Harrison: It has ammo
+[22:20:35] Victor: Wait, hold on. This is the one seater.
+[22:20:40] jimmy: free man
+[22:20:43] Victor: Give me a second.
+[22:20:54] Victor<STEAM_0:1:53097688> spawned vehicle models/vehicle.mdl
+[22:20:54] Hero: Out
+[22:21:00] Cameron Nixon: /me *he'd sit down in the Grey Jeep, hands on the Wheel Two - and - Ten.*
+[22:21:14] Victor: /y this is the other car
+[22:21:16] Clarissa Harrison: Awe, hell yes
+[22:21:25] CCA.C08-GRID.i1.23710: /charsetname "jimmy" "Jimmy Free Man"
+[22:21:25] Jimmy Vietnam<STEAM_0:1:226358281> changed their name to Jimmy Free Man
+[22:21:30] Victor: Hey, you can ride shotgun, but I'm driving this beauty.
+[22:21:37] CCA.C08-GRID.i1.23710: /charban "Jimmy Free Man"
+[22:21:37] Jimmy Free Man<STEAM_0:1:226358281> changed their name to XxXRationEnthusiastXxX
+[22:21:39] Victor: Let me prepare, real quick.
+[22:21:53] Victor: /y Gotta grab something, hang on.
+[22:22:02] CCA.C08-GRID.i1.23710: /charban "Jimmy"
+[22:22:03] jimmy<STEAM_0:0:531587448> changed their name to otamatone gaming
+[22:22:10] Victor: //i gotta grab something is admin code for "i do admin things"
+[22:22:13] Hero: /y Get out of the red jeep?
+[22:22:19] Dropped "otamatone gaming" from server<STEAM_0:0:531587448>
+[22:22:20] Hero: Quit it!
+[22:22:20] Victor<STEAM_0:1:53097688> spawned vehicle models/combine_apc.mdl
+[22:22:21] Victor<STEAM_0:1:53097688> spawned vehicle models/combine_apc.mdl
+[22:22:23] Victor<STEAM_0:1:53097688> spawned vehicle models/combine_apc.mdl
+[22:22:23] Cameron Nixon: /y ...No?
+[22:22:26] Clarissa Harrison: Me?
+[22:22:42] Cameron Nixon: /y Unless you want me to ride atop your Vehicle.
+[22:22:52] Hero: /y The other jeep is a two seater!
+[22:22:57] Hero: /y You'll be riding shotgun!
+[22:22:57] Cameron Nixon: /y And the Driver isn't here.
+[22:22:59] Victor<STEAM_0:1:53097688> spawned ragdoll models/hlvr/characters/combine/grunt/combine_grunt_hlvr_npc.mdl
+[22:23:05] Victor<STEAM_0:1:53097688> spawned ragdoll models/hlvr/characters/combine/grunt/combine_grunt_hlvr_npc.mdl
+[22:23:09] Hero: /y He'll be back
+[22:23:15] Cameron Nixon: /y When he is, sure thing.
+[22:23:19] Victor<STEAM_0:1:53097688> spawned ragdoll models/hlvr/characters/combine/grunt/combine_grunt_hlvr_npc.mdl
+[22:23:24] Victor<STEAM_0:1:53097688> spawned ragdoll models/hlvr/characters/combine/grunt/combine_grunt_hlvr_npc.mdl
+[22:23:34] Victor<STEAM_0:1:53097688> spawned ragdoll models/hlvr/characters/combine_captain/combine_captain_hlvr_npc.mdl
+[22:23:34] Client "ComradeNathan" spawned in server <STEAM_0:1:157535959> (took 494 seconds).
+[22:23:44] XxXRationEnthusiastXxX<STEAM_0:1:226358281> changed their name to Ben Edge
+[22:23:51] Victor<STEAM_0:1:53097688> spawned ragdoll models/hlvr/characters/combine_captain/combine_captain_hlvr_player.mdl
+[22:23:59] Ben Edge: // why was my other character banned
+[22:24:23] Victor<STEAM_0:1:53097688> spawned model models/hlvr/weapons/ipistol/w_ipistol_hlvr.mdl
+[22:24:29] Victor: //you commited suicide
+[22:24:34] Ben Edge: // how
+[22:24:34] Victor: //suicide is a PK
+[22:24:40] Ben Edge: // how tf did i commit suicide i was AFK
+[22:24:40] Victor<STEAM_0:1:53097688> spawned model models/hlvr/weapons/ipistol/w_ipistol_hlvr.mdl
+[22:24:43] CCA.C08-GRID.i1.23710: // you jumped off the traintracks
+[22:24:47] Victor<STEAM_0:1:53097688> spawned model models/hlvr/weapons/irifle/w_irifle.mdl
+[22:24:49] Ben Edge: // so what
+[22:24:51] Victor<STEAM_0:1:53097688> spawned model models/hlvr/weapons/irifle/w_irifle.mdl
+[22:24:53] CCA.C08-GRID.i1.23710: // and died
+[22:24:55] Ben Edge: // how
+[22:24:57] Victor<STEAM_0:1:53097688> spawned model models/hlvr/weapons/ipistol/w_ipistol_hlvr.mdl
+[22:24:58] CCA.C08-GRID.i1.23710: // you killed yourself
+[22:25:00] Victor<STEAM_0:1:53097688> spawned model models/hlvr/weapons/ipistol/w_ipistol_hlvr.mdl
+[22:25:02] CCA.C08-GRID.i1.23710: // fall damage
+[22:25:03] Ben Edge: // this map sucks
+[22:25:08] Victor: //Sorry to hear
+[22:25:34] Ben Edge: // why i have a friend who is banned for: "i have white guilt" lmao
+[22:25:52] Victor: //probably an old ban message from before we gave more professional ban reasons
+[22:26:02] ComradeNathan<STEAM_0:1:157535959> changed their name to Jason
+[22:26:09] Ben Edge: // he said to me that some admin called him the n word lol
+[22:26:20] Victor: //that absolutely did not happen under my supervision
+[22:26:30] Ben Edge: /me get in car
+[22:26:32] CCA.C08-GRID.i1.23710: !menu
+[22:26:34] Hero: /y Hey!
+[22:26:37] Ben Edge: ?
+[22:26:38] Victor: /createcustomitem "Combine Datachip" models/dorado/tarjeta1.mdl "A black chip with some kind of metal piece on the back."
+[22:26:40] Hero: Out, now.
+[22:26:44] Ben Edge: k
+[22:26:53] Victor teleported to Ben Edge
+[22:26:57] Client "combine femboy hypnosis" connected.
+[22:27:00] Ben Edge: wanna do a race
+[22:27:06] Hero: No, we won't.
+[22:27:07] Victor: /y we're ready
+[22:27:08] Cameron Nixon: I don't think it'd end all too well.
+[22:27:11] Hero: You will leave
+[22:27:12] Ben Edge: rev up your engine
+[22:27:17] Cameron Nixon: Revved
+[22:27:32] Victor: //can you turn off your headlightS? my framerate will thank you
+[22:27:38] Ben Edge: // get gmod 64 bit
+[22:27:49] Victor: //trying to find the key for my other headlights, standby
+[22:27:49] Ben Edge: meep
+[22:28:12] Cameron Nixon: // Bottom Headlights, hold F, top Headlights, Press F.
+[22:28:26] Hero: Stop going civvie
+[22:28:31] Victor: /y alright. We're searching for anything that looks like a combine search team.
+[22:28:32] Ben Edge: rev up
+[22:28:33] Victor: //Thank you!
+[22:28:37] Cameron Nixon: // yup
+[22:28:37] Jason: Where do you acquire a gas mask?
+[22:28:41] Hero: Follow him closely
+[22:28:50] Victor: /y STAY TOGETHER, for all of our safety.
+[22:28:57] Victor: /y Somebody else lead.
+[22:29:27] Victor: fuck me!
+[22:29:30] Ben Edge: what the hell
+[22:29:38] Clarissa Harrison: [[lmfao
+[22:29:39] Ben Edge: Do you have sway bars on your suspension?
+[22:29:47] Victor: /y Can someone help flip-
+[22:29:48] Ben Edge: /y OW WHAT TEH FUCK IS THAT
+[22:29:48] Clarissa Harrison: [[ omfg
+[22:30:12] Dropped "Jason" from server<STEAM_0:1:157535959>
+[22:31:00] Ben Edge: yo
+[22:31:01] Ben Edge: can i drive
+[22:31:06] Victor: /chargiveitem victor "ota filter"
+[22:31:08] Victor: nope
+[22:31:10] Ben Edge: i was a nascar pilot
+[22:31:22] Ben Edge: and i did a lot of offroadng on weekends
+[22:31:25] Victor: /y this way
+[22:31:27] Ben Edge: i am more qualified than you
+[22:31:27] Hero: /y I don't think Nascar has pilots dumbass!
+[22:31:29] Victor: /y nevermind
+[22:31:34] Ben Edge: you keep hitting the car
+[22:31:46] Ben Edge: ow what the hell
+[22:31:50] Ben Edge: dude
+[22:31:52] Ben Edge: reverse
+[22:32:03] Hero: /y Other way!
+[22:32:06] Hero: /y Other way!
+[22:32:25] Clarissa Harrison: //mad max rp
+[22:32:31] Ben Edge: // canada worst driver RP
+[22:32:31] Victor: //simfphys is pain RP
+[22:32:40] Ben Edge: // u just wont let me drive
+[22:32:49] Hero: // you said Nascar has pilots.
+[22:33:05] CCA.C08-GRID.i1.23710: // I'M ANDREW YOUNGHUSBAND AND THIS IS CANADA'S WORST DRIVER
+[22:33:23] Ben Edge: youre gonna kill the car
+[22:33:25] Ben Edge: sammy
+[22:33:32] Ben Edge: sammy youre breaking the car
+[22:33:47] Victor: /y this way, maybe the city
+[22:33:51] Victor: /y Where's the jeep?
+[22:34:01] Ben Edge: Lemme drive 
+[22:34:03] Ben Edge: okay now lemme drive
+[22:34:07] Victor: nope
+[22:34:09] Ben Edge: youre gonna get both of us killed
+[22:34:37] Victor: fuck's sake
+[22:34:57] Ben Edge: you keep getting the car stuck
+[22:35:00] Victor: how did we get here in the first place/
+[22:35:07] Ben Edge: you aint doing that
+[22:35:07] Victor: /y SHITSHITSHIT
+[22:35:14] Clarissa Harrison: move
+[22:35:17] Victor: /y hold up
+[22:35:19] Cameron Nixon: // Jalopy Pit Manuever Montage #28348592732
+[22:35:27] Clarissa Harrison: fucks sake
+[22:35:31] Victor: /y We're going on foot.
+[22:35:34] Hero: /y This is just wonderful!
+[22:35:37] Ben Edge: look
+[22:35:40] Hero: Out
+[22:35:42] Victor: /y out of the cars
+[22:35:47] Victor: holy shit
+[22:35:52] Victor: /y out of the car
+[22:35:57] Victor: /y get out
+[22:35:58] Victor: /toggleraise
+[22:35:58] Victor: /toggleraise
+[22:36:01] Ben Edge: im gonna get it not stuck
+[22:36:03] Ben Edge: like you did
+[22:36:07] Victor: right
+[22:36:11] Victor: let's move
+[22:36:47] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> spawned NPC npc_vj_st_roach
+[22:37:00] Clarissa Harrison: I heard something
+[22:37:03] Victor: /toggleraise
+[22:37:07] Victor: /y guns out!
+[22:37:09] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> spawned NPC npc_vj_st_roach
+[22:37:21] Victor: /y group up
+[22:37:29] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> spawned NPC npc_zombie
+[22:37:31] Clarissa Harrison: /y Clear
+[22:37:37] Victor: /y Where's the lady?
+[22:37:38] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> spawned NPC npc_poisonzombie
+[22:37:48] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> spawned NPC npc_zombine
+[22:37:49] Victor: i hear a virome
+[22:37:55] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> spawned NPC npc_zombine
+[22:38:09] Victor: zombine is a good sign
+[22:38:32] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> spawned NPC npc_zombie
+[22:38:37] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> spawned NPC npc_zombie
+[22:38:40] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> spawned NPC npc_zombie
+[22:38:42] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> spawned NPC npc_zombie
+[22:38:56] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> spawned NPC npc_poisonzombie
+[22:38:57] Victor: /y one down
+[22:39:01] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> spawned NPC npc_poisonzombie
+[22:39:02] Victor: /y VIROME
+[22:39:03] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> spawned NPC npc_poisonzombie
+[22:39:12] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> spawned NPC npc_poisonzombie
+[22:39:15] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> spawned NPC npc_poisonzombie
+[22:39:29] Client "combine femboy hypnosis" spawned in server <STEAM_0:0:19369750> (took 752 seconds).
+[22:39:31] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> spawned NPC npc_zombine
+[22:39:38] CCA.C08-GRID.i1.23710: // wha
+[22:39:39] Ben Edge: // wtf
+[22:39:46] Victor: unit down
+[22:40:02] Victor: /y everyone look around from up here and see if we're near anything
+[22:40:04] Victor: /toggleraise
+[22:40:13] Victor: /y Any sign of Combine presence.
+[22:40:23] Hero: /y I see an APC!
+[22:40:25] Cameron Nixon: /roll
+[22:40:26] Victor: /y Awesome!
+[22:40:44] Victor: /toggleraise
+[22:41:04] Victor: //when zombie spawner go afk
+[22:41:05] Victor: //big sad
+[22:41:17] Victor: //oh their PC crashed
+[22:41:25] Victor: /toggleraise
+[22:41:26] Victor: /toggleraise
+[22:41:31] Clarissa Harrison: [[ while we wait for them can i go afk lol i need a dink
+[22:41:34] Clarissa Harrison: [[drink
+[22:41:36] Victor: .//feel free
+[22:41:40] Ben Edge: // his pc crashed bruh
+[22:41:42] Clarissa Harrison: [[sweet
+[22:41:42] Victor: /toggleraise
+[22:41:43] Victor: /toggleraise
+[22:41:50] Victor: /y hey
+[22:41:57] Hero<STEAM_0:1:17219621> spawned NPC npc_fastzombie
+[22:42:02] Hero<STEAM_0:1:17219621> spawned NPC npc_fastzombie
+[22:42:07] Hero<STEAM_0:1:17219621> spawned NPC npc_fastzombie_torso
+[22:42:10] Victor: /y everyone group up here
+[22:42:18] Hero<STEAM_0:1:17219621> spawned NPC npc_zombie
+[22:42:21] Hero<STEAM_0:1:17219621> spawned NPC npc_headcrab_black
+[22:42:22] Victor: /y everyone group up here
+[22:42:23] Victor: /toggleraise
+[22:42:24] Victor: /toggleraise
+[22:42:33] Hero<STEAM_0:1:17219621> spawned NPC npc_poisonzombie
+[22:42:42] Hero<STEAM_0:1:17219621> spawned NPC npc_zombine
+[22:42:47] Dropped "CCA.C08-GRID.i1.23710" from server<STEAM_0:0:193599766>
+[22:42:51] Victor blinded Cameron Nixon by amount 255
+[22:42:52] Victor brought Cameron Nixon
+[22:42:54] Victor unblinded Everyone
+[22:43:07] Ben Edge: // does simfys has a differential lock feature
+[22:43:25] Victor: //asking the wrong person, i barely use simphys
+[22:43:27] combine femboy hypnosis<STEAM_0:0:19369750> changed their name to Simon Amsterdam
+[22:43:37] Hero<STEAM_0:1:17219621> spawned NPC npc_zombie_torso
+[22:43:39] Hero<STEAM_0:1:17219621> spawned NPC npc_zombie
+[22:43:44] Hero<STEAM_0:1:17219621> spawned NPC npc_zombie
+[22:43:45] Hero<STEAM_0:1:17219621> spawned NPC npc_zombine
+[22:44:02] Victor: //we use it for big event maps like ineu and something like this
+[22:44:04] Victor: /y hey
+[22:44:05] Victor: /y bug guy
+[22:44:08] Victor: /y bug guy
+[22:44:11] Victor: /y BUG GUY
+[22:44:11] Victor: /toggleraise
+[22:44:14] Victor: /toggleraise
+[22:44:16] Cameron Nixon: Yo.
+[22:44:17] Victor: /y get back down here
+[22:44:28] Victor: /toggleraise
+[22:44:37] Victor: come back, the lady is resting.
+[22:44:42] Cameron Nixon: Sure.
+[22:44:53] Ben Edge: // why are the events so admin-centric though
+[22:45:03] Hero: // How?
+[22:45:12] Ben Edge: // if im a player and i want to rp or do smth i am not rly allowed to
+[22:45:36] Victor: //well, we were all grouped up, we're trying to give players an in. you just kinda walked off.
+[22:45:44] Victor blinded Ben Edge,Cameron Nixon,Clarissa Harrison,Hero,Simon Amsterdam by amount 255
+[22:45:50] Victor unblinded Everyone
+[22:45:50] Victor unblinded Everyone
+[22:45:51] Victor unblinded Everyone
+[22:45:51] Victor unblinded Everyone
+[22:45:51] Victor unblinded Everyone
+[22:45:51] Victor unblinded Everyone
+[22:45:53] Victor unblinded Everyone
+[22:46:00] Simon Amsterdam: // where are you all
+[22:46:13] Ben Edge: // i wanted to drive but u didnt let me
+[22:46:31] Simon Amsterdam: /y hello car
+[22:46:33] Ben Edge: /ity you can hear a generlal lee horn
+[22:46:37] Victor: //we left, you could have driven
+[22:46:47] Victor: //oh, hey, welcome! great to have you!
+[22:46:51] Victor: //will do, standby.
+[22:46:54] Victor brought Simon Amsterdam
+[22:46:56] Victor set the hp for Everyone to 100
+[22:47:04] Simon Amsterdam: oh gosh
+[22:47:07] Victor: .//right now we're waiting for a player to come back from
+[22:47:08] Simon Amsterdam: hello
+[22:47:12] Victor: /chargiveitem hero "ota filter"
+[22:47:21] Victor: .//sorry, we're waiting on a palyer to come back from being AFK
+[22:47:22] Simon Amsterdam: /looc whats the story
+[22:47:26] Hero: /me Notices he's slowly dying and replaces his filter.
+[22:47:30] Victor: .//long story short:
+[22:47:54] Victor: .//there was a xenian infestation in city 8 and it was way too much to handle, so they evacuated to other cities and nearby locations
+[22:47:59] Cameron Nixon: .// Hey so while we're here. Lemme pull up something.
+[22:48:03] Victor: .//the train we escaped on got derailed
+[22:48:07] Simon Amsterdam: /looc thats really cool actually
+[22:48:20] Victor: .//we ended up in the wasteland, and then they met us two, hero and victor
+[22:48:25] Victor: .//a few defective units who hide out here
+[22:48:27] Victor: .//thank you!
+[22:48:36] Cameron Nixon: .// Rolls: 94 - Zombine 60 - Zombine 51 - Zombine 69 - Zombine 84 - Zombine  
+[22:48:37] Victor: .//now they're rolling with us because they chose to and because plot
+[22:48:46] Victor: .//the zombines dropped loot
+[22:48:48] Cameron Nixon: .// Those are some rolls I got over the days Q. Never got, an Overseer. 
+[22:48:51] Victor: .//oh
+[22:48:54] Cameron Nixon: .// Sewers.
+[22:48:55] Victor: .//you mean beforehand
+[22:48:57] Cameron Nixon: .// Yeah
+[22:49:08] Cameron Nixon: .// Way before when, no one was on but i still tried to get shit done
+[22:49:15] Clarissa Harrison: [[hello gordon!
+[22:49:30] Simon Amsterdam: /looc can we rp that i was with you guys the whole time to make things less confusing
+[22:49:32] Victor: .//my bad. if staff aren't on, we have no way to verify. not that we're calling you a liar, it's just a formality to stop people from lying. sorry
+[22:49:32] Ben Edge: /charfallover 0.01
+[22:49:36] Victor: .//yes we absolutely can!
+[22:49:38] Ben Edge: /charfallover 0.01
+[22:49:42] Ben Edge: /charfallover 0.01
+[22:49:57] Ben Edge: // this map is so bad that i am now inside of it 
+[22:50:05] Victor: .//oh also they found out the defective units were the ones who derailed the train because they thought it was just CPs
+[22:50:10] Victor: .//and then they were like "oh shit, citizens, our bad"
+[22:50:17] Victor: .//"units fuck off and find somewhere else to survive"
+[22:50:31] Victor: .//let me grab you a gun because everyone else got one
+[22:50:32] Simon Amsterdam: /looc whats the plan
+[22:50:33] Victor: /adminspawnmenuq
+[22:50:36] Victor: /adminspawnmenu
+[22:51:11] Victor: .//they're helping the defective units find this combine datachip. they saw a combine patrol pass through but never saw it leave, so they're trying to find out what information they were carrying, if any.
+[22:51:25] Victor: .//it oculd be the location for a synth factory they've been looking for.
+[22:51:35] Victor: .//they being the defective boys, not the regular citizens
+[22:51:39] Victor: /y Everyone ready?
+[22:51:47] Client "DRD" connected.
+[22:51:47] Simon Amsterdam: /looc ooohhh
+[22:51:48] Clarissa Harrison: Yep!
+[22:51:50] Simon Amsterdam: i think so
+[22:51:54] Hero: I'm ready
+[22:51:56] Victor: great.
+[22:52:04] Victor: Let's see if there's any units in here.
+[22:52:13] Victor: /toggleraise
+[22:52:20] Ben Edge: // help im stuck
+[22:52:31] Victor: //lightroom is coming now
+[22:52:37] Victor: this way?
+[22:52:40] Victor: /toggleraise
+[22:52:41] Hero brought Ben Edge
+[22:52:41] Hero: !bring Ben
+[22:52:45] Victor: .//you there forst?
+[22:52:47] Victor: .//frost*
+[22:52:53] Victor: .//yep alright
+[22:52:53] Ben Edge: // my car is stuck too wtf
+[22:52:54] Cameron Nixon: .// Yup
+[22:53:01] Victor: /y try over here, maybe
+[22:53:06] Victor: /toggleraise
+[22:53:12] Hero: /chargiveflag Hero pet
+[22:53:20] Victor: damnit
+[22:53:22] Hero: // Fixed
+[22:53:24] Ben Edge: // thx
+[22:53:29] Victor: yeah, this goes nowhere
+[22:53:42] Victor: let's try..
+[22:53:43] Victor: over here
+[22:53:47] Victor: .//fuck me
+[22:53:51] Victor: .//Over here*
+[22:53:59] Victor: /y zombie combine
+[22:54:01] Hero: Zombine!
+[22:54:02] Simon Amsterdam: i saw a guy out there
+[22:54:06] Victor: /y WATHC THE RNEAD
+[22:54:06] Simon Amsterdam: a citizen
+[22:54:27] Victor: possibly up there
+[22:54:34] Victor: /chargiveitem simon "ota filter"
+[22:54:41] Victor: hm
+[22:54:49] Victor: /y everyone fan out and try to find any bodies.
+[22:54:55] Victor: /toggleraise
+[22:55:08] Hero: /y Come on!
+[22:55:36] Hero<STEAM_0:1:17219621> spawned NPC npc_fastzombie
+[22:55:40] Hero<STEAM_0:1:17219621> spawned NPC npc_poisonzombie
+[22:55:41] Victor: /toggleraise
+[22:55:51] Hero<STEAM_0:1:17219621> spawned NPC npc_zombine
+[22:56:15] Hero<STEAM_0:1:17219621> spawned NPC npc_headcrab_fast
+[22:56:16] Hero<STEAM_0:1:17219621> spawned NPC npc_headcrab_fast
+[22:56:20] Victor: /toggleraise
+[22:56:21] Victor: /toggleraise
+[22:56:22] Victor: /toggleraise
+[22:56:24] Victor: /y headcrab
+[22:56:39] Hero<STEAM_0:1:17219621> spawned NPC npc_zombie
+[22:56:42] Hero<STEAM_0:1:17219621> spawned NPC npc_zombie_torso
+[22:56:56] Victor: /toggleraise
+[22:57:01] Hero<STEAM_0:1:17219621> spawned NPC npc_headcrab_black
+[22:57:01] Victor: where's everyone else?
+[22:57:03] Victor: oh
+[22:57:14] Victor: /y we found the APC, we can just look around the area for where the units are
+[22:57:19] Victor: /y if they're still in one piece
+[22:57:31] Hero<STEAM_0:1:17219621> spawned NPC npc_headcrab_black
+[22:57:39] Victor: /toggleraise
+[22:57:48] Hero<STEAM_0:1:17219621> spawned NPC npc_headcrab_black
+[22:57:59] Hero<STEAM_0:1:17219621> spawned NPC npc_zombie
+[22:58:01] Hero<STEAM_0:1:17219621> spawned NPC npc_zombie
+[22:58:09] Victor: /y Simon, you good?
+[22:58:10] Victor: /toggleraise
+[22:58:10] Simon Amsterdam: whew!
+[22:58:12] Simon Amsterdam: shit!
+[22:58:14] Hero<STEAM_0:1:17219621> spawned NPC npc_headcrab_black
+[22:58:15] Victor: /toggleraise
+[22:58:17] Victor: oh holy hell
+[22:58:18] Victor: nice job
+[22:58:19] Simon Amsterdam: little fucker was hard to hit
+[22:58:21] Victor: let's get with the group
+[22:58:27] Victor set the hp for Everyone to 100
+[22:58:40] Victor: can i just...
+[22:58:43] Victor: yep
+[22:59:03] Victor: /toggleraise
+[22:59:04] Victor: /toggleraise
+[22:59:10] Victor: did you..
+[22:59:13] Victor: /toggleraise
+[22:59:27] Victor: alright.
+[22:59:32] Cameron Nixon: Shock them all to death?
+[22:59:32] Victor: Any other ideas where to look?
+[22:59:34] Simon Amsterdam: /looc wheres the other error
+[22:59:38] Victor: .//eh?
+[22:59:47] Simon Amsterdam: /looc youre an error, wheres the other error
+[22:59:56] Victor: .//doing staff things
+[23:00:03] Victor: .//zombie spawning and al lthat
+[23:00:05] Hero<STEAM_0:1:17219621> spawned NPC npc_headcrab_fast
+[23:00:05] Hero<STEAM_0:1:17219621> spawned NPC npc_headcrab_fast
+[23:00:06] Hero<STEAM_0:1:17219621> spawned NPC npc_headcrab_fast
+[23:00:06] Hero<STEAM_0:1:17219621> spawned NPC npc_headcrab_fast
+[23:00:07] Simon Amsterdam: i saw...
+[23:00:10] Victor: .//sorry, you can grab the models with /content
+[23:00:18] Hero<STEAM_0:1:17219621> spawned NPC npc_fastzombie
+[23:00:18] Simon Amsterdam: i thought i saw somebody on the roof over there
+[23:00:19] Hero<STEAM_0:1:17219621> spawned NPC npc_fastzombie_torso
+[23:00:20] Victor: /toggleraise
+[23:00:23] Hero<STEAM_0:1:17219621> spawned NPC npc_zombie
+[23:00:24] Victor: There?
+[23:00:25] Hero<STEAM_0:1:17219621> spawned NPC npc_zombie
+[23:00:26] Hero<STEAM_0:1:17219621> spawned NPC npc_zombie
+[23:00:28] Hero<STEAM_0:1:17219621> spawned NPC npc_headcrab_black
+[23:00:29] Victor: hm
+[23:00:30] Victor: /toggleraise
+[23:00:35] Simon Amsterdam: i thought so, might have been a crab
+[23:00:41] Victor: /toggleraise
+[23:00:42] Victor: wait.
+[23:00:44] Hero<STEAM_0:1:17219621> spawned NPC npc_poisonzombie
+[23:00:49] Victor: isn't that the same building?
+[23:00:51] Victor: just connected/
+[23:00:55] Hero<STEAM_0:1:17219621> spawned NPC npc_zombie
+[23:01:00] Simon Amsterdam: dunno
+[23:01:16] Victor: /y we can try
+[23:01:19] Hero<STEAM_0:1:17219621> spawned NPC npc_fastzombie_torso
+[23:01:28] Victor: /y we're going down.
+[23:01:42] Hero<STEAM_0:1:17219621> spawned NPC npc_headcrab
+[23:01:45] Hero<STEAM_0:1:17219621> spawned NPC npc_headcrab
+[23:01:49] Victor: we're missing a third
+[23:01:49] Victor: /toggleraise
+[23:01:54] Victor: /y down-
+[23:01:55] Victor: /y here
+[23:02:00] Victor: /toggleraise
+[23:02:02] Victor: /toggleraise
+[23:02:04] Victor: after you
+[23:02:07] Victor: /toggleraise
+[23:02:17] Victor: /toggleraise
+[23:02:24] Simon Amsterdam: dead end
+[23:02:32] Hero<STEAM_0:1:17219621> spawned NPC npc_particlestorm
+[23:02:32] Simon Amsterdam: unless we can get up
+[23:02:32] Victor: Well, we can check the opposite direction.
+[23:02:46] Victor: /y this way
+[23:02:57] Victor: /toggleraise
+[23:03:06] Victor: we're missing our third
+[23:03:09] Victor: /toggleraise
+[23:03:19] Victor: found 'em
+[23:03:20] Victor: /toggleraise
+[23:03:27] Victor: /toggleraise
+[23:03:28] Victor: /toggleraise
+[23:03:47] Cameron Nixon: /me *he'd pick up the Grunt's Rifle.*
+[23:03:48] Ben Edge: // what if erp was allowed kek
+[23:03:51] Victor: /y i see something up there!
+[23:03:56] Victor: /toggleraise
+[23:04:04] Cameron Nixon: /pm victor picked up a tfa_psmg
+[23:04:09] Cameron Nixon: /y In here!
+[23:04:10] Victor: /pm cameron Genelocked.
+[23:04:12] Clarissa Harrison: // not funny. didn't laugh.
+[23:04:21] Cameron Nixon: /y Blue Building, up the Stairs.
+[23:04:22] Victor: /toggleraise
+[23:04:27] Cameron Nixon: /y Found some bodies
+[23:04:31] Victor: /y awesome
+[23:04:43] Cameron Nixon: Got the Datachip
+[23:04:47] Simon Amsterdam: /me conserves oxygen
+[23:04:48] Victor: /toggleraise
+[23:04:49] Clarissa Harrison: /me kneels down, picking up the alien blaster.
+[23:05:03] Victor: /it You notice that it doesn't seem to react to your touch.
+[23:05:07] Victor: That one's not gonna work, guy.
+[23:05:08] Victor: Genelocked
+[23:05:08] Clarissa Harrison: Think it's gene-coded?
+[23:05:10] Clarissa Harrison: Fucked
+[23:05:15] Cameron Nixon: /me *he'd shoot the gun with the EMP Blaster.*
+[23:05:19] Clarissa Harrison: ca-
+[23:05:20] Clarissa Harrison: okay
+[23:05:22] Victor: The only reason mine works is because we've got a hell of an engineer on our side.
+[23:05:25] Simon Amsterdam: /looc AH YES, THE SACRED GENE SEED
+[23:05:30] Cameron Nixon: .// 40k?
+[23:05:34] Simon Amsterdam: /looc yes
+[23:05:41] Ben Edge: // why are hte cars fucking burning oil
+[23:05:46] Victor: alright, we should be good.
+[23:05:50] Clarissa Harrison: can always save it for later
+[23:05:52] Simon Amsterdam: /looc *a loud squelching sound is heard as the datachip is extracted*
+[23:05:52] Clarissa Harrison: /me packs it up
+[23:05:59] Victor: .//lmao i put it on the floor
+[23:06:02] Victor: alright.
+[23:06:15] Victor: /y let's get going. we should have some equipment that can get something out of that chip.
+[23:06:16] Cameron Nixon: .// I said I got it a while ago, also. reaction to the Gun being, EMP'd?
+[23:06:22] Victor: .//oh, sorry
+[23:06:36] Victor: .//doesn't do anything, no
+[23:06:50] Cameron Nixon: .// damn, small jolts of electricity can open entire combine facilities
+[23:06:52] Cameron Nixon: .// not a gun doe
+[23:07:01] Clarissa Harrison: [[ i mean it should but we'll go with that
+[23:07:02] Victor: .//alyx vance has plot armor and is a living exception
+[23:07:21] Cameron Nixon<STEAM_0:0:595064043> spawned/gave himself swep tfa_psmg
+[23:07:27] Victor: .//and also technologically particular and not alien thing blah balh blah
+[23:07:34] Victor: hm
+[23:07:37] Victor: can i make it?
+[23:07:40] Hero: Sure
+[23:07:42] Victor: Ugh!
+[23:07:44] Victor: There's the knees.
+[23:07:58] Cameron Nixon: .// The alien "Thing" fires an electric voltage far higher then alyx's spark stick lmao
+[23:08:06] Clarissa Harrison: [[^
+[23:08:25] Hero: .// I would like to commit Warcrimes but also this.
+[23:08:29] Hero: .// Lets continue.
+[23:08:30] Cameron Nixon: .// the bane of this is I can't two-hand, the bane is that its an EMP lmao.
+[23:08:40] Cameron Nixon: .// the boon* of it, is that its an EMP
+[23:08:55] Victor: .//i don't think i ever said it was an EMP, did i?
+[23:09:08] Hero: .// It is just an electric bolt.
+[23:09:09] Simon Amsterdam: /looc *did i fucking stutter*
+[23:09:10] Cameron Nixon: .// But it is doe.
+[23:09:13] Simon Amsterdam: /looc lol
+[23:09:15] Hero: .// Okay
+[23:09:34] Victor: .//we'll worry about it later, for now, we progress so tihs doesn't go on for two more hurs
+[23:09:39] Victor: /y let's get back to the cars.
+[23:10:27] Victor: hero, find the car, please.
+[23:10:36] Hero: Copy that
+[23:10:37] Victor: thanks
+[23:10:40] Victor: i'll find the other one
+[23:10:58] Victor<STEAM_0:1:53097688> spawned vehicle models/vehicle.mdl
+[23:11:16] Hero: /chargiveflag Hero C
+[23:11:18] Hero<STEAM_0:1:17219621> spawned vehicle models/vehicles/buggy_elite.mdl
+[23:11:20] Simon Amsterdam: /me is tempted to fucking shoot the guy infront of him
+[23:11:25] Simon Amsterdam: /me does not
+[23:11:33] Cameron Nixon: /it good choice it wouldnt end well for you
+[23:11:37] Victor: we should have another jeep, standby
+[23:11:45] Victor: all our cars are either two seaters or one
+[23:11:53] Victor: i'll find the red jeep.
+[23:11:57] Hero: Copy
+[23:12:01] Clarissa Harrison: ow
+[23:12:01] Ben Edge: hi
+[23:12:07] Victor<STEAM_0:1:53097688> spawned vehicle models/buggy.mdl
+[23:12:09] Cameron Nixon: // damn lmao
+[23:12:09] Simon Amsterdam: /me grunts
+[23:12:10] Hero: /y Get out of here!
+[23:12:11] Cameron Nixon: // derby
+[23:12:12] Ben Edge: k
+[23:12:28] Ben Edge: // lmao i get shot at s2k XD
+[23:12:43] Victor: /y alright, let's get back to town
+[23:12:49] Victor: /y who wants to lead?
+[23:12:56] Victor: /y follow the jalopy
+[23:13:36] Victor: damnit
+[23:13:49] Victor: .//fuck me
+[23:14:02] Victor: /y over here?
+[23:14:51] Victor<STEAM_0:1:53097688> spawned model models/hunter/triangles/1x1x3.mdl
+[23:14:55] Ben Edge: do a donut
+[23:14:59] Victor<STEAM_0:1:53097688> spawned model models/hunter/plates/plate3x3.mdl
+[23:15:03] Ben Edge: do a donut
+[23:15:12] Victor<STEAM_0:1:53097688> used the tool material on models/hunter/plates/plate3x3.mdl
+[23:15:12] Hero: /y Fuck off!
+[23:15:20] Simon Amsterdam: uh oh
+[23:15:35] Ben Edge: /me press horn
+[23:15:39] Ben Edge: /it you hear general lee horn
+[23:15:46] Cameron Nixon: .// what a momento
+[23:15:53] Cameron Nixon: .// de bruh
+[23:16:00] Victor: /y DAMNIT
+[23:16:09] Simon Amsterdam: /me presses his genitals with a firm hand
+[23:16:13] Simon Amsterdam: /looc void
+[23:16:17] Hero: Jesus
+[23:16:30] Ben Edge: ez
+[23:16:40] Ben Edge: /y hold shift
+[23:16:51] Victor: /Y WATCH FOR THE MINE
+[23:17:04] Hero: Alrighty
+[23:17:21] Victor: /Y Head inside.
+[23:17:33] Simon Amsterdam: /y a working van!
+[23:17:43] Victor: we're missing one.
+[23:17:47] Victor: wait, no.
+[23:17:48] Victor: Yes?
+[23:17:49] Victor: yes.
+[23:17:56] Hero: /me Slings over his AR2 and sits on the metal table.
+[23:18:00] Ben Edge: the charger is burning oil bruh
+[23:18:06] Victor: /y simon!
+[23:18:11] Victor: /y this way
+[23:18:12] Simon Amsterdam: lost ya
+[23:18:15] Victor: you're good
+[23:18:33] Victor: Can you hand me that datachip?
+[23:18:46] Cameron Nixon: Can I have it back after.
+[23:18:52] Victor: We have to scan it.
+[23:19:00] Cameron Nixon: Alright and after.
+[23:19:12] Victor: We'll see, I have no idea what's on this card.
+[23:19:19] Victor: If it's basically worthless, why not.
+[23:19:25] Cameron Nixon: /me *he'd hand over the Datachip*
+[23:19:32] Cameron Nixon: I'll take that as an affirmative *Yes*
+[23:19:34] Victor: /me would take the datachip.
+[23:19:44] Victor: /plysearch
+[23:19:50] Victor: .//did you drop it?
+[23:19:55] Cameron Nixon: .// you're lookin at it
+[23:20:02] Victor: .//oh fuck
+[23:20:22] Victor: .//it was invis for me
+[23:20:29] Victor: .//got it
+[23:20:30] Simon Amsterdam: /me raises his gun and shoots a box in a show of restlesness
+[23:20:37] Victor: Holy shit!
+[23:20:41] Victor: Take it easy, hotshot.
+[23:20:48] Simon Amsterdam: yeah... yeah youre right
+[23:20:49] Ben Edge: can i get a gun too?
+[23:20:58] Victor: I'll see if we have any spare.s
+[23:21:00] Victor: .//spares.*
+[23:21:03] Ben Edge: pog
+[23:21:10] Victor: I've gotta scan this chip, I'll let you know if me and Roller find anything.
+[23:21:24] Cameron Nixon: Who's roller
+[23:21:24] Simon Amsterdam: /looc be like "simon youre too restless, give him your gun"
+[23:21:48] Victor: He's our tech guy. Absolutely brilliant.
+[23:21:59] Victor: Knows a bit more about all this than me.
+[23:21:59] Cameron Nixon: Give him this and have him fix it up for me, for the Datachip.
+[23:22:04] Cameron Nixon: /me *he'd pass him a Pulse SMG*
+[23:22:13] Victor: I'll see what I can do.
+[23:22:18] Victor: /me takes the IC pulse SMG item.
+[23:22:27] Victor: /y hey, hero
+[23:22:40] Victor: /y Try to keep them busy. Maybe show them the chess and checkers in the church. Your call.
+[23:22:45] Hero: Fine
+[23:22:48] Hero: Hm.....
+[23:22:54] Victor<STEAM_0:1:53097688> spawned sent ent_chess_board
+[23:22:54] Hero: We could all check out the church.
+[23:22:56] Victor<STEAM_0:1:53097688> spawned sent ent_chess_board
+[23:22:59] Victor<STEAM_0:1:53097688> spawned sent ent_draughts_board
+[23:23:00] Hero: What do you fucks say?
+[23:23:00] Simon Amsterdam: lets go
+[23:23:00] Victor<STEAM_0:1:53097688> spawned sent ent_draughts_board
+[23:23:06] Victor<STEAM_0:1:53097688> spawned sent ent_chess_board
+[23:23:06] Clarissa Harrison: [[actually im getting kinda tired
+[23:23:11] Clarissa Harrison: [[ catch you guys later?
+[23:23:13] Simon Amsterdam: /looc me too
+[23:23:15] Hero: .// Alright
+[23:23:16] Cameron Nixon: .// l8r
+[23:23:20] Dropped "Clarissa Harrison" from server<STEAM_0:1:205314685>
+[23:23:21] Simon Amsterdam: /looc ill return the gun, here
+[23:23:26] Hero: .// Nah, no need.
+[23:23:27] Victor: .//yo simon
+[23:23:36] Victor: .//make sure to hop in the discord, /discord. we'll continue this event tomorrow
+[23:23:47] Hero: .// No need to return the gun.
+[23:23:51] Victor: /plysearch
+[23:23:54] Ben Edge: thanks
+[23:23:56] Victor: /pm echo SWIM
+[23:23:57] Victor: /pm echo SWIM
+[23:23:58] Simon Amsterdam: /looc yes im in it
+[23:24:00] Victor: /plysearch
+[23:24:01] Client "Jackson Off" connected.
+[23:24:01] Victor: /pm echo SWIM
+[23:24:02] Victor: /pm echo SWIM
+[23:24:09] Hero: .// Alrighty then
+[23:24:13] Victor: .//epic, well, i'll see you tomorrow. take care, thanks for bieng on.
+[23:24:14] Ben Edge: .//  i picked up the gn
+[23:24:15] Victor: /pm echo SWIM
+[23:24:16] Victor: /pm echo DRINK
+[23:24:17] Victor: /pm echo SWIM
+[23:24:18] Ben Edge: .// why is it not in my inventory
+[23:24:22] Victor: /pm echo SWIM
+[23:24:23] Victor: /plysearch
+[23:24:23] Simon Amsterdam: /looc ben are you gonna be here tomorrow
+[23:24:27] Ben Edge: .// idk
+[23:24:34] Simon Amsterdam: /looc better drop the gun then
+[23:24:35] Ben Edge: .// wtf i lost all my ammo + gun
+[23:24:40] Ben Edge: .// no it just disapeared
+[23:24:49] Simon Amsterdam: /looc thats a fucking lie lmao
+[23:24:59] Ben Edge: .// admin fucking removed it
+[23:25:01] Victor: /event Well, we're gonna call this an end for today. Tomorrow will be the continuation of this event that ran a little long. Thank you all for being on, and remember to answer the poll in polling.
+[23:25:09] Simon Amsterdam: /looc "whoops looks like it vanished, toodles"
+[23:25:11] Ben Edge: // but you admin removed my gun
+[23:25:12] Victor: /event Thanks for being on, take care, and you're all awesome. Goodnight.
+[23:25:16] Victor: //i did not
+[23:25:18] Ben Edge: // i WNT GUN
+[23:25:19] Dropped "Hero" from server<STEAM_0:1:17219621>
+[23:25:22] Ben Edge: // why is it gone from inventory then
+[23:25:26] Simon Amsterdam: // good night
+[23:25:26] Victor: //couldn't tell you
+[23:25:29] Dropped "Victor" from server<STEAM_0:1:53097688>

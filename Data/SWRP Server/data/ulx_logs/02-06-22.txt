@@ -1,0 +1,687 @@
+<Logging continued from "data/ulx_logs/02-05-22.txt">
+[00:27:30] Dropped "Darth Hexus" from server<STEAM_0:1:53097688>
+
+
+
+[03:21:36] New map: rp_mos_mesric_v2_1
+
+
+
+[08:43:34] New map: rp_mos_mesric_v2_1
+[08:45:00] Client "matt saton" connected.
+[08:46:37] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 97 seconds).
+[08:49:58] matt saton<STEAM_0:1:53097688> changed their name to Unknown
+[08:51:55] Unknown<STEAM_0:1:53097688> spawned model models/props_wasteland/kitchen_stove001a.mdl
+[08:52:06] Unknown<STEAM_0:1:53097688> spawned model models/props_wasteland/kitchen_stove002a.mdl
+[08:52:22] Unknown<STEAM_0:1:53097688> used the tool permaprops on models/props_wasteland/kitchen_stove002a.mdl
+[08:52:22] Unknown<STEAM_0:1:53097688> used the tool permaprops on models/props_wasteland/kitchen_stove001a.mdl
+[08:56:44] Unknown<STEAM_0:1:53097688> spawned sent ix_actorgeneric
+[08:56:45] Unknown<STEAM_0:1:53097688> spawned sent ix_actorgeneric
+[08:56:46] Unknown<STEAM_0:1:53097688> spawned sent ix_actorgeneric
+[09:06:50] (SILENT) Unknown ran rcon command: savedata
+[09:07:41] (SILENT) Unknown ran rcon command: savedata
+[09:08:54] (SILENT) Unknown ran rcon command: savedata
+[09:08:59] Unknown: !loaddata
+[09:09:04] (SILENT) Unknown ran rcon command: loaddata
+[09:10:20] Unknown<STEAM_0:1:53097688> used the tool rb655_easy_bodygroup on models/hcn/starwars/bf/human/human_male_5.mdl
+[09:11:06] Unknown<STEAM_0:1:53097688> used the tool rb655_easy_bodygroup on maps/rp_mos_mesric_v2_1.bsp
+[09:14:42] Unknown<STEAM_0:1:53097688> spawned sent ix_actorgeneric
+[09:14:43] Unknown<STEAM_0:1:53097688> spawned sent ix_actorgeneric
+[09:16:07] Unknown: /roll 9999
+[09:19:08] Unknown<STEAM_0:1:53097688> used the tool rb655_easy_bodygroup on models/player/ven/tk_sand_01/tk_sand.mdl
+[09:19:32] Unknown<STEAM_0:1:53097688> spawned sent ix_actorgeneric
+[09:19:34] Unknown<STEAM_0:1:53097688> spawned sent ix_actorgeneric
+[09:19:38] Unknown<STEAM_0:1:53097688> spawned sent ix_actorgeneric
+[09:19:50] Unknown: /ROLL 9999
+[09:23:10] Unknown<STEAM_0:1:53097688> spawned sent ix_actorgeneric
+[09:23:11] Unknown<STEAM_0:1:53097688> spawned sent ix_actorgeneric
+[09:23:41] Unknown: /chargiveitem unknown flashlight
+[09:26:24] Unknown<STEAM_0:1:53097688> spawned sent ix_actorgeneric
+[09:26:28] Unknown<STEAM_0:1:53097688> spawned sent ix_actorgeneric
+[09:26:30] Unknown<STEAM_0:1:53097688> spawned sent ix_actorgeneric
+[09:26:48] Unknown<STEAM_0:1:53097688> used the tool rb655_easy_bodygroup on models/hcn/starwars/bf/human/human_male.mdl
+[09:26:57] Unknown<STEAM_0:1:53097688> used the tool rb655_easy_bodygroup on models/hcn/starwars/bf/human/human_male.mdl
+[09:26:58] Unknown<STEAM_0:1:53097688> used the tool rb655_easy_bodygroup on maps/rp_mos_mesric_v2_1.bsp
+[09:33:05] Unknown<STEAM_0:1:53097688> spawned sent ix_actorgeneric
+[09:33:06] Unknown<STEAM_0:1:53097688> spawned sent ix_actorgeneric
+[09:33:21] Unknown<STEAM_0:1:53097688> used the tool rb655_easy_bodygroup on models/hcn/starwars/bf/rodian/rodian_4.mdl
+[09:39:19] Unknown<STEAM_0:1:53097688> spawned sent ix_actorgeneric
+[09:39:24] Unknown<STEAM_0:1:53097688> used the tool rb655_easy_bodygroup on models/hcn/starwars/bf/human/human_male_2.mdl
+[09:43:13] Unknown<STEAM_0:1:53097688> spawned sent ix_actorgeneric
+[09:43:20] Unknown<STEAM_0:1:53097688> used the tool rb655_easy_bodygroup on models/hcn/starwars/bf/sullustan/sullustan_3.mdl
+[09:46:25] Unknown<STEAM_0:1:53097688> spawned model models/hunter/plates/plate3x3.mdl
+[09:46:27] Unknown<STEAM_0:1:53097688> spawned model models/hunter/plates/plate4x4.mdl
+[09:46:30] Unknown<STEAM_0:1:53097688> spawned model models/hunter/plates/plate6x6.mdl
+[09:46:32] Unknown<STEAM_0:1:53097688> spawned model models/hunter/plates/plate16x16.mdl
+[09:46:35] Unknown<STEAM_0:1:53097688> spawned model models/hunter/plates/plate8x8.mdl
+[09:46:38] Unknown<STEAM_0:1:53097688> used the tool nocollideeverything on models/hunter/plates/plate8x8.mdl
+[09:47:02] Unknown<STEAM_0:1:53097688> used the tool nocollideeverything on models/hunter/plates/plate8x8.mdl
+[09:47:10] Unknown<STEAM_0:1:53097688> used the tool material on models/hunter/plates/plate8x8.mdl
+[09:47:14] Unknown<STEAM_0:1:53097688> used the tool material on models/hunter/plates/plate8x8.mdl
+[09:47:26] Unknown<STEAM_0:1:53097688> used the tool material on models/hunter/plates/plate8x8.mdl
+[09:47:28] Unknown<STEAM_0:1:53097688> used the tool material on models/hunter/plates/plate8x8.mdl
+[09:47:34] Unknown<STEAM_0:1:53097688> used the tool material on models/hunter/plates/plate8x8.mdl
+[09:47:35] Unknown<STEAM_0:1:53097688> used the tool material on models/hunter/plates/plate8x8.mdl
+[09:47:39] Unknown<STEAM_0:1:53097688> used the tool material on models/hunter/plates/plate8x8.mdl
+[09:47:40] Unknown<STEAM_0:1:53097688> used the tool material on models/hunter/plates/plate8x8.mdl
+[09:47:51] Unknown<STEAM_0:1:53097688> used the tool material on models/hunter/plates/plate8x8.mdl
+[09:48:00] Unknown<STEAM_0:1:53097688> used the tool permaprops on models/hunter/plates/plate8x8.mdl
+[09:48:18] Unknown<STEAM_0:1:53097688> spawned model models/hunter/plates/plate2x2.mdl
+[09:48:21] Unknown<STEAM_0:1:53097688> used the tool nocollideeverything on models/hunter/plates/plate2x2.mdl
+[09:48:41] Unknown<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate2x2.mdl
+[09:48:41] Unknown<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate2x2.mdl
+[09:48:42] Unknown<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate2x2.mdl
+[09:48:42] Unknown<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate2x2.mdl
+[09:48:42] Unknown<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate2x2.mdl
+[09:48:44] Unknown<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate2x2.mdl
+[09:48:44] Unknown<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate2x2.mdl
+[09:48:44] Unknown<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate2x2.mdl
+[09:48:44] Unknown<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate2x2.mdl
+[09:48:45] Unknown<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate2x2.mdl
+[09:48:45] Unknown<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate2x2.mdl
+[09:48:45] Unknown<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate2x2.mdl
+[09:48:45] Unknown<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate2x2.mdl
+[09:48:46] Unknown<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate2x2.mdl
+[09:48:46] Unknown<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate2x2.mdl
+[09:48:46] Unknown<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate2x2.mdl
+[09:48:46] Unknown<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate2x2.mdl
+[09:48:46] Unknown<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate2x2.mdl
+[09:48:47] Unknown<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate2x2.mdl
+[09:48:47] Unknown<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate2x2.mdl
+[09:48:47] Unknown<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate2x2.mdl
+[09:48:47] Unknown<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate2x2.mdl
+[09:48:48] Unknown<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate2x2.mdl
+[09:48:48] Unknown<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate2x2.mdl
+[09:48:48] Unknown<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate2x2.mdl
+[09:48:48] Unknown<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate2x2.mdl
+[09:48:48] Unknown<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate2x2.mdl
+[09:48:49] Unknown<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate2x2.mdl
+[09:48:49] Unknown<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate2x2.mdl
+[09:48:49] Unknown<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate2x2.mdl
+[09:48:49] Unknown<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate2x2.mdl
+[09:48:49] Unknown<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate2x2.mdl
+[09:48:50] Unknown<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate2x2.mdl
+[09:48:54] Unknown<STEAM_0:1:53097688> used the tool material on models/hunter/plates/plate2x2.mdl
+[10:23:50] Unknown<STEAM_0:1:53097688> spawned model models/props/starwars/furniture/tat_maxrebo_organ.mdl
+[10:24:36] Unknown<STEAM_0:1:53097688> spawned sent ix_actorgeneric
+[10:24:47] Unknown<STEAM_0:1:53097688> used the tool rb655_easy_bodygroup on models/hcn/starwars/bf/aqualish/aqualish_5.mdl
+[10:28:04] Unknown<STEAM_0:1:53097688> spawned sent ix_actorgeneric
+[10:28:50] Unknown<STEAM_0:1:53097688> used the tool rb655_easy_bodygroup on models/hcn/starwars/bf/sullustan/sullustan_5.mdl
+[10:28:56] Unknown<STEAM_0:1:53097688> used the tool rb655_easy_bodygroup on models/hcn/starwars/bf/aqualish/aqualish_5.mdl
+[10:28:58] Unknown<STEAM_0:1:53097688> used the tool rb655_easy_bodygroup on models/hcn/starwars/bf/sullustan/sullustan_5.mdl
+[10:30:40] Unknown<STEAM_0:1:53097688> used the tool rb655_easy_bodygroup on models/props/starwars/furniture/tat_maxrebo_organ.mdl
+[10:31:18] Unknown<STEAM_0:1:53097688> used the tool nocollideeverything on models/props/starwars/furniture/tat_maxrebo_organ.mdl
+[10:31:21] Unknown<STEAM_0:1:53097688> used the tool permaprops on models/props/starwars/furniture/tat_maxrebo_organ.mdl
+[10:35:11] Unknown<STEAM_0:1:53097688> spawned sent ix_actorgeneric
+[10:35:20] Unknown<STEAM_0:1:53097688> used the tool permaprops on models/hcn/starwars/bf/ishitib/ishitib_5.mdl
+[10:35:23] Unknown<STEAM_0:1:53097688> spawned sent ix_actorgeneric
+[10:35:32] Unknown<STEAM_0:1:53097688> used the tool rb655_easy_bodygroup on models/hcn/starwars/bf/ishitib/ishitib_5.mdl
+
+
+
+[10:41:25] New map: rp_mos_mesric_v2_1
+[10:42:03] Client "matt saton" connected.
+[10:42:50] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 47 seconds).
+[10:45:37] matt saton<STEAM_0:1:53097688> changed their name to Unknown
+[10:48:40] Unknown<STEAM_0:1:53097688> spawned sent ix_actorgeneric
+[10:48:42] Unknown<STEAM_0:1:53097688> spawned sent ix_actorgeneric
+
+
+
+[10:53:09] New map: rp_mos_mesric_v2_1
+[10:53:35] Client "matt saton" connected.
+[10:54:13] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 38 seconds).
+[10:54:57] matt saton<STEAM_0:1:53097688> changed their name to Unknown
+
+
+
+[11:10:30] New map: rp_mos_mesric_v2_1
+[11:13:35] Client "matt saton" connected.
+[11:14:13] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 38 seconds).
+[11:15:56] matt saton<STEAM_0:1:53097688> changed their name to Unknown
+[11:16:35] Unknown<STEAM_0:1:53097688> spawned/gave himself swep weapon_pistol
+[11:16:36] Unknown: /toggleraise
+[11:16:38] Unknown<STEAM_0:1:53097688> spawned/gave himself swep weapon_rpg
+[11:16:39] Unknown: /toggleraise
+
+
+
+[11:19:49] New map: rp_mos_mesric_v2_1
+[11:20:01] Client "matt saton" connected.
+[11:20:38] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 37 seconds).
+[11:21:25] matt saton<STEAM_0:1:53097688> changed their name to Unknown
+[11:25:53] Unknown<STEAM_0:1:53097688> spawned sent ix_actorgeneric
+[11:26:12] Unknown<STEAM_0:1:53097688> used the tool rb655_easy_bodygroup on models/hcn/starwars/bf/ishitib/ishitib_5.mdl
+
+
+
+[11:36:55] New map: rp_mos_mesric_v2_1
+[11:38:37] Client "matt saton" connected.
+[11:39:14] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 37 seconds).
+[11:41:26] matt saton<STEAM_0:1:53097688> changed their name to Unknown
+
+
+
+[11:44:46] New map: rp_mos_mesric_v2_1
+[11:44:50] Client "matt saton" connected.
+[11:44:50] Client "matt saton" connected.
+[11:45:27] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 37 seconds).
+[11:47:32] matt saton<STEAM_0:1:53097688> changed their name to Unknown
+[11:50:26] Unknown<STEAM_0:1:53097688> spawned sent ix_actorgeneric
+[11:50:43] Unknown<STEAM_0:1:53097688> spawned sent ix_actorgeneric
+[12:02:41] Unknown<STEAM_0:1:53097688> spawned/gave himself swep matierthing
+[12:02:47] Unknown<STEAM_0:1:53097688> spawned/gave himself swep matierthing
+[12:02:50] Unknown<STEAM_0:1:53097688> spawned/gave himself swep matierthing
+[12:03:00] Unknown<STEAM_0:1:53097688> spawned/gave himself swep meleearts_staff_iron
+[12:03:01] Unknown<STEAM_0:1:53097688> spawned/gave himself swep meleearts_throwable_blade
+[12:03:04] Unknown<STEAM_0:1:53097688> spawned/gave himself swep meleearts_blade_katana
+[12:03:06] Unknown: /toggleraise
+[12:03:20] Unknown<STEAM_0:1:53097688> spawned/gave himself swep meleearts_blade_kabarknife
+[12:03:20] Unknown: /toggleraise
+[12:07:53] Unknown<STEAM_0:1:53097688> spawned/gave himself swep meleearts_bludgeon_sledgehammer
+[12:07:54] Unknown: /toggleraise
+[12:09:56] Unknown<STEAM_0:1:53097688> spawned sent ix_actorgeneric
+[12:09:59] Unknown<STEAM_0:1:53097688> spawned sent ix_actorgeneric
+[12:12:20] Unknown<STEAM_0:1:53097688> spawned ragdoll models/player/group02/male_02.mdl
+[12:12:23] Unknown<STEAM_0:1:53097688> spawned ragdoll models/player/group02/male_04.mdl
+[12:14:38] Unknown<STEAM_0:1:53097688> spawned sent ix_actorgeneric
+[12:14:49] Unknown<STEAM_0:1:53097688> spawned ragdoll models/humans/group02/tale_01.mdl
+[12:14:50] Unknown<STEAM_0:1:53097688> spawned ragdoll models/humans/group02/tale_03.mdl
+[12:15:00] Unknown<STEAM_0:1:53097688> spawned sent ix_actorgeneric
+[12:16:38] Unknown<STEAM_0:1:53097688> spawned sent ix_actorgeneric
+[12:19:18] Unknown<STEAM_0:1:53097688> spawned ragdoll models/humans/group02/tale_06.mdl
+[12:19:20] Unknown<STEAM_0:1:53097688> spawned ragdoll models/humans/group02/tale_07.mdl
+[12:19:26] Unknown<STEAM_0:1:53097688> spawned ragdoll models/humans/group02/tale_03.mdl
+[12:19:28] Unknown<STEAM_0:1:53097688> spawned ragdoll models/humans/group02/tale_09.mdl
+[12:19:30] Unknown<STEAM_0:1:53097688> spawned ragdoll models/humans/group02/tale_08.mdl
+[12:19:32] Unknown<STEAM_0:1:53097688> spawned ragdoll models/humans/group02/tale_07.mdl
+[12:19:33] Unknown<STEAM_0:1:53097688> spawned ragdoll models/humans/group02/tale_09.mdl
+[12:19:38] Unknown<STEAM_0:1:53097688> spawned sent ix_actorgeneric
+[12:20:18] Unknown: sitchairtable1
+[12:20:20] Unknown: silosit
+[12:21:16] Unknown: silo_sit
+[12:22:50] Unknown<STEAM_0:1:53097688> spawned sent ix_actorgeneric
+[12:24:43] Unknown<STEAM_0:1:53097688> spawned ragdoll models/hcn/starwars/bf/rodian/rodian_2.mdl
+[12:24:45] Unknown<STEAM_0:1:53097688> spawned sent ix_actorgeneric
+[12:24:46] Unknown<STEAM_0:1:53097688> spawned sent ix_actorgeneric
+[12:25:16] Unknown<STEAM_0:1:53097688> used the tool rb655_easy_bodygroup on models/hcn/starwars/bf/rodian/rodian_3.mdl
+[12:25:25] Unknown<STEAM_0:1:53097688> used the tool rb655_easy_bodygroup on maps/rp_mos_mesric_v2_1.bsp
+[12:31:56] Unknown<STEAM_0:1:53097688> spawned sent ix_actorgeneric
+[12:32:03] Unknown<STEAM_0:1:53097688> spawned sent ix_actorgeneric
+[12:32:07] Unknown<STEAM_0:1:53097688> spawned sent ix_actorgeneric
+[12:34:58] Unknown<STEAM_0:1:53097688> spawned sent ix_actorgeneric
+[12:34:59] Unknown<STEAM_0:1:53097688> spawned sent ix_actorgeneric
+[12:36:47] Unknown: /linkdoor
+[12:37:32] Unknown<STEAM_0:1:53097688> spawned ragdoll models/kriegsyntax/imperial/army/grand_general/npc_male_01.mdl
+[12:37:54] Unknown<STEAM_0:1:53097688> used the tool rb655_easy_bodygroup on models/kriegsyntax/imperial/army/officer_anh/npc_male_01.mdl
+[12:39:38] Unknown<STEAM_0:1:53097688> used the tool rb655_easy_bodygroup on maps/rp_mos_mesric_v2_1.bsp
+[12:39:39] Unknown<STEAM_0:1:53097688> used the tool rb655_easy_bodygroup on models/kriegsyntax/imperial/navy/officer_anh/npc_male_01.mdl
+[12:41:47] Unknown changed the map to rp_sandyshop_v1
+[12:41:47] Server is shutting down/changing levels.
+
+
+
+[12:42:24] New map: rp_sandyshop_v1
+[12:43:09] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 67 seconds).
+[12:44:11] matt saton<STEAM_0:1:53097688> changed their name to Unknown
+[12:49:30] Unknown<STEAM_0:1:53097688> spawned model models/props_wasteland/kitchen_stove002a.mdl
+[12:49:31] Unknown<STEAM_0:1:53097688> spawned model models/props_wasteland/kitchen_stove001a.mdl
+[12:49:34] Unknown<STEAM_0:1:53097688> spawned model models/props_wasteland/kitchen_stove002a.mdl
+[12:49:41] Unknown<STEAM_0:1:53097688> spawned model models/props_wasteland/kitchen_fridge001a.mdl
+[12:49:50] Unknown<STEAM_0:1:53097688> spawned model models/props_wasteland/kitchen_shelf001a.mdl
+[12:49:58] Unknown<STEAM_0:1:53097688> spawned model models/props_wasteland/kitchen_shelf001a.mdl
+[12:50:02] Unknown<STEAM_0:1:53097688> spawned model models/props_wasteland/kitchen_shelf001a.mdl
+[12:50:08] Unknown<STEAM_0:1:53097688> used the tool permaprops on models/props_wasteland/kitchen_shelf001a.mdl
+[12:50:09] Unknown<STEAM_0:1:53097688> used the tool permaprops on models/props_wasteland/kitchen_shelf001a.mdl
+[12:50:10] Unknown<STEAM_0:1:53097688> used the tool permaprops on models/props_wasteland/kitchen_stove001a.mdl
+[12:50:10] Unknown<STEAM_0:1:53097688> used the tool permaprops on models/props_wasteland/kitchen_stove002a.mdl
+[12:50:55] Unknown<STEAM_0:1:53097688> spawned model models/props_wasteland/laundry_dryer001.mdl
+[12:50:59] Unknown<STEAM_0:1:53097688> spawned model models/props_wasteland/laundry_dryer001.mdl
+[12:51:02] Unknown<STEAM_0:1:53097688> spawned model models/props_wasteland/laundry_dryer002.mdl
+[12:51:05] Unknown<STEAM_0:1:53097688> spawned model models/props_wasteland/laundry_dryer001.mdl
+[12:51:10] Unknown<STEAM_0:1:53097688> spawned model models/props_wasteland/prison_lamp001c.mdl
+[12:51:11] Unknown<STEAM_0:1:53097688> spawned model models/props_wasteland/laundry_dryer002.mdl
+[12:51:13] Unknown<STEAM_0:1:53097688> spawned model models/props_wasteland/laundry_dryer002.mdl
+[12:51:16] Unknown<STEAM_0:1:53097688> spawned model models/props_wasteland/laundry_dryer002.mdl
+[12:51:17] Unknown<STEAM_0:1:53097688> spawned model models/props_wasteland/laundry_dryer001.mdl
+[12:51:20] Unknown<STEAM_0:1:53097688> spawned model models/props_wasteland/laundry_dryer002.mdl
+[12:51:23] Unknown<STEAM_0:1:53097688> spawned model models/props_wasteland/prison_lamp001c.mdl
+[12:51:24] Unknown<STEAM_0:1:53097688> spawned model models/props_wasteland/laundry_dryer002.mdl
+[12:51:28] Unknown<STEAM_0:1:53097688> spawned model models/props_wasteland/laundry_dryer001.mdl
+[12:51:41] Unknown<STEAM_0:1:53097688> used the tool permaprops on models/props_wasteland/laundry_dryer001.mdl
+[12:51:41] Unknown<STEAM_0:1:53097688> used the tool permaprops on models/props_wasteland/laundry_dryer001.mdl
+[12:51:42] Unknown<STEAM_0:1:53097688> used the tool permaprops on models/props_wasteland/laundry_dryer002.mdl
+[12:51:42] Unknown<STEAM_0:1:53097688> used the tool permaprops on models/props_wasteland/laundry_dryer001.mdl
+[12:51:42] Unknown<STEAM_0:1:53097688> used the tool permaprops on models/props_wasteland/laundry_dryer002.mdl
+[12:51:43] Unknown<STEAM_0:1:53097688> used the tool permaprops on models/props_wasteland/laundry_dryer002.mdl
+[12:51:43] Unknown<STEAM_0:1:53097688> used the tool permaprops on models/props_wasteland/laundry_dryer001.mdl
+[12:51:43] Unknown<STEAM_0:1:53097688> used the tool permaprops on models/props_wasteland/laundry_dryer002.mdl
+[12:51:44] Unknown<STEAM_0:1:53097688> used the tool permaprops on models/props_wasteland/laundry_dryer001.mdl
+[12:52:10] Unknown<STEAM_0:1:53097688> spawned model models/props_wasteland/laundry_cart001.mdl
+[12:52:21] Unknown<STEAM_0:1:53097688> used the tool permaprops on models/props_wasteland/laundry_cart001.mdl
+[12:52:26] Unknown<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_desk001b.mdl
+[12:52:32] Unknown<STEAM_0:1:53097688> used the tool permaprops on models/props_wasteland/controlroom_desk001b.mdl
+[12:52:43] Unknown<STEAM_0:1:53097688> spawned model models/props_combine/breendesk.mdl
+[12:52:45] Unknown<STEAM_0:1:53097688> spawned model models/props_c17/oildrum001.mdl
+[12:52:53] Unknown<STEAM_0:1:53097688> spawned model models/props_c17/oildrum001.mdl
+[12:52:57] Unknown<STEAM_0:1:53097688> used the tool permaprops on models/props_c17/oildrum001.mdl
+[12:52:57] Unknown<STEAM_0:1:53097688> used the tool permaprops on models/props_c17/oildrum001.mdl
+[12:53:05] Unknown<STEAM_0:1:53097688> spawned model models/props_interiors/furniture_shelf01a.mdl
+[12:53:09] Unknown<STEAM_0:1:53097688> spawned model models/props_junk/wood_crate001a_damaged.mdl
+[12:53:12] Unknown<STEAM_0:1:53097688> used the tool permaprops on models/props_junk/wood_crate001a_damaged.mdl
+[12:53:17] Unknown<STEAM_0:1:53097688> spawned model models/props_wasteland/kitchen_counter001a.mdl
+[12:53:21] Unknown<STEAM_0:1:53097688> spawned model models/props_wasteland/kitchen_counter001d.mdl
+[12:53:26] Unknown<STEAM_0:1:53097688> spawned model models/props_wasteland/kitchen_counter001d.mdl
+[12:53:28] Unknown<STEAM_0:1:53097688> spawned model models/props_wasteland/kitchen_counter001d.mdl
+[12:53:32] Unknown<STEAM_0:1:53097688> used the tool permaprops on models/props_wasteland/kitchen_counter001d.mdl
+[12:53:33] Unknown<STEAM_0:1:53097688> used the tool permaprops on models/props_wasteland/kitchen_counter001d.mdl
+[12:53:33] Unknown<STEAM_0:1:53097688> used the tool permaprops on models/props_wasteland/kitchen_counter001a.mdl
+[12:54:03] Unknown<STEAM_0:1:53097688> spawned model models/props_wasteland/cafeteria_table001a.mdl
+[12:54:05] Unknown<STEAM_0:1:53097688> spawned model models/props_wasteland/cafeteria_bench001a.mdl
+[12:54:08] Unknown<STEAM_0:1:53097688> spawned model models/props_wasteland/cafeteria_bench001a.mdl
+[12:54:10] Unknown<STEAM_0:1:53097688> spawned model models/props_wasteland/cafeteria_table001a.mdl
+[12:54:11] Unknown<STEAM_0:1:53097688> spawned model models/props_wasteland/cafeteria_bench001a.mdl
+[12:54:17] Unknown<STEAM_0:1:53097688> spawned model models/props_wasteland/cafeteria_table001a.mdl
+[12:54:18] Unknown<STEAM_0:1:53097688> spawned model models/props_wasteland/cafeteria_bench001a.mdl
+[12:54:20] Unknown<STEAM_0:1:53097688> spawned model models/props_wasteland/cafeteria_bench001a.mdl
+[12:54:25] Unknown<STEAM_0:1:53097688> used the tool permaprops on models/props_wasteland/cafeteria_bench001a.mdl
+[12:54:25] Unknown<STEAM_0:1:53097688> used the tool permaprops on models/props_wasteland/cafeteria_table001a.mdl
+[12:54:26] Unknown<STEAM_0:1:53097688> used the tool permaprops on models/props_wasteland/cafeteria_bench001a.mdl
+[12:54:26] Unknown<STEAM_0:1:53097688> used the tool permaprops on models/props_wasteland/cafeteria_table001a.mdl
+[12:54:26] Unknown<STEAM_0:1:53097688> used the tool permaprops on models/props_wasteland/cafeteria_bench001a.mdl
+[12:54:27] Unknown<STEAM_0:1:53097688> used the tool permaprops on maps/rp_sandyshop_v1.bsp
+[12:54:28] Unknown<STEAM_0:1:53097688> used the tool permaprops on maps/rp_sandyshop_v1.bsp
+[12:55:08] Unknown<STEAM_0:1:53097688> spawned model models/cire992/props2/bedbunk01.mdl
+[12:55:13] Unknown<STEAM_0:1:53097688> spawned model models/cire992/props2/bedbunk01.mdl
+[12:55:15] Unknown<STEAM_0:1:53097688> spawned model models/cire992/props2/bedbunk01.mdl
+[12:55:18] Unknown<STEAM_0:1:53097688> spawned model models/cire992/props2/bedbunk01.mdl
+[12:55:23] Unknown<STEAM_0:1:53097688> spawned model models/cire992/props3/bunker01.mdl
+[12:55:26] Unknown<STEAM_0:1:53097688> spawned model models/cire992/props3/me1colonyhut01.mdl
+[12:55:31] Unknown<STEAM_0:1:53097688> spawned model models/cire992/props3/wall_concrete01.mdl
+[12:55:39] Unknown<STEAM_0:1:53097688> used the tool permaprops on models/cire992/props3/wall_concrete01.mdl
+[12:55:42] Unknown<STEAM_0:1:53097688> used the tool permaprops on maps/rp_sandyshop_v1.bsp
+[12:55:42] Unknown<STEAM_0:1:53097688> used the tool permaprops on models/cire992/props2/bedbunk01.mdl
+[12:55:43] Unknown<STEAM_0:1:53097688> used the tool permaprops on models/cire992/props2/bedbunk01.mdl
+[12:55:43] Unknown<STEAM_0:1:53097688> used the tool permaprops on models/cire992/props2/bedbunk01.mdl
+[12:55:44] Unknown<STEAM_0:1:53097688> used the tool permaprops on models/cire992/props2/bedbunk01.mdl
+[12:55:48] Unknown<STEAM_0:1:53097688> spawned model models/cire992/props2/container03.mdl
+[12:56:04] Unknown<STEAM_0:1:53097688> spawned model models/props/cs_militia/food_stack.mdl
+[12:56:10] Unknown<STEAM_0:1:53097688> used the tool permaprops on models\props/cs_militia/food_stack.mdl
+[12:56:12] Unknown<STEAM_0:1:53097688> spawned model models/props/cs_militia/shelves_wood.mdl
+[12:56:18] Unknown<STEAM_0:1:53097688> spawned model models/props/cs_militia/shelves_wood.mdl
+[12:56:23] Unknown<STEAM_0:1:53097688> spawned model models/props/cs_militia/shelves_wood.mdl
+[12:56:29] Unknown<STEAM_0:1:53097688> used the tool permaprops on models\props/cs_militia/shelves_wood.mdl
+[12:56:29] Unknown<STEAM_0:1:53097688> used the tool permaprops on models\props/cs_militia/shelves_wood.mdl
+[12:56:30] Unknown<STEAM_0:1:53097688> used the tool permaprops on maps/rp_sandyshop_v1.bsp
+[12:56:31] Unknown<STEAM_0:1:53097688> used the tool permaprops on models\props/cs_militia/shelves_wood.mdl
+[12:56:34] Unknown<STEAM_0:1:53097688> spawned model models/props/cs_militia/table_kitchen.mdl
+[12:56:36] Unknown<STEAM_0:1:53097688> spawned model models/props/cs_militia/table_shed.mdl
+[12:56:41] Unknown<STEAM_0:1:53097688> spawned model models/props/cs_militia/caseofbeer01.mdl
+[12:56:46] Unknown<STEAM_0:1:53097688> used the tool permaprops on models\props/cs_militia/table_shed.mdl
+[12:56:46] Unknown<STEAM_0:1:53097688> used the tool permaprops on models\props/cs_militia/caseofbeer01.mdl
+[12:56:49] Unknown<STEAM_0:1:53097688> used the tool permaprops on maps/rp_sandyshop_v1.bsp
+[12:56:49] Unknown<STEAM_0:1:53097688> used the tool permaprops on maps/rp_sandyshop_v1.bsp
+[12:56:50] Unknown<STEAM_0:1:53097688> used the tool permaprops on maps/rp_sandyshop_v1.bsp
+[12:56:50] Unknown<STEAM_0:1:53097688> used the tool permaprops on maps/rp_sandyshop_v1.bsp
+[12:56:50] Unknown<STEAM_0:1:53097688> used the tool permaprops on maps/rp_sandyshop_v1.bsp
+[12:57:11] Unknown<STEAM_0:1:53097688> spawned model models/cire992/props3/crateshipping01_c.mdl
+[12:57:14] Unknown<STEAM_0:1:53097688> spawned model models/cire992/props3/crate_xlarge_03.mdl
+[12:57:21] Unknown<STEAM_0:1:53097688> spawned model models/cire992/props2/container03.mdl
+[12:57:27] Unknown<STEAM_0:1:53097688> spawned model models/cire992/props4/equipmentlab12_mdl.mdl
+[12:57:28] Unknown<STEAM_0:1:53097688> spawned model models/cire992/props4/cratecargo01_l.mdl
+[12:57:32] Unknown<STEAM_0:1:53097688> spawned model models/cire992/props4/cratecargo01_xl.mdl
+[12:57:34] Unknown<STEAM_0:1:53097688> spawned model models/cire992/props4/crateshipping01_a.mdl
+[12:57:40] Unknown<STEAM_0:1:53097688> spawned model models/cire992/props3/me1colonyhut01.mdl
+[12:57:43] Unknown<STEAM_0:1:53097688> spawned model models/cire992/props3/crate_xlarge_03.mdl
+[12:57:45] Unknown<STEAM_0:1:53097688> spawned model models/cire992/props3/crate_xlarge_02.mdl
+[12:57:48] Unknown<STEAM_0:1:53097688> spawned model models/cire992/props3/crate_xlarge_01.mdl
+[12:57:51] Unknown<STEAM_0:1:53097688> spawned model models/cire992/props2/crate_explosive01.mdl
+[12:57:54] Unknown<STEAM_0:1:53097688> spawned model models/cire992/props2/crate01_l.mdl
+[12:57:57] Unknown<STEAM_0:1:53097688> spawned model models/cire992/props2/crate01_m.mdl
+[12:58:05] Unknown<STEAM_0:1:53097688> spawned model models/cire992/props2/crate01_s.mdl
+[12:58:11] Unknown<STEAM_0:1:53097688> spawned model models/cire992/props2/shelf02_l.mdl
+[12:58:21] Unknown<STEAM_0:1:53097688> spawned model models/cire992/props3/junk05.mdl
+[12:58:23] Unknown<STEAM_0:1:53097688> spawned model models/cire992/props3/junk07.mdl
+[12:58:25] Unknown<STEAM_0:1:53097688> used the tool permaprops on models/cire992/props3/junk05.mdl
+[12:58:25] Unknown<STEAM_0:1:53097688> used the tool permaprops on models/cire992/props3/junk07.mdl
+[12:58:26] Unknown<STEAM_0:1:53097688> used the tool permaprops on models/cire992/props3/crate_xlarge_03.mdl
+[12:58:26] Unknown<STEAM_0:1:53097688> used the tool permaprops on models/cire992/props3/crateshipping01_c.mdl
+[12:58:26] Unknown<STEAM_0:1:53097688> used the tool permaprops on models/cire992/props2/container03.mdl
+[12:58:27] Unknown<STEAM_0:1:53097688> used the tool permaprops on maps/rp_sandyshop_v1.bsp
+[12:58:27] Unknown<STEAM_0:1:53097688> used the tool permaprops on models/cire992/props4/cratecargo01_l.mdl
+[12:58:28] Unknown<STEAM_0:1:53097688> used the tool permaprops on models/cire992/props2/shelf02_l.mdl
+[12:58:28] Unknown<STEAM_0:1:53097688> used the tool permaprops on models/cire992/props2/crate_explosive01.mdl
+[12:58:28] Unknown<STEAM_0:1:53097688> used the tool permaprops on models/cire992/props3/crate_xlarge_01.mdl
+[12:58:28] Unknown<STEAM_0:1:53097688> used the tool permaprops on models/cire992/props3/crate_xlarge_03.mdl
+[12:58:30] Unknown<STEAM_0:1:53097688> used the tool permaprops on models/cire992/props2/crate01_l.mdl
+[12:58:30] Unknown<STEAM_0:1:53097688> used the tool permaprops on models/cire992/props2/crate01_s.mdl
+[12:58:31] Unknown<STEAM_0:1:53097688> used the tool permaprops on models/cire992/props2/crate01_m.mdl
+[12:58:31] Unknown<STEAM_0:1:53097688> used the tool permaprops on maps/rp_sandyshop_v1.bsp
+[12:58:39] Unknown<STEAM_0:1:53097688> spawned model models/prop_crates/imp_x64_b.mdl
+[12:58:42] Unknown<STEAM_0:1:53097688> spawned model models/prop_crates/misc_x64.mdl
+[12:59:17] Unknown<STEAM_0:1:53097688> spawned model models/props/starwars/tech/cis_ship_switcher.mdl
+[12:59:20] Unknown<STEAM_0:1:53097688> spawned model models/props/starwars/tech/hoth_console2.mdl
+[12:59:29] Unknown<STEAM_0:1:53097688> spawned model models/props/starwars/tech/hoth_console.mdl
+[12:59:38] Unknown<STEAM_0:1:53097688> spawned model models/props/starwars/furniture/imp_console.mdl
+[12:59:47] Unknown<STEAM_0:1:53097688> used the tool permaprops on models/props/starwars/furniture/imp_console.mdl
+[12:59:48] Unknown<STEAM_0:1:53097688> used the tool permaprops on maps/rp_sandyshop_v1.bsp
+[12:59:48] Unknown<STEAM_0:1:53097688> used the tool permaprops on models/prop_crates/imp_x64_b.mdl
+[12:59:48] Unknown<STEAM_0:1:53097688> used the tool permaprops on models/prop_crates/misc_x64.mdl
+[12:59:49] Unknown<STEAM_0:1:53097688> used the tool permaprops on models/props/starwars/tech/cis_ship_switcher.mdl
+[12:59:50] Unknown<STEAM_0:1:53097688> used the tool permaprops on models/props/starwars/tech/hoth_console.mdl
+[12:59:50] Unknown<STEAM_0:1:53097688> used the tool permaprops on models/props/starwars/tech/hoth_console2.mdl
+[13:00:01] Unknown<STEAM_0:1:53097688> spawned model models/lordtrilobite/starwars/props/imp_holoprojector.mdl
+[13:00:05] Unknown<STEAM_0:1:53097688> used the tool permaprops on models/lordtrilobite/starwars/props/imp_holoprojector.mdl
+
+
+
+[13:02:33] New map: rp_stardestroyer_v2_6
+[13:03:32] Client "matt saton" connected.
+[13:04:33] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 61 seconds).
+[13:06:24] matt saton<STEAM_0:1:53097688> changed their name to Lieutenant Ezyn Linmer
+[13:06:47] Lieutenant Ezyn Linmer<STEAM_0:1:53097688> changed their name to Rear Admiral Rom Malloc
+[13:08:30] Rear Admiral Rom Malloc: /charsetname rom "Lieutenant Colonel Gaimil Malloy
+[13:08:30] Rear Admiral Rom Malloc<STEAM_0:1:53097688> changed their name to "Lieutenant Colonel Gaimil Malloy
+[13:08:36] "Lieutenant Colonel Gaimil Malloy: /charsetname malloy "Lieutenant Colonel Gaimil Malloy"
+[13:08:36] "Lieutenant Colonel Gaimil Malloy<STEAM_0:1:53097688> changed their name to Lieutenant Colonel Gaimil Malloy
+[13:08:55] Client "Zapper" connected.
+[13:09:49] Lieutenant Colonel Gaimil Malloy: /charsetmodel lieutenant models/kriegsyntax/imperial/stormtroopers/officer_anh/playermodel_male_01.mdl
+[13:09:54] Lieutenant Colonel Gaimil Malloy: /deleteerrormodels
+[13:10:51] Client "Zapper" spawned in server <STEAM_0:1:88228734> (took 116 seconds).
+[13:12:00] Lieutenant Colonel Gaimil Malloy<STEAM_0:1:53097688> spawned ragdoll models/kriegsyntax/imperial/stormtroopers/royalguardtroopers/npc_male_01.mdl
+[13:12:15] Lieutenant Colonel Gaimil Malloy<STEAM_0:1:53097688> used the tool rb655_easy_bodygroup on models/kriegsyntax/imperial/stormtroopers/royalguardtroopers/npc_male_01.mdl
+[13:12:54] Lieutenant Colonel Gaimil Malloy<STEAM_0:1:53097688> used the tool rb655_easy_bodygroup on maps/rp_stardestroyer_v2_6.bsp
+[13:12:58] Lieutenant Colonel Gaimil Malloy: /chareditbodygroup malloy
+[13:15:14] Lieutenant Colonel Gaimil Malloy<STEAM_0:1:53097688> spawned/gave himself swep rw_sw_lightsaber_maul
+[13:15:15] Lieutenant Colonel Gaimil Malloy: /toggleraise
+[13:15:25] Lieutenant Colonel Gaimil Malloy<STEAM_0:1:53097688> spawned/gave himself swep weapon_rpg
+[13:15:25] Lieutenant Colonel Gaimil Malloy: /toggleraise
+[13:15:33] Lieutenant Colonel Gaimil Malloy: /toggleraise
+[13:15:51] Lieutenant Colonel Gaimil Malloy: /toggleraise
+[13:17:28] Lieutenant Colonel Gaimil Malloy<STEAM_0:1:53097688> spawned sent meleeartsnpcblade
+[13:17:40] Lieutenant Colonel Gaimil Malloy<STEAM_0:1:53097688> spawned sent meleeartsnpcrandom
+[13:17:50] Lieutenant Colonel Gaimil Malloy<STEAM_0:1:53097688> spawned sent meleeartsnpcaxe
+[13:17:59] Lieutenant Colonel Gaimil Malloy<STEAM_0:1:53097688> used the tool remover on maps/rp_stardestroyer_v2_6.bsp
+[13:18:00] Lieutenant Colonel Gaimil Malloy<STEAM_0:1:53097688> used the tool remover on models/humans/group03/male_08.mdl
+[13:18:00] Lieutenant Colonel Gaimil Malloy<STEAM_0:1:53097688> used the tool remover on maps/rp_stardestroyer_v2_6.bsp
+[13:18:00] Lieutenant Colonel Gaimil Malloy<STEAM_0:1:53097688> used the tool remover on maps/rp_stardestroyer_v2_6.bsp
+[13:18:06] Lieutenant Colonel Gaimil Malloy<STEAM_0:1:53097688> spawned sent meleeartsnpcbludgeon
+[13:18:32] Zapper<STEAM_0:1:88228734> changed their name to High Colonel James Alexandria
+[13:18:48] High Colonel James Alexandria<STEAM_0:1:88228734> used the tool camera on maps/rp_stardestroyer_v2_6.bsp
+[13:18:57] High Colonel James Alexandria<STEAM_0:1:88228734> used the tool rb655_easy_bodygroup on maps/rp_stardestroyer_v2_6.bsp
+[13:19:06] High Colonel James Alexandria<STEAM_0:1:88228734> used the tool rb655_easy_bodygroup on maps/rp_stardestroyer_v2_6.bsp
+[13:19:09] High Colonel James Alexandria<STEAM_0:1:88228734> used the tool rb655_easy_bodygroup on maps/rp_stardestroyer_v2_6.bsp
+[13:19:19] High Colonel James Alexandria<STEAM_0:1:88228734> used the tool rb655_easy_bodygroup on maps/rp_stardestroyer_v2_6.bsp
+[13:19:19] High Colonel James Alexandria<STEAM_0:1:88228734> used the tool rb655_easy_bodygroup on maps/rp_stardestroyer_v2_6.bsp
+[13:19:30] Lieutenant Colonel Gaimil Malloy<STEAM_0:1:53097688> spawned sent meleeartsnpcbludgeon
+[13:19:33] Lieutenant Colonel Gaimil Malloy: //YOOOOOOOOO WHAT'S GOOD
+[13:19:42] Lieutenant Colonel Gaimil Malloy: /charsetname james "High Colonel Alexis Alexandria"
+[13:19:42] High Colonel James Alexandria<STEAM_0:1:88228734> changed their name to High Colonel Alexis Alexandria
+[13:19:50] High Colonel Alexis Alexandria: /ooc YOOOOOOOO
+[13:20:00] High Colonel Alexis Alexandria: /ooc just doing my Body Groups
+[13:20:08] Lieutenant Colonel Gaimil Malloy: //pog
+[13:20:39] High Colonel Alexis Alexandria: /ooc There is no Female model correct> 
+[13:20:42] Lieutenant Colonel Gaimil Malloy: //correct
+[13:20:47] High Colonel Alexis Alexandria: /ooc shiet
+[13:20:51] High Colonel Alexis Alexandria: /ooc all good
+[13:20:57] Lieutenant Colonel Gaimil Malloy: //just pick the most feminine looking face i guess?
+[13:21:11] High Colonel Alexis Alexandria<STEAM_0:1:88228734> used the tool rb655_easy_bodygroup on maps/rp_stardestroyer_v2_6.bsp
+[13:21:19] Lieutenant Colonel Gaimil Malloy was killed by npc_combine_s
+[13:21:33] Lieutenant Colonel Gaimil Malloy<STEAM_0:1:53097688> used the tool remover on models/hcn/starwars/bf/human/human_male_2.mdl
+[13:21:35] Lieutenant Colonel Gaimil Malloy<STEAM_0:1:53097688> spawned sent meleeartsnpcbludgeon
+[13:21:41] High Colonel Alexis Alexandria: /ooc where do you need me stationed?
+[13:21:49] Lieutenant Colonel Gaimil Malloy: //well give ntaht you're uhhh
+[13:21:52] Lieutenant Colonel Gaimil Malloy: //the only person who showed up
+[13:22:06] Lieutenant Colonel Gaimil Malloy: //because ollie seemingly lied to me and lightroom flat out no showed
+[13:22:07] High Colonel Alexis Alexandria: /ooc ping the server?
+[13:22:31] Lieutenant Colonel Gaimil Malloy: //already did 30 mins ago, i don't want to overdo it 
+[13:22:45] High Colonel Alexis Alexandria: /ooc well do it again if these asshats are that dumb 
+[13:22:45] Lieutenant Colonel Gaimil Malloy: //you're going to be the only person on the mission my fella
+[13:22:53] Lieutenant Colonel Gaimil Malloy: //fuck it why not
+[13:22:54] High Colonel Alexis Alexandria: /ooc Oh lordy 
+[13:24:49] High Colonel Alexis Alexandria: /ooc yo if people do show up I am gonna get on someones ass about not cleaning up the leftover blasters on the floor 
+[13:25:02] Lieutenant Colonel Gaimil Malloy: //lmao
+[13:25:20] Lieutenant Colonel Gaimil Malloy<STEAM_0:1:53097688> spawned/gave himself swep weapon_pistol
+[13:25:20] Lieutenant Colonel Gaimil Malloy: /toggleraise
+[13:25:40] High Colonel Alexis Alexandria: /ooc was that you?
+[13:25:46] Lieutenant Colonel Gaimil Malloy: //yes
+[13:25:49] Lieutenant Colonel Gaimil Malloy<STEAM_0:1:53097688> spawned/gave himself swep weapon_rpg
+[13:25:49] Lieutenant Colonel Gaimil Malloy: /toggleraise
+[13:25:52] Lieutenant Colonel Gaimil Malloy: //and so was this
+[13:26:55] High Colonel Alexis Alexandria: /ooc 0-0
+[13:27:08] Lieutenant Colonel Gaimil Malloy: //and that
+[13:27:11] High Colonel Alexis Alexandria: /ooc understandable 
+[13:28:21] High Colonel Alexis Alexandria: /ooc I swear if I am the only one on
+[13:29:00] Lieutenant Colonel Gaimil Malloy: //lightroom is hopping on
+[13:29:05] Lieutenant Colonel Gaimil Malloy: //so he didn't no show after all
+[13:29:07] Client "FB|| light ROOM" connected.
+[13:29:11] High Colonel Alexis Alexandria: /ooc I see that
+[13:29:56] High Colonel Alexis Alexandria: /ooc VC????
+[13:30:35] High Colonel Alexis Alexandria: /ooc also come to me real fast
+[13:30:44] Lieutenant Colonel Gaimil Malloy: //maybe not a VC today
+[13:30:46] Lieutenant Colonel Gaimil Malloy: .//what's good
+[13:30:48] High Colonel Alexis Alexandria: /me slautes
+[13:30:51] Lieutenant Colonel Gaimil Malloy: .///YES
+[13:30:51] Lieutenant Colonel Gaimil Malloy: //YES
+[13:30:55] Lieutenant Colonel Gaimil Malloy: //i was feeling kinda down
+[13:30:57] Client "FB|| light ROOM" spawned in server <STEAM_0:1:17219621> (took 110 seconds).
+[13:30:57] Lieutenant Colonel Gaimil Malloy: //but that
+[13:30:59] High Colonel Alexis Alexandria: /me slautes
+[13:31:01] Lieutenant Colonel Gaimil Malloy: //that's a giant lithium pill to me
+[13:31:04] High Colonel Alexis Alexandria: /me bows
+[13:32:33] High Colonel Alexis Alexandria: /ooc whats the comlink frq?
+[13:33:09] Lieutenant Colonel Gaimil Malloy: //no freq
+[13:33:12] Lieutenant Colonel Gaimil Malloy: //it just works
+[13:33:15] High Colonel Alexis Alexandria: /ooc really?
+[13:33:18] Lieutenant Colonel Gaimil Malloy: //ye
+[13:34:14] High Colonel Alexis Alexandria: /ooc RIP Ollie 
+[13:35:40] Lieutenant Colonel Gaimil Malloy: //eventually lightroom will get on a character
+[13:35:40] FB|| light ROOM<STEAM_0:1:17219621> changed their name to Lance Corporal TX-7062
+[13:35:53] Lance Corporal TX-7062: // Balls
+[13:35:56] High Colonel Alexis Alexandria: /ooc HEYYYY LIGHTROOM
+[13:36:14] Lieutenant Colonel Gaimil Malloy: //YOOOOOOOOOOOOOOOOO
+[13:36:37] Lance Corporal TX-7062: // One second, cooking while doing this.
+[13:37:12] High Colonel Alexis Alexandria: /ooc aren't I allowed up on bridge with permission? 
+[13:37:46] Lieutenant Colonel Gaimil Malloy: //YEAH OG AHEAD
+[13:37:50] Lieutenant Colonel Gaimil Malloy: //yeah og ahead*
+[13:39:03] Lieutenant Colonel Gaimil Malloy: //alright let's go
+[13:39:23] Lieutenant Colonel Gaimil Malloy<STEAM_0:1:53097688> changed their name to Lieutenant Ezyn Linmer
+[13:39:44] Lieutenant Ezyn Linmer<STEAM_0:1:53097688> changed their name to Lieutenant Colonel Gaimil Malloy
+[13:39:57] High Colonel Alexis Alexandria: /ooc :)
+[13:40:02] Lieutenant Colonel Gaimil Malloy: /c Attention, all units stationed on the ship please report to debrief immediately.
+[13:40:11] Lieutenant Colonel Gaimil Malloy: /chargiveitem malloy comlink
+[13:40:19] Lieutenant Colonel Gaimil Malloy: /chargiveitem malloy comlink
+[13:40:20] Lieutenant Colonel Gaimil Malloy: /c Attention, all units stationed on the ship please report to debrief immediately.
+[13:40:27] Lieutenant Colonel Gaimil Malloy: //it's saying i'm not allowed to
+[13:40:32] Lieutenant Colonel Gaimil Malloy: //use the comlink command
+[13:40:35] Lieutenant Colonel Gaimil Malloy: //what the actual fuck
+[13:40:36] High Colonel Alexis Alexandria: /ooc oh?
+[13:40:39] Lieutenant Colonel Gaimil Malloy: //this is a new problem
+[13:40:47] Lieutenant Colonel Gaimil Malloy: /c test
+[13:40:55] Lieutenant Colonel Gaimil Malloy: //try comlinking something, please
+[13:41:02] High Colonel Alexis Alexandria: /ooc how again
+[13:41:04] Lieutenant Colonel Gaimil Malloy: //the command is /c
+[13:41:14] High Colonel Alexis Alexandria: /c Blyat
+[13:41:18] High Colonel Alexis Alexandria: /ooc can't do it
+[13:41:26] High Colonel Alexis Alexandria: /ooc I am not allowed
+[13:42:17] Lance Corporal TX-7062: // Food is being made
+[13:42:27] Lieutenant Colonel Gaimil Malloy: //fuck me
+[13:42:36] High Colonel Alexis Alexandria: /ooc *flustered*
+[13:42:46] Lance Corporal TX-7062: // No, I won't.
+[13:43:00] High Colonel Alexis Alexandria: /ooc *Fingers tap together*
+[13:43:57] Lieutenant Colonel Gaimil Malloy: //this is a brand new problem waht the actual; fuck
+[13:44:07] Lieutenant Colonel Gaimil Malloy: /comlink test
+[13:44:08] High Colonel Alexis Alexandria: /ooc that's kinda quirky 
+[13:44:19] High Colonel Alexis Alexandria: /ooc Lightroom can you use your comms for us
+[13:44:36] High Colonel Alexis Alexandria: /ooc it's /c
+[13:44:43] Lance Corporal TX-7062: /comms Trooper testing radio frequency.
+[13:44:50] Lance Corporal TX-7062: /c Trooper testing radio frequency.
+[13:44:54] Lance Corporal TX-7062: // Doesn't exist
+[13:45:02] Lieutenant Colonel Gaimil Malloy: /c test
+[13:45:35] Lance Corporal TX-7062: // By the way, in an hour and 15 imma have to hop off.
+[13:46:07] Lieutenant Colonel Gaimil Malloy: /comm test
+[13:46:41] Lieutenant Colonel Gaimil Malloy: //trying to fix it now
+[13:46:43] Lieutenant Colonel Gaimil Malloy: //fuck
+[13:46:46] High Colonel Alexis Alexandria: /c bitch
+[13:46:48] Lieutenant Colonel Gaimil Malloy: /c
+[13:47:43] Lieutenant Colonel Gaimil Malloy: /c test
+[13:49:30] Lieutenant Colonel Gaimil Malloy: //lag spikes intermittently until this is fixed
+[13:49:36] High Colonel Alexis Alexandria: /ooc aye
+[13:49:37] Lance Corporal TX-7062: /c Trooper testing radio frequency.
+[13:50:15] Lieutenant Colonel Gaimil Malloy: /c test
+[13:50:51] High Colonel Alexis Alexandria: /looc EA Sports it's in the *Game*
+[13:51:05] Lance Corporal TX-7062: .// E A Sports, what a shame
+[13:51:22] High Colonel Alexis Alexandria: /looc also does the ingame vc work?
+[13:51:30] Lance Corporal TX-7062: .// Also, I can't hear in game for technical reasons, should talk in chat.
+[13:51:38] High Colonel Alexis Alexandria: /looc aye
+[13:51:40] Lance Corporal TX-7062: .// I literally can't hear game audio at all, so I wouldn't no.
+[13:51:44] Lance Corporal TX-7062: .// know
+[13:51:56] High Colonel Alexis Alexandria: /ooc Q, is there ingame VC?
+[13:52:04] Lieutenant Colonel Gaimil Malloy: //should be
+[13:52:08] High Colonel Alexis Alexandria: /ooc kk
+[13:52:29] Lance Corporal TX-7062: /c Trooper testing radio frequency.
+[13:52:42] High Colonel Alexis Alexandria: /looc *Horn Doot*
+[13:52:53] Lieutenant Colonel Gaimil Malloy: /c test
+[13:52:55] Lieutenant Colonel Gaimil Malloy: /comm test
+[13:53:29] High Colonel Alexis Alexandria: /looc so what's going on?
+[13:53:54] Lance Corporal TX-7062: .// The radio isn't functioning, all I know.
+[13:53:58] High Colonel Alexis Alexandria: /me slautes
+[13:54:02] Lance Corporal TX-7062: .// Honestly, thinking of leaving until it's fixed.
+[13:54:02] High Colonel Alexis Alexandria: /looc my bad
+[13:54:03] Lance Corporal TX-7062: /advert [YELL] {!Sing Praise to the God of All Machines!}
+[13:54:05] Lance Corporal TX-7062: /advert [YELL] {The machine is my temple. Each one a sacred shrine. I name each piston blessed, and every gear divine.}
+[13:54:07] Lance Corporal TX-7062: /advert [YELL] {!Sing Praise to the God of All Machines!}
+[13:54:15] High Colonel Alexis Alexandria: /looc I gotcha 
+[13:54:26] Lance Corporal TX-7062: // Do me a favor and DM me if it's fixed.
+[13:54:27] Dropped "Lance Corporal TX-7062" from server<STEAM_0:1:17219621>
+[13:54:31] Lieutenant Colonel Gaimil Malloy: /c test
+[13:54:36] High Colonel Alexis Alexandria: /ooc damn
+[13:54:47] High Colonel Alexis Alexandria: /c test
+[13:55:56] High Colonel Alexis Alexandria: /c shesh
+[13:56:30] Lieutenant Colonel Gaimil Malloy: /c test
+[13:56:31] High Colonel Alexis Alexandria: /ooc hey Q, when going into observer how do you make it so you don't TP back to orignal location?
+[13:56:51] Lieutenant Colonel Gaimil Malloy removed all access rights from Themself
+[13:57:25] (Console) added Lieutenant Colonel Gaimil Malloy to group superadmin
+[13:58:06] Lieutenant Colonel Gaimil Malloy added High Colonel Alexis Alexandria to group epicgamer
+[13:58:10] Lieutenant Colonel Gaimil Malloy: //thank you for the reminder
+[13:58:22] High Colonel Alexis Alexandria: /ooc yee
+[13:59:12] High Colonel Alexis Alexandria: /ooc now I shall sit here and wait for a century 
+[13:59:57] Lieutenant Colonel Gaimil Malloy: /c
+[14:03:13] High Colonel Alexis Alexandria: /c bitch
+[14:04:27] Lieutenant Colonel Gaimil Malloy: /c test
+[14:04:35] Lieutenant Colonel Gaimil Malloy: //fuck it, God is dead, let's just start
+[14:04:52] High Colonel Alexis Alexandria: /ooc oki xD
+[14:04:59] High Colonel Alexis Alexandria: /c Sheit
+[14:05:54] Lieutenant Colonel Gaimil Malloy: //lightroom is coming back
+[14:05:59] High Colonel Alexis Alexandria: /ooc yep
+[14:06:10] High Colonel Alexis Alexandria: /ooc want us in debreif? 
+[14:06:22] High Colonel Alexis Alexandria: /ooc debrief*
+[14:06:36] Client "FB|| light ROOM" connected.
+[14:06:51] Lieutenant Colonel Gaimil Malloy: //please
+[14:06:59] High Colonel Alexis Alexandria: /ooc there 
+[14:07:03] High Colonel Alexis Alexandria: /ooc their* 
+[14:07:10] High Colonel Alexis Alexandria: /ooc english sucks
+[14:07:24] High Colonel Alexis Alexandria: /ooc would I be standing here right? 
+[14:07:44] Client "FB|| light ROOM" spawned in server <STEAM_0:1:17219621> (took 68 seconds).
+[14:08:38] FB|| light ROOM<STEAM_0:1:17219621> changed their name to Lance Corporal TX-7062
+[14:08:46] Lance Corporal TX-7062: // Fortnite sussy balls
+[14:08:53] Lieutenant Colonel Gaimil Malloy: //head to db pls
+[14:09:00] Lance Corporal TX-7062: // I can't move, odd.
+[14:09:06] High Colonel Alexis Alexandria: /ooc that is quirky
+[14:09:49] Lieutenant Colonel Gaimil Malloy: //yopu what
+[14:09:55] Lance Corporal TX-7062: // Fixed, thank
+[14:10:03] High Colonel Alexis Alexandria: /ooc *E*
+[14:10:06] Lieutenant Colonel Gaimil Malloy: //cool my bodygroups that i set are gone
+[14:10:08] Lieutenant Colonel Gaimil Malloy: //i love today
+[14:10:10] Lieutenant Colonel Gaimil Malloy: /chareditbodygroup
+[14:10:16] Lance Corporal TX-7062: // Me too
+[14:10:18] High Colonel Alexis Alexandria<STEAM_0:1:88228734> used the tool camera on maps/rp_stardestroyer_v2_6.bsp
+[14:10:39] Lance Corporal TX-7062: // Forgot they changed the layout of this map.
+[14:10:43] High Colonel Alexis Alexandria: /me slautes
+[14:11:20] Lance Corporal TX-7062: // Elevator doesn't work either.
+[14:11:29] High Colonel Alexis Alexandria: /looc Lightroom still has mod?
+[14:12:03] High Colonel Alexis Alexandria: /ooc that is really quirky 
+[14:12:24] Lieutenant Colonel Gaimil Malloy: //it what
+[14:12:31] Lieutenant Colonel Gaimil Malloy: .//nah he resigned
+[14:12:42] Lieutenant Colonel Gaimil Malloy<STEAM_0:1:53097688> spawned/gave himself swep weapon_shotgun
+[14:12:42] Lieutenant Colonel Gaimil Malloy: /toggleraise
+[14:12:42] Lance Corporal TX-7062: .// IT WASN'T WORKING FOR ME
+[14:12:42] High Colonel Alexis Alexandria: /looc I meant his perms on the server
+[14:12:43] Lance Corporal TX-7062: .// BRO
+[14:12:48] Lieutenant Colonel Gaimil Malloy<STEAM_0:1:53097688> spawned/gave himself swep rw_sw_z6i
+[14:12:49] Lieutenant Colonel Gaimil Malloy: /toggleraise
+[14:13:00] Lieutenant Colonel Gaimil Malloy<STEAM_0:1:53097688> spawned/gave himself swep rw_sw_e11s
+[14:13:00] Lieutenant Colonel Gaimil Malloy: /toggleraise
+[14:13:04] Lieutenant Colonel Gaimil Malloy<STEAM_0:1:53097688> spawned/gave himself swep rw_sw_z6i
+[14:13:04] Lieutenant Colonel Gaimil Malloy: /toggleraise
+[14:13:09] Lance Corporal TX-7062: /me Stands at attention.
+[14:13:17] Lieutenant Colonel Gaimil Malloy: //alright since the comlink is fucking broken
+[14:13:20] Lieutenant Colonel Gaimil Malloy: //because God isn't real
+[14:13:27] Lieutenant Colonel Gaimil Malloy: //i'm gonna just talk over /event
+[14:13:37] Lieutenant Colonel Gaimil Malloy: /event Good morning, crew. I will be conducting this briefing on behalf of Lord Vader, who is occupied at the moment with other matters relating to your upcoming mission.
+[14:13:55] Lieutenant Colonel Gaimil Malloy: /As you all are aware, our deployment, the 394th, is the acting force taking down the ex-Third Brother’s faction of rebels and traitors.
+[14:14:03] Lieutenant Colonel Gaimil Malloy: /event As you all are aware, our deployment, the 394th, is the acting force taking down the Third Brother’s faction of rebels and traitors.
+[14:14:41] Lieutenant Colonel Gaimil Malloy: /event According to the limited intelligence we have acquired, his faction is based out of the Unknown Regions. 
+[14:14:45] Lieutenant Colonel Gaimil Malloy: /This makes our job significantly more difficult, as we have very few hyperlanes in the area. 
+[14:14:48] Lieutenant Colonel Gaimil Malloy: /event This makes our job significantly more difficult, as we have very few hyperlanes in the area. 
+[14:14:57] Lieutenant Colonel Gaimil Malloy: /event If we want to take down the Third Brother, we need a better way to get through the Unknown Regions. Actively scouting and charting them is a labor and time intensive process.
+[14:15:36] Lieutenant Colonel Gaimil Malloy: /event Our best option, your mission today, is to dig up records of Unknown Regions hyperlanes that don’t exist in the Empire’s records. 
+[14:15:41] Lieutenant Colonel Gaimil Malloy: /event Allow me to give you a bit of background before I continue:
+[14:16:19] Lieutenant Colonel Gaimil Malloy: /event The Hutts, many thousands of years back, were a significant force in the galaxy’s colonization. Before an event known as the Hutt Cataclysm, they openly conquered planets, eradicated races, and enslaved the survivors of their genocides.
+[14:17:10] Lieutenant Colonel Gaimil Malloy: /event While they didn’t expand far past what is now Hutt Space, we suspect their archives may have records from other species who did scout the unknown regions.
+[14:17:22] Lieutenant Colonel Gaimil Malloy: /event The Hutt clans have posted a bounty some weeks ago for one of their own, Undula the Hutt. He is, for an unspecified reason, holed up with a rival clan known as the Zann Consortium.
+[14:17:34] Lieutenant Colonel Gaimil Malloy: /event The bounty mentions it being very high risk, because Undula is living in one of the Consortium’s major outposts. Fighting one’s way through this outpost is a challenge for a single bounty hunter, but not for the 394th.
+[14:17:42] Lieutenant Colonel Gaimil Malloy: /event You will go to Jabba’s Palace and negotiate with Jabba. Instead of the credit reward, you ask for access to any records they have of secret Unknown Region hyperlanes.
+[14:17:45] Lance Corporal TX-7062: // Fuckin, imma have to hop off for now, super sorry fucking christ.
+[14:17:46] Lieutenant Colonel Gaimil Malloy: If the negotiations succeed, you will collect the bounty and obtain these records.
+[14:17:46] Dropped "Lance Corporal TX-7062" from server<STEAM_0:1:17219621>
+[14:17:48] Lieutenant Colonel Gaimil Malloy: /event If the negotiations succeed, you will collect the bounty and obtain these records.
+[14:18:19] Lieutenant Colonel Gaimil Malloy: /event Each of you will be given 40 credits for purposes of negotiation, bribery, or whatever you see fit to use it on to help the mission.
+[14:18:50] Lieutenant Colonel Gaimil Malloy: /event Best of luck to all of you.
+[14:18:59] Lieutenant Colonel Gaimil Malloy: /event Dismissed. Gather any equipment you need and head to the Main Hangar Bay.
+[14:19:09] High Colonel Alexis Alexandria: /me slautes
+[14:20:14] High Colonel Alexis Alexandria: /ooc want me on a trooper>
+[14:22:13] Lieutenant Colonel Gaimil Malloy: //the fucking
+[14:22:15] Lieutenant Colonel Gaimil Malloy: //character creation
+[14:22:17] Lieutenant Colonel Gaimil Malloy: //oh my fucking God
+[14:22:25] High Colonel Alexis Alexandria: /ooc is it all not working?
+[14:22:32] Lieutenant Colonel Gaimil Malloy<STEAM_0:1:53097688> changed their name to R5-B7
+[14:22:44] R5-B7: /charsetname r5 "0T-5Y" 
+[14:22:44] R5-B7<STEAM_0:1:53097688> changed their name to 0T-5Y
+[14:23:00] 0T-5Y: /charsetmodel 0t models/starwars/grady/protocol_droids/protocol-black.mdl
+[14:23:00] High Colonel Alexis Alexandria: /ooc I was going to say if you need to do maintence on the server then by all means do so since it seems that nobody else is joining 
+[14:23:07] 0T-5Y: //i promised an event
+[14:23:10] 0T-5Y: //i will do an event
+[14:23:16] High Colonel Alexis Alexandria: /ooc I mean we can do it later today 
+[14:23:31] High Colonel Alexis Alexandria: /ooc I don't need you all frusturated 
+[14:23:33] 0T-5Y<STEAM_0:1:53097688> spawned sent lunasflightschool_imp_dropship
+[14:23:45] 0T-5Y: //i'll be fine, depression kickin in later will amke it work
+[14:24:19] High Colonel Alexis Alexandria: /ooc understandable 
+[14:24:51] High Colonel Alexis Alexandria: /ooc but do you need me on a trooper though?
+[14:25:08] 0T-5Y: //you can if you want, up to you
+[14:26:13] High Colonel Alexis Alexandria: /looc do I hop in?
+[14:26:27] 0T-5Y: /me takes out their datapad and types a couple things in.
+[14:26:29] 0T-5Y: Greetings.
+[14:26:39] High Colonel Alexis Alexandria: Greetings
+[14:26:46] 0T-5Y: I am 0T-5Y, your translator and helper droid for this mission.
+[14:27:02] High Colonel Alexis Alexandria: Understood. Shall we be underway?
+[14:27:12] 0T-5Y: Are you reader?
+[14:27:13] 0T-5Y: .//fuck
+[14:27:17] 0T-5Y: Are you ready?
+[14:27:22] High Colonel Alexis Alexandria: Aye
+[14:27:29] 0T-5Y: Then yes.
+[14:27:51] High Colonel Alexis Alexandria: /looc so Quirky 
+[14:27:51] 0T-5Y: We first depart to Jabba's Palace, off of Mos Espa, in the Dune Sea.
+[14:28:00] 0T-5Y changed the map to rp_mos_mesric_v2_1
+[14:28:00] Server is shutting down/changing levels.
+
+
+
+[14:28:40] New map: rp_mos_mesric_v2_1
+[14:29:38] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 85 seconds).
+[14:30:35] matt saton<STEAM_0:1:53097688> changed their name to 0T-5Y
+[14:31:10] 0T-5Y<STEAM_0:1:53097688> spawned sent meleeartsnpcblade
+[14:31:17] 0T-5Y<STEAM_0:1:53097688> spawned sent meleeartsnpcaxe
+[14:32:04] 0T-5Y<STEAM_0:1:53097688> spawned sent ix_actorgeneric
+[14:42:10] Dropped "0T-5Y" from server<STEAM_0:1:53097688>
+[15:04:42] Client "Muffins" connected.

@@ -1,0 +1,2135 @@
+<Logging continued from "data/ulx_logs/06-25-20.txt">
+[00:14:07] Client "matt saton" connected.
+[00:18:29] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 262 seconds).
+[00:19:47] matt saton<STEAM_0:1:53097688> changed their name to Rodriguo Ouh
+[00:20:53] Rodriguo Ouh: /toggleraise
+[00:20:54] Rodriguo Ouh: /toggleraise
+[00:20:57] Rodriguo Ouh: /toggleraise
+[00:21:12] Rodriguo Ouh<STEAM_0:1:53097688> spawned NPC npc_fassassin
+[00:21:16] Rodriguo Ouh<STEAM_0:1:53097688> spawned NPC npc_cremator
+[00:21:18] Rodriguo Ouh<STEAM_0:1:53097688> spawned NPC npc_helicopter
+[00:21:21] Rodriguo Ouh<STEAM_0:1:53097688> spawned NPC npc_manhack
+[00:21:27] Rodriguo Ouh<STEAM_0:1:53097688> spawned NPC npc_combine_guard
+[00:21:36] Rodriguo Ouh<STEAM_0:1:53097688> spawned NPC npc_combine_guard
+[00:21:51] Rodriguo Ouh<STEAM_0:1:53097688> spawned/gave himself swep weapon_crowbar_hl
+[00:21:52] Rodriguo Ouh: /toggleraise
+[00:21:54] Rodriguo Ouh<STEAM_0:1:53097688> spawned/gave himself swep weapon_snark
+[00:21:55] Rodriguo Ouh: /toggleraise
+[00:22:02] Rodriguo Ouh<STEAM_0:1:53097688> spawned/gave himself swep weapon_rpg_hl
+[00:22:04] Rodriguo Ouh: /toggleraise
+[00:22:09] Rodriguo Ouh<STEAM_0:1:53097688> spawned/gave himself swep weapon_shockrifle
+[00:22:09] Rodriguo Ouh<STEAM_0:1:53097688> spawned/gave himself swep weapon_shotgun_hl
+[00:22:12] Rodriguo Ouh: /toggleraise
+[00:22:15] Rodriguo Ouh<STEAM_0:1:53097688> spawned/gave himself swep weapon_gauss
+[00:22:15] Rodriguo Ouh: /toggleraise
+[00:22:24] Rodriguo Ouh<STEAM_0:1:53097688> spawned/gave himself swep weapon_9mmhandgun
+[00:22:24] Rodriguo Ouh<STEAM_0:1:53097688> spawned/gave himself swep weapon_barnacle
+[00:22:27] Rodriguo Ouh: /toggleraise
+[00:22:39] Rodriguo Ouh<STEAM_0:1:53097688> spawned NPC monster_babyheadcrab
+[00:22:54] Rodriguo Ouh<STEAM_0:1:53097688> spawned NPC monster_head_crab
+[00:23:10] Rodriguo Ouh<STEAM_0:1:53097688> spawned NPC monster_head_crab
+[00:23:11] Rodriguo Ouh<STEAM_0:1:53097688> spawned NPC monster_hecu_marine
+[00:23:15] Rodriguo Ouh<STEAM_0:1:53097688> spawned NPC monster_hecu_marine
+[00:23:17] Rodriguo Ouh<STEAM_0:1:53097688> spawned NPC monster_hecu_marine
+[00:23:52] Rodriguo Ouh<STEAM_0:1:53097688> spawned NPC monster_hecu_marine
+[00:23:55] Rodriguo Ouh<STEAM_0:1:53097688> spawned NPC monster_hecu_marine
+[00:23:56] Rodriguo Ouh<STEAM_0:1:53097688> spawned NPC monster_hecu_marine
+[00:23:59] Rodriguo Ouh<STEAM_0:1:53097688> spawned NPC monster_wheelchair
+[00:24:07] Rodriguo Ouh<STEAM_0:1:53097688> spawned NPC monster_rosenberg
+[00:24:13] Rodriguo Ouh<STEAM_0:1:53097688> spawned NPC monster_archer
+[00:24:21] Rodriguo Ouh<STEAM_0:1:53097688> spawned NPC npc_stukabat
+[00:24:25] Rodriguo Ouh<STEAM_0:1:53097688> spawned NPC monster_alien_tor
+[00:24:50] Rodriguo Ouh<STEAM_0:1:53097688> spawned NPC monster_alien_tor
+[00:24:52] Rodriguo Ouh<STEAM_0:1:53097688> spawned/gave himself swep weapon_rpg
+[00:24:53] Rodriguo Ouh: /toggleraise
+[00:24:57] Rodriguo Ouh: /toggleraise
+[00:25:00] Rodriguo Ouh: /toggleraise
+[00:25:01] Rodriguo Ouh<STEAM_0:1:53097688> spawned/gave himself swep weapon_egon
+[00:25:02] Rodriguo Ouh: /toggleraise
+[00:25:33] Rodriguo Ouh<STEAM_0:1:53097688> spawned/gave himself swep weapon_gauss
+[00:25:33] Rodriguo Ouh: /toggleraise
+[00:25:37] Rodriguo Ouh<STEAM_0:1:53097688> spawned/gave himself swep weapon_shotgun_hl
+[00:25:37] Rodriguo Ouh: /toggleraise
+[00:25:49] Rodriguo Ouh<STEAM_0:1:53097688> spawned/gave himself swep weapon_eagle
+[00:25:52] Rodriguo Ouh: /toggleraise
+[00:26:02] Rodriguo Ouh<STEAM_0:1:53097688> spawned/gave himself swep weapon_shockrifle
+[00:26:03] Rodriguo Ouh: /toggleraise
+[00:26:07] Rodriguo Ouh<STEAM_0:1:53097688> spawned/gave himself swep weapon_shotgun_hl
+[00:26:07] Rodriguo Ouh<STEAM_0:1:53097688> spawned/gave himself swep weapon_m249
+[00:26:08] Rodriguo Ouh: /toggleraise
+[00:26:13] Rodriguo Ouh<STEAM_0:1:53097688> spawned/gave himself swep weapon_barnacle
+[00:26:14] Rodriguo Ouh<STEAM_0:1:53097688> spawned/gave himself swep weapon_357_hl
+[00:26:15] Rodriguo Ouh: /toggleraise
+[00:26:19] Rodriguo Ouh<STEAM_0:1:53097688> spawned/gave himself swep weapon_displacer
+[00:26:20] Rodriguo Ouh: /toggleraise
+[00:26:35] Rodriguo Ouh gave Themself 150000 rounds
+[00:26:35] Rodriguo Ouh: !GIVEAMMO ^ 150000
+[00:26:44] Rodriguo Ouh<STEAM_0:1:53097688> spawned/gave himself swep weapon_hornetgun
+[00:26:44] Rodriguo Ouh: /toggleraise
+[00:27:24] Rodriguo Ouh<STEAM_0:1:53097688> spawned NPC monster_alien_tor
+[00:27:32] Rodriguo Ouh<STEAM_0:1:53097688> spawned NPC monster_bm_scientist
+[00:27:36] Rodriguo Ouh<STEAM_0:1:53097688> spawned NPC monster_babygarg
+[00:27:44] Rodriguo Ouh<STEAM_0:1:53097688> spawned NPC npc_friendly
+[00:27:53] Rodriguo Ouh<STEAM_0:1:53097688> spawned NPC npc_friendly
+[00:27:54] Rodriguo Ouh<STEAM_0:1:53097688> spawned NPC monster_otis
+[00:28:04] Rodriguo Ouh<STEAM_0:1:53097688> spawned NPC monster_g_man
+[00:28:22] Rodriguo Ouh: /toggleraise
+[00:28:31] Rodriguo Ouh: /toggleraise
+[00:28:34] Rodriguo Ouh: /toggleraise
+[00:28:52] Rodriguo Ouh: /toggleraise
+[00:29:02] Rodriguo Ouh<STEAM_0:1:53097688> spawned NPC monster_g_man
+[00:29:08] Rodriguo Ouh<STEAM_0:1:53097688> spawned NPC monster_g_man
+[00:29:12] Rodriguo Ouh<STEAM_0:1:53097688> spawned NPC monster_g_man
+[00:29:16] Rodriguo Ouh<STEAM_0:1:53097688> spawned NPC monster_g_man
+[00:29:22] Rodriguo Ouh<STEAM_0:1:53097688> spawned NPC monster_g_man
+[00:29:25] Rodriguo Ouh<STEAM_0:1:53097688> spawned NPC monster_g_man
+[00:34:27] Rodriguo Ouh: /toggleraise
+[00:34:28] Rodriguo Ouh: /toggleraise
+[00:35:12] Rodriguo Ouh was killed by func_door
+[00:35:18] Client "2733348753" connected.
+[00:43:17] Rodriguo Ouh<STEAM_0:1:53097688> spawned/gave himself swep weapon_pistol
+[00:43:18] Rodriguo Ouh<STEAM_0:1:53097688> spawned/gave himself swep weapon_ar2
+[00:43:21] Rodriguo Ouh: /toggleraise
+[00:43:22] Rodriguo Ouh: /toggleraise
+[00:43:23] Rodriguo Ouh: /toggleraise
+[00:46:14] Rodriguo Ouh<STEAM_0:1:53097688> spawned/gave himself swep meleearts_bludgeon_fists
+[00:46:14] Rodriguo Ouh: /toggleraise
+[00:47:02] Rodriguo Ouh: /toggleraise
+[00:47:04] Rodriguo Ouh: /toggleraise
+[00:47:05] Rodriguo Ouh: /toggleraise
+[00:48:05] Rodriguo Ouh<STEAM_0:1:53097688> spawned model models/hlvr/weapons/w_shotgun_heavy/w_shotgun_heavy_hlvr.mdl
+[00:58:32] Dropped "Rodriguo Ouh" from server<STEAM_0:1:53097688>
+
+
+
+[03:28:21] New map: rp_city14_utopia
+[13:11:34] Client "matt saton" connected.
+[13:17:35] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 361 seconds).
+[13:20:00] matt saton<STEAM_0:1:53097688> changed their name to CCA.C08-GRID.i3.69192
+
+
+
+[13:27:29] New map: rp_city14_utopia
+[13:28:43] Client "matt saton" connected.
+[13:30:25] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 102 seconds).
+[13:31:40] matt saton<STEAM_0:1:53097688> changed their name to Rodriguo Ouh
+[13:31:48] Rodriguo Ouh<STEAM_0:1:53097688> changed their name to CCA.C08-GRID.i3.69192
+[13:32:27] CCA.C08-GRID.i3.69192: /changesociostatus red
+[13:33:22] CCA.C08-GRID.i3.69192: /changesociostatus judgment
+[13:33:25] CCA.C08-GRID.i3.69192: /changesociostatus judgement
+[13:33:35] CCA.C08-GRID.i3.69192: /changesociostatus jw
+[13:33:38] CCA.C08-GRID.i3.69192: /changesociostatus yellow
+[13:33:44] CCA.C08-GRID.i3.69192: /changesociostatus green
+[13:34:33] CCA.C08-GRID.i3.69192: /changesociostatus up
+[13:34:38] CCA.C08-GRID.i3.69192: /changesociostatus se
+[13:37:40] CCA.C08-GRID.i3.69192: /changesociostatus green
+[13:37:47] CCA.C08-GRID.i3.69192: /changesociostatus red
+[13:37:53] CCA.C08-GRID.i3.69192: /changesociostatus green
+[13:47:18] CCA.C08-GRID.i3.69192: /viewcamera
+[13:51:06] Client "Ollie Garner" connected.
+[13:53:08] CCA.C08-GRID.i3.69192: /viewcamera
+[13:53:31] CCA.C08-GRID.i3.69192: /viewcamera
+[13:54:35] Client "Ollie Garner" spawned in server <STEAM_0:1:52892973> (took 209 seconds).
+[13:54:54] CCA.C08-GRID.i3.69192: /viewcamera
+[13:54:59] CCA.C08-GRID.i3.69192: /viewcamera
+[13:56:27] CCA.C08-GRID.i3.69192: /viewcamera
+[13:56:47] CCA.C08-GRID.i3.69192: /viewcamera
+[13:57:13] CCA.C08-GRID.i3.69192: /viewcamera
+[13:57:31] Ollie Garner<STEAM_0:1:52892973> changed their name to CCA.C14-HELIX.EpU.33698
+[13:57:42] CCA.C08-GRID.i3.69192 teleported to CCA.C14-HELIX.EpU.33698
+[13:57:43] CCA.C08-GRID.i3.69192: !goto epu
+[13:57:57] CCA.C08-GRID.i3.69192: /setsociostatus red
+[13:58:01] CCA.C08-GRID.i3.69192: /setsociostatus red
+[13:58:06] CCA.C14-HELIX.EpU.33698: /dispatch haha
+[13:58:06] CCA.C08-GRID.i3.69192: /changesociostatus red
+[13:58:10] CCA.C08-GRID.i3.69192: /changesociostatus ep
+[13:58:11] CCA.C08-GRID.i3.69192: /changesociostatus er
+[13:58:21] CCA.C08-GRID.i3.69192: /changesociostatus up
+[13:58:23] CCA.C08-GRID.i3.69192: /changesociostatus er
+[13:58:26] CCA.C08-GRID.i3.69192: /changesociostatus eb
+[13:58:28] CCA.C08-GRID.i3.69192: /changesociostatus yellow
+[13:58:30] CCA.C08-GRID.i3.69192: /changesociostatus green
+[14:00:08] CCA.C14-HELIX.EpU.33698<STEAM_0:1:52892973> changed their name to Gordon Feetman
+[14:00:14] CCA.C08-GRID.i3.69192 brought Gordon Feetman
+[14:00:14] CCA.C08-GRID.i3.69192: !bring gordon
+[14:00:39] Gordon Feetman: /apply
+[14:01:41] Gordon Feetman<STEAM_0:1:52892973> changed their name to CCA.C14-HELIX.EpU.33698
+[14:01:57] CCA.C14-HELIX.EpU.33698<STEAM_0:1:52892973> changed their name to Morgan Beck
+[14:02:02] CCA.C08-GRID.i3.69192: /charkick beck
+[14:02:02] Morgan Beck<STEAM_0:1:52892973> changed their name to Ollie Garner
+[14:02:06] Ollie Garner<STEAM_0:1:52892973> changed their name to Gordon Feetman
+[14:02:08] CCA.C08-GRID.i3.69192 brought Gordon Feetman
+[14:02:08] CCA.C08-GRID.i3.69192: !Bring feet
+[14:02:15] CCA.C08-GRID.i3.69192: /viewcamera
+[14:02:19] CCA.C08-GRID.i3.69192: /viewcamera
+[14:02:25] CCA.C08-GRID.i3.69192: /viewcamera
+[14:05:21] CCA.C08-GRID.i3.69192: /viewcamera
+[14:05:26] CCA.C08-GRID.i3.69192 brought Gordon Feetman
+[14:05:26] CCA.C08-GRID.i3.69192: !Bring feet
+[14:05:28] CCA.C08-GRID.i3.69192: /viewcamera
+[14:06:05] CCA.C08-GRID.i3.69192: /viewcamera
+[14:06:21] Client "FB|| light ROOM" connected.
+[14:07:26] Gordon Feetman<STEAM_0:1:52892973> changed their name to CCA.C14-HELIX.EpU.33698
+[14:07:38] CCA.C08-GRID.i3.69192: /viewcamera
+[14:07:44] CCA.C08-GRID.i3.69192: /viewcamera
+[14:07:52] CCA.C08-GRID.i3.69192: /viewcamera
+[14:08:09] Client "FB|| light ROOM" spawned in server <STEAM_0:1:17219621> (took 108 seconds).
+[14:08:33] FB|| light ROOM<STEAM_0:1:17219621> changed their name to CCA.C14-UNION.i2.98240
+[14:08:35] CCA.C14-UNION.i2.98240: // Yo
+[14:09:12] CCA.C14-UNION.i2.98240: // Getting a lagspike after joining is a welcome in this Server.
+[14:09:36] CCA.C08-GRID.i3.69192: !Bring feet
+[14:09:41] CCA.C08-GRID.i3.69192 brought CCA.C14-UNION.i2.98240
+[14:09:41] CCA.C08-GRID.i3.69192: !bring union
+[14:09:48] CCA.C14-UNION.i2.98240: What?
+[14:09:55] CCA.C14-UNION.i2.98240: OH!
+[14:10:02] CCA.C14-UNION.i2.98240: I JUST FUCKING NOTICED I'M STUPID
+[14:10:08] CCA.C14-UNION.i2.98240: THIS IS COOL
+[14:10:25] CCA.C14-UNION.i2.98240: ME LIKEY
+[14:10:56] CCA.C14-UNION.i2.98240: I fucken love the Passive Dispatch
+[14:11:26] CCA.C14-UNION.i2.98240: I'm the only non 6'0+ unit ;-;
+[14:12:25] CCA.C14-UNION.i2.98240: If you add in Xen Aids HELIX is gonna throw a few civies into it.
+[14:12:33] CCA.C14-UNION.i2.98240: And you know it
+[14:12:38] CCA.C14-UNION.i2.98240: It would be scary
+[14:12:40] CCA.C14-HELIX.EpU.33698: That's the plan, Chief.
+[14:12:53] CCA.C14-UNION.i2.98240: I can't see the sociostatus?
+[14:12:57] CCA.C14-HELIX.EpU.33698: Literally was discussing that with Q about rounding up some "random" citizens
+[14:13:01] CCA.C08-GRID.i3.69192: /changesociostatus red
+[14:13:05] CCA.C14-UNION.i2.98240: COOOLLLLLLLLLLLLLLLLL
+[14:13:08] CCA.C08-GRID.i3.69192: /changesociostatus up
+[14:13:11] CCA.C14-HELIX.EpU.33698: Said random citizens are going to immediatly be at least -LP
+[14:13:16] CCA.C08-GRID.i3.69192: /changesociostatus yellow
+[14:13:20] CCA.C08-GRID.i3.69192: /changesociostatus se
+[14:13:29] CCA.C14-UNION.i2.98240: If you think about it, I'm the compliant one in this
+[14:13:29] CCA.C08-GRID.i3.69192: /toggleraise
+[14:13:30] CCA.C08-GRID.i3.69192: /toggleraise
+[14:13:49] CCA.C14-UNION.i2.98240: So I'm just a sociopath who isn't scared of death.
+[14:13:51] CCA.C08-GRID.i3.69192: /viewdata
+[14:13:54] CCA.C08-GRID.i3.69192: /viewcamera
+[14:13:57] CCA.C08-GRID.i3.69192: /viewcamera
+[14:15:09] CCA.C14-UNION.i2.98240: // We need to make the QZ actually scary for civies who have to go into it for Workcycles and shit
+[14:15:23] CCA.C08-GRID.i3.69192: /viewcamera
+[14:15:33] CCA.C14-UNION.i2.98240: /viewobjectives
+[14:16:09] Client "Vexatha" connected.
+[14:16:14] CCA.C08-GRID.i3.69192: /viewcamera
+[14:16:18] CCA.C14-UNION.i2.98240: // Oh fuck, If indeed I'm promoted further I'm gonna lose my better Filters ;-;
+[14:16:28] CCA.C14-UNION.i2.98240: // This makes me sad.
+[14:16:45] CCA.C08-GRID.i3.69192: /viewcamera
+[14:16:49] CCA.C08-GRID.i3.69192: /viewcamera
+[14:17:10] CCA.C14-UNION.i2.98240: // Experimental means cool as fuck so I'm fine with it
+[14:17:45] CCA.C08-GRID.i3.69192: /changesociostatus green
+[14:18:28] CCA.C14-UNION.i2.98240: // Listen, If I'm slowly dying atleast I died to my own filters...Oh wait.
+[14:20:38] CCA.C14-UNION.i2.98240: /actstand
+[14:21:09] CCA.C08-GRID.i3.69192: /viewcamera
+[14:21:12] CCA.C14-UNION.i2.98240: // Imagine not liking UNION as a division
+[14:21:18] CCA.C08-GRID.i3.69192: //GUYS LOOK
+[14:21:24] CCA.C08-GRID.i3.69192: //YOU CAN PISS CAMERAS OFF WITH LEFTMOSUE
+[14:21:27] CCA.C08-GRID.i3.69192: //AND MAKE THEM HAPPY WITH RIGHTMOSEU
+[14:21:43] CCA.C08-GRID.i3.69192 teleported to CCA.C14-HELIX.EpU.33698
+[14:21:43] CCA.C08-GRID.i3.69192: !GOTO HELIX
+[14:21:45] CCA.C14-UNION.i2.98240: // Camera's don't have feelings you fuck
+[14:21:48] CCA.C08-GRID.i3.69192: //lmao
+[14:21:51] CCA.C08-GRID.i3.69192: /viewcamera
+[14:24:27] CCA.C14-UNION.i2.98240: // Comrade would literally fuck the CCA if he was high rank.
+[14:24:53] CCA.C08-GRID.i3.69192: /viewcamera
+[14:25:39] CCA.C14-UNION.i2.98240: // HELIX DvL takes over the CMB and starts experimenting on people.
+[14:26:03] CCA.C14-UNION.i2.98240: // ;-;
+[14:27:36] CCA.C14-UNION.i2.98240: // I remember when HELIX was less fucked in the head ;-;
+[14:27:51] CCA.C08-GRID.i3.69192: /viewcamera
+[14:28:18] CCA.C14-UNION.i2.98240: // 982 is just unconcerned of shit around him now.
+[14:28:41] CCA.C14-UNION.i2.98240: // At this point he's only focusing on people he's dealing with.
+[14:30:00] CCA.C08-GRID.i3.69192: /viewcamera
+[14:30:03] CCA.C14-UNION.i2.98240: /viewcamera
+[14:30:06] CCA.C08-GRID.i3.69192: /viewcamera
+[14:30:16] CCA.C14-UNION.i2.98240: /viewcamera
+[14:30:17] CCA.C14-HELIX.EpU.33698: /viewcamera
+[14:30:18] CCA.C08-GRID.i3.69192: /viewcamera
+[14:30:24] Client "Vexatha" spawned in server <STEAM_0:1:232372551> (took 855 seconds).
+[14:30:36] CCA.C14-UNION.i2.98240: //F
+[14:30:39] CCA.C14-HELIX.EpU.33698<STEAM_0:1:52892973> changed their name to Morgan Beck
+[14:30:42] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> changed their name to Joseph Kimsler
+[14:30:49] Joseph Kimsler<STEAM_0:1:53097688> changed their name to Rodriguo Ouh
+[14:30:55] CCA.C14-UNION.i2.98240: // IC time I guess
+[14:31:17] CCA.C14-UNION.i2.98240: /radio Unit 98240 is 10-8, Current 10-20 is CCA outpost. Status is green. Beginning 10-50.
+[14:31:25] CCA.C14-UNION.i2.98240: /radio Forming PT-Beta.
+[14:32:28] CCA.C14-UNION.i2.98240: // I can't wait for CCA tryouts so we can finally have people in a PT ;-;
+[14:32:30] Vexatha<STEAM_0:1:232372551> changed their name to cotnent
+[14:32:36] cotnent: /content
+[14:32:43] Morgan Beck: // Yo, welcome to the server!
+[14:32:53] cotnent: // getting cotnent
+[14:32:58] Rodriguo Ouh: //Welcome!
+[14:33:00] Morgan Beck: // Just do /content then.
+[14:33:04] cotnent: // done that
+[14:33:06] cotnent: // rejoining
+[14:33:08] Rodriguo Ouh: /plysearch
+[14:33:10] Rodriguo Ouh: /plysearch
+[14:33:11] Dropped "cotnent" from server<STEAM_0:1:232372551>
+[14:33:12] Rodriguo Ouh: /plysearch
+[14:33:15] Rodriguo Ouh: /plysearch
+[14:33:18] Morgan Beck: /charsearch 
+[14:33:27] Rodriguo Ouh: /plysearch
+[14:33:48] Rodriguo Ouh<STEAM_0:1:53097688> changed their name to CCA.C08-GRID.i3.69192
+[14:33:49] CCA.C08-GRID.i3.69192: /viewcamera
+[14:34:05] CCA.C08-GRID.i3.69192: /viewcamera
+[14:34:17] CCA.C14-UNION.i2.98240: // I almost wish the CP hud was similar to the Camera hud
+[14:34:24] Morgan Beck<STEAM_0:1:52892973> spawned model models/props_wasteland/kitchen_fridge001a.mdl
+[14:34:48] CCA.C14-UNION.i2.98240: // I actually want to see the hud ;-;
+[14:34:56] CCA.C14-UNION.i2.98240: // It's really hard to notice.
+[14:35:56] CCA.C14-UNION.i2.98240: // I want drugs just so people can fucking blow themselves up.
+[14:37:03] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> spawned ragdoll models/zombie/poison.mdl
+[14:37:37] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> spawned ragdoll models/zombie/fast.mdl
+[14:38:05] CCA.C14-UNION.i2.98240: // HL2 is a horror game when you look at the Models.
+[14:39:23] CCA.C14-UNION.i2.98240: /radio Unit finalizing 10-50. Sociostatus is green. Standing by.
+[14:39:58] CCA.C14-UNION.i2.98240: /actlean
+[14:41:20] Morgan Beck<STEAM_0:1:52892973> changed their name to OTA.C14-ECHO.OWC.13228
+[14:42:16] CCA.C14-UNION.i2.98240<STEAM_0:1:17219621> changed their name to OTA.C14-ECHO.OWC.58830
+[14:42:47] OTA.C14-ECHO.OWC.58830: /radio Unit is 10-8, 10-20 is Outpost. Updating 10-20 to QZ checkpoint.
+[14:43:05] OTA.C14-ECHO.OWC.13228<STEAM_0:1:52892973> changed their name to CCA.C14-HELIX.EpU.33698
+[14:43:36] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> spawned sent ix_forcefield
+[14:43:40] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> spawned sent ix_forcefield
+[14:43:55] CCA.C14-HELIX.EpU.33698<STEAM_0:1:52892973> spawned sent ix_combinelock
+[14:43:56] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> spawned sent ix_forcefield
+[14:44:01] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> spawned sent ix_forcefield
+[14:44:04] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> spawned sent ix_forcefield
+[14:44:10] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> spawned sent ix_forcefield
+[14:44:32] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> spawned sent ix_forcefield
+[14:44:36] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> spawned sent ix_forcefield
+[14:45:03] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortifictaionpack/camerabase.mdl
+[14:45:05] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortifictaionpack/cbgate02a.mdl
+[14:45:10] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortifictaionpack/cbgate02a.mdl
+[14:45:18] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortifictaionpack/camerabase.mdl
+[14:45:21] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortifictaionpack/cbwallplate.mdl
+[14:45:34] OTA.C14-ECHO.OWC.58830: /radio QZ is clear. Updating 10-20 to Stasis for 10-7.
+[14:46:03] CCA.C08-GRID.i3.69192 set the hp for OTA.C14-ECHO.OWC.58830 to 150
+[14:46:03] CCA.C08-GRID.i3.69192: !hp echo 150
+[14:46:05] CCA.C08-GRID.i3.69192 set the armor for OTA.C14-ECHO.OWC.58830 to 150
+[14:46:05] CCA.C08-GRID.i3.69192: !armor echo 150
+[14:46:06] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortification/combinewallv2.mdl
+[14:46:10] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortification/personalbarricade.mdl
+[14:46:23] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortifictaionpack/camerabase.mdl
+[14:46:26] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortifictaionpack/camerabase.mdl
+[14:46:27] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortifictaionpack/wall01a.mdl
+[14:46:30] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortifictaionpack/camerabase.mdl
+[14:46:33] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortifictaionpack/cbgate02a.mdl
+[14:46:36] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combineinteriorpack/cmbcheckpoint.mdl
+[14:46:38] OTA.C14-ECHO.OWC.58830: // Ollie, You can get back on ECHO. I just wanted to clear the QZ out.
+[14:46:41] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortifictaionpack/wall01a.mdl
+[14:46:45] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortifictaionpack/combinelocker01a.mdl
+[14:46:50] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortifictaionpack/cbwallplate02b.mdl
+[14:46:53] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortifictaionpack/combinelocker01a.mdl
+[14:46:53] OTA.C14-ECHO.OWC.58830: // Still going 10-7 so Eh.
+[14:46:53] Client "Vexatha" connected.
+[14:46:55] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortifictaionpack/pillard01a.mdl
+[14:46:57] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortifictaionpack/pillard01c.mdl
+[14:46:59] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortifictaionpack/pillard02b.mdl
+[14:47:01] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortifictaionpack/pillard01c.mdl
+[14:47:04] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortifictaionpack/plate01a.mdl
+[14:47:10] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortifictaionpack/cbgate01a.mdl
+[14:47:14] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortifictaionpack/camerabase.mdl
+[14:47:16] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortifictaionpack/cbroof.mdl
+[14:47:18] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortifictaionpack/cbwallplate.mdl
+[14:47:22] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortifictaionpack/combinelocker01a.mdl
+[14:47:25] OTA.C14-ECHO.OWC.58830<STEAM_0:1:17219621> changed their name to CCA.C14-UNION.i2.98240
+[14:47:26] CCA.C14-UNION.i2.98240: // Bet
+[14:47:27] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combineinteriorpack/pillard04a.mdl
+[14:47:34] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortifictaionpack/camerabase.mdl
+[14:47:35] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortifictaionpack/cbgate02a.mdl
+[14:47:40] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortifictaionpack/combinelocker01a.mdl
+[14:47:41] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortifictaionpack/plate01a.mdl
+[14:47:45] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortifictaionpack/combinelocker01a.mdl
+[14:48:05] CCA.C14-UNION.i2.98240: // I never announced I was going 10-7, So imma just say I was sitting here in the plaza.
+[14:48:12] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> spawned sent ix_forcefield
+[14:48:15] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> spawned sent ix_forcefield
+[14:48:22] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> spawned sent ix_forcefield
+[14:48:26] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> spawned sent ix_forcefield
+[14:48:29] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> spawned sent ix_forcefield
+[14:48:32] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> spawned sent ix_forcefield
+[14:48:36] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> spawned sent ix_forcefield
+[14:48:40] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> spawned sent ix_forcefield
+[14:48:44] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> spawned sent ix_forcefield
+[14:48:47] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> spawned sent ix_forcefield
+[14:48:55] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> spawned sent ix_forcefield
+[14:49:00] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> spawned sent ix_forcefield
+[14:49:03] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> spawned sent ix_forcefield
+[14:49:08] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> spawned sent ix_forcefield
+[14:49:12] Client "Vexatha" spawned in server <STEAM_0:1:232372551> (took 139 seconds).
+[14:49:16] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> spawned sent ix_forcefield
+[14:49:18] CCA.C14-UNION.i2.98240: // I wanted my UNION to be able to speak German. ;-;
+[14:49:20] CCA.C14-HELIX.EpU.33698<STEAM_0:1:52892973> changed their name to Morgan Beck
+[14:49:27] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortifictaionpack/combinelocker01a.mdl
+[14:49:40] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool nocollideeverything on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:50:10] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool stacker_improved on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:50:10] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortifictaionpack/combinelocker01a.mdl
+[14:50:12] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool stacker_improved on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:50:12] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortifictaionpack/combinelocker01a.mdl
+[14:50:17] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool stacker_improved on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:50:17] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortifictaionpack/combinelocker01a.mdl
+[14:50:20] CCA.C14-UNION.i2.98240: /actlean
+[14:50:21] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool stacker_improved on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:50:21] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortifictaionpack/combinelocker01a.mdl
+[14:50:23] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool stacker_improved on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:50:23] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortifictaionpack/combinelocker01a.mdl
+[14:50:26] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool stacker_improved on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:50:26] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortifictaionpack/combinelocker01a.mdl
+[14:50:50] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:50:54] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:00] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:01] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:01] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:01] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:01] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:01] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:02] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:02] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:02] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:03] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:03] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:05] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:06] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:06] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:06] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:06] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:06] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:07] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:07] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:07] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:11] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:12] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:12] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:12] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:12] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:12] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:12] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:13] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:13] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:13] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:13] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:13] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:13] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:17] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:17] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:17] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:17] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:18] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:18] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:18] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:18] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:18] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:18] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:18] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:19] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:19] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:19] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:19] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:19] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:19] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:20] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:20] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:23] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:24] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:24] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:24] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:24] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:25] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:25] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:25] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:25] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:25] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:25] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:25] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:26] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:28] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:28] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:28] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:28] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:29] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:29] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:29] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:29] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:29] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:29] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:30] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:30] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:30] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:30] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:30] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:30] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:30] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:31] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:31] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:41] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool stacker_improved on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:41] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:44] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool stacker_improved on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:44] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:52] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:53] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:54] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:55] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:55] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:55] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:55] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:55] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:57] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:57] CCA.C14-UNION.i2.98240: // That moment Walter buys large meals for all the other units.
+[14:51:57] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:57] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:57] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:57] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:57] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:58] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:58] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:59] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:51:59] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:52:02] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:52:16] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool stacker_improved on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:52:16] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortifictaionpack/combinelocker01a.mdl
+[14:52:20] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool stacker_improved on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:52:20] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortifictaionpack/combinelocker01a.mdl
+[14:52:22] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool stacker_improved on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:52:22] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortifictaionpack/combinelocker01a.mdl
+[14:52:24] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool stacker_improved on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:52:24] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortifictaionpack/combinelocker01a.mdl
+[14:52:26] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool stacker_improved on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:52:26] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortifictaionpack/combinelocker01a.mdl
+[14:52:40] CCA.C14-UNION.i2.98240: /radio Updating 10-20 to Trainstation for New arrivals.
+[14:52:41] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool stacker_improved on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:52:41] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortifictaionpack/combinelocker01a.mdl
+[14:52:42] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool stacker_improved on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:52:43] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool stacker_improved on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:52:43] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortifictaionpack/combinelocker01a.mdl
+[14:52:43] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool stacker_improved on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:52:43] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortifictaionpack/combinelocker01a.mdl
+[14:52:46] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool stacker_improved on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:52:46] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortifictaionpack/combinelocker01a.mdl
+[14:52:48] Morgan Beck<STEAM_0:1:52892973> changed their name to Jarvis Embers
+[14:52:50] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:52:51] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:52:54] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:52:56] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:52:57] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:52:57] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:52:58] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:52:59] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:53:00] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:53:02] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:53:04] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:53:05] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:53:06] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:53:09] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:53:11] CCA.C14-UNION.i2.98240: // Jarvis is a scary person for Units.
+[14:53:12] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:53:18] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:53:19] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:53:23] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:53:24] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:53:24] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:53:25] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:53:28] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:53:28] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:53:28] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:53:29] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:53:36] Vexatha<STEAM_0:1:232372551> changed their name to James Murdoch
+[14:53:40] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:53:40] James Murdoch: // Test
+[14:53:41] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:53:43] CCA.C14-UNION.i2.98240: // He is like a 18th century knight but a loyalist.
+[14:53:43] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:53:44] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:53:46] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:53:46] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on models/combinefortifictaionpack/combinelocker01a.mdl
+[14:53:51] CCA.C14-UNION.i2.98240: // Yo
+[14:53:58] CCA.C14-UNION.i2.98240: New?
+[14:54:06] James Murdoch: Transfer, from City 08.
+[14:54:16] CCA.C14-UNION.i2.98240: Hm, Show me your CID and apply
+[14:54:16] CCA.C08-GRID.i3.69192<STEAM_0:1:53097688> changed their name to James Albright
+[14:54:34] James Murdoch: /e apply
+[14:54:37] James Murdoch: /apply
+[14:55:00] James Murdoch: /me He'd look around nerviously as he stood at the booth.
+[14:55:03] CCA.C14-UNION.i2.98240: Do you have your CID or were you not involved with the Incident?
+[14:55:09] James Murdoch: Incident?
+[14:55:24] James Murdoch: /me He would look confused at the mention of an incident.
+[14:55:29] CCA.C14-UNION.i2.98240: Are you unaware that City 08 was almost comepletely destroyed?
+[14:55:41] James Murdoch: Oh right, I thought you ment on the way here.
+[14:55:48] CCA.C14-UNION.i2.98240: Hm, I see
+[14:55:56] James Murdoch: Incident is a bit of an understatement.
+[14:56:01] CCA.C14-UNION.i2.98240: Then show me the your coupon.
+[14:56:15] James Murdoch: A standard relocation coupon, just like everyone else.
+[14:56:23] CCA.C14-UNION.i2.98240: I'm aware
+[14:56:32] CCA.C14-UNION.i2.98240: /me Holds out a new CID to the Civie.
+[14:56:39] James Murdoch: /me He'd take it.
+[14:56:46] James Murdoch: Thanks.
+[14:56:47] CCA.C14-UNION.i2.98240: You cna go
+[14:56:52] CCA.C14-UNION.i2.98240: .// can*
+[14:57:18] CCA.C14-UNION.i2.98240: /oldviewdata James
+[14:57:47] James Murdoch: /discord
+[14:58:26] CCA.C14-UNION.i2.98240: // The fuck?
+[14:58:30] CCA.C14-UNION.i2.98240: /oldviewdata james
+[14:58:56] CCA.C14-UNION.i2.98240: // You have a level five Violation and yet your LP is 0?
+[14:59:08] Jarvis Embers: // Hm?
+[14:59:32] James Murdoch: Excuse me.
+[14:59:37] Jarvis Embers: Hm?
+[14:59:39] James Murdoch: Do you know where I can get some food around here?
+[15:00:00] CCA.C14-UNION.i2.98240: // Uh.....the new guy apperently has a level five violation which Imma just say is false.
+[15:00:01] Jarvis Embers: Ah, sorry, I don't. Haven't seen any opened resturaunts for a while here.
+[15:00:10] James Murdoch: Right.
+[15:00:12] CCA.C14-UNION.i2.98240: /oldviewdata James
+[15:00:15] James Murdoch: Alright, thanks for the help anyway.
+[15:00:17] James Murdoch: Stay safe.
+[15:00:20] Jarvis Embers: You too.
+[15:00:24] James Murdoch: // what lol
+[15:00:38] CCA.C14-UNION.i2.98240: // I'm rather confused
+[15:00:46] CCA.C14-UNION.i2.98240: /oldviewdata James
+[15:01:09] CCA.C14-UNION.i2.98240: Civie
+[15:01:24] CCA.C14-UNION.i2.98240: Civie, Do you have a Flat yet?
+[15:01:25] James Murdoch: /me he'd quickly turn around facing the Civil Protection officer that stood behind him.
+[15:01:34] James Murdoch: No.
+[15:01:37] CCA.C14-UNION.i2.98240: Hm
+[15:01:40] CCA.C14-UNION.i2.98240: follow me
+[15:01:53] CCA.C14-UNION.i2.98240: Apply
+[15:01:58] James Murdoch: /apply
+[15:02:05] James Murdoch: Is this the top floor?
+[15:02:06] CCA.C14-UNION.i2.98240: /me takes out a small PDA and begins typing.
+[15:02:08] CCA.C14-UNION.i2.98240: No
+[15:02:11] CCA.C14-UNION.i2.98240: /viewdata James
+[15:02:14] James Murdoch: Think I could get one on the top floor?
+[15:02:23] James Murdoch: /me He'd look out the window.
+[15:02:50] CCA.C14-UNION.i2.98240: You will get what I give you, And this is the one I give you. If you don't like it then don't take a room.
+[15:02:57] CCA.C14-UNION.i2.98240: Simple
+[15:02:57] James Murdoch: Alright, just asking.
+[15:03:00] James Murdoch: /me He'd sigh.
+[15:03:27] CCA.C14-UNION.i2.98240: /me Takes out a small PDA and begins typing (Now that he isn't dealing with conversation)
+[15:03:30] CCA.C14-UNION.i2.98240: /oldviewdata James
+[15:04:01] CCA.C14-UNION.i2.98240: I'm going to ask you a few questions and you'll answer, Do you understand?
+[15:04:10] James Murdoch: Yes.
+[15:04:12] James Murdoch: I understand.
+[15:04:16] CCA.C14-UNION.i2.98240: DOB and blood type?
+[15:04:31] James Murdoch: /looc Whats the year as of now?
+[15:04:52] CCA.C14-UNION.i2.98240: // Ollie, The date is 2002 right?
+[15:04:55] Jarvis Embers: // 2001
+[15:04:57] CCA.C14-UNION.i2.98240: .// I don't know honestly
+[15:04:59] CCA.C14-UNION.i2.98240: // Bet
+[15:05:21] CCA.C14-UNION.i2.98240: .// It's 2001 and since you have to be over 21, Make shit up
+[15:05:23] Jarvis Embers: // Hm, fuck it, Cremator RP time
+[15:05:28] CCA.C14-UNION.i2.98240: // CRM time
+[15:05:36] James Murdoch: I was born 9th of May 1982.
+[15:05:37] Jarvis Embers<STEAM_0:1:52892973> changed their name to CAC.C14-CRM.17000
+[15:05:41] CCA.C14-UNION.i2.98240: Hm, I see.
+[15:05:44] CCA.C14-UNION.i2.98240: Blood type?
+[15:05:55] James Murdoch: And I am O - Negative I believe.
+[15:06:02] James Murdoch: Though my memory is rather fuzzy.
+[15:06:12] James Murdoch: /chardesc
+[15:06:22] CCA.C14-UNION.i2.98240: I see, Then give me a moment. Feel free to roam around your Room.
+[15:06:31] CCA.C14-UNION.i2.98240: /oldviewdata James
+[15:06:34] James Murdoch: Alright, thanks.
+[15:06:57] CCA.C14-UNION.i2.98240: Alright, Your Data is set.
+[15:07:28] CCA.C14-UNION.i2.98240: I'll leave you alone. Don't let me catch you doing anything stupid. Only the smartest of Civies live good lives in this city
+[15:07:34] James Murdoch: Thanks.
+[15:08:21] CCA.C14-UNION.i2.98240: // Imagine being a Cremator
+[15:08:24] James Murdoch: // can i get temp permission to build so i can add a few things to my room? so it looks a tad less like a decrepit shit hole
+[15:09:47] CAC.C14-CRM.17000: // CWU can sell furniture. Albeit currently, we don't have anyone selling furniture yet.
+[15:09:57] CCA.C14-UNION.i2.98240: /radio Unit going 10-7. Moving to Nexus.
+[15:10:09] James Murdoch: // right
+[15:10:12] CCA.C14-UNION.i2.98240: // F, Maybe you can join the CWU and fill that slot ;-;
+[15:10:32] James Murdoch: // becoming a combine IKEA isn't really something I plan on doing as of now
+[15:10:44] CCA.C14-UNION.i2.98240: // fair
+[15:10:46] CAC.C14-CRM.17000: // We had someone sell furniture a while ago, but they stopped due to the map change recently
+[15:11:00] CCA.C14-UNION.i2.98240: // It was Q, And it's kinda fucky not gonna lie
+[15:11:07] CCA.C14-UNION.i2.98240<STEAM_0:1:17219621> changed their name to OTA.C14-ECHO.OWC.58830
+[15:11:26] OTA.C14-ECHO.OWC.58830: /radio Unit is 10-8, 10-20 is Stasis. Updating 10-20 to QZ.
+[15:12:06] James Murdoch: // i have half life 2 ep1 ep2 css and the content yet i still see 1 or 2 errors, what am i missing?
+[15:12:09] James Murdoch: // i even have lost cost
+[15:12:12] James Murdoch: // and deathmatch
+[15:12:16] OTA.C14-ECHO.OWC.58830: // Probably Content
+[15:12:34] James Murdoch: // i have all the content
+[15:12:34] CAC.C14-CRM.17000: // Strange.
+[15:12:38] OTA.C14-ECHO.OWC.58830: // Like you have conflicting Addons I mean, Sorry I wasn't specific.
+[15:12:47] OTA.C14-ECHO.OWC.58830: Civ
+[15:12:49] James Murdoch: // the only addons I have are server addons?
+[15:12:57] James Murdoch: /me He'd look up at the OTA Soldier shaking in fear.
+[15:13:00] James Murdoch: Yes?
+[15:13:02] OTA.C14-ECHO.OWC.58830: Why are you here?
+[15:13:10] OTA.C14-ECHO.OWC.58830: This is a restricted area.
+[15:13:11] James Murdoch: I'm a transfer, I was just looking about.
+[15:13:14] OTA.C14-ECHO.OWC.58830: Hm
+[15:13:22] James Murdoch: I didn't notice.
+[15:13:29] CAC.C14-CRM.17000: // Weird, I have no idea then.
+[15:13:29] James Murdoch: Things were a lot more lax at City 08
+[15:13:44] James Murdoch: I'll be on my way then.
+[15:13:47] OTA.C14-ECHO.OWC.58830: Get out of here, don't come back unless you have a genuine reason
+[15:14:02] James Murdoch: // those half life alyx models kill my game
+[15:14:07] OTA.C14-ECHO.OWC.58830: // F
+[15:14:43] James Murdoch: // tryna get my friend to join but he's addicted to Semi-Serious rp tryna get the XP.
+[15:14:49] James Murdoch: // so annoying
+[15:14:59] CAC.C14-CRM.17000: // F. Impulse I'm guessing?
+[15:15:02] James Murdoch: // yep
+[15:15:29] CAC.C14-CRM.17000: // Ah. Hard to call it RP tbh. I play it every now and again. Being a OTA KING is fun on there, for me at least.
+[15:16:07] James Murdoch: // had some decent RP earlier today, I was rp'ing a Rebel Radio operator managing communications between two outposts.
+[15:16:27] James Murdoch: // got fucking merked by Metagaming CP's at the end though.
+[15:16:33] James Albright: //hell yeah, good rebelRP. oh nvm
+[15:16:34] CAC.C14-CRM.17000: // Eugh. 
+[15:16:38] James Albright: //good rebelRP on your end ;-;
+[15:16:52] OTA.C14-ECHO.OWC.58830: // We're kinda fucked because of Shotcopping ;-;
+[15:16:54] CAC.C14-CRM.17000: // tfw I think I panicked the OTA ECHO
+[15:17:02] CAC.C14-CRM.17000: // Shotcopping kinda died out, I dunno wym.
+[15:17:07] James Murdoch: // they camped the Grizzly Grotto, I called him out his excuse was "He was admiring his beautifal face"
+[15:17:13] OTA.C14-ECHO.OWC.58830: // Bruh
+[15:17:18] CAC.C14-CRM.17000: // Been a  few weeks since we had any incident. Bruh moment.
+[15:17:30] James Murdoch: // maybe i can change that (:
+[15:17:38] OTA.C14-ECHO.OWC.58830: // Please no ;-;
+[15:17:44] James Murdoch: // lol
+[15:17:54] James Murdoch: // is that AI or a person
+[15:17:59] OTA.C14-ECHO.OWC.58830: // Me?
+[15:18:07] James Murdoch: // some guy chilling out a window with a cigarrete
+[15:18:12] James Murdoch: /y Hey!
+[15:18:15] OTA.C14-ECHO.OWC.58830: // Oh thats part of the map
+[15:18:19] OTA.C14-ECHO.OWC.58830: // I think?
+[15:18:29] James Murdoch: // me getting excited thinking i found another citizen
+[15:19:16] OTA.C14-ECHO.OWC.58830: // F, Maybe go talk to the CRM. Are Cremators are kinda social not gonna lie.
+[15:19:29] CAC.C14-CRM.17000: // "social"
+[15:19:34] OTA.C14-ECHO.OWC.58830: // Well not really "talk"
+[15:19:35] James Murdoch: // i appreciate the Combine installed a wheelchair ramp to this building
+[15:19:36] James Albright: //social is a funny word
+[15:19:48] James Albright: //it's like
+[15:19:53] James Albright: //a gaming level of social
+[15:19:53] CAC.C14-CRM.17000: CRM like firetruck
+[15:20:03] James Albright: //which is awkwardly staring until you're told by a superior to stop
+[15:20:10] OTA.C14-ECHO.OWC.58830: // Exactly
+[15:20:26] CAC.C14-CRM.17000: // Vfire makes me feel cozy ngl.
+[15:21:02] OTA.C14-ECHO.OWC.58830: // People are fucking spamming Cursed fun images in "Memes" and it's making me angry
+[15:21:07] OTA.C14-ECHO.OWC.58830: // Gun*
+[15:21:19] OTA.C14-ECHO.OWC.58830: // Sorry, My brain is just not functioning right now.
+[15:21:44] James Murdoch: // why df did you just correct a sentence that had nothing to do with gun lmao
+[15:22:27] OTA.C14-ECHO.OWC.58830: // It meant "Cursed gun images" Not "Cursed fun images"
+[15:22:33] James Murdoch: // oh right lol
+[15:22:43] James Murdoch: // the only funny one was the Yoda Civil Protection one.
+[15:22:58] James Albright: //I gotta head in to work, I'll be ack later. Ollie, you're in charge
+[15:23:04] OTA.C14-ECHO.OWC.58830: // Bet
+[15:23:11] James Albright: //Welcome to the server, James. You sound like a great roleplayer
+[15:23:11] CAC.C14-CRM.17000: // Kk.
+[15:23:16] James Albright: //great to have you
+[15:23:32] James Albright: //alright, see you guys later
+[15:23:32] OTA.C14-ECHO.OWC.58830: /radio Unit going 10-7, Returning to stasis
+[15:23:35] CAC.C14-CRM.17000: // See ya
+[15:23:41] James Murdoch: // Where do I get shit to craft (no meta ofc)
+[15:23:57] OTA.C14-ECHO.OWC.58830: // Uh, LootRP. You'll need Ollie to help out
+[15:24:12] James Albright: //in the meantime until i program in lootable entities, you go up to trashcans and stuff. ollie, the cremator, will have you rolland just give you stuff based on yoru roll until then
+[15:24:27] James Murdoch: // time to start dumpster diving lol
+[15:24:41] CAC.C14-CRM.17000<STEAM_0:1:52892973> changed their name to Morgan Beck
+[15:24:57] OTA.C14-ECHO.OWC.58830: // Bruh, LootRP is fun as fuck ot me
+[15:25:00] Morgan Beck: Nope.
+[15:25:23] OTA.C14-ECHO.OWC.58830<STEAM_0:1:17219621> changed their name to Lorenz Helmschmied
+[15:25:29] Morgan Beck: // local CWU buisness owner leaves his establishment only to see a OTA ECHO and immediatly enter back into the building.
+[15:25:37] Lorenz Helmschmied: // LMAO
+[15:26:03] James Murdoch: // thats life when you live under an opressive regime that frequently execute people on the spot for walking a tad too fast
+[15:26:08] Lorenz Helmschmied: // I just hear a door close and see a small glimpse of you before the door closes.
+[15:26:17] Lorenz Helmschmied: // Kinda gamer
+[15:26:25] Lorenz Helmschmied was killed by npc_zombie_torso
+[15:26:26] Lorenz Helmschmied: // F
+[15:26:40] Lorenz Helmschmied: // Ollie, I just died to zombies ;-; want me to drop my shit?
+[15:26:54] Morgan Beck: // If it's weapons, then yes.
+[15:27:01] Lorenz Helmschmied: // Then come here gamer.
+[15:27:05] Morgan Beck: /looc Bet
+[15:27:14] Morgan Beck: /looc Not a weapon?
+[15:27:24] Morgan Beck: /looc I mean like, actual weapons.
+[15:27:34] Lorenz Helmschmied: .// I can equip it and hit things, Oh like guns and things designed for it?
+[15:27:40] Morgan Beck: /looc Yeah.
+[15:27:47] Morgan Beck: /looc Just big bangs
+[15:27:50] Lorenz Helmschmied: .// bet
+[15:27:55] James Murdoch: /
+[15:28:17] James Murdoch: // time to embrace my inner homeless and start hunting through dumpsters
+[15:28:24] Morgan Beck: // F moment
+[15:28:29] Lorenz Helmschmied: // Bruh, Fuck me of course I forgot to stop closing Forcefields
+[15:28:43] Morgan Beck: // Make sure to tell me before you roll so I can see the roll
+[15:29:13] Lorenz Helmschmied: // Ollie, I did a fucky wucky.
+[15:29:17] Morgan Beck: // What?
+[15:29:29] Morgan Beck: /looc bruh moment
+[15:29:34] Morgan Beck brought Lorenz Helmschmied
+[15:29:34] Morgan Beck: !bring lo
+[15:29:41] Morgan Beck: /looc I ain't getting on CP just to do this, so yee
+[15:29:57] James Murdoch: /me He'd open the lid the bin balancing against the back wall he'd then peer into bin moving clearly worthless items away and look for only things of value
+[15:30:06] Morgan Beck: // Oh yeah, we do the @ system for calling admins.
+[15:30:07] James Murdoch: // ollie bouta do some rolling
+[15:30:12] Morgan Beck: !goto James
+[15:30:20] Morgan Beck teleported to James Murdoch
+[15:30:20] Morgan Beck: !goto Murdoch
+[15:30:26] James Murdoch: /roll
+[15:30:31] Morgan Beck: /looc Do- fuckin hell
+[15:30:33] James Murdoch: /looc I BETTER GET SOME GOOD SHIT FOR THAT
+[15:30:38] Morgan Beck: /adminspawnmenu
+[15:30:41] Lorenz Helmschmied: Ahh, hello. Sir!
+[15:30:52] Lorenz Helmschmied: Is everything alright?
+[15:31:15] Morgan Beck: /it You find a entire container of pills. A scratched off label is on the container, but you can make out the word Percocet.
+[15:31:16] James Murdoch: He'd lift himself out the dumpster taking his wool gloves off and stuffing them into his belt German Officer style, he'd turn around and look at the man talking to him.
+[15:31:27] Lorenz Helmschmied: .// That wasn't a /me lmao.
+[15:31:31] Morgan Beck: /looc F
+[15:31:34] Lorenz Helmschmied: .// You actually said that.
+[15:31:35] James Murdoch: /looc ffs i forgot just pretend it was lol
+[15:31:42] Lorenz Helmschmied: .// Alright, Bet
+[15:31:50] James Murdoch: /looc void what i said
+[15:31:52] James Murdoch: /me He'd lift himself out the dumpster taking his wool gloves off and stuffing them into his belt German Officer style, he'd turn around and look at the man talking to him
+[15:32:00] Lorenz Helmschmied: Hm, I see. You are also attempting to "Fight the power" as one would say.
+[15:32:08] James Murdoch: Haha.
+[15:32:27] Lorenz Helmschmied: Well. If you ever need assistance. I'd be happy to-
+[15:32:33] James Murdoch: // I dont want to apply this how do i put it in my inventory
+[15:32:40] Lorenz Helmschmied: .// Hold e
+[15:32:49] James Murdoch: /looc thank you for the assistance
+[15:32:54] James Murdoch: Yeah I guess.
+[15:33:02] James Murdoch: I'm a transfer from City-08.
+[15:33:13] Lorenz Helmschmied: Well, If you need assistance with "Fighting the power" I would be happy to become....Partners as one would say.
+[15:33:16] James Murdoch: I'm grateful for the Union evacuating me from that Shithole.
+[15:33:25] James Murdoch: Before it blew.
+[15:33:33] James Murdoch: What do you have in mind?>
+[15:33:43] James Murdoch: I wouldn't be so far against the Idea I suppose.
+[15:33:44] Lorenz Helmschmied: I see, Though the Union has also...how do you say.....Enslaved us.
+[15:34:18] Lorenz Helmschmied: Hm, I believe arming ourselves with something more than just are own hands would be the best idea.
+[15:34:23] James Murdoch: I must agree.
+[15:34:27] James Murdoch: What's your name?
+[15:34:43] Lorenz Helmschmied: Well before hand, All I have at the moment is this rather large Wrench.
+[15:35:12] Lorenz Helmschmied: But my name is Lorenz Helmshmied. It's a pleasure to make this "Partnership" with you
+[15:35:23] James Murdoch: I'm James Murdoch.
+[15:35:33] James Murdoch: The feeling is mutual.
+[15:35:47] Lorenz Helmschmied: I'm a rather experienced Engineer so we can arm ourselves rather...Quickly.
+[15:35:55] James Murdoch: /
+[15:36:07] James Murdoch: /looc let me reconigze u real quick
+[15:36:15] Lorenz Helmschmied: With a little work around of course. After we've armed ourselves we may even be able to mug a unit.
+[15:36:25] James Murdoch: That would be ideal.
+[15:36:31] James Murdoch: They are easy targets alone.
+[15:36:39] Lorenz Helmschmied: Now then, Why don't we begin this...Arming.
+[15:36:56] Lorenz Helmschmied: We have plenty of cars and metal to work with.
+[15:36:58] James Murdoch: /looc f3 me please
+[15:37:02] Lorenz Helmschmied: .// I did?
+[15:37:10] James Murdoch: /looc nope your still unkown
+[15:37:35] Lorenz Helmschmied: .// Turn around and look at me again. It might not have saved.
+[15:37:45] James Murdoch: /looc still not saved
+[15:37:47] Lorenz Helmschmied: .// Fuck
+[15:37:52] James Murdoch: /looc just do talking distance i guess
+[15:37:56] James Murdoch: /looc there it is
+[15:38:00] Lorenz Helmschmied: .// Bet
+[15:38:05] James Murdoch: /looc can you see my name?
+[15:38:09] Lorenz Helmschmied: .// ye
+[15:38:17] James Murdoch: Stupid of them to leave all this shit around.
+[15:38:52] James Murdoch: I managed to pick up a full bottles of painkillers from that bin, might be handy.
+[15:39:09] Lorenz Helmschmied: I have a small scrap of Metal on me at the moment. We could get a rock or some wood and create something of a......Shitty axe as one would say.
+[15:39:11] James Murdoch: /me He'd turn slightly raising his arm and pointing at the bin located in the corner.
+[15:39:52] Morgan Beck<STEAM_0:1:52892973> used the tool ledscreen on maps/rp_city14_utopia.bsp
+[15:39:58] Lorenz Helmschmied: Hm, Then we should keep Searching through these dumpsters. I'm aware of how to sharpen most items using the Floor (considering most of it's literal Concrete)
+[15:40:11] James Murdoch: /looc brb
+[15:40:34] Lorenz Helmschmied: .// Bet
+[15:40:41] James Murdoch: /looc back
+[15:40:51] Lorenz Helmschmied: .// This is my second time to ever start a rebel char by the way.
+[15:41:07] James Murdoch: He'd look up hearing the Monotone female voice of the overwatch dispatcher.
+[15:41:12] James Murdoch: /looc FFS
+[15:41:14] Lorenz Helmschmied: .// Lmao
+[15:41:28] James Murdoch: That fucking voice really gets on my nerves.
+[15:42:01] Lorenz Helmschmied: Hm, Yes it does. Purhaps we should move underground. I think I know a way. After we get something of a base going we can start searching for items.
+[15:42:10] James Murdoch: Sounds good to me.
+[15:42:34] Lorenz Helmschmied: they even have a demolished building right near of that has plenty of rebar and concrete to use for weapon building.
+[15:42:39] James Murdoch: I have an apartment on the street corner by the trainstation, we can head there and set up for now.
+[15:42:43] Lorenz Helmschmied: .// Right near us*
+[15:42:55] Lorenz Helmschmied: Alright, Wonderful. 
+[15:43:09] James Murdoch: On my way in I noticed the floorboards were weak, creaking and cracking under the weight of the Civil Protection Officer and I's presence there.
+[15:43:26] James Murdoch: We could easily pry open the floorboards and hide shit there
+[15:43:27] Morgan Beck: // Hm, should I be a pigeon? Awfully tempting... There was some good perch spots in City 8, but this city def has better spots.
+[15:43:35] Lorenz Helmschmied: // Bet
+[15:43:49] Lorenz Helmschmied: I'm aware of a place that most units never go thats still a legal area.
+[15:43:57] Morgan Beck<STEAM_0:1:52892973> changed their name to Pigeon
+[15:43:58] James Murdoch: Lead the way then.
+[15:44:02] Lorenz Helmschmied: Alright!
+[15:44:32] Lorenz Helmschmied: Sorry, I'm rather blind. The other way!
+[15:45:10] Lorenz Helmschmied: In this area. It can be used for now
+[15:45:20] Lorenz Helmschmied: Maybe we can pry this open?
+[15:45:44] Lorenz Helmschmied: // Imagine being a bird.
+[15:45:47] James Murdoch: Yeah, it'd be best if we had some sort of pipe or something of the sorts that we could use.
+[15:45:55] Pigeon: // Imagine not being a Carrier Pigeon
+[15:45:59] James Murdoch: So we could pull it open.
+[15:46:05] James Murdoch: // you ever played BF1
+[15:46:21] Pigeon: // Yeah. Only for a few hours. Game wasn't fun for me tbh
+[15:46:23] Lorenz Helmschmied: Yeah. But if you have a place that you think would be better then lead the way. By the way we also could go into the sewers.
+[15:46:25] James Murdoch: // theres an amazing carrier pigeon section in that during one of the campaigns
+[15:46:32] Pigeon: // Yeah, I know.
+[15:46:39] James Murdoch: Alright, come on then.
+[15:47:41] Lorenz Helmschmied: This is rather homely.
+[15:47:44] James Murdoch: /looc its the next one along lol
+[15:48:03] Lorenz Helmschmied: Hm, Wonderful.
+[15:48:05] Pigeon: // tfw burned apartment has open window and now pigeon is in apartments
+[15:48:10] Lorenz Helmschmied: // Bruh
+[15:48:30] Lorenz Helmschmied: We can use this for when we aren't "Fighting the power" in a since.
+[15:48:30] James Murdoch: I think this will do fine.
+[15:48:37] Lorenz Helmschmied: Yes, It's rather nice
+[15:48:51] Lorenz Helmschmied: .// brb ;-;
+[15:49:16] James Murdoch: /me He'd kneel down look at the floorboards spotting one that looked particularly feeble he'd then place his fingers inbetween the cracks and attempt to pull up a part of the floorboard.
+[15:50:22] James Murdoch: // bruh this ambience really scares me at times
+[15:50:35] James Murdoch: // but that fucking pigeon cooing ruins it
+[15:50:44] Lorenz Helmschmied: .// Back
+[15:51:09] Lorenz Helmschmied: // Well, We want to scare the fuck out of people so I'm happy the ambience is big spooky
+[15:51:33] Lorenz Helmschmied: // Also, Ollie I think we might need you.
+[15:51:39] Pigeon: /looc Hm?
+[15:51:45] James Murdoch: /roll
+[15:51:53] James Murdoch: Ah fuck.
+[15:51:54] Pigeon: /looc Why ya rolling?
+[15:51:56] James Murdoch: You give it a shot.
+[15:51:59] Lorenz Helmschmied: .// He tore a floorboard open appently.
+[15:52:06] Lorenz Helmschmied: .// Apparently*
+[15:52:09] James Murdoch: /looc Lifting up loose floorboard
+[15:52:12] Lorenz Helmschmied: .// Ye
+[15:52:30] James Murdoch: You give it a shot, I got it to budge quite a bit but it didn't pop out.
+[15:52:35] Pigeon: /looc Alrighty.
+[15:52:44] James Murdoch: /looc hang on wahts rollstat?
+[15:52:58] Pigeon: /looc Roll using a stat modifier. Like- give me a sec
+[15:53:23] James Murdoch: /looc I put a good few points into strenght does that mean i get plus points for stuff like this?
+[15:53:34] Lorenz Helmschmied: .// /rollstat str. Do that
+[15:53:56] Lorenz Helmschmied: .// I have ten points in Eng lmao
+[15:53:58] Pigeon: /looc Back
+[15:54:03] Pigeon: /looc Oof.
+[15:54:15] James Murdoch: /rollstat str
+[15:54:22] James Murdoch: /looc was just a test
+[15:54:30] Lorenz Helmschmied: .// Yee
+[15:54:31] James Murdoch: Lorenz, give this a shot.
+[15:54:44] James Murdoch: // WTF
+[15:54:56] James Murdoch: // You become a vort for a second lol
+[15:55:02] Lorenz Helmschmied: /me Kneels down and attempts to tear open the floorboard open completely.
+[15:55:04] Lorenz Helmschmied: /rollstat str
+[15:55:06] Pigeon: /looc Yeah. That's the standard model for anything that needs a pill
+[15:55:31] Lorenz Helmschmied: .// F, I did a bad roll ;-;
+[15:55:32] Pigeon: /it The floorboard is completely resistant to your attempt. You weren't even able to get your fingers underneathe the board.
+[15:55:54] Lorenz Helmschmied: hm, It seems I'm only affective in Engineering.
+[15:55:59] Lorenz Helmschmied: How....Sad
+[15:56:13] Lorenz Helmschmied: Purhaps we should abandon this until later?
+[15:56:26] James Murdoch: Yeah.
+[15:56:30] James Murdoch: Fucking stupid floorboard.
+[15:56:32] Lorenz Helmschmied: I believe scavenging for items would be a better idea.
+[15:56:35] Lorenz Helmschmied: /me Chuckles.
+[15:56:41] Lorenz Helmschmied: Yes, It's rather sad.
+[15:56:44] James Murdoch: /me he'd kick the floorboard out of spite.
+[15:56:57] Pigeon: /it The pigeon was startled by the sudden kick, soon flying away
+[15:57:14] James Murdoch: /me he'd be startled seeing the sudden movement of the pigeon flying awya.
+[15:57:17] James Murdoch: /looc away*
+[15:57:21] James Murdoch: Jesus christ that scared me.
+[15:57:23] Lorenz Helmschmied: Hm, fasinating.
+[15:57:35] James Murdoch: Alright, let's do what you suggested.
+[15:57:35] Lorenz Helmschmied: Yes, It was rather......Startling.
+[15:58:01] James Murdoch: Fucking pigeon.
+[15:58:07] Lorenz Helmschmied: hm, I rather like Pigeons.
+[15:58:26] James Murdoch: /looc the pigegon is our guardian angel
+[15:58:30] Lorenz Helmschmied: .// exaclty
+[15:58:33] Lorenz Helmschmied: .// Exactly*
+[15:58:51] Lorenz Helmschmied: Plently of things to scrap.
+[15:59:15] Lorenz Helmschmied: // Ollie, We need you for a moment.
+[15:59:24] Pigeon: /looc Hm?
+[15:59:34] James Murdoch: /looc pigeon come here for a sec
+[15:59:34] Lorenz Helmschmied: // though alot of this doesn't take Rolling because it's literally right in front of us.
+[15:59:46] Pigeon: /looc What are you lookin for?
+[16:00:01] Pigeon: /looc What are you lookin for?
+[16:00:18] Lorenz Helmschmied: // Ollie, you there?
+[16:00:24] Pigeon: // Yeah, I already am here
+[16:00:25] Lorenz Helmschmied: // Oh, I see
+[16:00:30] Lorenz Helmschmied: // I'll wait
+[16:00:52] James Murdoch: /me He'd look down at the rubble(and shitty looking texture) Noticing pieces of scrap wood and rubble. He'd look through the rubble noticing a rather sharp piece of wood he'd reach down grabbing the piece of wood and pulling it from the rubble
+[16:01:09] Pigeon: /adminspawnmenu
+[16:01:13] James Murdoch: /looc is this a sturdy piece of wood suitable for homocide?
+[16:01:38] Pigeon: /looc Hm, that's the wrong one
+[16:01:39] James Murdoch: /me He'd feel the wood attempting to bend it to feel it's weak points and see if it is a worthy weapon.
+[16:01:43] Pigeon: /looc Give me a second
+[16:01:51] Pigeon: /looc Drop it down, I did the wrong thing
+[16:02:03] Pigeon: /adminspawnmenu
+[16:02:19] James Murdoch: // abusing the shit half life 2 textures to find weapons like
+[16:02:39] Lorenz Helmschmied: // this area is fucking perfect for scavenging lmao
+[16:02:57] Pigeon: /it The piece of wood could potentially be used as a weapon, but it probably wouldn't last long. It was some really aged wood, and the fact it was broken doesn't gurantee its structual intregrity.
+[16:03:10] James Murdoch: /y Hey, I found something!
+[16:03:22] Lorenz Helmschmied: Hm, Allow me to see.
+[16:03:28] James Murdoch: /Me he'd slowly stagger up the rubble careful not to trip and get fucking domed by a piece of rebar.
+[16:04:00] James Murdoch: /me He'd open his hand revealing a Sharp broken piece of wood, as you inspected the wood you'd notice it was aged yet held some structrual intergrity.
+[16:04:14] James Murdoch: A perfect one time use weapon.
+[16:04:23] James Murdoch: Smack a CP over the head with this, grab his shit and run.
+[16:04:49] James Murdoch: /looc i was looking for you pigeon overlord
+[16:05:07] Lorenz Helmschmied: Hm, It is good. But we can do some upgrades to it. Such as use some of this re-bar for something of a......Shiv.
+[16:05:36] Pigeon: /looc Ignore that I am vort for a second
+[16:05:40] Lorenz Helmschmied: Directly using it to hit a man (Especially a Cp) would be rather.....Dangerous. We can not be to hasty when attacking
+[16:05:41] Pigeon: /looc Just gonna F2 y'all
+[16:05:48] Pigeon: /looc There we go
+[16:06:01] Pigeon: // Able to see me in the scoreboard?
+[16:06:14] Lorenz Helmschmied: We must use are brains and create affective weapons. Then mug somebody
+[16:06:21] Lorenz Helmschmied: // yeah?
+[16:06:29] Pigeon: // Neat. Now my desc can actually be seen.
+[16:06:41] Lorenz Helmschmied: // Come to me you cuck.
+[16:07:12] James Murdoch: /me He'd walk over toward Lorenz again being careful not to trip and cause his premature death.
+[16:07:34] Lorenz Helmschmied: /me Slowly attempts to grab the rather mid sized pice of re-Bar near him
+[16:08:14] James Murdoch: /me he'd help him pull it out putting all his might into pulling the rebar.
+[16:08:25] Pigeon: // Wait, you want me to head over OOC?
+[16:08:26] James Murdoch: /looc ollie are you here?
+[16:08:30] Lorenz Helmschmied: // Yeah
+[16:08:36] Pigeon: // Shit, my bad
+[16:08:40] Pigeon: /looc Eh?
+[16:08:44] Lorenz Helmschmied: // We're doing scavenging for actual items that would be used for combat.
+[16:08:46] Lorenz Helmschmied: /me Slowly attempts to grab the rather mid sized pice of re-Bar near him
+[16:09:05] Lorenz Helmschmied: .// this piece of re-bar in front of me
+[16:09:10] James Murdoch: /me he'd step in assisting Lorenz pull the rebar putting all his might into pulling it from the base.
+[16:09:13] Pigeon: /looc roll Strength since y'know, it do be under some rubble.
+[16:09:20] Lorenz Helmschmied: /rollstat str
+[16:09:22] James Murdoch: /rollstat str
+[16:09:25] Lorenz Helmschmied: .// bet
+[16:09:36] Pigeon: /it The rebar comes out pretty nicely.
+[16:09:39] Pigeon: /adminspawnmenu
+[16:09:59] Pigeon: /looc Let me physgun this
+[16:09:59] James Murdoch: /looc Pulling aged wooden floorboards? Not a chance pulling out steel from several pounds of rubble yes easily
+[16:10:06] Lorenz Helmschmied: .// Lmao
+[16:10:16] Pigeon: /looc And that's why I love rolls tbh
+[16:10:29] James Murdoch: /looc the pigeon works in mysterous ways
+[16:10:31] Pigeon: /chargiveflag Pigeon p
+[16:10:42] Pigeon: // pigeon time
+[16:10:43] James Murdoch: /looc petition for the resistance to not use the lambda instead the pigeon as their logo
+[16:10:52] Lorenz Helmschmied: Hm, Alright. This could be used for something. Lets go loot some Dumpsters or something for some extra items. Hopefully something like a blowtorch would be ideal.
+[16:10:56] James Murdoch: This is perfect.
+[16:11:02] Pigeon: // I am happy the inside of cars is physical
+[16:11:06] Lorenz Helmschmied: I really don't want to make a Blowtorch with shitty parts
+[16:11:17] James Murdoch: Hey!
+[16:11:23] James Murdoch: You're an engineer right?
+[16:11:25] Lorenz Helmschmied: This is a entrance into the sewers.
+[16:11:26] Lorenz Helmschmied: Yeah
+[16:11:33] James Murdoch: Surely we could scrap some of this wire.
+[16:11:40] James Murdoch: Use it for something good.
+[16:12:01] Lorenz Helmschmied: Hm, I think getting some rubber gloves would be ideal before touching something like that
+[16:12:03] James Murdoch: He'd turn looking at the pigeon making sure not to startle it.
+[16:12:11] Lorenz Helmschmied: .// You said that lmao
+[16:12:19] James Murdoch: /looc for fuck sake
+[16:12:22] Pigeon: /looc F
+[16:12:26] James Murdoch: True.
+[16:12:29] Lorenz Helmschmied: .// Lmao, you should get better at /me's
+[16:12:35] Lorenz Helmschmied: .// No problem though
+[16:12:41] James Murdoch: /looc my /me's are fine remebering to do the /me at the start is the issue
+[16:12:49] Lorenz Helmschmied: .// Yeah, exactly
+[16:12:50] James Murdoch: Alright let's go.
+[16:12:54] Lorenz Helmschmied: yep!
+[16:13:30] Lorenz Helmschmied: Hm.
+[16:13:36] James Murdoch: Let's check out this dumpster and crate.
+[16:13:41] Lorenz Helmschmied: /me Slowly begins taking out his wrench.
+[16:13:48] Lorenz Helmschmied: Hey, This bird has a letter on it
+[16:13:53] Pigeon: /it The Pigeon pecks at the radio for a few moments
+[16:13:58] James Murdoch: Shh.
+[16:14:02] James Murdoch: He'd slowly creep forward.
+[16:14:06] James Murdoch: I'll grab it.
+[16:14:09] Pigeon: /looc Roll agility
+[16:14:10] James Murdoch: /me He'd say slowly.
+[16:14:29] James Murdoch: He'd quickly leap forward attempting to put his hands around the pigeon hoping to keep it under control.
+[16:14:32] James Murdoch: /rollstats agt
+[16:14:33] Lorenz Helmschmied: .// /rollstat agi, If you do a bad roll your fucked.
+[16:14:38] James Murdoch: /rollstats agi
+[16:14:43] James Murdoch: /rollstats agi
+[16:14:47] James Murdoch: /rollstat agi
+[16:14:54] Pigeon: /rollstat agi
+[16:14:56] Lorenz Helmschmied: .// pretty gamer roll
+[16:14:57] Pigeon: /looc bruh
+[16:15:00] James Murdoch: /LOOC PRAISE THE ROLL GOD
+[16:15:18] James Murdoch: I got it!
+[16:15:26] Pigeon: /it The pigeon was capture easily, it struggle a bit, but no where near as much as a normal pigeon did.
+[16:15:32] James Murdoch: /me He'd say as he grabbed the pigen grabbing it by the torso.
+[16:15:55] Lorenz Helmschmied: Take the letter off of it and let it go
+[16:16:00] James Murdoch: /me He'd move his hands up taking the feathers with it revealing the pigons feet and the note strung to it's feet.
+[16:16:04] James Murdoch: Grab the letter.
+[16:16:23] Pigeon: /it The letter came off easily.
+[16:16:23] Lorenz Helmschmied: /me Grabs the letter, Then pulls it directly off of the pigeons foot.
+[16:16:28] Lorenz Helmschmied: .// Bet
+[16:16:39] Lorenz Helmschmied: /me Begins reading the letter.
+[16:16:52] James Murdoch: Read the letter first incase it involves the pigeon.
+[16:17:00] Pigeon: /looc I'll PM the letter's contents
+[16:17:02] Lorenz Helmschmied: Alright. Sure.
+[16:17:07] Pigeon: /pm Loren Test
+[16:17:10] James Murdoch: Here show me the letter and what it says.
+[16:17:11] Lorenz Helmschmied: /reply yo
+[16:17:24] James Murdoch: He'd move to behind the shoulder of the man and He'd squint is eyes and read the letter.
+[16:17:40] James Murdoch: /looc for fuck sake
+[16:17:51] Lorenz Helmschmied: .// Lmao
+[16:18:23] James Murdoch: /me he'd tuck the pigon under his arm keeping one hand on it with a firm grasp.
+[16:18:34] Pigeon: /looc shit, lemme make it a /it then
+[16:18:44] Lorenz Helmschmied: .// Bruh, Is this our new pet pigeon.
+[16:19:02] James Murdoch: /looc when the combine kill all your pets so you make friends with a wild animal
+[16:19:08] Lorenz Helmschmied: .// I remember that time I smashed somebodies pet pigeon.
+[16:19:21] Lorenz Helmschmied: .// gamer times
+[16:19:40] James Murdoch: /looc that was definatly your plan
+[16:19:55] Lorenz Helmschmied: .// Maybe, Maybe not
+[16:19:58] James Murdoch: /looc until i grabbed it
+[16:20:04] Pigeon: /it The letter read "I'm sending out to hopefully contact anyone. Rather a risk on my side, so I won't give info. Hopefully you aren't CCA, but I could give less of a shit at this point. After hearing what happened to City 08, I don't plan on returning.-
+[16:20:07] Pigeon: /looc gotta contiune.
+[16:20:10] Pigeon: /looc big letter
+[16:21:27] Pigeon: /it - So, I might as well scout new areas. I'm tired of eating alien shit either way. And the antlions are a pain alone. I don't know if I'll make it to whereever this letter lands, but try to keep the pigeon safe, won't ya? Send the pigeon out if you act-
+[16:21:47] Lorenz Helmschmied: .// This is such a long ass letter lmao
+[16:21:47] James Murdoch: /looc we have just gotten ourselves into some deep shit
+[16:21:58] Lorenz Helmschmied: .// And we're very much unprepared.
+[16:22:11] James Murdoch: /looc armed with a flimsy piece of wood, some rebar, and a fucking wrench
+[16:22:35] Lorenz Helmschmied: .// Eh, we can arm ourselves pretty well if we're smart about this.
+[16:22:46] Lorenz Helmschmied: .// So alot of RP engineering.
+[16:22:47] Pigeon: /it -tually want to see about giving me your location. At least... the city. I can make my way. Hell, I got through the damn ocean. Just write a letter and attatch to the left leg. I'll be spending a few weeks at a undisclosed location, all you need to sa-
+[16:23:16] James Murdoch: /looc if i roll a 100 while dumpster diving you are legally required to give me gordon freemans crowbar
+[16:23:26] Pigeon: /it -say to have the pigeon send it, is "AEX"." The letter ends with a small signature, which you can make out as Watcher-1
+[16:23:41] James Murdoch: Lucky I didn't let it go straight way isn't it?
+[16:23:51] Lorenz Helmschmied: Hm, Who the fuck is Watcher-1?
+[16:23:56] James Murdoch: No clue.
+[16:24:03] James Murdoch: Let's take it back to our apartment quickly.
+[16:24:08] Lorenz Helmschmied: Alright, Sure
+[16:24:11] James Murdoch: Never knoew who might be listening.
+[16:25:02] James Murdoch: /me He'd close the door and lock it.
+[16:25:16] Lorenz Helmschmied: Ugh, Fuck. I guess you make the letter to send back?
+[16:25:16] James Murdoch: /me He'd make sure the window is fully closed.
+[16:25:32] James Murdoch: /me He'd make sure there is no cracks the pigeon could sneak through.
+[16:25:41] James Murdoch: /me He'd let the pigeon go.
+[16:25:52] James Murdoch: I suppose.
+[16:26:05] Lorenz Helmschmied: Or should we get a actaul base in the sewers. If this guy has a name like Watcher-1 I doubt he can get into the city.
+[16:26:17] Pigeon: /it The pigeon quietly just lands on the ground, before just looking around, before finding its place in the apartment. The sink.
+[16:26:30] Lorenz Helmschmied: The bird is in the sink.
+[16:26:32] Lorenz Helmschmied: /me chuckles
+[16:26:33] James Murdoch: I'm going to go on a limb here and say that his real name isn't actually Watcher 1
+[16:26:39] James Murdoch: /me He'd turn and look
+[16:26:39] Lorenz Helmschmied: I'm aware.
+[16:26:43] James Murdoch: /me He'd laugh as well.
+[16:27:22] Lorenz Helmschmied: Ugh, I know a way into the sewers, If we can move to the sewers safely. And get a base going. That Watcher guy might be able to help us out.
+[16:28:07] James Murdoch: We need to hide our weapons first.
+[16:28:12] Pigeon: /it The pigeon quietly shuffled into a corner, before beginning to rest.
+[16:28:19] James Murdoch: Never know when Civil Protection is going to kick down our door.
+[16:28:28] James Murdoch: Or put us up against the wall and search us.
+[16:28:44] Lorenz Helmschmied: Yeah. We should actually move fast instead of sitting here in the open with contraband on us
+[16:29:01] James Murdoch: /me he'd turn looking at the pigeon.
+[16:29:08] Lorenz Helmschmied: It would be better. If I'm not mistaken I know a spot that isn't used by anybody
+[16:29:17] James Murdoch: /me he'd slowly reach out his hand stroking the pigeons back.
+[16:29:33] James Murdoch: /looc gotta go in 30 minutes
+[16:29:33] Pigeon: /it The pigeon cooed lightly. It wasn't new to the human touch. 
+[16:29:54] Lorenz Helmschmied: Hm. The birds name is AEX. Rather odd name don't you think. Eh whatever we should get moving.
+[16:30:08] James Murdoch: I was thinking we give it a slightly more normal name.
+[16:30:18] James Murdoch: He'd grab the pigeon slowly making sure not to spook it.
+[16:30:28] Lorenz Helmschmied: Well, We aren't its owner so it's not are place.
+[16:30:36] Pigeon: /it Upon hearing the word, the bird immediatly perked up and almost began to fly, however the grab stoppped it.
+[16:30:50] James Murdoch: It looks like that's it's trigger word.
+[16:30:54] Lorenz Helmschmied: Alright, Seems it's rather trained
+[16:30:59] James Murdoch: So let's not say that unless we are sending it on a mission.
+[16:31:04] Lorenz Helmschmied: Alright
+[16:31:45] James Murdoch: // i like the noise pigeons make
+[16:32:07] James Murdoch: /me He'd slowly climb down making sure not to drop the pigeon or spook it
+[16:32:09] Lorenz Helmschmied: Anything wrong?
+[16:32:23] James Murdoch: /me He'd close the hatch behind him.
+[16:32:35] Lorenz Helmschmied: Alright, Lets move
+[16:32:42] James Murdoch: /looc you keep becoming a vort lmao
+[16:32:51] James Murdoch: I fucking hate rats.
+[16:32:54] Lorenz Helmschmied: Me too
+[16:33:02] James Murdoch: What the fuck is that.
+[16:33:09] Lorenz Helmschmied: oh yeah, I can guess the code honestly
+[16:33:13] James Murdoch: No no.
+[16:33:17] James Murdoch: Do you hear that?
+[16:33:20] Lorenz Helmschmied: Also it says the code on the ri-
+[16:33:28] Lorenz Helmschmied: Sounds like water to me.
+[16:33:28] James Murdoch: It's like screaming.
+[16:33:34] James Murdoch: That's not fucking water.
+[16:33:44] James Murdoch: That sounds like screams of agony.
+[16:33:46] Lorenz Helmschmied: I'll have this ready, It's not a real weapon but it can work
+[16:33:51] James Murdoch: Fuck sake man.
+[16:33:54] James Murdoch: I don't like this.
+[16:33:59] Lorenz Helmschmied: 1,3,7,*
+[16:34:00] Lorenz Helmschmied: Hm
+[16:34:12] Pigeon: /looc If y'all gonna go in there, I'll be noclippin so as to not confused something
+[16:34:18] Lorenz Helmschmied: .// Bet
+[16:34:21] Pigeon: /looc I'll be following closely tho
+[16:34:26] Lorenz Helmschmied: Hm?
+[16:34:29] Lorenz Helmschmied: Odd
+[16:34:33] James Murdoch: You might need to guess the code
+[16:34:40] Lorenz Helmschmied: Alright, Sure
+[16:34:48] James Murdoch: 137 then go through all the numericals.
+[16:34:53] Lorenz Helmschmied: I'm trying
+[16:35:10] Lorenz Helmschmied: Hm?
+[16:35:17] James Murdoch: Let me try.
+[16:35:20] Lorenz Helmschmied: Sure
+[16:35:34] Lorenz Helmschmied: Let me go check the other side of the room
+[16:35:49] James Murdoch: /looc how do we do this code
+[16:35:50] Lorenz Helmschmied: /y HEY
+[16:35:52] James Murdoch: /looc its so gltichy
+[16:35:56] Lorenz Helmschmied: /y Come here
+[16:35:59] James Murdoch: /y Yeah?
+[16:36:10] James Murdoch: It's perfect.
+[16:36:11] Lorenz Helmschmied: theres light coming from that wall
+[16:36:15] James Murdoch: Oh yeah.
+[16:36:20] Lorenz Helmschmied: Well fuck
+[16:36:28] Lorenz Helmschmied: Rather nice
+[16:36:50] Lorenz Helmschmied: want to set up here and help any poor bastard who decides to come down here?
+[16:36:51] James Murdoch: I reckon we live the contents of that door for later this makes the perfect base.
+[16:36:58] Lorenz Helmschmied: Alright.
+[16:37:07] Lorenz Helmschmied: Well, Atleast for now this is good
+[16:37:10] James Murdoch: Our weapon cache and the pigeon can be kept behind that door.
+[16:37:23] Lorenz Helmschmied: Maybe we can grab some furniture.
+[16:37:30] Lorenz Helmschmied: Make it a little more...Homely
+[16:37:35] James Murdoch: Yeah.
+[16:37:38] James Murdoch: Sounds like a plan.
+[16:38:06] Lorenz Helmschmied: Hm, Alright. Well you can write the letter if you want. I'm not good with suck things
+[16:38:16] Lorenz Helmschmied: .// Such*
+[16:38:27] James Murdoch: Okay got it.
+[16:38:40] Lorenz Helmschmied: Well, I'm gonna go to bed. I'm tired as hell my friend.
+[16:38:49] Lorenz Helmschmied: /me Holds out his left hand for a handshake.
+[16:38:59] Lorenz Helmschmied: Nice to meet you. It's a pleasure
+[16:39:06] James Murdoch: /me he'd put out his right and shake his hand.
+[16:39:09] James Murdoch: Same with you.
+[16:39:13] James Murdoch: Goodluck.
+[16:39:18] James Murdoch: I'll be up a bit longer.
+[16:39:23] Lorenz Helmschmied: Alright, Imma go to bed. Alright.
+[16:39:23] James Murdoch: Need to write this letter.
+[16:39:31] Lorenz Helmschmied: // Switching to CCA
+[16:39:36] Lorenz Helmschmied<STEAM_0:1:17219621> changed their name to CCA.C14-UNION.i2.98240
+[16:39:37] James Murdoch: I'll be quiet I wont disturb you.
+[16:39:39] CCA.C14-UNION.i2.98240: // because fuck it
+[16:39:52] CCA.C14-UNION.i2.98240<STEAM_0:1:17219621> changed their name to OTA.C14-ECHO.OWC.58830
+[16:39:59] James Murdoch: /looc is it possible to do a sit animation?>
+[16:40:07] Pigeon: /looc No, not really
+[16:40:14] OTA.C14-ECHO.OWC.58830: /radio Unit is 10-8, Status is green. 10-20...Stasis. Updating 10-20 to QZ.
+[16:40:17] James Murdoch: Alright.
+[16:40:18] Pigeon: /looc Sadly the civi animations aren't rigged to PM
+[16:40:25] James Murdoch: So how should I start this.
+[16:40:28] OTA.C14-ECHO.OWC.58830: // that was some nice RebelRp. We're not massive edge like most people
+[16:40:40] OTA.C14-ECHO.OWC.58830: // Or some people more or less
+[16:40:42] James Murdoch: To whom it may concern? Or To Watcher 1.
+[16:40:47] OTA.C14-ECHO.OWC.58830: // Not most
+[16:40:52] Pigeon: // Yee, and I need to find a way for Watcher 1 to actually get to City 14 from fucking Japan.
+[16:40:53] James Murdoch: /roll
+[16:40:59] Pigeon: /looc Why roll?
+[16:41:12] James Murdoch: /looc above 50 To whom it may concern below 50 To Watcher 1
+[16:41:22] Pigeon: // Japan to Russia speedrun bois
+[16:41:23] James Murdoch: /looc I like leaving it to chance lol
+[16:41:25] OTA.C14-ECHO.OWC.58830: // Lmao, watcher 1 was watcher four at one point right?
+[16:41:26] Pigeon: /looc Ah.
+[16:41:37] James Murdoch: He'd beging writing.
+[16:41:43] James Murdoch: /me He'd begin writing.
+[16:41:59] James Murdoch: /me He'd jot down on a rough piece of paper, "To Watcher-1"
+[16:42:03] James Murdoch: A solid start.
+[16:42:04] Pigeon: // Yee. He got appointed to leader after the Watchers got fucked due to the actions of a rebel group that didn't understand action consequences.
+[16:42:32] OTA.C14-ECHO.OWC.58830: // Yeah, I remember when I spoke with him a few times as Ethan (Still don't regret what I did with Ethan)
+[16:42:32] Pigeon: // Still anti-citizen one either way, so yeah. That's fun!
+[16:42:57] Pigeon: /looc Gonna go grab food. Feel free to contiune the letter.
+[16:43:38] James Murdoch: /me "This is James Murdoch of City 14, previously City 08. We have recived your message and are delighted to say that your carrier pigon is in safe hands and unharmed, we caught him walking about on the floor of the city. Lucky we caught him and not Civi-
+[16:43:56] Client "SĤÕÔŤÊŘ" connected.
+[16:44:12] OTA.C14-ECHO.OWC.58830: // Me like BIG OOGA BOOGA ECHO MAN
+[16:44:55] Pigeon: /looc Back
+[16:45:11] James Murdoch: /me "Civil Protection, we are worried for our saftey as the Combine Presence in City 14 has slowly increased. Do you have any information you can give us? We need anything we can get we are currently equiped with a rebar pipe and a wrench between me and m-
+[16:45:17] Client "Painevan" connected.
+[16:45:26] OTA.C14-ECHO.OWC.58830: // We have some people joining
+[16:45:28] OTA.C14-ECHO.OWC.58830: // Neat
+[16:45:41] Pigeon: // Nice
+[16:46:40] James Murdoch: /me "My friend, So please when you reply please give us as much info as you can. Also, is it safe outside the designated cities? Are there any large groups? What is the combine presence like where you are?
+[16:47:10] Client "Painevan" spawned in server <STEAM_0:0:68118061> (took 113 seconds).
+[16:47:38] James Murdoch: /me He'd sign the letter under another name to confuse Civil Protection if this letter were to get into the wrong hands
+[16:47:44] James Murdoch: Well.
+[16:48:12] James Murdoch: He'd tightly tie the letter around the left leg of the pigeon.
+[16:48:30] Pigeon: /it The pigeon didn't struggle at all, contiuning to just vibe.
+[16:48:55] James Murdoch: He'd slowly pick up the pigeon once again.
+[16:49:17] James Murdoch: He'd open the top secret stealth door
+[16:49:42] James Murdoch: He'd climb up slowly
+[16:49:50] James Murdoch: He'd open the hatch.
+[16:49:58] James Murdoch: He'd close it then move the crates back on top.
+[16:50:17] Pigeon: /looc You can right click with hands to pick it up
+[16:50:26] Pigeon: /looc R to drop
+[16:50:33] James Murdoch: /me He'd place it down.
+[16:50:34] OTA.C14-ECHO.OWC.58830: /radio Unit going 10-7.
+[16:51:05] James Murdoch: /me he'd grab the pigeon putting it high up the air and saying the name that the letter had given us hoping to trigger the Pigeon into flight.
+[16:51:27] Pigeon: /it The pigeon soon quickly flew in a line. It knew where it was going. It soon disappeared into the skyline
+[16:51:37] James Murdoch: /me He'd wave the pigeon goodbye
+[16:51:41] James Murdoch: // goodbye my pigeon friend
+[16:51:42] Pigeon: // 11/10 Pigeon RP
+[16:51:51] OTA.C14-ECHO.OWC.58830: // PigeonRP is gamer
+[16:51:54] Pigeon: // I'll give it a few IRL days before a response, so look foward to that!
+[16:51:55] OTA.C14-ECHO.OWC.58830<STEAM_0:1:17219621> changed their name to CCA.C14-UNION.i2.98240
+[16:52:02] CCA.C14-UNION.i2.98240: // bet
+[16:52:03] Pigeon<STEAM_0:1:52892973> changed their name to Morgan Beck
+[16:52:29] CCA.C14-UNION.i2.98240: /radio Unit is 10-8, Current 10-20....Plaza. Status is green. beginning 10-50. Forming PT-Beta.
+[16:52:54] James Murdoch: Excuse me,
+[16:52:56] CCA.C14-UNION.i2.98240: hm?
+[16:53:04] James Murdoch: /me He'd stop infront of the CP talking to him.
+[16:53:18] Client "Captain Price" connected.
+[16:53:21] James Murdoch: Do you have any quick cleanup tasks I can do?
+[16:53:25] CCA.C14-UNION.i2.98240: Hm
+[16:53:26] James Murdoch: I want to do my part you know.
+[16:53:40] CCA.C14-UNION.i2.98240: Wait one moment. I think I have some work I can give you
+[16:53:47] Morgan Beck: // I need Q to actually give me a vendor so I can make my pricelist and start selling food again...
+[16:53:52] CCA.C14-UNION.i2.98240: // F
+[16:54:00] Client "SĤÕÔŤÊŘ" spawned in server <STEAM_0:0:13234094> (took 604 seconds).
+[16:54:05] Morgan Beck: // Baltic is so cozy ngl
+[16:54:06] CCA.C14-UNION.i2.98240: // Rp'ing with Morgan is a very gamer thing
+[16:54:17] CCA.C14-UNION.i2.98240: // I like the Bar you have now
+[16:54:33] Dropped "SĤÕÔŤÊŘ" from server<STEAM_0:0:13234094>
+[16:54:38] Morgan Beck: // Yee. The backroom can actually let me do some neat things. I plan on trying to figure out a gambling system to gamble tokens
+[16:55:01] Morgan Beck: // Right now the pool table is just for decoration and passiveRP sadly
+[16:55:03] CCA.C14-UNION.i2.98240: /me Slams down a large Bucket full of Water and cleaning solutions. The bucket has a rag tied to it.
+[16:55:19] CCA.C14-UNION.i2.98240: Clean the walls and floors. Then come back to the Nexus Gate.
+[16:55:40] CCA.C14-UNION.i2.98240: // brb, Fuck
+[16:55:43] Morgan Beck: // F
+[16:55:45] CCA.C14-UNION.i2.98240<STEAM_0:1:17219621> changed their name to Gordo Kin
+[16:56:25] Morgan Beck: // tfw it's only a matter of time before a bar fight breaks out
+[16:57:43] James Murdoch: /me he'd place the water down putting the mop into the bucket and swishing and swooshing it around, he'd take the map out and start scrubbing the pavement, he'd then turn looking at the wall. He'd lift the mop up scrubbing it quickly and hardly 
+[16:58:07] James Murdoch: /me He'd return to the bucket returning the mop in and getting the dirt off.
+[16:58:34] James Murdoch: /me He'd move a bit further down the street mopping up a bit further down.
+[16:59:32] James Murdoch: /me as he put the bucket down a bit of the water splashed onto the pavement making it wet.
+[16:59:41] James Murdoch: He'd grab the bucket up and put the mop in.
+[16:59:49] James Murdoch: /me he'd walk over to the nexus door.
+[17:00:05] James Murdoch: // you back yet?
+[17:01:36] Morgan Beck<STEAM_0:1:52892973> spawned NPC npc_fastzombie
+[17:01:42] Painevan<STEAM_0:0:68118061> changed their name to Karl Von Habsburg
+[17:01:43] Morgan Beck<STEAM_0:1:52892973> spawned NPC npc_headcrab
+[17:01:44] Morgan Beck<STEAM_0:1:52892973> spawned NPC npc_headcrab
+[17:01:49] Morgan Beck<STEAM_0:1:52892973> spawned NPC npc_headcrab
+[17:01:50] Morgan Beck<STEAM_0:1:52892973> spawned NPC npc_headcrab
+[17:01:54] Karl Von Habsburg<STEAM_0:0:68118061> changed their name to CCA.C08-HELIX.i5.50299
+[17:01:58] Morgan Beck<STEAM_0:1:52892973> spawned NPC npc_zombie
+[17:02:02] Morgan Beck<STEAM_0:1:52892973> spawned NPC npc_zombie_torso
+[17:02:03] Morgan Beck<STEAM_0:1:52892973> spawned NPC npc_zombie
+[17:02:11] Morgan Beck<STEAM_0:1:52892973> spawned NPC npc_zombie
+[17:02:14] Morgan Beck<STEAM_0:1:52892973> spawned NPC npc_zombie
+[17:02:15] Morgan Beck<STEAM_0:1:52892973> spawned NPC npc_zombie_torso
+[17:02:16] Morgan Beck<STEAM_0:1:52892973> spawned NPC npc_headcrab
+[17:02:19] James Murdoch: Hey.
+[17:02:19] Morgan Beck<STEAM_0:1:52892973> spawned NPC npc_headcrab
+[17:02:24] James Murdoch: Excuse me
+[17:02:28] Morgan Beck<STEAM_0:1:52892973> spawned NPC npc_headcrab_black
+[17:02:28] CCA.C08-HELIX.i5.50299: What?
+[17:02:31] Morgan Beck<STEAM_0:1:52892973> spawned NPC npc_headcrab_black
+[17:02:32] James Murdoch: I just finished up some work for another CP.
+[17:02:36] James Murdoch: But he isn't back yet.
+[17:02:37] Morgan Beck<STEAM_0:1:52892973> spawned NPC npc_poisonzombie
+[17:02:40] CCA.C08-HELIX.i5.50299: Alright
+[17:02:42] Morgan Beck<STEAM_0:1:52892973> spawned NPC npc_zombie
+[17:02:43] James Murdoch: /me He'd show the mop and bucket in his hand.
+[17:02:44] Morgan Beck<STEAM_0:1:52892973> spawned NPC npc_zombie_torso
+[17:02:50] Morgan Beck<STEAM_0:1:52892973> spawned NPC npc_fastzombie
+[17:02:58] CCA.C08-HELIX.i5.50299: Okay.
+[17:03:00] CCA.C08-HELIX.i5.50299: Em
+[17:03:07] CCA.C08-HELIX.i5.50299: What did you do?
+[17:03:26] James Murdoch: I just cleaned up the wall and pavement.
+[17:03:35] CCA.C08-HELIX.i5.50299: Ah alright
+[17:03:55] CCA.C08-HELIX.i5.50299: Em I'll go check if he is in the Nexus, if he isn't I'll just give you an LP.
+[17:04:06] Morgan Beck<STEAM_0:1:52892973> changed their name to Jarvis Embers
+[17:04:33] Jarvis Embers<STEAM_0:1:52892973> changed their name to Morgan Beck
+[17:04:51] CCA.C08-HELIX.i5.50299: Alright well I think they went off duty.
+[17:04:59] CCA.C08-HELIX.i5.50299: Apply
+[17:05:02] James Murdoch: /apply
+[17:05:06] Gordo Kin: // back, Sorryu
+[17:05:09] Gordo Kin: // Sorry*
+[17:05:10] CCA.C08-HELIX.i5.50299: /me takes out a small PDA
+[17:05:15] Gordo Kin<STEAM_0:1:17219621> changed their name to CCA.C14-UNION.i2.98240
+[17:05:16] Morgan Beck: // Wb
+[17:05:24] CCA.C08-HELIX.i5.50299: Ah
+[17:05:26] CCA.C14-UNION.i2.98240: hm, He finished with his work?
+[17:05:32] CCA.C08-HELIX.i5.50299: This man said he finished his work
+[17:05:34] Morgan Beck: // Do be a rare sighting of a HELIX unit that isn't my EpU
+[17:05:36] CCA.C14-UNION.i2.98240: Copy
+[17:05:37] CCA.C08-HELIX.i5.50299: I assume you gave it to him?
+[17:05:44] CCA.C14-UNION.i2.98240: Yeah, Civie apply
+[17:05:49] James Murdoch: /apply
+[17:05:59] CCA.C14-UNION.i2.98240: /me takes out a small PDA and begins typing onto it.
+[17:06:05] CCA.C14-UNION.i2.98240: /oldviewdata James
+[17:06:12] CCA.C08-HELIX.i5.50299: Also if you want to go off duty, I'd be happy to stay out for a bit.
+[17:06:21] CCA.C14-UNION.i2.98240: You've been given two LP, Move along.
+[17:06:34] James Murdoch: // alright gotta go
+[17:06:40] Morgan Beck: // See ya. We hope you come back!
+[17:06:41] CCA.C14-UNION.i2.98240: // Yo Ollie, Can both Helix and-
+[17:06:42] CCA.C08-HELIX.i5.50299: // Oof see ya
+[17:06:47] Dropped "James Murdoch" from server<STEAM_0:1:232372551>
+[17:06:48] CCA.C14-UNION.i2.98240: // Never mind, See ya dude
+[17:06:54] Morgan Beck: // F.
+[17:07:05] CCA.C14-UNION.i2.98240: Hm, I'll go off duty. Have fun with are Civies.
+[17:07:11] CCA.C08-HELIX.i5.50299: Alright
+[17:07:32] CCA.C14-UNION.i2.98240: /radio Unit 98240 is going 10-7, Status is green. Updating 10-20 to Outpost.
+[17:07:43] Morgan Beck: // Hm, since no one else is actually on, everyone alright with a fucked up ratio until well, someone else gets on?
+[17:07:49] CCA.C08-HELIX.i5.50299: /radio Copy/
+[17:07:57] CCA.C14-UNION.i2.98240: // I'm going 10-7 in a second, gotta get to the Outpost
+[17:08:03] Morgan Beck: // Aight
+[17:08:08] Morgan Beck<STEAM_0:1:52892973> changed their name to CCA.C14-HELIX.EpU.33698
+[17:08:15] CCA.C14-HELIX.EpU.33698: /radio Unit is 10-8
+[17:08:19] CCA.C14-UNION.i2.98240: /radio Copy
+[17:08:26] CCA.C14-UNION.i2.98240<STEAM_0:1:17219621> changed their name to Ethan King
+[17:08:27] CCA.C08-HELIX.i5.50299: /radio Copy.
+[17:08:41] Ethan King<STEAM_0:1:17219621> changed their name to Gordo Kin
+[17:08:52] Gordo Kin: // It is gordo time
+[17:10:03] Client "Captain Price" spawned in server <STEAM_0:1:148774529> (took 1005 seconds).
+[17:10:04] CCA.C08-HELIX.i5.50299<STEAM_0:0:68118061> changed their name to Karl Von Habsburg
+[17:10:27] CCA.C14-HELIX.EpU.33698: /viewcamera
+[17:10:36] Gordo Kin: // Most of the time we allow two units and three civies.
+[17:10:43] Gordo Kin: // "Most of the time"
+[17:12:04] Gordo Kin: // I've opened the code door multiple times ;-;
+[17:12:14] Gordo Kin: // And for some reason today it doesn't work.
+[17:12:22] Gordo Kin: // Kinda fucky
+[17:12:27] Gordo Kin<STEAM_0:1:17219621> changed their name to Lorenz Helmschmied
+[17:12:27] Captain Price<STEAM_0:1:148774529> changed their name to Dimitri Makarovicz
+[17:12:45] Lorenz Helmschmied: Hello, Sir
+[17:13:05] Lorenz Helmschmied: Hm, This door does seem tricky. Do you have any idea what the code is?
+[17:13:34] CCA.C14-HELIX.EpU.33698: // Welcome to the server! Do you need the content?
+[17:13:38] Lorenz Helmschmied: Hm, If only this Pad told us what buttons we're pressing
+[17:13:45] Lorenz Helmschmied: uh
+[17:14:15] Dimitri Makarovicz: hewow
+[17:14:16] Lorenz Helmschmied: oh my
+[17:14:16] CCA.C14-HELIX.EpU.33698: You a transfer from City 08? Or just a new transfer?
+[17:14:25] Dimitri Makarovicz: Im new
+[17:14:29] Lorenz Helmschmied: What does this do?
+[17:14:32] CCA.C14-HELIX.EpU.33698: Alright. Relocation coupon then.
+[17:14:58] CCA.C14-HELIX.EpU.33698: Do you have a relocation coupon>?
+[17:15:02] Lorenz Helmschmied: Wanna try to activate them? Maybe they turn on the power or something?
+[17:15:16] Dimitri Makarovicz: nope
+[17:15:25] CCA.C14-HELIX.EpU.33698: None? Okay, great. Mind applying for me then?
+[17:15:31] Dimitri Makarovicz: /apply
+[17:15:35] CCA.C14-HELIX.EpU.33698: Thank you.
+[17:15:36] Lorenz Helmschmied: .// could you turn your Mic up please. It's really hard to hear.
+[17:15:45] Lorenz Helmschmied: .// Like I can barely understand you
+[17:15:57] CCA.C14-HELIX.EpU.33698: /createCID "Dimitri Makarovicz" 29486
+[17:16:03] Lorenz Helmschmied: .// Bet
+[17:16:10] CCA.C14-HELIX.EpU.33698: /me places down a newly printed CID
+[17:16:16] CCA.C14-HELIX.EpU.33698: There you go.
+[17:16:18] Lorenz Helmschmied: Hm, Fine. I'll try it.
+[17:16:28] Lorenz Helmschmied: .// Want to get Ollie?>
+[17:16:56] Lorenz Helmschmied: /me Place his left hand onto the Lever and pulls it up (Hopeing to do something)
+[17:17:13] CCA.C14-HELIX.EpU.33698: /it The level is straight up stuck. As in, there's no handle.
+[17:17:13] Lorenz Helmschmied: Hm, Seems like it doesn't work
+[17:17:20] Lorenz Helmschmied: Seems stuck
+[17:17:32] Lorenz Helmschmied: Ugh....Well lets move
+[17:17:52] Lorenz Helmschmied: Wait, You see that vent?
+[17:18:33] Lorenz Helmschmied: uh, I think this one for now. We can check the other one later.
+[17:18:42] Lorenz Helmschmied: let me actaull-
+[17:19:05] Lorenz Helmschmied: oh wow.
+[17:19:10] Lorenz Helmschmied: this could be a base.
+[17:19:27] Lorenz Helmschmied: No clue. Maybe we should check for one.
+[17:19:38] Lorenz Helmschmied: .// Lmao
+[17:19:48] Lorenz Helmschmied: Well shit
+[17:19:50] Dropped "Dimitri Makarovicz" from server<STEAM_0:1:148774529>
+[17:19:53] CCA.C14-HELIX.EpU.33698: // F
+[17:19:53] Lorenz Helmschmied: // F
+[17:20:25] Lorenz Helmschmied: uh, What was it?
+[17:20:37] Lorenz Helmschmied: /y Alright
+[17:20:43] CCA.C14-HELIX.EpU.33698: The fuck?
+[17:20:56] CCA.C14-HELIX.EpU.33698: Eh... probably nothing.
+[17:21:11] Lorenz Helmschmied: Well if that wasn't comepletely hidden we would have saved alot of trouble
+[17:21:36] Lorenz Helmschmied: Hm, Want to partner up. I've got another rebel bud
+[17:21:37] Karl Von Habsburg to admins: loot
+[17:21:46] CCA.C14-HELIX.EpU.33698 teleported to Karl Von Habsburg
+[17:21:46] CCA.C14-HELIX.EpU.33698: !goto Karl
+[17:21:53] Karl Von Habsburg: /roll
+[17:22:02] Lorenz Helmschmied: We wrote a letter to this guy named watcher 1. We found his Pigeon.
+[17:22:07] CCA.C14-HELIX.EpU.33698: /adminspawnmenu
+[17:22:16] CCA.C14-HELIX.EpU.33698: /it You find bleach.
+[17:22:22] Lorenz Helmschmied: Hm, Who the hell is this Wather 1 guy?
+[17:22:31] Lorenz Helmschmied: .// Watcher*
+[17:22:33] Lorenz Helmschmied: I see
+[17:22:48] Lorenz Helmschmied: Then wanna use this as a base for the time being?
+[17:23:01] Lorenz Helmschmied: Until we can find something a bit better, Alright
+[17:24:35] Lorenz Helmschmied: // The wrench two shots Zombies, Bruh
+[17:24:40] CCA.C14-HELIX.EpU.33698: // Bruh moment
+[17:24:52] Lorenz Helmschmied: // The wrench is stronger than the AR2 lmao
+[17:25:01] CCA.C14-HELIX.EpU.33698: // Bruh. 
+[17:25:13] Lorenz Helmschmied: // It one taps Houndeyes LMAO
+[17:25:26] CCA.C14-HELIX.EpU.33698: // Jesus. I'll have to see the damage it does. Might need a nerf ngl
+[17:25:34] Lorenz Helmschmied: // yeah, This is a little broken
+[17:26:14] Lorenz Helmschmied: // Might try to fight the Gonome.
+[17:26:23] Lorenz Helmschmied: // It would be stupid
+[17:26:28] CCA.C14-HELIX.EpU.33698: // Tfw wrench will be fucking OP
+[17:26:43] Lorenz Helmschmied: // I could do it OOC'ly but IC.....
+[17:27:06] CCA.C14-HELIX.EpU.33698: // tfw I am happy af that Watcher 1 can return.
+[17:27:24] Lorenz Helmschmied: // This will be a bruh momento
+[17:27:26] CCA.C14-HELIX.EpU.33698: // Marc is my favorite character, and it kinda sucked having him to actually run away from City 08.
+[17:27:35] CCA.C14-HELIX.EpU.33698: // But shit was getting heated
+[17:27:59] Lorenz Helmschmied: Why?
+[17:28:03] Client "Mr. Chief" connected.
+[17:28:05] Lorenz Helmschmied: Nice
+[17:28:16] Lorenz Helmschmied: // My mouse is being fucky
+[17:28:21] CCA.C14-HELIX.EpU.33698: // F
+[17:28:31] Lorenz Helmschmied: .// I think it's good
+[17:28:47] CCA.C14-HELIX.EpU.33698: // I'll Vento Doro be kinda a bop doe
+[17:28:55] Lorenz Helmschmied: Hm, I have some metal scraps on me. I might be able to make you some form of weapon.
+[17:29:38] Lorenz Helmschmied: Hm, Your right sadly....
+[17:30:01] Lorenz Helmschmied: Come here for a moment
+[17:30:20] Lorenz Helmschmied: What does that big door lead to
+[17:30:30] Lorenz Helmschmied: Hm?
+[17:30:37] Lorenz Helmschmied: Come here.
+[17:30:58] Lorenz Helmschmied: This might lead to whatever is behind that door.
+[17:31:04] Lorenz Helmschmied: Hm????
+[17:31:31] Lorenz Helmschmied: No not really, The only reason I'm saying that is because it leads to somewhere we haven't been.
+[17:31:37] Lorenz Helmschmied: /me Chuckles.
+[17:31:47] Lorenz Helmschmied: Jesus...
+[17:31:53] Lorenz Helmschmied: Maybe I'll smack it?
+[17:31:54] Client "Mr. Chief" spawned in server <STEAM_0:1:129270116> (took 231 seconds).
+[17:32:06] CCA.C14-HELIX.EpU.33698: // Eyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
+[17:32:09] Lorenz Helmschmied: Hm, I don't really have much to live for to be fair
+[17:32:21] Lorenz Helmschmied: Uh?
+[17:32:34] Lorenz Helmschmied: Uh?
+[17:32:39] Lorenz Helmschmied: It worked?
+[17:32:53] Lorenz Helmschmied: Move away from it, I don't think it's safe to touch honestly
+[17:33:02] Lorenz Helmschmied: Uh?
+[17:33:41] Lorenz Helmschmied: Oh jesus, That might be worth something later on. 
+[17:33:51] Lorenz Helmschmied: Alright
+[17:34:10] Lorenz Helmschmied: Yeah
+[17:34:18] Karl Von Habsburg: /advert OH SHIT I NEED A MEDIC BAG! (OVER/FALSE)
+[17:34:18] Lorenz Helmschmied: Want to try the wrench?
+[17:34:28] Lorenz Helmschmied: Eh, Might as well.
+[17:34:31] Karl Von Habsburg to admins: ollie get here
+[17:34:34] Lorenz Helmschmied: // Ollie, Come here for a moment
+[17:34:36] CCA.C14-HELIX.EpU.33698 teleported to Karl Von Habsburg
+[17:34:36] CCA.C14-HELIX.EpU.33698: !goto Karl
+[17:34:48] Lorenz Helmschmied: .// This is not GONNA WORK
+[17:34:50] CCA.C14-HELIX.EpU.33698: /looc Okay, roll strength then
+[17:34:51] Lorenz Helmschmied: .// But whatever
+[17:34:54] Lorenz Helmschmied: /rollstat str
+[17:34:57] Lorenz Helmschmied: .// Bet
+[17:35:11] Lorenz Helmschmied: .// Kinda shit but I wasn't expecting much
+[17:35:12] Karl Von Habsburg: /advert OH SHIT I NEED A MEDIC BAG! (OVER/FALSE)
+[17:35:12] CCA.C14-HELIX.EpU.33698: /it You hit the wall with the wrench. It makes a clank noise and that is it.
+[17:35:19] CCA.C14-HELIX.EpU.33698: /it Not even chipped.
+[17:35:23] Lorenz Helmschmied: /y Yeah, Nope. Sure I guess
+[17:35:31] Lorenz Helmschmied: /me Hands over the wrench.
+[17:35:37] Lorenz Helmschmied: .// No u
+[17:35:43] Lorenz Helmschmied: .// Be
+[17:35:47] Lorenz Helmschmied: go ahead
+[17:35:57] Karl Von Habsburg: /me slams the wrench into the wall
+[17:36:02] Karl Von Habsburg: /rollstat str
+[17:36:02] CCA.C14-HELIX.EpU.33698: /looc Roll str
+[17:36:11] Lorenz Helmschmied: .// Better than mine lmao
+[17:36:19] CCA.C14-HELIX.EpU.33698: /it The wall shook quite a bit, but it didn't break. Chipped the brick slightly tho
+[17:36:30] Lorenz Helmschmied: Maybe we can chip at it
+[17:36:43] CCA.C14-HELIX.EpU.33698 returned Themself to their original position
+[17:36:43] CCA.C14-HELIX.EpU.33698: !return
+[17:36:49] Lorenz Helmschmied: Hm, Yeah. What about a pickaxe of something?
+[17:37:33] Lorenz Helmschmied: yeah...
+[17:38:49] Lorenz Helmschmied: Whew
+[17:39:17] Lorenz Helmschmied: jesus..
+[17:40:48] Lorenz Helmschmied: is it safe to be here?
+[17:41:04] Lorenz Helmschmied: Yeah
+[17:41:30] Karl Von Habsburg to admins: loot
+[17:41:35] Karl Von Habsburg: /roll
+[17:41:48] Lorenz Helmschmied: you got any meds?
+[17:41:51] CCA.C14-HELIX.EpU.33698: /it There was... nothing in there. Except some weird gel like substance.
+[17:41:58] Lorenz Helmschmied: Gunshots.
+[17:42:15] Lorenz Helmschmied: /me Grabs the yellow "Tool"
+[17:42:25] Lorenz Helmschmied: Looks like it
+[17:42:36] CCA.C14-HELIX.EpU.33698: /looc Oh yeah, both of you, roll... lemme look at the skill real quick
+[17:42:37] Karl Von Habsburg to admins: loot
+[17:42:43] CCA.C14-HELIX.EpU.33698: /looc Roll con.
+[17:42:56] Karl Von Habsburg: /rollstat con
+[17:42:56] Lorenz Helmschmied: /rollstat Con
+[17:42:59] Lorenz Helmschmied: .// For what?
+[17:43:04] CCA.C14-HELIX.EpU.33698: /looc Thank you.
+[17:43:08] CCA.C14-HELIX.EpU.33698: /looc Not for the boxes
+[17:43:12] CCA.C14-HELIX.EpU.33698: /looc Something else.
+[17:43:20] Lorenz Helmschmied: .// FUCK, Xen spores
+[17:43:29] Mr. Chief<STEAM_0:1:129270116> changed their name to Joe Exotic
+[17:43:55] CCA.C14-HELIX.EpU.33698: /it The boxes are rather heavy. Roll strength to try to break it open
+[17:44:08] Joe Exotic<STEAM_0:1:129270116> changed their name to OTA.C14-ECHO.OWC.29481
+[17:44:10] Lorenz Helmschmied: /y UGH, FUCK
+[17:44:36] Lorenz Helmschmied: /me Leans onto the wall looking rather exhausted
+[17:44:38] CCA.C14-HELIX.EpU.33698: /looc Roll consitution again Lightroom
+[17:44:43] Lorenz Helmschmied: /rollstat Con
+[17:44:52] Lorenz Helmschmied: Ugh, Jesus. This is fucked
+[17:45:10] Lorenz Helmschmied: Me neither. You think we're infected with anything?
+[17:45:31] Lorenz Helmschmied: Hm, Yeah we might be fine
+[17:45:37] Lorenz Helmschmied: "Might"
+[17:45:39] CCA.C14-HELIX.EpU.33698: /it The air was beginning to become a misty light brown.
+[17:45:45] Lorenz Helmschmied: Uh, Lets move
+[17:46:07] Lorenz Helmschmied: yeah, I think so to
+[17:46:12] CCA.C14-HELIX.EpU.33698: /pm OTA THESE FUCKING IDIOTS
+[17:46:22] CCA.C14-HELIX.EpU.33698: /reply THEY all got injured by the zombies in the QZ
+[17:46:37] OTA.C14-ECHO.OWC.29481: /radio Echo One unit, moving into the QZ.
+[17:46:48] CCA.C14-HELIX.EpU.33698: /reply OTA They legit got injured, one in critical condition in the QZ
+[17:46:59] CCA.C14-HELIX.EpU.33698: /radio 10-4
+[17:47:15] CCA.C14-HELIX.EpU.33698: /pm OTA They legit are injured by the QZ zombies, one in critical condition.
+[17:47:32] OTA.C14-ECHO.OWC.29481: /pm epu lmao
+[17:47:59] CCA.C14-HELIX.EpU.33698: /reply I made them roll both con rolls. Light room twice. I feel like 37 and 41 doesn't exactly mean you ain't infected, especially with QZ zombies
+[17:48:07] CCA.C14-HELIX.EpU.33698: /looc Bruh
+[17:48:14] Lorenz Helmschmied: I see, Names Loenz
+[17:48:16] OTA.C14-ECHO.OWC.29481: /pm epu yeah they kinds fucked
+[17:48:17] Lorenz Helmschmied: Uh
+[17:48:21] CCA.C14-HELIX.EpU.33698: /reply Yeah.
+[17:48:24] Lorenz Helmschmied: Lorenz but nevermind
+[17:48:31] CCA.C14-HELIX.EpU.33698: /reply I will DEF bring this to Q.
+[17:48:43] Lorenz Helmschmied<STEAM_0:1:17219621> changed their name to Gordo Kin
+[17:48:47] Gordo Kin: // Brb
+[17:49:06] CCA.C14-HELIX.EpU.33698: // Kk
+[17:49:19] CCA.C14-HELIX.EpU.33698: /radio ECHO, everything secured there?
+[17:49:32] OTA.C14-ECHO.OWC.29481: /radio Sweep incomplete. Current status: Green.
+[17:50:22] Gordo Kin: // Me is back
+[17:50:35] Karl Von Habsburg set the hp for Themself to 105
+[17:50:35] Karl Von Habsburg: !hp ^ 105
+[17:50:56] OTA.C14-ECHO.OWC.29481: /radio Necrotics sighted.
+[17:51:10] CCA.C14-HELIX.EpU.33698: /radio 10-4. I assume you have this handled then?
+[17:51:39] OTA.C14-ECHO.OWC.29481: /radio Affirmative.
+[17:52:06] CCA.C14-HELIX.EpU.33698: /radio Good.
+[17:52:15] OTA.C14-ECHO.OWC.29481: /radio Schoolzone sweep clear. Moving.
+[17:52:39] Gordo Kin: // If only Q balanced out the Grunt smg so Grunts can use the much cooler grunt smg and not the OICW.
+[17:52:50] CCA.C14-HELIX.EpU.33698: // The Grunt SMG kinda sucks tho, model wise.
+[17:52:53] CCA.C14-HELIX.EpU.33698: // And sound wise tbh
+[17:53:06] Gordo Kin: // I love the model and sounds but that might just be me
+[17:53:33] Gordo Kin: // And in terms of the model, Not like the OICW is actually much better.
+[17:53:58] OTA.C14-ECHO.OWC.29481: /radio Upper sweep clear. Moving into the metro entrance for mid-level sweep.
+[17:54:30] CCA.C14-HELIX.EpU.33698: /reply By the way
+[17:54:44] CCA.C14-HELIX.EpU.33698: /reply The two yellow crates near the shit ton of dead zombies appear to be damaged slightly
+[17:55:37] OTA.C14-ECHO.OWC.29481: /radio Metro sweep clear. Returning.
+[17:56:18] CCA.C14-HELIX.EpU.33698: '
+[17:58:07] Karl Von Habsburg to admins: loot
+[17:58:11] CCA.C14-HELIX.EpU.33698 teleported to Karl Von Habsburg
+[17:58:11] CCA.C14-HELIX.EpU.33698: !goto Karl
+[17:58:15] Karl Von Habsburg: /roll
+[17:58:20] CCA.C14-HELIX.EpU.33698: /adminspawnmenu
+[17:59:02] CCA.C14-HELIX.EpU.33698: /it You find a pack of supplements.
+[17:59:09] Karl Von Habsburg to admins: loot
+[17:59:20] Karl Von Habsburg: /roll
+[17:59:22] Karl Von Habsburg: /me tackles
+[17:59:27] CCA.C14-HELIX.EpU.33698: /adminspawnmenu
+[17:59:45] CCA.C14-HELIX.EpU.33698: /it You find a small box with a few screws within
+[17:59:50] Karl Von Habsburg to admins: loot
+[17:59:55] Karl Von Habsburg: /roll
+[18:00:00] CCA.C14-HELIX.EpU.33698: /adminspawnmenu
+[18:00:14] CCA.C14-HELIX.EpU.33698: /it You find a semi clean bandage
+[18:00:28] Karl Von Habsburg to admins: loot
+[18:00:33] Karl Von Habsburg: /roll
+[18:00:40] CCA.C14-HELIX.EpU.33698: /adminspawnmenu
+[18:01:19] CCA.C14-HELIX.EpU.33698: /it You find some damaged scrap.
+[18:01:24] Karl Von Habsburg to admins: loot
+[18:01:29] Karl Von Habsburg: /roll
+[18:01:35] CCA.C14-HELIX.EpU.33698: /adminspawnmenu
+[18:02:35] CCA.C14-HELIX.EpU.33698: /it You find a blowtorch, albeit it doesn't have fuel.
+[18:02:45] Karl Von Habsburg to admins: loot
+[18:02:48] Karl Von Habsburg: /roll
+[18:02:54] CCA.C14-HELIX.EpU.33698: /adminspawnmenu
+[18:03:26] CCA.C14-HELIX.EpU.33698: /it Car battery, surprise.
+[18:03:47] Karl Von Habsburg to admins: loot
+[18:03:51] Karl Von Habsburg: /roll
+[18:03:58] CCA.C14-HELIX.EpU.33698: /adminspawnmenu
+[18:04:16] CCA.C14-HELIX.EpU.33698: /it You find a notepad.
+[18:04:29] Karl Von Habsburg to admins: loot
+[18:04:32] Karl Von Habsburg: /roll
+[18:04:37] CCA.C14-HELIX.EpU.33698: /adminspawnmenu
+[18:04:57] CCA.C14-HELIX.EpU.33698: /it You find a makeshift hammer
+[18:05:21] Karl Von Habsburg to admins: kick
+[18:05:22] Gordo Kin<STEAM_0:1:17219621> changed their name to OTA.C14-ECHO.OWC.58830
+[18:05:27] Karl Von Habsburg: /me kicks open crate
+[18:05:31] OTA.C14-ECHO.OWC.58830<STEAM_0:1:17219621> changed their name to CCA.C14-UNION.i2.98240
+[18:05:33] Karl Von Habsburg: /rollstat str
+[18:05:40] CCA.C14-HELIX.EpU.33698: /it You stub your toe.
+[18:05:42] CCA.C14-UNION.i2.98240<STEAM_0:1:17219621> changed their name to Gordo Kin
+[18:06:08] Karl Von Habsburg to admins: loot
+[18:06:15] Karl Von Habsburg: /roll
+[18:06:31] CCA.C14-HELIX.EpU.33698: /adminspawnmenu
+[18:06:43] CCA.C14-HELIX.EpU.33698: /it You find some chocolate. Yum.
+[18:07:00] Karl Von Habsburg to admins: loot
+[18:07:06] Karl Von Habsburg: /roll
+[18:07:12] CCA.C14-HELIX.EpU.33698: /adminspawnmenu
+[18:07:28] CCA.C14-HELIX.EpU.33698: /it You find cloth. The fuck you expect? A RPG?
+[18:07:45] Karl Von Habsburg to admins: loot
+[18:07:47] Karl Von Habsburg: /roll
+[18:07:51] Gordo Kin: // Ollies life is pain
+[18:07:51] CCA.C14-HELIX.EpU.33698: /adminspawnmenu
+[18:08:40] CCA.C14-HELIX.EpU.33698: /it Lightbulb
+[18:09:10] Gordo Kin: // Imagine dying to a Light bulb.
+[18:09:53] Gordo Kin: // The fight with the old man was complete and utter bullshit
+[18:10:02] Gordo Kin: // But I will admit it was fun
+[18:10:27] Gordo Kin: // Imagine trying to fight a ECHO in hand to hand combat
+[18:10:56] Gordo Kin: // Even a Grunt would fucking kick the shit out of any civie.
+[18:11:20] Gordo Kin: // ;-;
+[18:12:05] Karl Von Habsburg to admins: kik
+[18:12:09] CCA.C14-HELIX.EpU.33698 teleported to Karl Von Habsburg
+[18:12:09] CCA.C14-HELIX.EpU.33698: !goto Karl
+[18:12:12] Karl Von Habsburg: /me kicks crate man
+[18:12:14] Karl Von Habsburg: /roll
+[18:12:19] Karl Von Habsburg: /rollstat str
+[18:13:04] CCA.C14-HELIX.EpU.33698: /it As you kick the crate, the wood held up semi well, however it was a bit damaged.
+[18:14:02] CCA.C14-HELIX.EpU.33698: /radio Report ECHO?
+[18:14:04] OTA.C14-ECHO.OWC.29481: /viewcamera
+[18:14:12] Gordo Kin: // Imagine being a HELIX EpU.
+[18:14:29] Client "Revolver" connected.
+[18:14:40] OTA.C14-ECHO.OWC.29481: /radio Status green. Nothing found on cameras.
+[18:14:50] CCA.C14-HELIX.EpU.33698: /radio 10-4. Ever figured out what got the QZ riled up?
+[18:14:53] Client "this is nice" connected.
+[18:15:23] OTA.C14-ECHO.OWC.29481: /radio 10-2. No evidence found aside from a broken down fence wall.
+[18:16:02] CCA.C14-HELIX.EpU.33698: /radio 10-4. Most likely going to head over and gather a few spore samples for research in the near future.
+[18:16:12] OTA.C14-ECHO.OWC.29481: /radio Hazmat suit required.
+[18:16:25] CCA.C14-HELIX.EpU.33698: /radio Yeah, I know. I know the procedures n shit.
+[18:16:45] Gordo Kin: // Be back soon.
+[18:16:49] Dropped "Gordo Kin" from server<STEAM_0:1:17219621>
+[18:16:51] CCA.C14-HELIX.EpU.33698: // F
+[18:19:26] Karl Von Habsburg: /me puts on clothes that was over the shorts and t shirt I was wearing
+[18:19:41] Karl Von Habsburg: /me washes haha
+[18:21:06] Dropped "CCA.C14-HELIX.EpU.33698" from server<STEAM_0:1:52892973>
+[18:21:07] Karl Von Habsburg: /me takes clothes and puts on over shirt and t shirt
+[18:21:13] Dropped "OTA.C14-ECHO.OWC.29481" from server<STEAM_0:1:129270116>
+[18:21:18] Dropped "Karl Von Habsburg" from server<STEAM_0:0:68118061>
+[18:31:49] Client "this is nice" spawned in server <STEAM_0:1:540862665> (took 1016 seconds).
+[18:33:27] Dropped "this is nice" from server<STEAM_0:1:540862665>
+[19:41:22] Client "Mrchicken" connected.
+[19:50:17] Client "Mrchicken" connected.
+[21:36:30] Client "FB|| light ROOM" connected.
+[21:38:20] Client "FB|| light ROOM" spawned in server <STEAM_0:1:17219621> (took 110 seconds).
+[21:39:04] FB|| light ROOM<STEAM_0:1:17219621> changed their name to CCA.C14-UNION.i2.98240
+[21:51:35] Client "Enderdragon" connected.
+[22:01:47] Client "Enderdragon" spawned in server <STEAM_0:0:171770031> (took 612 seconds).
+[22:03:44] Enderdragon<STEAM_0:0:171770031> changed their name to Jullianna
+[22:04:06] Dropped "James Albright" from server<STEAM_0:1:53097688>
+[22:05:33] CCA.C14-UNION.i2.98240: // Oh shit, Are you new. Sorry I was AFK for a while.
+[22:05:43] Jullianna: /ooc yeah i can go if you want
+[22:06:11] CCA.C14-UNION.i2.98240: // Eh, I can come help you with your CID and shit. Actually a Admin is getting on soon so Whatever.
+[22:06:22] Jullianna: ok
+[22:06:28] CCA.C14-UNION.i2.98240: // I'll help with the basic shit.
+[22:06:36] Jullianna: /ooc ok do you know how to become a civil protection?
+[22:06:47] Jullianna: /ooc and why cant i see my model
+[22:07:25] CCA.C14-UNION.i2.98240: // We're currently changing shit up. So until the CCA rework is finished I can't exactly tell you how to join CCA. Also you probably need the Conten do "/content"
+[22:07:36] CCA.C14-UNION.i2.98240: New?
+[22:07:39] Jullianna: /content
+[22:08:04] Jullianna: /ooc ok can i rejoin?
+[22:08:21] CCA.C14-UNION.i2.98240: // Go for it
+[22:08:26] Dropped "Jullianna" from server<STEAM_0:0:171770031>
+[22:17:43] Client "Enderdragon" connected.
+[22:18:24] Client "Enderdragon" spawned in server <STEAM_0:0:171770031> (took 41 seconds).
+[22:19:08] Enderdragon<STEAM_0:0:171770031> changed their name to Jullianna
+[22:19:23] Jullianna: /ooc hold on a sec
+[22:19:26] Dropped "Jullianna" from server<STEAM_0:0:171770031>
+[22:19:38] Client "Enderdragon" connected.
+[22:20:18] Client "Enderdragon" spawned in server <STEAM_0:0:171770031> (took 40 seconds).
+[22:21:40] Enderdragon<STEAM_0:0:171770031> changed their name to Sangeili Jullianna
+[22:21:55] Sangeili Jullianna: /ooc i still cant really see anything but idk
+[22:22:22] Sangeili Jullianna: /ooc like i can see props but in thirdperson i cant see the model
+[22:22:45] CCA.C14-UNION.i2.98240: // I'm back, Whats wrong?
+[22:23:08] CCA.C14-UNION.i2.98240: // Oh, Do you have CSS, HL2, EP1,Ep2?
+[22:23:21] Sangeili Jullianna: yeah
+[22:23:23] Sangeili Jullianna: /ooc yeah
+[22:23:29] Sangeili Jullianna: /ooc wait css?
+[22:23:34] Sangeili Jullianna: /ooc wait yeah
+[22:23:39] Sangeili Jullianna: /ooc i just cant see the models
+[22:23:46] CCA.C14-UNION.i2.98240: // Hm? Thats odd.
+[22:23:52] Sangeili Jullianna: /ooc yep
+[22:23:54] CCA.C14-UNION.i2.98240: // We don't usually have this problem
+[22:24:13] Sangeili Jullianna: /ooc huh'
+[22:24:14] CCA.C14-UNION.i2.98240: // Uh.....Well I'm not staff so I can't really do anything about that sadly.
+[22:24:24] Sangeili Jullianna: /ooc oh 
+[22:24:31] Sangeili Jullianna: /ooc hold on idea
+[22:24:35] CCA.C14-UNION.i2.98240: // Bet
+[22:24:39] Dropped "Sangeili Jullianna" from server<STEAM_0:0:171770031>
+[22:25:13] Client "Enderdragon" connected.
+[22:26:10] Client "Enderdragon" spawned in server <STEAM_0:0:171770031> (took 57 seconds).
+[22:27:08] Client "Ollie Garner" connected.
+[22:27:34] Enderdragon<STEAM_0:0:171770031> changed their name to Steve
+[22:27:43] Steve: /ooc just had to restart garrys mod
+[22:27:49] CCA.C14-UNION.i2.98240: // Alright, Cool
+[22:27:58] CCA.C14-UNION.i2.98240: Hm, New?
+[22:28:05] Steve: Sadly..
+[22:28:14] CCA.C14-UNION.i2.98240: I see, Apply and show me your Coupon.
+[22:28:35] CCA.C14-UNION.i2.98240: .// A admin is getting on so thats cool.
+[22:28:46] Steve: /ooc how do i show that?
+[22:28:49] CCA.C14-UNION.i2.98240: Civie, Apply and give me your Coupon.
+[22:28:53] Steve: /ooc sorry
+[22:29:04] CCA.C14-UNION.i2.98240: .// tab, Inventory, Then right click on the Coupon.
+[22:29:14] CCA.C14-UNION.i2.98240: .// then just drop it in front of me.
+[22:29:21] CCA.C14-UNION.i2.98240: .// And to apply just do /apply in chat
+[22:29:33] Steve: /apply
+[22:29:44] CCA.C14-UNION.i2.98240: hm, Do you have a last name.....
+[22:29:58] CCA.C14-UNION.i2.98240: .// Lmao, The admin will fix the last name part
+[22:30:10] Steve: /ooc i just did it as a test sorry
+[22:30:15] CCA.C14-UNION.i2.98240: // No problem
+[22:30:30] CCA.C14-UNION.i2.98240: /me Holds out the newly made CID.
+[22:30:36] Client "Ollie Garner" spawned in server <STEAM_0:1:52892973> (took 208 seconds).
+[22:30:37] CCA.C14-UNION.i2.98240: .// The fuck?
+[22:30:44] CCA.C14-UNION.i2.98240: .// Hold e on it
+[22:30:59] CCA.C14-UNION.i2.98240: .// Have your hands out and then hold e on it
+[22:31:01] Steve: /looc i think its like glitching
+[22:31:12] CCA.C14-UNION.i2.98240: .// I can pick it up?
+[22:31:20] CCA.C14-UNION.i2.98240: .// Oh
+[22:31:21] Steve: got it
+[22:31:23] CCA.C14-UNION.i2.98240: .// Alright
+[22:31:44] CCA.C14-UNION.i2.98240: Hm, I'm going to ask you a few questions, You will answer do you understand?
+[22:31:52] Steve: Allright
+[22:31:58] CCA.C14-UNION.i2.98240: Alright, Give me a moment.
+[22:32:05] CCA.C14-UNION.i2.98240: /me takes out a small PDA and begins typing.
+[22:32:25] CCA.C14-UNION.i2.98240: /oldviewdata steve
+[22:32:48] CCA.C14-UNION.i2.98240: Alright, What is your DOB and blood type?
+[22:33:22] CCA.C14-UNION.i2.98240: Do you not know"?
+[22:33:33] Steve: November 17,1987,and o positive
+[22:33:37] CCA.C14-UNION.i2.98240: I see
+[22:33:41] CCA.C14-UNION.i2.98240: /oldviewdata steve
+[22:34:00] CCA.C14-UNION.i2.98240: /oldviewdata Steve
+[22:34:18] CCA.C14-UNION.i2.98240: You can go
+[22:35:01] CCA.C14-UNION.i2.98240<STEAM_0:1:17219621> changed their name to OTA.C14-ECHO.OWC.58830
+[22:35:24] OTA.C14-ECHO.OWC.58830: /radio Unit is 10-8, 10-20 is Stasis. Updating 10-20 to QZ.
+[22:38:15] Ollie Garner<STEAM_0:1:52892973> changed their name to Morgan Beck
+[22:38:19] Morgan Beck: // Yo.
+[22:38:22] OTA.C14-ECHO.OWC.58830: // yo
+[22:38:24] Steve: *thinks* i hope he isnt that bad
+[22:38:29] Steve: /ooc yo
+[22:38:42] OTA.C14-ECHO.OWC.58830: on the ground
+[22:38:42] Morgan Beck: // Oh, welcome to the server! Do you need the content?
+[22:39:16] Steve: /ooc i allready did it,thats why its just steve,i did it as a test because my models wouldnt work at first but its good now
+[22:39:29] Morgan Beck: // Okay.
+[22:39:42] Steve: /ooc so what can i do here?
+[22:39:44] Morgan Beck: // Do you have a last name? I can set it for you.
+[22:39:58] Steve: /ooc I guess wilson
+[22:40:10] Morgan Beck: /charsetname "Steve" Steve Wilson
+[22:40:11] Steve<STEAM_0:0:171770031> changed their name to Steve Wilson
+[22:40:16] Morgan Beck: // There ya go.
+[22:40:21] Steve Wilson: /ooc thanks
+[22:40:25] Steve Wilson: /ooc so what do i do?
+[22:40:29] Morgan Beck: // Getting back connection, gonna go reset my wifi.
+[22:40:35] OTA.C14-ECHO.OWC.58830: // You can do anything you want. Want to loot shit in a dumpster. Get ollie to help you out. If you want work I can flag onto a CCA and you can ask for it.
+[22:40:45] OTA.C14-ECHO.OWC.58830<STEAM_0:1:17219621> changed their name to CCA.C14-UNION.i2.98240
+[22:40:46] Morgan Beck: // *bad
+[22:40:52] Morgan Beck: // BRB for a few mins.
+[22:40:54] Dropped "Morgan Beck" from server<STEAM_0:1:52892973>
+[22:41:12] CCA.C14-UNION.i2.98240: // Anything you honestly want. Want to attack me and try to mug me. Go for it.
+[22:41:12] Steve Wilson: /ooc i kinda wanna work
+[22:41:29] CCA.C14-UNION.i2.98240: // Then you'll have to find me and ask for it. Nothing is earned OOC'ly.
+[22:41:50] Steve Wilson: /ooc are there any roleplay limits?
+[22:42:17] CCA.C14-UNION.i2.98240: // I've never heard the term RP limits before?
+[22:42:32] Steve Wilson: /ooc like 
+[22:42:46] Steve Wilson: /ooc nlr
+[22:42:52] CCA.C14-UNION.i2.98240: /actlean
+[22:43:24] Steve Wilson: Oh hey
+[22:43:31] Steve Wilson: Do you know how i can work?
+[22:43:43] CCA.C14-UNION.i2.98240: Civie, Why were you running?
+[22:43:55] CCA.C14-UNION.i2.98240: Tell me
+[22:43:56] CCA.C14-UNION.i2.98240: now
+[22:43:59] Client "Ollie Garner" connected.
+[22:44:04] Steve Wilson: Energized
+[22:44:12] CCA.C14-UNION.i2.98240: Energized from what?
+[22:44:32] Steve Wilson: I just ate on the train here
+[22:44:38] CCA.C14-UNION.i2.98240: What did you eat?
+[22:44:48] Steve Wilson: Normal rations
+[22:44:51] CCA.C14-UNION.i2.98240: I don't recall any rations giving energy boost.
+[22:45:20] CCA.C14-UNION.i2.98240: Sounds to me like something else, How about you give me a straight answer before your locked up for lying to a officer.
+[22:45:47] Steve Wilson: Well there was this guy on a train and he just put something in it
+[22:45:52] Steve Wilson: i dont know what it really was
+[22:46:05] CCA.C14-UNION.i2.98240: Hm, Give me a description why don't you.
+[22:46:22] CCA.C14-UNION.i2.98240: And if you saw him do it why did you Eat it in the first place.
+[22:46:23] Steve Wilson: Bald,White hair,Looked under a substance
+[22:46:38] CCA.C14-UNION.i2.98240: Hm
+[22:46:47] Steve Wilson: When i got relocated i was starveing'
+[22:46:57] Client "Ollie Garner" spawned in server <STEAM_0:1:52892973> (took 178 seconds).
+[22:47:01] CCA.C14-UNION.i2.98240: /me Points his Stunstick toward the wall.
+[22:47:02] CCA.C14-UNION.i2.98240: Wall
+[22:47:03] CCA.C14-UNION.i2.98240: now
+[22:47:16] CCA.C14-UNION.i2.98240: Face it.
+[22:47:33] CCA.C14-UNION.i2.98240: /me Begins tying the man, Unless he resist?
+[22:47:50] Steve Wilson: /action shakes a little
+[22:48:18] CCA.C14-UNION.i2.98240: /me Grabs the mans head and slams it into the wall (Hopefully to set him still)
+[22:48:30] CCA.C14-UNION.i2.98240: /me Then resumes his tying.
+[22:48:39] Steve Wilson: /action *bleeds a little and stays still*
+[22:49:11] Steve Wilson: You combine are just like the rest..Cruel and mercyless..
+[22:49:17] CCA.C14-UNION.i2.98240: haha
+[22:49:18] Ollie Garner<STEAM_0:1:52892973> changed their name to Morgan Beck
+[22:49:29] Morgan Beck: // Alright, back
+[22:49:52] CCA.C14-UNION.i2.98240: Buddy, We only act like this because you idiot civies can't control yourselves.
+[22:49:53] CCA.C14-UNION.i2.98240: // Yo
+[22:50:12] CCA.C14-UNION.i2.98240: /me Takes out his stunstick and switches it onto Knockout mode.
+[22:50:29] Steve Wilson: Wasn't our choice to have you damn combine take over our soceitys..
+[22:50:46] CCA.C14-UNION.i2.98240: Hm, Never insult the Universal Union in front of me.
+[22:50:58] CCA.C14-UNION.i2.98240: /me Begins beating the man in the head until he was knocked out.
+[22:52:13] CCA.C14-UNION.i2.98240: .// Get up for a moment.
+[22:52:20] CCA.C14-UNION.i2.98240: /me Zipties the mans hand to the Chair
+[22:52:29] CCA.C14-UNION.i2.98240: .// Don't move
+[22:53:05] CCA.C14-UNION.i2.98240: /pm morgan beck Insulting the Combine counts as Rebel conspiracy right?
+[22:53:17] Steve Wilson: /action Kicks the chair  
+[22:53:22] Morgan Beck: /reply Not exactly? It's a grey area. Depends how he did it
+[22:53:43] Steve Wilson<STEAM_0:0:171770031> spawned/gave himself swep alydus_fortificationbuildertablet
+[22:53:57] CCA.C14-UNION.i2.98240: /reply Saying something like "It's not our fault you damn Combine took over our society?"
+[22:54:27] CCA.C14-UNION.i2.98240: /reply What is he said "It's not our fault you damn combine took over our society?"
+[22:54:35] CCA.C14-UNION.i2.98240: haha
+[22:54:52] Steve Wilson: /action Struggles
+[22:54:55] CCA.C14-UNION.i2.98240: Now then, How about we have a "Heart to heart"
+[22:55:34] CCA.C14-UNION.i2.98240: Tell me, Why have you acted so "Hostile" towards a officer?
+[22:56:13] Steve Wilson: Ive just been angry at the combine for a while..when we were on that train they took my freind,they said i would see him but..
+[22:56:54] CCA.C14-UNION.i2.98240: Hm, Are you aware that a Truo citizen would put trust in the Combine. That "Friend" was needed by the Universal Union. So you should not be angry about it
+[22:57:29] CCA.C14-UNION.i2.98240: You have shown me that you hate the Combine. That you are mearly a Rebel.
+[22:57:59] CCA.C14-UNION.i2.98240: Now then, why did you struggle when I was ziptying you?
+[22:58:12] Steve Wilson: I dont like being restrained..
+[22:58:39] CCA.C14-UNION.i2.98240: I am a Civil Protection Officer. You should not fear me. 
+[22:58:57] CCA.C14-UNION.i2.98240: I'm one of the many who keep the peace around here
+[22:59:27] Steve Wilson: Peace of beating up innocent citizens who have their own opinions
+[22:59:35] CCA.C14-UNION.i2.98240: haha
+[22:59:35] Steve Wilson: /action looks down a little
+[22:59:46] CCA.C14-UNION.i2.98240: I beat those who deserve it
+[23:00:21] CCA.C14-UNION.i2.98240: Tell me, Why would you "Apparently" take Drugged rations from a random citizen.
+[23:01:06] Steve Wilson: I wanted to take my chances..Life now adays is not that good thanks to your pathetic exuse for a Good cause"
+[23:01:15] Steve Wilson: Barely can get any food around here..
+[23:01:30] CCA.C14-UNION.i2.98240: Hm, To me it sounds like you prefer the rebels over the Combine
+[23:01:36] CCA.C14-UNION.i2.98240: Explain this
+[23:01:38] CCA.C14-UNION.i2.98240: Now
+[23:01:44] Steve Wilson: I dont..
+[23:01:51] Steve Wilson: I just wish you all were more suttle
+[23:02:24] CCA.C14-UNION.i2.98240: If we're suttle the Rebels will try to take the peace away from the many Civilians of are great city.
+[23:02:37] Steve Wilson: Peace.? 
+[23:02:45] Steve Wilson: What about the headcrabs?
+[23:02:56] Steve Wilson: And those antlion things i hear about..
+[23:03:08] CCA.C14-UNION.i2.98240: The Universal Union has set a single path for Humanity to walk. And yet Rebels try to knock us off that path. Those are delt with before they can hurt people.
+[23:03:38] Steve Wilson: The onlys ones they do hurt are the wrouung ones.
+[23:04:42] CCA.C14-UNION.i2.98240: Hm, Whatever. You are being taken in for resisting arrest and insulting the universal Union
+[23:05:01] Steve Wilson: So what does that mean?
+[23:05:08] Steve Wilson: More of your lie lectures?
+[23:05:31] CCA.C14-UNION.i2.98240: .// I'm gonna save you trouble. Just follow me instead of me knocking you out alright?
+[23:05:40] Steve Wilson: /action looks down and sees all of the blood and steps off"
+[23:05:44] Steve Wilson: /looc ok
+[23:06:04] CCA.C14-UNION.i2.98240: .// Because the Nexus is kinda fucked right now so I can't bring ragdolls in it.
+[23:06:17] Steve Wilson: /looc oh
+[23:06:18] CCA.C14-UNION.i2.98240: /me Slams his Stunstick onto the mans head.
+[23:06:26] Steve Wilson: /action Blanks out
+[23:06:28] CCA.C14-UNION.i2.98240: /me Then begins dragging him by the throat.
+[23:07:00] Client "hurensohn" connected.
+[23:07:54] CCA.C14-UNION.i2.98240: /me Throws the man down onto the floor
+[23:08:06] CCA.C14-UNION.i2.98240: haha
+[23:08:09] CCA.C14-UNION.i2.98240: Idiot
+[23:08:24] Steve Wilson: /action looks up but pretends to still be knocked out
+[23:08:29] Steve Wilson: /ooc woah
+[23:08:36] CCA.C14-UNION.i2.98240: // ?
+[23:08:47] Steve Wilson: /looc a guy just appeared and then disappeared
+[23:08:58] CCA.C14-UNION.i2.98240: .// oh that was probably the Admin
+[23:09:03] CCA.C14-UNION.i2.98240: Civie
+[23:09:03] Morgan Beck: /looc Yuh
+[23:09:05] CCA.C14-UNION.i2.98240: Apply
+[23:09:15] Steve Wilson: Im in a cell..
+[23:09:22] Steve Wilson: You cant tell me to do anything now.
+[23:09:31] CCA.C14-UNION.i2.98240: /me takes out his Stunstick.
+[23:09:36] Steve Wilson: Fine.
+[23:09:38] Steve Wilson: /apply
+[23:09:39] CCA.C14-UNION.i2.98240: I assure you, I will
+[23:09:54] CCA.C14-UNION.i2.98240: Good, never talk back again
+[23:10:21] CCA.C14-UNION.i2.98240: // I'm trying to be less hard on you since your new and I don't want to fuck you over and it's hard ;-;
+[23:10:34] CCA.C14-UNION.i2.98240: /me Takes out a small PDA and begins typing onto it.
+[23:10:42] CCA.C14-UNION.i2.98240: /oldviewdata Steve
+[23:10:47] Steve Wilson: /ooc its fine i like this server
+[23:11:13] Morgan Beck: // Glad to hear. We're usually more exciting when we have more than three players on
+[23:11:49] CCA.C14-UNION.i2.98240: // Yeah, But still I just don't want to be that guy to Bully the new player even though he doesn't really know what to do.
+[23:12:09] CCA.C14-UNION.i2.98240: /oldviewdata Steve
+[23:12:10] Steve Wilson: /ooc oh sorry if my roleplays rusty
+[23:12:15] Morgan Beck: // The hardest decisions require the strongest wills.
+[23:12:30] CCA.C14-UNION.i2.98240: // I'm being a bad CP right now ;-;
+[23:12:43] CCA.C14-UNION.i2.98240: // Fucken demote me at this point ;-;
+[23:12:49] Steve Wilson: /ooc nah 
+[23:12:53] Steve Wilson: /ooc you good
+[23:13:16] Steve Wilson: /ooc i just wish i didnt mess up so i could roleplay good enough to be cp
+[23:13:33] CCA.C14-UNION.i2.98240: // Yeah, You might want to make a char more based on being a good little loyalist
+[23:13:48] Steve Wilson: /ooc Got it
+[23:14:00] Steve Wilson: /ooc also fun fact,half life 2 takes place in this year
+[23:14:14] CCA.C14-UNION.i2.98240: // Really?
+[23:14:21] Morgan Beck: // We also have a discord if you haven't joined! We usually announce CCA apps n all that on there
+[23:14:22] Steve Wilson: /ooc around it
+[23:14:34] CCA.C14-UNION.i2.98240: // Do /discord right?
+[23:14:40] Morgan Beck: // I think you mean released as a game. HL2 is a bit weird with dates
+[23:14:42] Morgan Beck: // Yee
+[23:15:23] CCA.C14-UNION.i2.98240: // We really need to list where Insulting the Universal Union is because I really don't know how to Punish him for it
+[23:15:36] Steve Wilson: /ooc Search ResultsFeatured snippet from the webHL1 takes place anywhere between 2000 and 2009. HL2 takes place 20 years later (as stated by official Valve sources, the writers, and shown by the characters' aging), so anywhere inbetween 2020-2029.
+[23:16:04] Morgan Beck: // Yeah. It probably is just re-education depending on the insult
+[23:16:10] CCA.C14-UNION.i2.98240: // Alright bet
+[23:16:16] Morgan Beck: // Also, the BM incident happened in... 1988 I think?
+[23:16:27] CCA.C14-UNION.i2.98240: // HL is shit with time dates honestly
+[23:16:37] Morgan Beck: // Eh, not like dates matter tbh
+[23:16:44] CCA.C14-UNION.i2.98240: // Ye
+[23:16:54] Steve Wilson: /ooc i just bought the first game and blue shift
+[23:17:02] CCA.C14-UNION.i2.98240: // Nice
+[23:17:10] CCA.C14-UNION.i2.98240: // The first game didn't age well with me ;-;
+[23:17:19] Morgan Beck: // Ah. Nice. You should try to get HL2. It's a lot better than HL imo
+[23:17:21] Steve Wilson: /ooc is anyone else used to be scared of headcrabs?
+[23:17:26] Steve Wilson: /ooc i have it
+[23:17:31] Morgan Beck: // Ah, nice.
+[23:17:35] Steve Wilson: /ooc wish i had vr for alex
+[23:17:51] Morgan Beck: // Yee, I wish I had VR in general. I'm workin on getting my PC VR readu
+[23:17:53] Morgan Beck: // *ready
+[23:18:02] CCA.C14-UNION.i2.98240: // I'm terrified of fucking roaches and Headcrabs remind me of them for some reason so whenever I see them I have a fucking internal panic attack
+[23:18:11] Morgan Beck: // F
+[23:18:23] Morgan Beck: // tfw HL1 has roach NPC
+[23:18:35] Morgan Beck<STEAM_0:1:52892973> spawned NPC monster_roach
+[23:18:44] Morgan Beck<STEAM_0:1:52892973> spawned NPC monster_roach
+[23:18:48] Steve Wilson: /ooc what also scared me was in hl1 blue shift there was a part where you had to go threw the vents
+[23:18:54] Steve Wilson: /ooc turns corner
+[23:18:57] Steve Wilson: /ooc boom headcrab
+[23:19:02] CCA.C14-UNION.i2.98240: // Why do you think I never got through HL1 my guy
+[23:19:03] Morgan Beck<STEAM_0:1:52892973> spawned NPC monster_roach
+[23:19:09] CCA.C14-UNION.i2.98240: // Roaches ;-;
+[23:19:15] CCA.C14-UNION.i2.98240: // And headcrabs ;-;
+[23:19:20] Steve Wilson: /ooc those little things you step on?
+[23:19:33] Steve Wilson: /ooc and im confused
+[23:19:33] CCA.C14-UNION.i2.98240: // Ye
+[23:19:39] Steve Wilson: /ooc is the opposeing force the combine?
+[23:19:44] Morgan Beck: // No.
+[23:19:50] Steve Wilson: /ooc huh
+[23:19:51] CCA.C14-UNION.i2.98240: // I'm a little bitch boi if you haven't realised
+[23:19:53] Morgan Beck: // Opposing Force is the view of the Marines.
+[23:19:57] Morgan Beck: // HECU bois.
+[23:20:05] Steve Wilson: /ooc so they just be like
+[23:20:09] Steve Wilson: /ooc we dont like this
+[23:20:12] Morgan Beck: // One of, if not, the best HL game imo.
+[23:20:13] Steve Wilson: /ooc invade time
+[23:20:27] CCA.C14-UNION.i2.98240: // Yeah, I'm not gonna ever be nice like I am again. This really makes me feel like I'm shitty.
+[23:20:40] CCA.C14-UNION.i2.98240: // Imma stop doing this ;-;
+[23:20:54] CCA.C14-UNION.i2.98240: // Also your time is almost up
+[23:20:56] Steve Wilson: /ooc a roach
+[23:21:00] CCA.C14-UNION.i2.98240: // Fuck THAT
+[23:21:02] Steve Wilson: /ooc ha
+[23:21:04] Steve Wilson: /ooc sucker
+[23:21:13] Morgan Beck<STEAM_0:1:52892973> spawned NPC monster_roach
+[23:21:22] Steve Wilson: /ooc wait
+[23:21:30] Steve Wilson: /ooc are you placeing roach npcs?
+[23:21:36] CCA.C14-UNION.i2.98240: // Ollie am I alright, Is this gonna get me in trouble for being nice?
+[23:21:37] Morgan Beck: // Maybe
+[23:21:40] CCA.C14-UNION.i2.98240: // ;-;
+[23:21:47] Morgan Beck: // Eh, not really. Not like IC anyone reported it
+[23:22:37] Steve Wilson: /ooc is there anyway to get to be like a combine foot trooper?
+[23:22:39] CCA.C14-UNION.i2.98240: // Whenever I'm tired I get really self doubting so sorry if I seem like more of a bitch boi than normal
+[23:22:42] Morgan Beck: // OTA?
+[23:22:44] CCA.C14-UNION.i2.98240: // Like OTA?
+[23:22:51] Steve Wilson: /ooc the blue guys
+[23:22:58] CCA.C14-UNION.i2.98240: // Like me?
+[23:23:03] Steve Wilson: /ooc no like
+[23:23:07] Steve Wilson: /ooc there basic
+[23:23:11] Morgan Beck: // You talkin about the Combine Soldiers?
+[23:23:14] Steve Wilson: /ooc yeah
+[23:23:18] CCA.C14-UNION.i2.98240: // Thats OTA
+[23:23:21] Steve Wilson: /ooc or is it just cp
+[23:23:25] Morgan Beck: // Yeah. They're called OTA. Overwatch Transhuman Arm
+[23:23:32] Steve Wilson: /ooc huh
+[23:23:44] CCA.C14-UNION.i2.98240: // You have to get to CCA before you can become OTA
+[23:23:53] Steve Wilson: /ooc cca?
+[23:24:00] CCA.C14-UNION.i2.98240: // Become a Cp
+[23:24:05] Morgan Beck: // You can become a OTA through a app process and excelling at being a CCA. 
+[23:24:11] Morgan Beck: // Combine Civil Authroity.
+[23:24:14] CCA.C14-UNION.i2.98240: // Oh it changed?
+[23:24:19] Steve Wilson: /ooc how do i get to be that?
+[23:24:24] CCA.C14-UNION.i2.98240: // Or did you never need to be in CCA
+[23:24:25] Morgan Beck: // We plan on having a app for it.
+[23:24:31] CCA.C14-UNION.i2.98240: Stick to the wall
+[23:24:43] Steve Wilson: /ooc huh
+[23:24:53] Steve Wilson: again?
+[23:25:01] CCA.C14-UNION.i2.98240: /me Slams his stunstick into the mans head Knocking him out.
+[23:25:10] Steve Wilson: /action knocks out
+[23:25:22] Morgan Beck: // You can join CCA by getting 15 LP, via asking a CP for work, turning in contraband with proof it wasn't yours, helping a unit, etc etc
+[23:25:38] CCA.C14-UNION.i2.98240: // Just gonna IC it because I don't want to fuckin have to get you through the Nexus door via TP
+[23:25:41] Steve Wilson: /ooc i think hes kinda mad at me so..
+[23:25:42] CCA.C14-UNION.i2.98240: .// Actually fuck it
+[23:25:43] Morgan Beck: // Then we host a CCA Apps, where people can join up.
+[23:25:52] Steve Wilson: /ooc jesus that made me jump
+[23:25:53] Morgan Beck: // Trust me, you can just make a second character.
+[23:25:56] CCA.C14-UNION.i2.98240: .// Follow
+[23:25:57] Steve Wilson: /ooc volume down
+[23:26:35] CCA.C14-UNION.i2.98240: /me Throws the man onto the grass.
+[23:26:45] CCA.C14-UNION.i2.98240: /me Then cuts his ties
+[23:26:56] CCA.C14-UNION.i2.98240: .// Face the other way
+[23:26:59] Steve Wilson: /action sighs
+[23:27:18] CCA.C14-UNION.i2.98240: Don't ever do this again
+[23:27:21] Steve Wilson: Wait
+[23:27:25] CCA.C14-UNION.i2.98240: Hm
+[23:27:28] Steve Wilson: How can i get a job?
+[23:27:37] CCA.C14-UNION.i2.98240: Ugh, One moment.
+[23:28:31] CCA.C14-UNION.i2.98240: At the moment we don't really have any "Jobs" pursay. If you want LP then feel free to clean the streets of trash.
+[23:28:44] Steve Wilson: ok..
+[23:28:48] CCA.C14-UNION.i2.98240: Move along
+[23:29:01] CCA.C14-UNION.i2.98240: /actlean
+[23:29:19] Steve Wilson: /ooc just curoius can you become a rebel?
+[23:29:26] Morgan Beck: Officer, mind if I get some work? I noticed some graffiti near where I work, and I was wondering if I could get some supplies to clean it.
+[23:29:27] CCA.C14-UNION.i2.98240: // If you want to then just rebel
+[23:29:42] CCA.C14-UNION.i2.98240: // Loot and make weapons. Mug units Etc Etc
+[23:29:42] Morgan Beck: // You rebel by rebelling. In a sense, disliking the combine is a form of rebelling.
+[23:29:57] Steve Wilson: /ooc does it have like the outfit
+[23:30:00] Morgan Beck: // It's all up to you how you rebel. And the motivation.
+[23:30:00] Steve Wilson: /ooc and guns
+[23:30:07] Morgan Beck: // You can get outfits, and it is possible to get guns, albeit hard.
+[23:30:19] Steve Wilson: /ooc how can i get a outfit?
+[23:30:22] CCA.C14-UNION.i2.98240: Hm, Sure. Where was the grafiti?
+[23:30:24] Steve Wilson: /ooc sorry im just new and confused
+[23:30:38] Morgan Beck: // Depends. If you kill a CP, their uniform is ripe for the taking.
+[23:30:47] Steve Wilson: /ooc huh
+[23:30:48] CCA.C14-UNION.i2.98240: // No worries, HL2RP can be a little Confusing ;-;
+[23:31:06] Steve Wilson: /ooc ill keep that in mine >:)
+[23:31:10] Steve Wilson: /ooc mind
+[23:31:40] CCA.C14-UNION.i2.98240: // Remember, Be smart when attacking a CP. Just because their cops doesn't mean they are harmless.
+[23:31:45] Morgan Beck: Alrighty then. If I am misremembering, then it probably was in the slums, either way, I'm still up for cleaning.
+[23:31:57] Steve Wilson: /ooc is there like DOF?
+[23:32:01] Morgan Beck: // DOF?
+[23:32:03] Steve Wilson: /ooc DOC*
+[23:32:08] Morgan Beck: // DOC?
+[23:32:12] Steve Wilson: /ooc death of character
+[23:32:22] Morgan Beck: // Yeah, PKs can happen, but we usually do NLR
+[23:32:30] Steve Wilson: /ooc ohh
+[23:32:48] Morgan Beck: Yeah, not really graffiti, but it's still some... weird ass shit.
+[23:32:51] CCA.C14-UNION.i2.98240: Hm, This looks more like poster.
+[23:33:02] CCA.C14-UNION.i2.98240: .// They are posters you fuck lmao
+[23:33:11] Morgan Beck: Either way, I'm more than happy to clean it off if I can get the supplies
+[23:33:17] Morgan Beck: I'll return them, of course.
+[23:33:25] CCA.C14-UNION.i2.98240: Alright, Sure.
+[23:33:27] Morgan Beck: /looc Shush
+[23:34:27] Morgan Beck: /me leans against the railing. Ugh... he hated doing this type of work, but he wasn't exactly making profit, and could use the extra LP.
+[23:34:56] Morgan Beck: Uh...
+[23:34:56] Steve Wilson: /ooc oops..
+[23:35:16] Morgan Beck: Someone just... died?
+[23:35:19] CCA.C14-UNION.i2.98240: Hm, It seems we don't really have any "Tools" to get rid of Posters on a wall. I recommend asking for work at a later time-
+[23:35:24] Morgan Beck: Where the fuck... did they come from?
+[23:35:40] CCA.C14-UNION.i2.98240: Uh? Where is his body?
+[23:35:48] Morgan Beck: the fuck?
+[23:36:17] CCA.C14-UNION.i2.98240: I'm going to ignore it until I get sightings of his body
+[23:36:26] CCA.C14-UNION.i2.98240: Thats rather...Strange
+[23:36:29] Morgan Beck: Rightyo. Have a good rest of your day, officer.
+[23:36:33] CCA.C14-UNION.i2.98240: Hm
+[23:36:50] Morgan Beck: /reply Might wanna go let him out of spawn
+[23:36:55] CCA.C14-UNION.i2.98240: /reply Oh yeah
+[23:37:33] CCA.C14-UNION.i2.98240: // you need to be let out of spawn?
+[23:37:35] Morgan Beck: // Be careful, usually deaths like that can be PKs if done often, or used to escape a situation
+[23:38:02] Morgan Beck: // Other deaths that count as a PK, could potentially be dying during a mugging, since when it comes to mugs, we use combatRP rather than s2k
+[23:38:03] Steve Wilson: /ooc i jumped and it slid me off
+[23:38:07] Morgan Beck: // oof
+[23:38:14] CCA.C14-UNION.i2.98240: // Imma get off of CCA because I feel way to shitty right now ;-;
+[23:38:19] Morgan Beck: // F
+[23:38:26] CCA.C14-UNION.i2.98240: /radio Unit going 10-7, Status is green
+[23:38:30] Morgan Beck: // I hope Q gets on soon tbh
+[23:38:31] CCA.C14-UNION.i2.98240<STEAM_0:1:17219621> changed their name to OTA.C14-ECHO.OWC.58830
+[23:38:34] OTA.C14-ECHO.OWC.58830: // Ye
+[23:38:50] OTA.C14-ECHO.OWC.58830: /radio Unit is 10-8, Status is green. 10-20 is QZ.
+[23:38:54] Morgan Beck: // I still need to talk to him about several incidents today
+[23:39:00] OTA.C14-ECHO.OWC.58830: // Which?
+[23:39:06] Morgan Beck: // It's a surprise ;)
+[23:39:10] OTA.C14-ECHO.OWC.58830: // Oh I think I'm aware.
+[23:39:56] OTA.C14-ECHO.OWC.58830: // That moment ECHO isn't supposed to deal with CCA shit so I'm just watching a civie run and can't do anything.
+[23:40:01] Morgan Beck: // F
+[23:40:12] Steve Wilson: /ooc sorry i dont really know what to do
+[23:40:17] Morgan Beck: // tfw If I switch to CCA, the scoreboard will look bad.
+[23:40:19] Steve Wilson: /ooc ohhh
+[23:40:25] Steve Wilson: /ooc im learning
+[23:40:41] Morgan Beck: // Well, usually this can be boring if the server is low pop, like it is right now. However you can do some lootRP to find items of use
+[23:40:46] OTA.C14-ECHO.OWC.58830: /radio running 10-91=10-20 Plaza
+[23:40:55] Steve Wilson: /ooc sorry about the burdon btw
+[23:40:57] Morgan Beck: // For example, a dumpster. You would call a admin via @ then a message afterwards
+[23:40:59] Steve Wilson: /ooc how do i do that?
+[23:41:23] Steve Wilson: /ooc a admin has to approve to rob a dumbster?
+[23:41:26] Morgan Beck: // The admin comes, you do a /me on what you're searching, then /roll and the roll will determine if you get anything of value, or nothing at all
+[23:41:30] Morgan Beck: // We give the items.
+[23:41:35] Steve Wilson: /ooc ohh
+[23:41:46] OTA.C14-ECHO.OWC.58830: // It's how it is until we get a better system ;-;
+[23:41:48] Morgan Beck: // Q is workin on making actual entities with items.
+[23:42:07] Morgan Beck: // But he is literally the only coder we have, so oof
+[23:42:34] OTA.C14-ECHO.OWC.58830: // I think at the moment we have more important shit to worry about
+[23:42:39] Morgan Beck: // Yee.
+[23:42:46] OTA.C14-ECHO.OWC.58830: /radio Unit going 10-7.
+[23:42:50] OTA.C14-ECHO.OWC.58830<STEAM_0:1:17219621> changed their name to Gordo Kin
+[23:43:07] Gordo Kin: // Fuck all of you, I'm now on a char that translates to Fat Kin
+[23:43:14] Gordo Kin: // Jk you guys are cool
+[23:43:15] Morgan Beck: // Bruh momento
+[23:43:24] Morgan Beck<STEAM_0:1:52892973> changed their name to CCA.C14-HELIX.EpU.33698
+[23:43:51] CCA.C14-HELIX.EpU.33698: // EpU time
+[23:44:02] Gordo Kin: // YAY, Now we have somebody on a unit who probably isn't about to literally fucking fall asleep on his keyboard.
+[23:44:25] CCA.C14-HELIX.EpU.33698: // You underestimate my ability to pass out
+[23:44:25] Steve Wilson: /ooc hey does this fatass dumbster count?
+[23:44:42] CCA.C14-HELIX.EpU.33698: // There do be nothing within
+[23:44:49] CCA.C14-HELIX.EpU.33698: // Reminder, it doesn't have to be just dumpsters.
+[23:45:02] CCA.C14-HELIX.EpU.33698: // It is lootRP after all.
+[23:45:18] CCA.C14-HELIX.EpU.33698<STEAM_0:1:52892973> spawned NPC npc_zombie_torso
+[23:45:26] CCA.C14-HELIX.EpU.33698<STEAM_0:1:52892973> spawned NPC npc_zombie
+[23:45:31] CCA.C14-HELIX.EpU.33698<STEAM_0:1:52892973> spawned NPC npc_zombie
+[23:45:33] CCA.C14-HELIX.EpU.33698<STEAM_0:1:52892973> spawned NPC npc_zombie_torso
+[23:45:35] CCA.C14-HELIX.EpU.33698<STEAM_0:1:52892973> spawned NPC npc_headcrab
+[23:45:35] Gordo Kin: // Imagine being a rebel, This post was made by Rebel gang
+[23:45:38] CCA.C14-HELIX.EpU.33698<STEAM_0:1:52892973> spawned NPC npc_headcrab
+[23:45:47] Steve Wilson was killed by trigger_hurt
+[23:45:54] Steve Wilson: /ooc mother.
+[23:45:56] Gordo Kin: // Wait I said that wrong
+[23:45:57] Steve Wilson: /ooc ok
+[23:45:58] CCA.C14-HELIX.EpU.33698: // Hm?
+[23:46:00] Steve Wilson: /ooc hold on
+[23:46:27] Steve Wilson: i keep dieing in weird ways
+[23:46:30] Gordo Kin: // Alright. Fuck it, I'm going to bed because I really don't want to ruin my reputation for being a average unit.
+[23:46:31] Steve Wilson: /ooc i keep dieing
+[23:46:36] CCA.C14-HELIX.EpU.33698: // Kk
+[23:46:50] CCA.C14-HELIX.EpU.33698: // I'll prob head off in a few moments too, since I mostly just wanted to talk to Q
+[23:46:55] Gordo Kin: // good night, You guys have a good rest of today.
+[23:46:58] Dropped "Gordo Kin" from server<STEAM_0:1:17219621>
+[23:47:00] CCA.C14-HELIX.EpU.33698: // You too
+[23:47:25] CCA.C14-HELIX.EpU.33698: // Aight, heading off now. See ya. Hope you return sometime soon in the future!
+[23:47:31] Steve Wilson: cya 
+[23:47:33] Dropped "CCA.C14-HELIX.EpU.33698" from server<STEAM_0:1:52892973>
+[23:47:34] Steve Wilson: /ooc cya dude
+[23:49:58] Steve Wilson<STEAM_0:0:171770031> changed their name to Jaiden Valkerie
+[23:50:17] Dropped "Jaiden Valkerie" from server<STEAM_0:0:171770031>
+<Logging continued in "data/ulx_logs/06-27-20.txt">

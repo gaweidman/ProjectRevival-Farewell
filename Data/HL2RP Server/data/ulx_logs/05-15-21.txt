@@ -1,0 +1,19 @@
+[02:39:09] New map: rp_i17_variation_v0
+[20:01:30] Client "FB|| light ROOM" connected.
+[23:44:39] Client "DRD" connected.
+[23:47:19] Client "DRD" spawned in server <STEAM_0:0:193599766> (took 160 seconds).
+[23:48:55] Client "Doughnut" connected.
+[23:50:38] DRD<STEAM_0:0:193599766> changed their name to CCA.C17-GRID.i1.59212
+[23:56:36] Client "Doughnut" spawned in server <STEAM_0:1:127409364> (took 461 seconds).
+[23:57:28] Doughnut<STEAM_0:1:127409364> changed their name to Klaudiusz Olszewski
+[23:58:28] Client "FB|| light ROOM" connected.
+[23:58:57] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_wasteland/kitchen_stove001a.mdl
+[23:58:59] Klaudiusz Olszewski was killed by prop_physics
+[23:59:34] CCA.C17-GRID.i1.59212: !hp hrid 100
+[23:59:36] Klaudiusz Olszewski: // proof: [SERVER] CCA.C17-GRID.i1.59212 has spawned 'models/props_wasteland/kitchen_stove001a.mdl'.[SERVER] Klaudiusz Olszewski has taken 500 damage from prop_physics.[SERVER] prop_physics has killed Klaudiusz Olszewski.
+[23:59:38] CCA.C17-GRID.i1.59212 set the hp for Themself to 100
+[23:59:38] CCA.C17-GRID.i1.59212: !hp grid 100
+[23:59:46] Klaudiusz Olszewski: // sugg nuts
+[23:59:46] CCA.C17-GRID.i1.59212 set the hp for Themself to 120
+[23:59:46] CCA.C17-GRID.i1.59212: !hp grid 120
+<Logging continued in "data/ulx_logs/05-16-21.txt">

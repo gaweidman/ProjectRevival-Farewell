@@ -1,0 +1,2400 @@
+<Logging continued from "data/ulx_logs/09-15-22.txt">
+[00:08:01] Client "The Free Mann" connected.
+[03:08:16] Dropped "Andrew Cloverman" from server<STEAM_0:1:53097688>
+
+
+
+[03:18:17] New map: rp_industrial17_v1
+[06:50:48] Client "Tom Jones #1 Fan" connected.
+[06:52:36] Client "Tom Jones #1 Fan" spawned in server <STEAM_0:1:39081684> (took 108 seconds).
+[06:53:35] Tom Jones #1 Fan<STEAM_0:1:39081684> changed their name to Marti Verdugo
+[07:07:35] Marti Verdugo: /charfallover
+[07:15:24] Dropped "Marti Verdugo" from server<STEAM_0:1:39081684>
+[12:38:33] Client "matt saton" connected.
+[12:41:32] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 179 seconds).
+[12:45:13] matt saton<STEAM_0:1:53097688> changed their name to Andrew Cloverman
+[12:50:43] Client "Lynch" connected.
+[12:58:04] Client "Lynch" spawned in server <STEAM_0:1:626926779> (took 441 seconds).
+[12:58:51] Andrew Cloverman: /charsetthirst andrew 100
+[12:58:55] Andrew Cloverman: /charsethunger andrew 100
+[13:00:31] Lynch<STEAM_0:1:626926779> changed their name to Henry Blackwoods
+[13:01:36] Dropped "Henry Blackwoods" from server<STEAM_0:1:626926779>
+[13:40:41] Andrew Cloverman: //test
+[13:47:04] Andrew Cloverman: //test
+[13:47:14] Andrew Cloverman: /setmapentskin 4
+[13:47:16] Andrew Cloverman: /setmapentskin 15
+[13:47:17] Andrew Cloverman: /setmapentskin 11
+[13:47:20] Andrew Cloverman: /setmapentskin 10
+[13:47:22] Andrew Cloverman: /setmapentskin 8
+[13:47:23] Andrew Cloverman: /setmapentskin 9
+[13:47:24] Andrew Cloverman: /setmapentskin 14
+[13:47:26] Andrew Cloverman: /setmapentskin 15
+[13:47:27] Andrew Cloverman: /setmapentskin 13
+[13:47:28] Andrew Cloverman: /setmapentskin 12
+[13:48:40] Andrew Cloverman: /toggleraise
+[13:48:45] Andrew Cloverman: /setmapentskin 12
+[13:48:47] Andrew Cloverman: /setmapentskin 12
+[13:48:52] Andrew Cloverman: /doorsettitle
+[13:48:58] Andrew Cloverman: /doorsettitle "<:: RESTRICTED AREA ::>
+[13:49:00] Andrew Cloverman: /doorsettitle "<:: RESTRICTED AREA ::>"
+[13:49:12] Andrew Cloverman: /me takes out their datapad and types a couple things in.
+[13:49:18] Andrew Cloverman: /setmapentskin 4
+[13:49:21] Andrew Cloverman: /setmapentskin 5
+[13:49:22] Andrew Cloverman: /setmapentskin 4
+[13:49:23] Andrew Cloverman: /setmapentskin 4
+[13:49:27] Andrew Cloverman: /setmapentskin 4
+[13:49:29] Andrew Cloverman: /setmapentskin 4
+[13:49:33] Andrew Cloverman: /setmapentskin 3
+[13:49:34] Andrew Cloverman: /setmapentskin 5
+[13:49:35] Andrew Cloverman: /setmapentskin 6
+[13:49:36] Andrew Cloverman: /setmapentskin 7
+[13:49:37] Andrew Cloverman: /setmapentskin 8
+[13:49:38] Andrew Cloverman: /setmapentskin 9
+[13:49:40] Andrew Cloverman: /setmapentskin 8
+[13:49:47] Andrew Cloverman: /setmapentskin 8
+[13:49:52] Andrew Cloverman: /setmapentskin 6
+[13:49:54] Andrew Cloverman: /setmapentskin 5
+[13:49:54] Andrew Cloverman: /setmapentskin 4
+[13:49:55] Andrew Cloverman: /setmapentskin 5
+[13:49:56] Andrew Cloverman: /setmapentskin 6
+[13:49:57] Andrew Cloverman: /setmapentskin 7
+[13:49:59] Andrew Cloverman: /setmapentskin 3
+[13:50:00] Andrew Cloverman: /setmapentskin 4
+[13:50:01] Andrew Cloverman: /toggleraise
+[13:50:05] Andrew Cloverman: /setmapentskin 4
+[13:50:07] Andrew Cloverman: /setmapentskin 4
+[13:50:08] Andrew Cloverman: /setmapentskin 4
+[13:50:18] Client "LiGhT" connected.
+[13:50:18] Andrew Cloverman: /setmapentskin 4
+[13:50:22] Andrew Cloverman: /setmapentskin 4
+[13:51:17] Andrew Cloverman: /setmapentskin 8
+[13:51:22] Andrew Cloverman: /setmapentskin 4
+[13:51:24] Andrew Cloverman: /setmapentskin 8
+[13:51:29] Andrew Cloverman: /setmapentskin 8
+[13:51:51] Andrew Cloverman: /setmapentskin 5
+[13:51:53] Andrew Cloverman: /setmapentskin 11
+[13:51:54] Andrew Cloverman: /setmapentskin 12
+[13:51:57] Andrew Cloverman: /setmapentskin 10
+[13:51:59] Andrew Cloverman: /setmapentskin 9
+[13:52:01] Andrew Cloverman: /setmapentskin 14
+[13:52:01] Andrew Cloverman: /setmapentskin 13
+[13:53:21] Andrew Cloverman: /setmapentskin 12
+[13:53:23] Andrew Cloverman: /setmapentskin 1
+[13:53:23] Andrew Cloverman: /setmapentskin 2
+[13:53:24] Andrew Cloverman: /setmapentskin 3
+[13:53:25] Andrew Cloverman: /setmapentskin 4
+[13:53:25] Andrew Cloverman: /setmapentskin 5
+[13:53:26] Andrew Cloverman: /setmapentskin 6
+[13:53:27] Andrew Cloverman: /setmapentskin 7
+[13:53:28] Andrew Cloverman: /setmapentskin 8
+[13:53:29] Andrew Cloverman: /setmapentskin 9
+[13:53:31] Andrew Cloverman: /setmapentskin 10
+[13:53:32] Andrew Cloverman: /setmapentskin 11
+[13:53:33] Andrew Cloverman: /setmapentskin 12
+[13:53:34] Andrew Cloverman: /setmapentskin 13
+[13:53:35] Andrew Cloverman: /setmapentskin 14
+[13:53:43] Andrew Cloverman: /setmapentskin 14
+[13:53:48] Andrew Cloverman: /setmapentskin 14
+[13:53:50] Andrew Cloverman: /setmapentskin 1
+[13:53:50] Andrew Cloverman: /setmapentskin 2
+[13:53:51] Andrew Cloverman: /setmapentskin 3
+[13:53:53] Andrew Cloverman: /setmapentskin 1
+[13:53:54] Andrew Cloverman: /setmapentskin 111
+[13:53:55] Andrew Cloverman: /setmapentskin 11
+[13:53:57] Andrew Cloverman: /setmapentskin 10
+[13:53:58] Andrew Cloverman: /setmapentskin 12
+[13:54:00] Andrew Cloverman: /setmapentskin 13
+[13:54:02] Andrew Cloverman: /setmapentskin 13
+[13:54:04] Andrew Cloverman: /setmapentskin 14
+[13:54:16] Andrew Cloverman: /setmapentskin 14
+[13:54:17] Andrew Cloverman: /setmapentskin 14
+[13:54:19] Andrew Cloverman: /setmapentskin 14
+[13:54:22] Andrew Cloverman: /setmapentskin 14
+[13:54:25] Andrew Cloverman: /setmapentskin 11
+[13:54:43] Andrew Cloverman: /setmapentskin 1
+[13:54:44] Andrew Cloverman: /setmapentskin 2
+[13:54:44] Andrew Cloverman: /setmapentskin 3
+[13:54:45] Andrew Cloverman: /setmapentskin 4
+[13:54:46] Andrew Cloverman: /setmapentskin 5
+[13:54:46] Andrew Cloverman: /setmapentskin 6
+[13:54:47] Andrew Cloverman: /setmapentskin 7
+[13:54:48] Andrew Cloverman: /setmapentskin 8
+[13:54:49] Andrew Cloverman: /setmapentskin 9
+[13:54:51] Andrew Cloverman: /setmapentskin 10
+[13:54:53] Andrew Cloverman: /setmapentskin 11
+[13:54:54] Andrew Cloverman: /setmapentskin 12
+[13:54:55] Andrew Cloverman: /setmapentskin 13
+[13:54:56] Andrew Cloverman: /setmapentskin 14
+[13:55:02] Andrew Cloverman: /setmapentskin 14
+[13:55:06] Andrew Cloverman: /setmapentskin 14
+[13:55:20] Andrew Cloverman: /setmapentskin 14
+[13:55:31] Andrew Cloverman: /setmapentskin 14
+[13:55:34] Andrew Cloverman: /setmapentskin 14
+[13:55:36] Andrew Cloverman: /setmapentskin 14
+[13:55:51] Andrew Cloverman: /setmapentskin 14
+[13:55:54] Andrew Cloverman: /setmapentskin 4
+[13:55:55] Andrew Cloverman: /setmapentskin 5
+[13:56:02] Andrew Cloverman: /setmapentskin 2
+[13:56:04] Andrew Cloverman: /setmapentskin 11
+[13:56:05] Andrew Cloverman: /setmapentskin 12
+[13:56:06] Andrew Cloverman: /setmapentskin 3
+[13:56:07] Andrew Cloverman: /setmapentskin 4
+[13:56:08] Andrew Cloverman: /setmapentskin 5
+[13:56:09] Andrew Cloverman: /setmapentskin 5
+[13:56:13] Andrew Cloverman: /setmapentskin 4
+[13:56:14] Andrew Cloverman: /setmapentskin 6
+[13:56:15] Andrew Cloverman: /setmapentskin 5
+[13:56:24] Andrew Cloverman: /setmapentskin 10
+[13:56:25] Andrew Cloverman: /setmapentskin 11
+[13:56:26] Andrew Cloverman: /setmapentskin 12
+[13:56:27] Andrew Cloverman: /setmapentskin 13
+[13:56:27] Andrew Cloverman: /setmapentskin 14
+[13:56:29] Andrew Cloverman: /setmapentskin 4
+[13:56:30] Andrew Cloverman: /setmapentskin 1
+[13:56:31] Andrew Cloverman: /setmapentskin 2
+[13:56:32] Andrew Cloverman: /setmapentskin 2
+[13:56:37] Andrew Cloverman: /setmapentskin 2
+[13:56:48] Andrew Cloverman: /setmapentskin 2
+[13:56:50] Andrew Cloverman: /setmapentskin 2
+[13:56:53] Andrew Cloverman: /setmapentskin 2
+[13:56:56] Andrew Cloverman: /setmapentskin 2
+[13:59:00] Andrew Cloverman granted access "ulx give" to group trialmod
+[15:30:04] Client "Painevan" connected.
+[15:40:53] Client "Painevan" spawned in server <STEAM_0:0:68118061> (took 649 seconds).
+[15:42:06] Painevan<STEAM_0:0:68118061> changed their name to Jonathan Jackson
+[15:42:35] Jonathan Jackson<STEAM_0:0:68118061> changed their name to Zombie
+[15:48:02] Dropped "Zombie" from server<STEAM_0:0:68118061>
+[15:48:24] Client "Painevan" connected.
+[15:49:30] Client "Painevan" spawned in server <STEAM_0:0:68118061> (took 66 seconds).
+[15:50:11] Painevan<STEAM_0:0:68118061> changed their name to Zombie
+[16:08:16] Zombie: u
+[16:10:46] Client "Bean" connected.
+[16:11:51] Client "Bean" spawned in server <STEAM_0:1:591779303> (took 65 seconds).
+[16:12:32] Bean<STEAM_0:1:591779303> changed their name to Alex Palovichov
+[16:12:40] Alex Palovichov: /ooc Good evening my friends...
+[16:14:02] Alex Palovichov<STEAM_0:1:591779303> changed their name to James McKay
+[16:14:37] Client "Kore" connected.
+[16:15:45] James McKay: my gut
+[16:16:42] James McKay: Damnit...
+[16:17:07] James McKay: my arm
+[16:17:40] Zombie: // I exist
+[16:17:43] James McKay: /ooc he does
+[16:17:46] Zombie<STEAM_0:0:68118061> changed their name to Jonathan Jackson
+[16:17:50] Jonathan Jackson<STEAM_0:0:68118061> changed their name to Harold George
+[16:18:43] Harold George: // Do you have a CCA Char?
+[16:18:48] James McKay: /ooc Nope...
+[16:18:57] Harold George: // F
+[16:19:15] James McKay: /ooc A few things about TMod are a bit broken
+[16:20:00] Harold George: // That sucks
+[16:20:44] James McKay: /me Would bring his arm up, taking out a bandage and would begin to tightly wrap the bandage around his arm
+[16:20:51] James McKay: Ah...
+[16:20:55] James McKay: Better...
+[16:21:55] Harold George: // Who works at the kiosk
+[16:22:03] James McKay: /ooc I legit...don't know
+[16:22:18] Harold George: // I haven't even seen it open
+[16:22:23] James McKay: /ooc Me neither...
+[16:23:29] Harold George: // get outta here doctor
+[16:23:32] James McKay: /ooc Nah
+[16:23:33] Harold George: // what a loser
+[16:23:38] James McKay: /ooc Best rebel here
+[16:23:57] Harold George: // Literally haven't even taken down the propoganda note yet
+[16:24:02] James McKay: /ooc Lmao
+[16:24:35] Harold George: // I hate being on poor characters with no respirators
+[16:24:42] Harold George: // so sad :I
+[16:24:51] James McKay: /ooc There are many riches in the sewers...
+[16:25:04] Harold George: // sewers have people and people are dangerous
+[16:25:12] Harold George: // Looking out for yourself is key
+[16:25:30] James McKay: /ooc Well...not all people are dangerous...
+[16:25:56] Harold George: // do not test me traveler
+[16:26:38] James McKay: /y Why hello!
+[16:26:55] James McKay: /y Did you break something?
+[16:27:00] Harold George: I'm not interested in what you are selling.
+[16:27:04] James McKay: Me?
+[16:27:07] James McKay: Selling?!
+[16:27:10] James McKay: /me Chuckles
+[16:27:14] Client "Kore" spawned in server <STEAM_0:0:717132571> (took 757 seconds).
+[16:27:18] James McKay: My friend...I do not sell...I give...
+[16:27:40] Harold George: Great, not interested
+[16:27:59] James McKay: Heh...
+[16:28:08] James McKay: Quite the trouble maker...
+[16:28:23] Harold George: // I want to jump down in the industrial district so bad
+[16:28:27] Client "Dohen" connected.
+[16:28:33] Dropped "Kore" from server<STEAM_0:0:717132571>
+[16:28:49] Harold George: // I mean the garbage chute
+[16:29:47] Harold George: // Can you do RP Modding?
+[16:29:56] James McKay: /ooc GMing?
+[16:29:57] James McKay: /ooc yes
+[16:30:02] Harold George to admins: I require
+[16:30:21] James McKay teleported Harold George
+[16:30:24] James McKay: AH
+[16:30:25] Harold George: bruh
+[16:30:27] James McKay: /looc SHIT
+[16:30:30] Harold George: It's !goto
+[16:30:34] James McKay returned Harold George to their original position
+[16:30:40] James McKay teleported to Harold George
+[16:30:43] James McKay: /looc lmao
+[16:30:53] Harold George: /me attempts to pry open the door using his crowbar.
+[16:31:08] Harold George: /looc I assume I do strength roll?
+[16:31:15] James McKay: /it The crowbar seemingly being less inclined to fit in...Without a prybar, it becomes harder
+[16:31:32] James McKay: /looc Roll Strength 65+
+[16:31:39] Harold George: /roll strength
+[16:31:42] Harold George: /looc heck
+[16:32:05] James McKay: /it The crowbar would jolt out of place, failing to open the door 
+[16:32:14] Harold George: /looc plan b
+[16:33:08] Harold George: /me tries to run into the door to attempt to break it enough to get through.
+[16:33:17] Harold George: /looc Bash into is a better word
+[16:33:33] James McKay: /looc roll strength 75+
+[16:33:40] Harold George: /roll strength
+[16:33:44] Harold George: /looc HECK
+[16:34:00] James McKay: /it Would run into the door, it stopping him dead in his tracks. A loud bang is echoed throughout the building
+[16:34:05] Harold George: /looc doors are stupid anyways
+[16:34:09] James McKay: /looc lmao
+[16:34:11] Harold George: Fuck
+[16:35:04] Client "Dohen" spawned in server <STEAM_0:1:74741654> (took 397 seconds).
+[16:35:09] Harold George: /me gets changed into a new suit\
+[16:35:20] Harold George: // If any of them connect I'll go on a CP
+[16:37:57] James McKay: !unlock
+[16:38:28] Harold George to admins: Crate is glitched into the ground
+[16:38:31] James McKay<STEAM_0:1:591779303> changed their name to Alex Palovichov
+[16:38:40] Alex Palovichov: /looc Not glitched, hidden
+[16:38:47] Alex Palovichov: /looc You need IC info I believe on that
+[16:38:47] Harold George: /looc How is that hidden
+[16:38:54] Harold George: /looc it's in the ground
+[16:39:03] Alex Palovichov: /looc Its supposed to be hidden behind the couch
+[16:39:15] Harold George: /looc Then that couch would be very far out
+[16:39:22] Harold George: /looc It is a big crate
+[16:39:24] Alex Palovichov: /looc And since we couldn't fit a crate behind the couch, I presume they put it into the ground
+[16:39:40] Harold George: // Smart 100
+[16:39:40] Alex Palovichov: /looc I remember hearing about this, but wasn't around to see it put in, so Idk...
+[16:39:46] Alex Palovichov: /looc Thats what I'm guessing
+[16:39:48] Harold George: /looc big dumb
+[16:39:51] Alex Palovichov: /looc But you can't search through it
+[16:40:04] Harold George: // It doesn't have anything anyways
+[16:40:39] Alex Palovichov: /it The sound of someone walking can be heard, getting closer with each step
+[16:40:59] Alex Palovichov: Hm...
+[16:41:10] Alex Palovichov: Wonder what that noise was...
+[16:41:31] Alex Palovichov: What the...
+[16:41:58] Alex Palovichov: /y Hello?
+[16:42:21] Alex Palovichov: Odd...
+[16:42:30] Alex Palovichov: Thought I heard someone in here...
+[16:42:51] Alex Palovichov: /y Just tryin' to ask a few questions about some noises!
+[16:43:13] Alex Palovichov: /me Would shake the door handle, seeing that its unlocked
+[16:43:19] Alex Palovichov: Hm..
+[16:43:46] Alex Palovichov: /y Come on! Open the door, I just wanna talk!
+[16:43:57] Dohen<STEAM_0:1:74741654> changed their name to Charlie Morales
+[16:44:13] Harold George: /looc pause new guy
+[16:44:16] Charlie Morales: EIJFIEJ
+[16:44:17] Alex Palovichov: /me Would grumble, reaching into his pocket taking out a request device and speaks into it
+[16:44:17] Harold George<STEAM_0:0:68118061> changed their name to CCA.C17-HELIX.i4.08874
+[16:44:22] Alex Palovichov: /ooc Welcome Dohen!
+[16:44:36] CCA.C17-HELIX.i4.08874: // I'll be with you in a second
+[16:44:43] Charlie Morales: // Thanks
+[16:45:02] Alex Palovichov: /ooc Don't forget to put on your suit and have a filter in it
+[16:45:11] Charlie Morales: // How do you suppose I go about that?
+[16:45:20] Alex Palovichov: /ooc Pressing TAB would open your inventory
+[16:45:31] CCA.C17-HELIX.i4.08874: /radio 10-8
+[16:45:37] Alex Palovichov: /ooc After opening it, you press on the suit, put it on and then put the filter into it
+[16:45:47] CCA.C17-HELIX.i4.08874: Citizen
+[16:45:58] CCA.C17-HELIX.i4.08874: Give me your coupon, now.
+[16:46:17] Alex Palovichov: /ooc Also don't forget to download the server content and join the discord!
+[16:46:25] Alex Palovichov: /ooc https://discord.gg/EM2XBvdJ
+[16:46:39] Alex Palovichov: /ooc https://steamcommunity.com/sharedfiles/filedetails/?id=2372986667
+[16:46:40] Charlie Morales: "Uhh...lemme get it."
+[16:46:45] CCA.C17-HELIX.i4.08874: Coupon, now. I won't ask again.
+[16:47:03] CCA.C17-HELIX.i4.08874: /radio Blip
+[16:47:18] CCA.C17-HELIX.i4.08874: Move back
+[16:47:38] CCA.C17-HELIX.i4.08874: I'm going to ask you questions, you answer honestly and you'll get your CID.
+[16:47:57] Charlie Morales: Alright, I'll answer the best I can.
+[16:48:00] CCA.C17-HELIX.i4.08874: /me takes out a small PDA and switches it on. The screen illuminates green.
+[16:48:05] CCA.C17-HELIX.i4.08874: I assume you are male?
+[16:48:11] Charlie Morales: That's correct.
+[16:48:18] CCA.C17-HELIX.i4.08874: Full name?
+[16:48:21] CCA.C17-HELIX.i4.08874: /radio Charlie
+[16:48:28] CCA.C17-HELIX.i4.08874: /looc Void
+[16:48:32] CCA.C17-HELIX.i4.08874: /looc Mistyped command
+[16:48:40] CCA.C17-HELIX.i4.08874: /viewdata charlie
+[16:48:47] Charlie Morales: // wait uhhhhh voice chat don't work here yeah?
+[16:49:00] CCA.C17-HELIX.i4.08874: /looc Nah it doesn't, they disabled it 
+[16:49:02] Charlie Morales: // ok just makin sure 
+[16:49:03] Alex Palovichov: /ooc Correct, This server uses chat based only
+[16:49:11] Charlie Morales: Charlie... Morales.
+[16:49:17] CCA.C17-HELIX.i4.08874: Mhm
+[16:49:24] CCA.C17-HELIX.i4.08874: Date of birth.
+[16:49:30] CCA.C17-HELIX.i4.08874: /viewdata charlie
+[16:50:06] Charlie Morales: September fourteenth, two thousand.
+[16:50:15] Alex Palovichov: /looc The server takes place in 2006
+[16:50:23] CCA.C17-HELIX.i4.08874: /looc literally spying on us
+[16:50:24] Charlie Morales: // Oh shit I gotchu
+[16:50:27] CCA.C17-HELIX.i4.08874: /looc what an admin
+[16:50:29] Alex Palovichov: /looc The minimum age would have to be 1986
+[16:50:32] Charlie Morales: // LEMME CORRECT MYSELF 
+[16:50:35] Charlie Morales: // LMAO
+[16:50:40] Alex Palovichov: /ooc Lmao, all good
+[16:50:43] CCA.C17-HELIX.i4.08874: I said no lying.
+[16:50:59] Charlie Morales: // I thought it was like 2023 or somethin lmao
+[16:51:03] Alex Palovichov: /ooc Lmao
+[16:51:07] CCA.C17-HELIX.i4.08874: // Cyberpunk 2023
+[16:51:39] Charlie Morales: Uhh- Sorry, I dunno why I said that. I think I had uhhh... a moment. But anyway, uh, September fourteenth, ninteen eighty two.
+[16:51:53] Charlie Morales: /. OH SHIT
+[16:51:57] Charlie Morales: // WAIT DID I HIT HIM
+[16:52:00] Charlie Morales: // OH SHIT
+[16:52:02] CCA.C17-HELIX.i4.08874: You.
+[16:52:08] CCA.C17-HELIX.i4.08874: Get on the wall, now.
+[16:52:13] Charlie Morales: // That was a misclick but I must accept my fate...
+[16:52:22] CCA.C17-HELIX.i4.08874: Get over there
+[16:52:26] Alex Palovichov: /looc misclicks can be voided on both peoples agreement
+[16:52:33] CCA.C17-HELIX.i4.08874: /looc Nah this is funny
+[16:52:36] Charlie Morales: // Oh you wanna void that or roll with it?
+[16:52:46] CCA.C17-HELIX.i4.08874: /looc Clearly this is better I like abusing people
+[16:52:49] Charlie Morales: // Ok let's roll with it
+[16:53:05] Alex Palovichov: /ooc Btw /looc would allow you to type in a localized version of OOC
+[16:53:12] Charlie Morales: // Oh-
+[16:53:14] CCA.C17-HELIX.i4.08874: Prepare to receive Civil Judgement
+[16:53:23] Charlie Morales: OUGGUH
+[16:53:30] CCA.C17-HELIX.i4.08874: Don't do it again.
+[16:53:48] Alex Palovichov: /ooc Huh...I realize I should've asked Q ALOT more questions...
+[16:53:53] Alex Palovichov: /ooc Well...
+[16:53:59] Alex Palovichov: /ooc I'm bound to find out eventually...
+[16:54:02] CCA.C17-HELIX.i4.08874: /looc I set it on low because I feel bad
+[16:54:16] Client "Lynch" connected.
+[16:54:32] Charlie Morales: Yeah uh, sorry about that. I think I'm a bit... uh... you know what I don't have an excuse. I think my brain hurts.
+[16:54:46] CCA.C17-HELIX.i4.08874: I'm over here.
+[16:54:59] Alex Palovichov: !unlock
+[16:55:15] CCA.C17-HELIX.i4.08874: Moving on.
+[16:55:23] CCA.C17-HELIX.i4.08874: Blood type?
+[16:55:28] CCA.C17-HELIX.i4.08874: /viewdata charlie
+[16:55:36] Alex Palovichov: /ooc mmm...time to find the command to unlock doors
+[16:55:38] Charlie Morales: Uhhh... I'm tryna remember...
+[16:55:45] Client "Lynch" spawned in server <STEAM_0:1:626926779> (took 89 seconds).
+[16:55:57] Charlie Morales: I think I'm a type O, sir.
+[16:55:57] Alex Palovichov: !unlock
+[16:56:02] CCA.C17-HELIX.i4.08874: /me sighs into the vocoder.
+[16:56:04] CCA.C17-HELIX.i4.08874: Alright.
+[16:56:05] Alex Palovichov: !open
+[16:56:16] CCA.C17-HELIX.i4.08874: /me types more into the PDA.
+[16:56:40] CCA.C17-HELIX.i4.08874: I assume you have a mental defficency, but it's required nonetheless.
+[16:56:48] CCA.C17-HELIX.i4.08874: Do you have any mental or physical conditions?
+[16:56:55] Charlie Morales: I can't even defend myself here.
+[16:56:58] Charlie Morales: Uhhh...
+[16:56:58] CCA.C17-HELIX.i4.08874: /viewdata charlie
+[16:57:20] Lynch<STEAM_0:1:626926779> changed their name to Henry Blackwoods
+[16:57:20] Charlie Morales: I guess it's hard for me to learn at times. I dunno any specific conditions though.
+[16:57:31] Charlie Morales: I don't think I was diagnosed.
+[16:57:35] CCA.C17-HELIX.i4.08874: /pm alex New guy
+[16:57:46] CCA.C17-HELIX.i4.08874: Mhm.
+[16:57:50] CCA.C17-HELIX.i4.08874: /viewdata Charlie
+[16:57:51] Alex Palovichov: /reply Lynch?
+[16:58:00] Charlie Morales: I could...definitely be wrong though.
+[16:58:02] Alex Palovichov: /reply He has gotten his stuff already and is out of the trainstation...
+[16:58:14] CCA.C17-HELIX.i4.08874: /pm alex k
+[16:58:20] CCA.C17-HELIX.i4.08874: You in CWU?
+[16:58:32] Charlie Morales: CWU?
+[16:58:38] CCA.C17-HELIX.i4.08874: I'll take that as a no.
+[16:58:44] CCA.C17-HELIX.i4.08874: /viewdata charlie
+[16:58:49] Charlie Morales: Right, right.
+[16:58:58] CCA.C17-HELIX.i4.08874: /me hands out a CID.
+[16:59:11] CCA.C17-HELIX.i4.08874: Get out of here
+[16:59:17] Client "wendigo" connected.
+[16:59:26] Charlie Morales: Uhhhh... you want me to just leave this area?
+[16:59:30] CCA.C17-HELIX.i4.08874: Go.
+[16:59:36] Charlie Morales: Alright I'm movin'.
+[16:59:43] CCA.C17-HELIX.i4.08874: Over here.
+[16:59:51] CCA.C17-HELIX.i4.08874: Towards the City.
+[16:59:54] Charlie Morales: Oh.
+[16:59:56] CCA.C17-HELIX.i4.08874: /w Christ.
+[17:00:05] Charlie Morales: Uhhh thanks officer.
+[17:00:06] CCA.C17-HELIX.i4.08874: Move it
+[17:00:12] Charlie Morales: Alright I'm movin..!
+[17:00:24] Alex Palovichov: New guy eh?
+[17:00:35] CCA.C17-HELIX.i4.08874: // Socially awkward Citizen meets the cop who hates his job most
+[17:00:35] Charlie Morales: Uhhh... Yeah, somethin' like that.
+[17:00:36] Alex Palovichov: /me Chuckles "More workers the better I guess..."
+[17:00:37] CCA.C17-HELIX.i4.08874: // Good combo
+[17:00:43] Charlie Morales: I really embarassed myself back there.
+[17:00:53] Alex Palovichov: You'll get used to doing that...
+[17:00:55] Client "wendigo" spawned in server <STEAM_0:1:429480781> (took 98 seconds).
+[17:01:04] Charlie Morales: ....Something tells me you're right.
+[17:01:05] Alex Palovichov: /ooc Well...thats alotta people
+[17:01:14] CCA.C17-HELIX.i4.08874: /radio At location report
+[17:01:19] Alex Palovichov: I'm always right...You learn when you've been here this long...
+[17:01:25] Henry Blackwoods: // Do armbands work now?
+[17:01:30] wendigo<STEAM_0:1:429480781> changed their name to Jason
+[17:01:32] CCA.C17-HELIX.i4.08874: // I don't know
+[17:01:35] Alex Palovichov: /ooc Not currently to my knowledge...
+[17:01:37] Henry Blackwoods: // Breh
+[17:01:47] CCA.C17-HELIX.i4.08874: /radio Transfering new citizen.
+[17:01:47] Alex Palovichov: /ooc If you need a armband, just put it into your char desc
+[17:02:02] Jason: /ooc halp im stuck!!
+[17:02:08] CCA.C17-HELIX.i4.08874: Move back.
+[17:02:11] Jason: /ooc nvm
+[17:02:14] Alex Palovichov: /looc You require a proper first and last name
+[17:02:23] Jason: /looc damn rlly?
+[17:02:33] Jason: /looc that poopy
+[17:02:46] CCA.C17-HELIX.i4.08874: /looc Yeah, you can have it set I think
+[17:02:51] Alex Palovichov: /looc Yep! You require a proper first and last name, and a proper Char Description...It doesn't have to be special, but just a way to describe you
+[17:02:57] Alex Palovichov: /looc I think...
+[17:03:03] CCA.C17-HELIX.i4.08874: /looc The char desc doesn't matter that much
+[17:03:14] Alex Palovichov: /looc Char Desc's can be change on the spot with /CharDesc
+[17:03:22] Alex Palovichov: /looc Though changing names...
+[17:03:25] Jason: /chardesc
+[17:03:33] Charlie Morales: // Time to see who I can find...
+[17:03:35] CCA.C17-HELIX.i4.08874: /looc Just make a character with a first and last name, and come back over here. Description doesn't really matter
+[17:03:48] CCA.C17-HELIX.i4.08874: // no rebel activities or I beat you
+[17:03:56] Jason: /looc well how do i get to the menu
+[17:03:56] CCA.C17-HELIX.i4.08874: // :)
+[17:04:00] Charlie Morales: // OK I BELIEVE YOU
+[17:04:07] CCA.C17-HELIX.i4.08874: /looc Tab then do return to menu in the top right
+[17:04:20] Alex Palovichov: /ooc Rebel RP???
+[17:04:25] CCA.C17-HELIX.i4.08874: // REBEL RP
+[17:04:30] Alex Palovichov<STEAM_0:1:591779303> changed their name to James McKay
+[17:04:33] Charlie Morales: // With how today just went I'd probably be shot BY the rebels if I tried to join knowing what came over me back there 
+[17:04:53] CCA.C17-HELIX.i4.08874: // Lol maybe
+[17:05:07] CCA.C17-HELIX.i4.08874: // There's like two full on rebels rn
+[17:05:16] James McKay: /looc Right
+[17:05:21] James McKay: /looc What do you want your name to be
+[17:05:29] CCA.C17-HELIX.i4.08874: /looc He's making a new one I think
+[17:05:32] James McKay: /looc Oh...
+[17:05:54] James McKay: /ooc If you have any questions, feel free to ask me using @ [Message]
+[17:07:08] CCA.C17-HELIX.i4.08874: /pm james I told him to make a new one otherwise you'd need to make a custom coupon for him
+[17:07:18] James McKay: /reply Ah alr
+[17:07:54] CCA.C17-HELIX.i4.08874: /looc You almost done making the char?
+[17:07:55] Jason<STEAM_0:1:429480781> changed their name to Jason Voorhees
+[17:08:14] Jason Voorhees: /looc there
+[17:08:15] CCA.C17-HELIX.i4.08874: Citizen
+[17:08:21] CCA.C17-HELIX.i4.08874: Put on your suit and filter.
+[17:08:29] Jason Voorhees: /looc how
+[17:08:36] CCA.C17-HELIX.i4.08874: So I don't have to clean up your body.
+[17:08:57] CCA.C17-HELIX.i4.08874: /looc TAB then you can right click on the suit to equip, then right click on a filter to use it
+[17:09:17] Jason Voorhees: /looc nice
+[17:09:24] CCA.C17-HELIX.i4.08874: Full name.
+[17:09:32] Jason Voorhees: jason voorhees
+[17:09:40] CCA.C17-HELIX.i4.08874: Uh huh.
+[17:09:52] CCA.C17-HELIX.i4.08874: Drop your relocation coupon.
+[17:09:52] Jason Voorhees: /looc amazing name isn't it :)
+[17:09:54] Henry Blackwoods: Ah shit.
+[17:10:17] CCA.C17-HELIX.i4.08874: /radio blip
+[17:10:34] CCA.C17-HELIX.i4.08874: Move back.
+[17:10:49] CCA.C17-HELIX.i4.08874: You are going to answer some questions.
+[17:10:52] James McKay<STEAM_0:1:591779303> spawned/gave himself swep weapon_physgun
+[17:10:55] CCA.C17-HELIX.i4.08874: I assume you are male?
+[17:10:58] Jason Voorhees: yes
+[17:11:01] CCA.C17-HELIX.i4.08874: Mhm
+[17:11:13] CCA.C17-HELIX.i4.08874: /me pulls out a small PDA, switching it on. It illuminates green.
+[17:11:22] CCA.C17-HELIX.i4.08874: Date of birth.
+[17:11:26] CCA.C17-HELIX.i4.08874: /viewdata jason
+[17:11:39] Jason Voorhees: 1993 march
+[17:11:58] CCA.C17-HELIX.i4.08874: /looc Min birth date is 1986, since the year is 2003
+[17:12:10] Jason Voorhees: /looc e
+[17:12:18] James McKay: Ah...
+[17:12:19] James McKay: Hello!
+[17:12:19] CCA.C17-HELIX.i4.08874: I need your actual birthdate.
+[17:12:23] Henry Blackwoods: Hey there..
+[17:12:24] James McKay: You do well?
+[17:12:27] Henry Blackwoods: Erm..
+[17:12:31] James McKay: What?
+[17:12:31] Jason Voorhees: 1986
+[17:12:35] CCA.C17-HELIX.i4.08874: Mhm
+[17:12:35] James McKay: You nervous?
+[17:12:36] Henry Blackwoods: Nothing.
+[17:12:41] CCA.C17-HELIX.i4.08874: /viewdata jason
+[17:12:50] James McKay: Don't be!
+[17:12:55] CCA.C17-HELIX.i4.08874: Blood type?
+[17:12:59] James McKay: Please...Call me "The Doctor"
+[17:13:04] Jason Voorhees: 0+
+[17:13:06] Henry Blackwoods: Oh yeah!...
+[17:13:06] James McKay: You do well?
+[17:13:07] CCA.C17-HELIX.i4.08874: /viewdata jason
+[17:13:14] Henry Blackwoods: I saw a piece of paper with your title on it.
+[17:13:28] James McKay: Ah! You saw that?!
+[17:13:31] CCA.C17-HELIX.i4.08874: Mkay.
+[17:13:33] Henry Blackwoods: Yeah..
+[17:13:38] CCA.C17-HELIX.i4.08874: /me types in some notes into the PDA.
+[17:13:40] James McKay: /me Chuckles "I'm impressed the CPs haven't taken it down!"
+[17:13:53] CCA.C17-HELIX.i4.08874: Any physical or mental conditions we should be aware of?
+[17:13:57] Henry Blackwoods: Hm well...
+[17:13:59] Jason Voorhees: Nope
+[17:14:04] CCA.C17-HELIX.i4.08874: Alright
+[17:14:12] CCA.C17-HELIX.i4.08874: You in CWU?
+[17:14:12] James McKay: Ah...Good! Good!...
+[17:14:22] James McKay: You hungry? Thirsty?
+[17:14:23] Jason Voorhees: /looc what
+[17:14:30] Jason Voorhees: /looc idk this lol
+[17:14:32] CCA.C17-HELIX.i4.08874: /looc Ask IC if you aren't sure
+[17:14:32] Henry Blackwoods: I am thirsty for air, honestly.
+[17:14:40] James McKay: Ah...Many people are!
+[17:14:42] James McKay: Come! Come!
+[17:14:47] Jason Voorhees: What is that never heard of it
+[17:14:47] Henry Blackwoods: Yeah..
+[17:14:58] CCA.C17-HELIX.i4.08874: Civil Workers Union, and I'll take that as a no.
+[17:15:04] CCA.C17-HELIX.i4.08874: /viewdata jason
+[17:15:13] CCA.C17-HELIX.i4.08874: /me hands the man his CID.
+[17:15:19] James McKay: Take!
+[17:15:24] CCA.C17-HELIX.i4.08874: Don't lose it.
+[17:15:27] James McKay: Anything you need...
+[17:15:27] CCA.C17-HELIX.i4.08874: Alright you can go
+[17:15:30] Henry Blackwoods: Oh, Nice..
+[17:15:37] James McKay: Though...Do not take what you want...
+[17:15:43] James McKay: Only what you require...
+[17:15:48] Henry Blackwoods: Right..
+[17:15:56] Henry Blackwoods: You're an enthuastic fella.
+[17:16:08] Henry Blackwoods: In a not so nice world right now..
+[17:16:09] James McKay: What isn't there to be enthuastic about!
+[17:16:12] James McKay: I'm free!
+[17:16:14] James McKay: Well..
+[17:16:17] James McKay: Free enough!
+[17:16:18] Charlie Morales: So uh...
+[17:16:19] James McKay: /me Chuckles
+[17:16:24] Charlie Morales: How's it goin...
+[17:16:24] CCA.C17-HELIX.i4.08874: // If you need anything from a CCA Officer, go to the work desk!
+[17:16:25] Henry Blackwoods: Perhaps.
+[17:16:28] Jason Voorhees: good.
+[17:16:29] Henry Blackwoods: Well.
+[17:16:33] Charlie Morales: Alright, cool.
+[17:16:34] Henry Blackwoods: Does your eh..
+[17:16:40] Charlie Morales: Uhh... did you just get here?
+[17:16:44] Jason Voorhees: Yeah
+[17:16:48] Henry Blackwoods: Gasmask require those filter things?..
+[17:16:54] Charlie Morales: Yeah me too.
+[17:16:55] James McKay: No...No...
+[17:16:57] Charlie Morales: I dunno what's what...
+[17:17:05] James McKay: It works fine without having to be replaced...
+[17:17:08] Henry Blackwoods: Oh?
+[17:17:12] James McKay: You know..
+[17:17:12] Henry Blackwoods: I seriously need to get one..
+[17:17:29] James McKay: I heard a man at...Change? I believe the store is called...He sells them
+[17:17:30] CCA.C17-HELIX.i4.08874: // That includes stuff like housing, questions, work ect.
+[17:17:33] Charlie Morales: Well... I'm gonna go and see if I can ask around.
+[17:17:37] Henry Blackwoods: Hm.
+[17:17:41] Henry Blackwoods: Just need abit of cash.
+[17:17:49] Charlie Morales: There's gotta be somethin' to make us a little less lost...
+[17:17:52] James McKay: Ah! The green! Everyone needs it!
+[17:17:53] Henry Blackwoods: /discord
+[17:17:56] James McKay: You know...
+[17:17:58] CCA.C17-HELIX.i4.08874: /actlean
+[17:18:01] Jason Voorhees: I'm just going to check out the place, no harm in walking around
+[17:18:01] James McKay: I have...some work that needs doing...
+[17:18:07] CCA.C17-HELIX.i4.08874: /actlean
+[17:18:08] Henry Blackwoods: Hmm...
+[17:18:08] James McKay: I pay...
+[17:18:13] CCA.C17-HELIX.i4.08874: /actlean
+[17:18:23] Henry Blackwoods: Are you the only geezer out here that's so enthuastic about freedom?
+[17:18:24] James McKay: Though, not everyone take work from me...Most people go to the Orange Suited Man...
+[17:18:42] James McKay: Who knows! Some people may not show it!
+[17:18:46] Henry Blackwoods: Well.
+[17:18:52] James McKay: But I'm sure as hell the only Doctor in this city I bet!
+[17:19:02] CCA.C17-HELIX.i4.08874: /radio Block holding
+[17:19:10] Henry Blackwoods: Well for now..
+[17:19:15] Henry Blackwoods: I might stay here.
+[17:19:22] James McKay: The CZ...Mmm
+[17:19:28] James McKay: I wouldn't...
+[17:19:42] James McKay: The CPs catch you...Or the Orange Suit...You'll be damned...
+[17:19:54] Henry Blackwoods: Yeah no worries, I'm going deeper into the sewers.
+[17:19:56] James McKay: Its either the sewers...or out of here...
+[17:20:02] James McKay: I'll tell you something...
+[17:20:12] James McKay: /me Would walk towards the man, putting his hand on his right shoulder
+[17:20:19] James McKay: Stay out of Shell Beach...
+[17:20:20] CCA.C17-HELIX.i4.08874: /radio is 10-8
+[17:20:27] Henry Blackwoods: Yeah.. I was once there y'know.
+[17:20:30] James McKay: The antlions will rip you to pieces...
+[17:20:45] James McKay: Now...I suggest you don't stay up here any longer...
+[17:20:56] James McKay: /me Would back away from the man, adjusting his vest
+[17:21:06] James McKay: Every second up here...Is just more and more risk...
+[17:21:15] James McKay: Then again...caught in the sewers...its worse
+[17:21:24] James McKay: I just hope you made the right choice for yourself...
+[17:21:29] Henry Blackwoods: Hmm..
+[17:21:57] Henry Blackwoods: /me Took out a small medkit and placed it on the table
+[17:22:11] James McKay: Ah...AI-2
+[17:22:22] James McKay: Those things are a life saver...
+[17:22:36] Henry Blackwoods: Well, I better get those pretty gasmasks.
+[17:22:42] James McKay: Indeed...
+[17:22:51] James McKay: Actually...
+[17:23:00] CCA.C17-HELIX.i4.08874: /pm james Make sure to do RP with other people so they don't get bored
+[17:23:10] James McKay: /me Would grab a coat from the shelf, handing it over to him
+[17:23:13] James McKay: /reply Already am
+[17:23:23] James McKay: If you are getting one of these...Wear one
+[17:23:42] James McKay: It at least protects you
+[17:23:46] CCA.C17-HELIX.i4.08874: /pm James Good thing, I remember when I did that stuff it kept people coming back
+[17:23:51] Henry Blackwoods: Hm well.
+[17:23:59] James McKay: Not as good as the suit does...But better than the civies...
+[17:24:04] Henry Blackwoods: Gonna say goodbye to that.
+[17:24:18] James McKay: /me Would grab the shirt, tossing it onto the shelf
+[17:24:27] James McKay: Someone else would use it...
+[17:24:38] James McKay: Now...I won't be holding you down any longer...
+[17:24:43] James McKay: You choose your path...
+[17:24:49] James McKay: I've chosen mine...
+[17:25:05] James McKay: /me Would turn away, walking and waving "Hope to see you around though!"
+[17:25:11] Henry Blackwoods: Yeah..
+[17:25:25] CCA.C17-HELIX.i4.08874: You there.
+[17:25:31] Jason Voorhees: yes?
+[17:25:32] CCA.C17-HELIX.i4.08874: Stop running.
+[17:25:40] Jason Voorhees: yes sir
+[17:25:43] CCA.C17-HELIX.i4.08874: Good.
+[17:25:54] Charlie Morales: // I GOTTA GET TO THAT DESK
+[17:26:20] CCA.C17-HELIX.i4.08874: Hold it
+[17:26:34] CCA.C17-HELIX.i4.08874: Why are you running around the place?
+[17:26:54] Charlie Morales: Uhhh... I'm a little lost, sir. Were you the one I made a fool of myself in front of earlier?
+[17:27:02] CCA.C17-HELIX.i4.08874: Christ
+[17:27:19] CCA.C17-HELIX.i4.08874: Stop running. And if you need medical supplies to go the General Store.
+[17:27:32] CCA.C17-HELIX.i4.08874: If I catch you again, I'm not letting you get off.
+[17:27:35] James McKay: /it A cold gust of wind suddenly blows through the plaza, discarded pieces of paper shuffling with each blow...
+[17:27:39] Charlie Morales: Wait uh...
+[17:27:46] Charlie Morales: I think I just need something...to do.
+[17:27:55] CCA.C17-HELIX.i4.08874: Work?
+[17:28:08] Charlie Morales: Uhhh, that could work, yeah.
+[17:28:10] James McKay<STEAM_0:1:591779303> changed their name to Alex Palovichov
+[17:28:25] CCA.C17-HELIX.i4.08874: First, get over here.
+[17:28:40] CCA.C17-HELIX.i4.08874: Stay here.
+[17:28:45] CCA.C17-HELIX.i4.08874: Also.
+[17:28:54] Alex Palovichov: My god...What happened to you...
+[17:28:58] CCA.C17-HELIX.i4.08874: Take those
+[17:29:01] CCA.C17-HELIX.i4.08874: You look like a corpse.
+[17:29:15] Henry Blackwoods: Psst.
+[17:29:18] Charlie Morales: I think I fell..
+[17:29:24] Henry Blackwoods: Could you spare 9 tokens?..
+[17:29:36] Charlie Morales: Uhhh, I'm not sure if I've got any.
+[17:29:42] CCA.C17-HELIX.i4.08874: /pm Alex Go over the ICT, I'm gonna have him do some work, maybe move boxes from the train station
+[17:29:44] Henry Blackwoods: Hm, well..
+[17:29:49] Henry Blackwoods: That's sad.
+[17:30:02] Charlie Morales: I've noticed a lot of things might be.
+[17:30:03] Alex Palovichov: /reply Alr
+[17:30:07] CCA.C17-HELIX.i4.08874: Face towards me
+[17:30:12] Charlie Morales: Oh it's you...!
+[17:30:22] CCA.C17-HELIX.i4.08874: Alright, you wanted work?
+[17:30:34] Charlie Morales: Sure, I'll...take what I can get.
+[17:30:35] CCA.C17-HELIX.i4.08874: /looc Every one of you fuckers picked the same suit
+[17:30:42] CCA.C17-HELIX.i4.08874: Mhm
+[17:30:43] Jason Voorhees: // lmao
+[17:30:46] Charlie Morales: /looc It looks cool...
+[17:30:52] Henry Blackwoods: // How do you get tokens again?
+[17:31:08] CCA.C17-HELIX.i4.08874: Alright, we have a delivery at the Train Station, a couple of boxes.
+[17:31:08] Client "DRD" connected.
+[17:31:11] Jason Voorhees: // i just found a good hiding place, maybe
+[17:31:11] Alex Palovichov: /ooc Through work or ration cycles
+[17:31:31] CCA.C17-HELIX.i4.08874: I'll lead you over to the ICT so you can meet with the guy in charge, then he'll tell you what to do.
+[17:31:40] CCA.C17-HELIX.i4.08874: When that's done, come back here.
+[17:31:43] Charlie Morales: Sounds like a plan.
+[17:31:55] Henry Blackwoods: Psst.
+[17:31:59] Charlie Morales: Yeah?
+[17:32:00] Henry Blackwoods: Got 9 tokens to spare?
+[17:32:16] Charlie Morales: Uhh... I still don't think I've got any, hah, hah...
+[17:32:16] CCA.C17-HELIX.i4.08874: /radio Block holding
+[17:32:21] Henry Blackwoods: Fair enough
+[17:32:25] CCA.C17-HELIX.i4.08874: Over here.
+[17:32:45] Client "DRD" spawned in server <STEAM_0:0:193599766> (took 97 seconds).
+[17:32:50] CCA.C17-HELIX.i4.08874: // Nicee
+[17:32:51] Charlie Morales: So do you know what's on those tvs?
+[17:33:06] Charlie Morales: So do you know what's on those tvs's?
+[17:33:12] CCA.C17-HELIX.i4.08874: Propoganda.
+[17:33:13] Charlie Morales: *tv's...whoops
+[17:33:23] Charlie Morales: Oh. I heard this weird song from one of em. 
+[17:33:30] CCA.C17-HELIX.i4.08874: Then it's a radio.
+[17:33:46] Charlie Morales: Is it broken? It sorta sounded like...the first five seconds to a song.
+[17:33:48] DRD<STEAM_0:0:193599766> changed their name to Major-General Sir Issac Brock KB
+[17:33:57] Alex Palovichov: /chargiveitem paper
+[17:33:57] CCA.C17-HELIX.i4.08874: I don't know what you are talking about.
+[17:34:03] Major-General Sir Issac Brock KB teleported to Alex Palovichov
+[17:34:03] CCA.C17-HELIX.i4.08874: Wrong floor.
+[17:34:09] Alex Palovichov: /chargiveitem Palovichov paper 1
+[17:34:10] Major-General Sir Issac Brock KB: /adminspawnmenu
+[17:34:14] Charlie Morales: That's fine Officer I'm just...tellin' ya what I heard.
+[17:34:18] CCA.C17-HELIX.i4.08874: /radio 10-8
+[17:34:20] Alex Palovichov: /adminspawnmenu
+[17:34:24] Alex Palovichov: Oh...
+[17:34:25] CCA.C17-HELIX.i4.08874: Alex.
+[17:34:26] Alex Palovichov: Uh
+[17:34:27] Alex Palovichov: Yes?
+[17:34:35] CCA.C17-HELIX.i4.08874: This guy is here to help with a delivery.
+[17:34:37] Major-General Sir Issac Brock KB: /pm alex try /adminspawnmenu
+[17:34:41] CCA.C17-HELIX.i4.08874: I assume you can get it sorted out.
+[17:34:46] Alex Palovichov: /reply One sec it brought something up
+[17:34:51] Alex Palovichov: Uhh...Delivery...
+[17:34:55] Alex Palovichov: One second...
+[17:34:55] CCA.C17-HELIX.i4.08874: Yes.
+[17:35:02] Major-General Sir Issac Brock KB: reply adminspawnmenu is very unintuitive and buggy
+[17:35:02] Alex Palovichov: Oh god damnit...
+[17:35:04] Major-General Sir Issac Brock KB: .// UH
+[17:35:07] Alex Palovichov: /looc GUH
+[17:35:12] CCA.C17-HELIX.i4.08874: /looc nice one
+[17:35:22] Charlie Morales: Somethin' wrong or?
+[17:35:28] Alex Palovichov: /me Would reach over his desk, opening a drawer taking out a clipboard
+[17:35:30] CCA.C17-HELIX.i4.08874: Let him sort out the details.
+[17:35:39] Alex Palovichov: /it A small picture falls out of the drawer and onto the ground
+[17:35:40] Charlie Morales: Alright. I got it.
+[17:35:42] Alex Palovichov: Right...
+[17:35:46] Alex Palovichov: /me Would check the clipboard
+[17:35:47] Alex Palovichov: Ehh...
+[17:35:49] Alex Palovichov: Right!
+[17:35:56] Alex Palovichov: A crate of...Huh...
+[17:36:02] Alex Palovichov: Didn't know we needed more...
+[17:36:04] CCA.C17-HELIX.i4.08874: /radio Citizen summoned
+[17:36:19] Alex Palovichov: Crate of Infestation Control Solution...
+[17:36:30] Alex Palovichov: Should be at the trainstation...
+[17:36:40] Alex Palovichov: Arrived not too long ago
+[17:36:46] CCA.C17-HELIX.i4.08874: Remember to come back to the work desk when you are done, I have something to deal with.
+[17:36:59] Alex Palovichov: /looc one sec...I need to see if I can even spawn props...
+[17:37:06] Charlie Morales: Guess it's just...me and you now.
+[17:37:09] Charlie Morales: /looc OR NOT
+[17:37:10] Alex Palovichov: /looc One moment
+[17:37:13] Major-General Sir Issac Brock KB: /createcid frog admin
+[17:37:15] Alex Palovichov: /looc I need to check if I can spawn props
+[17:37:34] CCA.C17-HELIX.i4.08874: /radio 10-8
+[17:37:44] Major-General Sir Issac Brock KB<STEAM_0:0:193599766> spawned sent ix_uidprinter
+[17:37:57] CCA.C17-HELIX.i4.08874 to admins: DRD do a ration cycle soon
+[17:38:08] Alex Palovichov: /ooc BRUHHH
+[17:38:08] Major-General Sir Issac Brock KB: /pm helix okay
+[17:38:12] Alex Palovichov: /ooc mfw can't spawn props
+[17:38:17] Major-General Sir Issac Brock KB: // give yourself flags
+[17:38:29] CCA.C17-HELIX.i4.08874: // dumb dumb admin doesn't know how to set flags
+[17:38:29] Major-General Sir Issac Brock KB<STEAM_0:0:193599766> changed their name to Dispatch
+[17:38:37] Alex Palovichov: /ooc Bruh
+[17:38:46] Alex Palovichov: /ooc What flag...
+[17:38:51] CCA.C17-HELIX.i4.08874: // Petr
+[17:38:54] CCA.C17-HELIX.i4.08874: // Type in that
+[17:39:06] Dispatch: /radio Unit 08874. Ration cycle: authorized.
+[17:39:11] CCA.C17-HELIX.i4.08874<STEAM_0:0:68118061> changed their name to Jonathan Jackson
+[17:39:11] Alex Palovichov: /chargiveflag Palovichov petr
+[17:39:19] Alex Palovichov: /ooc THERE WE GO
+[17:39:24] Jonathan Jackson<STEAM_0:0:68118061> changed their name to CCA.C17-HELIX.i4.08874
+[17:39:26] Alex Palovichov<STEAM_0:1:591779303> spawned model models/hlvr/combine_hazardprops/combinehazardprops_barrel.mdl
+[17:39:30] Dispatch: /chargiveflag alex petncr
+[17:39:39] Alex Palovichov: /looc Sorry for the wait
+[17:39:41] Alex Palovichov: Oh..
+[17:39:43] Alex Palovichov: Rations...
+[17:39:45] Charlie Morales: /looc All good
+[17:39:47] Alex Palovichov: Lets grab that first...
+[17:40:02] Alex Palovichov: The delivery just came in...
+[17:40:06] Alex Palovichov: Bright Yellow Barrel...
+[17:40:07] Charlie Morales: Huh.
+[17:40:14] CCA.C17-HELIX.i4.08874: Apply
+[17:40:16] Henry Blackwoods: /apply
+[17:40:18] Alex Palovichov: You'll be grabbing it, and taking it back to my office
+[17:40:20] Charlie Morales: Lotta stuff I don't know I guesss.
+[17:40:25] Charlie Morales: Got it, boss.
+[17:40:28] CCA.C17-HELIX.i4.08874: /me types into the terminal
+[17:40:32] CCA.C17-HELIX.i4.08874: /viewdata henry
+[17:40:45] Dispatch<STEAM_0:0:193599766> changed their name to Major-General Sir Issac Brock KB
+[17:40:47] CCA.C17-HELIX.i4.08874: /looc one sec
+[17:40:51] Major-General Sir Issac Brock KB: /chargiveitem brock handheld
+[17:40:52] Charlie Morales: So do you know what's on those tv's?
+[17:40:56] Alex Palovichov: Hm?
+[17:41:01] Alex Palovichov: In the plaza?
+[17:41:06] Charlie Morales: They're uhh... playin' a song or somethin'
+[17:41:12] Alex Palovichov: Uhh...
+[17:41:16] Alex Palovichov: Can't say I do...
+[17:41:25] Charlie Morales: If we pass one I'll show you
+[17:41:34] Major-General Sir Issac Brock KB: /chargiveflag brock ABCDEFGHIJKLMNOPQRSTUVWXYZ
+[17:41:36] CCA.C17-HELIX.i4.08874: /looc sorry bout that
+[17:41:41] Alex Palovichov: /ooc Huh...
+[17:41:42] Major-General Sir Issac Brock KB: /chargiveflag brock vx
+[17:41:50] CCA.C17-HELIX.i4.08874: Green
+[17:41:53] Jason Voorhees: // what
+[17:42:05] Alex Palovichov: /ooc Huh...
+[17:42:13] Henry Blackwoods: Thanks..
+[17:42:15] CCA.C17-HELIX.i4.08874: Mhm
+[17:42:19] Major-General Sir Issac Brock KB: /pm jason Hey, man. Got a sec?
+[17:42:19] Alex Palovichov: /apply
+[17:42:25] Alex Palovichov: One loyalist, One Priority, One Standard
+[17:42:33] CCA.C17-HELIX.i4.08874: I know.
+[17:42:35] Major-General Sir Issac Brock KB teleported to Jason Voorhees
+[17:42:37] Jason Voorhees: /pm major why?
+[17:42:53] Major-General Sir Issac Brock KB: /pm jason You can't use the name 'Jason Voorhees'
+[17:42:55] Alex Palovichov: Cheers!
+[17:43:03] Charlie Morales: Hey it's you again!
+[17:43:05] CCA.C17-HELIX.i4.08874: Apply
+[17:43:09] Major-General Sir Issac Brock KB: /pm jason Do you have a second choice than isn't a pop culture figure?
+[17:43:09] Charlie Morales: ...Right, sorry.
+[17:43:13] Jason Voorhees: /pm major :cry:
+[17:43:14] Charlie Morales: My ID right?
+[17:43:15] Alex Palovichov: /ooc Time to add to my collection of food...
+[17:43:16] CCA.C17-HELIX.i4.08874: /looc /apply
+[17:43:19] Charlie Morales: /apply
+[17:43:21] CCA.C17-HELIX.i4.08874: Mhm
+[17:43:28] CCA.C17-HELIX.i4.08874: One standard.
+[17:43:36] Major-General Sir Issac Brock KB: \
+[17:43:36] Charlie Morales: I see you often, sir, I uh...never got your name
+[17:43:45] CCA.C17-HELIX.i4.08874: I'm not giving you my name.
+[17:43:50] Charlie Morales: ...Right!
+[17:43:56] Charlie Morales: Thanks.
+[17:43:56] Jason Voorhees: /pm major fucking 
+[17:43:59] CCA.C17-HELIX.i4.08874: Mhm
+[17:44:07] Alex Palovichov: Right...
+[17:44:26] Charlie Morales: Cop was uh..
+[17:44:29] Charlie Morales: NIce
+[17:44:35] Alex Palovichov: Of course they are...
+[17:44:45] CCA.C17-HELIX.i4.08874 to admins: DRD take over for me, and make sure to say in OOC for people that are new to get rations, cause i need to go afk for about 20 mins
+[17:44:56] Jason Voorhees: /pm major i guess uhh
+[17:45:19] CCA.C17-HELIX.i4.08874 to admins: Or do that, just go on CCA though
+[17:45:21] Charlie Morales: Sgut
+[17:45:24] Alex Palovichov: Hm?
+[17:45:28] Jason Voorhees: /pm major stewie loo
+[17:45:30] Major-General Sir Issac Brock KB: /PM HELIX Dealing with staff things, stand by
+[17:45:31] Charlie Morales: /looc I don't think I knew what that did
+[17:45:35] CCA.C17-HELIX.i4.08874<STEAM_0:0:68118061> changed their name to Zombie
+[17:45:37] Alex Palovichov: /looc What?
+[17:45:40] Jason Voorhees: /pm major all i could think of lol
+[17:45:44] Henry Blackwoods: // Finally, now I have infinite air.
+[17:45:45] Charlie Morales: /looc I hit f and I started chokin'
+[17:45:53] Alex Palovichov: /looc Oh...Strange...
+[17:45:56] Jason Voorhees: // ayo you cheating!!?!?!?!?
+[17:45:57] Zombie to admins: No problem, just making sure since I got someone to do a work cycle and now I can't give them stuff when it is done.
+[17:46:00] Major-General Sir Issac Brock KB: /charsetname Jason "Stewie Lou"
+[17:46:01] Jason Voorhees<STEAM_0:1:429480781> changed their name to Stewie Lou
+[17:46:04] Henry Blackwoods: // it was MY AIR all along
+[17:46:05] Alex Palovichov: /looc Oh! you are running out of oxygen
+[17:46:05] Major-General Sir Issac Brock KB teleported to Stewie Lou
+[17:46:06] Zombie: // He got a respirator
+[17:46:09] Major-General Sir Issac Brock KB: /pm stew drop your ID
+[17:46:17] Charlie Morales: /looc Oh shit
+[17:46:19] Zombie: // Alright I'll brb in 20 minsish
+[17:46:21] Alex Palovichov: /looc Your filter is most likely out at a really good time when you pressed f
+[17:46:30] Charlie Morales: Huh
+[17:46:33] Charlie Morales: /looc huh
+[17:46:34] Major-General Sir Issac Brock KB: /PLYSEARCH STEW
+[17:46:35] Alex Palovichov: Your filter alright?
+[17:46:41] Stewie Lou: /pm major i did it
+[17:46:50] Stewie Lou: /pm major now waht
+[17:46:54] Major-General Sir Issac Brock KB: 72208
+[17:46:55] Charlie Morales: Uhhh... I think so, I felt somethin' get in though. It's probably not a problem. ...Probably.
+[17:47:00] Alex Palovichov: Hm...
+[17:47:06] Alex Palovichov: Alright
+[17:47:09] Major-General Sir Issac Brock KB: /createcid "Stewie Lou" 72208
+[17:47:18] Alex Palovichov: Pefect...
+[17:47:21] Alex Palovichov: /looc perfect*
+[17:47:24] Alex Palovichov: Right...
+[17:47:25] Charlie Morales: This is it?
+[17:47:26] Alex Palovichov: This is it..
+[17:47:34] Major-General Sir Issac Brock KB: /pm stew Good to go
+[17:47:34] Alex Palovichov: Pick it up carefully...
+[17:47:40] Stewie Lou: // brb dont try and look for me
+[17:47:40] Alex Palovichov: If you drop it...you pay for it...
+[17:47:44] Charlie Morales: Right, right.
+[17:47:50] Charlie Morales: /looc SHIT HOW DO I PICK IT UP
+[17:47:52] Alex Palovichov: It shouldn't be...too heavy
+[17:48:01] Alex Palovichov: /looc Hands, then hold LMB
+[17:48:12] Alex Palovichov: Right...
+[17:48:15] Charlie Morales: Got it.
+[17:48:19] Alex Palovichov: Lets go!
+[17:48:40] Dropped "Henry Blackwoods" from server<STEAM_0:1:626926779>
+[17:48:43] Charlie Morales: Problem boss
+[17:48:48] Alex Palovichov: Oh don't tell me...
+[17:48:57] Alex Palovichov: /looc just gonna...
+[17:49:07] Alex Palovichov<STEAM_0:1:591779303> used the tool remover on models/hlvr/combine_hazardprops/combinehazardprops_barrel.mdl
+[17:49:11] Alex Palovichov<STEAM_0:1:591779303> spawned model models/hlvr/combine_hazardprops/combinehazardprops_barrel.mdl
+[17:49:14] Alex Palovichov: /looc Perfect
+[17:49:15] Charlie Morales: /looc WINNING
+[17:49:21] Alex Palovichov: CAREFUL!
+[17:49:26] Charlie Morales: Sorry...!
+[17:49:29] Alex Palovichov: Ah!
+[17:49:31] Alex Palovichov: Your filter...
+[17:49:33] Charlie Morales: Oh SHIT
+[17:49:33] Alex Palovichov: Put it down!
+[17:49:39] Alex Palovichov: Here!
+[17:49:43] Major-General Sir Issac Brock KB to admins: i gotta go, you good?
+[17:49:49] Alex Palovichov to admins: So far, yes
+[17:49:50] Charlie Morales: Jesus...!
+[17:49:55] Alex Palovichov: Right!
+[17:49:56] Major-General Sir Issac Brock KB to admins: ping me if im needed
+[17:49:58] Alex Palovichov: Lets continue!
+[17:49:58] Dropped "Major-General Sir Issac Brock KB" from server<STEAM_0:0:193599766>
+[17:50:22] Charlie Morales: Oh yeah, over there
+[17:50:30] Alex Palovichov: Correct...
+[17:50:38] Charlie Morales: Those tv'...
+[17:50:41] Alex Palovichov: Oh...
+[17:50:43] Alex Palovichov: Those old things
+[17:50:50] Alex Palovichov: Right here will do
+[17:50:56] Alex Palovichov: Up right!
+[17:51:02] Alex Palovichov: And put it down next to those crates...
+[17:51:10] Client "Lynch" connected.
+[17:51:13] Alex Palovichov: Perfect!
+[17:51:21] Charlie Morales: What's in that anyway?
+[17:51:28] Alex Palovichov: Cleaning Solution
+[17:51:33] Alex Palovichov: You get to use it if you join the ICT
+[17:51:36] Alex Palovichov: Fun...
+[17:51:39] Charlie Morales: ICT?
+[17:51:39] Alex Palovichov: And dangerous as hell...
+[17:51:44] Alex Palovichov: Infestation Control Team
+[17:51:49] Alex Palovichov: Apart of the CWU
+[17:51:59] Alex Palovichov: And my GOD! you look like a dead man walking!
+[17:52:02] Alex Palovichov: Stand still...
+[17:52:04] Charlie Morales: Huh... And, what's the CWU? 
+[17:52:09] Charlie Morales: ...Yeah I've been better...
+[17:52:24] Alex Palovichov: /me Would reach into his bag, taking out some bandages, he would then begin to bandage the mans wounds, securing each bandage tightly.
+[17:52:33] Alex Palovichov: Better?
+[17:52:36] Stewie Lou suicided!
+[17:52:38] Charlie Morales: Yeah, much.
+[17:52:42] Alex Palovichov: Good...
+[17:52:55] Alex Palovichov: The CWU is the Civil Workers Union, The working class of each city
+[17:53:07] Charlie Morales: Not my brightest day huh? Got my ass chewed out by the officer earlier and I fell down a flght of stairs. ...And then I couldn't breathe.
+[17:53:13] Client "Lynch" spawned in server <STEAM_0:1:626926779> (took 123 seconds).
+[17:53:20] Alex Palovichov: /me Chuckles "Sheesh, quite the day"
+[17:53:31] Alex Palovichov: Well I think the CCA officer went on break...So I'll just pay you
+[17:53:46] Charlie Morales: I guess things can only get better now.
+[17:53:50] Alex Palovichov: /me Would reach into his pocket, taking out a handfull of credits, sliding them across the table
+[17:53:55] Lynch<STEAM_0:1:626926779> changed their name to Henry Blackwoods
+[17:53:57] Alex Palovichov: /droptokens 5
+[17:54:00] Charlie Morales: Nice, nice.
+[17:54:06] Charlie Morales: Thanks, boss.
+[17:54:21] Alex Palovichov: If you need any more work, I'm located at the Metropol, Second Story
+[17:54:34] Charlie Morales: The Officer didn't give me his name, so... I dunno what to call him. Kinda worried since I'll be running into him a lot.
+[17:54:41] Charlie Morales: What about you?
+[17:54:51] Alex Palovichov: /me Chuckles "No officer would give you their name, Just call em sir or maddam..."
+[17:55:01] Alex Palovichov: The name is Alex...Alex Palovichov, ICT Manager
+[17:55:14] Alex Palovichov: /me Would check the time on a small watch 
+[17:55:15] Charlie Morales: ....Right, I'll keep that in mind. I could use less butt-beatings in my life..
+[17:55:16] Alex Palovichov: Shit...
+[17:55:19] Alex Palovichov: Gotta go...
+[17:55:23] Alex Palovichov: You stay safe...
+[17:55:28] Charlie Morales: Alright Alex, I'm Charlie by the way.
+[17:55:30] Alex Palovichov: Stay Loyal! 
+[17:55:34] Alex Palovichov: Good to know!
+[17:55:37] Alex Palovichov: /looc f3 me
+[17:55:50] Alex Palovichov: /looc perfect
+[17:55:54] Alex Palovichov: See you around!
+[17:56:30] Alex Palovichov<STEAM_0:1:591779303> changed their name to James McKay
+[17:57:06] James McKay: /adminspawnmenu
+[17:57:33] James McKay: /adminspawnmenu
+[17:57:47] James McKay: /adminspawnmenu
+[17:58:50] Henry Blackwoods: Oh shit..
+[17:59:56] James McKay: /it The distant sound of yelling and hitting can be heard...Antlion screechs can also be heard mixed in with all the yelling.
+[18:00:08] Henry Blackwoods: Fuck..
+[18:00:14] Henry Blackwoods: Well..
+[18:00:29] James McKay: /y run for your life
+[18:00:31] Henry Blackwoods: I'm probably gonna make a dipshit choice but oh well.
+[18:00:53] James McKay: Watch it
+[18:00:59] James McKay: Antlions...fucking caught me off guard
+[18:01:02] Henry Blackwoods: Well shit..
+[18:01:08] Henry Blackwoods: Hey there again..
+[18:01:14] James McKay: Oh...Its you...
+[18:01:27] James McKay: /me Begins to catch their breath, panting
+[18:01:33] James McKay: Fuckers caught me and my pal off guard...
+[18:01:40] James McKay: Don't know if he's even still alive...
+[18:01:50] Henry Blackwoods: Ah..
+[18:01:54] James McKay: Last I saw of em...We were in the cargo ship...
+[18:02:00] Henry Blackwoods: What for?
+[18:02:15] James McKay: We heard of supplies being there...
+[18:02:35] James McKay: It might still be there...We didn't really check the lockers....
+[18:02:42] Henry Blackwoods: Are  you... are you alright?
+[18:02:55] James McKay: A minor scratch...My vest took most of it...
+[18:03:06] Henry Blackwoods: Well, are there a ton of em' there?
+[18:03:17] James McKay: Yeah...But this season...Its softshell ones...
+[18:03:23] James McKay: Easy...ish to kill
+[18:03:30] James McKay: If you're up to the task
+[18:03:46] Henry Blackwoods: Sure why not, I'd rather die in a intense fight..
+[18:03:58] James McKay: /me Chuckles
+[18:04:00] James McKay: Well...
+[18:04:04] James McKay: I guess lets go...
+[18:04:16] James McKay: watch out
+[18:04:34] James McKay: my arm
+[18:04:37] Henry Blackwoods: Shit..
+[18:04:48] James McKay: my gut
+[18:04:53] Henry Blackwoods: You okay?>.
+[18:04:55] James McKay: Yeah...
+[18:04:58] James McKay: Just winded me...
+[18:05:05] Dropped "Charlie Morales" from server<STEAM_0:1:74741654>
+[18:05:18] James McKay: Dah...shit
+[18:05:35] James McKay: Hah!
+[18:05:38] Henry Blackwoods: Woah
+[18:05:41] Henry Blackwoods: What a dumbass bug..
+[18:05:42] James McKay: Drowned itself!
+[18:05:47] James McKay: Oh...fuck
+[18:05:48] Henry Blackwoods: Oh shit..
+[18:06:16] James McKay: Shit...
+[18:06:20] Henry Blackwoods: /looc Stuck.
+[18:06:34] Henry Blackwoods: Well fuck.
+[18:06:35] James McKay: /me Would check the persons pulse
+[18:06:39] James McKay: Damn...
+[18:06:44] James McKay: Dead...
+[18:06:48] James McKay: Well...
+[18:06:53] James McKay: /me Would open up the locker
+[18:06:59] James McKay: God...damnit...
+[18:07:04] James McKay: /me Would slam the locker door
+[18:07:08] James McKay: Fucking empty...
+[18:07:14] James McKay: Bullshit
+[18:07:14] Henry Blackwoods: That's a shame..
+[18:07:16] Henry Blackwoods: Well..
+[18:07:21] James McKay: May he rest in peace...
+[18:07:22] Henry Blackwoods: Atleast we can butcher these bugs?
+[18:07:45] James McKay: I have a knife...But it ain't that sharp anymore...
+[18:07:50] Henry Blackwoods: Hm..
+[18:07:51] James McKay: I'd need to sharpen it...
+[18:08:00] Henry Blackwoods: /me Began cutting the antlion into pieces
+[18:08:15] Henry Blackwoods: Woah..
+[18:08:28] James McKay: Well...that looks...edible?
+[18:08:38] Henry Blackwoods: I'm pretty sure I saw a cooked version of it..
+[18:08:47] James McKay: Yeah...You can cook it...
+[18:08:48] James McKay: But where...
+[18:08:53] Henry Blackwoods: On a fire?
+[18:09:02] James McKay: Yeah...and where are we gonna find a...
+[18:09:09] James McKay: There is one in the CZ...
+[18:09:18] James McKay: But...I bet CPs will swarm it..
+[18:09:22] Henry Blackwoods: Hm..
+[18:09:25] James McKay: Hm...
+[18:09:28] Henry Blackwoods: Can't we just create one?
+[18:09:39] Dropped "Stewie Lou" from server<STEAM_0:1:429480781>
+[18:09:39] James McKay: If you can...go ahead...
+[18:09:45] James McKay: I ain't that good at that shit...
+[18:09:48] Henry Blackwoods: Eh..
+[18:09:55] James McKay: Well...
+[18:10:00] James McKay: Thanks for the help I guess...
+[18:10:07] Henry Blackwoods: Yeah, no problem..
+[18:10:12] Henry Blackwoods: Eh well.
+[18:10:29] James McKay: I'll stay up here for a bit...you can go...
+[18:10:36] Henry Blackwoods: Well..
+[18:10:39] Henry Blackwoods: It's a shame he died.
+[18:10:44] James McKay: Yeah...
+[18:10:45] Henry Blackwoods: See you around, I suppose.
+[18:10:48] James McKay: It wasn't the best plan...
+[18:10:53] James McKay: Yeah...See ya...
+[18:11:03] James McKay: /adminspawnmenu
+[18:11:50] James McKay: /chargiveitem Palovichov Can 1
+[18:11:56] James McKay: /chargiveitem Palovichov RustyCan 1
+[18:12:00] James McKay: /chargiveitem Palovichov Rusty 1
+[18:12:04] James McKay: /chargiveitem Palovichov Rusty_can 1
+[18:12:11] James McKay: /chargiveitem Palovichov Rusty can 1
+[18:12:26] James McKay: /chargiveitem Palovichov Meat
+[18:12:28] James McKay: /chargiveitem Palovichov Meat 1
+[18:12:32] James McKay: /chargiveitem Palovichov paper 1
+[18:12:45] James McKay: /chargiveitem McKay RustyCan 1
+[18:12:49] James McKay: /chargiveitem McKay Can 1
+[18:13:02] James McKay: /chargiveitem McKay Rusty_Can 1
+[18:13:07] James McKay: /chargiveitem McKay Rusty-Can 1
+[18:13:13] James McKay: /chargiveitem McKay Pill
+[18:13:24] James McKay: /chargiveitem McKay Rusty 1
+[18:13:25] Henry Blackwoods: Hmm..
+[18:13:39] James McKay: /adminspawnmenu
+[18:14:47] Henry Blackwoods: Ah shit.
+[18:14:49] Henry Blackwoods: A lock.
+[18:15:00] James McKay: /chargiveflag McKay Atp
+[18:15:01] Henry Blackwoods: Well..
+[18:15:17] Henry Blackwoods: /me Would swing his axe, trying to break the lock
+[18:15:27] Henry Blackwoods: /roll 100
+[18:15:33] James McKay: /chargiveflag McKay Atr
+[18:15:58] Henry Blackwoods: Well..
+[18:17:09] James McKay: /chargiveflag McKay Atnpc
+[18:17:30] James McKay: /chargiveflag atpr
+[18:17:38] James McKay: /chargiveflag Mckay atpr
+[18:18:22] James McKay: /chartakeflag atpr
+[18:18:27] James McKay: /chartakeflag Mckay atpr
+[18:18:47] James McKay: /ooc tf...
+[18:18:59] James McKay: /chargiveflag Mckay atpr
+[18:19:34] James McKay: /chargiveflag atsp
+[18:19:41] James McKay: /chargiveflag Mckay atsp
+[18:22:28] James McKay: /me Begins to hum, inspecting the items on the table
+[18:22:34] Henry Blackwoods: Hey there..
+[18:22:44] James McKay: /me Flinches at the man entering 
+[18:22:54] James McKay: Wha- Oh fuck...Scared the shit outta me
+[18:23:09] Henry Blackwoods: For a moment I thought this was a combine outpost or somethin'..
+[18:23:28] James McKay: /me Shrugs "A long forgotten one most likely..."
+[18:23:37] James McKay: Though, there is always the chance they come back...
+[18:23:47] Henry Blackwoods: What are you doing here? the place looks infested..
+[18:23:55] James McKay: Thats the point...
+[18:24:09] James McKay: when its infested, less people come in...
+[18:24:23] James McKay: And also this is where I sleep...eat...everything
+[18:24:31] Henry Blackwoods: Hm..
+[18:24:35] Henry Blackwoods: Well I found a crate of sorts.
+[18:24:40] James McKay: Oh?
+[18:24:42] Henry Blackwoods: It had a lock on it
+[18:24:45] James McKay: Hm...
+[18:25:05] James McKay: Wonder who would have a locked crate down here...
+[18:25:13] Henry Blackwoods: Must be something important then.
+[18:25:16] Henry Blackwoods: Wanna check it out?
+[18:25:28] James McKay: Nah...I got shit to do...
+[18:25:32] Henry Blackwoods: Hm..
+[18:25:35] Henry Blackwoods: Alright then.
+[18:25:46] Henry Blackwoods: Well, I'll try to break the lock open I suppose.
+[18:25:54] James McKay: Alright...good luck with that...
+[18:25:59] Henry Blackwoods: Cya'
+[18:26:04] James McKay: See ya...
+[18:26:11] James McKay: /me Would grab a few pieces of cloth
+[18:26:15] James McKay: Mmm...
+[18:26:42] James McKay: /me Would begin to pull on the sides of the cloth, making it into a streched out fabric of sort
+[18:27:07] James McKay: /me Would continue to yank on them until it is a longer strip of fabric
+[18:27:16] James McKay<STEAM_0:1:591779303> used the tool remover on models/mosi/fallout4/props/junk/dishrag.mdl
+[18:27:29] James McKay: /chargiveitem McKay Bandage
+[18:27:38] James McKay<STEAM_0:1:591779303> used the tool remover on models/mosi/fallout4/props/junk/dishrag.mdl
+[18:27:41] James McKay: /chargiveitem McKay Bandage
+[18:27:43] Henry Blackwoods: Alright.
+[18:27:44] James McKay: Perfect...
+[18:27:47] Henry Blackwoods: 1..2..
+[18:27:51] Henry Blackwoods: 3.
+[18:28:13] Henry Blackwoods: /me Slammed his axe on the lock, trying to break it
+[18:28:38] James McKay: /looc Forgot to mention, currently lock breakingRP is on hold due to a bug with removal of padlocks
+[18:29:07] Henry Blackwoods: /looc Oh well.
+[18:29:08] James McKay: /looc It should be fixed soon
+[18:29:11] James McKay: /looc Also
+[18:29:32] James McKay: /looc If you were to attempt to break into a lock, you would need to call a GM through "@"
+[18:29:44] Henry Blackwoods: /looc Okay
+[18:29:52] James McKay: /looc GMs also handle alot of other things such as craftingRP, scavengingRP etc...
+[18:30:04] Henry Blackwoods: /looc Yeah..
+[18:30:12] James McKay: /looc So if you want to do RP that you can't do in game but should be possible, feel free to contact one
+[18:31:14] Henry Blackwoods: Oh?..
+[18:33:23] Henry Blackwoods: Oh look at that..
+[18:33:51] James McKay<STEAM_0:1:591779303> changed their name to Alex Palovichov
+[18:34:13] Alex Palovichov<STEAM_0:1:591779303> spawned model models/hunter/blocks/cube025x025x025.mdl
+[18:34:20] Alex Palovichov<STEAM_0:1:591779303> used the tool remover on models/hunter/blocks/cube025x025x025.mdl
+[18:34:50] Alex Palovichov: Hm...
+[18:34:57] Alex Palovichov: /request Spotted someone within the CZ
+[18:35:55] Alex Palovichov<STEAM_0:1:591779303> changed their name to James McKay
+[18:36:04] James McKay: /chargiveflag McKay ate
+[18:37:23] James McKay: /adminspawnmenu
+[18:38:41] Zombie: // bac
+[18:38:47] James McKay<STEAM_0:1:591779303> spawned NPC npc_zombie
+[18:38:51] James McKay<STEAM_0:1:591779303> spawned NPC npc_zombie
+[18:38:55] James McKay: /it The distant sound of groaning and stumbling can be heard from the sewer tunnel
+[18:39:05] Henry Blackwoods: Ah shit, here we go again.
+[18:39:11] James McKay<STEAM_0:1:591779303> spawned NPC npc_zombie_torso
+[18:39:13] Zombie<STEAM_0:0:68118061> changed their name to CCA.C17-HELIX.i4.08874
+[18:40:11] James McKay: /ooc Crawlers are scary af
+[18:40:20] CCA.C17-HELIX.i4.08874: // Crawlers?
+[18:40:21] Henry Blackwoods: That's that..
+[18:40:23] James McKay: /ooc They tank hits
+[18:40:30] James McKay: /ooc Yeah zombie crawlers...
+[18:40:38] James McKay: /ooc They tank hits and fuckin' hurt
+[18:40:40] CCA.C17-HELIX.i4.08874: // Oh the Zombie Torso
+[18:40:52] James McKay: /ooc You really expect me to call em that?
+[18:41:00] CCA.C17-HELIX.i4.08874: // Yes
+[18:41:04] Client "wendigo" connected.
+[18:41:16] James McKay: /ooc I ain't gonna be calling them torsos as well as I don't call the airboat a mudskipper
+[18:41:41] CCA.C17-HELIX.i4.08874: // It's called an airboat in the game
+[18:41:52] James McKay: /ooc And yet its technically called the "mudskipper"
+[18:42:02] James McKay<STEAM_0:1:591779303> spawned NPC npc_headcrab
+[18:42:32] Client "wendigo" spawned in server <STEAM_0:1:429480781> (took 88 seconds).
+[18:43:05] wendigo<STEAM_0:1:429480781> changed their name to Stewie Lou
+[18:43:15] James McKay: /it A sound of a bottle smashing against the concrete, and a something hitting a dumpster can be heard further into the alleyway
+[18:43:40] CCA.C17-HELIX.i4.08874: // I hear a romanian
+[18:43:52] CCA.C17-HELIX.i4.08874: /radio Necrotics
+[18:44:02] James McKay<STEAM_0:1:591779303> spawned NPC npc_zombie
+[18:44:08] CCA.C17-HELIX.i4.08874: /radio Parasitic infestation dealt with.
+[18:44:28] Henry Blackwoods: Huh..
+[18:44:55] CCA.C17-HELIX.i4.08874: /radio Possible signs of criminal tresspass.
+[18:45:04] CCA.C17-HELIX.i4.08874: /y YOU 
+[18:45:07] CCA.C17-HELIX.i4.08874: STOP
+[18:45:15] James McKay: CPs
+[18:45:19] Henry Blackwoods: SHIT
+[18:45:27] CCA.C17-HELIX.i4.08874: /radio Confirmed sighting of Anti-Citizens, requesting deployment of OTA units.
+[18:45:33] James McKay: Shit...
+[18:45:38] James McKay: Don't go to the CZ...
+[18:45:45] James McKay: They won't follow us down here...
+[18:45:50] CCA.C17-HELIX.i4.08874: /radio 63
+[18:45:52] Henry Blackwoods: What the fuck happened?
+[18:46:01] James McKay: Fuckers saw me...
+[18:46:05] Henry Blackwoods: Shit..
+[18:46:12] James McKay: I wouldn't hide with me...
+[18:46:18] CCA.C17-HELIX.i4.08874<STEAM_0:0:68118061> changed their name to OTA.C17-ECHO.OHZ.74152
+[18:46:23] Henry Blackwoods: Fuck, fuck..
+[18:46:25] OTA.C17-ECHO.OHZ.74152: /radio Overwatch
+[18:46:25] James McKay: They'll be killin' you if you were with me...
+[18:46:28] James McKay: They won't come down here...
+[18:46:31] James McKay: In the sewers...
+[18:46:35] Henry Blackwoods: Well..
+[18:46:38] James McKay: But just to be sure...
+[18:46:40] OTA.C17-ECHO.OHZ.74152: /radio Be advised, moving to Sewers for sweep.
+[18:46:41] James McKay: Don't be with me...
+[18:46:42] Henry Blackwoods: What if they send someone?..
+[18:46:45] Henry Blackwoods: Shit.
+[18:46:50] James McKay: If they do...thats why you aren't with me...
+[18:46:54] James McKay: Go to the vortal bazzar...
+[18:47:17] James McKay: Area near the main section, past a few fenced off areas...a makeshift sorta area with containers...
+[18:47:18] Henry Blackwoods: Well shit..
+[18:47:25] James McKay: Thats a smart place to hide...
+[18:47:31] Henry Blackwoods: Well, good luck..
+[18:47:34] James McKay: You too...
+[18:47:40] OTA.C17-ECHO.OHZ.74152: /yell HOLD IT RIGHT THERE!
+[18:48:04] James McKay<STEAM_0:1:591779303> spawned NPC npc_headcrab
+[18:48:13] Stewie Lou: // that was spooky
+[18:48:25] James McKay<STEAM_0:1:591779303> spawned NPC npc_zombie
+[18:48:49] James McKay<STEAM_0:1:591779303> spawned NPC npc_zombie
+[18:48:59] James McKay<STEAM_0:1:591779303> spawned NPC npc_fastzombie
+[18:49:08] OTA.C17-ECHO.OHZ.74152: /radio Commencing sweep.
+[18:49:33] Henry Blackwoods: Fuck..
+[18:49:59] James McKay: /it The distant sound of walking can be heard...Though you can't fully pinpoint where...
+[18:50:43] OTA.C17-ECHO.OHZ.74152: HANDS UP!
+[18:50:52] Henry Blackwoods: /looc ugg
+[18:50:53] James McKay: /looc stuck?
+[18:50:55] Henry Blackwoods: /looc hiding rp?
+[18:50:55] OTA.C17-ECHO.OHZ.74152: /looc Are you stuck
+[18:51:09] Henry Blackwoods: /looc not now
+[18:51:13] OTA.C17-ECHO.OHZ.74152: STAY WHERE YOU ARE!
+[18:51:21] Henry Blackwoods: DON'T SHOOT!
+[18:51:26] OTA.C17-ECHO.OHZ.74152: /radio Overwatch contact priority.
+[18:51:36] OTA.C17-ECHO.OHZ.74152: Hands behind your head, NOW!
+[18:51:39] Henry Blackwoods: /me Began praying
+[18:51:44] Henry Blackwoods: Okay..
+[18:51:59] OTA.C17-ECHO.OHZ.74152 to admins: Do me a favor and give me a zip tie
+[18:52:11] Henry Blackwoods: /me Would slowly place his hands behind his head
+[18:52:14] James McKay gave OTA.C17-ECHO.OHZ.74152 ziptie
+[18:52:19] OTA.C17-ECHO.OHZ.74152: Turn around!
+[18:52:29] Henry Blackwoods: Uh oh..
+[18:52:32] James McKay: /pm 74152 It work?
+[18:52:38] Henry Blackwoods: Okay..
+[18:52:41] OTA.C17-ECHO.OHZ.74152: /pm james No
+[18:52:44] OTA.C17-ECHO.OHZ.74152: Now!
+[18:52:45] Henry Blackwoods: Just don't shoot..
+[18:52:49] James McKay: /chargiveitem 74152 ziptie 1
+[18:52:55] James McKay: /chargiveitem 74152 tie 1
+[18:52:57] OTA.C17-ECHO.OHZ.74152: /radio Overwatch moving to detain.
+[18:52:59] James McKay: /reply Now?
+[18:53:13] OTA.C17-ECHO.OHZ.74152: /me grabs the mans hands and foribly puts them behind his back.
+[18:53:22] Henry Blackwoods: /y OW!
+[18:53:34] Henry Blackwoods: /Y HELP
+[18:53:35] OTA.C17-ECHO.OHZ.74152: Move it
+[18:53:39] OTA.C17-ECHO.OHZ.74152 killed James McKay using player
+[18:53:42] OTA.C17-ECHO.OHZ.74152: /looc OOps
+[18:53:43] James McKay: /looc RPPPP
+[18:53:54] OTA.C17-ECHO.OHZ.74152: // You can come back if you were trying to rp lol
+[18:53:58] James McKay: /ooc Yeah
+[18:54:04] James McKay: /looc right
+[18:54:04] Henry Blackwoods: // What happened there?
+[18:54:07] Stewie Lou: // im stuck in the sewer
+[18:54:08] James McKay: /looc s2rp?
+[18:54:15] OTA.C17-ECHO.OHZ.74152: /me immediately shoots into the man, not giving him a chance.
+[18:54:21] OTA.C17-ECHO.OHZ.74152: /looc Agility to move faster
+[18:54:45] James McKay: /me Would attempt to dodge before getting hit by the shots
+[18:54:53] James McKay: /rollattribute Agility
+[18:54:55] OTA.C17-ECHO.OHZ.74152: /rollattribute agility
+[18:54:58] Henry Blackwoods: /looc THANK JESUS
+[18:55:13] James McKay: /me Would swing his axe, attempting to hit the ECHO In the Arm
+[18:55:33] OTA.C17-ECHO.OHZ.74152: /me counters, hitting the butt of the MP7 into the man's rib cage.
+[18:55:46] OTA.C17-ECHO.OHZ.74152: /looc Strength I guess, idk
+[18:55:55] James McKay: /rollattribute strength
+[18:55:56] Henry Blackwoods: /looc he is a gigachad tho?
+[18:55:59] James McKay: /looc nice
+[18:56:00] OTA.C17-ECHO.OHZ.74152: /rollattribute strength
+[18:56:05] James McKay: /roll 3
+[18:56:34] James McKay: /me Would hit the ECHO's right arm with the axe, quickly moving to the other side of the ECHO
+[18:56:49] OTA.C17-ECHO.OHZ.74152: Pain1
+[18:56:55] Henry Blackwoods: /looc Kick that motherfucker down the container
+[18:57:03] James McKay: /me Would attempt another swing on the ECHO, attempting to bring it down on his head
+[18:57:10] James McKay: /looc void that, your turn
+[18:57:13] Stewie Lou: // well update im out of the sewers but im somewhere else
+[18:57:14] OTA.C17-ECHO.OHZ.74152: /me restabilizes themself, and doges and attempts to counter the man again.
+[18:57:20] James McKay: /looc nvm
+[18:57:24] James McKay: /looc misread something
+[18:57:26] James McKay: /looc lmao
+[18:57:28] OTA.C17-ECHO.OHZ.74152: /looc dodge*
+[18:57:32] James McKay: /looc roll for agility
+[18:57:41] OTA.C17-ECHO.OHZ.74152: /rollattribute agility
+[18:57:47] James McKay: /rollattribute Strength
+[18:58:00] James McKay: /me Would miss the hit, swinging near the ECHO's head
+[18:58:07] OTA.C17-ECHO.OHZ.74152: /me sidesteps the man, before hitting his rib cage with the butt of his gun.
+[18:58:17] OTA.C17-ECHO.OHZ.74152: /looc I'll just do 2 fist hits
+[18:58:26] James McKay: my gut
+[18:58:52] James McKay: /me Would stabilize himself, attempting to hit the ECHO directly in the head again
+[18:58:58] OTA.C17-ECHO.OHZ.74152: /me takes the oppertunity to back away, and shoot the man.
+[18:59:11] James McKay: /looc Mmm...I guess that could count as a stun
+[18:59:15] OTA.C17-ECHO.OHZ.74152: /looc I would say constitution
+[18:59:22] OTA.C17-ECHO.OHZ.74152: /looc Since your body is enduring it
+[18:59:30] OTA.C17-ECHO.OHZ.74152: /looc I'd prob be agility
+[18:59:36] James McKay: /looc True...With advantage due to my bodyarmor
+[18:59:39] James McKay: /looc Well
+[18:59:59] James McKay: /rollattribute constitution 
+[19:00:19] OTA.C17-ECHO.OHZ.74152: /rollattribute agility
+[19:00:23] OTA.C17-ECHO.OHZ.74152: /looc f
+[19:00:33] Henry Blackwoods: /looc OTA weapons are biolocked?
+[19:00:35] James McKay: /me Would take the hit in his ribs, quickly composing himself, rushing at the ECHO with his axe aiming for his head
+[19:00:39] OTA.C17-ECHO.OHZ.74152: /looc Not an SMG
+[19:00:42] Henry Blackwoods: /looc oh
+[19:00:44] James McKay: /rollattribute Strength
+[19:00:46] James McKay: /looc f
+[19:01:11] OTA.C17-ECHO.OHZ.74152: /me aims directly into his chest, and fires off a burst before he gets the chance to swing.
+[19:01:20] OTA.C17-ECHO.OHZ.74152: /looc What would I roll?
+[19:01:37] James McKay: /looc Roll Agility since I'm rushing at you
+[19:01:42] OTA.C17-ECHO.OHZ.74152: /looc k
+[19:01:49] OTA.C17-ECHO.OHZ.74152: /rollattribute agility
+[19:01:53] James McKay: /looc honestly tho...my armor is acting off
+[19:01:57] James McKay: /looc roll outta 3
+[19:02:12] OTA.C17-ECHO.OHZ.74152: /looc I know, I just don't know how many SMG shots coorilate to a winning roll
+[19:02:14] James McKay: /looc I ain't getting damage threashold I think...
+[19:02:15] OTA.C17-ECHO.OHZ.74152: /roll 3
+[19:02:24] James McKay: /looc shoot...I think 5?
+[19:02:32] OTA.C17-ECHO.OHZ.74152: /looc Sure, we'll go with that
+[19:02:47] James McKay: /rollattribute Constitution
+[19:03:18] James McKay: /me Would would take shots, becoming winded for a moment, before quickly composing himself...He would rush at the ECHO again, aiming for his head
+[19:03:29] OTA.C17-ECHO.OHZ.74152: /me takes the oppertunity to move farther away from them and dodging their attack.
+[19:03:30] James McKay: my gut
+[19:03:38] James McKay: /rollattribute Strength
+[19:03:41] James McKay: /looc BRUHHH
+[19:03:45] OTA.C17-ECHO.OHZ.74152: /rollattribute agility
+[19:03:48] Henry Blackwoods: /looc Guess I'll die
+[19:03:51] OTA.C17-ECHO.OHZ.74152: /looc RIP
+[19:03:58] James McKay: /me Would miss the ECHO, hitting the container
+[19:04:10] OTA.C17-ECHO.OHZ.74152: /me quickly ducks from his axe and sprints away to gain distance.
+[19:04:18] Henry Blackwoods: /y SHIT!
+[19:04:33] OTA.C17-ECHO.OHZ.74152: /me takes aim inteding to hit them with a burst of lead.
+[19:04:45] OTA.C17-ECHO.OHZ.74152: /looc I assume you should do a /me to get closer if you want
+[19:04:50] OTA.C17-ECHO.OHZ.74152: /looc Also did you see what I said?
+[19:04:55] OTA.C17-ECHO.OHZ.74152: /looc Or rather my /me
+[19:05:02] OTA.C17-ECHO.OHZ.74152: // Did you see my /me from over there?
+[19:05:07] James McKay: /me Would attempt to rush towards the ECHO, moving in a zig zag fashion
+[19:05:12] James McKay: /ooc yes
+[19:05:14] OTA.C17-ECHO.OHZ.74152: // Okay nvm 
+[19:05:15] James McKay: /rollattribute agility
+[19:05:37] OTA.C17-ECHO.OHZ.74152: /looc Idk what this would roll, Q should add an aiming skill
+[19:05:44] OTA.C17-ECHO.OHZ.74152: /looc Agility I guess
+[19:05:45] James McKay: /looc Did you see that?
+[19:06:00] OTA.C17-ECHO.OHZ.74152: /rollattribute agility
+[19:06:14] OTA.C17-ECHO.OHZ.74152: /looc Did you roll?
+[19:06:21] James McKay: /ooc Also btw, I think you may have a disadvantage in aiming since I hit you with a axe, square on the right arm
+[19:06:35] OTA.C17-ECHO.OHZ.74152: // Sure
+[19:06:39] James McKay: /ooc -5 on each aim roll
+[19:06:52] OTA.C17-ECHO.OHZ.74152: // roLL
+[19:06:55] James McKay: /ooc I DID
+[19:07:00] James McKay: /ooc I couldn't see your roll
+[19:07:01] OTA.C17-ECHO.OHZ.74152: // I didn't see from here
+[19:07:06] OTA.C17-ECHO.OHZ.74152: // What did you roll
+[19:07:12] James McKay: /ooc 67
+[19:07:25] OTA.C17-ECHO.OHZ.74152: // 83-5=77
+[19:07:29] James McKay: /ooc Alright
+[19:07:32] James McKay: /ooc roll 3
+[19:07:34] OTA.C17-ECHO.OHZ.74152: /roll 3
+[19:07:44] OTA.C17-ECHO.OHZ.74152: // 0
+[19:07:46] James McKay: /ooc Oh
+[19:07:48] James McKay: /ooc Lmao
+[19:07:53] OTA.C17-ECHO.OHZ.74152: /me misses every shot.
+[19:08:02] James McKay: /me Would move towards the ECHO, gaining distance quite quickly
+[19:08:05] Henry Blackwoods: /y BEAT HIS ASS!
+[19:08:20] James McKay: /me Would rush towards the ECHO again, attempting to strike him in the arm with his Axe
+[19:08:22] OTA.C17-ECHO.OHZ.74152: /me aims at his head this time, getting ready to take them out
+[19:08:27] James McKay: /roll Strength
+[19:08:30] James McKay: /looc bruhhh
+[19:08:35] OTA.C17-ECHO.OHZ.74152: /roll 
+[19:08:39] OTA.C17-ECHO.OHZ.74152: /roll 3
+[19:08:39] James McKay: /me Takes a Credit out of a small pouch in his vest, before he begins to flip it, an audible noise is made with each coin flip
+[19:08:41] James McKay: /looc void that
+[19:08:48] OTA.C17-ECHO.OHZ.74152: /looc k
+[19:08:51] OTA.C17-ECHO.OHZ.74152 killed James McKay using player
+[19:09:03] OTA.C17-ECHO.OHZ.74152: // F
+[19:09:07] Henry Blackwoods: /charfallover
+[19:09:11] OTA.C17-ECHO.OHZ.74152: // I don't think that's a pk though so your lucky on that
+[19:09:20] James McKay: /ooc Lemme just check...
+[19:09:21] Henry Blackwoods: /looc Acting dead!
+[19:09:24] Henry Blackwoods: /looc lmao
+[19:09:26] James McKay: /ooc Pretty sure PK is amputation
+[19:09:31] OTA.C17-ECHO.OHZ.74152: Get up now.
+[19:09:32] James McKay: /ooc Like a judge...
+[19:09:39] James McKay: /ooc But I'll double check
+[19:09:50] Stewie Lou: // HAHA IM NOT STUCK ANYMORE!!
+[19:09:52] Henry Blackwoods: /it The man seemed to be on the ground, not moving
+[19:09:56] James McKay: /ooc Wait you were stuck?
+[19:10:00] James McKay: /ooc You could've @
+[19:10:07] OTA.C17-ECHO.OHZ.74152: /me takes his sidearm out, and points it towards the mans knee.
+[19:10:07] Stewie Lou: // i was in the sewers for a while
+[19:10:14] James McKay: /ooc Oh lmao
+[19:10:15] OTA.C17-ECHO.OHZ.74152: Up.
+[19:10:27] OTA.C17-ECHO.OHZ.74152: Three
+[19:10:29] Stewie Lou: // shit was a fucking maze dude
+[19:10:30] OTA.C17-ECHO.OHZ.74152: 2
+[19:10:31] OTA.C17-ECHO.OHZ.74152: 1
+[19:10:39] OTA.C17-ECHO.OHZ.74152: /looc lmao no ammo
+[19:10:39] James McKay: /looc OH MY GOD
+[19:10:41] James McKay: /looc LMAOOOOOOOOO
+[19:10:45] Henry Blackwoods: /looc rip
+[19:10:47] OTA.C17-ECHO.OHZ.74152: /me Clicks, and no ammo comes out.
+[19:10:55] OTA.C17-ECHO.OHZ.74152: /me takes out his primary/
+[19:11:08] OTA.C17-ECHO.OHZ.74152: Get up now!
+[19:11:09] James McKay: /looc is he afk?
+[19:11:12] Henry Blackwoods: /looc Shiit, I don't know if I should scream
+[19:11:15] Henry Blackwoods: /looc I'm not
+[19:11:16] James McKay: /looc Oh
+[19:11:19] Henry Blackwoods: /looc acting dead
+[19:11:31] OTA.C17-ECHO.OHZ.74152: /looc Roll constitution with disadvantage
+[19:11:38] OTA.C17-ECHO.OHZ.74152: /looc So roll twice and take the lowest
+[19:11:54] Henry Blackwoods: /looc What, can you give me a quick example?
+[19:11:54] OTA.C17-ECHO.OHZ.74152: /looc I'll be nice and say 65+ since you just got shot.
+[19:12:04] OTA.C17-ECHO.OHZ.74152: /rollattribute constitution
+[19:12:12] OTA.C17-ECHO.OHZ.74152: /looc /rollattribute constitution
+[19:12:19] Henry Blackwoods: /looc right, 0/65?
+[19:12:39] OTA.C17-ECHO.OHZ.74152: /looc If you roll lower than a 65 in either of your two rolls you lose
+[19:13:10] Henry Blackwoods: /looc well shit
+[19:13:13] Henry Blackwoods: /looc guess i'll die
+[19:13:14] Henry Blackwoods: /roll 100
+[19:13:19] Henry Blackwoods: /looc oops
+[19:13:21] Henry Blackwoods: /looc wrong one
+[19:13:39] OTA.C17-ECHO.OHZ.74152: /looc Get up since you groan out in pain since you lost
+[19:13:46] OTA.C17-ECHO.OHZ.74152: Get up.
+[19:14:01] James McKay: /looc Hold it
+[19:14:03] James McKay: /looc Stop
+[19:14:04] OTA.C17-ECHO.OHZ.74152: /looc hold on a sec
+[19:14:06] James McKay: /looc DRD Is coming on
+[19:14:10] James McKay: /looc Something may have occured
+[19:14:20] OTA.C17-ECHO.OHZ.74152: /looc What?
+[19:14:25] James McKay: /looc one sec
+[19:14:38] James McKay: /looc Void that continue
+[19:14:42] Client "DRD" connected.
+[19:15:02] Henry Blackwoods: /me Groaned and began slowly standing up
+[19:15:05] OTA.C17-ECHO.OHZ.74152: /me points the gun to his back.
+[19:15:18] OTA.C17-ECHO.OHZ.74152: Move now!
+[19:15:22] James McKay: /it The distant sound of running and whispering can be heard echoing throughout the sewers.
+[19:15:23] Henry Blackwoods: O-okay..
+[19:15:35] Henry Blackwoods: /me Began mumbling something to himself
+[19:15:49] Client "DRD" spawned in server <STEAM_0:0:193599766> (took 67 seconds).
+[19:16:07] OTA.C17-ECHO.OHZ.74152: Move it
+[19:16:11] Henry Blackwoods: You did him dirty as fuck man..
+[19:16:24] OTA.C17-ECHO.OHZ.74152: /radio Anti-Citizen terminated
+[19:16:33] James McKay: /y run for your life
+[19:16:43] OTA.C17-ECHO.OHZ.74152: /looc Keep going I'm behind you in RP
+[19:16:46] Henry Blackwoods: /me Tripped, on purpose perhaps?
+[19:16:49] Henry Blackwoods: /charfallover
+[19:16:53] Henry Blackwoods: OW, SHIT!
+[19:17:12] OTA.C17-ECHO.OHZ.74152: /me hits him over the head with the butt of his gun.
+[19:17:13] DRD<STEAM_0:0:193599766> changed their name to Major-General Sir Issac Brock KB
+[19:17:21] OTA.C17-ECHO.OHZ.74152: /looc Attempting to knock you out.
+[19:17:24] Henry Blackwoods: STOP THAT SHIT!
+[19:17:36] OTA.C17-ECHO.OHZ.74152: /me grabs and drags him.
+[19:17:42] Henry Blackwoods: WAIT, I'LL STAND UP!
+[19:17:51] (csay from Major-General Sir Issac Brock KB) anyone involved in combat rp, stand by. Gotta yoink some people for a sec
+[19:17:51] Henry Blackwoods: /me slowly began standing up
+[19:17:57] OTA.C17-ECHO.OHZ.74152: Go!
+[19:18:00] James McKay: /looc Standby
+[19:18:06] Stewie Lou: // how do i use da crowbar
+[19:18:06] James McKay: /looc DRD Is doing something
+[19:18:09] OTA.C17-ECHO.OHZ.74152: /looc k
+[19:18:14] OTA.C17-ECHO.OHZ.74152: /looc hold R to take it out
+[19:18:14] Major-General Sir Issac Brock KB: // in your inventory, you can equip it
+[19:18:19] Major-General Sir Issac Brock KB: /pm echo prepare for yoink
+[19:18:23] Major-General Sir Issac Brock KB to admins: prepare for yoink
+[19:18:27] Stewie Lou: well i do
+[19:18:28] James McKay: /ooc When you equip in it your inv, you then hold it and then hold R
+[19:18:28] Major-General Sir Issac Brock KB brought OTA.C17-ECHO.OHZ.74152
+[19:18:28] Major-General Sir Issac Brock KB: !bring echo
+[19:18:31] James McKay to admins: oki dokie
+[19:18:36] Major-General Sir Issac Brock KB brought James McKay
+[19:18:36] Major-General Sir Issac Brock KB: !bring james
+[19:18:36] Henry Blackwoods: /looc oh shit
+[19:18:37] OTA.C17-ECHO.OHZ.74152: /looc hello
+[19:18:38] Henry Blackwoods: /looc freedom
+[19:18:45] Stewie Lou: // OHHHH so that's why i couldn't use it
+[19:18:48] Major-General Sir Issac Brock KB: .// okay so, i heard that you fucked jame's shit up
+[19:18:48] Stewie Lou: // fucking hell
+[19:18:55] James McKay: /ooc Yeah "R" Is safety for weapons
+[19:18:56] OTA.C17-ECHO.OHZ.74152: // Stay where you are mr guy who is in restraints for now
+[19:19:03] Henry Blackwoods: // I am free!!!
+[19:19:08] James McKay: /ooc Not for long
+[19:19:11] OTA.C17-ECHO.OHZ.74152: // You wish
+[19:19:13] James McKay: /ooc Lmao
+[19:19:16] James McKay: Righto
+[19:19:16] OTA.C17-ECHO.OHZ.74152: Okay so whats up
+[19:19:16] Major-General Sir Issac Brock KB: .// also your not in trouble
+[19:19:20] Henry Blackwoods: // I prayed to god, so I will be free.
+[19:19:20] Major-General Sir Issac Brock KB: alrighty
+[19:19:25] Major-General Sir Issac Brock KB: you fucked this guys shit up right?
+[19:19:29] OTA.C17-ECHO.OHZ.74152: Ye
+[19:19:29] James McKay: Yep
+[19:19:31] Major-General Sir Issac Brock KB: and shot them dead
+[19:19:33] OTA.C17-ECHO.OHZ.74152: Mhm
+[19:19:36] James McKay: Well...Meh I hit him a few times...
+[19:19:38] James McKay: But yeah I got headshot
+[19:19:39] OTA.C17-ECHO.OHZ.74152: Once
+[19:19:43] James McKay: True...
+[19:19:51] Major-General Sir Issac Brock KB: cool, since he's staff and was asking if he should charban himself, I wanna just figure out what happened
+[19:20:03] OTA.C17-ECHO.OHZ.74152: Yeah I can tell you
+[19:20:08] OTA.C17-ECHO.OHZ.74152: Do you want to VC real fast?
+[19:20:08] James McKay: Yeah, I was wondering about "amputation"
+[19:20:09] Major-General Sir Issac Brock KB: yeah, sure
+[19:20:12] Major-General Sir Issac Brock KB: syre
+[19:20:13] Major-General Sir Issac Brock KB: sure
+[19:20:19] OTA.C17-ECHO.OHZ.74152: You can come in here too bean
+[19:20:21] Major-General Sir Issac Brock KB: i'll move you both, hop into general
+[19:20:22] James McKay: I thought that was sorta "Judge Amputatuon Trial"
+[19:20:36] OTA.C17-ECHO.OHZ.74152: I'm already in
+[19:20:40] Stewie Lou: // brb
+[19:21:29] Major-General Sir Issac Brock KB: .// dealing with staff stuff
+[19:21:33] Major-General Sir Issac Brock KB: .// will be like 3 minutes
+[19:21:45] Henry Blackwoods: // What's happenin?
+[19:21:52] James McKay: /ooc Just a little run down thingy
+[19:24:03] James McKay: No, not really...That'll give me a good reason to go for a BlackMarket Char
+[19:24:07] Stewie Lou: // back
+[19:24:14] OTA.C17-ECHO.OHZ.74152: // Welcome back
+[19:24:18] OTA.C17-ECHO.OHZ.74152: // Also sorry this is taking a bit
+[19:24:23] James McKay: Yeah...I can't really be ya know...recovered...I got my head blown off
+[19:24:41] Major-General Sir Issac Brock KB brought OTA.C17-ECHO.OHZ.74152
+[19:24:43] OTA.C17-ECHO.OHZ.74152: // Coming back
+[19:24:49] OTA.C17-ECHO.OHZ.74152: Keep moving
+[19:24:50] James McKay: Cause I can just make a new BMD Character 
+[19:24:53] Henry Blackwoods: Jeez...
+[19:24:58] James McKay: So I'm fine with a PK on James
+[19:25:10] Henry Blackwoods: Fuck...
+[19:25:30] Client "normal" connected.
+[19:25:36] Henry Blackwoods: Err...
+[19:25:52] OTA.C17-ECHO.OHZ.74152: This way.
+[19:26:07] OTA.C17-ECHO.OHZ.74152: No.
+[19:26:11] OTA.C17-ECHO.OHZ.74152: /looc this way
+[19:26:20] Henry Blackwoods: /looc W e l l
+[19:26:22] Major-General Sir Issac Brock KB: .// what
+[19:26:23] Henry Blackwoods: /looc I could run
+[19:26:40] Henry Blackwoods: The fuck was that?
+[19:26:56] Henry Blackwoods: /y HELP
+[19:27:02] OTA.C17-ECHO.OHZ.74152: Shut it
+[19:27:12] James McKay: Im fine with it
+[19:27:28] James McKay<STEAM_0:1:591779303> changed their name to Alex Palovichov
+[19:27:29] OTA.C17-ECHO.OHZ.74152: In
+[19:27:41] Alex Palovichov: /ooc I could just delete McKay...
+[19:27:47] OTA.C17-ECHO.OHZ.74152: HANDS UP!
+[19:27:49] Alex Palovichov: /ooc Since there is NO chance he's coming back
+[19:27:50] Henry Blackwoods: // don't!
+[19:27:53] OTA.C17-ECHO.OHZ.74152: /looc Well you are tied
+[19:27:57] Alex Palovichov: /ooc Legit 0 chance...His brain...GONE
+[19:27:57] Henry Blackwoods: /looc well
+[19:28:00] Henry Blackwoods: /looc I have my head
+[19:28:03] Henry Blackwoods: /looc lolz
+[19:28:06] OTA.C17-ECHO.OHZ.74152: /me grabs him by the collar and knocks him out with the butt of his gun.
+[19:28:07] Alex Palovichov<STEAM_0:1:591779303> changed their name to James McKay
+[19:28:14] James McKay: /ooc What?
+[19:28:18] Major-General Sir Issac Brock KB: /charban james 
+[19:28:18] James McKay<STEAM_0:1:591779303> changed their name to Bean
+[19:28:19] OTA.C17-ECHO.OHZ.74152: /looc You're kinda fucked rn soo
+[19:28:22] Bean<STEAM_0:1:591779303> changed their name to Alex Palovichov
+[19:28:26] Henry Blackwoods: /looc allah will save
+[19:28:43] Henry Blackwoods: /loocfallover?
+[19:28:46] OTA.C17-ECHO.OHZ.74152: /looc sure
+[19:28:48] Major-General Sir Issac Brock KB: .// not on the lift
+[19:28:57] Henry Blackwoods: /looc ?
+[19:29:05] Alex Palovichov: /ooc Also just a heads up for everyone, Lock BreakingRP is currently bugged I think
+[19:29:06] Major-General Sir Issac Brock KB: .// oh yeah
+[19:29:10] OTA.C17-ECHO.OHZ.74152: /looc move off then do it
+[19:29:15] Alex Palovichov: /ooc Odd thing with the locks...
+[19:29:15] OTA.C17-ECHO.OHZ.74152: /looc Otherwise it glitches
+[19:29:16] Henry Blackwoods: /charfallover
+[19:29:31] Stewie Lou: // wow so i cant even steal shit?!?!?!?
+[19:29:40] Henry Blackwoods: /looc ow
+[19:29:43] Henry Blackwoods: /looc that fucking hurt
+[19:29:44] OTA.C17-ECHO.OHZ.74152: /looc lol
+[19:30:12] Alex Palovichov: /looc Yeah I mean lock padlocked ones
+[19:30:15] Alex Palovichov: Uhh
+[19:30:21] OTA.C17-ECHO.OHZ.74152: /looc Stand up for rn but you are still knocked out
+[19:30:24] Henry Blackwoods: /looc gimme mah health!!
+[19:30:28] Henry Blackwoods: /looc k
+[19:30:31] Alex Palovichov: /looc No I dont think I can spawn padlocks
+[19:30:31] OTA.C17-ECHO.OHZ.74152: /looc I dropped you lol
+[19:30:36] Major-General Sir Issac Brock KB added Alex Palovichov to group admin
+[19:30:39] Henry Blackwoods: /looc oi kurwa
+[19:30:45] Alex Palovichov: /ooc Yo
+[19:30:48] Henry Blackwoods: /looc death
+[19:30:50] OTA.C17-ECHO.OHZ.74152: // ALEx
+[19:30:59] Alex Palovichov: /looc Yeah A bunch more
+[19:31:00] Stewie Lou: // been a good while since i've seen a combine
+[19:31:09] OTA.C17-ECHO.OHZ.74152: /me throws the man in.
+[19:31:13] Henry Blackwoods: /charfallover
+[19:31:16] OTA.C17-ECHO.OHZ.74152: /me searches him.
+[19:31:22] Alex Palovichov: Alright..
+[19:31:23] OTA.C17-ECHO.OHZ.74152: /looc stay standing up
+[19:31:31] Henry Blackwoods: /looc k
+[19:31:32] Alex Palovichov: And Padlocks/
+[19:31:35] Alex Palovichov: ?*
+[19:31:38] OTA.C17-ECHO.OHZ.74152: /charsearch
+[19:31:48] Major-General Sir Issac Brock KB: /charsearch
+[19:32:11] Alex Palovichov: /ooc Time for the Char I've been waiting for...
+[19:32:17] Henry Blackwoods: /looc ayo, i'm gonna be naked 
+[19:32:24] Stewie Lou: // scary
+[19:32:31] Henry Blackwoods: /looc this is scary moment
+[19:32:34] Alex Palovichov to admins: question...About me having a CCA n such...
+[19:32:47] Alex Palovichov to admins: Cause idk much about CCA n such...
+[19:32:48] OTA.C17-ECHO.OHZ.74152: /me gets off him.
+[19:32:50] Henry Blackwoods: /charfallover
+[19:32:56] OTA.C17-ECHO.OHZ.74152: /looc You can wake up whenever
+[19:32:56] Henry Blackwoods: /looc Can I get up?
+[19:33:15] Henry Blackwoods: /me Slowly wakes up and stands up, confused.
+[19:33:25] Henry Blackwoods: Ouch..
+[19:33:31] Henry Blackwoods: That hurt.
+[19:33:35] Alex Palovichov to admins: Cause I need to be whitelisted...
+[19:33:35] Henry Blackwoods: The fuck?
+[19:33:37] OTA.C17-ECHO.OHZ.74152: Hmph
+[19:33:52] Major-General Sir Issac Brock KB: /plywhitelist alex combine
+[19:33:54] Henry Blackwoods: penis looking ass piece of shit
+[19:34:01] Henry Blackwoods: Uh well...
+[19:34:06] Henry Blackwoods: Guess I'll die here.
+[19:34:14] Henry Blackwoods: Not the death I expected but oh well.
+[19:34:15] Major-General Sir Issac Brock KB: /plywhitelist civil auth
+[19:34:18] Major-General Sir Issac Brock KB: /plywhitelist civil
+[19:34:23] Major-General Sir Issac Brock KB: /plywhitelist alex civil
+[19:34:58] Henry Blackwoods: Piece of shit.
+[19:35:09] Henry Blackwoods: Gonna uh...
+[19:35:24] OTA.C17-ECHO.OHZ.74152: /pm rose I'll be there in a moment
+[19:35:34] OTA.C17-ECHO.OHZ.74152: /pm black just a sec
+[19:35:48] Henry Blackwoods: Well I hope they don't cut off my dick...
+[19:36:11] Henry Blackwoods: Eh.
+[19:36:53] Major-General Sir Issac Brock KB added Alex Palovichov to group moderator
+[19:37:04] Alex Palovichov to admins: should I make a CCA?
+[19:37:53] Henry Blackwoods: Yeah...
+[19:38:45] Major-General Sir Issac Brock KB: .// you're probably gonna be in here for a while
+[19:38:51] Major-General Sir Issac Brock KB: .// you can go on another char
+[19:38:55] Major-General Sir Issac Brock KB: .// if you want
+[19:38:59] Henry Blackwoods: /looc hmm
+[19:39:23] OTA.C17-ECHO.OHZ.74152<STEAM_0:0:68118061> changed their name to CCA.C17-HELIX.i4.08874
+[19:39:31] CCA.C17-HELIX.i4.08874: /radio Copy.
+[19:39:47] CCA.C17-HELIX.i4.08874: Get on the wall.
+[19:39:52] Henry Blackwoods: Eh, sure..
+[19:40:03] CCA.C17-HELIX.i4.08874: /me grabs him by one of his arms.
+[19:40:12] CCA.C17-HELIX.i4.08874: /me pulls him along.
+[19:40:35] Dropped "Major-General Sir Issac Brock KB" from server<STEAM_0:0:193599766>
+[19:40:42] CCA.C17-HELIX.i4.08874: /me drops him down.
+[19:40:46] Henry Blackwoods: Ouch..
+[19:40:57] Alex Palovichov<STEAM_0:1:591779303> changed their name to Daniel J. Cutter
+[19:41:11] Daniel J. Cutter: /ooc He arrives...
+[19:41:18] CCA.C17-HELIX.i4.08874: // cutta
+[19:41:27] CCA.C17-HELIX.i4.08874: /radio Mhm. Got it.
+[19:41:37] Henry Blackwoods: Nice place.
+[19:42:00] CCA.C17-HELIX.i4.08874: Alright.
+[19:42:04] Dropped "Stewie Lou" from server<STEAM_0:1:429480781>
+[19:42:10] CCA.C17-HELIX.i4.08874: Lets start off with some basic stuff.
+[19:42:12] CCA.C17-HELIX.i4.08874: Name?
+[19:42:21] Henry Blackwoods: Henry Blackwoods, Officer.
+[19:42:29] CCA.C17-HELIX.i4.08874: /looc Reveal yourself btw
+[19:42:41] CCA.C17-HELIX.i4.08874: /looc Okay
+[19:42:47] CCA.C17-HELIX.i4.08874: You in CWU?
+[19:42:54] Daniel J. Cutter<STEAM_0:1:591779303> changed their name to Alex Palovichov
+[19:42:58] Henry Blackwoods: No.. I'm just your ordinary day to day citizen.
+[19:43:03] CCA.C17-HELIX.i4.08874: No you're not.
+[19:43:18] CCA.C17-HELIX.i4.08874: Alright, lets start.
+[19:43:43] CCA.C17-HELIX.i4.08874: Now, why were you in the Sewer system?
+[19:43:54] Henry Blackwoods: I'm gonna be honest with you here.
+[19:44:00] CCA.C17-HELIX.i4.08874: You should be.
+[19:44:44] CCA.C17-HELIX.i4.08874: /viewdata henry
+[19:44:51] Henry Blackwoods: I opted to stay in the sewers for a more peaceful life, than live out here with the erm.. "Bad guys" and be oppresed, beaten up and stuff.
+[19:45:15] Henry Blackwoods: I think you get the point.
+[19:45:18] Henry Blackwoods: Right?
+[19:45:22] CCA.C17-HELIX.i4.08874: Hm
+[19:45:31] CCA.C17-HELIX.i4.08874: Was that your only intention?
+[19:45:44] Alex Palovichov: Did I leave my oven...on....Ah shit!
+[19:45:53] Henry Blackwoods: Well yeah, though of course I met some people.
+[19:46:00] Henry Blackwoods: Well actually, 1.
+[19:46:02] Henry Blackwoods: He is dead now.
+[19:46:34] Henry Blackwoods: I didn't intend to resist or do anything harmful to others, my intention was simple, a peaceful life.
+[19:47:06] Henry Blackwoods: Well, of course I acted like a rebel because how else would you act upon a gun to your head.
+[19:47:16] CCA.C17-HELIX.i4.08874: Reasonably.
+[19:48:12] CCA.C17-HELIX.i4.08874: We have you on record stating to the man fighting one of our OTA stating quote, 'Beat his ass' and 'Kill him'"
+[19:48:25] CCA.C17-HELIX.i4.08874: Explain.
+[19:48:26] Henry Blackwoods: Yeah, that's true.
+[19:48:55] CCA.C17-HELIX.i4.08874: /looc hold on one sec after you type this, I forgor to record this
+[19:49:10] Dropped "CCA.C17-HELIX.i4.08874" from server<STEAM_0:0:68118061>
+[19:49:22] Alex Palovichov: /looc crashed
+[19:51:43] Client "Painevan" connected.
+[19:54:10] Client "Painevan" spawned in server <STEAM_0:0:68118061> (took 147 seconds).
+[19:54:15] Alex Palovichov gave Themself ix_biosigstunstick
+[19:54:54] Painevan<STEAM_0:0:68118061> changed their name to CCA.C17-HELIX.i4.08874
+[19:55:01] CCA.C17-HELIX.i4.08874: /looc ANND we're back
+[19:55:17] Henry Blackwoods: /looc alright.
+[19:55:30] CCA.C17-HELIX.i4.08874: /looc Continue
+[19:55:38] CCA.C17-HELIX.i4.08874: /looc Actually I'll restate
+[19:56:51] CCA.C17-HELIX.i4.08874: You were found on record to have stated while the OTA officer was attacked by another man, quote "Beat his ass" and "Kill him" to the man fighting the OTA.
+[19:56:55] CCA.C17-HELIX.i4.08874: Explain.
+[19:57:02] Henry Blackwoods: Yeah, that's true.
+[19:57:49] Henry Blackwoods: Yet, I couldn't think straight even if I tried. Guns were blazing, blood was splattered. Even so, the OTA aimed his weapon at my head, I thought he would kill me.
+[19:58:25] CCA.C17-HELIX.i4.08874: If they wanted to kill you they would have shot you on sight. Excuses doesn't make saying this any more justifiable.
+[19:58:42] CCA.C17-HELIX.i4.08874: Anyone in their right mind would have complied if they were just wanting to lead a 'peaceful life'.
+[19:59:10] CCA.C17-HELIX.i4.08874: Yet you had directly stated a thread to the OTA instead of doing just that, even supporting them being killed.
+[19:59:20] CCA.C17-HELIX.i4.08874: /looc threat*
+[19:59:44] Henry Blackwoods: Well, I had an axe on me, that's 1 reason that he could've killed me if he found out.
+[20:00:14] CCA.C17-HELIX.i4.08874: We recovered the Axe yet during detainment there was no indication you would be using it.
+[20:00:33] Alex Palovichov suicided!
+[20:00:33] Alex Palovichov slayed Themself
+[20:01:13] CCA.C17-HELIX.i4.08874: The only concern rose after these threats, where there was reasonable suspicion due to them being levied, therefor acting as having an axe while you had your arms tied and complying is absurd.
+[20:01:39] CCA.C17-HELIX.i4.08874: The only reason you would be shot is if you were partaking in Anti-Civil activities
+[20:01:48] CCA.C17-HELIX.i4.08874: Which leads me onto my next question.
+[20:02:26] CCA.C17-HELIX.i4.08874: The man you were found with was a Rebel conspirator, who had previously done acts to endanger the lives of both Citizens and CCA officals.
+[20:02:52] CCA.C17-HELIX.i4.08874: It is reasonable to presume in your position that you were good friends, yet you also likely knew of the extent of his work.
+[20:03:03] Henry Blackwoods: Ah.
+[20:03:14] Henry Blackwoods: Yeah, I knew his work. He was enthuastic about it.
+[20:03:29] Henry Blackwoods: Though I did not wish to participate in his work.
+[20:03:48] CCA.C17-HELIX.i4.08874: I'm not asking that.
+[20:03:57] CCA.C17-HELIX.i4.08874: Let me rephrase into a question.
+[20:04:16] CCA.C17-HELIX.i4.08874: Explain your relationship and to the extent of the activites you know he did.
+[20:04:41] Henry Blackwoods: Well, I do not know too much, but he had another friend.
+[20:04:48] CCA.C17-HELIX.i4.08874: Name?
+[20:04:57] Henry Blackwoods: He is dead, I did not see the day to meet him.
+[20:05:02] Alex Palovichov: /request Found some...Anti-Civil Propoganda, by someone called...The Doctor? I'm at the Plaza...
+[20:05:18] Henry Blackwoods: The Doctor...
+[20:05:19] CCA.C17-HELIX.i4.08874: Stay here.
+[20:05:22] Henry Blackwoods: He is dead.
+[20:05:31] Henry Blackwoods: /me Sighed
+[20:05:39] Henry Blackwoods: Well, nothing much I can do.
+[20:05:43] CCA.C17-HELIX.i4.08874: Alex
+[20:05:46] Alex Palovichov: Yeah?
+[20:05:49] Alex Palovichov: Oh right...Here
+[20:05:50] CCA.C17-HELIX.i4.08874: Hand over the paper.
+[20:05:52] Henry Blackwoods: I'm sorry, pal'.
+[20:05:57] Alex Palovichov: /me Would reach into his pocket, sliding a piece of paper over
+[20:06:03] Alex Palovichov: Found it in the alleyway...
+[20:06:19] CCA.C17-HELIX.i4.08874: I'm sure. I'll process your LP in a moment, I am busy.
+[20:06:22] CCA.C17-HELIX.i4.08874: Come back later.
+[20:06:25] Henry Blackwoods: I am really sorry, if I hadn't have gone in the sewers in the first place.. you wouldn't have ended up dead.
+[20:06:28] Alex Palovichov: Oh...uhh yeah sure...
+[20:06:51] CCA.C17-HELIX.i4.08874: *ahem*
+[20:07:00] CCA.C17-HELIX.i4.08874: Read this
+[20:07:05] CCA.C17-HELIX.i4.08874: And explain what you know.
+[20:07:07] Henry Blackwoods: /looc Can't read it.
+[20:07:19] CCA.C17-HELIX.i4.08874: /looc I'll copy and paste
+[20:07:21] Henry Blackwoods: /looc k
+[20:07:22] CCA.C17-HELIX.i4.08874: /looc Rise up against our slavers! Do not allow this otherwordly power keep us kneeled! Ensure a future for humanity! Rise up against the combine! Fight them in the streets! In the buildings! -The Doctor
+[20:07:30] Henry Blackwoods: Ah..
+[20:07:45] Henry Blackwoods: He was a spark in the ashes.
+[20:07:53] CCA.C17-HELIX.i4.08874: Now, I don't think you are a stupid man.
+[20:07:58] Henry Blackwoods: The doctor.
+[20:08:00] CCA.C17-HELIX.i4.08874: Quite the opposite.
+[20:08:00] Henry Blackwoods: Is dead.
+[20:08:54] CCA.C17-HELIX.i4.08874: You stated you knowingly knew the actions that this man had commited against the CCA.
+[20:09:19] CCA.C17-HELIX.i4.08874: You of all people and I mean this as a compliment would know when to back out of a bad situation.
+[20:09:28] Henry Blackwoods: Now, now.
+[20:09:32] CCA.C17-HELIX.i4.08874: For instance, you ran away when you had the oppertun-
+[20:09:34] CCA.C17-HELIX.i4.08874: Shush
+[20:09:38] Henry Blackwoods: /me Sighed
+[20:10:07] CCA.C17-HELIX.i4.08874: You ran away when you had the oppertunity to while our OTA's back was turned and if you hadn't ran towards the elevator you might've gotten away.
+[20:10:46] CCA.C17-HELIX.i4.08874: So I don't doubt you recognize the actions this person had done right? No if you didn't want to get involved, why did you even get involved with the "Doctor"
+[20:11:09] CCA.C17-HELIX.i4.08874: Surely you would know even in the sewers what is going too far.
+[20:11:37] Henry Blackwoods: Like I said, I wanted a peaceful life, and the doctor came to me, yet when I first met him, I didn't know his work.
+[20:11:46] CCA.C17-HELIX.i4.08874: I don't refute that
+[20:11:56] CCA.C17-HELIX.i4.08874: Yet I do know at some point you realized the extent of it
+[20:12:22] CCA.C17-HELIX.i4.08874: And you willingly still were around him.
+[20:12:37] CCA.C17-HELIX.i4.08874: This isn't a good look, even if you had the best intentions in mind.
+[20:12:43] CCA.C17-HELIX.i4.08874: And you recognize that.
+[20:12:50] CCA.C17-HELIX.i4.08874: So I'm giving you an offer.
+[20:13:16] CCA.C17-HELIX.i4.08874: You tell us everything you know about these activities, and it's like water under the bridge.
+[20:13:30] Henry Blackwoods: Hmm, well like I said, I don't know much
+[20:13:41] Henry Blackwoods: Nor did he do anything major, atleast to my knowledge.
+[20:13:56] CCA.C17-HELIX.i4.08874: Mhm.
+[20:14:10] CCA.C17-HELIX.i4.08874: We'll move on.
+[20:14:35] CCA.C17-HELIX.i4.08874: Now, explain to me the items you had on you at the time of your detainment.
+[20:14:45] Henry Blackwoods: Ah, yes.
+[20:14:48] Henry Blackwoods: Well to begin.
+[20:15:24] Henry Blackwoods: The axe was simply a weapon of self-defense against crazy geezers and xen lifeforms who want to kill me.
+[20:15:31] Alex Palovichov: /request Wait...I may have some...info about the "Doctor" I remember being told something about him...
+[20:15:45] Henry Blackwoods: The rest..
+[20:15:51] Alex Palovichov: /request I'll be at the Work Desk...
+[20:16:02] CCA.C17-HELIX.i4.08874: /pm alex Acknowleged
+[20:16:20] Henry Blackwoods: The rest was just salvaged junk, found in the sewers. I thought it could make my life much easier against those hostiles.
+[20:16:53] CCA.C17-HELIX.i4.08874: Alright, stay here for one moment.
+[20:17:26] Henry Blackwoods: Not a very nice place.
+[20:17:26] CCA.C17-HELIX.i4.08874: // One sec I have to character switch to see these
+[20:17:30] CCA.C17-HELIX.i4.08874<STEAM_0:0:68118061> changed their name to OTA.C17-ECHO.OHZ.74152
+[20:18:47] OTA.C17-ECHO.OHZ.74152<STEAM_0:0:68118061> changed their name to CCA.C17-HELIX.i4.08874
+[20:19:15] CCA.C17-HELIX.i4.08874: I think you and me have different definitions of salvaged junk.
+[20:20:00] CCA.C17-HELIX.i4.08874: It seems you had professionally made Medical Kits, a Gas Anyalizer, Several Zip Ties among other things.
+[20:20:28] CCA.C17-HELIX.i4.08874: Look, I can get why you may have Medical Kits, that gas thing to an extent.
+[20:20:44] CCA.C17-HELIX.i4.08874: Yet that doesn't explain the Zip Ties, an item that has no value to someone like you.
+[20:20:47] Henry Blackwoods: Well they weren't crafte-
+[20:21:26] CCA.C17-HELIX.i4.08874: I don't care if they were crafted, why did you have the Zip Ties? Surely to someone so peaceful and humble as you wouldn't need them.
+[20:21:54] Henry Blackwoods: Well, they were technically pieces of plastic, or am I wrong?
+[20:22:23] CCA.C17-HELIX.i4.08874: That's equipment for a policing force, not the likes of you.
+[20:22:38] CCA.C17-HELIX.i4.08874: I'll leave it there.
+[20:23:28] CCA.C17-HELIX.i4.08874: Now, what's going to happen you is that you'll be transfered to a holding cell until you stand trial.
+[20:23:35] CCA.C17-HELIX.i4.08874: There will be more questioning to come.
+[20:23:49] Henry Blackwoods: Well, guess you're gonna suck me dry out of answers.
+[20:23:59] CCA.C17-HELIX.i4.08874: Get against the wall and face it.
+[20:24:22] CCA.C17-HELIX.i4.08874: /me places a blindfold over the mans eyes, then drags him by his arm.
+[20:25:08] Henry Blackwoods: Hm..
+[20:25:15] Henry Blackwoods: So do you enjoy your work?
+[20:25:27] CCA.C17-HELIX.i4.08874: /me does not answer and drags him again.
+[20:25:52] CCA.C17-HELIX.i4.08874: /me pushes him in
+[20:26:05] Henry Blackwoods: Am I gonna stay with that blindfold?
+[20:26:23] CCA.C17-HELIX.i4.08874: /me uses a knife to get off his zip ties and unblindfolds them.
+[20:26:58] CCA.C17-HELIX.i4.08874: /radio He's been detained, charges will be placed in a second.
+[20:27:13] Henry Blackwoods: Eh, well.
+[20:27:16] CCA.C17-HELIX.i4.08874: // You can hop off that char for now if you want, I'll tell you if I need you
+[20:27:18] Henry Blackwoods: I tried.
+[20:27:28] CCA.C17-HELIX.i4.08874: // Since at this point Q or DRD has to do the interrogation
+[20:27:45] CCA.C17-HELIX.i4.08874: /viewdata henry
+[20:28:25] Client "TheeMann" connected.
+[20:29:07] Client "TheeMann" connected.
+[20:31:25] Henry Blackwoods: /me Took out a pin from one of his pockets and began carving out something
+[20:33:02] Henry Blackwoods: Hm....
+[20:33:04] CCA.C17-HELIX.i4.08874: // This is a load of paperwork
+[20:33:12] CCA.C17-HELIX.i4.08874: // I'm gonna need to discuss this with DRD
+[20:34:15] CCA.C17-HELIX.i4.08874: /viewdata henry
+[20:34:28] Henry Blackwoods: /me Hid his pin
+[20:34:34] Alex Palovichov: /adminspawnmenu
+[20:34:46] Henry Blackwoods: /actsit
+[20:35:44] Alex Palovichov: /chargiveitem Palovichov Mask
+[20:36:05] Alex Palovichov<STEAM_0:1:591779303> used the tool remover on maps/rp_industrial17_v1.bsp
+[20:36:06] Alex Palovichov<STEAM_0:1:591779303> used the tool remover on maps/rp_industrial17_v1.bsp
+[20:36:06] Alex Palovichov<STEAM_0:1:591779303> used the tool remover on maps/rp_industrial17_v1.bsp
+[20:37:04] Alex Palovichov<STEAM_0:1:591779303> used the tool remover on maps/rp_industrial17_v1.bsp
+[20:38:23] CCA.C17-HELIX.i4.08874: You there.
+[20:38:53] Client "TheeMann" spawned in server <STEAM_0:0:640299950> (took 586 seconds).
+[20:38:58] Henry Blackwoods: Hm?
+[20:39:12] CCA.C17-HELIX.i4.08874: /looc Are you in the disc?
+[20:39:17] Henry Blackwoods: /looc Yeah
+[20:39:22] CCA.C17-HELIX.i4.08874: /looc Can you VC?
+[20:39:41] CCA.C17-HELIX.i4.08874: /looc Because I'm going to have to prosecute myself and I want a fair trial for this
+[20:39:56] Henry Blackwoods: /looc Well I can, but not now.
+[20:40:00] CCA.C17-HELIX.i4.08874: /looc When?
+[20:40:30] Henry Blackwoods: /looc I'm not quite sure, everyone in my home is sleeping right now.
+[20:41:06] Henry Blackwoods: /looc Okay well you know what, okay I can.
+[20:41:10] CCA.C17-HELIX.i4.08874: /looc Alright, you sure you can't just be quiet? If not it's fine and we can do this another time or you can message me your defens-
+[20:41:32] CCA.C17-HELIX.i4.08874: /looc Alright, head into general so I can see who you are and call you
+[20:42:09] Henry Blackwoods: /looc just a sec
+[20:42:31] TheeMann<STEAM_0:0:640299950> changed their name to Keegan Onderhaunt
+[20:42:49] CCA.C17-HELIX.i4.08874: // Welcome! I'll be with you in a sec
+[20:43:22] Alex Palovichov: /ooc Welcome! Make sure to have your suit on with a filter installed! Don't forget to join our discord, and download the content!
+[20:44:00] Keegan Onderhaunt: hello
+[20:44:04] CCA.C17-HELIX.i4.08874: Move back for me.
+[20:44:19] CCA.C17-HELIX.i4.08874: Over here
+[20:44:24] CCA.C17-HELIX.i4.08874: Alright
+[20:44:28] CCA.C17-HELIX.i4.08874: Full name.
+[20:44:31] Alex Palovichov<STEAM_0:1:591779303> changed their name to Daniel J. Cutter
+[20:44:32] Keegan Onderhaunt: Keegan Onderhaunt
+[20:44:41] CCA.C17-HELIX.i4.08874: Mkay
+[20:44:46] CCA.C17-HELIX.i4.08874: Drop your relocation coupon
+[20:45:57] CCA.C17-HELIX.i4.08874: Okay, I'm going to ask you questions and you answer them truthfully.
+[20:46:03] Keegan Onderhaunt: Ok.
+[20:46:09] CCA.C17-HELIX.i4.08874: Birthdate?
+[20:46:16] CCA.C17-HELIX.i4.08874: /looc Year is 2003, min is 1986
+[20:46:35] Keegan Onderhaunt: 03/07/1983
+[20:46:38] Daniel J. Cutter: /looc 2006*
+[20:46:45] Daniel J. Cutter: /looc Minimum is 1983
+[20:46:52] Daniel J. Cutter: /looc 7 Hour war was in 2003
+[20:46:58] CCA.C17-HELIX.i4.08874: Mhm
+[20:47:02] CCA.C17-HELIX.i4.08874: /viewdata keegan
+[20:47:02] Keegan Onderhaunt: /looc I'm using american dates btw
+[20:47:14] CCA.C17-HELIX.i4.08874: /viewdata keegan
+[20:47:28] CCA.C17-HELIX.i4.08874: You a male?
+[20:47:33] Keegan Onderhaunt: Yes.
+[20:47:42] CCA.C17-HELIX.i4.08874: /me takes out a small PDA, and turns it on. It illuminates green.
+[20:47:47] CCA.C17-HELIX.i4.08874: Figures
+[20:47:52] CCA.C17-HELIX.i4.08874: /viewdata keegan'
+[20:47:57] CCA.C17-HELIX.i4.08874: /viewdata keegan
+[20:48:05] CCA.C17-HELIX.i4.08874: Blood type
+[20:48:10] Keegan Onderhaunt: O-
+[20:48:59] CCA.C17-HELIX.i4.08874: Got it
+[20:49:44] CCA.C17-HELIX.i4.08874: /viewdata keegan
+[20:50:03] CCA.C17-HELIX.i4.08874: /looc Sorry, doing a trial too lol
+[20:50:08] CCA.C17-HELIX.i4.08874: /looc Something before you came
+[20:50:11] Keegan Onderhaunt: /looc it's fine man
+[20:50:18] CCA.C17-HELIX.i4.08874: Any mental or phyiscal conditions?
+[20:50:21] Keegan Onderhaunt: /looc yall got a discord?
+[20:50:25] Keegan Onderhaunt: None.
+[20:50:29] Daniel J. Cutter: /looc /Discord 
+[20:50:34] Keegan Onderhaunt: /discord
+[20:50:42] Keegan Onderhaunt: /looc ty
+[20:50:48] CCA.C17-HELIX.i4.08874: Got it
+[20:51:31] Keegan Onderhaunt: /looc how populated does the server usually get?
+[20:51:35] Keegan Onderhaunt: /looc discord seems pretty big
+[20:51:50] Daniel J. Cutter: /looc Depends, we had quite the rush not long ago...8...9? People
+[20:51:51] CCA.C17-HELIX.i4.08874: You in CWU?
+[20:52:04] Keegan Onderhaunt: citizen union? no.
+[20:52:17] Keegan Onderhaunt: Though I hope to be transferred some time.
+[20:52:30] CCA.C17-HELIX.i4.08874: You'd have to apply.
+[20:52:40] Keegan Onderhaunt: That's what I assumed
+[20:52:46] CCA.C17-HELIX.i4.08874: Alright, lastly.
+[20:52:53] CCA.C17-HELIX.i4.08874: /me hands him a CID.
+[20:52:58] Keegan Onderhaunt: /me takes it
+[20:53:03] CCA.C17-HELIX.i4.08874: Don't lose it.
+[20:53:09] Keegan Onderhaunt: I won't, sir.
+[20:53:10] CCA.C17-HELIX.i4.08874: You can go
+[20:53:19] CCA.C17-HELIX.i4.08874: Full name
+[20:53:24] Daniel J. Cutter: Daniel J. Cutter
+[20:53:31] Daniel J. Cutter: James...
+[20:53:54] Daniel J. Cutter: /chargiveflag Cutter atp
+[20:54:08] Daniel J. Cutter: /chargiveflag Cutter ate
+[20:54:31] Daniel J. Cutter: /chargiveflag Cutter atn
+[20:54:37] Daniel J. Cutter: /chargiveflag Cutter atr
+[20:55:08] CCA.C17-HELIX.i4.08874: /looc Sorry about that
+[20:55:13] Daniel J. Cutter: /looc All good
+[20:55:27] Daniel J. Cutter: /looc Tell me if you're about to deal with the trial, I have to do something with a gluon gun...
+[20:56:10] CCA.C17-HELIX.i4.08874: /looc lol
+[20:56:16] CCA.C17-HELIX.i4.08874: Coupon
+[20:56:28] Daniel J. Cutter: /me Would reach into his pocket, taking out a relocation coupon
+[20:57:24] CCA.C17-HELIX.i4.08874: Alright, Date of Birth
+[20:57:33] CCA.C17-HELIX.i4.08874: /viewdata daniel
+[20:57:33] Daniel J. Cutter: 1979...
+[20:57:42] Daniel J. Cutter: January...23
+[20:58:03] Keegan Onderhaunt: // I think I'mma go to bed, server seems really interesting and I'll probably be on tomorrow
+[20:58:06] Dropped "Keegan Onderhaunt" from server<STEAM_0:0:640299950>
+[20:58:59] CCA.C17-HELIX.i4.08874: /viewdata daniel
+[20:59:56] CCA.C17-HELIX.i4.08874: /looc Okay
+[20:59:58] CCA.C17-HELIX.i4.08874: /looc I'm done
+[21:00:05] CCA.C17-HELIX.i4.08874: // done finally
+[21:00:07] CCA.C17-HELIX.i4.08874: // woo
+[21:00:16] CCA.C17-HELIX.i4.08874: /viewdata daniel
+[21:00:36] CCA.C17-HELIX.i4.08874: Male?
+[21:00:42] Daniel J. Cutter: Correct...
+[21:00:46] CCA.C17-HELIX.i4.08874: Mhm
+[21:00:50] CCA.C17-HELIX.i4.08874: Blood type?
+[21:00:57] Daniel J. Cutter: O+
+[21:01:03] CCA.C17-HELIX.i4.08874: Mkay.
+[21:01:07] CCA.C17-HELIX.i4.08874: /viewdata daniel
+[21:01:23] CCA.C17-HELIX.i4.08874: Any medical or physical conditions?
+[21:01:25] Daniel J. Cutter: Nope
+[21:01:32] CCA.C17-HELIX.i4.08874: CWU?
+[21:01:35] Daniel J. Cutter: No...
+[21:01:39] CCA.C17-HELIX.i4.08874: Alright
+[21:01:48] CCA.C17-HELIX.i4.08874: /me hands him his new CID.
+[21:01:58] Daniel J. Cutter: /me Would grab the CID, putting it into his pocket
+[21:02:05] Daniel J. Cutter: Thanks...
+[21:02:12] CCA.C17-HELIX.i4.08874: If you have any questions, go to the work desk.
+[21:02:15] CCA.C17-HELIX.i4.08874: You can go
+[21:02:37] Daniel J. Cutter: /ooc If you hear a loud BZZZZZZZZZZZZZZZZZZZZZZZZZZZ Noise, don't mind it
+[21:02:43] Daniel J. Cutter<STEAM_0:1:591779303> spawned/gave himself swep ix_biosigstunstick
+[21:02:47] Daniel J. Cutter gave Themself ix_biosigstunstick
+[21:03:34] Daniel J. Cutter<STEAM_0:1:591779303> spawned model models/props_junk/metalbucket02a.mdl
+[21:03:59] CCA.C17-HELIX.i4.08874: // Bean do me a favor, can you buy some water and bring it to me? I can't use a vending machine for some reason as CCA
+[21:03:59] Daniel J. Cutter<STEAM_0:1:591779303> changed their name to Alex Palovichov
+[21:04:02] CCA.C17-HELIX.i4.08874: // I'll pay you back
+[21:04:10] CCA.C17-HELIX.i4.08874: // It'll be OOC
+[21:04:13] Alex Palovichov: /ooc One sec, playing with explosives to get rid of something
+[21:04:17] CCA.C17-HELIX.i4.08874: // K
+[21:04:35] Alex Palovichov: /it Water seems to appear out of thin air
+[21:04:40] CCA.C17-HELIX.i4.08874: woo
+[21:04:46] CCA.C17-HELIX.i4.08874: // More
+[21:04:51] CCA.C17-HELIX.i4.08874: // I need thirst less
+[21:05:05] CCA.C17-HELIX.i4.08874: // Because for some reason we don't have a way to get water
+[21:05:44] CCA.C17-HELIX.i4.08874: // Thx
+[21:05:53] Alex Palovichov: /ooc Now...if you hear a explosion...void it
+[21:06:01] CCA.C17-HELIX.i4.08874: // k
+[21:06:30] Alex Palovichov: /adminspawnmenu
+[21:07:40] Alex Palovichov: /chargiveitem Palovichov RPG 1
+[21:08:04] Alex Palovichov gave Themself RPG
+[21:08:12] Alex Palovichov gave Themself rpg_Launcher
+[21:08:35] Alex Palovichov gave Themself RPG
+[21:08:41] Alex Palovichov<STEAM_0:1:591779303> spawned/gave himself swep weapon_rpg
+[21:09:01] Alex Palovichov<STEAM_0:1:591779303> used the tool creator on maps/rp_industrial17_v1.bsp
+[21:09:01] Alex Palovichov<STEAM_0:1:591779303> spawned/gave himself swep weapon_rpg
+[21:09:40] Alex Palovichov: /adminspawnmenu
+[21:09:54] Alex Palovichov: /chargiveitem Palovichov grenade
+[21:10:08] Alex Palovichov: /chargiveitem Palovichov grenade 2
+[21:10:13] CCA.C17-HELIX.i4.08874: // Flagging down for now
+[21:10:19] CCA.C17-HELIX.i4.08874<STEAM_0:0:68118061> changed their name to Jonathan Jackson
+[21:11:55] Jonathan Jackson<STEAM_0:0:68118061> used the tool ledscreen on maps/rp_industrial17_v1.bsp
+[21:12:37] Jonathan Jackson<STEAM_0:0:68118061> changed their name to OTA.C17-ECHO.OHZ.74152
+[21:13:52] OTA.C17-ECHO.OHZ.74152: e
+[21:14:03] Alex Palovichov: /ooc OTA.C17-ECHO.OHZ.74152 says "<:: E. ::>"
+[21:14:14] Alex Palovichov: /ooc Well said...
+[21:19:03] OTA.C17-ECHO.OHZ.74152: // Shut
+[21:19:14] OTA.C17-ECHO.OHZ.74152: // I'm just trying to get my name for logs lol
+[21:19:21] OTA.C17-ECHO.OHZ.74152: // I have to inform people
+[21:19:21] Alex Palovichov: /ooc E.
+[21:19:28] OTA.C17-ECHO.OHZ.74152<STEAM_0:0:68118061> changed their name to CCA.C17-HELIX.i4.08874
+[21:19:30] CCA.C17-HELIX.i4.08874: e
+[21:20:48] CCA.C17-HELIX.i4.08874: // Alex
+[21:20:52] Alex Palovichov: /ooc Thats me
+[21:20:53] CCA.C17-HELIX.i4.08874: // Come here for doctor info
+[21:20:58] CCA.C17-HELIX.i4.08874: // That you said before
+[21:21:03] CCA.C17-HELIX.i4.08874: // And I forgor about it
+[21:21:04] Alex Palovichov: /ooc Ight at the workdesk
+[21:21:12] Alex Palovichov: Ah...
+[21:21:23] Alex Palovichov: That Doctor person...I remember being told about him...
+[21:21:30] CCA.C17-HELIX.i4.08874: Move into the Nexus before discussing.
+[21:21:34] Alex Palovichov: Oh...Yeah
+[21:22:16] CCA.C17-HELIX.i4.08874: Alright, you may proceed.
+[21:22:52] Alex Palovichov: From what I've been told...He managed to break into a ICT operation we have down in the Cybercafe and managed to steal some pretty important things...
+[21:22:58] Alex Palovichov: Most importantly...A suit
+[21:23:10] Alex Palovichov: A brand new standard ICT suit...
+[21:23:23] CCA.C17-HELIX.i4.08874: So I've heard.
+[21:23:29] CCA.C17-HELIX.i4.08874: Anything else?
+[21:23:30] Henry Blackwoods: Hm..
+[21:23:34] Alex Palovichov: Mmm...
+[21:23:48] Alex Palovichov: Ah! He worked with someone else...
+[21:23:54] Alex Palovichov: I don't know their name...
+[21:24:01] Alex Palovichov: But they worked together quite alot...
+[21:24:08] Alex Palovichov: Both of them I guess are doctors...
+[21:24:11] Alex Palovichov: Ex-CMU
+[21:24:22] CCA.C17-HELIX.i4.08874: Any information on the other doctor?
+[21:24:29] Alex Palovichov: No...Nothing much
+[21:24:45] CCA.C17-HELIX.i4.08874: General description?
+[21:24:46] Alex Palovichov: All I know is that they were really trusted in his eyes...
+[21:24:50] Alex Palovichov: Ehh...
+[21:24:58] Alex Palovichov: I don't really know...
+[21:25:12] Alex Palovichov: Last I've been told...He wore a old blue uniform of sort...
+[21:25:50] CCA.C17-HELIX.i4.08874: Prewar?
+[21:25:56] Alex Palovichov: I think so...
+[21:26:09] CCA.C17-HELIX.i4.08874: Alright, anything else?
+[21:26:31] Alex Palovichov: Ehh...Last I heard...They went to "Shell Beach" together...
+[21:27:06] CCA.C17-HELIX.i4.08874: Mkay.
+[21:27:23] CCA.C17-HELIX.i4.08874: /radio Update on current investigation, will be reported on.
+[21:27:31] CCA.C17-HELIX.i4.08874: Last comments?
+[21:27:45] Alex Palovichov: Nope...Actually! about those LPs...
+[21:28:31] CCA.C17-HELIX.i4.08874: Right.
+[21:28:44] CCA.C17-HELIX.i4.08874: Apply
+[21:28:47] Alex Palovichov: /apply
+[21:29:05] CCA.C17-HELIX.i4.08874: /me takes out a small PDA, switching it on. It's screen illuminates green.
+[21:29:09] CCA.C17-HELIX.i4.08874: /viewdata Alex
+[21:34:01] CCA.C17-HELIX.i4.08874: 4 LP has been added.
+[21:34:09] Alex Palovichov: How much am I at now?
+[21:34:19] CCA.C17-HELIX.i4.08874: 1
+[21:34:21] CCA.C17-HELIX.i4.08874: 50
+[21:34:22] CCA.C17-HELIX.i4.08874: 9
+[21:34:28] Alex Palovichov: Ah...Perfect!
+[21:34:38] CCA.C17-HELIX.i4.08874: /looc I hear him dying
+[21:34:41] CCA.C17-HELIX.i4.08874: // Set his Hp to 100
+[21:34:43] Alex Palovichov: /looc who?
+[21:34:48] CCA.C17-HELIX.i4.08874: // the guy in prison
+[21:34:54] Alex Palovichov: /ooc Uhh...
+[21:34:55] CCA.C17-HELIX.i4.08874: // Quicklyyy
+[21:35:08] CCA.C17-HELIX.i4.08874: /looc !HP Dark 100
+[21:35:12] Alex Palovichov: !HP Dark 100
+[21:35:22] CCA.C17-HELIX.i4.08874: /looc You need to set his hunger and health
+[21:35:29] CCA.C17-HELIX.i4.08874: /looc so he doesn't die
+[21:35:32] Alex Palovichov set the hp for Henry Blackwoods to 100
+[21:35:32] CCA.C17-HELIX.i4.08874: // Eventually
+[21:35:35] Alex Palovichov set the hp for Henry Blackwoods to 100
+[21:35:48] Alex Palovichov: /looc one sec
+[21:36:31] Alex Palovichov: /looc one sec
+[21:37:02] Alex Palovichov: /looc Are you starving?
+[21:37:12] Henry Blackwoods: /looc Probably
+[21:37:20] Alex Palovichov set the hp for Henry Blackwoods to 100
+[21:37:42] Alex Palovichov: /looc alr should be good
+[21:37:46] Henry Blackwoods: /looc Thanks.
+[21:37:56] Alex Palovichov: Right...Is that all?
+[21:38:13] CCA.C17-HELIX.i4.08874: Unless you have anything else, yes.
+[21:38:30] Alex Palovichov: /ooc mfw
+[21:38:32] CCA.C17-HELIX.i4.08874: // I WILL TERRORIZE YOU
+[21:38:35] Alex Palovichov: /ooc BRUH
+[21:38:39] CCA.C17-HELIX.i4.08874: // jk jk unless?
+[21:39:19] CCA.C17-HELIX.i4.08874: // Unless you need my CCA for anything I am flagging onto Jonathan Jackson
+[21:39:29] CCA.C17-HELIX.i4.08874: // Also did you set his Hunger and Thirst?
+[21:39:41] Alex Palovichov: /ooc idk how, so I just gave him food and water
+[21:39:48] CCA.C17-HELIX.i4.08874: // Did he use it?
+[21:39:52] Alex Palovichov: /ooc Yep
+[21:39:56] CCA.C17-HELIX.i4.08874: // Ok
+[21:40:41] CCA.C17-HELIX.i4.08874<STEAM_0:0:68118061> changed their name to Jonathan Jackson
+[21:41:14] Alex Palovichov: /it The sound of something banging in the washroom can be heard
+[21:41:20] Alex Palovichov<STEAM_0:1:591779303> spawned NPC npc_headcrab
+[21:41:27] Jonathan Jackson: What the..?
+[21:41:38] Jonathan Jackson: /me walks towards the bathroom.
+[21:42:15] Alex Palovichov: Oh
+[21:42:16] Jonathan Jackson: Make way!
+[21:42:18] Alex Palovichov: Hell-
+[21:42:31] Alex Palovichov: What the...
+[21:42:36] Jonathan Jackson: I don't know how it got in here.
+[21:42:39] Alex Palovichov: Strange...
+[21:43:06] Jonathan Jackson: What do you need?
+[21:43:13] Alex Palovichov: Oh...Just wanted to check in...
+[21:43:21] Jonathan Jackson: I figured, since we are closed.
+[21:43:24] Alex Palovichov: Then I think I remember seeing its closed...So I'l-
+[21:43:25] Alex Palovichov: Yeah
+[21:43:35] Alex Palovichov: Well...I'll get out of your way then...
+[21:44:06] Jonathan Jackson: // I can't open unless I got my CWU stuff on lol
+[21:45:14] Alex Palovichov<STEAM_0:1:591779303> spawned NPC npc_headcrab
+[21:46:23] Alex Palovichov: The fuck?
+[21:46:36] Jonathan Jackson: There's too many of these things
+[21:46:41] Alex Palovichov: You...Know you could've just...gotten me to do that...
+[21:46:50] Jonathan Jackson: I'm a resourceful man
+[21:46:55] Alex Palovichov: Obviously...
+[21:47:03] Jonathan Jackson<STEAM_0:0:68118061> used the tool ledscreen on maps/rp_industrial17_v1.bsp
+[21:47:54] Jonathan Jackson: Showtime
+[21:48:07] Jonathan Jackson: /me whistles along to the tune of the music.
+[21:48:15] Alex Palovichov: /ooc Should I do it...
+[21:48:26] Jonathan Jackson: // I don't know what you are talking about
+[21:48:32] Alex Palovichov: /ooc Should I...
+[21:48:48] Jonathan Jackson: // what
+[21:48:52] Alex Palovichov: /ooc do it
+[21:48:58] Jonathan Jackson: // I don't
+[21:49:00] Jonathan Jackson: // Understand
+[21:49:06] Alex Palovichov: /ooc Should I do it...
+[21:49:21] Jonathan Jackson: // wha
+[21:49:24] Alex Palovichov: /ooc it...
+[21:49:39] Jonathan Jackson: // get your brain inspected
+[21:49:58] Alex Palovichov: /it A loud bang can be heard echoing from outside
+[21:50:06] Jonathan Jackson: Oh my lord.
+[21:50:38] Jonathan Jackson: Nothin here.
+[21:51:05] Alex Palovichov: /chargiveitem Palovichov can 1
+[21:51:24] Alex Palovichov: /it Another even louder bang can be heard, this time followed by the sound of something falling...
+[21:51:35] Jonathan Jackson: Christ
+[21:52:40] Jonathan Jackson: Must've been the wind
+[21:52:53] Alex Palovichov: /y help
+[21:53:03] Alex Palovichov: /y Run for your life
+[21:53:31] Alex Palovichov: /y Run for your life
+[21:53:38] Jonathan Jackson: The fuck?
+[21:53:50] Jonathan Jackson: /y Is this a prank?
+[21:53:54] Alex Palovichov<STEAM_0:1:591779303> spawned NPC npc_zombie
+[21:53:56] Jonathan Jackson: /y What a sick joke
+[21:54:08] Jonathan Jackson: On second thought
+[21:54:11] Jonathan Jackson: Not my problem
+[21:54:45] Jonathan Jackson: Alex
+[21:54:47] Alex Palovichov: Hm?
+[21:54:59] Jonathan Jackson: For once make yourself not do something that negitively impacts my life.
+[21:55:03] Jonathan Jackson: Zombines in the alley.
+[21:55:04] Alex Palovichov: Hey!
+[21:55:10] Alex Palovichov: Zom-Zombine?
+[21:55:18] Jonathan Jackson: Zombies
+[21:55:19] Alex Palovichov: The fuck is a Zombine?
+[21:55:21] Alex Palovichov: Oh...
+[21:55:21] Jonathan Jackson: I mispronounced
+[21:55:26] Alex Palovichov: Necrotics...
+[21:55:31] Jonathan Jackson: Sure whatever
+[21:55:33] Alex Palovichov: /me Lets out a clearly annoyed groan
+[21:55:51] Alex Palovichov: Where...
+[21:56:07] Alex Palovichov: Where is it?
+[21:56:12] Jonathan Jackson: Room 2
+[21:56:28] Alex Palovichov: You sure?
+[21:56:30] Jonathan Jackson: Must've been the wind
+[21:56:42] Jonathan Jackson: Man I hate phantoms.
+[21:56:43] Alex Palovichov: How the fuck do...you mistake the wind for a zombie...
+[21:56:49] Jonathan Jackson: Whatever
+[21:57:36] Alex Palovichov: /y help
+[21:57:51] Jonathan Jackson: /y I am not crazy!
+[21:58:06] Alex Palovichov: /it The sound of footsteps can be heard...Getting slowly closer...
+[21:58:08] Jonathan Jackson: /y As if I could ever make such a mistake. Never. Never! I just – I just couldn't prove it. He – he covered his tracks.
+[21:58:23] Jonathan Jackson: /y . You think this is something? You think this is bad? This? This chicanery? He's done worse.
+[21:58:33] Alex Palovichov: /y Headcrabs
+[21:58:35] Jonathan Jackson: /y Are you telling me that a man just happens to fall like that? No! He orchestrated it!
+[21:58:43] Alex Palovichov: /y Headcrabs! 
+[21:58:50] Alex Palovichov: /y Watch out
+[21:58:52] Jonathan Jackson: /y What was I thinking? He'll never change. He'll never change!
+[21:59:08] Jonathan Jackson: /y Stealing them blind! What a sick joke!
+[21:59:19] Jonathan Jackson: /y  I should've stopped him when I had the chance! And you – you have to stop him! You-
+[21:59:31] Jonathan Jackson: // chuck moment
+[21:59:43] Alex Palovichov: /kickdoor
+[22:00:16] Alex Palovichov: /w help
+[22:00:28] Jonathan Jackson: Not my problem Mr. Prankster
+[22:00:30] Jonathan Jackson: not my problem
+[22:00:54] Alex Palovichov: /it The knocks seem to stop...
+[22:01:07] Alex Palovichov<STEAM_0:1:591779303> spawned ragdoll models/humans/group01/male_09.mdl
+[22:01:41] Jonathan Jackson: // easy
+[22:01:43] Jonathan Jackson: // I win
+[22:02:02] Alex Palovichov: /it The sound of something heavy hits the concrete outside...
+[22:02:56] Jonathan Jackson: Not
+[22:02:57] Jonathan Jackson: My 
+[22:02:59] Jonathan Jackson: problem
+[22:03:28] Alex Palovichov<STEAM_0:1:591779303> spawned ragdoll models/hlvr/characters/hazmat_worker/npc/hazmat_worker_citizen.mdl
+[22:03:50] Jonathan Jackson: /y what a sick joke
+[22:04:23] Alex Palovichov<STEAM_0:1:591779303> spawned ragdoll models/headcrabclassic.mdl
+[22:04:56] Alex Palovichov: /it The sound of low groans can be heard and crawling before it suddenly stopping.
+[22:05:14] Jonathan Jackson: // skill issue
+[22:05:35] Alex Palovichov: /it The sound of something metallic lightly hits the concrete outside
+[22:06:07] Jonathan Jackson: Shut up
+[22:06:13] Alex Palovichov: /y HOLY SHIT!
+[22:06:18] Alex Palovichov: /y Oh my god!
+[22:06:23] Alex Palovichov: /me Takes a Credit out of a small pouch in his vest, before he begins to flip it, an audible noise is made with each coin flip
+[22:06:27] Alex Palovichov: /looc void lmao
+[22:06:30] Alex Palovichov: /y Shit...
+[22:06:32] Alex Palovichov: /y Help
+[22:06:38] Alex Palovichov: Oh my god...
+[22:06:48] Alex Palovichov: Holy fuck!
+[22:06:54] Alex Palovichov: Are you deaf?
+[22:06:54] Jonathan Jackson: What
+[22:06:59] Alex Palovichov: Oh sorry...
+[22:07:06] Alex Palovichov: /y ONE OF MY ICT WORKERS ARE DEAD OUTSIDE YOUR STORE!
+[22:07:10] Jonathan Jackson: I'm not acknowleging the pranksters
+[22:07:15] Jonathan Jackson: Impossible
+[22:07:19] Jonathan Jackson: They never existed
+[22:07:26] Alex Palovichov: Oh my god...
+[22:07:34] Alex Palovichov: GET ME A FUCKING MEDICAL KIT!
+[22:07:38] Alex Palovichov: Oh shit...
+[22:07:42] Jonathan Jackson: ...
+[22:07:44] Alex Palovichov: Well?!
+[22:07:47] Alex Palovichov: Oh no...
+[22:07:49] Jonathan Jackson: /me seems to be having a brain anyurism.
+[22:07:55] Alex Palovichov: WELL?!
+[22:08:01] Alex Palovichov: He's dead as shit!
+[22:08:05] Jonathan Jackson: This is so fucking stupid
+[22:08:13] Alex Palovichov: What is...
+[22:08:24] Jonathan Jackson: My mental capacity can not handle this torture
+[22:08:30] Alex Palovichov: /it Your mind becomes foggy...In a blink...they're gone
+[22:08:50] Jonathan Jackson: \
+[22:08:51] Alex Palovichov: Oh hey
+[22:08:54] Alex Palovichov: You're open
+[22:09:00] Jonathan Jackson: It is true
+[22:09:02] Alex Palovichov: Care if I get a bite to eat
+[22:09:08] Alex Palovichov: You okay?
+[22:09:11] Alex Palovichov: You don't look that good?
+[22:09:17] Jonathan Jackson: Just a prank
+[22:09:21] Alex Palovichov: What prank?
+[22:09:21] Jonathan Jackson: Now what can I get you?
+[22:09:24] Alex Palovichov: Hm...
+[22:09:26] Alex Palovichov: Uhh...
+[22:09:42] Alex Palovichov: Doughnut!
+[22:09:56] Jonathan Jackson: Sure thing, you want a seat?
+[22:10:04] Alex Palovichov: Ehhh...NAh
+[22:10:17] Alex Palovichov: I got some stuff to do...Just a quick bite to eat...Thats all
+[22:10:24] Jonathan Jackson: Mkay
+[22:10:31] Alex Palovichov: Also...What kind of "prank"
+[22:10:38] Jonathan Jackson: A sick joke
+[22:10:50] Alex Palovichov: Well I was right outside the alleyway and I didn't see anythi-
+[22:11:27] Jonathan Jackson: /me gets to work preparing the dough.
+[22:11:44] Alex Palovichov<STEAM_0:1:591779303> spawned ragdoll models/hlvr/characters/hazmat_worker/npc/hazmat_worker_citizen.mdl
+[22:12:22] Jonathan Jackson: /me once it is done being prepared, it is placed in a metal wireframe casket, and moved over to a deep frier.
+[22:12:57] Jonathan Jackson: /me turns on the deep frier, and places the donut in, hearing it sizzle.
+[22:13:10] Jonathan Jackson: Alrighty
+[22:13:13] Alex Palovichov: /it The sound of     *something*   Shuffles behind you
+[22:13:22] Jonathan Jackson: /me sits down on the bench.
+[22:13:48] Jonathan Jackson: /me fiddles with his thumbs, looking over his request device
+[22:13:58] Alex Palovichov: /it The shuffling gets closer...
+[22:14:10] Jonathan Jackson: Now how does this thing work?
+[22:14:53] Jonathan Jackson: /me looks for a button on it, and realized one is on the side of the device with a large one-way reciever placed twice on the front.
+[22:15:14] Jonathan Jackson: I see
+[22:15:24] Jonathan Jackson: /me yawns
+[22:15:37] Jonathan Jackson: /me pockets the device.
+[22:15:51] Jonathan Jackson: /me gets up from the bench.
+[22:16:06] Jonathan Jackson: /me opens the fridge for a frosting.
+[22:16:45] Jonathan Jackson: /me grabs a can of frosting to lather onto the doughnut.
+[22:16:54] Alex Palovichov: /looc THIS DUDE
+[22:16:58] Alex Palovichov: /looc I AUGHTA
+[22:17:07] Alex Palovichov: /looc Oughta*
+[22:17:32] Jonathan Jackson: /me turns off the deep frier, and picks up the casket (or whatever it is called).
+[22:17:53] Jonathan Jackson: /me places it on the table, and takes out the doughnut placing it onto a plate.
+[22:18:43] Jonathan Jackson: /me then uses a butter knife to spread the frosting, and begins the proccess.
+[22:19:49] Jonathan Jackson: /me grabs the donut and places it in a little paper bag.
+[22:20:17] Jonathan Jackson: /me folds over the top so it has a good grip, then places a Grizzly Grotto logo via a sticker onto the bag.
+[22:20:38] Alex Palovichov: Ah...perfect...
+[22:20:38] Jonathan Jackson: Alright, here it is.
+[22:20:46] Jonathan Jackson: /me places it on the counter.
+[22:20:49] Alex Palovichov: /me Would reach into his pocket, putting a handfull of credits on the counter
+[22:20:54] Alex Palovichov: /droptokens 5
+[22:20:55] Jonathan Jackson: /looc pretend
+[22:21:00] Alex Palovichov: Cheers
+[22:21:04] Jonathan Jackson: See ya.
+[22:21:24] Alex Palovichov: Sorry...
+[22:21:33] Alex Palovichov: Nature calls...
+[22:21:39] Alex Palovichov: Right...I'll uhh...
+[22:21:46] Alex Palovichov: Hmm...
+[22:21:53] Jonathan Jackson: Huh?
+[22:21:57] Alex Palovichov: Huh?
+[22:22:08] Alex Palovichov: Oh I was wondering what I was gonna order...
+[22:22:09] Jonathan Jackson: /me closes the cash register.
+[22:22:18] Alex Palovichov: Hmm...
+[22:22:20] Jonathan Jackson: You already paid for the meal
+[22:22:23] Alex Palovichov: Ya kno
+[22:22:25] Alex Palovichov: Huh?
+[22:22:31] Jonathan Jackson: I got the five tokens in there
+[22:22:34] Jonathan Jackson: You bought a donut
+[22:22:37] Alex Palovichov: I did?
+[22:22:43] Alex Palovichov: I just came out of the bathroom...
+[22:22:47] Jonathan Jackson: I think you have dementia Alex.
+[22:22:57] Alex Palovichov: No...You didn't hear your front door open did you...
+[22:23:00] Jonathan Jackson: I suggest that you find a doctor to look at your head.
+[22:23:07] Alex Palovichov: I am a Doctor...
+[22:23:19] Jonathan Jackson: A doctor of getting me in trouble constantly
+[22:23:24] Alex Palovichov: What..
+[22:23:26] Alex Palovichov: Whatever man...
+[22:23:28] Jonathan Jackson: If you want to order something again that's fine.
+[22:23:34] Alex Palovichov: I'll see you around...I got shit to do
+[22:23:40] Jonathan Jackson: Figures
+[22:23:51] Alex Palovichov: Sorry...
+[22:23:55] Alex Palovichov: Nature Calls am I right?
+[22:23:59] Alex Palovichov: Where was I...
+[22:24:01] Alex Palovichov: Right!
+[22:24:04] Alex Palovichov: Ehh...
+[22:24:05] Jonathan Jackson: Man I do hate nature.
+[22:24:13] Alex Palovichov: I'll get a-
+[22:24:18] Alex Palovichov: /me Would take out a pager
+[22:24:21] Alex Palovichov: Ah shit...
+[22:24:24] Alex Palovichov: Someone wants me...
+[22:24:31] Alex Palovichov: Never mind man...
+[22:24:43] Alex Palovichov: I'll see you in a bit yeah?
+[22:24:46] Jonathan Jackson: I literally could not care less right now.
+[22:24:53] Alex Palovichov: Okay then?
+[22:25:07] Alex Palovichov: Sorry...
+[22:25:13] Alex Palovichov: Nature Calls...Am I right?
+[22:25:20] Jonathan Jackson: Did you shit in my fucking sink?
+[22:25:23] Alex Palovichov: No...
+[22:25:25] Jonathan Jackson: Get out
+[22:25:26] Jonathan Jackson: Now
+[22:25:42] Alex Palovichov: Hey...
+[22:25:55] Alex Palovichov: I saw these two things on the ground when I was leaving your bathroom
+[22:26:03] Jonathan Jackson: Must've fallen over.
+[22:26:11] Jonathan Jackson: Have them if you want.
+[22:26:28] Alex Palovichov: Yeah...Anyway, I cleaned up that headcrab blood n stuff that was in there
+[22:26:34] Jonathan Jackson: Okay.
+[22:26:41] Alex Palovichov: You have a good one
+[22:26:44] Jonathan Jackson: /me yawns
+[22:26:49] Jonathan Jackson: Uh huh.
+[22:27:04] Jonathan Jackson: /me takes a sip of water.
+[22:27:07] Jonathan Jackson: Refreshing.
+[22:27:30] Alex Palovichov: Hey...
+[22:27:37] Alex Palovichov: Yeah sorry...Forgot something in the bathroom
+[22:28:00] Alex Palovichov: /me Would grab a small bottle of cleaning fluid off the ground
+[22:28:03] Alex Palovichov: Oh...
+[22:28:04] Alex Palovichov: Hello
+[22:28:08] Alex Palovichov: Excuse me...
+[22:28:09] Jonathan Jackson: Bathroom is off limits, please exit the area.
+[22:28:17] Alex Palovichov: Off limits?
+[22:28:19] Jonathan Jackson: Bathroom is off limits, please exit the area.
+[22:28:23] Alex Palovichov: Weird...but whatever...
+[22:28:25] Alex Palovichov: excuse me
+[22:28:31] Jonathan Jackson: Bathroom is off limits, please exit the area
+[22:28:36] Alex Palovichov: You alright?
+[22:28:43] Alex Palovichov: I can't leave if you are in the way...
+[22:28:45] Jonathan Jackson: Bathroom is off limits, please exit the area.
+[22:28:53] Alex Palovichov: I'll just push past you then...
+[22:29:01] Jonathan Jackson: Bathroom is off limits, please exit the area
+[22:29:01] Alex Palovichov: /me Would push past Jonathan
+[22:29:04] Jonathan Jackson: /me stands still
+[22:29:21] Jonathan Jackson: Bathroom is off limits, please exit the area.
+[22:29:28] Jonathan Jackson: // I win
+[22:29:35] Alex Palovichov: You're crazy...
+[22:29:44] Jonathan Jackson: Bathroom is off limits, please exit the area.
+[22:29:49] Alex Palovichov: I think I need to speak to a CP about your...mental state
+[22:29:58] Jonathan Jackson: Bathroom is off limits, please exit the area.
+[22:30:05] Jonathan Jackson: // We do a minor bit of trolling]
+[22:30:36] Jonathan Jackson: // I'm gonna put in a harassment claim on Alex
+[22:30:39] Jonathan Jackson: // He shit in my sink
+[22:30:53] Alex Palovichov<STEAM_0:1:591779303> spawned NPC npc_zombie
+[22:31:07] Alex Palovichov<STEAM_0:1:591779303> spawned NPC npc_zombie
+[22:31:10] Jonathan Jackson: There's nothing happening
+[22:31:15] Alex Palovichov: /looc WTF???
+[22:31:17] Jonathan Jackson: Out of the ordinary, I mean.
+[22:31:25] Alex Palovichov: /looc GUH
+[22:31:38] Dropped "Alex Palovichov" from server<STEAM_0:1:591779303>
+[22:32:57] Client "Bean" connected.
+[22:34:02] Client "Bean" spawned in server <STEAM_0:1:591779303> (took 65 seconds).
+[22:34:21] Bean<STEAM_0:1:591779303> changed their name to Alex Palovichov
+[22:34:28] Alex Palovichov: /ooc Huh...
+[22:34:35] Alex Palovichov: /ooc I guess im missing zombie models now
+[22:34:43] Jonathan Jackson: // Verify game files
+[22:34:56] Alex Palovichov<STEAM_0:1:591779303> spawned/gave himself swep ix_biosigstunstick
+[22:35:00] Jonathan Jackson: // I somehow beat you at your own game
+[22:35:19] Alex Palovichov gave Themself ix_biosigstunstick
+[22:35:30] Alex Palovichov: /ooc I win
+[22:35:34] Jonathan Jackson: // Looser
+[22:35:42] Jonathan Jackson: I require sleep
+[22:35:53] Jonathan Jackson: BREATe
+[22:36:11] Alex Palovichov: /ooc Well, Im tired af
+[22:36:13] Alex Palovichov: /ooc Cya
+[22:36:14] Jonathan Jackson: // Same
+[22:36:17] Dropped "Alex Palovichov" from server<STEAM_0:1:591779303>
+[22:37:20] Dropped "Jonathan Jackson" from server<STEAM_0:0:68118061>
+[23:10:30] Henry Blackwoods suicided!
+[23:25:27] Andrew Cloverman: /adminspawnmenu
+[23:32:38] Client "Tom Jones #1 Fan" connected.
+[23:33:44] Andrew Cloverman<STEAM_0:1:53097688> spawned/gave himself swep weapon_pistol
+[23:33:44] Andrew Cloverman: /toggleraise
+[23:34:34] Andrew Cloverman: /charsethunger andrew 100
+[23:34:37] Andrew Cloverman: /charsetthirst andrew 100
+[23:34:43] Client "Tom Jones #1 Fan" spawned in server <STEAM_0:1:39081684> (took 125 seconds).
+[23:34:43] Henry Blackwoods suicided!
+[23:35:15] Andrew Cloverman<STEAM_0:1:53097688> spawned sent ix_unionlock
+[23:35:15] Henry Blackwoods suicided!
+[23:35:15] Tom Jones #1 Fan<STEAM_0:1:39081684> changed their name to Marti Verdugo
+[23:35:17] Andrew Cloverman<STEAM_0:1:53097688> spawned sent ix_unionlock
+[23:35:26] Andrew Cloverman: //sup marti
+[23:35:29] Andrew Cloverman: //i'm going through all my DMs and stuff
+[23:35:32] Andrew Cloverman: //catching up
+[23:35:42] Marti Verdugo: // THERE IS A BOMB I MADE IN YOUR HOUSE
+[23:36:24] Andrew Cloverman<STEAM_0:1:53097688> spawned/gave himself swep weapon_shotgun
+[23:36:27] Andrew Cloverman: //void gunshots
+[23:36:27] Andrew Cloverman: /toggleraise
+[23:36:49] Andrew Cloverman<STEAM_0:1:53097688> spawned/gave himself swep weapon_smg1
+[23:36:49] Andrew Cloverman: /toggleraise
+[23:36:55] Andrew Cloverman: /toggleraise
+[23:36:55] Andrew Cloverman: /toggleraise
+[23:36:56] Andrew Cloverman: /toggleraise
+[23:37:01] Andrew Cloverman<STEAM_0:1:53097688> spawned/gave himself swep weapon_smg1
+[23:37:01] Andrew Cloverman: /toggleraise
+[23:37:06] Andrew Cloverman<STEAM_0:1:53097688> spawned/gave himself swep weapon_ar2
+[23:37:06] Andrew Cloverman: /toggleraise
+[23:37:09] Andrew Cloverman<STEAM_0:1:53097688> spawned/gave himself swep weapon_crowbar
+[23:37:09] Andrew Cloverman: /toggleraise
+[23:37:10] Andrew Cloverman<STEAM_0:1:53097688> spawned/gave himself swep weapon_crossbow
+[23:37:11] Andrew Cloverman: /toggleraise
+[23:37:14] Marti Verdugo: // what MANIAC is going through apartments and shooting them
+[23:37:24] Andrew Cloverman: //me, i'm testing out locks brekaing
+[23:37:36] Andrew Cloverman: //somebody told me about a bug and i'm trying to recreate it so i can fix it
+[23:37:57] Andrew Cloverman<STEAM_0:1:53097688> spawned/gave himself swep weapon_crowbar
+[23:37:57] Andrew Cloverman: /toggleraise
+[23:39:06] Marti Verdugo: // y'know, i had a REALLY painful experience yesterday
+[23:39:20] Marti Verdugo: // a few weeks ago I tripped and hit my elbow, it bled a little but I easily fixed it
+[23:39:45] Marti Verdugo: // but later o n
+[23:39:54] Marti Verdugo: // just yesterday, I realized it had scabbed over but incorrectly
+[23:40:04] Marti Verdugo: // and anytime I put my elbow fucking anywhere it would hurt
+[23:40:15] Marti Verdugo: // so I got a *pair of scissors* and cut off my scab
+[23:40:54] Marti Verdugo: // so then I put a fucking
+[23:41:14] Marti Verdugo: // band-aid on it and put some antibiotic cream-tube aids shit on it and it's fine now
+[23:43:21] Marti Verdugo: // so. how was your days today, gentlemen?
+[23:46:58] Marti Verdugo: // the jrue jitizens job is the jopposite of jlavery
+[23:58:15] Client "Bean" connected.
+[23:58:55] Client "doriangomez554" connected.
+[23:59:13] Client "Bean" spawned in server <STEAM_0:1:591779303> (took 58 seconds).
+[23:59:13] Henry Blackwoods suicided!
+[23:59:32] Henry Blackwoods suicided!
+[23:59:32] Bean<STEAM_0:1:591779303> changed their name to Alex Palovichov
+<Logging continued in "data/ulx_logs/09-17-22.txt">

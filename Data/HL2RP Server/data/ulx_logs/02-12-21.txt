@@ -1,0 +1,430 @@
+[03:18:59] New map: rp_i17_variation_v0
+
+
+
+[05:35:53] New map: rp_i17_variation_v0
+[14:11:56] Client "matt saton" connected.
+[14:13:16] Client "matt saton" connected.
+[15:01:45] Client "poggers" connected.
+[15:07:21] Client "poggers" spawned in server <STEAM_0:1:513914177> (took 336 seconds).
+[15:09:30] poggers<STEAM_0:1:513914177> changed their name to Johnny Benson
+[15:17:41] Client "DRD" connected.
+[15:21:10] Client "DRD" spawned in server <STEAM_0:0:193599766> (took 209 seconds).
+[15:26:17] DRD<STEAM_0:0:193599766> changed their name to CCA.C17-GRID.i1.59212
+[15:26:27] Johnny Benson: // hi
+[15:26:37] CCA.C17-GRID.i1.59212: // hi
+[15:26:40] CCA.C17-GRID.i1.59212: /viewdata john
+[15:27:03] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_c17/furnituredresser001a.mdl
+[15:27:36] CCA.C17-GRID.i1.59212: /addtenant grid
+[15:27:50] CCA.C17-GRID.i1.59212: /REMOVETENANT 2
+[15:29:50] CCA.C17-GRID.i1.59212: /toggleraise
+[15:29:55] CCA.C17-GRID.i1.59212: /toggleraise
+[15:37:16] CCA.C17-GRID.i1.59212: // brb
+[15:48:20] Client "♣Limon^" connected.
+[16:08:20] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/mechanics/solid_steel/type_a_2_2.mdl
+[16:08:32] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/mechanics/solid_steel/type_f_6_4.mdl
+[16:08:37] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/mechanics/solid_steel/type_b_2_2.mdl
+[16:08:43] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/mechanics/solid_steel/type_b_2_24.mdl
+[16:08:57] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/quarterlife/fsd-overrun-toy.mdl
+[16:09:07] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_phx/trains/monorail1.mdl
+[16:09:12] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_phx/trains/trackslides_both.mdl
+[16:09:14] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/xqm/coastertrack/track_guide.mdl
+[16:09:19] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_phx/trains/double_wheels.mdl
+[16:09:31] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/xqm/coastertrack/special_station.mdl
+[16:09:34] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/xqm/coastertrack/straight_1.mdl
+[16:09:38] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/xqm/coastertrain1seat.mdl
+[16:09:47] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_phx/trains/double_wheels.mdl
+[16:09:49] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_phx/trains/medium_wheel_2.mdl
+[16:09:54] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_phx/trains/monorail1.mdl
+[16:10:04] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_phx/trains/tracks/track_1x.mdl
+[16:10:27] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool stacker_improved on models/props_phx/trains/tracks/track_1x.mdl
+[16:10:28] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool stacker_improved on models/props_phx/trains/tracks/track_1x.mdl
+[16:10:29] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool stacker_improved on models/props_phx/trains/tracks/track_1x.mdl
+[16:10:29] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool stacker_improved on models/props_phx/trains/tracks/track_1x.mdl
+[16:10:30] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool stacker_improved on models/props_phx/trains/tracks/track_1x.mdl
+[16:10:30] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool stacker_improved on models/props_phx/trains/tracks/track_1x.mdl
+[16:10:30] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_phx/trains/tracks/track_1x.mdl
+[16:10:30] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_phx/trains/tracks/track_1x.mdl
+[16:10:48] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_phx/trains/tracks/track_225_down.mdl
+[16:10:52] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_phx/trains/tracks/track_1x.mdl
+[16:10:54] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_phx/trains/tracks/track_single.mdl
+[16:11:02] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool stacker_improved on models/props_phx/trains/tracks/track_single.mdl
+[16:11:02] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_phx/trains/tracks/track_single.mdl
+[16:11:02] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_phx/trains/tracks/track_single.mdl
+[16:11:05] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool stacker_improved on models/props_phx/trains/tracks/track_single.mdl
+[16:11:05] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_phx/trains/tracks/track_single.mdl
+[16:11:05] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_phx/trains/tracks/track_single.mdl
+[16:11:05] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_phx/trains/tracks/track_single.mdl
+[16:11:05] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_phx/trains/tracks/track_single.mdl
+[16:11:05] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_phx/trains/tracks/track_single.mdl
+[16:11:05] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_phx/trains/tracks/track_single.mdl
+[16:11:05] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_phx/trains/tracks/track_single.mdl
+[16:11:05] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_phx/trains/tracks/track_single.mdl
+[16:11:05] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_phx/trains/tracks/track_single.mdl
+[16:11:05] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_phx/trains/tracks/track_single.mdl
+[16:11:05] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_phx/trains/tracks/track_single.mdl
+[16:11:05] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_phx/trains/tracks/track_single.mdl
+[16:11:05] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_phx/trains/tracks/track_single.mdl
+[16:11:05] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_phx/trains/tracks/track_single.mdl
+[16:11:05] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_phx/trains/tracks/track_single.mdl
+[16:11:10] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool stacker_improved on models/props_phx/trains/tracks/track_single.mdl
+[16:11:10] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_phx/trains/tracks/track_single.mdl
+[16:11:10] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_phx/trains/tracks/track_single.mdl
+[16:11:10] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_phx/trains/tracks/track_single.mdl
+[16:11:10] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_phx/trains/tracks/track_single.mdl
+[16:11:10] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_phx/trains/tracks/track_single.mdl
+[16:11:10] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_phx/trains/tracks/track_single.mdl
+[16:11:10] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_phx/trains/tracks/track_single.mdl
+[16:11:10] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_phx/trains/tracks/track_single.mdl
+[16:11:10] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_phx/trains/tracks/track_single.mdl
+[16:11:10] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_phx/trains/tracks/track_single.mdl
+[16:11:10] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_phx/trains/tracks/track_single.mdl
+[16:11:10] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_phx/trains/tracks/track_single.mdl
+[16:11:10] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_phx/trains/tracks/track_single.mdl
+[16:11:10] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_phx/trains/tracks/track_single.mdl
+[16:11:10] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_phx/trains/tracks/track_single.mdl
+[16:11:16] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_phx/trains/double_wheels2.mdl
+[16:11:21] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_phx/trains/double_wheels.mdl
+[16:11:24] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_phx/trains/double_wheels2.mdl
+[16:12:09] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_phx/trains/double_wheels_base.mdl
+[16:12:26] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/xqm/coastertrack/track_guide.mdl
+[16:12:42] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/xqm/rails/gumball_1.mdl
+[16:12:46] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/xqm/rails/cap.mdl
+[16:12:48] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/xqm/rails/trackball_1.mdl
+[16:12:51] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/xqm/rails/tunnel_8.mdl
+[16:13:03] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/mechanics/roboticslarge/claw_hub_8.mdl
+[16:13:10] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/mechanics/robotics/b1.mdl
+[16:13:16] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/mechanics/robotics/l1.mdl
+[16:13:22] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/mechanics/robotics/claw_guide.mdl
+[16:13:30] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/mechanics/gears2/gear_18t3.mdl
+[16:13:33] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/mechanics/gears2/gear_18t3.mdl
+[16:13:41] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/mechanics/gears2/pinion_40t2.mdl
+[16:13:51] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_phx/mechanics/slider2.mdl
+[16:13:57] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/mechanics/gears2/vert_12t1.mdl
+[16:14:11] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_phx/mechanics/medgear.mdl
+[16:14:46] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_phx/mechanics/mech1.mdl
+[16:14:55] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/mechanics/solid_steel/box_beam_4.mdl
+[16:15:02] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/xeon133/slider/slider_12x12x96.mdl
+[16:15:08] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/xeon133/slider/slider_bar_10x10x96.mdl
+[16:15:39] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/xeon133/slider/slider_stand_12x12x24.mdl
+[16:16:16] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/xeon133/slider/slider_12x12x96.mdl
+[16:16:48] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/xeon133/slider/slider_bar_10x10x96.mdl
+[16:17:12] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool thruster on models/xeon133/slider/slider_bar_10x10x96.mdl
+[16:17:39] CCA.C17-GRID.i1.59212 suicided!
+[16:19:57] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool thruster on models/xeon133/slider/slider_bar_10x10x96.mdl
+[16:22:06] Dropped "CCA.C17-GRID.i1.59212" from server<STEAM_0:0:193599766>
+[16:47:09] Dropped "Johnny Benson" from server<STEAM_0:1:513914177>
+[19:08:49] Client "MilkyWay" connected.
+[19:14:44] Client "MilkyWay" spawned in server <STEAM_0:1:118336892> (took 355 seconds).
+[19:18:03] MilkyWay<STEAM_0:1:118336892> changed their name to Hyo Jeong
+[19:18:55] Hyo Jeong<STEAM_0:1:118336892> changed their name to Andrew Philip
+[19:19:22] Andrew Philip was killed by npc_poisonzombie
+[19:21:13] Andrew Philip was killed by npc_grenade_frag
+[19:26:37] Andrew Philip was killed by npc_zombine
+[19:28:44] Andrew Philip was killed by trigger_hurt
+[19:40:37] Andrew Philip was killed by npc_zombie
+[19:50:13] Andrew Philip was killed by npc_zombine
+[19:54:57] Dropped "Andrew Philip" from server<STEAM_0:1:118336892>
+[20:38:25] Client "MilkyWay" connected.
+[20:38:47] Client "DRD" connected.
+[20:39:05] Client "FB|| light ROOM" connected.
+[20:41:14] Client "MilkyWay" spawned in server <STEAM_0:1:118336892> (took 169 seconds).
+[20:41:21] Client "FB|| light ROOM" spawned in server <STEAM_0:1:17219621> (took 136 seconds).
+[20:42:46] Client "DRD" spawned in server <STEAM_0:0:193599766> (took 239 seconds).
+[20:42:55] FB|| light ROOM<STEAM_0:1:17219621> changed their name to Owen Clark
+[20:43:56] MilkyWay<STEAM_0:1:118336892> changed their name to Andrew Philip
+[20:45:19] DRD<STEAM_0:0:193599766> changed their name to CCA.C17-GRID.i1.59212
+[20:45:50] Owen Clark: // yo
+[20:45:55] CCA.C17-GRID.i1.59212: // no
+[20:45:58] Owen Clark<STEAM_0:1:17219621> changed their name to CCA.C17-QrM.19891
+[20:47:12] CCA.C17-GRID.i1.59212: hi
+[20:47:18] CCA.C17-QrM.19891: Yo
+[20:47:19] CCA.C17-GRID.i1.59212: I need ammunition and some zipties
+[20:47:25] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_junk/plasticcrate01a.mdl
+[20:48:51] CCA.C17-QrM.19891: That enough?
+[20:49:03] CCA.C17-GRID.i1.59212: /toggleraise
+[20:49:10] CCA.C17-QrM.19891<STEAM_0:1:17219621> changed their name to Owen Clark
+[20:49:22] CCA.C17-GRID.i1.59212: // THE QUARTERMASTER SHOT ME
+[20:49:38] Owen Clark: // okay
+[20:51:16] CCA.C17-GRID.i1.59212: /VIEWDATA OWEN
+[20:54:12] Client "白给之人" connected.
+[20:54:31] CCA.C17-GRID.i1.59212: // BRB
+[20:54:40] CCA.C17-GRID.i1.59212: /PM OWEN i'll rejoin vc in 5 minutes oir so
+[20:56:03] Owen Clark: // Crungle
+[20:56:50] Andrew Philip: // p
+[20:56:58] Owen Clark: // Player 白给之人 has joined the game
+[20:57:03] Owen Clark: // This scares ,e
+[20:57:05] Owen Clark: // me*
+[21:01:43] CCA.C17-GRID.i1.59212: // back
+[21:01:45] CCA.C17-GRID.i1.59212: // oh dear
+[21:02:25] Owen Clark: // Imagine
+[21:02:30] Owen Clark: // Rejoing VC smh
+[21:03:43] Owen Clark: // Existing is cool.
+[21:06:01] Owen Clark: /roll
+[21:06:04] CCA.C17-GRID.i1.59212: /roll
+[21:06:11] Owen Clark: /roll
+[21:06:30] CCA.C17-GRID.i1.59212: /roll 1
+[21:06:58] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_c17/gate_door02a.mdl
+[21:07:03] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_c17/gate_door02a.mdl
+[21:07:23] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_c17/furnituretable002a.mdl
+[21:07:57] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_junk/plasticcrate01a.mdl
+[21:07:59] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_junk/plasticcrate01a.mdl
+[21:08:00] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool stacker_improved on models/props_junk/plasticcrate01a.mdl
+[21:08:01] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool stacker_improved on models/props_junk/plasticcrate01a.mdl
+[21:08:01] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool stacker_improved on models/props_junk/plasticcrate01a.mdl
+[21:08:02] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool stacker_improved on models/props_junk/plasticcrate01a.mdl
+[21:08:03] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool stacker_improved on models/props_junk/plasticcrate01a.mdl
+[21:08:03] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_junk/plasticcrate01a.mdl
+[21:08:03] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_junk/plasticcrate01a.mdl
+[21:08:03] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_junk/plasticcrate01a.mdl
+[21:08:03] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_junk/plasticcrate01a.mdl
+[21:08:03] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_junk/plasticcrate01a.mdl
+[21:08:03] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_junk/plasticcrate01a.mdl
+[21:08:03] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_junk/plasticcrate01a.mdl
+[21:08:03] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_junk/plasticcrate01a.mdl
+[21:08:03] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_junk/plasticcrate01a.mdl
+[21:08:03] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_junk/plasticcrate01a.mdl
+[21:08:03] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_junk/plasticcrate01a.mdl
+[21:08:03] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_junk/plasticcrate01a.mdl
+[21:08:03] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_junk/plasticcrate01a.mdl
+[21:08:03] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_junk/plasticcrate01a.mdl
+[21:08:03] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_junk/plasticcrate01a.mdl
+[21:09:08] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_c17/furnituretable001a.mdl
+[21:09:14] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_junk/popcan01a.mdl
+[21:09:19] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_junk/popcan01a.mdl
+[21:09:34] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool remover on models/props_junk/popcan01a.mdl
+[21:09:35] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool remover on models/props_junk/popcan01a.mdl
+[21:09:39] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool remover on models/props_c17/furnituretable001a.mdl
+[21:09:39] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool remover on maps/rp_i17_variation_v0.bsp
+[21:09:45] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_wasteland/wheel01.mdl
+[21:09:54] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool stacker_improved on models/props_wasteland/wheel01.mdl
+[21:09:58] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool stacker_improved on models/props_wasteland/wheel01.mdl
+[21:09:58] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool stacker_improved on models/props_wasteland/wheel01.mdl
+[21:09:59] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool stacker_improved on models/props_wasteland/wheel01.mdl
+[21:10:00] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool stacker_improved on models/props_wasteland/wheel01.mdl
+[21:10:14] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool stacker_improved on models/props_wasteland/wheel01.mdl
+[21:10:14] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_wasteland/wheel01.mdl
+[21:10:14] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_wasteland/wheel01.mdl
+[21:10:14] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_wasteland/wheel01.mdl
+[21:10:14] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_wasteland/wheel01.mdl
+[21:10:14] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_wasteland/wheel01.mdl
+[21:10:14] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_wasteland/wheel01.mdl
+[21:10:14] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_wasteland/wheel01.mdl
+[21:10:14] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_wasteland/wheel01.mdl
+[21:10:14] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_wasteland/wheel01.mdl
+[21:10:14] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_wasteland/wheel01.mdl
+[21:10:14] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_wasteland/wheel01.mdl
+[21:10:14] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_wasteland/wheel01.mdl
+[21:10:14] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_wasteland/wheel01.mdl
+[21:10:14] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_wasteland/wheel01.mdl
+[21:10:14] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_wasteland/wheel01.mdl
+[21:10:26] Owen Clark was killed by prop_physics
+[21:10:45] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool stacker_improved on models/props_wasteland/wheel01.mdl
+[21:10:45] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_wasteland/wheel01.mdl
+[21:10:45] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_wasteland/wheel01.mdl
+[21:10:45] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_wasteland/wheel01.mdl
+[21:10:45] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_wasteland/wheel01.mdl
+[21:10:45] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_wasteland/wheel01.mdl
+[21:10:45] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_wasteland/wheel01.mdl
+[21:10:45] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_wasteland/wheel01.mdl
+[21:10:45] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_wasteland/wheel01.mdl
+[21:10:45] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_wasteland/wheel01.mdl
+[21:10:45] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_wasteland/wheel01.mdl
+[21:10:45] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_wasteland/wheel01.mdl
+[21:10:45] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_wasteland/wheel01.mdl
+[21:10:45] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_wasteland/wheel01.mdl
+[21:10:45] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_wasteland/wheel01.mdl
+[21:10:45] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_wasteland/wheel01.mdl
+[21:11:12] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool stacker_improved on models/props_wasteland/wheel01.mdl
+[21:11:12] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool stacker_improved on models/props_wasteland/wheel01.mdl
+[21:11:13] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool stacker_improved on models/props_wasteland/wheel01.mdl
+[21:11:13] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool stacker_improved on models/props_wasteland/wheel01.mdl
+[21:11:14] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool stacker_improved on models/props_wasteland/wheel01.mdl
+[21:11:32] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool stacker_improved on models/props_wasteland/wheel01.mdl
+[21:11:32] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_wasteland/wheel01.mdl
+[21:11:32] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_wasteland/wheel01.mdl
+[21:11:32] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_wasteland/wheel01.mdl
+[21:11:32] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_wasteland/wheel01.mdl
+[21:11:32] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_wasteland/wheel01.mdl
+[21:11:32] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_wasteland/wheel01.mdl
+[21:11:32] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_wasteland/wheel01.mdl
+[21:11:32] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_wasteland/wheel01.mdl
+[21:11:32] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_wasteland/wheel01.mdl
+[21:11:32] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_wasteland/wheel01.mdl
+[21:11:32] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_wasteland/wheel01.mdl
+[21:11:32] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_wasteland/wheel01.mdl
+[21:11:32] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_wasteland/wheel01.mdl
+[21:11:32] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_wasteland/wheel01.mdl
+[21:11:32] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_wasteland/wheel01.mdl
+[21:11:43] Owen Clark was killed by prop_physics
+[21:11:56] Owen Clark: // Kind of want to hop onto the SWRP.
+[21:12:11] Owen Clark: // MilkyWay you there????
+[21:13:08] Andrew Philip: // ?
+[21:13:20] Owen Clark: // Want to get on the SWRP????
+[21:13:36] Owen Clark: // Project Revival SWRP.
+[21:13:41] Andrew Philip: // its locked
+[21:13:48] Owen Clark: // It shouldn't be?
+[21:14:19] Owen Clark: // Gonna try to get on it.
+[21:14:27] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_lab/blastdoor001c.mdl
+[21:14:31] Andrew Philip: // do u guys mind looking at my app btw
+[21:14:39] Dropped "Owen Clark" from server<STEAM_0:1:17219621>
+[21:14:39] Andrew Philip: // post a +1 or -1
+[21:14:54] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool stacker_improved on models/props_lab/blastdoor001c.mdl
+[21:14:55] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool stacker_improved on models/props_lab/blastdoor001c.mdl
+[21:14:55] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_lab/blastdoor001c.mdl
+[21:14:55] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_lab/blastdoor001c.mdl
+[21:14:55] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_lab/blastdoor001c.mdl
+[21:14:55] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_lab/blastdoor001c.mdl
+[21:14:55] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_lab/blastdoor001c.mdl
+[21:14:55] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_lab/blastdoor001c.mdl
+[21:14:55] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_lab/blastdoor001c.mdl
+[21:14:55] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_lab/blastdoor001c.mdl
+[21:14:55] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_lab/blastdoor001c.mdl
+[21:14:55] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_lab/blastdoor001c.mdl
+[21:14:55] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_lab/blastdoor001c.mdl
+[21:14:55] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_lab/blastdoor001c.mdl
+[21:14:55] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_lab/blastdoor001c.mdl
+[21:14:55] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_lab/blastdoor001c.mdl
+[21:14:55] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_lab/blastdoor001c.mdl
+[21:14:57] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool stacker_improved on models/props_lab/blastdoor001c.mdl
+[21:14:58] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool stacker_improved on models/props_lab/blastdoor001c.mdl
+[21:14:58] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_lab/blastdoor001c.mdl
+[21:14:58] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_lab/blastdoor001c.mdl
+[21:14:58] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_lab/blastdoor001c.mdl
+[21:14:58] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_lab/blastdoor001c.mdl
+[21:14:58] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_lab/blastdoor001c.mdl
+[21:14:58] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_lab/blastdoor001c.mdl
+[21:14:58] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_lab/blastdoor001c.mdl
+[21:14:58] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_lab/blastdoor001c.mdl
+[21:14:58] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_lab/blastdoor001c.mdl
+[21:14:58] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_lab/blastdoor001c.mdl
+[21:14:58] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_lab/blastdoor001c.mdl
+[21:14:58] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_lab/blastdoor001c.mdl
+[21:14:58] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_lab/blastdoor001c.mdl
+[21:14:58] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_lab/blastdoor001c.mdl
+[21:14:58] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_lab/blastdoor001c.mdl
+[21:15:24] Dropped "CCA.C17-GRID.i1.59212" from server<STEAM_0:0:193599766>
+[21:21:52] Client "Doughnut" connected.
+[21:24:34] Client "Doughnut" spawned in server <STEAM_0:1:127409364> (took 162 seconds).
+[21:26:04] Doughnut<STEAM_0:1:127409364> changed their name to CCA.C17-JUDGE.i2.69124
+[21:26:08] CCA.C17-JUDGE.i2.69124: // e
+[21:26:15] Andrew Philip: // C
+[21:26:40] Andrew Philip: // I killed all the NPCs in the sewers
+[21:26:41] CCA.C17-JUDGE.i2.69124: /chargiveflag andrew pet
+[21:26:54] Andrew Philip<STEAM_0:1:118336892> spawned model models/props_borealis/bluebarrel001.mdl
+[21:26:55] CCA.C17-JUDGE.i2.69124: /plywhitelist andrew ancin
+[21:26:58] CCA.C17-JUDGE.i2.69124: /plywhitelist andrew ancil
+[21:27:02] CCA.C17-JUDGE.i2.69124: /plywhitelist andrew synth
+[21:27:11] CCA.C17-JUDGE.i2.69124: /plywhitelist andrew bird
+[21:27:16] CCA.C17-JUDGE.i2.69124: /plywhitelist andrew xenian
+[21:27:19] CCA.C17-JUDGE.i2.69124: /plywhitelist andrew xen
+[21:28:11] CCA.C17-JUDGE.i2.69124: /plywhitelist andrew alien
+[21:28:17] CCA.C17-JUDGE.i2.69124: // i think that's right
+[21:28:24] CCA.C17-JUDGE.i2.69124: // wait
+[21:28:26] CCA.C17-JUDGE.i2.69124: // maybe
+[21:28:33] CCA.C17-JUDGE.i2.69124: /plyunwhitelist andrew alien
+[21:28:37] Andrew Philip: // isn't there like xenian, stalker and other abusive shit
+[21:28:43] Andrew Philip: // XD
+[21:28:57] CCA.C17-JUDGE.i2.69124: // i added you for stalker but idk the xenian faction
+[21:28:59] Andrew Philip: // I'll probably rarely use them
+[21:29:12] Andrew Philip: // I wonder btw for pet flags just wondering 
+[21:29:31] CCA.C17-JUDGE.i2.69124: /chargiveflag STEAM_0:1:118336892 pet
+[21:29:36] Andrew Philip: // are there rules that I should be aware of them 
+[21:29:45] CCA.C17-JUDGE.i2.69124: // just making sure you get it on all char ( i think it worked)
+[21:29:51] Andrew Philip: // let me check
+[21:29:58] Andrew Philip<STEAM_0:1:118336892> changed their name to Hyo Jeong
+[21:30:02] Hyo Jeong: // nop
+[21:30:18] CCA.C17-JUDGE.i2.69124: // just don't try to break the server, use them minge like outside of downtime, and yeah that's really it
+[21:30:21] CCA.C17-JUDGE.i2.69124: /chargiveflag STEAM_0:1:118336892 pet
+[21:30:22] CCA.C17-JUDGE.i2.69124: // there
+[21:30:28] Hyo Jeong<STEAM_0:1:118336892> changed their name to CCA.C17-UNION.i5.09143
+[21:30:32] CCA.C17-JUDGE.i2.69124: // just ask whenever you need em
+[21:30:33] CCA.C17-JUDGE.i2.69124: /chargiveflag STEAM_0:1:118336892 pet
+[21:30:43] CCA.C17-JUDGE.i2.69124: !menu
+[21:30:48] CCA.C17-UNION.i5.09143: // I'll prob never use them and only use them to enhance people's expirence 
+[21:30:58] CCA.C17-UNION.i5.09143<STEAM_0:1:118336892> changed their name to Andrew Philip
+[21:30:59] CCA.C17-JUDGE.i2.69124: // mk
+[21:31:22] Andrew Philip: // oh btw the conatiner that was removed before the map change, you mind coming in and spawn it? 
+[21:31:30] CCA.C17-JUDGE.i2.69124 teleported to Andrew Philip
+[21:31:30] CCA.C17-JUDGE.i2.69124: !goto andrew
+[21:31:35] CCA.C17-JUDGE.i2.69124<STEAM_0:1:127409364> spawned model models/props_junk/wood_crate001a_damaged.mdl
+[21:31:37] CCA.C17-JUDGE.i2.69124<STEAM_0:1:127409364> spawned model models/props_junk/wood_crate001a.mdl
+[21:31:37] Andrew Philip: /looc wtf
+[21:31:43] Andrew Philip: /looc oh hi
+[21:31:50] CCA.C17-JUDGE.i2.69124<STEAM_0:1:127409364> spawned model models/props_wasteland/controlroom_storagecloset001a.mdl
+[21:31:55] CCA.C17-JUDGE.i2.69124: /looc correct?
+[21:31:59] Andrew Philip: /looc yeah
+[21:32:25] Andrew Philip: /looc hungery?
+[21:32:29] CCA.C17-JUDGE.i2.69124: /looc ew
+[21:33:10] CCA.C17-JUDGE.i2.69124: // kk bye
+[21:33:14] Andrew Philip: // before you go, you mind spawing in the zombies in the sewers
+[21:33:17] CCA.C17-JUDGE.i2.69124: // sure
+[21:33:29] Andrew Philip: // alright
+[21:33:48] CCA.C17-JUDGE.i2.69124<STEAM_0:1:127409364> used the tool creator on maps/rp_i17_variation_v0.bsp
+[21:33:48] CCA.C17-JUDGE.i2.69124<STEAM_0:1:127409364> spawned NPC npc_zombie
+[21:33:50] CCA.C17-JUDGE.i2.69124<STEAM_0:1:127409364> used the tool creator on maps/rp_i17_variation_v0.bsp
+[21:33:50] CCA.C17-JUDGE.i2.69124<STEAM_0:1:127409364> spawned NPC npc_zombie
+[21:33:52] CCA.C17-JUDGE.i2.69124<STEAM_0:1:127409364> used the tool creator on maps/rp_i17_variation_v0.bsp
+[21:33:52] CCA.C17-JUDGE.i2.69124<STEAM_0:1:127409364> spawned NPC npc_zombie
+[21:33:59] CCA.C17-JUDGE.i2.69124<STEAM_0:1:127409364> used the tool creator on maps/rp_i17_variation_v0.bsp
+[21:33:59] CCA.C17-JUDGE.i2.69124<STEAM_0:1:127409364> spawned NPC npc_fastzombie
+[21:34:00] Andrew Philip: // I plan to donate more btw, I'll prob not even use these powers if an admin needs me to do so
+[21:34:03] CCA.C17-JUDGE.i2.69124<STEAM_0:1:127409364> used the tool creator on maps/rp_i17_variation_v0.bsp
+[21:34:03] CCA.C17-JUDGE.i2.69124<STEAM_0:1:127409364> spawned NPC npc_fastzombie
+[21:34:07] Andrew Philip: // I know someone donated 80 usd 
+[21:34:11] CCA.C17-JUDGE.i2.69124<STEAM_0:1:127409364> used the tool creator on maps/rp_i17_variation_v0.bsp
+[21:34:11] CCA.C17-JUDGE.i2.69124<STEAM_0:1:127409364> spawned NPC npc_zombie
+[21:34:13] CCA.C17-JUDGE.i2.69124<STEAM_0:1:127409364> used the tool creator on maps/rp_i17_variation_v0.bsp
+[21:34:13] CCA.C17-JUDGE.i2.69124<STEAM_0:1:127409364> spawned NPC npc_zombie
+[21:34:18] CCA.C17-JUDGE.i2.69124<STEAM_0:1:127409364> spawned NPC npc_poisonzombie
+[21:34:21] CCA.C17-JUDGE.i2.69124<STEAM_0:1:127409364> spawned NPC npc_zombie_torso
+[21:34:30] CCA.C17-JUDGE.i2.69124<STEAM_0:1:127409364> used the tool creator on maps/rp_i17_variation_v0.bsp
+[21:34:30] CCA.C17-JUDGE.i2.69124<STEAM_0:1:127409364> spawned NPC npc_zombie
+[21:34:32] CCA.C17-JUDGE.i2.69124<STEAM_0:1:127409364> used the tool creator on maps/rp_i17_variation_v0.bsp
+[21:34:32] CCA.C17-JUDGE.i2.69124<STEAM_0:1:127409364> spawned NPC npc_zombie
+[21:34:33] CCA.C17-JUDGE.i2.69124<STEAM_0:1:127409364> used the tool creator on maps/rp_i17_variation_v0.bsp
+[21:34:33] CCA.C17-JUDGE.i2.69124<STEAM_0:1:127409364> spawned NPC npc_zombie
+[21:34:35] CCA.C17-JUDGE.i2.69124<STEAM_0:1:127409364> used the tool creator on maps/rp_i17_variation_v0.bsp
+[21:34:35] CCA.C17-JUDGE.i2.69124<STEAM_0:1:127409364> spawned NPC npc_zombie
+[21:34:39] CCA.C17-JUDGE.i2.69124<STEAM_0:1:127409364> spawned NPC npc_fastzombie
+[21:34:41] CCA.C17-JUDGE.i2.69124<STEAM_0:1:127409364> spawned NPC npc_fastzombie
+[21:34:43] CCA.C17-JUDGE.i2.69124<STEAM_0:1:127409364> used the tool creator on maps/rp_i17_variation_v0.bsp
+[21:34:43] CCA.C17-JUDGE.i2.69124<STEAM_0:1:127409364> spawned NPC npc_zombie
+[21:34:44] CCA.C17-JUDGE.i2.69124<STEAM_0:1:127409364> used the tool creator on maps/rp_i17_variation_v0.bsp
+[21:34:44] CCA.C17-JUDGE.i2.69124<STEAM_0:1:127409364> spawned NPC npc_zombie
+[21:34:47] CCA.C17-JUDGE.i2.69124<STEAM_0:1:127409364> used the tool creator on maps/rp_i17_variation_v0.bsp
+[21:34:47] CCA.C17-JUDGE.i2.69124<STEAM_0:1:127409364> spawned NPC npc_zombie
+[21:34:52] CCA.C17-JUDGE.i2.69124<STEAM_0:1:127409364> used the tool creator on maps/rp_i17_variation_v0.bsp
+[21:34:52] CCA.C17-JUDGE.i2.69124<STEAM_0:1:127409364> spawned NPC npc_zombie
+[21:34:57] CCA.C17-JUDGE.i2.69124<STEAM_0:1:127409364> spawned NPC npc_fastzombie
+[21:35:02] CCA.C17-JUDGE.i2.69124<STEAM_0:1:127409364> used the tool creator on maps/rp_i17_variation_v0.bsp
+[21:35:02] CCA.C17-JUDGE.i2.69124<STEAM_0:1:127409364> spawned NPC npc_zombie
+[21:35:14] CCA.C17-JUDGE.i2.69124<STEAM_0:1:127409364> spawned NPC npc_poisonzombie
+[21:35:19] CCA.C17-JUDGE.i2.69124<STEAM_0:1:127409364> used the tool creator on maps/rp_i17_variation_v0.bsp
+[21:35:19] CCA.C17-JUDGE.i2.69124<STEAM_0:1:127409364> spawned NPC npc_zombie
+[21:35:21] CCA.C17-JUDGE.i2.69124<STEAM_0:1:127409364> used the tool creator on maps/rp_i17_variation_v0.bsp
+[21:35:21] CCA.C17-JUDGE.i2.69124<STEAM_0:1:127409364> spawned NPC npc_zombie
+[21:35:50] CCA.C17-JUDGE.i2.69124<STEAM_0:1:127409364> used the tool creator on maps/rp_i17_variation_v0.bsp
+[21:35:50] CCA.C17-JUDGE.i2.69124<STEAM_0:1:127409364> spawned NPC npc_zombie
+[21:35:52] CCA.C17-JUDGE.i2.69124<STEAM_0:1:127409364> used the tool creator on maps/rp_i17_variation_v0.bsp
+[21:35:52] CCA.C17-JUDGE.i2.69124<STEAM_0:1:127409364> spawned NPC npc_zombie
+[21:35:53] CCA.C17-JUDGE.i2.69124<STEAM_0:1:127409364> used the tool creator on maps/rp_i17_variation_v0.bsp
+[21:35:53] CCA.C17-JUDGE.i2.69124<STEAM_0:1:127409364> spawned NPC npc_zombie
+[21:35:56] CCA.C17-JUDGE.i2.69124<STEAM_0:1:127409364> spawned NPC npc_fastzombie_torso
+[21:35:57] CCA.C17-JUDGE.i2.69124<STEAM_0:1:127409364> used the tool creator on maps/rp_i17_variation_v0.bsp
+[21:35:57] CCA.C17-JUDGE.i2.69124<STEAM_0:1:127409364> spawned NPC npc_zombie
+[21:36:04] CCA.C17-JUDGE.i2.69124<STEAM_0:1:127409364> used the tool creator on maps/rp_i17_variation_v0.bsp
+[21:36:04] CCA.C17-JUDGE.i2.69124<STEAM_0:1:127409364> spawned NPC npc_zombie
+[21:36:06] CCA.C17-JUDGE.i2.69124<STEAM_0:1:127409364> used the tool creator on maps/rp_i17_variation_v0.bsp
+[21:36:06] CCA.C17-JUDGE.i2.69124<STEAM_0:1:127409364> spawned NPC npc_zombie
+[21:36:10] CCA.C17-JUDGE.i2.69124<STEAM_0:1:127409364> spawned NPC npc_fastzombie_torso
+[21:36:38] Dropped "CCA.C17-JUDGE.i2.69124" from server<STEAM_0:1:127409364>
+[21:41:24] Client "FB|| light ROOM" connected.
+[21:48:14] Andrew Philip was killed by npc_poisonzombie
+[22:03:24] Andrew Philip<STEAM_0:1:118336892> spawned model models/props_interiors/furniture_desk01a.mdl
+[22:03:37] Andrew Philip<STEAM_0:1:118336892> spawned model models/props_wasteland/laundry_cart002.mdl
+[22:04:28] Andrew Philip<STEAM_0:1:118336892> spawned model models/props_wasteland/kitchen_shelf001a.mdl
+[22:05:08] Andrew Philip<STEAM_0:1:118336892> spawned model models/props_wasteland/kitchen_shelf001a.mdl
+[22:05:31] Andrew Philip<STEAM_0:1:118336892> used the tool keepupright on maps/rp_i17_variation_v0.bsp
+[22:05:32] Andrew Philip<STEAM_0:1:118336892> used the tool ledscreen on maps/rp_i17_variation_v0.bsp
+[22:05:51] Dropped "Andrew Philip" from server<STEAM_0:1:118336892>

@@ -1,0 +1,793 @@
+<Logging continued from "data/ulx_logs/06-02-21.txt">
+[02:24:15] Client "xopavnb342" connected.
+[13:08:53] Client "matt saton" connected.
+[13:11:12] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 139 seconds).
+[13:11:43] matt saton<STEAM_0:1:53097688> changed their name to Lee Maylor
+[13:11:52] Lee Maylor: //yo
+[13:13:41] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_combine/combine_mortar01a.mdl
+[13:13:44] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_combine/breenpod.mdl
+[13:13:52] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_combine/cell_01_pod.mdl
+[13:13:57] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_combine/cell_01_pod_cheap.mdl
+[13:14:10] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_combine/breenpod.mdl
+[13:14:14] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_combine/cell_01_pod.mdl
+[13:14:17] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_combine/breenpod.mdl
+[13:14:30] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_combine/cell_01_pod.mdl
+[13:15:00] Lee Maylor<STEAM_0:1:53097688> used the tool stacker_improved on models/props_combine/cell_01_pod.mdl
+[13:15:00] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_combine/cell_01_pod.mdl
+[13:15:01] Lee Maylor<STEAM_0:1:53097688> used the tool stacker_improved on models/props_combine/cell_01_pod.mdl
+[13:15:01] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_combine/cell_01_pod.mdl
+[13:15:02] Lee Maylor<STEAM_0:1:53097688> used the tool stacker_improved on models/props_combine/cell_01_pod.mdl
+[13:15:02] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_combine/cell_01_pod.mdl
+[13:15:28] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_combine/cell_01_pod.mdl
+[13:15:58] Lee Maylor<STEAM_0:1:53097688> used the tool stacker_improved on models/props_combine/cell_01_pod.mdl
+[13:15:58] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_combine/cell_01_pod.mdl
+[13:15:58] Lee Maylor<STEAM_0:1:53097688> used the tool stacker_improved on models/props_combine/cell_01_pod.mdl
+[13:15:59] Lee Maylor<STEAM_0:1:53097688> used the tool stacker_improved on models/props_combine/cell_01_pod.mdl
+[13:15:59] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_combine/cell_01_pod.mdl
+[13:16:14] Lee Maylor<STEAM_0:1:53097688> used the tool stacker_improved on models/props_combine/cell_01_pod.mdl
+[13:16:14] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_combine/cell_01_pod.mdl
+[13:16:14] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_combine/cell_01_pod.mdl
+[13:16:14] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_combine/cell_01_pod.mdl
+[13:16:21] Lee Maylor<STEAM_0:1:53097688> used the tool stacker_improved on models/props_combine/cell_01_pod.mdl
+[13:16:21] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_combine/cell_01_pod.mdl
+[13:16:21] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_combine/cell_01_pod.mdl
+[13:16:29] Lee Maylor<STEAM_0:1:53097688> used the tool stacker_improved on models/props_combine/cell_01_pod.mdl
+[13:16:29] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_combine/cell_01_pod.mdl
+[13:16:29] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_combine/cell_01_pod.mdl
+[13:16:39] Lee Maylor<STEAM_0:1:53097688> used the tool stacker_improved on models/props_combine/cell_01_pod.mdl
+[13:16:39] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_combine/cell_01_pod.mdl
+[13:16:39] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_combine/cell_01_pod.mdl
+[13:16:51] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_combine/cell_01_pod.mdl
+[13:16:56] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/cell_01_pod.mdl
+[13:16:56] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/cell_01_pod.mdl
+[13:16:57] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/cell_01_pod.mdl
+[13:17:18] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_combine/combine_lock01.mdl
+[13:17:20] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_combine/combine_interface001.mdl
+[13:17:23] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_combine/combine_intmonitor001.mdl
+[13:17:25] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_combine/combine_smallmonitor001.mdl
+[13:17:28] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_combine/combine_mortar01a.mdl
+[13:18:07] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_combine/combinebutton.mdl
+[13:19:45] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_office/desk_01.mdl
+[13:19:48] Lee Maylor<STEAM_0:1:53097688> spawned model models/env/furniture/largedesk/largedesk.mdl
+[13:19:52] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_interiors/desk_executive.mdl
+[13:19:57] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_interiors/desk_executive.mdl
+[13:20:03] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_interiors/furniture_chair03a.mdl
+[13:20:08] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_interiors/furniture_chair03a.mdl
+[13:20:31] Lee Maylor<STEAM_0:1:53097688> spawned ragdoll models/props_vehicles/wagon001a_phy.mdl
+[13:20:57] Lee Maylor<STEAM_0:1:53097688> used the tool creator on maps/rp_city2_v4_finalb.bsp
+[13:20:57] Lee Maylor<STEAM_0:1:53097688> spawned ragdoll models/props_vehicles/wagon001a_phy.mdl
+[13:21:03] Lee Maylor<STEAM_0:1:53097688> spawned ragdoll models/props_vehicles/wagon001a_phy.mdl
+[13:21:41] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_vehicles/wagon001a_phy.mdl
+[13:21:48] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city2_v4_finalb.bsp
+[13:22:10] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city2_v4_finalb.bsp
+[13:22:28] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_downtown/booth_table.mdl
+[13:22:30] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_downtown/booth01.mdl
+[13:22:35] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_downtown/booth_table.mdl
+[13:22:48] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_downtown/booth01.mdl
+[13:24:22] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_interiors/table_cafeteria.mdl
+[13:24:26] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_interiors/table_cafeteria.mdl
+[13:24:35] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_interiors/table_cafeteria.mdl
+[13:25:38] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_interiors/chair_cafeteria.mdl
+[13:25:39] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_interiors/chair01.mdl
+[13:25:50] Lee Maylor set the hp for Themself to 99999999
+[13:25:50] Lee Maylor: !hp ^ 99999999
+[13:25:54] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_interiors/chair_cafeteria.mdl
+[13:26:26] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_interiors/dining_table_round.mdl
+[13:26:27] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_interiors/chair_cafeteria.mdl
+[13:30:31] Client "comradestalinrules" connected.
+[13:33:47] CCA.C02-GRID.i1.36307: // i don't remember joining
+[13:33:57] Lee Maylor: //you did it yesterday
+[13:34:08] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_interiors/chair_cafeteria.mdl
+[13:34:13] CCA.C02-GRID.i1.36307: // oh
+[13:34:21] CCA.C02-GRID.i1.36307: /charsetthirst i1 100
+[13:34:30] Lee Maylor: //i'm propping
+[13:35:06] CCA.C02-GRID.i1.36307: // ima see how long i can stay on
+[13:39:50] Client "comradestalinrules" spawned in server <STEAM_0:0:460243415> (took 559 seconds).
+[13:40:58] CCA.C02-GRID.i1.36307<STEAM_0:0:193599766> changed their name to Crapaud
+[13:43:54] comradestalinrules<STEAM_0:0:460243415> changed their name to David Sarsfield
+[13:46:38] Dropped "David Sarsfield" from server<STEAM_0:0:460243415>
+[13:55:31] Lee Maylor: //what's up
+[13:55:49] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_interiors/chair_cafeteria.mdl
+[13:59:46] Lee Maylor<STEAM_0:1:53097688> spawned sent ix_combinelock
+[13:59:48] Lee Maylor<STEAM_0:1:53097688> spawned sent ix_combinelock
+[13:59:52] Lee Maylor<STEAM_0:1:53097688> spawned sent ix_combinelock
+[13:59:55] Lee Maylor<STEAM_0:1:53097688> spawned sent ix_combinelock
+[13:59:58] Lee Maylor<STEAM_0:1:53097688> spawned sent ix_combinelock
+[14:00:00] Lee Maylor<STEAM_0:1:53097688> spawned sent ix_combinelock
+[14:00:05] Lee Maylor<STEAM_0:1:53097688> spawned sent ix_combinelock
+[14:00:10] Lee Maylor<STEAM_0:1:53097688> changed their name to CCA.C17-UNION.i1.51023
+[14:00:29] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned sent ix_combinelock
+[14:00:42] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned sent ix_airvent
+[14:00:44] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned sent ix_vendingmachine
+[14:00:47] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned sent ix_forcefield
+[14:00:51] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned sent ix_uidprinter
+[14:06:09] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned sent ix_station_airpressurizer
+[14:06:11] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned sent ix_station_diecaster
+[14:07:14] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned sent ix_station_airpressurizer
+[14:07:16] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned sent ix_station_forge
+[14:07:26] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_wasteland/laundry_cart001.mdl
+[14:07:31] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_wasteland/laundry_cart001.mdl
+[14:07:51] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned sent ix_station_poweroutlet
+[14:07:52] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned sent ix_radiorepeater
+[14:07:54] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned sent ix_station_forge
+[14:07:56] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned sent ix_vendor
+[14:07:57] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned sent ix_station_workbench
+[14:07:59] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned sent ix_station_diecaster
+[14:08:16] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_desk001a.mdl
+[14:08:24] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_desk001b.mdl
+[14:08:40] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool stacker_improved on models/props_wasteland/controlroom_desk001b.mdl
+[14:08:40] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_desk001b.mdl
+[14:08:49] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool stacker_improved on maps/rp_city2_v4_finalb.bsp
+[14:08:51] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city2_v4_finalb.bsp
+[14:08:52] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city2_v4_finalb.bsp
+[14:08:52] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city2_v4_finalb.bsp
+[14:09:08] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_wasteland/light_spotlight01_lamp.mdl
+[14:09:40] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool lamp on maps/rp_city2_v4_finalb.bsp
+[14:09:45] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool lamp on maps/rp_city2_v4_finalb.bsp
+[14:09:51] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool nocollideeverything on models/lamps/torch.mdl
+[14:10:13] Client "¢higgy ¢higgy" connected.
+[14:11:26] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_wasteland/kitchen_counter001b.mdl
+[14:11:31] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_wasteland/kitchen_counter001c.mdl
+[14:11:54] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_junk/wood_pallet001a.mdl
+[14:12:04] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_junk/wood_pallet001a.mdl
+[14:12:38] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_junk/wood_pallet001a.mdl
+[14:12:44] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_junk/wood_pallet001a.mdl
+[14:12:52] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_junk/wood_pallet001a.mdl
+[14:13:28] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool stacker_improved on models/props_junk/wood_pallet001a.mdl
+[14:13:28] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_junk/wood_pallet001a.mdl
+[14:13:28] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_junk/wood_pallet001a.mdl
+[14:13:28] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_junk/wood_pallet001a.mdl
+[14:13:28] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_junk/wood_pallet001a.mdl
+[14:13:28] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_junk/wood_pallet001a.mdl
+[14:13:45] Client "¢higgy ¢higgy" spawned in server <STEAM_0:0:69154315> (took 212 seconds).
+[14:14:02] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool stacker_improved on models/props_junk/wood_pallet001a.mdl
+[14:14:02] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_junk/wood_pallet001a.mdl
+[14:14:02] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_junk/wood_pallet001a.mdl
+[14:14:02] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_junk/wood_pallet001a.mdl
+[14:14:02] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_junk/wood_pallet001a.mdl
+[14:14:02] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_junk/wood_pallet001a.mdl
+[14:14:05] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool stacker_improved on models/props_junk/wood_pallet001a.mdl
+[14:14:05] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_junk/wood_pallet001a.mdl
+[14:14:05] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_junk/wood_pallet001a.mdl
+[14:14:05] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_junk/wood_pallet001a.mdl
+[14:14:05] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_junk/wood_pallet001a.mdl
+[14:14:05] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_junk/wood_pallet001a.mdl
+[14:14:25] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool stacker_improved on models/props_junk/wood_pallet001a.mdl
+[14:14:25] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_junk/wood_pallet001a.mdl
+[14:14:25] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_junk/wood_pallet001a.mdl
+[14:14:25] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_junk/wood_pallet001a.mdl
+[14:14:25] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_junk/wood_pallet001a.mdl
+[14:14:25] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_junk/wood_pallet001a.mdl
+[14:14:26] ¢higgy ¢higgy<STEAM_0:0:69154315> changed their name to Frank Jackson
+[14:14:29] CCA.C17-UNION.i1.51023: //what's good
+[14:14:32] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool stacker_improved on models/props_junk/wood_pallet001a.mdl
+[14:14:32] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool stacker_improved on models/props_junk/wood_pallet001a.mdl
+[14:14:36] CCA.C17-UNION.i1.51023 was killed by prop_physics
+[14:14:38] Frank Jackson: // what up y'all
+[14:14:47] CCA.C17-UNION.i1.51023: //DRD is dead but ya boi is here
+[14:15:02] CCA.C17-UNION.i1.51023 teleported to Frank Jackson
+[14:15:03] CCA.C17-UNION.i1.51023: /pm echo SWIM
+[14:15:05] CCA.C17-UNION.i1.51023: /plysearch
+[14:15:20] Frank Jackson: // what ya up to man
+[14:15:27] CCA.C17-UNION.i1.51023: //trying to get some propping done
+[14:15:42] CCA.C17-UNION.i1.51023: //while also working on how to handle some high roles like CA
+[14:16:26] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city2_v4_finalb.bsp
+[14:16:35] Frank Jackson: // 'figuring out' as in who should play CA or what their roles are or what?
+[14:17:01] CCA.C17-UNION.i1.51023: //yeah, the former. how to decide. I'm trying to take a new approach with high ranks and stuff. before i was on kind of a high horse, i'll admit
+[14:17:25] CCA.C17-UNION.i1.51023: //so now i'm just like, well we're not doing great, so what do we have to lose
+[14:17:35] CCA.C17-UNION.i1.51023: //might as well try some shit
+[14:17:47] CCA.C17-UNION.i1.51023: /toggleraise
+[14:17:50] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_junk/pushcart01a.mdl
+[14:18:07] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_junk/wood_crate001a_damaged.mdl
+[14:18:22] Frank Jackson: // Hey that's the game you play when you run a server, shit seems good then it tanks and then you try a bunch of shit you just gotta do it for yourself and do what you think is cool and then the right players will play
+[14:18:36] CCA.C17-UNION.i1.51023: //yeah, exactly. so i'm trying to see
+[14:18:40] CCA.C17-UNION.i1.51023: //might as well fuck around and find out
+[14:19:13] Frank Jackson: // As for CA, I think it's going to be someone who has or is capable of demonstrating some damn good RP as a not authoritative role
+[14:19:36] Frank Jackson: // Not that CCA players shouldn't be eligible, but i feel like CA is so heavy on just like RPing shit happennig, RPing events
+[14:19:51] Frank Jackson: // Without using force or like injecing themselves into other people's RP
+[14:20:06] Frank Jackson: // e.g 'pick up that can' 'random search' etc.
+[14:20:15] CCA.C17-UNION.i1.51023: //yeah, it's definitely a different skillset
+[14:21:04] Frank Jackson: // Yeah. I think it's gonna be a guy who you play with as normal civvy, but they can come up with an enjoyable story as the most boring 'class' you know what I mean
+[14:21:11] CCA.C17-UNION.i1.51023: //yeah
+[14:21:34] CCA.C17-UNION.i1.51023: //i'm pitching an idea to the team right now where players vote on a player to get CA, and then the staff team can approve or deny the winner of the vote
+[14:22:14] CCA.C17-UNION.i1.51023: //so players get a voice but also staff can be sure that this person can do CA
+[14:23:05] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_wasteland/horizontalcoolingtank04.mdl
+[14:23:11] CCA.C17-UNION.i1.51023: //but yeah, in the meantime, i'm doing a bit of propping
+[14:23:13] Frank Jackson: // not a bad idea, that way you can be sure they're not going to abuse it but they do know how to RP
+[14:23:22] CCA.C17-UNION.i1.51023: //yeah, exactly
+[14:23:25] Frank Jackson: // nice i'll do some propping aswell ain't got shit to do lol
+[14:23:34] CCA.C17-UNION.i1.51023: //shit, thank you my guy
+[14:23:49] CCA.C17-UNION.i1.51023: //if there's anything in particular you want to prop i can take you there
+[14:24:14] Frank Jackson: // also at my location, last time i was on I had a dope 3D portrait made with resized props, but after you perma'd them they shrank down and they're stuck in the wall lol
+[14:24:35] Frank Jackson: // this wall just looks silly because it has a portion of a soda can sticking out
+[14:24:42] CCA.C17-UNION.i1.51023: shit. that's really cool though
+[14:24:47] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city2_v4_finalb.bsp
+[14:24:50] Frank Jackson: was a dope portrait
+[14:24:59] CCA.C17-UNION.i1.51023 returned Themself to their original position
+[14:25:14] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_wasteland/laundry_basket001.mdl
+[14:25:23] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_wasteland/laundry_basket001.mdl
+[14:25:24] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_wasteland/laundry_basket002.mdl
+[14:25:28] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_wasteland/laundry_basket001.mdl
+[14:25:52] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on models/props_wasteland/laundry_basket002.mdl
+[14:25:57] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_wasteland/laundry_basket002.mdl
+[14:26:18] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_wasteland/pipecluster001a.mdl
+[14:26:47] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_wasteland/lighthouse_fresnel_light.mdl
+[14:26:52] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_wasteland/interior_fence001a.mdl
+[14:26:57] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_wasteland/interior_fence001c.mdl
+[14:27:04] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_wasteland/interior_fence001a.mdl
+[14:27:10] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_wasteland/interior_fence004b.mdl
+[14:27:57] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_wasteland/horizontalcoolingtank04.mdl
+[14:28:01] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_wasteland/coolingtank01.mdl
+[14:28:22] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_wasteland/kitchen_counter001d.mdl
+[14:28:39] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool stacker_improved on models/props_wasteland/kitchen_counter001d.mdl
+[14:28:39] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_wasteland/kitchen_counter001d.mdl
+[14:28:48] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool stacker_improved on maps/rp_city2_v4_finalb.bsp
+[14:28:49] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool stacker_improved on models/props_wasteland/kitchen_counter001d.mdl
+[14:28:49] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_wasteland/kitchen_counter001d.mdl
+[14:29:06] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool stacker_improved on maps/rp_city2_v4_finalb.bsp
+[14:29:34] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool stacker_improved on models/props_wasteland/kitchen_counter001d.mdl
+[14:29:34] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_wasteland/kitchen_counter001d.mdl
+[14:29:43] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on models/props_wasteland/kitchen_counter001d.mdl
+[14:29:44] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on models/props_wasteland/kitchen_counter001d.mdl
+[14:30:00] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned sent ix_vendor
+[14:31:04] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_interiors/pot02a.mdl
+[14:31:53] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_interiors/pot02a.mdl
+[14:33:16] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_wasteland/kitchen_shelf001a.mdl
+[14:33:31] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_wasteland/kitchen_shelf001a.mdl
+[14:33:40] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on models/props_wasteland/kitchen_counter001c.mdl
+[14:33:41] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on models/props_wasteland/kitchen_counter001c.mdl
+[14:33:43] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_junk/wood_crate001a.mdl
+[14:33:46] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_junk/wood_crate001a.mdl
+[14:33:49] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_junk/cardboard_box003a.mdl
+[14:33:53] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_junk/wood_pallet001a.mdl
+[14:34:00] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_junk/cardboard_box004a.mdl
+[14:34:06] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_junk/cardboard_box004a.mdl
+[14:34:10] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_junk/cardboard_box004a.mdl
+[14:34:11] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_junk/wood_pallet001a.mdl
+[14:34:20] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_junk/cardboard_box002b.mdl
+[14:34:43] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_junk/cardboard_box002a.mdl
+[14:34:54] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_junk/cardboard_box001a.mdl
+[14:34:57] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_junk/cardboard_box003b.mdl
+[14:35:13] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_junk/cardboard_box004a.mdl
+[14:35:16] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_junk/cardboard_box002a.mdl
+[14:35:22] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_junk/cardboard_box001b.mdl
+[14:35:26] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_junk/cardboard_box001a.mdl
+[14:35:42] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_junk/wood_pallet001a.mdl
+[14:35:51] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_wasteland/controlroom_desk001a.mdl
+[14:35:58] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_wasteland/kitchen_counter001c.mdl
+[14:36:50] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_junk/cardboard_box001b.mdl
+[14:36:59] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_junk/cardboard_box001b.mdl
+[14:37:10] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_wasteland/kitchen_counter001d.mdl
+[14:37:33] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_wasteland/controlroom_desk001b.mdl
+[14:37:51] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_wasteland/controlroom_chair001a.mdl
+[14:38:04] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_wasteland/controlroom_storagecloset001a.mdl
+[14:39:02] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_wasteland/controlroom_chair001a.mdl
+[14:39:24] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_junk/wood_pallet001a.mdl
+[14:39:38] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_junk/wood_pallet001a.mdl
+[14:39:43] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_junk/wood_pallet001a.mdl
+[14:39:57] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_junk/wood_pallet001a.mdl
+[14:40:00] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_junk/wood_pallet001a.mdl
+[14:40:11] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_junk/wood_pallet001a.mdl
+[14:40:40] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_trainstation/trashcan_indoor001a.mdl
+[14:41:01] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_wasteland/laundry_cart002.mdl
+[14:41:22] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_junk/cardboard_box004a.mdl
+[14:41:26] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_junk/cardboard_box004a.mdl
+[14:41:34] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_junk/cardboard_box004a.mdl
+[14:41:39] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_junk/cardboard_box004a.mdl
+[14:42:23] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_junk/pushcart01a.mdl
+[14:42:47] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_interiors/vendingmachinesoda01a_door.mdl
+[14:43:00] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_interiors/vendingmachinesoda01a.mdl
+[14:43:41] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_junk/popcan01a.mdl
+[14:43:49] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_junk/popcan01a.mdl
+[14:44:31] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_lab/workspace002.mdl
+[14:44:34] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_lab/clipboard.mdl
+[14:45:01] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_lab/citizenradio.mdl
+[14:45:23] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_junk/garbage_coffeemug001a.mdl
+[14:45:37] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_lab/binderblue.mdl
+[14:45:40] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_lab/binderblue.mdl
+[14:45:57] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_lab/binderblue.mdl
+[14:45:59] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_lab/binderredlabel.mdl
+[14:46:12] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_lab/desklamp01.mdl
+[14:46:16] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_lab/desklamp01.mdl
+[14:48:41] Frank Jackson: // doh
+[14:49:59] Frank Jackson<STEAM_0:0:69154315> spawned model models/sickness/bk_booth2.mdl
+[14:50:15] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_furniture/cafe_barstool1.mdl
+[14:50:52] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_downtown/booth02.mdl
+[14:51:06] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_downtown/booth01.mdl
+[14:51:19] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_downtown/booth_table.mdl
+[14:52:55] CCA.C17-UNION.i1.51023: //what's up?
+[14:52:59] Frank Jackson: // narnia
+[14:53:05] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned sent ix_vendingmachine
+[14:53:11] Frank Jackson: // narnia business
+[14:53:13] Frank Jackson: // jk
+[14:53:17] CCA.C17-UNION.i1.51023: //you got me
+[14:53:21] CCA.C17-UNION.i1.51023: //i have been destroyed
+[14:53:27] Frank Jackson: // hate to see it
+[14:53:37] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned sent ix_station_workbench
+[14:53:38] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned sent ix_vendor
+[14:53:42] Frank Jackson: // also I propped Warehouse 2, not sure if you know where that is but looks pretty nice
+[14:53:59] CCA.C17-UNION.i1.51023: //iwill find it
+[14:54:42] Frank Jackson: // aw wow i can't spawn a broom for the broom closet
+[14:54:50] Frank Jackson: // i'll have to fill it with JUNK
+[14:55:08] CCA.C17-UNION.i1.51023: //oh shit this looks really good
+[14:55:11] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on models/props_junk/cardboard_box003a.mdl
+[14:55:11] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on models/props_junk/cardboard_box004a.mdl
+[14:55:12] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on models/props_junk/cardboard_box004a.mdl
+[14:55:12] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on models/props_junk/cardboard_box004a.mdl
+[14:55:13] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city2_v4_finalb.bsp
+[14:55:13] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on models/props_wasteland/kitchen_shelf001a.mdl
+[14:55:13] Frank Jackson: // thanks dawg
+[14:55:14] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city2_v4_finalb.bsp
+[14:55:14] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on models/props_junk/cardboard_box003b.mdl
+[14:55:15] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on models/props_junk/cardboard_box002a.mdl
+[14:55:15] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on models/props_wasteland/laundry_cart002.mdl
+[14:55:16] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on models/props_junk/cardboard_box004a.mdl
+[14:55:17] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on models/props_junk/cardboard_box004a.mdl
+[14:55:18] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on models/props_junk/cardboard_box004a.mdl
+[14:55:18] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on models/props_junk/cardboard_box004a.mdl
+[14:55:18] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on models/props_wasteland/kitchen_shelf001a.mdl
+[14:55:19] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on models/props_junk/cardboard_box001b.mdl
+[14:55:20] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on models/props_junk/cardboard_box001a.mdl
+[14:55:23] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on models/props_interiors/vendingmachinesoda01a.mdl
+[14:55:23] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on models/props_interiors/vendingmachinesoda01a.mdl
+[14:55:25] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on models/props_lab/citizenradio.mdl
+[14:55:25] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on models/props_wasteland/controlroom_desk001b.mdl
+[14:55:26] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on models/props_junk/garbage_coffeemug001a.mdl
+[14:55:26] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on models/props_lab/desklamp01.mdl
+[14:55:27] Frank Jackson: // just quit my warehouse job, i got the vibe in check still
+[14:55:27] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on models/props_lab/clipboard.mdl
+[14:55:28] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on models/props_wasteland/controlroom_chair001a.mdl
+[14:55:28] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city2_v4_finalb.bsp
+[14:55:29] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on models/props_wasteland/controlroom_storagecloset001a.mdl
+[14:55:32] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on models/props_trainstation/trashcan_indoor001a.mdl
+[14:55:35] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on models/props_junk/popcan01a.mdl
+[14:55:36] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on models/props_junk/popcan01a.mdl
+[14:55:36] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on models/props_junk/popcan01a.mdl
+[14:55:39] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on models/props_junk/pushcart01a.mdl
+[14:55:39] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on models/props_junk/wood_pallet001a.mdl
+[14:55:41] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on models/props_junk/wood_pallet001a.mdl
+[14:55:54] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_wasteland/kitchen_counter001a.mdl
+[14:55:55] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_wasteland/kitchen_counter001d.mdl
+[14:55:59] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_wasteland/kitchen_counter001d.mdl
+[14:56:13] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props/cs_office/radio.mdl
+[14:56:19] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on models\props/cs_office/radio.mdl
+[14:56:30] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_equipment/security_desk1.mdl
+[14:56:38] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool stacker_improved on models/props_wasteland/kitchen_counter001d.mdl
+[14:56:38] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_wasteland/kitchen_counter001d.mdl
+[14:56:39] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool stacker_improved on models/props_wasteland/kitchen_counter001d.mdl
+[14:56:39] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_wasteland/kitchen_counter001d.mdl
+[14:56:43] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_furniture/picture_frame8.mdl
+[14:56:48] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool stacker_improved on models/props_wasteland/kitchen_counter001d.mdl
+[14:56:48] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_wasteland/kitchen_counter001d.mdl
+[14:56:48] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_wasteland/kitchen_counter001d.mdl
+[14:57:10] Frank Jackson<STEAM_0:0:69154315> spawned model models/props/cs_office/offcorkboarda.mdl
+[14:57:10] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool stacker_improved on models/props_wasteland/kitchen_counter001d.mdl
+[14:57:10] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_wasteland/kitchen_counter001d.mdl
+[14:57:10] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_wasteland/kitchen_counter001d.mdl
+[14:57:15] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_interiors/corkboardverticle01.mdl
+[14:57:18] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool stacker_improved on models/props_wasteland/kitchen_counter001d.mdl
+[14:57:18] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_wasteland/kitchen_counter001d.mdl
+[14:57:18] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_wasteland/kitchen_counter001d.mdl
+[14:57:27] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city2_v4_finalb.bsp
+[14:57:28] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city2_v4_finalb.bsp
+[14:57:28] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city2_v4_finalb.bsp
+[14:57:29] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city2_v4_finalb.bsp
+[14:57:29] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city2_v4_finalb.bsp
+[14:57:30] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city2_v4_finalb.bsp
+[14:57:30] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city2_v4_finalb.bsp
+[14:57:31] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city2_v4_finalb.bsp
+[14:57:32] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city2_v4_finalb.bsp
+[14:57:32] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city2_v4_finalb.bsp
+[14:57:42] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool stacker_improved on models/props_wasteland/kitchen_counter001d.mdl
+[14:57:42] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_wasteland/kitchen_counter001d.mdl
+[14:57:42] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_wasteland/kitchen_counter001d.mdl
+[14:58:02] Frank Jackson<STEAM_0:0:69154315> spawned model models/highrise/cubicle_monitor_01.mdl
+[14:58:03] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool stacker_improved on models/props_wasteland/kitchen_counter001d.mdl
+[14:58:03] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_wasteland/kitchen_counter001d.mdl
+[14:58:03] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_wasteland/kitchen_counter001d.mdl
+[14:58:14] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool stacker_improved on models/props_wasteland/kitchen_counter001d.mdl
+[14:58:14] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_wasteland/kitchen_counter001d.mdl
+[14:58:14] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_wasteland/kitchen_counter001d.mdl
+[14:58:25] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_warehouse/office_furniture_coffee_table.mdl
+[14:58:38] Frank Jackson<STEAM_0:0:69154315> spawned model models/props/cs_office/file_box.mdl
+[14:58:40] Frank Jackson<STEAM_0:0:69154315> spawned model models/props/cs_office/file_box.mdl
+[14:59:04] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_vtmb/armchair.mdl
+[14:59:10] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_wasteland/kitchen_counter001d.mdl
+[14:59:14] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_vtmb/armchair.mdl
+[14:59:32] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool stacker_improved on models/props_wasteland/kitchen_counter001d.mdl
+[14:59:32] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_wasteland/kitchen_counter001d.mdl
+[14:59:44] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_interiors/dining_table_round.mdl
+[14:59:45] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool stacker_improved on models/props_wasteland/kitchen_counter001d.mdl
+[14:59:45] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_wasteland/kitchen_counter001d.mdl
+[15:00:04] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool stacker_improved on models/props_wasteland/kitchen_counter001d.mdl
+[15:00:04] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_wasteland/kitchen_counter001d.mdl
+[15:00:10] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool stacker_improved on models/props_wasteland/kitchen_counter001d.mdl
+[15:00:10] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_wasteland/kitchen_counter001d.mdl
+[15:00:13] Frank Jackson<STEAM_0:0:69154315> spawned model models/props/cs_office/offinspf.mdl
+[15:00:16] Frank Jackson<STEAM_0:0:69154315> spawned model models/props/cs_office/offpaintingd.mdl
+[15:00:18] Frank Jackson<STEAM_0:0:69154315> spawned model models/props/cs_office/offpaintingg.mdl
+[15:00:19] Frank Jackson<STEAM_0:0:69154315> spawned model models/props/cs_office/offpaintingj.mdl
+[15:00:24] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on models/props_wasteland/kitchen_counter001d.mdl
+[15:00:25] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on models/props_wasteland/kitchen_counter001d.mdl
+[15:00:25] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on models/props_wasteland/kitchen_counter001d.mdl
+[15:01:02] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_wasteland/kitchen_counter001c.mdl
+[15:01:12] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_wasteland/prison_heater001a.mdl
+[15:01:14] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned sent ix_vendor
+[15:02:21] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_trainstation/trainstation_clock001.mdl
+[15:06:06] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_interiors/trashcankitchen01.mdl
+[15:10:36] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_interiors/shelvinggrocery01.mdl
+[15:10:48] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_interiors/shelvingstore01.mdl
+[15:10:58] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_interiors/shelvingstore01.mdl
+[15:11:11] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_interiors/shelvinggrocery01.mdl
+[15:11:44] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_interiors/cashregister01.mdl
+[15:14:22] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned sent ix_vendor
+[15:14:54] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_lab/partsbin01.mdl
+[15:15:38] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_office/file_cabinet_03.mdl
+[15:15:42] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_office/file_cabinet_03.mdl
+[15:15:46] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_office/file_cabinet_03.mdl
+[15:16:15] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_interiors/side_table_square.mdl
+[15:16:37] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_interiors/furniture_couch02a.mdl
+[15:16:40] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_interiors/furniture_couch02a.mdl
+[15:16:43] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_interiors/furniture_couch02a.mdl
+[15:17:37] Frank Jackson<STEAM_0:0:69154315> spawned model models/props/cs_office/offcorkboarda.mdl
+[15:17:39] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_interiors/corkboardverticle01.mdl
+[15:19:07] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_wasteland/kitchen_shelf001a.mdl
+[15:19:19] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_wasteland/kitchen_shelf001a.mdl
+[15:19:40] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_lab/cactus.mdl
+[15:19:48] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_c17/cashregister01a.mdl
+[15:20:56] Frank Jackson<STEAM_0:0:69154315> used the tool remover on models/props_lab/cactus.mdl
+[15:23:20] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_interiors/refrigeratordoor01a.mdl
+[15:23:39] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_c17/furnituretable002a.mdl
+[15:23:50] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_c17/furnituretable002a.mdl
+[15:24:00] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_c17/furnituretable002a.mdl
+[15:24:22] Frank Jackson<STEAM_0:0:69154315> used the tool remover on models/props_c17/furnituretable002a.mdl
+[15:24:22] Frank Jackson<STEAM_0:0:69154315> used the tool remover on models/props_c17/furnituretable002a.mdl
+[15:24:23] Frank Jackson<STEAM_0:0:69154315> used the tool remover on models/props_c17/furnituretable002a.mdl
+[15:24:51] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_c17/furnituretable002a.mdl
+[15:29:42] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_junk/garbage_carboard002a.mdl
+[15:29:50] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_junk/garbage_carboard002a.mdl
+[15:30:15] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_lab/harddrive01.mdl
+[15:30:23] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_junk/shoe001a.mdl
+[15:30:26] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_junk/shoe001a.mdl
+[15:30:40] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_junk/garbage_glassbottle003a.mdl
+[15:30:42] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_junk/garbage_glassbottle002a.mdl
+[15:30:44] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city2_v4_finalb.bsp
+[15:30:44] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city2_v4_finalb.bsp
+[15:31:30] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_junk/trafficcone001a.mdl
+[15:31:51] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_junk/trafficcone001a.mdl
+[15:34:21] Dropped "Frank Jackson" from server<STEAM_0:0:69154315>
+[15:36:59] CCA.C17-UNION.i1.51023: /doorsettitle "Power Station"
+[15:36:59] CCA.C17-UNION.i1.51023: /doorsethidden false
+[15:37:08] CCA.C17-UNION.i1.51023: /doorsettitle "Power Station B"
+[15:37:18] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned sent ix_combinelock
+[15:42:00] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_canal/generator01.mdl
+[15:42:01] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_canal/generator02.mdl
+[15:42:20] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_canal/generator02.mdl
+[15:43:46] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_canal/generator02.mdl
+[15:43:50] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on models/props_canal/generator02.mdl
+[15:44:29] CCA.C17-UNION.i1.51023: /doorsettitle Power Station A
+[15:44:30] CCA.C17-UNION.i1.51023: /doorsethidden false
+[15:56:14] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned ragdoll models/props_combine/combine_door01.mdl
+[15:56:23] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned ragdoll models/props_combine/combine_door01.mdl
+[15:56:25] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned ragdoll models/props_combine/combine_door01.mdl
+[15:56:38] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned ragdoll models/props_combine/combine_door01.mdl
+[15:56:46] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool animprop on maps/rp_city2_v4_finalb.bsp
+[15:56:51] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool animprop on maps/rp_city2_v4_finalb.bsp
+[15:56:53] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool animprop on maps/rp_city2_v4_finalb.bsp
+[15:56:57] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool animprop on maps/rp_city2_v4_finalb.bsp
+[15:57:01] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool animprop on maps/rp_city2_v4_finalb.bsp
+[15:57:03] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool animprop on maps/rp_city2_v4_finalb.bsp
+[15:57:04] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool animprop on maps/rp_city2_v4_finalb.bsp
+[15:57:30] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_combine/combine_barricade_med01a.mdl
+[15:58:13] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_combine/combine_window001.mdl
+[15:58:21] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_combine/combine_window001.mdl
+[15:59:13] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_combine/combinetrain01a.mdl
+[15:59:15] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_combine/combinetrain01a.mdl
+[15:59:54] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_combine/combine_citadel001.mdl
+[16:01:06] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_combine/combine_barricade_med01a.mdl
+[16:01:08] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_combine/combine_barricade_med01a.mdl
+[16:01:41] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool stacker_improved on models/props_combine/combine_barricade_med01a.mdl
+[16:01:41] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_combine/combine_barricade_med01a.mdl
+[16:01:49] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool stacker_improved on models/props_combine/combine_barricade_med01a.mdl
+[16:01:49] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_combine/combine_barricade_med01a.mdl
+[16:01:56] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool stacker_improved on models/props_combine/combine_barricade_med01a.mdl
+[16:01:56] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_combine/combine_barricade_med01a.mdl
+[16:02:03] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool stacker_improved on models/props_combine/combine_barricade_med01a.mdl
+[16:02:03] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_combine/combine_barricade_med01a.mdl
+[16:02:17] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool stacker_improved on models/props_combine/combine_barricade_med01a.mdl
+[16:02:17] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_combine/combine_barricade_med01a.mdl
+[16:02:30] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_combine/combine_barricade_med01b.mdl
+[16:02:33] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_combine/combine_barricade_med02a.mdl
+[16:02:38] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool stacker_improved on models/props_combine/combine_barricade_med02a.mdl
+[16:02:38] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_combine/combine_barricade_med02a.mdl
+[16:02:42] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_combine/combine_barricade_med02a.mdl
+[16:02:44] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_combine/combine_barricade_med02a.mdl
+[16:02:59] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_combine/combine_barricade_tall01a.mdl
+[16:03:03] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_combine/combine_barricade_tall01a.mdl
+[16:03:26] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool stacker_improved on models/props_combine/combine_barricade_tall01a.mdl
+[16:03:26] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_combine/combine_barricade_tall01a.mdl
+[16:03:31] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool stacker_improved on models/props_combine/combine_barricade_tall01a.mdl
+[16:03:31] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_combine/combine_barricade_tall01a.mdl
+[16:03:37] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool stacker_improved on models/props_combine/combine_barricade_tall01a.mdl
+[16:03:37] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_combine/combine_barricade_tall01a.mdl
+[16:03:53] CCA.C17-UNION.i1.51023: /me would proceed to tie the individual. Would they resist?
+[16:04:18] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool stacker_improved on models/props_combine/combine_barricade_tall01a.mdl
+[16:04:18] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_combine/combine_barricade_tall01a.mdl
+[16:04:26] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool stacker_improved on models/props_combine/combine_barricade_tall01a.mdl
+[16:04:26] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_combine/combine_barricade_tall01a.mdl
+[16:04:27] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool stacker_improved on models/props_combine/combine_barricade_tall01a.mdl
+[16:04:27] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_combine/combine_barricade_tall01a.mdl
+[16:04:43] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool stacker_improved on models/props_combine/combine_barricade_tall01a.mdl
+[16:04:43] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_combine/combine_barricade_tall01a.mdl
+[16:04:44] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool stacker_improved on models/props_combine/combine_barricade_tall01a.mdl
+[16:04:44] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_combine/combine_barricade_tall01a.mdl
+[16:04:53] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool precision on models/props_combine/combine_barricade_tall01a.mdl
+[16:04:54] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool precision on models/props_combine/combine_barricade_tall01a.mdl
+[16:05:00] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool stacker_improved on models/props_combine/combine_barricade_tall01a.mdl
+[16:05:00] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_combine/combine_barricade_tall01a.mdl
+[16:05:00] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool stacker_improved on models/props_combine/combine_barricade_tall01a.mdl
+[16:05:00] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_combine/combine_barricade_tall01a.mdl
+[16:05:12] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/combine_barricade_tall01a.mdl
+[16:05:12] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/combine_barricade_tall01a.mdl
+[16:05:19] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/combine_barricade_tall01a.mdl
+[16:05:19] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/combine_barricade_tall01a.mdl
+[16:05:19] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/combine_barricade_tall01a.mdl
+[16:05:20] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/combine_barricade_tall01a.mdl
+[16:05:43] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_combine/combine_bridge_b.mdl
+[16:09:16] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on models/props_interiors/corkboardverticle01.mdl
+[16:09:17] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on models/props_office/file_cabinet_03.mdl
+[16:09:18] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on models/props_office/file_cabinet_03.mdl
+[16:09:18] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on models/props_office/file_cabinet_03.mdl
+[16:09:18] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city2_v4_finalb.bsp
+[16:09:19] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on models/props_lab/partsbin01.mdl
+[16:09:20] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on models/props_interiors/furniture_couch02a.mdl
+[16:09:20] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on models/props_interiors/furniture_couch02a.mdl
+[16:09:23] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on models/props_interiors/shelvinggrocery01.mdl
+[16:09:24] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on models/props_interiors/shelvinggrocery01.mdl
+[16:09:24] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on models/props_interiors/shelvingstore01.mdl
+[16:09:24] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on models/props_interiors/shelvingstore01.mdl
+[16:09:26] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on models/props_interiors/cashregister01.mdl
+[16:09:26] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city2_v4_finalb.bsp
+[16:09:27] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on models/props_wasteland/kitchen_shelf001a.mdl
+[16:09:27] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city2_v4_finalb.bsp
+[16:09:28] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city2_v4_finalb.bsp
+[16:09:34] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city2_v4_finalb.bsp
+[16:14:41] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool creator on maps/rp_city2_v4_finalb.bsp
+[16:14:41] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned sent ix_forcefield
+[16:15:30] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool creator on maps/rp_city2_v4_finalb.bsp
+[16:15:30] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned sent ix_forcefield
+[16:15:31] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool creator on maps/rp_city2_v4_finalb.bsp
+[16:15:31] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned sent ix_forcefield
+[16:15:33] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool creator on maps/rp_city2_v4_finalb.bsp
+[16:15:33] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned sent ix_forcefield
+[16:15:34] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool creator on maps/rp_city2_v4_finalb.bsp
+[16:15:34] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned sent ix_forcefield
+[16:15:35] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool creator on maps/rp_city2_v4_finalb.bsp
+[16:15:35] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned sent ix_forcefield
+[16:15:36] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool creator on maps/rp_city2_v4_finalb.bsp
+[16:15:36] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned sent ix_forcefield
+[16:15:37] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool creator on maps/rp_city2_v4_finalb.bsp
+[16:15:37] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned sent ix_forcefield
+[16:15:40] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool creator on maps/rp_city2_v4_finalb.bsp
+[16:15:40] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned sent ix_forcefield
+[16:15:41] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool creator on maps/rp_city2_v4_finalb.bsp
+[16:15:41] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned sent ix_forcefield
+[16:15:42] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool creator on maps/rp_city2_v4_finalb.bsp
+[16:15:42] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned sent ix_forcefield
+[16:15:44] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool creator on maps/rp_city2_v4_finalb.bsp
+[16:15:44] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned sent ix_forcefield
+[16:16:39] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool creator on maps/rp_city2_v4_finalb.bsp
+[16:16:39] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned sent ix_forcefield
+[16:16:40] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool creator on maps/rp_city2_v4_finalb.bsp
+[16:16:40] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned sent ix_forcefield
+[16:16:41] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool creator on maps/rp_city2_v4_finalb.bsp
+[16:16:41] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned sent ix_forcefield
+[16:16:44] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool creator on maps/rp_city2_v4_finalb.bsp
+[16:16:44] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned sent ix_forcefield
+[16:16:45] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool creator on maps/rp_city2_v4_finalb.bsp
+[16:16:45] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned sent ix_forcefield
+[16:16:46] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool creator on maps/rp_city2_v4_finalb.bsp
+[16:16:46] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned sent ix_forcefield
+[16:16:47] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool creator on maps/rp_city2_v4_finalb.bsp
+[16:16:47] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned sent ix_forcefield
+[16:16:48] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool creator on maps/rp_city2_v4_finalb.bsp
+[16:16:48] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned sent ix_forcefield
+[16:16:49] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool creator on maps/rp_city2_v4_finalb.bsp
+[16:16:49] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned sent ix_forcefield
+[16:22:58] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool creator on models/props_vtmb/armchair.mdl
+[16:22:58] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned sent ix_forcefield
+[16:23:06] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on models/props_vtmb/armchair.mdl
+[16:23:07] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on models/props_wasteland/prison_heater001a.mdl
+[16:23:07] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on models/props_furniture/picture_frame8.mdl
+[16:23:10] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on models/props_interiors/trashcankitchen01.mdl
+[16:23:15] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on models/props_vtmb/armchair.mdl
+[16:23:16] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on models/props_trainstation/trainstation_clock001.mdl
+[16:23:17] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on *22
+[16:24:47] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city2_v4_finalb.bsp
+[16:24:48] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city2_v4_finalb.bsp
+[16:25:58] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned sent ix_forcefield
+[16:25:59] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city2_v4_finalb.bsp
+[16:26:01] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool creator on maps/rp_city2_v4_finalb.bsp
+[16:26:01] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned sent ix_forcefield
+[16:26:01] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool creator on maps/rp_city2_v4_finalb.bsp
+[16:26:01] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned sent ix_forcefield
+[16:26:02] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool creator on maps/rp_city2_v4_finalb.bsp
+[16:26:02] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned sent ix_forcefield
+[16:26:03] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool creator on maps/rp_city2_v4_finalb.bsp
+[16:26:03] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned sent ix_forcefield
+[16:26:25] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool remover on models/props_combine/combine_fence01b.mdl
+[16:27:21] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned sent ix_forcefield
+[16:27:24] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool creator on maps/rp_city2_v4_finalb.bsp
+[16:27:24] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned sent ix_forcefield
+[16:27:25] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool creator on maps/rp_city2_v4_finalb.bsp
+[16:27:25] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned sent ix_forcefield
+[16:27:26] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool creator on maps/rp_city2_v4_finalb.bsp
+[16:27:26] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned sent ix_forcefield
+[16:27:27] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool creator on maps/rp_city2_v4_finalb.bsp
+[16:27:27] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned sent ix_forcefield
+[16:27:27] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool creator on maps/rp_city2_v4_finalb.bsp
+[16:27:27] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned sent ix_forcefield
+[16:27:28] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool creator on maps/rp_city2_v4_finalb.bsp
+[16:27:28] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned sent ix_forcefield
+[16:27:29] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool creator on maps/rp_city2_v4_finalb.bsp
+[16:27:29] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned sent ix_forcefield
+[16:28:31] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool creator on maps/rp_city2_v4_finalb.bsp
+[16:28:31] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned sent ix_forcefield
+[16:28:32] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool creator on maps/rp_city2_v4_finalb.bsp
+[16:28:32] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned sent ix_forcefield
+[16:28:33] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool creator on maps/rp_city2_v4_finalb.bsp
+[16:28:33] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned sent ix_forcefield
+[16:28:34] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool creator on maps/rp_city2_v4_finalb.bsp
+[16:28:34] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned sent ix_forcefield
+[16:28:34] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool creator on maps/rp_city2_v4_finalb.bsp
+[16:28:34] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned sent ix_forcefield
+[16:28:35] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool creator on maps/rp_city2_v4_finalb.bsp
+[16:28:35] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned sent ix_forcefield
+[16:28:37] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool creator on maps/rp_city2_v4_finalb.bsp
+[16:28:37] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned sent ix_forcefield
+[16:28:39] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool creator on maps/rp_city2_v4_finalb.bsp
+[16:28:39] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned sent ix_forcefield
+[16:28:42] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool creator on maps/rp_city2_v4_finalb.bsp
+[16:28:42] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned sent ix_forcefield
+[16:28:44] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool creator on maps/rp_city2_v4_finalb.bsp
+[16:28:44] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned sent ix_forcefield
+[16:28:45] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool creator on maps/rp_city2_v4_finalb.bsp
+[16:28:45] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned sent ix_forcefield
+[16:28:51] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool creator on maps/rp_city2_v4_finalb.bsp
+[16:28:51] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned sent ix_forcefield
+[16:28:53] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool creator on maps/rp_city2_v4_finalb.bsp
+[16:28:53] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned sent ix_forcefield
+[16:28:56] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool creator on maps/rp_city2_v4_finalb.bsp
+[16:28:56] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned sent ix_forcefield
+[16:29:07] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool creator on maps/rp_city2_v4_finalb.bsp
+[16:29:07] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned sent ix_forcefield
+[16:29:08] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool creator on maps/rp_city2_v4_finalb.bsp
+[16:29:08] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned sent ix_forcefield
+[16:30:25] CCA.C17-UNION.i1.51023: /doorsettitle Evidence Locker
+[16:30:25] CCA.C17-UNION.i1.51023: /doorsethidden false
+[16:30:27] CCA.C17-UNION.i1.51023: /doorsethidden false
+[16:30:31] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned sent ix_combinelock
+[16:30:35] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned sent ix_combinelock
+[16:31:21] CCA.C17-UNION.i1.51023: /toggleraise
+[16:32:42] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool creator on maps/rp_city2_v4_finalb.bsp
+[16:32:45] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city2_v4_finalb.bsp
+[16:33:37] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city2_v4_finalb.bsp
+[16:34:04] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city2_v4_finalb.bsp
+[16:34:27] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city2_v4_finalb.bsp
+[16:34:46] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_combine/combine_interface003.mdl
+[16:34:51] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_combine/combine_intmonitor001.mdl
+[16:34:59] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/combine_interface003.mdl
+[16:34:59] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/combine_intmonitor001.mdl
+[16:35:38] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_combine/combinecamera001.mdl
+[16:35:41] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_combine/combinebutton.mdl
+[16:35:48] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned ragdoll models/props_combine/eli_pod.mdl
+[16:36:21] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned effect models/props_combine/combine_dispenser.mdl
+[16:36:28] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_combine/combine_bunker01.mdl
+[16:36:37] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_combine/combine_fence01a.mdl
+[16:36:38] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_combine/combine_bunker01.mdl
+[16:36:51] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_combine/combine_binocular01.mdl
+[16:36:53] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned effect models/props_combine/breentp_rings.mdl
+[16:37:47] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_combine/combine_window001.mdl
+[16:37:48] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_combine/combine_mine01.mdl
+[16:38:19] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_combine/introomarea.mdl
+[16:38:25] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_combine/introomarea.mdl
+[16:38:30] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_combine/introomarea.mdl
+[16:38:43] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_combine/railing_corner_outside.mdl
+[16:38:52] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_combine/eli_pod_inner.mdl
+[16:39:24] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_combine/pipes01_single02c.mdl
+[16:39:32] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_combine/combineinnerwallcluster1024_003a.mdl
+[16:39:33] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_combine/combineinnerwallcluster1024_001a.mdl
+[16:39:36] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_combine/combine_lock01.mdl
+[16:40:14] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned effect models/props_combine/combine_teleportplatform.mdl
+[16:40:22] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_combine/combine_train02a.mdl
+[16:40:23] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned effect models/props_combine/combine_teleportplatform.mdl
+[16:40:25] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned effect models/props_combine/combine_teleportplatform.mdl
+[16:40:52] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_combine/bunker_gun01.mdl
+[16:40:53] Crapaud: // 23 hours!
+[16:41:10] CCA.C17-UNION.i1.51023: //check out my carrt
+[16:41:31] Crapaud: // EXPLAIN
+[16:41:39] CCA.C17-UNION.i1.51023: //explain what
+[16:41:42] Crapaud: // HOW 
+[16:41:45] Crapaud: // WHAT IS THIS
+[16:41:57] CCA.C17-UNION.i1.51023: //it's a ragdoll
+[16:42:01] Crapaud: // cool!
+[16:42:30] CCA.C17-UNION.i1.51023: //it's permaproppedtoo
+[16:42:31] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city2_v4_finalb.bsp
+[16:43:10] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_combine/combine_intmonitor003.mdl
+[16:43:18] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_combine/combine_intwallunit.mdl
+[16:43:25] CCA.C17-UNION.i1.51023: /toggleraise
+[16:43:33] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city2_v4_finalb.bsp
+[16:43:40] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city2_v4_finalb.bsp
+[16:43:45] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_combine/combine_intmonitor001.mdl
+[16:44:07] CCA.C17-UNION.i1.51023 was killed by prop_physics
+[16:44:59] CCA.C17-UNION.i1.51023: /mapentremove
+[16:45:03] CCA.C17-UNION.i1.51023: /mapentremove
+[16:45:08] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_filecabinet002a.mdl
+[16:45:10] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_storagecloset001a.mdl
+[16:45:14] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_storagecloset001b.mdl
+[16:45:42] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city2_v4_finalb.bsp
+[16:45:45] Crapaud: // MEAN
+[16:45:52] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned/gave himself swep weapon_physcannon
+[16:45:52] CCA.C17-UNION.i1.51023: /toggleraise
+[16:46:29] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city2_v4_finalb.bsp
+[16:47:15] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned/gave himself swep weapon_rpg
+[16:47:15] CCA.C17-UNION.i1.51023: /toggleraise
+[16:47:23] CCA.C17-UNION.i1.51023 extinguished all 3 fires.
+[16:47:23] CCA.C17-UNION.i1.51023: !vextinguishall
+[16:48:34] CCA.C17-UNION.i1.51023: //feels like where hitler would give a speech
+[16:49:18] CCA.C17-UNION.i1.51023: //my propping skills are gone
+[16:49:19] CCA.C17-UNION.i1.51023: /toggleraise
+[16:49:20] CCA.C17-UNION.i1.51023: /toggleraise
+[16:49:24] CCA.C17-UNION.i1.51023 set the hp for Themself to 100
+[16:49:24] CCA.C17-UNION.i1.51023: !hp ^ 100
+[16:50:32] CCA.C17-UNION.i1.51023: /doorsettitle OTA Deployment
+[16:51:20] CCA.C17-UNION.i1.51023: //hmm
+[16:51:21] CCA.C17-UNION.i1.51023: //what to rpop
+[16:51:23] CCA.C17-UNION.i1.51023: //and how
+[16:51:42] Crapaud: // is there space for barracks
+[16:51:50] CCA.C17-UNION.i1.51023: //we'd have to take another buildin
+[16:54:26] Crapaud: // UH Q
+[16:54:28] Crapaud: // caps
+[16:54:32] Crapaud: // are these doors broke for uyou
+[16:54:38] CCA.C17-UNION.i1.51023: //yes it needs a restart
+[16:54:41] CCA.C17-UNION.i1.51023: //i accidentally physgunned it
+[17:13:41] CCA.C17-UNION.i1.51023: /pm echo DRINK
+[17:13:42] CCA.C17-UNION.i1.51023: //yo
+[17:21:27] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool animprop on maps/rp_city2_v4_finalb.bsp
+[17:23:12] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool animprop on maps/rp_city2_v4_finalb.bsp
+[17:23:15] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool animprop on maps/rp_city2_v4_finalb.bsp
+[17:23:16] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool animprop on maps/rp_city2_v4_finalb.bsp
+[17:23:21] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool animprop on maps/rp_city2_v4_finalb.bsp
+[17:23:24] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool animprop on maps/rp_city2_v4_finalb.bsp
+[17:23:25] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool animprop on maps/rp_city2_v4_finalb.bsp
+[17:23:27] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on models/combine_guard.mdl
+[17:52:20] Client "FB|| light ROOM" connected.
+[17:54:21] Client "FB|| light ROOM" spawned in server <STEAM_0:1:17219621> (took 121 seconds).
+[17:55:59] FB|| light ROOM<STEAM_0:1:17219621> changed their name to CPT Mitchell 'Lazzy' Lazarus
+[17:56:07] CPT Mitchell 'Lazzy' Lazarus: // Cock
+[18:07:26] Crapaud: // 24 hours!~
+[18:07:29] Crapaud: // :)
+[18:10:37] CPT Mitchell 'Lazzy' Lazarus: // DRD has actually been on the server for 24 hours lmao
+[18:10:56] Crapaud<STEAM_0:0:193599766> spawned/gave himself swep tfa_heavyshotgun
+[18:10:58] Crapaud: /toggleraise
+[18:12:28] CPT Mitchell 'Lazzy' Lazarus: // Fucking rude
+[18:19:48] Dropped "CPT Mitchell 'Lazzy' Lazarus" from server<STEAM_0:1:17219621>
+[18:39:25] Crapaud<STEAM_0:0:193599766> used the tool ledscreen on maps/rp_city2_v4_finalb.bsp
+[18:39:27] Crapaud<STEAM_0:0:193599766> used the tool ledscreen on maps/rp_city2_v4_finalb.bsp
+[18:39:38] Crapaud<STEAM_0:0:193599766> used the tool ignite on maps/rp_city2_v4_finalb.bsp
+[18:39:41] Crapaud<STEAM_0:0:193599766> spawned model models/gibs/wood_gib01d.mdl
+[18:39:41] Crapaud<STEAM_0:0:193599766> used the tool ignite on models/gibs/wood_gib01d.mdl
+[18:39:44] Crapaud<STEAM_0:0:193599766> used the tool ignite on maps/rp_city2_v4_finalb.bsp
+[18:40:01] Crapaud: !VEXTENGUISH ALL
+[18:40:13] Crapaud extinguished all 1 fires.
+[18:40:26] Crapaud<STEAM_0:0:193599766> spawned model models/props_c17/furniturewashingmachine001a.mdl
+[18:40:28] Crapaud<STEAM_0:0:193599766> spawned model models/gibs/wood_gib01c.mdl
+[18:40:29] Crapaud<STEAM_0:0:193599766> used the tool ignite on models/gibs/wood_gib01c.mdl
+[18:40:32] Crapaud extinguished all 2 fires.
+[20:15:32] Dropped "CCA.C17-UNION.i1.51023" from server<STEAM_0:1:53097688>
+[20:17:31] Crapaud was killed by trigger_hurt
+[21:55:37] Dropped "Crapaud" from server<STEAM_0:0:193599766>
+
+
+
+[22:03:54] New map: rp_city2_v4_finalb

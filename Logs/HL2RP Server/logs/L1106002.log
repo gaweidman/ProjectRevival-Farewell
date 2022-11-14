@@ -1,0 +1,2687 @@
+L 11/06/2022 - 01:49:02: Log file started (file "logs\L1106002.log") (game "c:\servers\revivalhl2rp\garrysmod") (version "8607")
+L 11/06/2022 - 01:49:03: Lua Error: [Helix] Attempt to index unknown item 'emptywatercan'
+
+L 11/06/2022 - 01:49:03: Lua Error: [Helix] Attempt to index unknown item 'emptywatercan'
+
+L 11/06/2022 - 01:49:03: Lua Error: [Helix] Attempt to index unknown item 'emptywatercan'
+
+L 11/06/2022 - 01:49:03: Lua Error: [Helix] Attempt to index unknown item 'emptywatercan'
+
+L 11/06/2022 - 01:49:03: Lua Error: [Helix] Attempt to index unknown item 'applejuice'
+
+L 11/06/2022 - 01:49:03: Lua Error: [Helix] Attempt to index unknown item 'applejuice'
+
+L 11/06/2022 - 01:49:03: Lua Error: [Helix] Attempt to index unknown item 'chickenwrap'
+
+L 11/06/2022 - 01:49:06: Lua Error: [Helix] hook.SafeRun error for schema hook "LoadData":
+	gamemodes/ixhl2rp/schema/sv_hooks.lua:47: attempt to index global 'lacedEnt' (a nil value)
+stack traceback:
+	gamemodes/helix/gamemode/core/libs/sh_plugin.lua:414: in function 'SafeRun'
+	gamemodes/helix/gamemode/core/libs/sh_plugin.lua:314: in function 'RunLoadData'
+	gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:953: in function 'Run'
+	gamemodes/helix/gamemode/core/libs/thirdparty/sv_mysql.lua:633: in function 'OnConnected'
+	gamemodes/helix/gamemode/core/libs/thirdparty/sv_mysql.lua:535: in function <gamemodes/helix/gamemode/core/libs/thirdparty/sv_mysql.lua:534>
+
+L 11/06/2022 - 01:49:06: Connection to Steam servers successful.
+L 11/06/2022 - 01:49:06:    Public IP is 192.223.26.159.
+L 11/06/2022 - 01:49:06: Assigned persistent gameserver Steam ID [G-1:3334754].
+L 11/06/2022 - 01:49:06: VAC secure mode is activated.
+L 11/06/2022 - 07:10:16: "Weaponized Turtles<2><STEAM_0:0:69165544><>" connected, address "73.17.224.161:27005"
+L 11/06/2022 - 07:10:17: "Weaponized Turtles<2><STEAM_0:0:69165544><>" STEAM USERID validated
+L 11/06/2022 - 07:10:23: Lua Error: 
+[lfs_ground_vehicle_base] gamemodes/ixhl2rp/entities/entities/ix_stove.lua:25: attempt to index global 'trace' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/entities/entities/ix_stove.lua:25
+   2. Spawn - [C]:-1
+    3. PPEntityFromTable - addons/lfs_ground_vehicle_base/lua/permaprops/sv_lib.lua:120
+     4. ReloadPermaProps - addons/lfs_ground_vehicle_base/lua/permaprops/sv_lib.lua:233
+      5. unknown - addons/lfs_ground_vehicle_base/lua/permaprops/sv_lib.lua:241
+
+
+L 11/06/2022 - 07:10:23: Lua Error: 
+[lfs_ground_vehicle_base] gamemodes/ixhl2rp/entities/entities/ix_stove.lua:25: attempt to index global 'trace' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/entities/entities/ix_stove.lua:25
+   2. Spawn - [C]:-1
+    3. PPEntityFromTable - addons/lfs_ground_vehicle_base/lua/permaprops/sv_lib.lua:120
+     4. ReloadPermaProps - addons/lfs_ground_vehicle_base/lua/permaprops/sv_lib.lua:233
+      5. unknown - addons/lfs_ground_vehicle_base/lua/permaprops/sv_lib.lua:241
+
+
+L 11/06/2022 - 07:11:46: "Weaponized Turtles<2><STEAM_0:0:69165544><>" entered the game
+L 11/06/2022 - 07:11:46: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/06/2022 - 07:15:34: "Weaponized Turtles<2><STEAM_0:0:69165544><>" disconnected (reason "Disconnect by user.")
+L 11/06/2022 - 09:53:59: "Enclave<3><STEAM_0:0:34463192><>" connected, address "75.248.18.54:27005"
+L 11/06/2022 - 09:53:59: "Enclave<3><STEAM_0:0:34463192><>" STEAM USERID validated
+L 11/06/2022 - 09:57:29: "Enclave<3><STEAM_0:0:34463192><>" entered the game
+L 11/06/2022 - 09:57:29: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/06/2022 - 09:59:36: "Lynch<4><STEAM_0:1:626926779><>" connected, address "78.61.145.227:27005"
+L 11/06/2022 - 09:59:36: "Lynch<4><STEAM_0:1:626926779><>" STEAM USERID validated
+L 11/06/2022 - 10:01:45: "Lynch<4><STEAM_0:1:626926779><>" entered the game
+L 11/06/2022 - 10:01:46: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/06/2022 - 10:02:15: [ULX] CAC.C17-VORTIPODE.34071<STEAM_0:0:34463192> spawned/gave himself swep weapon_vortswep
+L 11/06/2022 - 10:06:52: "Weaponized Turtles<5><STEAM_0:0:69165544><>" connected, address "73.17.224.161:27005"
+L 11/06/2022 - 10:06:52: "Weaponized Turtles<5><STEAM_0:0:69165544><>" STEAM USERID validated
+L 11/06/2022 - 10:07:16: "ISpilledMyRamen<6><STEAM_0:0:426186854><>" connected, address "47.25.36.24:27005"
+L 11/06/2022 - 10:07:16: "ISpilledMyRamen<6><STEAM_0:0:426186854><>" STEAM USERID validated
+L 11/06/2022 - 10:07:34: "ISpilledMyRamen<6><STEAM_0:0:426186854><>" disconnected (reason "Disconnect by user.")
+L 11/06/2022 - 10:08:28: "Weaponized Turtles<5><STEAM_0:0:69165544><>" entered the game
+L 11/06/2022 - 10:08:28: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/06/2022 - 10:19:02: "Bean<7><STEAM_0:1:591779303><>" connected, address "24.67.80.36:27005"
+L 11/06/2022 - 10:19:02: "Bean<7><STEAM_0:1:591779303><>" STEAM USERID validated
+L 11/06/2022 - 10:20:35: "Bean<7><STEAM_0:1:591779303><>" entered the game
+L 11/06/2022 - 10:20:36: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/06/2022 - 10:24:12: "ISpilledMyRamen<8><STEAM_0:0:426186854><>" connected, address "47.25.36.24:27005"
+L 11/06/2022 - 10:24:12: "ISpilledMyRamen<8><STEAM_0:0:426186854><>" STEAM USERID validated
+L 11/06/2022 - 10:24:29: "ISpilledMyRamen<8><STEAM_0:0:426186854><>" disconnected (reason "Disconnect by user.")
+L 11/06/2022 - 10:27:26: "agentgollem<9><STEAM_0:0:236606906><>" connected, address "82.64.216.136:27005"
+L 11/06/2022 - 10:27:27: "agentgollem<9><STEAM_0:0:236606906><>" STEAM USERID validated
+L 11/06/2022 - 10:28:50: "agentgollem<9><STEAM_0:0:236606906><>" entered the game
+L 11/06/2022 - 10:28:50: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/06/2022 - 10:29:04: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/schema/sv_hooks.lua:993: attempt to index a nil value
+  1. unknown - gamemodes/ixhl2rp/schema/sv_hooks.lua:993
+   2. Run - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:354
+    3. Send - gamemodes/helix/gamemode/core/libs/sh_chatbox.lua:344
+     4. OnRun - gamemodes/ixhl2rp/schema/sh_commands.lua:254
+      5. Run - gamemodes/helix/gamemode/core/libs/sh_command.lua:499
+       6. Parse - gamemodes/helix/gamemode/core/libs/sh_command.lua:561
+        7. Run - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:324
+         8. func - gamemodes/ixhl2rp/plugins/chatbox/sh_plugin.lua:235
+          9. unknown - lua/includes/extensions/net.lua:33
+
+
+L 11/06/2022 - 10:33:19: [ULX] CCA.C17-UNION.i5.83253<STEAM_0:1:591779303> spawned NPC npc_zombie
+L 11/06/2022 - 10:33:21: [ULX] CCA.C17-UNION.i5.83253<STEAM_0:1:591779303> spawned NPC npc_zombie
+L 11/06/2022 - 10:33:24: [ULX] CCA.C17-UNION.i5.83253<STEAM_0:1:591779303> spawned NPC npc_zombie_torso
+L 11/06/2022 - 10:36:22: [ULX] CCA.C17-UNION.i5.83253<STEAM_0:1:591779303> spawned ragdoll models/zombie/classic.mdl
+L 11/06/2022 - 10:36:23: [ULX] CCA.C17-UNION.i5.83253<STEAM_0:1:591779303> spawned ragdoll models/zombie/classic.mdl
+L 11/06/2022 - 10:49:15: "wendigo<10><STEAM_0:1:429480781><>" connected, address "107.128.116.69:27005"
+L 11/06/2022 - 10:49:16: "wendigo<10><STEAM_0:1:429480781><>" STEAM USERID validated
+L 11/06/2022 - 10:51:42: "wendigo<10><STEAM_0:1:429480781><>" entered the game
+L 11/06/2022 - 10:51:42: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/06/2022 - 10:54:09: "Painevan<11><STEAM_0:0:68118061><>" connected, address "73.198.140.198:27005"
+L 11/06/2022 - 10:54:09: "Painevan<11><STEAM_0:0:68118061><>" STEAM USERID validated
+L 11/06/2022 - 10:55:46: "wendigo<10><STEAM_0:1:429480781><>" disconnected (reason "Disconnect by user.")
+L 11/06/2022 - 10:58:09: "Painevan<11><STEAM_0:0:68118061><>" entered the game
+L 11/06/2022 - 10:58:09: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/06/2022 - 11:02:03: [ULX] CCA.C17-UNION.i5.83253<STEAM_0:1:591779303> spawned model models/props_junk/metalbucket01a.mdl
+L 11/06/2022 - 11:04:45: [ULX] CCA.C17-UNION.i5.83253<STEAM_0:1:591779303> spawned NPC npc_zombie
+L 11/06/2022 - 11:05:36: [ULX] CCA.C17-UNION.i5.83253<STEAM_0:1:591779303> spawned model models/props_c17/lampshade001a.mdl
+L 11/06/2022 - 11:05:45: [ULX] CCA.C17-UNION.i5.83253<STEAM_0:1:591779303> spawned model models/props_interiors/radiator01a.mdl
+L 11/06/2022 - 11:05:52: [ULX] CCA.C17-UNION.i5.83253<STEAM_0:1:591779303> spawned model models/props_combine/breenglobe.mdl
+L 11/06/2022 - 11:06:18: [ULX] CCA.C17-UNION.i5.83253<STEAM_0:1:591779303> spawned model models/props_junk/metalbucket01a.mdl
+L 11/06/2022 - 11:06:29: [ULX] Jonathan Jackson<STEAM_0:0:68118061> spawned model models/props_c17/gate_door02a.mdl
+L 11/06/2022 - 11:06:31: [ULX] Jonathan Jackson<STEAM_0:0:68118061> spawned model models/props_c17/lockers001a.mdl
+L 11/06/2022 - 11:06:34: [ULX] Jonathan Jackson<STEAM_0:0:68118061> spawned model models/combine_helicopter/helicopter_bomb01.mdl
+L 11/06/2022 - 11:06:36: [ULX] Jonathan Jackson<STEAM_0:0:68118061> spawned model models/combine_helicopter/helicopter_bomb01.mdl
+L 11/06/2022 - 11:06:37: [ULX] Jonathan Jackson<STEAM_0:0:68118061> spawned model models/combine_helicopter/helicopter_bomb01.mdl
+L 11/06/2022 - 11:24:43: "agentgollem<9><STEAM_0:0:236606906><>" disconnected (reason "Disconnect by user.")
+L 11/06/2022 - 11:26:41: "Lildirtyharry04<12><STEAM_0:0:247487472><>" connected, address "152.37.143.67:27005"
+L 11/06/2022 - 11:26:41: "Lildirtyharry04<12><STEAM_0:0:247487472><>" STEAM USERID validated
+L 11/06/2022 - 11:28:27: "Lildirtyharry04<12><STEAM_0:0:247487472><>" entered the game
+L 11/06/2022 - 11:28:28: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/06/2022 - 11:30:48: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/06/2022 - 11:30:48: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/06/2022 - 11:30:48: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/06/2022 - 11:30:48: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/06/2022 - 11:30:48: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/06/2022 - 11:30:52: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/06/2022 - 11:30:52: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/06/2022 - 11:30:52: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/06/2022 - 11:30:52: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/06/2022 - 11:30:52: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/06/2022 - 11:30:52: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/06/2022 - 11:30:52: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/06/2022 - 11:30:52: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/06/2022 - 11:30:52: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/06/2022 - 11:30:52: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/06/2022 - 11:30:52: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/06/2022 - 11:30:52: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/06/2022 - 11:30:52: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/06/2022 - 11:30:52: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/06/2022 - 11:30:52: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/06/2022 - 11:30:52: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/06/2022 - 11:30:52: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/06/2022 - 11:30:52: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/06/2022 - 11:30:52: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/06/2022 - 11:30:52: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/06/2022 - 11:30:52: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/06/2022 - 11:30:52: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/06/2022 - 11:30:52: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/06/2022 - 11:30:52: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/06/2022 - 11:30:52: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/06/2022 - 11:30:52: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/06/2022 - 11:30:52: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/06/2022 - 11:30:52: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/06/2022 - 11:30:52: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/06/2022 - 11:30:53: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/06/2022 - 11:30:53: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/06/2022 - 11:30:53: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/06/2022 - 11:30:53: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/06/2022 - 11:30:53: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/06/2022 - 11:30:53: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/06/2022 - 11:30:53: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/06/2022 - 11:30:53: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/06/2022 - 11:30:53: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/06/2022 - 11:30:53: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/06/2022 - 11:30:53: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/06/2022 - 11:30:53: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/06/2022 - 11:30:53: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/06/2022 - 11:30:53: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/06/2022 - 11:30:53: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/06/2022 - 11:30:53: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/06/2022 - 11:30:53: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/06/2022 - 11:30:53: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/06/2022 - 11:30:53: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/06/2022 - 11:30:53: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/06/2022 - 11:30:53: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/06/2022 - 11:30:53: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/06/2022 - 11:30:53: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/06/2022 - 11:30:53: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/06/2022 - 11:30:53: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/06/2022 - 11:30:53: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/06/2022 - 11:30:53: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/06/2022 - 11:30:53: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/06/2022 - 11:30:53: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/06/2022 - 11:30:53: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/06/2022 - 11:30:53: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/06/2022 - 11:30:53: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/06/2022 - 11:31:26: [ULX] Daniel J. Cutter<STEAM_0:1:591779303> spawned NPC npc_zombine
+L 11/06/2022 - 11:34:59: "Deimos<13><STEAM_0:0:198578270><>" connected, address "38.53.154.173:27005"
+L 11/06/2022 - 11:35:00: "Deimos<13><STEAM_0:0:198578270><>" STEAM USERID validated
+L 11/06/2022 - 11:37:35: rcon from "192.223.25.172:51230": command "logaddress_add 192.223.25.172:10000"
+L 11/06/2022 - 11:37:51: rcon from "192.223.25.172:51304": command "ulx who"
+L 11/06/2022 - 11:38:01: Lua Error: 
+[ERROR] gamemodes/helix/gamemode/core/libs/sh_option.lua:279: expected valid player for argument #1
+  1. assert - [C]:-1
+   2. Get - gamemodes/helix/gamemode/core/libs/sh_option.lua:279
+    3. L - gamemodes/helix/gamemode/core/libs/sh_language.lua:75
+     4. OnRun - gamemodes/helix/gamemode/core/sh_commands.lua:763
+      5. Run - gamemodes/helix/gamemode/core/libs/sh_command.lua:499
+       6. Parse - gamemodes/helix/gamemode/core/libs/sh_command.lua:561
+        7. unknown - gamemodes/helix/gamemode/core/libs/sh_command.lua:580
+         8. unknown - lua/includes/modules/concommand.lua:54
+
+
+L 11/06/2022 - 11:38:01: rcon from "192.223.25.172:51380": command "ix charsetclass vortipode slave"
+L 11/06/2022 - 11:38:15: Lua Error: 
+[ERROR] gamemodes/helix/gamemode/core/libs/sh_option.lua:279: expected valid player for argument #1
+  1. assert - [C]:-1
+   2. Get - gamemodes/helix/gamemode/core/libs/sh_option.lua:279
+    3. ArgumentCheckStub - gamemodes/helix/gamemode/core/libs/sh_language.lua:75
+     4. Run - gamemodes/helix/gamemode/core/libs/sh_command.lua:490
+      5. Parse - gamemodes/helix/gamemode/core/libs/sh_command.lua:561
+       6. unknown - gamemodes/helix/gamemode/core/libs/sh_command.lua:580
+        7. unknown - lua/includes/modules/concommand.lua:54
+
+
+L 11/06/2022 - 11:38:15: rcon from "192.223.25.172:52700": command "ix charsetclass 34071 slave"
+L 11/06/2022 - 11:38:37: Lua Error: 
+[ERROR] gamemodes/helix/gamemode/core/libs/sh_option.lua:279: expected valid player for argument #1
+  1. assert - [C]:-1
+   2. Get - gamemodes/helix/gamemode/core/libs/sh_option.lua:279
+    3. ArgumentCheckStub - gamemodes/helix/gamemode/core/libs/sh_language.lua:75
+     4. Run - gamemodes/helix/gamemode/core/libs/sh_command.lua:490
+      5. Parse - gamemodes/helix/gamemode/core/libs/sh_command.lua:561
+       6. unknown - gamemodes/helix/gamemode/core/libs/sh_command.lua:580
+        7. unknown - lua/includes/modules/concommand.lua:54
+
+
+L 11/06/2022 - 11:38:37: rcon from "192.223.25.172:53688": command "ix charsetclass CAC.C17-VORTIPODE.34071 slave"
+L 11/06/2022 - 11:38:47: "Console<0><Console><Console>" say "test"
+L 11/06/2022 - 11:38:47: rcon from "192.223.25.172:53902": command "say test"
+L 11/06/2022 - 11:38:52: Lua Error: 
+[ERROR] gamemodes/helix/gamemode/core/libs/sh_option.lua:279: expected valid player for argument #1
+  1. assert - [C]:-1
+   2. Get - gamemodes/helix/gamemode/core/libs/sh_option.lua:279
+    3. ArgumentCheckStub - gamemodes/helix/gamemode/core/libs/sh_language.lua:75
+     4. Run - gamemodes/helix/gamemode/core/libs/sh_command.lua:490
+      5. Parse - gamemodes/helix/gamemode/core/libs/sh_command.lua:561
+       6. unknown - gamemodes/helix/gamemode/core/libs/sh_command.lua:580
+        7. unknown - lua/includes/modules/concommand.lua:54
+
+
+L 11/06/2022 - 11:38:52: rcon from "192.223.25.172:53952": command "ix charsetclass CAC.C17-VORTIPODE.34071 slave"
+L 11/06/2022 - 11:39:04: rcon from "192.223.25.172:54446": command "ulx who"
+L 11/06/2022 - 11:39:18: [ULX] (Console) to admins: hey it's q. can you please run /charsetclass vortipode slave
+L 11/06/2022 - 11:39:18: rcon from "192.223.25.172:54928": command "ulx asay hey it's q. can you please run /charsetclass vortipode slave"
+L 11/06/2022 - 11:39:33: [ULX] (Console) to admins: i can't see what you say in this chat by the way
+L 11/06/2022 - 11:39:33: rcon from "192.223.25.172:55018": command "ulx asay i can't see what you say in this chat by the way"
+L 11/06/2022 - 11:45:09: "Deimos<13><STEAM_0:0:198578270><>" entered the game
+L 11/06/2022 - 11:45:09: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/06/2022 - 11:45:28: "Deimos<13><STEAM_0:0:198578270><>" disconnected (reason "Deimos timed out")
+L 11/06/2022 - 11:46:51: "Recker214<14><STEAM_0:0:591516586><>" connected, address "90.200.158.252:27005"
+L 11/06/2022 - 11:46:51: "Deimos<15><STEAM_0:0:198578270><>" connected, address "38.53.154.173:27005"
+L 11/06/2022 - 11:46:51: "Recker214<14><STEAM_0:0:591516586><>" STEAM USERID validated
+L 11/06/2022 - 11:46:51: "Deimos<15><STEAM_0:0:198578270><>" STEAM USERID validated
+L 11/06/2022 - 11:47:06: "Recker214<14><STEAM_0:0:591516586><>" disconnected (reason "Disconnect by user.")
+L 11/06/2022 - 11:48:27: "Deimos<15><STEAM_0:0:198578270><>" entered the game
+L 11/06/2022 - 11:48:27: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/06/2022 - 11:48:43: "Deimos<15><STEAM_0:0:198578270><>" disconnected (reason "Deimos timed out")
+L 11/06/2022 - 11:53:52: [ULX] Daniel J. Cutter<STEAM_0:1:591779303> spawned NPC monster_bullsquid
+L 11/06/2022 - 11:54:01: [ULX] Daniel J. Cutter<STEAM_0:1:591779303> spawned NPC npc_frostsquid
+L 11/06/2022 - 11:54:04: "vapemannen<16><STEAM_0:0:149070319><>" connected, address "188.151.214.214:27005"
+L 11/06/2022 - 11:54:05: "vapemannen<16><STEAM_0:0:149070319><>" STEAM USERID validated
+L 11/06/2022 - 11:54:11: [ULX] Daniel J. Cutter<STEAM_0:1:591779303> spawned NPC monster_bullsquid
+L 11/06/2022 - 11:55:13: "vapemannen<16><STEAM_0:0:149070319><>" disconnected (reason "Disconnect by user.")
+L 11/06/2022 - 11:55:59: [ULX] Daniel J. Cutter<STEAM_0:1:591779303> spawned NPC monster_bullsquid
+L 11/06/2022 - 11:56:11: [ULX] Daniel J. Cutter<STEAM_0:1:591779303> spawned NPC monster_bullsquid
+L 11/06/2022 - 11:56:13: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 11:56:13: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 11:56:13: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 11:56:13: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 11:56:13: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 11:56:13: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 11:56:13: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 11:56:13: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 11:56:13: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 11:56:13: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 11:56:13: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 11:56:13: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 11:56:13: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 11:56:13: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 11:56:13: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 11:56:13: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 11:56:13: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 11:56:13: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 11:56:13: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 11:56:14: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 11:56:14: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 11:56:14: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 11:56:14: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 11:56:14: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 11:56:14: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 11:56:14: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 11:56:14: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 11:56:14: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 11:56:14: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 11:56:14: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 11:56:14: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 11:56:15: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 11:56:15: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 11:56:15: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 11:56:15: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 11:56:15: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 11:56:15: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 11:56:15: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 11:56:15: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 11:56:15: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 11:56:15: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 11:56:15: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 11:56:15: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 11:56:15: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 11:56:15: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 11:56:15: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 11:56:15: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 11:56:15: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 11:56:15: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 11:56:25: [ULX] Daniel J. Cutter<STEAM_0:1:591779303> spawned NPC monster_bullsquid
+L 11/06/2022 - 11:56:30: Lua Error: 
+[ulib] gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212: table index is nil
+  1. GetBaseDT - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212
+   2. CalcDamage - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:300
+    3. fn - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:26
+     4. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+
+
+L 11/06/2022 - 11:57:02: [ULX] Daniel J. Cutter<STEAM_0:1:591779303> spawned ragdoll models/headcrabclassic.mdl
+L 11/06/2022 - 11:57:09: Lua Error: 
+[ulib] gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212: table index is nil
+  1. GetBaseDT - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212
+   2. CalcDamage - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:300
+    3. fn - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:26
+     4. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+
+
+L 11/06/2022 - 11:57:12: [ULX] Daniel J. Cutter<STEAM_0:1:591779303> spawned ragdoll models/headcrabclassic.mdl
+L 11/06/2022 - 11:57:30: [ULX] Daniel J. Cutter<STEAM_0:1:591779303> spawned ragdoll models/zombie/classic_legs.mdl
+L 11/06/2022 - 11:57:31: [ULX] CCA.C17-HELIX.i3.08874 to admins: Air vent
+L 11/06/2022 - 11:57:34: [ULX] CCA.C17-HELIX.i3.08874 to admins: Pleas in this room
+L 11/06/2022 - 11:57:56: [ULX] Daniel J. Cutter<STEAM_0:1:591779303> used the tool creator on maps/rp_industrial17_v1.bsp
+L 11/06/2022 - 11:58:08: [ULX] Daniel J. Cutter<STEAM_0:1:591779303> used the tool creator on maps/rp_industrial17_v1.bsp
+L 11/06/2022 - 12:02:37: [ULX] Daniel J. Cutter<STEAM_0:1:591779303> spawned NPC monster_bullsquid
+L 11/06/2022 - 12:03:03: [ULX] Daniel J. Cutter<STEAM_0:1:591779303> spawned ragdoll models/zombie/classic_torso.mdl
+L 11/06/2022 - 12:03:34: [ULX] Daniel J. Cutter<STEAM_0:1:591779303> spawned ragdoll models/industrial_uniforms/industrial_uniform2.mdl
+L 11/06/2022 - 12:04:18: [ULX] Daniel J. Cutter<STEAM_0:1:591779303> used the tool paint on maps/rp_industrial17_v1.bsp
+L 11/06/2022 - 12:04:18: [ULX] Daniel J. Cutter<STEAM_0:1:591779303> used the tool paint on maps/rp_industrial17_v1.bsp
+L 11/06/2022 - 12:04:18: [ULX] Daniel J. Cutter<STEAM_0:1:591779303> used the tool paint on maps/rp_industrial17_v1.bsp
+L 11/06/2022 - 12:04:18: [ULX] Daniel J. Cutter<STEAM_0:1:591779303> used the tool paint on maps/rp_industrial17_v1.bsp
+L 11/06/2022 - 12:04:18: [ULX] Daniel J. Cutter<STEAM_0:1:591779303> used the tool paint on maps/rp_industrial17_v1.bsp
+L 11/06/2022 - 12:04:18: [ULX] Daniel J. Cutter<STEAM_0:1:591779303> used the tool paint on maps/rp_industrial17_v1.bsp
+L 11/06/2022 - 12:04:19: [ULX] Daniel J. Cutter<STEAM_0:1:591779303> used the tool paint on maps/rp_industrial17_v1.bsp
+L 11/06/2022 - 12:04:19: [ULX] Daniel J. Cutter<STEAM_0:1:591779303> used the tool paint on maps/rp_industrial17_v1.bsp
+L 11/06/2022 - 12:04:19: [ULX] Daniel J. Cutter<STEAM_0:1:591779303> used the tool paint on maps/rp_industrial17_v1.bsp
+L 11/06/2022 - 12:04:19: [ULX] Daniel J. Cutter<STEAM_0:1:591779303> used the tool paint on maps/rp_industrial17_v1.bsp
+L 11/06/2022 - 12:04:19: [ULX] Daniel J. Cutter<STEAM_0:1:591779303> used the tool paint on maps/rp_industrial17_v1.bsp
+L 11/06/2022 - 12:04:19: [ULX] Daniel J. Cutter<STEAM_0:1:591779303> used the tool paint on maps/rp_industrial17_v1.bsp
+L 11/06/2022 - 12:04:20: [ULX] Daniel J. Cutter<STEAM_0:1:591779303> used the tool paint on maps/rp_industrial17_v1.bsp
+L 11/06/2022 - 12:04:20: [ULX] Daniel J. Cutter<STEAM_0:1:591779303> used the tool paint on maps/rp_industrial17_v1.bsp
+L 11/06/2022 - 12:04:20: [ULX] Daniel J. Cutter<STEAM_0:1:591779303> used the tool paint on maps/rp_industrial17_v1.bsp
+L 11/06/2022 - 12:04:26: [ULX] Daniel J. Cutter<STEAM_0:1:591779303> spawned ragdoll models/industrial_uniforms/industrial_uniform2.mdl
+L 11/06/2022 - 12:04:49: [ULX] Daniel J. Cutter<STEAM_0:1:591779303> used the tool paint on maps/rp_industrial17_v1.bsp
+L 11/06/2022 - 12:04:50: [ULX] Daniel J. Cutter<STEAM_0:1:591779303> used the tool paint on maps/rp_industrial17_v1.bsp
+L 11/06/2022 - 12:04:50: [ULX] Daniel J. Cutter<STEAM_0:1:591779303> used the tool paint on maps/rp_industrial17_v1.bsp
+L 11/06/2022 - 12:04:50: [ULX] Daniel J. Cutter<STEAM_0:1:591779303> used the tool paint on maps/rp_industrial17_v1.bsp
+L 11/06/2022 - 12:04:51: [ULX] Daniel J. Cutter<STEAM_0:1:591779303> used the tool paint on maps/rp_industrial17_v1.bsp
+L 11/06/2022 - 12:04:51: [ULX] Daniel J. Cutter<STEAM_0:1:591779303> used the tool paint on maps/rp_industrial17_v1.bsp
+L 11/06/2022 - 12:05:00: [ULX] Daniel J. Cutter<STEAM_0:1:591779303> used the tool paint on maps/rp_industrial17_v1.bsp
+L 11/06/2022 - 12:05:00: [ULX] Daniel J. Cutter<STEAM_0:1:591779303> used the tool paint on maps/rp_industrial17_v1.bsp
+L 11/06/2022 - 12:11:25: "Lildirtyharry04<12><STEAM_0:0:247487472><>" disconnected (reason "Disconnect by user.")
+L 11/06/2022 - 12:12:01: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:12:01: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:12:01: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:12:01: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:12:01: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:12:01: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:12:03: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:12:03: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:12:03: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:12:03: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:12:03: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:12:03: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:12:03: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:12:03: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:12:03: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:12:03: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:12:03: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:12:03: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:12:05: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:12:05: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:12:05: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:12:05: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:12:05: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:12:05: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:12:05: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:12:05: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:12:05: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:12:05: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:12:05: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:12:05: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:12:05: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:12:05: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:12:12: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:12:12: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:12:12: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:12:12: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:12:12: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:12:12: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:12:13: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:12:13: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:12:13: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:12:13: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:12:13: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:12:13: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:12:13: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:12:13: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:12:13: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:12:13: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:12:13: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:12:13: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:12:24: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:12:24: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:12:24: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:12:24: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:12:24: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:12:24: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:12:24: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:12:24: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:12:24: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:12:24: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:12:24: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:12:24: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:13:18: [ULX] CCA.C17-UNION.i5.83253<STEAM_0:1:591779303> spawned ragdoll models/police.mdl
+L 11/06/2022 - 12:13:35: [ULX] CCA.C17-UNION.i5.83253<STEAM_0:1:591779303> spawned ragdoll models/police.mdl
+L 11/06/2022 - 12:14:52: [ULX] CCA.C17-UNION.i5.83253<STEAM_0:1:591779303> spawned ragdoll models/zombie/classic_legs.mdl
+L 11/06/2022 - 12:20:06: [ULX] Dispatch<STEAM_0:1:591779303> used the tool paint on *333
+L 11/06/2022 - 12:20:07: [ULX] Dispatch<STEAM_0:1:591779303> used the tool paint on *333
+L 11/06/2022 - 12:20:07: [ULX] Dispatch<STEAM_0:1:591779303> used the tool paint on *333
+L 11/06/2022 - 12:20:08: [ULX] Dispatch<STEAM_0:1:591779303> used the tool paint on *333
+L 11/06/2022 - 12:20:09: [ULX] Dispatch<STEAM_0:1:591779303> used the tool paint on *333
+L 11/06/2022 - 12:20:09: [ULX] Dispatch<STEAM_0:1:591779303> used the tool paint on *333
+L 11/06/2022 - 12:20:10: [ULX] Dispatch<STEAM_0:1:591779303> used the tool paint on maps/rp_industrial17_v1.bsp
+L 11/06/2022 - 12:20:13: [ULX] Dispatch<STEAM_0:1:591779303> used the tool paint on maps/rp_industrial17_v1.bsp
+L 11/06/2022 - 12:20:14: [ULX] Dispatch<STEAM_0:1:591779303> used the tool paint on maps/rp_industrial17_v1.bsp
+L 11/06/2022 - 12:21:59: [ULX] Dispatch<STEAM_0:1:591779303> spawned NPC monster_bullsquid
+L 11/06/2022 - 12:21:59: "Lildirtyharry04<17><STEAM_0:0:247487472><>" connected, address "152.37.143.67:27005"
+L 11/06/2022 - 12:21:59: "Lildirtyharry04<17><STEAM_0:0:247487472><>" STEAM USERID validated
+L 11/06/2022 - 12:22:16: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:22:16: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:22:16: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:22:16: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:22:16: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:22:16: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:22:18: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:22:18: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:22:18: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:22:18: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:22:18: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:22:18: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:22:18: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:22:18: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:22:18: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:22:18: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:22:18: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:22:18: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:22:19: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:22:19: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:22:19: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:22:19: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:22:19: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:22:19: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:22:19: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:22:19: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:22:19: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:22:19: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:22:19: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:22:19: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:23:20: [ULX] Dispatch<STEAM_0:1:591779303> spawned NPC monster_bullsquid
+L 11/06/2022 - 12:23:34: [ULX] Dispatch<STEAM_0:1:591779303> spawned NPC npc_zombie
+L 11/06/2022 - 12:23:35: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:23:35: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:23:35: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:23:35: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:23:35: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:23:35: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:23:35: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:23:35: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:23:35: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:23:35: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:23:35: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:23:35: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:23:35: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:23:35: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:23:35: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:23:35: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:23:35: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:23:35: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:23:36: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:23:36: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:23:36: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:23:36: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:23:36: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:23:36: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:23:36: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:23:36: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:23:36: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:23:36: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:23:36: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:23:36: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:23:36: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:23:36: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:23:36: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:23:36: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:23:36: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:23:36: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:23:37: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:23:37: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:23:37: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:23:37: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:23:37: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:23:37: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:23:37: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:23:37: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:23:37: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:23:37: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:23:38: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:23:38: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:23:38: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:23:38: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:23:38: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:23:38: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:23:46: "Lildirtyharry04<17><STEAM_0:0:247487472><>" entered the game
+L 11/06/2022 - 12:23:46: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:23:46: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:23:46: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:23:46: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:23:46: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:23:46: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:23:46: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/06/2022 - 12:23:47: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:23:47: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:23:47: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:23:47: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:23:47: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:23:47: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:23:48: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:23:48: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:23:48: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:23:48: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:23:48: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:23:48: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:23:48: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:23:48: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:23:48: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:23:48: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:23:48: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:23:48: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:23:48: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:23:48: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:23:48: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:23:48: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:23:48: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:23:48: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:23:49: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:23:49: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:23:49: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:23:49: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:23:49: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:23:49: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] lua/includes/extensions/entity.lua:192: attempt to index local 'col' (a number value)
+  1. SetColor - lua/includes/extensions/entity.lua:192
+   2. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:13
+    3. Spawn - [C]:-1
+     4. AttackSpit - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:220
+      5. EventHandle - addons/half-life_renaissance_snpcs_1516718459/lua/entities/monster_bullsquid/init.lua:184
+       6. Event - lua/entities/npc_creature_base/init.lua:3589
+        7. unknown - lua/entities/npc_creature_base/init.lua:3660
+
+
+L 11/06/2022 - 12:23:49: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:23:49: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:23:49: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:23:49: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:23:49: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:23:49: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:23:49: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:23:49: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:23:49: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:23:49: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:23:49: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:23:49: Lua Error: 
+[half-life_renaissance_snpcs_1516718459] addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34: attempt to compare number with nil
+  1. unknown - addons/half-life_renaissance_snpcs_1516718459/lua/entities/obj_bullsquid_spit/init.lua:34
+
+
+L 11/06/2022 - 12:25:08: "fuckus<18><STEAM_0:1:54861900><>" connected, address "65.25.50.46:27005"
+L 11/06/2022 - 12:25:09: "fuckus<18><STEAM_0:1:54861900><>" STEAM USERID validated
+L 11/06/2022 - 12:26:59: "fuckus<18><STEAM_0:1:54861900><>" entered the game
+L 11/06/2022 - 12:26:59: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/06/2022 - 12:27:11: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/schema/sv_hooks.lua:993: attempt to index a nil value
+  1. unknown - gamemodes/ixhl2rp/schema/sv_hooks.lua:993
+   2. Run - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:354
+    3. Send - gamemodes/helix/gamemode/core/libs/sh_chatbox.lua:344
+     4. OnRun - gamemodes/ixhl2rp/schema/sh_commands.lua:254
+      5. Run - gamemodes/helix/gamemode/core/libs/sh_command.lua:499
+       6. Parse - gamemodes/helix/gamemode/core/libs/sh_command.lua:561
+        7. Run - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:324
+         8. func - gamemodes/ixhl2rp/plugins/chatbox/sh_plugin.lua:235
+          9. unknown - lua/includes/extensions/net.lua:33
+
+
+L 11/06/2022 - 12:27:34: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/schema/sv_hooks.lua:993: attempt to index a nil value
+  1. unknown - gamemodes/ixhl2rp/schema/sv_hooks.lua:993
+   2. Run - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:354
+    3. Send - gamemodes/helix/gamemode/core/libs/sh_chatbox.lua:344
+     4. OnRun - gamemodes/ixhl2rp/schema/sh_commands.lua:254
+      5. Run - gamemodes/helix/gamemode/core/libs/sh_command.lua:499
+       6. Parse - gamemodes/helix/gamemode/core/libs/sh_command.lua:561
+        7. Run - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:324
+         8. func - gamemodes/ixhl2rp/plugins/chatbox/sh_plugin.lua:235
+          9. unknown - lua/includes/extensions/net.lua:33
+
+
+L 11/06/2022 - 12:27:44: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/schema/sv_hooks.lua:993: attempt to index a nil value
+  1. unknown - gamemodes/ixhl2rp/schema/sv_hooks.lua:993
+   2. Run - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:354
+    3. Send - gamemodes/helix/gamemode/core/libs/sh_chatbox.lua:344
+     4. OnRun - gamemodes/ixhl2rp/schema/sh_commands.lua:254
+      5. Run - gamemodes/helix/gamemode/core/libs/sh_command.lua:499
+       6. Parse - gamemodes/helix/gamemode/core/libs/sh_command.lua:561
+        7. Run - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:324
+         8. func - gamemodes/ixhl2rp/plugins/chatbox/sh_plugin.lua:235
+          9. unknown - lua/includes/extensions/net.lua:33
+
+
+L 11/06/2022 - 12:28:08: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/schema/sv_hooks.lua:993: attempt to index a nil value
+  1. unknown - gamemodes/ixhl2rp/schema/sv_hooks.lua:993
+   2. Run - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:354
+    3. Send - gamemodes/helix/gamemode/core/libs/sh_chatbox.lua:344
+     4. OnRun - gamemodes/ixhl2rp/schema/sh_commands.lua:254
+      5. Run - gamemodes/helix/gamemode/core/libs/sh_command.lua:499
+       6. Parse - gamemodes/helix/gamemode/core/libs/sh_command.lua:561
+        7. Run - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:324
+         8. func - gamemodes/ixhl2rp/plugins/chatbox/sh_plugin.lua:235
+          9. unknown - lua/includes/extensions/net.lua:33
+
+
+L 11/06/2022 - 12:31:53: "Lildirtyharry04<17><STEAM_0:0:247487472><>" disconnected (reason "Disconnect by user.")
+L 11/06/2022 - 12:35:47: rcon from "1

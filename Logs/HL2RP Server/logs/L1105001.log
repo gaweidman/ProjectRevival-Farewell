@@ -1,0 +1,208 @@
+L 11/05/2022 - 02:00:38: Log file started (file "logs\L1105001.log") (game "c:\servers\revivalhl2rp\garrysmod") (version "8607")
+L 11/05/2022 - 02:00:38: Loading map "rp_industrial17_v1"
+L 11/05/2022 - 02:00:38: server cvars start
+L 11/05/2022 - 02:00:38: "ttt_namechange_bantime" = "10"
+L 11/05/2022 - 02:00:38: "ttt_namechange_kick" = "1"
+L 11/05/2022 - 02:00:38: "ttt_ragdoll_pinning_innocents" = "0"
+L 11/05/2022 - 02:00:38: "ttt_ragdoll_pinning" = "1"
+L 11/05/2022 - 02:00:38: "ttt_teleport_telefrags" = "1"
+L 11/05/2022 - 02:00:38: "ttt_no_nade_throw_during_prep" = "1"
+L 11/05/2022 - 02:00:38: "ttt_allow_discomb_jump" = "0"
+L 11/05/2022 - 02:00:38: "ttt_detective_hats" = "1"
+L 11/05/2022 - 02:00:38: "ttt_detective_karma_min" = "600"
+L 11/05/2022 - 02:00:38: "ttt_detective_min_players" = "8"
+L 11/05/2022 - 02:00:38: "ttt_det_credits_starting" = "1"
+L 11/05/2022 - 02:00:38: "ttt_detective_pct" = "0.125000"
+L 11/05/2022 - 02:00:38: "ttt_detective_max" = "32"
+L 11/05/2022 - 02:00:38: "ttt_credits_starting" = "2"
+L 11/05/2022 - 02:00:38: "ttt_traitor_pct" = "0.250000"
+L 11/05/2022 - 02:00:38: "ttt_traitor_max" = "32"
+L 11/05/2022 - 02:00:38: "ttt_postround_dm" = "0"
+L 11/05/2022 - 02:00:38: "ttt_haste_minutes_per_death" = "0.500000"
+L 11/05/2022 - 02:00:38: "ttt_haste_starting_minutes" = "5"
+L 11/05/2022 - 02:00:38: "ttt_roundtime_minutes" = "10"
+L 11/05/2022 - 02:00:38: "ttt_round_limit" = "6"
+L 11/05/2022 - 02:00:38: "ttt_posttime_seconds" = "30"
+L 11/05/2022 - 02:00:38: "ttt_preptime_seconds" = "30"
+L 11/05/2022 - 02:00:38: "ttt_firstpreptime" = "60"
+L 11/05/2022 - 02:00:38: "ttt_time_limit_minutes" = "75"
+L 11/05/2022 - 02:00:38: "ttt_haste" = "1"
+L 11/05/2022 - 02:00:38: "ttt_debug_preventwin" = "0"
+L 11/05/2022 - 02:00:38: "sbox_persist" = ""
+L 11/05/2022 - 02:00:38: "sbox_bonemanip_misc" = "0"
+L 11/05/2022 - 02:00:38: "sbox_bonemanip_player" = "0"
+L 11/05/2022 - 02:00:38: "sbox_bonemanip_npc" = "1"
+L 11/05/2022 - 02:00:38: "sbox_noclip" = "1"
+L 11/05/2022 - 02:00:38: "sbox_maxemitters" = "20"
+L 11/05/2022 - 02:00:38: "sbox_maxbuttons" = "50"
+L 11/05/2022 - 02:00:38: "sbox_maxhoverballs" = "50"
+L 11/05/2022 - 02:00:38: "sbox_maxthrusters" = "50"
+L 11/05/2022 - 02:00:38: "sbox_maxwheels" = "50"
+L 11/05/2022 - 02:00:38: "sbox_maxlights" = "5"
+L 11/05/2022 - 02:00:38: "sbox_maxlamps" = "3"
+L 11/05/2022 - 02:00:38: "sbox_maxdynamite" = "10"
+L 11/05/2022 - 02:00:38: "sbox_maxsents" = "100"
+L 11/05/2022 - 02:00:38: "sbox_maxnpcs" = "10"
+L 11/05/2022 - 02:00:38: "sbox_maxcameras" = "10"
+L 11/05/2022 - 02:00:38: "sbox_maxballoons" = "100"
+L 11/05/2022 - 02:00:38: "sbox_maxeffects" = "200"
+L 11/05/2022 - 02:00:38: "sbox_maxvehicles" = "4"
+L 11/05/2022 - 02:00:38: "sbox_maxragdolls" = "10"
+L 11/05/2022 - 02:00:38: "sbox_maxprops" = "200"
+L 11/05/2022 - 02:00:38: "sbox_playershurtplayers" = "1"
+L 11/05/2022 - 02:00:38: "sbox_godmode" = "0"
+L 11/05/2022 - 02:00:38: "sbox_weapons" = "1"
+L 11/05/2022 - 02:00:38: "physgun_limited" = "0"
+L 11/05/2022 - 02:00:38: "sv_allowcslua" = "0"
+L 11/05/2022 - 02:00:38: "physgun_maxrange" = "4096"
+L 11/05/2022 - 02:00:38: "ai_disabled" = "0"
+L 11/05/2022 - 02:00:38: "ai_ignoreplayers" = "0"
+L 11/05/2022 - 02:00:38: "mp_teamplay" = "0"
+L 11/05/2022 - 02:00:38: "mp_falldamage" = "0"
+L 11/05/2022 - 02:00:38: "mp_weaponstay" = "0"
+L 11/05/2022 - 02:00:38: "mp_forcerespawn" = "1"
+L 11/05/2022 - 02:00:38: "mp_footsteps" = "1"
+L 11/05/2022 - 02:00:38: "mp_flashlight" = "1"
+L 11/05/2022 - 02:00:38: "mp_autocrosshair" = "1"
+L 11/05/2022 - 02:00:38: "decalfrequency" = "10"
+L 11/05/2022 - 02:00:38: "mp_teamlist" = "hgrunt;scientist"
+L 11/05/2022 - 02:00:38: "mp_allowNPCs" = "1"
+L 11/05/2022 - 02:00:38: "mp_friendlyfire" = "0"
+L 11/05/2022 - 02:00:38: "mp_fadetoblack" = "0"
+L 11/05/2022 - 02:00:38: "sv_gravity" = "600"
+L 11/05/2022 - 02:00:38: "sv_stopspeed" = "10"
+L 11/05/2022 - 02:00:38: "sv_noclipaccelerate" = "5"
+L 11/05/2022 - 02:00:38: "sv_noclipspeed" = "5"
+L 11/05/2022 - 02:00:38: "sv_specaccelerate" = "5"
+L 11/05/2022 - 02:00:38: "sv_specspeed" = "3"
+L 11/05/2022 - 02:00:38: "sv_specnoclip" = "1"
+L 11/05/2022 - 02:00:38: "sv_maxspeed" = "10000"
+L 11/05/2022 - 02:00:38: "sv_accelerate" = "10"
+L 11/05/2022 - 02:00:38: "sv_airaccelerate" = "10"
+L 11/05/2022 - 02:00:38: "sv_wateraccelerate" = "10"
+L 11/05/2022 - 02:00:38: "sv_waterfriction" = "1"
+L 11/05/2022 - 02:00:38: "sv_footsteps" = "1"
+L 11/05/2022 - 02:00:38: "sv_rollspeed" = "200"
+L 11/05/2022 - 02:00:38: "sv_rollangle" = "0"
+L 11/05/2022 - 02:00:38: "sv_friction" = "8"
+L 11/05/2022 - 02:00:38: "sv_bounce" = "0"
+L 11/05/2022 - 02:00:38: "sv_stepsize" = "18"
+L 11/05/2022 - 02:00:38: "r_VehicleViewDampen" = "0"
+L 11/05/2022 - 02:00:38: "r_JeepViewDampenFreq" = "7.0"
+L 11/05/2022 - 02:00:38: "r_JeepViewDampenDamp" = "1.0"
+L 11/05/2022 - 02:00:38: "r_JeepViewZHeight" = "10.0"
+L 11/05/2022 - 02:00:38: "r_AirboatViewDampenFreq" = "7.0"
+L 11/05/2022 - 02:00:38: "r_AirboatViewDampenDamp" = "1.0"
+L 11/05/2022 - 02:00:38: "r_AirboatViewZHeight" = "0.0"
+L 11/05/2022 - 02:00:38: "mp_timelimit" = "0"
+L 11/05/2022 - 02:00:38: "mp_fraglimit" = "0"
+L 11/05/2022 - 02:00:38: "nextlevel" = ""
+L 11/05/2022 - 02:00:38: "sv_maxusrcmdprocessticks" = "24"
+L 11/05/2022 - 02:00:38: "sv_alltalk" = "0"
+L 11/05/2022 - 02:00:38: "sv_hl2mp_weapon_respawn_time" = "20"
+L 11/05/2022 - 02:00:38: "sv_hl2mp_item_respawn_time" = "30"
+L 11/05/2022 - 02:00:38: "sv_report_client_settings" = "0"
+L 11/05/2022 - 02:00:38: "sv_cheats" = "0"
+L 11/05/2022 - 02:00:38: "sv_pausable" = "0"
+L 11/05/2022 - 02:00:38: "sv_contact" = ""
+L 11/05/2022 - 02:00:38: "sv_voiceenable" = "1"
+L 11/05/2022 - 02:00:38: "tv_enable" = "0"
+L 11/05/2022 - 02:00:38: "sv_steamgroup" = ""
+L 11/05/2022 - 02:00:38: "sv_password" = ""
+L 11/05/2022 - 02:00:38: "tv_relaypassword" = ""
+L 11/05/2022 - 02:00:38: "tv_password" = ""
+L 11/05/2022 - 02:00:38: "deathmatch" = "1"
+L 11/05/2022 - 02:00:38: "coop" = "0"
+L 11/05/2022 - 02:00:38: server cvars end
+L 11/05/2022 - 02:01:19: Started map "rp_industrial17_v1" (CRC "11a8d91e24b13a6caef4365d981b93c4")
+L 11/05/2022 - 02:01:25: Lua Error: 
+[SLVBase 2] Couldn't include file 'includes\modules\tracex.lua' - File not found (<nowhere>)
+  1. pcall - [C]:-1
+   2. unknown - lua/autorun/slvbase/shared/slvbase_sh_init.lua:3
+    3. include - [C]:-1
+     4. unknown - lua/autorun/slvbase/slvbase.lua:28
+      5. include - [C]:-1
+       6. unknown - lua/autorun/hlbr_sh_init.lua:3
+
+
+L 11/05/2022 - 02:01:38: server_cvar: "sv_tfa_range_modifier" "0.500000"
+L 11/05/2022 - 02:01:38: server_cvar: "sv_tfa_damage_mult_min" "0.950000"
+L 11/05/2022 - 02:01:38: server_cvar: "sv_tfa_damage_mult_max" "1.050000"
+L 11/05/2022 - 02:01:38: server_cvar: "sv_tfa_melee_damage_ply" "0.650000"
+L 11/05/2022 - 02:01:38: server_cvar: "sv_tfa_melee_blocking_stun_time" "0.650000"
+L 11/05/2022 - 02:01:50: server_cvar: "stacker_delay" "0.500000"
+L 11/05/2022 - 02:01:50: server_cvar: "stacker_improved_force_stayinworld" "0"
+L 11/05/2022 - 02:02:13: Lua Error: [AddCSLuaFile] Couldn't find 'shared.lua' (@gamemodes/ixhl2rp/entities/weapons/weapon_broom.lua (line 2))
+
+L 11/05/2022 - 02:02:13: Lua Error: 
+[extended overwatch armory] addons/extended overwatch armory/lua/weapons/weapon_chargebow/shared.lua:82: ')' expected near 'self'
+
+
+L 11/05/2022 - 02:02:18: Lua Error: Refusing to load dodgefunc because it is missing Type and Base keys!
+
+L 11/05/2022 - 02:02:21: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_bell.lua:23: unexpected symbol near 'end'
+
+
+L 11/05/2022 - 02:02:21: Lua Error: Refusing to load ix_bell because it is missing Type and Base keys!
+
+L 11/05/2022 - 02:02:36: Lua Error: [AddCSLuaFile] Couldn't find 'effects/base/init.lua' (<nowhere>)
+
+L 11/05/2022 - 02:02:36: Lua Error: [AddCSLuaFile] Couldn't find 'effects/dof_node/init.lua' (<nowhere>)
+
+L 11/05/2022 - 02:02:36: Lua Error: [AddCSLuaFile] Couldn't find 'effects/entity_remove/init.lua' (<nowhere>)
+
+L 11/05/2022 - 02:02:36: Lua Error: [AddCSLuaFile] Couldn't find 'effects/inflator_magic/init.lua' (<nowhere>)
+
+L 11/05/2022 - 02:02:36: Lua Error: [AddCSLuaFile] Couldn't find 'effects/lasertracer/init.lua' (<nowhere>)
+
+L 11/05/2022 - 02:02:36: Lua Error: [AddCSLuaFile] Couldn't find 'effects/selection_indicator/init.lua' (<nowhere>)
+
+L 11/05/2022 - 02:02:36: Lua Error: [AddCSLuaFile] Couldn't find 'effects/selection_ring/init.lua' (<nowhere>)
+
+L 11/05/2022 - 02:02:37: Lua Error: [AddCSLuaFile] Couldn't find 'effects/wheel_indicator/init.lua' (<nowhere>)
+
+L 11/05/2022 - 02:02:38: Lua Error: 
+[ulib] HTTP failed - ISteamHTTP isn't available!
+  1. Fetch - lua/includes/modules/http.lua:42
+   2. fn - addons/ulib/lua/ulib/shared/plugin.lua:186
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+
+
+L 11/05/2022 - 02:03:06: Lua Error: [Helix] Item 'base_armor_bag_clothes' has a non-existent base! (base_armor_clothes)
+
+L 11/05/2022 - 02:03:10: Lua Error: [Helix] Item 'uuoliveoil' has a non-existent base! (outfit)
+
+L 11/05/2022 - 02:03:10: Lua Error: [Helix] Item 'folding_horse' has a non-existent base! (base_prop)
+
+L 11/05/2022 - 02:03:10: Lua Error: [Helix] Item 'horse' has a non-existent base! (base_prop)
+
+L 11/05/2022 - 02:03:10: Lua Error: [Helix] Item 'cmb_barricade' has a non-existent base! (base_prop)
+
+L 11/05/2022 - 02:03:10: Lua Error: [Helix] Item 'woodenshelf' has a non-existent base! (base_prop)
+
+L 11/05/2022 - 02:03:10: Lua Error: [Helix] Item 'foldingchair' has a non-existent base! (base_prop)
+
+L 11/05/2022 - 02:03:21: server_cvar: "sbox_persist" "ix_ixhl2rp"
+L 11/05/2022 - 02:03:21: Executing dedicated server config file server.cfg
+L 11/05/2022 - 02:03:56: Lua Error: 
+[lfs_ground_vehicle_base] gamemodes/ixhl2rp/entities/entities/ix_stove.lua:25: attempt to index global 'trace' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/entities/entities/ix_stove.lua:25
+   2. Spawn - [C]:-1
+    3. PPEntityFromTable - addons/lfs_ground_vehicle_base/lua/permaprops/sv_lib.lua:120
+     4. fn - addons/lfs_ground_vehicle_base/lua/permaprops/sv_lib.lua:233
+      5. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+
+
+L 11/05/2022 - 02:04:02: Lua Error: 
+[lfs_ground_vehicle_base] gamemodes/ixhl2rp/entities/entities/ix_stove.lua:25: attempt to index global 'trace' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/entities/entities/ix_stove.lua:25
+   2. Spawn - [C]:-1
+    3. PPEntityFromTable - addons/lfs_ground_vehicle_base/lua/permaprops/sv_lib.lua:120
+     4. fn - addons/lfs_ground_vehicle_base/lua/permaprops/sv_lib.lua:233
+      5. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+
+
+L 11/05/2022 - 02:04:06: Initializing Steam libraries for secure Internet server
+L 11/05/2022 - 02:04:06: Logging into Steam game server account
+L 11/05/2022 - 02:04:06: Log file closed.

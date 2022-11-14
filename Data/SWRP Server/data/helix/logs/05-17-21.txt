@@ -1,0 +1,104 @@
+[20:30:10]	FB|| light ROOM has connected.
+[20:31:41]	FB|| light ROOM loaded the character 'Sergeant Owen ''Bulwark'' Tump'
+[20:32:06]	DRD has connected.
+[20:35:16]	DRD loaded the character 'Petty Officer Third Class Kariss Novar'
+[20:35:19]	Petty Officer Third Class Kariss Novar used command '/ToggleRaise'.
+[20:35:26]	DRD (STEAM_0:0:193599766) has disconnected.
+[20:42:10]	DRD has connected.
+[20:42:25]	Sergeant Owen ''Bulwark'' Tump used the 'Armory' vendor.
+[20:42:27]	Sergeant Owen ''Bulwark'' Tump has gained 0 credits.
+[20:42:27]	Sergeant Owen ''Bulwark'' Tump has gained a 'Tibanna Cartridge' #1550.
+[20:42:27]	Sergeant Owen ''Bulwark'' Tump has gained 0 credits.
+[20:42:27]	Sergeant Owen ''Bulwark'' Tump has gained a 'Tibanna Cartridge' #1551.
+[20:42:28]	Sergeant Owen ''Bulwark'' Tump has gained 0 credits.
+[20:42:28]	Sergeant Owen ''Bulwark'' Tump has gained a 'Tibanna Cartridge' #1552.
+[20:42:28]	Sergeant Owen ''Bulwark'' Tump has gained 0 credits.
+[20:42:28]	Sergeant Owen ''Bulwark'' Tump has gained a 'Tibanna Cartridge' #1553.
+[20:42:32]	Sergeant Owen ''Bulwark'' Tump ran 'use' on item 'Tibanna Cartridge' (#1552)
+[20:42:32]	Sergeant Owen ''Bulwark'' Tump ran 'use' on item 'Tibanna Cartridge' (#1553)
+[20:42:33]	Sergeant Owen ''Bulwark'' Tump ran 'use' on item 'Tibanna Cartridge' (#1551)
+[20:42:34]	Sergeant Owen ''Bulwark'' Tump ran 'use' on item 'Tibanna Cartridge' (#1550)
+[20:43:36]	DRD loaded the character 'Petty Officer Third Class Kariss Novar'
+[20:46:24]	Petty Officer Third Class Kariss Novar entered observer.
+[20:46:44]	Petty Officer Third Class Kariss Novar exited observer at their location.
+[20:47:00]	DRD loaded the character 'Private IN-3630'
+[20:48:52]	Private IN-3630 used command '/CharSetBodygroup IN PAULDRON 1'.
+[20:48:53]	Private IN-3630 used command '/CharSetBodygroup IN PAULDRON 2'.
+[20:48:54]	Private IN-3630 used command '/CharSetBodygroup IN PAULDRON 3'.
+[20:48:55]	Private IN-3630 used command '/CharSetBodygroup IN PAULDRON 4'.
+[20:48:56]	Private IN-3630 used command '/CharSetBodygroup IN PAULDRON 5'.
+[20:48:58]	Private IN-3630 used command '/CharSetBodygroup IN PAULDRON 6'.
+[20:48:59]	Private IN-3630 used command '/CharSetBodygroup IN PAULDRON 6'.
+[20:49:01]	Private IN-3630 used command '/CharSetBodygroup IN PAULDRON 7'.
+[20:49:03]	Private IN-3630 used command '/CharSetBodygroup IN PAULDRON 8'.
+[20:50:09]	Sergeant Owen ''Bulwark'' Tump has spawned 'models/props_junk/garbage_coffeemug001a.mdl'.
+[20:50:12]	Sergeant Owen ''Bulwark'' Tump has spawned 'models/props_junk/garbage_coffeemug001a.mdl'.
+[20:55:58]	Private IN-3630 has spawned 'models/props_interiors/pot02a.mdl'.
+[20:55:59]	Private IN-3630 has spawned 'models/props_interiors/pot02a.mdl'.
+[20:56:00]	Private IN-3630 has spawned 'models/props_interiors/pot02a.mdl'.
+[20:56:01]	Private IN-3630 has spawned 'models/props_interiors/pot02a.mdl'.
+[20:56:02]	Private IN-3630 has spawned 'models/props_interiors/pot02a.mdl'.
+[20:56:03]	Private IN-3630 has spawned 'models/props_interiors/pot02a.mdl'.
+[20:56:04]	Private IN-3630 has spawned 'models/props_interiors/Radiator01a.mdl'.
+[20:56:06]	Private IN-3630 has spawned 'models/props_interiors/Radiator01a.mdl'.
+[20:56:07]	Private IN-3630 has spawned 'models/props_interiors/Radiator01a.mdl'.
+[20:56:08]	Private IN-3630 has spawned 'models/props_interiors/Radiator01a.mdl'.
+[20:56:19]	Private IN-3630 entered observer.
+[20:56:25]	Private IN-3630 exited observer at their location.
+[20:57:14]	Private IN-3630 has taken 34 damage from Sergeant Owen ''Bulwark'' Tump.
+[20:57:15]	Private IN-3630 has taken 36 damage from Sergeant Owen ''Bulwark'' Tump.
+[20:57:15]	Private IN-3630 has taken 34 damage from Sergeant Owen ''Bulwark'' Tump.
+[20:57:15]	Sergeant Owen ''Bulwark'' Tump has killed Private IN-3630 with rw_sw_scoutblaster.
+[20:57:16]	Private IN-3630 entered observer.
+[20:57:27]	Private IN-3630 entered observer.
+[20:57:47]	Private IN-3630 exited observer at their location.
+[20:58:24]	Private IN-3630 has spawned 'models/props_c17/FurnitureWashingmachine001a.mdl'.
+[20:58:52]	Private IN-3630 has spawned 'models/cire992/props/cup01.mdl'.
+[20:59:03]	Private IN-3630 has spawned 'models/cire992/props/cup01.mdl'.
+[20:59:44]	Private IN-3630 has gained a 'Cup of Coffee' #1550.
+[20:59:44]	Private IN-3630 used command '/CreateCustomItem Cup of Coffee models/cire992/props/cup01.mdl A steaming hot cup of coffee.'.
+[20:59:52]	Private IN-3630 ran 'drop' on item 'Cup of Coffee' (#1550)
+[20:59:52]	Private IN-3630 has lost a 'Cup of Coffee' #1550.
+[20:59:55]	Private IN-3630 ran 'take' on item 'Cup of Coffee' (#1550)
+[20:59:55]	Private IN-3630 has gained a 'Cup of Coffee' #1550.
+[21:00:04]	Private IN-3630 has taken 25 damage from Sergeant Owen ''Bulwark'' Tump.
+[21:00:04]	Private IN-3630 has taken 25 damage from Sergeant Owen ''Bulwark'' Tump.
+[21:00:04]	Private IN-3630 has taken 24 damage from Sergeant Owen ''Bulwark'' Tump.
+[21:00:04]	Private IN-3630 has taken 24 damage from Sergeant Owen ''Bulwark'' Tump.
+[21:00:04]	Private IN-3630 has taken 25 damage from Sergeant Owen ''Bulwark'' Tump.
+[21:00:04]	Sergeant Owen ''Bulwark'' Tump has killed Private IN-3630 with rw_sw_e11t.
+[21:00:10]	Sergeant Owen ''Bulwark'' Tump has killed Sergeant Owen ''Bulwark'' Tump.
+[21:00:10]	Private IN-3630 has killed Private IN-3630.
+[21:00:19]	Private IN-3630 entered observer.
+[21:00:22]	FB|| light ROOM (STEAM_0:1:17219621) has disconnected.
+[21:00:28]	Private IN-3630 has spawned 'models/cire992/liq/n7_mi_floor_cap_corner.mdl'.
+[21:00:32]	Private IN-3630 has spawned 'models/cire992/props/miningvehicletire.mdl'.
+[21:00:44]	Private IN-3630 exited observer at their location.
+[21:00:46]	Private IN-3630 entered observer.
+[21:01:14]	Private IN-3630 exited observer at their location.
+[21:01:15]	Private IN-3630 entered observer.
+[21:01:16]	Private IN-3630 exited observer at their location.
+[21:01:18]	Private IN-3630 entered observer.
+[21:01:19]	Private IN-3630 exited observer at their location.
+[21:01:21]	Private IN-3630 entered observer.
+[21:01:21]	Private IN-3630 exited observer at their location.
+[21:01:23]	Private IN-3630 entered observer.
+[21:01:24]	Private IN-3630 exited observer at their location.
+[21:01:26]	Private IN-3630 entered observer.
+[21:01:27]	Private IN-3630 exited observer at their location.
+[21:01:30]	Private IN-3630 entered observer.
+[21:01:31]	Private IN-3630 exited observer at their location.
+[21:01:33]	Private IN-3630 entered observer.
+[21:01:35]	Private IN-3630 exited observer at their location.
+[21:01:36]	Private IN-3630 entered observer.
+[21:01:36]	Private IN-3630 exited observer at their location.
+[21:01:37]	Private IN-3630 entered observer.
+[21:01:40]	Private IN-3630 exited observer at their location.
+[21:01:44]	Private IN-3630 has spawned a 'Vehicle [60][prop_vehicle_prisoner_pod]'.
+[21:01:50]	Private IN-3630 entered observer.
+[21:02:02]	Private IN-3630 exited observer at their location.
+[21:02:41]	Private IN-3630 entered observer.
+[21:03:04]	Private IN-3630 exited observer at their location.
+[21:03:29]	Private IN-3630 has taken 658 damage from worldspawn.
+[21:03:29]	worldspawn has killed Private IN-3630.
+[21:04:49]	DRD (STEAM_0:0:193599766) has disconnected.

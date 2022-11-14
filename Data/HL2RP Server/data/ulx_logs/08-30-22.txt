@@ -1,0 +1,887 @@
+[02:43:20] New map: rp_industrial17_v1
+[03:36:10] Client "Peppermint" connected.
+[03:37:46] Client "Peppermint" spawned in server <STEAM_0:1:115933392> (took 96 seconds).
+[03:38:15] Peppermint<STEAM_0:1:115933392> changed their name to Tanya L. Fredrickson
+[03:41:17] Tanya L. Fredrickson<STEAM_0:1:115933392> spawned model models/props_lab/kennel_physics.mdl
+[03:41:20] Tanya L. Fredrickson<STEAM_0:1:115933392> spawned model models/props_lab/kennel_physics.mdl
+[03:41:22] Tanya L. Fredrickson<STEAM_0:1:115933392> spawned model models/props_lab/kennel_physics.mdl
+[03:52:43] Dropped "Tanya L. Fredrickson" from server<STEAM_0:1:115933392>
+[11:50:33] Client "Painevan" connected.
+[11:52:55] Client "Painevan" spawned in server <STEAM_0:0:68118061> (took 142 seconds).
+[11:53:53] Painevan<STEAM_0:0:68118061> changed their name to Jonathan Jackson
+[11:54:17] Jonathan Jackson<STEAM_0:0:68118061> changed their name to Zombie
+[12:16:22] Dropped "Zombie" from server<STEAM_0:0:68118061>
+[12:22:04] Client "Painevan" connected.
+[12:23:55] Client "Painevan" spawned in server <STEAM_0:0:68118061> (took 111 seconds).
+[12:25:06] Painevan<STEAM_0:0:68118061> changed their name to Jonathan Jackson
+[12:28:42] Jonathan Jackson was killed by npc_grenade_frag
+[12:39:16] Jonathan Jackson<STEAM_0:0:68118061> changed their name to OTA.C17-ECHO.OHZ.74152
+[12:44:59] OTA.C17-ECHO.OHZ.74152<STEAM_0:0:68118061> changed their name to Jonathan Jackson
+[12:48:16] Jonathan Jackson was killed by npc_barnacle
+[12:49:46] Dropped "Jonathan Jackson" from server<STEAM_0:0:68118061>
+[13:20:56] Client "Painevan" connected.
+[13:22:59] Client "Painevan" spawned in server <STEAM_0:0:68118061> (took 123 seconds).
+[13:23:38] Painevan<STEAM_0:0:68118061> changed their name to Jonathan Jackson
+[13:24:56] Dropped "Jonathan Jackson" from server<STEAM_0:0:68118061>
+[13:28:08] Client "matt saton" connected.
+[13:31:10] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 182 seconds).
+[13:32:47] matt saton<STEAM_0:1:53097688> changed their name to Andrew Cloverman
+[13:59:10] Andrew Cloverman: /chargiveitem andrew padlock
+[13:59:27] Andrew Cloverman: /textremove 
+[13:59:44] Andrew Cloverman: /me takes out their datapad and types a couple things in.
+[13:59:46] Andrew Cloverman: /y test
+[13:59:56] Andrew Cloverman: /y test
+[14:00:01] Andrew Cloverman: /chargiveitem andrew padlock
+[14:00:35] Andrew Cloverman: /toggleraise
+[14:01:15] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on maps/rp_industrial17_v1.bsp
+[14:01:16] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on maps/rp_industrial17_v1.bsp
+[14:01:18] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props_c17/hospital_bed01.mdl
+[14:01:18] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props_c17/hospital_bed01.mdl
+[14:01:23] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props_c17/hospital_bed01.mdl
+[14:01:24] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props_c17/hospital_bed01.mdl
+[14:01:24] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props_c17/hospital_bed01.mdl
+[14:01:26] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on maps/rp_industrial17_v1.bsp
+[14:01:28] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props_c17/hospital_surgerylight01.mdl
+[14:02:00] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on maps/rp_industrial17_v1.bsp
+[14:02:00] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props_wasteland/controlroom_desk001b.mdl
+[14:02:25] Andrew Cloverman: /mapentremove
+[14:02:27] Andrew Cloverman: /mapentremove
+[14:02:30] Andrew Cloverman: /mapentremove
+[14:02:31] Andrew Cloverman: /mapentremove
+[14:02:39] Andrew Cloverman: /mapentremove
+[14:02:45] Andrew Cloverman: /mapentremove
+[14:02:47] Andrew Cloverman: /mapentremove
+[14:02:48] Andrew Cloverman: /mapentremove
+[14:02:50] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_unique/hospital/exam_table.mdl
+[14:03:03] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_unique/hospital/iv_pole.mdl
+[14:03:18] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_c17/hospital_cart01.mdl
+[14:03:33] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props_c17/hospital_cart01.mdl
+[14:03:46] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props_unique/hospital/exam_table.mdl
+[14:03:56] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_storagecloset001a.mdl
+[14:04:01] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_storagecloset001a.mdl
+[14:04:30] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_filecabinet002a.mdl
+[14:04:44] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_filecabinet002a.mdl
+[14:05:49] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/magazine_rack.mdl
+[14:05:56] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props_interiors/magazine_rack.mdl
+[14:06:02] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/cs_office/offpaintingi.mdl
+[14:06:11] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props/cs_office/offpaintingi.mdl
+[14:06:57] Andrew Cloverman<STEAM_0:1:53097688> spawned sent ix_unionlock
+[14:07:01] Andrew Cloverman<STEAM_0:1:53097688> spawned sent ix_unionlock
+[14:07:54] Andrew Cloverman: /me takes out their datapad and types a couple things in.
+[14:08:09] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/cs_office/offcorkboarda.mdl
+[14:08:33] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/cs_assault/nostopssign.mdl
+[14:08:35] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/cs_assault/nostopssign.mdl
+[14:08:38] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/cs_assault/nostopssign.mdl
+[14:08:46] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/cs_assault/noparking.mdl
+[14:08:51] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/cs_assault/pylon.mdl
+[14:08:55] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/cs_assault/stoplight.mdl
+[14:09:06] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/cs_assault/chaintrainstationsign.mdl
+[14:09:08] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/cs_assault/ticketmachine.mdl
+[14:09:17] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/cs_office/offcertificatea.mdl
+[14:09:27] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/cs_office/offpaintingg.mdl
+[14:09:28] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/cs_office/offcertificatea.mdl
+[14:09:35] Andrew Cloverman: /mapentremove
+[14:10:10] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/cs_office/offinspg.mdl
+[14:10:17] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/cs_office/offpaintingk.mdl
+[14:10:34] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/cs_office/offcertificatea.mdl
+[14:11:15] Andrew Cloverman<STEAM_0:1:53097688> used the tool stacker_improved on models\props/cs_office/offcertificatea.mdl
+[14:11:15] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/cs_office/offcertificatea.mdl
+[14:11:16] Andrew Cloverman<STEAM_0:1:53097688> used the tool stacker_improved on models\props/cs_office/offcertificatea.mdl
+[14:11:16] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/cs_office/offcertificatea.mdl
+[14:11:17] Andrew Cloverman<STEAM_0:1:53097688> used the tool stacker_improved on models\props/cs_office/offcertificatea.mdl
+[14:11:17] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/cs_office/offcertificatea.mdl
+[14:11:31] Andrew Cloverman<STEAM_0:1:53097688> used the tool stacker_improved on models\props/cs_office/offcertificatea.mdl
+[14:11:31] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/cs_office/offcertificatea.mdl
+[14:11:31] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/cs_office/offcertificatea.mdl
+[14:11:36] Andrew Cloverman<STEAM_0:1:53097688> used the tool stacker_improved on models\props/cs_office/offcertificatea.mdl
+[14:11:36] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/cs_office/offcertificatea.mdl
+[14:11:36] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/cs_office/offcertificatea.mdl
+[14:11:49] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models\props/cs_office/offcertificatea.mdl
+[14:12:32] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_desk001a.mdl
+[14:12:38] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_office/desk_01.mdl
+[14:12:54] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_c17/furnituretable002a.mdl
+[14:12:56] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_c17/furnituretable002a.mdl
+[14:13:27] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_warehouse/office_furniture_desk.mdl
+[14:13:29] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_warehouse/office_furniture_coffee_table.mdl
+[14:13:30] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/u4lab/desk_office_a.mdl
+[14:13:37] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/cs_office/table_coffee.mdl
+[14:13:59] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/de_inferno/fountain.mdl
+[14:14:07] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/cs_office/trash_can_p.mdl
+[14:14:14] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/cs_militia/bar01.mdl
+[14:14:23] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/cs_militia/bar01.mdl
+[14:14:33] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/desk_motel.mdl
+[14:14:54] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props_interiors/desk_motel.mdl
+[14:15:00] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/dinning_table_oval.mdl
+[14:15:34] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_silo/wall_console3.mdl
+[14:15:38] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_silo/silo_server_a.mdl
+[14:15:40] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_silo/silo_server_a.mdl
+[14:15:42] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_silo/silo_elevator.mdl
+[14:15:44] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_silo/ladderrung.mdl
+[14:15:45] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_silo/launch_button.mdl
+[14:15:58] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_silo/pushcart.mdl
+[14:16:00] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_silo/silo_launchroom_monitor.mdl
+[14:16:22] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_silo/rocket.mdl
+[14:16:30] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_silo/silo_door01_static.mdl
+[14:16:34] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_silo/silo_door01.mdl
+[14:16:39] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_silo/silo_workspace1.mdl
+[14:16:44] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_silo/acunit01.mdl
+[14:16:48] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_silo/acunit02.mdl
+[14:16:49] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_silo/acunit02.mdl
+[14:16:52] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props_silo/acunit02.mdl
+[14:16:55] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_silo/acunit02.mdl
+[14:17:12] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props_silo/acunit02.mdl
+[14:17:15] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_silo/acunit01.mdl
+[14:17:21] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_silo/acunit01.mdl
+[14:17:43] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props_silo/acunit01.mdl
+[14:17:50] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_silo/floodlight01.mdl
+[14:17:54] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_silo/fuel_cask.mdl
+[14:17:56] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_silo/floodlights_01.mdl
+[14:18:03] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_silo/floodlights_01.mdl
+[14:18:08] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_silo/ventilationduct02.mdl
+[14:18:10] Andrew Cloverman<STEAM_0:1:53097688> spawned effect models/props_silo/turret.mdl
+[14:18:11] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_silo/ventilationduct02large.mdl
+[14:18:14] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_silo/vents.mdl
+[14:18:50] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_lab/citizenradio.mdl
+[14:19:18] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/sinkkitchen01a.mdl
+[14:19:43] Andrew Cloverman<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_interiors/sinkkitchen01a.mdl
+[14:19:55] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/sinkkitchen01a.mdl
+[14:19:57] Andrew Cloverman<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_interiors/sinkkitchen01a.mdl
+[14:20:39] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/soap_dispenser.mdl
+[14:21:16] Andrew Cloverman<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_interiors/sinkkitchen01a.mdl
+[14:21:24] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/cs_office/paper_towels.mdl
+[14:21:31] Andrew Cloverman<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_interiors/sinkkitchen01a.mdl
+[14:21:53] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/sinkkitchen01a.mdl
+[14:21:55] Andrew Cloverman<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_interiors/sinkkitchen01a.mdl
+[14:22:24] Andrew Cloverman<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_interiors/sinkkitchen01a.mdl
+[14:22:42] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/soap_dispenser.mdl
+[14:22:46] Andrew Cloverman<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_interiors/soap_dispenser.mdl
+[14:23:11] Andrew Cloverman<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_interiors/soap_dispenser.mdl
+[14:23:28] Andrew Cloverman<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_interiors/soap_dispenser.mdl
+[14:23:29] Andrew Cloverman<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_interiors/soap_dispenser.mdl
+[14:23:29] Andrew Cloverman<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_interiors/sinkkitchen01a.mdl
+[14:23:32] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props_interiors/sinkkitchen01a.mdl
+[14:23:32] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props_interiors/soap_dispenser.mdl
+[14:24:34] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_unique/hospital/surgery_lamp.mdl
+[14:25:12] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/cs_office/trash_can_p.mdl
+[14:25:16] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props/cs_office/trash_can_p.mdl
+[14:25:28] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_urban/bench001.mdl
+[14:25:37] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on maps/rp_industrial17_v1.bsp
+[14:26:23] Andrew Cloverman: /me takes out their datapad and types a couple things in.
+[14:26:51] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/chairlobby01.mdl
+[14:26:54] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_vtmb/armchair.mdl
+[14:26:55] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_warehouse/office_furniture_couch.mdl
+[14:26:57] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/sofa01.mdl
+[14:26:59] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/sofa02.mdl
+[14:27:00] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/sofa01.mdl
+[14:27:03] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/sofa02.mdl
+[14:27:09] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/sofa_chair02.mdl
+[14:27:12] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/ottoman01.mdl
+[14:27:52] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_phx/misc/potato_launcher_explosive.mdl
+[14:28:13] Andrew Cloverman extinguished all 2 fires.
+[14:28:35] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/chairs/armchair.mdl
+[14:28:36] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/cs_militia/couch.mdl
+[14:28:42] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/cs_militia/couch.mdl
+[14:29:20] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_unique/hospital/gurney.mdl
+[14:29:23] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_unique/hospital/exam_table.mdl
+[14:29:27] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_equipment/phone_booth.mdl
+[14:29:39] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on maps/rp_industrial17_v1.bsp
+[14:29:46] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_trainstation/trainstation_column001.mdl
+[14:29:52] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_chair001a.mdl
+[14:29:56] Andrew Cloverman cleared decals
+[14:30:28] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_trainstation/trainstation_clock001.mdl
+[14:31:56] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/elevatorshaft_door01a.mdl
+[14:32:38] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_junk/ibeam01a_cluster01.mdl
+[14:32:39] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_trainstation/column_arch001a.mdl
+[14:32:40] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_trainstation/clock01.mdl
+[14:33:33] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/cs_office/trash_can_p.mdl
+[14:33:35] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/copymachine01.mdl
+[14:33:42] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_unique/hospital/exam_table.mdl
+[14:33:52] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_equipment/surgicaltray_01.mdl
+[14:34:02] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_downtown/bar_long_endcorner.mdl
+[14:34:06] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_downtown/bar_long.mdl
+[14:34:18] Andrew Cloverman<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_downtown/bar_long.mdl
+[14:35:27] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_urban/plastic_chair001.mdl
+[14:36:43] Client "Spooky Wolf" connected.
+[14:39:34] Andrew Cloverman: /me takes out their datapad and types a couple things in.
+[14:42:05] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/testmodels/sofa_single.mdl
+[14:42:28] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_c17/chair02a.mdl
+[14:42:43] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_c17/chair02a.mdl
+[14:42:52] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_c17/furnituretable002a.mdl
+[14:43:05] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_c17/furnituretable002a.mdl
+[14:43:07] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_c17/furnituretable001a.mdl
+[14:43:59] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_combine/breenbust.mdl
+[14:44:02] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/bathtub01a.mdl
+[14:44:11] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/dining_table_round.mdl
+[14:44:13] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/dinning_table_oval.mdl
+[14:44:56] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_c17/furnituretable003a.mdl
+[14:45:04] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/cs_office/table_coffee.mdl
+[14:45:15] Client "Painevan" connected.
+[14:45:51] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/cs_office/radio.mdl
+[14:45:59] Andrew Cloverman<STEAM_0:1:53097688> used the tool nocollideeverything on models\props/cs_office/radio.mdl
+[14:46:01] Andrew Cloverman<STEAM_0:1:53097688> used the tool nocollideeverything on models\props/cs_office/radio.mdl
+[14:46:04] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models\props/cs_office/radio.mdl
+[14:46:05] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props/cs_office/table_coffee.mdl
+[14:46:05] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props_c17/chair02a.mdl
+[14:46:06] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on maps/rp_industrial17_v1.bsp
+[14:46:06] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props_c17/chair02a.mdl
+[14:46:33] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/cs_office/radio.mdl
+[14:46:37] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models\props/cs_office/radio.mdl
+[14:48:03] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/cs_office/trash_can.mdl
+[14:48:09] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/cs_office/trash_can_p.mdl
+[14:48:15] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props/cs_office/trash_can_p.mdl
+[14:49:26] Client "Painevan" spawned in server <STEAM_0:0:68118061> (took 251 seconds).
+[14:53:30] Painevan<STEAM_0:0:68118061> changed their name to Jonathan Jackson
+[14:54:03] Jonathan Jackson<STEAM_0:0:68118061> changed their name to OTA.C17-ECHO.OHZ.74152
+[14:54:33] OTA.C17-ECHO.OHZ.74152: 5
+[15:01:00] OTA.C17-ECHO.OHZ.74152<STEAM_0:0:68118061> changed their name to Jonathan Jackson
+[15:14:39] Jonathan Jackson<STEAM_0:0:68118061> used the tool ledscreen on maps/rp_industrial17_v1.bsp
+[15:14:40] Jonathan Jackson<STEAM_0:0:68118061> used the tool ledscreen on maps/rp_industrial17_v1.bsp
+[15:14:44] Jonathan Jackson<STEAM_0:0:68118061> used the tool ledscreen on maps/rp_industrial17_v1.bsp
+[15:14:45] Jonathan Jackson<STEAM_0:0:68118061> used the tool ledscreen on maps/rp_industrial17_v1.bsp
+[15:14:48] Jonathan Jackson<STEAM_0:0:68118061> used the tool ledscreen on maps/rp_industrial17_v1.bsp
+[15:15:45] Client "Classic" connected.
+[15:18:51] Client "Classic" spawned in server <STEAM_0:1:128182153> (took 186 seconds).
+[15:21:02] Jonathan Jackson<STEAM_0:0:68118061> changed their name to CCA.C17-HELIX.i4.08874
+[15:21:06] Classic<STEAM_0:1:128182153> changed their name to reererw
+[15:21:25] CCA.C17-HELIX.i4.08874 to admins: This person doesn't have an actual name
+[15:21:51] Dropped "reererw" from server<STEAM_0:1:128182153>
+[15:22:25] CCA.C17-HELIX.i4.08874 to admins: Nevermind then
+[15:22:30] CCA.C17-HELIX.i4.08874<STEAM_0:0:68118061> changed their name to Jonathan Jackson
+[15:22:37] Jonathan Jackson<STEAM_0:0:68118061> changed their name to Zombie
+[15:50:51] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on maps/rp_industrial17_v1.bsp
+[15:51:09] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on maps/rp_industrial17_v1.bsp
+[15:52:33] Client "Peppermint" connected.
+[15:56:01] Client "Peppermint" spawned in server <STEAM_0:1:115933392> (took 208 seconds).
+[15:57:02] Peppermint<STEAM_0:1:115933392> changed their name to Tanya L. Fredrickson
+[15:57:19] Tanya L. Fredrickson<STEAM_0:1:115933392> changed their name to Zomboid OTA Creature
+[15:57:31] Zombie: // hello
+[15:57:39] Zombie<STEAM_0:0:68118061> changed their name to Jonathan Jackson
+[15:57:43] Zomboid OTA Creature: // Hello fellow zombie
+[15:58:01] Jonathan Jackson: // I am no longer a zombie
+[15:58:10] Jonathan Jackson: // I have been converted back to normalcy
+[15:58:12] Zomboid OTA Creature<STEAM_0:1:115933392> changed their name to Raven
+[15:58:48] Jonathan Jackson: // bird is running, that's illegal
+[15:59:02] Raven: // I have discovered something amazing
+[15:59:10] Jonathan Jackson: // What is that
+[15:59:21] Raven: // I can trigger the cams to piss off the MPF
+[15:59:36] Jonathan Jackson: // That would be so annoying
+[15:59:51] Raven: /pm jon I dare you to open the door to the nexus
+[16:00:19] Jonathan Jackson: // RULE BREAKER
+[16:01:14] Andrew Cloverman: /chargiveitem andrew "ota filter"
+[16:01:28] Raven<STEAM_0:1:115933392> changed their name to Tanya L. Fredrickson
+[16:01:43] Jonathan Jackson: // Is that a CMU???
+[16:01:50] Jonathan Jackson: // No way those don't exist
+[16:01:54] Tanya L. Fredrickson: // One and only in the entire city
+[16:02:07] Jonathan Jackson: // Impossible perhaps the archives are incomplete
+[16:02:23] Tanya L. Fredrickson: // Seriously...I am the only one in the city that isn't an admin
+[16:02:43] Jonathan Jackson: // bro who cares about healing and stuff?
+[16:02:51] Jonathan Jackson<STEAM_0:0:68118061> changed their name to CCA.C17-HELIX.i4.08874
+[16:02:54] CCA.C17-HELIX.i4.08874: // Don't answer that
+[16:02:58] Tanya L. Fredrickson: // I mean I don't if no one comes to the hospital
+[16:02:59] CCA.C17-HELIX.i4.08874<STEAM_0:0:68118061> changed their name to Jonathan Jackson
+[16:03:21] Jonathan Jackson: // I will commit CWU RP
+[16:04:41] Tanya L. Fredrickson: // Honestly I am two steps away from just becoming an outlands doctor
+[16:04:55] Jonathan Jackson: // Imagine being a rebel pssh
+[16:05:12] Tanya L. Fredrickson: // Not really rebeling if all you do is live outside the walls
+[16:05:13] Jonathan Jackson: // I almost decided to do something like that yesterday after I was just arrested for no reason and beaten
+[16:05:24] Tanya L. Fredrickson: // wait what? Why?
+[16:05:31] Jonathan Jackson: // Some sort of investigation
+[16:05:41] Tanya L. Fredrickson: // Did you resist lol?
+[16:05:44] Jonathan Jackson: // I was interrogated on a loyalist that I hate and don't know anything about
+[16:05:47] Jonathan Jackson: // Not at all lol
+[16:05:57] Tanya L. Fredrickson: // They beat you anyway?
+[16:06:01] Jonathan Jackson: // And they tried to frame me for crimes I didn't commit
+[16:06:03] Jonathan Jackson: // Yeah
+[16:06:08] Jonathan Jackson: // They thought I was lying
+[16:06:10] Tanya L. Fredrickson: // Well that's funny lol
+[16:06:18] Jonathan Jackson: // It was funny
+[16:06:25] Jonathan Jackson: // Now my guy literally dispises CPs
+[16:06:36] Jonathan Jackson: // Despise*
+[16:07:05] Jonathan Jackson<STEAM_0:0:68118061> used the tool ledscreen on maps/rp_industrial17_v1.bsp
+[16:07:06] Jonathan Jackson<STEAM_0:0:68118061> used the tool ledscreen on maps/rp_industrial17_v1.bsp
+[16:07:07] Jonathan Jackson<STEAM_0:0:68118061> used the tool ledscreen on maps/rp_industrial17_v1.bsp
+[16:07:07] Jonathan Jackson<STEAM_0:0:68118061> used the tool ledscreen on maps/rp_industrial17_v1.bsp
+[16:07:07] Tanya L. Fredrickson: // Tanya is sorta just bleh about occupation, she's a doctor who gets paid pretty well for her work, and really is just on the DL so as to not make enemies and gain more LP
+[16:07:08] Jonathan Jackson<STEAM_0:0:68118061> used the tool ledscreen on maps/rp_industrial17_v1.bsp
+[16:07:09] Jonathan Jackson<STEAM_0:0:68118061> used the tool ledscreen on maps/rp_industrial17_v1.bsp
+[16:07:59] Jonathan Jackson: // Makes sense, my guy is like that too about the combine, but after two incidents he most definitely thinks that Civil Protection is incompetent
+[16:08:19] Tanya L. Fredrickson: // yea- they are tanya thinks that too about some of them
+[16:08:38] Tanya L. Fredrickson: // If you wanna do passive just roll around the CMU for a checkup or something
+[16:08:49] Jonathan Jackson: // You should come EAT
+[16:08:53] Jonathan Jackson: // Eating is great
+[16:09:36] Jonathan Jackson: // I have opened my store recently and it is sucessful, you'd see the sign for it around because I don't metagame besides when I do :)
+[16:11:07] Jonathan Jackson: // Successful*
+[16:11:11] Jonathan Jackson: Ah hello there!
+[16:11:15] Tanya L. Fredrickson: Evenin lad.
+[16:11:22] Jonathan Jackson: /looc My shirt was supposed to be on
+[16:11:31] Jonathan Jackson: How can I help you?
+[16:11:45] Jonathan Jackson: /me takes off his respirator and puts it on the counter.
+[16:11:53] Tanya L. Fredrickson: Just got a question...what's the deal with the graffiti someone drew it in my apartment and it's getting to be a bit exessive.
+[16:12:19] Jonathan Jackson: I don't know where you live let alone what is being drawn there
+[16:12:47] Tanya L. Fredrickson: The apartments behind this shop- they had it posted up scrapped onto the wall...it's getting to be annoying.
+[16:13:24] Jonathan Jackson: I've never payed attention to whatever you are talking about.
+[16:13:45] Tanya L. Fredrickson: Mmm- fair enough.
+[16:13:52] Jonathan Jackson: /me scratches his head and shrugs, "Sorry I can't help you with that."
+[16:14:04] Jonathan Jackson: Now, can I get you anything?
+[16:14:13] Tanya L. Fredrickson: Whatcha got on tap?
+[16:14:59] Jonathan Jackson: We have various alcohols, but we have three bottled..
+[16:15:03] Jonathan Jackson: /me tries to remember.
+[16:15:22] Jonathan Jackson: I know we have Gin, Beer and something I forget, excuse me for a sec.
+[16:16:15] Jonathan Jackson: The last one is absinthe, great drink, it's our special.
+[16:16:49] Tanya L. Fredrickson: Hrm...nothing really to my taste, lotta fruitsy stuff but eh I guess what you can get yer hands on aye?
+[16:17:01] Jonathan Jackson: Eh true.
+[16:17:13] Jonathan Jackson: We also have soft drinks as well as water, for those inclined.
+[16:17:33] Tanya L. Fredrickson: Guess Ill take the water, don't much enjoy drinking pisswater.
+[16:17:52] Jonathan Jackson: /looc one sec
+[16:18:02] Jonathan Jackson: /looc back
+[16:18:15] Jonathan Jackson: Alright, any varient like sparkling or flavored?
+[16:18:28] Tanya L. Fredrickson: Just pure if you got it- like filter pure.
+[16:18:56] Jonathan Jackson: Sure thing, we got brand new cans unless you want it straight from the tap.
+[16:19:08] Jonathan Jackson: We can filter the tap as you please.
+[16:19:12] Tanya L. Fredrickson: Tap'll do please.
+[16:19:20] Jonathan Jackson: Sure thing, anything to eat as well?
+[16:19:32] Tanya L. Fredrickson: nah- just filled up on some lettuce flavor.
+[16:19:46] Jonathan Jackson: Alright, no problem, I'll be right back.
+[16:20:20] Jonathan Jackson: /it You hear some cabinets opening and closing in the back, as well as the sound of a cup being filled.
+[16:21:08] Jonathan Jackson: /me places a glass holding some regular water inside of it on the counter, "Here you are."
+[16:21:16] Jonathan Jackson: /looc Pretend that is the cup.
+[16:21:17] Tanya L. Fredrickson: t's the cost lad?
+[16:21:43] Jonathan Jackson: Only two tokens, no point in charging much for just water right?
+[16:21:56] Tanya L. Fredrickson: /me takes out two small coins, handing them to the man.
+[16:21:59] Tanya L. Fredrickson: /givetokens 2
+[16:22:10] Jonathan Jackson: /me takes the coins, then opens the cash register
+[16:22:17] Tanya L. Fredrickson: So lad, you got a name?
+[16:22:30] Jonathan Jackson: /me clicks the cash register closed.
+[16:22:57] Jonathan Jackson: Jonathan Jackson is my name.
+[16:23:24] Jonathan Jackson: What about you, I assume you got one as well... least I hope.
+[16:23:33] Tanya L. Fredrickson: Hah- I do aye it's Tanya.
+[16:23:36] Jonathan Jackson: /me chuckles a bit.
+[16:24:02] Jonathan Jackson: Good to meet you Tana.
+[16:24:08] Jonathan Jackson: Tanya?
+[16:24:14] Jonathan Jackson: That's how you pronounce it right?
+[16:24:58] Tanya L. Fredrickson: Aye Aye, Tanya.
+[16:25:40] Jonathan Jackson: Good to meet you, feel free to come back any time you get hungry, just remember to check the sign to see if we're open. I'm afraid the hours are slightly inconsistent.
+[16:26:07] Client "Nums" connected.
+[16:26:15] Jonathan Jackson: Would be better if our Co-Owner showed up from time to time but, eh what can you do.
+[16:26:24] Jonathan Jackson: Managing just fine for now.
+[16:26:44] Tanya L. Fredrickson: Oh? drama in paradise?
+[16:26:54] Jonathan Jackson: /me leans on the counter
+[16:27:00] Tanya L. Fredrickson: /me Sips at their water, removing their mask to reveal their deep chemical burns.
+[16:27:15] Jonathan Jackson: Ah well, I don't suppose it hurts to talk abou-
+[16:27:21] Jonathan Jackson: You good there?
+[16:27:39] Jonathan Jackson: /me notices the chemical burns, assuming the person is injured.
+[16:27:40] Tanya L. Fredrickson: Mmm? Oh its just a scar don't mind.
+[16:27:50] Jonathan Jackson: Ah alright, I've seen worse.
+[16:28:00] Tanya L. Fredrickson: Hah- long story behind it too.
+[16:28:14] Jonathan Jackson: I'm sure!
+[16:28:26] Jonathan Jackson: Anyways what were we on abou- ah right.
+[16:28:53] Jonathan Jackson: So yeah, appearently this place needs two owners to run, at least that's what CWU Commerce Administration said.
+[16:29:06] Client "Nums" spawned in server <STEAM_0:1:196547442> (took 179 seconds).
+[16:29:43] Jonathan Jackson: So I get my roomate to get into CWU with me, to hopefully have both of us work this place, we get some contraband turned in, do some work, the whole shebang.
+[16:29:45] Nums<STEAM_0:1:196547442> changed their name to CCA.C17-UNION.i5.77460
+[16:30:09] Jonathan Jackson: We get into CWU Commerce, and then both of us go in to run this place together.
+[16:30:25] Jonathan Jackson: // Welcome Mr. i5 who is bad at interrogations
+[16:30:32] CCA.C17-UNION.i5.77460: // hello
+[16:31:10] Jonathan Jackson: So me and him set this place up, get a list of everything we need, furniture, cutlery, ingredients, etc.
+[16:31:58] Jonathan Jackson: Then as soon as we start getting it all delievered, it almost seems like he disapears, never seen him since. I know he lives still in the appartment still because he brings in containers, but I never see the man.
+[16:32:23] Jonathan Jackson: So since as soon as we opened for the first time, I've been running the whole show myself.
+[16:33:03] Jonathan Jackson: Starting to get worried about him, hope he's not getting involved with something less than savory since those rarely work out well, ask that Alex guy they hunting down now.
+[16:33:18] Jonathan Jackson: /me sighs, "Anyways, that's the situation."
+[16:33:55] Tanya L. Fredrickson: Sounds rough- I am actually in a rough patch myself...I am technically the only CMU phasician in the entire sector that isn't administration staff or a filler...
+[16:34:55] Jonathan Jackson: I heard of that, I'm pretty sure Administration is trying to find some people with medical experience who aren't scooped up by the CPs yet.
+[16:35:11] Tanya L. Fredrickson: Hah- good luck...
+[16:35:18] Jonathan Jackson: Yeah, tough to find.
+[16:35:36] Jonathan Jackson: // Virgin CP rp versus chad CWU rp
+[16:35:52] Tanya L. Fredrickson: Sad thing is I really don't have anything to do...
+[16:36:09] Tanya L. Fredrickson: No one ever comes to the clinic so I am just sitting behind a fucking desk all day doing nothing.
+[16:36:52] Jonathan Jackson: I hear due to the lesser amount of the staff, people are resorting to underground clinics, or just buying those UU bandages.
+[16:37:03] Jonathan Jackson: Doesn't help the service is technically locked to loyalists.
+[16:37:07] Tanya L. Fredrickson: Yep...
+[16:37:19] Tanya L. Fredrickson: So now I am just sitting here waiting to patch people who never need patching
+[16:37:24] Tanya L. Fredrickson: Doing nothing, and getting paid nothing
+[16:37:41] Jonathan Jackson: Jeez, no pay? That's rough.
+[16:37:53] Tanya L. Fredrickson: I am paid on commission, patient to patient basis...
+[16:38:08] Jonathan Jackson: Maybe I'll come in for a checkup sometime, that way you can pay your bills, feel bad for your situation
+[16:38:38] Jonathan Jackson: I'd think someone like you would get a payrate, unlike Commerce.
+[16:39:02] Tanya L. Fredrickson: Hah- no one gets a payrate it's all commision
+[16:39:10] Jonathan Jackson: // Nums trying not to be on Combine 24/7.
+[16:39:24] Jonathan Jackson: I hear that Logistics does, and so does ICT, at least I would think.
+[16:39:30] CCA.C17-UNION.i5.77460: // Someones gotta be on Combine when no one else is
+[16:39:34] Tanya L. Fredrickson: /me shrugs...
+[16:39:41] CCA.C17-UNION.i5.77460: // plus my other character is sewer locked rn so
+[16:39:46] Jonathan Jackson: // f
+[16:40:27] Tanya L. Fredrickson: Eventually I am gonna run outta money and be forced to do something that's outside my field, and my only thought would be is...why have sucha big clinic for loyalists when whoever gets hurt is always patched up by themselves for some reason, or the standing MPF handle it.
+[16:41:03] Jonathan Jackson: I find the CCA more likely than not cause those injuries.
+[16:41:36] CCA.C17-UNION.i5.77460: /actlean 2
+[16:41:41] CCA.C17-UNION.i5.77460: /actlean 1
+[16:41:44] CCA.C17-UNION.i5.77460: /actlean 1
+[16:41:52] CCA.C17-UNION.i5.77460: // brb
+[16:41:53] Tanya L. Fredrickson: Eh- I wouldn't say that but from a certain point of view sure...but whoever they deal with aren't loyalists so it's sorta bust for me to treat anyone.
+[16:42:54] Jonathan Jackson: You'd think that, yet they arrest me on the spot on the street tryin to interrogate me about some guy I don't know. Ythink they would treat their loyalist with more respect right?
+[16:43:18] Tanya L. Fredrickson: I guess...this city is really different from city eight, and twelve.
+[16:43:59] Jonathan Jackson: Yep, CPs can't even stop an unarmed guy from killing three of their officers at a train station before calling in OTA.
+[16:44:01] Tanya L. Fredrickson: Back then I was so flush with patients I had to sleep in the clinic overnight to help care for them, and I was paid thousands a day just for checkups alone...
+[16:44:18] Jonathan Jackson: Thousands? I wish. Most people keep to themselves here.
+[16:44:34] Jonathan Jackson: Don't want to say or do anything getting them in trouble.
+[16:44:49] Tanya L. Fredrickson: hell I was the richest person, had nearly half a million and almost bought out the clinic before the city collapsed.
+[16:45:08] Jonathan Jackson: Not really any stability any more eh?
+[16:45:17] Tanya L. Fredrickson: Sadly, no...
+[16:46:07] Tanya L. Fredrickson: Just makes me hope that someone a few chains up takes notice and does something about it, but I've written a petition to the administrator already and he's never responded.
+[16:46:42] Jonathan Jackson: Ha! I did the same after they arrested and beat me for some guy I don't know. See if administration really cares about it.
+[16:46:42] CCA.C17-UNION.i5.77460: // returned
+[16:46:46] Jonathan Jackson: // Welcome
+[16:47:00] CCA.C17-UNION.i5.77460: // Thank ye.
+[16:47:17] Jonathan Jackson: Some good people in there, just a lot of bureaucracy.
+[16:47:26] Tanya L. Fredrickson: Just makes me feel like a fuckin guppy that's not working at all- like I literally have not treated anyone in what...two- no three weeks.
+[16:48:00] Tanya L. Fredrickson: Wanna know how I am surviving? Rations, the three tokens you get...that's all I have to buy clothes, rent, food, everything.
+[16:48:08] Jonathan Jackson: Hey, I'll stop by later if it means you get a paycheck, just working for some income kind of an income myself.
+[16:48:31] Jonathan Jackson: You mind if I say something off the radar? Don't go telling a CP about this.
+[16:48:45] Tanya L. Fredrickson: Aye, what's on your mind
+[16:49:16] Jonathan Jackson: But I've heard those zombies down in the CZ and Sewers have a load of tokens on them, sometimes even 40 a peace. I heard from one guy who came in, he got 75 tokens in one run taking care of those zombies.
+[16:49:44] Jonathan Jackson: Provided you are good with a weapon, you might get some nice side income to actually pay your bills.
+[16:50:00] Tanya L. Fredrickson: Not really a fighter lad- hands are nimble but not firm
+[16:50:36] Jonathan Jackson: Hey, just mentioning it. From what I heard it's by far the best way to make a livable wage.
+[16:51:14] Tanya L. Fredrickson: Jesus- what's city life come too where we gotta kill to earn a wage rather then just working...
+[16:51:42] Jonathan Jackson: I don't know if it's killing or rather putting that thing out of it's misery but I digress.
+[16:52:13] Jonathan Jackson: CWU still a good gig, but it doesn't sound like the medical industry is really cutting it.
+[16:52:22] Tanya L. Fredrickson: Its really not.
+[16:52:29] Jonathan Jackson: So it would seem.
+[16:52:58] Jonathan Jackson: Unless you want to become a black tier suck up to the combine, rations don't provide that much tokens but it helps.
+[16:53:16] Jonathan Jackson: Work desk sometimes gives you some tokens for doing stuff, mostly LP though.
+[16:53:22] Tanya L. Fredrickson: Aye...
+[16:53:36] Tanya L. Fredrickson: well Ima go try just that
+[16:53:41] Jonathan Jackson: /me stretches his arms a bit and yawns.
+[16:53:47] Jonathan Jackson: Good luck with that.
+[16:53:52] Jonathan Jackson: Also before you go-
+[16:53:52] Tanya L. Fredrickson: Aye, you too lad.
+[16:54:10] Jonathan Jackson: If the officer at the work desk asks if it's okay for you to be restrained.
+[16:54:14] Jonathan Jackson: Start running.
+[16:54:21] Tanya L. Fredrickson: What?
+[16:54:24] Tanya L. Fredrickson: Why?
+[16:54:51] Jonathan Jackson: Because otherwise they will take you off the street and interrogate you for some guy you don't know about.
+[16:55:01] Jonathan Jackson: That includes using their stunsticks.
+[16:55:12] Tanya L. Fredrickson: Wouldn't they just shoot you if you ran?
+[16:55:25] Jonathan Jackson: They'll chase, but not shoot.
+[16:55:40] Client "Xadek" connected.
+[16:55:50] Jonathan Jackson: Just be careful with it, all I'm saying, you really, really don't want to get caught up in that shit.
+[16:56:08] Jonathan Jackson: I still have the burn marks and bruises from it.
+[16:56:13] Tanya L. Fredrickson: Honestly if it gets any worse Ill just request a transfer.
+[16:56:26] Jonathan Jackson: Either way good luck.
+[16:56:40] Tanya L. Fredrickson: Likewise friend.
+[16:56:42] Jonathan Jackson: /me stops leaning on the counter, and turns towards the door.
+[16:57:11] Jonathan Jackson<STEAM_0:0:68118061> changed their name to Harold George
+[16:58:11] Harold George: // Where's Mr Work Desk at?
+[16:58:21] Dropped "CCA.C17-UNION.i5.77460" from server<STEAM_0:1:196547442>
+[16:58:26] Harold George: // ah oof
+[16:58:31] Harold George: // I'll flag I guess then
+[16:58:36] Harold George<STEAM_0:0:68118061> changed their name to CCA.C17-HELIX.i4.08874
+[16:59:05] CCA.C17-HELIX.i4.08874: /radio 10-14
+[17:00:16] CCA.C17-HELIX.i4.08874: Citzen
+[17:00:21] CCA.C17-HELIX.i4.08874: What do you need?
+[17:00:22] Tanya L. Fredrickson: Evenin lad, got anything avalible?
+[17:00:32] CCA.C17-HELIX.i4.08874: Give me a second.
+[17:00:40] CCA.C17-HELIX.i4.08874: /radio 10-2
+[17:00:53] CCA.C17-HELIX.i4.08874<STEAM_0:0:68118061> spawned model models/props_junk/plasticcrate01a.mdl
+[17:01:02] CCA.C17-HELIX.i4.08874<STEAM_0:0:68118061> spawned model models/props_junk/popcan01a.mdl
+[17:01:03] CCA.C17-HELIX.i4.08874<STEAM_0:0:68118061> spawned model models/props_junk/popcan01a.mdl
+[17:01:05] CCA.C17-HELIX.i4.08874<STEAM_0:0:68118061> spawned model models/props_junk/popcan01a.mdl
+[17:01:06] CCA.C17-HELIX.i4.08874<STEAM_0:0:68118061> spawned model models/props_junk/popcan01a.mdl
+[17:01:11] CCA.C17-HELIX.i4.08874<STEAM_0:0:68118061> spawned model models/props_junk/popcan01a.mdl
+[17:01:12] CCA.C17-HELIX.i4.08874<STEAM_0:0:68118061> spawned model models/props_junk/popcan01a.mdl
+[17:01:13] CCA.C17-HELIX.i4.08874<STEAM_0:0:68118061> spawned model models/props_junk/popcan01a.mdl
+[17:01:15] CCA.C17-HELIX.i4.08874<STEAM_0:0:68118061> spawned model models/props_junk/popcan01a.mdl
+[17:01:16] CCA.C17-HELIX.i4.08874<STEAM_0:0:68118061> spawned model models/props_junk/popcan01a.mdl
+[17:01:17] CCA.C17-HELIX.i4.08874<STEAM_0:0:68118061> spawned model models/props_junk/popcan01a.mdl
+[17:01:19] CCA.C17-HELIX.i4.08874<STEAM_0:0:68118061> spawned model models/props_junk/popcan01a.mdl
+[17:01:20] CCA.C17-HELIX.i4.08874<STEAM_0:0:68118061> spawned model models/props_junk/popcan01a.mdl
+[17:02:21] CCA.C17-HELIX.i4.08874: // I hate this
+[17:02:33] CCA.C17-HELIX.i4.08874<STEAM_0:0:68118061> spawned model models/props_junk/plasticcrate01a.mdl
+[17:02:35] CCA.C17-HELIX.i4.08874<STEAM_0:0:68118061> spawned model models/props_junk/popcan01a.mdl
+[17:02:36] CCA.C17-HELIX.i4.08874<STEAM_0:0:68118061> spawned model models/props_junk/popcan01a.mdl
+[17:02:37] CCA.C17-HELIX.i4.08874<STEAM_0:0:68118061> spawned model models/props_junk/popcan01a.mdl
+[17:02:38] CCA.C17-HELIX.i4.08874<STEAM_0:0:68118061> spawned model models/props_junk/popcan01a.mdl
+[17:02:40] CCA.C17-HELIX.i4.08874<STEAM_0:0:68118061> spawned model models/props_junk/popcan01a.mdl
+[17:02:41] CCA.C17-HELIX.i4.08874<STEAM_0:0:68118061> spawned model models/props_junk/popcan01a.mdl
+[17:02:42] CCA.C17-HELIX.i4.08874<STEAM_0:0:68118061> spawned model models/props_junk/popcan01a.mdl
+[17:02:44] CCA.C17-HELIX.i4.08874<STEAM_0:0:68118061> spawned model models/props_junk/popcan01a.mdl
+[17:03:07] CCA.C17-HELIX.i4.08874: /me drops a small plastic crate filled with cans on the desk.
+[17:03:21] CCA.C17-HELIX.i4.08874: You're going to restock a vending machine.
+[17:03:27] CCA.C17-HELIX.i4.08874: Wait right there.
+[17:03:33] Tanya L. Fredrickson: Oke doke
+[17:04:10] CCA.C17-HELIX.i4.08874: /looc Use your hands
+[17:04:16] CCA.C17-HELIX.i4.08874: Come.
+[17:04:46] CCA.C17-HELIX.i4.08874: This one right here.
+[17:05:34] CCA.C17-HELIX.i4.08874: /me unlocks the vending maching, opening up the front hatch with a handle.
+[17:06:09] CCA.C17-HELIX.i4.08874: /it Inside there are various chutes used for inputing different types of cans, leftmost being regular and rightmost being sparkling.
+[17:06:30] CCA.C17-HELIX.i4.08874: Put in the cans, and then test it, see if it works.
+[17:07:18] CCA.C17-HELIX.i4.08874: /radio Citizen summoned
+[17:07:28] Tanya L. Fredrickson: /me Would take out several cans in one arm, placing them into the provided chutes, each going to the corrisponding chute, their precision and speed would be that of a doctor moving through a dozen patients all at once finishing this small work tast in seconds.
+[17:08:56] CCA.C17-HELIX.i4.08874: Alright, you done?
+[17:09:01] Tanya L. Fredrickson: Aye.
+[17:09:12] CCA.C17-HELIX.i4.08874: Move aside.
+[17:09:40] CCA.C17-HELIX.i4.08874: /me closes the vending machine up with a loud click, before moving his hand towards the sparkling button, clicking it.
+[17:09:49] CCA.C17-HELIX.i4.08874: Hm
+[17:10:00] CCA.C17-HELIX.i4.08874: Did you jam something in it?
+[17:10:28] Tanya L. Fredrickson: That'd be a negative, everything should be in order.
+[17:10:41] CCA.C17-HELIX.i4.08874: Well it isn't. Figure out the problem.
+[17:10:49] CCA.C17-HELIX.i4.08874: /me opens it back up.
+[17:11:05] CCA.C17-HELIX.i4.08874: /looc you can do /mes to figure out the problem
+[17:11:07] Tanya L. Fredrickson: Gotta give er the good ol two tap on the side when ordering the mechanizms in the machine are ancient.
+[17:11:59] Tanya L. Fredrickson: /me Sofltly closes the door before pressing down on the regular, flavored, then sparkling water buttons, before slapping the side of the machine twice similarly as to how it was portrayed in the games to open the secret door but morover used to unjam the machines.
+[17:12:15] Tanya L. Fredrickson: .// it work?
+[17:12:31] CCA.C17-HELIX.i4.08874: /looc Roll Int
+[17:12:41] Tanya L. Fredrickson: /rollskill int
+[17:12:48] Tanya L. Fredrickson: /rollattribute int
+[17:13:06] Tanya L. Fredrickson: .// how about strength?
+[17:13:12] CCA.C17-HELIX.i4.08874: /looc Sure
+[17:13:17] Tanya L. Fredrickson: /rollattribute Strength
+[17:13:22] Tanya L. Fredrickson: .// BRUH fuck my rolls
+[17:13:32] CCA.C17-HELIX.i4.08874: /it The machine makes a groaning sounds, nothing pops out.
+[17:13:43] CCA.C17-HELIX.i4.08874: /me chuckles
+[17:13:52] CCA.C17-HELIX.i4.08874: /w haha
+[17:14:02] Tanya L. Fredrickson: Hmmm...this might be a mechanical issue not a physical one, let's take a look at the chute mechanizm.
+[17:14:16] CCA.C17-HELIX.i4.08874: You're the one doing it, not me.
+[17:14:38] Tanya L. Fredrickson: /me Opening the door, they'd take a peek around the inside of the machine, their gaze fixsated on the mechanical parts looking for any rusts, and or jams that would block the simple pressure/pully systems.
+[17:15:36] CCA.C17-HELIX.i4.08874: /it You see a bit of paper jammed blocking the chute with a can of sparkling water and a regular can being blocked by it. Something is written on the paper.
+[17:16:16] Tanya L. Fredrickson: /me Takes the paper out, shoving it into their bag as to not litter before promptly closing the machine and clicking one of the provided buttons!
+[17:16:27] CCA.C17-HELIX.i4.08874: /looc Go for it.
+[17:16:40] Tanya L. Fredrickson: Huzza.
+[17:16:44] CCA.C17-HELIX.i4.08874: Alright, good. What caused it?
+[17:17:43] Tanya L. Fredrickson: Trash was jammed into the machine, I think the internal plastic coating peeled off from a friction burn on the rear most piston, the unit's pretty old so you might wanna get it replaced.
+[17:18:01] CCA.C17-HELIX.i4.08874: As if it will get replaced.
+[17:18:06] CCA.C17-HELIX.i4.08874: Take that crate and head back.
+[17:18:10] Tanya L. Fredrickson: Aye lad.
+[17:18:25] CCA.C17-HELIX.i4.08874: /radio 10-8
+[17:19:21] CCA.C17-HELIX.i4.08874: Apply
+[17:19:27] Tanya L. Fredrickson: /apply
+[17:19:41] CCA.C17-HELIX.i4.08874: /me takes out a small PDA, switching it on. It illuminates a bright green.
+[17:19:47] CCA.C17-HELIX.i4.08874: /me types into it.
+[17:19:52] CCA.C17-HELIX.i4.08874: /viewdata tanya
+[17:21:27] CCA.C17-HELIX.i4.08874: Two Loyalist Points have been added to your record.
+[17:21:38] Tanya L. Fredrickson: Aye, thanks
+[17:21:43] CCA.C17-HELIX.i4.08874: /me proceeds to take some tokens from his toolbelt and rop it on the desk
+[17:21:58] CCA.C17-HELIX.i4.08874: /droptokens 10
+[17:22:14] CCA.C17-HELIX.i4.08874: That'll cover the cost for the can.
+[17:22:21] CCA.C17-HELIX.i4.08874: Also, before you go...
+[17:23:04] CCA.C17-HELIX.i4.08874: Do you happen to know anything about a certain Alex Palovichov?
+[17:23:43] Tanya L. Fredrickson: Uh- wasn't that the director of the CIU? 
+[17:23:51] CCA.C17-HELIX.i4.08874: ICT.
+[17:24:25] Tanya L. Fredrickson: Ah- sorry handbook is vauga about the ranking structure in the CWU, but no I haven't other then in the writing.
+[17:24:41] CCA.C17-HELIX.i4.08874: Do you know anything about the person in question?
+[17:25:24] Tanya L. Fredrickson: Personally? No, not at all I am in a different branch of the CWU and handle a different field.
+[17:26:11] CCA.C17-HELIX.i4.08874: Wait right there.
+[17:26:24] CCA.C17-HELIX.i4.08874: /radio 10-2, individual may be unaware.
+[17:26:48] Tanya L. Fredrickson: /me places the trash from the vending machine in the bin, before leaning on the fence.
+[17:27:04] CCA.C17-HELIX.i4.08874: Go on the wall for me.
+[17:27:07] Tanya L. Fredrickson: Right then.
+[17:27:33] CCA.C17-HELIX.i4.08874: Hands apart on the wall, legs apart.
+[17:28:01] Tanya L. Fredrickson: /me Does so, knowing the procedure pretty well due to their previous city checking at every entry or exit out of the clinic and they did so without any form of resistance.
+[17:28:16] CCA.C17-HELIX.i4.08874: You are going to be completely still.
+[17:28:21] CCA.C17-HELIX.i4.08874: /charsearch
+[17:28:41] CCA.C17-HELIX.i4.08874: /radio Clean.
+[17:28:53] CCA.C17-HELIX.i4.08874: Alright, you can go.
+[17:29:02] Tanya L. Fredrickson: Right then, have a good day officer.
+[17:29:05] CCA.C17-HELIX.i4.08874: Mrm
+[17:29:10] CCA.C17-HELIX.i4.08874: // Mhm*
+[17:29:31] Tanya L. Fredrickson: /pm helix so what did the paper end up saying?
+[17:29:44] CCA.C17-HELIX.i4.08874: /pm Tanya Are you reading it?
+[17:29:54] Tanya L. Fredrickson: /me Helix Aye.
+[17:30:02] Tanya L. Fredrickson: /pm helix aye.
+[17:31:49] CCA.C17-HELIX.i4.08874: /pm Tanya "Fellow repressed Citizens of Earth, for too long have we been treated horribly by our Combine Occupiers, forced to be searched and living on awful rations and small wages. We must free ourselves from this rule, join us today in our resistance, even minor acts may once day add up to liberation."
+[17:32:31] Tanya L. Fredrickson: /pm hel yeah she tosses it into the garbage immediatly.
+[17:33:09] CCA.C17-HELIX.i4.08874<STEAM_0:0:68118061> changed their name to Jonathan Jackson
+[17:33:39] Tanya L. Fredrickson: // Ima go shower
+[17:33:46] Dropped "Tanya L. Fredrickson" from server<STEAM_0:1:115933392>
+[17:33:53] Jonathan Jackson<STEAM_0:0:68118061> used the tool ledscreen on maps/rp_industrial17_v1.bsp
+[17:33:55] Jonathan Jackson<STEAM_0:0:68118061> used the tool ledscreen on maps/rp_industrial17_v1.bsp
+[17:39:31] Jonathan Jackson: Has he gone mad?
+[18:00:57] Client "Peppermint" connected.
+[18:05:50] Client "Peppermint" spawned in server <STEAM_0:1:115933392> (took 293 seconds).
+[18:06:34] Peppermint<STEAM_0:1:115933392> changed their name to Tanya L. Fredrickson
+[18:11:44] Jonathan Jackson: // afk rn
+[18:11:48] Jonathan Jackson: // be back in a bit
+[18:11:50] Dropped "Tanya L. Fredrickson" from server<STEAM_0:1:115933392>
+[18:24:15] Client "Nums" connected.
+[18:24:28] Client "Nums" connected.
+[18:25:39] Client "Nums" spawned in server <STEAM_0:1:196547442> (took 71 seconds).
+[18:27:12] Nums<STEAM_0:1:196547442> changed their name to CCA.C17-UNION.i5.77460
+[18:27:19] CCA.C17-UNION.i5.77460: // returned
+[18:28:53] Dropped "CCA.C17-UNION.i5.77460" from server<STEAM_0:1:196547442>
+[18:51:05] Client "Peppermint" connected.
+[18:54:19] Client "Peppermint" spawned in server <STEAM_0:1:115933392> (took 194 seconds).
+[18:55:23] Peppermint<STEAM_0:1:115933392> changed their name to Tanya L. Fredrickson
+[19:05:27] Jonathan Jackson: // ooof
+[19:05:32] Jonathan Jackson: // Sorry about that
+[19:05:35] Jonathan Jackson: // Cousin was over
+[19:05:38] Tanya L. Fredrickson: // what?
+[19:05:48] Jonathan Jackson: // My little cousin, he was on my computer for a while
+[19:05:52] Jonathan Jackson: // That was why I was afk
+[19:05:57] Tanya L. Fredrickson: // ah alright then
+[19:06:42] Jonathan Jackson: // Time for some checkup rp
+[19:07:48] Jonathan Jackson: // get over here :P
+[19:07:56] Tanya L. Fredrickson: // Tanyas on break yo
+[19:08:07] Jonathan Jackson: // Break oh please
+[19:08:12] Jonathan Jackson: // Your entire job is a break
+[19:08:20] Jonathan Jackson: /actsit
+[19:08:34] Tanya L. Fredrickson: // Exactly why I am wanting to do something else cause its so boring
+[19:08:48] Jonathan Jackson: // Well now I am here to make it not boring
+[19:09:48] Jonathan Jackson: /me gets up from the seat
+[19:10:08] Jonathan Jackson: Ah hello there.. Tana?
+[19:10:12] Jonathan Jackson: No that isn't right
+[19:10:15] Tanya L. Fredrickson: Tanya.
+[19:10:19] Jonathan Jackson: Right sorry.
+[19:10:23] Jonathan Jackson: Tenya
+[19:10:36] Tanya L. Fredrickson: How you doing lad.
+[19:10:50] Jonathan Jackson: I'm doing good right now, I'm here for that checkup.
+[19:10:58] Tanya L. Fredrickson: Oh- alright then come on back.
+[19:11:21] Tanya L. Fredrickson: Pop a seat on the table
+[19:11:24] Jonathan Jackson: Sure thing
+[19:11:41] Jonathan Jackson: /me sits on the table, legs hanging off of it.
+[19:11:50] Tanya L. Fredrickson: So, what seems to be the issue my boy, or is this just an exsplorative checkup?
+[19:12:13] Jonathan Jackson: Just a checkup, no issues that I have as of now.
+[19:12:40] Tanya L. Fredrickson: Hm, alright then well Ill check your BP, and your heart rate, your breathing, and reflexes and then well move on from there okay?
+[19:12:54] Jonathan Jackson: Alright.
+[19:13:27] Tanya L. Fredrickson: /me Grabbing their stethescope, they would start out by placing it softly on the center of his chest, counting two seperate numbers in their head at once as they listen to his heart rate.
+[19:13:55] Jonathan Jackson: /me brethes in and out normally.
+[19:14:15] Tanya L. Fredrickson: /me placing it on his back, she would check for any abnormalities in his breathing.
+[19:14:49] Jonathan Jackson: /me continues to breathe normally.
+[19:14:57] Jonathan Jackson: /looc I mispelled the first time 
+[19:16:04] Tanya L. Fredrickson: /me Looking at his heart rate, they would nod as it is at a normal level, only then would they pull out a small BP pressure  guage, unwrapping the fabric with a harsh whelsch noise, placing it around his arm she'd start pumping it up, whilst reading the gauge writing all of this information down.
+[19:16:41] Jonathan Jackson: /looc You can probably judge for yourself that I am still breathing normally.
+[19:16:56] Tanya L. Fredrickson: .// this is a BP test, not a heartrate test.
+[19:17:15] Tanya L. Fredrickson: .// Does he have any sort of desises, like diabetus
+[19:17:17] Jonathan Jackson: /looc I mean if you do anything else
+[19:17:32] Jonathan Jackson: /it The bloodpressure seems normal enough.
+[19:18:28] Tanya L. Fredrickson: /me taking off the wrap, she would then pull out a small plastic hammer, gentley tapping on his joints he would tap on his legs to start off with, then moving upwards around the inner section of his arms, writst, then the sides of his shoulders...all two or three soft taps.
+[19:20:11] Jonathan Jackson: /it the respective joints appear to have normal reflexes.
+[19:20:19] Jonathan Jackson: /looc The*
+[19:20:37] Tanya L. Fredrickson: Right, from what I can tell it's normal across the board no real deviations from the standard...
+[19:20:54] Jonathan Jackson: That's good, I would hope not.
+[19:21:30] Jonathan Jackson: /looc I have the highest possible agility so I would hope so
+[19:21:59] Tanya L. Fredrickson: That being said you are a bit underweight, might wanna try to get a bit more nutrients in your diet.
+[19:22:37] Jonathan Jackson: Yeah, I'll admit for a while there I wasn't making enough tokens to get food, but I should be in the green now.
+[19:22:51] Tanya L. Fredrickson: Right, other then that you should be alright.
+[19:23:14] Tanya L. Fredrickson: Do you want any other checkups- I can do a more specific one for a higher price.
+[19:23:35] Jonathan Jackson: Mm sure, you seem like you can use the money.
+[19:24:20] Tanya L. Fredrickson: Right, here are my fields of exspertise...chriopracticy, muscle and bone development, and general care of the eyes.
+[19:24:56] Jonathan Jackson: Go with the first one, I don't know what it means but I assume it is good to check.
+[19:25:14] Tanya L. Fredrickson: It's like popping your back, making sure your bones are alligned
+[19:25:17] Tanya L. Fredrickson: stuff like that.
+[19:25:36] Jonathan Jackson: Ah alright, sure then.
+[19:26:02] Tanya L. Fredrickson: Right then, could you remove your shirt and lie flat on your belly.
+[19:26:12] Jonathan Jackson: Uh sure.
+[19:26:32] Jonathan Jackson: /me takes off his shirt, revealing nothing noteworthy.
+[19:26:51] Jonathan Jackson: /me proceeds to lie back on his stomach.
+[19:27:07] Jonathan Jackson: /charfallover
+[19:27:14] Jonathan Jackson: /looc put on bed lol
+[19:27:27] Jonathan Jackson: /looc Or the examination table rather
+[19:27:44] Tanya L. Fredrickson: /me Starting off with putting gloves on, she'd then start by looking at his upper back feeling his shoulder blades and vertibre of his back, her thumbs pressing softly on the bones checking for allignment.
+[19:28:50] Jonathan Jackson: /looc I can't act like I know this so you do the roleplay from here, if I know something I'll chime in.
+[19:29:52] Tanya L. Fredrickson: /me Looking over his spine, she would spot a few out of place vertibre, nothing noteworthy just one quick adjustment and it would be fine, taking no time she'd start by locating the specific out of place vertibre before firmly pressing downward on his back pushing it into place.
+[19:31:01] Tanya L. Fredrickson: /me In quick succession they would count out the bones in his back before moving to his lower back, finding it tense and seemingly a bit redder then an average back due to strain from standing all day, so feeling it softly they would locate the highly out of place bone and with one quick motion softly push it back into place with a resounding pop and a warm feeling in the area...
+[19:32:01] Tanya L. Fredrickson: /me looking over his back, she'd then move to softly feel his shoulder, checking it for anything...finding nothing they'd move down to his hands, popping all of his fingers to release any pressure buildup.
+[19:32:10] Tanya L. Fredrickson: /me repeats the same cycle on the other side.
+[19:32:31] Tanya L. Fredrickson: /me finishing the overall examination and light adjustments they'd pat him on the shoulder gesturing for him to sit up.
+[19:32:49] Jonathan Jackson: /me lifts himself up with his arms.
+[19:32:52] Jonathan Jackson: /chargetup
+[19:33:14] Jonathan Jackson: /me puts back on his shirt as soon as he gets back up.
+[19:33:22] Tanya L. Fredrickson: Feeling any better?
+[19:33:56] Jonathan Jackson: /me thinks for a second before saying, "Yeah, it feel a bit more... relaxed?"
+[19:34:05] Jonathan Jackson: I don't know how else to describe it.
+[19:34:22] Jonathan Jackson: /me stretches a bit, leaning backwards.
+[19:34:27] Jonathan Jackson: Definitely less tense.
+[19:34:35] Tanya L. Fredrickson: That's a good thing.
+[19:34:51] Jonathan Jackson: I'd be concerned if it wasn't.
+[19:35:10] Tanya L. Fredrickson: Well- lets just say if some random shmuck tries to pop your back they could cripple you.
+[19:35:38] Jonathan Jackson: Hm, that doesn't sounds good.
+[19:35:55] Tanya L. Fredrickson: Right then, take however long you need and Ill be out in the lobby waiting on you to discuss checking out.
+[19:36:12] Jonathan Jackson: /me gets up from sitting down.
+[19:37:08] Tanya L. Fredrickson: Right, that will be ten credits.
+[19:37:28] Jonathan Jackson: Alright, got it.
+[19:37:45] Jonathan Jackson: /me fiddles around in his pocket before producing a couple of tokens.
+[19:37:50] Jonathan Jackson: /droptokens 8
+[19:37:52] Jonathan Jackson: Hold on
+[19:38:00] Jonathan Jackson: /me looks into his other pocket getting out two tokens
+[19:38:09] Jonathan Jackson: /droptokens two
+[19:38:13] Jonathan Jackson: /droptokens 2
+[19:38:46] Tanya L. Fredrickson: Right well, I can do regular checkups and chiropractic adjustments whenever you want- just try not to do it too often aye?
+[19:39:05] Jonathan Jackson: Gotcha, thanks.
+[19:39:25] Tanya L. Fredrickson: One more thing- I found this note in one of the vending machines jammed up
+[19:39:29] Tanya L. Fredrickson: can you tell me what it means?
+[19:39:35] Jonathan Jackson: What note?
+[19:39:48] Tanya L. Fredrickson: /me moves over to the trash bin, picking up the note before sliding it across the counter.
+[19:39:56] Jonathan Jackson: /me reads it over.
+[19:40:03] Tanya L. Fredrickson: It was lodged into the machine, and it really spooked me...
+[19:40:08] Jonathan Jackson: You found this in a vending machine?
+[19:40:19] Tanya L. Fredrickson: Aye lad, you think someone is poisoning the water?
+[19:40:26] Jonathan Jackson: Psh, doubt it
+[19:40:34] Jonathan Jackson: This message doesn't really convey that
+[19:40:59] Jonathan Jackson: I might know somebody doing this, I saw another one of these in the alley leading to the Grizzly Grotto.
+[19:41:07] Tanya L. Fredrickson: Weird...
+[19:41:09] Jonathan Jackson: Someone named "The Doctor"
+[19:41:33] Tanya L. Fredrickson: This city is just getting weirder and weirder
+[19:41:59] Jonathan Jackson: You tell me, I try not to get involved even if my mood tries to change that opinion.
+[19:42:17] Jonathan Jackson: /me grabs the paper, "I'll throw this out for you if you want."
+[19:42:27] Tanya L. Fredrickson: Nah, I am just gonna tear it up in the shreader
+[19:42:34] Jonathan Jackson: Sure thing.
+[19:42:38] Jonathan Jackson: /me drops the paper on the counter.
+[19:42:46] Tanya L. Fredrickson: /me Takes the note before putting it into the respective shreader on its thinist setting
+[19:43:05] Tanya L. Fredrickson: That being said- I am really fuckin terrified that someone's gonna do something that they'll regret and get people injured.
+[19:43:46] Jonathan Jackson: As much as they call them Anti-Citizens they might care for citizens a lot more than the CPs sometime
+[19:44:01] Jonathan Jackson: Either way, I wouldn't worry.
+[19:44:09] Tanya L. Fredrickson: Least with CPs they have motive to protect us as long as we co-operate...
+[19:44:41] Tanya L. Fredrickson: anti-citizens they just do what they want, when they want, how they want...some of the things I saw in my previous city were so grusome it keeps me up at night.
+[19:44:58] Jonathan Jackson: Not in this city.
+[19:45:05] Jonathan Jackson: I should be going though, take care.
+[19:45:10] Jonathan Jackson: /me turns and walks
+[19:45:13] Tanya L. Fredrickson: Aye, bye man.
+[19:45:31] Tanya L. Fredrickson: // Good passive RP
+[19:45:42] Jonathan Jackson: // Passive RP is cool
+[19:45:51] Jonathan Jackson<STEAM_0:0:68118061> changed their name to Harold George
+[19:46:40] Harold George: /it You hear footsteps coming up from behind you.
+[19:46:46] Harold George: You.
+[19:46:49] Tanya L. Fredrickson: JESUS
+[19:47:03] Harold George: I'm not going to ask twice, drop your tokens.
+[19:47:06] Tanya L. Fredrickson: /me Fumbles around in their pocket for a second sputtering as they do so "F-Fu FUCK.
+[19:47:21] Harold George: /me goes and tackles the person to the ground.
+[19:47:27] Harold George: /looc Combat RP time
+[19:47:55] Tanya L. Fredrickson: .// What'd this be, cause she has nearly max statted hand to hand with basic stats
+[19:48:05] Tanya L. Fredrickson: .// 38 in a hand to hand lel
+[19:48:23] Harold George: /looc Well I'd roll athletics for this, and this depends on what action you take.
+[19:48:55] Tanya L. Fredrickson: /me Tries to deck the man in his cycloptic eye, using their strength and steadfast nature...and height to attempt to knock him out clean.
+[19:49:04] Tanya L. Fredrickson: /rollskill "hand to hand"
+[19:49:11] Harold George: /rollattribute strength
+[19:49:12] Tanya L. Fredrickson: .// FUCK MY ROLLS
+[19:49:22] Tanya L. Fredrickson: .// I always roll low ;-;
+[19:50:04] Harold George: /me grabs them by the throat, "Don't resist or I'll make sure you get hurt."
+[19:50:45] Tanya L. Fredrickson: /me grabbing him by the wrist they would hold him back for a second before the life is squeezed out of them, bringing them slipping into unconsciousness.
+[19:51:00] Harold George: /rollattribute strength
+[19:51:13] Tanya L. Fredrickson: .// They're out, it doesn't matter about rolls
+[19:51:35] Tanya L. Fredrickson: /charfallover
+[19:51:47] Harold George: /looc Oh I didn't read it correct
+[19:52:07] Harold George: /me puts his crowbar holstered on his back before searching the person infront of them.
+[19:52:12] Harold George: /charsearch
+[19:52:24] Harold George: /looc I can't search you unless you are up so just fall back down after
+[19:52:36] Harold George: /charsearch
+[19:53:15] Harold George: /me searches for any tokens on the person.
+[19:53:26] Tanya L. Fredrickson: /droptokens 90
+[19:53:32] Harold George: /looc How many do you have on you? I'm not gonna take all of them just want to make sure I can see.
+[19:53:43] Tanya L. Fredrickson: .// on the ground, take em all
+[19:54:02] Harold George: /me takes some tokens out of there pocket.
+[19:54:10] Harold George: /me then gets off of them, and runs out.
+[19:54:19] Harold George: // Their*
+[19:54:43] Harold George: // Malignent RP is my favorite
+[19:54:58] Tanya L. Fredrickson: /me would be out cold, lying on their side, their skull slightly bleeding from the impact...they were dead still as they exsperience seconds worth of oxygenless brain, leaving them in a webbing state of pain.
+[19:55:07] Harold George: // I'll flag up to CP in a sec
+[19:55:13] Tanya L. Fredrickson: // Yeah- you just mugged the nicest person in the city lol
+[19:55:20] Tanya L. Fredrickson: /charfallover
+[19:55:23] Harold George: // And this is the not nicest person in the city lmao
+[19:55:59] Tanya L. Fredrickson: // She was right lol
+[19:56:16] Harold George: // Well somewhat, technically I may not have any records on me
+[19:56:19] Harold George: // at all
+[19:56:27] Harold George: // Nor do they know who I am
+[19:56:31] Tanya L. Fredrickson: // Gonna flag on CP or...
+[19:56:42] Harold George: // Yeah I was just getting to my hiding hole lol
+[19:56:48] Harold George<STEAM_0:0:68118061> changed their name to CCA.C17-HELIX.i4.08874
+[19:56:52] CCA.C17-HELIX.i4.08874: /radio 10-8
+[19:57:46] CCA.C17-HELIX.i4.08874: /radio Block holding
+[19:58:23] Tanya L. Fredrickson: /me Waking up, they would feel awful...stumbling for a moment they'd push themself up crawling on the ground towards the door.
+[19:58:53] CCA.C17-HELIX.i4.08874: /radio 10-14
+[19:59:05] Tanya L. Fredrickson: /me passes out as they make it to the street, their head bleeding and their neck showing fresh bruises...
+[19:59:08] Tanya L. Fredrickson: /charfallover
+[19:59:23] CCA.C17-HELIX.i4.08874: /radio 408
+[19:59:42] CCA.C17-HELIX.i4.08874: /me grabs the person, immediately bringing them inside the CMU building.
+[20:00:07] CCA.C17-HELIX.i4.08874: /looc LIFT
+[20:00:41] CCA.C17-HELIX.i4.08874: /looc I swear
+[20:00:43] Tanya L. Fredrickson: .// lemme get up
+[20:00:52] Tanya L. Fredrickson: /charfallover
+[20:00:56] CCA.C17-HELIX.i4.08874: /looc bruh
+[20:01:18] CCA.C17-HELIX.i4.08874: /me places them down face up, immediately rushing out to get some medical supplies.
+[20:01:49] Tanya L. Fredrickson: /me poor choice, she vomited causing herself to choke...soft whimpers and gags are heard, along with coughs
+[20:02:01] CCA.C17-HELIX.i4.08874: /radio Injured citizen at my 10-20! Requesting all units status immediately.
+[20:02:18] CCA.C17-HELIX.i4.08874: /me shoots the lock open on the metal cabinet.
+[20:02:33] CCA.C17-HELIX.i4.08874: /me grabs some medical supplies before heading back.
+[20:02:42] Tanya L. Fredrickson: /me continues to choke, again loosing consciousness.
+[20:02:49] CCA.C17-HELIX.i4.08874: /me examines the persons state.
+[20:02:53] CCA.C17-HELIX.i4.08874: /looc Give me a description
+[20:03:15] Tanya L. Fredrickson: .// Mild concussion, strangulation marks on the neck, they are choking on their vomit from the concussion.
+[20:03:20] CCA.C17-HELIX.i4.08874: /radio At location report
+[20:03:56] CCA.C17-HELIX.i4.08874: /me grabs a bandage out of their holster and applies it to the persons head, making sure the bleeding is stopped.
+[20:04:10] Tanya L. Fredrickson: .// She's gonna die if you don't drain the airway...
+[20:04:23] CCA.C17-HELIX.i4.08874: /me then examines the persons neck, before realizing what is going on.
+[20:04:28] CCA.C17-HELIX.i4.08874: /looc I know.
+[20:04:53] Tanya L. Fredrickson: /me due to the lack of oxygen, her brain was slowly starting to die as the little heartbeat that could would stop...
+[20:05:54] CCA.C17-HELIX.i4.08874: /me proceeds to attempt to clear their airway by doing a hemlic manuever, trying to get whatever vomit that is caught in out of them.
+[20:06:36] Tanya L. Fredrickson: .// 40 seconds without oxygen in the brain right now.
+[20:06:41] CCA.C17-HELIX.i4.08874: /me then proceeds to check for a pulse on the victim infront of them, as well as listening if they are breathing at least more steadily.
+[20:07:00] CCA.C17-HELIX.i4.08874: /looc I have to type things out :p
+[20:07:06] Tanya L. Fredrickson: /me Had no pulse, their heart stopped ten seconds ago!
+[20:07:13] CCA.C17-HELIX.i4.08874: Shit.
+[20:07:32] CCA.C17-HELIX.i4.08874: /me grabs an emergency difibulator from the medical cabinet.
+[20:08:22] CCA.C17-HELIX.i4.08874: /me moves over the individual and turns on the difibulator, pressing a green button
+[20:08:47] CCA.C17-HELIX.i4.08874: /me then peels off the sticky pads on them, attatching it to their skin by taking off their shirt.
+[20:09:22] CCA.C17-HELIX.i4.08874: /it The difibulator then automatically shocks the person, sensing no heart rate.
+[20:09:33] Tanya L. Fredrickson: /it It has no effect...
+[20:09:56] CCA.C17-HELIX.i4.08874: /it It continues to shock the person twice more.
+[20:10:47] Tanya L. Fredrickson: /it neither are effective in restarting the heart, the AED wasn't the right tool for the job, and only assisted in the damage to their heart, bit by bit they were fully dying...
+[20:10:59] CCA.C17-HELIX.i4.08874: /me drags the persons head around to them, checking down their throat, seeing if anything is blocked.
+[20:11:27] Tanya L. Fredrickson: /it their throat is not blocked, their heart just wouldn't start via electrical shock...
+[20:11:40] Tanya L. Fredrickson: .// two more interactions, and they are dead.
+[20:12:58] CCA.C17-HELIX.i4.08874: /looc I'll be real, I was never trained for this situation.
+[20:13:08] Tanya L. Fredrickson: .// OOF- hahaha...
+[20:13:20] Tanya L. Fredrickson: .// well guess tanya's dead- the hint would be chest compressions.
+[20:13:53] CCA.C17-HELIX.i4.08874: /looc I still have two more actions loser
+[20:13:56] CCA.C17-HELIX.i4.08874: /looc Said it yourself
+[20:13:59] Tanya L. Fredrickson: .// AED doesn't work on most if anything but cardiac arrest, and this character went through oxygen deprivation.
+[20:14:05] Tanya L. Fredrickson: .// Sure, you can try but your rolling
+[20:22:19] CCA.C17-HELIX.i4.08874: /me attempts to do a resusitation on the person before giving, attempting to do some compressions on their chest.
+[20:22:22] Client "cass" connected.
+[20:23:31] Tanya L. Fredrickson<STEAM_0:1:115933392> changed their name to Zomboid OTA Creature
+[20:23:42] Zomboid OTA Creature<STEAM_0:1:115933392> changed their name to Raven
+[20:24:28] Client "cass" spawned in server <STEAM_0:0:57118159> (took 126 seconds).
+[20:25:08] cass<STEAM_0:0:57118159> changed their name to Selene Akehurst
+[20:25:41] Dropped "Selene Akehurst" from server<STEAM_0:0:57118159>
+[20:28:27] Raven suicided!
+[20:29:55] Client "Bean" connected.
+[20:30:54] Raven suicided!
+[20:31:00] Client "Bean" spawned in server <STEAM_0:1:591779303> (took 65 seconds).
+[20:31:22] Bean<STEAM_0:1:591779303> changed their name to James McKay
+[20:31:37] James McKay: /ooc Im...BACKKKKK
+[20:31:47] James McKay: /chardesc
+[20:32:02] CCA.C17-HELIX.i4.08874: e
+[20:32:05] CCA.C17-HELIX.i4.08874: // Welcome
+[20:33:22] James McKay<STEAM_0:1:591779303> changed their name to Alex Palovichov
+[20:34:12] Alex Palovichov: /ooc I've yet to get my code paper back
+[20:34:36] Alex Palovichov: /ooc The probably most important piece of paper in the whole city
+[20:34:48] Raven: // The only CMU died tonight lol
+[20:35:08] Alex Palovichov: /ooc Better for James McKay
+[20:37:27] Alex Palovichov: /ooc Is Q here?
+[20:38:43] Alex Palovichov: Stupid bird..
+[20:38:50] Alex Palovichov killed Raven using player
+[20:38:53] Alex Palovichov: Fuckhead
+[20:39:13] Dropped "Raven" from server<STEAM_0:1:115933392>
+[20:39:33] Alex Palovichov: Hm
+[20:39:37] Alex Palovichov: What is with that symbol...
+[20:39:42] Dropped "Alex Palovichov" from server<STEAM_0:1:591779303>
+[20:42:33] CCA.C17-HELIX.i4.08874: /viewdata Joe Connors
+[20:42:43] Dropped "CCA.C17-HELIX.i4.08874" from server<STEAM_0:0:68118061>
+[20:55:21] Client "LynxQueen" connected.
+[20:55:54] Client "Mr.Ganar" connected.
+[20:57:43] Client "Mr.Ganar" spawned in server <STEAM_0:0:80909581> (took 109 seconds).
+[20:58:03] Dropped "Mr.Ganar" from server<STEAM_0:0:80909581>
+[20:58:46] Client "LynxQueen" spawned in server <STEAM_0:1:70540942> (took 205 seconds).
+[21:01:00] LynxQueen<STEAM_0:1:70540942> changed their name to AWAITING ASSIGNMENT
+[21:01:03] AWAITING ASSIGNMENT: // howdy
+[21:01:20] AWAITING ASSIGNMENT: // ope time to die
+[21:02:09] AWAITING ASSIGNMENT<STEAM_0:1:70540942> changed their name to CCA.C17-HELIX.i3.67098
+[21:02:12] CCA.C17-HELIX.i3.67098: Huh.
+[21:06:28] CCA.C17-HELIX.i3.67098<STEAM_0:1:70540942> changed their name to Seung Shi-eun
+[21:09:37] Seung Shi-eun<STEAM_0:1:70540942> changed their name to Kal'Taar
+[21:11:37] Kal'Taar<STEAM_0:1:70540942> spawned model models/props_c17/oildrum001.mdl
+[21:11:39] Kal'Taar<STEAM_0:1:70540942> spawned model models/props_interiors/vendingmachinesoda01a_door.mdl
+[21:11:40] Kal'Taar<STEAM_0:1:70540942> spawned model models/props_junk/cardboard_box001a.mdl
+[21:15:42] Dropped "Kal'Taar" from server<STEAM_0:1:70540942>
+[21:29:05] Client "Nums" connected.
+[21:32:03] Client "Nums" spawned in server <STEAM_0:1:196547442> (took 178 seconds).
+[21:33:29] Nums<STEAM_0:1:196547442> changed their name to CCA.C17-UNION.i5.77460
+[21:33:43] Dropped "CCA.C17-UNION.i5.77460" from server<STEAM_0:1:196547442>

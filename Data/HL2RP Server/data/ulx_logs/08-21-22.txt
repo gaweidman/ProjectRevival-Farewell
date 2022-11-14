@@ -1,0 +1,440 @@
+[03:08:21] New map: rp_industrial17_v1
+
+
+
+[10:27:13] New map: rp_industrial17_v1
+[10:28:39] Client "matt saton" connected.
+[10:31:23] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 164 seconds).
+[10:32:45] matt saton<STEAM_0:1:53097688> changed their name to CCA.C17-GRID.i3.10945
+[10:32:56] CCA.C17-GRID.i3.10945: /addtenant grid
+[10:33:03] CCA.C17-GRID.i3.10945: /removetenant 1
+[10:33:24] CCA.C17-GRID.i3.10945: /addtenant 2A
+[10:33:34] CCA.C17-GRID.i3.10945: /doorsettitle 2A
+[10:33:36] CCA.C17-GRID.i3.10945: /doorsettitle 2B
+[10:33:39] CCA.C17-GRID.i3.10945: /doorsettitle 2c
+[10:33:42] CCA.C17-GRID.i3.10945: /doorsettitle 2C
+[10:33:43] CCA.C17-GRID.i3.10945: /doorsettitle 2C
+[10:33:46] CCA.C17-GRID.i3.10945: /doorsettitle 2D
+[10:33:53] CCA.C17-GRID.i3.10945: /REMOVETENANT 1
+[10:34:24] CCA.C17-GRID.i3.10945: /Y TEST
+[10:34:52] CCA.C17-GRID.i3.10945: /mey test
+[10:34:54] CCA.C17-GRID.i3.10945: /y test
+[10:39:05] CCA.C17-GRID.i3.10945: /y test
+[10:39:07] CCA.C17-GRID.i3.10945: test
+[10:39:08] CCA.C17-GRID.i3.10945: /w test
+[10:40:42] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/hunter/blocks/cube2x6x025.mdl
+[10:40:46] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/hunter/plates/plate2x5.mdl
+[10:40:48] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/hunter/plates/plate2x4.mdl
+[10:40:51] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool nocollideeverything on models/hunter/plates/plate2x4.mdl
+[10:41:44] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool material on models/hunter/plates/plate2x4.mdl
+[10:41:46] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool material on models/hunter/plates/plate2x4.mdl
+[10:42:00] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool material on models/hunter/plates/plate2x4.mdl
+[10:42:09] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool material on models/hunter/plates/plate2x4.mdl
+[10:42:15] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool material on models/hunter/plates/plate2x4.mdl
+[10:42:19] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool nocollideeverything on models/hunter/plates/plate2x4.mdl
+[10:42:21] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool permaprops on models/hunter/plates/plate2x4.mdl
+[10:43:15] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned sent ix_vortlight
+[10:43:16] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned sent ix_vendingmachine
+[10:43:50] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned sent ix_searchdumpster
+[10:43:55] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool permaprops on models/props_junk/trashdumpster01a.mdl
+[11:08:19] CCA.C17-GRID.i3.10945: /adminspawnmenu
+[11:08:38] CCA.C17-GRID.i3.10945: /chargiveitem g "gas mask"
+[11:08:50] CCA.C17-GRID.i3.10945: /chargiveitem g "conscript"
+[11:11:23] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> changed their name to Ryan Maley
+[11:12:05] Ryan Maley<STEAM_0:1:53097688> spawned sent ix_airvent
+[11:31:17] Ryan Maley<STEAM_0:1:53097688> used the tool camera on maps/rp_industrial17_v1.bsp
+[11:39:32] Ryan Maley<STEAM_0:1:53097688> spawned model models/gibs/antlion_gib_large_1.mdl
+[11:39:39] Ryan Maley<STEAM_0:1:53097688> spawned model models/gibs/antlion_gib_large_2.mdl
+[11:39:52] Ryan Maley<STEAM_0:1:53097688> spawned model models/gibs/antlion_gib_small_2.mdl
+[11:39:55] Ryan Maley<STEAM_0:1:53097688> spawned model models/gibs/antlion_gib_small_3.mdl
+[11:39:57] Ryan Maley<STEAM_0:1:53097688> spawned model models/gibs/antlion_gib_medium_1.mdl
+[11:39:58] Client "Nums" connected.
+[11:39:59] Ryan Maley<STEAM_0:1:53097688> spawned model models/gibs/antlion_gib_small_2.mdl
+[11:40:02] Ryan Maley<STEAM_0:1:53097688> spawned model models/gibs/antlion_gib_large_2.mdl
+[11:40:10] Ryan Maley<STEAM_0:1:53097688> spawned model models/gibs/strider_gib7.mdl
+[11:40:11] Ryan Maley<STEAM_0:1:53097688> spawned model models/gibs/strider_gib7.mdl
+[11:41:40] Ryan Maley<STEAM_0:1:53097688> spawned model models/gibs/strider_gib7.mdl
+[11:41:41] Ryan Maley<STEAM_0:1:53097688> spawned model models/gibs/strider_gib6.mdl
+[11:41:43] Ryan Maley<STEAM_0:1:53097688> spawned model models/gibs/strider_gib7.mdl
+[11:42:06] Client "Nums" spawned in server <STEAM_0:1:196547442> (took 128 seconds).
+[12:32:00] Ryan Maley<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/components/fiberglass.mdl
+[12:32:02] Ryan Maley<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/components/rubber.mdl
+[12:32:06] Ryan Maley<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/components/ballisticfiber.mdl
+[12:32:12] Ryan Maley<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/schematic.mdl
+[12:32:14] Ryan Maley<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/components/cloth.mdl
+[12:32:20] Ryan Maley<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/components/ceramic.mdl
+[12:32:27] Ryan Maley<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/blueprint.mdl
+[12:32:31] Ryan Maley<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/components/crystal.mdl
+[12:32:34] Ryan Maley<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/components/copper.mdl
+[12:32:36] Ryan Maley<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/components/steel.mdl
+[12:32:38] Ryan Maley<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/components/gold.mdl
+[12:32:39] Ryan Maley<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/components/lead.mdl
+[12:32:44] Ryan Maley<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/components/leather.mdl
+[12:32:47] Ryan Maley<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/components/ballisticfiber.mdl
+[12:32:48] Ryan Maley<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/hammer03.mdl
+[12:32:50] Ryan Maley<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/adjustablewrench.mdl
+[12:32:52] Ryan Maley<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/hammer03.mdl
+[12:32:53] Ryan Maley<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/deathclaw_hide.mdl
+[12:33:00] Ryan Maley<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/components/ballisticfiber.mdl
+[12:33:12] Ryan Maley<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/components/fiberglass.mdl
+[12:33:19] Ryan Maley<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/components/fiberoptic.mdl
+[12:33:28] Ryan Maley<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/components/asbestos.mdl
+[12:33:30] Ryan Maley<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/components/asbestos.mdl
+[12:33:32] Ryan Maley<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/components/bone.mdl
+[12:33:35] Ryan Maley<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/components/gears.mdl
+[12:33:45] Ryan Maley<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/components/gears.mdl
+[12:33:52] Ryan Maley<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/components/screws.mdl
+[12:33:56] Ryan Maley<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/components/springs.mdl
+[12:34:23] Ryan Maley<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/components/adhesive.mdl
+[12:41:33] Ryan Maley<STEAM_0:1:53097688> spawned sent ix_airvent
+[12:42:10] Ryan Maley: /toggleraise
+[12:42:18] Ryan Maley<STEAM_0:1:53097688> spawned/gave himself swep weapon_pistol
+[12:42:19] Ryan Maley: /toggleraise
+[12:42:37] Ryan Maley: /toggleraise
+[12:42:39] Ryan Maley: /toggleraise
+[12:42:40] Ryan Maley: /toggleraise
+[12:42:43] Ryan Maley<STEAM_0:1:53097688> spawned/gave himself swep weapon_shotgun
+[12:42:45] Ryan Maley: /toggleraise
+[12:42:46] Ryan Maley: /toggleraise
+[12:42:47] Ryan Maley: /toggleraise
+[12:42:51] Ryan Maley: /toggleraise
+[12:42:51] Ryan Maley: /toggleraise
+[12:43:00] Ryan Maley: /toggleraise
+[12:43:01] Ryan Maley: /toggleraise
+[12:43:02] Ryan Maley: /toggleraise
+[12:43:05] Ryan Maley: /toggleraise
+[12:43:10] Ryan Maley: /toggleraise
+[12:43:10] Ryan Maley: /toggleraise
+[12:43:11] Ryan Maley: /toggleraise
+[12:43:12] Ryan Maley: /toggleraise
+[12:43:12] Ryan Maley: /toggleraise
+[12:43:13] Ryan Maley: /toggleraise
+[12:43:14] Ryan Maley: /toggleraise
+[12:43:15] Ryan Maley: /toggleraise
+[12:43:16] Ryan Maley: /toggleraise
+[12:43:16] Ryan Maley: /toggleraise
+[12:43:17] Ryan Maley: /toggleraise
+[12:43:18] Ryan Maley: /toggleraise
+[12:43:19] Ryan Maley: /toggleraise
+[12:43:20] Ryan Maley: /toggleraise
+[12:43:33] Ryan Maley: /toggleraise
+[12:43:34] Ryan Maley: /toggleraise
+[12:43:36] Ryan Maley<STEAM_0:1:53097688> spawned/gave himself swep weapon_ar2
+[12:43:37] Ryan Maley: /toggleraise
+[12:43:39] Ryan Maley: /toggleraise
+[12:43:43] Ryan Maley: /toggleraise
+[12:43:45] Ryan Maley: /toggleraise
+[12:43:46] Ryan Maley: /toggleraise
+[12:43:48] Ryan Maley: /toggleraise
+[12:43:56] Ryan Maley: /toggleraise
+[12:43:57] Ryan Maley: /toggleraise
+[12:44:00] Ryan Maley<STEAM_0:1:53097688> spawned/gave himself swep weapon_smg1
+[12:44:01] Ryan Maley: /toggleraise
+[12:44:06] Ryan Maley: /toggleraise
+[12:44:09] Ryan Maley: /toggleraise
+[12:44:09] Client "Chicken" connected.
+[12:44:11] Ryan Maley<STEAM_0:1:53097688> spawned/gave himself swep weapon_crossbow
+[12:44:12] Ryan Maley: /toggleraise
+[12:44:15] Ryan Maley: /toggleraise
+[12:44:22] Ryan Maley: /toggleraise
+[12:44:25] Ryan Maley: /toggleraise
+[12:44:28] Ryan Maley<STEAM_0:1:53097688> spawned/gave himself swep weapon_pistol
+[12:44:29] Ryan Maley: /toggleraise
+[12:44:31] Ryan Maley<STEAM_0:1:53097688> spawned/gave himself swep weapon_357
+[12:44:31] Ryan Maley: /toggleraise
+[12:44:32] Ryan Maley: /toggleraise
+[12:44:35] Ryan Maley: /toggleraise
+[12:44:40] Ryan Maley: /toggleraise
+[12:44:42] Ryan Maley<STEAM_0:1:53097688> spawned/gave himself swep weapon_physcannon
+[12:44:42] Ryan Maley: /toggleraise
+[12:47:13] Ryan Maley set the hp for Themself to 100
+[12:47:13] Ryan Maley: !hp ^ 100
+[12:47:30] Ryan Maley<STEAM_0:1:53097688> spawned/gave himself swep weapon_bugbait
+[12:47:31] Ryan Maley: /toggleraise
+[12:47:33] Ryan Maley<STEAM_0:1:53097688> spawned/gave himself swep weapon_frag
+[12:47:34] Ryan Maley: /toggleraise
+[12:47:36] Ryan Maley<STEAM_0:1:53097688> spawned/gave himself swep weapon_crowbar
+[12:47:36] Ryan Maley: /toggleraise
+[12:47:41] Ryan Maley: /toggleraise
+[12:47:45] Ryan Maley<STEAM_0:1:53097688> spawned/gave himself swep weapon_slam
+[12:47:45] Ryan Maley: /toggleraise
+[12:52:25] Client "Chicken" spawned in server <STEAM_0:0:143523274> (took 496 seconds).
+[12:53:09] Chicken<STEAM_0:0:143523274> changed their name to CCA.C17-UNION.i5.03672
+[12:53:44] CCA.C17-UNION.i5.03672: // Why is dominos only good if you microwave it
+[13:02:34] Ryan Maley<STEAM_0:1:53097688> spawned model models/gibs/shield_scanner_gib2.mdl
+[13:02:43] CCA.C17-UNION.i5.03672: // Q SMELLS
+[13:02:48] Ryan Maley: //oh shitit's chicken
+[13:02:52] Ryan Maley: //how long have you bee nhere
+[13:02:53] CCA.C17-UNION.i5.03672: // bro iv been here
+[13:02:55] CCA.C17-UNION.i5.03672: // for like 30 mins
+[13:02:59] CCA.C17-UNION.i5.03672: // and i typed in ooc
+[13:02:59] Ryan Maley: //WHAT
+[13:03:02] CCA.C17-UNION.i5.03672: // what the hell bro
+[13:03:13] Ryan Maley: //i JUST noticed
+[13:03:15] CCA.C17-UNION.i5.03672: // like 30 mins ago i started a convo and you didnt respond
+[13:03:16] Ryan Maley: //what the FUCK
+[13:03:32] Ryan Maley: //also bitch your domino's is bad because domino's is the shit
+[13:03:36] CCA.C17-UNION.i5.03672: // q paying attention impossible!
+[13:03:36] Ryan Maley: //their cheesy bread is unmatched
+[13:03:41] Ryan Maley: //i am MAKING CRAFTING RECIPES
+[13:03:43] Ryan Maley: //and ITEMS
+[13:03:56] CCA.C17-UNION.i5.03672: // i am making all willard items and food
+[13:04:02] CCA.C17-UNION.i5.03672: // and its really annoying
+[13:04:10] CCA.C17-UNION.i5.03672: // cause its like 300 props
+[13:04:21] Ryan Maley: //why not just decide on your own shit to make
+[13:04:25] Ryan Maley: //instead of doing what willard is doing
+[13:04:32] Ryan Maley: //makes it better and less of a chore
+[13:04:40] CCA.C17-UNION.i5.03672: // Well im not doing it for myself
+[13:04:44] Ryan Maley: //oh
+[13:04:47] CCA.C17-UNION.i5.03672: // im doing it for leon
+[13:04:52] Ryan Maley: //ohhhh
+[13:04:56] CCA.C17-UNION.i5.03672: // aka after life rp
+[13:05:00] Ryan Maley: '-'
+[13:05:00] CCA.C17-UNION.i5.03672: // aka wwc rp
+[13:05:08] Ryan Maley: //wwc?
+[13:05:13] Ryan Maley: //...world war combine?
+[13:05:14] CCA.C17-UNION.i5.03672: // when worlds colide
+[13:05:18] Ryan Maley: //oh
+[13:05:35] CCA.C17-UNION.i5.03672: // his servers are basically Outlands combine and wwc
+[13:05:51] CCA.C17-UNION.i5.03672: // So there can be former  cps and such
+[13:06:10] CCA.C17-UNION.i5.03672: // its nice for like small player counts
+[13:06:17] CCA.C17-UNION.i5.03672: // like 6-10 players
+[13:06:35] Ryan Maley: //oh that's coold
+[13:10:50] CCA.C17-UNION.i5.03672: // alr ill catch you on flip side but you probably wont notice this text okay bye
+[13:10:52] Dropped "CCA.C17-UNION.i5.03672" from server<STEAM_0:0:143523274>
+[13:10:54] Ryan Maley: //alright
+[14:28:27] Client "Painevan" connected.
+[14:31:02] Client "Painevan" spawned in server <STEAM_0:0:68118061> (took 155 seconds).
+[14:32:34] Painevan<STEAM_0:0:68118061> changed their name to Jonathan Jackson
+[14:37:11] Ryan Maley: //back
+[14:37:22] Jonathan Jackson: // Welcome back
+[14:37:31] Ryan Maley: //howdy
+[14:37:45] Jonathan Jackson: // hOla
+[14:38:41] Ryan Maley: //i am making crafitng recipes
+[14:39:15] Ryan Maley<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/components/fertilizer.mdl
+[14:39:32] Ryan Maley<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/kickball.mdl
+[14:39:38] Ryan Maley<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/lighter.mdl
+[14:39:40] Ryan Maley<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/locket.mdl
+[14:39:43] Ryan Maley<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/lighter.mdl
+[14:40:07] Ryan Maley<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/wonderglue_large.mdl
+[14:40:12] Ryan Maley: /toggleraise
+[14:40:21] Ryan Maley<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/gasolinecanister.mdl
+[14:40:27] Jonathan Jackson: // Crafting is great 
+[14:40:32] Ryan Maley: //crafting is dope as shit
+[14:40:33] Ryan Maley<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/globe02.mdl
+[14:40:37] Ryan Maley<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/camera.mdl
+[14:40:39] Ryan Maley<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/camera.mdl
+[14:40:43] Ryan Maley<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/bloatflygland.mdl
+[14:40:44] Jonathan Jackson: // Even greater if I could find places to hold items used for crafting
+[14:41:06] Ryan Maley: //may i offer you a nice ix_container in this trying time
+[14:41:12] Jonathan Jackson: // lmao
+[14:41:17] Ryan Maley: //i actually stole a crate from dilly's old shop
+[14:41:20] Ryan Maley: //the abandoned one
+[14:41:23] Ryan Maley: //and hit it in the CZ
+[14:41:36] Jonathan Jackson: // I only know of one crate in the CZ 
+[14:41:44] Ryan Maley: //hid*
+[14:42:20] Jonathan Jackson: // I am requiring someone to tell me to pick up a can
+[14:43:20] Jonathan Jackson: Hello? I would like to provide some work towards making a better community
+[14:43:28] Ryan Maley: //one second
+[14:43:35] Ryan Maley<STEAM_0:1:53097688> changed their name to CCA.C17-GRID.i3.10945
+[14:43:59] Jonathan Jackson: Hello, I found some contraband I want to turn in
+[14:44:06] CCA.C17-GRID.i3.10945: alright, let's see it
+[14:44:17] CCA.C17-GRID.i3.10945: hm
+[14:44:21] CCA.C17-GRID.i3.10945: One moment.
+[14:44:24] Jonathan Jackson: Of course
+[14:44:26] CCA.C17-GRID.i3.10945: /me takes out his PDA and types a few things on it.
+[14:45:08] CCA.C17-GRID.i3.10945: /me would read off of the screen.
+[14:45:12] CCA.C17-GRID.i3.10945: /r Judge
+[14:45:18] CCA.C17-GRID.i3.10945: /r judge
+[14:45:25] CCA.C17-GRID.i3.10945: .//hmmm radio is broken that's funb
+[14:45:28] CCA.C17-GRID.i3.10945: /rooc test
+[14:45:31] CCA.C17-GRID.i3.10945: /rooc Judge.
+[14:45:34] CCA.C17-GRID.i3.10945: /r Judge.
+[14:45:39] CCA.C17-GRID.i3.10945: .//oh it's radio voicelines
+[14:45:47] Jonathan Jackson: /looc lol
+[14:46:25] CCA.C17-GRID.i3.10945: /r I've got a piece of contraband here, it's a scrap of kevlar, what should I classify it as?
+[14:46:59] Jonathan Jackson: /me stretches slightly while waiting.
+[14:47:21] CCA.C17-GRID.i3.10945: /r Green, copy that.
+[14:47:33] CCA.C17-GRID.i3.10945: /me holds up the resin.
+[14:47:42] CCA.C17-GRID.i3.10945: This isn't contraband, but I'll give you tokens for it.
+[14:47:54] CCA.C17-GRID.i3.10945: Always nice for us to have, I'll consider it a favor.
+[14:48:10] Jonathan Jackson: Sure thing, I didn't recognize it so I thought I might as well turn it in.
+[14:48:12] CCA.C17-GRID.i3.10945: /me reaches into a satchel on his toolbelt and counts out 3 coins.
+[14:48:34] CCA.C17-GRID.i3.10945: /me drops another of them back into his satchel and then slides two 5-pieces onto the counter.
+[14:48:37] CCA.C17-GRID.i3.10945: /droptokens 10
+[14:48:51] Jonathan Jackson: /me takes the tokens and places it in his side pocket.
+[14:49:00] CCA.C17-GRID.i3.10945: /me bends down slightly and places the resin into a bin under the desk.
+[14:49:01] CCA.C17-GRID.i3.10945: And then, apply.
+[14:49:05] Jonathan Jackson: Sure thing
+[14:49:08] Jonathan Jackson: /apply
+[14:49:18] CCA.C17-GRID.i3.10945: /me types the man's CID into his PDA.
+[14:49:19] CCA.C17-GRID.i3.10945: /viewdata jackson
+[14:51:09] CCA.C17-GRID.i3.10945: Alright, you have 7 loyalist points.
+[14:51:11] CCA.C17-GRID.i3.10945: /viewdata jon
+[14:51:22] CCA.C17-GRID.i3.10945: Sorry, 8 loyalist points.
+[14:51:26] Jonathan Jackson: Okay got it, thank you very much.
+[14:51:36] CCA.C17-GRID.i3.10945: Mhm, thanks for your civility.
+[14:52:23] Jonathan Jackson: // I need to go afk for a bit so I'll be back in a bit
+[14:52:55] Jonathan Jackson<STEAM_0:0:68118061> changed their name to Otto Von Habsburg
+[14:53:03] CCA.C17-GRID.i3.10945: //YOOO IT'S OTTOOOO
+[14:53:07] CCA.C17-GRID.i3.10945: //also ight
+[14:53:07] CCA.C17-GRID.i3.10945: /linkdoor
+[14:53:14] CCA.C17-GRID.i3.10945: //ty for not disocnnectinbg
+[14:53:21] Otto Von Habsburg: // np
+[14:54:15] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/components/steel.mdl
+[14:54:22] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/components/gold.mdl
+[14:55:09] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/components/gold.mdl
+[14:55:30] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool light on maps/rp_industrial17_v1.bsp
+[14:55:37] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool light on models/props/industrial17/trackb.mdl
+[14:55:39] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool light on maps/rp_industrial17_v1.bsp
+[14:55:40] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool light on models/props/industrial17/trackb.mdl
+[14:55:41] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool light on maps/rp_industrial17_v1.bsp
+[14:55:42] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool light on maps/rp_industrial17_v1.bsp
+[14:55:53] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool light on maps/rp_industrial17_v1.bsp
+[14:55:56] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool light on maps/rp_industrial17_v1.bsp
+[14:56:28] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/components/gold.mdl
+[14:56:41] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/components/gold.mdl
+[14:56:42] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/components/gold.mdl
+[14:56:44] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/components/lead.mdl
+[14:56:46] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/components/silver.mdl
+[14:56:48] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/components/steel.mdl
+[14:57:01] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/components/steel.mdl
+[14:57:07] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/components/lead.mdl
+[14:57:10] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/components/steel.mdl
+[14:57:10] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/components/lead.mdl
+[14:57:18] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/components/aluminum.mdl
+[14:57:23] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/components/aluminum.mdl
+[14:57:27] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/components/aluminum.mdl
+[14:57:30] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/components/steel.mdl
+[14:57:44] Otto Von Habsburg suicided!
+[14:57:44] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> changed their name to Ryan Maley
+[14:58:06] Ryan Maley<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/components/lead.mdl
+[14:58:08] Ryan Maley<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/components/steel.mdl
+[14:58:10] Ryan Maley<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/components/silver.mdl
+[14:58:12] Ryan Maley<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/components/silver.mdl
+[14:58:14] Ryan Maley<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/components/silver.mdl
+[14:58:18] Ryan Maley<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/components/gold.mdl
+[14:58:19] Ryan Maley<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/components/lead.mdl
+[14:58:21] Ryan Maley<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/components/lead.mdl
+[14:58:23] Ryan Maley<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/components/steel.mdl
+[14:58:25] Ryan Maley<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/components/steel.mdl
+[14:58:27] Ryan Maley<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/components/steel.mdl
+[14:58:33] Ryan Maley<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/components/aluminum.mdl
+[14:58:35] Ryan Maley<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/components/aluminum.mdl
+[14:58:37] Ryan Maley<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/components/aluminum.mdl
+[14:58:38] Ryan Maley<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/components/aluminum.mdl
+[14:58:40] Ryan Maley<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/components/aluminum.mdl
+[14:58:42] Ryan Maley<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/components/aluminum.mdl
+[14:58:44] Ryan Maley<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/components/gold.mdl
+[14:58:46] Ryan Maley<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/components/gold.mdl
+[14:58:48] Ryan Maley<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/components/lead.mdl
+[14:58:51] Ryan Maley<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/components/silver.mdl
+[14:58:53] Ryan Maley<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/components/silver.mdl
+[14:58:54] Ryan Maley<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/components/silver.mdl
+[14:58:57] Ryan Maley<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/components/steel.mdl
+[14:58:58] Ryan Maley<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/components/steel.mdl
+[14:59:05] Ryan Maley<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/components/aluminum.mdl
+[14:59:06] Ryan Maley<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/components/aluminum.mdl
+[15:07:28] Ryan Maley<STEAM_0:1:53097688> spawned sent ix_airvent
+[15:07:38] Ryan Maley<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/combine_emitter01.mdl
+[15:07:59] Ryan Maley<STEAM_0:1:53097688> used the tool remover on models/mosi/fallout4/props/junk/components/aluminum.mdl
+[15:07:59] Ryan Maley<STEAM_0:1:53097688> used the tool remover on models/mosi/fallout4/props/junk/components/gold.mdl
+[15:07:59] Ryan Maley<STEAM_0:1:53097688> used the tool remover on models/mosi/fallout4/props/junk/components/lead.mdl
+[15:08:00] Ryan Maley<STEAM_0:1:53097688> used the tool remover on maps/rp_industrial17_v1.bsp
+[15:08:00] Ryan Maley<STEAM_0:1:53097688> used the tool remover on models/mosi/fallout4/props/junk/components/aluminum.mdl
+[15:08:04] Ryan Maley<STEAM_0:1:53097688> used the tool remover on models/mosi/fallout4/props/junk/components/silver.mdl
+[15:08:05] Ryan Maley<STEAM_0:1:53097688> used the tool remover on models/mosi/fallout4/props/junk/components/steel.mdl
+[15:14:42] Ryan Maley: /adminspawnmenu
+[15:16:55] Ryan Maley<STEAM_0:1:53097688> spawned model models/tnb/weapons/w_glock.mdl
+[15:16:55] Ryan Maley<STEAM_0:1:53097688> spawned model models/tnb/weapons/ammo/glock.mdl
+[15:17:01] Ryan Maley<STEAM_0:1:53097688> spawned model models/tnb/weapons/ammo/glock.mdl
+[15:17:02] Ryan Maley<STEAM_0:1:53097688> spawned model models/tnb/weapons/w_glock.mdl
+[15:17:17] Ryan Maley<STEAM_0:1:53097688> spawned effect models/tnb/weapons/c_mp7.mdl
+[15:17:19] Ryan Maley<STEAM_0:1:53097688> spawned effect models/tnb/weapons/c_glock.mdl
+[15:17:20] Ryan Maley<STEAM_0:1:53097688> spawned model models/tnb/weapons/w_glock.mdl
+[15:17:27] Ryan Maley<STEAM_0:1:53097688> spawned model models/tnb/weapons/ammo/glock.mdl
+[15:18:00] Ryan Maley<STEAM_0:1:53097688> spawned effect models/shells/shell_556.mdl
+[15:18:01] Ryan Maley<STEAM_0:1:53097688> spawned effect models/shells/shell_762nato.mdl
+[15:18:10] Ryan Maley<STEAM_0:1:53097688> spawned model models/items/boxmrounds.mdl
+[15:18:12] Ryan Maley<STEAM_0:1:53097688> spawned model models/items/357ammo.mdl
+[15:18:15] Ryan Maley<STEAM_0:1:53097688> spawned model models/items/357ammobox.mdl
+[15:18:19] Ryan Maley<STEAM_0:1:53097688> spawned model models/items/357ammo.mdl
+[15:18:22] Ryan Maley<STEAM_0:1:53097688> spawned model models/items/357ammobox.mdl
+[15:18:24] Ryan Maley<STEAM_0:1:53097688> spawned model models/items/357ammo.mdl
+[15:18:25] Ryan Maley<STEAM_0:1:53097688> spawned model models/items/boxmrounds.mdl
+[15:28:24] Ryan Maley: /chargiveitem g "4.6x30"
+[15:28:41] Ryan Maley: /chargiveitem grid 4.6x30
+[15:28:45] Ryan Maley: /plysearch habsburg
+[16:30:07] Client "cell" connected.
+[16:34:30] Client "cell" spawned in server <STEAM_0:1:215437968> (took 263 seconds).
+[16:34:30] Otto Von Habsburg suicided!
+[16:37:52] Otto Von Habsburg suicided!
+[16:37:53] cell<STEAM_0:1:215437968> changed their name to Seva Smoker
+[16:44:32] Dropped "Seva Smoker" from server<STEAM_0:1:215437968>
+[17:06:49] Client "Voxel" connected.
+[17:10:04] Client "cell" connected.
+[17:25:37] Otto Von Habsburg<STEAM_0:0:68118061> changed their name to Jonathan Jackson
+[17:43:01] Jonathan Jackson: // bac
+[18:45:15] Dropped "Jonathan Jackson" from server<STEAM_0:0:68118061>
+[22:55:32] Dropped "Nums" from server<STEAM_0:1:196547442>
+[23:10:32] Ryan Maley<STEAM_0:1:53097688> spawned ragdoll models/industrial_uniforms/industrial_uniform.mdl
+[23:10:41] Ryan Maley<STEAM_0:1:53097688> spawned ragdoll models/industrial_uniforms/pm_industrial_uniform2.mdl
+[23:25:22] Client "Nums" connected.
+[23:26:33] Client "Nums" spawned in server <STEAM_0:1:196547442> (took 71 seconds).
+[23:27:06] Nums<STEAM_0:1:196547442> changed their name to Finan O'Conall
+[23:27:17] Finan O'Conall: // lil lad
+[23:37:01] Client "Spooky Wolf" connected.
+[23:38:29] Ryan Maley: //God i'm the fucking besrt
+[23:38:38] Finan O'Conall: // clap clap*
+[23:39:30] Finan O'Conall<STEAM_0:1:196547442> changed their name to CCA.C14-RCT.77460
+[23:39:41] Ryan Maley: //look at the new crafting menu
+[23:39:44] Ryan Maley: //wellnot nnew but
+[23:39:45] Ryan Maley: //expanded
+[23:39:51] Ryan Maley: //i have a LOT of work to do but i adde some stuff in
+[23:40:06] Client "Spooky Wolf" spawned in server <STEAM_0:1:58209231> (took 185 seconds).
+[23:40:08] CCA.C14-RCT.77460: // I have concerns
+[23:40:23] Ryan Maley: /charsetname c14 CCA.C17-RCT.77460
+[23:40:24] CCA.C14-RCT.77460<STEAM_0:1:196547442> changed their name to CCA.C17-RCT.77460
+[23:40:30] Ryan Maley: /charsetmodel rct models/police_nemez.mdl
+[23:40:36] Ryan Maley: /charsetskin rct 4
+[23:41:19] CCA.C17-RCT.77460: // how does one craft something like a crossbow when it is nearly impossible to get to 80 eng
+[23:41:33] Ryan Maley: //one step at a time
+[23:41:42] CCA.C17-RCT.77460: // fair fair
+[23:41:56] CCA.C17-RCT.77460: // but dont be shocked if I come to you with the requirements and try to pull a fast one
+[23:42:14] Spooky Wolf<STEAM_0:1:58209231> changed their name to Anastasia Ivanovich
+[23:42:17] Ryan Maley: //check out the breakdown hazmat suit recipe
+[23:43:13] Anastasia Ivanovich: // I am here
+[23:43:17] Ryan Maley: //why
+[23:43:25] Anastasia Ivanovich: // to haunt your server for a couple of days
+[23:43:29] CCA.C17-RCT.77460: // What're you on about I don't seeit
+[23:43:29] Anastasia Ivanovich: // and then disappear
+[23:43:40] Ryan Maley: //oh sorry, infestation control suit i mean
+[23:43:50] Anastasia Ivanovich: // why does my console get flooded
+[23:43:51] Ryan Maley: //shows the actual model of the suit rather than
+[23:43:57] CCA.C17-RCT.77460: // two teflon?
+[23:44:21] Ryan Maley: //because i forgot to take out the debug PrintTable calls :sadtroll:
+[23:44:24] Ryan Maley: //two teflon indeed
+[23:44:30] Ryan Maley: //it's more than it sounds like
+[23:44:35] Ryan Maley: //as far as crafting economy goes
+[23:44:50] CCA.C17-RCT.77460: // The crafting economy no exist
+[23:45:10] Ryan Maley: //it will damn you
+[23:45:22] Anastasia Ivanovich: // I crashed
+[23:45:26] Anastasia Ivanovich: // my discord trying to show the error
+[23:45:34] CCA.C17-RCT.77460: // I hope, rebel RP could be so well on this server
+[23:45:47] Ryan Maley: //oh nums you haven't seen my spreadsheeta
+[23:45:52] Ryan Maley: /linkdoor
+[23:46:05] CCA.C17-RCT.77460: // why do you think I made finan, also no I have not
+[23:46:43] CCA.C17-RCT.77460<STEAM_0:1:196547442> changed their name to Finan O'Conall
+[23:47:17] Ryan Maley: //hold on let me find it
+[23:50:50] Finan O'Conall: // I actually need to talk to you about something now that I've seen these spreadsheet thingy's
+[23:52:48] Dropped "Anastasia Ivanovich" from server<STEAM_0:1:58209231>
+[23:56:33] Ryan Maley: //you mean the idea board?
+[23:56:52] Finan O'Conall: // Ok so
+[23:57:11] Finan O'Conall: // I've got two full gas canisters how much damage could I possibly cause on the city
+[23:57:37] Ryan Maley: //let me google some things that are definitely gonna get me on a watchlist
+[23:57:44] Ryan Maley: //i bet there's actually away to calculate this
+[23:57:56] Finan O'Conall: // That's what I was thinking
+[23:58:03] Finan O'Conall: // I need a target that's the problem
+[23:59:35] Ryan Maley: //
+[23:59:37] Ryan Maley: //2000 psi
+<Logging continued in "data/ulx_logs/08-22-22.txt">

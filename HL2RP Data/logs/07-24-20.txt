@@ -1,0 +1,790 @@
+[00:31:34]	Test Testington exited observer at their location.
+[00:31:34]	Test Testington has spawned a 'Entity [3196][ix_testent6]'.
+[00:34:31]	Test Testington used command '/adminspawnmenu'.
+[00:37:04]	Test Testington used command '/adminspawnmenu'.
+[00:39:25]	Test Testington has spawned a 'Entity [3204][ix_testent5]'.
+[00:39:30]	Test Testington has spawned a 'Entity [3228][ix_testent5]'.
+[00:39:33]	Test Testington has spawned a 'Entity [3204][ix_testent5]'.
+[00:40:07]	Test Testington has spawned a 'Entity [3204][ix_testent5]'.
+[00:40:28]	Test Testington has spawned a 'Entity [3204][ix_testent5]'.
+[00:41:15]	Test Testington entered observer.
+[00:41:20]	Test Testington exited observer at their location.
+[00:50:23]	Test Testington has spawned a 'Entity [3204][ix_testent5]'.
+[00:50:25]	Test Testington used command '/adminspawnmenu'.
+[00:50:28]	Test Testington has spawned "Burnt Black Headcrab Meat"
+[00:50:31]	Test Testington used command '/adminspawnmenu'.
+[00:50:36]	Test Testington has spawned "Raw Antlion Meat"
+[00:56:34]	Test Testington has spawned a 'Entity [3228][ix_testent5]'.
+[00:59:10]	Test Testington has spawned 'models/props_c17/SuitCase_Passenger_Physics.mdl'.
+[00:59:15]	Test Testington ran 'drop' on item 'Cars for Dummies, Vol. 2' (#19017)
+[00:59:15]	Test Testington has lost a 'Cars for Dummies, Vol. 2' #19017.
+[01:00:59]	Test Testington ran 'take' on item 'Cars for Dummies, Vol. 2' (#19017)
+[01:00:59]	Test Testington has gained a 'Cars for Dummies, Vol. 2' #19017.
+[01:01:01]	Test Testington has spawned 'models/props_c17/TrapPropeller_Lever.mdl'.
+[01:01:05]	Test Testington has spawned 'models/props_c17/tv_monitor01.mdl'.
+[01:01:12]	Test Testington has spawned 'models/props_junk/gascan001a.mdl'.
+[01:01:20]	Test Testington has spawned a 'Entity [3241][ix_testent5]'.
+[01:12:31]	Test Testington entered observer.
+[01:13:00]	Test Testington exited observer at their location.
+[01:17:18]	Test Testington ran 'take' on item 'Raw Antlion Meat' (#22661)
+[01:17:18]	Test Testington has gained a 'Raw Antlion Meat' #22661.
+[01:17:19]	Test Testington ran 'Eat' on item 'Raw Antlion Meat' (#22661)
+[01:17:19]	Test Testington has taken 12 damage from worldspawn.
+[01:17:56]	Test Testington has gained a 'Raw Antlion Meat' #22661.
+[01:17:56]	Test Testington used command '/CharGiveItem test raw'.
+[01:17:57]	Test Testington ran 'drop' on item 'Raw Antlion Meat' (#22661)
+[01:17:57]	Test Testington has lost a 'Raw Antlion Meat' #22661.
+[01:19:19]	Test Testington entered observer.
+[01:19:26]	Test Testington ran 'Eat' on item 'Raw Antlion Meat' (#22661)
+[01:19:28]	Test Testington has gained a 'Raw Antlion Meat' #22662.
+[01:19:28]	Test Testington used command '/CharGiveItem test raw'.
+[01:19:29]	Test Testington ran 'drop' on item 'Raw Antlion Meat' (#22662)
+[01:19:29]	Test Testington has lost a 'Raw Antlion Meat' #22662.
+[01:19:32]	Test Testington entered observer.
+[01:19:38]	Test Testington exited observer at their location.
+[01:20:15]	Test Testington has gained a 'Raw Antlion Meat' #22663.
+[01:20:15]	Test Testington used command '/CharGiveItem test raw'.
+[01:20:17]	Test Testington ran 'drop' on item 'Raw Antlion Meat' (#22663)
+[01:20:17]	Test Testington has lost a 'Raw Antlion Meat' #22663.
+[01:20:47]	Test Testington ran 'take' on item 'Raw Antlion Meat' (#22663)
+[01:20:47]	Test Testington has gained a 'Raw Antlion Meat' #22663.
+[01:21:54]	Test Testington ran 'drop' on item 'Raw Antlion Meat' (#22663)
+[01:21:54]	Test Testington has lost a 'Raw Antlion Meat' #22663.
+[01:36:21]	Test Testington has gained a 'Raw Antlion Meat' #22664.
+[01:36:21]	Test Testington used command '/CharGiveItem test raw'.
+[01:36:22]	Test Testington ran 'drop' on item 'Raw Antlion Meat' (#22664)
+[01:36:22]	Test Testington has lost a 'Raw Antlion Meat' #22664.
+[01:53:06]	matt saton (STEAM_0:1:53097688) has disconnected.
+[12:31:05]	matt saton has connected.
+[12:32:51]	matt saton loaded the character 'Test Testington'
+[12:32:53]	Doughnut has connected.
+[12:32:58]	Test Testington ran 'take' on item 'Raw Antlion Meat' (#22663)
+[12:32:58]	Test Testington has gained a 'Raw Antlion Meat' #22663.
+[12:33:32]	Test Testington has spawned a 'Entity [1295][ix_testent5]'.
+[12:34:14]	Test Testington ran 'drop' on item 'Raw Antlion Meat' (#22663)
+[12:34:14]	Test Testington has lost a 'Raw Antlion Meat' #22663.
+[12:43:20]	Test Testington has taken 10 damage from Test Testington.
+[12:43:20]	Test Testington has taken 200 damage from worldspawn.
+[12:43:20]	worldspawn has killed Test Testington.
+[12:43:24]	matt saton (STEAM_0:1:53097688) has disconnected.
+[12:43:58]	Doughnut loaded the character 'Hans Weiß'
+[12:44:15]	Hans Weiß ran 'take' on item 'Raw Antlion Meat' (#22663)
+[12:54:10]	Doughnut (STEAM_0:1:127409364) has disconnected.
+[12:56:45]	Doughnut has connected.
+[13:27:58]	Doughnut loaded the character 'Hans Weiß'
+[17:11:28]	matt saton has connected.
+[17:13:38]	matt saton loaded the character 'James Albright'
+[17:13:40]	James Albright entered observer.
+[17:13:42]	James Albright exited observer at their location.
+[17:13:54]	matt saton loaded the character 'Test Testington'
+[17:14:13]	Test Testington entered observer.
+[17:15:39]	Test Testington used command '/ToggleRaise'.
+[17:15:40]	Test Testington used command '/ToggleRaise'.
+[17:15:41]	Test Testington used command '/ToggleRaise'.
+[17:15:42]	Test Testington used command '/ToggleRaise'.
+[17:15:44]	Test Testington used command '/ToggleRaise'.
+[17:15:47]	Test Testington used command '/ToggleRaise'.
+[17:15:58]	Test Testington exited observer at their location.
+[17:15:59]	Test Testington entered observer.
+[17:15:59]	Test Testington exited observer at their location.
+[17:16:00]	Test Testington entered observer.
+[17:16:00]	Test Testington exited observer at their location.
+[17:16:07]	Test Testington has spawned 'models/props_c17/oildrum001.mdl'.
+[17:18:44]	Test Testington entered observer.
+[17:18:44]	Test Testington exited observer at their location.
+[17:18:45]	Test Testington entered observer.
+[17:18:45]	Test Testington exited observer at their location.
+[17:18:46]	Test Testington entered observer.
+[17:18:46]	Test Testington exited observer at their location.
+[17:18:47]	Test Testington entered observer.
+[17:18:49]	Test Testington exited observer at their location.
+[17:18:51]	Test Testington has spawned a 'Entity [3199][ix_testent5]'.
+[17:18:56]	Test Testington has gained a 'Raw Antlion Meat' #24947.
+[17:18:56]	Test Testington used command '/CharGiveItem test raw'.
+[17:18:58]	Test Testington ran 'drop' on item 'Raw Antlion Meat' (#24947)
+[17:18:58]	Test Testington has lost a 'Raw Antlion Meat' #24947.
+[17:21:18]	Test Testington entered observer.
+[17:21:23]	Test Testington exited observer at their location.
+[17:21:50]	Test Testington entered observer.
+[17:21:52]	Test Testington exited observer at their location.
+[17:21:59]	Test Testington used command '/ToggleRaise'.
+[17:22:00]	Test Testington entered observer.
+[17:22:00]	Test Testington exited observer at their location.
+[17:22:27]	Test Testington entered observer.
+[17:22:30]	Test Testington exited observer at their location.
+[17:22:55]	Test Testington destroyed a 'Cooked Antlion Meat' #25122.
+[17:22:55]	Test Testington destroyed a 'Cooked Antlion Meat' #24995.
+[17:22:55]	Test Testington destroyed a 'Cooked Antlion Meat' #25101.
+[17:22:55]	Test Testington destroyed a 'Cooked Antlion Meat' #25102.
+[17:22:55]	Test Testington destroyed a 'Cooked Antlion Meat' #25106.
+[17:22:55]	Test Testington destroyed a 'Cooked Antlion Meat' #24996.
+[17:22:55]	Test Testington destroyed a 'Cooked Antlion Meat' #25043.
+[17:22:55]	Test Testington destroyed a 'Cooked Antlion Meat' #25095.
+[17:22:55]	Test Testington destroyed a 'Cooked Antlion Meat' #24956.
+[17:22:55]	Test Testington destroyed a 'Cooked Antlion Meat' #25073.
+[17:22:56]	Test Testington destroyed a 'Cooked Antlion Meat' #24998.
+[17:22:56]	Test Testington destroyed a 'Cooked Antlion Meat' #25093.
+[17:22:56]	Test Testington destroyed a 'Cooked Antlion Meat' #25140.
+[17:22:56]	Test Testington destroyed a 'Cooked Antlion Meat' #25002.
+[17:22:56]	Test Testington destroyed a 'Cooked Antlion Meat' #24964.
+[17:22:56]	Test Testington destroyed a 'Cooked Antlion Meat' #25121.
+[17:22:56]	Test Testington destroyed a 'Cooked Antlion Meat' #25021.
+[17:22:56]	Test Testington destroyed a 'Cooked Antlion Meat' #25135.
+[17:22:56]	Test Testington destroyed a 'Cooked Antlion Meat' #25134.
+[17:22:56]	Test Testington destroyed a 'Cooked Antlion Meat' #25141.
+[17:22:56]	Test Testington destroyed a 'Cooked Antlion Meat' #25100.
+[17:22:56]	Test Testington destroyed a 'Cooked Antlion Meat' #25005.
+[17:22:56]	Test Testington destroyed a 'Cooked Antlion Meat' #25001.
+[17:22:56]	Test Testington destroyed a 'Cooked Antlion Meat' #24970.
+[17:22:56]	Test Testington destroyed a 'Cooked Antlion Meat' #24950.
+[17:22:56]	Test Testington destroyed a 'Cooked Antlion Meat' #25010.
+[17:22:56]	Test Testington destroyed a 'Cooked Antlion Meat' #25016.
+[17:22:56]	Test Testington destroyed a 'Cooked Antlion Meat' #24974.
+[17:22:56]	Test Testington destroyed a 'Cooked Antlion Meat' #25031.
+[17:22:56]	Test Testington destroyed a 'Cooked Antlion Meat' #25087.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25023.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #24965.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25065.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25006.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25018.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25044.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25036.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25054.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25048.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #24961.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #24949.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25013.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25062.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #24978.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25056.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25038.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #24979.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #24958.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #24993.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25079.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25129.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25097.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #24975.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #24982.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25119.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25052.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #24962.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25078.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25082.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25071.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #24955.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25032.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25037.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25074.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #24990.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25027.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #24983.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25003.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #24994.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25014.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #24985.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25047.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25077.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25088.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25012.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25096.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #24987.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #24997.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25060.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #24973.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25090.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25058.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25055.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #24954.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25004.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25072.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25116.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25069.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25107.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25124.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25125.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #24986.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25131.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25020.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25024.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25059.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25108.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25112.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25114.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25022.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25113.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25128.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25110.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25132.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25120.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25008.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25139.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25049.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25066.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25051.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25098.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25123.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25118.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25103.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25009.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25136.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25137.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25133.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25104.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25138.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #24988.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25111.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25130.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25026.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #24959.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25029.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25089.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25115.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25019.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25109.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25099.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25092.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25080.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25076.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25064.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25030.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25025.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25015.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25000.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #24980.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #24972.
+[17:22:57]	Test Testington destroyed a 'Cooked Antlion Meat' #25068.
+[17:22:58]	Test Testington destroyed a 'Cooked Antlion Meat' #24966.
+[17:22:58]	Test Testington destroyed a 'Cooked Antlion Meat' #24948.
+[17:22:58]	Test Testington destroyed a 'Cooked Antlion Meat' #24977.
+[17:22:58]	Test Testington destroyed a 'Cooked Antlion Meat' #25035.
+[17:22:58]	Test Testington destroyed a 'Cooked Antlion Meat' #25007.
+[17:22:58]	Test Testington destroyed a 'Cooked Antlion Meat' #25050.
+[17:22:58]	Test Testington destroyed a 'Cooked Antlion Meat' #25057.
+[17:22:58]	Test Testington destroyed a 'Cooked Antlion Meat' #25041.
+[17:22:58]	Test Testington destroyed a 'Cooked Antlion Meat' #25053.
+[17:22:58]	Test Testington destroyed a 'Raw Antlion Meat' #24947.
+[17:22:58]	Test Testington destroyed a 'Cooked Antlion Meat' #25017.
+[17:22:58]	Test Testington destroyed a 'Cooked Antlion Meat' #25105.
+[17:22:58]	Test Testington destroyed a 'Cooked Antlion Meat' #24953.
+[17:22:58]	Test Testington destroyed a 'Cooked Antlion Meat' #25034.
+[17:22:58]	Test Testington destroyed a 'Cooked Antlion Meat' #25070.
+[17:22:58]	Test Testington destroyed a 'Cooked Antlion Meat' #24969.
+[17:22:58]	Test Testington destroyed a 'Cooked Antlion Meat' #24951.
+[17:22:58]	Test Testington destroyed a 'Cooked Antlion Meat' #25086.
+[17:22:58]	Test Testington destroyed a 'Cooked Antlion Meat' #25094.
+[17:22:58]	Test Testington destroyed a 'Cooked Antlion Meat' #24968.
+[17:22:58]	Test Testington destroyed a 'Cooked Antlion Meat' #24989.
+[17:22:58]	Test Testington destroyed a 'Cooked Antlion Meat' #24984.
+[17:22:58]	Test Testington destroyed a 'Cooked Antlion Meat' #25126.
+[17:22:58]	Test Testington destroyed a 'Cooked Antlion Meat' #25063.
+[17:22:58]	Test Testington destroyed a 'Cooked Antlion Meat' #25046.
+[17:22:58]	Test Testington destroyed a 'Cooked Antlion Meat' #25084.
+[17:22:58]	Test Testington destroyed a 'Cooked Antlion Meat' #24960.
+[17:22:58]	Test Testington destroyed a 'Cooked Antlion Meat' #25127.
+[17:22:58]	Test Testington destroyed a 'Cooked Antlion Meat' #24957.
+[17:22:58]	Test Testington destroyed a 'Cooked Antlion Meat' #25091.
+[17:22:58]	Test Testington destroyed a 'Cooked Antlion Meat' #24999.
+[17:22:58]	Test Testington destroyed a 'Cooked Antlion Meat' #25039.
+[17:22:58]	Test Testington destroyed a 'Cooked Antlion Meat' #25081.
+[17:22:58]	Test Testington destroyed a 'Cooked Antlion Meat' #25033.
+[17:22:58]	Test Testington destroyed a 'Cooked Antlion Meat' #24981.
+[17:22:58]	Test Testington destroyed a 'Cooked Antlion Meat' #24991.
+[17:22:58]	Test Testington destroyed a 'Cooked Antlion Meat' #24952.
+[17:22:58]	Test Testington destroyed a 'Cooked Antlion Meat' #24963.
+[17:22:58]	Test Testington destroyed a 'Cooked Antlion Meat' #25045.
+[17:22:58]	Test Testington destroyed a 'Cooked Antlion Meat' #24992.
+[17:22:58]	Test Testington destroyed a 'Cooked Antlion Meat' #25028.
+[17:22:58]	Test Testington destroyed a 'Cooked Antlion Meat' #25040.
+[17:22:58]	Test Testington destroyed a 'Cooked Antlion Meat' #24967.
+[17:22:58]	Test Testington destroyed a 'Cooked Antlion Meat' #25067.
+[17:22:59]	Test Testington destroyed a 'Cooked Antlion Meat' #25011.
+[17:22:59]	Test Testington destroyed a 'Cooked Antlion Meat' #25117.
+[17:22:59]	Test Testington destroyed a 'Cooked Antlion Meat' #25083.
+[17:22:59]	Test Testington destroyed a 'Cooked Antlion Meat' #25061.
+[17:22:59]	Test Testington destroyed a 'Cooked Antlion Meat' #25085.
+[17:22:59]	Test Testington destroyed a 'Cooked Antlion Meat' #24976.
+[17:22:59]	Test Testington destroyed a 'Cooked Antlion Meat' #24971.
+[17:22:59]	Test Testington destroyed a 'Cooked Antlion Meat' #25042.
+[17:22:59]	Test Testington has taken 3 damage from Test Testington.
+[17:22:59]	Test Testington has taken 3 damage from Test Testington.
+[17:23:00]	Test Testington has taken 1 damage from Test Testington.
+[17:23:00]	Test Testington destroyed a 'Cooked Antlion Meat' #25075.
+[17:23:01]	Test Testington entered observer.
+[17:23:02]	Test Testington exited observer at their location.
+[17:25:23]	Test Testington has spawned a 'Entity [3199][ix_testent5]'.
+[17:25:30]	Test Testington has gained a 'Raw Antlion Meat' #24947.
+[17:25:30]	Test Testington used command '/CharGiveItem test raw'.
+[17:25:31]	Test Testington ran 'drop' on item 'Raw Antlion Meat' (#24947)
+[17:25:31]	Test Testington has lost a 'Raw Antlion Meat' #24947.
+[17:36:27]	Test Testington entered observer.
+[17:36:27]	Test Testington exited observer at their location.
+[17:36:28]	Test Testington entered observer.
+[17:36:30]	Test Testington exited observer at their location.
+[17:41:51]	Test Testington entered observer.
+[17:41:51]	Test Testington exited observer at their location.
+[17:42:06]	Test Testington entered observer.
+[17:42:08]	Test Testington exited observer at their location.
+[17:42:09]	Test Testington entered observer.
+[17:42:09]	Test Testington exited observer at their location.
+[17:42:10]	Test Testington entered observer.
+[17:42:10]	Test Testington exited observer at their location.
+[17:42:11]	Test Testington entered observer.
+[17:42:12]	Test Testington exited observer at their location.
+[17:46:39]	Test Testington entered observer.
+[17:46:40]	Test Testington exited observer at their location.
+[17:46:40]	Test Testington entered observer.
+[17:46:41]	Test Testington exited observer at their location.
+[17:46:41]	Test Testington entered observer.
+[17:46:41]	Test Testington exited observer at their location.
+[17:46:42]	Test Testington entered observer.
+[17:46:42]	Test Testington exited observer at their location.
+[17:46:43]	Test Testington entered observer.
+[17:46:43]	Test Testington exited observer at their location.
+[17:46:45]	Test Testington entered observer.
+[17:46:47]	Test Testington exited observer at their location.
+[17:46:53]	Test Testington entered observer.
+[17:46:54]	Test Testington exited observer at their location.
+[17:47:29]	Test Testington entered observer.
+[17:47:44]	Test Testington exited observer at their location.
+[17:47:45]	Test Testington entered observer.
+[17:47:45]	Test Testington exited observer at their location.
+[17:47:48]	Test Testington entered observer.
+[17:47:49]	Test Testington used command '/ToggleRaise'.
+[17:47:51]	Test Testington destroyed a 'Cooked Antlion Meat' #28799.
+[17:47:51]	Test Testington destroyed a 'Cooked Antlion Meat' #28035.
+[17:47:51]	Test Testington destroyed a 'Cooked Antlion Meat' #27769.
+[17:47:51]	Test Testington destroyed a 'Cooked Antlion Meat' #28363.
+[17:47:51]	Test Testington destroyed a 'Cooked Antlion Meat' #28403.
+[17:47:51]	Test Testington destroyed a 'Cooked Antlion Meat' #27773.
+[17:47:51]	Test Testington destroyed a 'Cooked Antlion Meat' #27636.
+[17:47:51]	Test Testington destroyed a 'Cooked Antlion Meat' #27714.
+[17:47:51]	Test Testington destroyed a 'Cooked Antlion Meat' #26459.
+[17:47:51]	Test Testington destroyed a 'Cooked Antlion Meat' #26536.
+[17:47:53]	Test Testington destroyed a 'Cooked Antlion Meat' #28531.
+[17:47:53]	Test Testington destroyed a 'Cooked Antlion Meat' #28564.
+[17:47:53]	Test Testington destroyed a 'Cooked Antlion Meat' #28694.
+[17:47:53]	Test Testington destroyed a 'Cooked Antlion Meat' #28617.
+[17:48:04]	Test Testington used command '/ToggleRaise'.
+[17:48:14]	Test Testington exited observer at their location.
+[17:49:30]	Test Testington entered observer.
+[18:09:48]	Painevan has connected.
+[18:10:14]	Painevan loaded the character 'Karl Von Habsburg'
+[18:10:15]	Karl Von Habsburg has taken 50 damage from worldspawn.
+[18:10:17]	Karl Von Habsburg entered observer.
+[18:10:43]	Karl Von Habsburg exited observer at their location.
+[18:10:43]	Karl Von Habsburg entered observer.
+[18:10:44]	Karl Von Habsburg exited observer at their location.
+[18:10:45]	Karl Von Habsburg entered observer.
+[18:10:58]	Karl Von Habsburg exited observer at their location.
+[18:11:00]	Karl Von Habsburg entered observer.
+[18:11:02]	Karl Von Habsburg exited observer at their location.
+[18:11:04]	Karl Von Habsburg entered observer.
+[18:11:23]	Karl Von Habsburg exited observer at their location.
+[18:11:24]	Karl Von Habsburg entered observer.
+[18:11:26]	Karl Von Habsburg exited observer at their location.
+[18:11:26]	Karl Von Habsburg entered observer.
+[18:11:29]	Karl Von Habsburg exited observer at their location.
+[18:11:29]	Karl Von Habsburg entered observer.
+[18:11:31]	Karl Von Habsburg exited observer at their location.
+[18:11:32]	Karl Von Habsburg entered observer.
+[18:11:35]	Karl Von Habsburg exited observer at their location.
+[18:11:36]	Karl Von Habsburg entered observer.
+[18:11:37]	Karl Von Habsburg exited observer at their location.
+[18:11:39]	Karl Von Habsburg entered observer.
+[18:11:39]	Karl Von Habsburg exited observer at their location.
+[18:11:40]	Karl Von Habsburg entered observer.
+[18:11:41]	Karl Von Habsburg exited observer at their location.
+[18:11:42]	Karl Von Habsburg entered observer.
+[18:15:04]	[OOC] Hans Weiß: beans
+[18:24:33]	Karl Von Habsburg exited observer at their location.
+[18:24:34]	Karl Von Habsburg entered observer.
+[18:24:34]	Karl Von Habsburg exited observer at their location.
+[18:24:35]	Karl Von Habsburg entered observer.
+[18:24:38]	Karl Von Habsburg exited observer at their location.
+[18:24:38]	Karl Von Habsburg entered observer.
+[18:24:39]	Karl Von Habsburg exited observer at their location.
+[18:24:40]	Karl Von Habsburg entered observer.
+[18:24:43]	Karl Von Habsburg exited observer at their location.
+[18:24:43]	Karl Von Habsburg entered observer.
+[18:24:43]	Karl Von Habsburg exited observer at their location.
+[18:24:44]	Karl Von Habsburg entered observer.
+[18:25:26]	Karl Von Habsburg exited observer at their location.
+[18:25:30]	Karl Von Habsburg entered observer.
+[18:26:00]	Karl Von Habsburg exited observer at their location.
+[18:26:01]	Karl Von Habsburg entered observer.
+[18:26:02]	Karl Von Habsburg exited observer at their location.
+[18:26:03]	Karl Von Habsburg entered observer.
+[18:26:16]	Karl Von Habsburg exited observer at their location.
+[18:26:18]	Karl Von Habsburg entered observer.
+[18:26:27]	Karl Von Habsburg exited observer at their location.
+[18:26:32]	Karl Von Habsburg entered observer.
+[18:26:35]	Karl Von Habsburg exited observer at their location.
+[18:26:46]	Karl Von Habsburg entered observer.
+[18:32:07]	Karl Von Habsburg exited observer at their location.
+[18:32:19]	Karl Von Habsburg entered observer.
+[18:32:35]	Karl Von Habsburg exited observer at their location.
+[18:32:43]	Karl Von Habsburg entered observer.
+[18:32:45]	Karl Von Habsburg exited observer at their location.
+[18:33:03]	Karl Von Habsburg entered observer.
+[18:46:07]	Painevan (STEAM_0:0:68118061) has disconnected.
+[18:47:32]	Mr. Chief has connected.
+[18:50:06]	Mr. Chief created the character 'OTA.C14-ECHO.OWC.74674'
+[18:50:06]	OTA.C14-ECHO.OWC.74674 has gained a 'USP Match' #24947.
+[18:50:06]	OTA.C14-ECHO.OWC.74674 has gained a '9mm Pistol Magazine' #24948.
+[18:50:06]	OTA.C14-ECHO.OWC.74674 has gained a '9mm Pistol Magazine' #24949.
+[18:50:06]	OTA.C14-ECHO.OWC.74674 has gained a 'AR2' #24950.
+[18:50:06]	OTA.C14-ECHO.OWC.74674 has gained a 'Pulse Ammunition' #24951.
+[18:50:06]	OTA.C14-ECHO.OWC.74674 has gained a 'Pulse Ammunition' #24952.
+[18:50:06]	Mr. Chief loaded the character 'OTA.C14-ECHO.OWC.74674'
+[18:50:18]	Mr. Chief loaded the character 'CCA.C14-JUDGE.OfC.91412'
+[18:50:35]	[OOC] CCA.C14-JUDGE.OfC.91412: so now i gotta turn in my shotgun
+[18:50:59]	CCA.C14-JUDGE.OfC.91412 used command '/ToggleRaise'.
+[18:51:00]	CCA.C14-JUDGE.OfC.91412 used command '/ToggleRaise'.
+[18:51:01]	CCA.C14-JUDGE.OfC.91412 used command '/ToggleRaise'.
+[18:51:03]	CCA.C14-JUDGE.OfC.91412 used command '/ToggleRaise'.
+[18:51:37]	CCA.C14-JUDGE.OfC.91412 used command '/ToggleRaise'.
+[18:51:55]	CCA.C14-JUDGE.OfC.91412 used command '/ToggleRaise'.
+[18:52:30]	CCA.C14-JUDGE.OfC.91412 ran 'drop' on item 'SPAS-12' (#18873)
+[18:52:30]	CCA.C14-JUDGE.OfC.91412 has lost a 'SPAS-12' #18873.
+[18:53:43]	CCA.C14-JUDGE.OfC.91412 used command '/Radio Range is hot.'.
+[18:53:48]	CCA.C14-JUDGE.OfC.91412 used command '/ToggleRaise'.
+[18:55:18]	CCA.C14-JUDGE.OfC.91412 has gained 10 tokens.
+[19:00:18]	CCA.C14-JUDGE.OfC.91412 has gained 10 tokens.
+[19:01:00]	[OOC] Hans Weiß: yo
+[19:01:09]	[OOC] Hans Weiß: what's poppin
+[19:05:18]	CCA.C14-JUDGE.OfC.91412 has gained 10 tokens.
+[19:10:18]	CCA.C14-JUDGE.OfC.91412 has gained 10 tokens.
+[19:15:18]	CCA.C14-JUDGE.OfC.91412 has gained 10 tokens.
+[19:20:18]	CCA.C14-JUDGE.OfC.91412 has gained 10 tokens.
+[19:20:46]	Test Testington exited observer at their location.
+[19:20:48]	Test Testington entered observer.
+[19:20:50]	Test Testington exited observer at their location.
+[19:20:51]	Test Testington entered observer.
+[19:20:51]	Test Testington exited observer at their location.
+[19:20:52]	Test Testington has spawned a 'Entity [3206][ix_testent5]'.
+[19:21:08]	Test Testington used command '/adminspawnmenu'.
+[19:21:17]	Test Testington has spawned "Raw Bullsquid Meat"
+[19:21:26]	Test Testington entered observer.
+[19:21:29]	[OOC] CCA.C14-JUDGE.OfC.91412: can u dont
+[19:21:29]	Test Testington exited observer at their location.
+[19:21:31]	Test Testington entered observer.
+[19:21:41]	Test Testington exited observer at their location.
+[19:21:45]	Test Testington used command '/adminspawnmenu'.
+[19:21:53]	Test Testington used command '/adminspawnmenu'.
+[19:21:55]	CCA.C14-JUDGE.OfC.91412 used command '/ToggleRaise'.
+[19:21:56]	Test Testington has spawned "Cooked Cryosquid Meat"
+[19:21:59]	Test Testington entered observer.
+[19:22:00]	CCA.C14-JUDGE.OfC.91412 used command '/ToggleRaise'.
+[19:22:02]	Test Testington exited observer at their location.
+[19:22:12]	CCA.C14-JUDGE.OfC.91412 used command '/ToggleRaise'.
+[19:22:12]	Test Testington ran 'take' on item 'Cooked Cryosquid Meat' (#25458)
+[19:22:12]	Test Testington has gained a 'Cooked Cryosquid Meat' #25458.
+[19:22:14]	Test Testington ran 'Eat' on item 'Cooked Cryosquid Meat' (#25458)
+[19:22:43]	Test Testington has spawned a 'Entity [3200][ix_testent5]'.
+[19:22:49]	Test Testington used command '/adminspawnmenu'.
+[19:22:56]	Test Testington has spawned "Cooked Chumtoad Meat"
+[19:23:06]	CCA.C14-JUDGE.OfC.91412 destroyed a 'Cooked Chumtoad Meat' #25458.
+[19:23:07]	Test Testington has taken 10 damage from CCA.C14-JUDGE.OfC.91412.
+[19:23:13]	Test Testington entered observer.
+[19:23:14]	Test Testington exited observer at their location.
+[19:23:19]	Test Testington used command '/ToggleRaise'.
+[19:23:19]	Test Testington entered observer.
+[19:23:21]	Test Testington exited observer at their location.
+[19:23:53]	CCA.C14-JUDGE.OfC.91412 used command '/ToggleRaise'.
+[19:23:59]	Test Testington has taken 5 damage from CCA.C14-JUDGE.OfC.91412.
+[19:24:00]	Test Testington has taken 5 damage from CCA.C14-JUDGE.OfC.91412.
+[19:24:02]	Test Testington entered observer.
+[19:24:07]	[OOC] Test Testington: gonna fix it now
+[19:25:18]	CCA.C14-JUDGE.OfC.91412 has gained 10 tokens.
+[19:27:23]	[OOC] Test Testington: fixed
+[19:27:24]	Test Testington used command '/ToggleRaise'.
+[19:27:24]	Test Testington exited observer at their location.
+[19:27:28]	[OOC] Test Testington: bad news gorodn
+[19:27:30]	[OOC] Test Testington: not fixed
+[19:28:04]	Test Testington entered observer.
+[19:28:04]	Test Testington exited observer at their location.
+[19:28:05]	Test Testington entered observer.
+[19:28:06]	Test Testington exited observer at their location.
+[19:28:06]	Test Testington entered observer.
+[19:28:07]	Test Testington exited observer at their location.
+[19:28:07]	Test Testington entered observer.
+[19:28:08]	Test Testington exited observer at their location.
+[19:28:08]	Test Testington entered observer.
+[19:28:09]	Test Testington exited observer at their location.
+[19:28:09]	Test Testington entered observer.
+[19:28:09]	Test Testington exited observer at their location.
+[19:28:10]	Test Testington entered observer.
+[19:28:12]	Test Testington exited observer at their location.
+[19:28:23]	Test Testington entered observer.
+[19:28:24]	Test Testington exited observer at their location.
+[19:28:28]	[OOC] Test Testington: fixed
+[19:28:29]	Test Testington entered observer.
+[19:28:29]	Test Testington exited observer at their location.
+[19:28:29]	Test Testington entered observer.
+[19:28:31]	Test Testington exited observer at their location.
+[19:28:32]	Test Testington entered observer.
+[19:28:33]	Test Testington exited observer at their location.
+[19:28:33]	Test Testington entered observer.
+[19:28:35]	Test Testington exited observer at their location.
+[19:28:36]	Test Testington entered observer.
+[19:28:38]	Test Testington exited observer at their location.
+[19:28:39]	Test Testington used command '/ToggleRaise'.
+[19:28:39]	Test Testington used command '/ToggleRaise'.
+[19:28:41]	Test Testington entered observer.
+[19:28:51]	Test Testington exited observer at their location.
+[19:28:54]	Test Testington entered observer.
+[19:29:06]	Test Testington exited observer at their location.
+[19:29:06]	Test Testington entered observer.
+[19:29:07]	Test Testington exited observer at their location.
+[19:29:09]	Test Testington has spawned a 'Entity [3206][ix_testent5]'.
+[19:29:18]	Test Testington used command '/adminspawnmenu'.
+[19:29:23]	Test Testington has spawned "Raw Headcrab Meat"
+[19:30:18]	CCA.C14-JUDGE.OfC.91412 has gained 10 tokens.
+[19:30:34]	Test Testington used command '/adminspawnmenu'.
+[19:30:37]	Test Testington has spawned "Raw Antlion Meat"
+[19:30:40]	Test Testington has spawned "Raw Chumtoad Meat"
+[19:30:47]	Test Testington used command '/adminspawnmenu'.
+[19:30:53]	Test Testington has spawned "Raw Houndeye Meat"
+[19:35:18]	CCA.C14-JUDGE.OfC.91412 has gained 10 tokens.
+[19:37:58]	FB|| light ROOM has connected.
+[19:38:22]	FB|| light ROOM loaded the character 'CCA.C14-UNION.EpU.72633'
+[19:38:27]	[OOC] CCA.C14-UNION.EpU.72633: Hello gamer
+[19:38:35]	[OOC] Test Testington: i am going t obecome amish
+[19:38:36]	[OOC] CCA.C14-UNION.EpU.72633: Ah, excuse me Gamers
+[19:40:18]	CCA.C14-JUDGE.OfC.91412 has gained 10 tokens.
+[19:41:06]	[OOC] CCA.C14-UNION.EpU.72633: That moment when the USP is chambered in 9mm, 45ACP and .40 S&W but we don't take advantage of that and make the USP stronger.
+[19:41:58]	FB|| light ROOM loaded the character 'Journey Robertson'
+[19:41:58]	Test Testington entered observer.
+[19:42:10]	Test Testington exited observer at their location.
+[19:42:10]	Test Testington entered observer.
+[19:42:11]	Test Testington exited observer at their location.
+[19:43:44]	[OOC] Test Testington: don't you love it when code just doesn't fuckinmg work
+[19:43:47]	[OOC] Test Testington: syntax is fine
+[19:43:51]	[OOC] Test Testington: written fine
+[19:43:53]	[OOC] Journey Robertson: Big F
+[19:43:55]	[OOC] Test Testington: uses everytihn right
+[19:43:57]	[OOC] Test Testington: no script errors
+[19:43:58]	[OOC] Test Testington: but then
+[19:44:05]	[OOC] Test Testington: wait did he afk on Cp
+[19:44:11]	[OOC] Journey Robertson: Pretty sure
+[19:44:17]	Test Testington used command '/CharKick ofc'.
+[19:44:18]	Test Testington entered observer.
+[19:44:57]	Test Testington used command '/ToggleRaise'.
+[19:45:01]	Test Testington exited observer at their location.
+[19:45:04]	Test Testington entered observer.
+[19:45:05]	Test Testington exited observer at their location.
+[19:45:18]	Mr. Chief has gained 10 tokens.
+[19:45:36]	Test Testington entered observer.
+[19:45:37]	Test Testington exited observer at their location.
+[19:45:39]	Test Testington entered observer.
+[19:45:40]	Test Testington exited observer at their location.
+[19:45:41]	Test Testington entered observer.
+[19:45:42]	Test Testington exited observer at their location.
+[19:45:42]	Test Testington entered observer.
+[19:45:48]	Test Testington exited observer at their location.
+[19:46:01]	Test Testington entered observer.
+[19:46:07]	Test Testington used command '/ToggleRaise'.
+[19:46:08]	Test Testington used command '/ToggleRaise'.
+[19:46:13]	Test Testington exited observer at their location.
+[19:46:17]	Test Testington entered observer.
+[19:46:18]	Test Testington exited observer at their location.
+[19:46:21]	Test Testington entered observer.
+[19:46:24]	Test Testington exited observer at their location.
+[19:46:28]	Test Testington entered observer.
+[19:46:28]	Test Testington used command '/ToggleRaise'.
+[19:46:34]	Test Testington exited observer at their location.
+[19:47:47]	[ME] Test Testington: would take out his combat knife and cut the individual's ties.
+[19:47:53]	[OOC] Journey Robertson: Bruh
+[19:48:19]	Test Testington used command '/ToggleRaise'.
+[19:48:34]	Test Testington ran 'take' on item 'Raw Houndeye Meat' (#25458)
+[19:48:34]	Test Testington has gained a 'Raw Houndeye Meat' #25458.
+[19:48:37]	Test Testington entered observer.
+[19:48:42]	[OOC] Journey Robertson: Is this bullsquid meat IC?
+[19:48:50]	[OOC] Test Testington: progbably noyt
+[19:48:52]	Test Testington exited observer at their location.
+[19:48:59]	Test Testington entered observer.
+[19:49:03]	Test Testington exited observer at their location.
+[19:49:04]	Test Testington entered observer.
+[19:49:08]	Test Testington exited observer at their location.
+[19:49:11]	Test Testington has spawned a 'Entity [3207][ix_testent5]'.
+[19:49:22]	Test Testington has spawned a 'Entity [3227][ix_testent5]'.
+[19:49:26]	Test Testington ran 'drop' on item 'Raw Houndeye Meat' (#25458)
+[19:49:26]	Test Testington has lost a 'Raw Houndeye Meat' #25458.
+[19:49:27]	Journey Robertson opened the '' #1902 container.
+[19:49:29]	Journey Robertson closed the '' #1902 container.
+[19:50:18]	Mr. Chief has gained 10 tokens.
+[19:50:26]	[LOOC] Journey Robertson: Gamer this is truly OOC
+[19:50:57]	[ME] Test Testington: would take out his combat knife and cut the individual's ties.
+[19:50:58]	[LOOC] Journey Robertson: These desc's for the meat is fucking great
+[19:51:19]	[OOC] Journey Robertson: Brb
+[19:52:30]	[OOC] Journey Robertson: I am back
+[19:53:24]	Mr. Chief (STEAM_0:1:129270116) has disconnected.
+[19:54:02]	[OOC] Journey Robertson: Why does this one room have a blue tint?
+[19:54:52]	[ME] Test Testington: would take out his combat knife and cut the individual's ties.
+[19:55:01]	[OOC] Hans Weiß: beans
+[19:55:09]	[OOC] Journey Robertson: Truly
+[19:55:31]	Test Testington entered observer.
+[19:55:31]	Test Testington exited observer at their location.
+[19:55:32]	Test Testington has spawned a 'Entity [3202][ix_testent5]'.
+[19:55:33]	Test Testington entered observer.
+[19:55:33]	Test Testington exited observer at their location.
+[19:56:26]	Test Testington has taken 500 damage from Test Testington.
+[19:56:26]	Test Testington has killed Test Testington.
+[19:56:26]	Journey Robertson has taken 500 damage from Test Testington.
+[19:56:26]	Test Testington has killed Journey Robertson.
+[19:56:41]	Test Testington entered observer.
+[19:56:41]	[OOC] Journey Robertson: Did we both just die?
+[19:56:43]	Test Testington used command '/ToggleRaise'.
+[19:56:44]	Test Testington used command '/ToggleRaise'.
+[19:56:45]	Test Testington used command '/ToggleRaise'.
+[19:56:46]	Test Testington exited observer at their location.
+[19:56:58]	Test Testington used command '/ToggleRaise'.
+[19:57:00]	Journey Robertson ran 'Read' on item 'The Telltale Heart' (#22212)
+[19:57:06]	[ME] Test Testington: would take out his combat knife and cut the individual's ties.
+[19:57:06]	Test Testington has taken 25 damage from Test Testington.
+[19:57:06]	Test Testington destroyed a 'Notepad' #22350.
+[19:57:06]	Test Testington destroyed a 'Raw Houndeye Meat' #25458.
+[19:57:10]	Test Testington used command '/ToggleRaise'.
+[19:57:22]	[OOC] Hans Weiß: what is happening?
+[19:57:41]	[OOC] Journey Robertson: OOC if I'm not mistaken
+[19:57:43]	[OOC] Test Testington: i'm getting out my rage
+[19:57:45]	[OOC] Test Testington: by firing an smg
+[19:57:47]	[OOC] Hans Weiß: mk
+[19:57:50]	[OOC] Test Testington: and mashing my keyboard wtih my fist
+[19:58:01]	Test Testington used command '/ToggleRaise'.
+[19:58:15]	Test Testington used command '/ToggleRaise'.
+[19:58:21]	Test Testington used command '/ToggleRaise'.
+[19:58:25]	Test Testington used command '/ToggleRaise'.
+[19:58:26]	[LOOC] Journey Robertson: GAMER
+[19:58:29]	[OOC] Hans Weiß: afk 1 sec
+[19:58:29]	Test Testington used command '/ToggleRaise'.
+[19:58:56]	Test Testington used command '/ToggleRaise'.
+[19:58:56]	Test Testington entered observer.
+[19:58:57]	Test Testington exited observer at their location.
+[19:59:12]	[OOC] Journey Robertson: Uh..............I did a thing that I didn't expect so imma sit on a different char
+[19:59:20]	Test Testington used command '/ToggleRaise'.
+[19:59:26]	FB|| light ROOM loaded the character 'CCA.C14-UNION.EpU.72633'
+[19:59:34]	Test Testington used command '/ToggleRaise'.
+[19:59:40]	[OOC] Hans Weiß: e
+[19:59:46]	Test Testington used command '/ToggleRaise'.
+[19:59:51]	Test Testington used command '/ToggleRaise'.
+[19:59:54]	Test Testington used command '/ToggleRaise'.
+[20:00:12]	Test Testington used command '/ToggleRaise'.
+[20:00:13]	Test Testington entered observer.
+[20:00:18]	Test Testington exited observer at their location.
+[20:00:19]	Test Testington has taken 43 damage from worldspawn.
+[20:00:25]	[OOC] Test Testington: thisi s hte sound of me going off the deep end
+[20:00:25]	Test Testington entered observer.
+[20:00:43]	[OOC] Test Testington: this isn't me being distracted
+[20:00:50]	[OOC] Test Testington: it's the sound of angry, defeated rage
+[20:00:54]	Test Testington exited observer at their location.
+[20:01:03]	Test Testington used command '/ToggleRaise'.
+[20:01:13]	Test Testington used command '/ToggleRaise'.
+[20:01:17]	[OOC] Hans Weiß: so q would i need a blowtorch to build my makeshift stunstick?
+[20:01:18]	Test Testington used command '/ToggleRaise'.
+[20:01:26]	[OOC] Test Testington: stunsticks are not the cure all for building things
+[20:01:27]	[OOC] Test Testington: so no
+[20:01:29]	Test Testington used command '/ToggleRaise'.
+[20:01:40]	[OOC] Hans Weiß: mk
+[20:01:51]	Test Testington entered observer.
+[20:01:52]	Test Testington exited observer at their location.
+[20:01:52]	Test Testington entered observer.
+[20:01:53]	Test Testington exited observer at their location.
+[20:01:53]	Test Testington entered observer.
+[20:01:53]	Test Testington exited observer at their location.
+[20:02:03]	[OOC] Test Testington: that's kind of a good thing becuase of how hard it is to get blowtorhces
+[20:02:07]	[OOC] Test Testington: becuase of how dagnerosu they are
+[20:02:08]	Test Testington entered observer.
+[20:02:09]	Test Testington exited observer at their location.
+[20:02:27]	[LOOC] Test Testington: i cannot hear you. not becuase of mic volume i jsut can't hera'
+[20:02:34]	Test Testington used command '/ToggleRaise'.
+[20:02:36]	[LOOC] Hans Weiß: your gun is backwards
+[20:02:42]	[LOOC] Hans Weiß: the .50 cal anyways
+[20:02:47]	Test Testington used command '/ToggleRaise'.
+[20:02:55]	Test Testington used command '/ToggleRaise'.
+[20:03:05]	[LOOC] Test Testington: looks fine ot me
+[20:03:20]	Test Testington entered observer.
+[20:03:20]	Test Testington has spawned a 'NPC [3246][npc_metropolice]'.
+[20:03:20]	Test Testington has spawned a 'NPC [3248][npc_metropolice]'.
+[20:03:20]	Test Testington has spawned a 'NPC [3249][npc_metropolice]'.
+[20:03:34]	Test Testington has spawned a 'NPC [3247][npc_metropolice]'.
+[20:03:36]	Test Testington has spawned a 'NPC [3250][npc_metropolice]'.
+[20:03:36]	Test Testington has spawned a 'NPC [3251][npc_metropolice]'.
+[20:03:37]	Test Testington has spawned a 'NPC [3252][npc_metropolice]'.
+[20:03:37]	Test Testington has spawned a 'NPC [3253][npc_metropolice]'.
+[20:03:37]	Test Testington has spawned a 'NPC [3254][npc_metropolice]'.
+[20:03:37]	Test Testington has spawned a 'NPC [3255][npc_metropolice]'.
+[20:03:37]	Test Testington has spawned a 'NPC [3256][npc_metropolice]'.
+[20:03:38]	Test Testington has spawned a 'NPC [3257][npc_metropolice]'.
+[20:03:38]	Test Testington has spawned a 'NPC [3258][npc_metropolice]'.
+[20:03:38]	Test Testington has spawned a 'NPC [3259][npc_metropolice]'.
+[20:03:38]	Test Testington has spawned a 'NPC [3260][npc_metropolice]'.
+[20:03:38]	Test Testington has spawned a 'NPC [3261][npc_metropolice]'.
+[20:03:38]	Test Testington has spawned a 'NPC [3262][npc_metropolice]'.
+[20:03:39]	Test Testington has spawned a 'NPC [3263][npc_metropolice]'.
+[20:03:39]	Test Testington has spawned a 'NPC [3264][npc_metropolice]'.
+[20:03:39]	Test Testington has spawned a 'NPC [3265][npc_metropolice]'.
+[20:03:39]	Test Testington has spawned a 'NPC [3266][npc_metropolice]'.
+[20:03:39]	Test Testington has spawned a 'NPC [3267][npc_metropolice]'.
+[20:03:39]	Test Testington has spawned a 'NPC [3268][npc_metropolice]'.
+[20:03:40]	Test Testington exited observer at their location.
+[20:03:44]	Test Testington used command '/ToggleRaise'.
+[20:03:46]	Test Testington used command '/ToggleRaise'.
+[20:03:58]	Test Testington used command '/ToggleRaise'.
+[20:04:26]	CCA.C14-UNION.EpU.72633 has gained 10 tokens.
+[20:04:26]	[OOC] CCA.C14-UNION.EpU.72633: I hear so much death and it's scary ;-;
+[20:04:29]	Test Testington entered observer.
+[20:04:40]	Test Testington exited observer at their location.
+[20:04:40]	Test Testington entered observer.
+[20:04:40]	Test Testington exited observer at their location.
+[20:04:44]	Test Testington has taken 55 damage from Test Testington.
+[20:04:44]	Test Testington has killed Test Testington.
+[20:04:44]	Hans Weiß has taken 3 damage from Test Testington.
+[20:04:48]	[OOC] Hans Weiß: come to the second floor of moscow
+[20:04:51]	[OOC] Hans Weiß: nvm
+[20:04:58]	[OOC] Hans Weiß: it all got cleared
+[20:05:01]	[OOC] CCA.C14-UNION.EpU.72633: FU-
+[20:05:16]	[OOC] Hans Weiß: i mean come here anyway and vibe
+[20:05:33]	Test Testington entered observer.
+[20:05:40]	Test Testington exited observer at their location.
+[20:05:42]	Test Testington has spawned a 'Entity [3203][ix_testent5]'.
+[20:05:52]	Test Testington has gained a 'Burnt Houndeye Leg' #24953.
+[20:05:52]	Test Testington used command '/CharGiveItem test houndeye leg'.
+[20:05:57]	Test Testington has gained a 'Cooked Houndeye Leg' #24954.
+[20:05:57]	Test Testington used command '/CharGiveItem test cooked houndeye leg'.
+[20:05:59]	Test Testington ran 'drop' on item 'Cooked Houndeye Leg' (#24954)
+[20:05:59]	Test Testington has lost a 'Cooked Houndeye Leg' #24954.
+[20:06:01]	[LOOC] CCA.C14-UNION.EpU.72633: A warzone was here
+[20:06:04]	Test Testington used command '/CharGiveItem test rawhoundeye leg'.
+[20:06:08]	Test Testington has gained a 'Raw Houndeye Leg' #24955.
+[20:06:08]	Test Testington used command '/CharGiveItem test raw houndeye leg'.
+[20:06:20]	[LOOC] CCA.C14-UNION.EpU.72633: Big F
+[20:06:20]	Hans Weiß ran 'Eat' on item 'Cooked Houndeye Leg' (#24954)
+[20:06:23]	Test Testington used command '/ToggleRaise'.
+[20:06:26]	Test Testington ran 'drop' on item 'Cars for Dummies, Vol. 1' (#19016)
+[20:06:26]	Test Testington has lost a 'Cars for Dummies, Vol. 1' #19016.
+[20:06:26]	Test Testington ran 'drop' on item 'Raw Houndeye Leg' (#24955)
+[20:06:26]	Test Testington has lost a 'Raw Houndeye Leg' #24955.
+[20:06:27]	Test Testington ran 'take' on item 'Cars for Dummies, Vol. 1' (#19016)
+[20:06:28]	Test Testington has gained a 'Cars for Dummies, Vol. 1' #19016.
+[20:06:31]	Test Testington entered observer.
+[20:06:33]	Test Testington exited observer at their location.
+[20:06:34]	Test Testington entered observer.
+[20:06:35]	Test Testington exited observer at their location.
+[20:06:39]	[ME] Test Testington: would take out his combat knife and cut the individual's ties.
+[20:09:26]	CCA.C14-UNION.EpU.72633 has gained 10 tokens.
+[20:10:11]	[LOOC] Hans Weiß: /me sniffs EpU
+[20:10:25]	[LOOC] CCA.C14-UNION.EpU.72633: Bruh
+[20:10:42]	[OOC] CCA.C14-UNION.EpU.72633: That moment when I tab back in and I just see "/me sniffs EpU
+[20:12:21]	Test Testington used command '/DoorSetHidden true'.
+[20:12:24]	[OOC] Test Testington: I'M G OING on my dfev seorver
+[20:12:29]	matt saton (STEAM_0:1:53097688) has disconnected.
+[20:14:26]	CCA.C14-UNION.EpU.72633 has gained 10 tokens.
+[20:14:47]	[OOC] CCA.C14-UNION.EpU.72633: Alright, have a good night ;-;
+[20:16:01]	[OOC] CCA.C14-UNION.EpU.72633: Alright, i'm gonna go soon as well. 
+[20:19:26]	CCA.C14-UNION.EpU.72633 has gained 10 tokens.
+[20:21:50]	[OOC] Hans Weiß: im finna be a lonely boi
+[20:22:06]	[OOC] Hans Weiß: actually imma hop off
+[20:22:11]	Doughnut (STEAM_0:1:127409364) has disconnected.
+[20:22:15]	FB|| light ROOM (STEAM_0:1:17219621) has disconnected.

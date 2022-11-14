@@ -1,0 +1,1097 @@
+[03:03:26] New map: rp_industrial17_v1
+[04:07:52] Client "Pang" connected.
+[10:50:36] Client "matt saton" connected.
+[10:53:31] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 175 seconds).
+[10:54:31] matt saton<STEAM_0:1:53097688> changed their name to CCA.C17-GRID.i3.10945
+[10:54:52] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> changed their name to Andrew Cloverman
+[10:55:17] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/components/cork.mdl
+[10:55:19] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/components/wood.mdl
+[10:55:22] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/components/glass.mdl
+[10:55:28] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/blueprint.mdl
+[10:55:31] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/components/glass.mdl
+[10:55:35] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/components/aluminum.mdl
+[10:55:46] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/components/cloth.mdl
+[10:55:58] Client "Lynch" connected.
+[10:56:18] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/mop.mdl
+[10:56:22] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/injector.mdl
+[10:57:17] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/deathclaw_crackedegg.mdl
+[10:57:18] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/cuttingboard.mdl
+[10:58:26] Client "Lynch" spawned in server <STEAM_0:1:626926779> (took 148 seconds).
+[10:58:56] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/adjustablewrench.mdl
+[10:59:06] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/components/ceramic.mdl
+[10:59:09] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/components/gold.mdl
+[10:59:11] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/components/gold.mdl
+[10:59:11] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/components/lead.mdl
+[10:59:13] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/components/steel.mdl
+[10:59:14] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/components/gold.mdl
+[10:59:17] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/components/fiberglass.mdl
+[10:59:23] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/components/glass.mdl
+[10:59:37] Lynch<STEAM_0:1:626926779> changed their name to Nathan Pierce
+[10:59:49] Andrew Cloverman: //sup lynch, i'm just here adding in a couple craftirj recipes and heading out
+[10:59:58] Nathan Pierce: // Alr.
+[11:00:00] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_c17/oildrumchunk01c.mdl
+[11:01:01] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/ammobag.mdl
+[11:01:46] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/headlight01a.mdl
+[11:01:52] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/turpentine.mdl
+[11:02:46] Andrew Cloverman: /removetenant 1
+[11:03:05] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/burntmagazine.mdl
+[11:03:06] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/burntbook.mdl
+[11:04:21] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_junk/garbage_glassbottle001a_chunk04.mdl
+[11:04:33] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_c17/canisterchunk01a.mdl
+[11:04:36] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_c17/canisterchunk01b.mdl
+[11:04:38] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_c17/canisterchunk01c.mdl
+[11:04:39] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_c17/canisterchunk01d.mdl
+[11:04:41] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_c17/canisterchunk01i.mdl
+[11:04:43] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_c17/canisterchunk01l.mdl
+[11:04:44] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_c17/canisterchunk01m.mdl
+[11:05:09] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/gibs/manhack_gib01.mdl
+[11:05:24] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/gibs/manhack_gib02.mdl
+[11:05:25] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/gibs/manhack_gib01.mdl
+[11:13:05] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/umbrellastand.mdl
+[11:13:10] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/testtube.mdl
+[11:14:39] Nathan Pierce: //brb
+[11:14:42] Dropped "Nathan Pierce" from server<STEAM_0:1:626926779>
+[11:14:49] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/beaker02.mdl
+[11:14:56] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/saltshaker.mdl
+[11:15:04] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/blowtorch.mdl
+[11:15:07] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/cookingoil.mdl
+[11:15:14] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/coolant.mdl
+[11:15:25] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/testtube.mdl
+[11:15:27] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/saltshaker.mdl
+[11:15:29] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/nitrogendispenser.mdl
+[11:15:30] Andrew Cloverman<STEAM_0:1:53097688> used the tool pulley on maps/rp_industrial17_v1.bsp
+[11:15:36] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/milkbottle_empty.mdl
+[11:15:39] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/mosi/fallout4/props/junk/extinguisher.mdl
+[11:16:20] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_lab/jar01a.mdl
+[11:16:22] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_lab/jar01b.mdl
+[11:16:26] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_lab/jar01a.mdl
+[11:16:31] Andrew Cloverman<STEAM_0:1:53097688> spawned ragdoll models/props_lab/labturret.mdl
+[11:16:31] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_lab/jar01a.mdl
+[11:16:33] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_lab/jar01b.mdl
+[11:23:38] Andrew Cloverman<STEAM_0:1:53097688> spawned/gave himself swep weapon_flashbang_qi
+[11:23:38] Andrew Cloverman: /toggleraise
+[11:24:13] Andrew Cloverman<STEAM_0:1:53097688> spawned/gave himself swep weapon_flashbang_qi
+[11:24:13] Andrew Cloverman: /toggleraise
+[11:24:50] Andrew Cloverman<STEAM_0:1:53097688> spawned/gave himself swep weapon_flashbang_qi
+[11:24:50] Andrew Cloverman: /toggleraise
+[11:25:12] Andrew Cloverman<STEAM_0:1:53097688> spawned/gave himself swep weapon_flashbang_qi
+[11:25:12] Andrew Cloverman: /toggleraise
+[11:25:24] Andrew Cloverman<STEAM_0:1:53097688> spawned/gave himself swep weapon_flashbang_qi
+[11:25:24] Andrew Cloverman: /toggleraise
+[11:25:52] Andrew Cloverman<STEAM_0:1:53097688> spawned/gave himself swep weapon_flashbang_qi
+[11:25:52] Andrew Cloverman: /toggleraise
+[11:26:20] Andrew Cloverman<STEAM_0:1:53097688> spawned/gave himself swep weapon_flashbang_qi
+[11:26:20] Andrew Cloverman: /toggleraise
+[11:26:33] Andrew Cloverman<STEAM_0:1:53097688> spawned/gave himself swep weapon_flashbang_qi
+[11:26:36] Andrew Cloverman: /toggleraise
+[11:29:36] Andrew Cloverman<STEAM_0:1:53097688> spawned/gave himself swep weapon_flashbang_qi
+[11:29:36] Andrew Cloverman: /toggleraise
+[11:29:53] Andrew Cloverman<STEAM_0:1:53097688> spawned/gave himself swep weapon_flashbang_qi
+[11:29:54] Andrew Cloverman: /toggleraise
+[11:30:31] Andrew Cloverman<STEAM_0:1:53097688> spawned/gave himself swep weapon_flashbang_qi
+[11:30:44] Andrew Cloverman<STEAM_0:1:53097688> spawned/gave himself swep weapon_flashbang_qi
+[11:30:45] Andrew Cloverman: /toggleraise
+[11:31:14] Andrew Cloverman<STEAM_0:1:53097688> spawned/gave himself swep weapon_flashbang_qi
+[11:31:15] Andrew Cloverman: /toggleraise
+[11:31:27] Client "Lynch" connected.
+[11:31:32] Andrew Cloverman<STEAM_0:1:53097688> spawned/gave himself swep weapon_flashbang_qi
+[11:31:32] Andrew Cloverman: /toggleraise
+[11:31:52] Andrew Cloverman<STEAM_0:1:53097688> spawned/gave himself swep weapon_flashbang_qi
+[11:31:52] Andrew Cloverman: /toggleraise
+[11:32:17] Andrew Cloverman<STEAM_0:1:53097688> spawned/gave himself swep weapon_flashbang_qi
+[11:32:17] Andrew Cloverman: /toggleraise
+[11:32:23] Andrew Cloverman<STEAM_0:1:53097688> spawned/gave himself swep weapon_flashbang_qi
+[11:32:23] Andrew Cloverman: /toggleraise
+[11:32:28] Andrew Cloverman<STEAM_0:1:53097688> spawned/gave himself swep weapon_flashbang_qi
+[11:32:28] Andrew Cloverman: /toggleraise
+[11:32:45] Andrew Cloverman<STEAM_0:1:53097688> spawned/gave himself swep weapon_flashbang_qi
+[11:32:45] Andrew Cloverman: /toggleraise
+[11:32:49] Andrew Cloverman<STEAM_0:1:53097688> spawned/gave himself swep weapon_flashbang_qi
+[11:32:50] Andrew Cloverman: /toggleraise
+[11:32:59] Andrew Cloverman<STEAM_0:1:53097688> spawned/gave himself swep weapon_flashbang_qi
+[11:32:59] Andrew Cloverman: /toggleraise
+[11:33:10] Andrew Cloverman<STEAM_0:1:53097688> spawned/gave himself swep weapon_flashbang_qi
+[11:33:11] Andrew Cloverman: /toggleraise
+[11:33:42] Andrew Cloverman<STEAM_0:1:53097688> spawned/gave himself swep weapon_flashbang_qi
+[11:33:42] Andrew Cloverman: /toggleraise
+[11:33:47] Andrew Cloverman<STEAM_0:1:53097688> spawned/gave himself swep weapon_flashbang_qi
+[11:33:48] Andrew Cloverman: /toggleraise
+[11:33:52] Andrew Cloverman<STEAM_0:1:53097688> spawned/gave himself swep weapon_flashbang_qi
+[11:33:53] Andrew Cloverman: /toggleraise
+[11:34:01] Client "Lynch" spawned in server <STEAM_0:1:626926779> (took 154 seconds).
+[11:34:50] Lynch<STEAM_0:1:626926779> changed their name to Nathan Pierce
+[11:35:06] Nathan Pierce: // Back.
+[11:35:16] Andrew Cloverman: //sup
+[11:36:00] Nathan Pierce: // Really excited to do my first application for the conscripts after I get those 2 LPs.
+[11:36:07] Andrew Cloverman: //nice nice
+[11:40:21] Nathan Pierce: /chardesc
+[11:40:37] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/weapons/w_grenade.mdl
+[11:42:05] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/weapons/w_eq_flashbang.mdl
+[11:44:17] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/weapons/w_pist_elite_dropped.mdl
+[11:44:18] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/weapons/w_eq_smokegrenade.mdl
+[11:44:36] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/weapons/w_eq_smokegrenade.mdl
+[11:44:38] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/weapons/w_snip_awp.mdl
+[11:44:43] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/weapons/w_eq_flashbang.mdl
+[11:44:46] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/weapons/w_eq_flashbang_thrown.mdl
+[11:44:47] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/weapons/w_eq_flashbang.mdl
+[11:45:25] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/illusion/eftcontainers/gyroscope.mdl
+[11:45:31] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/illusion/eftcontainers/galette.mdl
+[11:45:35] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/illusion/eftcontainers/mre.mdl
+[11:45:37] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/illusion/eftcontainers/galette.mdl
+[11:45:43] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/illusion/eftcontainers/isakalunchbox.mdl
+[11:45:56] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/illusion/eftcontainers/mre.mdl
+[11:46:05] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/illusion/eftcontainers/militarybattery.mdl
+[11:46:13] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/illusion/eftcontainers/laptop.mdl
+[11:46:15] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/illusion/eftcontainers/grizzly.mdl
+[11:46:20] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/illusion/eftcontainers/sugar.mdl
+[11:46:36] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/illusion/eftcontainers/sicccase.mdl
+[11:46:38] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/illusion/eftcontainers/powerfilter.mdl
+[11:46:41] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/illusion/eftcontainers/painkiller.mdl
+[11:46:46] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/illusion/eftcontainers/slickers.mdl
+[11:47:02] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/illusion/eftcontainers/galette.mdl
+[11:47:07] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/illusion/eftcontainers/intel.mdl
+[11:47:45] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/illusion/eftcontainers/alyonka.mdl
+[11:47:48] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/illusion/eftcontainers/armybandage.mdl
+[11:48:06] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/illusion/eftcontainers/weaponcase.mdl
+[11:48:11] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/illusion/eftcontainers/waterfilter.mdl
+[11:48:16] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/illusion/eftcontainers/coffee.mdl
+[11:48:18] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/illusion/eftcontainers/juice.mdl
+[11:48:38] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/illusion/eftcontainers/oatmeal.mdl
+[11:48:42] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/illusion/eftcontainers/mre.mdl
+[11:48:47] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/illusion/eftcontainers/bandage.mdl
+[11:48:51] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/illusion/eftcontainers/galette.mdl
+[12:23:30] Andrew Cloverman: /chargiveitem andrew flashbang
+[12:23:33] Andrew Cloverman: /toggleraise
+[12:23:48] Andrew Cloverman: /chargiveitem andrew flashbang
+[12:24:01] Andrew Cloverman: /toggleraise
+[12:25:38] Andrew Cloverman: /toggleraise
+[12:27:13] Andrew Cloverman: /toggleraise
+[12:28:40] Andrew Cloverman<STEAM_0:1:53097688> changed their name to CCA.C17-GRID.i3.10945
+[12:33:37] Nathan Pierce: // bacc again
+[12:33:54] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> changed their name to CCA.C17-GRID.EpU.06912
+[12:34:33] CCA.C17-GRID.EpU.06912: //testing out the passive emit
+[12:34:35] CCA.C17-GRID.EpU.06912: //don't mind me
+[12:34:39] Nathan Pierce: // kk
+[12:35:00] CCA.C17-GRID.EpU.06912: //did you hear that
+[12:35:03] Nathan Pierce: // Yeah
+[12:35:08] CCA.C17-GRID.EpU.06912: //dope
+[12:38:54] CCA.C17-GRID.EpU.06912: /adminspawnmenu
+
+
+
+[12:47:39] New map: rp_industrial17_v1
+[12:50:24] Client "Lildirtyharry04" connected.
+[12:50:24] Client "Lildirtyharry04" connected.
+[12:50:24] Client "Lildirtyharry04" connected.
+[12:51:50] Client "Lildirtyharry04" spawned in server <STEAM_0:0:247487472> (took 86 seconds).
+[12:52:35] Lildirtyharry04<STEAM_0:0:247487472> changed their name to John Reece
+[12:58:06] John Reece was killed by npc_antlion
+[12:58:24] Client "matt saton" connected.
+[12:59:29] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 65 seconds).
+[13:00:19] Dropped "John Reece" from server<STEAM_0:0:247487472>
+[13:00:37] Client "Lildirtyharry04" connected.
+[13:00:37] Client "Lildirtyharry04" connected.
+[13:00:37] Client "Lildirtyharry04" connected.
+[13:01:34] Client "Lildirtyharry04" spawned in server <STEAM_0:0:247487472> (took 57 seconds).
+[13:02:04] Lildirtyharry04<STEAM_0:0:247487472> changed their name to John Reece
+[13:12:55] Client "Painevan" connected.
+[13:15:26] Client "Painevan" spawned in server <STEAM_0:0:68118061> (took 151 seconds).
+[13:16:21] Painevan<STEAM_0:0:68118061> changed their name to Jonathan Jackson
+[13:17:53] Client "Lynch" connected.
+[13:19:07] Client "Lynch" spawned in server <STEAM_0:1:626926779> (took 74 seconds).
+[13:20:13] Lynch<STEAM_0:1:626926779> changed their name to Nathan Pierce
+[13:24:19] Jonathan Jackson: // welcom
+[13:24:50] Dropped "John Reece" from server<STEAM_0:0:247487472>
+[13:50:34] Nathan Pierce: // Hey Painevan, can you get on your CP char? Tryna get 2 more LPs.
+[13:52:39] Jonathan Jackson: // uh
+[13:52:41] Jonathan Jackson: // sure
+[13:52:52] Jonathan Jackson<STEAM_0:0:68118061> changed their name to CCA.C17-HELIX.i3.08874
+[13:52:59] Nathan Pierce: // Thanks.
+[13:54:46] CCA.C17-HELIX.i3.08874: Uh, what?
+[13:54:56] Nathan Pierce: Got any work that I could do?
+[13:55:25] CCA.C17-HELIX.i3.08874: /looc bro he added overwatch sounds
+[13:55:29] CCA.C17-HELIX.i3.08874: /radio Status Green.
+[13:55:33] CCA.C17-HELIX.i3.08874: Em
+[13:55:36] CCA.C17-HELIX.i3.08874: Maybe.
+[13:55:58] CCA.C17-HELIX.i3.08874: /radio 10-4
+[13:56:16] CCA.C17-HELIX.i3.08874: /radio Aquiring visual download.
+[13:56:25] CCA.C17-HELIX.i3.08874: Hang these up.
+[13:56:54] CCA.C17-HELIX.i3.08874: /me puts some similar posters down on the table.
+[13:57:02] Nathan Pierce: Alright.
+[13:57:10] CCA.C17-HELIX.i3.08874: Preferably spread out.
+[13:57:30] Nathan Pierce: /me Picked up the posters
+[13:57:45] Nathan Pierce: Off to work then.
+[13:58:42] Nathan Pierce: /me Took out a poster and placed it on the wall
+[13:59:58] Nathan Pierce: /me Repeated the same proccess once again
+[14:02:47] matt saton<STEAM_0:1:53097688> changed their name to Andrew Cloverman
+[14:02:53] Andrew Cloverman: //just here AFKing don't mind me
+[14:02:56] Andrew Cloverman: //about to start homework
+[14:02:59] CCA.C17-HELIX.i3.08874: // k
+[14:03:27] CCA.C17-HELIX.i3.08874: /radio copy
+[14:14:28] Nathan Pierce: Alright, I'm finally back.
+[14:14:44] CCA.C17-HELIX.i3.08874: Alright good.
+[14:14:47] CCA.C17-HELIX.i3.08874: Apply?
+[14:14:54] Nathan Pierce: /apply
+[14:14:58] CCA.C17-HELIX.i3.08874: Right..
+[14:15:07] CCA.C17-HELIX.i3.08874: /me takes out a small PDA and switches it on.
+[14:15:23] CCA.C17-HELIX.i3.08874: /viewdata nathan
+[14:15:56] CCA.C17-HELIX.i3.08874: Two LP has been added.
+[14:16:00] CCA.C17-HELIX.i3.08874: You can go now.
+[14:16:07] Nathan Pierce: Alright- Oh and.
+[14:16:31] Nathan Pierce: Is 5 Loyalist points a new tier?
+[14:16:37] CCA.C17-HELIX.i3.08874: Yellow Tier Loyalist.
+[14:16:46] Nathan Pierce: Aha, got it.
+[14:16:54] CCA.C17-HELIX.i3.08874: Mhm.
+[14:16:55] Nathan Pierce: Goodbye.
+[14:17:37] Nathan Pierce: // Okay, time to apply for the Conscripts faction. Wish me luck.
+[14:19:36] CCA.C17-HELIX.i3.08874: // I thought conscripts was 10 lp
+[14:20:15] CCA.C17-HELIX.i3.08874<STEAM_0:0:68118061> changed their name to Jonathan Jackson
+[14:21:15] Nathan Pierce: // Just looked it up again to be sure, yeah you can apply wih 5 LPs.
+[14:58:22] Client "Lildirtyharry04" connected.
+[14:59:45] Client "Lildirtyharry04" spawned in server <STEAM_0:0:247487472> (took 83 seconds).
+[15:02:20] Lildirtyharry04<STEAM_0:0:247487472> changed their name to John Reece
+[15:02:26] Dropped "John Reece" from server<STEAM_0:0:247487472>
+[15:09:33] Dropped "Nathan Pierce" from server<STEAM_0:1:626926779>
+[15:29:55] Client "Menzelli" connected.
+[15:44:55] Client "Weaponized Turtles" connected.
+[15:46:37] Client "Weaponized Turtles" spawned in server <STEAM_0:0:69165544> (took 102 seconds).
+[15:47:16] Weaponized Turtles<STEAM_0:0:69165544> changed their name to Jacob Desmone
+[15:50:40] Jacob Desmone: // so
+[15:59:16] Client "Menzelli" spawned in server <STEAM_0:0:602272617> (took 1761 seconds).
+[15:59:29] Client "Terry Myers" connected.
+[15:59:56] Dropped "Menzelli" from server<STEAM_0:0:602272617>
+[16:22:57] Client "wendigo" connected.
+[16:25:16] Client "wendigo" spawned in server <STEAM_0:1:429480781> (took 139 seconds).
+[16:25:59] wendigo<STEAM_0:1:429480781> changed their name to Ava Carter
+[16:26:05] Jacob Desmone: .// I forgot what happened
+[16:26:08] Ava Carter: /looc alr
+[16:26:17] Ava Carter: /looc basically i was asking if i could join yall
+[16:26:20] Jacob Desmone: .// oh yea stewie got popped
+[16:26:28] Jacob Desmone: Hmm
+[16:26:28] Ava Carter: /looc yeah ik sad
+[16:26:47] Jacob Desmone: So what is it that you need?
+[16:27:08] Ava Carter: i want to avenge my brother
+[16:27:16] Ava Carter: /looc stewie is ava's brother
+[16:27:20] Jacob Desmone: .// ik you told me
+[16:27:25] Jacob Desmone: // oh hunger
+[16:27:26] Jacob Desmone: // wtf
+[16:27:34] Ava Carter: // YOU GOTTA EAT
+[16:27:39] Jacob Desmone: .// hold up
+[16:27:52] Jacob Desmone: // I BOUGHT A WATER AND IT DIDN't GIVE
+[16:27:53] Jacob Desmone: // I GOT SCAMMED
+[16:27:58] Ava Carter: // HAHAHA
+[16:28:12] Jacob Desmone: .// alright we good it was water
+[16:28:14] Jacob Desmone: .// void that lmao
+[16:28:24] Jacob Desmone: So you want to avenge him
+[16:28:27] Ava Carter: yes
+[16:28:38] Jacob Desmone: Well good luck with that I just make stuff 
+[16:28:54] Ava Carter: and? maybe you making stuff could help me do that
+[16:28:58] Jacob Desmone: Hm true
+[16:29:00] Ava Carter: maybe we could team up?
+[16:29:03] Jacob Desmone: Possibly 
+[16:29:08] Jacob Desmone: Names Jacob Desmone
+[16:29:18] Ava Carter: my name is ava carter
+[16:29:26] Jacob Desmone: If you want me to help you Ava
+[16:29:31] Jacob Desmone: I first need a eletric drill
+[16:29:40] Jacob Desmone: Then we can talk about whats next step in avenging your brother
+[16:29:43] Jacob Desmone: I can't talk much here
+[16:29:49] Jacob Desmone: cause of yknow
+[16:29:54] Jacob Desmone: /me Motions to the citadel and cameras
+[16:30:00] Jacob Desmone: But I got a place where I keep my stuff
+[16:30:04] Jacob Desmone: See ya around
+[16:30:38] Jacob Desmone: // thats code for
+[16:30:45] Jacob Desmone: // I am tired of looking for a drill in the sewers
+[16:30:48] Jacob Desmone: // so get me one 
+[16:30:49] Ava Carter: // lmao
+[16:30:59] Ava Carter: // shouldn't be too hard
+[16:31:01] Jacob Desmone: // cause with a drill I can make 
+[16:31:02] Jacob Desmone: // Weapon parts
+[16:31:18] Jacob Desmone: // I have charcol so I think I can get Nitrate or niter
+[16:31:40] Jacob Desmone: // possibly
+[16:31:52] Ava Carter: // shit i forgot to buy a flashlight
+[16:32:02] Jacob Desmone: // I have 4
+[16:32:07] Jacob Desmone: // il drop one infront of the headcrab place
+[16:32:15] Ava Carter: // meta gaming?
+[16:32:22] Jacob Desmone: // advanced thinking
+[16:32:49] Jacob Desmone: // plus rp isn't even on rn since half the ppl are afk
+[16:32:54] Jacob Desmone: // rn its looting time 
+[16:33:21] Ava Carter: // this is some bs "you cannot interact with an item you own on a different character"
+[16:33:26] Jacob Desmone: // I mean
+[16:33:29] Jacob Desmone: // if I pk on jacob
+[16:33:34] Jacob Desmone: // you think I can go grab my arsenal
+[16:33:39] Ava Carter: // no
+[16:33:43] Jacob Desmone: // exactly
+[16:34:10] Ava Carter: // but what if hear me out YOU FOUND IT, in rp fasion
+[16:34:24] Jacob Desmone: // woag
+[16:34:26] Jacob Desmone: // bring me a drill
+[16:34:36] Ava Carter: // found a hamnmer
+[16:34:40] Jacob Desmone: // I have a hammer
+[16:39:42] Ava Carter: // am i fucking lucky or what??? i FOUND A REINFORCED PADLOCK!!!
+[16:39:49] Jacob Desmone: // nice
+[16:39:52] Jacob Desmone: // ye those are rare
+[16:40:04] Jacob Desmone: // still no scraps
+[16:40:15] Jacob Desmone: // I just had a idea
+[16:40:21] Jacob Desmone: // I think I know how to make
+[16:40:25] Jacob Desmone: // a makeshift molotov
+[16:41:47] Ava Carter: // i have found da drill
+[16:41:53] Ava Carter: // yet to find the flashlight
+[16:41:56] Jacob Desmone: // yes come to the plaza
+[16:42:00] Jacob Desmone: // I will give you flashlight
+[16:42:32] Jacob Desmone: // I have new things cooking up
+[16:42:36] Jacob Desmone: // For the thing
+[16:42:40] Jacob Desmone: // each day
+[16:42:44] Jacob Desmone: // I find something new
+[16:42:48] Jacob Desmone: // today its stun nades ande Molotovs
+[16:43:02] Ava Carter: hi jacob
+[16:43:04] Jacob Desmone: Oh hi
+[16:43:08] Jacob Desmone: You got a drill?
+[16:43:12] Ava Carter: yep
+[16:43:17] Jacob Desmone: Alright I forgot to give you this
+[16:43:25] Jacob Desmone: Perfect
+[16:43:26] Ava Carter: also
+[16:43:30] Jacob Desmone: ?
+[16:43:40] Jacob Desmone: Something on my face?
+[16:43:53] Ava Carter: i just put them on the ground
+[16:44:05] Jacob Desmone: Alright follow me ill show you the base for now
+[16:44:16] Jacob Desmone: Be discreet when going up
+[16:44:19] Jacob Desmone: theres 3 entrances in
+[16:44:22] Jacob Desmone: this is one
+[16:44:36] Ava Carter: not very descreet
+[16:44:42] Jacob Desmone: Well the most obvious places
+[16:44:44] Jacob Desmone: are the best sometimes
+[16:44:51] Jacob Desmone: Don't got much storage
+[16:44:53] Jacob Desmone: But lots of materials
+[16:45:00] Jacob Desmone: I haven't been searched or raided
+[16:45:08] Jacob Desmone: But let me make some parts
+[16:45:31] Jacob Desmone: /me The man would goto the bench are start assembling something
+[16:45:42] Jacob Desmone: /me Pins timers etc seems to be parts of a grenade
+[16:45:54] Ava Carter: // you also still making the radios?
+[16:46:05] Jacob Desmone: // I will I just need a Iron solder
+[16:46:15] Jacob Desmone: // So the parts despawned
+[16:46:17] Jacob Desmone: // wtth
+[16:46:27] Jacob Desmone: // oh
+[16:46:30] Jacob Desmone: // it gave me a filter wth
+[16:46:33] Jacob Desmone: // Oh its bugged lmao
+[16:46:39] Ava Carter: // damn
+[16:46:41] Jacob Desmone: // He messed it up
+[16:47:10] Jacob Desmone: // Its chill I saw him at 3 am working so he just messed up a little
+[16:47:14] Jacob Desmone: // but I have weapon parts
+[16:47:16] Jacob Desmone: /me Shows the parts
+[16:47:21] Jacob Desmone: I can make a lot with this drill
+[16:47:41] Jacob Desmone: Alright you can go and do what you want
+[16:47:44] Jacob Desmone: im gonna stay here for a bit
+[16:47:52] Jacob Desmone: And mess with stuff I still need a few chemicals
+[16:47:56] Jacob Desmone: If you somehow come across
+[16:48:09] Jacob Desmone: Saltpeter/Niter or Ammomium Nitrate
+[16:48:14] Jacob Desmone: That will be helpful
+[16:48:17] Jacob Desmone: Or some kind of grenade body
+[16:48:19] Ava Carter: alright later, let's talk about y'know my brother later
+[16:48:24] Jacob Desmone: Yea
+[16:49:19] Ava Carter: // damn imagine if stewie didn't die but escaped and he comes back surprising everyone
+[16:49:40] Ava Carter: // that would've been so cool lmao
+[16:49:53] Jacob Desmone: // would of been but combine are very powerful
+[16:50:08] Ava Carter: // yeah and PAIN DIDN'T DECIDE TO LET ME GO!!!
+[16:50:31] Jacob Desmone: // of course
+[16:50:32] Jacob Desmone: // smh
+[16:51:01] Ava Carter: // i just found a NORMAL padlock now lol
+[16:55:23] Ava Carter: // aight imma go for now, imma get back on when the server be poppin
+[16:55:28] Jacob Desmone: // ok 
+[16:55:33] Dropped "Ava Carter" from server<STEAM_0:1:429480781>
+[16:55:55] Dropped "Jacob Desmone" from server<STEAM_0:0:69165544>
+[17:26:15] Dropped "Jonathan Jackson" from server<STEAM_0:0:68118061>
+[18:32:00] Client "Weaponized Turtles" connected.
+[18:33:14] Client "Weaponized Turtles" spawned in server <STEAM_0:0:69165544> (took 74 seconds).
+[18:33:38] Weaponized Turtles<STEAM_0:0:69165544> changed their name to Jacob Desmone
+[18:45:45] Client "Painevan" connected.
+[18:52:45] Client "Painevan" connected.
+[18:57:24] Client "Painevan" spawned in server <STEAM_0:0:68118061> (took 279 seconds).
+[18:58:27] Painevan<STEAM_0:0:68118061> changed their name to CCA.C17-HELIX.i3.08874
+[18:58:51] Client "Lildirtyharry04" connected.
+[18:59:00] CCA.C17-HELIX.i3.08874: What?
+[18:59:07] Jacob Desmone: Here to do some work.
+[18:59:17] CCA.C17-HELIX.i3.08874: Em, alright.
+[18:59:18] Jacob Desmone: And to also turn something in I found outside the shop I work out
+[18:59:29] CCA.C17-HELIX.i3.08874: Where do you work.
+[18:59:32] Jacob Desmone: Grizzly Grotto
+[18:59:36] Jacob Desmone: Industrial zone
+[18:59:41] CCA.C17-HELIX.i3.08874: Mhm.
+[18:59:46] CCA.C17-HELIX.i3.08874: /radio Copy
+[19:00:17] CCA.C17-HELIX.i3.08874: Alright, just wait for a second.
+[19:00:19] Client "Lildirtyharry04" spawned in server <STEAM_0:0:247487472> (took 88 seconds).
+[19:00:20] Jacob Desmone: Gotcha
+[19:00:37] CCA.C17-HELIX.i3.08874: apply
+[19:00:41] Jacob Desmone: /apply
+[19:00:50] CCA.C17-HELIX.i3.08874: /me takes out a small PDA, and switches it on.
+[19:00:56] CCA.C17-HELIX.i3.08874: /viewdata jacob
+[19:01:41] Lildirtyharry04<STEAM_0:0:247487472> changed their name to John Reece
+[19:01:42] CCA.C17-HELIX.i3.08874: You are going to place these posters in various locations.
+[19:01:54] Jacob Desmone: /me Bundles the posters up together
+[19:02:12] Jacob Desmone: So just around the city?
+[19:02:15] CCA.C17-HELIX.i3.08874: Yes.
+[19:02:24] Jacob Desmone: Ill come back here once its done
+[19:02:55] Jacob Desmone: /me Starts pushing the poster onto the wall
+[19:03:05] Jacob Desmone: /me Taping the edges with Clear Tape to keep it up
+[19:03:58] Jacob Desmone: /me Puts up the poster next to the bench
+[19:04:00] CCA.C17-HELIX.i3.08874: /radio Affirmative
+[19:04:05] Jacob Desmone: /me Taping the edges with clear tape the poster stays up
+[19:04:55] Jacob Desmone: /me Posts up the poster with some clear tape
+[19:04:57] Jacob Desmone: There done.
+[19:06:07] Jacob Desmone: I placed each poster in different areas in different districts
+[19:06:40] CCA.C17-HELIX.i3.08874: Alright.
+[19:06:50] CCA.C17-HELIX.i3.08874: /me types out some things into the PDA.
+[19:06:54] CCA.C17-HELIX.i3.08874: /viewdata jabobs
+[19:07:00] CCA.C17-HELIX.i3.08874: /viewdata jacob
+[19:07:53] Jacob Desmone: Uhh is there any more work today?
+[19:07:58] CCA.C17-HELIX.i3.08874: I suppose.
+[19:08:05] Jacob Desmone: Sounds good.
+[19:08:15] CCA.C17-HELIX.i3.08874: Stay here while I look for some.
+[19:08:17] Jacob Desmone: Alright
+[19:08:44] CCA.C17-HELIX.i3.08874<STEAM_0:0:68118061> changed their name to Jonathan Jackson
+[19:08:57] Client "Bean" connected.
+[19:09:46] Jonathan Jackson<STEAM_0:0:68118061> spawned model models/props_junk/cardboard_box003b.mdl
+[19:09:48] Jonathan Jackson<STEAM_0:0:68118061> spawned model models/props_junk/cardboard_box002b.mdl
+[19:09:50] Jonathan Jackson<STEAM_0:0:68118061> spawned model models/props_junk/cardboard_box004a.mdl
+[19:09:51] Jonathan Jackson<STEAM_0:0:68118061> spawned model models/props_junk/cardboard_box004a.mdl
+[19:09:54] Jonathan Jackson<STEAM_0:0:68118061> spawned model models/props_junk/cardboard_box002a.mdl
+[19:10:00] John Reece: /name
+[19:10:02] Jonathan Jackson<STEAM_0:0:68118061> spawned model models/props_junk/cardboard_box002a.mdl
+[19:10:05] Client "Bean" spawned in server <STEAM_0:1:591779303> (took 68 seconds).
+[19:10:12] Jonathan Jackson<STEAM_0:0:68118061> spawned model models/props_junk/wood_crate001a_damaged.mdl
+[19:10:18] Jonathan Jackson<STEAM_0:0:68118061> changed their name to CCA.C17-HELIX.i3.08874
+[19:10:26] Bean<STEAM_0:1:591779303> changed their name to Alex Palovichov
+[19:10:35] CCA.C17-HELIX.i3.08874: /radio at location report
+[19:10:40] Alex Palovichov: /ooc *Sniff Sniff* Workdesk?
+[19:10:43] Jacob Desmone: // yes
+[19:11:02] CCA.C17-HELIX.i3.08874: There is some items at the train station that needs transfer to ICT Headquarters.
+[19:11:08] CCA.C17-HELIX.i3.08874: You are to bring it there and report there.
+[19:11:12] CCA.C17-HELIX.i3.08874: /Radio 10-4
+[19:11:14] Jacob Desmone: Yes sir.
+[19:11:15] Dropped "John Reece" from server<STEAM_0:0:247487472>
+[19:11:18] Alex Palovichov: Evenin'
+[19:11:19] Alex Palovichov: Any work?
+[19:11:28] CCA.C17-HELIX.i3.08874: Assist them with what they are doing.
+[19:11:33] CCA.C17-HELIX.i3.08874: Go on
+[19:11:35] Alex Palovichov: What are they doi-
+[19:11:36] Alex Palovichov: Alrighty
+[19:11:43] CCA.C17-HELIX.i3.08874<STEAM_0:0:68118061> changed their name to Jonathan Jackson
+[19:11:55] Jonathan Jackson<STEAM_0:0:68118061> changed their name to Otto Von Habsburg
+[19:12:18] Jacob Desmone: // "Evening" alex its 10 am
+[19:12:26] Otto Von Habsburg: /me coughs lightly.
+[19:12:30] Alex Palovichov: And these are going...where?
+[19:12:33] Jacob Desmone: ICT 
+[19:12:42] Alex Palovichov: Great...another unordered package..
+[19:13:15] Jacob Desmone: .// he ment cwu
+[19:13:56] Otto Von Habsburg: Good, the packages arrived finally.
+[19:13:57] Jacob Desmone: Package for here I think
+[19:13:59] Jacob Desmone: I got more coming
+[19:14:02] Otto Von Habsburg: Just put em on the counter.
+[19:14:02] Jacob Desmone: /pm alex I ment to say CWU
+[19:14:07] Alex Palovichov: /reply ffs..
+[19:14:13] Jacob Desmone: /pm alex yea he just told me
+[19:14:19] Alex Palovichov: Wait...
+[19:14:28] Alex Palovichov: Aren't those ICT?
+[19:14:34] Alex Palovichov: Thats what I've been told...
+[19:14:36] Otto Von Habsburg: It's CWU, that's on the timetable.
+[19:14:44] Alex Palovichov: Then why the fuck did that...
+[19:14:51] Alex Palovichov: Wrong fucking place...
+[19:14:57] Jacob Desmone: Yea he told me to
+[19:16:10] Otto Von Habsburg: I've got it.
+[19:16:14] Alex Palovichov: Uh huh...
+[19:16:21] Jacob Desmone: one package left up there
+[19:17:03] Alex Palovichov: /looc where tf?
+[19:17:11] Jacob Desmone: tf it go
+[19:17:16] Otto Von Habsburg<STEAM_0:0:68118061> spawned model models/props_junk/popcan01a.mdl
+[19:17:27] Alex Palovichov: /looc Shit up and disappeared...
+[19:17:47] Jacob Desmone: // does offworld mean death
+[19:17:49] Jacob Desmone: // or a new planet
+[19:17:54] Otto Von Habsburg<STEAM_0:0:68118061> changed their name to CCA.C17-HELIX.i3.08874
+[19:18:11] Jacob Desmone: Done
+[19:18:14] CCA.C17-HELIX.i3.08874: Did you report back in with them?
+[19:18:22] Jacob Desmone: /me Sighs 
+[19:18:24] Jacob Desmone: Thought alex was gonna do that
+[19:18:26] CCA.C17-HELIX.i3.08874: huh figures
+[19:18:28] Jacob Desmone: Let me go talk to him
+[19:18:33] Jacob Desmone: My fault
+[19:18:33] Alex Palovichov: Do what...
+[19:18:39] Jacob Desmone: Ill go check in with the CWU guy
+[19:18:41] Jacob Desmone: at the desk
+[19:18:46] Alex Palovichov: Wha0
+[19:18:46] CCA.C17-HELIX.i3.08874: Go with them
+[19:18:50] Alex Palovichov: /looc Wha-
+[19:18:53] Alex Palovichov: What the fu-
+[19:18:56] Alex Palovichov: Huh?
+[19:19:06] CCA.C17-HELIX.i3.08874<STEAM_0:0:68118061> changed their name to Otto Von Habsburg
+[19:19:11] Jacob Desmone: Alright thats it
+[19:19:13] Jacob Desmone: for packages
+[19:19:22] Alex Palovichov: Where the fuck are they going..
+[19:19:24] Otto Von Habsburg: Alright, do me a favor though.
+[19:20:02] Jacob Desmone: .// half the like suits in this game look so goofy 
+[19:20:06] Alex Palovichov: A favor?
+[19:20:07] Otto Von Habsburg: I have some packages meant to be delivered down to the Movie Theater place, but as you can see, there is a lack of Logistics Staff available.
+[19:20:15] Alex Palovichov: So...
+[19:20:26] Otto Von Habsburg: So I'm asking you to do it.
+[19:20:30] Alex Palovichov: You can't leave the place and do it yourself?
+[19:20:37] Jacob Desmone: For free?
+[19:20:40] Otto Von Habsburg: No, one person is posted here at all times.
+[19:20:53] Otto Von Habsburg: It's apart of your work desk task.
+[19:20:58] Jacob Desmone: /me Sighs
+[19:21:01] Alex Palovichov: Then why are you saying it for a favor...
+[19:21:15] Jacob Desmone: Figure of speech
+[19:21:15] Alex Palovichov: it ain't a favor if its a job...
+[19:21:29] Jacob Desmone: Look we can move the boxes to the move theater
+[19:21:30] Alex Palovichov: I don't do the ICT Director a favor doing my job...
+[19:21:34] Otto Von Habsburg: Because I want to put in a lighter mood then you have some more work to do before you get your LP.
+[19:21:44] Alex Palovichov: Hmph
+[19:21:49] Otto Von Habsburg: If you don't want to do it, leave.
+[19:21:49] Jacob Desmone: Where would the boxes be
+[19:21:55] Otto Von Habsburg: Christ sakes people.
+[19:22:01] Jacob Desmone: I know hes a bit 
+[19:22:03] Otto Von Habsburg: Right, I'll get it out for you.
+[19:22:08] Jacob Desmone: Pressuring yknow?
+[19:22:14] Otto Von Habsburg: More like a jackass.
+[19:22:14] Jacob Desmone: But yea I got this
+[19:22:22] Alex Palovichov: What fucking packages!
+[19:22:28] Jacob Desmone: Hes grabbing them
+[19:22:30] Otto Von Habsburg<STEAM_0:0:68118061> spawned model models/props_interiors/furniture_lamp01a.mdl
+[19:22:32] Alex Palovichov: For fuck...
+[19:22:34] Alex Palovichov: Now he tells me...
+[19:22:36] Otto Von Habsburg<STEAM_0:0:68118061> spawned model models/props_interiors/furniture_chair01a.mdl
+[19:22:37] Otto Von Habsburg<STEAM_0:0:68118061> spawned model models/props_interiors/furniture_chair01a.mdl
+[19:22:43] Otto Von Habsburg<STEAM_0:0:68118061> spawned model models/props_wasteland/controlroom_filecabinet001a.mdl
+[19:22:45] Alex Palovichov: /me Mumbles under his breath
+[19:23:07] Otto Von Habsburg: You can leave if you don't want to do this, you just won't get anything.
+[19:23:07] Alex Palovichov: I appreciate you telling me that they ain't at the trainstation AFTER I LEFT FOR THEM
+[19:23:19] Otto Von Habsburg: Listen to me. I
+[19:23:21] Otto Von Habsburg: Do
+[19:23:22] Otto Von Habsburg: Not
+[19:23:23] Otto Von Habsburg: Care
+[19:23:30] Jacob Desmone: .// PERSONALLY ALEX
+[19:23:32] Jacob Desmone: .// I WOULD NOT TAKE TAHT
+[19:23:37] Alex Palovichov: Then...Go...Do...Your...Job and GET THE FUCKING PACKAGES!
+[19:23:38] Jacob Desmone: .// GO BOX HIS ASS UP
+[19:23:43] Jacob Desmone: .// ZAMNNN OTTO
+[19:23:47] Jacob Desmone: .// PERSONALLY I WOULD NOT TAKE THAT
+[19:23:47] Otto Von Habsburg: I'm not in logistics, I'm filling in.
+[19:23:58] Alex Palovichov: Filling in?! What fucking branch ARE you in?
+[19:24:07] Jacob Desmone: This is apart of the package right?
+[19:24:11] Otto Von Habsburg: So shut, the fuck up. Not like you do anything in your branch anyways besides sit around and look pretty.
+[19:24:17] Jacob Desmone: Or just a prop
+[19:24:23] Otto Von Habsburg: I'm in Medical, I treat wounds, you treat youself to a comfy life
+[19:24:23] Alex Palovichov: What branch are you in...
+[19:24:33] Alex Palovichov: /me Would let out a loud laught
+[19:24:37] Alex Palovichov: /looc laugh*
+[19:24:42] Alex Palovichov: /y HAHAH! CMU! HAH! 
+[19:24:52] Alex Palovichov: /y I ain't ever see a CMU in my life! 
+[19:25:01] Otto Von Habsburg<STEAM_0:0:68118061> spawned model models/props_combine/breenglobe.mdl
+[19:25:18] Alex Palovichov: You obviously don't like being in the hospital then...
+[19:25:20] Alex Palovichov: /me Chuckles
+[19:25:51] Alex Palovichov: Quite the joke...
+[19:26:02] Jacob Desmone: Mhm
+[19:26:10] Alex Palovichov: CMU...*Chuckles*   
+[19:26:21] Jacob Desmone: Outside the place or inside?
+[19:26:24] Otto Von Habsburg: Yeah uhh.
+[19:26:28] Alex Palovichov: He didn't specify did he?
+[19:26:30] Jacob Desmone: Not really
+[19:26:33] Alex Palovichov: Outside then
+[19:26:34] Otto Von Habsburg: That Alex guy, he's being difficult
+[19:26:38] Alex Palovichov: Easier for us
+[19:26:45] Otto Von Habsburg: Just don't give him the LP if he asks.
+[19:26:49] Jacob Desmone: I should of done engineering
+[19:27:18] Jacob Desmone: I only got into commerce to hang out 
+[19:27:22] Jacob Desmone: but I feel like engineering
+[19:27:26] Jacob Desmone: was a better choice
+[19:27:31] Alex Palovichov: We need some engineer's around here...
+[19:27:37] Jacob Desmone: I work at home with some scrap eletronics
+[19:27:42] Jacob Desmone: simple stuff
+[19:27:44] Alex Palovichov: Oh? Interesting...
+[19:28:02] Alex Palovichov: /looc mfw ping
+[19:28:08] Jacob Desmone: like
+[19:28:16] Jacob Desmone: if I press a button
+[19:28:31] Jacob Desmone: I can turn off or on my locks
+[19:28:41] Alex Palovichov: Your biolocks?
+[19:28:41] Jacob Desmone: which is nice
+[19:28:43] Jacob Desmone: no no
+[19:28:46] Jacob Desmone: like for my locker
+[19:28:49] Alex Palovichov: Huh...
+[19:29:08] Jacob Desmone: Kinda like uhh
+[19:29:22] Jacob Desmone: I hit a button and some random junk metal I found
+[19:29:29] Jacob Desmone: Goes up and hits the right buttons to unlock my padlock
+[19:29:35] Alex Palovichov: Interesting...
+[19:29:44] Alex Palovichov: That should be all...
+[19:29:48] Jacob Desmone: Yea
+[19:29:52] Jacob Desmone: lets report back in just in case
+[19:29:53] Alex Palovichov: Unless that "CMU" says otherwise...
+[19:30:27] Otto Von Habsburg<STEAM_0:0:68118061> spawned model models/props_lab/frame002a.mdl
+[19:30:34] Otto Von Habsburg<STEAM_0:0:68118061> spawned model models/props_lab/frame002a.mdl
+[19:30:40] Jacob Desmone: Hey is that it?
+[19:30:41] Alex Palovichov: There...Mister CMU...
+[19:30:49] Otto Von Habsburg: Fuck off ICT
+[19:30:55] Alex Palovichov: My name ain't ICT...
+[19:30:57] Jacob Desmone: Woah lets calm down.
+[19:31:02] Alex Palovichov: /me Chuckles
+[19:31:05] Otto Von Habsburg: You two can head to the desk now, you're finished.
+[19:31:09] Jacob Desmone: Thanks man
+[19:31:10] Jacob Desmone: Have a good one
+[19:31:15] Otto Von Habsburg: You too.
+[19:31:17] Jacob Desmone: /me Nods
+[19:31:17] Alex Palovichov: Never thought a CMU would fill in for logistics...
+[19:31:25] Otto Von Habsburg<STEAM_0:0:68118061> changed their name to CCA.C17-HELIX.i3.08874
+[19:31:50] Jacob Desmone: .// void that didn't mean to run
+[19:31:57] Jacob Desmone: Hello officer we finished our tasks
+[19:32:01] CCA.C17-HELIX.i3.08874: I heard.
+[19:32:23] CCA.C17-HELIX.i3.08874: Jacob, I'll get your LP set in.
+[19:32:26] CCA.C17-HELIX.i3.08874: Alex you stay here.
+[19:32:31] Jacob Desmone: I have a question
+[19:32:39] Jacob Desmone: How much LP did I earn throughout those tasks and the contraband?
+[19:32:40] CCA.C17-HELIX.i3.08874: /me takes out a small PDA from his toolbelt, and switches it on.
+[19:32:47] CCA.C17-HELIX.i3.08874: Would be about five now.
+[19:32:50] Jacob Desmone: .// YESSIR
+[19:32:50] CCA.C17-HELIX.i3.08874: /viewdata jacob
+[19:32:55] Alex Palovichov: Oh my...
+[19:33:07] Alex Palovichov: You're at 5...
+[19:33:13] Alex Palovichov: Just enough to join the CWU...
+[19:33:23] Jacob Desmone: Yea I did a bad thing that I regret
+[19:33:34] CCA.C17-HELIX.i3.08874: You can go then.
+[19:33:36] Jacob Desmone: Yes sir.
+[19:33:41] Alex Palovichov: If you want a job in the CWU...
+[19:33:46] Alex Palovichov: I'm here...
+[19:33:48] Jacob Desmone: I already am
+[19:33:54] Jacob Desmone: I work in commerce like I said
+[19:33:59] CCA.C17-HELIX.i3.08874: He's in the Commerce division...
+[19:34:05] Alex Palovichov: Thought you said Engineering...
+[19:34:09] Alex Palovichov: Must've misheard 
+[19:34:11] Jacob Desmone: I like it but I also mentioned
+[19:34:17] Jacob Desmone: That I ahve people I know in commerce
+[19:34:18] Jacob Desmone: and its not so bad
+[19:34:25] Alex Palovichov: Anyway...What can I help ya with?
+[19:35:04] CCA.C17-HELIX.i3.08874: You can help me with why I got a report over the Request Device that an ICT Manager was being rude to a person at Logistics.
+[19:35:28] Alex Palovichov: Not rude...Just annoyed...A CMU taking a spot in logistics even though I've never seen a CMU in my LIFE in this city...
+[19:35:40] Alex Palovichov: Then sending me on a goose chase for some packages to deliever to the theatre...
+[19:35:43] CCA.C17-HELIX.i3.08874: shut up
+[19:35:47] CCA.C17-HELIX.i3.08874: Litsen to me.
+[19:35:54] Alex Palovichov: Ears wide open
+[19:36:02] Jacob Desmone: // I love my hex key
+[19:36:33] CCA.C17-HELIX.i3.08874: You are to be respectful to anyone in the City, ever wonder why most people in the City hate you? One you are stuck up, and two people don't appreciate someone talking down to them because they scored a manager position.
+[19:36:38] CCA.C17-HELIX.i3.08874: This is why you make enemies.
+[19:37:18] CCA.C17-HELIX.i3.08874: Next work desk I don't want to see the person who you are working with talking about why they were insulted based on what branch they are in.
+[19:37:30] Jacob Desmone: Is he good?
+[19:37:33] Alex Palovichov: I was not insulting them...
+[19:37:38] Alex Palovichov: I never said a single insult...
+[19:37:49] CCA.C17-HELIX.i3.08874: Stop lying to yourself Alex.
+[19:38:06] CCA.C17-HELIX.i3.08874: You will gain no Loyalist Points, you are free to do another work task.
+[19:38:08] Jacob Desmone: Hey man I thought you were having a bad day and I bought..
+[19:38:39] Jacob Desmone: Oh yea officer am I free to do another work desk?
+[19:38:41] Alex Palovichov: Oh its fine...I have some ICT stuff to do...Like relog around 3 Unordered deliveries and get my ass handed to me for them...
+[19:38:49] CCA.C17-HELIX.i3.08874: Yes, you are.
+[19:38:55] CCA.C17-HELIX.i3.08874: One more infact.
+[19:39:07] Jacob Desmone: Hey I bought something for the dude and I guess he didn't want it
+[19:39:15] Jacob Desmone: So I have no idea if you guys have breaks or like a time to eat
+[19:39:25] Jacob Desmone: But you want some of these chips I bought from the vending machine?
+[19:39:29] CCA.C17-HELIX.i3.08874: I'm fine.
+[19:39:39] Jacob Desmone: Their really good but alright suit yourself.
+[19:39:42] CCA.C17-HELIX.i3.08874: You are to stay exactly here and wait for a higher officer.
+[19:39:43] Jacob Desmone: You want some
+[19:39:47] Jacob Desmone: Yes sir.
+[19:39:56] Jacob Desmone: I bought you some chips but O thought you were walking away
+[19:40:02] Jacob Desmone: /me The man holds out the bag
+[19:40:05] Jacob Desmone: You want some?
+[19:40:11] CCA.C17-HELIX.i3.08874<STEAM_0:0:68118061> changed their name to OTA.C17-ECHO.OHZ.74152
+[19:40:22] Alex Palovichov: /me Would shake his head "No thank you...I gotta make sure I don't get fired for more fucked up shipments..."
+[19:40:28] Jacob Desmone: Hmpf
+[19:40:30] Jacob Desmone: That sucks
+[19:40:35] Alex Palovichov: I know...
+[19:40:38] Jacob Desmone: I had a misunderstanding that was mainly my fault
+[19:40:41] Jacob Desmone: with that CP yesterday
+[19:40:45] Jacob Desmone: and I feel really bad about it
+[19:40:56] Jacob Desmone: I listened to some shady cwu dude
+[19:41:09] Jacob Desmone: and got caught in the CZ so ive been kinda getting harrased by cps
+[19:41:15] Alex Palovichov: Oh really?
+[19:41:16] Jacob Desmone: Apprently he wasn't CWU
+[19:41:19] Jacob Desmone: But no one believes me
+[19:41:23] Alex Palovichov: Name?
+[19:41:25] Jacob Desmone: Its fine though I can work my way back up
+[19:41:31] Jacob Desmone: No idea he just had a CWU workers outfit like the suit?
+[19:41:32] OTA.C17-ECHO.OHZ.74152: /radio Overwatch moving to position.
+[19:41:38] Alex Palovichov: I see...
+[19:41:41] Jacob Desmone: He said You! report to this district
+[19:41:51] OTA.C17-ECHO.OHZ.74152: You there.
+[19:41:52] Alex Palovichov: They don't order citizens...
+[19:41:54] Jacob Desmone: Yes sir.
+[19:41:57] Jacob Desmone: /me the man would stammer
+[19:42:00] OTA.C17-ECHO.OHZ.74152: Do you have a Work Suit?
+[19:42:02] Jacob Desmone: I do
+[19:42:05] Jacob Desmone: /me Shows him the bag
+[19:42:05] OTA.C17-ECHO.OHZ.74152: Put it on.
+[19:42:08] Alex Palovichov: Don't listen to any CWU Shmucks telling you what to do...
+[19:42:11] Jacob Desmone: /me Equips the work suit
+[19:42:15] Jacob Desmone: Yea I guess
+[19:42:23] Alex Palovichov: Alot of them try to get you to do shit for them...
+[19:42:24] OTA.C17-ECHO.OHZ.74152: Stop interrupting.
+[19:42:29] Alex Palovichov: Hmph
+[19:42:46] OTA.C17-ECHO.OHZ.74152: You are to follow me, you are to stay with me, and you will do nothing you aren't ordered to.
+[19:42:48] OTA.C17-ECHO.OHZ.74152: Understand?
+[19:42:49] Jacob Desmone: Yes sir.
+[19:42:58] OTA.C17-ECHO.OHZ.74152: Then follow.
+[19:43:02] Jacob Desmone: /me The man nods
+[19:43:25] Alex Palovichov<STEAM_0:1:591779303> spawned NPC npc_zombie
+[19:43:38] Alex Palovichov<STEAM_0:1:591779303> spawned NPC npc_zombie
+[19:43:41] Alex Palovichov<STEAM_0:1:591779303> spawned NPC npc_fastzombie
+[19:43:44] Jacob Desmone: May I ask what we are doing?
+[19:43:44] Alex Palovichov<STEAM_0:1:591779303> spawned NPC npc_zombine
+[19:43:49] Alex Palovichov<STEAM_0:1:591779303> spawned NPC npc_poisonzombie
+[19:43:51] Alex Palovichov<STEAM_0:1:591779303> spawned NPC npc_zombie
+[19:43:53] OTA.C17-ECHO.OHZ.74152: You are going to be collecting parts.
+[19:43:53] Alex Palovichov<STEAM_0:1:591779303> spawned NPC npc_zombie
+[19:43:58] Alex Palovichov<STEAM_0:1:591779303> spawned NPC npc_zombie
+[19:44:02] Alex Palovichov<STEAM_0:1:591779303> spawned NPC npc_zombie
+[19:44:02] OTA.C17-ECHO.OHZ.74152: Necrotics in range.
+[19:44:06] Jacob Desmone: /me The man flickers on his flashlight
+[19:44:09] Jacob Desmone: /y Neurotics?
+[19:44:18] Alex Palovichov: /y combine
+[19:44:27] OTA.C17-ECHO.OHZ.74152: Prosectuing.
+[19:44:29] Alex Palovichov: /y run for your life
+[19:44:32] Jacob Desmone: Jesus
+[19:44:48] Jacob Desmone: /y Anything Specific or just trash?
+[19:45:13] Alex Palovichov: /y watch out
+[19:45:36] OTA.C17-ECHO.OHZ.74152: /radio Copy Ordinal.
+[19:45:50] Alex Palovichov<STEAM_0:1:591779303> spawned NPC npc_zombine
+[19:46:01] Jacob Desmone: /y GRENADE
+[19:46:09] Jacob Desmone: YOU OK?
+[19:46:11] Jacob Desmone: SIR
+[19:46:12] OTA.C17-ECHO.OHZ.74152: /radio Bodypack holding!
+[19:46:22] Alex Palovichov<STEAM_0:1:591779303> changed their name to Daniel J. Cutter
+[19:46:56] Jacob Desmone: Woah.
+[19:46:59] OTA.C17-ECHO.OHZ.74152: /radio Area is secure uhh, code green.
+[19:47:03] Jacob Desmone: Are you ok
+[19:47:09] Jacob Desmone: I can notify the medic officer
+[19:47:16] OTA.C17-ECHO.OHZ.74152 to admins: I need a screwdriver and bolt cutters.
+[19:47:18] OTA.C17-ECHO.OHZ.74152: I'm fine.
+[19:47:27] Daniel J. Cutter: /chargiveitem echo screwdriver
+[19:47:33] OTA.C17-ECHO.OHZ.74152: /me takes some bolt cutters and a screwdriver from the toolbox.
+[19:47:36] Daniel J. Cutter: /chargiveitem echo "bolt cutter"
+[19:47:43] Daniel J. Cutter: /chargiveitem alex "cutter" 
+[19:47:48] OTA.C17-ECHO.OHZ.74152: Take this.
+[19:47:48] Daniel J. Cutter: /chargiveitem cutter "cutter" 
+[19:47:51] Jacob Desmone: /me Grabs the tools
+[19:47:53] Daniel J. Cutter: /chargiveitem cutter "bolt"
+[19:47:58] OTA.C17-ECHO.OHZ.74152: /me holds out a screwdriver first.
+[19:48:01] Daniel J. Cutter: /chargiveitem cutter "bolt Cutters"
+[19:48:02] Jacob Desmone: /me takes it
+[19:48:04] Daniel J. Cutter: /chargiveitem cutter "bolt Cutter"
+[19:48:14] Daniel J. Cutter: /adminspawnmenu
+[19:48:14] Jacob Desmone: So you want me to disassemble
+[19:48:16] OTA.C17-ECHO.OHZ.74152 to admins: Bolt cutters too plz <3
+[19:48:48] Daniel J. Cutter: /pm echo one sec, trying to find em...
+[19:48:59] Daniel J. Cutter: /pm Echo though idk...Can't find a bolt cutter in the spawnmenu...
+[19:49:00] Daniel J. Cutter: /adminspawnmenu
+[19:49:16] OTA.C17-ECHO.OHZ.74152: /pm cutter Are they wire cutters? I know I have them in the grotto in one cabinet
+[19:49:27] Daniel J. Cutter: /chargiveitem cutter "wire cutter"
+[19:49:32] Daniel J. Cutter: /chargiveitem cutter wire 
+[19:49:36] Daniel J. Cutter: /chargiveitem cutter cutter
+[19:49:40] OTA.C17-ECHO.OHZ.74152: You are going to collect parts from the machines
+[19:49:46] Jacob Desmone: Oh thats not hard
+[19:49:49] Daniel J. Cutter: /reply ehh nope, I don't see any wire cutters...
+[19:49:52] Jacob Desmone: Im pretty good with eletronics and stuff
+[19:50:08] OTA.C17-ECHO.OHZ.74152: /pm cutter Whatever it's fine, just come here cause he is gonna disasemble stuff
+[19:50:09] Jacob Desmone: If that toolbox is associated with these machines there should be a manual in there can I check
+[19:50:28] Daniel J. Cutter: /chargiveitem cutter scissors
+[19:50:34] Jacob Desmone: Ill take that as a no.
+[19:50:35] Daniel J. Cutter: /chargiveitem cutter "wire cutter" 1
+[19:50:39] Daniel J. Cutter: /chargiveitem cutter "cut" 
+[19:50:43] OTA.C17-ECHO.OHZ.74152: /looc sorry person is with me
+[19:50:49] Jacob Desmone: .// oh ok void that last message then
+[19:51:03] Jacob Desmone: .// uhh just tell me once you can respond
+[19:51:50] Jacob Desmone: /me The man would go  to the first machine on the left
+[19:51:58] OTA.C17-ECHO.OHZ.74152: /looc sorry back
+[19:52:21] OTA.C17-ECHO.OHZ.74152: Just find the screws, take them out, and look for any useful pats and get it out.
+[19:52:24] Jacob Desmone: /me The man would check for any bolts holding the screen up
+[19:52:25] OTA.C17-ECHO.OHZ.74152: /looc Parts*
+[19:52:49] Jacob Desmone: /me The man would use the screwdriver on the screws and carefully set down the screen reavling the contents inside
+[19:53:01] OTA.C17-ECHO.OHZ.74152: /radio We have no visual, bodycount is two.
+[19:53:01] Jacob Desmone: /rollskill Engineering
+[19:53:04] Jacob Desmone: Hmpf
+[19:53:08] Daniel J. Cutter: /it The interior of the machine would seemingly be picked clean already...Nothing of use being found...
+[19:53:16] Daniel J. Cutter: /reply these have already all been picked clean btw...
+[19:53:18] Jacob Desmone: /me He would goto the next machine repeating the process
+[19:53:25] Jacob Desmone: /rollskill Engineering
+[19:53:28] Daniel J. Cutter: /reply We already did a scenario with these being stripped
+[19:53:44] Jacob Desmone: Hm nothing.
+[19:53:44] Daniel J. Cutter: /it The interior would seemingly again be stripped for parts...Nothing of use being found...
+[19:53:50] OTA.C17-ECHO.OHZ.74152: /pm cutter I know we did and I remember it, but not everything was touched, most of these front row things were left alone, monitors stuff
+[19:53:59] Jacob Desmone: /me Repeats the process on the next screen without the whole out of order thing on the front
+[19:54:01] Jacob Desmone: /rollskill Engineering
+[19:54:14] OTA.C17-ECHO.OHZ.74152: /pm cutter They more focused on the arcade cabinets.
+[19:54:21] Daniel J. Cutter: /reply That and also being stripped for parts by a few rebels...
+[19:54:50] Daniel J. Cutter: /it The interior would seemingly also be cleaned...though seemingly a untouched piece of electrical parts seems to be intact
+[19:54:59] Jacob Desmone: /me the man would fish out the eletronics
+[19:55:01] Daniel J. Cutter: /chargiveitem cutter "refined electronic" 
+[19:55:06] Jacob Desmone: /rollskill Engineering
+[19:55:09] Jacob Desmone: .// WOOH BABY
+[19:55:11] Jacob Desmone: .// 110!
+[19:55:26] Jacob Desmone: I found this inside the 3rd machine
+[19:55:28] OTA.C17-ECHO.OHZ.74152: Put any materials in the CWU cabinets in the hallway.
+[19:55:58] Daniel J. Cutter: Dah shit...
+[19:56:21] Jacob Desmone: /me Repeats the process
+[19:56:24] Jacob Desmone: /rollskill Engineering
+[19:56:35] Jacob Desmone: /me The man accidently shatters part of the glass but nothing fatal
+[19:56:36] Daniel J. Cutter: /it The interior itself being again ripped open and cleaned out...
+[19:56:38] Jacob Desmone: Oops
+[19:56:45] Jacob Desmone: /me Repeats the process
+[19:56:48] Jacob Desmone: /rollskill Engineering
+[19:56:58] Jacob Desmone: /me Part of the monitor breaks
+[19:57:01] Jacob Desmone: /me Sighs
+[19:57:04] Daniel J. Cutter: /it The interior would again be emptied...All the parts either being too damaged or not there...
+[19:57:05] Jacob Desmone: Old dumb screens
+[19:57:13] Daniel J. Cutter: /it The sound of the glass shattering echo's throughout the room
+[19:57:17] Jacob Desmone: /me Repeats the process
+[19:57:25] Daniel J. Cutter: /it Much more and it may attract unwanted attention...
+[19:57:28] OTA.C17-ECHO.OHZ.74152: /radio It's fine.
+[19:57:31] Jacob Desmone: /y Sorry these old things are so fragile
+[19:57:39] Jacob Desmone: /y Don't worry most of them are out of date 
+[19:57:47] Jacob Desmone: /rollskill engineering
+[19:57:48] Daniel J. Cutter: /it The yelling would echo through the sewers...bouncing off each wall...
+[19:57:59] Jacob Desmone: /it The screen comes off
+[19:58:00] OTA.C17-ECHO.OHZ.74152: /looc door is closed?
+[19:58:12] Jacob Desmone: /w Anything Jacob anything?
+[19:58:13] Daniel J. Cutter: /it The interior would seemingly again be stripped clean...A small amount of possibly usable parts is seen
+[19:58:20] Jacob Desmone: /me Attemps to fish it out
+[19:58:22] Daniel J. Cutter: /chargiveitem cutter "scrap elec" 
+[19:58:23] Jacob Desmone: /rollskill Engineering
+[19:58:28] Jacob Desmone: .// attempts*
+[19:58:40] Daniel J. Cutter: /it The parts would slightly break on the way out, though seemingly still usable...if fixed
+[19:58:56] Daniel J. Cutter<STEAM_0:1:591779303> spawned NPC npc_zombie
+[19:59:08] Daniel J. Cutter<STEAM_0:1:591779303> spawned ragdoll models/zombie/classic.mdl
+[19:59:11] Jacob Desmone: Just these screens or the arcade machines too?
+[19:59:28] OTA.C17-ECHO.OHZ.74152: Anything tangable.
+[19:59:31] Jacob Desmone: Gotcha
+[19:59:41] Jacob Desmone: /me The man leans down to remove the glass plating on the monitor
+[19:59:51] Jacob Desmone: /rollskill engineering
+[19:59:53] Jacob Desmone: .// DAMN
+[19:59:56] Jacob Desmone: Oh Hell
+[20:00:15] Jacob Desmone: /it The glass is badly damaged and breaks opon removing one screw holding it in place
+[20:00:23] Jacob Desmone: How long have these things bbeen down here
+[20:00:24] Daniel J. Cutter: /it The glass would shatter...The noise of it echoing through the sewers...Someone...Or something seems to be getting closer...
+[20:00:39] Daniel J. Cutter: /it The distant sound of groaning and shuffling is heard...
+[20:00:41] Jacob Desmone: Nothing good
+[20:00:46] Jacob Desmone: You hear that?
+[20:00:51] OTA.C17-ECHO.OHZ.74152: Wrap it up, one more.
+[20:00:54] Jacob Desmone: Gotcha
+[20:01:05] Jacob Desmone: /me THe man picks the most flourescent working monitor
+[20:01:11] Jacob Desmone: /me He disassembles it
+[20:01:14] Jacob Desmone: /rollskill Engineering
+[20:01:19] OTA.C17-ECHO.OHZ.74152: /radio Possible contect in em, area. Prepping for contact.
+[20:01:22] Jacob Desmone: /it The glass does not shatter and what is inside?
+[20:01:39] Daniel J. Cutter: /it Something...metal...small...flashing, would you take a closer look?
+[20:01:44] Jacob Desmone: /me I take a closer look at it
+[20:01:44] Daniel J. Cutter: /chargiveitem cutter manhack
+[20:01:49] Jacob Desmone: What is that...
+[20:02:05] Daniel J. Cutter: /it It would seemingly be an unactive viscerator...
+[20:02:11] Daniel J. Cutter: /chargiveitem cutter viscerator
+[20:02:11] Jacob Desmone: /me Scoops it out
+[20:02:20] Jacob Desmone: t.// What is a viscerator
+[20:02:22] Jacob Desmone: .// void that
+[20:02:24] Daniel J. Cutter: /looc manhack
+[20:02:26] Jacob Desmone: .// Ohhh
+[20:02:30] Jacob Desmone: .// makes sense
+[20:02:39] Daniel J. Cutter: /chargiveitem cutter viscerator
+[20:02:42] Jacob Desmone: /me I scoop it out and pick it up
+[20:02:44] Daniel J. Cutter: /chargiveitem cutter manhack
+[20:02:47] Jacob Desmone: /me Avoiding the sharp edges
+[20:03:04] Jacob Desmone: .// Do I need to roll to pick it up or we just balling
+[20:03:10] Jacob Desmone: Uhh sir
+[20:03:17] Jacob Desmone: There seems to be one of those flying blade thingies
+[20:03:17] Daniel J. Cutter: /it The flashing light would suddenly turn red...Its exterior plating moving...It seems to be turning on...
+[20:03:22] Jacob Desmone: /y Oh shit
+[20:03:23] Jacob Desmone: /y Sir
+[20:03:28] Jacob Desmone: /y The manhack
+[20:03:32] Jacob Desmone: Its turning on
+[20:03:33] OTA.C17-ECHO.OHZ.74152: What?
+[20:03:35] Jacob Desmone: The
+[20:03:38] Jacob Desmone: Blade flying thingy
+[20:03:38] Daniel J. Cutter: /it It would spring to life, turning on and would begin to fly around the room
+[20:03:41] Daniel J. Cutter<STEAM_0:1:591779303> spawned NPC npc_manhack
+[20:03:49] OTA.C17-ECHO.OHZ.74152: Other room.
+[20:03:51] Jacob Desmone: Permission to fight
+[20:03:52] Jacob Desmone: Ok
+[20:03:56] Daniel J. Cutter: /ooc BRO THE CHAIRS
+[20:04:03] Jacob Desmone: // LMao
+[20:04:08] Daniel J. Cutter: /ooc WHY THE FUCKING CHAIRS
+[20:04:32] OTA.C17-ECHO.OHZ.74152: /radio Overwatch, we have a previously inactive Viscerator.
+[20:04:34] Jacob Desmone: // I found stewies paper
+[20:04:42] OTA.C17-ECHO.OHZ.74152: /radio Advise.
+[20:04:46] Daniel J. Cutter: /it It would suddenly begin to let out smoke...It seemingly catching a blaze...
+[20:04:54] Daniel J. Cutter: /looc FFS stupid fire system
+[20:04:59] Jacob Desmone: .// LMAO
+[20:05:01] OTA.C17-ECHO.OHZ.74152: /radio Unstable.
+[20:05:01] Jacob Desmone: .// WHAT IS GOING ON
+[20:05:03] Daniel J. Cutter<STEAM_0:1:591779303> spawned/gave himself swep weapon_fireextinguisher
+[20:05:08] Daniel J. Cutter<STEAM_0:1:591779303> used the tool creator on maps/rp_industrial17_v1.bsp
+[20:05:08] Daniel J. Cutter<STEAM_0:1:591779303> spawned/gave himself swep weapon_fireextinguisher
+[20:05:09] Jacob Desmone: /y Sir I can disable it
+[20:05:17] Daniel J. Cutter: /looc guh
+[20:05:20] Jacob Desmone: /y Sir I can disable it you just gotta keep it still
+[20:05:24] Jacob Desmone: /y Probably
+[20:05:26] Daniel J. Cutter<STEAM_0:1:591779303> spawned/gave himself swep weapon_fireextinguisher
+[20:05:28] Daniel J. Cutter<STEAM_0:1:591779303> used the tool creator on maps/rp_industrial17_v1.bsp
+[20:05:28] Daniel J. Cutter<STEAM_0:1:591779303> spawned/gave himself swep weapon_fireextinguisher
+[20:05:35] Daniel J. Cutter<STEAM_0:1:591779303> changed their name to Alex Palovichov
+[20:05:42] Alex Palovichov<STEAM_0:1:591779303> spawned/gave himself swep weapon_fireextinguisher
+[20:05:43] Alex Palovichov<STEAM_0:1:591779303> used the tool creator on maps/rp_industrial17_v1.bsp
+[20:05:43] Alex Palovichov<STEAM_0:1:591779303> used the tool creator on maps/rp_industrial17_v1.bsp
+[20:05:43] Alex Palovichov<STEAM_0:1:591779303> spawned/gave himself swep weapon_fireextinguisher
+[20:05:44] Jacob Desmone: I can disable it just give me a chance
+[20:05:46] OTA.C17-ECHO.OHZ.74152: // I hate having to talk to people while this is goingon.
+[20:05:49] Jacob Desmone: Without breaking
+[20:05:53] OTA.C17-ECHO.OHZ.74152: /radio Disrupting.
+[20:06:10] Jacob Desmone: Uhh I also found
+[20:06:12] Jacob Desmone: Some rebels paper in here
+[20:06:16] Alex Palovichov<STEAM_0:1:591779303> spawned NPC npc_zombie_torso
+[20:06:19] Jacob Desmone: It was like someone named stewie
+[20:06:20] Jacob Desmone: they killed a cop
+[20:06:29] Jacob Desmone: or well
+[20:06:32] Jacob Desmone: beat him or her up
+[20:06:39] OTA.C17-ECHO.OHZ.74152: /me picks up the paper and rips it into pieces.
+[20:06:41] Jacob Desmone: You want me to scrap the manhack?
+[20:06:46] Jacob Desmone: I can get you your uhh
+[20:06:48] Jacob Desmone: Good tech back
+[20:06:56] OTA.C17-ECHO.OHZ.74152: Don't worry about it.
+[20:06:58] Jacob Desmone: Gotcha
+[20:07:01] OTA.C17-ECHO.OHZ.74152: Just grab what you found.
+[20:07:04] Jacob Desmone: I did
+[20:07:12] OTA.C17-ECHO.OHZ.74152: Then lets go.
+[20:07:21] OTA.C17-ECHO.OHZ.74152: /radio Necrotics in zone.
+[20:07:27] Alex Palovichov<STEAM_0:1:591779303> spawned NPC npc_poisonzombie
+[20:07:29] Jacob Desmone: BELOW YOU
+[20:07:31] Alex Palovichov<STEAM_0:1:591779303> spawned NPC npc_zombine
+[20:07:35] Jacob Desmone: /me The man slams the zombie
+[20:08:10] Jacob Desmone: Headcrab to your right
+[20:08:21] OTA.C17-ECHO.OHZ.74152: Keep moving.
+[20:08:22] Jacob Desmone: I never want to be here again
+[20:08:22] Alex Palovichov<STEAM_0:1:591779303> spawned NPC npc_zombie
+[20:08:41] OTA.C17-ECHO.OHZ.74152: /radio Code yellow.
+[20:08:42] Alex Palovichov<STEAM_0:1:591779303> changed their name to Daniel J. Cutter
+[20:08:52] Daniel J. Cutter: /y you like that
+[20:08:54] OTA.C17-ECHO.OHZ.74152: Down.
+[20:09:03] Jacob Desmone: All for it
+[20:09:08] Jacob Desmone: Just get me out of here
+[20:09:26] Daniel J. Cutter<STEAM_0:1:591779303> spawned NPC npc_zombie
+[20:09:32] OTA.C17-ECHO.OHZ.74152: /looc nice one
+[20:09:36] Daniel J. Cutter: /looc shut up
+[20:09:43] Jacob Desmone: /me THe man slams the headccrab with the crowbar
+[20:09:46] OTA.C17-ECHO.OHZ.74152: Get over here, Now!
+[20:09:52] Daniel J. Cutter<STEAM_0:1:591779303> changed their name to Alex Palovichov
+[20:09:57] Jacob Desmone: What a adventure.
+[20:10:00] OTA.C17-ECHO.OHZ.74152: /radio Status Green.
+[20:10:12] Jacob Desmone: Sup 
+[20:10:26] Jacob Desmone: /me The man takes out the eletronics to show the cop
+[20:10:28] OTA.C17-ECHO.OHZ.74152: You are to report back to the work desk.
+[20:10:30] Jacob Desmone: Oh ok
+[20:10:33] Jacob Desmone: /me He puts them away
+[20:10:48] OTA.C17-ECHO.OHZ.74152: /radio Smoothly.
+[20:10:58] Jacob Desmone: // Did you just tell him that it went smoothly
+[20:11:09] Jacob Desmone: // That was not smooth
+[20:11:17] Alex Palovichov: Soo...How was it
+[20:11:22] Jacob Desmone: I hated it
+[20:11:25] Jacob Desmone: A grenade 
+[20:11:26] Jacob Desmone: Zombies
+[20:11:27] Alex Palovichov: /me Chuckles
+[20:11:34] Alex Palovichov: Yeah...They have those sometimes...
+[20:11:35] Jacob Desmone: Viseractors
+[20:11:39] OTA.C17-ECHO.OHZ.74152<STEAM_0:0:68118061> changed their name to CCA.C17-HELIX.i3.08874
+[20:11:45] Jacob Desmone: All for some crappy eletronics
+[20:11:46] Alex Palovichov: Never encountered those before...
+[20:11:49] Jacob Desmone: Yea
+[20:11:54] Jacob Desmone: Well I had it in my hand and it whirred to life
+[20:11:58] Alex Palovichov: Then again, I haven't been in the sewers in a LONG Time
+[20:12:01] CCA.C17-HELIX.i3.08874: I heard it went fine.
+[20:12:09] Jacob Desmone: Yea we got the stuff done
+[20:12:19] Jacob Desmone: But lots of I guess
+[20:12:23] Jacob Desmone: Undead?
+[20:12:28] Alex Palovichov: Necrotics...
+[20:12:29] CCA.C17-HELIX.i3.08874: Necrotics.
+[20:12:32] Jacob Desmone: There was a viseractor
+[20:12:43] Jacob Desmone: .// you know what I mean
+[20:12:46] Jacob Desmone: .// shut up evan
+[20:12:53] Jacob Desmone: uhh and it whirred to life
+[20:12:58] Jacob Desmone: in my hand
+[20:13:02] CCA.C17-HELIX.i3.08874: Just put the materials on the desk.
+[20:13:13] Jacob Desmone: Some refined
+[20:13:15] Jacob Desmone: Some not
+[20:13:16] CCA.C17-HELIX.i3.08874: /me picks them up.
+[20:13:19] CCA.C17-HELIX.i3.08874: Hold on.
+[20:13:29] Alex Palovichov: /chardesc
+[20:13:39] CCA.C17-HELIX.i3.08874: Apply
+[20:13:41] Jacob Desmone: /apply
+[20:13:46] Jacob Desmone: How many did I gain from this
+[20:13:48] CCA.C17-HELIX.i3.08874: /me types that into a PDA.
+[20:13:51] Jacob Desmone: .// oh I need hunger
+[20:13:52] CCA.C17-HELIX.i3.08874: /viewdata jacob
+[20:13:53] Jacob Desmone: .// or thirst idk
+[20:14:03] Jacob Desmone: You think the CMU are on duty today
+[20:14:09] Jacob Desmone: Thats a dumb question of course they are
+[20:14:12] Alex Palovichov: Probably not...
+[20:14:16] Jacob Desmone: Oh
+[20:14:19] Alex Palovichov: I got medical back at my office though..
+[20:14:29] Jacob Desmone: Yea I took a few stabs from the flying thing
+[20:14:36] Alex Palovichov: I've more or less taken over their job...
+[20:14:38] CCA.C17-HELIX.i3.08874: Your total LP is 11.
+[20:14:52] Jacob Desmone: Thanks
+[20:14:55] CCA.C17-HELIX.i3.08874: You may go to the CMU for treatment.
+[20:14:58] Jacob Desmone: Thanks
+[20:15:05] Jacob Desmone: /me the man nods and holds his right shoulder
+[20:15:22] Jacob Desmone: // im out of hunger
+[20:15:23] Jacob Desmone: // shoot
+[20:15:24] Jacob Desmone: // or thirst
+[20:15:31] Alex Palovichov: Got spare work?
+[20:15:35] Jacob Desmone: // I got hugner not thirst
+[20:16:14] Alex Palovichov: *Ahem*
+[20:16:29] Jacob Desmone: // btw alex
+[20:16:31] Jacob Desmone: // hes reconnecting
+[20:16:31] Dropped "CCA.C17-HELIX.i3.08874" from server<STEAM_0:0:68118061>
+[20:16:33] Jacob Desmone: // he crashed
+[20:16:36] Alex Palovichov: /ooc ah
+[20:16:41] Jacob Desmone: // Apprently if you apply for cp tho
+[20:16:47] Jacob Desmone: // You don't have to get rid of the character with the LP
+[20:16:56] Jacob Desmone: // so thats why ive been grinding so me and evan
+[20:17:00] Jacob Desmone: // GONNA BE CP BUDDIES
+[20:17:01] Jacob Desmone: // LES GO
+[20:23:38] Client "Painevan" connected.
+[20:24:50] Client "Painevan" spawned in server <STEAM_0:0:68118061> (took 72 seconds).
+[20:26:05] Painevan<STEAM_0:0:68118061> changed their name to Jonathan Jackson
+[20:26:14] Jonathan Jackson<STEAM_0:0:68118061> changed their name to CCA.C17-HELIX.i3.08874
+[20:26:41] CCA.C17-HELIX.i3.08874<STEAM_0:0:68118061> changed their name to OTA.C17-ECHO.OHZ.74152
+[20:30:14] OTA.C17-ECHO.OHZ.74152<STEAM_0:0:68118061> changed their name to Jonathan Jackson
+[20:31:56] Alex Palovichov: /chargiveitem alex "armor scraps" 2
+[20:33:01] Alex Palovichov: /chargiveitem alex comfy 
+[20:33:08] Alex Palovichov: /chargiveitem alex "comfortable" 
+[20:33:29] Alex Palovichov: /ooc I wonder how Alex will make some LP...
+[20:33:41] Alex Palovichov: /ooc Wait...He's in one of the most resource dense areas...
+[20:33:52] Alex Palovichov: /ooc And level 31 fabrication...
+[20:33:57] Alex Palovichov: /ooc I GOT AN IDEA
+[20:34:26] Alex Palovichov: /chargiveitem alex "armor scraps" 1
+[20:36:10] Jacob Desmone: // I have really high fabrication if you want I Can just make it
+[20:36:13] Jacob Desmone: // Ive got like 50
+[20:36:16] Alex Palovichov: /ooc Make what?
+[20:36:20] Jacob Desmone: // Anything
+[20:36:23] Jacob Desmone: // for lp
+[20:36:33] Alex Palovichov: /ooc ...man thinks I can give him Lp
+[20:36:37] Jacob Desmone: // what
+[20:36:41] Jacob Desmone: // no I can make weapon parts lmao
+[20:36:48] Jacob Desmone: // Jammers
+[20:36:49] Jacob Desmone: // Radios
+[20:36:53] Alex Palovichov: /ooc then why did you say "for lp"
+[20:37:02] Alex Palovichov: /ooc OOHHHH
+[20:37:05] Jacob Desmone: // yea
+[20:37:14] Jacob Desmone: // ive got really high Engineering too
+[20:37:22] Jacob Desmone: // I can make smg ammo lol
+[20:37:42] Alex Palovichov: /ooc ANyway im heading off, cya
+[20:37:44] Dropped "Alex Palovichov" from server<STEAM_0:1:591779303>
+[20:48:10] Dropped "Jacob Desmone" from server<STEAM_0:0:69165544>
+[20:53:09] Dropped "Jonathan Jackson" from server<STEAM_0:0:68118061>
+[21:25:31] Client "yosgarmoreno99" connected.
+[22:16:10] Client "NamRm" connected.
+[22:17:17] Client "NamRm" spawned in server <STEAM_0:0:69476140> (took 67 seconds).
+[22:17:46] NamRm<STEAM_0:0:69476140> changed their name to Aurelio Grau
+[22:28:12] Aurelio Grau was killed by npc_barnacle
+[22:42:38] Dropped "Andrew Cloverman" from server<STEAM_0:1:53097688>
+<Logging continued in "data/ulx_logs/10-07-22.txt">

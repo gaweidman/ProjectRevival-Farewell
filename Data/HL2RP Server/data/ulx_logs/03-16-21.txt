@@ -1,0 +1,597 @@
+[00:01:41] New map: rp_i17_variation_v0
+[00:03:02] Client "matt saton" connected.
+[00:05:18] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 136 seconds).
+[00:11:44] matt saton<STEAM_0:1:53097688> changed their name to Lee Maylor
+[00:11:47] Lee Maylor was killed by npc_turret_floor
+
+
+
+[00:15:47] New map: rp_i17_variation_v0
+[00:17:11] Client "matt saton" connected.
+[00:18:50] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 99 seconds).
+[00:21:41] matt saton<STEAM_0:1:53097688> changed their name to CCA.C17-GRID.i3.26594
+[00:38:00] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned sent ix_combinelock
+[00:42:46] CCA.C17-GRID.i3.26594: /doorsettitle "CWU HQ"
+[00:42:47] CCA.C17-GRID.i3.26594: /doorsethidden false
+[00:42:49] CCA.C17-GRID.i3.26594: /doorsethidden false
+[00:53:30] CCA.C17-GRID.i3.26594: /doorsettitle Sectorial's Quarters
+[00:53:30] CCA.C17-GRID.i3.26594: /doorsethidden false
+[00:53:32] CCA.C17-GRID.i3.26594: /doorsethidden false
+[00:53:39] CCA.C17-GRID.i3.26594: /doorsettitle Commander's Quarters
+[00:53:40] CCA.C17-GRID.i3.26594: /doorsethidden false
+[00:54:02] CCA.C17-GRID.i3.26594: /doorsettitle "The Consul's Quarters"
+[00:54:02] CCA.C17-GRID.i3.26594: /doorsethidden false
+[00:54:04] CCA.C17-GRID.i3.26594: /doorsethidden false
+[00:54:11] CCA.C17-GRID.i3.26594: /doorsettitle Bathroom
+[00:54:11] CCA.C17-GRID.i3.26594: /doorsethidden false
+[00:54:18] CCA.C17-GRID.i3.26594: /doorsettitle Office
+[00:54:20] CCA.C17-GRID.i3.26594: /doorsethidden false
+[00:54:25] CCA.C17-GRID.i3.26594: /doorsettitle Bedroom
+[00:54:26] CCA.C17-GRID.i3.26594: /doorsethidden false
+[00:56:26] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/env/furniture/bed_andrea/bed_andrea_1st.mdl
+[00:56:30] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_downtown/bed_motel01.mdl
+[00:56:32] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_interiors/bed_motel.mdl
+[00:56:35] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/env/furniture/bed_secondclass/beddouble_group.mdl
+[00:56:37] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/env/furniture/bed_andrea/bed_andrea_1st.mdl
+[00:57:01] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_interiors/side_table_square.mdl
+[00:58:18] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_interiors/soap_dispenser.mdl
+[00:58:25] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_interiors/soap_dispenser.mdl
+[00:59:58] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on models/props_interiors/soap_dispenser.mdl
+[01:00:07] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_interiors/toiletpaperdispenser_residential.mdl
+[01:00:07] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on models/props_interiors/toiletpaperdispenser_residential.mdl
+[01:00:08] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on maps/rp_i17_variation_v0.bsp
+[01:00:09] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on maps/rp_i17_variation_v0.bsp
+[01:00:10] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_interiors/toiletpaperdispenser_residential.mdl
+[01:00:48] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on models/props_interiors/toiletpaperdispenser_residential.mdl
+[01:02:04] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_interiors/painting_portrait01.mdl
+[01:02:07] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_furniture/picture_frame8.mdl
+[01:02:09] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_interiors/painting_portrait01.mdl
+[01:02:10] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_interiors/painting_landscape01.mdl
+[01:02:34] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/gmod_tower/suitetv.mdl
+[01:02:39] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/env/furniture/largedesk/largedesk.mdl
+[01:02:41] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_interiors/desk_executive.mdl
+[01:02:48] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_warehouse/office_furniture_coffee_table.mdl
+[01:02:50] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props/cs_office/table_meeting.mdl
+[01:02:53] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_interiors/dinning_table_oval.mdl
+[01:03:25] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/gmod_tower/suitetv.mdl
+[01:03:28] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/u4lab/tv_monitor_plasma.mdl
+[01:03:31] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/gmod_tower/suitetv.mdl
+[01:04:07] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on models/gmod_tower/suitetv.mdl
+[01:04:21] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_plants/plantairport01.mdl
+[01:04:22] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/env/decor/tall_plant_b/tall_plant_b.mdl
+[01:04:24] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/env/decor/plant_decofern/plant_decofern.mdl
+[01:04:26] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/highrise/potted_plant_05.mdl
+[01:04:27] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_urban/hotel_curtain001.mdl
+[01:04:28] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_plants/plantairport01.mdl
+[01:04:30] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/env/decor/tall_plant_b/tall_plant_b.mdl
+[01:07:31] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_unique/hospital/surgery_lamp.mdl
+[01:07:32] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props/de_tides/menu_stand.mdl
+[01:07:50] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_equipment/surgicaltray_01.mdl
+[01:07:53] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/env/furniture/bstoolred/bstoolred.mdl
+[01:07:54] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/scenery/structural/vesuvius/bartap.mdl
+[01:07:58] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_plants/plantairport01.mdl
+[01:07:59] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/highrise/potted_plant_05.mdl
+[01:08:03] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/env/decor/plant_decofern/plant_decofern.mdl
+[01:08:05] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/env/decor/tall_plant_b/tall_plant_b.mdl
+[01:08:16] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_downtown/pooltable.mdl
+[01:08:18] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/de_vegas/card_table.mdl
+[01:08:32] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props/cs_office/sofa_chair.mdl
+[01:08:35] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/chairs/armchair.mdl
+[01:09:10] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props/cs_office/bookshelf1.mdl
+[01:09:38] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/wilderness/lamp6.mdl
+[01:10:06] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_interiors/desk_motel.mdl
+[01:10:16] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/testmodels/apple_display.mdl
+[01:10:18] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/testmodels/sofa_single.mdl
+[01:10:30] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props/cs_office/trash_can_p.mdl
+[01:11:17] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props/cs_office/offpaintingo.mdl
+[01:12:11] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_c17/furnituredrawer003a.mdl
+[01:12:13] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_c17/furniturefireplace001a.mdl
+[01:12:15] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_c17/furnituredresser001a.mdl
+[01:15:01] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on models/props_c17/furnituredresser001a.mdl
+[01:15:34] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on models/props_interiors/dinning_table_oval.mdl
+[01:15:35] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on models/env/furniture/bed_andrea/bed_andrea_1st.mdl
+[01:15:36] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on maps/rp_i17_variation_v0.bsp
+[01:15:36] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on models/props/cs_office/trash_can_p.mdl
+[01:15:37] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on models/props_interiors/side_table_square.mdl
+[01:15:38] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on models/wilderness/lamp6.mdl
+[01:15:38] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on models/props_interiors/painting_landscape01.mdl
+[01:17:20] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/env/lighting/lamp_trumpet/lamp_trumpet_tall.mdl
+[01:17:24] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/highrise/tall_lamp_01.mdl
+[01:17:26] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/highrise/tall_lamp_01.mdl
+[01:17:33] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/env/lighting/dance_spots/dance_spots.mdl
+[01:17:45] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/env/lighting/lamp_trumpet/lamp_trumpet_tall.mdl
+[01:17:49] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_furniture/piano_bench.mdl
+[01:18:04] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props/cs_office/plant01.mdl
+[01:18:37] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/chairs/armchair.mdl
+[01:18:43] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props/cs_office/table_coffee.mdl
+[01:19:01] CCA.C17-GRID.i3.26594 extinguished all 3 fires.
+[01:19:01] CCA.C17-GRID.i3.26594: !vextinguishall
+[01:19:52] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props/cs_office/radio.mdl
+[01:21:03] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props/cs_office/radio.mdl
+[01:21:20] CCA.C17-GRID.i3.26594 removed ragdolls
+[01:21:20] CCA.C17-GRID.i3.26594: !Removeragdolls
+[01:21:23] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool unbreakable on models\props/cs_office/radio.mdl
+[01:21:45] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on models\props/cs_office/radio.mdl
+[01:22:11] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/tnb/items/wintercoat.mdl
+[01:22:24] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/tnb/items/beanie.mdl
+[01:22:33] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on models/tnb/items/wintercoat.mdl
+[01:22:34] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on models/props/cs_office/table_coffee.mdl
+[01:22:40] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on models\props/cs_office/plant01.mdl
+[01:22:40] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on models/chairs/armchair.mdl
+[01:23:22] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props/cs_militia/gun_cabinet.mdl
+[01:23:26] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props/cs_militia/footlocker01_closed.mdl
+[01:23:46] CCA.C17-GRID.i3.26594: /adminspawnmenu
+[01:26:15] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool mapret on maps/rp_i17_variation_v0.bsp
+[01:26:23] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool mapret on maps/rp_i17_variation_v0.bsp
+[01:26:27] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool mapret on maps/rp_i17_variation_v0.bsp
+[01:26:28] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool mapret on maps/rp_i17_variation_v0.bsp
+[01:26:28] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool mapret on maps/rp_i17_variation_v0.bsp
+[01:26:28] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool mapret on maps/rp_i17_variation_v0.bsp
+[01:26:28] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool mapret on maps/rp_i17_variation_v0.bsp
+[01:27:10] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/breenglobe.mdl
+[01:27:11] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/breendesk.mdl
+[01:27:25] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/breenchair.mdl
+[01:27:49] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props/cs_office/phone_p1.mdl
+[01:28:32] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/breenglobe.mdl
+[01:28:37] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool mapret on models\props/cs_office/phone_p1.mdl
+[01:28:40] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool mapret on models\props/cs_office/phone_p1.mdl
+[01:28:41] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool mapret on maps/rp_i17_variation_v0.bsp
+[01:28:41] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool mapret on maps/rp_i17_variation_v0.bsp
+[01:28:41] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool mapret on maps/rp_i17_variation_v0.bsp
+[01:28:42] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool mapret on maps/rp_i17_variation_v0.bsp
+[01:28:42] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool mapret on maps/rp_i17_variation_v0.bsp
+[01:28:42] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool mapret on maps/rp_i17_variation_v0.bsp
+[01:28:42] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool mapret on maps/rp_i17_variation_v0.bsp
+[01:28:43] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool mapret on maps/rp_i17_variation_v0.bsp
+[01:28:53] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool mapret on maps/rp_i17_variation_v0.bsp
+[01:29:01] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool mapret on maps/rp_i17_variation_v0.bsp
+[01:29:03] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool mapret on maps/rp_i17_variation_v0.bsp
+[01:29:04] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool mapret on maps/rp_i17_variation_v0.bsp
+[01:29:18] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/combine_interface001.mdl
+[01:29:23] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/combine_intmonitor001.mdl
+[01:29:33] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/combine_interface002.mdl
+[01:29:41] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/combine_intmonitor001.mdl
+[01:30:08] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/combine_monitorbay.mdl
+[01:30:18] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_combine/combine_monitorbay.mdl
+[01:30:53] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/combine_interface001.mdl
+[01:30:58] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/combine_interface003.mdl
+[01:30:59] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/combine_interface003.mdl
+[01:31:09] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/combine_intmonitor001.mdl
+[01:31:19] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/cell_01_pod_cheap.mdl
+[01:31:47] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/cell_01_pod.mdl
+[01:31:56] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/cell_01_pod.mdl
+[01:32:15] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool stacker_improved on models/props_combine/cell_01_pod.mdl
+[01:32:15] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/cell_01_pod.mdl
+[01:32:16] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool stacker_improved on models/props_combine/cell_01_pod.mdl
+[01:32:16] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/cell_01_pod.mdl
+[01:32:16] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool stacker_improved on models/props_combine/cell_01_pod.mdl
+[01:32:16] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/cell_01_pod.mdl
+[01:32:22] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool stacker_improved on models/props_combine/cell_01_pod.mdl
+[01:32:22] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/cell_01_pod.mdl
+[01:32:23] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool stacker_improved on maps/rp_i17_variation_v0.bsp
+[01:32:23] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool stacker_improved on models/props_combine/cell_01_pod.mdl
+[01:32:23] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/cell_01_pod.mdl
+[01:32:50] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/combine_generator01.mdl
+[01:32:53] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/combine_emitter01.mdl
+[01:32:55] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/masterinterface.mdl
+[01:34:41] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/introomarea.mdl
+[01:34:52] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/masterinterface.mdl
+[01:35:08] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/masterinterface.mdl
+[01:35:51] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/breenclock.mdl
+[01:37:14] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/masterinterface.mdl
+[01:37:16] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/breenchair.mdl
+[01:37:16] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/breendesk.mdl
+[01:37:17] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on models\props/cs_office/phone_p1.mdl
+[01:37:18] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/breenclock.mdl
+[01:37:18] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/breenglobe.mdl
+[01:37:22] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/masterinterface.mdl
+[01:37:34] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/cell_01_pod.mdl
+[01:37:34] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/cell_01_pod.mdl
+[01:37:34] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/cell_01_pod.mdl
+[01:37:46] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/combine_interface003.mdl
+[01:37:57] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/combine_intmonitor001.mdl
+[01:38:24] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned effect models/props_combine/combine_dispenser.mdl
+[01:38:50] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/combine_mortar01a.mdl
+[01:38:56] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/combine_mortar01a.mdl
+[01:39:17] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned effect models/props_combine/tpcontrollerscreens.mdl
+[01:39:28] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/combineinnerwallcluster1024_001a.mdl
+[01:39:34] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned effect models/props_combine/combine_teleportplatform.mdl
+[01:39:36] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned effect models/props_combine/combine_teleportplatform.mdl
+[01:39:37] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned effect models/props_combine/combine_teleportplatform.mdl
+[01:40:17] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/combine_emitter01.mdl
+[01:40:19] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/combine_mortar01b.mdl
+[01:40:22] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/breenglobe.mdl
+[01:40:23] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/breen_tube.mdl
+[01:40:28] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_combine/breen_tube.mdl
+[01:40:41] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/combinecrane002.mdl
+[01:40:51] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/suit_charger001.mdl
+[01:41:23] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/combinethumper001a.mdl
+[01:41:34] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/suit_charger001.mdl
+[01:41:38] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/suit_charger001.mdl
+[01:42:03] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool stacker_improved on models/props_combine/suit_charger001.mdl
+[01:42:03] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/suit_charger001.mdl
+[01:42:04] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool stacker_improved on models/props_combine/suit_charger001.mdl
+[01:42:04] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/suit_charger001.mdl
+[01:42:08] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/suit_charger001.mdl
+[01:42:09] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/suit_charger001.mdl
+[01:42:09] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/suit_charger001.mdl
+[01:42:25] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/combinecamera001.mdl
+[01:42:34] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned effect models/props_combine/breen_arm.mdl
+[01:42:40] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/strut_array_01.mdl
+[01:42:43] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/cell_01_rigging.mdl
+[01:43:00] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/combine_intmonitor001.mdl
+[01:43:11] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/combine_monitorbay.mdl
+[01:43:21] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/combine_interface003.mdl
+[01:43:25] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/combine_intmonitor001.mdl
+[01:43:44] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/combine_smallmonitor001.mdl
+[01:44:00] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/breenconsole.mdl
+[01:44:11] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on maps/rp_i17_variation_v0.bsp
+[01:44:12] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/breenconsole.mdl
+[01:44:15] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/breenconsole.mdl
+[01:44:30] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/breenconsole.mdl
+[01:45:32] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/breenconsole.mdl
+[01:45:37] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/breenconsole.mdl
+[01:45:41] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/breenconsole.mdl
+[01:45:50] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/breenconsole.mdl
+[01:46:42] CCA.C17-GRID.i3.26594: /me would proceed to tie the individual. Would they resist?
+[01:46:46] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/cell_01_pod_cheap.mdl
+[01:47:37] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_office/file_cabinet_03.mdl
+[01:47:40] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_storagecloset001a.mdl
+[01:47:43] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_filecabinet002a.mdl
+[01:48:15] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned sent ix_airvent
+[01:48:44] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/combine_emitter01.mdl
+[01:48:52] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned sent ix_airvent
+[01:49:29] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on maps/rp_i17_variation_v0.bsp
+[01:49:33] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/combine_emitter01.mdl
+[01:49:41] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned sent ix_airvent
+[01:49:56] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/combine_emitter01.mdl
+[01:50:00] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned sent ix_airvent
+[01:50:20] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on maps/rp_i17_variation_v0.bsp
+[01:50:26] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/combine_emitter01.mdl
+[01:50:57] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool mapret on maps/rp_i17_variation_v0.bsp
+[01:51:04] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool mapret on maps/rp_i17_variation_v0.bsp
+[01:51:19] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool mapret on maps/rp_i17_variation_v0.bsp
+[01:51:22] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool mapret on maps/rp_i17_variation_v0.bsp
+[01:51:36] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_filecabinet002a.mdl
+[01:52:03] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_office/desk_01.mdl
+[01:52:29] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned sent ix_printer
+[01:53:00] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_filecabinet002a.mdl
+[01:53:17] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_filecabinet001a.mdl
+[01:53:37] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_filecabinet001a.mdl
+[01:53:43] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_filecabinet001a.mdl
+[01:53:58] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_desk001b.mdl
+[01:54:00] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_desk001b.mdl
+[01:54:03] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_filecabinet002a.mdl
+[01:54:14] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_filecabinet002a.mdl
+[01:54:16] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_filecabinet002a.mdl
+[01:54:41] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_interiors/corkboardverticle01.mdl
+[01:55:14] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_interiors/chairlobby01.mdl
+[01:55:15] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props/de_tides/patio_chair.mdl
+[01:55:18] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props/de_tides/patio_chair.mdl
+[01:56:07] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props/cs_office/chair_office.mdl
+[01:56:19] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_office/desk_01.mdl
+[01:56:58] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props/cs_office/computer.mdl
+[01:57:13] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props/cs_office/computer_caseb.mdl
+[01:57:22] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props/cs_office/chair_office.mdl
+[01:57:34] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_warehouse/office_furniture_coffee_table.mdl
+[01:57:35] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_warehouse/office_furniture_desk.mdl
+[01:58:32] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_interiors/desk_executive.mdl
+[01:59:39] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/env/furniture/largedesk/largedesk.mdl
+[01:59:47] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned/gave himself swep weapon_crossbow
+[01:59:48] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned/gave himself swep weapon_crowbar
+[01:59:49] CCA.C17-GRID.i3.26594: /toggleraise
+[01:59:55] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_office/desk_01.mdl
+[01:59:57] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_warehouse/office_furniture_coffee_table.mdl
+[02:00:00] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/u4lab/desk_office_a.mdl
+[02:00:34] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on models/props_interiors/desk_executive.mdl
+[02:00:35] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on models/props/cs_office/computer.mdl
+[02:00:35] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on models\props/cs_office/computer_caseb.mdl
+[02:00:37] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on models\props/cs_office/chair_office.mdl
+[02:00:40] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on models/props_office/desk_01.mdl
+[02:00:40] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on models/props_interiors/printer.mdl
+[02:00:41] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on maps/rp_i17_variation_v0.bsp
+[02:00:42] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on models/props/cs_office/chair_office.mdl
+[02:00:56] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned sent ix_printer
+[02:01:02] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned sent ix_testent6
+[02:01:11] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned sent ix_stove
+[02:01:33] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on models/props_interiors/printer.mdl
+[02:01:38] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned sent ix_printer
+[02:02:39] CCA.C17-GRID.i3.26594: /chargiveitem grid paper 1
+[02:02:43] CCA.C17-GRID.i3.26594: /chargiveitem grid paper 30
+[02:03:25] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned/gave himself swep weapon_rpg
+[02:03:25] CCA.C17-GRID.i3.26594: /toggleraise
+[02:03:32] CCA.C17-GRID.i3.26594 extinguished all 3 fires.
+[02:03:32] CCA.C17-GRID.i3.26594: !vextinguishall
+[02:03:34] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on maps/rp_i17_variation_v0.bsp
+[02:03:40] CCA.C17-GRID.i3.26594: /me would proceed to tie the individual. Would they resist?
+[02:03:41] CCA.C17-GRID.i3.26594 cleared decals
+[02:03:41] CCA.C17-GRID.i3.26594: !cleardecals
+[02:03:47] CCA.C17-GRID.i3.26594: /chargiveitem grid copy 1
+[02:03:50] CCA.C17-GRID.i3.26594: /chargiveitem grid copier 1
+[02:03:52] CCA.C17-GRID.i3.26594: /adminspawnmenu
+[02:04:14] CCA.C17-GRID.i3.26594: /chargiveitem grid printer 1
+[02:04:23] CCA.C17-GRID.i3.26594: /chargiveitem grid printer 15
+[02:04:43] CCA.C17-GRID.i3.26594: /chargiveitem grid printer 2
+[02:04:51] CCA.C17-GRID.i3.26594: /chargiveitem grid printer 3
+[02:04:58] CCA.C17-GRID.i3.26594 removed ragdolls
+[02:04:58] CCA.C17-GRID.i3.26594: !Removeragdolls
+[02:04:59] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on maps/rp_i17_variation_v0.bsp
+[02:05:55] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on maps/rp_i17_variation_v0.bsp
+[02:05:55] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on maps/rp_i17_variation_v0.bsp
+[02:06:14] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on maps/rp_i17_variation_v0.bsp
+[02:06:16] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/combine_interface003.mdl
+[02:06:17] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/combine_intmonitor001.mdl
+[02:06:54] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_interiors/corkboardverticle01.mdl
+[02:07:13] CCA.C17-GRID.i3.26594: /adminspawnmenu
+[02:07:31] CCA.C17-GRID.i3.26594: /chargiveitem grid "health kit" 4
+[02:08:33] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned sent ix_airvent
+[02:08:46] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/combine_emitter01.mdl
+[02:08:47] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/combine_emitter01.mdl
+[02:10:11] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on models/props_interiors/printer.mdl
+[02:10:14] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on maps/rp_i17_variation_v0.bsp
+[02:10:15] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on models/props_interiors/printer.mdl
+[02:10:21] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on models/props_wasteland/controlroom_filecabinet002a.mdl
+[02:10:22] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on models/props_wasteland/controlroom_filecabinet002a.mdl
+[02:10:23] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on models/props_wasteland/controlroom_filecabinet002a.mdl
+[02:10:23] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on models/props_wasteland/controlroom_filecabinet002a.mdl
+[02:10:36] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/combine_barricade_short01a.mdl
+[02:10:38] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/combine_barricade_short01a.mdl
+[02:10:53] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/combine_booth_short01a.mdl
+[02:11:14] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/combine_interface001.mdl
+[02:11:16] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/combine_interface002.mdl
+[02:11:18] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/combine_interface001.mdl
+[02:11:40] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/combine_barricade_short01a.mdl
+[02:12:40] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on maps/rp_i17_variation_v0.bsp
+[02:13:02] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/suit_charger001.mdl
+[02:13:26] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool stacker_improved on models/props_combine/combine_barricade_short01a.mdl
+[02:13:26] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/combine_barricade_short01a.mdl
+[02:13:35] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/combine_barricade_short02a.mdl
+[02:13:36] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/combine_barricade_short01a.mdl
+[02:14:24] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool stacker_improved on models/props_combine/combine_barricade_short01a.mdl
+[02:14:24] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/combine_barricade_short01a.mdl
+[02:14:39] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool stacker_improved on models/props_combine/combine_barricade_short01a.mdl
+[02:14:39] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/combine_barricade_short01a.mdl
+[02:14:42] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/combine_barricade_short01a.mdl
+[02:14:43] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/combine_barricade_short01a.mdl
+[02:14:45] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/combine_barricade_short01a.mdl
+[02:14:51] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on maps/rp_i17_variation_v0.bsp
+[02:14:57] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/cell_01_pod.mdl
+[02:15:13] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool stacker_improved on models/props_combine/cell_01_pod.mdl
+[02:15:13] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/cell_01_pod.mdl
+[02:15:14] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool stacker_improved on models/props_combine/cell_01_pod.mdl
+[02:15:14] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/cell_01_pod.mdl
+[02:15:25] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool stacker_improved on models/props_combine/cell_01_pod.mdl
+[02:15:25] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/cell_01_pod.mdl
+[02:15:26] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool stacker_improved on models/props_combine/cell_01_pod.mdl
+[02:15:26] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/cell_01_pod.mdl
+[02:15:54] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool stacker_improved on models/props_combine/cell_01_pod.mdl
+[02:15:54] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/cell_01_pod.mdl
+[02:16:01] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool stacker_improved on models/props_combine/cell_01_pod.mdl
+[02:16:01] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/cell_01_pod.mdl
+[02:16:06] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool stacker_improved on models/props_combine/cell_01_pod.mdl
+[02:16:06] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/cell_01_pod.mdl
+[02:16:18] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool stacker_improved on models/props_combine/cell_01_pod.mdl
+[02:16:18] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/cell_01_pod.mdl
+[02:16:21] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool stacker_improved on models/props_combine/cell_01_pod.mdl
+[02:16:21] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/cell_01_pod.mdl
+[02:16:33] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool stacker_improved on models/props_combine/cell_01_pod.mdl
+[02:16:33] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/cell_01_pod.mdl
+[02:16:51] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool stacker_improved on maps/rp_i17_variation_v0.bsp
+[02:16:55] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool stacker_improved on models/props_combine/cell_01_pod.mdl
+[02:16:55] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/cell_01_pod.mdl
+[02:17:01] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/cell_01_pod.mdl
+[02:17:01] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/cell_01_pod.mdl
+[02:22:03] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/railing_corner_inside.mdl
+[02:22:05] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/railing_128.mdl
+[02:22:07] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/railing_256.mdl
+[02:22:10] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/railing_128.mdl
+[02:22:35] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/prison01.mdl
+[02:22:37] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/prison01b.mdl
+[02:22:42] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/weaponstripper.mdl
+[02:23:07] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/suit_charger001.mdl
+[02:23:10] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/combine_interface001.mdl
+[02:23:10] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/combine_booth_short01a.mdl
+[02:24:00] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/cell_01_supportsb.mdl
+[02:24:11] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned effect models/props_combine/combine_teleportplatform.mdl
+[02:24:14] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/combine_interface001.mdl
+[02:24:16] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/combine_generator01.mdl
+[02:24:34] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/combine_bunker01.mdl
+[02:24:50] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/combine_bunker_shield01a.mdl
+[02:24:52] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/combine_bunker_shield01b.mdl
+[02:24:54] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/combine_bunker_shield01b.mdl
+[02:24:58] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/combine_bunker_shield01a.mdl
+[02:24:58] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/combine_bunker_shield01a.mdl
+[02:24:59] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/combine_bridge_b.mdl
+[02:25:00] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/combine_bunker01.mdl
+[02:25:20] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/combine_intwallunit.mdl
+[02:25:23] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/combine_generator01.mdl
+[02:25:24] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/combine_fence01a.mdl
+[02:25:40] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/combine_tptimer.mdl
+[02:25:41] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned effect models/props_combine/combine_teleportplatform.mdl
+[02:25:42] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/combine_tptimer.mdl
+[02:25:56] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/combineinnerwallcluster1024_001a.mdl
+[02:26:00] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/breenwindow.mdl
+[02:26:00] CCA.C17-GRID.i3.26594 was killed by prop_physics
+[02:28:06] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/tprotato2_chunk05.mdl
+[02:28:08] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/combine_lock01.mdl
+[02:28:10] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/combine_generator01.mdl
+
+
+
+[04:51:20] New map: rp_i17_variation_v0
+
+
+
+[04:58:44] New map: rp_i17_variation_v0
+[11:25:00] Client "matt saton" connected.
+[11:26:41] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 101 seconds).
+[12:50:29] matt saton<STEAM_0:1:53097688> changed their name to Lee Maylor
+[12:50:43] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_c17/pulleywheels_large01.mdl
+[12:50:44] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_c17/shelfunit01a.mdl
+[12:50:47] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_debris/metal_panel02a.mdl
+[12:51:00] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_interiors/refrigerator01a.mdl
+[12:51:34] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_combine/combine_teleport_2.mdl
+[12:51:36] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_combine/cell_array_01_extended.mdl
+[12:51:38] Lee Maylor<STEAM_0:1:53097688> spawned effect models/props_combine/breen_arm.mdl
+[12:51:42] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_combine/cell_01_rigging.mdl
+[12:51:44] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_combine/cell_01_supports.mdl
+[12:51:46] Lee Maylor<STEAM_0:1:53097688> spawned effect models/props_combine/combine_citadel001_open.mdl
+[12:51:47] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_combine/combine_citadel001.mdl
+[12:51:55] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_combine/suit_charger001.mdl
+[12:52:45] Lee Maylor<STEAM_0:1:53097688> spawned NPC npc_binocularlooking_combinesoldier
+[12:52:56] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/combine_binocular01.mdl
+[12:52:59] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on maps/rp_i17_variation_v0.bsp
+[12:53:33] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_combine/combine_binocular01.mdl
+[12:53:34] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on maps/rp_i17_variation_v0.bsp
+[12:53:59] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_combine/combine_barricade_tall04b.mdl
+[12:54:03] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_combine/combine_binocular01.mdl
+[12:54:32] Lee Maylor<STEAM_0:1:53097688> spawned effect models/props_combine/combine_citadel001b_open.mdl
+[12:54:50] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_combine/combine_binocular01.mdl
+[12:55:25] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/combine_binocular01.mdl
+[12:55:27] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on maps/rp_i17_variation_v0.bsp
+[12:55:42] Lee Maylor<STEAM_0:1:53097688> spawned model models/items/ammocrate_smg1.mdl
+[12:56:13] Lee Maylor<STEAM_0:1:53097688> spawned effect models/props_combine/stalkerpod_lid.mdl
+[12:56:15] Lee Maylor<STEAM_0:1:53097688> spawned ragdoll models/props_combine/stalkerpod.mdl
+[12:56:30] Lee Maylor<STEAM_0:1:53097688> spawned effect models/props_combine/combine_citadelcloud001b.mdl
+[12:56:32] Lee Maylor<STEAM_0:1:53097688> spawned effect models/props_combine/combine_citadelcloud001b.mdl
+[12:56:35] Lee Maylor<STEAM_0:1:53097688> spawned effect models/props_combine/combine_citadelcloud001b.mdl
+[12:56:38] Lee Maylor<STEAM_0:1:53097688> spawned effect models/props_combine/combine_citadelcloud001c.mdl
+[12:56:41] Lee Maylor<STEAM_0:1:53097688> spawned effect models/props_combine/combine_citadelcloud001d.mdl
+[12:56:44] Lee Maylor<STEAM_0:1:53097688> spawned effect models/props_combine/combine_citadelcloud002b.mdl
+[12:57:04] Lee Maylor<STEAM_0:1:53097688> spawned ragdoll models/combine_advisor_pod/combine_advisor_pod.mdl
+[12:57:09] Lee Maylor<STEAM_0:1:53097688> spawned model models/combine_turrets/combine_cannon.mdl
+[12:57:15] Lee Maylor<STEAM_0:1:53097688> spawned ragdoll models/combine_turrets/combine_cannon_gun.mdl
+[12:57:18] Lee Maylor<STEAM_0:1:53097688> spawned model models/combine_turrets/floor_turret.mdl
+[12:57:20] Lee Maylor<STEAM_0:1:53097688> spawned model models/combine_turrets/combine_cannon_stand02.mdl
+[12:57:24] Lee Maylor<STEAM_0:1:53097688> spawned model models/combine_turrets/combine_cannon_stand.mdl
+[12:57:25] Lee Maylor<STEAM_0:1:53097688> spawned ragdoll models/combine_turrets/combine_cannon_powergen.mdl
+[12:57:56] Lee Maylor<STEAM_0:1:53097688> used the tool animprop on maps/rp_i17_variation_v0.bsp
+[12:57:58] Lee Maylor<STEAM_0:1:53097688> used the tool animprop on maps/rp_i17_variation_v0.bsp
+[12:58:01] Lee Maylor<STEAM_0:1:53097688> used the tool animprop on maps/rp_i17_variation_v0.bsp
+[12:58:03] Lee Maylor<STEAM_0:1:53097688> used the tool animprop on maps/rp_i17_variation_v0.bsp
+[12:58:11] Lee Maylor<STEAM_0:1:53097688> spawned model models/combine_turrets/combine_cannon_stand.mdl
+[12:58:22] Lee Maylor<STEAM_0:1:53097688> used the tool animprop on maps/rp_i17_variation_v0.bsp
+[12:58:25] Lee Maylor<STEAM_0:1:53097688> used the tool animprop on maps/rp_i17_variation_v0.bsp
+[12:58:26] Lee Maylor<STEAM_0:1:53097688> used the tool animprop on maps/rp_i17_variation_v0.bsp
+[12:58:34] Lee Maylor<STEAM_0:1:53097688> used the tool animprop on maps/rp_i17_variation_v0.bsp
+[12:58:43] Lee Maylor<STEAM_0:1:53097688> used the tool animprop on maps/rp_i17_variation_v0.bsp
+[12:58:55] Lee Maylor<STEAM_0:1:53097688> spawned model models/combine_turrets/combine_cannon_stand.mdl
+[12:59:13] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on maps/rp_i17_variation_v0.bsp
+[12:59:13] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/combine_turrets/combine_cannon_powergen.mdl
+[12:59:47] Lee Maylor<STEAM_0:1:53097688> spawned effect models/props_combine/coreball.mdl
+[13:00:03] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_combine/combine_core_platform01.mdl
+[13:00:03] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_combine/combine_ballsocket.mdl
+[13:00:43] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_combine/combine_hatch01.mdl
+[13:00:45] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_combine/combine_hatch01.mdl
+[13:00:46] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_combine/combine_hatch01.mdl
+[13:01:02] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_combine/breenlight.mdl
+[13:01:07] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_combine/breenconsole.mdl
+[13:02:06] Lee Maylor<STEAM_0:1:53097688> spawned model models/combine_turrets/combine_cannon_stand.mdl
+[13:02:49] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_combine/breenconsole.mdl
+[13:02:51] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_combine/combine_smallmonitor001.mdl
+[13:02:54] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_combine/combine_intwallunit.mdl
+[13:03:04] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_combine/combine_lock01.mdl
+[13:03:10] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_combine/combine_light002a.mdl
+[13:03:15] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_combine/combine_light001a.mdl
+[13:03:18] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_combine/combine_light001b.mdl
+[13:03:21] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_combine/combine_light001b.mdl
+[13:04:21] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_combine/combine_train02a.mdl
+[13:04:22] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_combine/combine_light001a.mdl
+[13:04:24] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_combine/combine_light001b.mdl
+[13:04:26] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_combine/combine_light001a.mdl
+[13:04:28] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_combine/combine_light002a.mdl
+[13:04:30] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_combine/combine_light002a.mdl
+[13:04:32] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_combine/combine_light002a.mdl
+[13:04:35] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_combine/combine_light002a.mdl
+[13:05:28] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_combine/combine_light002a.mdl
+[13:05:40] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_combine/combine_light002a.mdl
+[13:05:40] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_combine/combine_light002a.mdl
+[13:05:43] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/combine_light002a.mdl
+[13:06:54] Lee Maylor<STEAM_0:1:53097688> spawned model models/combine_apc.mdl
+[13:08:09] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/combine_apc.mdl
+[13:08:20] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/combine_apc.mdl
+[13:08:30] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/combine_apc.mdl
+[13:08:30] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/combine_apc.mdl
+[13:08:30] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/combine_apc.mdl
+[13:08:34] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/combine_apc.mdl
+[13:09:30] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/kitchen_shelf001a.mdl
+[13:09:38] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/kitchen_shelf001a.mdl
+[13:11:02] Lee Maylor<STEAM_0:1:53097688> spawned model models/items/ammocrate_rockets.mdl
+[13:11:05] Lee Maylor<STEAM_0:1:53097688> spawned model models/items/ammocrate_rockets.mdl
+[13:11:06] Lee Maylor<STEAM_0:1:53097688> spawned model models/items/ammocrate_smg1.mdl
+[13:11:23] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/kitchen_shelf001a.mdl
+[13:12:15] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_lab/tpplugholder_single.mdl
+[13:13:09] Lee Maylor<STEAM_0:1:53097688> spawned effect models/items/hevsuit.mdl
+[13:13:10] Lee Maylor<STEAM_0:1:53097688> spawned model models/items/item_item_crate.mdl
+[13:13:13] Lee Maylor<STEAM_0:1:53097688> spawned model models/items/item_item_crate.mdl
+[13:13:17] Lee Maylor<STEAM_0:1:53097688> spawned effect models/items/item_item_crate_dynamic.mdl
+[13:13:35] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/items/item_item_crate.mdl
+[13:13:35] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/items/item_item_crate.mdl
+[13:13:37] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_wasteland/kitchen_shelf001a.mdl
+[13:13:38] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_wasteland/kitchen_shelf001a.mdl
+[13:13:46] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_lab/reciever01b.mdl
+[13:14:03] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_desk001b.mdl
+[13:14:05] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_desk001b.mdl
+[13:14:11] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/kitchen_counter001c.mdl
+[13:14:19] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/kitchen_counter001a.mdl
+[13:15:02] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/kitchen_counter001c.mdl
+[13:15:05] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/kitchen_counter001a.mdl
+[13:15:08] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/kitchen_counter001b.mdl
+[13:15:14] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/kitchen_counter001a.mdl
+[13:15:16] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/kitchen_counter001c.mdl
+[13:19:04] Lee Maylor<STEAM_0:1:53097688> spawned ragdoll models/props_lab/mobileprojector.mdl
+[13:19:12] Lee Maylor<STEAM_0:1:53097688> spawned ragdoll models/props_lab/mobileprojector.mdl
+[13:19:24] Lee Maylor<STEAM_0:1:53097688> spawned ragdoll models/props_lab/mobileprojector.mdl
+[13:19:41] Lee Maylor<STEAM_0:1:53097688> spawned effect models/effects/intro_vortshield.mdl
+[13:19:46] Lee Maylor<STEAM_0:1:53097688> spawned effect models/effects/introtear.mdl
+[13:19:48] Lee Maylor<STEAM_0:1:53097688> spawned effect models/effects/splode.mdl
+[13:19:54] Lee Maylor<STEAM_0:1:53097688> spawned effect models/effects/introtear.mdl
+[13:20:25] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_c17/pillarcluster_001b.mdl
+[13:21:16] Lee Maylor<STEAM_0:1:53097688> spawned effect models/map10_doors/doubledoor.mdl
+[13:21:18] Lee Maylor<STEAM_0:1:53097688> spawned effect models/map10_doors/singledoor.mdl
+[13:21:38] Lee Maylor<STEAM_0:1:53097688> spawned model models/mini_borealis/mini_borealis.mdl
+[13:23:14] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_junk/gnome.mdl
+[13:25:31] Lee Maylor<STEAM_0:1:53097688> spawned ragdoll models/props_lab/mobileprojector.mdl
+[13:27:49] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_mining/elevator01_cage.mdl
+[13:27:52] Lee Maylor<STEAM_0:1:53097688> spawned effect models/props_mining/test_model_hdr.mdl
+[13:28:03] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_outland/forklift_body.mdl
+[13:28:10] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_silo/silo_server_a.mdl
+[13:28:12] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_silo/silo_server_b.mdl
+[13:28:13] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_silo/silo_server_c.mdl
+[13:28:16] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_silo/silo_server_d.mdl
+[13:28:18] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_silo/silo_server_a.mdl
+[13:28:20] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_silo/silo_server_a.mdl
+[13:28:21] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_silo/silo_server_b.mdl
+[13:28:23] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_silo/silo_server_c.mdl
+[13:28:24] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_silo/silo_server_c.mdl
+[13:28:26] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_silo/silo_server_c.mdl
+[13:28:29] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_silo/silo_server_d.mdl
+[13:28:31] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_silo/silo_server_d.mdl
+[13:29:05] Lee Maylor<STEAM_0:1:53097688> spawned effect models/props_silo/welding_helmet.mdl
+[13:29:06] Lee Maylor<STEAM_0:1:53097688> spawned effect models/props_silo/welding_torch.mdl
+[13:29:12] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_silo/chimneycluster01.mdl
+[13:29:14] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_silo/wall_console1.mdl
+[13:29:15] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_silo/rocket_engine.mdl
+[13:29:18] Lee Maylor<STEAM_0:1:53097688> spawned effect models/props_silo/turret.mdl
+[13:29:19] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_silo/rocket.mdl
+[13:29:23] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_silo/rocket_stage1.mdl
+[13:29:26] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_silo/rocket.mdl
+[13:29:40] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_silo/rocket_hatch.mdl
+[13:29:43] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_silo/rocket_hatch.mdl
+[13:30:30] Lee Maylor<STEAM_0:1:53097688> spawned ragdoll models/characters/counterterrorist.mdl
+[13:37:30] Dropped "Lee Maylor" from server<STEAM_0:1:53097688>
+[14:48:10] Client "Doorlover" connected.
+[14:48:17] Client "Daveaholic" connected.
+[14:57:17] Client "Daveaholic" spawned in server <STEAM_0:0:44907986> (took 540 seconds).
+[15:00:01] Daveaholic<STEAM_0:0:44907986> changed their name to Dengism Simp
+[15:00:38] Client "Doorlover" spawned in server <STEAM_0:0:73332691> (took 748 seconds).
+[15:02:06] Doorlover<STEAM_0:0:73332691> changed their name to Immortial science of Dengism
+[15:02:56] Immortial science of Dengism: hello?
+[15:04:33] Dengism Simp: Hello!
+[15:04:37] Dengism Simp: Is anyone here!
+[15:04:55] Immortial science of Dengism: hello?
+[15:05:23] Client "Grilled Cheesus UwU" connected.
+[15:05:44] Dengism Simp: I am a hot single in your area that need help..
+[15:05:57] Dengism Simp: /content
+[15:06:10] Dropped "Immortial science of Dengism" from server<STEAM_0:0:73332691>
+[15:06:13] Dropped "Dengism Simp" from server<STEAM_0:0:44907986>

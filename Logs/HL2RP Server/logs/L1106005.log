@@ -1,0 +1,577 @@
+L 11/06/2022 - 12:42:08: Log file started (file "logs\L1106005.log") (game "c:\servers\revivalhl2rp\garrysmod") (version "8607")
+L 11/06/2022 - 12:42:11: Lua Error: [Helix] Attempt to index unknown item 'emptywatercan'
+
+L 11/06/2022 - 12:42:11: Lua Error: [Helix] Attempt to index unknown item 'emptywatercan'
+
+L 11/06/2022 - 12:42:11: Lua Error: [Helix] Attempt to index unknown item 'emptywatercan'
+
+L 11/06/2022 - 12:42:11: Lua Error: [Helix] Attempt to index unknown item 'emptywatercan'
+
+L 11/06/2022 - 12:42:11: Lua Error: [Helix] Attempt to index unknown item 'applejuice'
+
+L 11/06/2022 - 12:42:11: Lua Error: [Helix] Attempt to index unknown item 'applejuice'
+
+L 11/06/2022 - 12:42:11: Lua Error: [Helix] Attempt to index unknown item 'chickenwrap'
+
+L 11/06/2022 - 12:42:13: Lua Error: [Helix] hook.SafeRun error for schema hook "LoadData":
+	gamemodes/ixhl2rp/schema/sv_hooks.lua:47: attempt to index global 'lacedEnt' (a nil value)
+stack traceback:
+	gamemodes/helix/gamemode/core/libs/sh_plugin.lua:414: in function 'SafeRun'
+	gamemodes/helix/gamemode/core/libs/sh_plugin.lua:314: in function 'RunLoadData'
+	gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:953: in function 'Run'
+	gamemodes/helix/gamemode/core/libs/thirdparty/sv_mysql.lua:633: in function 'OnConnected'
+	gamemodes/helix/gamemode/core/libs/thirdparty/sv_mysql.lua:535: in function <gamemodes/helix/gamemode/core/libs/thirdparty/sv_mysql.lua:534>
+
+L 11/06/2022 - 12:42:13: Connection to Steam servers successful.
+L 11/06/2022 - 12:42:13:    Public IP is 192.223.26.159.
+L 11/06/2022 - 12:42:13: Assigned persistent gameserver Steam ID [G-1:3334754].
+L 11/06/2022 - 12:42:13: VAC secure mode is activated.
+L 11/06/2022 - 12:42:13: "Enclave<2><STEAM_0:0:34463192><>" connected, address "75.248.18.54:27005"
+L 11/06/2022 - 12:42:13: "Enclave<2><STEAM_0:0:34463192><>" STEAM USERID validated
+L 11/06/2022 - 12:42:19: Lua Error: 
+[lfs_ground_vehicle_base] gamemodes/ixhl2rp/entities/entities/ix_stove.lua:25: attempt to index global 'trace' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/entities/entities/ix_stove.lua:25
+   2. Spawn - [C]:-1
+    3. PPEntityFromTable - addons/lfs_ground_vehicle_base/lua/permaprops/sv_lib.lua:120
+     4. ReloadPermaProps - addons/lfs_ground_vehicle_base/lua/permaprops/sv_lib.lua:233
+      5. unknown - addons/lfs_ground_vehicle_base/lua/permaprops/sv_lib.lua:241
+
+
+L 11/06/2022 - 12:42:19: Lua Error: 
+[lfs_ground_vehicle_base] gamemodes/ixhl2rp/entities/entities/ix_stove.lua:25: attempt to index global 'trace' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/entities/entities/ix_stove.lua:25
+   2. Spawn - [C]:-1
+    3. PPEntityFromTable - addons/lfs_ground_vehicle_base/lua/permaprops/sv_lib.lua:120
+     4. ReloadPermaProps - addons/lfs_ground_vehicle_base/lua/permaprops/sv_lib.lua:233
+      5. unknown - addons/lfs_ground_vehicle_base/lua/permaprops/sv_lib.lua:241
+
+
+L 11/06/2022 - 12:42:31: "FB|| light ROOM<3><STEAM_0:1:17219621><>" connected, address "72.219.9.241:27005"
+L 11/06/2022 - 12:42:32: "FB|| light ROOM<3><STEAM_0:1:17219621><>" STEAM USERID validated
+L 11/06/2022 - 12:42:57: "Weaponized Turtles<4><STEAM_0:0:69165544><>" connected, address "73.17.224.161:27005"
+L 11/06/2022 - 12:42:57: "Weaponized Turtles<4><STEAM_0:0:69165544><>" STEAM USERID validated
+L 11/06/2022 - 12:43:43: Lua Error: [Helix] Attempt to index unknown item 'duplexradio'
+
+L 11/06/2022 - 12:43:43: Lua Error: [Helix] Attempt to index unknown item 'band_gold'
+
+L 11/06/2022 - 12:43:43: Lua Error: [Helix] Attempt to index unknown item 'duplexradio'
+
+L 11/06/2022 - 12:43:43: Lua Error: [Helix] Attempt to index unknown item 'coppercoil'
+
+L 11/06/2022 - 12:43:43: "FB|| light ROOM<3><STEAM_0:1:17219621><>" entered the game
+L 11/06/2022 - 12:43:44: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/06/2022 - 12:43:51: "Weaponized Turtles<4><STEAM_0:0:69165544><>" entered the game
+L 11/06/2022 - 12:43:51: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/06/2022 - 12:43:57: "Enclave<2><STEAM_0:0:34463192><>" entered the game
+L 11/06/2022 - 12:43:57: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/06/2022 - 12:44:06: "wendigo<5><STEAM_0:1:429480781><>" connected, address "107.128.116.69:27005"
+L 11/06/2022 - 12:44:06: "wendigo<5><STEAM_0:1:429480781><>" STEAM USERID validated
+L 11/06/2022 - 12:44:34: "matt saton<6><STEAM_0:1:53097688><>" connected, address "73.103.251.115:27005"
+L 11/06/2022 - 12:44:34: "matt saton<6><STEAM_0:1:53097688><>" STEAM USERID validated
+L 11/06/2022 - 12:44:40: "Bean<7><STEAM_0:1:591779303><>" connected, address "24.67.80.36:27005"
+L 11/06/2022 - 12:44:41: "Bean<7><STEAM_0:1:591779303><>" STEAM USERID validated
+L 11/06/2022 - 12:44:43: "Dilly_<8><STEAM_0:0:52468151><>" connected, address "37.19.212.33:27005"
+L 11/06/2022 - 12:44:43: "Dilly_<8><STEAM_0:0:52468151><>" STEAM USERID validated
+L 11/06/2022 - 12:45:00: "Lynch<9><STEAM_0:1:626926779><>" connected, address "78.61.145.227:27005"
+L 11/06/2022 - 12:45:00: "Lynch<9><STEAM_0:1:626926779><>" STEAM USERID validated
+L 11/06/2022 - 12:45:37: "wendigo<5><STEAM_0:1:429480781><>" entered the game
+L 11/06/2022 - 12:45:37: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/06/2022 - 12:45:43: "Bean<7><STEAM_0:1:591779303><>" entered the game
+L 11/06/2022 - 12:45:43: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/06/2022 - 12:45:47: Lua Error: [Helix] Attempt to index unknown item 'union_chips'
+
+L 11/06/2022 - 12:45:47: Lua Error: [Helix] Attempt to index unknown item 'union_chips'
+
+L 11/06/2022 - 12:45:47: Lua Error: [Helix] Attempt to index unknown item 'battered_scrap'
+
+L 11/06/2022 - 12:45:47: Lua Error: [Helix] Attempt to index unknown item 'morphine'
+
+L 11/06/2022 - 12:45:47: "Dilly_<8><STEAM_0:0:52468151><>" entered the game
+L 11/06/2022 - 12:45:47: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/06/2022 - 12:45:48: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/stalker.lua:19: attempt to index a nil value
+  1. v - gamemodes/ixhl2rp/plugins/stalker.lua:19
+   2. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+    3. Kill - [C]:-1
+     4. Call - gamemodes/base/gamemode/player.lua:359
+      5. unknown - gamemodes/base/gamemode/player.lua:466
+       6. Spawn - [C]:-1
+        7. func - gamemodes/helix/gamemode/core/libs/sh_character.lua:921
+         8. unknown - lua/includes/extensions/net.lua:33
+
+
+L 11/06/2022 - 12:47:00: "Lildirtyharry04<10><STEAM_0:0:247487472><>" connected, address "152.37.143.67:27005"
+L 11/06/2022 - 12:47:00: "Lildirtyharry04<10><STEAM_0:0:247487472><>" STEAM USERID validated
+L 11/06/2022 - 12:47:20: "Lynch<9><STEAM_0:1:626926779><>" entered the game
+L 11/06/2022 - 12:47:21: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/06/2022 - 12:47:36: Lua Error: [Helix] Attempt to index unknown item 'handheld_radio'
+
+L 11/06/2022 - 12:47:36: Lua Error: [Helix] Attempt to index unknown item 'handheld_radio'
+
+L 11/06/2022 - 12:47:36: Lua Error: [Helix] Attempt to index unknown item 'band_blue'
+
+L 11/06/2022 - 12:47:36: Lua Error: [Helix] Attempt to index unknown item 'band_green'
+
+L 11/06/2022 - 12:47:36: Lua Error: [Helix] Attempt to index unknown item 'morphine'
+
+L 11/06/2022 - 12:47:36: Lua Error: [Helix] Attempt to index unknown item 'burned_metal'
+
+L 11/06/2022 - 12:47:36: Lua Error: [Helix] Attempt to index unknown item 'cmbfood'
+
+L 11/06/2022 - 12:47:36: "matt saton<6><STEAM_0:1:53097688><>" entered the game
+L 11/06/2022 - 12:47:36: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/stalker.lua:19: attempt to index a nil value
+  1. v - gamemodes/ixhl2rp/plugins/stalker.lua:19
+   2. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+    3. Kill - [C]:-1
+     4. Call - gamemodes/base/gamemode/player.lua:359
+      5. unknown - gamemodes/base/gamemode/player.lua:466
+       6. Spawn - [C]:-1
+        7. unknown - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:691
+
+
+L 11/06/2022 - 12:47:36: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/06/2022 - 12:48:18: "Lildirtyharry04<10><STEAM_0:0:247487472><>" disconnected (reason "Lildirtyharry04 timed out")
+L 11/06/2022 - 12:49:49: "Bubba<11><STEAM_0:0:178302901><>" connected, address "188.82.219.197:27005"
+L 11/06/2022 - 12:49:49: "Bubba<11><STEAM_0:0:178302901><>" STEAM USERID validated
+L 11/06/2022 - 12:51:57: "fuckus<12><STEAM_0:1:54861900><>" connected, address "65.25.50.46:27005"
+L 11/06/2022 - 12:51:57: "fuckus<12><STEAM_0:1:54861900><>" STEAM USERID validated
+L 11/06/2022 - 12:52:30: [ULX] CCA.C17-GRID.EpU.06912 to admins: yo alex
+L 11/06/2022 - 12:52:33: [ULX] CCA.C17-GRID.EpU.06912 to admins: orders from head office
+L 11/06/2022 - 12:52:42: [ULX] CCA.C17-GRID.EpU.06912 to admins: do a speech about how much freedom we have
+L 11/06/2022 - 12:53:00: "Bubba<11><STEAM_0:0:178302901><>" entered the game
+L 11/06/2022 - 12:53:01: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/06/2022 - 12:53:02: "fuckus<12><STEAM_0:1:54861900><>" entered the game
+L 11/06/2022 - 12:53:02: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/06/2022 - 12:54:38: "Painevan<13><STEAM_0:0:68118061><>" connected, address "73.198.140.198:27005"
+L 11/06/2022 - 12:54:39: "Painevan<13><STEAM_0:0:68118061><>" STEAM USERID validated
+L 11/06/2022 - 12:56:06: [ULX] CCA.C17-GRID.EpU.06912 added Jacob Desmone to group supporter
+L 11/06/2022 - 12:57:35: "Painevan<13><STEAM_0:0:68118061><>" entered the game
+L 11/06/2022 - 12:57:35: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/06/2022 - 12:59:30: [ULX] CCA.C17-GRID.EpU.06912 to admins: alright. start sundowning on your speech, and i'll give you a new topic to bring up
+L 11/06/2022 - 13:00:36: [ULX] CCA.C17-GRID.EpU.06912 to admins: your new topic is going to be union science. write shorter sentences, and get to the point faster
+L 11/06/2022 - 13:01:42: [ULX] CCA.C17-GRID.EpU.06912 to admins: Talk about how the Combine found a large object in Superposition. This is very rare, and they weren't sure they existed until now
+L 11/06/2022 - 13:02:18: [ULX] CCA.C17-GRID.EpU.06912 to admins: explain that superposition is when something appears different depending on when and how it's observed. it's extremely important in combine science and research
+L 11/06/2022 - 13:02:30: [ULX] CCA.C17-GRID.EpU.06912 to admins: it's
+L 11/06/2022 - 13:02:35: [ULX] CCA.C17-GRID.EpU.06912 to admins: it's extremely important in combine science and research
+L 11/06/2022 - 13:04:05: [ULX] CCA.C17-GRID.EpU.06912 to admins: explain what an object in superposition is
+L 11/06/2022 - 13:04:16: [ULX] CCA.C17-GRID.EpU.06912 to admins: preferably concisely
+L 11/06/2022 - 13:04:20: [ULX] CCA.C17-GRID.EpU.06912 to admins: still in the alex wayt but
+L 11/06/2022 - 13:05:20: [ULX] CCA.C17-GRID.EpU.06912 gave Themself 180 rounds
+L 11/06/2022 - 13:06:45: [ULX] Alex Palovichov to admins: is that all?
+L 11/06/2022 - 13:06:59: [ULX] Alex Palovichov to admins: Should I end the speech?
+L 11/06/2022 - 13:07:20: [ULX] CCA.C17-GRID.EpU.06912 to admins: say that this discovery is helping them experiment with multi-dimensional travel, and today the ocmbine is doing its first open experiment with it
+L 11/06/2022 - 13:07:24: [ULX] CCA.C17-GRID.EpU.06912 to admins: its first open experiment with it
+L 11/06/2022 - 13:07:28: [ULX] Ethan King to admins: open the rebel door aghghghg
+L 11/06/2022 - 13:07:33: [ULX] CCA.C17-GRID.EpU.06912 to admins: meaning they're letting it free rather than keeping it tight and contained
+L 11/06/2022 - 13:07:39: [ULX] CCA.C17-GRID.EpU.06912 to admins: can you please hnadle that
+L 11/06/2022 - 13:09:02: Lua Error: attempted to add entry to non-existent log type "Player [11][Painevan]"
+L 11/06/2022 - 13:09:02: Lua Error: 
+[ulib] gamemodes/helix/gamemode/core/libs/sh_log.lua:115: bad argument #1 to 'WriteString' (string expected, got nil)
+  1. WriteString - [C]:-1
+   2. Send - gamemodes/helix/gamemode/core/libs/sh_log.lua:115
+    3. callback - gamemodes/helix/gamemode/core/libs/sh_log.lua:105
+     4. onResult - gamemodes/helix/gamemode/core/libs/thirdparty/sh_cami.lua:443
+      5. callback - gamemodes/helix/gamemode/core/libs/thirdparty/sh_cami.lua:448
+       6. fn - addons/ulib/lua/ulib/shared/cami_ulib.lua:23
+        7. Call - addons/ulib/lua/ulib/shared/hook.lua:109
+         8. PlayerHasAccess - gamemodes/helix/gamemode/core/libs/thirdparty/sh_cami.lua:383
+          9. GetPlayersWithAccess - gamemodes/helix/gamemode/core/libs/thirdparty/sh_cami.lua:447
+           10. Add - gamemodes/helix/gamemode/core/libs/sh_log.lua:104
+            11. SearchPlayer - gamemodes/ixhl2rp/schema/sv_schema.lua:393
+             12. func - gamemodes/ixhl2rp/schema/sv_hooks.lua:2012
+              13. unknown - lua/includes/extensions/net.lua:33
+
+
+L 11/06/2022 - 13:09:02: Lua Error: 
+[ERROR] Warning! A net message (ixLogStream) is already started! Discarding in favor of the new message! (ixLocalVarSet)
+  1. SetLocalVar - gamemodes/helix/gamemode/core/libs/sv_networking.lua:121
+   2. CalcStaminaChange - gamemodes/helix/plugins/stamina/sh_plugin.lua:63
+    3. unknown - gamemodes/helix/plugins/stamina/sh_plugin.lua:94
+
+
+L 11/06/2022 - 13:09:23: [ULX] CCA.C17-GRID.EpU.06912 to admins: they keep it anchored down for the other research
+L 11/06/2022 - 13:09:29: [ULX] CCA.C17-GRID.EpU.06912 to admins: but now they're not keepiong it anchored down
+L 11/06/2022 - 13:10:41: [ULX] CCA.C17-GRID.EpU.06912 to admins: after that you're good to end the speech and sundown
+L 11/06/2022 - 13:12:15: "Dilly_<8><STEAM_0:0:52468151><>" disconnected (reason "Dilly_ timed out")
+L 11/06/2022 - 13:12:36: "Dilly_<14><STEAM_0:0:52468151><>" connected, address "37.19.212.33:27005"
+L 11/06/2022 - 13:12:37: "Dilly_<14><STEAM_0:0:52468151><>" STEAM USERID validated
+L 11/06/2022 - 13:13:04: [ULX] Alex Palovichov to admins: Should I use Alex? Orrrrrr Like Cutter?
+L 11/06/2022 - 13:13:08: [ULX] CCA.C17-GRID.EpU.06912 to admins: up to you
+L 11/06/2022 - 13:13:14: [ULX] CCA.C17-GRID.EpU.06912 to admins: so what's going to happen is
+L 11/06/2022 - 13:13:30: [ULX] CCA.C17-GRID.EpU.06912 to admins: something similar to a portal storm will open ujp a portal to a Com,bine penal colony
+L 11/06/2022 - 13:13:36: [ULX] CCA.C17-GRID.EpU.06912 to admins: stuff will get sent through at random causing havoc
+L 11/06/2022 - 13:14:16: "Dilly_<14><STEAM_0:0:52468151><>" entered the game
+L 11/06/2022 - 13:14:17: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/06/2022 - 13:14:49: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/schema/sv_hooks.lua:993: attempt to index a nil value
+  1. unknown - gamemodes/ixhl2rp/schema/sv_hooks.lua:993
+   2. Run - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:354
+    3. Send - gamemodes/helix/gamemode/core/libs/sh_chatbox.lua:344
+     4. OnRun - gamemodes/ixhl2rp/schema/sh_commands.lua:254
+      5. Run - gamemodes/helix/gamemode/core/libs/sh_command.lua:499
+       6. Parse - gamemodes/helix/gamemode/core/libs/sh_command.lua:561
+        7. Run - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:324
+         8. func - gamemodes/ixhl2rp/plugins/chatbox/sh_plugin.lua:235
+          9. unknown - lua/includes/extensions/net.lua:33
+
+
+L 11/06/2022 - 13:14:50: [ULX] Alex Palovichov to admins: should I have heard that?
+L 11/06/2022 - 13:14:55: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/schema/sv_hooks.lua:993: attempt to index a nil value
+  1. unknown - gamemodes/ixhl2rp/schema/sv_hooks.lua:993
+   2. Run - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:354
+    3. Send - gamemodes/helix/gamemode/core/libs/sh_chatbox.lua:344
+     4. OnRun - gamemodes/ixhl2rp/schema/sh_commands.lua:254
+      5. Run - gamemodes/helix/gamemode/core/libs/sh_command.lua:499
+       6. Parse - gamemodes/helix/gamemode/core/libs/sh_command.lua:561
+        7. Run - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:324
+         8. func - gamemodes/ixhl2rp/plugins/chatbox/sh_plugin.lua:235
+          9. unknown - lua/includes/extensions/net.lua:33
+
+
+L 11/06/2022 - 13:15:18: [ULX] Alex Palovichov to admins: Or should I have just not heard it and ignored it
+L 11/06/2022 - 13:15:45: [ULX] CCA.C17-GRID.EpU.06912<STEAM_0:1:53097688> spawned sent pfx2_00
+L 11/06/2022 - 13:15:51: [ULX] CCA.C17-GRID.EpU.06912<STEAM_0:1:53097688> spawned sent pfx2_04
+L 11/06/2022 - 13:15:53: [ULX] CCA.C17-GRID.EpU.06912<STEAM_0:1:53097688> spawned sent pfx2_04
+L 11/06/2022 - 13:16:04: [ULX] CCA.C17-GRID.EpU.06912<STEAM_0:1:53097688> spawned sent pfx5_00_alt_ss
+L 11/06/2022 - 13:16:06: [ULX] Alex Palovichov to admins: Also about the map, how would cutter even be used during it?
+L 11/06/2022 - 13:16:26: [ULX] Alex Palovichov to admins: since his name is known and like one of the most wanted person in the city
+L 11/06/2022 - 13:17:11: [ULX] Alex Palovichov to admins: How about...Just Cheese...
+L 11/06/2022 - 13:17:14: [ULX] Alex Palovichov to admins: WAIT
+L 11/06/2022 - 13:17:16: [ULX] Alex Palovichov to admins: VOID THAT
+L 11/06/2022 - 13:17:22: [ULX] CCA.C17-GRID.EpU.06912<STEAM_0:1:53097688> spawned sent pfx2_04
+L 11/06/2022 - 13:17:34: [ULX] CCA.C17-GRID.EpU.06912<STEAM_0:1:53097688> spawned sent pfx5_00_alt_ss
+L 11/06/2022 - 13:17:48: [ULX] CCA.C17-GRID.EpU.06912 teleported to PVT Nathan Pierce
+L 11/06/2022 - 13:17:53: "Nums<15><STEAM_0:1:196547442><>" connected, address "71.79.98.104:27005"
+L 11/06/2022 - 13:17:53: "Nums<15><STEAM_0:1:196547442><>" STEAM USERID validated
+L 11/06/2022 - 13:19:52: [ULX] CCA.C17-GRID.EpU.06912<STEAM_0:1:53097688> spawned model models/props_combine/tprotato1_chunk03.mdl
+L 11/06/2022 - 13:19:57: [ULX] CCA.C17-GRID.EpU.06912<STEAM_0:1:53097688> spawned model models/props_combine/tprotato2_chunk04.mdl
+L 11/06/2022 - 13:20:00: [ULX] CCA.C17-GRID.EpU.06912<STEAM_0:1:53097688> spawned model models/props_combine/tprotato2_chunk04.mdl
+L 11/06/2022 - 13:20:03: [ULX] CCA.C17-GRID.EpU.06912<STEAM_0:1:53097688> spawned effect models/props_combine/tpcontrollerscreens.mdl
+L 11/06/2022 - 13:20:04: [ULX] CCA.C17-GRID.EpU.06912<STEAM_0:1:53097688> spawned model models/props_combine/tprotato1.mdl
+L 11/06/2022 - 13:20:11: [ULX] CCA.C17-GRID.EpU.06912 slayed Themself,CCA.C17-GRID.i5.94233
+L 11/06/2022 - 13:20:37: [ULX] CCA.C17-GRID.EpU.06912<STEAM_0:1:53097688> spawned ragdoll models/police_nemez.mdl
+L 11/06/2022 - 13:21:00: "Nums<15><STEAM_0:1:196547442><>" entered the game
+L 11/06/2022 - 13:21:00: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/06/2022 - 13:21:36: [ULX] CCA.C17-GRID.EpU.06912<STEAM_0:1:53097688> spawned model models/props_debris/barricade_tall01a.mdl
+L 11/06/2022 - 13:21:54: [ULX] CCA.C17-GRID.EpU.06912<STEAM_0:1:53097688> spawned model models/props_debris/concrete_column001a_chunk07.mdl
+L 11/06/2022 - 13:21:57: [ULX] CCA.C17-GRID.EpU.06912<STEAM_0:1:53097688> spawned model models/props_debris/barricade_tall03a.mdl
+L 11/06/2022 - 13:21:58: [ULX] Alex Palovichov to admins: Would I be able to like contact my higher ups about this?
+L 11/06/2022 - 13:22:00: [ULX] CCA.C17-GRID.EpU.06912<STEAM_0:1:53097688> spawned model models/props_debris/walldestroyed05a.mdl
+L 11/06/2022 - 13:22:06: [ULX] CCA.C17-GRID.EpU.06912<STEAM_0:1:53097688> spawned model models/props_debris/prison_wallchunk001a.mdl
+L 11/06/2022 - 13:22:09: [ULX] CCA.C17-GRID.EpU.06912<STEAM_0:1:53097688> spawned model models/props_debris/concrete_section128wall001c.mdl
+L 11/06/2022 - 13:22:15: [ULX] CCA.C17-GRID.EpU.06912<STEAM_0:1:53097688> spawned model models/props_debris/concrete_debris128pile001b.mdl
+L 11/06/2022 - 13:22:27: "Sigmund_Valkrich<16><STEAM_0:1:115897813><>" connected, address "86.7.0.55:27005"
+L 11/06/2022 - 13:22:27: "Sigmund_Valkrich<16><STEAM_0:1:115897813><>" STEAM USERID validated
+L 11/06/2022 - 13:23:07: [ULX] Ethan King<STEAM_0:1:17219621> used the tool item_item_crate on maps/rp_industrial17_v1.bsp
+L 11/06/2022 - 13:24:41: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned model models/combine_room/combine_monitor002.mdl
+L 11/06/2022 - 13:25:25: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned sent pfx4_05
+L 11/06/2022 - 13:25:27: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned sent pfx4_05~
+L 11/06/2022 - 13:25:35: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned sent pfx4_05~
+L 11/06/2022 - 13:27:05: Lua Error: [Helix] Attempt to index unknown item 'emptywatercan'
+
+L 11/06/2022 - 13:27:05: "Sigmund_Valkrich<16><STEAM_0:1:115897813><>" entered the game
+L 11/06/2022 - 13:27:06: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/06/2022 - 13:28:07: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned model models/props_debris/walldestroyed09g.mdl
+L 11/06/2022 - 13:28:14: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned model models/props_debris/barricade_tall03a.mdl
+L 11/06/2022 - 13:28:16: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned model models/props_debris/barricade_short02a.mdl
+L 11/06/2022 - 13:28:18: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned model models/props_debris/tile_walkway001b.mdl
+L 11/06/2022 - 13:28:20: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned model models/props_debris/plaster_floorpile001a.mdl
+L 11/06/2022 - 13:28:22: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned model models/props_debris/concrete_debris256pile001a.mdl
+L 11/06/2022 - 13:28:27: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned model models/props_debris/plaster_ceilingpile001a.mdl
+L 11/06/2022 - 13:28:33: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned model models/props_debris/plaster_ceilingpile001c.mdl
+L 11/06/2022 - 13:28:36: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned model models/props_debris/plaster_ceilingpile001c.mdl
+L 11/06/2022 - 13:28:53: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned model models/props_debris/plaster_floor003a.mdl
+L 11/06/2022 - 13:28:58: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned model models/props_debris/walldestroyed09g.mdl
+L 11/06/2022 - 13:29:01: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned model models/props_debris/walldestroyed09f.mdl
+L 11/06/2022 - 13:29:09: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned model models/props_debris/plaster_floorpile001a.mdl
+L 11/06/2022 - 13:29:11: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned model models/props_debris/concrete_debris128pile001b.mdl
+L 11/06/2022 - 13:29:15: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned model models/props_debris/concrete_cornerpile01a.mdl
+L 11/06/2022 - 13:29:19: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned model models/props_debris/concrete_spawnplug001a.mdl
+L 11/06/2022 - 13:29:21: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned model models/props_debris/concrete_spawnplug001a.mdl
+L 11/06/2022 - 13:29:25: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned model models/props_debris/concrete_column001a_chunk08.mdl
+L 11/06/2022 - 13:29:27: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned model models/props_debris/barricade_tall01a.mdl
+L 11/06/2022 - 13:29:28: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned model models/props_debris/barricade_tall01a.mdl
+L 11/06/2022 - 13:29:31: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned model models/props_debris/destroyedceiling01c.mdl
+L 11/06/2022 - 13:29:34: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned model models/props_debris/concrete_spawnchunk001i.mdl
+L 11/06/2022 - 13:29:35: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned model models/props_debris/walldestroyed05a.mdl
+L 11/06/2022 - 13:29:36: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned model models/props_debris/concrete_spawnchunk001i.mdl
+L 11/06/2022 - 13:29:42: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned model models/props_combine/tprotato2.mdl
+L 11/06/2022 - 13:29:43: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned model models/props_combine/tprotato1.mdl
+L 11/06/2022 - 13:29:44: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned model models/props_combine/tprotato1_chunk01.mdl
+L 11/06/2022 - 13:29:47: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned model models/props_combine/tprotato2_chunk05.mdl
+L 11/06/2022 - 13:29:48: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned model models/props_combine/tprotato2_chunk01.mdl
+L 11/06/2022 - 13:29:50: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned model models/props_combine/tprotato1_chunk03.mdl
+L 11/06/2022 - 13:29:51: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned model models/props_combine/tprotato1_chunk04.mdl
+L 11/06/2022 - 13:29:53: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned model models/props_combine/tprotato2.mdl
+L 11/06/2022 - 13:29:54: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned model models/props_combine/tprotato1_chunk05.mdl
+L 11/06/2022 - 13:30:10: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned model models/props_combine/combine_debris128pile001a.mdl
+L 11/06/2022 - 13:30:30: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned model models/props_combine/combine_explosivepanel_wall02a_shard01.mdl
+L 11/06/2022 - 13:30:32: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned model models/props_combine/combine_explosivepanel_wall01a_shard01.mdl
+L 11/06/2022 - 13:30:33: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned model models/props_combine/combine_citadelwall_destroyed01.mdl
+L 11/06/2022 - 13:30:41: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned model models/props_combine/combine_citadelwall_destroyed01.mdl
+L 11/06/2022 - 13:31:05: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned model models/props_combine/combine_citadelwall_destroyed02.mdl
+L 11/06/2022 - 13:31:09: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned model models/props_combine/combine_citadelwall_destroyed03.mdl
+L 11/06/2022 - 13:31:13: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned model models/props_combine/combine_explosivepanel_wall01a_shard01.mdl
+L 11/06/2022 - 13:31:15: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned model models/props_combine/combine_explosivepanel_shard02a.mdl
+L 11/06/2022 - 13:31:17: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned model models/props_combine/combine_explosivepanel_ceiling01a_shard01.mdl
+L 11/06/2022 - 13:31:18: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned model models/props_combine/combine_explosivepanel_ceiling02a.mdl
+L 11/06/2022 - 13:31:19: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned model models/props_combine/combine_explosivepanel_ceiling02a_shard01.mdl
+L 11/06/2022 - 13:31:21: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned model models/props_combine/combine_explosivepanel_cover03a.mdl
+L 11/06/2022 - 13:31:24: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned model models/props_combine/combineinnerwallcluster1024_001a.mdl
+L 11/06/2022 - 13:31:26: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_uidprinter.lua:149: attempt to index global 'cid' (a boolean value)
+  1. unknown - gamemodes/ixhl2rp/entities/entities/ix_uidprinter.lua:149
+
+
+L 11/06/2022 - 13:31:26: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_uidprinter.lua:149: attempt to index global 'cid' (a boolean value)
+  1. unknown - gamemodes/ixhl2rp/entities/entities/ix_uidprinter.lua:149
+
+
+L 11/06/2022 - 13:31:27: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_uidprinter.lua:149: attempt to index global 'cid' (a boolean value)
+  1. unknown - gamemodes/ixhl2rp/entities/entities/ix_uidprinter.lua:149
+
+
+L 11/06/2022 - 13:31:27: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_uidprinter.lua:149: attempt to index global 'cid' (a boolean value)
+  1. unknown - gamemodes/ixhl2rp/entities/entities/ix_uidprinter.lua:149
+
+
+L 11/06/2022 - 13:31:27: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_uidprinter.lua:149: attempt to index global 'cid' (a boolean value)
+  1. unknown - gamemodes/ixhl2rp/entities/entities/ix_uidprinter.lua:149
+
+
+L 11/06/2022 - 13:31:28: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_uidprinter.lua:149: attempt to index global 'cid' (a boolean value)
+  1. unknown - gamemodes/ixhl2rp/entities/entities/ix_uidprinter.lua:149
+
+
+L 11/06/2022 - 13:31:28: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/entities/entities/ix_uidprinter.lua:149: attempt to index global 'cid' (a boolean value)
+  1. unknown - gamemodes/ixhl2rp/entities/entities/ix_uidprinter.lua:149
+
+
+L 11/06/2022 - 13:31:30: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned model models/props_combine/combine_citadelwall_destroyed02.mdl
+L 11/06/2022 - 13:31:31: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned model models/props_combine/combine_citadelwall_destroyed01.mdl
+L 11/06/2022 - 13:31:36: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_combine/combine_citadelwall_destroyed01.mdl
+L 11/06/2022 - 13:31:49: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned model models/props_combine/combine_explosivepanel_shard01b.mdl
+L 11/06/2022 - 13:31:52: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned effect models/props_combine/corecontrolmonitor.mdl
+L 11/06/2022 - 13:31:54: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned model models/props_combine/combine_explosivepanel_wall01a_shard02.mdl
+L 11/06/2022 - 13:31:55: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned model models/props_combine/combine_explosivepanel_wall02a_shard02.mdl
+L 11/06/2022 - 13:31:57: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned effect models/props_combine/combine_citadelbeacon.mdl
+L 11/06/2022 - 13:31:58: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned model models/props_combine/combine_citadelwall_destroyed01.mdl
+L 11/06/2022 - 13:31:59: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned effect models/props_combine/combine_citadelsplode001a.mdl
+L 11/06/2022 - 13:32:01: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned model models/props_combine/combine_core_arm01.mdl
+L 11/06/2022 - 13:32:03: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned model models/props_combine/combine_explosivepanel_floor01a.mdl
+L 11/06/2022 - 13:32:05: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned model models/props_combine/combine_explosivepanel_floor02a.mdl
+L 11/06/2022 - 13:32:07: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned model models/props_combine/combine_explosivepanel_shard03a.mdl
+L 11/06/2022 - 13:32:08: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned model models/props_combine/combine_explosivepanel_shard03a.mdl
+L 11/06/2022 - 13:32:33: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned model models/props_combine/combine_bridge_b01.mdl
+L 11/06/2022 - 13:33:50: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/bird/sh_hooks.lua:42: stack overflow
+  1. v - gamemodes/ixhl2rp/plugins/bird/sh_hooks.lua:42
+   2. Run - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+    3. Send - gamemodes/helix/gamemode/core/libs/sh_chatbox.lua:311
+     4. v - gamemodes/ixhl2rp/plugins/bird/sh_hooks.lua:53
+      5. Run - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+       6. Send - gamemodes/helix/gamemode/core/libs/sh_chatbox.lua:311
+        7. v - gamemodes/ixhl2rp/plugins/bird/sh_hooks.lua:53
+         8. Run - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+          9. Send - gamemodes/helix/gamemode/core/libs/sh_chatbox.lua:311
+           10. v - gamemodes/ixhl2rp/plugins/bird/sh_hooks.lua:53
+            11. Run - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+             12. Send - gamemodes/helix/gamemode/core/libs/sh_chatbox.lua:311
+              13. v - gamemodes/ixhl2rp/plugins/bird/sh_hooks.lua:53
+               14. Run - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+                15. Send - gameL 11/06/2022 - 13:35:34: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/bird/sh_hooks.lua:42: stack overflow
+  1. v - gamemodes/ixhl2rp/plugins/bird/sh_hooks.lua:42
+   2. Run - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+    3. Send - gamemodes/helix/gamemode/core/libs/sh_chatbox.lua:311
+     4. v - gamemodes/ixhl2rp/plugins/bird/sh_hooks.lua:53
+      5. Run - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+       6. Send - gamemodes/helix/gamemode/core/libs/sh_chatbox.lua:311
+        7. v - gamemodes/ixhl2rp/plugins/bird/sh_hooks.lua:53
+         8. Run - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+          9. Send - gamemodes/helix/gamemode/core/libs/sh_chatbox.lua:311
+           10. v - gamemodes/ixhl2rp/plugins/bird/sh_hooks.lua:53
+            11. Run - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+             12. Send - gamemodes/helix/gamemode/core/libs/sh_chatbox.lua:311
+              13. v - gamemodes/ixhl2rp/plugins/bird/sh_hooks.lua:53
+               14. Run - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+                15. Send - gameL 11/06/2022 - 13:37:02: [ULX] Johnathan Whittmore to admins: alright alex you're ognna be giving trhe orders here
+L 11/06/2022 - 13:37:35: [ULX] Johnathan Whittmore to admins: everyone report to the door to shell becah
+L 11/06/2022 - 13:37:49: [ULX] Johnathan Whittmore to admins: give that order over /broadcast
+L 11/06/2022 - 13:38:26: [ULX] Johnathan Whittmore<STEAM_0:1:53097688> spawned model models/props_combine/combine_barricade_med01a.mdl
+L 11/06/2022 - 13:38:29: [ULX] Johnathan Whittmore<STEAM_0:1:53097688> spawned model models/props_combine/combine_barricade_med02a.mdl
+L 11/06/2022 - 13:38:31: [ULX] Johnathan Whittmore<STEAM_0:1:53097688> spawned model models/props_combine/combine_barricade_med03b.mdl
+L 11/06/2022 - 13:38:33: [ULX] Johnathan Whittmore<STEAM_0:1:53097688> spawned model models/props_combine/combine_binocular01.mdl
+L 11/06/2022 - 13:38:34: [ULX] Johnathan Whittmore<STEAM_0:1:53097688> spawned model models/props_combine/combine_barricade_med02a.mdl
+L 11/06/2022 - 13:38:37: [ULX] Johnathan Whittmore<STEAM_0:1:53097688> spawned model models/props_combine/combine_barricade_med02b.mdl
+L 11/06/2022 - 13:38:38: [ULX] Alex Palovichov to admins: Citizens only or EVERYONE
+L 11/06/2022 - 13:38:44: [ULX] Johnathan Whittmore to admins: at first, conscriupts and CPs
+L 11/06/2022 - 13:38:46: [ULX] Johnathan Whittmore<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_combine/combine_barricade_med02b.mdl
+L 11/06/2022 - 13:38:51: [ULX] Alex Palovichov to admins: Then residents?
+L 11/06/2022 - 13:38:56: [ULX] Johnathan Whittmore to admins: yes but don't give that order yet
+L 11/06/2022 - 13:39:04: [ULX] Johnathan Whittmore<STEAM_0:1:53097688> used the tool stacker_improved on models/props_combine/combine_barricade_med02b.mdl
+L 11/06/2022 - 13:39:04: [ULX] Johnathan Whittmore<STEAM_0:1:53097688> spawned model models/props_combine/combine_barricade_med02b.mdl
+L 11/06/2022 - 13:39:05: [ULX] Alex Palovichov to admins: for CPs and Conscripts?
+L 11/06/2022 - 13:39:08: [ULX] Johnathan Whittmore<STEAM_0:1:53097688> used the tool stacker_improved on maps/rp_industrial17_v1.bsp
+L 11/06/2022 - 13:39:14: [ULX] Johnathan Whittmore to admins: don't give the order for residents to go
+L 11/06/2022 - 13:39:22: [ULX] Johnathan Whittmore to admins: just order CPs and conscripts over /broadcast to report to the door to shlel beach
+L 11/06/2022 - 13:39:23: [ULX] Alex Palovichov to admins: Alrighty but yes for CPs and conscripts
+L 11/06/2022 - 13:39:28: [ULX] Alex Palovichov to admins: Gotcha
+L 11/06/2022 - 13:39:29: [ULX] Johnathan Whittmore<STEAM_0:1:53097688> used the tool stacker_improved on models/props_combine/combine_barricade_med02b.mdl
+L 11/06/2022 - 13:39:29: [ULX] Johnathan Whittmore<STEAM_0:1:53097688> spawned model models/props_combine/combine_barricade_med02b.mdl
+L 11/06/2022 - 13:39:29: [ULX] Johnathan Whittmore<STEAM_0:1:53097688> used the tool stacker_improved on models/props_combine/combine_barricade_med02b.mdl
+L 11/06/2022 - 13:39:29: [ULX] Johnathan Whittmore<STEAM_0:1:53097688> spawned model models/props_combine/combine_barricade_med02b.mdl
+L 11/06/2022 - 13:39:43: [ULX] Johnathan Whittmore<STEAM_0:1:53097688> spawned vehicle models/ctvehicles/hla/prisoner_transport.mdl
+L 11/06/2022 - 13:39:47: [ULX] Johnathan Whittmore<STEAM_0:1:53097688> spawned vehicle models/ctvehicles/hla/prisoner_transport.mdl
+L 11/06/2022 - 13:39:55: [ULX] Johnathan Whittmore<STEAM_0:1:53097688> spawned vehicle models/ctvehicles/hla/prisoner_transport.mdl
+L 11/06/2022 - 13:40:03: [ULX] Johnathan Whittmore<STEAM_0:1:53097688> spawned vehicle models/props_vehicles/apc001.mdl
+L 11/06/2022 - 13:40:05: [ULX] Johnathan Whittmore<STEAM_0:1:53097688> spawned vehicle models/props_vehicles/apc001.mdl
+L 11/06/2022 - 13:41:39: [ULX] Alex Palovichov to admins: What about myself? Do I go after residents?
+L 11/06/2022 - 13:41:49: [ULX] CPT Nathan Vance to admins: yeah you'll go after the residents. you're last man out
+L 11/06/2022 - 13:41:50: "Bay$tateGoon<17><STEAM_0:0:83473595><>" connected, address "130.44.101.40:27005"
+L 11/06/2022 - 13:41:50: "Bay$tateGoon<17><STEAM_0:0:83473595><>" STEAM USERID validated
+L 11/06/2022 - 13:41:55: Lua Error: 
+[ulib] gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212: table index is nil
+  1. GetBaseDT - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212
+   2. CalcDamage - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:300
+    3. fn - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:26
+     4. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+      5. TakeDamageInfo - [C]:-1
+       6. unknown - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:235
+
+
+L 11/06/2022 - 13:41:56: Lua Error: 
+[ulib] gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212: table index is nil
+  1. GetBaseDT - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212
+   2. CalcDamage - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:300
+    3. fn - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:26
+     4. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+      5. TakeDamageInfo - [C]:-1
+       6. unknown - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:235
+
+
+L 11/06/2022 - 13:42:05: [ULX] Alex Palovichov to admins: Alrighty!
+L 11/06/2022 - 13:42:44: Lua Error: 
+[ulib] gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212: table index is nil
+  1. GetBaseDT - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212
+   2. CalcDamage - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:300
+    3. fn - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:26
+     4. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+      5. TakeDamageInfo - [C]:-1
+       6. unknown - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:235
+
+
+L 11/06/2022 - 13:42:56: [ULX] Alex Palovichov to admins: Lynch is afk btw
+L 11/06/2022 - 13:43:35: "hendsonct<18><STEAM_0:0:533407499><>" connected, address "208.104.45.252:50516"
+L 11/06/2022 - 13:43:36: "hendsonct<18><STEAM_0:0:533407499><>" STEAM USERID validated
+L 11/06/2022 - 13:44:03: [ULX] Alex Palovichov to admins: dude is afk
+L 11/06/2022 - 13:44:06: [ULX] CPT Nathan Vance to admins: FUCK
+L 11/06/2022 - 13:44:12: [ULX] CPT Nathan Vance to admins: can you please hit the shell beach agte open
+L 11/06/2022 - 13:46:04: [ULX] CPT Nathan Vance to admins: alright give the word to let the citizens over
+L 11/06/2022 - 13:47:10: [ULX] Alex Palovichov to admins: Can I come now?
+L 11/06/2022 - 13:47:14: [ULX] CPT Nathan Vance to admins: yeah
+L 11/06/2022 - 13:48:23: [ULX] CPT Nathan Vance to admins: Pierce, where are you?
+L 11/06/2022 - 13:48:29: [ULX] CPT Nathan Vance to admins: wrong chat
+L 11/06/2022 - 13:49:41: "Bay$tateGoon<17><STEAM_0:0:83473595><>" entered the game
+L 11/06/2022 - 13:49:41: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/06/2022 - 13:50:46: [ULX] Alex Palovichov to admins: OMG HE IS SPEAKING WITH THE REBELS
+L 11/06/2022 - 13:52:04: [ULX] CPT Nathan Vance changed the map to rp_stateline_011c
+L 11/06/2022 - 13:52:05: Log file closed.

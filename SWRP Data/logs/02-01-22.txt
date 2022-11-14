@@ -1,0 +1,898 @@
+[11:35:55]	matt saton has connected.
+[11:45:22]	matt saton loaded the character 'Darth Hexus'
+[11:45:51]	Darth Hexus used command '/CharSetModel hexus models/epangelmatikes/templeguard/temple_guard_opt.mdl'.
+[11:46:14]	Darth Hexus used command '/ToggleRaise'.
+[11:46:19]	Darth Hexus used command '/ToggleRaise'.
+[11:46:52]	Darth Hexus entered observer.
+[11:47:01]	Darth Hexus exited observer at their location.
+[11:47:02]	Darth Hexus entered observer.
+[11:47:02]	Darth Hexus exited observer at their location.
+[11:48:31]	Darth Hexus has spawned 'models/props_wasteland/controlroom_desk001a.mdl'.
+[11:49:15]	Darth Hexus has spawned 'models/kingpommes/starwars/misc/palp_panel1.mdl'.
+[11:49:18]	Darth Hexus has spawned 'models/kingpommes/starwars/misc/palp_lamp.mdl'.
+[11:49:24]	Darth Hexus has spawned 'models/kingpommes/starwars/deathstar/wallpanel11.mdl'.
+[11:49:27]	Darth Hexus has spawned 'models/kingpommes/starwars/deathstar/powercell2b.mdl'.
+[11:49:32]	Darth Hexus has spawned 'models/kingpommes/starwars/misc/droids/head_r4.mdl'.
+[11:49:46]	Darth Hexus has spawned 'models/kingpommes/starwars/misc/droids/wed_15.mdl'.
+[11:49:50]	Darth Hexus has spawned 'models/kingpommes/starwars/playermodels/wed.mdl'.
+[11:49:58]	Darth Hexus has spawned 'models/kingpommes/starwars/misc/droids/leg_side.mdl'.
+[11:50:13]	Darth Hexus has spawned 'models/kingpommes/starwars/misc/droids/head_r2.mdl'.
+[11:51:40]	Darth Hexus has gained a 'Fusion Cutter' #2731.
+[11:51:40]	Darth Hexus used command '/CreateCustomItem Fusion Cutter models/props/starwars/weapons/fusion_cutter.mdl A handheld object, meant for welding and cutting things using extremely high temperatures.'.
+[11:51:44]	Darth Hexus ran 'drop' on item 'Fusion Cutter' (#2731)
+[11:51:44]	Darth Hexus has lost a 'Fusion Cutter' #2731.
+[11:52:49]	Darth Hexus has spawned 'models/props/starwars/furniture/dejarik_mantellian.mdl'.
+[11:52:51]	Darth Hexus entered observer.
+[11:52:54]	Darth Hexus exited observer at their location.
+[11:53:04]	Darth Hexus has spawned 'models/props/starwars/weapons/detpack.mdl'.
+[11:53:07]	Darth Hexus has spawned 'models/props/starwars/weapons/beamturret.mdl'.
+[11:53:08]	Darth Hexus has spawned 'models/props/starwars/weapons/rep_launcher.mdl'.
+[11:53:10]	Darth Hexus has spawned 'models/props/starwars/weapons/repairkit.mdl'.
+[11:53:34]	Darth Hexus has gained a 'Toolbox' #2732.
+[11:53:34]	Darth Hexus used command '/CreateCustomItem Toolbox models/props/starwars/weapons/repairkit.mdl A black box of tools with an image of a wrench on its front.'.
+[11:53:38]	Darth Hexus has spawned 'models/props/starwars/weapons/repairkit.mdl'.
+[11:53:46]	Darth Hexus ran 'drop' on item 'Toolbox' (#2732)
+[11:53:46]	Darth Hexus has lost a 'Toolbox' #2732.
+[11:54:25]	Darth Hexus has spawned 'models/gibs/scanner_gib01.mdl'.
+[11:54:27]	Darth Hexus has spawned 'models/gibs/scanner_gib04.mdl'.
+[11:54:33]	Darth Hexus has spawned 'models/gibs/scanner_gib04.mdl'.
+[11:54:38]	Darth Hexus has spawned 'models/gibs/scanner_gib02.mdl'.
+[11:54:51]	Darth Hexus entered observer.
+[11:55:21]	Darth Hexus exited observer at their location.
+[11:56:26]	Darth Hexus has spawned 'models/gibs/metal_gib5.mdl'.
+[11:56:27]	Darth Hexus has spawned 'models/gibs/metal_gib5.mdl'.
+[11:56:34]	Darth Hexus has spawned 'models/gibs/metal_gib2.mdl'.
+[11:56:54]	Darth Hexus entered observer.
+[11:57:19]	Darth Hexus exited observer at their location.
+[11:57:37]	Darth Hexus has spawned 'models/lordtrilobite/starwars/props/barrel_scarif1_phys.mdl'.
+[11:58:00]	Darth Hexus has spawned 'models/elitelukas/imp/button_ds.mdl'.
+[11:58:04]	Darth Hexus entered observer.
+[11:58:05]	Darth Hexus exited observer at their location.
+[11:58:09]	Darth Hexus has spawned 'models/elitelukas/imp/sith_holocron.mdl'.
+[11:58:15]	Darth Hexus has spawned 'models/misc/floor_smoke.mdl'.
+[11:58:16]	Darth Hexus has spawned 'models/misc/imp_bank.mdl'.
+[11:58:17]	Darth Hexus entered observer.
+[11:58:21]	Darth Hexus exited observer at their location.
+[11:58:22]	Darth Hexus has spawned 'models/misc/imp_table.mdl'.
+[11:58:22]	Darth Hexus entered observer.
+[11:58:23]	Darth Hexus exited observer at their location.
+[11:58:27]	Darth Hexus has spawned 'models/elitelukas/imp/consoles_v2.mdl'.
+[11:58:28]	Darth Hexus entered observer.
+[11:58:29]	Darth Hexus exited observer at their location.
+[11:58:38]	Darth Hexus has spawned 'models/props/starwars/vehicles/bd_dispenser.mdl'.
+[11:59:21]	Darth Hexus has spawned 'models/elitelukas/imp/generator_pipe.mdl'.
+[11:59:28]	Darth Hexus has spawned 'models/elitelukas/vehicles/ebo/ebo_p13.mdl'.
+[11:59:28]	Darth Hexus has taken 100 damage from prop_physics.
+[11:59:28]	prop_physics has killed Darth Hexus.
+[11:59:35]	Darth Hexus entered observer.
+[11:59:39]	Darth Hexus exited observer at their location.
+[11:59:54]	Darth Hexus has spawned 'models/elitelukas/imp/camera_ds.mdl'.
+[11:59:58]	Darth Hexus has spawned 'models/elitelukas/vehicles/ebo/ebo_p13.mdl'.
+[11:59:59]	Darth Hexus has spawned 'models/misc/bar_chair.mdl'.
+[12:00:05]	Darth Hexus has spawned 'models/misc/imp_table_edge.mdl'.
+[12:00:05]	Darth Hexus entered observer.
+[12:00:07]	Darth Hexus exited observer at their location.
+[12:00:09]	Darth Hexus has spawned 'models/elitelukas/imp/128x_wall.mdl'.
+[12:00:10]	Darth Hexus entered observer.
+[12:00:14]	Darth Hexus exited observer at their location.
+[12:00:18]	Darth Hexus has spawned 'models/props/starwars/furniture/kashyyyk_barricade2.mdl'.
+[12:00:18]	Darth Hexus entered observer.
+[12:00:22]	Darth Hexus exited observer at their location.
+[12:00:23]	Darth Hexus entered observer.
+[12:00:28]	Darth Hexus has spawned 'models/props/starwars/vehicles/atte_crash.mdl'.
+[12:00:34]	Darth Hexus exited observer at their location.
+[12:00:36]	Darth Hexus has spawned 'models/props/starwars/furniture/flag.mdl'.
+[12:00:37]	Darth Hexus entered observer.
+[12:00:37]	Darth Hexus exited observer at their location.
+[12:00:47]	Darth Hexus entered observer.
+[12:00:57]	Darth Hexus exited observer at their location.
+[12:00:58]	Darth Hexus has spawned 'models/props/starwars/furniture/flag.mdl'.
+[12:01:02]	Darth Hexus entered observer.
+[12:01:27]	Darth Hexus exited observer at their location.
+[12:01:32]	Darth Hexus has spawned 'models/props/starwars/tech/hoth_shield.mdl'.
+[12:01:33]	Darth Hexus entered observer.
+[12:01:38]	Darth Hexus has spawned 'models/props/starwars/vehicles/sbd_dispenser.mdl'.
+[12:02:34]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/coruscant/cor_sign_market_05.mdl'.
+[12:02:35]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/coruscant/cor_sign_blacksun_06.mdl'.
+[12:02:43]	Darth Hexus exited observer at their location.
+[12:02:56]	Darth Hexus entered observer.
+[12:03:02]	Darth Hexus exited observer at their location.
+[12:03:13]	Darth Hexus has spawned 'models/starwars/syphadias/ships/sw_tor/bioware_ea/vehicles/longspur/longspur.mdl'.
+[12:03:15]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/voss/voss_ancient_tomb_statue.mdl'.
+[12:03:17]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/vendor/vendor_weapon_stall_wo_flag.mdl'.
+[12:03:17]	Darth Hexus entered observer.
+[12:03:20]	Darth Hexus exited observer at their location.
+[12:03:21]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/vendor/vendor_general_stall_w_flag.mdl'.
+[12:03:23]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/sith/sith_banner_stand.mdl'.
+[12:03:28]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/sith/sith_banner_huge.mdl'.
+[12:03:29]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/sith/sith_banner_large.mdl'.
+[12:03:33]	Darth Hexus entered observer.
+[12:03:37]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/city/city_seating_in_out_02.mdl'.
+[12:03:41]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/city/city_wall_tech_02_mirror.mdl'.
+[12:03:43]	Darth Hexus exited observer at their location.
+[12:03:44]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/nar_shadda/nar_building_vent.mdl'.
+[12:03:45]	Darth Hexus entered observer.
+[12:03:49]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/sith/sith_tomb_statue_01.mdl'.
+[12:03:54]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/sith/sith_interior_statue.mdl'.
+[12:04:01]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/vendor/vendor_general_stall_wo_flag.mdl'.
+[12:04:04]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/vendor/vendor_general_stall_w_flag.mdl'.
+[12:04:09]	Darth Hexus exited observer at their location.
+[12:04:28]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/planets/coruscant/cor_skyscene.mdl'.
+[12:04:30]	Darth Hexus entered observer.
+[12:04:31]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/planets/coruscant/cor_skyscene.mdl'.
+[12:04:42]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/planets/coruscant/cor_skyscene.mdl'.
+[12:05:25]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/city/city_rug.mdl'.
+[12:05:28]	Darth Hexus exited observer at their location.
+[12:05:28]	Darth Hexus entered observer.
+[12:05:29]	Darth Hexus exited observer at their location.
+[12:05:29]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/city/city_rug.mdl'.
+[12:05:31]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/city/city_poster_06.mdl'.
+[12:05:33]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/city/city_poster_03.mdl'.
+[12:05:34]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/city/city_wall_tech_02_mirror.mdl'.
+[12:05:42]	Darth Hexus entered observer.
+[12:05:43]	Darth Hexus exited observer at their location.
+[12:05:49]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/coruscant/cor_works_light_02.mdl'.
+[12:05:54]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/nar_shadda/nar_starforge_fragment_base.mdl'.
+[12:05:55]	Darth Hexus entered observer.
+[12:05:56]	Darth Hexus exited observer at their location.
+[12:06:05]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/republic/rep_training_bay.mdl'.
+[12:06:06]	Darth Hexus entered observer.
+[12:06:10]	Darth Hexus exited observer at their location.
+[12:06:11]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/sith/sith_brazier_quad_chain.mdl'.
+[12:06:18]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/vendor/vendor_weapon_stall_flag.mdl'.
+[12:06:20]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/vendor/vendor_guild_bank.mdl'.
+[12:06:27]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/vendor/vendor_general_stall_flag.mdl'.
+[12:06:31]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/vendor/vendor_weapon_stall_flag.mdl'.
+[12:06:36]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/vendor/vendor_weapon_stall_w_flag.mdl'.
+[12:06:45]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/planets/nar_shadda/nar_skyscene.mdl'.
+[12:06:47]	Darth Hexus entered observer.
+[12:06:53]	Darth Hexus exited observer at their location.
+[12:06:54]	Darth Hexus has taken 19 damage from worldspawn.
+[12:06:56]	Darth Hexus entered observer.
+[12:06:59]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/city/city_seating_in_out_01.mdl'.
+[12:07:02]	Darth Hexus exited observer at their location.
+[12:07:48]	Darth Hexus has spawned 'models\props/cs_office/Ladder1.mdl'.
+[12:24:52]	Darth Hexus entered observer.
+[12:25:01]	Darth Hexus exited observer at their location.
+[12:25:02]	Darth Hexus entered observer.
+[12:25:04]	Darth Hexus exited observer at their location.
+[12:25:05]	Darth Hexus entered observer.
+[12:25:13]	Darth Hexus exited observer at their location.
+[12:26:06]	Darth Hexus has spawned 'models/npc_hcn/starwars/bf/dressellian/dressellian.mdl'.
+[12:26:08]	Darth Hexus entered observer.
+[12:28:19]	Darth Hexus exited observer at their location.
+[12:28:54]	Darth Hexus entered observer.
+[12:28:55]	Darth Hexus exited observer at their location.
+[12:29:19]	Darth Hexus has spawned 'models/props_c17/FurnitureBed001a.mdl'.
+[12:29:23]	Darth Hexus has spawned 'models/props_c17/FurnitureMattress001a.mdl'.
+[12:30:44]	Darth Hexus has spawned 'models/props_c17/FurnitureBed001a.mdl'.
+[12:30:45]	Darth Hexus has spawned 'models/props_c17/FurnitureMattress001a.mdl'.
+[12:32:22]	Darth Hexus has spawned 'models/props/starwars/furniture/flag.mdl'.
+[12:32:23]	Darth Hexus has spawned 'models/props/starwars/medical/bacta_dispenser.mdl'.
+[12:32:26]	Darth Hexus has spawned 'models/props/starwars/weapons/hoth_turret.mdl'.
+[12:32:27]	Darth Hexus has spawned 'models/props/starwars/weapons/wookie_rocket.mdl'.
+[12:32:43]	Darth Hexus has spawned 'models/props/starwars/weapons/seismic_charge.mdl'.
+[12:32:45]	Darth Hexus has spawned 'models/props/starwars/tech/yavin_watchtower.mdl'.
+[12:32:47]	Darth Hexus entered observer.
+[12:32:49]	Darth Hexus has spawned 'models/props/starwars/tech/tat_prop_evaporator.mdl'.
+[12:32:52]	Darth Hexus exited observer at their location.
+[12:32:52]	Darth Hexus entered observer.
+[12:32:53]	Darth Hexus exited observer at their location.
+[12:33:02]	Darth Hexus entered observer.
+[12:33:06]	Darth Hexus exited observer at their location.
+[12:33:39]	Darth Hexus has spawned 'models/props/starwars/weapons/ap_mine.mdl'.
+[12:33:45]	Darth Hexus has spawned 'models/props/starwars/tech/machine.mdl'.
+[12:33:50]	Darth Hexus entered observer.
+[12:33:52]	Darth Hexus exited observer at their location.
+[12:33:56]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/items/harvesting/misc/tablet_small.mdl'.
+[12:34:01]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/nar_shadda/nar_building_vent.mdl'.
+[12:34:04]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/imperial/imp_guardhouse.mdl'.
+[12:34:05]	Darth Hexus entered observer.
+[12:34:07]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/imperial/imp_guardhouse.mdl'.
+[12:34:14]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/nar_shadda/nar_signage_01_13.mdl'.
+[12:34:19]	Darth Hexus exited observer at their location.
+[12:34:21]	Darth Hexus entered observer.
+[12:34:22]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/imperial/imp_table.mdl'.
+[12:34:28]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/ruins/ruins_giant_statue.mdl'.
+[12:34:30]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/neutral/neu_chem_tank.mdl'.
+[12:34:31]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/republic/rep_tent_medium.mdl'.
+[12:34:33]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/neutral/neu_city_panel.mdl'.
+[12:34:43]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/neutral/neu_bantha_shelter_trough.mdl'.
+[12:34:46]	Darth Hexus exited observer at their location.
+[12:34:48]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/republic/rep_atv_closed.mdl'.
+[12:34:49]	Darth Hexus entered observer.
+[12:35:01]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/neutral/neu_bantha_shelter_trough.mdl'.
+[12:35:25]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/nar_shadda/buildings/nar_building_05_skybox.mdl'.
+[12:35:29]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/nar_shadda/nar_starforge_fragment.mdl'.
+[12:36:14]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/nar_shadda/nar_starforge_fragment_base.mdl'.
+[12:36:17]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/nar_shadda/nar_starforge_fragment.mdl'.
+[12:36:24]	Darth Hexus exited observer at their location.
+[12:36:36]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/nar_shadda/nar_signage_red_martini.mdl'.
+[12:36:40]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/nar_shadda/nar_signage_red_martini.mdl'.
+[12:36:41]	Darth Hexus entered observer.
+[12:36:44]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/neutral/neu_city_panel.mdl'.
+[12:36:45]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/neutral/neu_chem_tank.mdl'.
+[12:36:48]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/neutral/neu_bunker_denova.mdl'.
+[12:37:03]	Darth Hexus exited observer at their location.
+[12:37:04]	Darth Hexus entered observer.
+[12:37:04]	Darth Hexus exited observer at their location.
+[12:37:09]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/items/harvesting/slicing/slicing_footlocker_screen.mdl'.
+[12:37:15]	Darth Hexus entered observer.
+[12:37:16]	Darth Hexus has spawned 'models/hunter/blocks/cube1x2x025.mdl'.
+[12:37:39]	Darth Hexus has spawned 'models/hunter/blocks/cube1x2x025.mdl'.
+[12:38:15]	Darth Hexus exited observer at their location.
+[12:39:21]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/items/harvesting/slicing/slicing_footlocker_screen.mdl'.
+[12:39:21]	Darth Hexus has spawned 'models/hunter/blocks/cube1x2x025.mdl'.
+[12:39:21]	Darth Hexus has spawned 'models/hunter/blocks/cube1x2x025.mdl'.
+[12:39:22]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/items/harvesting/slicing/slicing_footlocker_screen.mdl'.
+[12:39:22]	Darth Hexus has spawned 'models/hunter/blocks/cube1x2x025.mdl'.
+[12:39:22]	Darth Hexus has spawned 'models/hunter/blocks/cube1x2x025.mdl'.
+[12:39:23]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/items/harvesting/slicing/slicing_footlocker_screen.mdl'.
+[12:39:23]	Darth Hexus has spawned 'models/hunter/blocks/cube1x2x025.mdl'.
+[12:39:23]	Darth Hexus has spawned 'models/hunter/blocks/cube1x2x025.mdl'.
+[12:39:27]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/items/harvesting/slicing/slicing_footlocker_screen.mdl'.
+[12:39:27]	Darth Hexus has spawned 'models/hunter/blocks/cube1x2x025.mdl'.
+[12:39:27]	Darth Hexus has spawned 'models/hunter/blocks/cube1x2x025.mdl'.
+[12:39:31]	Darth Hexus entered observer.
+[12:39:32]	Darth Hexus exited observer at their location.
+[12:39:47]	Darth Hexus has spawned 'models/hunter/blocks/cube1x2x025.mdl'.
+[12:39:47]	Darth Hexus has spawned 'models/hunter/blocks/cube1x2x025.mdl'.
+[12:39:47]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/items/harvesting/slicing/slicing_footlocker_screen.mdl'.
+[12:39:48]	Darth Hexus has spawned 'models/hunter/blocks/cube1x2x025.mdl'.
+[12:39:48]	Darth Hexus has spawned 'models/hunter/blocks/cube1x2x025.mdl'.
+[12:39:48]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/items/harvesting/slicing/slicing_footlocker_screen.mdl'.
+[12:40:09]	Darth Hexus has spawned 'models/props_c17/FurnitureTable001a.mdl'.
+[12:40:14]	Darth Hexus has spawned 'models/props_c17/FurnitureChair001a.mdl'.
+[12:40:25]	Darth Hexus has spawned 'models/props_c17/FurnitureBoiler001a.mdl'.
+[12:40:26]	Darth Hexus has spawned 'models/props_c17/FurnitureCouch001a.mdl'.
+[12:40:27]	Darth Hexus has spawned 'models/props_c17/FurnitureChair001a.mdl'.
+[12:40:33]	Darth Hexus entered observer.
+[12:40:35]	Darth Hexus exited observer at their location.
+[12:41:00]	Darth Hexus has spawned 'models/props_c17/FurnitureFridge001a.mdl'.
+[12:41:09]	Darth Hexus has spawned 'models/props_wasteland/kitchen_stove002a.mdl'.
+[12:41:10]	Darth Hexus has spawned 'models/props_wasteland/kitchen_stove001a.mdl'.
+[12:41:16]	Darth Hexus has spawned 'models/props_wasteland/kitchen_stove002a.mdl'.
+[12:41:23]	Darth Hexus has spawned 'models/props_wasteland/cafeteria_table001a.mdl'.
+[12:41:24]	Darth Hexus has spawned 'models/props_wasteland/controlroom_desk001a.mdl'.
+[12:41:28]	Darth Hexus has spawned 'models/props_wasteland/cafeteria_table001a.mdl'.
+[12:41:40]	Darth Hexus entered observer.
+[12:41:41]	Darth Hexus has spawned 'models/hunter/blocks/cube1x6x025.mdl'.
+[12:41:46]	Darth Hexus has spawned 'models/hunter/blocks/cube2x8x025.mdl'.
+[12:41:49]	Darth Hexus has spawned 'models/hunter/blocks/cube1x6x025.mdl'.
+[12:41:50]	Darth Hexus has spawned 'models/hunter/blocks/cube1x5x025.mdl'.
+[12:41:53]	Darth Hexus has spawned 'models/hunter/blocks/cube1x4x025.mdl'.
+[12:41:55]	Darth Hexus has spawned 'models/hunter/blocks/cube1x4x025.mdl'.
+[12:42:01]	Darth Hexus has spawned 'models/hunter/blocks/cube1x6x025.mdl'.
+[12:42:02]	Darth Hexus has spawned 'models/hunter/blocks/cube1x5x025.mdl'.
+[12:42:04]	Darth Hexus has spawned 'models/hunter/blocks/cube1x4x025.mdl'.
+[12:42:06]	Darth Hexus has spawned 'models/hunter/blocks/cube1x4x05.mdl'.
+[12:42:08]	Darth Hexus has spawned 'models/hunter/blocks/cube1x5x025.mdl'.
+[12:42:22]	Darth Hexus exited observer at their location.
+[12:42:26]	Darth Hexus has spawned 'models/hunter/blocks/cube1x4x025.mdl'.
+[12:42:33]	Darth Hexus has spawned 'models/hunter/blocks/cube1x5x025.mdl'.
+[12:42:34]	Darth Hexus has spawned 'models/hunter/blocks/cube1x4x025.mdl'.
+[12:43:13]	Darth Hexus has spawned 'models/hunter/blocks/cube1x5x025.mdl'.
+[12:43:15]	Darth Hexus has spawned 'models/hunter/blocks/cube1x4x025.mdl'.
+[12:43:19]	Darth Hexus entered observer.
+[12:43:33]	Darth Hexus exited observer at their location.
+[12:45:16]	Darth Hexus entered observer.
+[12:45:19]	Darth Hexus exited observer at their location.
+[12:45:43]	Darth Hexus has spawned 'models/props_wasteland/kitchen_fridge001a.mdl'.
+[12:45:47]	Darth Hexus has spawned 'models/props_c17/FurnitureFridge001a.mdl'.
+[12:46:40]	Darth Hexus has spawned 'models/props_c17/FurnitureFridge001a.mdl'.
+[12:46:53]	Darth Hexus entered observer.
+[12:46:55]	Darth Hexus exited observer at their location.
+[12:47:07]	Darth Hexus entered observer.
+[12:47:09]	Darth Hexus exited observer at their location.
+[12:47:09]	Darth Hexus entered observer.
+[12:47:10]	Darth Hexus exited observer at their location.
+[12:47:17]	Darth Hexus has spawned 'models/props_interiors/SinkKitchen01a.mdl'.
+[12:47:38]	Darth Hexus has spawned 'models/props_c17/fountain_01.mdl'.
+[12:47:38]	Darth Hexus entered observer.
+[12:47:59]	Darth Hexus has spawned 'models/props_interiors/SinkKitchen01a.mdl'.
+[12:48:02]	Darth Hexus exited observer at their location.
+[12:48:25]	Darth Hexus entered observer.
+[12:49:06]	Darth Hexus exited observer at their location.
+[12:49:23]	Darth Hexus entered observer.
+[12:49:27]	Darth Hexus exited observer at their location.
+[12:49:29]	Darth Hexus has spawned 'models/props_c17/FurnitureDresser001a.mdl'.
+[12:50:11]	Darth Hexus has spawned 'models/kingpommes/starwars/misc/palp_lamp.mdl'.
+[12:50:23]	Darth Hexus has spawned 'models/kingpommes/starwars/misc/imp_crate_double_wall.mdl'.
+[12:50:30]	Darth Hexus has spawned 'models/kingpommes/starwars/misc/crew_bed.mdl'.
+[12:50:30]	Darth Hexus entered observer.
+[12:50:33]	Darth Hexus exited observer at their location.
+[12:50:33]	Darth Hexus entered observer.
+[12:50:35]	Darth Hexus has spawned 'models/kingpommes/starwars/misc/crew_bedb.mdl'.
+[12:50:37]	Darth Hexus exited observer at their location.
+[12:50:40]	Darth Hexus has spawned 'models/kingpommes/starwars/misc/crew_bed.mdl'.
+[12:50:56]	Darth Hexus entered observer.
+[12:51:04]	Darth Hexus has spawned 'models/hunter/blocks/cube1x2x025.mdl'.
+[12:51:05]	Darth Hexus exited observer at their location.
+[12:51:05]	Darth Hexus entered observer.
+[12:51:06]	Darth Hexus exited observer at their location.
+[12:51:21]	Darth Hexus entered observer.
+[12:51:40]	Darth Hexus exited observer at their location.
+[12:51:41]	Darth Hexus entered observer.
+[12:51:50]	Darth Hexus exited observer at their location.
+[12:52:34]	Darth Hexus entered observer.
+[12:52:35]	Darth Hexus exited observer at their location.
+[12:52:39]	Darth Hexus has spawned 'models/kingpommes/starwars/misc/corner_console.mdl'.
+[12:52:44]	Darth Hexus has spawned 'models/kingpommes/starwars/misc/imp_barrel_01.mdl'.
+[12:52:46]	Darth Hexus has spawned 'models/kingpommes/starwars/misc/palp_sofatable.mdl'.
+[12:52:47]	Darth Hexus has spawned 'models/kingpommes/starwars/misc/imp_table_sphere.mdl'.
+[12:52:49]	Darth Hexus has spawned 'models/kingpommes/starwars/misc/imp_crate_single_wall.mdl'.
+[12:53:06]	Darth Hexus has spawned 'models/kingpommes/starwars/misc/conference_table_end.mdl'.
+[12:53:06]	Darth Hexus entered observer.
+[12:53:08]	Darth Hexus exited observer at their location.
+[12:53:08]	Darth Hexus has spawned 'models/kingpommes/starwars/misc/corner_console.mdl'.
+[12:53:20]	Darth Hexus has spawned 'models/kingpommes/starwars/misc/imp_table_sphere.mdl'.
+[12:53:21]	Darth Hexus has spawned 'models/kingpommes/starwars/misc/imp_crate_single_cover.mdl'.
+[12:53:22]	Darth Hexus has spawned 'models/kingpommes/starwars/misc/imp_crate_single_base.mdl'.
+[12:53:41]	Darth Hexus has spawned 'models/kingpommes/starwars/misc/palp_bowl.mdl'.
+[12:53:42]	Darth Hexus entered observer.
+[12:53:45]	Darth Hexus has spawned 'models/kingpommes/starwars/misc/st_doll.mdl'.
+[12:53:47]	Darth Hexus has spawned 'models/kingpommes/starwars/misc/st_doll.mdl'.
+[12:53:52]	Darth Hexus has spawned 'models/kingpommes/starwars/misc/turbolaser_seat_dummy.mdl'.
+[12:53:55]	Darth Hexus has spawned 'models/kingpommes/starwars/misc/lothal/tallgrass_group1.mdl'.
+[12:53:57]	Darth Hexus exited observer at their location.
+[12:53:57]	Darth Hexus entered observer.
+[12:53:57]	Darth Hexus has spawned 'models/kingpommes/starwars/misc/imp_code_cylinder.mdl'.
+[12:54:03]	Darth Hexus has spawned 'models/kingpommes/starwars/misc/crew_bedb.mdl'.
+[12:54:07]	Darth Hexus exited observer at their location.
+[12:54:10]	Darth Hexus has spawned 'models/kingpommes/starwars/misc/circle_console_wallmount.mdl'.
+[12:55:20]	Darth Hexus has spawned 'models/damik/p-47d thunderbolt/hvar rocket.mdl'.
+[12:55:21]	Darth Hexus entered observer.
+[12:55:22]	Darth Hexus exited observer at their location.
+[12:55:23]	Darth Hexus entered observer.
+[12:55:23]	Darth Hexus exited observer at their location.
+[12:55:34]	Darth Hexus has spawned 'models/swbf3/turrets/rep_portableturret.mdl'.
+[12:55:36]	Darth Hexus has spawned 'models/swbf3/turrets/rep_portableturret.mdl'.
+[12:55:41]	Darth Hexus has spawned 'models/swbf3/turrets/rep_portableturret.mdl'.
+[12:55:45]	Darth Hexus has spawned 'models/sfp_tieraptor/sfp_tieraptor.mdl'.
+[12:55:46]	Darth Hexus entered observer.
+[12:55:47]	Darth Hexus exited observer at their location.
+[12:55:49]	Darth Hexus has spawned 'models/sfp_gauntlet/sfp_gauntlet.mdl'.
+[12:55:50]	Darth Hexus has spawned 'models/sfp_eta5/sfp_eta5.mdl'.
+[12:56:46]	Darth Hexus has spawned 'models/kingpommes/starwars/tie/gib_advanced.mdl'.
+[12:56:48]	Darth Hexus has spawned 'models/kingpommes/starwars/tie/missile.mdl'.
+[12:56:49]	Darth Hexus has spawned 'models/kingpommes/starwars/tie/interceptor.mdl'.
+[12:56:50]	Darth Hexus has spawned 'models/kingpommes/starwars/tie/gib_interceptor2.mdl'.
+[12:57:30]	Darth Hexus has spawned 'models/Items/AR2_Grenade.mdl'.
+[12:57:31]	Darth Hexus entered observer.
+[12:57:36]	Darth Hexus exited observer at their location.
+[12:57:47]	Darth Hexus entered observer.
+[12:57:48]	Darth Hexus has spawned 'models/gibs/helicopter_brokenpiece_05_tailfan.mdl'.
+[12:57:49]	Darth Hexus has spawned 'models/gibs/helicopter_brokenpiece_04_cockpit.mdl'.
+[12:57:54]	Darth Hexus has spawned 'models/gibs/helicopter_brokenpiece_01.mdl'.
+[12:57:57]	Darth Hexus exited observer at their location.
+[12:57:58]	Darth Hexus has spawned 'models/gibs/helicopter_brokenpiece_02.mdl'.
+[12:58:17]	Darth Hexus has spawned 'models/props/starwars/furniture/flag.mdl'.
+[12:58:19]	Darth Hexus has spawned 'models/props/starwars/furniture/tat_maxrebo_organ.mdl'.
+[12:58:24]	Darth Hexus has spawned 'models/props/starwars/furniture/kashyyyk_barricade2.mdl'.
+[12:58:26]	Darth Hexus has spawned 'models/props/starwars/vehicles/atte_crash.mdl'.
+[12:58:27]	Darth Hexus entered observer.
+[12:58:37]	Darth Hexus exited observer at their location.
+[12:58:43]	Darth Hexus has spawned 'models/misc/imp_table.mdl'.
+[12:58:44]	Darth Hexus entered observer.
+[12:58:49]	Darth Hexus exited observer at their location.
+[12:59:01]	Darth Hexus has spawned 'models/misc/imp_table_edge.mdl'.
+[12:59:01]	Darth Hexus entered observer.
+[12:59:15]	Darth Hexus exited observer at their location.
+[12:59:16]	Darth Hexus entered observer.
+[12:59:16]	Darth Hexus exited observer at their location.
+[12:59:19]	Darth Hexus entered observer.
+[12:59:22]	Darth Hexus exited observer at their location.
+[12:59:27]	Darth Hexus has spawned 'models/prop_crates/misc_x64_c.mdl'.
+[12:59:29]	Darth Hexus has spawned 'models/prop_crates/reb_x32.mdl'.
+[12:59:31]	Darth Hexus has spawned 'models/prop_crates/imp_x64_a.mdl'.
+[12:59:32]	Darth Hexus has spawned 'models/prop_crates/misc_x64.mdl'.
+[12:59:54]	Darth Hexus has spawned 'models/props/starwars/weapons/rep_launcher.mdl'.
+[12:59:56]	Darth Hexus has spawned 'models/props/starwars/vehicles/atte_crash.mdl'.
+[13:00:02]	Darth Hexus has spawned 'models/props/starwars/tech/hoth_console2.mdl'.
+[13:00:02]	Darth Hexus has taken 10 damage from prop_physics.
+[13:00:03]	Darth Hexus has spawned 'models/props/starwars/tech/hoth_shield.mdl'.
+[13:00:04]	Darth Hexus entered observer.
+[13:00:05]	Darth Hexus exited observer at their location.
+[13:00:06]	Darth Hexus entered observer.
+[13:00:06]	Darth Hexus has spawned 'models/props/starwars/vehicles/atte_crash.mdl'.
+[13:00:07]	Darth Hexus has spawned 'models/props/starwars/furniture/flag.mdl'.
+[13:00:10]	Darth Hexus exited observer at their location.
+[13:00:10]	Darth Hexus has spawned 'models/props/starwars/weapons/rep_launcher.mdl'.
+[13:00:10]	Darth Hexus entered observer.
+[13:00:14]	Darth Hexus exited observer at their location.
+[13:00:14]	Darth Hexus entered observer.
+[13:00:15]	Darth Hexus exited observer at their location.
+[13:00:34]	Darth Hexus has spawned 'models/kingpommes/starwars/misc/imp_crate_double_closed.mdl'.
+[13:00:34]	Darth Hexus entered observer.
+[13:00:35]	Darth Hexus exited observer at their location.
+[13:00:37]	Darth Hexus has spawned 'models/kingpommes/starwars/misc/holocam.mdl'.
+[13:00:49]	Darth Hexus has spawned 'models/kingpommes/starwars/misc/imp_crate_single_closed.mdl'.
+[13:00:54]	Darth Hexus has spawned 'models/kingpommes/starwars/misc/imp_crate_single_closed.mdl'.
+[13:01:02]	Darth Hexus entered observer.
+[13:01:02]	Darth Hexus exited observer at their location.
+[13:01:05]	Darth Hexus entered observer.
+[13:01:05]	Darth Hexus exited observer at their location.
+[13:01:11]	Darth Hexus has spawned 'models/kingpommes/starwars/misc/imp_crate_single_closed.mdl'.
+[13:01:31]	Darth Hexus entered observer.
+[13:01:33]	Darth Hexus exited observer at their location.
+[13:01:59]	Darth Hexus has spawned 'models/kingpommes/starwars/misc/imp_barrel_02.mdl'.
+[13:02:13]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/items/harvesting/slicing/slicing_footlocker_panel.mdl'.
+[13:02:21]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/items/harvesting/slicing/slicing_footlocker_screen.mdl'.
+[13:02:24]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/items/harvesting/slicing/slicing_safeboxes_screen.mdl'.
+[13:02:49]	Darth Hexus entered observer.
+[13:03:03]	Darth Hexus exited observer at their location.
+[13:03:24]	Darth Hexus opened the 'Safe' #325 container.
+[13:03:25]	Darth Hexus closed the 'Safe' #325 container.
+[13:05:01]	Darth Hexus has removed the password for 'Safe'.
+[13:05:05]	Darth Hexus has set the password for 'Safe'.
+[13:05:12]	Darth Hexus entered observer.
+[13:05:15]	Darth Hexus exited observer at their location.
+[13:05:25]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/items/harvesting/slicing/electronic_brain.mdl'.
+[13:05:26]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/items/harvesting/slicing/slicing_computer_component_rep.mdl'.
+[13:05:32]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/items/harvesting/slicing/slicing_computer_small_1.mdl'.
+[13:05:35]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/items/harvesting/slicing/slicing_computer_small_1.mdl'.
+[13:05:44]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/coruscant/cor_poster_justicar_01.mdl'.
+[13:05:54]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/items/harvesting/scavenge/scavenge_jetsam.mdl'.
+[13:06:05]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/items/harvesting/scavenge/scavenge_junkpile.mdl'.
+[13:06:08]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/items/harvesting/scavenge/scavenge_jetsam.mdl'.
+[13:06:10]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/items/harvesting/scavenge/scavenge_cargo.mdl'.
+[13:06:15]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/items/harvesting/scavenge/salvage_wreckage_single.mdl'.
+[13:06:21]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/items/harvesting/scavenge/scavenge_chassis.mdl'.
+[13:06:22]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/items/harvesting/scavenge/scavenge_chassis_component.mdl'.
+[13:06:28]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/items/harvesting/plants/vine_red.mdl'.
+[13:06:28]	Darth Hexus has taken 100 damage from prop_physics.
+[13:06:28]	prop_physics has killed Darth Hexus.
+[13:06:37]	Darth Hexus entered observer.
+[13:06:44]	Darth Hexus exited observer at their location.
+[13:06:46]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/city/city_billboard.mdl'.
+[13:06:46]	Darth Hexus entered observer.
+[13:06:48]	Darth Hexus exited observer at their location.
+[13:06:49]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/items/harvesting/slicing/slicing_computer_small_2.mdl'.
+[13:06:50]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/items/harvesting/slicing/slicing_computer_small_3.mdl'.
+[13:07:03]	Darth Hexus has spawned 'models/props_wasteland/controlroom_desk001a.mdl'.
+[13:07:04]	Darth Hexus has spawned 'models/props_wasteland/controlroom_desk001b.mdl'.
+[13:07:23]	Darth Hexus has spawned 'models/props_wasteland/cafeteria_table001a.mdl'.
+[13:07:44]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/items/harvesting/slicing/slicing_footlocker_dial.mdl'.
+[13:07:46]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/items/harvesting/slicing/slicing_footlocker_panel.mdl'.
+[13:07:46]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/items/harvesting/slicing/slicing_computer_small_3.mdl'.
+[13:07:49]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/items/harvesting/slicing/slicing_computer_small_1.mdl'.
+[13:08:07]	Darth Hexus has spawned 'models/props_wasteland/controlroom_desk001b.mdl'.
+[13:08:08]	Darth Hexus has spawned 'models/props_wasteland/controlroom_desk001a.mdl'.
+[13:08:14]	Darth Hexus has spawned 'models/props_wasteland/controlroom_desk001b.mdl'.
+[13:08:33]	Darth Hexus has spawned 'models/props/starwars/tech/cis_ship_switcher.mdl'.
+[13:08:40]	Darth Hexus entered observer.
+[13:08:41]	Darth Hexus exited observer at their location.
+[13:08:49]	Darth Hexus entered observer.
+[13:08:51]	Darth Hexus exited observer at their location.
+[13:08:52]	Darth Hexus entered observer.
+[13:08:52]	Darth Hexus exited observer at their location.
+[13:09:11]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/items/harvesting/slicing/slicing_computer_small_3.mdl'.
+[13:09:13]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/items/harvesting/slicing/slicing_computer_small_2.mdl'.
+[13:11:41]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/coruscant/cor_jedi_palace_pillar_02.mdl'.
+[13:12:17]	Darth Hexus entered observer.
+[13:12:18]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/voss/voss_ancient_tomb_statue.mdl'.
+[13:12:28]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/neutral/neu_city_panel.mdl'.
+[13:12:31]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/neutral/neu_bunker_denova.mdl'.
+[13:12:33]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/neutral/neu_chem_tank.mdl'.
+[13:12:36]	Darth Hexus exited observer at their location.
+[13:12:39]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/items/harvesting/slicing/slicing_computer_small_1.mdl'.
+[13:12:42]	Darth Hexus entered observer.
+[13:12:42]	Darth Hexus exited observer at their location.
+[13:13:03]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/republic/rep_training_bay.mdl'.
+[13:13:03]	Darth Hexus entered observer.
+[13:13:05]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/republic/rep_training_bay.mdl'.
+[13:13:09]	Darth Hexus exited observer at their location.
+[13:13:32]	Darth Hexus has spawned 'models/kingpommes/starwars/misc/droids/torso.mdl'.
+[13:14:12]	Darth Hexus has spawned 'models/kingpommes/starwars/playermodels/gnk.mdl'.
+[13:14:37]	Darth Hexus has spawned 'models/kingpommes/starwars/misc/droids/gnk_550.mdl'.
+[13:14:53]	Darth Hexus entered observer.
+[13:14:54]	Darth Hexus exited observer at their location.
+[13:14:56]	Darth Hexus entered observer.
+[13:15:00]	Darth Hexus ran 'take' on item 'Fusion Cutter' (#2731)
+[13:15:00]	Darth Hexus has gained a 'Fusion Cutter' #2731.
+[13:15:03]	Darth Hexus ran 'drop' on item 'Fusion Cutter' (#2731)
+[13:15:03]	Darth Hexus has lost a 'Fusion Cutter' #2731.
+[13:15:26]	Darth Hexus exited observer at their location.
+[13:15:39]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/vendor/vendor_weapon_stall_w_flag.mdl'.
+[13:15:40]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/vendor/vendor_weapon_stall_wo_flag.mdl'.
+[13:15:43]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/vendor/vendor_weapon_stall_w_flag.mdl'.
+[13:15:45]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/vendor/vendor_general_stall_wo_flag.mdl'.
+[13:15:50]	Darth Hexus used command '/ToggleRaise'.
+[13:15:52]	Darth Hexus entered observer.
+[13:16:13]	Darth Hexus exited observer at their location.
+[13:16:14]	Darth Hexus entered observer.
+[13:16:14]	Darth Hexus exited observer at their location.
+[13:16:18]	Darth Hexus entered observer.
+[13:16:18]	Darth Hexus exited observer at their location.
+[13:16:23]	Darth Hexus entered observer.
+[13:16:26]	Darth Hexus exited observer at their location.
+[13:16:32]	Darth Hexus entered observer.
+[13:16:35]	Darth Hexus exited observer at their location.
+[13:16:40]	Darth Hexus entered observer.
+[13:17:52]	Darth Hexus exited observer at their location.
+[13:17:53]	Darth Hexus entered observer.
+[13:17:53]	Darth Hexus exited observer at their location.
+[13:17:53]	Darth Hexus entered observer.
+[13:17:54]	Darth Hexus exited observer at their location.
+[13:18:12]	Darth Hexus entered observer.
+[13:18:16]	Darth Hexus exited observer at their location.
+[13:19:05]	Darth Hexus used command '/ToggleRaise'.
+[13:19:06]	Darth Hexus entered observer.
+[13:19:06]	Darth Hexus exited observer at their location.
+[13:19:48]	Darth Hexus entered observer.
+[13:19:48]	Darth Hexus exited observer at their location.
+[13:19:49]	Darth Hexus entered observer.
+[13:19:49]	Darth Hexus exited observer at their location.
+[13:19:53]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/nar_shadda/buildings/nar_facade_windows_04.mdl'.
+[13:19:54]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/nar_shadda/buildings/nar_facade_windows_04_skybox.mdl'.
+[13:20:12]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/nar_shadda/buildings/nar_facade_windows_04_skybox.mdl'.
+[13:20:40]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/neutral/neu_bantha_shelter.mdl'.
+[13:20:41]	Darth Hexus entered observer.
+[13:20:57]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/neutral/neu_dumpster.mdl'.
+[13:21:00]	Darth Hexus exited observer at their location.
+[13:21:01]	Darth Hexus entered observer.
+[13:21:09]	Darth Hexus exited observer at their location.
+[13:21:10]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/nar_shadda/buildings/nar_facade_windows_04.mdl'.
+[13:21:10]	Darth Hexus entered observer.
+[13:21:12]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/nar_shadda/buildings/nar_building_top_03_skybox.mdl'.
+[13:21:20]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/city/city_streetlamp_post.mdl'.
+[13:21:32]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/nar_shadda/nar_building_vent.mdl'.
+[13:21:36]	Darth Hexus exited observer at their location.
+[13:21:37]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/imperial/imp_guardhouse.mdl'.
+[13:21:41]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/nar_shadda/nar_elev_access.mdl'.
+[13:21:42]	Darth Hexus entered observer.
+[13:21:44]	Darth Hexus exited observer at their location.
+[13:21:52]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/coruscant/cor_works_console_02.mdl'.
+[13:21:53]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/coruscant/cor_works_console_01.mdl'.
+[13:21:57]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/coruscant/cor_works_console_02.mdl'.
+[13:21:59]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/coruscant/cor_works_light_01.mdl'.
+[13:22:01]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/coruscant/cor_works_light_02.mdl'.
+[13:22:05]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/nar_shadda/nar_hutt_statue_small.mdl'.
+[13:22:07]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/nar_shadda/nar_hutt_statue_small.mdl'.
+[13:22:08]	Darth Hexus entered observer.
+[13:22:10]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/nar_shadda/nar_hutt_statue_big.mdl'.
+[13:22:12]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/nar_shadda/nar_hutt_statue_small.mdl'.
+[13:22:22]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/coruscant/cor_lightpost_justicar.mdl'.
+[13:22:24]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/coruscant/cor_jedi_palace_pillar_02.mdl'.
+[13:22:26]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/coruscant/cor_lightpost_justicar.mdl'.
+[13:22:28]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/coruscant/cor_lightpost_neutral.mdl'.
+[13:22:29]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/imperial/imp_guardhouse.mdl'.
+[13:22:39]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/nar_shadda/nar_street_light_01.mdl'.
+[13:22:43]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/nar_shadda/buildings/nar_facade_addon_03_skybox.mdl'.
+[13:22:46]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/nar_shadda/buildings/nar_facade_addon_01_skybox.mdl'.
+[13:22:48]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/nar_shadda/buildings/nar_facade_addon_02_skybox.mdl'.
+[13:22:49]	Darth Hexus exited observer at their location.
+[13:22:53]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/vendor/vendor_weapon_stall_w_flag.mdl'.
+[13:22:55]	Darth Hexus entered observer.
+[13:23:02]	Darth Hexus exited observer at their location.
+[13:23:03]	Darth Hexus entered observer.
+[13:23:03]	Darth Hexus exited observer at their location.
+[13:23:05]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/city/city_billboard.mdl'.
+[13:23:05]	Darth Hexus entered observer.
+[13:23:21]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/city/city_firebarrel.mdl'.
+[13:23:23]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/city/city_poster_01.mdl'.
+[13:23:24]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/city/city_market_stand_03.mdl'.
+[13:23:31]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/city/city_market_stand_01.mdl'.
+[13:23:32]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/city/city_market_stand_02.mdl'.
+[13:23:32]	Darth Hexus exited observer at their location.
+[13:23:42]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/city/city_street_lamp.mdl'.
+[13:23:46]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/coruscant/cor_city_fountain_base.mdl'.
+[13:23:46]	Darth Hexus has taken 5 damage from prop_physics.
+[13:23:46]	Darth Hexus entered observer.
+[13:23:48]	Darth Hexus exited observer at their location.
+[13:23:49]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/city/city_statue_02.mdl'.
+[13:23:50]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/city/city_statue_02.mdl'.
+[13:23:55]	Darth Hexus entered observer.
+[13:23:56]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/city/city_statue_jedi.mdl'.
+[13:24:00]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/alderaan/ald_statue_01.mdl'.
+[13:24:06]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/city/city_wall_tech_01.mdl'.
+[13:24:09]	Darth Hexus exited observer at their location.
+[13:24:13]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/city/city_wall_tech_02.mdl'.
+[13:24:17]	Darth Hexus entered observer.
+[13:24:18]	Darth Hexus exited observer at their location.
+[13:24:18]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/city/city_wall_tech_02.mdl'.
+[13:24:19]	Darth Hexus entered observer.
+[13:24:21]	Darth Hexus exited observer at their location.
+[13:24:22]	Darth Hexus entered observer.
+[13:24:22]	Darth Hexus exited observer at their location.
+[13:25:06]	Darth Hexus entered observer.
+[13:25:08]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/city/city_seating_in_out_01.mdl'.
+[13:25:08]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/city/city_rug.mdl'.
+[13:25:18]	Darth Hexus exited observer at their location.
+[13:25:46]	Darth Hexus has spawned 'models/cire992/props/garbagecan.mdl'.
+[13:25:46]	Darth Hexus entered observer.
+[13:25:48]	Darth Hexus exited observer at their location.
+[13:25:49]	Darth Hexus entered observer.
+[13:25:53]	Darth Hexus exited observer at their location.
+[13:25:54]	Darth Hexus has spawned 'models/cire992/props/glass01.mdl'.
+[13:25:55]	Darth Hexus has spawned 'models/cire992/props/garbagecan.mdl'.
+[13:25:59]	Darth Hexus entered observer.
+[13:26:05]	Darth Hexus exited observer at their location.
+[13:26:05]	Darth Hexus entered observer.
+[13:26:06]	Darth Hexus exited observer at their location.
+[13:26:08]	Darth Hexus entered observer.
+[13:26:10]	Darth Hexus has spawned 'models/cire992/props/recliningchair02.mdl'.
+[13:26:14]	Darth Hexus has spawned 'models/cire992/props/pot01.mdl'.
+[13:26:15]	Darth Hexus has spawned 'models/cire992/props/pot02.mdl'.
+[13:26:16]	Darth Hexus has spawned 'models/cire992/props/watercooler.mdl'.
+[13:26:18]	Darth Hexus exited observer at their location.
+[13:26:18]	Darth Hexus has spawned 'models/cire992/props/tank01.mdl'.
+[13:26:27]	Darth Hexus has spawned 'models/cire992/props2/fooddispenser02.mdl'.
+[13:26:30]	Darth Hexus has spawned 'models/cire992/props2/large_computer_01.mdl'.
+[13:26:30]	Darth Hexus entered observer.
+[13:26:32]	Darth Hexus exited observer at their location.
+[13:26:40]	Darth Hexus entered observer.
+[13:26:44]	Darth Hexus has spawned 'models/cire992/props3/cuttingboard01.mdl'.
+[13:26:49]	Darth Hexus has spawned 'models/cire992/props3/cuttingboard01.mdl'.
+[13:26:54]	Darth Hexus exited observer at their location.
+[13:26:55]	Darth Hexus has spawned 'models/cire992/props2/tablelab04.mdl'.
+[13:26:57]	Darth Hexus has spawned 'models/cire992/props3/human_wall_01.mdl'.
+[13:26:59]	Darth Hexus has spawned 'models/cire992/props3/foot_locker_01.mdl'.
+[13:27:03]	Darth Hexus has spawned 'models/cire992/props3/junk08.mdl'.
+[13:27:17]	Darth Hexus has spawned 'models/cire992/props4/pictureframe03.mdl'.
+[13:27:19]	Darth Hexus has spawned 'models/cire992/props4/pictureframe01.mdl'.
+[13:27:20]	Darth Hexus has spawned 'models/cire992/props4/picturescreen01.mdl'.
+[13:27:24]	Darth Hexus entered observer.
+[13:27:25]	Darth Hexus exited observer at their location.
+[13:28:10]	Darth Hexus entered observer.
+[13:28:12]	Darth Hexus exited observer at their location.
+[13:28:22]	Darth Hexus has spawned 'models/cire992/props4/prothean_beacon_01.mdl'.
+[13:28:24]	Darth Hexus has spawned 'models/cire992/props4/tablet_2tablet_1.mdl'.
+[13:28:28]	Darth Hexus has spawned 'models/cire992/props4/tablet_2tablet_1.mdl'.
+[13:28:29]	Darth Hexus has spawned 'models/cire992/props4/tablet_3tablet_1.mdl'.
+[13:28:42]	Darth Hexus has spawned 'models/cire992/props4/glassshort02.mdl'.
+[13:28:44]	Darth Hexus entered observer.
+[13:28:50]	Darth Hexus has spawned 'models/cire992/props4/glass04.mdl'.
+[13:28:56]	Darth Hexus has spawned 'models/cire992/props4/lighttablelampa_01.mdl'.
+[13:29:03]	Darth Hexus exited observer at their location.
+[13:29:04]	Darth Hexus entered observer.
+[13:29:07]	Darth Hexus has spawned 'models/cire992/props4/glassshort02.mdl'.
+[13:29:14]	Darth Hexus has spawned 'models/cire992/props4/glass03.mdl'.
+[13:29:19]	Darth Hexus has spawned 'models/cire992/props4/glassshort02.mdl'.
+[13:29:29]	Darth Hexus has spawned 'models/cire992/props4/glassshort02.mdl'.
+[13:29:37]	Darth Hexus exited observer at their location.
+[13:29:38]	Darth Hexus entered observer.
+[13:29:39]	Darth Hexus exited observer at their location.
+[13:29:46]	Darth Hexus has spawned 'models/cire992/props4/bench_01.mdl'.
+[13:29:48]	Darth Hexus has spawned 'models/cire992/props4/bioapl_ind_crane01_top.mdl'.
+[13:29:51]	Darth Hexus has spawned 'models/cire992/props4/generator_01_mdl.mdl'.
+[13:29:53]	Darth Hexus has spawned 'models/cire992/props4/geth_terminal_01.mdl'.
+[13:29:54]	Darth Hexus has spawned 'models/cire992/props4/gethpile_01.mdl'.
+[13:30:04]	Darth Hexus has spawned 'models/cire992/props4/techtester01.mdl'.
+[13:30:11]	Darth Hexus has spawned 'models/cire992/props4/shopkiosk01.mdl'.
+[13:30:15]	Darth Hexus has spawned 'models/cire992/props4/n7_spdr1_veh_gat_trt_static.mdl'.
+[13:30:16]	Darth Hexus has spawned 'models/cire992/props4/n7_spdr1_protheanpyramid.mdl'.
+[13:30:18]	Darth Hexus entered observer.
+[13:30:30]	Darth Hexus exited observer at their location.
+[13:30:38]	Darth Hexus has spawned 'models/cire992/props4/bedcot01.mdl'.
+[13:30:59]	Darth Hexus has spawned 'models/cire992/props3/chairutility01_worn.mdl'.
+[13:31:01]	Darth Hexus has spawned 'models/cire992/props3/first_aid_station_01.mdl'.
+[13:31:02]	Darth Hexus has spawned 'models/cire992/props3/chairutility01_worn.mdl'.
+[13:31:13]	Darth Hexus has spawned 'models/cire992/props3/chair_bar_01.mdl'.
+[13:31:14]	Darth Hexus has spawned 'models/cire992/props3/chairutility01_worn.mdl'.
+[13:31:20]	Darth Hexus has spawned 'models/cire992/props2/chairoffice01.mdl'.
+[13:31:22]	Darth Hexus has spawned 'models/cire992/props3/chairutility01_worn.mdl'.
+[13:31:42]	Darth Hexus has spawned 'models/cire992/props2/container03.mdl'.
+[13:31:43]	Darth Hexus has spawned 'models/cire992/props2/containerkitchen02.mdl'.
+[13:31:45]	Darth Hexus entered observer.
+[13:31:49]	Darth Hexus has spawned 'models/cire992/props2/containerkitchen01.mdl'.
+[13:31:50]	Darth Hexus exited observer at their location.
+[13:31:51]	Darth Hexus entered observer.
+[13:31:52]	Darth Hexus has spawned 'models/cire992/props2/desk01_corner.mdl'.
+[13:31:56]	Darth Hexus exited observer at their location.
+[13:31:58]	Darth Hexus has spawned 'models/cire992/props3/floor_lamp_01.mdl'.
+[13:32:03]	Darth Hexus has spawned 'models/cire992/props2/coffeemaker01_pot.mdl'.
+[13:32:05]	Darth Hexus has spawned 'models/cire992/props2/computerwall01.mdl'.
+[13:32:09]	Darth Hexus has spawned 'models/cire992/props3/aeroculture_crop_bed_01.mdl'.
+[13:32:11]	Darth Hexus has spawned 'models/cire992/props3/cigar_ashtray.mdl'.
+[13:32:14]	Darth Hexus has spawned 'models/cire992/props3/mobile_med_unit_01.mdl'.
+[13:32:18]	Darth Hexus entered observer.
+[13:32:19]	Darth Hexus exited observer at their location.
+[13:32:22]	Darth Hexus has spawned 'models/cire992/props2/containerkitchen03.mdl'.
+[13:32:23]	Darth Hexus has spawned 'models/cire992/props2/containerkitchen02.mdl'.
+[13:32:36]	Darth Hexus has spawned 'models/cire992/props2/cup_01.mdl'.
+[13:32:40]	Darth Hexus entered observer.
+[13:32:43]	Darth Hexus exited observer at their location.
+[13:32:52]	Darth Hexus has spawned 'models/cire992/props3/chair_utilitarian_01.mdl'.
+[13:32:55]	Darth Hexus has spawned 'models/cire992/props3/cafeteria_table_01.mdl'.
+[13:32:56]	Darth Hexus has spawned 'models/cire992/props3/biggethturret.mdl'.
+[13:32:58]	Darth Hexus has spawned 'models/cire992/props3/biog_apl_kro_statue.mdl'.
+[13:33:04]	Darth Hexus has spawned 'models/cire992/props3/mine01.mdl'.
+[13:33:15]	Darth Hexus has spawned 'models/cire992/props3/n7_mi_counter_mid.mdl'.
+[13:33:29]	Darth Hexus has spawned 'models/cire992/props2/crateweak01_m.mdl'.
+[13:33:31]	Darth Hexus has spawned 'models/cire992/props2/flatbed01.mdl'.
+[13:33:35]	Darth Hexus entered observer.
+[13:33:57]	Darth Hexus exited observer at their location.
+[13:33:59]	Darth Hexus has spawned 'models/cire992/props3/corpsetarp01.mdl'.
+[13:34:01]	Darth Hexus has spawned 'models/cire992/props3/cigar_ashtray.mdl'.
+[13:34:24]	Darth Hexus has spawned 'models/cire992/props3/junk03.mdl'.
+[13:34:31]	Darth Hexus entered observer.
+[13:34:32]	Darth Hexus exited observer at their location.
+[13:34:40]	Darth Hexus entered observer.
+[13:34:47]	Darth Hexus exited observer at their location.
+[13:34:48]	Darth Hexus has spawned 'models/cire992/props2/large_computer_01.mdl'.
+[13:35:15]	Darth Hexus entered observer.
+[13:35:44]	Darth Hexus has spawned 'models/cire992/props3/pro10_tentramp.mdl'.
+[13:35:45]	Darth Hexus exited observer at their location.
+[13:35:46]	Darth Hexus entered observer.
+[13:35:49]	Darth Hexus has spawned 'models/cire992/props3/pleasure_pod_01.mdl'.
+[13:35:57]	Darth Hexus has spawned 'models/cire992/props2/books03.mdl'.
+[13:35:59]	Darth Hexus has spawned 'models/cire992/props3/cafeteria_table_01.mdl'.
+[13:36:01]	Darth Hexus has spawned 'models/cire992/props2/truckjack01_base.mdl'.
+[13:36:02]	Darth Hexus has spawned 'models/cire992/props2/terminal.mdl'.
+[13:36:03]	Darth Hexus has spawned 'models/cire992/props2/tank02.mdl'.
+[13:36:05]	Darth Hexus has spawned 'models/cire992/props2/tableprison.mdl'.
+[13:36:10]	Darth Hexus exited observer at their location.
+[13:36:11]	Darth Hexus has spawned 'models/cire992/props3/me1colonyhut01.mdl'.
+[13:36:13]	Darth Hexus has spawned 'models/cire992/props3/lunchtray01.mdl'.
+[13:36:23]	Darth Hexus has spawned 'models/cire992/props/plate02.mdl'.
+[13:36:28]	Darth Hexus has spawned 'models/cire992/props/thermos.mdl'.
+[13:38:52]	Darth Hexus has spawned 'models/kingpommes/starwars/misc/holocam.mdl'.
+[13:38:55]	Darth Hexus has spawned 'models/kingpommes/starwars/misc/bridge_console_wall_2.mdl'.
+[13:38:55]	Darth Hexus entered observer.
+[13:39:15]	Darth Hexus has spawned 'models/kingpommes/starwars/misc/crew_bedb.mdl'.
+[13:39:25]	Darth Hexus exited observer at their location.
+[13:39:26]	Darth Hexus has spawned 'models/kingpommes/starwars/misc/bridge_console_wall_3.mdl'.
+[13:39:27]	Darth Hexus entered observer.
+[13:39:30]	Darth Hexus exited observer at their location.
+[13:39:37]	Darth Hexus has spawned 'models/kingpommes/starwars/misc/conference_table_emitter.mdl'.
+[13:39:44]	Darth Hexus has spawned 'models/kingpommes/starwars/misc/holocam.mdl'.
+[13:40:24]	Darth Hexus entered observer.
+[13:40:29]	Darth Hexus exited observer at their location.
+[13:40:32]	Darth Hexus has spawned 'models/kingpommes/starwars/misc/imp_table_sphere.mdl'.
+[13:41:13]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/imperial/imp_cantina_holopad.mdl'.
+[13:41:32]	Darth Hexus has spawned 'models/lordtrilobite/starwars/props/imp_floorgreeble01.mdl'.
+[13:41:33]	Darth Hexus entered observer.
+[13:41:40]	Darth Hexus exited observer at their location.
+[13:42:17]	Darth Hexus has spawned 'models/props/starwars/medical/ammo_pickup.mdl'.
+[13:42:19]	Darth Hexus has spawned 'models/props/starwars/tech/machine.mdl'.
+[13:44:11]	Darth Hexus has spawned 'models/props/starwars/tech/imperial_deflector.mdl'.
+[13:44:15]	Darth Hexus entered observer.
+[13:44:16]	Darth Hexus has spawned 'models/props/starwars/tech/hoth_shield.mdl'.
+[13:44:18]	Darth Hexus exited observer at their location.
+[13:44:32]	Darth Hexus entered observer.
+[13:44:32]	Darth Hexus exited observer at their location.
+[13:44:32]	Darth Hexus entered observer.
+[13:44:33]	Darth Hexus exited observer at their location.
+[13:44:33]	Darth Hexus entered observer.
+[13:44:34]	Darth Hexus exited observer at their location.
+[13:44:35]	Darth Hexus entered observer.
+[13:44:37]	Darth Hexus exited observer at their location.
+[13:44:43]	Darth Hexus has spawned 'models/props/starwars/weapons/hoth_turret4.mdl'.
+[13:44:44]	Darth Hexus has spawned 'models/props/starwars/weapons/lasertrap.mdl'.
+[13:44:50]	Darth Hexus has spawned 'models/props/starwars/weapons/detpack.mdl'.
+[13:44:52]	Darth Hexus has spawned 'models/props/starwars/furniture/tat_maxrebo_organ.mdl'.
+[13:44:54]	Darth Hexus entered observer.
+[13:45:09]	Darth Hexus exited observer at their location.
+[13:45:10]	Darth Hexus entered observer.
+[13:45:12]	Darth Hexus exited observer at their location.
+[13:45:12]	Darth Hexus has spawned 'models/props/starwars/vehicles/bd_dispenser.mdl'.
+[13:45:12]	Darth Hexus entered observer.
+[13:45:18]	Darth Hexus has spawned 'models/props/starwars/weapons/smart_launcher.mdl'.
+[13:45:19]	Darth Hexus has spawned 'models/props/starwars/tech/hoth_shield.mdl'.
+[13:45:33]	Darth Hexus exited observer at their location.
+[13:45:47]	Darth Hexus entered observer.
+[13:45:48]	Darth Hexus has spawned 'models/props/starwars/vehicles/atte_crash.mdl'.
+[13:46:08]	Darth Hexus has spawned 'models/props/starwars/vehicles/sbd_dispenser.mdl'.
+[13:46:09]	Darth Hexus has spawned 'models/props/starwars/vehicles/techno_union.mdl'.
+[13:46:10]	Darth Hexus exited observer at their location.
+[13:46:11]	Darth Hexus entered observer.
+[13:46:13]	Darth Hexus has spawned 'models/props/starwars/vehicles/techno_union.mdl'.
+[13:46:18]	Darth Hexus has spawned 'models/props/starwars/foliage/end_prop_foliage1.mdl'.
+[13:46:20]	Darth Hexus has spawned 'models/props/starwars/foliage/end_prop_foliage4.mdl'.
+[13:46:22]	Darth Hexus has spawned 'models/props/starwars/foliage/fel_foliage3.mdl'.
+[13:47:01]	Darth Hexus has spawned 'models/props/starwars/furniture/scale_munificent.mdl'.
+[13:47:13]	Darth Hexus has spawned 'models/props/starwars/tech/tat_prop_evaporator.mdl'.
+[13:48:33]	Darth Hexus has spawned 'models/props/starwars/foliage/loglarge_all_long.mdl'.
+[13:48:38]	Darth Hexus has spawned 'models/props/starwars/weapons/hoth_turret.mdl'.
+[13:48:43]	Darth Hexus exited observer at their location.
+[13:48:47]	Darth Hexus entered observer.
+[13:48:47]	Darth Hexus exited observer at their location.
+[13:48:49]	Darth Hexus entered observer.
+[13:48:50]	Darth Hexus has spawned 'models/props/starwars/foliage/treemedium01.mdl'.
+[13:49:09]	Darth Hexus exited observer at their location.
+[13:49:21]	Darth Hexus has spawned 'models/props/starwars/chairs/couch01.mdl'.
+[13:49:22]	Darth Hexus has taken 10 damage from Darth Hexus.
+[13:49:22]	Darth Hexus has taken 5 damage from Darth Hexus.
+[13:49:28]	Darth Hexus has spawned 'models/props/starwars/medical/bacta_tank.mdl'.
+[13:49:34]	Darth Hexus has spawned 'models/props/starwars/tech/proton_shell.mdl'.
+[13:49:37]	Darth Hexus has spawned 'models/props/starwars/tech/refinery.mdl'.
+[13:49:40]	Darth Hexus has taken 5 damage from prop_physics.
+[13:49:42]	Darth Hexus has spawned 'models/props/starwars/tech/tat_prop_evaporator.mdl'.
+[13:49:50]	Darth Hexus entered observer.
+[13:49:52]	Darth Hexus exited observer at their location.
+[13:49:54]	Darth Hexus entered observer.
+[13:49:54]	Darth Hexus exited observer at their location.
+[13:50:08]	Darth Hexus entered observer.
+[13:51:23]	Darth Hexus has spawned 'models/hunter/blocks/cube1x6x05.mdl'.
+[13:51:28]	Darth Hexus has spawned 'models/hunter/blocks/cube075x6x075.mdl'.
+[13:51:30]	Darth Hexus has spawned 'models/hunter/blocks/cube075x3x075.mdl'.
+[13:51:33]	Darth Hexus exited observer at their location.
+[13:52:45]	Darth Hexus entered observer.
+[13:52:55]	Darth Hexus exited observer at their location.
+[13:52:59]	Darth Hexus entered observer.
+[13:53:00]	Darth Hexus exited observer at their location.
+[13:54:08]	Darth Hexus entered observer.
+[13:54:14]	Darth Hexus exited observer at their location.
+[13:54:15]	Darth Hexus entered observer.
+[13:54:20]	Darth Hexus exited observer at their location.
+[13:54:21]	Darth Hexus entered observer.
+[13:54:30]	Darth Hexus exited observer at their location.
+[13:54:31]	Darth Hexus entered observer.
+[13:54:35]	Darth Hexus exited observer at their location.
+[13:54:36]	Darth Hexus entered observer.
+[13:54:38]	Darth Hexus exited observer at their location.
+[13:54:39]	Darth Hexus entered observer.
+[13:54:40]	Darth Hexus exited observer at their location.
+[13:54:57]	Darth Hexus entered observer.
+[13:55:01]	Darth Hexus exited observer at their location.
+[13:55:32]	Darth Hexus entered observer.
+[13:56:22]	Darth Hexus exited observer at their location.
+[13:56:28]	Darth Hexus entered observer.
+[13:56:46]	Darth Hexus exited observer at their location.
+[13:56:48]	Darth Hexus entered observer.
+[13:57:43]	Darth Hexus exited observer at their location.
+[13:58:00]	Darth Hexus entered observer.
+[13:58:32]	Darth Hexus exited observer at their location.
+[13:58:56]	Darth Hexus entered observer.
+[13:59:03]	Darth Hexus exited observer at their location.
+[13:59:06]	Darth Hexus entered observer.
+[13:59:25]	Darth Hexus exited observer at their location.
+[13:59:54]	Darth Hexus entered observer.
+[13:59:55]	Darth Hexus exited observer at their location.
+[13:59:56]	Darth Hexus entered observer.
+[13:59:56]	Darth Hexus exited observer at their location.
+[13:59:58]	Darth Hexus entered observer.
+[13:59:58]	Darth Hexus exited observer at their location.
+[14:00:00]	Darth Hexus entered observer.
+[14:00:01]	Darth Hexus exited observer at their location.
+[14:00:01]	Darth Hexus entered observer.
+[14:00:07]	Darth Hexus exited observer at their location.
+[14:00:14]	Darth Hexus entered observer.
+[14:00:38]	Darth Hexus exited observer at their location.
+[14:00:38]	Darth Hexus entered observer.
+[14:00:39]	Darth Hexus exited observer at their location.
+[14:00:39]	Darth Hexus entered observer.
+[14:00:39]	Darth Hexus exited observer at their location.
+[14:00:41]	Darth Hexus entered observer.
+[14:00:53]	Darth Hexus exited observer at their location.
+[14:00:54]	Darth Hexus entered observer.
+[14:00:54]	Darth Hexus exited observer at their location.
+[14:00:58]	Darth Hexus entered observer.
+[14:25:52]	Darth Hexus exited observer at their location.
+[14:25:52]	Darth Hexus entered observer.
+[14:25:54]	Darth Hexus exited observer at their location.
+[14:25:55]	Darth Hexus has spawned 'models/cire992/props4/pictureframe01.mdl'.
+[14:25:56]	Darth Hexus has spawned 'models/cire992/props4/paper_pile01.mdl'.
+[14:25:58]	Darth Hexus has spawned 'models/cire992/props4/lighttablelampa_01.mdl'.
+[14:26:06]	Darth Hexus has spawned 'models/cire992/props3/junk07.mdl'.
+[14:26:08]	Darth Hexus has spawned 'models/cire992/props3/junk02.mdl'.
+[14:26:10]	Darth Hexus entered observer.
+[14:26:11]	Darth Hexus exited observer at their location.
+[14:26:13]	Darth Hexus entered observer.
+[14:26:13]	Darth Hexus exited observer at their location.
+[14:26:13]	Darth Hexus has spawned 'models/cire992/props3/n7_mi_counter_end.mdl'.
+[14:26:14]	Darth Hexus entered observer.
+[14:29:04]	matt saton has connected.
+[14:29:48]	matt saton (STEAM_0:1:53097688) has disconnected.
+[14:30:32]	matt saton has connected.
+[14:31:16]	matt saton loaded the character 'Darth Hexus'
+[14:31:20]	Darth Hexus entered observer.
+[14:33:25]	Darth Hexus used command '/DeleteErrorModels'.
+[14:34:42]	Darth Hexus used command '/ToggleRaise'.
+[14:34:45]	Darth Hexus used command '/ToggleRaise'.
+[14:34:50]	Darth Hexus used command '/ToggleRaise'.
+[14:35:14]	Darth Hexus used command '/ToggleRaise'.
+[14:35:16]	Darth Hexus exited observer at their location.
+[14:35:17]	Darth Hexus entered observer.
+[15:34:22]	Darth Hexus has removed map entity #1735 (models/props_misc/military_sign02.mdl).
+[15:34:22]	Darth Hexus used command '/MapEntRemove'.
+[15:34:24]	Darth Hexus used command '/MapEntRemove'.
+[15:34:27]	Darth Hexus used command '/MapEntRemove'.
+[15:34:32]	Darth Hexus has removed map entity #1736 (models/props_misc/military_sign02.mdl).
+[15:34:32]	Darth Hexus used command '/MapEntRemove'.
+[15:35:03]	Darth Hexus exited observer at their location.
+[15:35:05]	Darth Hexus entered observer.
+[15:35:08]	Darth Hexus exited observer at their location.
+[15:35:10]	Darth Hexus entered observer.
+[15:40:33]	matt saton (STEAM_0:1:53097688) has disconnected.

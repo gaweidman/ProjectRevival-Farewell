@@ -1,0 +1,2905 @@
+<Logging continued from "data/ulx_logs/08-31-20.txt">
+[00:09:02] Client "matt saton" connected.
+[00:09:05] Client "matt saton" connected.
+[00:10:23] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 78 seconds).
+[00:25:11] matt saton<STEAM_0:1:53097688> changed their name to James Albright
+[00:29:13] James Albright<STEAM_0:1:53097688> spawned model models/props_lab/filecabinet02.mdl
+[00:29:21] James Albright: /chargiveitem james padlock
+[00:43:20] James Albright<STEAM_0:1:53097688> spawned model models/props_trainstation/tracksign09.mdl
+[00:43:24] James Albright<STEAM_0:1:53097688> spawned model models/props_lab/filecabinet02.mdl
+[00:43:27] James Albright: /chargiveitem james padlock
+[00:47:44] James Albright<STEAM_0:1:53097688> spawned model models/props_lab/kennel_physics.mdl
+[00:47:48] James Albright<STEAM_0:1:53097688> spawned model models/props_lab/filecabinet02.mdl
+[00:47:52] James Albright: /chargiveitem james padlock
+[00:48:24] James Albright suicided!
+[00:48:24] James Albright slayed Themself
+[00:48:24] James Albright: !slay ^
+[00:48:46] James Albright<STEAM_0:1:53097688> changed their name to UU.C08-CRM.20941
+[00:49:42] UU.C08-CRM.20941<STEAM_0:1:53097688> spawned model models/props_junk/trashdumpster01a.mdl
+[00:50:07] UU.C08-CRM.20941<STEAM_0:1:53097688> changed their name to James Albright
+[00:52:43] James Albright: /adminspawnmenu
+[00:53:14] James Albright<STEAM_0:1:53097688> changed their name to CAC.C14-CRM.79124
+[01:11:13] CAC.C14-CRM.79124: /chargiveitem crm syringe
+[01:11:22] CAC.C14-CRM.79124: /adminspawnmenu
+[01:13:03] CAC.C14-CRM.79124: /adminspawnmenu
+[01:17:30] Client "Diablo" connected.
+[01:23:21] Client "Diablo" spawned in server <STEAM_0:1:53131728> (took 351 seconds).
+[01:27:34] Diablo<STEAM_0:1:53131728> changed their name to Frederik Drakenhof
+[01:27:38] Frederik Drakenhof: /visordanger
+[01:27:41] CAC.C14-CRM.79124: //Hey, Diablo! How goes it
+[01:27:47] Frederik Drakenhof: // Hello I am good
+[01:27:50] CAC.C14-CRM.79124 teleported to Frederik Drakenhof
+[01:27:56] CAC.C14-CRM.79124: //i'll get on a unit and give you an idea, gimme a sec
+[01:28:05] CAC.C14-CRM.79124<STEAM_0:1:53097688> changed their name to CCA.C14-GRID.i3.69192
+[01:28:08] Frederik Drakenhof: // im taking damage for some reason, also what is a CAC
+[01:28:11] CCA.C14-GRID.i3.69192: /changesociostatus green
+[01:28:35] CCA.C14-GRID.i3.69192: //oh, that's a bug with a hunger. you need to eat something. if you have a character before we added the hunger system, you need to eat to make it go away
+[01:28:44] CCA.C14-GRID.i3.69192: /adminspawnmenu
+[01:28:44] Frederik Drakenhof: // where is a vending machine
+[01:29:07] CCA.C14-GRID.i3.69192: //hold on, i'll spawn some in for you
+[01:29:14] CCA.C14-GRID.i3.69192<STEAM_0:1:53097688> spawned/gave himself swep weapon_egon
+[01:29:36] CCA.C14-GRID.i3.69192: /adminspawnmenu
+[01:29:44] Frederik Drakenhof: [[ What was that auxillary thying
+[01:30:04] CCA.C14-GRID.i3.69192: /chargiveitem grid sparkling
+[01:30:08] CCA.C14-GRID.i3.69192: /chargiveitem grid sparkling
+[01:30:09] CCA.C14-GRID.i3.69192: /chargiveitem grid sparkling
+[01:30:17] CCA.C14-GRID.i3.69192: .//go ahead and drin kand eat all of that
+[01:30:27] CCA.C14-GRID.i3.69192: //it was a gluon gun, i was trying to get rid of the error i spawned
+[01:30:34] CCA.C14-GRID.i3.69192: //but the CAC is a thing we made up
+[01:30:40] CCA.C14-GRID.i3.69192: //combine ancillary commission
+[01:30:42] CCA.C14-GRID.i3.69192: /doorsethidden true
+[01:30:56] CCA.C14-GRID.i3.69192: //it's what cremators, stalkers, and vort slaves belong to
+[01:31:03] Frederik Drakenhof: // Oh
+[01:31:04] CCA.C14-GRID.i3.69192<STEAM_0:1:53097688> spawned/gave himself swep weapon_frag
+[01:31:13] CCA.C14-GRID.i3.69192<STEAM_0:1:53097688> spawned/gave himself swep weapon_frag
+[01:31:16] CCA.C14-GRID.i3.69192: //void hte exlosions
+[01:31:19] Frederik Drakenhof: /discord
+[01:31:20] CCA.C14-GRID.i3.69192: //testing something out
+[01:31:27] CCA.C14-GRID.i3.69192: //you caught me in hte midleo f doing development
+[01:31:37] CCA.C14-GRID.i3.69192<STEAM_0:1:53097688> spawned/gave himself swep weapon_frag
+[01:31:40] Frederik Drakenhof: // wat r u working on
+[01:32:05] CCA.C14-GRID.i3.69192: //right now i'm modifying all the medical items to all you to heal other people
+[01:32:14] CCA.C14-GRID.i3.69192: //because right now you can only use them to hela yourself
+[01:32:25] CCA.C14-GRID.i3.69192: //after that i'm gonna improve voice commands for combine units
+[01:32:29] Frederik Drakenhof: // ALright
+[01:32:46] CCA.C14-GRID.i3.69192: //it's great to have you back. are you in the discord?
+[01:32:56] CCA.C14-GRID.i3.69192: /plysearch
+[01:33:11] Frederik Drakenhof: // Yes
+[01:33:24] CCA.C14-GRID.i3.69192: //swee
+[01:33:27] CCA.C14-GRID.i3.69192: //sweet*
+[01:33:28] Frederik Drakenhof: // What do you guys do for the government?
+[01:33:35] Frederik Drakenhof: // Is it just the one city administrator?
+[01:33:46] CCA.C14-GRID.i3.69192: /doorsethidden true
+[01:34:03] CCA.C14-GRID.i3.69192: //right now it's just one city administrator, then since it's city 14 we have a special role called the inspector
+[01:34:14] Frederik Drakenhof: // WHat's that?
+[01:34:16] CCA.C14-GRID.i3.69192: //we would like more, but hte server isn't big enough to have more government charactors
+[01:34:18] CCA.C14-GRID.i3.69192: //characters*
+[01:34:30] CCA.C14-GRID.i3.69192: //essentially he's a big scary boy who makes sure various buildings are up to codw
+[01:34:33] CCA.C14-GRID.i3.69192: //are all safe and that
+[01:35:03] CCA.C14-GRID.i3.69192: //but yeah, if we have more government characters, say our playerbase is ~5 players, if we have even 2 government characters, that's 40% of our playerbase
+[01:35:12] CCA.C14-GRID.i3.69192: //so we're not big enough yet for more government characters. yet.
+[01:44:15] Frederik Drakenhof was killed by prop_physics
+[01:45:27] CCA.C14-GRID.i3.69192: /chargiveitem grid kit
+[01:45:35] CCA.C14-GRID.i3.69192: /chargiveitem grid "Health kit"
+[01:50:03] Frederik Drakenhof: /actsit
+[02:02:39] Frederik Drakenhof was killed by prop_physics
+[02:02:49] Dropped "Frederik Drakenhof" from server<STEAM_0:1:53131728>
+[02:22:06] Client "nicoida1990" connected.
+[02:36:54] CCA.C14-GRID.i3.69192: /me would proceed to tie the individual. Would they resist?
+[02:37:31] CCA.C14-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/weapons/tfa_hl2r/w_crossbow.mdl
+[02:37:40] CCA.C14-GRID.i3.69192<STEAM_0:1:53097688> spawned effect models/weapons/tfa_hl2r/c_irifle_og.mdl
+[02:37:40] CCA.C14-GRID.i3.69192<STEAM_0:1:53097688> spawned effect models/weapons/tfa_hl2r/c_irifle.mdl
+[02:37:47] CCA.C14-GRID.i3.69192<STEAM_0:1:53097688> spawned effect models/weapons/tfa_hl2r/c_irifle.mdl
+[02:37:50] CCA.C14-GRID.i3.69192<STEAM_0:1:53097688> spawned effect models/weapons/tfa_hl2r/c_irifle_og.mdl
+[02:37:54] CCA.C14-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/weapons/tfa_hl2r/w_rocket_launcher.mdl
+[02:37:55] CCA.C14-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/weapons/tfa_hl2r/w_shotgun.mdl
+[02:42:48] Client "UFOTube.com" connected.
+[02:49:40] Dropped "CCA.C14-GRID.i3.69192" from server<STEAM_0:1:53097688>
+[03:03:46] Client "nicoida1990" connected.
+[03:05:26] Client "nicoida1990" spawned in server <STEAM_0:1:548052735> (took 100 seconds).
+[03:06:10] Dropped "nicoida1990" from server<STEAM_0:1:548052735>
+
+
+
+[03:37:05] New map: rp_city14_utopia
+[09:14:22] Client "Quibble" connected.
+[16:30:20] Client "Quibble" connected.
+[17:23:20] Client "FB|| light ROOM" connected.
+[17:24:59] Client "FB|| light ROOM" spawned in server <STEAM_0:1:17219621> (took 99 seconds).
+[17:26:00] FB|| light ROOM<STEAM_0:1:17219621> changed their name to Ethan King
+[17:28:53] Ethan King<STEAM_0:1:17219621> changed their name to Lorenz Helmschmied
+[17:29:00] Lorenz Helmschmied<STEAM_0:1:17219621> changed their name to Journey Robertson
+[17:37:24] Journey Robertson<STEAM_0:1:17219621> changed their name to CCA.C14-UNION.EpU.72633
+[17:37:59] CCA.C14-UNION.EpU.72633<STEAM_0:1:17219621> changed their name to CCA.C14-UNION.i2.95912
+[17:39:49] Client "[CGN] Painevan" connected.
+[17:40:31] CCA.C14-UNION.i2.95912<STEAM_0:1:17219621> changed their name to CCA.C14-UNION.EpU.72633
+[17:42:01] Client "[CGN] Painevan" spawned in server <STEAM_0:0:68118061> (took 132 seconds).
+[17:42:35] [CGN] Painevan<STEAM_0:0:68118061> changed their name to Karl Von Habsburg
+[17:42:39] CCA.C14-UNION.EpU.72633<STEAM_0:1:17219621> changed their name to Journey Robertson
+
+
+
+[17:44:59] New map: rp_city14_utopia
+[17:45:14] Client "FB|| light ROOM" connected.
+[17:45:25] Client "[CGN] Painevan" connected.
+[17:46:24] Client "[CGN] Painevan" spawned in server <STEAM_0:0:68118061> (took 59 seconds).
+[17:46:43] Client "FB|| light ROOM" spawned in server <STEAM_0:1:17219621> (took 89 seconds).
+[17:46:48] [CGN] Painevan<STEAM_0:0:68118061> changed their name to Karl Von Habsburg
+[17:47:18] Client "matt saton" connected.
+[17:47:46] FB|| light ROOM<STEAM_0:1:17219621> changed their name to CCA.C14-QrM.98240
+[17:48:19] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 61 seconds).
+[17:49:53] matt saton<STEAM_0:1:53097688> changed their name to James Albright
+[17:49:58] James Albright: //doing homework
+[17:50:01] CCA.C14-QrM.98240: // F
+[17:50:30] CCA.C14-QrM.98240<STEAM_0:1:17219621> changed their name to CCA.C14-UNION.i2.95912
+[17:50:38] CCA.C14-UNION.i2.95912<STEAM_0:1:17219621> changed their name to CCA.C14-UNION.EpU.72633
+[17:50:55] CCA.C14-UNION.EpU.72633<STEAM_0:1:17219621> changed their name to CCA.C14-UNION.i2.95912
+[17:51:07] CCA.C14-UNION.i2.95912: /radio Unit is 10-8, status is green.
+[17:52:12] Karl Von Habsburg<STEAM_0:0:68118061> spawned/gave himself swep tfa_hl2r_frag
+[17:52:21] Karl Von Habsburg<STEAM_0:0:68118061> spawned/gave himself swep tfa_hl2r_crowbar
+[17:52:23] Karl Von Habsburg<STEAM_0:0:68118061> spawned/gave himself swep tfa_hl2r_stunstick
+[17:53:01] CCA.C14-UNION.i2.95912: // HEHE
+[17:53:05] Karl Von Habsburg<STEAM_0:0:68118061> spawned/gave himself swep tfa_rustalpha_pipeshotgun
+[17:53:08] CCA.C14-UNION.i2.95912 killed Karl Von Habsburg using ix_stunstick
+[17:53:15] Karl Von Habsburg<STEAM_0:0:68118061> spawned/gave himself swep tfa_rustalpha_revolver
+[17:53:23] Karl Von Habsburg killed CCA.C14-UNION.i2.95912 using tfa_rustalpha_revolver
+[17:53:25] CCA.C14-UNION.i2.95912: // Ow
+[17:53:28] Karl Von Habsburg<STEAM_0:0:68118061> spawned/gave himself swep tfa_rustalpha_handcannon
+[17:53:32] CCA.C14-UNION.i2.95912: // There goes all my ammo ;-;
+[17:53:35] Karl Von Habsburg killed CCA.C14-UNION.i2.95912 using tfa_rustalpha_handcannon
+[17:53:47] Karl Von Habsburg<STEAM_0:0:68118061> spawned/gave himself swep tfa_rustalpha_f1_grenade
+[17:53:49] CCA.C14-UNION.i2.95912<STEAM_0:1:17219621> changed their name to CCA.C14-ECHO.OSS.39412
+[17:54:08] CCA.C14-ECHO.OSS.39412: // Why does my OSS not have any ammo either ;-;
+[17:54:35] CCA.C14-ECHO.OSS.39412<STEAM_0:1:17219621> changed their name to CCA.C14-UNION.EpU.72633
+[17:54:42] CCA.C14-UNION.EpU.72633<STEAM_0:1:17219621> changed their name to CCA.C14-QrM.98240
+[17:54:46] Karl Von Habsburg<STEAM_0:0:68118061> spawned NPC npc_combine_s
+[17:54:53] Karl Von Habsburg<STEAM_0:0:68118061> spawned/gave himself swep tfa_rustalpha_shotgun
+[17:55:02] Karl Von Habsburg<STEAM_0:0:68118061> spawned NPC npc_combine_s
+[17:55:07] Karl Von Habsburg<STEAM_0:0:68118061> spawned NPC npc_poisonzombie
+[17:55:17] Karl Von Habsburg removed ragdolls
+[17:55:17] Karl Von Habsburg: !removeragdolls
+[17:55:20] Karl Von Habsburg suicided!
+[17:55:20] Karl Von Habsburg slayed Themself
+[17:55:20] Karl Von Habsburg: !slay ^
+[17:55:44] CCA.C14-QrM.98240: Haha
+[17:55:47] CCA.C14-QrM.98240: Me is 98240
+[17:55:48] CCA.C14-QrM.98240: haha
+[17:56:01] Karl Von Habsburg<STEAM_0:0:68118061> spawned NPC npc_metropolice
+[17:56:17] CCA.C14-QrM.98240: .// RUDE
+[17:56:32] CCA.C14-QrM.98240 killed Karl Von Habsburg using ix_stunstick
+[17:56:51] Karl Von Habsburg<STEAM_0:0:68118061> used the tool creator on maps/rp_city14_utopia.bsp
+[17:56:51] Karl Von Habsburg<STEAM_0:0:68118061> spawned/gave himself swep weapon_vj_mp40
+[17:56:58] CCA.C14-QrM.98240 killed Karl Von Habsburg using player
+[17:57:10] Karl Von Habsburg<STEAM_0:0:68118061> spawned NPC npc_zombine
+[17:57:59] Karl Von Habsburg<STEAM_0:0:68118061> spawned/gave himself swep weapon_vj_rpg
+[17:58:10] Karl Von Habsburg killed CCA.C14-QrM.98240 using player
+[17:58:12] CCA.C14-QrM.98240: // OW
+[17:58:14] Karl Von Habsburg suicided!
+[17:58:20] Karl Von Habsburg<STEAM_0:0:68118061> spawned/gave himself swep weapon_vj_rpg
+[17:58:29] Karl Von Habsburg suicided!
+[17:58:39] Karl Von Habsburg<STEAM_0:0:68118061> spawned/gave himself swep weapon_vj_glock17
+[17:59:02] Karl Von Habsburg killed CCA.C14-QrM.98240 using player
+[17:59:02] CCA.C14-QrM.98240: .// Rude
+[17:59:24] CCA.C14-QrM.98240: // Fucking rude
+[17:59:31] Karl Von Habsburg killed CCA.C14-QrM.98240 using player
+[18:00:26] CCA.C14-QrM.98240: Rude
+[18:00:30] CCA.C14-QrM.98240: pain4
+[18:00:30] CCA.C14-QrM.98240: pain4
+[18:00:31] CCA.C14-QrM.98240: pain4
+[18:00:32] CCA.C14-QrM.98240: pain4
+[18:00:32] CCA.C14-QrM.98240: pain4
+[18:00:33] CCA.C14-QrM.98240: pain4
+[18:00:34] CCA.C14-QrM.98240: pain4
+[18:00:35] CCA.C14-QrM.98240: pain4
+[18:00:35] CCA.C14-QrM.98240: pain4
+[18:00:35] Karl Von Habsburg<STEAM_0:0:68118061> spawned/gave himself swep weapon_vj_spas12
+[18:00:36] CCA.C14-QrM.98240: pain4
+[18:00:36] CCA.C14-QrM.98240: pain4
+[18:00:37] CCA.C14-QrM.98240: pain4
+[18:00:37] Karl Von Habsburg killed CCA.C14-QrM.98240 using player
+[18:00:38] CCA.C14-QrM.98240: pain4
+[18:01:35] CCA.C14-QrM.98240<STEAM_0:1:17219621> changed their name to Ethan King
+[18:01:57] Ethan King: // You say anything?
+[18:02:10] Ethan King: .// You are the loser here dumb fuck
+[18:02:33] Ethan King: I get priority grade rations and just about anything I want.
+[18:02:39] Ethan King: You get jackshit
+[18:02:57] Ethan King: I even have a better room that you could ever get.
+[18:03:26] Ethan King: This is WAY fucking nicer than the actual High grade shit.
+[18:03:43] Ethan King: I even have better clothing designed for the cold Nexus.
+[18:04:03] Ethan King: This coming from the guy wearing a lime green shirt.
+[18:04:12] Ethan King: It looks like dogshit
+[18:04:18] Ethan King: I have a radio
+[18:04:35] Ethan King: .// Thats Q being a dumb fuck.
+[18:04:51] Ethan King: Uh.........touche
+[18:05:05] Karl Von Habsburg<STEAM_0:0:68118061> spawned sent ix_station_forge
+[18:05:09] Ethan King: BUT, do you get a nice comfy talk with the sectorial?
+[18:05:18] Ethan King: I thought not.
+[18:05:23] Ethan King: He is kinda gamer.
+[18:06:03] Ethan King: Amazing enough, I can pretty much order around i5's and shit.
+[18:06:24] Ethan King: Mostly because they don't understand that I have no REAL jurisdiction so they assume i'm high up.
+[18:06:34] Ethan King: Because the SeC is nice and shit.
+[18:06:48] Ethan King: Nice to ME.
+[18:06:57] Ethan King: Ethan King is a chad.
+[18:07:04] Client "Anomalyte" connected.
+[18:07:20] Ethan King: You are a dumbo wearing a lime green shirt.
+[18:08:08] Ethan King: And also doesn't live in TOTAL safety, unlike me.
+[18:08:23] Ethan King: But also, fuck those blue berry normies.
+[18:08:39] Ethan King: And the chances of that happening?
+[18:09:10] Ethan King: But the campaign has been concluded, why would they fucking explode now?
+[18:09:50] Ethan King: Fuck you, I live in total safety. Rebels could never reach me and zombies/antlions couldn't do shit to me.
+[18:10:13] Ethan King: I get amazing food and water, clothing, comfort and more.
+[18:10:46] Ethan King: I will not say whether or not Ethan still has rebel intentions or not.
+[18:11:00] Ethan King: So aliens don't have much to do against me.
+[18:11:10] Ethan King: And or don't really care about me.
+[18:11:38] Ethan King: Indeed, that would be obvious. So why would aliens ever fucking care about me?
+[18:11:56] Ethan King: Obviously the Sectorial does.
+[18:12:01] Ethan King: .// Brb
+[18:14:21] Ethan King: Back, you are dumbo
+[18:14:49] Ethan King: Fair, but if he didn't have some use for me....why would he not just kill me?
+[18:15:27] Client "Madeline Wuntch" connected.
+[18:15:30] Ethan King: But why would he need to keep me alive? when have the Combine in any server EVER kept a person alive who is a rebel?
+[18:15:50] Ethan King: We kill every other self proclaimed rebels as well.
+[18:15:56] Ethan King: Ethan is.....different.
+[18:16:26] Ethan King: He's being allowed to live under the conditions which would usually be immediate amputation after they have already gotten all of the info out of me.
+[18:16:43] Ethan King: And they have dried up most of my info, and yet i'm alive.
+[18:17:19] Ethan King: Or he has plans for this char that he hasen't told anyone, I even have proof that he does.
+[18:18:00] Ethan King: Mostly because the Sectorial recently talked to my Ethan and said that they were figuring out what to do with me, and that he wanted to keep me alive for soem reason.
+[18:18:09] Ethan King: .// Some*
+[18:18:19] Ethan King: Dumbo
+[18:18:57] Ethan King: They would NEVER keep me alive for dumb fuckin reasons, have you seen how the sectorial acts? he kills off any and all rebels he finds.
+[18:19:17] Ethan King: They most likely have a good reason to keep me alive and keep talking to me.
+[18:19:28] Ethan King: If they didn't care for me then they would have stopped feeding me ages ago.
+[18:19:40] Ethan King: Get fucked
+[18:19:42] Karl Von Habsburg<STEAM_0:0:68118061> spawned/gave himself swep weapon_vj_flaregun
+[18:19:44] Ethan King was killed by obj_vj_flareround
+[18:19:44] Ethan King: FuCK YOU
+[18:19:51] Karl Von Habsburg: !bring ethan
+[18:19:55] Ethan King: // Get gotted Pain.
+[18:19:56] Karl Von Habsburg brought Ethan King
+[18:19:56] Karl Von Habsburg: !bring ethan
+[18:20:02] Ethan King was killed by obj_vj_flareround
+[18:20:13] Karl Von Habsburg brought Ethan King
+[18:20:13] Karl Von Habsburg: !bring ethan
+[18:21:06] Ethan King<STEAM_0:1:17219621> changed their name to Journey Robertson
+[18:21:20] Karl Von Habsburg<STEAM_0:0:68118061> used the tool creator on maps/rp_city14_utopia.bsp
+[18:21:20] Karl Von Habsburg<STEAM_0:0:68118061> spawned/gave himself swep weapon_vj_flaregun
+[18:21:20] Karl Von Habsburg<STEAM_0:0:68118061> used the tool creator on maps/rp_city14_utopia.bsp
+[18:21:20] Karl Von Habsburg<STEAM_0:0:68118061> spawned/gave himself swep weapon_vj_flaregun
+[18:21:20] Karl Von Habsburg<STEAM_0:0:68118061> used the tool creator on maps/rp_city14_utopia.bsp
+[18:21:20] Karl Von Habsburg<STEAM_0:0:68118061> spawned/gave himself swep weapon_vj_flaregun
+[18:21:32] Journey Robertson: // Imagine being Pain.
+[18:22:04] Karl Von Habsburg: !
+[18:22:36] Journey Robertson<STEAM_0:1:17219621> changed their name to George Temberly
+[18:23:26] George Temberly: // Alrighty, gonna go for a bit. 
+[18:23:26] Client "Anomalyte" spawned in server <STEAM_0:1:104881385> (took 982 seconds).
+[18:23:40] George Temberly: // Oh shit, new player. Guess i'll stay then.
+[18:23:45] Karl Von Habsburg: // yes
+[18:23:48] Karl Von Habsburg: // Ic time
+[18:23:49] George Temberly<STEAM_0:1:17219621> changed their name to CCA.C14-UNION.i2.95912
+[18:23:57] CCA.C14-UNION.i2.95912: // Give ammo dumb cuck
+[18:24:07] Anomalyte<STEAM_0:1:104881385> changed their name to Violetta Albatraoz
+[18:24:10] Karl Von Habsburg: /adminspawnmenu
+[18:24:20] CCA.C14-UNION.i2.95912: .// NICE
+[18:24:22] Karl Von Habsburg: /adminspawnmenu
+[18:24:40] Violetta Albatraoz: /content
+[18:25:48] CCA.C14-UNION.i2.95912: /y GET OVER HERE
+[18:25:53] CCA.C14-UNION.i2.95912: Apply
+[18:25:57] Violetta Albatraoz: /apply
+[18:26:00] CCA.C14-UNION.i2.95912: I see
+[18:26:08] Violetta Albatraoz: .//my char is dying slowly for some reason
+[18:26:11] Violetta Albatraoz: .//just spawned in 
+[18:26:16] CCA.C14-UNION.i2.95912: // Pain, give him some fucking rations or whatever because of fucked hunger.
+[18:26:20] CCA.C14-UNION.i2.95912: I see
+[18:26:28] CCA.C14-UNION.i2.95912: Now then, show me your coupon.
+[18:26:31] Karl Von Habsburg gave Violetta Albatraoz ration
+[18:26:31] Karl Von Habsburg: !give vio ration
+[18:26:39] Karl Von Habsburg: /chargiveitem vio ration 1
+[18:26:46] CCA.C14-UNION.i2.95912: .// Did Pain give you any rations or whatever?
+[18:26:50] Violetta Albatraoz: .//my bad, mounting addons
+[18:26:56] CCA.C14-UNION.i2.95912: .// Ah, no problem
+[18:26:58] Violetta Albatraoz: .//i got one
+[18:27:03] CCA.C14-UNION.i2.95912: .// BET
+[18:27:07] Violetta Albatraoz: .//ty :)
+[18:27:19] Violetta Albatraoz: /me would take their coupon to hand, placing it on the counter
+[18:27:34] CCA.C14-UNION.i2.95912: /me Would pick the coupon and simply place it into one of his pockets.
+[18:27:43] CCA.C14-UNION.i2.95912: Now then
+[18:27:47] CCA.C14-UNION.i2.95912: I will do your data now.
+[18:27:54] Violetta Albatraoz: Understood.
+[18:28:04] CCA.C14-UNION.i2.95912: /me takes out a small PDA and begins typing onto it while whispering the civvies name.
+[18:28:13] CCA.C14-UNION.i2.95912: /oldviewdata Violetta
+[18:28:37] CCA.C14-UNION.i2.95912: Now then
+[18:28:42] CCA.C14-UNION.i2.95912: DOB and blood type?
+[18:28:55] CCA.C14-UNION.i2.95912: .// It is 2006 in this server, just so you know.
+[18:29:11] Violetta Albatraoz: .//Okay, let me just do my math ahh
+[18:29:12] Karl Von Habsburg<STEAM_0:0:68118061> spawned/gave himself swep hl2_m_pickaxe
+[18:29:19] CCA.C14-UNION.i2.95912: .// Lmao, no problem.
+[18:29:56] Karl Von Habsburg removed ragdolls
+[18:29:56] Karl Von Habsburg: !removeragdolls
+[18:30:13] Violetta Albatraoz: 8th of the 8th, 1986, and AB
+[18:30:23] CCA.C14-UNION.i2.95912: 1986......one moment
+[18:30:58] CCA.C14-UNION.i2.95912: .// Welp, uh......sorry about this but imma either take this IC or you gotta make yourself 1 year older.
+[18:31:11] Violetta Albatraoz: .//RIP, use 1985
+[18:31:16] CCA.C14-UNION.i2.95912: .// Because if not then.....I gotta place a bullet inside of your head.
+[18:31:20] CCA.C14-UNION.i2.95912: .// BET
+[18:31:27] CCA.C14-UNION.i2.95912: /oldviewdata Violetta
+[18:31:36] Violetta Albatraoz: .// understood, used to 19/20 being the age limit on most server ahaha
+[18:32:13] CCA.C14-UNION.i2.95912: .// Ah, yeah. 21 is the age limit and I think.....5'3 and 6'4 are the maximum height before we start gunning people down/.
+[18:32:26] CCA.C14-UNION.i2.95912: /oldviewdata Violetta
+[18:32:33] Violetta Albatraoz: .//I need to re-do this desc, I apparently made this char ages ago but i dont recall joining the server lol
+[18:32:49] CCA.C14-UNION.i2.95912: .// Bruh, that explains why you were starving to death.
+[18:32:56] CCA.C14-UNION.i2.95912: .// Only happens to old chars.
+[18:32:56] Violetta Albatraoz: .//ngl good point
+[18:33:01] CCA.C14-UNION.i2.95912: /oldviewdata Violetta
+[18:33:05] Violetta Albatraoz: .//have nothing on me anyway bar a suitcase and that card
+[18:33:17] CCA.C14-UNION.i2.95912: Alright, any medical conditions I need to know about?
+[18:33:31] CCA.C14-UNION.i2.95912: This also means mental conditions.
+[18:33:45] Violetta Albatraoz: None to my knowledge officer.
+[18:33:49] CCA.C14-UNION.i2.95912: I see
+[18:33:54] CCA.C14-UNION.i2.95912: /oldviewdata Violetta
+[18:34:13] CCA.C14-UNION.i2.95912: Seems like everything is fixed up, let me get your CID now.
+[18:34:24] Violetta Albatraoz: Alrighty.
+[18:34:40] Violetta Albatraoz: /me would say, waiting patiently.
+[18:34:44] CCA.C14-UNION.i2.95912: /me Holds out the shiny, new CID for the civvie
+[18:34:50] CCA.C14-UNION.i2.95912: .// Fell down
+[18:34:53] CCA.C14-UNION.i2.95912: .// Fuck
+[18:35:04] Violetta Albatraoz: /me would glance at it with a grin, taking it into her hands, inspecting it.
+[18:35:08] Violetta Albatraoz: Awesome.
+[18:35:11] CCA.C14-UNION.i2.95912: You can go
+[18:35:15] Violetta Albatraoz: Thanks.
+[18:35:17] CCA.C14-UNION.i2.95912: Hm
+[18:35:28] Violetta Albatraoz: .//i dont see nor have the card lol
+[18:35:32] CCA.C14-UNION.i2.95912: /radio Unit going 10-7
+[18:35:35] CCA.C14-UNION.i2.95912<STEAM_0:1:17219621> changed their name to CCA.C14-UNION.EpU.72633
+[18:35:38] CCA.C14-UNION.EpU.72633: // EPOO time
+[18:35:39] Karl Von Habsburg: /chargiveitem karl paper 1
+[18:35:41] Karl Von Habsburg: // nice
+[18:35:47] CCA.C14-UNION.EpU.72633: /radio Unit is 10-8, status is green.
+[18:35:56] Violetta Albatraoz: //i dont have the cid .-.
+[18:36:04] CCA.C14-UNION.EpU.72633: // Bruh, I dropped it for you?
+[18:36:15] Violetta Albatraoz: /pm EpU mind me if im wrong but i dont see it
+[18:36:24] CCA.C14-UNION.EpU.72633: .// I'm OOC
+[18:36:39] Violetta Albatraoz: .// it might be invis for me cause im installing the content atm
+[18:36:41] CCA.C14-UNION.EpU.72633: /reply Still don't see it?
+[18:36:42] Violetta Albatraoz: .//not too sure tho
+[18:36:56] CCA.C14-UNION.EpU.72633: /reply If not then rejoin after closing Garry's mod.
+[18:37:16] Violetta Albatraoz: /pm EpU will rejoin after this last addon, 53/53 installing
+[18:37:23] Karl Von Habsburg: Hello, I was wondering if I could get a task.
+[18:37:24] CCA.C14-UNION.EpU.72633: /reply Alrighty
+[18:37:51] Violetta Albatraoz: .//its invis for me atm, need to join again
+[18:37:54] Violetta Albatraoz: .//give me a mo
+[18:38:05] Dropped "Violetta Albatraoz" from server<STEAM_0:1:104881385>
+[18:38:07] Client "Anomalyte" connected.
+[18:38:16] CCA.C14-UNION.EpU.72633: I see, let me think of what to give you....
+[18:38:18] CCA.C14-UNION.EpU.72633: Hm
+[18:38:22] CCA.C14-UNION.EpU.72633: Ah, I know.
+[18:38:26] CCA.C14-UNION.EpU.72633: Trash duty.
+[18:38:56] CCA.C14-UNION.EpU.72633: /me Opens up one of the drawers and takes out a large folded up trash bag and holds it out to the lime green dumbo man.
+[18:39:07] Karl Von Habsburg<STEAM_0:0:68118061> spawned/gave himself swep tfa_hl2r_crossbow
+[18:39:14] Karl Von Habsburg: /me grabs the bag.
+[18:39:19] CCA.C14-UNION.EpU.72633: Simply pick up any trash you see on the streets, along with anything in the grass.
+[18:39:25] Karl Von Habsburg: Alright
+[18:39:26] CCA.C14-UNION.EpU.72633: Once finished come back to me.
+[18:39:30] Client "Anomalyte" spawned in server <STEAM_0:1:104881385> (took 83 seconds).
+[18:39:35] CCA.C14-UNION.EpU.72633: // Brb
+[18:39:40] CCA.C14-UNION.EpU.72633<STEAM_0:1:17219621> changed their name to George Temberly
+[18:40:07] Anomalyte<STEAM_0:1:104881385> changed their name to Violetta Albatraoz
+[18:40:44] Dropped "Violetta Albatraoz" from server<STEAM_0:1:104881385>
+[18:40:56] Karl Von Habsburg: /me opens the trash bag using one hand, and takes the trash off the ground using the other hand and puts it in the bag.
+[18:41:14] Karl Von Habsburg: /me takes the trash and stuffs it inside the bag.
+[18:41:39] Client "The Milkman (ALIVE)" connected.
+[18:41:42] Client "Anomalyte" connected.
+[18:41:58] Karl Von Habsburg: /me grabs the trash and puts it inside the bag.
+[18:42:18] Karl Von Habsburg: /me grabs the trash and puts it in the trash bag.
+[18:42:38] Karl Von Habsburg: /me grabs the trash and puts it inside the bag.
+[18:43:39] Client "Anomalyte" spawned in server <STEAM_0:1:104881385> (took 117 seconds).
+[18:43:41] Karl Von Habsburg: /me opens the dumpster and throws the bag inside.
+[18:43:51] Karl Von Habsburg: // Can you get on EpU again?
+[18:44:08] Anomalyte<STEAM_0:1:104881385> changed their name to Violetta Albatraoz
+[18:44:24] Violetta Albatraoz: //i see it now :P
+[18:44:33] Karl Von Habsburg: // Cool
+[18:45:03] Karl Von Habsburg: Hello
+[18:45:08] Violetta Albatraoz: Hey
+[18:45:25] Karl Von Habsburg: You new to the city? I saw you exit the train station earlier.
+[18:45:59] Violetta Albatraoz: Yeah, just transferred here. an officer gave me a fresh CID n' all.
+[18:46:24] Karl Von Habsburg: Alright, well might want to get an apartment as the first thing to do here.
+[18:46:33] Karl Von Habsburg: Once an officer comes around.
+[18:46:48] Karl Von Habsburg: I'm just waiting for the officer that was here to come back.
+[18:47:09] Violetta Albatraoz: That's alright then, I'll wait for them to be free and ask after.
+[18:47:27] Karl Von Habsburg: Alright
+[18:47:33] Violetta Albatraoz: I take it you're a local aroun' here then?
+[18:47:58] Karl Von Habsburg: Well I've had two other city transfers until I came here.
+[18:48:13] Karl Von Habsburg: I'm originally from C17 but I came from C08
+[18:48:43] Violetta Albatraoz: I just transferred from City Eight.. it's not doing too bad at the moment to say the least.
+[18:48:45] George Temberly: // Back
+[18:48:49] George Temberly<STEAM_0:1:17219621> changed their name to CCA.C14-UNION.EpU.72633
+[18:49:01] Karl Von Habsburg: Yeah
+[18:49:01] CCA.C14-UNION.EpU.72633: .// I totally did not just teleport behind you.
+[18:49:06] Karl Von Habsburg: /looc yep
+[18:49:06] Violetta Albatraoz: .//literally ahaha
+[18:49:16] Karl Von Habsburg: Alright I finished cleaning up the trash.
+[18:49:20] CCA.C14-UNION.EpU.72633: I noticed
+[18:49:23] CCA.C14-UNION.EpU.72633: Apply
+[18:49:25] Karl Von Habsburg: /apply
+[18:49:43] CCA.C14-UNION.EpU.72633: Go throw that shit into a dumpster located inside the alleyways.
+[18:49:49] Karl Von Habsburg: I did
+[18:49:52] CCA.C14-UNION.EpU.72633: I will do your dat-
+[18:49:53] Karl Von Habsburg: Can't you see?
+[18:49:57] CCA.C14-UNION.EpU.72633: .// You mother fucker.
+[18:49:57] Karl Von Habsburg: /looc stupid
+[18:50:08] Violetta Albatraoz: /me would watch the two converse, waiting patiently.
+[18:50:15] CCA.C14-UNION.EpU.72633: /me Clears his throat quickly and begins talking once again.
+[18:50:17] CCA.C14-UNION.EpU.72633: Yes, I see
+[18:50:51] Karl Von Habsburg: /me looks down for a second so the EpU can't see him roll his eyes.
+[18:50:55] CCA.C14-UNION.EpU.72633: /me Then takes out a PDA and begins typing onto with without saying a word.
+[18:51:01] CCA.C14-UNION.EpU.72633: /oldviewdata Karl
+[18:51:08] CCA.C14-UNION.EpU.72633: The fuck?
+[18:51:23] CCA.C14-UNION.EpU.72633: Who in the hell just put "level four" in your violations tab?
+[18:51:34] Karl Von Habsburg: That was a while ago.
+[18:51:40] Violetta Albatraoz: /me 's eyes would widen, hearing that.
+[18:51:52] Karl Von Habsburg: I ran from police once, but I just got a few cycles.
+[18:52:04] CCA.C14-UNION.EpU.72633: Fucking christ, we have formats for a reason.
+[18:52:09] CCA.C14-UNION.EpU.72633: /oldviewdata Karl
+[18:52:34] Karl Von Habsburg: /me coughs a bit at having to mention that.
+[18:53:09] CCA.C14-UNION.EpU.72633: Alright, you have 6 LP now.
+[18:53:11] CCA.C14-UNION.EpU.72633: Move along
+[18:53:37] Violetta Albatraoz: .//he gone?
+[18:54:18] Karl Von Habsburg<STEAM_0:0:68118061> spawned NPC npc_zombie
+[18:54:23] Violetta Albatraoz: Hey uh, I just transferred here recently and was told by that guy that I should ask for an appartment here?
+[18:54:27] Violetta Albatraoz: Any po-..
+[18:54:30] CCA.C14-UNION.EpU.72633: Ah, I see.
+[18:54:37] CCA.C14-UNION.EpU.72633: Let me go get you one.
+[18:54:46] CCA.C14-UNION.EpU.72633: Follow
+[18:55:10] CCA.C14-UNION.EpU.72633: Hm, looks good
+[18:55:13] CCA.C14-UNION.EpU.72633: Apply
+[18:55:26] Violetta Albatraoz: /me would take her CID from her pocket, reading her new CID digits out.
+[18:55:28] Violetta Albatraoz: /apply
+[18:55:31] CCA.C14-UNION.EpU.72633: I see
+[18:55:33] Karl Von Habsburg: /me locks the door.
+[18:55:38] CCA.C14-UNION.EpU.72633: /me Takes out a small PDA and begins typing onto it.
+[18:55:45] CCA.C14-UNION.EpU.72633: /oldviewdata Violetta
+[18:55:51] Karl Von Habsburg<STEAM_0:0:68118061> spawned ragdoll models/props_c17/furnituremattress001a.mdl
+[18:56:08] Karl Von Habsburg<STEAM_0:0:68118061> spawned model models/props_c17/furnituretable001a.mdl
+[18:56:13] Karl Von Habsburg<STEAM_0:0:68118061> spawned model models/props_interiors/furniture_couch01a.mdl
+[18:56:21] CCA.C14-UNION.EpU.72633: This is now your room, we will issue this room to multiple civvies, expect more people.
+[18:56:27] Violetta Albatraoz: Understood
+[18:56:48] CCA.C14-UNION.EpU.72633: /radio Unit going 10-7, status is green.
+[18:56:56] CCA.C14-UNION.EpU.72633<STEAM_0:1:17219621> changed their name to OTA.C14-ECHO.OWC.69654
+[18:57:22] OTA.C14-ECHO.OWC.69654: // Pain, me need Pulse SMG because Q is dumbo and hasen't made it a real item yet/
+[18:57:35] Karl Von Habsburg: // Yep
+[18:57:46] Karl Von Habsburg<STEAM_0:0:68118061> used the tool creator on maps/rp_city14_utopia.bsp
+[18:57:46] Karl Von Habsburg<STEAM_0:0:68118061> spawned/gave himself swep tfa_psmg
+[18:57:51] OTA.C14-ECHO.OWC.69654: /radio ECHO:ONE out of stasis, 10-8
+[18:58:08] Karl Von Habsburg<STEAM_0:0:68118061> spawned model models/props_lab/citizenradio.mdl
+[18:58:11] OTA.C14-ECHO.OWC.69654: /radio ECHO:ONE updating 10-20 to QZ.
+[18:58:43] Karl Von Habsburg<STEAM_0:0:68118061> spawned model models/props_wasteland/controlroom_filecabinet002a.mdl
+[18:59:20] Karl Von Habsburg<STEAM_0:0:68118061> used the tool permaprops on models/props_c17/furnituretable001a.mdl
+[18:59:21] Karl Von Habsburg<STEAM_0:0:68118061> used the tool permaprops on models/props_lab/citizenradio.mdl
+[18:59:23] Karl Von Habsburg<STEAM_0:0:68118061> used the tool permaprops on models/props_interiors/furniture_couch01a.mdl
+[18:59:23] Karl Von Habsburg<STEAM_0:0:68118061> used the tool permaprops on models/props_c17/furnituremattress001a.mdl
+[18:59:30] Karl Von Habsburg: /me ulocks the door.
+[18:59:39] Karl Von Habsburg: /me locks the door.
+[19:00:57] Karl Von Habsburg<STEAM_0:0:68118061> spawned model models/props_wasteland/controlroom_filecabinet001a.mdl
+[19:01:11] OTA.C14-ECHO.OWC.69654: /radio Unit requesting for another unit to close the QZ forcefield.
+[19:01:34] OTA.C14-ECHO.OWC.69654: /pm Karl Close the forcefield.
+[19:01:43] Karl Von Habsburg: /pm echo one sec
+[19:01:46] OTA.C14-ECHO.OWC.69654: /reply BET
+[19:02:29] Violetta Albatraoz: Hm..
+[19:02:34] Dropped "James Albright" from server<STEAM_0:1:53097688>
+[19:02:37] OTA.C14-ECHO.OWC.69654: // F
+[19:02:39] Karl Von Habsburg: // Rip Q
+[19:02:45] OTA.C14-ECHO.OWC.69654: // Indeed
+[19:02:52] Violetta Albatraoz: //man down
+[19:02:56] OTA.C14-ECHO.OWC.69654: // truly
+[19:03:32] Violetta Albatraoz: Oh boy..
+[19:03:34] Violetta Albatraoz: ...
+[19:03:57] Violetta Albatraoz: I should get down from here.
+[19:04:16] Violetta Albatraoz: ..
+[19:04:35] Violetta Albatraoz: /me would spot the blood coming from the door, wincing at it for a moment.
+[19:04:37] Violetta Albatraoz: The fuck..
+[19:04:37] OTA.C14-ECHO.OWC.69654: // I fucking hate Xen fauna hitboxes.
+[19:04:41] OTA.C14-ECHO.OWC.69654: // They are so fucking wonky.
+[19:04:42] Karl Von Habsburg: // epic
+[19:04:52] Karl Von Habsburg<STEAM_0:0:68118061> spawned NPC npc_zombie
+[19:04:57] Karl Von Habsburg<STEAM_0:0:68118061> spawned NPC npc_zombie_torso
+[19:05:03] Karl Von Habsburg<STEAM_0:0:68118061> spawned NPC npc_zombie_torso
+[19:05:15] Karl Von Habsburg<STEAM_0:0:68118061> spawned NPC npc_zombie
+[19:06:29] OTA.C14-ECHO.OWC.69654: /radio ECHO:ONE has exited the QZ, moving to QZ entrance guard post.
+[19:06:40] Karl Von Habsburg<STEAM_0:0:68118061> spawned model models/props_junk/wood_crate001a_damaged.mdl
+[19:07:20] Karl Von Habsburg<STEAM_0:0:68118061> changed their name to Ben Chomizack
+[19:08:03] Client "The Milkman (ALIVE)" spawned in server <STEAM_0:1:104895897> (took 1584 seconds).
+[19:08:54] Ben Chomizack<STEAM_0:0:68118061> used the tool ledscreen on maps/rp_city14_utopia.bsp
+[19:09:13] Client "Madeline Wuntch" connected.
+[19:09:20] OTA.C14-ECHO.OWC.69654: /radio Unit going 10-7, status is green.
+[19:09:31] OTA.C14-ECHO.OWC.69654: /radio ECHO:ONE returning to stasis.
+[19:09:55] Dropped "Violetta Albatraoz" from server<STEAM_0:1:104881385>
+[19:09:58] OTA.C14-ECHO.OWC.69654: // F
+[19:09:59] Ben Chomizack: // F
+[19:10:18] Ben Chomizack: // They were a good roleplayer too :(
+[19:10:22] OTA.C14-ECHO.OWC.69654: // Honestly
+[19:10:28] Ben Chomizack: // Too bad people arent on today
+[19:10:32] OTA.C14-ECHO.OWC.69654: // Truly
+[19:10:40] OTA.C14-ECHO.OWC.69654<STEAM_0:1:17219621> changed their name to CCA.C14-UNION.EpU.72633
+[19:10:54] CCA.C14-UNION.EpU.72633: /radio Unit is 10-8, status is green.
+[19:11:13] The Milkman (ALIVE)<STEAM_0:1:104895897> changed their name to James Langton
+[19:11:21] James Langton: // hello gamers
+[19:11:56] CCA.C14-UNION.EpU.72633: // Yo
+[19:11:59] CCA.C14-UNION.EpU.72633: // New?
+[19:12:06] Ben Chomizack: // Hey welcome to the server!
+[19:12:14] James Langton: // yeah i just wanted to check out a small server
+[19:12:29] James Langton: // and i think i need to be processed or something here
+[19:12:39] CCA.C14-UNION.EpU.72633: // Ah, good to have you. You can grab the content with /content.
+[19:12:42] Ben Chomizack: // Most of the community isnt on cause for some people its the first day of school or college
+[19:12:48] James Langton: /content
+[19:12:59] Ben Chomizack: // Also discord is with /discord.
+[19:13:00] James Langton: // how many people you usually get?
+[19:13:16] CCA.C14-UNION.EpU.72633: // Around 5 to 6, on a good day we'll get around 9 to 11.
+[19:13:26] Ben Chomizack: // Usually during events we can have up to 12 but on most active days we get around 8-9.
+[19:13:28] James Langton: // i used to admin a small server i get the feel
+[19:13:30] CCA.C14-UNION.EpU.72633: Apply
+[19:13:34] James Langton: Hello, officer.. man.
+[19:13:44] James Langton: Uh, I am James Langton, my CID is..
+[19:13:54] James Langton: 65738
+[19:13:57] CCA.C14-UNION.EpU.72633: I see
+[19:14:05] CCA.C14-UNION.EpU.72633: Drop your Coupon.
+[19:14:18] Client "Madeline Wuntch" spawned in server <STEAM_0:0:193599766> (took 305 seconds).
+[19:14:21] James Langton: /me Reaches into his pocket, setting a reloaction coupon on the desk.
+[19:14:22] CCA.C14-UNION.EpU.72633: // BET
+[19:14:33] CCA.C14-UNION.EpU.72633: /me Grabs the coupon and places it into his pocket.
+[19:14:37] CCA.C14-UNION.EpU.72633: Now then
+[19:14:42] CCA.C14-UNION.EpU.72633: I will do your data now.
+[19:14:49] James Langton: Sounds good.
+[19:14:58] CCA.C14-UNION.EpU.72633: /me Takes out a small PDA and begins typing onto it while whispering the mans name.
+[19:15:03] Client "Secret" connected.
+[19:15:04] CCA.C14-UNION.EpU.72633: /oldviewdata James
+[19:15:23] CCA.C14-UNION.EpU.72633: Alright, DOB and blood type?
+[19:15:32] Ben Chomizack: // What happened to my suitcase full of water?
+[19:15:34] CCA.C14-UNION.EpU.72633: .// It's 2006 on this server, so keep that in mind.
+[19:15:37] Ben Chomizack: // It all disapeared :(
+[19:15:39] CCA.C14-UNION.EpU.72633: // F
+[19:15:39] James Langton: .// o was just gonna ask
+[19:15:49] Ben Chomizack: // Oh wait
+[19:15:53] Ben Chomizack: // Im not on karl
+[19:15:56] Ben Chomizack: // Im stupid
+[19:15:58] CCA.C14-UNION.EpU.72633: // Dumbo
+[19:16:06] James Langton: Uh, september 8th, 1984.
+[19:16:10] James Langton: And O-.
+[19:16:11] CCA.C14-UNION.EpU.72633: Hm
+[19:16:16] CCA.C14-UNION.EpU.72633: 1984....one moment
+[19:16:26] Ben Chomizack<STEAM_0:0:68118061> changed their name to Karl Von Habsburg
+[19:16:29] CCA.C14-UNION.EpU.72633: 22, I see
+[19:16:34] James Langton: .// i hope that doesnt make me underaged- good
+[19:16:51] CCA.C14-UNION.EpU.72633: .// Yeah, underage means a big boi bullet in your head.
+[19:17:02] CCA.C14-UNION.EpU.72633: /me Begins typing onto his PDA once again.
+[19:17:06] James Langton: .// that would be no bueno.
+[19:17:11] CCA.C14-UNION.EpU.72633: /oldviewdata James
+[19:17:43] CCA.C14-UNION.EpU.72633: Any medical conditions I need to know about?>
+[19:17:47] James Langton: .// should prolly put somewhere to request a unit here.
+[19:17:47] CCA.C14-UNION.EpU.72633: .// Fuck
+[19:17:56] James Langton: No, I don't believe so.
+[19:18:01] CCA.C14-UNION.EpU.72633: I see, mental?
+[19:18:02] Madeline Wuntch<STEAM_0:0:193599766> changed their name to CCA.C14-GRID.i3.36307
+[19:18:07] James Langton: No, sir.
+[19:18:10] CCA.C14-UNION.EpU.72633: Good
+[19:18:13] CCA.C14-GRID.i3.36307: /toggleraise
+[19:18:17] CCA.C14-GRID.i3.36307: /toggleraise
+[19:18:17] CCA.C14-UNION.EpU.72633: /oldviewdata Logan
+[19:18:22] CCA.C14-UNION.EpU.72633: /oldviewdata Jame
+[19:18:37] CCA.C14-UNION.EpU.72633: Alright, let me grab your CID.
+[19:18:42] James Langton: Uh-huh.
+[19:18:58] Client "Secret" connected.
+[19:19:07] CCA.C14-UNION.EpU.72633: /me Holds out a shiny, new CID for the boi
+[19:19:12] CCA.C14-GRID.i3.36307: // huh
+[19:19:19] CCA.C14-GRID.i3.36307: // the overlay is gone
+[19:19:20] CCA.C14-UNION.EpU.72633: // GAMER TIME
+[19:19:26] Karl Von Habsburg: // hm
+[19:19:29] James Langton: /me Takes the CID, looking it over a bit before stuffing it in his pocket. He nods to the officer who is definitely not an error.
+[19:19:32] Karl Von Habsburg<STEAM_0:0:68118061> changed their name to CCA.C14-HELIX.i4.50299
+[19:19:35] CCA.C14-UNION.EpU.72633: you can go
+[19:19:36] CCA.C14-HELIX.i4.50299: // It isnt for me
+[19:19:40] CCA.C14-GRID.i3.36307: // hmm
+[19:19:41] James Langton: Thanks..
+[19:19:41] CCA.C14-UNION.EpU.72633: .// Lmao
+[19:19:42] CCA.C14-HELIX.i4.50299: // Wait no it is
+[19:19:49] CCA.C14-UNION.EpU.72633: // Yeah, it is.
+[19:19:55] CCA.C14-HELIX.i4.50299: // I wonder why
+[19:20:02] Karl Von Habsburg: /me Shows ID, Name:TK-66068-394, Rank: Private, Regiment: Stormtrooper
+[19:20:02] CCA.C14-GRID.i3.36307: // i mean its nice to see without a blue tint but
+[19:20:02] CCA.C14-HELIX.i4.50299<STEAM_0:0:68118061> changed their name to Karl Von Habsburg
+[19:20:03] CCA.C14-UNION.EpU.72633: // Never noticed because it's barely noticable in the first place.
+[19:20:10] Karl Von Habsburg: // Also Ratio
+[19:20:15] CCA.C14-UNION.EpU.72633: // No u
+[19:20:17] Karl Von Habsburg: // So one of you get off
+[19:20:22] Dropped "CCA.C14-GRID.i3.36307" from server<STEAM_0:0:193599766>
+[19:20:22] CCA.C14-UNION.EpU.72633: // Fine
+[19:20:24] CCA.C14-UNION.EpU.72633: // Uh
+[19:20:27] Karl Von Habsburg: // lmao
+[19:20:30] Client "Secret" spawned in server <STEAM_0:1:198315719> (took 92 seconds).
+[19:20:38] Karl Von Habsburg: Hey.
+[19:20:40] James Langton: .// why you be t posing tho
+[19:20:44] James Langton: Hello there.
+[19:20:47] Karl Von Habsburg: /looc Thats just you I think
+[19:20:51] James Langton: .// fuck
+[19:21:00] James Langton: I just got here.
+[19:21:10] James Langton: I assume you're not new too?
+[19:21:18] Secret<STEAM_0:1:198315719> changed their name to Joel Maskington
+[19:21:20] CCA.C14-UNION.EpU.72633: // His Gmod fucked up, probably joining back soon.
+[19:21:25] Karl Von Habsburg: Well no I'm not
+[19:21:42] Karl Von Habsburg: But hey welcome to City 14.
+[19:21:44] CCA.C14-UNION.EpU.72633: // Secret, I saw you teleport onto a railing directly in front of me lmao.
+[19:21:54] James Langton: Uh-huh.
+[19:22:06] James Langton: Anything I should know about here?
+[19:22:16] Karl Von Habsburg: Well.
+[19:22:27] Karl Von Habsburg: First you should get an apartment, it'll be nice to have one
+[19:22:43] Karl Von Habsburg: Second try and find some work you can do around the city.
+[19:22:45] James Langton: .// voice chat really threw me off there
+[19:23:03] Karl Von Habsburg: /looc Yeah its enabled because people like to use it
+[19:23:22] James Langton: .// Never played a server with voice chat lmao
+[19:23:25] Karl Von Habsburg: You'll easily find your way around.
+[19:23:27] Karl Von Habsburg: /looc lmao
+[19:23:28] Client "Madeline Wuntch" connected.
+[19:23:36] James Langton: Maybe.. maybe not.
+[19:23:41] James Langton: Who knows.
+[19:23:48] CCA.C14-UNION.EpU.72633: /radio Unit going 10-7
+[19:23:52] CCA.C14-UNION.EpU.72633<STEAM_0:1:17219621> changed their name to CCA.C14-UNION.i2.95912
+[19:24:02] Karl Von Habsburg: Nah I'm sure of it. Just dont go in the Qz, or don't let the combine know you are in the Qz.
+[19:24:12] Karl Von Habsburg: I'm pretty sure the air in there is toxic.
+[19:24:14] James Langton: Qz?
+[19:24:16] CCA.C14-UNION.i2.95912: /radio 10-7
+[19:24:20] CCA.C14-UNION.i2.95912<STEAM_0:1:17219621> changed their name to CCA.C14-UNION.EpU.72633
+[19:24:22] Karl Von Habsburg: Quarantine Zone.
+[19:24:24] CCA.C14-UNION.EpU.72633: /radio 10-8
+[19:24:36] James Langton: Yeah, I'll make sure to not go there.
+[19:24:42] Karl Von Habsburg: Yeah...
+[19:24:50] Karl Von Habsburg: Hello officer
+[19:24:51] CCA.C14-UNION.EpU.72633: Make sure to not go where?
+[19:24:58] Karl Von Habsburg: QZ.
+[19:25:08] CCA.C14-UNION.EpU.72633: Ah, I see. That is valuable information. 
+[19:25:22] CCA.C14-UNION.EpU.72633: Those who go there...don't ever walk out alive.
+[19:25:29] James Langton: Noted.
+[19:25:32] Karl Von Habsburg: I thought I saw you go in there?
+[19:25:33] CCA.C14-UNION.EpU.72633: Good
+[19:25:42] Karl Von Habsburg: Right
+[19:25:43] Karl Von Habsburg: I forgot
+[19:26:03] James Langton: What're you doing hanging out near the Qz then?
+[19:26:12] CCA.C14-UNION.EpU.72633: You forgot that the obvious gas mask that I where will protect me, and that I have things for self de-
+[19:26:17] Karl Von Habsburg: We aren't near it right here.
+[19:26:25] Karl Von Habsburg: Its on the other side of the City.
+[19:26:32] CCA.C14-UNION.EpU.72633: Hm
+[19:26:35] CCA.C14-UNION.EpU.72633: I see
+[19:26:55] James Langton: Yeah, but why'd you go around the dreaded Qz to see officer man go in?
+[19:27:05] James Langton: Mighty suspicious don't ya think.
+[19:27:32] Karl Von Habsburg: Its near the CMB, I was walking there when I saw him go there
+[19:27:37] CCA.C14-UNION.EpU.72633: Fuck
+[19:27:39] James Langton: Fair enough.
+[19:28:00] James Langton: Sounds cool.
+[19:28:02] Karl Von Habsburg: Also here is a tip
+[19:28:30] Client "Madeline Wuntch" spawned in server <STEAM_0:0:193599766> (took 302 seconds).
+[19:28:31] Karl Von Habsburg: Don't get on the officers bad side, they have this one JUDGE unit I think its called, and he has executed every person put on trial.
+[19:28:57] James Langton: Sounds like he's the JUDGE jury and executioner, eh?
+[19:29:05] CCA.C14-UNION.EpU.72633: /radio Unit going 10-7
+[19:29:07] Karl Von Habsburg: Well yeah I think
+[19:29:16] CCA.C14-UNION.EpU.72633<STEAM_0:1:17219621> changed their name to CCA.C14-UNION.i2.95912
+[19:29:18] Karl Von Habsburg: I believe they take Amputation Cases.
+[19:29:29] Karl Von Habsburg: When you do something majorly illegal.
+[19:29:48] James Langton: Doesn't sound much like a trial.
+[19:29:54] Karl Von Habsburg: Its not
+[19:30:37] Client "Kɪɴɢ Goᴊɪ" connected.
+[19:30:40] Karl Von Habsburg: I got put on trial once for running from a combine back in City 8, the JUDGE there luckily only gave me a few cycles
+[19:30:56] James Langton: Cycles?
+[19:31:02] Karl Von Habsburg: Yeah like time in prison
+[19:31:15] James Langton: Oh.
+[19:31:27] James Langton: .// sounds epic
+[19:31:58] Karl Von Habsburg: Yeah, I had to get up to loyalist tier to get myself basic living conditions again
+[19:32:07] Karl Von Habsburg: Now its smooth sailing.
+[19:32:07] Madeline Wuntch<STEAM_0:0:193599766> changed their name to CCA.C14-SCN.49218
+[19:32:16] James Langton: Nice.
+[19:32:28] James Langton: Maybe don't run away from the CPs next time.
+[19:32:38] Karl Von Habsburg: That is the lesson
+[19:32:51] Karl Von Habsburg: So whats your name?
+[19:32:59] James Langton: .// wow a walking scanner
+[19:33:06] CCA.C14-SCN.49218: .// help me
+[19:33:09] CCA.C14-SCN.49218: /toggleraise
+[19:33:13] James Langton: .// no now die
+[19:33:37] James Langton: .// do they gotta use a pill pack every time they spawn
+[19:34:07] Karl Von Habsburg: // Yeah because when they switch characters it reverts them back.
+[19:34:17] Karl Von Habsburg: /looc meant that for looc ;(
+[19:34:43] Karl Von Habsburg: /pm Union you should switch to a citizen or rebel
+[19:34:52] James Langton: .// there isnt a way you all can just make them a scanner when they spawn?
+[19:35:07] Karl Von Habsburg: /looc Yeah but the Owner and dev is in college rn
+[19:35:11] James Langton: \
+[19:35:15] Karl Von Habsburg: /looc So hes pretty busy
+[19:35:16] James Langton: .// F
+[19:35:34] James Langton: .// hl2rp first college second
+[19:35:45] Karl Von Habsburg: Alright well you should find a CP to get an appartment.
+[19:35:56] James Langton: I'll see about that.
+[19:35:58] Karl Von Habsburg: Shoo
+[19:36:12] CCA.C14-UNION.i2.95912: // Back
+[19:36:14] James Langton: Do you think it'd get mad if i shoved it?
+[19:36:16] CCA.C14-UNION.i2.95912: // And alive
+[19:36:20] Karl Von Habsburg: Yep
+[19:36:28] CCA.C14-UNION.i2.95912: /reply No u
+[19:36:29] Karl Von Habsburg: Luckily they can't hear.
+[19:36:35] Karl Von Habsburg: /pm Union yes
+[19:36:37] CCA.C14-UNION.i2.95912: /reply .....fine
+[19:36:42] CCA.C14-UNION.i2.95912<STEAM_0:1:17219621> changed their name to Journey Robertson
+[19:36:44] James Langton: That sounds like a design flaw.
+[19:36:50] Karl Von Habsburg: Quite
+[19:36:58] CCA.C14-SCN.49218: .// is that a pun
+[19:37:08] Journey Robertson: /radio Does anybody read?
+[19:37:09] Karl Von Habsburg: // Pun?
+[19:37:16] James Langton: .// wot
+[19:37:23] Karl Von Habsburg: /looc I dont see a pun
+[19:37:33] CCA.C14-SCN.49218: .// luckily they can't hear. that *sounds* like a design flaw
+[19:37:37] Journey Robertson: // One SCN unit and four civvies be like
+[19:37:42] Karl Von Habsburg: /looc Oh I get it
+[19:37:49] CCA.C14-SCN.49218: // oh god
+[19:37:51] James Langton: .// oh shit
+[19:37:57] Karl Von Habsburg: // Haha
+[19:38:03] James Langton: // time to fuck the scanner
+[19:38:06] Journey Robertson: // Yes
+[19:38:08] CCA.C14-SCN.49218: // wait 
+[19:38:33] James Langton: .// very subtle
+[19:38:39] Journey Robertson: .// No u
+[19:38:44] Journey Robertson: Karl, good to see you.
+[19:38:50] James Langton: .// citizen with a gun what he gonna do
+[19:38:54] Karl Von Habsburg: Good to see you too Journey.
+[19:38:57] CCA.C14-SCN.49218: /me quickly photographs the group of people
+[19:39:00] CCA.C14-SCN.49218: /me zooms off
+[19:39:11] Journey Robertson: .// How did you know?
+[19:39:16] Karl Von Habsburg: Fuck scanners.
+[19:39:19] James Langton: .// you have it.. in your hands
+[19:39:21] Journey Robertson: Indeed
+[19:39:27] Karl Von Habsburg: /looc I dont see that
+[19:39:28] Journey Robertson: .// Bruh what?
+[19:39:30] Journey Robertson: .// I don't
+[19:39:31] Karl Von Habsburg: /looc thats just you
+[19:39:39] James Langton: .// at least on my screen\
+[19:39:45] Karl Von Habsburg: /looc oof
+[19:39:51] Journey Robertson: .// Not gamer
+[19:39:52] James Langton: .// you got an SMG ready to fuck someone up
+[19:39:55] Karl Von Habsburg: // get content that may fix it
+[19:40:01] Dropped "CCA.C14-SCN.49218" from server<STEAM_0:0:193599766>
+[19:40:02] Journey Robertson: Who are these two?
+[19:40:03] Karl Von Habsburg: /looc I hate looc being not ooc
+[19:40:04] James Langton: .// just downloaded it, need to restart
+[19:40:23] Karl Von Habsburg: I don't know, the one over here is new though.
+[19:40:30] James Langton: Yep.
+[19:40:30] Journey Robertson: Ah, good to see you.
+[19:41:00] James Langton: Mmhm.
+[19:41:06] Journey Robertson: And, have fun in this god forsaken city.
+[19:41:11] James Langton: .// just had a lag spike like hell
+[19:41:16] James Langton: I won't.
+[19:41:17] Journey Robertson: .// Me to
+[19:41:18] Karl Von Habsburg: // What the fuck is in the corner of my screen
+[19:41:22] Journey Robertson: /me Chuckles a bit.
+[19:41:24] Journey Robertson: True
+[19:41:39] Journey Robertson: But, atleast try to enjoy it. On good days it's quiet.
+[19:41:43] James Langton: // the symbol of death
+[19:41:48] Journey Robertson: // Indeed
+[19:41:51] James Langton: I can see that.
+[19:41:52] Karl Von Habsburg: // yes
+[19:42:09] Journey Robertson: But, I will...see you around i'm sure. 
+[19:42:13] Journey Robertson: Good day to you Karl
+[19:42:17] James Langton: Probably.
+[19:42:17] Karl Von Habsburg: Yep
+[19:42:25] James Langton: .// can i metagame and steal his gun now
+[19:42:31] Karl Von Habsburg: /looc no
+[19:42:33] Karl Von Habsburg<STEAM_0:0:68118061> spawned/gave himself swep weapon_shotgun
+[19:42:35] James Langton: .// fucl
+[19:42:53] Karl Von Habsburg: Alright, so what is your names?
+[19:42:53] Client "Madeline Wuntch" connected.
+[19:43:04] James Langton: I'm Henry.
+[19:43:44] Karl Von Habsburg: Nice to meet you, I'm Karl Von Habsburg.
+[19:43:57] James Langton: That's a mouthful.
+[19:44:23] Karl Von Habsburg: Well it comes with being hier to the Austro-Hungarian throne.
+[19:44:27] Karl Von Habsburg: Heir*
+[19:44:34] James Langton: Right..
+[19:44:44] James Langton: .// f3 me whore
+[19:45:00] Karl Von Habsburg: /looc I thought I did but lag happened
+[19:45:05] James Langton: .// nice
+[19:45:23] Karl Von Habsburg: // Ayy Q
+[19:45:26] Karl Von Habsburg: // Whats up
+[19:45:32] Journey Robertson: // Yo
+[19:45:35] Journey Robertson: // Dumbo man
+[19:45:35] James Langton: // I will eat your wife
+[19:45:38] Journey Robertson: // Rude
+[19:45:53] Journey Robertson<STEAM_0:1:17219621> changed their name to CCA.C14-UNION.i2.95912
+[19:45:54] James Langton: Anyways.. now what?
+[19:45:57] CCA.C14-UNION.i2.95912: // Brb
+[19:45:58] Karl Von Habsburg: // Yes I can see the hunger and thirst bar
+[19:46:07] Client "Kɪɴɢ Goᴊɪ" spawned in server <STEAM_0:1:45291811> (took 930 seconds).
+[19:46:14] Karl Von Habsburg: Well I need to check on a few things, I'll see you a bit later.
+[19:46:22] James Langton: Uh-huh.
+[19:46:30] James Langton: Yeah.\
+[19:46:43] Karl Von Habsburg<STEAM_0:0:68118061> changed their name to CCA.C14-HELIX.i4.50299
+[19:46:54] CCA.C14-HELIX.i4.50299: /radio Unit is 10-8, moving to work desk.
+[19:46:55] James Langton: /discord
+[19:47:05] James Langton: What?
+[19:47:17] James Langton: Then do it.
+[19:47:20] CCA.C14-HELIX.i4.50299: /pm union aw I wanted to be combino :(
+[19:47:29] James Langton: You can if you put your mind to it.
+[19:47:35] Dropped "Kɪɴɢ Goᴊɪ" from server<STEAM_0:1:45291811>
+[19:47:50] James Langton: You can do anything, as long as you believe,
+[19:47:57] James Langton: So start believing in getting money and food.
+[19:48:21] Client "Madeline Wuntch" spawned in server <STEAM_0:0:193599766> (took 328 seconds).
+[19:48:37] CCA.C14-HELIX.i4.50299: // They keep dcing and rcing
+[19:48:55] CCA.C14-HELIX.i4.50299: Its in the cabinet underneath
+[19:48:56] James Langton: // im gonna restart for those sweet addons
+[19:49:00] CCA.C14-UNION.i2.95912: // Back
+[19:49:03] CCA.C14-HELIX.i4.50299: // Aight
+[19:49:19] CCA.C14-HELIX.i4.50299: Huh? Didn't hear you.
+[19:49:20] James Langton: /discord
+[19:49:32] CCA.C14-HELIX.i4.50299: Sure, just one second.
+[19:49:46] CCA.C14-HELIX.i4.50299: /me takes out a small PDA, and looks at the screen.
+[19:49:50] CCA.C14-HELIX.i4.50299: Hm
+[19:49:57] CCA.C14-UNION.i2.95912: // Imagine being HELIX.
+[19:49:57] Dropped "James Langton" from server<STEAM_0:1:104895897>
+[19:50:19] CCA.C14-HELIX.i4.50299: We have a few barrels that need to be moved to the CWU Factory.
+[19:50:28] CCA.C14-HELIX.i4.50299: Alright follow me.
+[19:50:40] CCA.C14-UNION.i2.95912: // F
+[19:50:53] CCA.C14-HELIX.i4.50299: /pm Union You should let me be on combine for once
+[19:51:12] CCA.C14-HELIX.i4.50299: Hold on.
+[19:51:13] CCA.C14-UNION.i2.95912: /reply Fair
+[19:51:20] CCA.C14-UNION.i2.95912<STEAM_0:1:17219621> changed their name to Journey Robertson
+[19:51:34] CCA.C14-HELIX.i4.50299<STEAM_0:0:68118061> spawned model models/props_c17/oildrum001.mdl
+[19:51:35] CCA.C14-HELIX.i4.50299<STEAM_0:0:68118061> spawned model models/props_c17/oildrum001.mdl
+[19:51:35] CCA.C14-HELIX.i4.50299<STEAM_0:0:68118061> spawned model models/props_c17/oildrum001.mdl
+[19:51:36] CCA.C14-HELIX.i4.50299<STEAM_0:0:68118061> spawned model models/props_c17/oildrum001.mdl
+[19:52:19] CCA.C14-HELIX.i4.50299: Alright, I need you to move these to the factory, I'll wait there for you.
+[19:52:42] Madeline Wuntch<STEAM_0:0:193599766> changed their name to CCA.C14-GRID.i3.36307
+[19:52:53] CCA.C14-GRID.i3.36307: // fuck
+[19:53:00] CCA.C14-HELIX.i4.50299: // Haha nerd
+[19:53:05] Journey Robertson: // NERDDDDDDDDDDDDDDDDDDDDDDDDDDDDD
+[19:53:09] CCA.C14-HELIX.i4.50299: // Its civvie time for you
+[19:53:20] CCA.C14-GRID.i3.36307: // :               C
+[19:53:31] CCA.C14-GRID.i3.36307<STEAM_0:0:193599766> changed their name to Janet Fraiser
+[19:53:31] Journey Robertson: // F
+[19:53:37] Janet Fraiser: // IT WORKED
+[19:53:46] CCA.C14-HELIX.i4.50299: // What did
+[19:53:59] Janet Fraiser: // i was able to switch chars without gmod dying
+[19:54:14] Journey Robertson: // Nice
+[19:54:19] CCA.C14-HELIX.i4.50299: So where are those barrels?
+[19:54:27] CCA.C14-HELIX.i4.50299: hm
+[19:54:29] Journey Robertson: // Death has not occurred for you this time.
+[19:54:46] Janet Fraiser: // *this time*
+[19:54:49] Journey Robertson: // Indeed
+[19:54:58] Journey Robertson: // It will happen again.
+[19:55:15] Client "Mr. Chief" connected.
+[19:55:36] CCA.C14-HELIX.i4.50299: /radio Unit 10-20 ear CWU Factory, status is Green.
+[19:56:19] CCA.C14-HELIX.i4.50299: /radio Raise
+[19:57:05] CCA.C14-HELIX.i4.50299: Alright
+[19:57:08] CCA.C14-HELIX.i4.50299: Nah
+[19:57:11] CCA.C14-HELIX.i4.50299: Just get the rest
+[19:57:38] Journey Robertson<STEAM_0:1:17219621> changed their name to George Temberly
+[19:58:10] George Temberly: // What the fuck did I just see lmao.
+[19:58:16] CCA.C14-HELIX.i4.50299: // Hm?
+[19:58:18] Janet Fraiser: // what
+[19:58:24] Client "matt saton" connected.
+[19:58:28] CCA.C14-HELIX.i4.50299: // brb
+[19:58:55] Janet Fraiser: // thank you console very cool
+[19:59:06] George Temberly: // The Console is kinda cool, unlike that Q guy
+[19:59:17] Client "Mr. Chief" spawned in server <STEAM_0:1:129270116> (took 242 seconds).
+[19:59:35] George Temberly<STEAM_0:1:17219621> changed their name to CCA.C14-UNION.EpU.72633
+[19:59:38] Janet Fraiser: // you can climb chainlink fences?
+[19:59:42] CCA.C14-UNION.EpU.72633: // Ye
+[19:59:48] CCA.C14-UNION.EpU.72633: // Getting on for a reason mind you
+[20:00:18] CCA.C14-UNION.EpU.72633<STEAM_0:1:17219621> changed their name to George Temberly
+[20:00:18] CCA.C14-HELIX.i4.50299: // back
+[20:00:21] George Temberly: //Fixed
+[20:00:25] George Temberly<STEAM_0:1:17219621> changed their name to Journey Robertson
+[20:00:28] CCA.C14-HELIX.i4.50299: Alright good job
+[20:00:30] CCA.C14-HELIX.i4.50299: Apply
+[20:00:33] Joel Maskington: /apply
+[20:00:39] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 135 seconds).
+[20:00:46] CCA.C14-HELIX.i4.50299: /me takes out a small PDA, and begins writing.
+[20:00:49] Mr. Chief<STEAM_0:1:129270116> changed their name to CCA.C14-JUDGE.OfC.91412
+[20:00:52] CCA.C14-JUDGE.OfC.91412: // brooooooo
+[20:00:56] CCA.C14-HELIX.i4.50299: /oldviewdata joel
+[20:00:56] Journey Robertson: // Bro...
+[20:01:06] CCA.C14-JUDGE.OfC.91412: // i got all this spoiled milk on me
+[20:01:14] Journey Robertson: // Lmao, have fun with that
+[20:01:18] CCA.C14-JUDGE.OfC.91412: /radio 10-8, 10-76 to Nomad.
+[20:01:20] Journey Robertson: // Imagine being HELIX
+[20:01:37] matt saton<STEAM_0:1:53097688> changed their name to James Albright
+[20:01:39] James Albright: //gonorrhea
+[20:01:47] Journey Robertson: // No
+[20:01:58] CCA.C14-JUDGE.OfC.91412: // why do the bikes float
+[20:02:03] Journey Robertson: // because why not?
+[20:02:05] Janet Fraiser: // why not
+[20:02:10] James Albright: //they what
+[20:02:12] CCA.C14-JUDGE.OfC.91412: // also entropy: zero was fucking awesome
+[20:02:12] James Albright teleported to CCA.C14-JUDGE.OfC.91412
+[20:02:19] CCA.C14-JUDGE.OfC.91412: // sorry, they levitate
+[20:02:27] James Albright: //what rae you talking about
+[20:02:34] James Albright: //and wecome to the serfver seret, great to hae you
+[20:02:38] CCA.C14-JUDGE.OfC.91412: // the bikes are floating on my screen
+[20:02:39] CCA.C14-HELIX.i4.50299: /oldviewdata joel
+[20:03:02] CCA.C14-HELIX.i4.50299: Alright, you now have 1 LP.
+[20:03:03] CCA.C14-JUDGE.OfC.91412: // the permapropped ones
+[20:03:09] CCA.C14-HELIX.i4.50299: you can go
+[20:03:40] CCA.C14-HELIX.i4.50299: // Idk whats up with that
+[20:03:42] James Albright: .//I
+[20:03:43] James Albright: .//WANT
+[20:03:43] James Albright: .//TO
+[20:03:44] James Albright: .//EDIT
+[20:03:45] James Albright: .//THIS
+[20:03:46] James Albright: .//MAP
+[20:03:54] James Albright: .//and add in the i17 incinerators
+[20:04:04] James Albright: .//i have hte map souce to do it
+[20:04:32] CCA.C14-HELIX.i4.50299: /radio Updating 10-20 to Workdesk.
+[20:04:36] Journey Robertson: // Me no like that I have a Lambda symbol on my screen
+[20:04:47] CCA.C14-JUDGE.OfC.91412: /radio I'm leaving my suitcase of spoiled milk on one of the tables. Don't touch it, it's for torture.
+[20:04:49] James Albright: //it says it's not showing, wtf
+[20:04:52] Journey Robertson: // F
+[20:04:57] CCA.C14-HELIX.i4.50299: // I still see it
+[20:05:01] CCA.C14-JUDGE.OfC.91412: // i dont
+[20:05:01] James Albright: //fixed now?
+[20:05:07] CCA.C14-HELIX.i4.50299: /radio Right..
+[20:05:08] Journey Robertson: // Yes
+[20:05:12] James Albright: //alright
+[20:05:24] James Albright: //hmm today i will add the incinerators from i17 to this mapbecuase i definitely have my priorities in order
+[20:05:36] James Albright: //nah i have to omuch programming stuff to do 
+[20:05:36] Journey Robertson: // TFW make the fucking pulse SMG an item.
+[20:05:43] James Albright: //fuck. yes. i need to do hat.
+[20:05:52] Journey Robertson: // Yes, you do
+[20:05:56] James Albright: //i need a name for it
+[20:05:58] James Albright: //a technical one
+[20:06:01] CCA.C14-JUDGE.OfC.91412: // hmm today you should also look at the secondary combine doc because it defines rank points too
+[20:06:12] James Albright: //that part i will look at
+[20:06:15] CCA.C14-HELIX.i4.50299: // Pulse Sum Macieen goon
+[20:06:17] James Albright: //AR2, SG1, HMG1,  i guess SMG2
+[20:06:19] Journey Robertson: // Standard, Overwatch, SMG.
+[20:06:24] Journey Robertson: // SOS
+[20:06:26] Journey Robertson: // BET
+[20:06:29] James Albright: //SMG2 sounds poopy
+[20:06:30] CCA.C14-HELIX.i4.50299: // Sause
+[20:06:34] CCA.C14-JUDGE.OfC.91412: // pulse smg
+[20:06:42] Journey Robertson: // TFW SOS sounds pretty gamer.
+[20:06:49] CCA.C14-JUDGE.OfC.91412: // SOS is good
+[20:06:56] CCA.C14-HELIX.i4.50299: Umm
+[20:06:59] Journey Robertson: // Why don't you use that Q?
+[20:06:59] James Albright: //SOS? oh, standard overwatch smg
+[20:07:01] James Albright: //sosmg
+[20:07:03] James Albright: //SOSMG
+[20:07:07] James Albright: //kinda like OSIPR
+[20:07:17] James Albright: //OSISMG
+[20:07:18] CCA.C14-HELIX.i4.50299: // What shop does Janet run?
+[20:07:22] James Albright: //souvenirs
+[20:07:22] CCA.C14-JUDGE.OfC.91412<STEAM_0:1:129270116> changed their name to CCA.C14-UNION.i5.60437
+[20:07:22] CCA.C14-UNION.i5.60437: /me strips all comms and weapons and binds hands.
+[20:07:22] Journey Robertson: // Sounds pretty good, although I would consider the SMG a PDW.
+[20:07:24] CCA.C14-UNION.i5.60437: /me strips all comms and weapons and binds hands.
+[20:07:30] Janet Fraiser: // the shitty little hut by the train station
+[20:07:32] CCA.C14-UNION.i5.60437: // can you set this guys model to be not bad
+[20:07:34] James Albright: //PDW?
+[20:07:35] Journey Robertson: // Like how the MP7 is a PDW.
+[20:07:43] Journey Robertson: // Personal, Defense, Weapon.
+[20:07:48] James Albright: /oh
+[20:07:49] James Albright: //oh
+[20:07:50] James Albright: //who
+[20:07:51] Journey Robertson: // It's a SMG that fires rifle like rounds.
+[20:07:58] Journey Robertson: // Pretty cool.
+[20:08:03] James Albright teleported to CCA.C14-UNION.i5.60437
+[20:08:04] James Albright: //oh
+[20:08:06] James Albright: //your anims
+[20:08:11] James Albright: //oh
+[20:08:11] James Albright: //no
+[20:08:13] James Albright: //the mdoel
+[20:08:29] Janet Fraiser: // q can you change the codes on my filing cabinets
+[20:08:38] Journey Robertson: // OSPDW?
+[20:08:40] James Albright: //uhhhhhhhhhhhhhhhhh
+[20:08:42] Journey Robertson: // Sounds pretty good
+[20:08:46] James Albright: //sure???? is it just becuase you forgot them?
+[20:08:49] Journey Robertson: // And it's more accurate.
+[20:08:56] Janet Fraiser: // yes and they're long af
+[20:08:57] James Albright: /charsetmodel i5 models/dpfilms/metropolice/hdpolice.mdl
+[20:09:12] Janet Fraiser: /pm james if so, change them to 2371
+[20:09:15] James Albright: //oh, no, janet doesn't run souvenirs, that's philip, i'm pea brain
+[20:09:22] Journey Robertson: // Bruh
+[20:09:30] CCA.C14-UNION.i5.60437: /radio Beginning patrol.
+[20:09:31] James Albright: /adminspawnmenu
+[20:09:33] Janet Fraiser: // i sell books, but i never get shipments of books
+[20:09:40] CCA.C14-HELIX.i4.50299: /radio Copy that.
+[20:09:46] Journey Robertson: // Also you never get on Janet
+[20:09:51] Janet Fraiser: // fair
+[20:09:51] James Albright: /adminspawnmenu
+[20:09:52] CCA.C14-UNION.i5.60437: /radio Hang on, need 9mm ammo.
+[20:09:53] Journey Robertson: // So that could explain that.
+[20:10:00] CCA.C14-UNION.i5.60437: // hey uh
+[20:10:01] CCA.C14-UNION.i5.60437: // q r m
+[20:10:08] James Albright: /adminspawnmenu
+[20:10:24] James Albright: /adminspawnmenu
+[20:10:47] Journey Robertson: // Fine
+[20:10:51] Journey Robertson<STEAM_0:1:17219621> changed their name to CCA.C14-QrM.98240
+[20:10:52] CCA.C14-UNION.i5.60437: // :)))
+[20:11:00] CCA.C14-QrM.98240: /radio QrM is 10-8
+[20:11:17] CCA.C14-UNION.i5.60437: Can I get some 9mm ammo?
+[20:11:20] CCA.C14-HELIX.i4.50299: /radio Copy.
+[20:11:20] CCA.C14-QrM.98240: Fine
+[20:11:23] Janet Fraiser: // ah yes the book gids
+[20:11:25] Janet Fraiser: // gids
+[20:11:27] Janet Fraiser: // gods
+[20:11:44] CCA.C14-QrM.98240: /me Holds out three small boxes of 9mm ammunition.
+[20:11:52] CCA.C14-UNION.i5.60437: thank you
+[20:11:55] CCA.C14-QrM.98240: Hm
+[20:11:59] CCA.C14-QrM.98240: Wait
+[20:12:04] CCA.C14-QrM.98240: One more thing
+[20:12:25] CCA.C14-QrM.98240: /me Grabs onto both of his shoulders and begins examining the outer layer of the suit.
+[20:12:29] CCA.C14-QrM.98240: .// You can resist if you want
+[20:12:35] CCA.C14-UNION.i5.60437: .// why would i
+[20:12:40] CCA.C14-QrM.98240: .// I know right
+[20:12:41] CCA.C14-UNION.i5.60437: // i've been on 1 patrol
+[20:12:42] CCA.C14-QrM.98240: Hm
+[20:12:43] CCA.C14-UNION.i5.60437: .// fuc
+[20:12:45] CCA.C14-QrM.98240: Looks good
+[20:13:07] CCA.C14-QrM.98240: Just checking, these new suits could be damaged or whatever after they've been manufactured.
+[20:13:10] CCA.C14-QrM.98240: Just precaution
+[20:13:17] CCA.C14-QrM.98240: /me Lets go of the man.
+[20:13:18] CCA.C14-UNION.i5.60437: thanks, sir.
+[20:13:27] CCA.C14-QrM.98240: No need to call me "sir"
+[20:13:35] CCA.C14-QrM.98240: think of me as a friend who gives you shit.
+[20:13:55] CCA.C14-UNION.i5.60437: /radio Now i'm departing for a patrol.
+[20:13:59] Janet Fraiser: // it is time to purchase furniture
+[20:14:00] CCA.C14-QrM.98240: /radio Copy
+[20:14:06] CCA.C14-HELIX.i4.50299: /radio Copy.
+[20:14:14] CCA.C14-HELIX.i4.50299: /pm Qrm now scram off 
+[20:14:18] CCA.C14-QrM.98240: // "Think of me as a friend who gives you shit" QrM in a sentence.
+[20:14:18] Janet Fraiser: // i have been assaulted by books?
+[20:14:22] CCA.C14-QrM.98240: /reply No u
+[20:14:25] CCA.C14-UNION.i5.60437: // STILL CANT BUY FLAVORED WATER
+[20:14:26] CCA.C14-QrM.98240: /radio Unit going 10-7
+[20:14:33] CCA.C14-QrM.98240<STEAM_0:1:17219621> changed their name to George Temberly
+[20:14:45] CCA.C14-HELIX.i4.50299: You sell books right?
+[20:14:50] Janet Fraiser: yes, officer.
+[20:14:59] George Temberly: // HEHE, i4 and i5 on only.
+[20:15:03] George Temberly: // HEHE
+[20:15:06] CCA.C14-HELIX.i4.50299: What Novels do you have?
+[20:15:17] Janet Fraiser: /me puts 3 books on the counter
+[20:15:27] Janet Fraiser: .// dont
+[20:15:36] Janet Fraiser: .// dont touch the stacked ones lmao
+[20:15:42] George Temberly<STEAM_0:1:17219621> changed their name to Journey Robertson
+[20:15:50] CCA.C14-HELIX.i4.50299: I'll take the heart one.
+[20:15:56] CCA.C14-HELIX.i4.50299: I always liked Poe.
+[20:16:03] Janet Fraiser: that'll be uh
+[20:16:11] CCA.C14-HELIX.i4.50299: 20 Tokens.
+[20:16:13] Janet Fraiser: .// shit
+[20:16:27] Janet Fraiser: I need uh
+[20:16:33] CCA.C14-HELIX.i4.50299: /droptokens 20
+[20:16:37] CCA.C14-UNION.i5.60437: /radio Uhh, the sewer grate is open.
+[20:16:43] Janet Fraiser: Well I'd get a random guy's name and stuff but uh
+[20:16:48] CCA.C14-HELIX.i4.50299: /radio Copy, don't worry about it.
+[20:16:52] Journey Robertson: // TFW my pipe is gone from my inventory.
+[20:16:53] CCA.C14-UNION.i5.60437: /radio Copy.
+[20:17:05] CCA.C14-HELIX.i4.50299: Name?
+[20:17:13] Janet Fraiser: yes
+[20:17:25] CCA.C14-HELIX.i4.50299: I don't know what you mean by that.
+[20:17:38] Janet Fraiser: .// are you asking for my name or
+[20:17:45] CCA.C14-HELIX.i4.50299: /looc No thats the author
+[20:17:57] CCA.C14-HELIX.i4.50299: /looc Edgar Allen Poe
+[20:18:03] Janet Fraiser: .// im
+[20:18:06] CCA.C14-HELIX.i4.50299: /looc FUK
+[20:18:12] CCA.C14-HELIX.i4.50299: /looc I got the author wrong
+[20:18:16] CCA.C14-HELIX.i4.50299: /looc oh well
+[20:18:17] Joel Maskington: /looc philistine
+[20:18:23] CCA.C14-HELIX.i4.50299: Well, I'll go
+[20:18:24] Janet Fraiser: .// the author on the book is wrong
+[20:18:32] CCA.C14-HELIX.i4.50299: /looc It might be
+[20:18:33] Janet Fraiser: have a good day, Officer.
+[20:18:48] CCA.C14-HELIX.i4.50299: You too.
+[20:18:55] Janet Fraiser: yes
+[20:19:01] CCA.C14-HELIX.i4.50299: // The author on the Tell Tale Heart is wrong
+[20:19:03] CCA.C14-UNION.i5.60437: // the entropy zero flashlight hurt my eyes so much
+[20:19:09] CCA.C14-HELIX.i4.50299: // Its by Edgar Allen Poe
+[20:19:10] Janet Fraiser: You uh
+[20:19:11] Journey Robertson: // I fucking love it.
+[20:19:21] CCA.C14-UNION.i5.60437: // i mean it was cool
+[20:19:21] Janet Fraiser: Go to the CWU building, they do applications sometime
+[20:19:22] Journey Robertson: // The entropy zero NV is amazing.
+[20:19:29] Journey Robertson<STEAM_0:1:17219621> changed their name to Ethan King
+[20:19:35] Ethan King: // gamer time
+[20:19:35] CCA.C14-UNION.i5.60437: // it was but it still hurt my eyes
+[20:19:39] Ethan King: // Fair
+[20:19:48] Janet Fraiser: Highschool runner, The tell-tale heart, The black cat
+[20:20:00] CCA.C14-HELIX.i4.50299: // What are you gonna do on King, sit in a room all day?
+[20:20:10] Ethan King: // Eh, vibe and listen to music for a bit.
+[20:20:10] CCA.C14-UNION.i5.60437: // shut up bookworm
+[20:20:24] CCA.C14-HELIX.i4.50299: // Shut up i5
+[20:20:25] Ethan King: // Maybe get visited by JUDGE OfC and bullied.
+[20:20:29] CCA.C14-UNION.i5.60437: // shut up HELIX
+[20:20:36] CCA.C14-HELIX.i4.50299: // Shut up union
+[20:20:56] Janet Fraiser: which one?
+[20:21:02] Ethan King: // Imagine being HELIX.
+[20:21:20] Janet Fraiser: 20 tokens
+[20:21:20] Ethan King: // TFW HELIX and GRID are both shit.
+[20:21:25] Joel Maskington: /droptokens 20
+[20:21:27] CCA.C14-HELIX.i4.50299: // Imagine being Union and not something better like judge
+[20:21:33] CCA.C14-HELIX.i4.50299: // Helix is cool
+[20:21:33] Janet Fraiser: I need your name
+[20:21:40] CCA.C14-HELIX.i4.50299: // You just dont know how to do medical rp
+[20:21:41] Ethan King: // Imagine not being the backbone of the CCA.
+[20:21:42] Janet Fraiser: right
+[20:21:53] CCA.C14-UNION.i5.60437: // i know medical rp and it sux
+[20:21:58] CCA.C14-HELIX.i4.50299: // Imagine being the least interesting unit
+[20:22:04] CCA.C14-HELIX.i4.50299: // It dont suck its fun
+[20:22:10] CCA.C14-UNION.i5.60437: // No
+[20:22:35] Ethan King: // TFW of course I don't know medicalRP, I never fucking do it because personally it sucks ass to me.
+[20:22:46] Janet Fraiser: // medical rp is awesome
+[20:22:52] CCA.C14-HELIX.i4.50299: // Yeah it is
+[20:23:12] Ethan King: // Just do the old "SLAPS FUCKING BANDAGE DOWN" or "APPLIES THE FUCKING GREEN VIAL TO THE WOUND" and it works.
+[20:23:31] Janet Fraiser: // imagine not doing the ABCs
+[20:23:53] CCA.C14-UNION.i5.60437: what's with the junk in that room?
+[20:24:02] CCA.C14-HELIX.i4.50299: What room?
+[20:24:05] CCA.C14-UNION.i5.60437: this one
+[20:24:15] CCA.C14-HELIX.i4.50299: I've never been in here
+[20:24:17] CCA.C14-UNION.i5.60437: hm
+[20:24:29] Ethan King: // Imagine existing (This post was made by the idea that UNION "is the most populated CCA division")
+[20:24:34] Janet Fraiser: // it's beep boop time
+[20:24:42] Dropped "Janet Fraiser" from server<STEAM_0:0:193599766>
+[20:24:47] Ethan King: // F
+[20:24:57] CCA.C14-HELIX.i4.50299: // Nah they gonna get back on
+[20:24:59] Ethan King: // Guessing Garry's mod fucked up
+[20:25:03] CCA.C14-HELIX.i4.50299: // They keep crashing
+[20:25:03] Ethan King: // Yeah
+[20:25:05] Ethan King: // 
+[20:25:07] Ethan King: // F
+[20:26:07] CCA.C14-UNION.i5.60437: // i like how the voicelines in entropy zero are in the overwatch category
+[20:26:17] Ethan King: // True
+[20:26:18] CCA.C14-HELIX.i4.50299: // yes
+[20:27:07] Ethan King<STEAM_0:1:17219621> changed their name to Journey Robertson
+[20:27:09] Client "Madeline Wuntch" connected.
+[20:27:54] Journey Robertson: // Holy shit did I just do that
+[20:27:59] CCA.C14-HELIX.i4.50299: // Do what
+[20:28:02] Journey Robertson: // Nothing
+[20:28:06] CCA.C14-HELIX.i4.50299: // mk
+[20:28:45] CCA.C14-UNION.i5.60437: // soooooooo
+[20:28:52] Journey Robertson: // No
+[20:29:07] CCA.C14-UNION.i5.60437: // we should totally do a random apartment raid :metropog:
+[20:29:13] Journey Robertson: // We should totally do CCA veteranRP
+[20:29:24] Journey Robertson: // Meaning, 98240 and 914 in the same room.
+[20:29:57] CCA.C14-HELIX.i4.50299: // Why is SCP-914 in this
+[20:30:10] Journey Robertson: // No clue, you tell me?
+[20:30:20] CCA.C14-HELIX.i4.50299: // You mentioned 914
+[20:30:47] Journey Robertson: // I'll assume your joking like any normal person with a functioning brain.
+[20:31:11] CCA.C14-HELIX.i4.50299: Hey i5, you should go on patrol.
+[20:31:27] CCA.C14-UNION.i5.60437: I just finished one, but I got nothing better to do.
+[20:31:34] CCA.C14-UNION.i5.60437: /radio Starting a patrol.
+[20:32:11] CCA.C14-HELIX.i4.50299<STEAM_0:0:68118061> spawned NPC npc_headcrab_black
+[20:32:13] Client "Madeline Wuntch" spawned in server <STEAM_0:0:193599766> (took 304 seconds).
+[20:32:19] CCA.C14-HELIX.i4.50299: // lmao
+[20:32:23] CCA.C14-HELIX.i4.50299: // I was right
+[20:32:43] Journey Robertson: Oh my
+[20:33:06] CCA.C14-UNION.i5.60437: /radio Virome expired near 10-20 Dorilsk.
+[20:33:20] CCA.C14-HELIX.i4.50299: /radio Copy, I'll move out to go dispose of it.
+[20:33:23] CCA.C14-UNION.i5.60437: /me kicks the corpse with his foot.
+[20:33:40] Journey Robertson: I'm sure it's dead, you shot it like eight times
+[20:33:44] CCA.C14-UNION.i5.60437: hm
+[20:33:48] CCA.C14-UNION.i5.60437: go about your business
+[20:33:49] Journey Robertson: WAY past dead
+[20:33:51] CCA.C14-UNION.i5.60437: /toggleraise
+[20:33:53] Journey Robertson: Maybe
+[20:33:54] CCA.C14-UNION.i5.60437: /toggleraise
+[20:34:11] CCA.C14-HELIX.i4.50299: Alrighy
+[20:34:15] Joel Maskington: ty
+[20:34:17] CCA.C14-HELIX.i4.50299: /looc Alright*
+[20:34:23] CCA.C14-UNION.i5.60437: continuing patrol.
+[20:34:27] CCA.C14-HELIX.i4.50299: /me puts on some rubber gloves.
+[20:35:08] CCA.C14-UNION.i5.60437: /radio How could that have gotten there? I thought the QZ was closed off entirely.
+[20:35:38] Madeline Wuntch<STEAM_0:0:193599766> changed their name to CCA.C14-SCN.49218
+[20:35:44] CCA.C14-HELIX.i4.50299: /radio Some headcrabs slip past the barrier sometimes from the rooftops, but usually they come from the sewers.
+[20:35:52] CCA.C14-UNION.i5.60437: /radio I see.
+[20:36:04] CCA.C14-SCN.49218: // oh no
+[20:36:05] CCA.C14-UNION.i5.60437: /me holsters his pistol and takes out his stun baton.
+[20:36:08] CCA.C14-SCN.49218: // SOS
+[20:36:09] Journey Robertson: // F
+[20:36:11] CCA.C14-HELIX.i4.50299: // Hekking scanner
+[20:36:15] CCA.C14-HELIX.i4.50299: // Imagine being combine
+[20:36:30] CCA.C14-HELIX.i4.50299: // Why cant the ratio ever have nice things
+[20:36:57] CCA.C14-HELIX.i4.50299: /pm Scn Can you switch off to Civvie or no?
+[20:37:01] Journey Robertson: // Imagine having yellow, glowing visors in your desc but not on your model (This post was made by fix the Desc dumbo)
+[20:37:12] CCA.C14-SCN.49218: /pm helix sure :C
+[20:37:14] CCA.C14-UNION.i5.60437: eugh
+[20:37:18] CCA.C14-HELIX.i4.50299: // No fuck you
+[20:37:26] Journey Robertson: // Dumbo
+[20:37:31] Journey Robertson: // MY IMMERSION.
+[20:37:37] CCA.C14-HELIX.i4.50299<STEAM_0:0:68118061> spawned NPC npc_headcrab
+[20:37:40] CCA.C14-HELIX.i4.50299<STEAM_0:0:68118061> spawned NPC npc_headcrab
+[20:37:48] Journey Robertson: // Fucking rude
+[20:38:04] CCA.C14-SCN.49218: // e
+[20:38:18] CCA.C14-SCN.49218: // maybe i wont crash this time
+[20:38:24] CCA.C14-HELIX.i4.50299: //yes
+[20:38:26] Journey Robertson: // Let us hope
+[20:38:26] CCA.C14-SCN.49218<STEAM_0:0:193599766> changed their name to Janet Fraiser
+[20:38:30] Janet Fraiser: // WOW
+[20:38:35] Journey Robertson: // WOAH BRO
+[20:39:18] Journey Robertson: Sir
+[20:39:24] Journey Robertson: A headcrab is in the Plaza
+[20:39:29] CCA.C14-HELIX.i4.50299: ?
+[20:39:30] CCA.C14-HELIX.i4.50299: Alright
+[20:39:31] CCA.C14-UNION.i5.60437: /radio Finalizing patrol.
+[20:39:32] Journey Robertson: Look
+[20:39:43] Journey Robertson: Do you happen to understand balli-
+[20:39:46] Journey Robertson: Whatever
+[20:39:53] CCA.C14-HELIX.i4.50299: // Fuck the pistol is innacurate
+[20:40:31] Journey Robertson: // TFW ballistics exist for the TFA weapons, so you shooting directly centered at that distance is dumbo.
+[20:40:42] Journey Robertson: // With a 9mm pistol for that matter.
+[20:40:45] CCA.C14-UNION.i5.60437: // i have a cheat for the pistol hehe
+[20:41:12] CCA.C14-HELIX.i4.50299<STEAM_0:0:68118061> spawned NPC npc_headcrab_black
+[20:41:24] Janet Fraiser: /PM
+[20:41:36] CCA.C14-HELIX.i4.50299<STEAM_0:0:68118061> spawned NPC npc_fastzombie
+[20:41:53] CCA.C14-UNION.i5.60437: /radio That's the QZ, right?
+[20:41:57] CCA.C14-HELIX.i4.50299: Hey
+[20:41:59] Janet Fraiser: HELP
+[20:42:01] CCA.C14-HELIX.i4.50299: No running
+[20:42:04] Janet Fraiser: THERE'S A BLACK HEADCRAB
+[20:42:05] CCA.C14-HELIX.i4.50299: Wha-
+[20:42:06] CCA.C14-HELIX.i4.50299: Where
+[20:42:13] CCA.C14-HELIX.i4.50299: /radio I think
+[20:42:21] Janet Fraiser: By the locked building
+[20:42:25] Janet Fraiser: A factory, I think
+[20:42:26] CCA.C14-HELIX.i4.50299: /radio 10-91 Reported Virome, investigating.
+[20:42:29] CCA.C14-HELIX.i4.50299: Alright
+[20:42:33] CCA.C14-UNION.i5.60437: /radio 10-20?
+[20:42:40] CCA.C14-HELIX.i4.50299: /radio Factory.
+[20:43:07] Janet Fraiser: .// im gonna do some hot loot rp
+[20:43:20] CCA.C14-HELIX.i4.50299: /radio Virome is dead,
+[20:43:28] CCA.C14-HELIX.i4.50299: /me puts on rubber gloves.
+[20:43:31] CCA.C14-UNION.i5.60437: /radio Copy.
+[20:43:35] CCA.C14-HELIX.i4.50299: /me picks up the headcrab
+[20:43:37] Janet Fraiser: .// aren't you already wearing gloves
+[20:43:40] CCA.C14-HELIX.i4.50299: Move along
+[20:43:55] CCA.C14-HELIX.i4.50299: /looc Yeah but it doesnt stop the poison
+[20:44:25] CCA.C14-HELIX.i4.50299: /me throws the headcrab into the bin.
+[20:44:39] Janet Fraiser: /pm pain im gonna do some loot rp, can you assist with this
+[20:44:47] CCA.C14-HELIX.i4.50299: Alright
+[20:44:48] CCA.C14-UNION.i5.60437: third time already
+[20:44:50] Janet Fraiser: /pm helix im gonna do some loot rp, can you assist with this
+[20:44:59] CCA.C14-HELIX.i4.50299: There has been days with more of these.
+[20:45:03] CCA.C14-UNION.i5.60437: hm
+[20:45:14] CCA.C14-HELIX.i4.50299: Alright I need to go to the medbay, radio if you need me.
+[20:45:18] CCA.C14-UNION.i5.60437: copy
+[20:45:27] Journey Robertson: // Brb
+[20:45:40] CCA.C14-UNION.i5.60437: /radio Updating 10-20 workdesk.
+[20:45:44] CCA.C14-HELIX.i4.50299: /radio Copy.
+[20:46:24] Janet Fraiser: /roll
+[20:46:33] CCA.C14-HELIX.i4.50299: /adminspawnmenu
+[20:46:49] Janet Fraiser: /me digs through the cab of the truck
+[20:46:56] CCA.C14-HELIX.i4.50299: /it You find a small padlock.
+[20:47:08] Janet Fraiser: .// hot
+[20:47:21] Janet Fraiser: /me rummages through the car
+[20:47:22] Janet Fraiser: /roll
+[20:47:32] CCA.C14-HELIX.i4.50299: /adminspawnmenu
+[20:47:57] Journey Robertson: // Back, gamer time
+[20:48:03] CCA.C14-UNION.i5.60437: // chad moment
+[20:48:05] CCA.C14-HELIX.i4.50299: /it You find a roll of duct tape.
+[20:48:12] Journey Robertson<STEAM_0:1:17219621> changed their name to Ethan King
+[20:48:15] CCA.C14-HELIX.i4.50299: // ayy
+[20:48:17] Janet Fraiser: /me puts the tape in her pocket
+[20:48:20] Ethan King: // Tis indeed, a chad moment
+[20:48:23] Janet Fraiser: /me rummages through the car
+[20:48:24] Janet Fraiser: /roll
+[20:48:25] Ethan King<STEAM_0:1:17219621> changed their name to George Temberly
+[20:48:28] CCA.C14-HELIX.i4.50299: /adminspawnmenu
+[20:48:51] Janet Fraiser: .// an errir
+[20:49:00] CCA.C14-HELIX.i4.50299: // void shots
+[20:49:03] George Temberly: // No
+[20:49:04] Janet Fraiser: .// what
+[20:49:15] CCA.C14-UNION.i5.60437: /me sighs.
+[20:50:06] CCA.C14-UNION.i5.60437: what can I help you with
+[20:50:17] CCA.C14-UNION.i5.60437: hmm, let me chcek
+[20:50:20] Janet Fraiser: .// what the fuck did you spawn
+[20:50:23] CCA.C14-UNION.i5.60437: check*
+[20:50:28] George Temberly: // Imagine being CCA
+[20:50:32] George Temberly: // And not OTA
+[20:50:51] CCA.C14-UNION.i5.60437: /me searches around a little bit, and picks up a broom.
+[20:51:00] CCA.C14-HELIX.i4.50299<STEAM_0:0:68118061> spawned/gave himself swep tfa_suppressor
+[20:51:08] CCA.C14-UNION.i5.60437: // can i get PET flags on this guy
+[20:51:23] CCA.C14-HELIX.i4.50299: /chargiveflag union pet
+[20:51:33] CCA.C14-UNION.i5.60437<STEAM_0:1:129270116> spawned model models/props_combine/breenclock.mdl
+[20:51:36] CCA.C14-HELIX.i4.50299<STEAM_0:0:68118061> spawned/gave himself swep weapon_crossbow_hl
+[20:51:48] Janet Fraiser: .// YES
+[20:51:49] George Temberly<STEAM_0:1:17219621> changed their name to CCA.C14-QrM.98240
+[20:51:55] CCA.C14-UNION.i5.60437: /me withdraws a stack of posters, and a small cardboard box of pins.
+[20:51:57] CCA.C14-HELIX.i4.50299: /adminspawnmenu
+[20:52:06] CCA.C14-UNION.i5.60437: put these up in a few places around the city.
+[20:52:14] CCA.C14-UNION.i5.60437: /it The pile had 5 posters in it.
+[20:52:18] CCA.C14-HELIX.i4.50299: /it You find two boxes of gunpowder
+[20:52:24] CCA.C14-UNION.i5.60437: return when you're finished.
+[20:52:26] Joel Maskington: /me takes the posters and pins
+[20:52:42] CCA.C14-QrM.98240: // I can't equip my MP7U ;-;
+[20:52:46] Janet Fraiser: /me searches the van
+[20:52:48] CCA.C14-HELIX.i4.50299: // hah nerd
+[20:52:48] Janet Fraiser: /roll
+[20:52:51] CCA.C14-QrM.98240: // Rude
+[20:52:51] Janet Fraiser: .// :(
+[20:52:53] CCA.C14-HELIX.i4.50299: /adminspawnmenu
+[20:53:03] CCA.C14-QrM.98240: // FIXED
+[20:53:11] Joel Maskington: /me takes a poster and a pin and pins the poster to the wall.
+[20:53:19] CCA.C14-HELIX.i4.50299: /it You find a cigarette pack
+[20:53:32] Janet Fraiser: /me searches the van
+[20:53:34] Janet Fraiser: /roll
+[20:53:39] CCA.C14-HELIX.i4.50299: /adminspawnmenu
+[20:53:40] Joel Maskington: /me takes a poster and a pin and pins the poster to the wall.
+[20:53:41] CCA.C14-UNION.i5.60437: hm
+[20:54:01] CCA.C14-HELIX.i4.50299: /adminspawnmenu
+[20:54:08] Joel Maskington: /me pins another poster to the wall
+[20:54:10] CCA.C14-QrM.98240: /radio Unit is 10-8, status is green. Updating 10-20 to Nexus.
+[20:54:18] CCA.C14-UNION.i5.60437: /radio Copy.
+[20:54:23] CCA.C14-HELIX.i4.50299: /it You scrap some metal off the car.
+[20:54:38] Joel Maskington: /me places the propaganda on the wall
+[20:54:42] Janet Fraiser: // h m m
+[20:54:56] CCA.C14-QrM.98240: Hm, you get a job from some unit or are you doing that out of kindness?
+[20:55:03] CCA.C14-QrM.98240: I see
+[20:55:16] Janet Fraiser: /me takes whatever she can find on the tray
+[20:55:17] Janet Fraiser: /roll
+[20:55:22] Janet Fraiser: .// crominal
+[20:55:25] CCA.C14-HELIX.i4.50299: /adminspawnmenu
+[20:55:37] Joel Maskington: /me puts the final poster on the wall and pins it
+[20:55:47] CCA.C14-HELIX.i4.50299: /it You find a usable bandage.
+[20:56:21] CCA.C14-UNION.i5.60437: alright
+[20:56:23] CCA.C14-UNION.i5.60437: apply
+[20:56:25] Joel Maskington: /apply
+[20:56:28] CCA.C14-QrM.98240: /radio QrM beginning MP7U testing on the range, disregard 11-6.
+[20:56:30] Janet Fraiser: .// what
+[20:56:35] CCA.C14-UNION.i5.60437: /me taps on his PDA.
+[20:56:37] CCA.C14-HELIX.i4.50299: /looc You cansearch that
+[20:56:38] CCA.C14-UNION.i5.60437: /oldviewdata joel
+[20:56:58] Janet Fraiser: /me looks through the drawers
+[20:56:59] Janet Fraiser: /roll
+[20:57:02] CCA.C14-HELIX.i4.50299: /adminspawnmenu
+[20:57:09] CCA.C14-UNION.i5.60437: /oldviewdata joel
+[20:57:17] CCA.C14-QrM.98240: Hm
+[20:57:18] CCA.C14-HELIX.i4.50299: /it You find a full health vial.
+[20:57:25] CCA.C14-UNION.i5.60437: you've been rewarded 1 loyalty point
+[20:57:47] CCA.C14-QrM.98240: Those fucking GRID units better have my Muzzle brake and Full choke by tomorrow or i'm gonna be pissed.
+[20:58:21] Janet Fraiser: /me looks through the dumpster
+[20:58:22] Janet Fraiser: /roll
+[20:58:24] CCA.C14-QrM.98240: /radio Testing finished, unit requires a GRID unit at some point, going 10-7
+[20:58:25] CCA.C14-HELIX.i4.50299: /adminspawnmenu
+[20:58:30] CCA.C14-QrM.98240<STEAM_0:1:17219621> changed their name to Journey Robertson
+[20:58:58] CCA.C14-HELIX.i4.50299: /it You find an unopened chip bag.
+[20:59:11] Janet Fraiser: /me looks through the dumpster
+[20:59:12] Janet Fraiser: /roll
+[20:59:16] CCA.C14-HELIX.i4.50299: /adminspawnmenu
+[20:59:18] Journey Robertson: .// Spooked
+[20:59:33] CCA.C14-UNION.i5.60437: /viewobjectives
+[20:59:56] Janet Fraiser: .// thanks
+[21:00:01] CCA.C14-HELIX.i4.50299: /it You find a in-tact circut board
+[21:00:04] Journey Robertson: // Imagine being Janet
+[21:00:07] CCA.C14-UNION.i5.60437: /// hmmmm, description of journey says rounded head
+[21:00:08] CCA.C14-HELIX.i4.50299: // true
+[21:00:15] Janet Fraiser: // why
+[21:00:16] Journey Robertson: // FU-
+[21:00:25] CCA.C14-HELIX.i4.50299<STEAM_0:0:68118061> changed their name to Sarah Mundorff
+[21:00:34] CCA.C14-UNION.i5.60437: // man's head is  a circle
+[21:00:39] Janet Fraiser: officer
+[21:00:42] CCA.C14-UNION.i5.60437: yes?
+[21:00:43] Journey Robertson: // I better not get bullied because of fucking Descriptions ;-;
+[21:00:48] Janet Fraiser: i found some stuff in the alleys
+[21:00:53] Janet Fraiser: /me holds out a green health vial
+[21:01:03] Janet Fraiser: .// help
+[21:01:09] CCA.C14-UNION.i5.60437: wow
+[21:01:14] CCA.C14-UNION.i5.60437: one moment
+[21:01:16] CCA.C14-UNION.i5.60437: with me
+[21:01:21] CCA.C14-UNION.i5.60437: apply
+[21:01:24] Janet Fraiser: /apply
+[21:01:31] CCA.C14-UNION.i5.60437: /me taps on his PDA.
+[21:01:37] CCA.C14-UNION.i5.60437: /oldviewdata jane
+[21:01:40] Journey Robertson: // i5 is getting a brain blast once he realised my Description matches with the BOL.
+[21:01:40] Janet Fraiser: .// get scammed lmao
+[21:02:04] Janet Fraiser: OH
+[21:02:06] Janet Fraiser: And this
+[21:02:15] Sarah Mundorff: What the?
+[21:02:19] Janet Fraiser: /me holds out 2 boxes of gunpowder
+[21:02:20] CCA.C14-UNION.i5.60437: thanks
+[21:02:23] CCA.C14-UNION.i5.60437: /oldviewdata janet
+[21:02:25] Sarah Mundorff: Shit!
+[21:03:07] Sarah Mundorff: Officer
+[21:03:12] CCA.C14-UNION.i5.60437: you've been given 4 loyalty points for all of that contraband
+[21:03:18] CCA.C14-UNION.i5.60437: thank you for remaining vigilant
+[21:03:21] CCA.C14-UNION.i5.60437: what is it
+[21:03:55] Sarah Mundorff: Somebody stole items from the CMB, when I went there, I found the doors open and some items had disapeared.
+[21:04:09] CCA.C14-UNION.i5.60437: hm
+[21:04:14] CCA.C14-UNION.i5.60437: what did they steal?
+[21:04:44] CCA.C14-UNION.i5.60437: /viewobjectives
+[21:04:50] Sarah Mundorff: I don't know the exacts, but a few rolls of gauze were stolen as well as some health vials.
+[21:04:52] Journey Robertson<STEAM_0:1:17219621> changed their name to CCA.C14-UNION.EpU.72633
+[21:04:58] CCA.C14-UNION.EpU.72633: /radio Unit is 10-8, status is green.
+[21:05:02] CCA.C14-UNION.i5.60437: how many health vials
+[21:05:12] Sarah Mundorff: Either 2 or 3,
+[21:05:14] CCA.C14-UNION.EpU.72633: // Q, you there?
+[21:05:26] CCA.C14-UNION.EpU.72633: // Fuckin hell.
+[21:05:30] Sarah Mundorff: Maybe even just one, I didn't take too long before coming here.
+[21:05:32] CCA.C14-UNION.i5.60437: /radio Can I get your assistance? A citizen reports stolen goods from CMB, and someone turned something in that they said went missing.
+[21:05:41] CCA.C14-UNION.i5.60437: /radio 10-20 work desk.
+[21:05:45] CCA.C14-UNION.EpU.72633: /radio Understood, 10-76.
+[21:05:47] CCA.C14-UNION.i5.60437: /viewobjectives
+[21:06:08] CCA.C14-UNION.EpU.72633: Alright, what type of shit was stolen?
+[21:06:15] CCA.C14-UNION.i5.60437: medical supplies
+[21:06:17] CCA.C14-UNION.i5.60437: gauze, biogel
+[21:06:18] Sarah Mundorff: /looc Whats your problem?
+[21:06:19] CCA.C14-UNION.i5.60437: citizen
+[21:06:20] CCA.C14-UNION.EpU.72633: Ah
+[21:06:23] James Albright: //estoy aqui what's wrong
+[21:06:28] Dropped "Joel Maskington" from server<STEAM_0:1:198315719>
+[21:06:29] CCA.C14-UNION.i5.60437: can you come here for a moment
+[21:06:31] CCA.C14-UNION.EpU.72633: .// EPOO
+[21:06:40] CCA.C14-UNION.i5.60437: she turned in a biogel tube
+[21:06:43] CCA.C14-UNION.EpU.72633: HM
+[21:06:49] CCA.C14-UNION.EpU.72633: I see, where did she find it?
+[21:07:01] CCA.C14-UNION.i5.60437: she says in an alleyway
+[21:07:21] Sarah Mundorff: /me looks suspiciously at the woman.
+[21:07:23] James Albright: //what's up
+[21:07:26] Janet Fraiser: i can show you where
+[21:07:28] CCA.C14-UNION.i5.60437: // hi
+[21:07:31] Sarah Mundorff: // yo
+[21:07:32] CCA.C14-UNION.EpU.72633: Hm.....have we had any patrols in the alleyways recently? I don't recall ever seeing any Vials in the alleyways.
+[21:07:40] CCA.C14-UNION.EpU.72633: // Needed a QrM but currently busy.
+[21:07:52] CCA.C14-UNION.i5.60437: I did 2 earlier, didn't see anything. Could've been in dumpsters or stuff like that
+[21:07:56] CCA.C14-UNION.EpU.72633: Hm
+[21:08:12] CCA.C14-UNION.EpU.72633: If it was in the dumpsters she would have specified.
+[21:08:29] CCA.C14-UNION.EpU.72633: To avoid confusion, but if she didn't then that raises suspicion.
+[21:08:33] CCA.C14-UNION.EpU.72633: Hm
+[21:08:50] CCA.C14-UNION.EpU.72633: You
+[21:08:54] Sarah Mundorff: um... Hi
+[21:09:10] CCA.C14-UNION.EpU.72633: I'll need you to get on the wall, just for a quick pat down.
+[21:09:23] CCA.C14-UNION.EpU.72633: i5, search her.
+[21:09:37] CCA.C14-UNION.EpU.72633: Now then, how much was stolen?
+[21:09:41] CCA.C14-UNION.i5.60437: I don't have any cuffs.
+[21:09:44] CCA.C14-UNION.EpU.72633: Exact numbers.
+[21:09:49] James Albright<STEAM_0:1:53097688> changed their name to Kricuik
+[21:09:49] CCA.C14-UNION.EpU.72633: I don't care, simple pat down.
+[21:10:05] CCA.C14-UNION.i5.60437: /me does a patdown on the woman, searching/feeling for anything.
+[21:10:07] Sarah Mundorff: I thought I saw either one or two being stolen, as well as some gauze in the operating room.
+[21:10:13] CCA.C14-UNION.EpU.72633: Hm
+[21:10:15] CCA.C14-UNION.EpU.72633: I see
+[21:10:27] Janet Fraiser: .// shit lemme list off whats in there
+[21:10:30] Kricuik<STEAM_0:1:53097688> changed their name to CCA.C14-GRID.i3.69192
+[21:10:38] CCA.C14-GRID.i3.69192: /radio Wait, so if the alien problem is fixed...
+[21:10:43] CCA.C14-GRID.i3.69192: //wait void
+[21:10:43] CCA.C14-UNION.EpU.72633: Then we'll look out for that, good job on reporting this. If you find that anything else was stolen-
+[21:10:52] CCA.C14-UNION.EpU.72633: .// Shit, void
+[21:10:55] CCA.C14-GRID.i3.69192<STEAM_0:1:53097688> changed their name to UU-SeC.14
+[21:11:02] CCA.C14-UNION.EpU.72633: Then we'll look out for that, good job on reporting this. If you find that anything else was stolen...report it.
+[21:11:14] Janet Fraiser: /it one cigarette pack, one bag of chips, one padlock, CID, CWU ID, A suitcase, and a flashlight
+[21:11:20] UU-SeC.14: /radio I'm realizing we didn't see those insectoid aliens when we were, wherever we were.
+[21:11:32] Sarah Mundorff: I'll make sure to, if you want you can look in the CMB, I only locked the front doors, everything else is not touched.
+[21:11:38] Janet Fraiser: .// and a copy of highchool runner
+[21:11:40] CCA.C14-UNION.EpU.72633: /radio Affirmative.
+[21:11:50] CCA.C14-UNION.EpU.72633: Hm, alright. You can go
+[21:11:52] CCA.C14-UNION.i5.60437: EpU, she doesn't seem to have anything illegal on her
+[21:11:54] Sarah Mundorff: Alright
+[21:11:57] CCA.C14-UNION.EpU.72633: I see
+[21:12:05] CCA.C14-UNION.EpU.72633: Then she can be let off, civvie...apply
+[21:12:06] CCA.C14-UNION.i5.60437: /radio Uh.. Copy?
+[21:12:07] UU-SeC.14: /radio Interesting. Keep an eye out for them.
+[21:12:09] Janet Fraiser: /apply
+[21:12:13] CCA.C14-UNION.EpU.72633: /radio Copy that
+[21:12:17] UU-SeC.14<STEAM_0:1:53097688> changed their name to Kricuik
+[21:12:22] CCA.C14-UNION.EpU.72633: /me Takes out a small PDA and begins typing onto it.
+[21:12:29] Sarah Mundorff: /pm Sec Should I get on my Helix?
+[21:12:30] CCA.C14-UNION.EpU.72633: /oldviewdata Janet
+[21:12:36] Sarah Mundorff: /pm sec should I get on helix
+[21:12:44] CCA.C14-UNION.EpU.72633: Hm
+[21:12:48] CCA.C14-UNION.i5.60437: UH
+[21:12:49] CCA.C14-UNION.i5.60437: SIR
+[21:12:50] CCA.C14-UNION.EpU.72633: Admitted to doin-
+[21:12:53] CCA.C14-UNION.EpU.72633: What?
+[21:12:54] CCA.C14-UNION.i5.60437: I just saw something big
+[21:12:58] CCA.C14-UNION.i5.60437: over on that
+[21:13:09] CCA.C14-UNION.EpU.72633: /y FUCK
+[21:13:19] CCA.C14-UNION.EpU.72633: The fuck?
+[21:13:20] CCA.C14-UNION.EpU.72633: Yes
+[21:13:21] Sarah Mundorff<STEAM_0:0:68118061> changed their name to Karl Von Habsburg
+[21:13:26] CCA.C14-UNION.EpU.72633: Fucking hell
+[21:13:30] CCA.C14-UNION.EpU.72633: Cease
+[21:13:31] Kricuik<STEAM_0:1:53097688> spawned sent pfx8_03
+[21:13:34] CCA.C14-UNION.EpU.72633: I knew it
+[21:13:38] CCA.C14-UNION.EpU.72633: Fucking hel
+[21:13:52] Karl Von Habsburg: What the?
+[21:13:53] CCA.C14-UNION.EpU.72633: /radio Sectorial, viscon on what of the Xenobes.
+[21:13:57] Janet Fraiser: weird ass green thing
+[21:13:59] CCA.C14-UNION.EpU.72633: /radio It escaped via portal.
+[21:14:02] Karl Von Habsburg: Hm
+[21:14:09] Karl Von Habsburg: Thought I saw one of those before.
+[21:14:09] CCA.C14-UNION.i5.60437: what the shit!?
+[21:14:10] Kricuik<STEAM_0:1:53097688> changed their name to UU-SeC.14
+[21:14:12] UU-SeC.14: /radio Which ones?
+[21:14:17] Karl Von Habsburg: Prob' nothing.
+[21:14:20] Janet Fraiser: why can't life be normal
+[21:14:24] CCA.C14-UNION.EpU.72633: /radio Blue insect thing on their arm.
+[21:14:26] Karl Von Habsburg: I know right?
+[21:14:30] CCA.C14-UNION.i5.60437: /radio It was tall, kinda greenish brown. Bunch of spiky bits.
+[21:14:30] Janet Fraiser: aliens
+[21:14:31] UU-SeC.14: /radio Oh, good.
+[21:14:33] Janet Fraiser: it's always aliens
+[21:14:37] Janet Fraiser: like something from a movie
+[21:14:41] CCA.C14-UNION.EpU.72633: /radio Unit requesting for a QrM.
+[21:14:45] UU-SeC.14: /radio It's not one of the big alien's units.
+[21:14:50] UU-SeC.14: /radio Kill on sight.
+[21:14:50] Karl Von Habsburg: Why can't we have like rebels, at least its more realistic.
+[21:14:59] Janet Fraiser: .// h m m
+[21:14:59] CCA.C14-UNION.EpU.72633: /radio Understood, it was rather strong though...
+[21:15:07] Janet Fraiser: i suppose
+[21:15:09] UU-SeC.14<STEAM_0:1:53097688> changed their name to CCA.C14-QrM.10405
+[21:15:20] CCA.C14-UNION.EpU.72633: /radio Usually they go down quickly, even with the 9mm, this one seemed to tank it all.
+[21:15:25] Janet Fraiser: a horse with a pike taped to it would be more realistic
+[21:15:28] CCA.C14-QrM.10405: /radio 10-8, standing by.
+[21:15:31] CCA.C14-UNION.EpU.72633: /radio Copy
+[21:15:40] Karl Von Habsburg: True.
+[21:15:40] Janet Fraiser: .// civilian rp is painful
+[21:15:57] Karl Von Habsburg: Alright, I'm going to go back to my appartment.
+[21:16:02] CCA.C14-UNION.EpU.72633: QrM
+[21:16:16] CCA.C14-UNION.EpU.72633: I need some 4.6mm ammunition and a bonus 9mm.
+[21:16:33] CCA.C14-UNION.EpU.72633: i5
+[21:16:43] Karl Von Habsburg<STEAM_0:0:68118061> changed their name to Joe Arnold
+[21:16:48] CCA.C14-UNION.EpU.72633: You don't have to follow me, feel free to return to ground unit duties.
+[21:16:56] CCA.C14-UNION.i5.60437: copy that, but i'm low on ammo too
+[21:17:06] CCA.C14-UNION.EpU.72633: Understood, just saying.
+[21:17:11] CCA.C14-UNION.i5.60437: understood
+[21:18:03] CCA.C14-UNION.EpU.72633: Fuck it
+[21:18:04] Joe Arnold: /chargiveitem joe shotgun 1
+[21:18:14] CCA.C14-UNION.i5.60437: I need some more 9mm ammo.
+[21:18:33] Joe Arnold gave Themself 100 rounds
+[21:18:33] Joe Arnold: !giveammo ^ 100
+[21:19:02] CCA.C14-UNION.i5.60437: thank you
+[21:19:06] CCA.C14-QrM.10405: yup
+[21:19:24] CCA.C14-UNION.i5.60437: /radio EpU, I have contraband. Where should I put it?
+[21:19:25] CCA.C14-QrM.10405<STEAM_0:1:53097688> changed their name to Kricuik
+[21:19:41] CCA.C14-UNION.EpU.72633: /radio Hm, you can either destroy it or put it near the containment area of the Nexus.
+[21:19:56] Kricuik: //did someone get rid of the union locks on the aundromat
+[21:19:58] Kricuik<STEAM_0:1:53097688> spawned sent ix_testent5
+[21:20:00] Kricuik<STEAM_0:1:53097688> spawned sent ix_unionlock
+[21:20:01] CCA.C14-UNION.EpU.72633: /radio Either way, if it isn't linked to any real crimes then no real reason for us to care.
+[21:20:04] Joe Arnold: // A lot of locks got removed
+[21:20:04] Kricuik<STEAM_0:1:53097688> spawned sent ix_unionlock
+[21:20:06] Kricuik<STEAM_0:1:53097688> spawned sent ix_unionlock
+[21:20:10] CCA.C14-UNION.i5.60437: /radio Copy, but i don't think destroying gunpowder or biogel is a good idea.
+[21:20:12] CCA.C14-UNION.EpU.72633: // Truly
+[21:20:27] Kricuik: //and why is there a union lock on this door here
+[21:20:31] Joe Arnold<STEAM_0:0:68118061> changed their name to Karl Von Habsburg
+[21:20:44] Karl Von Habsburg: // where
+[21:20:48] Kricuik: //come to me
+[21:20:52] Kricuik: //it's at your hidey hole
+[21:21:07] Kricuik<STEAM_0:1:53097688> spawned sent ix_unionlock
+[21:21:08] CCA.C14-UNION.EpU.72633: /radio Ah, then drop the vials off into the Armory, and the Gunpowder can be left inside the Containment block.
+[21:21:35] Kricuik: //okay
+[21:21:37] Kricuik: //which one of you did it
+[21:21:39] Kricuik: //i swear tof uck
+[21:21:43] Kricuik: //who locked the civil hospital
+[21:21:47] Karl Von Habsburg: // Me
+[21:21:50] CCA.C14-UNION.EpU.72633: // BRUH
+[21:21:50] Kricuik: //why
+[21:21:59] Karl Von Habsburg: // It legit just had items stolen from it
+[21:21:59] Kricuik: //don't do that
+[21:22:06] Karl Von Habsburg: // By a CWU person
+[21:22:13] Kricuik: //then why lock the door
+[21:22:15] Kricuik: //how does that stop that
+[21:22:28] Karl Von Habsburg: // To just stop regular people from tampering with a crime scene
+[21:22:38] Kricuik: //then put a combine lock on it
+[21:22:40] CCA.C14-UNION.EpU.72633: // Do we have an area to put fuckin non crime related contraband that...units just happen to find?
+[21:22:47] Karl Von Habsburg: // I cant it has those locks on it
+[21:22:53] Karl Von Habsburg: // I cant change that
+[21:23:03] Kricuik: //then take off the union lock of the front door
+[21:23:07] CCA.C14-UNION.EpU.72633: // I usually just put it inside the Containment block or destroy it, but do we have a specific area?
+[21:23:10] Kricuik<STEAM_0:1:53097688> spawned sent ix_combinelock
+[21:23:15] Kricuik brought CCA.C14-UNION.EpU.72633
+[21:23:15] Kricuik: !bring epu
+[21:23:18] Kricuik: .//can u lock this
+[21:23:20] Kricuik: .//lov u
+[21:23:22] Kricuik returned CCA.C14-UNION.EpU.72633 to their original position
+[21:23:22] Kricuik: !return epu
+[21:23:36] CCA.C14-UNION.EpU.72633: /radio UNION.i5, attach once free to.
+[21:23:43] CCA.C14-UNION.i5.60437: /radio Copy, 10-20?
+[21:23:44] CCA.C14-UNION.EpU.72633: /radio 10-20 is Plaza
+[21:23:49] CCA.C14-UNION.i5.60437: /radio Copy.
+[21:24:11] Janet Fraiser: This house has a holke in i
+[21:24:14] Janet Fraiser: .// hole
+[21:24:20] CCA.C14-UNION.EpU.72633: We're starting a 10-50, forming the PT now.
+[21:24:20] Karl Von Habsburg: Okay?
+[21:24:23] CCA.C14-UNION.i5.60437: copy
+[21:24:27] CCA.C14-UNION.i5.60437: .// im fuckin hungry
+[21:24:31] CCA.C14-UNION.EpU.72633: .// F
+[21:24:37] CCA.C14-UNION.i5.60437: // ic and ooc
+[21:24:42] CCA.C14-UNION.i5.60437: // woop
+[21:24:53] CCA.C14-UNION.EpU.72633: .// Then IC ask for food or go to the mess hall, dumb fuck.
+[21:25:02] CCA.C14-UNION.EpU.72633: .// Jk, you cool.
+[21:25:04] CCA.C14-UNION.i5.60437: .// later
+[21:25:27] CCA.C14-UNION.EpU.72633: /radio Unit forming PT-Beta with UNION.i5.60437, beginning 10-50.
+[21:25:37] CCA.C14-UNION.EpU.72633: .// You gonna join, or are you dumbo?
+[21:25:42] CCA.C14-UNION.i5.60437: .// didnt know you made one
+[21:25:45] CCA.C14-UNION.EpU.72633: .// F
+[21:26:02] Karl Von Habsburg: Hmph.
+[21:26:25] Karl Von Habsburg: I haven't seen any of the other rebels here in a long time.
+[21:26:39] Karl Von Habsburg: Wonder where they are at...
+[21:26:50] CCA.C14-UNION.EpU.72633: Hm
+[21:26:54] CCA.C14-UNION.EpU.72633: Probably nothing
+[21:27:03] CCA.C14-UNION.EpU.72633: The fuck?
+[21:27:09] CCA.C14-UNION.EpU.72633: Is that camera fu-
+[21:27:30] CCA.C14-UNION.EpU.72633: begin search
+[21:27:32] Kricuik<STEAM_0:1:53097688> spawned/gave himself swep weapon_fists
+[21:27:49] Karl Von Habsburg<STEAM_0:0:68118061> spawned NPC npc_headcrab
+[21:27:49] CCA.C14-UNION.EpU.72633: Hm
+[21:27:58] CCA.C14-UNION.EpU.72633: my visor said that this one was being damaged?
+[21:28:09] CCA.C14-UNION.EpU.72633: Affirmative
+[21:28:19] CCA.C14-UNION.EpU.72633: Copy
+[21:28:32] Karl Von Habsburg: /y HEADCRAB
+[21:28:38] CCA.C14-UNION.EpU.72633: Ah
+[21:28:42] Karl Von Habsburg: That thing came out of the ground!
+[21:28:47] CCA.C14-UNION.EpU.72633: The fuck
+[21:29:17] Kricuik started a fire.
+[21:29:21] CCA.C14-UNION.EpU.72633: They are probably malfuntioning, I would suggest decommission
+[21:29:21] Kricuik started a fire.
+[21:29:31] CCA.C14-UNION.EpU.72633: /radio Unit beginning decommission o-
+[21:29:36] CCA.C14-UNION.EpU.72633: Fucking hell
+[21:29:46] Kricuik: //HOLY FUCK WHY IS IT BURNNG SO GOOD THIS TIME
+[21:29:47] Kricuik: //BA
+[21:29:49] Kricuik: //d
+[21:29:49] Karl Von Habsburg<STEAM_0:0:68118061> spawned NPC npc_citizen
+[21:29:49] Kricuik: /doorsethidden true
+[21:29:50] Kricuik: /NO
+[21:29:54] Kricuik: //NO TSOP
+[21:29:58] Karl Von Habsburg<STEAM_0:0:68118061> spawned NPC npc_citizen
+[21:29:58] CCA.C14-UNION.EpU.72633: /radio Unit requesting for a CRM unit at 10-20 Dorilsk.
+[21:30:15] CCA.C14-UNION.EpU.72633: // This is a SHOOTER situation all over again
+[21:30:41] CCA.C14-UNION.EpU.72633: Where is that fucking CRM
+[21:30:50] CCA.C14-UNION.EpU.72633: Fuck it, moving to the armory
+[21:30:52] Kricuik<STEAM_0:1:53097688> changed their name to Dispatch
+[21:30:53] Karl Von Habsburg: Woah
+[21:31:01] Dispatch: /radio Fire sighted in Minimal Grade Apartments.
+[21:31:07] Karl Von Habsburg: Thats massive
+[21:31:07] Dispatch: /chargiveitem dispatch hybrid
+[21:31:16] Dispatch: /radio Fire sighted in Minimal Grade Apartments.
+[21:31:28] CCA.C14-UNION.EpU.72633: /radio we are aware, attempting to deal with it.
+[21:31:31] Dispatch<STEAM_0:1:53097688> used the tool creator on maps/rp_city14_utopia.bsp
+[21:31:31] Dispatch<STEAM_0:1:53097688> spawned/gave himself swep weapon_extinguisher
+[21:31:31] Dispatch<STEAM_0:1:53097688> used the tool creator on maps/rp_city14_utopia.bsp
+[21:31:31] Dispatch<STEAM_0:1:53097688> spawned/gave himself swep weapon_extinguisher
+[21:31:45] Dispatch: /radio Responding officers report to armory for Fire Extinguisher rollout.
+[21:31:50] Dispatch<STEAM_0:1:53097688> used the tool creator on maps/rp_city14_utopia.bsp
+[21:31:50] Dispatch<STEAM_0:1:53097688> spawned/gave himself swep weapon_extinguisher
+[21:31:51] Dispatch<STEAM_0:1:53097688> used the tool creator on maps/rp_city14_utopia.bsp
+[21:31:51] Dispatch<STEAM_0:1:53097688> spawned/gave himself swep weapon_extinguisher
+[21:31:57] CCA.C14-UNION.i5.60437: // FUCK YOU I NEED A RATION
+[21:31:58] Dispatch gave CCA.C14-UNION.EpU.72633 400 rounds
+[21:32:00] CCA.C14-UNION.EpU.72633: /radio Unit got one, moving to Dorilsk.
+[21:32:12] Dispatch: /radio Copy.
+[21:32:13] CCA.C14-UNION.EpU.72633: /radio Disregard, awaiting PT member.
+[21:32:44] Karl Von Habsburg<STEAM_0:0:68118061> spawned/gave himself swep weapon_vfirethrower
+[21:33:56] Dispatch extinguished all 0 fires.
+[21:34:00] CCA.C14-UNION.EpU.72633: /radio Fire has been delt with, beginning decommission of faulty cameras.
+[21:34:17] CCA.C14-UNION.EpU.72633: Fuck, let me wait for Overwatch to respond.
+[21:34:17] Dispatch: /radio Copy.
+[21:34:21] CCA.C14-UNION.EpU.72633: Alright
+[21:34:29] Karl Von Habsburg: !menu
+[21:34:33] Karl Von Habsburg extinguished all 0 fires.
+[21:34:39] Karl Von Habsburg: !menu
+[21:34:40] Karl Von Habsburg extinguished all 0 fires.
+[21:34:41] Karl Von Habsburg extinguished all 0 fires.
+[21:34:42] CCA.C14-UNION.EpU.72633: /radio Decommissioning complete.
+[21:34:44] Janet Fraiser<STEAM_0:0:193599766> changed their name to CCA.C14-GRID.i3.36307
+[21:34:44] Dispatch: /radio Union EpU, report to nexus for questioning.
+[21:34:50] CCA.C14-UNION.EpU.72633: /radio Understood
+[21:34:55] Dispatch: /radio And possible punishment.
+[21:34:59] CCA.C14-GRID.i3.36307: /radio I heard explosions
+[21:35:07] CCA.C14-UNION.EpU.72633: Just do whatever
+[21:35:11] CCA.C14-UNION.EpU.72633: Detach
+[21:35:13] Dispatch: //imagine shooting a camrea
+[21:35:19] Dispatch<STEAM_0:1:53097688> changed their name to CCA.C14-GRID.OfC.29402
+[21:35:20] CCA.C14-GRID.i3.36307: // DID SOMEONE DAMAGE A CAMERA
+[21:35:28] CCA.C14-GRID.OfC.29402: //the fucking union epu
+[21:35:28] CCA.C14-UNION.EpU.72633: // I said that I was gonna do that, and then you said "copy"
+[21:35:29] CCA.C14-UNION.i5.60437: // decommissioned a camera
+[21:35:39] CCA.C14-GRID.OfC.29402: //i didn't think you meant you were oging to shoot it
+[21:35:42] CCA.C14-UNION.EpU.72633: // CCA.C14-UNION.EpU.72633 radios in: "Fire has been delt with, beginning decommission of faulty cameras."CCA.C14-UNION.EpU.72633 says "<:: Fuck, let me wait for Overwatch to respond. ::>"Dispatch radios in: "Copy."
+[21:35:48] CCA.C14-GRID.OfC.29402: /chargiveitem ofc "functionary grade ration"
+[21:36:04] CCA.C14-GRID.OfC.29402: /chargiveitem ofc "functionary grade ration"
+[21:36:06] CCA.C14-GRID.OfC.29402: /chargiveitem ofc "functionary grade ration"
+[21:36:08] CCA.C14-UNION.EpU.72633: // Congrats, you fucked me.
+[21:36:17] CCA.C14-UNION.i5.60437: /radio Currently at 10-20 overlook tower.
+[21:36:27] CCA.C14-UNION.i5.60437: now to chow down on some CCA ration
+[21:36:28] CCA.C14-UNION.EpU.72633: // When we say "Decommission" it always means kill.
+[21:36:34] CCA.C14-UNION.i5.60437: /me opens up his ration.
+[21:36:38] CCA.C14-GRID.OfC.29402: //dw you're not getting blackarmked
+[21:36:42] CCA.C14-UNION.EpU.72633: // Or destroy, when it comes to Robot shit.
+[21:36:44] CCA.C14-GRID.OfC.29402: //but grid ofc is going to rip your face off
+[21:36:44] CCA.C14-GRID.i3.36307: What happened?
+[21:36:52] CCA.C14-GRID.OfC.29402 set the scale for Themself to 1
+[21:37:05] CCA.C14-UNION.EpU.72633: faulty camera, camera delt with. Returning to Nexus for debrief
+[21:37:07] CCA.C14-UNION.i5.60437: /y /me waves to the CPs down there.
+[21:37:25] CCA.C14-GRID.OfC.29402: //i thought you meant like turn it off
+[21:37:27] CCA.C14-GRID.OfC.29402: //not destoryi t
+[21:37:30] CCA.C14-UNION.i5.60437: hm
+[21:37:31] CCA.C14-GRID.i3.36307: /radio We're missing a camera.
+[21:37:31] CCA.C14-UNION.i5.60437: y
+[21:37:35] CCA.C14-UNION.EpU.72633: // We can turn them off?
+[21:37:42] CCA.C14-UNION.EpU.72633: // like, OOC'ly
+[21:37:43] CCA.C14-GRID.OfC.29402: /radio Fully the hell aware.
+[21:37:46] Karl Von Habsburg: // Yes
+[21:37:50] CCA.C14-UNION.i5.60437: you know, this cereal stuff isn't half bad
+[21:37:55] CCA.C14-UNION.EpU.72633: Unit reporting for Briefing.
+[21:37:56] CCA.C14-GRID.i3.36307: /radio I mean, it's just gone completely.
+[21:37:57] CCA.C14-GRID.OfC.29402: //OOCly, unsure, but staff can do it for you if you RP it
+[21:37:57] CCA.C14-UNION.i5.60437: not the most flavorful, but not the worst
+[21:38:03] CCA.C14-GRID.OfC.29402: What the fuck is wrong with you?
+[21:38:17] CCA.C14-GRID.OfC.29402 set the scale for Themself to 1
+[21:38:20] CCA.C14-UNION.i5.60437: /me opens his supplement, and squeezes it out.
+[21:38:30] CCA.C14-UNION.i5.60437: Mmmm.
+[21:38:38] CCA.C14-UNION.i5.60437: Nothing like beef paste.
+[21:38:41] CCA.C14-UNION.EpU.72633: Unit was not told the proper way of "decommissioning" a camera, unit has only destroyed faulty cameras without any problems.
+[21:38:49] CCA.C14-UNION.i5.60437: and last, but certainly not least,
+[21:38:51] CCA.C14-UNION.i5.60437: the drink
+[21:38:58] CCA.C14-GRID.OfC.29402: What made you think the other camera was faulty?
+[21:39:00] CCA.C14-UNION.i5.60437: /me cracks it open and chugs that bitch,
+[21:39:04] CCA.C14-UNION.i5.60437: AH!
+[21:39:10] CCA.C14-UNION.i5.60437: very good items
+[21:39:11] CCA.C14-GRID.OfC.29402: And even then, why not just turn it off?
+[21:39:16] CCA.C14-GRID.OfC.29402: Or have someone else turn it off.
+[21:39:18] CCA.C14-GRID.OfC.29402: Something.
+[21:39:19] CCA.C14-UNION.i5.60437: tastes just like citrus
+[21:39:21] CCA.C14-UNION.EpU.72633: It was getting set off by nothing, and the other camera exploded for no reason.
+[21:39:34] CCA.C14-UNION.i5.60437: // EpU: getting yelled at and beaten
+[21:39:38] CCA.C14-UNION.i5.60437: // me: mmmm ration rp
+[21:39:45] CCA.C14-UNION.EpU.72633: Sadly, past experience has tought me that "Decommissioning" means destroying.
+[21:39:51] CCA.C14-UNION.i5.60437: that sure was good. Though I'm still thirsty...
+[21:39:53] Karl Von Habsburg: //raton
+[21:39:54] CCA.C14-GRID.OfC.29402: I saw the camera feed. It combusted, not exploded. And maybe it was being set off because of the RAGING FUCKING FIRE!
+[21:39:58] CCA.C14-GRID.OfC.29402: //russian
+[21:40:12] CCA.C14-UNION.EpU.72633: Sir, the camera was being set off before the fire.
+[21:40:20] CCA.C14-UNION.EpU.72633: .// It was actually.
+[21:40:22] CCA.C14-GRID.OfC.29402: .//i was not touching that camera
+[21:40:26] CCA.C14-GRID.OfC.29402: .//so i don't knw what the fuck
+[21:40:38] CCA.C14-UNION.EpU.72633: And the second camera was being "Damaged" for unknown reasons.
+[21:40:48] CCA.C14-UNION.EpU.72633: .// Bruh, what? I never saw a fire?
+[21:41:01] CCA.C14-GRID.OfC.29402: The second camera was being damaged when IT WAS ON FIRE!
+[21:41:06] CCA.C14-GRID.OfC.29402: .//btw i'm not mad at you ooc dw
+[21:41:09] CCA.C14-GRID.OfC.29402: .//i still lov u
+[21:41:13] CCA.C14-UNION.EpU.72633: This unit never saw a fire.
+[21:41:16] CCA.C14-UNION.i5.60437: /me sorta leans on the railing, looking around.
+[21:41:19] CCA.C14-GRID.OfC.29402: /y THE ONE YOU FUCKING PUT OUT?
+[21:41:47] CCA.C14-UNION.EpU.72633: It seems we are on different pages, i'm speaking before the combustion.
+[21:41:50] CCA.C14-UNION.EpU.72633: No fire was seen.
+[21:42:10] CCA.C14-GRID.OfC.29402: The camera that later combusted was the one giving off damage signals
+[21:42:15] CCA.C14-GRID.OfC.29402: Not the one behind you.
+[21:42:59] CCA.C14-UNION.i5.60437: hey
+[21:43:02] CCA.C14-GRID.i3.36307: what happened?
+[21:43:08] CCA.C14-UNION.i5.60437: with the EpU?
+[21:43:12] CCA.C14-GRID.i3.36307: yes
+[21:43:26] CCA.C14-UNION.i5.60437: He decommissioned a camera by shooting it with his MP7U.
+[21:43:36] CCA.C14-GRID.i3.36307: why the fuck-
+[21:43:39] CCA.C14-UNION.EpU.72633: Hm, then this is rather odd, once me and the i5 got there.....no fire nor anything was out of place other than a few doors open. After a little bit of time the camera was being set off and turning off for unknown reasons, then we were getting reports tha-
+[21:43:46] CCA.C14-UNION.EpU.72633: .// Word limit
+[21:43:48] CCA.C14-UNION.i5.60437: /me shrugs lightly.
+[21:44:56] CCA.C14-UNION.EpU.72633: That the "Dorilsk camera 2" was being damaged, and we heard banging noises for unknown reasons....for some reason rather close to the camera, then the Dorilsk camera 1 combusted after being set off for the last time.
+[21:45:06] CCA.C14-GRID.OfC.29402: Fucking. Whatever. Dismissed.
+[21:45:09] CCA.C14-UNION.EpU.72633: Understood
+[21:45:31] Karl Von Habsburg: !menu
+[21:45:32] Karl Von Habsburg extinguished all 2 fires.
+[21:46:01] CCA.C14-UNION.EpU.72633: // welp, it seems either....I was fucked over by my end because I couldn't see the fire hurting the camera.....or that was a little fucked.
+[21:46:18] CCA.C14-GRID.OfC.29402: //i think the entire situation was fucked and i'm just dropping it
+[21:46:29] CCA.C14-UNION.EpU.72633: // Also, that was not as much screaming as expected from GRID OfC.
+[21:46:44] CCA.C14-UNION.EpU.72633: /radio Unit going 10-7
+[21:46:49] CCA.C14-UNION.EpU.72633<STEAM_0:1:17219621> changed their name to CCA.C14-QrM.98240
+[21:46:53] CCA.C14-GRID.i3.36307: /radio Coph
+[21:46:58] CCA.C14-GRID.i3.36307: /radio Copy
+[21:47:28] CCA.C14-QrM.98240: // TFW I want to modify the MP7 and Spas 12 IC'ly but Q kinda put that IC situation aside ;-;
+[21:47:38] CCA.C14-QrM.98240: /radio Unit is 10-8, status is green.
+[21:48:48] CCA.C14-GRID.OfC.29402<STEAM_0:1:53097688> changed their name to Orenthal James 'The Juice' Simpson
+[21:49:03] CCA.C14-QrM.98240: /radio Disregard 11-6.
+[21:49:07] Orenthal James 'The Juice' Simpson: /chargiveitem simpson "Functionary grade ration"
+[21:49:15] Orenthal James 'The Juice' Simpson: /chargiveitem simpson "Functionary grade ration"
+[21:49:16] Orenthal James 'The Juice' Simpson: /chargiveitem simpson "Functionary grade ration"
+[21:49:54] Orenthal James 'The Juice' Simpson: Well Hi there.
+[21:49:57] CCA.C14-GRID.i3.36307: .// im in you
+[21:50:01] Orenthal James 'The Juice' Simpson set the scale for Themself to 1
+[21:50:18] Orenthal James 'The Juice' Simpson: I'm just standing here, officer.
+[21:50:23] Karl Von Habsburg: // I'll brb Imma go eat dinner
+[21:50:24] Orenthal James 'The Juice' Simpson: I'm not bugging nobody.
+[21:50:30] Orenthal James 'The Juice' Simpson: //it is 11 o clock
+[21:50:36] Karl Von Habsburg: // Ik I forgot to
+[21:50:38] CCA.C14-QrM.98240: // Lmao
+[21:50:39] Orenthal James 'The Juice' Simpson: ..ah
+[21:50:44] Orenthal James 'The Juice' Simpson: .//void
+[21:50:45] Orenthal James 'The Juice' Simpson: //ah
+[21:50:51] CCA.C14-GRID.i3.36307: he walked in my way
+[21:50:55] CCA.C14-QrM.98240: /radio Unit going 10-7
+[21:50:58] CCA.C14-GRID.i3.36307: .// AMPUTATION
+[21:50:59] CCA.C14-QrM.98240<STEAM_0:1:17219621> changed their name to CCA.C14-UNION.EpU.72633
+[21:51:07] CCA.C14-UNION.EpU.72633: /radio Unit is 10-8, status is green.
+[21:51:10] Orenthal James 'The Juice' Simpson: Hovv's
+[21:51:14] Orenthal James 'The Juice' Simpson: Hovv's it going?
+[21:51:31] CCA.C14-GRID.i3.36307: .// oops
+[21:52:00] CCA.C14-GRID.i3.36307: .// he blinked
+[21:52:10] Orenthal James 'The Juice' Simpson<STEAM_0:1:53097688> spawned/gave himself swep weapon_extinguisher
+[21:52:15] CCA.C14-GRID.i3.36307: what
+[21:52:26] Orenthal James 'The Juice' Simpson: I found it.
+[21:52:30] CCA.C14-GRID.i3.36307: where
+[21:52:36] Orenthal James 'The Juice' Simpson: In a garbage can.
+[21:52:40] CCA.C14-GRID.i3.36307: where the hell were you keeping it
+[21:52:46] Orenthal James 'The Juice' Simpson: .//;)
+[21:52:53] CCA.C14-GRID.i3.36307: oh god
+[21:53:03] CCA.C14-GRID.i3.36307: let's
+[21:53:05] CCA.C14-GRID.i3.36307: follow him
+[21:53:32] CCA.C14-GRID.i3.36307: /radio We have a suspicious civvie here
+[21:53:35] Orenthal James 'The Juice' Simpson: It's this way.
+[21:53:42] CCA.C14-UNION.EpU.72633: /radio Copy that, 10-76. 10-20?
+[21:53:55] CCA.C14-GRID.i3.36307: /radio By the CMB
+[21:54:08] CCA.C14-UNION.EpU.72633: /radio Understood, 10-76
+[21:54:10] CCA.C14-GRID.i3.36307: /RADIO Around 6'1, African-American, White shirt
+[21:54:15] Orenthal James 'The Juice' Simpson: I foudn it over here.
+[21:54:26] Orenthal James 'The Juice' Simpson: I meant in the Garbage.
+[21:54:33] CCA.C14-GRID.i3.36307: // lmao im lost
+[21:54:35] Orenthal James 'The Juice' Simpson: No, just in the grabage.
+[21:54:37] Orenthal James 'The Juice' Simpson: What's the problem.
+[21:54:39] CCA.C14-GRID.i3.36307: /radio i5, what's your 10-20
+[21:54:45] CCA.C14-GRID.i3.36307: /radio Disregard
+[21:54:53] CCA.C14-UNION.EpU.72633: I see
+[21:54:56] Orenthal James 'The Juice' Simpson: No, in the garbage.
+[21:55:02] Orenthal James 'The Juice' Simpson: I said I found it in the Garbage.
+[21:55:10] CCA.C14-GRID.i3.36307: is it
+[21:55:12] CCA.C14-GRID.i3.36307: is it full?
+[21:55:24] CCA.C14-UNION.EpU.72633: And-
+[21:55:25] Orenthal James 'The Juice' Simpson: Think so.
+[21:55:27] CCA.C14-UNION.EpU.72633: He was using it?
+[21:55:29] Orenthal James 'The Juice' Simpson: Yep.
+[21:55:31] Orenthal James 'The Juice' Simpson: It's fully.
+[21:55:34] Orenthal James 'The Juice' Simpson: No, I wasn't using it.
+[21:55:36] CCA.C14-UNION.EpU.72633: Fucking hell
+[21:55:40] CCA.C14-GRID.i3.36307: he sprayed it at the machine?
+[21:55:43] CCA.C14-UNION.EpU.72633: You just used it.
+[21:55:44] Orenthal James 'The Juice' Simpson: Why are you all so mad it me? This isn't illegal?
+[21:56:05] CCA.C14-UNION.EpU.72633: Indeed it's not, but why do you have it instead of turning it over to anybody else?
+[21:56:17] CCA.C14-UNION.EpU.72633: You have no reason to have it
+[21:56:19] Orenthal James 'The Juice' Simpson: Because it's not illegal.
+[21:56:30] CCA.C14-GRID.i3.36307: here,
+[21:56:32] CCA.C14-GRID.i3.36307: hand me it
+[21:56:33] CCA.C14-UNION.EpU.72633: Indeed, what he said
+[21:56:38] Orenthal James 'The Juice' Simpson: It doesn't mean I can't have it.
+[21:56:53] CCA.C14-GRID.i3.36307: give me it
+[21:56:55] CCA.C14-UNION.EpU.72633: You have no reason to have it, give it to the GRID.
+[21:56:58] Orenthal James 'The Juice' Simpson: But what if there's a fire?
+[21:57:03] CCA.C14-GRID.i3.36307: then report it
+[21:57:06] CCA.C14-GRID.i3.36307: give me it, now.
+[21:57:11] Orenthal James 'The Juice' Simpson: But I can save the apartment bulding.
+[21:57:17] Orenthal James 'The Juice' Simpson: Or wherever
+[21:57:21] CCA.C14-GRID.i3.36307: are you planning on starting a fire?
+[21:57:22] CCA.C14-UNION.EpU.72633: That is our job, give it to him
+[21:57:34] Orenthal James 'The Juice' Simpson: If I was planning on starting a fire, would I have the fire extinguisher?
+[21:57:39] Orenthal James 'The Juice' Simpson: Be kinda counter productive.
+[21:57:47] CCA.C14-UNION.EpU.72633: Indeed
+[21:57:56] Orenthal James 'The Juice' Simpson: It would be more loyalty points to put out the fire, wouldn't it be?
+[21:58:04] CCA.C14-UNION.EpU.72633: Now then, I order you to give the CCA officer the Fire extinguisher.
+[21:58:05] Orenthal James 'The Juice' Simpson: Risking my life for one of  your guys' buildings?
+[21:58:11] CCA.C14-GRID.i3.36307: /me tries to take the extinguisher from him
+[21:58:13] Orenthal James 'The Juice' Simpson: .//fucking fascist pigs
+[21:58:16] Orenthal James 'The Juice' Simpson: /me lets go of it.
+[21:58:19] CCA.C14-UNION.EpU.72633: .// No u
+[21:58:26] CCA.C14-UNION.EpU.72633: Was that so hard?
+[21:58:26] CCA.C14-GRID.i3.36307: .// can you actually drop it or is it not an item
+[21:58:33] Orenthal James 'The Juice' Simpson<STEAM_0:1:53097688> used the tool creator on maps/rp_city14_utopia.bsp
+[21:58:33] Orenthal James 'The Juice' Simpson<STEAM_0:1:53097688> spawned/gave himself swep weapon_extinguisher_infinite
+[21:58:37] Orenthal James 'The Juice' Simpson: .//wait
+[21:58:56] Orenthal James 'The Juice' Simpson<STEAM_0:1:53097688> spawned effect models/weapons/c_fire_extinguisher.mdl
+[21:59:05] Orenthal James 'The Juice' Simpson<STEAM_0:1:53097688> used the tool creator on maps/rp_city14_utopia.bsp
+[21:59:05] Orenthal James 'The Juice' Simpson<STEAM_0:1:53097688> spawned/gave himself swep weapon_extinguisher_infinite
+[21:59:12] CCA.C14-GRID.i3.36307: /toggleraise
+[21:59:13] Orenthal James 'The Juice' Simpson: /doorsethidden true
+[21:59:15] CCA.C14-UNION.EpU.72633: .// Make pulse SMG a real item or you are dumbo
+[21:59:18] Orenthal James 'The Juice' Simpson: /me then proceeds to take his pan.
+[21:59:19] Orenthal James 'The Juice' Simpson<STEAM_0:1:53097688> spawned/gave himself swep weapon_hl2m_pan
+[21:59:20] CCA.C14-GRID.i3.36307: /toggleraise
+[21:59:23] CCA.C14-GRID.i3.36307: what
+[21:59:26] CCA.C14-UNION.EpU.72633: What the fuck?
+[21:59:28] Orenthal James 'The Juice' Simpson: /me doesn't do anything with it.
+[21:59:35] Orenthal James 'The Juice' Simpson: /it He's just holding it casually.
+[21:59:37] CCA.C14-GRID.i3.36307: where the fuck did you store that
+[21:59:37] CCA.C14-UNION.EpU.72633: Why do you have tha-
+[21:59:38] CCA.C14-UNION.EpU.72633: Fuck it
+[21:59:50] Orenthal James 'The Juice' Simpson: I had it in my back wastepan.
+[21:59:53] Orenthal James 'The Juice' Simpson: .//waistband*
+[21:59:56] CCA.C14-UNION.EpU.72633: We got just about everything we wa-
+[21:59:59] CCA.C14-GRID.i3.36307: how?
+[22:00:01] CCA.C14-UNION.EpU.72633: What?
+[22:00:03] CCA.C14-GRID.i3.36307: you did not
+[22:00:07] Orenthal James 'The Juice' Simpson: It was under my shirt.
+[22:00:21] CCA.C14-GRID.i3.36307: you'd see a frying pan from under a shirt
+[22:00:24] CCA.C14-GRID.i3.36307: what are you?
+[22:00:26] Orenthal James 'The Juice' Simpson: Clearly not.
+[22:00:30] CCA.C14-UNION.EpU.72633: I'm really contemplating on searching you, just to see everything you have.
+[22:00:38] CCA.C14-GRID.i3.36307: let's do it
+[22:00:42] CCA.C14-UNION.EpU.72633: Go for it
+[22:00:45] Orenthal James 'The Juice' Simpson: /me gets against the wall.
+[22:00:46] CCA.C14-GRID.i3.36307: wall
+[22:00:56] Orenthal James 'The Juice' Simpson: .//i would make an i can't breathe joke but i'm not a bad person
+[22:00:59] Orenthal James 'The Juice' Simpson: .//that owuld be like
+[22:01:02] Orenthal James 'The Juice' Simpson: .//a lot of levels of not okay
+[22:01:04] CCA.C14-GRID.i3.36307: /me attempts to tie the man, does he resist?
+[22:01:06] Orenthal James 'The Juice' Simpson: /me would proceed to tie the individual. Would they resist?
+[22:01:08] Orenthal James 'The Juice' Simpson: .//void
+[22:01:09] Orenthal James 'The Juice' Simpson: .//wrong bind
+[22:01:09] Orenthal James 'The Juice' Simpson: /me would take out his combat knife and cut the individual's ties.
+[22:01:11] Orenthal James 'The Juice' Simpson: .//NO
+[22:01:13] Orenthal James 'The Juice' Simpson: /plysearch
+[22:01:15] CCA.C14-UNION.EpU.72633: .// It would be funny for all the wrong reasons.
+[22:01:15] Orenthal James 'The Juice' Simpson: .//fucking
+[22:01:16] CCA.C14-GRID.i3.36307: .// did you tie me or yourself lmao
+[22:01:23] Orenthal James 'The Juice' Simpson: /me doesn't resist being tied, searched or anything. They are completely compliant given that the situation does not escalate.
+[22:01:24] Orenthal James 'The Juice' Simpson: /me doesn't resist being tied, searched or anything. They are completely compliant given that the situation does not escalate.
+[22:01:34] CCA.C14-UNION.EpU.72633: .// Pulls a NO U card and ties the CCA
+[22:01:41] CCA.C14-GRID.i3.36307: .// you better have a comedic amount of items
+[22:01:42] CCA.C14-UNION.EpU.72633: Get the fuck down i5
+[22:01:45] CCA.C14-GRID.i3.36307: /me searches the man
+[22:01:49] CCA.C14-GRID.i3.36307: /charsearch
+[22:02:02] CCA.C14-UNION.EpU.72633: What?
+[22:02:06] CCA.C14-GRID.i3.36307: /charsearch
+[22:02:12] Karl Von Habsburg: // back
+[22:02:14] CCA.C14-GRID.i3.36307: .// that was dissapointing
+[22:02:16] CCA.C14-UNION.EpU.72633: // Wb
+[22:02:20] Orenthal James 'The Juice' Simpson: //these units fucking hate me
+[22:02:22] Orenthal James 'The Juice' Simpson: //you know who i miss
+[22:02:24] CCA.C14-GRID.i3.36307: he has nothing
+[22:02:27] Orenthal James 'The Juice' Simpson: //the surprise party man
+[22:02:28] CCA.C14-GRID.i3.36307: where the fuck is the pan?
+[22:02:30] CCA.C14-UNION.i5.60437: .// the guy i murdered
+[22:02:40] CCA.C14-UNION.EpU.72633: Wait.....where is it?
+[22:02:42] Orenthal James 'The Juice' Simpson: /me dropped the pan on the ground before being searched.
+[22:02:42] CCA.C14-GRID.i3.36307: did you take his pan
+[22:02:46] CCA.C14-GRID.i3.36307: .// oh
+[22:02:51] Orenthal James 'The Juice' Simpson: /adminspawnmenu
+[22:02:54] Karl Von Habsburg: // whats happening
+[22:02:57] CCA.C14-GRID.i3.36307: /me cuts the guys tie
+[22:03:03] CCA.C14-GRID.i3.36307: // guy pulled a pan from his pants
+[22:03:08] Orenthal James 'The Juice' Simpson: /chargiveitem james pan
+[22:03:08] CCA.C14-UNION.i5.60437: // panis
+[22:03:10] CCA.C14-UNION.EpU.72633: // Fucking chad
+[22:03:18] CCA.C14-GRID.i3.36307: // he puts the pan in pants
+[22:03:19] CCA.C14-UNION.EpU.72633: Alright, I guess that settles that.
+[22:03:24] CCA.C14-GRID.i3.36307: move along
+[22:03:25] Orenthal James 'The Juice' Simpson: /me picks his pan back up
+[22:03:49] CCA.C14-GRID.i3.36307: /toggleraise
+[22:03:53] CCA.C14-GRID.i3.36307: /toggleraise
+[22:03:58] Orenthal James 'The Juice' Simpson: Is there a problem?
+[22:04:07] CCA.C14-GRID.i3.36307: /toggleraise
+[22:04:10] CCA.C14-UNION.EpU.72633: Both of you can detach
+[22:04:11] CCA.C14-GRID.i3.36307: /toggleraise
+[22:04:21] CCA.C14-UNION.EpU.72633: Go for it
+[22:04:26] CCA.C14-UNION.EpU.72633: /radio Unit going 10-7
+[22:04:31] CCA.C14-UNION.EpU.72633<STEAM_0:1:17219621> changed their name to CCA.C14-UNION.i2.95912
+[22:04:34] CCA.C14-GRID.i3.36307: what the fuck
+[22:04:45] CCA.C14-GRID.i3.36307: i have some crackers?
+[22:04:46] CCA.C14-UNION.i2.95912: // EPOO just learned teleportation
+[22:04:47] Orenthal James 'The Juice' Simpson<STEAM_0:1:53097688> changed their name to Unknown
+[22:04:55] Unknown: //what
+[22:04:56] CCA.C14-GRID.i3.36307: drink the qz water
+[22:05:07] Unknown: //somebody shoudl get on a citizen
+[22:05:08] CCA.C14-UNION.i2.95912: // oh fucking god, Bowl is back ;-;
+[22:05:24] CCA.C14-UNION.i2.95912: // We've been cursed by his presence.
+[22:05:26] CCA.C14-GRID.i3.36307: // bottled QZ water when
+[22:05:31] CCA.C14-UNION.i2.95912: // YES
+[22:05:33] CCA.C14-UNION.i5.60437: // right now, grunt time
+[22:05:33] Unknown: //bottled AIDS when
+[22:05:37] Karl Von Habsburg: //dab already on civvie
+[22:05:47] Unknown: //can we get somebody else on civive
+[22:05:51] CCA.C14-UNION.i2.95912: // No u
+[22:05:51] Unknown: //for no reaon other than because funni
+[22:05:55] CCA.C14-GRID.i3.36307: do you want milk?
+[22:05:59] CCA.C14-UNION.i5.60437: // i'll get on vort in a sec
+[22:06:06] CCA.C14-UNION.i2.95912: Oh fucking hell, don't give him the milk
+[22:06:11] CCA.C14-UNION.i2.95912: For christ sakes
+[22:06:13] Unknown: //that's not a civvie ya fuck
+[22:06:21] CCA.C14-UNION.i5.60437: // fuck you
+[22:06:23] CCA.C14-GRID.i3.36307: /me pours a glass of milk, it is green
+[22:06:27] CCA.C14-UNION.i2.95912: // And you are a bad char, whats the difference?
+[22:06:30] CCA.C14-UNION.i2.95912: // jk
+[22:06:36] Karl Von Habsburg: // Great character
+[22:06:41] CCA.C14-GRID.i3.36307: it is milk
+[22:06:43] Karl Von Habsburg: // All of Qs characters are great
+[22:06:48] CCA.C14-GRID.i3.36307: it is old milk
+[22:06:51] CCA.C14-GRID.i3.36307: very old milk
+[22:06:56] CCA.C14-GRID.i3.36307: 1989
+[22:07:00] Karl Von Habsburg: // I remember the serial killer he had
+[22:07:10] CCA.C14-GRID.i3.36307: headcrab milk?
+[22:07:14] CCA.C14-UNION.i2.95912: Alright, I get taken all the way from fucking city 15, I land in city 14......and on my first day here I see this shit.
+[22:07:32] CCA.C14-GRID.i3.36307: what do you expect in a mess hall
+[22:07:51] CCA.C14-UNION.i2.95912: I see a guy with fucking multiple suitcases worth of 10+ fucking old milk.
+[22:07:58] CCA.C14-UNION.i2.95912: .// Year old*
+[22:08:00] CCA.C14-GRID.i3.36307: street cheese
+[22:08:12] Unknown<STEAM_0:1:53097688> changed their name to CCA.C14-RCT.93386
+[22:08:13] CCA.C14-UNION.i2.95912: /me Breaks and starts laughing his ass off.
+[22:08:16] CCA.C14-GRID.i3.36307: /toggleraise
+[22:08:21] CCA.C14-UNION.i2.95912: Fucking hell, i5 chill out.
+[22:08:21] CCA.C14-GRID.i3.36307: /toggleraise
+[22:08:29] CCA.C14-UNION.i2.95912: The fuck, an RCT is-
+[22:08:29] CCA.C14-RCT.93386: /me grabs the milk and fucking pounds it.
+[22:08:34] CCA.C14-UNION.i2.95912: /y NO YOU FUCKING DUMB SHIT
+[22:08:37] CCA.C14-GRID.i3.36307: WHY
+[22:08:40] CCA.C14-UNION.i2.95912: What the fuck
+[22:08:42] CCA.C14-UNION.i2.95912: /y WHY
+[22:08:42] CCA.C14-GRID.i3.36307: /toggleraise
+[22:08:42] CCA.C14-RCT.93386: /y OW! FUCK!
+[22:08:51] CCA.C14-UNION.i2.95912: /y GET THE FUCK OVER TO THE MEDBAY
+[22:08:58] CCA.C14-GRID.i3.36307: // LMAO
+[22:08:58] CCA.C14-RCT.93386: /CHARSETMODEL RCT models/dpfilms/metropolice/playermodels/pm_hdpolice.mdl
+[22:08:59] CCA.C14-UNION.i2.95912: Come on.
+[22:09:04] CCA.C14-UNION.i2.95912: Dumb fuck
+[22:09:15] CCA.C14-UNION.i2.95912: /y GET OVER HERE
+[22:09:18] CCA.C14-UNION.i2.95912: bed
+[22:09:20] CCA.C14-UNION.i2.95912: Now
+[22:09:22] CCA.C14-RCT.93386: Why are you yelling at me?
+[22:09:28] CCA.C14-RCT.93386: /me makes a weird noise.
+[22:09:29] CCA.C14-GRID.i3.36307: You drank 20 year old milk
+[22:09:53] CCA.C14-UNION.i2.95912: /ry A FUCKING RCT JUST DRANK 10+ YEAR OLD MILK, GET A HELIX DOWN NOW.
+[22:09:53] CCA.C14-RCT.93386: /me makes another weird noise, bends down, and makes a noise like this.
+[22:09:54] CCA.C14-GRID.i3.36307: Probably fucking headcrab milk
+[22:10:10] CCA.C14-UNION.i2.95912: // Pain, get on HELIX and respond to that shit
+[22:10:11] CCA.C14-GRID.i3.36307: // KARL GET ON YOUR HELIX HE DRANK THE MILK
+[22:10:18] CCA.C14-UNION.i2.95912: // HE DRANK THE CURSED MILK
+[22:10:21] CCA.C14-UNION.i5.60437: career
+[22:10:24] Dropped "Karl Von Habsburg" from server<STEAM_0:0:68118061>
+[22:10:29] CCA.C14-UNION.i2.95912: // Bruh
+[22:10:46] CCA.C14-GRID.i3.36307: .// ddid you take your mask off or drink it through the filter
+[22:10:56] CCA.C14-UNION.i2.95912: Fucking hell, we might as well let him die
+[22:10:59] CCA.C14-RCT.93386: /it You see orange stuff come out of his filter.
+[22:11:00] CCA.C14-UNION.i2.95912: Not like we can do much
+[22:11:04] CCA.C14-UNION.i2.95912: /y WHAT THE FUCK
+[22:11:05] CCA.C14-GRID.i3.36307: good god
+[22:11:06] CCA.C14-UNION.i5.60437: let me think
+[22:11:14] CCA.C14-UNION.i2.95912: Did it have Xen spores in it?
+[22:11:18] CCA.C14-UNION.i2.95912: Go for it
+[22:11:24] CCA.C14-GRID.i3.36307: i think it was found in a street
+[22:11:27] CCA.C14-RCT.93386: .//have you neer seen vomit
+[22:11:29] CCA.C14-UNION.i2.95912: What in the fuck.
+[22:11:30] CCA.C14-UNION.i5.60437: /me gives the RcT a good *WHAM* on the back of the head.
+[22:11:30] CCA.C14-RCT.93386: .//sometimes it's orange
+[22:11:32] CCA.C14-GRID.i3.36307: .// orange?
+[22:11:33] CCA.C14-RCT.93386: /y AGH FUCK!
+[22:11:34] CCA.C14-UNION.i5.60437: /rollstat str
+[22:11:35] CCA.C14-RCT.93386: .//yeah
+[22:11:36] CCA.C14-RCT.93386: .//sometimes
+[22:11:39] CCA.C14-RCT.93386: /rollstat con
+[22:11:41] CCA.C14-UNION.i2.95912: .// I've never seen orange fucking Vomit.
+[22:11:45] CCA.C14-RCT.93386: /me is hurt but not really that bad
+[22:11:49] CCA.C14-RCT.93386: .//i have
+[22:11:51] CCA.C14-GRID.i3.36307: .// im suprised it's not bloodty
+[22:11:52] CCA.C14-RCT.93386: .//sorry, yellow shit
+[22:11:56] CCA.C14-RCT.93386: /it You see yellow shit come out of the filter.
+[22:12:01] CCA.C14-UNION.i2.95912: Fucking hell, this guy is a dumb shit.
+[22:12:02] CCA.C14-GRID.i3.36307: WHAT THE FUCK
+[22:12:03] CCA.C14-UNION.i5.60437: just thought
+[22:12:05] CCA.C14-RCT.93386: .//it's vomit is whati 'm getting at
+[22:12:21] CCA.C14-UNION.i2.95912: Welp
+[22:12:22] CCA.C14-GRID.i3.36307: I'm going to shoot him, it's the humane thing
+[22:12:28] CCA.C14-UNION.i2.95912: Eh, he's a dumb fuck
+[22:12:28] CCA.C14-RCT.93386: /me takes off his mask and he has vomit all over the inside of his mask and the bottom of his face.
+[22:12:31] CCA.C14-RCT.93386: /y WHATH TE FUCK NO!
+[22:12:43] CCA.C14-RCT.93386: /chargiveflag rct p
+[22:12:47] CCA.C14-UNION.i2.95912: Let him suffer, I asked for a HELIX.
+[22:12:49] CCA.C14-RCT.93386: /chargiveflag rct et
+[22:12:50] CCA.C14-RCT.93386<STEAM_0:1:53097688> spawned model models/dpfilms/metropolice/props/generic_gasmask.mdl
+[22:13:07] CCA.C14-RCT.93386: /charsetmodel rct models/dpfilms/metropolice/playermodels/pm_hd_barney.mdl
+[22:13:16] CCA.C14-GRID.i3.36307: // BARNEY IS THAT YOU
+[22:13:18] CCA.C14-RCT.93386: /me then proceeds to vomit violently on the floor.
+[22:13:19] CCA.C14-UNION.i2.95912: // Lmao
+[22:13:35] CCA.C14-GRID.i3.36307: /toggleraise
+[22:13:43] CCA.C14-RCT.93386<STEAM_0:1:53097688> used the tool paint on maps/rp_city14_utopia.bsp
+[22:13:43] CCA.C14-RCT.93386<STEAM_0:1:53097688> used the tool paint on maps/rp_city14_utopia.bsp
+[22:13:43] CCA.C14-RCT.93386<STEAM_0:1:53097688> used the tool paint on maps/rp_city14_utopia.bsp
+[22:13:43] CCA.C14-RCT.93386<STEAM_0:1:53097688> used the tool paint on maps/rp_city14_utopia.bsp
+[22:13:44] CCA.C14-RCT.93386<STEAM_0:1:53097688> used the tool paint on maps/rp_city14_utopia.bsp
+[22:13:44] CCA.C14-RCT.93386<STEAM_0:1:53097688> used the tool paint on maps/rp_city14_utopia.bsp
+[22:13:44] CCA.C14-RCT.93386<STEAM_0:1:53097688> used the tool paint on maps/rp_city14_utopia.bsp
+[22:13:44] CCA.C14-RCT.93386<STEAM_0:1:53097688> used the tool paint on maps/rp_city14_utopia.bsp
+[22:13:45] CCA.C14-RCT.93386<STEAM_0:1:53097688> used the tool paint on maps/rp_city14_utopia.bsp
+[22:13:45] CCA.C14-RCT.93386<STEAM_0:1:53097688> used the tool paint on maps/rp_city14_utopia.bsp
+[22:13:54] CCA.C14-UNION.i2.95912: /y I SWEAR TO FUCKING GOD
+[22:14:09] CCA.C14-UNION.i2.95912: /y WHY ARE YOU SPRAYING HIM DOWN WITH FIRE EXTINGUISHERS?
+[22:14:15] CCA.C14-RCT.93386: /me then stands up, wipes his vomit on his sleeve, puts his mask back on, and walks out.
+[22:14:17] CCA.C14-GRID.i3.36307: DO YOU WANT THIS ON THE FLOORS
+[22:14:19] Client "[CGN] Painevan" connected.
+[22:14:24] CCA.C14-RCT.93386: Good time to do my laundry I suppose.
+[22:14:35] CCA.C14-RCT.93386: /charsetmodel rct models/dpfilms/metropolice/playermodels/pm_hdpolice.mdl
+[22:14:37] CCA.C14-UNION.i2.95912: I want to kill him
+[22:14:43] CCA.C14-GRID.i3.36307: /toggleraise
+[22:14:51] CCA.C14-UNION.i2.95912: Fuck it
+[22:15:14] CCA.C14-UNION.i5.60437: /me fucking slams his citrus drink.
+[22:15:23] Client "[CGN] Painevan" spawned in server <STEAM_0:0:68118061> (took 64 seconds).
+[22:15:33] CCA.C14-UNION.i2.95912: /me Takes off his mask revealing a rather average looking boi and begins chugging down his Drinks
+[22:15:41] CCA.C14-RCT.93386: They yelled at me for coming into the laundromat covered in puke.
+[22:15:49] CCA.C14-UNION.i2.95912: No shit
+[22:15:50] CCA.C14-GRID.i3.36307: naturally
+[22:15:50] CCA.C14-RCT.93386: Hey, what's in here?
+[22:15:53] CCA.C14-GRID.i3.36307: nothing
+[22:15:55] CCA.C14-UNION.i2.95912: Don't touch it
+[22:15:56] CCA.C14-GRID.i3.36307: don't touch my bag
+[22:15:58] CCA.C14-UNION.i2.95912: You dumb fuck
+[22:15:58] CCA.C14-RCT.93386: /me opens up the GRID's bag and looks inside.
+[22:16:02] CCA.C14-UNION.i2.95912: /y FUCKING HELL
+[22:16:05] CCA.C14-UNION.i2.95912: /y WHAT DID I JUST SAY
+[22:16:12] CCA.C14-GRID.i3.36307: give me it 
+[22:16:16] CCA.C14-UNION.i2.95912: No fucking clue
+[22:16:17] CCA.C14-RCT.93386: /me , while looking into it, then heaves and yellow stuff comes through his filter and into the bag.
+[22:16:20] CCA.C14-GRID.i3.36307: NO
+[22:16:21] CCA.C14-RCT.93386: Shit, my bad.
+[22:16:22] CCA.C14-GRID.i3.36307: WHY
+[22:16:23] CCA.C14-RCT.93386: /me burps.
+[22:16:35] CCA.C14-UNION.i2.95912: This guy has to be amputation worthy
+[22:16:35] CCA.C14-GRID.i3.36307: /toggleraise
+[22:16:36] [CGN] Painevan<STEAM_0:0:68118061> changed their name to Karl Von Habsburg
+[22:16:42] Karl Von Habsburg: // I crashed :(
+[22:16:48] CCA.C14-UNION.i2.95912: /me Grabs the man by his throat and begins dragging him
+[22:16:49] CCA.C14-GRID.i3.36307: // KARL GET ON YOUR HELIX 
+[22:16:55] CCA.C14-UNION.i2.95912: // PLEASE
+[22:16:56] CCA.C14-GRID.i3.36307: // HE DRANK THE MILK
+[22:17:00] CCA.C14-RCT.93386: /me takes out his drink, takes off his mask, opens it, and drinks.
+[22:17:03] CCA.C14-RCT.93386: Man.
+[22:17:04] CCA.C14-UNION.i5.60437: /me slams another citrus drink.
+[22:17:09] CCA.C14-UNION.i2.95912: /me Grabs the man by his throat and begins dragging him
+[22:17:09] CCA.C14-RCT.93386: This is not the best taste for an upset stomach.
+[22:17:13] CCA.C14-GRID.i3.36307: /me loosely picks up his vomit soaked satchel
+[22:17:13] CCA.C14-RCT.93386: .//AGH
+[22:17:19] CCA.C14-GRID.i3.36307: i'm
+[22:17:27] CCA.C14-UNION.i2.95912: /me Throws the man onto the bed violently
+[22:17:33] CCA.C14-RCT.93386: /me gasps.
+[22:17:36] CCA.C14-RCT.93386: What the hell?
+[22:17:39] CCA.C14-GRID.i3.36307: // pain get on your helix
+[22:17:43] CCA.C14-UNION.i5.60437: /me opens up his bran flakes and eats it like popcorn, while watching.
+[22:17:45] CCA.C14-RCT.93386: I'm fine!
+[22:17:47] CCA.C14-GRID.i3.36307: you're replacing that bag
+[22:17:54] CCA.C14-RCT.93386: Get one from the QrM.
+[22:17:56] CCA.C14-GRID.i3.36307: you're using your paycheque to replace it
+[22:17:57] CCA.C14-UNION.i2.95912: /ry I need a fucking HELIX unit to report to the Medbay or i'm gonna fucking beat this RCT while he's sick.
+[22:18:07] CCA.C14-GRID.i3.36307: it wasn't issued by the damn QrM
+[22:18:09] CCA.C14-RCT.93386: Why dd you say that like a britt?
+[22:18:11] Karl Von Habsburg<STEAM_0:0:68118061> changed their name to CCA.C14-HELIX.i4.50299
+[22:18:12] CCA.C14-RCT.93386: Fuck the british.
+[22:18:20] CCA.C14-RCT.93386: Uh, no? What the hell-
+[22:18:23] CCA.C14-GRID.i3.36307: What?
+[22:18:23] CCA.C14-RCT.93386: 5 tokens
+[22:18:25] CCA.C14-RCT.93386: Hmm.
+[22:18:25] CCA.C14-RCT.93386: No.
+[22:18:27] CCA.C14-HELIX.i4.50299: What the hell are you doing in here?
+[22:18:28] CCA.C14-RCT.93386: No.
+[22:18:29] CCA.C14-UNION.i2.95912: He drank 20+ year old milk
+[22:18:43] CCA.C14-RCT.93386: Still no. I'm not stupid.
+[22:18:46] CCA.C14-GRID.i3.36307: /me plops his vomit soaked toolkit on the floor
+[22:18:48] CCA.C14-UNION.i2.95912: And has puked on just about nothing.
+[22:18:51] CCA.C14-HELIX.i4.50299: Alright stupids, everone out except the pation.
+[22:18:54] CCA.C14-RCT.93386: I'm not stupid, asshole.
+[22:18:58] CCA.C14-RCT.93386: I'm not eating the grub.
+[22:19:00] CCA.C14-HELIX.i4.50299: /looc Patient*
+[22:19:06] CCA.C14-RCT.93386: Hey, how goes it?
+[22:19:08] CCA.C14-HELIX.i4.50299: Now what did you do?
+[22:19:10] CCA.C14-GRID.i3.36307: .// your qrm is required
+[22:19:12] CCA.C14-RCT.93386: Uh.
+[22:19:14] CCA.C14-RCT.93386: Threw up.
+[22:19:17] CCA.C14-UNION.i2.95912: I'm gonna beat the fuck out of that RCT or I swear to god
+[22:19:22] CCA.C14-RCT.93386: Drank some milk that I thought was still good.y
+[22:19:24] CCA.C14-RCT.93386: It wasn't.
+[22:19:25] CCA.C14-UNION.i2.95912<STEAM_0:1:17219621> changed their name to CCA.C14-QrM.98240
+[22:19:36] CCA.C14-QrM.98240: /radio Unit is 10-8, whats all this noise coming from my radio about?
+[22:19:44] CCA.C14-HELIX.i4.50299: I have never seen a carton of non expired milk in the city.
+[22:19:46] CCA.C14-GRID.i3.36307: /radio RcT drank the milk.
+[22:19:52] CCA.C14-QrM.98240: /radio What milk?
+[22:19:55] CCA.C14-RCT.93386: Okay?
+[22:19:57] CCA.C14-HELIX.i4.50299: Uhg.
+[22:19:57] CCA.C14-GRID.i3.36307: /radio In the fridge
+[22:19:59] CCA.C14-HELIX.i4.50299: Hold on
+[22:20:02] CCA.C14-GRID.i3.36307: /radio The JUDGEs milk
+[22:20:09] CCA.C14-QrM.98240: /r I fucking hate RCT's
+[22:20:20] CCA.C14-QrM.98240: /radio What did he mess up?
+[22:20:20] CCA.C14-UNION.i5.60437<STEAM_0:1:129270116> changed their name to CCA.C14-JUDGE.OfC.91412
+[22:20:28] CCA.C14-GRID.i3.36307: /radio well
+[22:20:29] CCA.C14-JUDGE.OfC.91412: /radio What the shit am I hearing?
+[22:20:33] CCA.C14-HELIX.i4.50299: /me grabs some pills from the bottom of the drawer.
+[22:20:36] CCA.C14-QrM.98240: /radio The RCT drank your milk
+[22:20:36] CCA.C14-GRID.i3.36307: /radio His mask is fucked
+[22:20:44] CCA.C14-HELIX.i4.50299: Where
+[22:20:45] CCA.C14-JUDGE.OfC.91412: /radio MY MILK!? 10-76 TO STORM.
+[22:20:48] CCA.C14-GRID.i3.36307: /radio He vomited in my tool-kit, I'll need a new one
+[22:20:55] CCA.C14-HELIX.i4.50299: Where did the RCT go?
+[22:20:58] CCA.C14-GRID.i3.36307: what
+[22:21:00] CCA.C14-HELIX.i4.50299: I need to give medication
+[22:21:02] CCA.C14-QrM.98240: /radio Permission to beat him all the way to death?
+[22:21:06] CCA.C14-GRID.i3.36307: he needs a bullet
+[22:21:16] CCA.C14-GRID.i3.36307: /radio He escaped
+[22:21:21] CCA.C14-HELIX.i4.50299: /radio Fucking.
+[22:21:27] CCA.C14-GRID.i3.36307: yes
+[22:21:30] CCA.C14-GRID.i3.36307: hey
+[22:21:42] CCA.C14-HELIX.i4.50299: NO
+[22:21:46] CCA.C14-HELIX.i4.50299: You idiots
+[22:21:53] CCA.C14-HELIX.i4.50299: /radio Why are you all dumb.
+[22:22:02] CCA.C14-QrM.98240: /radio No, this guy needs to pay.
+[22:22:08] CCA.C14-HELIX.i4.50299: YES
+[22:22:16] CCA.C14-RCT.93386<STEAM_0:1:53097688> spawned model models/props/cs_office/water_bottle.mdl
+[22:22:20] CCA.C14-HELIX.i4.50299: no
+[22:22:27] CCA.C14-GRID.i3.36307: /me takes out his wrench
+[22:22:30] CCA.C14-HELIX.i4.50299: All stupid.
+[22:22:33] CCA.C14-QrM.98240: This guy needs to fucking pay, he vomitted into shit tha-
+[22:22:36] CCA.C14-QrM.98240: Fuck it
+[22:22:36] CCA.C14-GRID.i3.36307: /toggleraise
+[22:22:40] CCA.C14-GRID.i3.36307: /toggleraise
+[22:22:41] CCA.C14-RCT.93386: //just fucking up and left
+[22:22:48] CCA.C14-RCT.93386: //like a chad
+[22:22:55] CCA.C14-HELIX.i4.50299: // Why are CPs fucking stupid
+[22:23:05] CCA.C14-RCT.93386: //i regret not being an i5
+[22:23:07] CCA.C14-QrM.98240: // TFW QrM goes after you because he wants you to pay.
+[22:23:22] CCA.C14-JUDGE.OfC.91412: /kickdoor
+[22:23:29] CCA.C14-RCT.93386<STEAM_0:1:53097688> spawned model models/props/cs_office/water_bottle.mdl
+[22:23:30] CCA.C14-HELIX.i4.50299: // Officer says he will make the fucking RCT eat more of the milk
+[22:23:32] CCA.C14-HELIX.i4.50299: // Stupids
+[22:23:36] CCA.C14-RCT.93386<STEAM_0:1:53097688> spawned model models/props/cs_office/water_bottle.mdl
+[22:23:41] CCA.C14-QrM.98240: What do you need to replace?
+[22:23:42] CCA.C14-HELIX.i4.50299<STEAM_0:0:68118061> changed their name to Karl Von Habsburg
+[22:23:44] CCA.C14-GRID.i3.36307: /me hands the QrM a vomit soaked bag
+[22:23:51] CCA.C14-GRID.i3.36307: this and it's contents
+[22:23:57] CCA.C14-JUDGE.OfC.91412: /kickdoor
+[22:24:00] CCA.C14-QrM.98240: /me makes a slight noise (Almost like he just saw vomit)
+[22:24:11] CCA.C14-JUDGE.OfC.91412: /kickdoor
+[22:24:11] CCA.C14-GRID.i3.36307: .// just do some shit and hand me back the bag, it's actually filled with stuff
+[22:24:15] CCA.C14-QrM.98240: I want to fucking die.....every now and then?
+[22:24:27] CCA.C14-QrM.98240: .// I said that in a questioning way, just so you know.
+[22:24:34] CCA.C14-QrM.98240: I don't want to touch it
+[22:24:37] CCA.C14-JUDGE.OfC.91412: /radio Someone named John Wilson left their ID up here.
+[22:24:44] CCA.C14-QrM.98240: /radio Copy that
+[22:24:45] CCA.C14-QrM.98240: One sec
+[22:24:46] CCA.C14-GRID.i3.36307: so it's not getting replaced then?
+[22:24:53] CCA.C14-JUDGE.OfC.91412: /kickdoor
+[22:25:13] CCA.C14-QrM.98240: /me Grabs the small supply crate and opens it up, then he takes out a seperate pair of rubber gloves and slips them on.
+[22:25:20] CCA.C14-GRID.i3.36307: .// brb
+[22:25:23] CCA.C14-QrM.98240: FUCKING YOU
+[22:25:24] CCA.C14-RCT.93386: Hey, where'd-
+[22:25:27] CCA.C14-RCT.93386: Geez, what?
+[22:25:33] Karl Von Habsburg: // Im gonna go this is too dumb for my brain
+[22:25:35] CCA.C14-QrM.98240: WERE YOU THE ONE WHO DRANK THE MILK?
+[22:25:40] CCA.C14-QrM.98240: // F
+[22:25:41] CCA.C14-JUDGE.OfC.91412: /radio RcT, report to the Nexus immediately. Oblige, or face concequences.
+[22:25:43] Dropped "Karl Von Habsburg" from server<STEAM_0:0:68118061>
+[22:25:46] CCA.C14-RCT.93386: Yeah, I'm feeling better now, don't worry.
+[22:25:52] CCA.C14-QrM.98240: /ry HE'S AT MY ARMORY.
+[22:26:04] CCA.C14-GRID.i3.36307: YOU
+[22:26:05] CCA.C14-RCT.93386: Can you get your hnds off of me?
+[22:26:06] CCA.C14-GRID.i3.36307: FUCKING
+[22:26:07] CCA.C14-GRID.i3.36307: IDIOT
+[22:26:10] CCA.C14-RCT.93386: What?
+[22:26:14] CCA.C14-RCT.93386: I did not expect or deserve that.
+[22:26:17] CCA.C14-GRID.i3.36307: YOU THREW UP IN MY TOOL KIT
+[22:26:27] CCA.C14-RCT.93386: You said there was nothing in there.
+[22:26:31] CCA.C14-RCT.93386: I was just looking.
+[22:26:34] CCA.C14-RCT.93386: It wasn't much.
+[22:26:35] CCA.C14-GRID.i3.36307: DID YOU NOT SEE IT FULL
+[22:26:36] CCA.C14-RCT.93386: .//ic it wasn't much
+[22:26:41] CCA.C14-JUDGE.OfC.91412: i'm
+[22:26:43] CCA.C14-JUDGE.OfC.91412: going
+[22:26:43] CCA.C14-RCT.93386: I was looking, fuck.
+[22:26:44] CCA.C14-JUDGE.OfC.91412: to
+[22:26:46] CCA.C14-JUDGE.OfC.91412: beat
+[22:26:48] CCA.C14-JUDGE.OfC.91412: the shit
+[22:26:49] CCA.C14-JUDGE.OfC.91412: out of you
+[22:26:57] CCA.C14-JUDGE.OfC.91412: /toggleraise
+[22:27:01] CCA.C14-QrM.98240: Feel free to do it in my Armory
+[22:27:15] CCA.C14-RCT.93386: Fucking a, what happened?
+[22:27:19] CCA.C14-JUDGE.OfC.91412: what do you have to say in your defense as to why I should not beat you into tomorrow?
+[22:27:21] CCA.C14-RCT.93386: I ot a little sick.
+[22:27:25] CCA.C14-RCT.93386: .//got*
+[22:27:28] CCA.C14-RCT.93386: It was a mistake.
+[22:27:35] CCA.C14-RCT.93386: How was I supposed to know the milk was a little sour?
+[22:27:46] CCA.C14-QrM.98240: /me Grabs the bag (with his new big boi rubber gloves) and takes out all of the vomit covered shit before showing it all to the RCT.
+[22:27:46] CCA.C14-JUDGE.OfC.91412: what color and density was the milk, GRID?
+[22:27:54] CCA.C14-QrM.98240: It was green
+[22:28:00] CCA.C14-QrM.98240: .// FUCK
+[22:28:03] CCA.C14-QrM.98240: .// Forgot
+[22:28:05] CCA.C14-QrM.98240: .// VOID
+[22:28:11] CCA.C14-GRID.i3.36307: it was green
+[22:28:16] CCA.C14-GRID.i3.36307: somehow
+[22:28:24] CCA.C14-QrM.98240: .// I can't open the bag, fuck it
+[22:28:25] CCA.C14-GRID.i3.36307: .// gotta piss brb
+[22:28:25] CCA.C14-JUDGE.OfC.91412: it was FUCKING GREEN
+[22:28:32] CCA.C14-RCT.93386: I just grabbed the carton and drank.
+[22:28:33] CCA.C14-GRID.i3.36307: is it good?
+[22:28:35] CCA.C14-QrM.98240: Here
+[22:28:35] CCA.C14-RCT.93386: It ws a mistake.
+[22:28:41] CCA.C14-GRID.i3.36307: THERE WAS A GLASS POURED
+[22:28:47] CCA.C14-JUDGE.OfC.91412: /me grabs hold of the recruit, and drags him harshly.
+[22:28:50] CCA.C14-RCT.93386: .//wait there was?
+[22:28:51] CCA.C14-RCT.93386: .//oh
+[22:28:52] CCA.C14-QrM.98240: /me Holds out a new (Non shitty fucking bag) to the boi.
+[22:28:52] CCA.C14-RCT.93386: /me doesn't resist being tied, searched or anything. They are completely compliant given that the situation does not escalate.
+[22:28:58] CCA.C14-JUDGE.OfC.91412: YOU TWO, WITH ME
+[22:29:02] CCA.C14-GRID.i3.36307: // BRB 
+[22:29:11] CCA.C14-JUDGE.OfC.91412: /me throws him onto the bed
+[22:29:14] CCA.C14-QrM.98240: Thats the good one
+[22:29:23] CCA.C14-QrM.98240: I'll replace it all in a moment
+[22:29:38] CCA.C14-JUDGE.OfC.91412: hold him down.
+[22:29:41] CCA.C14-QrM.98240: Understood
+[22:29:56] CCA.C14-RCT.93386: //if you kill me it's a blackmark
+[22:29:58] CCA.C14-QrM.98240: /me Grabs the man by his head and slams it down so he's laid out.
+[22:30:03] CCA.C14-RCT.93386: Agh!
+[22:30:09] CCA.C14-JUDGE.OfC.91412: // never said i was going to kill you
+[22:30:14] CCA.C14-RCT.93386: //i know justletting you know
+[22:30:16] CCA.C14-QrM.98240: /me Then grabs onto both of his arms while he was laid out.
+[22:30:19] CCA.C14-GRID.i3.36307: // who's going to report we killed you
+[22:30:29] CCA.C14-QrM.98240: /it You just got vectored
+[22:30:29] CCA.C14-RCT.93386: //dispatch when the biosignal loss goes out
+[22:30:40] CCA.C14-GRID.i3.36307: // we take you to an alley
+[22:30:41] CCA.C14-JUDGE.OfC.91412: GRID, hold him down on the other side
+[22:30:54] CCA.C14-QrM.98240: I have his arms, you get his legs
+[22:30:56] CCA.C14-GRID.i3.36307: /me holds the RcT down
+[22:31:10] CCA.C14-GRID.i3.36307: what's that bottle of?
+[22:31:13] CCA.C14-JUDGE.OfC.91412: what disgusting product should I make him ingest for eating my torture material?
+[22:31:18] CCA.C14-QrM.98240: Hm
+[22:31:29] CCA.C14-QrM.98240: What do we know is non lethal that is fucked up?
+[22:31:32] CCA.C14-RCT.93386: You don't need to induce vomiting, fuck.
+[22:31:36] CCA.C14-GRID.i3.36307: Necrotic guts
+[22:31:37] CCA.C14-RCT.93386: I'm already better.
+[22:31:38] CCA.C14-RCT.93386: It's fine.
+[22:31:46] CCA.C14-RCT.93386: That is very lethal you dumb cunt.
+[22:31:48] CCA.C14-QrM.98240: You are a dumb fuck.
+[22:31:53] CCA.C14-QrM.98240: Stop talking.
+[22:31:55] CCA.C14-GRID.i3.36307: do you have experience?
+[22:31:58] CCA.C14-JUDGE.OfC.91412: are Grubs lethal when ingested?
+[22:32:06] CCA.C14-RCT.93386: A whole one yes.
+[22:32:09] CCA.C14-QrM.98240: No clue, I don't deal with-
+[22:32:14] CCA.C14-QrM.98240: We could cut it up?
+[22:32:30] CCA.C14-JUDGE.OfC.91412: /me inspects the grub in the glass jar thing.
+[22:32:38] CCA.C14-RCT.93386: That might work, but the exoskeleton is like a chicken bone or any other bone where you can't chew it
+[22:32:44] CCA.C14-QrM.98240: Hm
+[22:32:44] CCA.C14-RCT.93386: Probably difficult but you could manage.
+[22:33:06] CCA.C14-JUDGE.OfC.91412: can you tell him to shut up?
+[22:33:12] CCA.C14-QrM.98240: Shut the fuck up RCT.
+[22:33:22] CCA.C14-RCT.93386: No, it's cool, you can tell me to.
+[22:33:27] CCA.C14-GRID.i3.36307: was it even cows milk
+[22:33:28] CCA.C14-RCT.93386: Wait so why am I being held down?
+[22:33:36] CCA.C14-JUDGE.OfC.91412: i'll be right back
+[22:33:40] CCA.C14-QrM.98240: Does this guy not understand his situation at all?
+[22:33:43] CCA.C14-GRID.i3.36307: for all we know it was BIOTIC milk
+[22:33:48] CCA.C14-QrM.98240: Fair
+[22:33:52] CCA.C14-RCT.93386: That's called semen.
+[22:34:07] CCA.C14-QrM.98240: I thought that I said "Shut the fuck up RCT"
+[22:34:10] CCA.C14-GRID.i3.36307: fuck you
+[22:34:12] CCA.C14-QrM.98240: Seems I haven't though.
+[22:34:17] CCA.C14-QrM.98240: So
+[22:34:18] CCA.C14-RCT.93386: Why are you all so mad at me?
+[22:34:21] CCA.C14-RCT.93386: So puked a little.
+[22:34:23] CCA.C14-QrM.98240: /y SHUT THE FUCK UP RCT
+[22:34:26] CCA.C14-RCT.93386: Big whoop, who hasn't.
+[22:34:37] CCA.C14-GRID.i3.36307: yeah not in other officers kits
+[22:34:46] CCA.C14-JUDGE.OfC.91412: /me is visibly seen squeezing beef paste into a carton of spoiled milk.
+[22:34:52] CCA.C14-GRID.i3.36307: .// good god
+[22:35:03] CCA.C14-QrM.98240: haha
+[22:35:07] CCA.C14-GRID.i3.36307: .// this better be canon
+[22:35:08] CCA.C14-QrM.98240: This'll be fun
+[22:35:12] CCA.C14-QrM.98240: .// It has to be
+[22:35:16] CCA.C14-JUDGE.OfC.91412: /me then empties half a box of that bran stuff into it, for better texture.
+[22:35:18] CCA.C14-QrM.98240: .// I won't take it any other way.
+[22:35:32] CCA.C14-JUDGE.OfC.91412: /me takes the water bottle on the bed and mashes the concoction up.
+[22:35:33] CCA.C14-RCT.93386: That looks pretty nasty.
+[22:35:43] CCA.C14-GRID.i3.36307: yes
+[22:35:45] CCA.C14-GRID.i3.36307: it is
+[22:35:46] CCA.C14-RCT.93386: You know, if one of you drinks that, there'll be even more vomit?
+[22:35:50] CCA.C14-RCT.93386: Like.
+[22:35:51] CCA.C14-JUDGE.OfC.91412: RcT
+[22:35:57] CCA.C14-GRID.i3.36307: you'll clean *everything*
+[22:36:01] CCA.C14-RCT.93386: Why would anyone drink that?
+[22:36:04] CCA.C14-RCT.93386: Why me?
+[22:36:04] CCA.C14-JUDGE.OfC.91412: you drank my torture material with no hesitation
+[22:36:11] CCA.C14-JUDGE.OfC.91412: you have two options
+[22:36:42] CCA.C14-JUDGE.OfC.91412: you can drink some of this wonderful concotion i've created, or you can get the special treatment
+[22:36:51] CCA.C14-RCT.93386: Uh, what's the special treatment?
+[22:37:04] CCA.C14-GRID.i3.36307: headcrab hat
+[22:37:14] CCA.C14-RCT.93386: I DON'T THINK I ASKED YOU, YOU DAFT CUNT!
+[22:37:20] CCA.C14-RCT.93386: Let the gentleman speak.
+[22:37:23] CCA.C14-QrM.98240: .// I love to think that he fucking ran into the room and chugged it down.
+[22:37:32] CCA.C14-JUDGE.OfC.91412: I will coat the exterior of your mask and vest with this, and you will not clean it until a QrM tells you to.
+[22:37:36] CCA.C14-RCT.93386: .//that's exactly what happened.
+[22:37:46] CCA.C14-GRID.i3.36307: .// is the rct just dumb or loopy from the fucking 20 year old milk
+[22:37:48] CCA.C14-QrM.98240: .// Nah, you walked....HAH
+[22:37:51] CCA.C14-RCT.93386: Hold on, can you take off my mask so I can get a better look?
+[22:37:57] CCA.C14-QrM.98240: .// I win this discussion
+[22:37:59] CCA.C14-JUDGE.OfC.91412: take it off him, GRID
+[22:38:10] CCA.C14-GRID.i3.36307: /me takes his mask off him and sets it on the bed
+[22:38:14] CCA.C14-QrM.98240: believe me, I won't tell you to for a long time.
+[22:38:25] CCA.C14-RCT.93386: Hm.
+[22:38:28] CCA.C14-RCT.93386: THis looks bad.
+[22:38:31] CCA.C14-RCT.93386: You know what would be nice?
+[22:38:35] CCA.C14-RCT.93386: Procrastinating this.
+[22:38:42] CCA.C14-RCT.93386: /me then holds his breath, putting pressure into his head.
+[22:38:50] CCA.C14-JUDGE.OfC.91412: /me holds the concotion for him to see. It is a nasty brownish-green in color, with the texture of cardboard.
+[22:38:53] CCA.C14-JUDGE.OfC.91412: hm
+[22:38:59] CCA.C14-RCT.93386: /me continues doing so.
+[22:38:59] CCA.C14-JUDGE.OfC.91412: if he doesn't choose, I will do both
+[22:39:03] CCA.C14-QrM.98240: /me Slams his stunstick into the mans stomach.
+[22:39:04] CCA.C14-GRID.i3.36307: are you okay?
+[22:39:11] CCA.C14-RCT.93386: /me continues doing this for the next 15 seconds nobody does anything to stop him.
+[22:39:12] CCA.C14-QrM.98240: .// I let go of your left arm.
+[22:39:25] CCA.C14-QrM.98240: .// You gonna resist, or react?
+[22:39:26] CCA.C14-RCT.93386: /me is hurt by the blow, but doesn't let up
+[22:39:34] CCA.C14-QrM.98240: /me Begins repeatedly doing it.
+[22:39:35] CCA.C14-JUDGE.OfC.91412: wind him
+[22:39:39] CCA.C14-RCT.93386: /me 's face proceeds to go red.
+[22:39:47] CCA.C14-GRID.i3.36307: .// we will intubate you
+[22:39:49] CCA.C14-QrM.98240: .// You should let up by now
+[22:39:53] CCA.C14-QrM.98240: .// BUT BET
+[22:39:56] CCA.C14-QrM.98240: Fuck it
+[22:40:05] CCA.C14-RCT.93386: /me rolls around in agony, just putting the pain toward the pressure into his head.
+[22:40:10] CCA.C14-GRID.i3.36307: /w Is this recruit 10-103M
+[22:40:10] CCA.C14-QrM.98240: /me Slams his stunstick into the mans crotch
+[22:40:14] CCA.C14-RCT.93386: /me 's face is now red as a tomato, and then he passes out.
+[22:40:18] CCA.C14-JUDGE.OfC.91412: /w Probable.
+[22:40:18] CCA.C14-QrM.98240: .// Bruh
+[22:40:20] CCA.C14-JUDGE.OfC.91412: well
+[22:40:23] CCA.C14-JUDGE.OfC.91412: easy enough
+[22:40:24] CCA.C14-RCT.93386: .//HAHA i was performing befoer you did that
+[22:40:27] CCA.C14-JUDGE.OfC.91412: hand me his mask
+[22:40:37] CCA.C14-QrM.98240: This guy is a total dumb fuck
+[22:40:40] CCA.C14-GRID.i3.36307: /ME picks his mask up off the bed and hands it to the JUDGE
+[22:40:46] CCA.C14-QrM.98240: /me Lets go of the boi
+[22:41:04] CCA.C14-GRID.i3.36307: How did he even become a RcT?
+[22:41:06] CCA.C14-RCT.93386: /charsetmodel rct models/dpfilms/metropolice/playermodels/pm_hd_barney.mdl
+[22:41:17] CCA.C14-GRID.i3.36307: .// NOW ABOUT THAT BEER I OWED YOU
+[22:41:18] CCA.C14-QrM.98240: No clue
+[22:41:18] CCA.C14-JUDGE.OfC.91412: /me picks up the mask, and pours some of the sludge on it. It smells like actual human feces, mixed with rotten eggs and zombine innards.
+[22:41:27] CCA.C14-JUDGE.OfC.91412: grid
+[22:41:30] CCA.C14-JUDGE.OfC.91412: you have gloves?
+[22:41:37] CCA.C14-RCT.93386: .//HE'S WEARING THEM
+[22:41:38] CCA.C14-QrM.98240: I have some rubber gloves in my backpack
+[22:41:38] CCA.C14-JUDGE.OfC.91412: rubber ones, i mean
+[22:41:42] CCA.C14-JUDGE.OfC.91412: put them on
+[22:41:52] CCA.C14-RCT.93386: .//do you think our gloves are knit
+[22:41:59] CCA.C14-RCT.93386: .//do you think they aren't latex/rubber/whatever
+[22:41:59] CCA.C14-GRID.i3.36307: .// people seem to think so
+[22:42:00] CCA.C14-QrM.98240: /me Takes out a pair of rubber gloves and holds them out for the boi
+[22:42:14] CCA.C14-GRID.i3.36307: /me takes the gloves and puts them on
+[22:42:21] CCA.C14-RCT.93386: .//he's kinda smart
+[22:42:42] CCA.C14-QrM.98240: .// Fuck it, might as well. We can say that he wants an extra pair because....why would he want his main pair to have fucking that on them.
+[22:42:45] CCA.C14-RCT.93386: .//he passed out so he wouldn't have to experience it
+[22:42:47] CCA.C14-JUDGE.OfC.91412: /me hands him the mask, and says: "Smear it around, let it harden. Don't cover his lenses, though. Can't have him getting a new one.
+[22:42:55] CCA.C14-QrM.98240: haha
+[22:43:03] CCA.C14-RCT.93386: /pm echo SMILE
+[22:43:04] CCA.C14-QrM.98240: This is way too fucking amusing.
+[22:43:06] CCA.C14-GRID.i3.36307: oh fuck
+[22:43:17] CCA.C14-RCT.93386: /me gasps for breath in his unconscious state.
+[22:43:18] CCA.C14-JUDGE.OfC.91412: career
+[22:43:21] CCA.C14-GRID.i3.36307: /me smears the liquid death around, leaving the lenses clear
+[22:43:27] CCA.C14-RCT.93386: /me sounds like he's choking on nothing.
+[22:43:37] CCA.C14-JUDGE.OfC.91412: ugh
+[22:43:47] CCA.C14-GRID.i3.36307: where's the HELIX
+[22:43:50] CCA.C14-RCT.93386: /me then lets out a nonverbal, but rather gutteral "Guh!" noise and goes back to breathing.
+[22:43:56] CCA.C14-QrM.98240: He fucking vomitted while being unconcious.
+[22:43:58] CCA.C14-QrM.98240: Fucking idiot
+[22:44:04] CCA.C14-RCT.93386: .//that would kill me
+[22:44:04] CCA.C14-GRID.i3.36307: Roll him on his side?
+[22:44:05] CCA.C14-RCT.93386: .//so
+[22:44:05] CCA.C14-RCT.93386: .//no
+[22:44:13] CCA.C14-JUDGE.OfC.91412: let me see his vest
+[22:44:14] CCA.C14-GRID.i3.36307: i think it's ready
+[22:44:18] CCA.C14-JUDGE.OfC.91412: good
+[22:44:21] CCA.C14-JUDGE.OfC.91412: hold it for a moment
+[22:44:28] CCA.C14-JUDGE.OfC.91412: ensure the inside stuff isn't ruined
+[22:44:28] CCA.C14-RCT.93386: /me didn't vomit, he was just chokinf.
+[22:44:31] CCA.C14-GRID.i3.36307: he can't sleep in the main bunks, right?
+[22:44:31] CCA.C14-QrM.98240: .// You would suffocate over time, not die you dumbo.
+[22:44:43] CCA.C14-JUDGE.OfC.91412: /me pours some of the sludge onto his vest.
+[22:44:44] CCA.C14-JUDGE.OfC.91412: grid
+[22:44:45] CCA.C14-JUDGE.OfC.91412: same thing
+[22:44:45] CCA.C14-QrM.98240: .// Well, die but not instantly like you were implying.
+[22:44:48] CCA.C14-JUDGE.OfC.91412: /me takes the mask
+[22:44:50] CCA.C14-RCT.93386: .//tru
+[22:44:55] CCA.C14-GRID.i3.36307: /me smears the stuff around
+[22:44:56] CCA.C14-RCT.93386: .//i wsa just choking on myself
+[22:45:02] CCA.C14-JUDGE.OfC.91412: .// i'm evil and i love it
+[22:45:03] CCA.C14-QrM.98240: .// Dumbo
+[22:45:11] CCA.C14-RCT.93386: .//you realize he won't care right
+[22:45:28] CCA.C14-RCT.93386: .//he downed expired milk like it was lemonade on a hot day
+[22:45:39] CCA.C14-RCT.93386: .//and beef is good
+[22:45:45] CCA.C14-RCT.93386: .//and bran flakes are bran flakes
+[22:45:49] CCA.C14-QrM.98240: We should give him a nickname....."vomit boy"
+[22:46:02] CCA.C14-QrM.98240: He has the mentality of a small child and he vomitted a lot.
+[22:46:03] CCA.C14-QrM.98240: Good name
+[22:46:10] CCA.C14-JUDGE.OfC.91412: indigestion ingestor
+[22:46:10] CCA.C14-QrM.98240: "Vomit boy"
+[22:46:14] CCA.C14-QrM.98240: haha
+[22:46:53] CCA.C14-QrM.98240: Not bad, but it doesn't sound as good to me.
+[22:46:55] CCA.C14-QrM.98240: Hm
+[22:47:11] CCA.C14-GRID.i3.36307: where did this guy even come from
+[22:47:12] CCA.C14-JUDGE.OfC.91412: he awake>
+[22:47:14] CCA.C14-JUDGE.OfC.91412: ?*
+[22:47:15] CCA.C14-QrM.98240: No clue
+[22:47:17] CCA.C14-GRID.i3.36307: i've never seen him before
+[22:47:45] CCA.C14-RCT.93386: .//i'm really tempted to really epxlode
+[22:47:48] CCA.C14-RCT.93386: .//lik
+[22:47:51] CCA.C14-RCT.93386: .//literally just explode
+[22:48:03] CCA.C14-JUDGE.OfC.91412: .// that would make zero sense
+[22:48:10] CCA.C14-RCT.93386: .//i know :(
+[22:48:15] CCA.C14-QrM.98240: Agreed, he's never EVER been to my armory and yet he has a full CCA uniform and the logs for the armory has never been updated for him.
+[22:48:30] CCA.C14-RCT.93386: .//bruh you're not the only qrm
+[22:48:31] CCA.C14-RCT.93386: .//like
+[22:48:32] CCA.C14-RCT.93386: .//by a lot
+[22:48:34] CCA.C14-GRID.i3.36307: .// he drank 20 year old green milk which was probably handled by god knows what xenobes
+[22:48:51] CCA.C14-QrM.98240: .// I know, I mean like.....no other QrM has said that you were given a Uniform.
+[22:48:55] CCA.C14-GRID.i3.36307: where are the green eggs and ham?
+[22:49:08] CCA.C14-RCT.93386: .//have you talked to any other QrM
+[22:49:13] CCA.C14-QrM.98240: .// no ;-;
+[22:49:17] CCA.C14-RCT.93386: .//there's a lot of units brought in daily
+[22:49:18] CCA.C14-RCT.93386: .//like
+[22:49:23] CCA.C14-RCT.93386: .//you're one of many quartermasters
+[22:49:24] CCA.C14-QrM.98240: .// IC'ly i'm sure I would though.
+[22:49:33] CCA.C14-QrM.98240: .// But OOC'ly no ;-;
+[22:49:38] CCA.C14-JUDGE.OfC.91412: .// oh dont worry, i'm putting it in objectives
+[22:49:40] CCA.C14-QrM.98240: .// Because we only have fucking three of them.
+[22:49:44] CCA.C14-RCT.93386: .//there area a lot of recruits pulled in every day
+[22:49:50] CCA.C14-RCT.93386: .//and IC there are a lot of QrMs
+[22:49:56] CCA.C14-RCT.93386: .//kinda unlikely
+[22:50:05] CCA.C14-JUDGE.OfC.91412: /viewobjectives
+[22:50:17] CCA.C14-QrM.98240: .// I would have expected that IC'ly my QrM has spoken to other QrM's but okay.
+[22:50:36] CCA.C14-QrM.98240: Alright, what are we gonna do with him?
+[22:50:39] CCA.C14-QrM.98240: Leave him here?
+[22:50:47] CCA.C14-JUDGE.OfC.91412: is he awake?
+[22:50:48] CCA.C14-QrM.98240: /viewobjectives
+[22:50:54] CCA.C14-QrM.98240: Not sure
+[22:51:09] CCA.C14-JUDGE.OfC.91412: /me slaps the RcT across the face.
+[22:51:10] CCA.C14-QrM.98240: /me Slams his stunstick into the mans chest (Just to see if he would react)
+[22:51:15] CCA.C14-QrM.98240: .// bruh
+[22:51:46] CCA.C14-QrM.98240: .// Who fucking consumed a item lmao
+[22:52:01] CCA.C14-QrM.98240: .// Bruh
+[22:52:10] CCA.C14-QrM.98240: .// That was so perfectly timed lmao.
+[22:52:28] CCA.C14-QrM.98240: .// It's all fucking quiet and we just hear the eating noise lmao.
+[22:52:41] CCA.C14-QrM.98240: Fuck it, he isn't reacting.
+[22:52:51] CCA.C14-QrM.98240: I'm expecting him to be dead at this point
+[22:52:53] CCA.C14-JUDGE.OfC.91412: hm
+[22:52:56] CCA.C14-JUDGE.OfC.91412: I have an idea
+[22:53:00] CCA.C14-QrM.98240: Ah, go for it
+[22:53:23] CCA.C14-JUDGE.OfC.91412: could slather it on his tongue and let it dry
+[22:53:36] CCA.C14-QrM.98240: Eh, i'm sick of looking at him.
+[22:53:41] CCA.C14-QrM.98240: You got for it though
+[22:53:44] CCA.C14-QrM.98240: .// Go(
+[22:53:46] CCA.C14-QrM.98240: .// Go*
+[22:53:47] CCA.C14-QrM.98240: .// FUCK
+[22:53:48] CCA.C14-RCT.93386: .//you're a sick fck
+[22:53:59] CCA.C14-JUDGE.OfC.91412: well
+[22:54:01] CCA.C14-JUDGE.OfC.91412: grid
+[22:54:02] CCA.C14-QrM.98240: Why does this still exist?
+[22:54:10] Client "nicoida1990" connected.
+[22:54:12] CCA.C14-GRID.i3.36307: good god
+[22:54:15] CCA.C14-GRID.i3.36307: he's still here
+[22:54:18] CCA.C14-QrM.98240: maybe he should sleep with this fellow
+[22:54:19] CCA.C14-QrM.98240: haha
+[22:54:34] CCA.C14-JUDGE.OfC.91412: /me hands him the death agent. You know what to do. Put some on your rubber gloved fingers and slather it on his tongue. He'll taste it for days
+[22:54:52] CCA.C14-GRID.i3.36307: kill me]
+[22:54:58] CCA.C14-JUDGE.OfC.91412: 10-2
+[22:54:59] CCA.C14-QrM.98240: // Alrighty, gonna go to bed now.
+[22:55:01] CCA.C14-GRID.i3.36307: /me pours it into his mouth
+[22:55:06] CCA.C14-JUDGE.OfC.91412: // this was amazing, see you
+[22:55:08] CCA.C14-QrM.98240: // Yeah
+[22:55:17] CCA.C14-JUDGE.OfC.91412: make sure it dries and doesnt choke him
+[22:55:21] CCA.C14-GRID.i3.36307: i will not touch the inside of his mouth
+[22:55:21] CCA.C14-RCT.93386: /me wakes up, screaming.
+[22:55:27] Client "nicoida1990" spawned in server <STEAM_0:1:548052735> (took 77 seconds).
+[22:55:31] CCA.C14-RCT.93386: /y FUCK! FUCK! DEMONS! FUCK! DEMONS IN MY HEAD HOLY FUCK SOMEBODY FUCKING KILL ME!
+[22:55:32] CCA.C14-RCT.93386: oH.
+[22:55:34] CCA.C14-RCT.93386: Hey everyone.
+[22:55:42] CCA.C14-QrM.98240: // Oh right, it's my birthday so this IC situation is the perfect fucking present lmao.
+[22:55:48] CCA.C14-JUDGE.OfC.91412: /me hands him his mask.
+[22:55:48] CCA.C14-RCT.93386: //oh FUCK hpapy birthday!!
+[22:55:52] CCA.C14-RCT.93386: What tastes like shit?
+[22:55:56] CCA.C14-JUDGE.OfC.91412: // happy birthday bro
+[22:56:00] CCA.C14-JUDGE.OfC.91412: you'll see
+[22:56:03] CCA.C14-RCT.93386: /me smacks his lips.
+[22:56:04] CCA.C14-QrM.98240: // Yeah, forgot to mention that.
+[22:56:08] CCA.C14-GRID.i3.36307: how do you know what shit tastes like?
+[22:56:10] CCA.C14-QrM.98240: // Good night, gamers
+[22:56:10] CCA.C14-JUDGE.OfC.91412: do not clean your vest or mask for 3 days
+[22:56:13] CCA.C14-RCT.93386: /me then passes out.
+[22:56:13] Dropped "CCA.C14-QrM.98240" from server<STEAM_0:1:17219621>
+[22:56:14] CCA.C14-JUDGE.OfC.91412: you got that?
+[22:56:16] CCA.C14-JUDGE.OfC.91412: oh
+[22:56:17] CCA.C14-JUDGE.OfC.91412: whatever
+[22:56:21] CCA.C14-JUDGE.OfC.91412: i'm going 10-7
+[22:56:23] CCA.C14-RCT.93386: /me wakes back up.
+[22:56:28] Dropped "nicoida1990" from server<STEAM_0:1:548052735>
+[22:56:28] CCA.C14-RCT.93386: /chargiveflag rct F
+[22:56:29] CCA.C14-GRID.i3.36307: /radio He's awake
+[22:56:31] CCA.C14-RCT.93386: /fr How goes it
+[22:56:33] CCA.C14-JUDGE.OfC.91412: /radio You can let him go.
+[22:56:38] CCA.C14-GRID.i3.36307: /fr What?
+[22:56:46] CCA.C14-JUDGE.OfC.91412: // im gonna go tooooooo
+[22:56:48] CCA.C14-JUDGE.OfC.91412: // gn
+[22:56:50] CCA.C14-GRID.i3.36307: go
+[22:56:51] Dropped "CCA.C14-JUDGE.OfC.91412" from server<STEAM_0:1:129270116>
+[22:56:55] CCA.C14-GRID.i3.36307: .// f
+[22:57:02] CCA.C14-RCT.93386: .//OH UFCK YOU SPEAK FRENCH
+[22:57:08] CCA.C14-RCT.93386: /chargiveflag rct A
+[22:57:12] CCA.C14-RCT.93386: Hey, how goes it?
+[22:57:14] CCA.C14-RCT.93386: .//FUCK
+[22:57:14] CCA.C14-RCT.93386: /doorsethidden true
+[22:57:16] CCA.C14-RCT.93386: .//FRD
+[22:57:20] CCA.C14-RCT.93386: /AR Fuck me, what's up?
+[22:57:35] CCA.C14-GRID.i3.36307: are you good?
+[22:57:42] CCA.C14-GRID.i3.36307: /me smacks the rct on the side of the head
+[22:57:59] CCA.C14-RCT.93386: /ar Ah! fuck!
+[22:58:05] CCA.C14-RCT.93386: /ar What's your problem, you fucking jew?
+[22:58:08] CCA.C14-GRID.i3.36307: i don't fucking understand you
+[22:58:23] CCA.C14-RCT.93386: /me gets up, speaking fluent arabic.
+[22:59:18] CCA.C14-RCT.93386: /ar Fuck me.
+[22:59:24] CCA.C14-GRID.i3.36307: speak english
+[22:59:26] CCA.C14-RCT.93386: /ar I need the holy land or some shit.
+[22:59:33] CCA.C14-RCT.93386: /ar What are you saying?
+[22:59:52] CCA.C14-RCT.93386: /ar Can I get a sword?
+[23:00:59] CCA.C14-RCT.93386: /ar Hey, where can I get a sword?
+[23:01:04] CCA.C14-RCT.93386: /ar I need the holy land.
+[23:01:06] CCA.C14-GRID.i3.36307: what the fuck
+[23:01:13] CCA.C14-GRID.i3.36307: /me slaps the RcT as hard as he can
+[23:02:02] CCA.C14-RCT.93386: /ar Fuck!
+[23:02:07] CCA.C14-RCT.93386: /ar Fucking HERETIC!
+[23:02:13] CCA.C14-RCT.93386: /me looks at his wrist for a watch.
+[23:02:23] CCA.C14-RCT.93386: /ar Hm.
+[23:02:30] CCA.C14-RCT.93386: /me looks at the GRID's wrist.
+[23:02:37] CCA.C14-RCT.93386: /ar What time is it?
+[23:02:42] CCA.C14-RCT.93386: Ehh.
+[23:02:50] CCA.C14-RCT.93386: What.. weather.. is.
+[23:02:55] CCA.C14-RCT.93386: Weather.
+[23:02:55] CCA.C14-GRID.i3.36307: who the actual fuck are you?
+[23:03:03] CCA.C14-RCT.93386: /ar What?
+[23:03:17] CCA.C14-GRID.i3.36307: just
+[23:03:19] CCA.C14-GRID.i3.36307: go sit down
+[23:03:32] CCA.C14-RCT.93386: /me stands there, blankly confused.
+[23:03:44] CCA.C14-GRID.i3.36307: /me groans
+[23:03:58] CCA.C14-RCT.93386: /me feels the GRID pushing him, then pushes him back.
+[23:04:02] CCA.C14-GRID.i3.36307: // it is distraction time
+[23:04:10] CCA.C14-RCT.93386: /me feels the GRID pushing him, then pushes him back.
+[23:04:19] CCA.C14-GRID.i3.36307: .// lmao
+[23:04:21] CCA.C14-RCT.93386: /y HANDS! NO!
+[23:04:27] CCA.C14-GRID.i3.36307: /Y SIT THE FUCK DOWN!
+[23:04:29] CCA.C14-RCT.93386: /ar GET YOR HANDS OFF OF ME AMERICAN PIG!
+[23:04:30] CCA.C14-GRID.i3.36307: /me points at the bench
+[23:04:53] CCA.C14-GRID.i3.36307: /me tosses the ration at the guy, hoping to keep him distracted]
+[23:05:31] CCA.C14-GRID.i3.36307: .// what the fuck is happening
+[23:05:46] CCA.C14-RCT.93386: /charsetmodel rct models/dpfilms/metropolice/hdpolice.mdl
+[23:06:01] CCA.C14-RCT.93386: /me then lays down on the floor and gets in prayer position.
+[23:06:21] CCA.C14-RCT.93386: /me speaks hushed, fast Arabic.
+[23:06:44] CCA.C14-GRID.i3.36307: /me sighs and sits down
+[23:06:54] CCA.C14-RCT.93386: /me then rises.
+[23:07:05] CCA.C14-GRID.i3.36307: /me eats some crackers, and silently judges the RcT
+[23:07:09] CCA.C14-RCT.93386: /me yells something in Arabic at the GRID.
+[23:07:19] CCA.C14-RCT.93386: /me points to the floor. You notice it's to the East.
+[23:07:26] CCA.C14-RCT.93386: .//it would be to the west but we're west of mecca so
+[23:07:29] CCA.C14-RCT.93386: .//now it's to the east
+[23:07:34] CCA.C14-GRID.i3.36307: I'm not praying.
+[23:07:45] CCA.C14-RCT.93386: /me yells angrily in Arabic at GRD.
+[23:07:46] CCA.C14-GRID.i3.36307: .// are you going to burn the soles of my feet
+[23:08:03] CCA.C14-RCT.93386: /me points furiously at the floor.
+[23:08:05] CCA.C14-RCT.93386: /y PRAY!
+[23:08:08] CCA.C14-GRID.i3.36307: /y NO!
+[23:08:18] CCA.C14-RCT.93386: /y CUNT!
+[23:08:35] CCA.C14-GRID.i3.36307: // that was so bizzare
+[23:08:55] CCA.C14-RCT.93386: /AR PRAY!
+[23:08:59] CCA.C14-RCT.93386: /AR PRAY IN THE NAME OF ALLAH!
+[23:09:03] CCA.C14-RCT.93386: /AR WORSHIP!
+[23:09:09] CCA.C14-GRID.i3.36307: /toggleraise
+[23:09:17] CCA.C14-RCT.93386: /ar PRAY, ASSHOLE!
+[23:09:37] CCA.C14-GRID.i3.36307: /toggleraise
+[23:09:42] CCA.C14-GRID.i3.36307: // WTF
+[23:09:58] CCA.C14-RCT.93386: /me is asleep on the bed.
+[23:10:26] CCA.C14-RCT.93386<STEAM_0:1:53097688> changed their name to Unknown
+[23:10:57] Unknown: Hey.
+[23:11:05] Unknown: //no bitch
+[23:11:09] CCA.C14-GRID.i3.36307: .// what
+[23:11:14] Unknown: .//yep
+[23:11:15] Unknown: .//no
+[23:11:16] Unknown: .//away
+[23:11:20] Unknown: .//i ot behind you
+[23:11:21] Unknown: ./face away
+[23:11:44] Unknown: /me , without warning, puts a rag over the unit's face.
+[23:11:45] Unknown: .//wait hold on
+[23:11:51] CCA.C14-GRID.i3.36307: .// mask
+[23:11:52] CCA.C14-GRID.i3.36307: .// ?
+[23:12:10] Unknown: .//yeah
+[23:12:25] Unknown: /me then proceeds to attempt to choke the unit out.
+[23:12:29] Unknown: .//just go with it 
+[23:12:30] Unknown: .//trust me
+[23:12:38] CCA.C14-GRID.i3.36307: .// ok then
+[23:12:48] CCA.C14-GRID.i3.36307: /me struggles against him
+[23:12:52] CCA.C14-GRID.i3.36307: .// im just gonna
+[23:12:56] CCA.C14-GRID.i3.36307: .// there i put up a fight
+[23:12:57] Unknown: /me keeps gripping hard
+[23:13:02] Unknown: .//you can fall over
+[23:13:07] CCA.C14-GRID.i3.36307: /charfallover
+[23:13:17] CCA.C14-GRID.i3.36307: // ow
+[23:13:26] Unknown: //fucking
+[23:13:39] CCA.C14-GRID.i3.36307: // ow
+[23:13:41] CCA.C14-GRID.i3.36307: /charfallover
+[23:14:20] CCA.C14-GRID.i3.36307: // im in the street
+[23:14:23] Unknown: //pleas hold
+[23:14:51] Unknown blinded CCA.C14-GRID.i3.36307 by amount 255
+[23:14:54] Unknown brought CCA.C14-GRID.i3.36307
+[23:15:02] Unknown brought CCA.C14-GRID.i3.36307
+[23:15:05] Unknown brought CCA.C14-GRID.i3.36307
+[23:15:05] Unknown: !bring grid
+[23:15:08] Unknown: //wtf
+[23:15:15] Unknown: //i can't bring you
+[23:15:17] Unknown: !teleport gird
+[23:15:19] Unknown: //oh
+[23:15:20] Unknown: //you're ragdolled
+[23:15:22] Unknown: //unfallover
+[23:15:26] Unknown brought CCA.C14-GRID.i3.36307
+[23:15:26] Unknown: !bring grid
+[23:15:27] Unknown brought CCA.C14-GRID.i3.36307
+[23:15:27] Unknown: !bring grid
+[23:15:27] Unknown brought CCA.C14-GRID.i3.36307
+[23:15:27] Unknown: !bring grid
+[23:15:31] Unknown: //thank you
+[23:15:32] Unknown: //please i eman
+[23:15:33] CCA.C14-GRID.i3.36307: /charfallover
+[23:15:35] Unknown brought CCA.C14-GRID.i3.36307
+[23:15:35] Unknown: !bring grid
+[23:15:37] Unknown brought CCA.C14-GRID.i3.36307
+[23:15:37] Unknown: !bring grid
+[23:15:39] Unknown teleported to CCA.C14-GRID.i3.36307
+[23:15:46] Unknown returned Themself to their original position
+[23:15:50] Unknown brought CCA.C14-GRID.i3.36307
+[23:16:18] Unknown: /charsetmodel grid
+[23:16:20] Unknown: /charsetmodel grid models/player/zelpa/male_09_extended.mdl
+[23:16:23] Unknown<STEAM_0:1:53097688> used the tool rb655_easy_bodygroup on models/player/zelpa/male_09_extended.mdl
+[23:16:23] Unknown<STEAM_0:1:53097688> used the tool rb655_easy_bodygroup on models/player/zelpa/male_09_extended.mdl
+[23:16:39] Unknown: /chargiveitem unknown flash
+[23:17:03] Unknown unblinded CCA.C14-GRID.i3.36307
+[23:17:16] Unknown: /chargiveitem unknown tie
+[23:17:30] Unknown<STEAM_0:1:53097688> spawned model models/props_c17/furnituretable001a.mdl
+[23:17:34] Unknown<STEAM_0:1:53097688> spawned model models/props_c17/furniturechair001a.mdl
+[23:17:54] Unknown: /it You wake up, zip tied, with one of your hands in your pants.
+[23:18:03] CCA.C14-GRID.i3.36307: .// what
+[23:18:07] Unknown: .//you hear dme
+[23:18:16] CCA.C14-GRID.i3.36307: .// that sounds dirty
+[23:18:19] Unknown: .//d-d-d-did --dd-did-d-d i-i-i- st-t-st-s-t--sttutter
+[23:18:22] Unknown: .//it's not trust me
+[23:18:28] Unknown: .//if you want you can ask me IC about it
+[23:18:39] CCA.C14-GRID.i3.36307: .// am i gagged or anything
+[23:19:14] CCA.C14-GRID.i3.36307: what-
+[23:19:25] Unknown: .//you gonna ask about it
+[23:19:25] Unknown: /doorsethidden true
+[23:19:36] CCA.C14-GRID.i3.36307: why the fuck is my hand in my pants
+[23:19:45] Unknown: So you know my hand wasn't.
+[23:19:50] Unknown: .//oh also
+[23:19:51] Unknown: .//uh
+[23:19:59] Unknown: /me is wearing a baby mask.
+[23:20:03] Unknown: /chargiveitem unknown skull
+[23:20:21] CCA.C14-GRID.i3.36307: Where the fuck
+[23:20:32] CCA.C14-GRID.i3.36307: who are you
+[23:20:37] Unknown: Me?
+[23:20:48] Unknown: I'm the private eye you hired.
+[23:20:58] CCA.C14-GRID.i3.36307: what?
+[23:21:10] CCA.C14-GRID.i3.36307: .// is that a reference to something
+[23:21:37] Unknown: .//no
+[23:21:38] Unknown: .//maybe
+[23:21:51] Unknown: me unzips his zipepr by about an inch.
+[23:21:55] Unknown: Recognize me now?
+[23:22:07] Unknown: .//shi0t
+[23:22:10] Unknown: /me unzips his zipepr by about an inch.
+[23:22:51] Unknown: Recgonize me now?
+[23:23:11] CCA.C14-GRID.i3.36307: .// what the fuck do i see
+[23:23:12] CCA.C14-GRID.i3.36307: no
+[23:23:25] Unknown: I'm a master of disguise.
+[23:23:31] Unknown: Anyways.
+[23:23:48] Unknown: You hired me to find out all you know about...
+[23:23:57] Unknown: /me looks at his wrist. You see it's covered in moon runes.
+[23:24:03] Unknown: Twelve o'clock.
+[23:24:55] Unknown: .//nothing?
+[23:25:09] CCA.C14-GRID.i3.36307: .// im extremely confused lmao im sorry
+[23:25:19] Unknown: .//you're good
+[23:25:23] Unknown: Wait.
+[23:25:24] Unknown: No.
+[23:25:29] Unknown: You wanted to know about Anti-Citizen one.
+[23:25:33] Unknown: You paid me good money.
+[23:25:48] Unknown: You wanted his location, his likes, his family, all that.
+[23:25:56] CCA.C14-GRID.i3.36307: i don't know who you are
+[23:26:02] CCA.C14-GRID.i3.36307: i've never met you before in my life
+[23:26:12] Unknown: I'm a master of disgusie.
+[23:26:15] Unknown: .//disguise.*
+[23:26:18] Unknown: Anyways.
+[23:26:20] Unknown: I got all of it.
+[23:26:24] Unknown: Are you ready?
+[23:26:27] CCA.C14-GRID.i3.36307: .// wait is this one and your rct somehow the same person
+[23:26:30] CCA.C14-GRID.i3.36307: uh
+[23:26:35] CCA.C14-GRID.i3.36307: sure
+[23:26:51] Unknown: Wonderful.
+[23:26:55] Unknown: His name is...
+[23:26:56] Unknown: Uh..
+[23:27:08] Unknown: He's got a perfectly normal name, I can assure you it's one you've never heard before in your life.
+[23:27:24] Unknown: His name is...
+[23:27:26] CCA.C14-GRID.i3.36307: .// GOBDON FREEWOMAN
+[23:27:50] CCA.C14-GRID.i3.36307: .// i cant hear a word your saying i gotta stopsound
+[23:27:51] Unknown: His name is Dollon.
+[23:27:53] Unknown: .//ah
+[23:27:55] CCA.C14-GRID.i3.36307: dollon?
+[23:28:19] CCA.C14-GRID.i3.36307: can you
+[23:28:22] CCA.C14-GRID.i3.36307: what
+[23:28:23] Unknown: Dollon Zimbolalalels.
+[23:28:35] CCA.C14-GRID.i3.36307: right
+[23:28:43] Unknown: He's from the world's shitcase, Canada.
+[23:28:50] Unknown: His favorite soda is coke.
+[23:28:55] Unknown: And..
+[23:28:59] Unknown: /y Oh God.
+[23:29:24] Unknown: /y Oh God, Oh God, Oh God!
+[23:29:33] CCA.C14-GRID.i3.36307: what?
+[23:29:50] Unknown: /me comes from around the corner holding a movie case.
+[23:30:02] Unknown: /it It's the movie "Oh, God!"
+[23:30:39] Unknown: .//look in your DMs
+[23:30:46] Unknown: Can you do me a favor?
+[23:31:00] CCA.C14-GRID.i3.36307: .// that looks like a good move ngl
+[23:31:02] CCA.C14-GRID.i3.36307: yes
+[23:31:08] Unknown: Alright, tilt your head back for me.
+[23:31:11] CCA.C14-GRID.i3.36307: untie me and give me my stuff so I can-
+[23:31:13] CCA.C14-GRID.i3.36307: what?
+[23:31:19] Unknown: Tilt your head back for me.
+[23:31:23] CCA.C14-GRID.i3.36307: why?
+[23:31:44] Unknown: /me charges the man, thrusting his fist right into the man's crotch.
+[23:31:51] Unknown: /doorsethidden true
+[23:31:59] Unknown: /Y YOU WILL TILT YOUR HEAD BACK FOR ME!
+[23:32:01] CCA.C14-GRID.i3.36307: /me groans, tensing up
+[23:32:05] CCA.C14-GRID.i3.36307: /me tilts his head back
+[23:32:12] Unknown: /Y ARE YOU GONNA GO TO BLOCKBUSTER VIDEO WITH ME?
+[23:32:19] CCA.C14-GRID.i3.36307: YES
+[23:32:24] CCA.C14-GRID.i3.36307: .// im scared
+[23:32:32] Unknown: /Y YOU'RE GONNA GIVE ME A PERFECT REVIEW?
+[23:32:51] CCA.C14-GRID.i3.36307: SURE, 5 OUT OF 5
+[23:33:04] Unknown: /Y YOU'RE GONNA RECOMMEND MY SERVICES TO YOUR FRIENDS?
+[23:33:14] CCA.C14-GRID.i3.36307: YES, AND MY FAMILY
+[23:33:17] CCA.C14-GRID.i3.36307: .// h m m
+[23:33:27] Unknown: /me takes a step back, perfectly calm.
+[23:33:32] Unknown: And now inhale....
+[23:33:44] CCA.C14-GRID.i3.36307: /me inhales
+[23:33:52] Unknown: /me throws a rag onto the man's face as he inhales, then he passes out.
+[23:34:03] Unknown blinded CCA.C14-GRID.i3.36307 by amount 255
+[23:34:05] CCA.C14-GRID.i3.36307: .// what the fuck is happening
+[23:34:22] Unknown: /charsetmodel grid models/dpfilms/metropolice/playermodels/pm_hl2beta_police.mdl
+[23:34:47] CCA.C14-GRID.i3.36307: // that was the kingpin's true form
+[23:34:51] Unknown brought CCA.C14-GRID.i3.36307
+[23:35:09] Unknown: /it You wake up, untied, with all your stuff, uniform on, with both your hands down your pants.
+[23:35:20] Unknown unblinded CCA.C14-GRID.i3.36307
+[23:35:39] CCA.C14-GRID.i3.36307: /me quickly takes his hands out of his pants
+[23:35:54] CCA.C14-GRID.i3.36307: /toggleraise
+[23:36:03] CCA.C14-GRID.i3.36307: // animations appear to be fucked
+[23:36:09] Unknown: /charsetmodel grid models/dpfilms/metropolice/hl2beta_police.mdl
+[23:36:10] Unknown: //fixed
+[23:36:41] CCA.C14-GRID.i3.36307: /radio Te-
+[23:36:46] Unknown: .//wait ovid
+[23:37:18] Unknown: .//fck
+[23:37:39] CCA.C14-GRID.i3.36307: // is this gonna be taken as canon]
+[23:37:48] CCA.C14-GRID.i3.36307: // or just discarded afterwards
+[23:37:51] Unknown: //nah too stupid
+[23:37:56] Unknown: //the croot is thouh
+[23:38:00] Unknown: //not the arabic part
+[23:38:00] CCA.C14-GRID.i3.36307: // with that attitute
+[23:38:08] Unknown: //up until chief left
+[23:38:10] CCA.C14-GRID.i3.36307: // lmao
+[23:38:10] Unknown: //that's canon
+[23:38:28] Unknown gave CCA.C14-GRID.i3.36307 145 rounds
+[23:38:28] Unknown: !giveammo grid 145
+[23:38:48] Unknown<STEAM_0:1:53097688> changed their name to CCA.C14-GRID.i3.69192
+[23:39:02] CCA.C14-GRID.i3.69192 teleported to CCA.C14-GRID.i3.36307
+[23:39:06] CCA.C14-GRID.i3.36307: /RADIO Testing
+[23:39:10] CCA.C14-GRID.i3.69192: Copy.
+[23:39:13] CCA.C14-GRID.i3.36307: how the fuck
+[23:39:16] CCA.C14-GRID.i3.69192: Hm?
+[23:39:20] CCA.C14-GRID.i3.69192: I was on my way here.
+[23:39:21] CCA.C14-GRID.i3.36307: this tram only goes one way
+[23:39:25] CCA.C14-GRID.i3.69192: No it doesn't.
+[23:39:32] CCA.C14-GRID.i3.36307: .// SINCE WHEN
+[23:39:35] CCA.C14-GRID.i3.69192: .//wait what
+[23:39:38] CCA.C14-GRID.i3.69192: .//is that why it doesn't work
+[23:39:39] CCA.C14-GRID.i3.69192: .//fuck
+[23:39:44] CCA.C14-GRID.i3.69192: I'm trying to fix it.
+[23:39:57] CCA.C14-GRID.i3.36307: I think I just got kidnapped by a meth-head
+[23:40:00] CCA.C14-GRID.i3.36307: or equivelent
+[23:40:04] CCA.C14-GRID.i3.36307: woke up on a roof
+[23:40:13] CCA.C14-GRID.i3.69192: .//that wasn't cabnon
+[23:40:17] CCA.C14-GRID.i3.36307: .// to bnad
+[23:40:25] CCA.C14-GRID.i3.69192: Probably a dream.
+[23:40:46] CCA.C14-GRID.i3.69192: //i'm gonan get off for the night
+[23:40:48] CCA.C14-GRID.i3.69192: //i need to be up
+[23:40:50] CCA.C14-GRID.i3.69192: //early
+[23:40:51] CCA.C14-GRID.i3.69192: //goodnight
+[23:40:52] CCA.C14-GRID.i3.36307: // gn
+[23:40:53] CCA.C14-GRID.i3.69192: //thanks or bieng on
+[23:40:55] CCA.C14-GRID.i3.36307: // im off too
+[23:41:01] Dropped "CCA.C14-GRID.i3.69192" from server<STEAM_0:1:53097688>
+[23:41:07] Dropped "CCA.C14-GRID.i3.36307" from server<STEAM_0:0:193599766>
+<Logging continued in "data/ulx_logs/09-02-20.txt">

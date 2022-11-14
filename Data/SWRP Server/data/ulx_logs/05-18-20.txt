@@ -1,0 +1,451 @@
+[01:59:48] New map: rp_city8_edit_v4r
+[02:02:25] Client "matt saton" connected.
+[02:04:26] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 121 seconds).
+[02:07:15] matt saton<STEAM_0:1:53097688> changed their name to Joseph Kimsler
+[02:08:02] Joseph Kimsler: /adminspawnmenu
+[02:14:41] Joseph Kimsler: /chargiveitem joseph pack
+[02:14:48] Joseph Kimsler: /chargiveitem joseph "cigarette pack"
+[02:16:11] Joseph Kimsler<STEAM_0:1:53097688> spawned model models/weapons/w_packatc.mdl
+[02:30:20] Joseph Kimsler<STEAM_0:1:53097688> spawned model models/pg_plops/pg_food/pg_tortellinas.mdl
+[02:33:22] Client "Ollie Garner" connected.
+[02:38:28] Joseph Kimsler<STEAM_0:1:53097688> spawned ragdoll models/nicrobe/gallahan.mdl
+[02:43:07] Client "Ollie Garner" spawned in server <STEAM_0:1:52892973> (took 585 seconds).
+[02:43:57] Ollie Garner<STEAM_0:1:52892973> changed their name to CCA.C08-UNION.i4.33698
+[02:44:01] CCA.C08-UNION.i4.33698: // Yo
+[02:44:02] Joseph Kimsler: //sup
+[02:44:03] Joseph Kimsler teleported to CCA.C08-UNION.i4.33698
+[02:44:03] Joseph Kimsler: !goto union
+[02:44:11] CCA.C08-UNION.i4.33698: /looc Fuckin terrifying
+[02:44:12] Joseph Kimsler: /charsetmodel joseph models/nicrobe/gallahan.mdl
+[02:44:13] Joseph Kimsler: .//long story
+[02:44:32] CCA.C08-UNION.i4.33698: /looc Man behind the UU rations
+[02:44:34] Joseph Kimsler: .//alright can you please go into the admin spawn menu and take out all the new ration shit
+[02:44:41] CCA.C08-UNION.i4.33698: /loco Admin spawn menu?
+[02:44:43] Joseph Kimsler: /toggleraise
+[02:44:45] Joseph Kimsler: /toggleraise
+[02:44:46] CCA.C08-UNION.i4.33698: /looc Admin spawn menu?
+[02:44:51] Joseph Kimsler: .//yeah, /adminspawnmenu
+[02:44:56] CCA.C08-UNION.i4.33698: /adminspawnmenu
+[02:45:00] CCA.C08-UNION.i4.33698: /looc Not allowed
+[02:45:05] Joseph Kimsler added CCA.C08-UNION.i4.33698 to group superadmin
+[02:45:08] Joseph Kimsler: .//you're superadmin now
+[02:45:13] CCA.C08-UNION.i4.33698: /adminspawnmenu
+[02:45:16] Joseph Kimsler added CCA.C08-UNION.i4.33698 to group superadmin
+[02:45:16] Joseph Kimsler added CCA.C08-UNION.i4.33698 to group superadmin
+[02:45:17] Joseph Kimsler added CCA.C08-UNION.i4.33698 to group superadmin
+[02:45:18] Joseph Kimsler added CCA.C08-UNION.i4.33698 to group superadmin
+[02:45:18] Joseph Kimsler added CCA.C08-UNION.i4.33698 to group superadmin
+[02:45:18] Joseph Kimsler added CCA.C08-UNION.i4.33698 to group superadmin
+[02:45:19] Joseph Kimsler added CCA.C08-UNION.i4.33698 to group superadmin
+[02:45:19] Joseph Kimsler added CCA.C08-UNION.i4.33698 to group superadmin
+[02:45:19] Joseph Kimsler added CCA.C08-UNION.i4.33698 to group superadmin
+[02:45:20] Joseph Kimsler added CCA.C08-UNION.i4.33698 to group superadmin
+[02:45:20] Joseph Kimsler added CCA.C08-UNION.i4.33698 to group superadmin
+[02:45:20] Joseph Kimsler added CCA.C08-UNION.i4.33698 to group superadmin
+[02:45:20] CCA.C08-UNION.i4.33698: /looc Aight
+[02:45:21] Joseph Kimsler added CCA.C08-UNION.i4.33698 to group superadmin
+[02:45:29] CCA.C08-UNION.i4.33698: /adminspawnmenu
+[02:46:47] CCA.C08-UNION.i4.33698: /adminspawnmenu
+[02:47:22] CCA.C08-UNION.i4.33698: // Should be all of it.
+[02:47:24] CCA.C08-UNION.i4.33698: // I think
+[02:47:32] Joseph Kimsler: .//alright gimem as ec
+[02:47:40] Joseph Kimsler: /chargiveitem joseph "cigarette pack"
+[02:47:42] Joseph Kimsler: /chargiveitem joseph "cigarette pack"
+[02:47:49] Joseph Kimsler: .//the cigarette pack has a fucked up model
+[02:47:53] CCA.C08-UNION.i4.33698: // Oof
+[02:48:08] CCA.C08-UNION.i4.33698: /adminspawnmenu
+[02:48:27] CCA.C08-UNION.i4.33698: /looc Knew I missed one
+[02:48:59] Joseph Kimsler: .//can you please put those into a pritty line while i fix some stuff
+[02:49:02] Joseph Kimsler: .//or something to get them separated
+[02:50:29] CCA.C08-UNION.i4.33698: /chargiveflag UNION p
+[02:50:56] CCA.C08-UNION.i4.33698: // Should be set.
+[02:50:59] Joseph Kimsler: //grazi
+[02:51:11] Joseph Kimsler: //hell yeh, the ciggie pack look good
+[02:51:23] CCA.C08-UNION.i4.33698: // Nice
+[02:51:55] Joseph Kimsler: //ah
+[02:52:00] Joseph Kimsler: //let us see which models i fucked
+[02:52:12] Joseph Kimsler<STEAM_0:1:53097688> spawned model models/weapons/w_packatc.mdl
+[02:55:12] CCA.C08-UNION.i4.33698: /adminspawnmenu
+[02:56:13] CCA.C08-UNION.i4.33698: // 11/10
+[02:56:52] CCA.C08-UNION.i4.33698: /adminspawnmenu
+[02:58:37] CCA.C08-UNION.i4.33698: /adminspawnmenu
+[02:59:51] CCA.C08-UNION.i4.33698: /adminspawnmenu
+[03:01:51] CCA.C08-UNION.i4.33698: /adminspawnmenu
+[03:03:23] CCA.C08-UNION.i4.33698: // And done
+[03:03:37] Joseph Kimsler: //shit, did i not add the civil protection service grade supplements?
+[03:03:55] CCA.C08-UNION.i4.33698: // You added Metropolice Supplements
+[03:04:03] Joseph Kimsler: //yeah but thsoe are in by default
+[03:04:06] Joseph Kimsler: //shit hold on
+[03:04:13] CCA.C08-UNION.i4.33698: /adminspawnmenu
+[03:04:39] CCA.C08-UNION.i4.33698: // Nvm
+[03:04:43] CCA.C08-UNION.i4.33698: // I was just blind
+[03:04:51] Joseph Kimsler: //hot
+[03:04:56] Joseph Kimsler: //alright you're gonna get a couple lag spieks
+[03:05:00] CCA.C08-UNION.i4.33698: // Cool
+[03:11:23] Joseph Kimsler: /adminspawnmenu
+[03:11:51] CCA.C08-UNION.i4.33698: // Do be a error doe
+[03:12:03] Joseph Kimsler: //it do
+[03:16:11] Joseph Kimsler: /adminspawnmenu
+[03:27:45] Dropped "Joseph Kimsler" from server<STEAM_0:1:53097688>
+[03:28:10] Client "matt saton" connected.
+[03:29:09] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 59 seconds).
+[03:30:12] matt saton<STEAM_0:1:53097688> changed their name to Joseph Kimsler
+[03:31:54] Joseph Kimsler: /adminspawnmenu
+[03:32:44] Joseph Kimsler: //wanna have a smoke?
+[03:32:48] CCA.C08-UNION.i4.33698: // SI
+[03:32:55] Joseph Kimsler: //or rather a munch
+[03:33:27] Joseph Kimsler: Here, have a smoke.
+[03:33:42] CCA.C08-UNION.i4.33698: "I need a UU brand ciggarate pack to smoke this*
+[03:33:53] Joseph Kimsler: Oh, silly me, how could i forget.
+[03:34:20] CCA.C08-UNION.i4.33698: /looc Still gives me the error
+[03:34:26] CCA.C08-UNION.i4.33698: /looc Or well, same line
+[03:34:27] Joseph Kimsler: .//shit
+[03:34:40] Joseph Kimsler: .//can i see the pack
+[03:35:14] CCA.C08-UNION.i4.33698: /looc It's a branded pack
+[03:35:24] CCA.C08-UNION.i4.33698: /looc Not a Brand pack
+[03:36:04] Joseph Kimsler: .//yeah but tat shouldn't be the issue
+[03:36:18] CCA.C08-UNION.i4.33698: /looc Weird.
+[03:41:31] Joseph Kimsler<STEAM_0:1:53097688> spawned/gave himself swep weapon_egon
+[03:41:31] Joseph Kimsler: /toggleraise
+[03:42:00] Joseph Kimsler<STEAM_0:1:53097688> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[03:42:00] Joseph Kimsler<STEAM_0:1:53097688> spawned/gave himself swep weapon_egon
+[03:42:06] Joseph Kimsler: .//use it to destroy the items
+[03:42:08] Joseph Kimsler: .//you will love it
+[03:42:14] Joseph Kimsler: .//alright just spawn it in
+[03:42:15] Joseph Kimsler<STEAM_0:1:53097688> spawned/gave himself swep weapon_egon
+[03:42:15] Joseph Kimsler: /toggleraise
+[03:42:16] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned/gave himself swep weapon_egon
+[03:42:31] CCA.C08-UNION.i4.33698: /looc Holy shit
+[03:42:39] Joseph Kimsler: /clearsquadinfo
+[03:42:41] Joseph Kimsler: /adminspawnmenu
+[03:42:46] CCA.C08-UNION.i4.33698: // I'm gonna test somethin real quick
+[03:42:56] CCA.C08-UNION.i4.33698: // I want to see if the Displacer Cannon works on this map
+[03:43:00] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned/gave himself swep weapon_displacer
+[03:43:05] CCA.C08-UNION.i4.33698: // If that's alright with you.
+[03:43:11] Joseph Kimsler: //yeah, go ahead
+[03:43:12] Joseph Kimsler: //yeah, go ahead
+[03:43:14] Joseph Kimsler: /adminspawnmenu
+[03:43:20] CCA.C08-UNION.i4.33698: // HOLY SHIT
+[03:43:38] CCA.C08-UNION.i4.33698: // i am gonna mess around with this give me a sec
+[03:43:54] CCA.C08-UNION.i4.33698: /chargiveflag UNION t
+[03:43:59] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[03:43:59] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned/gave himself swep weapon_displacer
+[03:43:59] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[03:43:59] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned/gave himself swep weapon_displacer
+[03:44:03] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned/gave himself swep weapon_displacer
+[03:44:05] Joseph Kimsler: /chargiveitem joseph "cigarette pack"
+[03:44:28] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[03:45:24] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[03:45:25] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[03:45:25] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[03:45:58] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[03:46:31] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[03:47:34] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[03:47:47] CCA.C08-UNION.i4.33698: // I am in D2 now
+[03:47:48] Joseph Kimsler: /adminspawnmenu
+[03:47:49] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[03:47:52] Joseph Kimsler: /chargiveitem joseph "cigarette pack"
+[03:47:53] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[03:47:53] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[03:47:53] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[03:47:55] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[03:47:55] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[03:47:55] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[03:48:07] CCA.C08-UNION.i4.33698: // and now the armory
+[03:48:10] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[03:48:41] CCA.C08-UNION.i4.33698: // oh fuck
+[03:50:03] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[03:50:07] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[03:50:07] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[03:50:19] CCA.C08-UNION.i4.33698: // I think it's completely random
+[03:50:25] CCA.C08-UNION.i4.33698: // I haven't gotten the same spot twice
+[03:50:27] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[03:50:27] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[03:50:32] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[03:50:32] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[03:50:40] CCA.C08-UNION.i4.33698: // Maybe I spoke too soon
+[03:50:41] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[03:50:41] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[03:50:47] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[03:50:47] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[03:51:05] CCA.C08-UNION.i4.33698: // bruh it just teleported me into detainment
+[03:51:09] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[03:51:45] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[03:51:53] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[03:51:53] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[03:52:00] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[03:52:00] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[03:52:09] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[03:52:09] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[03:52:46] CCA.C08-UNION.i4.33698: // oh my fucking god
+[03:53:18] CCA.C08-UNION.i4.33698: // right in solitary confinement
+[03:53:28] Joseph Kimsler: /chargiveitem joseph "cigarette pack"
+[03:53:38] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[03:53:45] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[03:53:47] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[03:53:52] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[03:53:54] CCA.C08-UNION.i4.33698: // Si?
+[03:53:59] Joseph Kimsler: //no nothing
+[03:54:01] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[03:54:01] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[03:54:16] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[03:54:39] CCA.C08-UNION.i4.33698: // Imagine being someone who got ahold of this. One time use, teleportation is random, and you tp right into detainment
+[03:54:43] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[03:54:44] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[03:54:50] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[03:54:50] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[03:54:58] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[03:55:10] CCA.C08-UNION.i4.33698: // literally the biggest fuck you RNG could give
+[03:55:12] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[03:55:13] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[03:55:21] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[03:55:29] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[03:55:39] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[03:55:46] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[03:55:47] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[03:55:56] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[03:56:04] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[03:56:04] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[03:56:16] CCA.C08-UNION.i4.33698: // Finally, my first Outlands teleport
+[03:57:16] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[03:57:22] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[03:57:22] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[03:57:28] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[03:57:31] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[03:57:31] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[03:57:46] CCA.C08-UNION.i4.33698: // I wonder if I could TP items. Eh. 
+[03:57:48] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[03:57:53] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[03:57:53] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[03:58:02] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[03:58:04] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[03:58:12] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[03:58:15] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[03:58:15] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[03:58:15] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:00:21] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:00:28] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:00:40] CCA.C08-UNION.i4.33698: /chargiveflag UNION n
+[04:00:45] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned NPC npc_zombie
+[04:03:23] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned NPC npc_zombie
+[04:03:38] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:03:40] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:03:47] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:03:49] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:03:53] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:03:54] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:04:14] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:04:18] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:04:18] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:04:51] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:04:51] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:04:57] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:05:14] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:05:14] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:05:18] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:05:18] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:05:22] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:05:23] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:05:27] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:05:27] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:05:32] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:05:32] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:05:38] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:05:38] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:05:43] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:05:43] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:05:50] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:05:50] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:05:55] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:05:55] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:05:58] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:05:59] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:06:16] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:06:16] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:06:21] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:06:21] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:06:27] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:06:33] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:06:33] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:06:40] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:06:40] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:06:48] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:06:49] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:07:15] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:07:15] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:07:35] CCA.C08-UNION.i4.33698: // that is a lot of water near the fire alley care
+[04:07:37] CCA.C08-UNION.i4.33698: // *car
+[04:07:42] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:07:42] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:07:48] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:07:48] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:07:52] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:07:52] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:09:08] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:09:21] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:09:22] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:09:29] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:09:30] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:09:38] Joseph Kimsler: //care for a cig?
+[04:09:39] CCA.C08-UNION.i4.33698: // so I think NPCs are not safe
+[04:09:41] CCA.C08-UNION.i4.33698: // si
+[04:09:46] Joseph Kimsler<STEAM_0:1:53097688> changed their name to Eli Vance
+[04:09:58] Eli Vance: /charsetname eli "The G-Man"
+[04:09:58] Eli Vance<STEAM_0:1:53097688> changed their name to The G-Man
+[04:10:03] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:10:04] The G-Man teleported to CCA.C08-UNION.i4.33698
+[04:10:04] The G-Man: !goto union
+[04:10:08] The G-Man: Mister union.
+[04:10:11] The G-Man froze CCA.C08-UNION.i4.33698
+[04:10:11] The G-Man: !freeze union
+[04:10:15] CCA.C08-UNION.i4.33698: /looc bloody boi
+[04:10:27] The G-Man<STEAM_0:1:53097688> spawned sent pfx2_05
+[04:10:39] The G-Man: May I interest you in..
+[04:10:49] The G-Man: /me holds out a pack of UU-Brand Cigarettes.
+[04:11:01] The G-Man: /chargiveitem man "cigarette pack"
+[04:11:05] CCA.C08-UNION.i4.33698: /me takes a cig out of the UU-Branded box.
+[04:11:07] The G-Man unfroze CCA.C08-UNION.i4.33698
+[04:11:07] The G-Man: !unfreeze union
+[04:11:24] CCA.C08-UNION.i4.33698: /looc holy fuck it worked
+[04:11:36] The G-Man: .//it gives you five hp
+[04:11:39] The G-Man<STEAM_0:1:53097688> spawned sent pfx2_02_s
+[04:11:40] CCA.C08-UNION.i4.33698: /looc Nice.
+[04:11:41] The G-Man<STEAM_0:1:53097688> spawned sent pfx2_02
+[04:11:43] The G-Man<STEAM_0:1:53097688> spawned sent pfx2_02_a_s
+[04:11:45] The G-Man<STEAM_0:1:53097688> spawned sent pfx2_02_a
+[04:11:49] The G-Man<STEAM_0:1:53097688> spawned sent pfx2_00
+[04:11:50] The G-Man<STEAM_0:1:53097688> spawned sent pfx2_01
+[04:11:51] CCA.C08-UNION.i4.33698: /looc Wanna test somethin?
+[04:11:51] The G-Man<STEAM_0:1:53097688> spawned sent pfx2_04~
+[04:11:55] The G-Man: .//sure
+[04:12:06] CCA.C08-UNION.i4.33698: /looc Where the hell did you end up?
+[04:12:06] The G-Man: //I HEARD AN EXPLOOSION AND GOT PUT IN THE OUTLANDS
+[04:12:10] The G-Man: //it acted like it blew me up
+[04:12:11] CCA.C08-UNION.i4.33698: // HAHA!
+[04:12:12] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:12:12] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:12:17] CCA.C08-UNION.i4.33698: // It did damage to me too
+[04:12:17] The G-Man teleported to CCA.C08-UNION.i4.33698
+[04:12:21] CCA.C08-UNION.i4.33698: // oh shit
+[04:12:25] The G-Man: //don't worry, cigarettes are good for you
+[04:12:36] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:12:37] The G-Man: //i just realized how fucked that is
+[04:12:40] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:12:40] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:12:40] The G-Man: //cigarettes give you HP
+[04:12:43] The G-Man: //thus they are good for you
+[04:12:47] CCA.C08-UNION.i4.33698: // welcome to the early 1900s
+[04:12:52] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:12:52] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:12:56] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:12:57] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:13:03] The G-Man: //have a cigarette it's good for your heart
+[04:13:03] The G-Man: /doorsethidden true
+[04:13:04] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:13:05] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:13:11] The G-Man: //helps the polio go down
+[04:13:23] CCA.C08-UNION.i4.33698: // Ultimate test
+[04:13:32] CCA.C08-UNION.i4.33698: // I am going to displace a melon
+[04:13:39] CCA.C08-UNION.i4.33698: // it didn't work
+[04:13:40] The G-Man: //hell yes
+[04:13:41] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:13:43] The G-Man: //hell no
+[04:13:48] The G-Man: //wait can you displace people in vehicels
+[04:13:50] The G-Man teleported to CCA.C08-UNION.i4.33698
+[04:13:50] The G-Man: !goto union
+[04:13:51] CCA.C08-UNION.i4.33698: // That time
+[04:13:53] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:13:53] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:13:54] The G-Man<STEAM_0:1:53097688> spawned vehicle models/nova/airboat_seat.mdl
+[04:13:55] The G-Man<STEAM_0:1:53097688> spawned vehicle models/nova/chair_office01.mdl
+[04:14:05] CCA.C08-UNION.i4.33698: // OH GOD
+[04:14:06] The G-Man: //oh shit it worked
+[04:14:06] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:14:07] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:14:11] The G-Man: //outlands again
+[04:14:16] The G-Man teleported to CCA.C08-UNION.i4.33698
+[04:14:16] The G-Man: !goto union
+[04:14:20] The G-Man<STEAM_0:1:53097688> spawned/gave himself swep weapon_chumtoad
+[04:14:20] The G-Man<STEAM_0:1:53097688> spawned/gave himself swep weapon_barnacle
+[04:14:22] The G-Man: /toggleraise
+[04:14:29] CCA.C08-UNION.i4.33698: // Hm, maybe zombies aren't tough enough for displacement
+[04:14:34] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned NPC npc_antlionguard
+[04:14:35] CCA.C08-UNION.i4.33698 was killed by weapon_barnacle
+[04:14:37] CCA.C08-UNION.i4.33698: // OH GOD
+[04:14:46] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned/gave himself swep weapon_displacer
+[04:14:46] The G-Man: //i monched on you with my barnacle
+[04:14:53] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned NPC npc_antlionguard
+[04:15:01] CCA.C08-UNION.i4.33698: // THE FUCK
+[04:15:03] CCA.C08-UNION.i4.33698: // IT TANKED IT
+[04:15:16] CCA.C08-UNION.i4.33698: // it ain't teleporting
+[04:15:20] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:15:20] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:15:42] CCA.C08-UNION.i4.33698: // uh, shit. cleanup to Nexus detainment
+[04:15:43] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:15:44] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:15:52] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:15:52] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:15:57] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:15:57] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:17:08] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:17:09] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:17:17] The G-Man<STEAM_0:1:53097688> changed their name to Joseph Kimsler
+[04:17:26] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:17:26] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:17:31] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:17:31] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:17:36] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:17:37] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:17:41] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:17:42] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:18:08] CCA.C08-UNION.i4.33698: /chargiveflag UNION g
+[04:18:17] CCA.C08-UNION.i4.33698: /chargiveflag UNION e
+[04:18:18] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned model models/props_c17/furnituretable003a.mdl
+[04:27:15] Joseph Kimsler<STEAM_0:1:53097688> spawned/gave himself swep weapon_egon
+[04:27:15] Joseph Kimsler: /toggleraise
+[04:27:25] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:27:25] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:27:31] CCA.C08-UNION.i4.33698 killed Joseph Kimsler using obj_portal
+[04:27:37] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:27:39] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:27:49] CCA.C08-UNION.i4.33698: // prison block?
+[04:28:33] CCA.C08-UNION.i4.33698: // never been here before!
+[04:29:16] CCA.C08-UNION.i4.33698: // Ah.
+[04:29:20] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:29:20] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:29:27] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:29:27] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:29:44] CCA.C08-UNION.i4.33698: // oh shit
+[04:29:52] CCA.C08-UNION.i4.33698: // I saw the new cig thing
+[04:29:55] Joseph Kimsler was killed by trigger_hurt
+[04:30:00] CCA.C08-UNION.i4.33698: // View just straight up deleted it into the multiverse
+[04:30:04] Joseph Kimsler: //what
+[04:30:05] Joseph Kimsler: //OH
+[04:30:06] Joseph Kimsler: //I KNOW WHY
+[04:30:08] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:30:09] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:31:22] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:31:23] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:31:29] CCA.C08-UNION.i4.33698: // goddamnit
+[04:31:34] CCA.C08-UNION.i4.33698: // back in solitary confinement
+[04:31:50] CCA.C08-UNION.i4.33698: // still would be the ultimate fuck you RNG could pull on a rebel
+[04:31:52] Joseph Kimsler: //it works
+[04:31:58] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:31:58] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:32:00] CCA.C08-UNION.i4.33698: // Nice
+[04:32:04] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:32:08] Joseph Kimsler: //i'm ready to push the update
+[04:32:09] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:32:09] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:32:12] CCA.C08-UNION.i4.33698: // Alright.
+[04:32:16] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:32:16] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:32:17] Joseph Kimsler: //i'm gonna pack it all into a plugin and call it a night
+[04:32:23] CCA.C08-UNION.i4.33698: // Alrighty
+[04:32:24] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:32:24] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:32:29] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:32:29] CCA.C08-UNION.i4.33698<STEAM_0:1:52892973> spawned sent ammo_gaussclip
+[04:32:49] CCA.C08-UNION.i4.33698: // I'll make sure to be on tomorrow to dish out rations
+[04:33:18] CCA.C08-UNION.i4.33698: // I'ma head off, so talk to ya later
+[04:33:27] Dropped "CCA.C08-UNION.i4.33698" from server<STEAM_0:1:52892973>

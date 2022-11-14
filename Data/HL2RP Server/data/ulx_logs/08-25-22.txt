@@ -1,0 +1,1268 @@
+<Logging continued from "data/ulx_logs/08-24-22.txt">
+[01:19:28] Client "Bean" connected.
+[01:20:30] Client "Bean" spawned in server <STEAM_0:1:591779303> (took 62 seconds).
+[01:20:50] Bean<STEAM_0:1:591779303> changed their name to James McKay
+[01:21:23] Client "Painevan" connected.
+[01:24:24] Client "Painevan" spawned in server <STEAM_0:0:68118061> (took 181 seconds).
+[01:24:52] James McKay: /chardesc
+[01:25:12] Painevan<STEAM_0:0:68118061> changed their name to Jonathan Jackson
+[01:25:24] Jonathan Jackson: // bean you are a masochist
+[01:27:17] Dropped "James McKay" from server<STEAM_0:1:591779303>
+[01:27:48] Client "Bean" connected.
+[01:27:59] Dropped "Jonathan Jackson" from server<STEAM_0:0:68118061>
+[01:28:42] Client "Bean" spawned in server <STEAM_0:1:591779303> (took 54 seconds).
+[01:29:14] Bean<STEAM_0:1:591779303> changed their name to James McKay
+[01:29:25] James McKay: /ooc Yeah my wifi kinda just decided to die
+[01:32:03] James McKay: /chardesc
+[01:33:10] James McKay: /chardesc
+[02:15:32] James McKay: Sheesh
+[02:15:37] James McKay: A vort lives up here?
+[02:20:11] Dropped "James McKay" from server<STEAM_0:1:591779303>
+[03:35:09] Dropped "Andrew Cloverman" from server<STEAM_0:1:53097688>
+
+
+
+[03:38:25] New map: rp_industrial17_v1
+[09:46:14] Client "DRD" connected.
+[10:55:41] Client "Bean" connected.
+[10:56:37] Client "Bean" spawned in server <STEAM_0:1:591779303> (took 56 seconds).
+[10:56:58] Bean<STEAM_0:1:591779303> changed their name to James McKay
+[10:59:18] James McKay was killed by npc_zombine
+[11:03:30] Client "matt saton" connected.
+[11:06:23] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 173 seconds).
+[11:08:44] Dropped "matt saton" from server<STEAM_0:1:53097688>
+[11:08:47] Client "matt saton" connected.
+[11:09:38] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 51 seconds).
+[11:12:00] James McKay to admins: It seems...I trapped myself
+[11:13:26] Dropped "James McKay" from server<STEAM_0:1:591779303>
+[11:17:50] matt saton<STEAM_0:1:53097688> changed their name to CCA.C17-GRID.i3.10945
+[11:20:32] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props/cs_militia/crate_stackmill.mdl
+[11:20:57] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props/cs_militia/boxes_garage_lower.mdl
+[11:21:10] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool rb655_easy_bodygroup on models\props/cs_militia/boxes_garage_lower.mdl
+[11:21:13] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool permaprops on models\props/cs_militia/boxes_garage_lower.mdl
+[11:21:18] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props/cs_militia/fireplacechimney01.mdl
+[11:22:16] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_junk/wood_crate001a.mdl
+[11:22:21] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_junk/wood_crate001a_damaged.mdl
+[11:22:24] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool permaprops on models/props_junk/wood_crate001a_damaged.mdl
+[11:22:53] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_pipes/concrete_pipe001a.mdl
+[11:23:05] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_pipes/concrete_pipe001a.mdl
+[11:23:12] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool permaprops on models/props_pipes/concrete_pipe001a.mdl
+[11:23:19] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_pipes/concrete_pipe001a.mdl
+[11:25:02] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_c17/lockers001a.mdl
+[11:25:36] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_c17/display_cooler01a.mdl
+[11:25:44] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_junk/watermelon01_chunk01c.mdl
+[11:25:46] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_junk/vent001_chunk7.mdl
+[11:25:48] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_junk/watermelon01_chunk01c.mdl
+[11:25:51] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_junk/watermelon01_chunk02b.mdl
+[11:25:54] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_junk/watermelon01_chunk01b.mdl
+[11:25:57] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_junk/watermelon01_chunk02b.mdl
+[11:25:59] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_junk/watermelon01_chunk02a.mdl
+[11:26:05] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_junk/rock001a.mdl
+[11:26:11] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_junk/vent001_chunk2.mdl
+[11:26:14] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_junk/vent001_chunk8.mdl
+[11:26:16] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_junk/vent001_chunk2.mdl
+[11:26:17] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_junk/vent001_chunk1.mdl
+[11:26:20] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_junk/vent001.mdl
+[11:26:31] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_junk/vent001.mdl
+[11:26:35] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool permaprops on maps/rp_industrial17_v1.bsp
+[11:26:36] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool permaprops on models/props_junk/vent001.mdl
+[11:26:46] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/hlvr/combine_hazardprops/combinehazardprops_hoover.mdl
+[11:27:05] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool permaprops on models/hlvr/combine_hazardprops/combinehazardprops_hoover.mdl
+[11:27:17] CCA.C17-GRID.i3.10945: /chargiveitem grid xenobe
+[11:27:21] CCA.C17-GRID.i3.10945: /chargiveitem grid reader
+[11:27:49] CCA.C17-GRID.i3.10945: /chargiveitem grid "empty paint can"
+[11:27:50] CCA.C17-GRID.i3.10945: /chargiveitem grid "empty paint can"
+[11:29:29] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/sprayca2.mdl
+[11:30:04] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_wasteland/wheel02b.mdl
+[11:30:25] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_docks/dock03_pole01a.mdl
+[11:30:28] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_docks/dock02_pole02a.mdl
+[11:30:32] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_docks/dock01_pole01a_256.mdl
+[11:30:33] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_docks/dock03_pole01a.mdl
+[11:30:34] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_docks/dock03_pole01a_256.mdl
+[11:30:36] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_docks/dock02_pole02a_256.mdl
+[11:30:38] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_foliage/tree_poplar_01.mdl
+[11:30:44] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_c17/signpole001.mdl
+[11:30:48] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_c17/signpole001.mdl
+[11:31:21] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_foliage/tree_poplar_01.mdl
+[11:31:23] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_c17/signpole001.mdl
+[11:31:40] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool stacker_improved on models/props_c17/signpole001.mdl
+[11:31:40] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_c17/signpole001.mdl
+[11:31:44] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool stacker_improved on maps/rp_industrial17_v1.bsp
+[11:31:45] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool stacker_improved on models/props_c17/signpole001.mdl
+[11:31:45] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_c17/signpole001.mdl
+[11:31:51] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_c17/pulleywheels_large01.mdl
+[11:32:18] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool stacker_improved on models/props_c17/signpole001.mdl
+[11:32:18] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_c17/signpole001.mdl
+[11:32:38] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool stacker_improved on models/props_c17/signpole001.mdl
+[11:32:38] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_c17/signpole001.mdl
+[11:32:44] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool stacker_improved on maps/rp_industrial17_v1.bsp
+[11:32:44] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool stacker_improved on models/props_c17/signpole001.mdl
+[11:32:44] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_c17/signpole001.mdl
+[11:32:48] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool stacker_improved on models/props_c17/signpole001.mdl
+[11:32:48] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_c17/signpole001.mdl
+[11:32:56] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool permaprops on maps/rp_industrial17_v1.bsp
+[11:32:56] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool permaprops on models/props_c17/signpole001.mdl
+[11:32:57] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool permaprops on models/props_c17/pulleywheels_large01.mdl
+[11:32:57] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool permaprops on maps/rp_industrial17_v1.bsp
+[11:32:58] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool permaprops on models/props_c17/signpole001.mdl
+[11:34:04] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned ragdoll models/props_lab/power_cable001.mdl
+[11:34:05] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned ragdoll models/props_lab/power_cable002.mdl
+[11:34:07] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool permaprops on maps/rp_industrial17_v1.bsp
+[11:35:47] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool permaprops on maps/rp_industrial17_v1.bsp
+[11:35:48] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool permaprops on maps/rp_industrial17_v1.bsp
+[11:35:49] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool permaprops on maps/rp_industrial17_v1.bsp
+[11:36:06] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool permaprops on maps/rp_industrial17_v1.bsp
+[11:36:10] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool permaprops on maps/rp_industrial17_v1.bsp
+[11:36:50] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool permaprops on maps/rp_industrial17_v1.bsp
+[11:36:53] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool permaprops on maps/rp_industrial17_v1.bsp
+[11:37:05] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_junk/meathook001a.mdl
+[11:37:08] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_junk/meathook001a.mdl
+[11:37:26] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_junk/meathook001a.mdl
+[11:38:07] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_junk/meathook001a.mdl
+[11:38:07] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool nocollideeverything on maps/rp_industrial17_v1.bsp
+[11:38:08] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool nocollideeverything on maps/rp_industrial17_v1.bsp
+[11:38:08] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_lab/power_cable002.mdl
+[11:38:13] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool permaprops on models/props_junk/meathook001a.mdl
+[11:38:14] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool permaprops on models/props_lab/power_cable002.mdl
+[11:38:15] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool permaprops on maps/rp_industrial17_v1.bsp
+[11:57:07] Client "FB|| light ROOM" connected.
+[11:58:44] Client "FB|| light ROOM" spawned in server <STEAM_0:1:17219621> (took 97 seconds).
+[11:59:14] Dropped "FB|| light ROOM" from server<STEAM_0:1:17219621>
+[11:59:16] Client "FB|| light ROOM" connected.
+[12:00:13] Client "FB|| light ROOM" spawned in server <STEAM_0:1:17219621> (took 57 seconds).
+[12:00:49] FB|| light ROOM<STEAM_0:1:17219621> changed their name to Ethan King
+[12:00:52] Ethan King: // alo 
+[12:01:12] CCA.C17-GRID.i3.10945: //hello i'm just proppin while i listen tomy lecture
+[12:01:15] Ethan King: // aight 
+[12:01:26] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned/gave himself swep weapon_displacer
+[12:01:27] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned/gave himself swep weapon_egon
+[12:01:28] CCA.C17-GRID.i3.10945: /toggleraise
+[12:02:20] Ethan King: // Fix PAC3 :skull:
+[12:02:24] CCA.C17-GRID.i3.10945: //fix yourself
+[12:02:29] Ethan King: // lmao 
+[12:06:43] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props/cs_office/fire_extinguisher.mdl
+[12:06:55] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool permaprops on models\props/cs_office/fire_extinguisher.mdl
+[12:07:25] CCA.C17-GRID.i3.10945: //every time this old ass busines sprofeessor
+[12:07:26] CCA.C17-GRID.i3.10945: //who might i add
+[12:07:30] CCA.C17-GRID.i3.10945: //based off his appearance
+[12:07:32] CCA.C17-GRID.i3.10945: //really likes the n word
+[12:07:40] CCA.C17-GRID.i3.10945: //every time he says the word china i flinch a little bit 
+[12:07:48] CCA.C17-GRID.i3.10945: //because i half expect him to drop the c word
+[12:07:50] CCA.C17-GRID.i3.10945: //not cunt but the other one
+[12:08:07] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_wasteland/interior_fence002b.mdl
+[12:08:08] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_wasteland/interior_fence002b.mdl
+[12:08:16] Ethan King: // HAHAHAH 
+[12:08:38] Ethan King: // Me making notes early in the day so I can actually put them in places without Alex fucking watching the 404 Zone like the rat he is 
+[12:09:22] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_wasteland/interior_fence001g.mdl
+[12:09:23] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_wasteland/interior_fence002c.mdl
+[12:09:32] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/interior_fence002c.mdl
+[12:10:19] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/interior_fence002c.mdl
+[12:10:22] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_wasteland/interior_fence003e.mdl
+[12:10:26] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_wasteland/interior_fence003e.mdl
+[12:10:31] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_wasteland/interior_fence003e.mdl
+[12:10:35] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/interior_fence003e.mdl
+[12:10:50] Ethan King: // I like this little shop somebody made 
+[12:10:57] CCA.C17-GRID.i3.10945: //lynx
+[12:11:00] Ethan King: // The Grub and Gabble 
+[12:11:03] Ethan King: //I like 
+[12:11:04] CCA.C17-GRID.i3.10945: //not lynx
+[12:11:12] CCA.C17-GRID.i3.10945 teleported to Ethan King
+[12:11:14] CCA.C17-GRID.i3.10945 returned Themself to their original position
+[12:11:15] CCA.C17-GRID.i3.10945: //that was karlos
+[12:11:29] CCA.C17-GRID.i3.10945: //he doesn't get on because i recommended therapy to him and he thought i was inuslkting him
+[12:11:39] Ethan King: // HAHAHAHA 
+[12:11:44] Ethan King: // F 
+[12:11:46] CCA.C17-GRID.i3.10945: //because "Therapy is only for people who are a danger to themselves or others"
+[12:12:01] CCA.C17-GRID.i3.10945: //can't believe my OCD-induced twitches are danger to others
+[12:12:15] CCA.C17-GRID.i3.10945: //maybe one day my hand will twitch and i'll shoot someone by accident
+[12:12:20] CCA.C17-GRID.i3.10945: //gotta be in therapy bro
+[12:12:27] Ethan King: // Yeah, oof 
+[12:12:37] CCA.C17-GRID.i3.10945: //yeah. he was cool but it's a big f
+[12:12:43] Ethan King: // indeed
+[12:12:53] Ethan King<STEAM_0:1:17219621> changed their name to OTA.C17-KILO.OSS.66124
+[12:12:57] CCA.C17-GRID.i3.10945: //guarantee he's just 14 and his parents didn't educate him  well enough sonothing aginst him
+[12:13:06] OTA.C17-KILO.OSS.66124: // Also 
+[12:13:24] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_wasteland/interior_fence002e.mdl
+[12:13:27] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/interior_fence002e.mdl
+[12:13:27] OTA.C17-KILO.OSS.66124: // The KILO HMG is designated the "HMG2".... is that implying that the OG HMG exists?
+[12:13:35] CCA.C17-GRID.i3.10945: //it does imply that
+[12:13:54] CCA.C17-GRID.i3.10945: //the HMG that looks like it's made of synth plating or some shit
+[12:13:55] OTA.C17-KILO.OSS.66124: // If only I could get my hands on that obscure H&K proto LMG that never saw the light of day 
+[12:14:00] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_wasteland/interior_fence003b.mdl
+[12:14:03] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_wasteland/interior_fence003b.mdl
+[12:14:07] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/interior_fence003b.mdl
+[12:14:17] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_wasteland/interior_fence002c.mdl
+[12:14:19] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/interior_fence002c.mdl
+[12:14:20] OTA.C17-KILO.OSS.66124: // The HMG is a real thing I hope you know 
+[12:14:26] CCA.C17-GRID.i3.10945: //i do
+[12:14:30] OTA.C17-KILO.OSS.66124: // And it looks like that irl, I love it 
+[12:14:32] OTA.C17-KILO.OSS.66124: // The GR9
+[12:14:33] CCA.C17-GRID.i3.10945: //oh it does? damn
+[12:14:43] CCA.C17-GRID.i3.10945: //holy shit
+[12:14:47] CCA.C17-GRID.i3.10945: //STOP DISTTRACTING ME YOU BITCH
+[12:14:48] OTA.C17-KILO.OSS.66124: // DMs
+[12:14:52] OTA.C17-KILO.OSS.66124: // HAHAHA 
+[12:15:51] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_wasteland/interior_fence003a.mdl
+[12:15:55] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_wasteland/interior_fence002a.mdl
+[12:16:08] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/interior_fence002a.mdl
+[12:16:23] OTA.C17-KILO.OSS.66124: // afgk 
+[12:17:09] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/interior_fence002c.mdl
+[12:17:10] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/interior_fence002e.mdl
+[12:17:10] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/interior_fence002c.mdl
+[12:17:11] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/interior_fence002a.mdl
+[12:17:11] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/interior_fence002a.mdl
+[12:17:12] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/interior_fence002a.mdl
+[12:17:12] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/interior_fence002a.mdl
+[12:17:13] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/interior_fence002a.mdl
+[12:17:19] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool permaprops on models/props_wasteland/interior_fence002c.mdl
+[12:17:19] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool permaprops on models/props_wasteland/interior_fence002e.mdl
+[12:17:19] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool permaprops on models/props_wasteland/interior_fence002c.mdl
+[12:17:20] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool permaprops on models/props_wasteland/interior_fence002a.mdl
+[12:17:33] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_desk001b.mdl
+[12:17:35] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_desk001a.mdl
+[12:18:01] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_junk/pushcart01a.mdl
+[12:18:32] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool permaprops on models/props_junk/pushcart01a.mdl
+[12:18:37] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_c17/suitcase001a.mdl
+[12:18:41] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_c17/suitcase_passenger_physics.mdl
+[12:18:56] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_c17/suitcase_passenger_physics.mdl
+[12:19:14] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_c17/suitcase001a.mdl
+[12:19:15] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_c17/suitcase001a.mdl
+[12:19:21] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool permaprops on models/props_c17/suitcase_passenger_physics.mdl
+[12:19:21] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool permaprops on models/props_c17/suitcase_passenger_physics.mdl
+[12:19:21] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool permaprops on models/props_c17/suitcase001a.mdl
+[12:19:22] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool permaprops on models/props_c17/suitcase001a.mdl
+[12:19:23] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_c17/briefcase001a.mdl
+[12:19:31] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool permaprops on models/props_c17/briefcase001a.mdl
+[12:19:45] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool permaprops on maps/rp_industrial17_v1.bsp
+[12:20:20] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_c17/suitcase001a.mdl
+[12:20:25] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_c17/suitcase_passenger_physics.mdl
+[12:20:39] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool permaprops on models/props_c17/suitcase_passenger_physics.mdl
+[12:20:40] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool permaprops on models/props_wasteland/controlroom_desk001a.mdl
+[12:21:27] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_interiors/corkboardverticle01.mdl
+[12:21:46] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_storagecloset001a.mdl
+[12:22:26] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props/cs_office/trash_can_p.mdl
+[12:22:36] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props/cs_office/shelves_metal.mdl
+[12:22:43] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool permaprops on maps/rp_industrial17_v1.bsp
+[12:22:58] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_junk/plasticcrate01a.mdl
+[12:23:12] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool permaprops on models/props_junk/plasticcrate01a.mdl
+[12:23:13] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool permaprops on models\props/cs_office/shelves_metal.mdl
+[12:24:43] OTA.C17-KILO.OSS.66124: // back 
+[12:24:49] OTA.C17-KILO.OSS.66124<STEAM_0:1:17219621> changed their name to CCA.C17-QrM.98240
+[12:25:18] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_c17/handrail04_short.mdl
+[12:25:25] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_c17/handrail04_medium.mdl
+[12:25:29] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_c17/handrail04_short.mdl
+[12:25:41] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_c17/handrail04_short.mdl
+[12:26:02] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_c17/handrail04_corner.mdl
+[12:26:07] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_c17/handrail04_short.mdl
+[12:26:31] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_c17/handrail04_short.mdl
+[12:26:42] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_c17/handrail04_short.mdl
+[12:27:01] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool permaprops on models/props_c17/handrail04_short.mdl
+[12:27:05] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool permaprops on models/props_c17/handrail04_short.mdl
+[12:27:31] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_c17/signpole001.mdl
+[12:27:33] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_docks/dock01_pole01a_256.mdl
+[12:27:35] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_c17/signpole001.mdl
+[12:27:39] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_c17/signpole001.mdl
+[12:28:01] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/squad/sf_plates/sf_plate2x4.mdl
+[12:28:03] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/squad/sf_plates/sf_plate2x3.mdl
+[12:28:21] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool material on models/squad/sf_plates/sf_plate2x3.mdl
+[12:28:29] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool material on models/squad/sf_plates/sf_plate2x3.mdl
+[12:28:31] Dropped "CCA.C17-QrM.98240" from server<STEAM_0:1:17219621>
+[12:28:36] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool material on models/squad/sf_plates/sf_plate2x3.mdl
+[12:28:38] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool material on models/squad/sf_plates/sf_plate2x3.mdl
+[12:28:39] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool material on models/squad/sf_plates/sf_plate2x3.mdl
+[12:28:41] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool material on models/squad/sf_plates/sf_plate2x3.mdl
+[12:28:44] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool material on models/squad/sf_plates/sf_plate2x3.mdl
+[12:28:51] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool material on models/squad/sf_plates/sf_plate2x3.mdl
+[12:28:55] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool material on models/squad/sf_plates/sf_plate2x3.mdl
+[12:28:57] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool material on models/squad/sf_plates/sf_plate2x3.mdl
+[12:29:06] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool material on models/squad/sf_plates/sf_plate2x3.mdl
+[12:29:08] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool material on models/squad/sf_plates/sf_plate2x3.mdl
+[12:36:48] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_c17/briefcase001a.mdl
+[12:36:51] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_c17/consolebox01a.mdl
+[12:36:53] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_interiors/radiator01a.mdl
+[12:38:53] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_filecabinet002a.mdl
+[12:38:53] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool permaprops on models/props_wasteland/controlroom_filecabinet002a.mdl
+[12:38:55] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_filecabinet002a.mdl
+[12:39:52] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_junk/wood_crate002a.mdl
+[12:40:07] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_junk/wheebarrow01a.mdl
+[12:40:35] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_interiors/furniture_couch02a.mdl
+[12:40:43] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_junk/cardboard_box002b.mdl
+[12:40:49] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_junk/trafficcone001a.mdl
+[12:41:40] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_junk/trashcluster01a_corner.mdl
+[12:41:43] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_urban/plastic_chair001.mdl
+[12:41:52] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_equipment/sleeping_bag1.mdl
+[12:42:00] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool permaprops on models/props_equipment/sleeping_bag1.mdl
+[12:42:01] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool permaprops on models/props_interiors/furniture_couch02a.mdl
+[12:42:01] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool permaprops on models/props_junk/cardboard_box002b.mdl
+[12:42:02] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool permaprops on maps/rp_industrial17_v1.bsp
+[12:42:02] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool permaprops on models/props_junk/trafficcone001a.mdl
+[12:43:06] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_interiors/furniture_couch02a.mdl
+[12:43:08] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool permaprops on models/props_interiors/furniture_couch02a.mdl
+[12:43:25] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_c17/furnitureboiler001a.mdl
+[12:43:25] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_c17/furniturebed001a.mdl
+[12:43:41] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool permaprops on models/props_c17/furniturebed001a.mdl
+[12:43:46] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_interiors/furniture_vanity01a.mdl
+[12:43:52] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_interiors/furniture_lamp01a.mdl
+[12:43:54] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool permaprops on maps/rp_industrial17_v1.bsp
+[12:43:54] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool permaprops on models/props_interiors/furniture_lamp01a.mdl
+[12:43:56] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_junk/propane_tank001a.mdl
+[12:43:58] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_junk/plasticbucket001a.mdl
+[12:44:09] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_junk/sawblade001a.mdl
+[12:44:24] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_urban/plastic_chair001.mdl
+[12:44:33] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool permaprops on models/props_urban/plastic_chair001.mdl
+[12:44:37] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_c17/furniturewashingmachine001a.mdl
+[12:44:44] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_lab/harddrive01.mdl
+[12:44:56] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_interiors/soap_dispenser.mdl
+[12:45:01] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_interiors/side_table_square.mdl
+[12:45:02] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_interiors/side_table_square.mdl
+[12:45:10] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool permaprops on models/props_interiors/side_table_square.mdl
+[12:45:12] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool permaprops on models/props_lab/harddrive01.mdl
+[12:45:12] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool permaprops on maps/rp_industrial17_v1.bsp
+[12:45:40] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_debris/wood_board07a.mdl
+[12:45:44] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_debris/wood_chunk02b.mdl
+[12:45:47] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool permaprops on maps/rp_industrial17_v1.bsp
+[12:45:55] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_debris/wood_chunk02f.mdl
+[12:46:06] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_debris/wood_chunk01d.mdl
+[12:46:20] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_c17/furnituredrawer001a_chunk05.mdl
+[12:46:29] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool permaprops on models/props_c17/furnituredrawer001a_chunk05.mdl
+[12:46:32] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool permaprops on models/props_debris/wood_chunk02b.mdl
+[12:46:32] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool permaprops on models/props_debris/wood_chunk02f.mdl
+[12:46:33] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool permaprops on maps/rp_industrial17_v1.bsp
+[12:47:21] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_unique/wheelchair01.mdl
+[12:47:27] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool permaprops on models/props_unique/wheelchair01.mdl
+[12:47:59] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props/cs_office/exit_ceiling.mdl
+[12:48:19] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool permaprops on models\props/cs_office/exit_ceiling.mdl
+[12:48:32] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props/cs_office/shelves_metal1.mdl
+[12:48:37] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props/cs_office/shelves_metal.mdl
+[12:48:54] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props/cs_office/paperbox_pile_01.mdl
+[12:49:08] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool permaprops on models\props/cs_office/paperbox_pile_01.mdl
+[12:49:35] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props/cs_office/radio.mdl
+[12:49:43] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props/cs_office/projector_remote.mdl
+[12:49:56] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props/cs_office/radio.mdl
+[12:49:59] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool permaprops on models\props/cs_office/radio.mdl
+[13:05:10] Client "FB|| light ROOM" connected.
+[13:07:12] Client "FB|| light ROOM" spawned in server <STEAM_0:1:17219621> (took 122 seconds).
+[13:09:01] FB|| light ROOM<STEAM_0:1:17219621> changed their name to CCA.C17-QrM.98240
+[13:09:09] CCA.C17-QrM.98240: // Bitch cock 
+[13:10:12] CCA.C17-QrM.98240: /r 98240 to Overwatch - Shits going down bro on god
+[13:13:34] CCA.C17-QrM.98240<STEAM_0:1:17219621> changed their name to Ethan King
+[13:18:38] Ethan King: // Q 
+[13:23:28] Ethan King<STEAM_0:1:17219621> used the tool light on maps/rp_industrial17_v1.bsp
+[13:27:36] Client "Bean" connected.
+[13:28:32] Client "Bean" spawned in server <STEAM_0:1:591779303> (took 56 seconds).
+[13:29:05] Ethan King<STEAM_0:1:17219621> used the tool item_item_crate on maps/rp_industrial17_v1.bsp
+[13:29:17] Bean<STEAM_0:1:591779303> changed their name to James McKay
+[13:29:22] James McKay: /ooc OHHH YEAH...
+[13:29:27] James McKay: /ooc HELP
+[13:29:28] Ethan King: // who are you 
+[13:29:31] James McKay: /ooc Very stuck
+[13:29:33] Ethan King: // wghat 
+[13:29:39] James McKay: /ooc I have locked myself...in a shipping container...
+[13:29:44] Ethan King: // how the fuck 
+[13:29:47] James McKay: /ooc Dont ask...
+[13:29:50] James McKay: /ooc Please...help
+[13:30:02] James McKay: /ooc I am very...trapped...
+[13:30:12] James McKay: Shit
+[13:30:13] James McKay: help
+[13:30:14] Ethan King: // specific location?
+[13:30:20] James McKay: /ooc Vortal bazzar
+[13:30:23] Ethan King: // aight 
+[13:30:25] James McKay: /ooc Red shipping container...
+[13:30:47] James McKay: /y Help
+[13:30:48] Ethan King: // hwat 
+[13:31:13] James McKay: help
+[13:31:25] James McKay: /y Is someone there?!
+[13:31:30] Ethan King: /y Huh?
+[13:31:32] James McKay: /y Help!
+[13:31:39] James McKay: /y Im locked in the shipping container!
+[13:31:45] Ethan King: /y How the hell did you manage that?
+[13:31:55] James McKay: /y The padlock fucking locked on me!
+[13:32:05] James McKay: /looc also f3 me since we met already and I had to reset char
+[13:32:10] Ethan King: /me walked forward, lightly tapping a small axe onto the padlock, sniffling. "Hm...."
+[13:32:26] James McKay: I have the code...written down somewhere...
+[13:32:29] James McKay: One second!
+[13:32:41] Ethan King: /me raised his axe, before bringing it back down. "Good..."
+[13:32:43] James McKay: /y Here it is!
+[13:32:55] Ethan King: Spill it 
+[13:32:59] James McKay: /y To save a life you must take one
+[13:33:05] Ethan King: Huh?
+[13:33:09] James McKay: /y Thats the code!
+[13:33:23] Ethan King: Wha-... okay 
+[13:33:30] James McKay: Oh thank fuck!
+[13:33:35] Ethan King: /looc HAHAHHA
+[13:33:44] James McKay: I was locked in there for WAY too long...
+[13:33:50] Ethan King: /me tilts his head, looking over the hazmat worker. "You are?"
+[13:33:57] Ethan King: /looc honestly don't remember you 
+[13:34:03] James McKay: /looc we already met yesterday, you gave me the knife
+[13:34:07] Ethan King: /looc OOHHHH
+[13:34:13] James McKay: /looc yeah lol
+[13:34:36] James McKay: Stupid padlock decided to lock on me....
+[13:35:04] Ethan King: /me crosses his arms, gear shuffling ever so slightly. He would speak in a tired voice through his mask. "Hmph.... you're an unlucky one... James? was it?"
+[13:35:39] James McKay: /me Nods "Correct! Though you could just call me "The Doctor" both works...But I'd prefer my name being...less known"
+[13:35:47] Ethan King: Understandable
+[13:36:01] Ethan King: It seems you've gotten yourself a new suit, where'd that come from?
+[13:36:11] James McKay: Broke into a ICT operation in the cyber cafe!
+[13:36:16] James McKay: Had all sorts of shit...
+[13:36:24] Ethan King: Hmph... not bad.
+[13:36:28] James McKay: Don't get me started on the medical supplies I found
+[13:36:35] Ethan King: Medical supplies?
+[13:36:58] James McKay: /me Opens a case, pulling out multiple items, displaying them on the ground
+[13:37:23] James McKay: Quite the damn haul
+[13:37:29] Ethan King: Indeed
+[13:37:38] James McKay: /me Would begin to grab the items, putting them back into the case
+[13:37:48] Ethan King: /looc afk for just a moment 
+[13:39:10] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/hunter/blocks/cube025x025x025.mdl
+[13:39:11] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/hunter/plates/plate05x05.mdl
+[13:39:16] Ethan King: /looc aight 
+[13:39:32] CCA.C17-GRID.i3.10945: /textadd "This is a pulley, meant for" 0.75
+[13:39:47] CCA.C17-GRID.i3.10945: /textadd "moving large cargo." 0.75
+[13:40:18] Ethan King: /me turned to his right, sniffling as he walked forward. His gear would shuffle and rattle as he walked, limping ever so slightly.
+[13:40:54] Ethan King: /me slid into the booth, leaning back as he let out a relieved sigh. "Christ..... this place isn't the worst I've been to.."
+[13:41:21] James McKay: Yeah...This place...I was thinking of setting up shop here...But...Zombies keep comin' in
+[13:41:34] James McKay: /me Leans up against the wall behind him
+[13:41:42] Ethan King: Zombies and slow and harmless.
+[13:41:48] Ethan King: /looc are slow*
+[13:41:49] Ethan King: /looc aughghgg
+[13:42:02] James McKay: Yeah...I know they are...But some people are awfully scared of em
+[13:42:12] James McKay: So they don't come over here as much...
+[13:42:25] Ethan King: /me glanced over towards James, sniffling. "Not many remain in these sewers to begin with."
+[13:43:04] James McKay: /me Shrugs "Even then...People still are less inclinded to come over here, and I don't plan on beating zombies daily...even though I do"
+[13:43:21] Ethan King: My recommendation is find a spot in the rooftops.
+[13:43:33] James McKay: I could try...But I'm already wanted...
+[13:43:34] CCA.C17-GRID.i3.10945: //fucking damnit ithought i was done for today, i'm not
+[13:43:39] Ethan King: // L 
+[13:43:41] CCA.C17-GRID.i3.10945: //back to it
+[13:43:51] Ethan King: /me chuckled softly. "Wanted? you don't know wanted."
+[13:44:20] James McKay: /me Chuckles "I don't know, being wanted by the orange suit is a pretty bad thing"
+[13:44:40] James McKay: Guess some people up above told him bout me...Now he's lookin'
+[13:44:51] James McKay: Guess he wants this suit back...
+[13:45:53] Ethan King: /me looked up at the ceiling, his breathing ever so slightly audible through the hefty hazmat suit he wore. Dried blood and grime would ever so lightly fall onto the booth and stain it as he spoke. "Then kill him, simple."
+[13:46:36] James McKay: /me Lets out a deep exhale of breath. "I've tried...I can't even get close to him...He's being...careful, staying around CPs more..."
+[13:46:58] James McKay: He even got his windows to his office barred...
+[13:46:59] Ethan King: Killing somebody of CWU leadership isn't without risk.
+[13:47:09] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props_c17/furniturewashingmachine001a.mdl
+[13:47:21] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_c17/furniturewashingmachine001a.mdl
+[13:47:27] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_c17/furniturewashingmachine001a.mdl
+[13:47:29] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_c17/furniturewashingmachine001a.mdl
+[13:47:35] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_c17/furniturewashingmachine001a.mdl
+[13:47:38] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool permaprops on models/props_c17/furniturewashingmachine001a.mdl
+[13:47:42] James McKay: I know...Which is the thing....If we kill him now...Who knows how the CPs could react...There ain't anyone else remaining in the ICT besides him....When he joins administration....I doubt he would even be a problem to us...
+[13:48:02] James McKay: Not like he'll be allowed outside...waiting for us....
+[13:48:18] James McKay: He'll be up in the ivory tower....To important to care about us...
+[13:48:42] James McKay: And when he's gone...And no one watches over the CZ...We'll have free rein....
+[13:48:59] Ethan King: Hmph.... not me though.
+[13:49:16] CCA.C17-GRID.i3.10945: /chargiveitem grid shovel
+[13:50:22] Client "Apex" connected.
+[13:50:23] Ethan King: /me simply said this, leaning forward he would look glance towards James, keeping his eyes fixed onto the mans white mask. "CCA and OTA are after me, lord knows if they find an non-citizen who was also within the Conscripts, they'll be after me forever."
+[13:50:42] Ethan King: /looc he would look towards*
+[13:50:49] Client "Painevan" connected.
+[13:51:25] James McKay: /me Would look at Ethan "Yeah...Not like they ain't after us already though...And not much we can do about that either...."
+[13:51:47] Client "Apex" spawned in server <STEAM_0:0:170921441> (took 85 seconds).
+[13:51:48] James McKay: When one CP dies...Another one will turn up...
+[13:51:51] James McKay: Then another...
+[13:51:54] James McKay: And another...
+[13:52:02] Ethan King: There are certaintly things I could do about it 
+[13:52:05] Ethan King: /me sniffles 
+[13:52:13] Apex<STEAM_0:0:170921441> changed their name to Denford F. MacMillian
+[13:52:14] James McKay: Besides killin' em...What can we do...
+[13:52:22] Ethan King: /looc holy fuck I just thought about the power I have 
+[13:52:24] James McKay: OTA would flood the fucking area when you do....
+[13:52:25] Denford F. MacMillian: // Me when the:
+[13:52:33] James McKay: But...is 
+[13:52:34] Ethan King: /looc I know what Advisors are, imagine I leaked that info 
+[13:52:35] James McKay: /looc void
+[13:52:44] Ethan King: James 
+[13:52:49] James McKay: But its entir- Hm?
+[13:53:05] James McKay: /me Would look towards King, Staring directly into his gas mask.
+[13:53:52] Client "Painevan" spawned in server <STEAM_0:0:68118061> (took 183 seconds).
+[13:53:58] Ethan King: /me held out a palm towards him, motioning for him to stop talking. "In this world there is some information that could destroy empires, things that the Combine will do anything to keep hidden, things that would cause the Martyrs above us to shake in their boots and have an unplanned piss in their pants."
+[13:54:33] Ethan King: I am an observer, I know things beyond even that of the CCA, things above the highest of CWU, beyond even some OTA.
+[13:54:41] James McKay: /me Opens his mouth to speak, though seemingly stops before a word leaves his mouth
+[13:54:44] Ethan King: // who are you 
+[13:54:51] Denford F. MacMillian: // Hm?
+[13:54:56] James McKay: /ooc who are you
+[13:55:04] Denford F. MacMillian: // Who are you?
+[13:55:22] Ethan King: /me stood up, walking forward towards James. "I can leak the highest of leadership, the things that rule this planet, the very thing the Combine would never want anybody to know, the thing that could cause mass genocide if I spoke of it."
+[13:55:52] James McKay: /me Seems to back up a bit, keeping his back against the wall "Well...thats...uhh...Interesting"
+[13:56:07] Ethan King: /me looked him over. "I could make you a number one fugitive with nothing more than a few words, I am the King, I know of otherworldly things."
+[13:56:30] James McKay: /me Nervously chuckles "Well thats...Uhh....nice?..."
+[13:56:57] Ethan King: /me stepped forward once more, grabbing onto the mans mask. "But other beings are always listening, the Combine isn't the only powerful force looking over this planet."
+[13:57:22] James McKay: /me Would try to step back more, keeping his back towards the wall
+[13:57:37] James McKay: Thats...very...nice?
+[13:57:47] Ethan King: No, it means we'll never escape this hell 
+[13:58:17] James McKay: /me Nods slightly "Well...Thats....Not good...Heh...Uhm, I think I have to....go"
+[13:58:38] Ethan King: // BRUH 
+[13:58:40] James McKay: Watch out
+[13:58:44] Denford F. MacMillian: // Hm?
+[13:58:55] James McKay: even odds
+[13:59:16] Ethan King: // Fucking NPCs getting in the way of RP 
+[13:59:19] James McKay: Ugh...
+[13:59:34] Denford F. MacMillian: // RP...........
+[13:59:45] Ethan King: Find solitude in your life, James, face the things you fear. The Combine aren't the most powerful thing on this planet.
+[14:00:01] Denford F. MacMillian: // Then there's just me waiting.
+[14:00:03] James McKay: /me Chuckles "Me? fear something? Hah! Never!
+[14:00:10] Ethan King: /me chuckled softly 
+[14:00:13] Denford F. MacMillian: /pm ethan How long does it take for apps to get reviewed?
+[14:00:18] Ethan King: /reply depends
+[14:00:31] Denford F. MacMillian: /pm ethan I just wanna do CCA shit.
+[14:00:31] Ethan King: /reply just yell at Q every now and then and it'll happen 
+[14:00:41] Denford F. MacMillian: /pm ethan Eh, I don't wanna bother 'em.
+[14:01:16] Ethan King<STEAM_0:1:17219621> changed their name to CCA.C17-QrM.98240
+[14:01:17] CCA.C17-QrM.98240: // balls 
+[14:01:38] Denford F. MacMillian: // Balls.
+[14:01:43] James McKay: /ooc Ball.
+[14:01:51] CCA.C17-QrM.98240: /r 98240 reporting 10-8, status is green, sector is running at sociostability green.
+[14:01:53] Denford F. MacMillian: Officer.
+[14:01:56] CCA.C17-QrM.98240: Yes?
+[14:02:05] Denford F. MacMillian: I spotted something near the CZ.
+[14:02:16] CCA.C17-QrM.98240: /me held out a hand towards him, to cease his speaking 
+[14:02:17] CCA.C17-QrM.98240: Hold
+[14:02:18] CCA.C17-QrM.98240: Hold
+[14:02:20] CCA.C17-QrM.98240: /looc FUKC 
+[14:02:21] CCA.C17-QrM.98240: /looc VOIDLIENS 
+[14:02:22] Denford F. MacMillian: /looc LMAO.
+[14:02:23] CCA.C17-QrM.98240: /looc AGHGHHG
+[14:02:29] CCA.C17-QrM.98240: Hold, hold, one second.
+[14:03:41] CCA.C17-QrM.98240: /me stepped forward, taking out a orange cheese kit from his pocket. Flicking it open he would forcefully grab the mans left arm, sliding up his sleeve and finding a vein, he would take out several different shots and syringes, stabbing him with 2 of them... one being pain killers of some kind and another reducing chances of infection in wounds. "There, now I can't deal with anything in the QZ."
+[14:03:53] Denford F. MacMillian: Thank you.
+[14:03:55] Denford F. MacMillian: I understand.
+[14:04:06] Denford F. MacMillian: But it could be a possible Anti-Citizen.
+[14:04:20] CCA.C17-QrM.98240: /me rolled down his sleeve, sealing the civvies suit. "I'm not a ground unit, that isn't my priority."
+[14:04:38] Denford F. MacMillian: But you could report it, yes?
+[14:04:41] CCA.C17-QrM.98240: I can yes 
+[14:04:51] Denford F. MacMillian: And it could be helpful to ground units.
+[14:05:18] James McKay: Ugh...
+[14:05:19] James McKay: Bugs...
+[14:05:26] CCA.C17-QrM.98240: /r 98240 to Overwatch, reporting, possible loud contaminant spotted in 404 zone. Suggest stabilization team recon and clean sector.
+[14:05:27] CCA.C17-QrM.98240: There
+[14:05:31] CCA.C17-QrM.98240: /looc VOICE LIENS 
+[14:05:33] CCA.C17-QrM.98240: /looc AUGHGHGH
+[14:05:34] CCA.C17-QrM.98240: /looc rewouviaernvbaeruonvb
+[14:05:47] James McKay: got one
+[14:05:47] Denford F. MacMillian: The guy is armed with a crowbar and wears a Yellow ICT suit.
+[14:05:52] CCA.C17-QrM.98240: Copy 
+[14:06:03] Denford F. MacMillian: I was gonna try get him but uh, a zombie and I got into a scuffle.
+[14:06:05] James McKay: Fucker...
+[14:06:08] James McKay: my arm
+[14:06:28] CCA.C17-QrM.98240: /r Updating report, contaminant is armed with a crowbar and wearing non-issued ICT uniform.
+[14:06:29] CCA.C17-QrM.98240: Cool
+[14:06:33] CCA.C17-QrM.98240: We'll deal with it.
+[14:06:36] Denford F. MacMillian: Thank you.
+[14:06:38] CCA.C17-QrM.98240: /me nods 
+[14:06:45] James McKay: /ooc Mmm no loot in OZ....Make me sad...
+[14:06:47] CCA.C17-QrM.98240: /viewobjectives
+[14:06:52] CCA.C17-QrM.98240: // L 
+[14:07:01] Denford F. MacMillian: /pm 98240 Denford is the average Flordian citizen.
+[14:07:01] CCA.C17-QrM.98240: // I will kill 
+[14:07:05] CCA.C17-QrM.98240: /reply Good 
+[14:07:28] Denford F. MacMillian: /pm 98240 He holds no fear, he will have a fist fight with any Xenian creature.
+[14:07:28] CCA.C17-QrM.98240: // Me requesting for a stabilization team to recon the 404 zone, also me about to use this to get on KI-
+[14:07:44] CCA.C17-QrM.98240: // Q would be mad, so I can't sadly 
+[14:08:18] Denford F. MacMillian: // With every vending machine you touch, you break.
+[14:08:22] CCA.C17-QrM.98240: // yes 
+[14:08:28] James McKay<STEAM_0:1:591779303> changed their name to Alex Palovichov
+[14:08:37] Alex Palovichov: Wait...
+[14:08:42] Alex Palovichov: Where is...
+[14:09:47] CCA.C17-QrM.98240: /r Unit reports no activity in 10-20 Plaza, sector running at 100%, negative on civil dissonance. Sociostability green.
+[14:10:13] CCA.C17-QrM.98240: // Hmmmm
+[14:10:17] CCA.C17-QrM.98240: // I should do ration 
+[14:10:30] Denford F. MacMillian: // Yes, I don't know my LP amount.
+[14:10:36] Alex Palovichov: /ooc -5
+[14:10:38] CCA.C17-QrM.98240: // Just fucking ask my guy 
+[14:10:44] Alex Palovichov: excuse me
+[14:10:51] CCA.C17-QrM.98240: Yes?
+[14:10:52] Alex Palovichov: I'd like to report somethin'
+[14:11:06] CCA.C17-QrM.98240: /me nods, unlatching his PDA from the utility belt he wore. "Go for it."
+[14:11:07] Denford F. MacMillian: /looc Quartermaster loses his shit and kills everyone.
+[14:11:12] Alex Palovichov: I was informed yesterday that a...person has stolen and been using a standard issue ICT suit
+[14:11:16] CCA.C17-QrM.98240: /looc You don't realize how close he is to doing so 
+[14:11:20] Denford F. MacMillian: /looc VERY.
+[14:11:29] CCA.C17-QrM.98240: Affirmative, I've already reported it.
+[14:11:37] Alex Palovichov: Ah alright...
+[14:11:37] Denford F. MacMillian: I saw the individual wearing the suit.
+[14:11:44] CCA.C17-QrM.98240: Correct 
+[14:11:44] Alex Palovichov: Oh?
+[14:11:50] Alex Palovichov: Oh its you...
+[14:11:53] Denford F. MacMillian: I tried to throw hands with him.
+[14:11:58] Denford F. MacMillian: Then I threw hands with a zombie.
+[14:12:03] Denford F. MacMillian: And won.
+[14:12:13] Alex Palovichov: Where...was a zombie?
+[14:12:21] Denford F. MacMillian: Remember yesterday?
+[14:12:27] Alex Palovichov: No?...
+[14:12:32] Alex Palovichov: Were you in the CZ?
+[14:12:34] Denford F. MacMillian: No.
+[14:12:40] CCA.C17-QrM.98240: // Imma do a funny report in Combine gen real quick 
+[14:12:40] Alex Palovichov: Where else would a zombie be?
+[14:12:49] Denford F. MacMillian: The streets.
+[14:12:51] Denford F. MacMillian: Headcrabs.
+[14:12:52] Denford F. MacMillian: Victim.
+[14:12:58] Denford F. MacMillian: Victim infected.
+[14:13:01] Denford F. MacMillian: Walks to the streets.
+[14:13:02] Alex Palovichov: What? I didn't know of this?
+[14:13:06] Denford F. MacMillian: Alex.
+[14:13:10] Denford F. MacMillian: You paid me Twenty tokens.
+[14:13:11] Alex Palovichov: Thats my name!
+[14:13:14] Alex Palovichov: I did?
+[14:13:29] Denford F. MacMillian: Do you see the pain I endure every day now, Officer?
+[14:13:45] Alex Palovichov: Not my fault you suck at lying...Just say you were in the CZ....
+[14:13:57] CCA.C17-QrM.98240: // cool 
+[14:13:58] Denford F. MacMillian: I wasn't.
+[14:14:04] Alex Palovichov: Sure...
+[14:14:04] CCA.C17-QrM.98240: /me snfifles 
+[14:14:07] CCA.C17-QrM.98240: /looc sniffles*
+[14:14:09] CCA.C17-QrM.98240: Cool
+[14:14:28] Denford F. MacMillian: He's not as bad as the HELIX that attempted to interrogate me.
+[14:14:41] Denford F. MacMillian: Because I managed to turn the tables and interrogate the HELIX on why they suck at interrogation.
+[14:14:43] CCA.C17-QrM.98240: A HELIX unit attempted to interrogate you?
+[14:14:46] Denford F. MacMillian: Yes.
+[14:14:47] Denford F. MacMillian: And failed.
+[14:14:48] Denford F. MacMillian: Horribly.
+[14:14:50] CCA.C17-QrM.98240: That isn't there fucking job 
+[14:14:57] Denford F. MacMillian: Yeah.
+[14:15:01] Denford F. MacMillian: Then a JUDGE came, let me gol.
+[14:15:03] Denford F. MacMillian: /looc *go.
+[14:15:08] CCA.C17-QrM.98240: /looc their*
+[14:15:13] Denford F. MacMillian: /looc  they're*
+[14:15:35] CCA.C17-QrM.98240: /looc motherfucker 
+[14:15:41] CCA.C17-QrM.98240: Right, you had anything you wanted to ask me?
+[14:15:48] Denford F. MacMillian: How much LP do I have?
+[14:15:53] CCA.C17-QrM.98240: Apply for me 
+[14:15:59] Denford F. MacMillian: /apply
+[14:16:03] Alex Palovichov: /me Seems to glare at the citizen, waiting for his LP to be said
+[14:16:13] Denford F. MacMillian: /me exists.
+[14:16:16] Denford F. MacMillian: /roll
+[14:16:19] CCA.C17-QrM.98240: /me switched on his PDA, his mask would be covered in a lightly bluehue as he typed onto it.
+[14:16:22] CCA.C17-QrM.98240: /it you fail 
+[14:16:27] CCA.C17-QrM.98240: /viewdata Den
+[14:16:29] Denford F. MacMillian: /it PK moment.
+[14:16:42] CCA.C17-QrM.98240: 13 LP, have you been issued a loyalist armband?
+[14:16:51] Denford F. MacMillian: No.
+[14:16:56] Alex Palovichov: /me Lets out a soft clap "Congratulations!"
+[14:17:03] CCA.C17-QrM.98240: You are to be issued a green-
+[14:17:08] CCA.C17-QrM.98240: Alex, stop.
+[14:17:22] CCA.C17-QrM.98240: /me would look over to the man in an orange suit. "No, bad."
+[14:17:25] Alex Palovichov: Sorry...Its just such a...*Wonderful*   Time!
+[14:17:37] Denford F. MacMillian: He's just surprised that I'm loyal.
+[14:17:51] CCA.C17-QrM.98240: You've a black armband, you're better than this petty behavior you're showing.
+[14:17:59] Alex Palovichov: What? Petty?
+[14:18:10] Alex Palovichov: I'm congratulating him!
+[14:18:14] Alex Palovichov: Its nice to have another loyalist!
+[14:18:48] CCA.C17-QrM.98240: /me scoffed, looking over towards his PDA as he switched it off, his mask lightly coated in the shade once more. "Right, both of you scram, I'll be doing a ration cycle."
+[14:19:02] Alex Palovichov: Good work...
+[14:19:12] Denford F. MacMillian: I won't be around for long anyway.
+[14:19:22] Alex Palovichov: Whys that?
+[14:19:24] CCA.C17-QrM.98240: Apply
+[14:19:24] Alex Palovichov: /apply
+[14:19:28] Denford F. MacMillian: Can't say.
+[14:19:36] Alex Palovichov: Oh...Someone wants to join CCA ey?
+[14:19:36] Denford F. MacMillian: I'm looking at certain career choices.
+[14:19:36] CCA.C17-QrM.98240: I forget just how many fucking LP you have good god.
+[14:19:44] Alex Palovichov: I think...Like 146?
+[14:19:49] CCA.C17-QrM.98240: /me looked over to his already switched on PDA, sighing. "Righty."
+[14:20:00] Alex Palovichov: Uh huh...Someone wants to become a CP...
+[14:20:05] Denford F. MacMillian: Yeah.
+[14:20:11] Alex Palovichov: Cheers
+[14:20:14] CCA.C17-QrM.98240: Apply
+[14:20:15] Denford F. MacMillian: /apply
+[14:20:21] CCA.C17-QrM.98240: 13 LP, cool 
+[14:20:34] Denford F. MacMillian: /me Sighs softly as he awaits his ration, the man looking at the door before whispering to the CP.
+[14:20:37] Denford F. MacMillian: /w He's a pain in my ass.
+[14:20:45] CCA.C17-QrM.98240: /w I didn't ask 
+[14:20:49] Denford F. MacMillian: /w I know.
+[14:20:49] CCA.C17-QrM.98240: Now scram 
+[14:21:03] Alex Palovichov: Huh
+[14:21:05] Alex Palovichov: Meh
+[14:21:13] Alex Palovichov: Some cheap mumbo-jumbo
+[14:21:17] CCA.C17-QrM.98240: // you're welcome 
+[14:21:22] Denford F. MacMillian: // Thank you.
+[14:21:26] Alex Palovichov: /ooc Each day...I am richer...
+[14:21:28] Denford F. MacMillian: // I feel complete with a red ration...
+[14:21:39] CCA.C17-QrM.98240: // Alex getting three different rations 
+[14:21:49] Alex Palovichov: pardon me
+[14:21:52] CCA.C17-QrM.98240: What?
+[14:21:57] Alex Palovichov: Found some cheap anti-citizen mumbo-jumbo on the ground
+[14:22:09] CCA.C17-QrM.98240: /me nods, grabbing the notepad and looking it over.
+[14:22:18] Alex Palovichov: Don't know who the "loyalist" is
+[14:22:27] CCA.C17-QrM.98240: /looc why did it-
+[14:22:39] CCA.C17-QrM.98240: /looc I fucking made this note, why is it not all there 
+[14:22:44] Alex Palovichov: /looc lol
+[14:22:52] CCA.C17-QrM.98240: Hm
+[14:22:59] CCA.C17-QrM.98240: Really, a crown?
+[14:23:01] CCA.C17-QrM.98240: That's fucking stupid 
+[14:23:34] Alex Palovichov: Yeah...They aren't the best with this kinda shit...Gets shittier each time
+[14:23:44] CCA.C17-QrM.98240: /me grabbed the notepad, holding it out with his left hand as he grabbed his stunstick using his right. Switching it on he would slam it into the notepad, scorching it, rendering it nothing more than a blackened piece of paper. "Cool."
+[14:23:55] Alex Palovichov: Also do you by chance have any work?
+[14:24:04] CCA.C17-QrM.98240: I could give you something, I guess.
+[14:24:16] Alex Palovichov: That would be much appreciated...
+[14:24:33] Alex Palovichov: I'm almost half way to joining administration!
+[14:24:37] CCA.C17-QrM.98240: Ahuh 
+[14:24:51] CCA.C17-QrM.98240: /me looked up, seemingly in thought. "I know one."
+[14:24:55] CCA.C17-QrM.98240: Wanna help me do my job?
+[14:25:00] Alex Palovichov: Uhh...Sure!
+[14:25:05] Alex Palovichov: Sounds...fun!
+[14:25:33] CCA.C17-QrM.98240: I've 150 different cartridges of .9mm, 4.6mm and empty pulse cartridges that need sorting.
+[14:25:43] Alex Palovichov: Well...
+[14:25:45] Alex Palovichov: Okay...
+[14:25:47] CCA.C17-QrM.98240: You'll be helping me sort the, 
+[14:25:50] Alex Palovichov: If...thats what needs...doing...
+[14:25:52] CCA.C17-QrM.98240: /looc them*
+[14:25:57] CCA.C17-QrM.98240: Welcome to my life 
+[14:25:59] CCA.C17-QrM.98240: Come with me 
+[14:26:09] CCA.C17-QrM.98240: Stay
+[14:26:39] Painevan<STEAM_0:0:68118061> changed their name to Jonathan Jackson
+[14:26:46] Jonathan Jackson: // a
+[14:26:49] CCA.C17-QrM.98240: // a
+[14:26:52] Jonathan Jackson: // Is Q here
+[14:26:53] Alex Palovichov: /ooc b
+[14:26:56] CCA.C17-QrM.98240: // he's dead 
+[14:27:00] Jonathan Jackson: // god DAMNIT
+[14:27:49] CCA.C17-QrM.98240: /me would be holding a can of several different ammo types, some small, some of intermediate size.... and the obvious blue and dark orange puks of Combine metal, seemingly emptied  pulse rounds. "Welcome to Quartermastering 101."
+[14:28:01] CCA.C17-QrM.98240: I'm your host, 98240.
+[14:28:08] CCA.C17-QrM.98240: You're my student, Alex last name.
+[14:28:12] Alex Palovichov: /me Seems to take out a small notebook
+[14:28:14] CCA.C17-QrM.98240: /looc F3 me 
+[14:28:20] Alex Palovichov: Uhh Palovichov!
+[14:28:23] CCA.C17-QrM.98240: I see 
+[14:28:50] CCA.C17-QrM.98240: You'll be sorting them into a KIBA arms case, there are three seperate compartments that can hold the ammo.
+[14:29:02] CCA.C17-QrM.98240: Do this, and you'll recieve 3 LP from me.
+[14:29:17] Alex Palovichov: Okay....
+[14:29:27] CCA.C17-QrM.98240: /me sniffles, grabbing at an emptied black KIBA arms case. Stepping around him. "Come with me."
+[14:29:33] Alex Palovichov: /me Seemingly begins to regret his life choices
+[14:30:03] CCA.C17-QrM.98240: /me slams down both items, the can of ammo making a loud sound of metal clanking together. "Have fun, I'll be watching just in case."
+[14:30:12] CCA.C17-QrM.98240<STEAM_0:1:17219621> spawned model models/props_unique/spawn_apartment/coffeeammo.mdl
+[14:30:24] Alex Palovichov: Welp...I guess...I'll...begin...
+[14:30:33] Alex Palovichov: /me Opens up the KIBA arms case
+[14:30:36] CCA.C17-QrM.98240: /me sniffles, watching the man do the work.
+[14:30:39] Alex Palovichov: Here I go...
+[14:30:48] CCA.C17-QrM.98240: /it There would be three seperate small compartments that can hold ammunition.
+[14:31:10] Alex Palovichov: /me Begins to quite quickly sort through the ammo, putting them into different compartments within the KIBA arms case
+[14:31:12] CCA.C17-QrM.98240: // me getting Alex to do my job for me 
+[14:31:22] Jonathan Jackson: // based
+[14:31:31] Jonathan Jackson<STEAM_0:0:68118061> used the tool ledscreen on maps/rp_industrial17_v1.bsp
+[14:31:32] Jonathan Jackson<STEAM_0:0:68118061> used the tool ledscreen on maps/rp_industrial17_v1.bsp
+[14:31:32] Jonathan Jackson<STEAM_0:0:68118061> used the tool ledscreen on maps/rp_industrial17_v1.bsp
+[14:31:34] Alex Palovichov: /me Seemingly begins to count under his breath numbers "1....4...9....12"
+[14:31:35] Jonathan Jackson<STEAM_0:0:68118061> used the tool ledscreen on maps/rp_industrial17_v1.bsp
+[14:31:36] Jonathan Jackson<STEAM_0:0:68118061> used the tool ledscreen on maps/rp_industrial17_v1.bsp
+[14:31:37] Jonathan Jackson<STEAM_0:0:68118061> used the tool ledscreen on maps/rp_industrial17_v1.bsp
+[14:31:38] Jonathan Jackson<STEAM_0:0:68118061> used the tool ledscreen on maps/rp_industrial17_v1.bsp
+[14:31:38] Jonathan Jackson<STEAM_0:0:68118061> used the tool ledscreen on maps/rp_industrial17_v1.bsp
+[14:31:39] Jonathan Jackson<STEAM_0:0:68118061> used the tool ledscreen on maps/rp_industrial17_v1.bsp
+[14:31:40] Jonathan Jackson<STEAM_0:0:68118061> used the tool ledscreen on maps/rp_industrial17_v1.bsp
+[14:31:42] CCA.C17-QrM.98240: // *"Yeah I need you to sort 150 rounds of three different calibers, have fun."*
+[14:31:52] CCA.C17-QrM.98240: Just a reminder 
+[14:32:08] CCA.C17-QrM.98240: If I see a Pulse Puk on you, I will beat you into hell and back.
+[14:32:19] Alex Palovichov: /me Continues to sort through the ammo, slowly picking up speed "22...32....36"
+[14:32:23] CCA.C17-QrM.98240: Another reminder, even in this state they give off radiation.
+[14:32:28] CCA.C17-QrM.98240: /me sniffles 
+[14:32:30] Alex Palovichov: Well thats....uhh good
+[14:32:30] Jonathan Jackson: // Can do neighborino sure I do love the benefactor shucks am I right or am I right ol buddy of my palo?
+[14:32:32] Alex Palovichov: I mean...bad
+[14:32:35] Alex Palovichov: I mean...
+[14:32:36] Alex Palovichov: Huh
+[14:32:57] Alex Palovichov: /me Continues to pick up even more speed sorting "77...98...115"
+[14:33:40] Alex Palovichov: /me Somehow becomes even faster "120 132 152...Wait what?"
+[14:34:01] Alex Palovichov: /me Would shut the KIBA Arms case
+[14:34:14] Alex Palovichov: There sir! 152? sorted
+[14:34:15] CCA.C17-QrM.98240: /me sees this blunder, shrugging. "Eh, close enough."
+[14:34:35] Jonathan Jackson: // I need to bully q to get back because this is the third day I've had a business without any supplies...
+[14:34:36] CCA.C17-QrM.98240: /me grabs his Stunstick, motioning to the wall. "Mind?"
+[14:34:43] Alex Palovichov: For sure!
+[14:34:49] Alex Palovichov: /me Joyfully skips over to the wall
+[14:35:23] CCA.C17-QrM.98240: /me plants his boot onto the back of the mans foot, forcefully looking over his silhouette for anything of note.
+[14:35:27] CCA.C17-QrM.98240: /charsearch
+[14:35:40] Alex Palovichov: /looc A member of the citizen faction is trying to search you...
+[14:35:53] CCA.C17-QrM.98240: /looc HAHAAHA 
+[14:35:55] CCA.C17-QrM.98240: Hm
+[14:35:59] CCA.C17-QrM.98240: Clean
+[14:36:05] CCA.C17-QrM.98240: Now, lemme just...
+[14:36:27] CCA.C17-QrM.98240: /me kept his boot on the back of the mans foot. Unlatching his PDA and switching it on, he would type upon it.
+[14:36:29] CCA.C17-QrM.98240: /viewdata Alex
+[14:37:29] CCA.C17-QrM.98240: 149 LP 
+[14:37:32] CCA.C17-QrM.98240: Cool
+[14:37:34] CCA.C17-QrM.98240: Well done I guess 
+[14:37:35] Alex Palovichov: Almost there!
+[14:37:39] Alex Palovichov: Any more work?
+[14:37:51] CCA.C17-QrM.98240: /me picked up the KIBA arms case. "You wanna assemble guns for me?"
+[14:38:03] Alex Palovichov: Sure...Work is work!
+[14:38:10] CCA.C17-QrM.98240: I was expecting you to say no 
+[14:38:21] Alex Palovichov: Well...you are offering me to help you....
+[14:38:23] Alex Palovichov: And I will!
+[14:38:31] CCA.C17-QrM.98240: You wanna fix an AR2 I have with a broken energy reactor, fun fact, if you fuck up it'll vaporize you.
+[14:38:43] Alex Palovichov: Well...
+[14:38:46] Denford F. MacMillian: // Today I will sent the Ministry a battery.
+[14:38:51] CCA.C17-QrM.98240: // HHAHAHAHAH 
+[14:38:53] Alex Palovichov: As long as I get vaporized...helping...you....
+[14:38:57] CCA.C17-QrM.98240: // CCA.C17-QrM.98240 says "<:: You wanna fix an AR2 I have with a broken energy reactor, fun fact, if you fuck up it'll vaporize you. ::>"
+[14:39:12] Denford F. MacMillian: // LET ME DO THE WORK!
+[14:39:17] CCA.C17-QrM.98240: I'm joking, no not much work right now other than shit that'll probably kill you.
+[14:39:19] CCA.C17-QrM.98240: Come along 
+[14:39:26] Alex Palovichov: Okay...
+[14:39:34] Denford F. MacMillian: /me Stares at the fence.
+[14:39:46] CCA.C17-QrM.98240: You alright?
+[14:39:49] Alex Palovichov: Nice fence...right?
+[14:39:57] CCA.C17-QrM.98240: I made this fence  
+[14:39:57] Denford F. MacMillian: I am just thinking about some stuff.
+[14:40:02] Denford F. MacMillian: This fence is quite good.
+[14:40:05] Denford F. MacMillian: I like the design of it.
+[14:40:09] CCA.C17-QrM.98240: I'm lying 
+[14:40:12] CCA.C17-QrM.98240: Kiss ass
+[14:40:26] Denford F. MacMillian: // Walked away before I can defend myself.
+[14:40:28] CCA.C17-QrM.98240: // fucked 
+[14:40:28] Denford F. MacMillian: // Actual rat.
+[14:40:32] Alex Palovichov: /ooc fucked
+[14:40:37] Denford F. MacMillian: // Alex.
+[14:40:39] CCA.C17-QrM.98240<STEAM_0:1:17219621> changed their name to CCA.C17-UNION.i2.51514
+[14:40:42] Denford F. MacMillian: // You sir, are a very big kiss ass.
+[14:40:46] CCA.C17-UNION.i2.51514: // true 
+[14:40:49] CCA.C17-UNION.i2.51514: // But Alex is cool 
+[14:40:53] CCA.C17-UNION.i2.51514<STEAM_0:1:17219621> changed their name to CCA.C17-UNION.OfC.56321
+[14:40:55] CCA.C17-UNION.OfC.56321: // Wht up bitches 
+[14:40:58] Alex Palovichov: /ooc yeah but Im better
+[14:41:00] Denford F. MacMillian: // Aw fuck.
+[14:41:06] Alex Palovichov: /y What the fuck?!
+[14:41:07] CCA.C17-UNION.OfC.56321: // Who wants to die?
+[14:41:13] Alex Palovichov: /y What kind of bull shit is this!
+[14:41:14] CCA.C17-UNION.OfC.56321<STEAM_0:1:17219621> changed their name to OTA.C17-KILO.OSS.66124
+[14:41:16] OTA.C17-KILO.OSS.66124: // nah I'm playing 
+[14:41:19] Alex Palovichov: /y Can't people read! NO LITTERING!
+[14:41:23] OTA.C17-KILO.OSS.66124<STEAM_0:1:17219621> changed their name to OTA.C17-ECHO.OWC.59282
+[14:41:30] Jonathan Jackson: // ._.
+[14:41:32] Denford F. MacMillian: // Today I will fight the OTA.
+[14:41:46] OTA.C17-ECHO.OWC.59282: // No you won't 
+[14:41:51] OTA.C17-ECHO.OWC.59282<STEAM_0:1:17219621> changed their name to OTA.S17-ECHO.OWS.10512
+[14:41:53] OTA.S17-ECHO.OWS.10512: // bitchin 
+[14:42:00] OTA.S17-ECHO.OWS.10512<STEAM_0:1:17219621> changed their name to GSGT Mitchell 'Lazzy' Lazarus
+[14:42:01] Denford F. MacMillian: // WHY DO YOU LOOK ORANGE!
+[14:42:06] GSGT Mitchell 'Lazzy' Lazarus: // Ain't got shit 
+[14:42:07] Denford F. MacMillian: /looc We're throwing hands bitch boy.
+[14:42:10] GSGT Mitchell 'Lazzy' Lazarus<STEAM_0:1:17219621> changed their name to CCA.C17-UNION.i2.51514
+[14:42:10] Jonathan Jackson: //  damn he do be bitchn tho
+[14:42:29] CCA.C17-UNION.i2.51514: // That's a coastal Soldier to answer that 
+[14:42:42] Denford F. MacMillian: // They deal with the Ocean?
+[14:42:49] Jonathan Jackson: // fucking ocean
+[14:42:49] CCA.C17-UNION.i2.51514: // They just sit on the beach and vibe 
+[14:43:01] CCA.C17-UNION.i2.51514: // Sometimes if DRD is on Q lets us passive on them 
+[14:43:08] Jonathan Jackson: damn he do be mor bin tho
+[14:43:10] Jonathan Jackson: /looc void
+[14:43:21] CCA.C17-UNION.i2.51514<STEAM_0:1:17219621> changed their name to CCA.C17-QrM.98240
+[14:43:32] Denford F. MacMillian: // So do you play the QRM the most out of the UU factions?
+[14:43:35] CCA.C17-QrM.98240: // yeah 
+[14:43:36] Alex Palovichov: /me Would replace the pin on the paper
+[14:43:43] Alex Palovichov: /looc Alex jumpscare
+[14:43:48] Jonathan Jackson: // there needs to be more than one fucking administrator so I can get supplies
+[14:43:50] Denford F. MacMillian: I'm a fence expert.
+[14:43:52] Jonathan Jackson: AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+[14:43:55] Jonathan Jackson: /looc void
+[14:43:56] Denford F. MacMillian: I am not Alex, I don't kiss ass.
+[14:44:03] Alex Palovichov: /ooc Well...
+[14:44:06] Jonathan Jackson: // jumpscare
+[14:44:09] Alex Palovichov: /ooc when I reach 200LP...
+[14:44:17] CCA.C17-QrM.98240: And I'm an expert on doing a half assed job, now scram unless you've something to ask me.
+[14:44:28] Denford F. MacMillian: What's the meaning of life?
+[14:44:33] Jonathan Jackson: // Wheres Margret Thatcher when you need her
+[14:44:35] Denford F. MacMillian: /me Would stand at attention and saluted their higher up with respect (Even though he didn't want too).
+[14:44:38] Denford F. MacMillian: /looc void that.
+[14:44:38] Denford F. MacMillian: /looc void that.
+[14:44:39] Denford F. MacMillian: /looc void that.
+[14:44:40] CCA.C17-QrM.98240: /looc HAHAHAHAHAHAHAHAHA 
+[14:44:41] Alex Palovichov: *grumbles*   bullshit
+[14:45:02] CCA.C17-QrM.98240: /me sniffles. "The meaning of life is to be better than rebels."
+[14:45:03] Alex Palovichov: You guys seen which crackhead decided to place their fucking living room on the sidewalk?
+[14:45:09] CCA.C17-QrM.98240: What?
+[14:45:19] Alex Palovichov: Yeah! Fuck ton of furniture!
+[14:45:23] CCA.C17-QrM.98240: Lemme see 
+[14:45:25] Alex Palovichov: Just lying on the damn sidewalk!
+[14:45:28] CCA.C17-QrM.98240: // TP AUGHGHG
+[14:45:39] Denford F. MacMillian: // Gonna get off for a bit, cya nerds
+[14:45:42] CCA.C17-QrM.98240: // aight 
+[14:45:43] Dropped "Denford F. MacMillian" from server<STEAM_0:0:170921441>
+[14:45:58] Alex Palovichov: Look!
+[14:46:04] Jonathan Jackson: // 
+[14:46:04] CCA.C17-QrM.98240: Ah
+[14:46:17] Alex Palovichov: Fuckin' bed, chair, lamp, computer tower...
+[14:46:22] Jonathan Jackson: // The consul must reply to this message
+[14:46:30] CCA.C17-QrM.98240: Eh, just take it if you want 
+[14:46:35] Alex Palovichov: Take it where?!
+[14:47:23] Jonathan Jackson: // why is there an invisible tube in the lobby
+[14:47:32] CCA.C17-QrM.98240: // good question 
+[14:47:50] CCA.C17-QrM.98240: You
+[14:47:50] Alex Palovichov: Shit! I forgot my detergent!
+[14:47:57] Jonathan Jackson: What?
+[14:47:59] CCA.C17-QrM.98240: /me holds out a filter to the man 
+[14:48:05] CCA.C17-QrM.98240: Have a good day 
+[14:48:14] Alex Palovichov: /ooc Why is no shop open...
+[14:48:20] Alex Palovichov: /ooc this is so sad..
+[14:48:25] Alex Palovichov: /ooc I need new drip
+[14:48:34] CCA.C17-QrM.98240: // I'm gonna start handing out filters like I used to do a month ago again 
+[14:48:38] Jonathan Jackson: // because Q never give me supplies
+[14:48:44] Alex Palovichov: /ooc idc bout food
+[14:48:49] Alex Palovichov: /ooc I legit have a stockpile of it
+[14:48:57] Jonathan Jackson: // you don't have rad ass music
+[14:49:02] Alex Palovichov: /ooc I have my brain
+[14:49:26] Jonathan Jackson: // loser alex doesn't support the economy
+[14:49:37] Alex Palovichov: /ooc hell nah, I AM my own economy
+[14:49:45] Jonathan Jackson: // afk for a while
+[14:49:47] CCA.C17-QrM.98240: // Why can't Alex be a cool rebel 
+[14:49:53] Jonathan Jackson: // ^^^^
+[14:50:16] Alex Palovichov: /ooc cause i'd need to lose my perks...
+[14:50:30] CCA.C17-QrM.98240: // I remember that one time I tried to convert 98240 into a rogue due to how much shit he's seen and put up with 
+[14:50:51] Alex Palovichov: /ooc Who knows though, maybe one thing could tip Alex over the edge
+[14:51:07] Alex Palovichov: excuse me
+[14:51:09] CCA.C17-QrM.98240: // Ethan and Alexs gay relationship fr fr 
+[14:51:10] CCA.C17-QrM.98240: Yes?
+[14:51:20] Alex Palovichov: I was told I would've gotten my code page back...
+[14:51:23] Alex Palovichov: A week ago...
+[14:51:29] CCA.C17-QrM.98240: Code page?
+[14:51:39] Alex Palovichov: Yeah...My paper with all my codes for my storage
+[14:51:48] CCA.C17-QrM.98240: /me shrugs. "Never seen it."
+[14:51:50] Alex Palovichov: It was taken and I was TOLD it would've been given it back
+[14:51:56] CCA.C17-QrM.98240: Who took it?
+[14:51:57] Alex Palovichov: I guess it was in a evidence locker?
+[14:52:04] Alex Palovichov: Some Judge I think...
+[14:52:13] Alex Palovichov: For evidence...for something?
+[14:52:14] CCA.C17-QrM.98240: We have a JUDGE?
+[14:52:19] CCA.C17-QrM.98240: Neat
+[14:52:23] Alex Palovichov: I guess I don't know...
+[14:52:27] Alex Palovichov: They took it off of me...
+[14:52:28] CCA.C17-QrM.98240: I'll go take a look, one sec 
+[14:53:04] CCA.C17-QrM.98240: // BRUH 
+[14:53:11] CCA.C17-QrM.98240: // THERE'S JUST A FRAG GRENADE IN ONE OF THESE LOCKEWRS 
+[14:53:16] Alex Palovichov: /ooc Boom
+[14:53:23] CCA.C17-QrM.98240: // ENTIRELY UNLOCKED CABINET WITH A GRENADE 
+[14:53:42] Alex Palovichov: Did you find it?
+[14:53:47] CCA.C17-QrM.98240: /me shrugged. "Nope, nothing."
+[14:54:11] Alex Palovichov: /me Grunts "Damn, Another day without it won't hurt...I guess..."
+[14:54:19] CCA.C17-QrM.98240: Affirmative 
+[14:54:39] CCA.C17-QrM.98240: I'll be off duty for a bit, ask a unit for yours truly if you need me 
+[14:54:52] CCA.C17-QrM.98240: // I go 
+[14:54:56] Dropped "CCA.C17-QrM.98240" from server<STEAM_0:1:17219621>
+[14:58:03] Alex Palovichov: /ooc I go
+[14:58:05] Dropped "Alex Palovichov" from server<STEAM_0:1:591779303>
+[16:37:29] Client "Nums" connected.
+[16:40:11] Client "Nums" spawned in server <STEAM_0:1:196547442> (took 162 seconds).
+[16:44:36] Nums<STEAM_0:1:196547442> changed their name to Finan O'Conall
+[16:48:28] Finan O'Conall: // anyone around
+[16:50:34] Dropped "Finan O'Conall" from server<STEAM_0:1:196547442>
+[17:56:42] Dropped "Jonathan Jackson" from server<STEAM_0:0:68118061>
+[18:08:54] Client "silly" connected.
+[18:21:05] Client "silly" spawned in server <STEAM_0:0:486808394> (took 731 seconds).
+[18:26:31] silly<STEAM_0:0:486808394> changed their name to Joe Chill
+[18:30:35] Dropped "Joe Chill" from server<STEAM_0:0:486808394>
+[18:47:45] Client "Tempelers" connected.
+[21:47:38] Dropped "CCA.C17-GRID.i3.10945" from server<STEAM_0:1:53097688>
+[21:49:25] Client "matt saton" connected.
+[21:52:19] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 174 seconds).
+[22:39:36] matt saton<STEAM_0:1:53097688> changed their name to Andrew Cloverman
+[22:40:47] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models\props/cs_office/shelves_metal.mdl
+[22:40:48] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models\props/cs_office/shelves_metal1.mdl
+[22:41:11] Client "Painevan" connected.
+[22:41:14] Andrew Cloverman: /chargiveitem andrew "industrial shirt"
+[22:41:17] Andrew Cloverman: /chargiveitem andrew "gray jeans"
+[22:41:54] Andrew Cloverman: /chargiveitem andrew "green beanie"
+[22:44:03] Client "Painevan" spawned in server <STEAM_0:0:68118061> (took 172 seconds).
+[22:45:01] Painevan<STEAM_0:0:68118061> changed their name to Jonathan Jackson
+[22:46:19] Andrew Cloverman: //sup
+[22:46:25] Jonathan Jackson: // ello
+[22:47:24] Jonathan Jackson: Ah hello there
+[22:47:38] Andrew Cloverman: Hi, how can I help you?
+[22:48:08] Jonathan Jackson: I'm here about getting supplies and basic furnishings for my business, the Grizzly Grotto.
+[22:48:26] Andrew Cloverman: Oh, great, you're talking to the right guy
+[22:48:26] Jonathan Jackson: I tried coming earlier, but it doesn't seem someone was available.
+[22:48:35] Jonathan Jackson: Hopefully so.
+[22:48:44] Andrew Cloverman: My name is Andrew, I'm sure I'll be seeing you more frequently. I'm with the Logistics corps, we handle this sort of requets.
+[22:48:56] Andrew Cloverman: We're pretty small given the small CWU presence in the city, but we're necessary.
+[22:49:12] Andrew Cloverman: That said, Grizzly Grotto. Let me get some paper and I can get writing an order for you
+[22:49:19] Jonathan Jackson: Alright perfect.
+[22:49:42] Andrew Cloverman: /chargiveitem andrew notepad
+[22:50:05] Andrew Cloverman: alright, so, I know that location is a bar.
+[22:50:09] Andrew Cloverman: So you'll need alcohol, clearly.
+[22:50:34] Andrew Cloverman: Beer, various hard liquors. Whiskey, vodka, rum, tequila, all that.
+[22:51:14] Jonathan Jackson: Yes that is correct, but we also have it oufitted for dining as well, nothing too fancy. Our menu consists mainly of Burgers, Fish, Pizza, and some deserts.
+[22:51:27] Andrew Cloverman: Gotcha, simple stuff.
+[22:51:46] Andrew Cloverman: Just real quick, what were you thinking about, quote unquote "nicer" forms of alcohol?
+[22:51:52] Andrew Cloverman: Specifically wine and absinthe.
+[22:51:57] Andrew Cloverman: Either of those speaking to you:
+[22:52:00] Andrew Cloverman: .//you?*
+[22:52:18] Jonathan Jackson: That would be great considering the location, smaller stuff for those just having dinner is great too.
+[22:52:40] Andrew Cloverman: alright..
+[22:53:18] Jonathan Jackson: Moving onto the furnishings though....
+[22:53:32] Jonathan Jackson: /me looks at a small list compiled on a notepad in his hands.
+[22:54:05] Andrew Cloverman: Oh, if you just hand me that list, I can give it ar ead
+[22:54:14] Jonathan Jackson: First off we'll need some fridges for storing food, that should be fairly obvious, the metal ones in the back don't seem to work.
+[22:54:34] Jonathan Jackson: I don't know if you could read my handwriting.
+[22:55:01] Jonathan Jackson: /looc It is in just listed in a discord channel I have
+[22:55:24] Andrew Cloverman: .//ah dope
+[22:55:46] Jonathan Jackson: But anyways, secondly we'll need maybe two metal cabinets for storing some tools, cutlery etc.
+[22:56:13] Jonathan Jackson: /me looks to the wall.
+[22:56:41] Jonathan Jackson: We'll also need some of those air filters placed in the building, so that way our customers can take off their masks to eat.
+[22:56:42] Andrew Cloverman: /me would write on a notepad with a pencil as he listens to the man.
+[22:57:23] Jonathan Jackson: And lastly in terms of furnishings, we just need the password for the lock on the cash register.
+[22:58:00] Jonathan Jackson: Besides that all I think we need is a steady supply of regular drinks as well, like water or juice.
+[22:58:21] Andrew Cloverman: Juice as in fruit juice?
+[22:58:29] Andrew Cloverman: That would also be needed for cocktails and mocktails
+[22:58:34] Jonathan Jackson: Yeah.
+[22:58:49] Jonathan Jackson: /me scans over the list again.
+[22:58:56] Jonathan Jackson: Other than that...
+[22:59:02] Jonathan Jackson: I think that's about it.
+[22:59:20] Andrew Cloverman: Awesome.. so, burgers I've got, and their ingredients..
+[22:59:51] Jonathan Jackson: Mhm, do you want me to give you the full menu?
+[23:00:34] Andrew Cloverman: Please, that would be helpful.
+[23:02:10] Jonathan Jackson: Sure, Burgers, Grilled Tuna, Grilled Salmon,  BBQ Ribs, Pizza Pie, Pizza Slice, Steak, Apple and Pumpkin Pie, Frosted Doughnuts, and a PB & N Sandwich
+[23:02:23] Jonathan Jackson: I'll be honest I don't know what the N is.
+[23:02:36] Jonathan Jackson: It's probably just miswritten for Jelly.
+[23:03:48] Andrew Cloverman: Alright..
+[23:04:00] Andrew Cloverman: Let me get some things written down here give me a second.
+[23:04:06] Jonathan Jackson: Of course.
+[23:04:07] Andrew Cloverman: /me would quickly make notes on his notepad.
+[23:05:57] Andrew Cloverman: Are french fries in mind for you?
+[23:06:03] Andrew Cloverman: If you want to do doughnuts, you'll need a deep frier anyways.
+[23:06:13] Jonathan Jackson: That would definitely work for us.
+[23:06:51] Andrew Cloverman: Alright, one second..
+[23:06:58] Jonathan Jackson: Mhm
+[23:07:28] Andrew Cloverman: So, for beer, you would likely be using a keg, so you would need CO2 containers.
+[23:07:37] Andrew Cloverman: Or if you don't care for that, we could just ship in beer bottles exclusively.
+[23:07:40] Andrew Cloverman: Either way works for us
+[23:07:58] Jonathan Jackson: Bottles would probably be easier for now.
+[23:08:20] Andrew Cloverman: Alright..
+[23:09:46] Andrew Cloverman: Alright, have a look at this. Tell me if I'm missing anything.
+[23:09:49] Andrew Cloverman: Oh, actually, hold on
+[23:10:36] Jonathan Jackson: Alright
+[23:11:12] Andrew Cloverman: Alright
+[23:11:26] Jonathan Jackson: /me looks over the notepad
+[23:11:27] Andrew Cloverman: /me places a notepad on the counter.
+[23:11:32] Andrew Cloverman: Have a look at this, tell me if I'm missing anythig
+[23:12:01] Andrew Cloverman: Some things I put on there myself because I figured you owuld need them. Hotel pans are needed for any place that makes food, same goes for those chemicals and that cookeware
+[23:12:05] Andrew Cloverman: .//hotel pans are those things 
+[23:12:13] Andrew Cloverman: .//let me DM you some pictures, idk if you've ever worked in a restaurant
+[23:12:42] Jonathan Jackson: That all looks good, kinda forgot I had to mention them.
+[23:13:00] Andrew Cloverman: No worries, I figured they were a given.
+[23:13:53] Jonathan Jackson: /looc I'm guessing most of the items on the menu aren't actual food things in the server, right?
+[23:14:30] Andrew Cloverman: .//not at the moment but adding them in wouldn't be too much of ap ain
+[23:14:47] Andrew Cloverman: .//i mean ti would take al ittle time but it wouldn't be terrible 
+[23:14:59] Jonathan Jackson: /looc Alright, then I'll just need standard UU stuff for now to fill hunger bars
+[23:15:10] Andrew Cloverman: .//right, that's why i would want to add items for them anyways
+[23:15:14] Andrew Cloverman: .//"Here's some peanuts, pretend it's a burger"
+[23:15:21] Jonathan Jackson: You mind putting some UU supplies in for ingredients? Incase of the occasional special.
+[23:15:27] Andrew Cloverman: Yeah, for sure.
+[23:16:07] Andrew Cloverman: Alright, that'll do it, then?
+[23:16:29] Jonathan Jackson: Pretty much, should we expect to have to transport this stuff ourselves or will logistics take care of it?
+[23:17:25] Andrew Cloverman: No, logistics will take care of that part.
+[23:17:32] Andrew Cloverman: Specifically me.
+[23:17:38] Andrew Cloverman: Oh, and as far as other furniture goes.
+[23:17:57] Andrew Cloverman: Things like chairs or extra sofas, or extra tables, plants, paintings, anything like that
+[23:18:01] Andrew Cloverman: Do you want any of those?
+[23:18:41] Jonathan Jackson: Maybe, plants or paintings in the area but I think other than that it is as furnished as it needs to be.
+[23:19:20] Andrew Cloverman: Alright. I can give you a catalogue if you want things to look through.
+[23:20:00] Jonathan Jackson: Sure thing, but I don't need to add much
+[23:21:06] Andrew Cloverman: Alright, give me a second. It's good to have in case you change your mind.
+[23:21:13] Jonathan Jackson: Sounds good.
+[23:21:42] Client "Bean" connected.
+[23:22:30] Andrew Cloverman: Alright..
+[23:22:44] Andrew Cloverman: /me comes out holding a thick catalogue. He places it on the counter and slides it forward.
+[23:22:45] Client "Bean" spawned in server <STEAM_0:1:591779303> (took 63 seconds).
+[23:23:23] Bean<STEAM_0:1:591779303> changed their name to James McKay
+[23:23:31] Jonathan Jackson: /me takes the thick catalogue, then places his suitcase on the counter, opening it before shutting it again after placing the catalogue inside.
+[23:23:48] James McKay: /ooc Good evening my friends, I have arrived
+[23:23:59] Jonathan Jackson: // good evening, and certainly an evening it is
+[23:24:07] James McKay: /ooc Is Q alive?
+[23:24:08] Jonathan Jackson: Alright, I think that's about all I need.
+[23:24:08] Andrew Cloverman: //howdy
+[23:24:10] Jonathan Jackson: // Yes
+[23:24:12] Andrew Cloverman: //on the outside i am
+[23:24:13] James McKay: /ooc OH MY LORD
+[23:24:39] Andrew Cloverman: Awesome, thanks for stopping by. My name is Andrew Cloverman, don't hestitate to look for me.
+[23:24:41] James McKay to admins: had a question bout clothing and shit...
+[23:24:53] Andrew Cloverman: /pm mckay what's up
+[23:25:09] Jonathan Jackson: Ah, good to know, name is Jonathan Jackson as well by the way.
+[23:25:13] James McKay: /reply I was just wondering on if there was any form of clothing with a trench coat of sort
+[23:25:25] James McKay: /reply Or like a overcoat
+[23:25:29] Jonathan Jackson: Thank you again.
+[23:25:38] Jonathan Jackson: /me waves to the man before making his exit.
+[23:25:49] James McKay: /reply Cause I was planning on doing some crafting RP and I just wanted to ask about that sorta clothing item
+[23:26:13] Andrew Cloverman: /pm james not on the current models, but if you know pac3 you might be able to make what you like. we have coats and then combination jacket-sweaters
+[23:26:33] Jonathan Jackson: /pm Clover Let me know if you need anything while doing whatever with the Grotto
+[23:26:49] James McKay: /reply Ah alright, do you have any form of like...run down sorta clothing? cause I was trying to go for the sorta run down, dealer sorta look
+[23:27:07] Andrew Cloverman: /pm james check out the extended citizens addon in your adons list
+[23:27:22] Andrew Cloverman: /pm james and then right click on any of the models and hit "Edit Icon" and you can look at all the bodygroups
+[23:27:32] Andrew Cloverman: /pm james i want to make our own citizen models at some point but we are not there yet
+[23:28:12] Jonathan Jackson: // Q I demand for my HELIX to return.
+[23:28:42] Andrew Cloverman: /plywhitelist jonathan cca
+[23:28:43] Andrew Cloverman: /plywhitelist jonathan mpf
+[23:28:49] Andrew Cloverman: /plywhitelist jonathan authority
+[23:28:51] James McKay: /reply Is there any form of gas mask? Cause idfk pac3 to shit
+[23:28:54] Jonathan Jackson: // WOO
+[23:28:54] Andrew Cloverman: //i always forget you hda a whitelist before
+[23:29:25] Jonathan Jackson: // I had a whitelist for even OTA too but I won't put pressure on that.
+[23:29:31] Andrew Cloverman: /pm james not available in the current model pack, sadly. we have the respirator as an item and we have a model for a gas mask
+[23:29:38] Andrew Cloverman: /plywhitelist jonathan "overwatch transhuman arm"
+[23:29:55] Jonathan Jackson: // Woo all that is left is bird
+[23:29:56] James McKay: /reply Ah alrighty then...Now I just need to find the impossible to find sewing kit to do some crafting RP
+[23:30:38] Andrew Cloverman: /plywhitelist jon bird
+[23:31:03] Jonathan Jackson to admins: I need the password for the cash register btw too, I mentioned it before. You can just set a new lock on it if you don't remember and just message me the password.
+[23:31:12] Andrew Cloverman: /pm jon yeah i ahve no fucking clue
+[23:31:26] Andrew Cloverman: /chargiveitem adnrew "padlock"
+[23:31:33] Andrew Cloverman: /chargiveitem andrew "padlock"
+[23:31:40] Jonathan Jackson: /pm Clover I doubted you did, just set a new one then and pretend you gave me the password, idk leave it on a paper in the back.
+[23:31:53] James McKay: /ooc There is a pully meant for...
+[23:31:59] Andrew Cloverman: /pm jon 413938
+[23:32:10] Jonathan Jackson: /pm clover That works too
+[23:32:16] Andrew Cloverman: //oh the other part is gone
+[23:32:26] Jonathan Jackson: // what pully
+[23:32:35] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/hunter/plates/plate05x05.mdl
+[23:32:57] James McKay: /ooc Time to be the first "doctor" in the city
+[23:32:59] Andrew Cloverman: /textremove 50
+[23:33:18] Jonathan Jackson: // That would actually be nice
+[23:33:29] Andrew Cloverman: /textadd "A large pulley, meant for" 0.75
+[23:33:30] James McKay: /ooc Oh no no no...Not for you topside folk...
+[23:33:35] James McKay: /ooc You have alex for that
+[23:33:39] Andrew Cloverman: /textadd "large cargo." 0.75
+[23:34:00] Jonathan Jackson: // Alex isn't a doctor he's a psychotic loser of a loyalist
+[23:34:07] James McKay: /ooc Yet...he is 
+[23:34:10] Jonathan Jackson: // He works in ICT not CMU
+[23:34:18] James McKay: /ooc He has medical knowledge
+[23:34:23] James McKay: /ooc And also access to biogel
+[23:34:25] Andrew Cloverman: //anyways bean i fixed it jsut now
+[23:34:30] Andrew Cloverman: //it says "a large pulley, meant for large cargo"
+[23:34:33] Jonathan Jackson: // But he doesn't provide public health care does he?
+[23:34:34] James McKay: /ooc Alrighty
+[23:34:39] Jonathan Jackson: // He is a fake and a fraud
+[23:34:40] James McKay: /ooc Public??? HELL NO
+[23:35:03] James McKay: /ooc Though you get on his good side, He'll heal anyone for free
+[23:35:07] Jonathan Jackson: // We need a CMU actually :'(
+[23:35:22] Jonathan Jackson: // Make everyones lives so much better
+[23:35:53] Jonathan Jackson: // GIve us a reason to like Alex and maybe people will
+[23:36:10] Andrew Cloverman: //we do have a CMUbutr
+[23:36:12] Andrew Cloverman: //they don't get on
+[23:36:15] Andrew Cloverman: //it's peppermint IIRC
+[23:36:16] James McKay: /ooc Just cause he is a racistish snitch, doesn't mean he is unlikeable
+[23:36:57] Jonathan Jackson: // He is pretty unlikeable when he demands people stay put in an active shooter situation after he murders a CP infront of us
+[23:37:13] James McKay: /ooc I didn't murder a CP...
+[23:37:29] Jonathan Jackson: // I meant the other guy
+[23:37:37] James McKay: /ooc AND i was helping yall, cause if a OTA sees you run out of a building someone got shot in, you'd probably be shot
+[23:37:39] Andrew Cloverman: //peppermint?
+[23:38:00] Jonathan Jackson: // I want CMU ;(
+[23:38:10] James McKay: /ooc Well you find me...I kinda am
+[23:38:23] James McKay: /ooc Im down to do some back alley treatments...
+[23:38:39] Jonathan Jackson: // If you give a reason for people to like you
+[23:38:48] James McKay: /ooc Who wouldn't like James?
+[23:38:58] Jonathan Jackson: // I was talking about Alex
+[23:39:04] James McKay: /ooc If I got ethan king to like me, I have already won
+[23:39:14] James McKay: /ooc Yeah and I'm talkin' bout james, He's practically a CMU
+[23:39:28] Jonathan Jackson: // Sounds like he sells snake oil
+[23:39:40] James McKay: /ooc Nope, He just steals from the combine, and gives to the people
+[23:39:46] James McKay: /ooc Ever heard of Dr Livesey?
+[23:40:02] Andrew Cloverman: //chad treasure island charater
+[23:40:10] James McKay: /ooc EXACTLY, he has that sorta vibe
+[23:40:27] Jonathan Jackson: // I still have my doubts
+[23:40:28] James McKay: Sheesh...
+[23:40:34] James McKay: Shit hole still a crackden!
+[23:41:36] James McKay: Right...
+[23:42:26] James McKay: /w Grizzly Groto?
+[23:42:51] James McKay: Mmm...Pizza...
+[23:43:07] Andrew Cloverman<STEAM_0:1:53097688> changed their name to CCA.C17-GRID.i3.10945
+[23:43:18] CCA.C17-GRID.i3.10945: /CHARSETTHIRST GRID 100
+[23:43:24] CCA.C17-GRID.i3.10945: /CHARSEThunger GRID 100
+[23:43:43] CCA.C17-GRID.i3.10945: /chargiveitem grid otepad
+[23:43:50] James McKay: Gah...I need a sewing kit...
+[23:44:11] James McKay: /ooc ALMOST THERE...Now I just need a sewing kit...
+[23:46:18] James McKay: /ooc how tf did I find 2 sewing kits before..
+[23:46:32] Jonathan Jackson: // I could only wish I had that sort of stuff
+[23:46:34] CCA.C17-GRID.i3.10945: //i am hungrf
+[23:46:44] Jonathan Jackson: // just eat smh smh
+[23:46:57] James McKay: /y Hey
+[23:47:11] CCA.C17-GRID.i3.10945: //time to make some midnight mac and cheese
+[23:47:21] James McKay: Hello friend!
+[23:47:25] Jonathan Jackson: Uhh
+[23:47:27] James McKay: You going into the shell beach?!
+[23:47:31] Jonathan Jackson: No.
+[23:47:33] James McKay: Hah! You find nothing!
+[23:47:51] James McKay: Ah...Don't lie...I know things! Haha! You ain't finding anything out there!
+[23:47:57] CCA.C17-GRID.i3.10945: //i need to put down some more loot caches
+[23:48:12] Jonathan Jackson: I was looking.
+[23:48:14] James McKay: /me Chuckles "Sorry to be sooo hard on you! Hah! Just letting you know not to expect much!"
+[23:48:27] Jonathan Jackson: Mhm...
+[23:48:31] James McKay: You want stuff! You find it down here!
+[23:48:44] Jonathan Jackson: All I look for is tokens to get by.
+[23:48:47] James McKay: /me Chuckles "I am "The Doctor" You are?
+[23:49:08] James McKay: No pressure! Hah! I no need to know your name!
+[23:49:13] Jonathan Jackson: Me? I wear the suit to keep anonymous my guy.
+[23:49:42] Jonathan Jackson: Good to meet you though, "Doctor"
+[23:49:45] James McKay: Anonymous! Haha! I like it! Never be to careful eh! Hahaha! Tell me pal, What were you planning to find?!
+[23:50:00] Jonathan Jackson: /me starts to question in his head this mans sanity.
+[23:50:10] James McKay: You're looking at me like I'm crazy!
+[23:50:29] Jonathan Jackson: /me stutters before saying, "No, nothing like that."
+[23:50:32] James McKay: My friend, you obviously haven't seen me before! Come! Come! Don't keep the door open! The bugs will get in!
+[23:50:45] Jonathan Jackson: You are blocking the way
+[23:51:05] James McKay: Question my friend...
+[23:51:10] James McKay: How it look up top?
+[23:51:21] Jonathan Jackson: Up top? You mean the City?
+[23:51:26] James McKay: Yes! The shithole!
+[23:51:38] Jonathan Jackson: That's one choice word for it.
+[23:51:50] James McKay: /me Chuckles "What else would you call it!"
+[23:51:52] Jonathan Jackson: /me ponders for a small amount of time.
+[23:52:08] Jonathan Jackson: It doesn't look bad all things considered, the smell is better than down here.
+[23:52:22] Jonathan Jackson: I mean, it's mostly normal.
+[23:52:26] James McKay: /me Chuckles "Anything is better smelling than down here!"
+[23:52:39] James McKay: Now come! I show you good place to find good parts!
+[23:52:41] Jonathan Jackson: B
+[23:52:47] Jonathan Jackson: Uh, alright.
+[23:52:57] Jonathan Jackson: I'm in no need currently for parts.
+[23:53:03] James McKay: You sell?
+[23:53:07] James McKay: People look for parts!
+[23:53:09] Jonathan Jackson: I just look for tokens
+[23:53:24] James McKay: /me Chuckles "Tokens?! Down here! Hahaha!
+[23:53:30] James McKay: No chance!
+[23:53:40] James McKay: At most off those zombies!
+[23:53:43] Jonathan Jackson: Some of those, uhh, zombies have tokens on them.
+[23:53:49] James McKay: Uh huh!
+[23:53:57] James McKay: The orange guy buys parts!
+[23:54:03] James McKay: Not from me though...
+[23:54:06] Jonathan Jackson: Who?
+[23:54:11] CCA.C17-GRID.i3.10945: //i'm here if you need GMing
+[23:54:12] James McKay: The orange suit guy!
+[23:54:15] James McKay: Uhhh...
+[23:54:18] James McKay: Alex!
+[23:54:25] Jonathan Jackson: The loyalist?
+[23:54:29] James McKay: Yes! Yes!
+[23:54:36] James McKay: He buy parts off of citizens!
+[23:54:45] James McKay: Though stay clear of me!
+[23:54:45] Jonathan Jackson: Why?
+[23:54:56] James McKay: Oh, I heard his place got raided!
+[23:55:14] James McKay: He now need more parts since his last ones were taken!
+[23:55:23] Jonathan Jackson: Taken?
+[23:55:34] James McKay: Yes! From what I been told! His office was raided!
+[23:55:45] Jonathan Jackson: Why does he even need parts, he can just get some people in ICT to do it or do a work cycle.
+[23:56:02] James McKay: /me Chuckles "Like he has anyone in the ICT!"
+[23:56:11] Jonathan Jackson: That's uhh, a fair point.
+[23:56:13] James McKay: Work Cycle? No chance!
+[23:56:19] James McKay: He cannot call those!
+[23:56:27] Jonathan Jackson: I'm sure he can ask.
+[23:56:34] Jonathan Jackson: He's gotten one of those done before.
+[23:56:48] James McKay: Oh really? Sounds like something lucky for him!
+[23:57:02] James McKay: Damn! No sewing kit anywhere!
+[23:57:12] James McKay: Anyway...
+[23:57:14] Jonathan Jackson: In need of one?
+[23:57:15] James McKay: This place...
+[23:57:17] James McKay: Yes!
+[23:57:19] James McKay: Very...
+[23:57:29] James McKay: This place is sometimes restocked by the CPs...or ICT....
+[23:57:33] Jonathan Jackson: I've been here.
+[23:57:41] James McKay: Most people have!
+[23:57:52] James McKay: You find good stuff here...
+[23:57:58] James McKay: When its been restocked!
+[23:58:16] James McKay: Anyway...You no by chance have a...Sewing kit?
+[23:58:25] Jonathan Jackson: Not one on me, sorry.
+[23:58:41] James McKay: /me Shrugs "Well damn! Hah! I guess I keep looking!"
+[23:58:51] James McKay: Anyway I get out of your way now! 
+[23:58:55] James McKay: You stay safe!
+[23:58:56] Jonathan Jackson:  Mhm
+[23:58:58] James McKay: And remember...
+[23:59:05] James McKay: You get hurt...You know where to find me!
+[23:59:26] Jonathan Jackson: Uh huh, I'll keep that in mind
+[23:59:37] James McKay to admins: could I get a russian language flag since my character is...very russian
+[23:59:42] CCA.C17-GRID.i3.10945: /chargiveflag james R
+[23:59:45] CCA.C17-GRID.i3.10945: /pm james done
+[23:59:48] James McKay: /reply thx
+[23:59:53] Jonathan Jackson: /me shakes his head slightly, "But I mostly try and keep myself in the lines of the law."
+<Logging continued in "data/ulx_logs/08-26-22.txt">

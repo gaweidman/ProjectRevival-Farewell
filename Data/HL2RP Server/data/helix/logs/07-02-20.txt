@@ -1,0 +1,436 @@
+[00:42:35]	matt saton has connected.
+[00:43:43]	matt saton loaded the character 'CCA.C14-GRID.i3.69192'
+[00:44:28]	CCA.C14-GRID.i3.69192 used command '/ChangeSocioStatus green'.
+[00:44:29]	CCA.C14-GRID.i3.69192 entered observer.
+[00:44:31]	CCA.C14-GRID.i3.69192 exited observer at their location.
+[00:44:36]	CCA.C14-GRID.i3.69192 used command '/ViewData grid'.
+[00:47:11]	matt saton (STEAM_0:1:53097688) has disconnected.
+[00:53:08]	matt saton has connected.
+[00:54:00]	matt saton loaded the character 'Joseph Kimsler'
+[00:54:02]	Joseph Kimsler entered observer.
+[00:58:23]	Joseph Kimsler exited observer at their location.
+[12:47:23]	matt saton has connected.
+[12:57:19]	matt saton loaded the character 'Rodriguo Ouh'
+[12:57:22]	Rodriguo Ouh has taken 48 damage from worldspawn.
+[12:57:22]	worldspawn has killed Rodriguo Ouh.
+[12:58:21]	Rodriguo Ouh entered observer.
+[13:00:37]	matt saton (STEAM_0:1:53097688) has disconnected.
+[13:07:52]	matt saton has connected.
+[13:09:40]	matt saton loaded the character 'Rodriguo Ouh'
+[13:09:58]	Rodriguo Ouh entered observer.
+[13:10:00]	Rodriguo Ouh has spawned a 'Entity [2488][ix_station_poweroutlet]'.
+[13:10:01]	Rodriguo Ouh exited observer at their location.
+[13:10:10]	Rodriguo Ouh entered observer.
+[13:10:18]	Rodriguo Ouh has spawned a 'Entity [2488][ix_testent3]'.
+[13:10:20]	Rodriguo Ouh exited observer at their location.
+[13:10:23]	Rodriguo Ouh has spawned a 'Entity [2488][xen_spore_medium]'.
+[13:10:27]	Rodriguo Ouh entered observer.
+[13:10:43]	Rodriguo Ouh exited observer at their location.
+[13:11:03]	Rodriguo Ouh has spawned 'models/weapons/half-life/p_snark.mdl'.
+[13:11:04]	Rodriguo Ouh entered observer.
+[13:11:14]	Rodriguo Ouh has spawned 'models/weapons/half-life/w_sqknest.mdl'.
+[13:15:51]	Rodriguo Ouh exited observer at their location.
+[13:20:34]	Rodriguo Ouh entered observer.
+[13:22:08]	Rodriguo Ouh exited observer at their location.
+[13:23:01]	Rodriguo Ouh has gained a 'Gunpowder' #18642.
+[13:23:01]	Rodriguo Ouh used command '/CharGiveItem ouh gunpowder'.
+[13:23:07]	Rodriguo Ouh entered observer.
+[13:23:11]	Rodriguo Ouh exited observer at their location.
+[13:23:15]	Rodriguo Ouh entered observer.
+[13:29:49]	Rodriguo Ouh used command '/adminspawnmenu'.
+[13:29:52]	Rodriguo Ouh has spawned "SMG Bullets"
+[13:29:54]	Rodriguo Ouh exited observer at their location.
+[13:29:56]	Rodriguo Ouh ran 'take' on item 'SMG Bullets' (#18643)
+[13:29:56]	Rodriguo Ouh has gained a 'SMG Bullets' #18643.
+[13:30:04]	Rodriguo Ouh entered observer.
+[13:30:05]	Rodriguo Ouh exited observer at their location.
+[13:30:06]	Rodriguo Ouh entered observer.
+[13:30:11]	Rodriguo Ouh exited observer at their location.
+[13:30:30]	Rodriguo Ouh has spawned 'models/Items/357ammo.mdl'.
+[13:30:32]	Rodriguo Ouh has spawned 'models/Items/357ammobox.mdl'.
+[13:30:33]	Rodriguo Ouh has spawned 'models/Items/357ammo.mdl'.
+[13:30:35]	Rodriguo Ouh has spawned 'models/Items/357ammobox.mdl'.
+[13:30:36]	Rodriguo Ouh entered observer.
+[13:30:38]	Rodriguo Ouh exited observer at their location.
+[13:30:39]	Rodriguo Ouh entered observer.
+[13:30:39]	Rodriguo Ouh exited observer at their location.
+[13:32:24]	Rodriguo Ouh has spawned 'models/Items/BoxFlares.mdl'.
+[13:32:31]	Rodriguo Ouh has spawned 'models/Items/Flare.mdl'.
+[13:32:34]	Rodriguo Ouh has spawned 'models/Items/BoxBuckshot.mdl'.
+[13:32:36]	Rodriguo Ouh has spawned 'models/Items/Flare.mdl'.
+[13:32:49]	Rodriguo Ouh has spawned 'models/vj_weapons/w_flaregun.mdl'.
+[13:32:50]	Rodriguo Ouh entered observer.
+[13:32:54]	Rodriguo Ouh has spawned 'models/vj_weapons/v_glock.mdl'.
+[13:32:55]	Rodriguo Ouh has spawned 'models/vj_weapons/w_grenade.mdl'.
+[13:32:58]	Rodriguo Ouh has spawned 'models/vj_props/radio.mdl'.
+[13:32:59]	Rodriguo Ouh exited observer at their location.
+[13:33:00]	Rodriguo Ouh entered observer.
+[13:33:05]	Rodriguo Ouh has spawned 'models/vj_props/duffle_bag.mdl'.
+[13:33:08]	Rodriguo Ouh has spawned 'models/vj_props/armenian_flag01.mdl'.
+[13:33:14]	Rodriguo Ouh exited observer at their location.
+[13:33:19]	Rodriguo Ouh has spawned 'models/gibs/xenians/mgib_05.mdl'.
+[13:33:20]	Rodriguo Ouh has spawned 'models/vj_weapons/c_e5.mdl'.
+[13:33:23]	Rodriguo Ouh has spawned 'models/vj_props/duffle_bag.mdl'.
+[13:33:24]	Rodriguo Ouh has spawned 'models/vj_props/fireplace.mdl'.
+[13:33:27]	Rodriguo Ouh has spawned 'models/vj_weapons/v_glock.mdl'.
+[13:33:29]	Rodriguo Ouh entered observer.
+[13:33:35]	Rodriguo Ouh exited observer at their location.
+[13:33:36]	Rodriguo Ouh has spawned 'models/vj_props/fireplace.mdl'.
+[13:33:38]	Rodriguo Ouh has spawned 'models/vj_weapons/c_e5.mdl'.
+[13:33:38]	Rodriguo Ouh has spawned 'models/vj_weapons/v_flaregun.mdl'.
+[13:33:40]	Rodriguo Ouh has spawned 'models/vj_weapons/v_flaregun.mdl'.
+[13:33:44]	Rodriguo Ouh has spawned 'models/vj_weapons/v_glock.mdl'.
+[13:33:49]	Rodriguo Ouh has spawned 'models/vj_weapons/c_rpg7.mdl'.
+[13:33:50]	Rodriguo Ouh has spawned 'models/vj_weapons/w_flaregun.mdl'.
+[13:33:51]	Rodriguo Ouh has spawned 'models/vj_weapons/w_glock.mdl'.
+[13:33:53]	Rodriguo Ouh has spawned 'models/vj_weapons/w_flaregun.mdl'.
+[13:33:54]	Rodriguo Ouh has spawned 'models/vj_weapons/w_flaregun.mdl'.
+[13:33:54]	Rodriguo Ouh entered observer.
+[13:35:10]	Rodriguo Ouh ran 'use' on item 'SMG Bullets' (#18643)
+[13:35:19]	Rodriguo Ouh has spawned 'models/Items/battery.mdl'.
+[13:35:28]	Rodriguo Ouh exited observer at their location.
+[13:35:28]	Rodriguo Ouh entered observer.
+[13:35:34]	Rodriguo Ouh exited observer at their location.
+[13:36:12]	Rodriguo Ouh has spawned 'models/tnb/weapons/ammo/glock.mdl'.
+[13:36:13]	Rodriguo Ouh entered observer.
+[13:36:30]	Rodriguo Ouh exited observer at their location.
+[13:36:45]	Rodriguo Ouh has spawned 'models/tnb/weapons/ammo/glock.mdl'.
+[13:36:47]	Rodriguo Ouh has spawned 'models/tnb/weapons/ammo/glock.mdl'.
+[13:41:21]	Rodriguo Ouh has spawned 'models/Items/AR2_Grenade.mdl'.
+[13:41:23]	Rodriguo Ouh has spawned 'models/Items/AR2_Grenade.mdl'.
+[13:41:23]	Rodriguo Ouh entered observer.
+[13:41:34]	Rodriguo Ouh has spawned 'models/Items/CrossbowRounds.mdl'.
+[13:41:44]	Rodriguo Ouh exited observer at their location.
+[13:41:45]	Rodriguo Ouh has spawned 'models/Items/car_battery01.mdl'.
+[13:41:46]	Rodriguo Ouh entered observer.
+[13:41:53]	Rodriguo Ouh has spawned 'models/Items/combine_rifle_cartridge01.mdl'.
+[13:42:17]	Rodriguo Ouh has spawned 'models/Items/combine_rifle_cartridge01.mdl'.
+[13:42:30]	Rodriguo Ouh exited observer at their location.
+[13:42:30]	Rodriguo Ouh has spawned 'models/Items/BoxBuckshot.mdl'.
+[13:42:31]	Rodriguo Ouh entered observer.
+[13:46:29]	Rodriguo Ouh exited observer at their location.
+[13:46:32]	Rodriguo Ouh used command '/ToggleRaise'.
+[13:46:34]	Rodriguo Ouh entered observer.
+[13:49:31]	Rodriguo Ouh used command '/ToggleRaise'.
+[13:49:32]	Rodriguo Ouh exited observer at their location.
+[13:49:33]	Rodriguo Ouh entered observer.
+[13:49:36]	Rodriguo Ouh exited observer at their location.
+[13:49:38]	Rodriguo Ouh used command '/ToggleRaise'.
+[13:49:39]	Rodriguo Ouh entered observer.
+[13:49:42]	Rodriguo Ouh exited observer at their location.
+[13:49:43]	Rodriguo Ouh entered observer.
+[13:49:46]	Rodriguo Ouh exited observer at their location.
+[13:49:56]	Rodriguo Ouh entered observer.
+[13:54:50]	Rodriguo Ouh exited observer at their location.
+[13:55:56]	Rodriguo Ouh has spawned a 'Entity [2512][ix_testent4]'.
+[13:55:59]	Rodriguo Ouh has spawned a 'Entity [2512][ix_vendingmachine]'.
+[13:56:00]	Rodriguo Ouh has spawned a 'Entity [2566][ix_rationdispenser]'.
+[13:56:02]	Rodriguo Ouh has spawned a 'Entity [2512][ix_testent1]'.
+[13:56:03]	Rodriguo Ouh has spawned a 'Entity [2566][ix_testent1]'.
+[13:56:03]	Rodriguo Ouh entered observer.
+[13:56:06]	Rodriguo Ouh has spawned a 'Entity [2512][ix_cidprinter]'.
+[13:56:07]	Rodriguo Ouh has spawned a 'Entity [2569][ix_forcefield]'.
+[13:56:09]	Rodriguo Ouh has spawned a 'Entity [2512][ix_uidprinter]'.
+[13:56:56]	Rodriguo Ouh exited observer at their location.
+[13:56:59]	Rodriguo Ouh entered observer.
+[13:57:02]	Rodriguo Ouh has spawned a 'Entity [2512][ix_uidprinter]'.
+[13:57:04]	Rodriguo Ouh has spawned a 'Entity [2512][ix_testent4]'.
+[13:57:10]	Rodriguo Ouh exited observer at their location.
+[13:57:50]	Rodriguo Ouh used command '/ToggleRaise'.
+[13:57:54]	Rodriguo Ouh used command '/ToggleRaise'.
+[13:57:55]	Rodriguo Ouh entered observer.
+[13:57:57]	Rodriguo Ouh exited observer at their location.
+[13:58:41]	Rodriguo Ouh entered observer.
+[23:25:51]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:25:52]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:25:56]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:25:59]	Rodriguo Ouh exited observer at their location.
+[23:26:24]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:26:27]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:26:29]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:26:32]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:26:34]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:26:48]	Rodriguo Ouh has taken 1000 damage from prop_combine_ball.
+[23:26:48]	prop_combine_ball has killed Rodriguo Ouh.
+[23:26:57]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:27:13]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:27:13]	Rodriguo Ouh entered observer.
+[23:27:20]	Rodriguo Ouh exited observer at their location.
+[23:27:20]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:27:22]	Rodriguo Ouh entered observer.
+[23:27:23]	Rodriguo Ouh exited observer at their location.
+[23:27:26]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:27:32]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:27:34]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:27:50]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:28:06]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:28:12]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:28:12]	Rodriguo Ouh entered observer.
+[23:28:14]	Rodriguo Ouh exited observer at their location.
+[23:28:30]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:28:31]	Rodriguo Ouh has taken 1 damage from Rodriguo Ouh.
+[23:28:55]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:28:56]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:28:57]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:28:59]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:29:03]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:29:04]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:29:20]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:29:38]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:29:38]	Rodriguo Ouh entered observer.
+[23:29:55]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:29:56]	Rodriguo Ouh exited observer at their location.
+[23:30:17]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:30:18]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:30:20]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:30:23]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:30:26]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:30:28]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:30:32]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:30:44]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:30:45]	Rodriguo Ouh entered observer.
+[23:30:46]	Rodriguo Ouh exited observer at their location.
+[23:30:47]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:30:49]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:30:49]	Rodriguo Ouh entered observer.
+[23:30:50]	Rodriguo Ouh exited observer at their location.
+[23:30:52]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:30:54]	Rodriguo Ouh entered observer.
+[23:30:55]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:30:56]	Rodriguo Ouh exited observer at their location.
+[23:31:03]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:31:15]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:31:20]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:31:20]	Rodriguo Ouh entered observer.
+[23:31:38]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:31:42]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:31:51]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:31:55]	Rodriguo Ouh exited observer at their location.
+[23:32:09]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:32:18]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:32:18]	Rodriguo Ouh entered observer.
+[23:32:28]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:32:34]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:32:38]	Rodriguo Ouh exited observer at their location.
+[23:33:00]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:33:05]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:33:13]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:33:16]	Rodriguo Ouh entered observer.
+[23:33:18]	Rodriguo Ouh exited observer at their location.
+[23:33:23]	Rodriguo Ouh entered observer.
+[23:33:26]	Rodriguo Ouh exited observer at their location.
+[23:34:22]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:34:23]	Rodriguo Ouh entered observer.
+[23:34:26]	Rodriguo Ouh exited observer at their location.
+[23:34:41]	Rodriguo Ouh entered observer.
+[23:34:42]	Rodriguo Ouh exited observer at their location.
+[23:34:58]	Rodriguo Ouh entered observer.
+[23:35:01]	Rodriguo Ouh exited observer at their location.
+[23:35:12]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:35:16]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:35:29]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:35:32]	Rodriguo Ouh entered observer.
+[23:35:34]	Rodriguo Ouh exited observer at their location.
+[23:35:34]	Rodriguo Ouh entered observer.
+[23:35:35]	Rodriguo Ouh exited observer at their location.
+[23:35:35]	Rodriguo Ouh entered observer.
+[23:35:38]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:35:40]	Rodriguo Ouh exited observer at their location.
+[23:35:40]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:35:41]	Rodriguo Ouh entered observer.
+[23:35:42]	Rodriguo Ouh exited observer at their location.
+[23:35:48]	Rodriguo Ouh entered observer.
+[23:35:49]	Rodriguo Ouh exited observer at their location.
+[23:35:50]	Rodriguo Ouh entered observer.
+[23:35:50]	Rodriguo Ouh exited observer at their location.
+[23:35:51]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:35:52]	Rodriguo Ouh entered observer.
+[23:35:52]	Rodriguo Ouh exited observer at their location.
+[23:37:57]	Rodriguo Ouh entered observer.
+[23:38:08]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:38:11]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:38:19]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:38:27]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:39:40]	Rodriguo Ouh has spawned a 'NPC [2658][sent_vj_test]'.
+[23:39:41]	Rodriguo Ouh exited observer at their location.
+[23:39:43]	Rodriguo Ouh has spawned a 'NPC [2659][npc_vj_mortarsynth]'.
+[23:39:45]	Rodriguo Ouh has taken 30 damage from Mortar Synth.
+[23:39:58]	Rodriguo Ouh has spawned a 'NPC [2658][npc_vortigaunt]'.
+[23:40:00]	Rodriguo Ouh has spawned a 'NPC [2659][npc_vortigaunt]'.
+[23:40:02]	Rodriguo Ouh has spawned a 'NPC [2658][npc_vortigaunt]'.
+[23:40:04]	Rodriguo Ouh entered observer.
+[23:40:05]	Rodriguo Ouh exited observer at their location.
+[23:40:06]	Rodriguo Ouh entered observer.
+[23:40:16]	Rodriguo Ouh exited observer at their location.
+[23:40:17]	Rodriguo Ouh entered observer.
+[23:40:31]	Rodriguo Ouh exited observer at their location.
+[23:40:31]	Rodriguo Ouh entered observer.
+[23:40:32]	Rodriguo Ouh exited observer at their location.
+[23:40:33]	Rodriguo Ouh entered observer.
+[23:40:35]	Rodriguo Ouh exited observer at their location.
+[23:40:36]	Rodriguo Ouh entered observer.
+[23:40:49]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:40:52]	Rodriguo Ouh exited observer at their location.
+[23:40:52]	Rodriguo Ouh entered observer.
+[23:40:52]	Rodriguo Ouh exited observer at their location.
+[23:40:53]	Rodriguo Ouh entered observer.
+[23:40:53]	Rodriguo Ouh exited observer at their location.
+[23:40:57]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:40:58]	Rodriguo Ouh entered observer.
+[23:40:59]	Rodriguo Ouh exited observer at their location.
+[23:41:02]	Rodriguo Ouh entered observer.
+[23:41:03]	Rodriguo Ouh exited observer at their location.
+[23:41:04]	Rodriguo Ouh entered observer.
+[23:41:07]	Rodriguo Ouh exited observer at their location.
+[23:41:08]	Rodriguo Ouh entered observer.
+[23:41:08]	Rodriguo Ouh exited observer at their location.
+[23:41:11]	Rodriguo Ouh entered observer.
+[23:41:13]	Rodriguo Ouh exited observer at their location.
+[23:41:16]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:41:18]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:41:19]	Rodriguo Ouh entered observer.
+[23:41:21]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:41:25]	Rodriguo Ouh exited observer at their location.
+[23:41:26]	Rodriguo Ouh entered observer.
+[23:41:27]	Rodriguo Ouh exited observer at their location.
+[23:41:30]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:41:33]	Rodriguo Ouh entered observer.
+[23:41:42]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:41:45]	Rodriguo Ouh exited observer at their location.
+[23:41:50]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:41:58]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:42:01]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:42:02]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:42:03]	Rodriguo Ouh entered observer.
+[23:42:05]	Rodriguo Ouh exited observer at their location.
+[23:42:06]	Rodriguo Ouh entered observer.
+[23:42:08]	Rodriguo Ouh exited observer at their location.
+[23:42:11]	Rodriguo Ouh entered observer.
+[23:42:18]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:42:36]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:42:45]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:42:47]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:42:49]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:42:50]	Rodriguo Ouh exited observer at their location.
+[23:42:51]	Rodriguo Ouh entered observer.
+[23:42:59]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:43:03]	Rodriguo Ouh has spawned 'models/Items/item_item_crate_dynamic.mdl'.
+[23:43:04]	Rodriguo Ouh has spawned 'models/Items/item_item_crate.mdl'.
+[23:43:04]	Rodriguo Ouh exited observer at their location.
+[23:43:05]	Rodriguo Ouh has spawned 'models/Items/item_item_crate_dynamic.mdl'.
+[23:43:30]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:43:32]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:43:37]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:43:41]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:44:04]	Rodriguo Ouh has spawned 'models/Items/combine_rifle_ammo01.mdl'.
+[23:44:13]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:44:15]	Rodriguo Ouh has spawned 'models/Items/CrossbowRounds.mdl'.
+[23:44:18]	Rodriguo Ouh has spawned 'models/Items/Flare.mdl'.
+[23:44:33]	Rodriguo Ouh entered observer.
+[23:44:46]	Rodriguo Ouh exited observer at their location.
+[23:44:46]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:44:51]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:44:51]	Rodriguo Ouh entered observer.
+[23:44:52]	Rodriguo Ouh exited observer at their location.
+[23:44:54]	Rodriguo Ouh has spawned 'models/Items/BoxFlares.mdl'.
+[23:45:00]	Rodriguo Ouh entered observer.
+[23:45:02]	Rodriguo Ouh exited observer at their location.
+[23:45:09]	Rodriguo Ouh entered observer.
+[23:45:21]	Rodriguo Ouh has spawned 'models/Items/hevsuit.mdl'.
+[23:45:21]	Rodriguo Ouh exited observer at their location.
+[23:45:21]	Rodriguo Ouh entered observer.
+[23:45:23]	Rodriguo Ouh exited observer at their location.
+[23:45:31]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:45:34]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:45:35]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:45:39]	Rodriguo Ouh has taken 88 damage from Rodriguo Ouh.
+[23:45:39]	Rodriguo Ouh has killed Rodriguo Ouh.
+[23:45:49]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:45:49]	Rodriguo Ouh entered observer.
+[23:45:55]	Rodriguo Ouh exited observer at their location.
+[23:45:56]	Rodriguo Ouh entered observer.
+[23:46:11]	Rodriguo Ouh exited observer at their location.
+[23:46:15]	Rodriguo Ouh entered observer.
+[23:47:06]	Rodriguo Ouh exited observer at their location.
+[23:47:06]	Rodriguo Ouh entered observer.
+[23:47:09]	Rodriguo Ouh exited observer at their location.
+[23:47:15]	Rodriguo Ouh entered observer.
+[23:47:16]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:47:21]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:47:23]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:47:25]	Rodriguo Ouh exited observer at their location.
+[23:48:00]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:48:01]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:48:01]	Rodriguo Ouh entered observer.
+[23:48:03]	Rodriguo Ouh exited observer at their location.
+[23:48:10]	Rodriguo Ouh entered observer.
+[23:48:12]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:48:12]	Rodriguo Ouh exited observer at their location.
+[23:48:16]	Rodriguo Ouh entered observer.
+[23:48:29]	Rodriguo Ouh exited observer at their location.
+[23:48:48]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:48:49]	Rodriguo Ouh entered observer.
+[23:48:51]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:49:19]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:49:23]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:49:30]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:49:31]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:49:52]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:49:55]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:49:58]	Rodriguo Ouh exited observer at their location.
+[23:49:58]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:50:21]	Rodriguo Ouh entered observer.
+[23:50:23]	Rodriguo Ouh exited observer at their location.
+[23:50:23]	Rodriguo Ouh entered observer.
+[23:50:30]	Rodriguo Ouh exited observer at their location.
+[23:50:43]	Rodriguo Ouh entered observer.
+[23:50:56]	Rodriguo Ouh exited observer at their location.
+[23:50:58]	Rodriguo Ouh entered observer.
+[23:51:10]	Rodriguo Ouh exited observer at their location.
+[23:51:12]	Rodriguo Ouh entered observer.
+[23:51:13]	Rodriguo Ouh exited observer at their location.
+[23:51:14]	Rodriguo Ouh entered observer.
+[23:51:30]	Rodriguo Ouh exited observer at their location.
+[23:51:31]	Rodriguo Ouh entered observer.
+[23:52:00]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:52:06]	Rodriguo Ouh exited observer at their location.
+[23:52:14]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:52:15]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:52:40]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:52:45]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:52:51]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:52:52]	Rodriguo Ouh has taken 5 damage from Rodriguo Ouh.
+[23:53:45]	Rodriguo Ouh entered observer.
+[23:53:49]	Rodriguo Ouh exited observer at their location.
+[23:53:49]	Rodriguo Ouh entered observer.
+[23:53:52]	Rodriguo Ouh exited observer at their location.
+[23:54:05]	Rodriguo Ouh entered observer.
+[23:54:24]	Rodriguo Ouh exited observer at their location.
+[23:54:26]	Rodriguo Ouh entered observer.
+[23:54:30]	Rodriguo Ouh exited observer at their location.
+[23:54:33]	Rodriguo Ouh entered observer.
+[23:54:33]	Rodriguo Ouh exited observer at their location.
+[23:54:33]	Rodriguo Ouh entered observer.
+[23:54:34]	Rodriguo Ouh exited observer at their location.
+[23:54:47]	Rodriguo Ouh entered observer.
+[23:55:10]	Rodriguo Ouh exited observer at their location.
+[23:55:12]	Rodriguo Ouh entered observer.
+[23:55:13]	Rodriguo Ouh exited observer at their location.
+[23:56:39]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:56:39]	Rodriguo Ouh entered observer.
+[23:56:41]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:57:55]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:58:02]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:58:02]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:58:06]	Rodriguo Ouh exited observer at their location.
+[23:58:07]	Rodriguo Ouh entered observer.
+[23:58:08]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:58:08]	Rodriguo Ouh exited observer at their location.
+[23:58:08]	Rodriguo Ouh entered observer.
+[23:58:09]	Rodriguo Ouh exited observer at their location.
+[23:58:10]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:58:13]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:59:19]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:59:21]	Rodriguo Ouh used command '/ToggleRaise'.
+[23:59:25]	Rodriguo Ouh entered observer.
+[23:59:28]	Rodriguo Ouh exited observer at their location.

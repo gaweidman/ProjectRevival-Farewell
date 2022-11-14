@@ -1,0 +1,263 @@
+[02:49:33] New map: rp_i17_variation_v0
+[14:15:35] Client "Johnston" connected.
+[14:22:31] Client "Johnston" spawned in server <STEAM_0:1:5631575> (took 416 seconds).
+[14:24:03] Dropped "Johnston" from server<STEAM_0:1:5631575>
+[15:34:52] Client "matt saton" connected.
+[15:36:55] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 123 seconds).
+[15:39:46] matt saton<STEAM_0:1:53097688> changed their name to Lee Maylor
+[15:41:35] Lee Maylor<STEAM_0:1:53097688> spawned/gave himself swep weapon_frag
+[15:41:35] Lee Maylor: /toggleraise
+[15:47:54] Lee Maylor was killed by monster_gonome
+[15:51:40] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on maps/rp_i17_variation_v0.bsp
+[15:51:41] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on maps/rp_i17_variation_v0.bsp
+[15:51:41] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on maps/rp_i17_variation_v0.bsp
+[15:52:03] Lee Maylor<STEAM_0:1:53097688> used the tool creator on maps/rp_i17_variation_v0.bsp
+[15:52:03] Lee Maylor<STEAM_0:1:53097688> spawned sent combine_mine
+[15:52:04] Lee Maylor<STEAM_0:1:53097688> used the tool creator on maps/rp_i17_variation_v0.bsp
+[15:52:04] Lee Maylor<STEAM_0:1:53097688> spawned sent combine_mine
+[15:52:05] Lee Maylor<STEAM_0:1:53097688> used the tool creator on maps/rp_i17_variation_v0.bsp
+[15:52:05] Lee Maylor<STEAM_0:1:53097688> spawned sent combine_mine
+[15:52:09] Lee Maylor<STEAM_0:1:53097688> used the tool creator on maps/rp_i17_variation_v0.bsp
+[15:52:09] Lee Maylor<STEAM_0:1:53097688> spawned sent combine_mine
+[15:52:10] Lee Maylor<STEAM_0:1:53097688> used the tool creator on maps/rp_i17_variation_v0.bsp
+[15:52:10] Lee Maylor<STEAM_0:1:53097688> spawned sent combine_mine
+[15:52:11] Lee Maylor<STEAM_0:1:53097688> used the tool creator on maps/rp_i17_variation_v0.bsp
+[15:52:11] Lee Maylor<STEAM_0:1:53097688> spawned sent combine_mine
+[15:52:12] Lee Maylor<STEAM_0:1:53097688> used the tool creator on maps/rp_i17_variation_v0.bsp
+[15:52:12] Lee Maylor<STEAM_0:1:53097688> spawned sent combine_mine
+[15:52:14] Lee Maylor<STEAM_0:1:53097688> used the tool creator on maps/rp_i17_variation_v0.bsp
+[15:52:14] Lee Maylor<STEAM_0:1:53097688> spawned sent combine_mine
+[15:52:30] Lee Maylor<STEAM_0:1:53097688> spawned sent combine_mine
+[15:53:00] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/combine_mine01.mdl
+[15:53:03] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/combine_mine01.mdl
+[15:53:04] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on maps/rp_i17_variation_v0.bsp
+[15:53:05] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/combine_mine01.mdl
+[15:53:06] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/combine_mine01.mdl
+[15:53:07] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/combine_mine01.mdl
+[15:53:09] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/combine_mine01.mdl
+[15:53:10] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/combine_mine01.mdl
+[15:53:11] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/combine_mine01.mdl
+[15:53:32] Lee Maylor was killed by combine_mine
+[15:53:42] Lee Maylor extinguished all 14 fires.
+[15:53:42] Lee Maylor: !vextinguishall
+[15:53:46] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on maps/rp_i17_variation_v0.bsp
+[15:53:57] Lee Maylor cleared decals
+[15:53:57] Lee Maylor: !cleardecals
+[15:55:55] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/horizontalcoolingtank04.mdl
+[15:56:11] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_vehicles/generatortrailer01.mdl
+[15:56:37] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_vehicles/trailer002a.mdl
+[15:56:40] Lee Maylor<STEAM_0:1:53097688> spawned ragdoll models/props_vehicles/wagon001a_phy.mdl
+[15:57:44] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/de_nuke/storagetank.mdl
+[15:57:49] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/de_nuke/storagetank.mdl
+[15:57:56] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/coolingtank02.mdl
+[15:58:13] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/coolingtank02.mdl
+[15:59:14] Lee Maylor<STEAM_0:1:53097688> used the tool stacker_improved on models/props_wasteland/coolingtank02.mdl
+[15:59:14] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/coolingtank02.mdl
+[16:00:10] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/coolingtank02.mdl
+[16:00:54] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_wasteland/coolingtank02.mdl
+[16:00:55] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_wasteland/coolingtank02.mdl
+[16:01:24] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/lighthouse_fresnel_light_base.mdl
+[16:01:27] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/lighthouse_fresnel_light.mdl
+[16:01:38] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/lighthouse_stairs.mdl
+[16:01:43] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/lighthouse_stairs0b.mdl
+[16:01:45] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/lights_industrialcluster01a.mdl
+[16:01:58] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/rockcliff_cluster02a.mdl
+[16:02:06] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on maps/rp_i17_variation_v0.bsp
+[16:02:22] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff_cluster02a.mdl
+[16:02:22] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff_cluster02a.mdl
+[16:02:29] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/rockcliff_cluster02a.mdl
+[16:02:31] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/rockcliff_cluster02c.mdl
+[16:02:34] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/rockcliff_cluster03a.mdl
+[16:02:38] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff_cluster03a.mdl
+[16:02:51] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/rockcliff05a.mdl
+[16:02:57] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff05a.mdl
+[16:03:04] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/rockcliff_cluster01b.mdl
+[16:03:19] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff_cluster01b.mdl
+[16:03:35] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/rockcliff_cluster02a.mdl
+[16:03:40] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff_cluster02a.mdl
+[16:03:55] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/rockcliff_cluster02a.mdl
+[16:04:00] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff_cluster02a.mdl
+[16:04:43] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff_cluster02a.mdl
+[16:04:43] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff_cluster02a.mdl
+[16:04:43] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff05a.mdl
+[16:04:43] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff05a.mdl
+[16:04:44] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff_cluster01b.mdl
+[16:04:44] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff_cluster01b.mdl
+[16:04:44] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff_cluster01b.mdl
+[16:04:44] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff_cluster01b.mdl
+[16:04:44] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff_cluster01b.mdl
+[16:04:44] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff_cluster01b.mdl
+[16:04:45] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff_cluster01b.mdl
+[16:04:45] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff_cluster01b.mdl
+[16:04:45] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff_cluster01b.mdl
+[16:04:45] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff_cluster02a.mdl
+[16:04:45] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff_cluster02a.mdl
+[16:04:45] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff_cluster02a.mdl
+[16:04:46] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff_cluster02a.mdl
+[16:04:46] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff_cluster02a.mdl
+[16:04:46] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff_cluster02a.mdl
+[16:04:54] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/rockcliff01f.mdl
+[16:05:23] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff_cluster01b.mdl
+[16:05:45] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff_cluster02a.mdl
+[16:05:46] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff_cluster02a.mdl
+[16:05:46] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff_cluster02a.mdl
+[16:05:46] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff_cluster02a.mdl
+[16:05:46] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff_cluster02a.mdl
+[16:05:46] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff_cluster02a.mdl
+[16:05:46] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff_cluster02a.mdl
+[16:05:47] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff_cluster02a.mdl
+[16:05:47] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff_cluster02a.mdl
+[16:05:47] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff_cluster02a.mdl
+[16:05:47] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff_cluster02a.mdl
+[16:05:47] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff_cluster01b.mdl
+[16:05:48] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff_cluster01b.mdl
+[16:05:48] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff_cluster01b.mdl
+[16:05:48] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff_cluster01b.mdl
+[16:05:48] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff_cluster01b.mdl
+[16:05:48] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff_cluster01b.mdl
+[16:05:48] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff05a.mdl
+[16:05:49] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff05a.mdl
+[16:05:49] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff_cluster02a.mdl
+[16:05:49] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff_cluster02a.mdl
+[16:05:49] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff_cluster02a.mdl
+[16:06:09] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff_cluster01b.mdl
+[16:06:09] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff_cluster01b.mdl
+[16:06:10] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff_cluster01b.mdl
+[16:06:10] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on maps/rp_i17_variation_v0.bsp
+[16:06:10] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff05a.mdl
+[16:06:10] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff05a.mdl
+[16:06:10] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff05a.mdl
+[16:06:30] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/rockcliff_cluster02a.mdl
+[16:06:31] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/rockgranite03b.mdl
+[16:06:33] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/rockcliff_cluster03c.mdl
+[16:06:35] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/rockcliff05e.mdl
+[16:06:39] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff05e.mdl
+[16:06:44] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff05e.mdl
+[16:06:48] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff05e.mdl
+[16:06:51] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff05e.mdl
+[16:07:04] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff05e.mdl
+[16:07:23] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff05e.mdl
+[16:07:43] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff05e.mdl
+[16:07:51] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/rockcliff05f.mdl
+[16:07:59] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff05f.mdl
+[16:08:07] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff05f.mdl
+[16:08:18] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff05f.mdl
+[16:08:26] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff05f.mdl
+[16:08:33] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff05f.mdl
+[16:08:42] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff05f.mdl
+[16:09:03] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/rockcliff01g.mdl
+[16:09:06] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/rockgranite02b.mdl
+[16:09:08] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/rockcliff_cluster03a.mdl
+[16:09:09] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/rockcliff_cluster03c.mdl
+[16:09:11] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/rockcliff01g.mdl
+[16:09:13] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/rockcliff01k.mdl
+[16:09:17] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff01k.mdl
+[16:09:23] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff01k.mdl
+[16:09:27] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff01k.mdl
+[16:09:28] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff01k.mdl
+[16:09:52] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff_cluster02a.mdl
+[16:09:57] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff_cluster02a.mdl
+[16:10:06] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on maps/rp_i17_variation_v0.bsp
+[16:10:06] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on maps/rp_i17_variation_v0.bsp
+[16:10:15] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/rockgranite02b.mdl
+[16:10:16] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/rockgranite02c.mdl
+[16:10:23] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/rockgranite01a.mdl
+[16:10:25] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/rockcliff06d.mdl
+[16:10:27] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/rockcliff01f.mdl
+[16:10:36] Lee Maylor<STEAM_0:1:53097688> spawned NPC npc_antlionguard
+[16:10:42] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/antlion_guard.mdl
+[16:11:09] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on maps/rp_i17_variation_v0.bsp
+[16:11:15] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/rockgranite03b.mdl
+[16:11:16] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/rockgranite01a.mdl
+[16:11:18] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/rockgranite01a.mdl
+[16:11:21] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/rockgranite02b.mdl
+[16:11:27] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_wasteland/rockgranite02b.mdl
+[16:11:31] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockgranite02b.mdl
+[16:11:38] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockgranite02b.mdl
+[16:11:51] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockgranite02b.mdl
+[16:11:59] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff01k.mdl
+[16:12:08] Lee Maylor<STEAM_0:1:53097688> spawned NPC npc_antlionguard
+[16:12:16] Lee Maylor<STEAM_0:1:53097688> spawned NPC npc_antlionguard
+[16:12:19] Lee Maylor was killed by npc_antlionguard
+[16:12:43] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockgranite02b.mdl
+[16:12:44] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockgranite02b.mdl
+[16:12:44] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff01k.mdl
+[16:12:44] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff01k.mdl
+[16:12:44] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff01k.mdl
+[16:12:48] Lee Maylor set the hp for Themself to 999999999
+[16:12:48] Lee Maylor: !Hp ^ 999999999
+[16:12:51] Lee Maylor<STEAM_0:1:53097688> spawned NPC npc_antlionguard
+[16:12:52] Lee Maylor<STEAM_0:1:53097688> spawned NPC npc_antlionguard
+[16:13:00] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/rockgranite03b.mdl
+[16:13:02] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/rockgranite02b.mdl
+[16:13:11] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/rockgranite03a.mdl
+[16:13:12] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/rockgranite02c.mdl
+[16:13:15] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockgranite02c.mdl
+[16:13:42] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/rockcliff01f.mdl
+[16:13:47] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff01f.mdl
+[16:14:10] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff01f.mdl
+[16:14:23] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff01f.mdl
+[16:14:33] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff01f.mdl
+[16:14:36] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff01f.mdl
+[16:14:38] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff01f.mdl
+[16:14:44] Lee Maylor<STEAM_0:1:53097688> spawned NPC npc_antlionguard
+[16:15:05] Lee Maylor<STEAM_0:1:53097688> spawned NPC npc_zombie
+[16:15:09] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/rockgranite03a.mdl
+[16:15:10] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/rockgranite03b.mdl
+[16:15:11] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/rockcliff_cluster03c.mdl
+[16:15:14] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/rockcliff05e.mdl
+[16:15:16] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/rockcliff01b.mdl
+[16:15:19] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff01b.mdl
+[16:15:26] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff01b.mdl
+[16:15:31] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff01b.mdl
+[16:15:34] Lee Maylor<STEAM_0:1:53097688> spawned NPC npc_antlionguard
+[16:15:57] Lee Maylor<STEAM_0:1:53097688> spawned NPC npc_antlionguard
+[16:16:06] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff05a.mdl
+[16:16:55] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff05a.mdl
+[16:17:00] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/rockcliff01e.mdl
+[16:17:01] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/rockcliff05a.mdl
+[16:17:05] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/rockcliff05b.mdl
+[16:17:12] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff05b.mdl
+[16:17:37] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff05b.mdl
+[16:17:42] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff05b.mdl
+[16:17:46] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff05b.mdl
+[16:17:49] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff05b.mdl
+[16:17:52] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/rockcliff05b.mdl
+[16:18:02] Lee Maylor<STEAM_0:1:53097688> spawned NPC npc_antlionguard
+[16:22:00] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/pipecluster003a_small.mdl
+[16:22:12] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_canal/generator02.mdl
+[16:22:16] Lee Maylor<STEAM_0:1:53097688> spawned effect models/props_canal/boxcar_door.mdl
+[16:22:36] Lee Maylor<STEAM_0:1:53097688> spawned effect models/props_canal/refinery_02_skybox.mdl
+[16:22:38] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_canal/mattpipe.mdl
+[16:22:41] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_canal/bridge_pillar02.mdl
+[16:22:49] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_canal/boat001b_chunk02.mdl
+[16:22:56] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_c17/trap_crush01a.mdl
+[16:23:01] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_c17/trap_crush01a.mdl
+[16:23:25] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_interiors/handrailcluster01b_corner.mdl
+[16:23:34] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_trainstation/tracklight01.mdl
+[16:23:43] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_vehicles/trailer002a.mdl
+[16:23:49] Lee Maylor<STEAM_0:1:53097688> spawned ragdoll models/props_vehicles/wagon001a_phy.mdl
+[16:23:51] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_vehicles/wagon001a.mdl
+[16:23:54] Lee Maylor<STEAM_0:1:53097688> spawned ragdoll models/props_vehicles/wagon001a_phy.mdl
+[16:23:56] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_vehicles/wagon001a.mdl
+[16:24:29] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_vehicles/car005a.mdl
+[16:24:53] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_vehicles/apc001.mdl
+[16:24:56] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_vehicles/generatortrailer01.mdl
+[16:25:23] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_vehicles/trailer001a.mdl
+[16:33:11] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/de_prodigy/desk_console1.mdl
+[16:33:19] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/de_prodigy/ammo_can_03.mdl
+[16:33:23] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/de_prodigy/ammo_can_01.mdl
+[16:33:32] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/de_inferno/wall_lamp_ring.mdl
+[16:33:36] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/de_inferno/wall_lamp_ring.mdl
+[16:34:23] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/de_train/pallet_barrels.mdl
+[16:34:25] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/de_train/utility_truck.mdl
+[17:35:03] Client "Dtims" connected.
+[18:27:03] Client "rikk" connected.
+[18:39:44] Dropped "Lee Maylor" from server<STEAM_0:1:53097688>
+[21:11:13] Client "matt saton" connected.
+[21:12:51] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 98 seconds).
+[21:18:14] matt saton<STEAM_0:1:53097688> changed their name to Lee Maylor
+[22:50:42] Lee Maylor: /chargiveitem lee "citizen flter" 2
+[22:50:45] Lee Maylor: /chargiveitem lee "citizen filter" 2
+[22:50:48] Lee Maylor: /chargiveitem lee "citizen filter" 2
+<Logging continued in "data/ulx_logs/04-09-21.txt">

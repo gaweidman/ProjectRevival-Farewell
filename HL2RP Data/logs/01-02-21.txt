@@ -1,0 +1,1797 @@
+[00:00:20]	CCA.C17-GRID.i2.36307 used command '/Radio Any QrM 10-8?'.
+[00:00:32]	CCA.C17-QrM.98240 used command '/Radio Copy, what do you need?'.
+[00:00:39]	CCA.C17-JUDGE.OfC.91412 has gained 10 tokens.
+[00:00:47]	CCA.C17-GRID.i2.36307 used command '/Radio The RcT needs his radio'.
+[00:00:58]	CCA.C17-QrM.98240 used command '/Radio Copy, en route.'.
+[00:01:00]	CCA.C17-RCT.25058 has gained 10 tokens.
+[00:01:52]	CCA.C17-JUDGE.OfC.91412 has spawned a 'NPC [2180][npc_citizen]'.
+[00:02:06]	CCA.C17-QrM.98240 used the 'Armory' vendor.
+[00:02:10]	CCA.C17-QrM.98240 has gained 0 tokens.
+[00:02:10]	CCA.C17-QrM.98240 has gained a 'Hybrid Radio' #36804.
+[00:02:19]	[ME] CCA.C17-QrM.98240: Holds out a Hybrid Radio to the RcT.
+[00:02:21]	CCA.C17-QrM.98240 ran 'drop' on item 'Hybrid Radio' (#36804)
+[00:02:21]	CCA.C17-QrM.98240 has lost a 'Hybrid Radio' #36804.
+[00:02:25]	CCA.C17-QrM.98240 ran 'Frequency' on item 'Hybrid Radio' (#18849)
+[00:02:32]	CCA.C17-RCT.25058 ran 'take' on item 'Hybrid Radio' (#36804)
+[00:02:32]	CCA.C17-RCT.25058 has gained a 'Hybrid Radio' #36804.
+[00:02:36]	[ME] CCA.C17-RCT.25058: takes it.
+[00:02:38]	CCA.C17-QrM.98240 used the 'Armory' vendor.
+[00:02:43]	CCA.C17-RCT.25058 ran 'Frequency' on item 'Hybrid Radio' (#36804)
+[00:02:52]	CCA.C17-QrM.98240 used the 'Armory' vendor.
+[00:02:53]	CCA.C17-HELIX.i2.13412 has gained 10 tokens.
+[00:02:56]	CCA.C17-QrM.98240 has gained 10 tokens.
+[00:02:57]	CCA.C17-RCT.25058 ran 'Frequency' on item 'Hybrid Radio' (#36804)
+[00:03:04]	CCA.C17-RCT.25058 used command '/SetFreq 128.7'.
+[00:03:05]	CCA.C17-RCT.25058 ran 'Channel' on item 'Hybrid Radio' (#36804)
+[00:03:07]	CCA.C17-RCT.25058 used command '/SetChan 1'.
+[00:03:10]	CCA.C17-RCT.25058 ran 'Activate' on item 'Hybrid Radio' (#36804)
+[00:03:12]	CCA.C17-RCT.25058 ran 'Activate' on item 'Hybrid Radio' (#36804)
+[00:03:19]	CCA.C17-GRID.i2.36307 has gained 10 tokens.
+[00:03:22]	CCA.C17-RCT.25058 ran 'Listen' on item 'Hybrid Radio' (#36804)
+[00:03:24]	CCA.C17-RCT.25058 ran 'Listen' on item 'Hybrid Radio' (#36804)
+[00:03:29]	CCA.C17-RCT.25058 ran 'Channel' on item 'Hybrid Radio' (#36804)
+[00:03:30]	CCA.C17-RCT.25058 used command '/SetChan 1'.
+[00:03:33]	CCA.C17-RCT.25058 ran 'Toggle' on item 'Hybrid Radio' (#36804)
+[00:03:34]	CCA.C17-RCT.25058 ran 'Toggle' on item 'Hybrid Radio' (#36804)
+[00:03:39]	CCA.C17-RCT.25058 ran 'Listen' on item 'Hybrid Radio' (#36804)
+[00:03:41]	CCA.C17-RCT.25058 ran 'Listen' on item 'Hybrid Radio' (#36804)
+[00:03:41]	[Y] CCA.C17-QrM.98240: <:: I SAID LEAVE! ::>
+[00:03:42]	CCA.C17-RCT.25058 ran 'Channel' on item 'Hybrid Radio' (#36804)
+[00:03:43]	CCA.C17-RCT.25058 used command '/SetChan 1'.
+[00:04:26]	CCA.C17-GRID.i2.36307 used command '/fr Ass'.
+[00:04:40]	[OOC] CCA.C17-GRID.i2.36307: what if he
+[00:04:43]	[OOC] CCA.C17-GRID.i2.36307: what of we
+[00:04:45]	[OOC] CCA.C17-GRID.i2.36307: what if we
+[00:04:46]	[OOC] CCA.C17-GRID.i2.36307: had
+[00:04:47]	[OOC] CCA.C17-QrM.98240: no
+[00:04:49]	[OOC] CCA.C17-GRID.i2.36307: barracks
+[00:05:12]	CCA.C17-JUDGE.OfC.91412 has spawned 'models/hlvr/characters/worker/worker_player.mdl'.
+[00:05:39]	CCA.C17-JUDGE.OfC.91412 has gained 10 tokens.
+[00:06:00]	CCA.C17-RCT.25058 has gained 10 tokens.
+[00:07:53]	CCA.C17-HELIX.i2.13412 has gained 10 tokens.
+[00:07:56]	CCA.C17-QrM.98240 has gained 10 tokens.
+[00:08:14]	[OOC] CCA.C17-GRID.i2.36307: goodnight
+[00:08:19]	CCA.C17-GRID.i2.36307 has gained 10 tokens.
+[00:08:21]	DRD (STEAM_0:0:193599766) has disconnected.
+[00:08:25]	CCA.C17-RCT.25058 used command '/CharDesc'.
+[00:08:32]	CCA.C17-RCT.25058 used command '/CharDesc'.
+[00:09:31]	CCA.C17-RCT.25058 used command '/CharDesc 6'1 | Standard CCA jacket | Vest covering upper torso | Clean faceplate with glowing blue lenses | Belts holding a stunstick'.
+[00:09:39]	CCA.C17-RCT.25058 used command '/CharDesc'.
+[00:10:27]	CCA.C17-RCT.25058 used command '/CharDesc 6'1 | Standard CCA Jacket | Vest Covering Upper Torso | Clean Faceplate With Glowing Blue Lenses | Belts Holding a Stunstick'.
+[00:10:39]	CCA.C17-JUDGE.OfC.91412 has gained 10 tokens.
+[00:11:00]	CCA.C17-RCT.25058 has gained 10 tokens.
+[00:11:55]	CCA.C17-JUDGE.OfC.91412 has spawned a 'Weapon [2049][weapon_ar2]'.
+[00:12:53]	CCA.C17-HELIX.i2.13412 has gained 10 tokens.
+[00:12:56]	CCA.C17-QrM.98240 has gained 10 tokens.
+[00:15:39]	CCA.C17-JUDGE.OfC.91412 has gained 10 tokens.
+[00:16:00]	CCA.C17-RCT.25058 has gained 10 tokens.
+[00:16:03]	CCA.C17-QrM.98240 ran 'Equip' on item 'MP7' (#36143)
+[00:17:53]	CCA.C17-HELIX.i2.13412 has gained 10 tokens.
+[00:17:56]	CCA.C17-QrM.98240 has gained 10 tokens.
+[00:19:44]	[OOC] CCA.C17-HELIX.i2.13412: I'm leaving.
+[00:19:45]	matt saton (STEAM_0:1:53097688) has disconnected.
+[00:20:39]	CCA.C17-JUDGE.OfC.91412 has gained 10 tokens.
+[00:21:00]	CCA.C17-RCT.25058 has gained 10 tokens.
+[00:21:22]	matt saton has connected.
+[00:22:16]	matt saton loaded the character 'UU-CmD.17'
+[00:22:20]	matt saton loaded the character 'Ryan Marnett'
+[00:22:23]	[OOC] Ryan Marnett: almost forgot!
+[00:22:27]	[OOC] CCA.C17-QrM.98240: Huh
+[00:22:38]	[OOC] Ryan Marnett: i almsot forgot to do something!
+[00:22:44]	[OOC] CCA.C17-QrM.98240: And what is that?
+[00:22:55]	Ryan Marnett used command '/PlyUnwhitelist ofc admin'.
+[00:22:56]	CCA.C17-QrM.98240 has gained 10 tokens.
+[00:23:07]	FB|| light ROOM loaded the character 'CCA.C17-UNION.SqL.72633'
+[00:23:08]	Ryan Marnett set maxCharacters to '50'.
+[00:23:12]	CCA.C17-RCT.25058 used command '/PM ryan you should totally get someone to train me :))))))))'.
+[00:23:13]	matt saton (STEAM_0:1:53097688) deleted character 'Steven Millerton'
+[00:23:15]	[OOC] CCA.C17-UNION.SqL.72633: okay
+[00:23:19]	[OOC] CCA.C17-JUDGE.OfC.91412: okay
+[00:23:21]	[OOC] Ryan Marnett: Several things!
+[00:23:27]	Ryan Marnett used command '/PlyUnwhitelist ofc vort'.
+[00:23:29]	Ryan Marnett used command '/PlyUnwhitelist ofc enslaved'.
+[00:23:29]	[OOC] CCA.C17-UNION.SqL.72633: Oh god oh fuck
+[00:23:40]	[OOC] CCA.C17-UNION.SqL.72633: Suprise demotion for Chief and me
+[00:23:42]	Ryan Marnett used command '/PM rct tomorrow, it's too late'.
+[00:24:00]	CCA.C17-RCT.25058 used command '/PM ryan couldn't someone else do it tho? it cant take that long'.
+[00:24:16]	[OOC] CCA.C17-UNION.SqL.72633: cool
+[00:24:19]	Ryan Marnett used command '/CharTakeFlag ofc CcvVncr'.
+[00:24:22]	[OOC] Ryan Marnett: Goodnight! :)
+[00:24:23]	matt saton (STEAM_0:1:53097688) has disconnected.
+[00:25:39]	CCA.C17-JUDGE.OfC.91412 has gained 10 tokens.
+[00:26:00]	CCA.C17-RCT.25058 has gained 10 tokens.
+[00:28:07]	CCA.C17-UNION.SqL.72633 has gained 10 tokens.
+[00:29:04]	FB|| light ROOM (STEAM_0:1:17219621) has disconnected.
+[00:30:39]	CCA.C17-JUDGE.OfC.91412 has gained 10 tokens.
+[00:31:00]	CCA.C17-RCT.25058 has gained 10 tokens.
+[00:35:39]	CCA.C17-JUDGE.OfC.91412 has gained 10 tokens.
+[00:36:00]	CCA.C17-RCT.25058 has gained 10 tokens.
+[00:40:39]	CCA.C17-JUDGE.OfC.91412 has gained 10 tokens.
+[00:41:00]	CCA.C17-RCT.25058 has gained 10 tokens.
+[00:42:11]	CCA.C17-RCT.25058 ran 'View' on item 'Notepad' (#36228)
+[00:42:49]	CCA.C17-RCT.25058 ran 'View' on item 'Notepad' (#36087)
+[00:42:55]	CCA.C17-RCT.25058 ran 'View' on item 'Notepad' (#33315)
+[00:42:55]	CCA.C17-JUDGE.OfC.91412 ran 'View' on item 'Notepad' (#32984)
+[00:43:01]	CCA.C17-RCT.25058 ran 'View' on item 'Notepad' (#36219)
+[00:43:04]	CCA.C17-RCT.25058 ran 'View' on item 'Notepad' (#33196)
+[00:43:16]	CCA.C17-RCT.25058 ran 'View' on item 'Notepad' (#35301)
+[00:45:04]	CCA.C17-JUDGE.OfC.91412 ran 'View' on item 'Notepad' (#33194)
+[00:45:12]	CCA.C17-JUDGE.OfC.91412 ran 'View' on item 'Notepad' (#31088)
+[00:45:39]	CCA.C17-JUDGE.OfC.91412 has gained 10 tokens.
+[00:46:00]	CCA.C17-RCT.25058 has gained 10 tokens.
+[00:46:28]	CCA.C17-RCT.25058 ran 'drop' on item 'Light Bulb' (#35372)
+[00:46:28]	CCA.C17-RCT.25058 has lost a 'Light Bulb' #35372.
+[00:46:32]	CCA.C17-JUDGE.OfC.91412 has spawned 'models/props_combine/combine_bridge_b.mdl'.
+[00:46:35]	CCA.C17-JUDGE.OfC.91412 has spawned 'models/props_interiors/Furniture_Desk01a.mdl'.
+[00:46:40]	CCA.C17-JUDGE.OfC.91412 has taken 35 damage from worldspawn.
+[00:46:42]	CCA.C17-RCT.25058 has taken 15 damage from worldspawn.
+[00:46:49]	CCA.C17-JUDGE.OfC.91412 has taken 0 damage from worldspawn.
+[00:46:56]	CCA.C17-RCT.25058 has taken 112 damage from worldspawn.
+[00:46:57]	worldspawn has killed CCA.C17-RCT.25058.
+[00:47:11]	CCA.C17-JUDGE.OfC.91412 ran 'take' on item 'Light Bulb' (#35372)
+[00:47:11]	CCA.C17-JUDGE.OfC.91412 has gained a 'Light Bulb' #35372.
+[00:47:33]	CCA.C17-RCT.25058 used command '/Radio Coc'.
+[00:50:29]	CCA.C17-RCT.25058 has taken 75 damage from CCA.C17-JUDGE.OfC.91412.
+[00:50:31]	CCA.C17-RCT.25058 has taken 75 damage from CCA.C17-JUDGE.OfC.91412.
+[00:50:31]	CCA.C17-JUDGE.OfC.91412 has killed CCA.C17-RCT.25058 with weapon_357.
+[00:50:39]	CCA.C17-JUDGE.OfC.91412 has gained 10 tokens.
+[00:51:00]	CCA.C17-RCT.25058 has gained 10 tokens.
+[00:53:13]	CCA.C17-RCT.25058 has taken 4 damage from CCA.C17-JUDGE.OfC.91412.
+[00:53:13]	CCA.C17-RCT.25058 has taken 4 damage from CCA.C17-JUDGE.OfC.91412.
+[00:53:13]	CCA.C17-RCT.25058 has taken 4 damage from CCA.C17-JUDGE.OfC.91412.
+[00:53:13]	CCA.C17-RCT.25058 has taken 4 damage from CCA.C17-JUDGE.OfC.91412.
+[00:53:13]	CCA.C17-RCT.25058 has taken 4 damage from CCA.C17-JUDGE.OfC.91412.
+[00:53:14]	CCA.C17-RCT.25058 has taken 4 damage from CCA.C17-JUDGE.OfC.91412.
+[00:53:14]	CCA.C17-RCT.25058 has taken 4 damage from CCA.C17-JUDGE.OfC.91412.
+[00:53:14]	CCA.C17-RCT.25058 has taken 4 damage from CCA.C17-JUDGE.OfC.91412.
+[00:53:14]	CCA.C17-RCT.25058 has taken 4 damage from CCA.C17-JUDGE.OfC.91412.
+[00:53:14]	CCA.C17-RCT.25058 has taken 4 damage from CCA.C17-JUDGE.OfC.91412.
+[00:53:15]	CCA.C17-RCT.25058 has taken 4 damage from CCA.C17-JUDGE.OfC.91412.
+[00:53:15]	CCA.C17-RCT.25058 has taken 4 damage from CCA.C17-JUDGE.OfC.91412.
+[00:53:15]	CCA.C17-RCT.25058 has taken 4 damage from CCA.C17-JUDGE.OfC.91412.
+[00:53:15]	CCA.C17-RCT.25058 has taken 4 damage from CCA.C17-JUDGE.OfC.91412.
+[00:53:18]	CCA.C17-RCT.25058 has taken 28 damage from CCA.C17-JUDGE.OfC.91412.
+[00:53:19]	CCA.C17-RCT.25058 has taken 28 damage from CCA.C17-JUDGE.OfC.91412.
+[00:53:21]	CCA.C17-JUDGE.OfC.91412 has taken 35 damage from CCA.C17-RCT.25058.
+[00:53:22]	CCA.C17-JUDGE.OfC.91412 has taken 35 damage from CCA.C17-RCT.25058.
+[00:53:22]	CCA.C17-JUDGE.OfC.91412 has taken 35 damage from CCA.C17-RCT.25058.
+[00:53:24]	CCA.C17-RCT.25058 has taken 24 damage from CCA.C17-JUDGE.OfC.91412.
+[00:53:24]	CCA.C17-JUDGE.OfC.91412 has taken 35 damage from CCA.C17-RCT.25058.
+[00:53:25]	CCA.C17-JUDGE.OfC.91412 has taken 35 damage from CCA.C17-RCT.25058.
+[00:53:25]	CCA.C17-RCT.25058 has killed CCA.C17-JUDGE.OfC.91412 with ix_stunstick.
+[00:53:34]	CCA.C17-JUDGE.OfC.91412 ran 'Equip' on item 'Shotgun' (#36502)
+[00:53:34]	CCA.C17-JUDGE.OfC.91412 ran 'Equip' on item '357' (#18875)
+[00:53:35]	CCA.C17-JUDGE.OfC.91412 ran 'Equip' on item 'Combat Knife' (#18298)
+[00:53:36]	CCA.C17-JUDGE.OfC.91412 ran 'use' on item '12 Gauge Shells' (#35540)
+[00:53:37]	CCA.C17-JUDGE.OfC.91412 ran 'use' on item '.357 Rounds' (#36505)
+[00:53:56]	CCA.C17-RCT.25058 has taken 75 damage from CCA.C17-JUDGE.OfC.91412.
+[00:53:56]	CCA.C17-JUDGE.OfC.91412 has killed CCA.C17-RCT.25058 with weapon_357.
+[00:54:24]	Mr. Chief (STEAM_0:1:129270116) has disconnected.
+[00:54:32]	NamRm (STEAM_0:0:69476140) has disconnected.
+[10:46:19]	DRD has connected.
+[12:08:40]	DRD (STEAM_0:0:193599766) has disconnected.
+[14:03:00]	FB|| light ROOM has connected.
+[14:04:18]	FB|| light ROOM (STEAM_0:1:17219621) has disconnected.
+[14:05:33]	DRD has connected.
+[14:06:04]	Mr. Chicken has connected.
+[14:06:45]	DRD (STEAM_0:0:193599766) has disconnected.
+[14:06:57]	Mr. Chicken loaded the character 'Jason Delly'
+[14:07:25]	FB|| light ROOM has connected.
+[14:09:02]	FB|| light ROOM loaded the character 'CCA.C17-UNION.SqL.72633'
+[14:10:36]	[OOC] Jason Delly: should come give my armband
+[14:10:50]	[OOC] CCA.C17-UNION.SqL.72633: okay
+[14:11:39]	CCA.C17-UNION.SqL.72633 used command '/ViewData Jason'.
+[14:12:28]	FB|| light ROOM loaded the character 'CCA.C17-QrM.98240'
+[14:13:33]	CCA.C17-QrM.98240 used the 'Armory' vendor.
+[14:13:36]	CCA.C17-QrM.98240 has gained 0 tokens.
+[14:13:36]	CCA.C17-QrM.98240 has gained a 'Green Loyalist Armband' #36805.
+[14:14:22]	CCA.C17-QrM.98240 ran 'drop' on item 'Green Loyalist Armband' (#36805)
+[14:14:22]	CCA.C17-QrM.98240 has lost a 'Green Loyalist Armband' #36805.
+[14:14:26]	FB|| light ROOM loaded the character 'CCA.C17-UNION.SqL.72633'
+[14:14:47]	Jason Delly ran 'take' on item 'Green Loyalist Armband' (#36805)
+[14:14:47]	Jason Delly has gained a 'Green Loyalist Armband' #36805.
+[14:14:51]	Jason Delly ran 'Equip' on item 'Green Loyalist Armband' (#36805)
+[14:14:52]	matt saton has connected.
+[14:15:17]	[LOOC] Jason Delly: probably glitched
+[14:16:10]	[ME] CCA.C17-UNION.SqL.72633: Begins tying the civvie (resist?)
+[14:16:14]	[ME] Jason Delly: does not resist
+[14:16:19]	CCA.C17-UNION.SqL.72633 ran 'Use' on item 'Zip Tie' (#36794)
+[14:16:30]	[ME] CCA.C17-UNION.SqL.72633: Begins searching the civvie.
+[14:16:32]	CCA.C17-UNION.SqL.72633 used command '/CharSearch'.
+[14:16:38]	DRD has connected.
+[14:16:54]	[ME] CCA.C17-UNION.SqL.72633: Begins cutting the civvies ties.
+[14:17:52]	matt saton loaded the character 'Ryan Marnett'
+[14:17:54]	Ryan Marnett entered observer.
+[14:17:57]	CCA.C17-UNION.SqL.72633 used command '/Radio UNION.SqL.72633 is 10-8, ground units report.'.
+[14:18:42]	DRD loaded the character 'CCA.C17-GRID.i2.36307'
+[14:19:11]	[OOC] CCA.C17-GRID.i2.36307: hear me out here
+[14:19:13]	[OOC] Jason Delly: no
+[14:19:14]	[OOC] CCA.C17-UNION.SqL.72633: no
+[14:19:14]	[OOC] CCA.C17-GRID.i2.36307: hl2rp evemt
+[14:19:20]	[OOC] Jason Delly: maybe
+[14:19:26]	CCA.C17-UNION.SqL.72633 has gained 10 tokens.
+[14:20:22]	CCA.C17-GRID.i2.36307 used command '/Radio Unit is 10-8, status is green. Updating 10-20 to Plaza.'.
+[14:20:26]	CCA.C17-UNION.SqL.72633 used command '/Radio Copy'.
+[14:20:47]	[OOC] Jason Delly: im a lyalist
+[14:20:55]	[OOC] Jason Delly: dont i get better apartments?\
+[14:22:14]	Jason Delly used command '/Apply'.
+[14:22:18]	Ryan Marnett exited observer at their location.
+[14:22:18]	Ryan Marnett entered observer.
+[14:22:28]	[ME] CCA.C17-UNION.SqL.72633: Begins typing onto a wrist-mounted PDA device.
+[14:22:32]	CCA.C17-UNION.SqL.72633 used command '/ViewData Jason'.
+[14:23:06]	[OOC] Jason Delly: q
+[14:23:08]	[OOC] Jason Delly: come here
+[14:23:10]	[OOC] Jason Delly: please
+[14:23:12]	[OOC] CCA.C17-GRID.i2.36307: shut
+[14:23:26]	Ryan Marnett exited observer at their location.
+[14:23:27]	[LOOC] Ryan Marnett: what
+[14:23:38]	[LOOC] Jason Delly: can you make these cabnits like actually openable
+[14:23:42]	CCA.C17-GRID.i2.36307 has gained 10 tokens.
+[14:23:45]	[LOOC] Ryan Marnett: this is an armoire
+[14:23:50]	Ryan Marnett has removed map entity #1388 (models/props_c17/furnituredresser001a.mdl).
+[14:23:50]	Ryan Marnett used command '/MapEntRemove'.
+[14:23:53]	Ryan Marnett has spawned 'models/props_c17/FurnitureDresser001a.mdl'.
+[14:23:56]	Ryan Marnett entered observer.
+[14:23:59]	Ryan Marnett exited observer at their location.
+[14:24:02]	Ryan Marnett has removed map entity #1383 (models/props_c17/furnituredrawer001a.mdl).
+[14:24:02]	Ryan Marnett used command '/MapEntRemove'.
+[14:24:05]	Ryan Marnett has spawned 'models/props_c17/FurnitureDrawer001a.mdl'.
+[14:24:10]	Ryan Marnett entered observer.
+[14:24:11]	[OOC] Jason Delly: i cant open it
+[14:24:17]	Ryan Marnett exited observer at their location.
+[14:24:17]	Ryan Marnett entered observer.
+[14:24:18]	Ryan Marnett exited observer at their location.
+[14:24:21]	[OOC] Ryan Marnett: must not be a storage prop
+[14:24:22]	[OOC] Ryan Marnett: /shrug
+[14:24:23]	Ryan Marnett entered observer.
+[14:24:25]	[OOC] Jason Delly: q
+[14:24:26]	CCA.C17-UNION.SqL.72633 has gained 10 tokens.
+[14:24:27]	[OOC] Jason Delly: you are
+[14:24:28]	[OOC] Ryan Marnett: what
+[14:24:28]	[OOC] Jason Delly: a man
+[14:24:29]	[LOOC] CCA.C17-GRID.i2.36307: cunt
+[14:24:44]	[OOC] Jason Delly: can i get a bath tub i need to clean myself
+[14:24:57]	[OOC] Jason Delly: why
+[14:24:58]	Ryan Marnett has removed map entity #3399 (models/props_interiors/radiator01a.mdl).
+[14:24:58]	Ryan Marnett used command '/MapEntRemove'.
+[14:25:06]	[OOC] CCA.C17-GRID.i2.36307: do we even have running water
+[14:25:08]	Ryan Marnett has spawned 'models/props_c17/FurnitureBathtub001a.mdl'.
+[14:25:11]	[OOC] Ryan Marnett: yes you do
+[14:25:13]	[OOC] Jason Delly: make some bath bombs with the toasters
+[14:25:20]	[OOC] CCA.C17-GRID.i2.36307: uncalled for
+[14:25:26]	[OOC] CCA.C17-UNION.SqL.72633: Fucked
+[14:25:32]	[OOC] Ryan Marnett: no, no, try that IC
+[14:25:34]	[OOC] Ryan Marnett: please
+[14:25:38]	[OOC] Jason Delly: are these windows allowed to be open?
+[14:25:44]	[OOC] Ryan Marnett: sure?
+[14:25:44]	[ME] Jason Delly: opens window
+[14:25:47]	CCA.C17-GRID.i2.36307 has spawned 'models/bioshockinfinite/hext_banana.mdl'.
+[14:25:52]	[OOC] Jason Delly: open the window
+[14:25:57]	[OOC] Ryan Marnett: i can't
+[14:25:59]	[OOC] Jason Delly: why
+[14:26:03]	[OOC] Ryan Marnett: it's not possible
+[14:26:04]	CCA.C17-GRID.i2.36307 has spawned 'models/foodnhouseholditems/lettuce.mdl'.
+[14:26:08]	Ryan Marnett used command '/ToggleRaise'.
+[14:26:10]	[OOC] CCA.C17-GRID.i2.36307: q why does this prop exist
+[14:26:11]	[OOC] Jason Delly: make it possible gamer boy
+[14:26:12]	Ryan Marnett used command '/ToggleRaise'.
+[14:26:15]	[OOC] Ryan Marnett: I CAN'T JUST MAKE IT POSSIBLE
+[14:26:19]	[OOC] Ryan Marnett: IT IS IMPOSSIBLE
+[14:26:27]	[OOC] Jason Delly: neboulas has it
+[14:26:32]	[OOC] Ryan Marnett: no it doesn't
+[14:26:35]	[ME] CCA.C17-GRID.i2.36307: eat letuc
+[14:26:36]	[OOC] Jason Delly: pretty sure
+[14:26:37]	CCA.C17-GRID.i2.36307 rolled 55 out of 100.
+[14:26:37]	CCA.C17-GRID.i2.36307 used command '/Roll'.
+[14:26:43]	[OOC] Ryan Marnett: i can't make change a solid wall chicken
+[14:26:52]	[OOC] Jason Delly: code it then
+[14:26:55]	CCA.C17-GRID.i2.36307 has spawned 'models/foodnhouseholditems/grapes3.mdl'.
+[14:26:57]	[OOC] Ryan Marnett: THAT'S NOT HOW IT FUCKING WORKS
+[14:26:58]	[OOC] Jason Delly: well 
+[14:26:58]	[OOC] Ryan Marnett: I JUST SAID
+[14:27:01]	[OOC] Ryan Marnett: YOU DENSE FUCKING IDIOT
+[14:27:04]	CCA.C17-GRID.i2.36307 has spawned 'models/foodnhouseholditems/grapes1.mdl'.
+[14:27:04]	[OOC] Ryan Marnett: I CANNOT
+[14:27:05]	[OOC] Ryan Marnett: CHANGE
+[14:27:06]	[OOC] Jason Delly: people do it on there own maps
+[14:27:06]	[OOC] Ryan Marnett: A SOLID
+[14:27:07]	[OOC] Ryan Marnett: WALL
+[14:27:09]	[OOC] Ryan Marnett: OKAY
+[14:27:10]	[OOC] Ryan Marnett: YES
+[14:27:11]	[OOC] Jason Delly: why cant you?
+[14:27:12]	[OOC] Ryan Marnett: THEY MAKE THOSE MAPS
+[14:27:19]	[OOC] Jason Delly: make a map
+[14:27:19]	[OOC] Ryan Marnett: I AM NOT ALLOWED TO MODIFY THE MAP
+[14:27:21]	[OOC] Jason Delly: edit it
+[14:27:25]	[OOC] Ryan Marnett: I AM NOT FUCKING ALLOWED TO
+[14:27:26]	CCA.C17-GRID.i2.36307 has spawned 'models/foodnhouseholditems/mcdburgerbox.mdl'.
+[14:27:32]	[OOC] Jason Delly: alot of people have tho?
+[14:27:32]	[OOC] CCA.C17-UNION.SqL.72633: L M A O
+[14:27:36]	[OOC] Jason Delly: ask the creator
+[14:27:38]	[OOC] Ryan Marnett: NOT THIS MAP YOU FUCKING IDIOT
+[14:27:47]	[OOC] CCA.C17-UNION.SqL.72633: This is fucking amazing
+[14:27:49]	CCA.C17-GRID.i2.36307 has spawned 'models/foodnhouseholditems/balloonshappy.mdl'.
+[14:27:57]	[OOC] Jason Delly: make it so you can rotate props
+[14:28:16]	[OOC] Ryan Marnett: with the hands you mean
+[14:28:17]	[OOC] CCA.C17-UNION.SqL.72633: okay
+[14:28:18]	[OOC] Jason Delly: yes
+[14:28:25]	[OOC] Ryan Marnett: sure that's absolutely a priority for me
+[14:28:29]	[OOC] Jason Delly: okay
+[14:28:33]	CCA.C17-GRID.i2.36307 has spawned 'models/foodnhouseholditems/chipslays.mdl'.
+[14:28:35]	[OOC] Jason Delly: well get working gamer boy
+[14:28:42]	CCA.C17-GRID.i2.36307 has gained 10 tokens.
+[14:28:59]	[OOC] Ryan Marnett: let me get on that after i add everything else because that is a tiny priority
+[14:29:07]	[OOC] Jason Delly: why arent you working rn?
+[14:29:09]	CCA.C17-UNION.SqL.72633 used command '/Radio Updating 10-20 to Nexus, ground units report on viscon with anti-civil activity.'.
+[14:29:11]	[OOC] Ryan Marnett: i
+[14:29:12]	[OOC] Ryan Marnett: AM
+[14:29:13]	[OOC] Ryan Marnett: WRITING
+[14:29:15]	[OOC] Ryan Marnett: A CCA GUIDE
+[14:29:18]	[OOC] CCA.C17-GRID.i2.36307: honestly that would be cool but it's not needed rn
+[14:29:18]	[OOC] Jason Delly: not important rn
+[14:29:24]	[OOC] Ryan Marnett: YES IT IS
+[14:29:25]	[OOC] Jason Delly: windows moving is more
+[14:29:26]	CCA.C17-UNION.SqL.72633 has gained 10 tokens.
+[14:29:26]	[OOC] CCA.C17-GRID.i2.36307: yes it is
+[14:29:31]	[OOC] Ryan Marnett: WE DON'T HAVE AN OFFICIAL ONE
+[14:29:33]	[OOC] Jason Delly: q
+[14:29:36]	[OOC] CCA.C17-GRID.i2.36307: chicken if you want an open window punch it
+[14:29:36]	[OOC] Jason Delly: come rotate my tv
+[14:29:53]	[OOC] Jason Delly: give it a cord
+[14:29:54]	Ryan Marnett used command '/ToggleRaise'.
+[14:30:01]	Ryan Marnett exited observer at their location.
+[14:30:02]	Ryan Marnett entered observer.
+[14:30:02]	Ryan Marnett exited observer at their location.
+[14:30:03]	[OOC] Ryan Marnett: no fuck you
+[14:30:04]	Jason Delly has taken 48 damage from Ryan Marnett.
+[14:30:04]	Ryan Marnett has killed Jason Delly with weapon_shotgun.
+[14:30:12]	Ryan Marnett entered observer.
+[14:30:13]	CCA.C17-UNION.SqL.72633 ran 'take' on item 'Civil Protection Functionary Grade Ration' (#36806)
+[14:30:13]	CCA.C17-UNION.SqL.72633 has gained a 'Civil Protection Functionary Grade Ration' #36806.
+[14:30:15]	[OOC] Jason Delly: make a phone that calls cps
+[14:30:15]	CCA.C17-UNION.SqL.72633 ran 'Open' on item 'Civil Protection Functionary Grade Ration' (#36806)
+[14:30:15]	CCA.C17-UNION.SqL.72633 has gained a 'Civil Protection Functionary Grade Food Product' #36807.
+[14:30:15]	CCA.C17-UNION.SqL.72633 has gained a 'Civil Protection Functionary Grade Supplements' #36808.
+[14:30:15]	CCA.C17-UNION.SqL.72633 has gained a 'Civil Protection Functionary Grade Drink' #36809.
+[14:30:16]	CCA.C17-UNION.SqL.72633 ran 'Eat' on item 'Civil Protection Functionary Grade Food Product' (#36807)
+[14:30:16]	CCA.C17-UNION.SqL.72633 ran 'Consume' on item 'Civil Protection Functionary Grade Supplements' (#36808)
+[14:30:17]	CCA.C17-UNION.SqL.72633 ran 'Consume' on item 'Civil Protection Functionary Grade Drink' (#36809)
+[14:30:22]	[OOC] Ryan Marnett: anything else on your list of demands
+[14:30:27]	[OOC] CCA.C17-GRID.i2.36307: working phones would be cool tbf
+[14:30:31]	[OOC] Ryan Marnett: they would
+[14:30:32]	[OOC] Jason Delly: make vorts have magic
+[14:30:33]	[OOC] CCA.C17-UNION.SqL.72633: (that won't be used ever)
+[14:30:34]	[OOC] CCA.C17-GRID.i2.36307: but as was said, not important
+[14:30:36]	[OOC] Jason Delly: without pill
+[14:30:36]	CCA.C17-UNION.SqL.72633 ran 'take' on item 'Civil Protection Functionary Grade Ration' (#36806)
+[14:30:36]	CCA.C17-UNION.SqL.72633 has gained a 'Civil Protection Functionary Grade Ration' #36806.
+[14:30:40]	CCA.C17-UNION.SqL.72633 ran 'Open' on item 'Civil Protection Functionary Grade Ration' (#36806)
+[14:30:40]	CCA.C17-UNION.SqL.72633 has gained a 'Civil Protection Functionary Grade Food Product' #36807.
+[14:30:40]	CCA.C17-UNION.SqL.72633 has gained a 'Civil Protection Functionary Grade Supplements' #36808.
+[14:30:40]	CCA.C17-UNION.SqL.72633 has gained a 'Civil Protection Functionary Grade Drink' #36809.
+[14:30:41]	CCA.C17-UNION.SqL.72633 ran 'Consume' on item 'Civil Protection Functionary Grade Drink' (#36809)
+[14:30:41]	[OOC] Jason Delly: make vort masters
+[14:30:42]	Ryan Marnett exited observer at their location.
+[14:30:44]	Ryan Marnett entered observer.
+[14:30:45]	Ryan Marnett exited observer at their location.
+[14:30:45]	Ryan Marnett has taken 12 damage from worldspawn.
+[14:30:45]	Ryan Marnett entered observer.
+[14:30:46]	Ryan Marnett exited observer at their location.
+[14:30:47]	Ryan Marnett entered observer.
+[14:30:54]	[OOC] CCA.C17-GRID.i2.36307: i wish i could make a vort char ;(
+[14:30:54]	[OOC] Jason Delly: bring gman in new campiegn
+[14:30:55]	[OOC] Ryan Marnett: pretty sure a good CCA guide is important
+[14:30:56]	Ryan Marnett exited observer at their location.
+[14:31:02]	[OOC] Ryan Marnett: how is gman relevant to this campaign
+[14:31:03]	[OOC] Jason Delly: cca is gay
+[14:31:03]	Ryan Marnett entered observer.
+[14:31:04]	[OOC] Jason Delly: cca is gay
+[14:31:07]	Ryan Marnett exited observer at their location.
+[14:31:09]	[OOC] Jason Delly: they smell like bitches
+[14:31:10]	[OOC] Ryan Marnett: what's wrong with being gay
+[14:31:11]	[OOC] Jason Delly: and poop
+[14:31:14]	[OOC] Jason Delly: alot
+[14:31:15]	[OOC] CCA.C17-GRID.i2.36307: i wish i could make a vort char ;((((((((((((((((((((((((((((((((((((((((((((((((((((((
+[14:31:15]	Ryan Marnett entered observer.
+[14:31:16]	Ryan Marnett exited observer at their location.
+[14:31:17]	Ryan Marnett entered observer.
+[14:31:17]	Ryan Marnett exited observer at their location.
+[14:31:18]	Ryan Marnett entered observer.
+[14:31:18]	Ryan Marnett exited observer at their location.
+[14:31:18]	Ryan Marnett entered observer.
+[14:31:18]	Ryan Marnett exited observer at their location.
+[14:31:19]	Ryan Marnett entered observer.
+[14:31:19]	Ryan Marnett exited observer at their location.
+[14:31:19]	Ryan Marnett entered observer.
+[14:31:20]	[OOC] Jason Delly: you dont get into heaven
+[14:31:20]	Ryan Marnett exited observer at their location.
+[14:31:20]	[OOC] CCA.C17-GRID.i2.36307: pls kick chicken asap
+[14:31:20]	Ryan Marnett entered observer.
+[14:31:21]	Ryan Marnett exited observer at their location.
+[14:31:21]	Ryan Marnett entered observer.
+[14:31:21]	Ryan Marnett exited observer at their location.
+[14:31:22]	Ryan Marnett entered observer.
+[14:31:22]	Ryan Marnett exited observer at their location.
+[14:31:22]	[OOC] CCA.C17-UNION.SqL.72633: Give us reasons Chicken
+[14:31:26]	[OOC] Ryan Marnett: i would love to kick chicken
+[14:31:26]	Ryan Marnett entered observer.
+[14:31:26]	Ryan Marnett exited observer at their location.
+[14:31:26]	Ryan Marnett entered observer.
+[14:31:27]	Ryan Marnett exited observer at their location.
+[14:31:27]	Ryan Marnett entered observer.
+[14:31:27]	Ryan Marnett exited observer at their location.
+[14:31:28]	Ryan Marnett entered observer.
+[14:31:28]	Ryan Marnett exited observer at their location.
+[14:31:29]	Ryan Marnett entered observer.
+[14:31:29]	Ryan Marnett exited observer at their location.
+[14:31:31]	Ryan Marnett entered observer.
+[14:31:40]	[OOC] Ryan Marnett: wait are you saying that gay people don't get into heaven
+[14:31:46]	[OOC] Jason Delly: it says in bible
+[14:31:46]	[OOC] CCA.C17-GRID.i2.36307: his comments seem kick worthy and really hurt my feelings :(
+[14:31:49]	[OOC] CCA.C17-UNION.SqL.72633: okay
+[14:31:56]	[OOC] CCA.C17-UNION.SqL.72633: And I say no u
+[14:32:01]	Ryan Marnett exited observer at their location.
+[14:32:05]	[OOC] Ryan Marnett: bible also says 
+[14:32:14]	Ryan Marnett entered observer.
+[14:32:16]	Ryan Marnett exited observer at their location.
+[14:32:17]	Ryan Marnett entered observer.
+[14:32:18]	Ryan Marnett exited observer at their location.
+[14:32:35]	[OOC] Ryan Marnett: bible also says women who have sex out of wedlock should be stoned
+[14:32:35]	Ryan Marnett entered observer.
+[14:32:35]	Ryan Marnett exited observer at their location.
+[14:32:41]	Ryan Marnett entered observer.
+[14:32:41]	Ryan Marnett exited observer at their location.
+[14:32:42]	Ryan Marnett entered observer.
+[14:32:42]	Ryan Marnett exited observer at their location.
+[14:32:44]	Ryan Marnett has taken 21 damage from worldspawn.
+[14:32:46]	CCA.C17-UNION.SqL.72633 used command '/Radio Updating 10-20 to Plaza.'.
+[14:32:50]	Ryan Marnett entered observer.
+[14:32:51]	Ryan Marnett exited observer at their location.
+[14:32:52]	Ryan Marnett entered observer.
+[14:32:53]	Ryan Marnett exited observer at their location.
+[14:32:53]	Ryan Marnett entered observer.
+[14:32:53]	Ryan Marnett exited observer at their location.
+[14:32:54]	Ryan Marnett entered observer.
+[14:32:54]	Ryan Marnett exited observer at their location.
+[14:32:56]	Ryan Marnett entered observer.
+[14:32:57]	Ryan Marnett exited observer at their location.
+[14:32:57]	Ryan Marnett entered observer.
+[14:32:57]	Ryan Marnett exited observer at their location.
+[14:32:59]	[OOC] CCA.C17-GRID.i2.36307: there's exodus 23:19 but i do that all the time
+[14:32:59]	Ryan Marnett entered observer.
+[14:33:00]	Ryan Marnett exited observer at their location.
+[14:33:00]	Ryan Marnett entered observer.
+[14:33:01]	Ryan Marnett exited observer at their location.
+[14:33:42]	CCA.C17-GRID.i2.36307 has gained 10 tokens.
+[14:33:58]	[OOC] CCA.C17-GRID.i2.36307: there's leviticus 25:44 BUT YOU DON'T SEE ME ENSLAVING THE FUCKING AMERICANS NOW DO YOU
+[14:33:59]	[OOC] Ryan Marnett: learn to spell revelations if you're gonna be reliant on the bible
+[14:33:59]	Ryan Marnett entered observer.
+[14:34:00]	Ryan Marnett exited observer at their location.
+[14:34:01]	Ryan Marnett entered observer.
+[14:34:01]	Ryan Marnett exited observer at their location.
+[14:34:02]	Ryan Marnett entered observer.
+[14:34:02]	Ryan Marnett exited observer at their location.
+[14:34:02]	Ryan Marnett entered observer.
+[14:34:03]	Ryan Marnett exited observer at their location.
+[14:34:03]	Ryan Marnett entered observer.
+[14:34:03]	Ryan Marnett exited observer at their location.
+[14:34:05]	Ryan Marnett has taken 13 damage from worldspawn.
+[14:34:14]	Ryan Marnett entered observer.
+[14:34:15]	Ryan Marnett exited observer at their location.
+[14:34:22]	Ryan Marnett entered observer.
+[14:34:23]	Ryan Marnett exited observer at their location.
+[14:34:24]	Ryan Marnett entered observer.
+[14:34:25]	Ryan Marnett exited observer at their location.
+[14:34:25]	Ryan Marnett entered observer.
+[14:34:26]	CCA.C17-UNION.SqL.72633 has gained 10 tokens.
+[14:34:27]	Ryan Marnett exited observer at their location.
+[14:34:31]	Ryan Marnett entered observer.
+[14:34:33]	Ryan Marnett exited observer at their location.
+[14:34:33]	Ryan Marnett entered observer.
+[14:34:33]	Ryan Marnett exited observer at their location.
+[14:34:34]	CCA.C17-GRID.i2.36307 used command '/ToggleRaise'.
+[14:34:35]	Ryan Marnett entered observer.
+[14:34:35]	Ryan Marnett exited observer at their location.
+[14:34:36]	Ryan Marnett entered observer.
+[14:34:37]	Ryan Marnett exited observer at their location.
+[14:34:37]	Ryan Marnett entered observer.
+[14:34:39]	CCA.C17-UNION.SqL.72633 used command '/Radio Actually, allow me to do it'.
+[14:34:40]	Ryan Marnett exited observer at their location.
+[14:34:40]	Ryan Marnett entered observer.
+[14:34:41]	Ryan Marnett exited observer at their location.
+[14:34:41]	Ryan Marnett entered observer.
+[14:34:41]	Ryan Marnett exited observer at their location.
+[14:34:42]	Ryan Marnett entered observer.
+[14:34:43]	CCA.C17-GRID.i2.36307 used command '/ToggleRaise'.
+[14:34:43]	Ryan Marnett exited observer at their location.
+[14:34:48]	Ryan Marnett entered observer.
+[14:34:48]	Ryan Marnett exited observer at their location.
+[14:34:51]	Ryan Marnett entered observer.
+[14:34:53]	Ryan Marnett exited observer at their location.
+[14:34:53]	Ryan Marnett entered observer.
+[14:34:58]	Ryan Marnett exited observer at their location.
+[14:34:59]	Ryan Marnett entered observer.
+[14:35:00]	Ryan Marnett exited observer at their location.
+[14:35:00]	Ryan Marnett entered observer.
+[14:35:01]	[ME] CCA.C17-UNION.SqL.72633: Brings up his Stunbaton and flicks it onto "low"
+[14:35:19]	[LOOC] Jason Delly: can we void this since i couldent talk
+[14:35:33]	[LOOC] CCA.C17-UNION.SqL.72633: You shouldn't have done anything in this first place if you couldn't have talked
+[14:35:41]	[OOC] Jason Delly: jesus died for our sins
+[14:35:45]	[OOC] CCA.C17-UNION.SqL.72633: okay
+[14:35:52]	Ryan Marnett exited observer at their location.
+[14:35:53]	Ryan Marnett entered observer.
+[14:35:53]	Ryan Marnett exited observer at their location.
+[14:35:54]	[ME] CCA.C17-UNION.SqL.72633: Begins slamming his stunbaton into the civvie.
+[14:35:55]	Jason Delly has taken 5 damage from CCA.C17-UNION.SqL.72633.
+[14:35:55]	Ryan Marnett entered observer.
+[14:35:55]	Jason Delly has taken 5 damage from CCA.C17-UNION.SqL.72633.
+[14:35:57]	Jason Delly has taken 5 damage from CCA.C17-UNION.SqL.72633.
+[14:35:58]	[OOC] Ryan Marnett: not disagreeing with that
+[14:35:58]	Ryan Marnett used command '/DoorSetHidden true'.
+[14:36:09]	[OOC] Ryan Marnett: Jesus was a cool guy
+[14:36:09]	Ryan Marnett exited observer at their location.
+[14:36:10]	Ryan Marnett entered observer.
+[14:36:10]	Ryan Marnett exited observer at their location.
+[14:36:14]	[OOC] Ryan Marnett: but the bible is outdated as shit
+[14:36:15]	Ryan Marnett entered observer.
+[14:36:15]	Ryan Marnett exited observer at their location.
+[14:36:16]	Ryan Marnett entered observer.
+[14:36:17]	[OOC] Jason Delly: "For whatsoever man he be that hath a blemish, he shall not approach: a blind man, or a lame, or he that hath a flat nose, or any thing superfluous, Or a man that is brokenfooted, or brokenhanded, Or crookbackt, or a dwarf, or that hath a blemish in his
+[14:36:20]	Ryan Marnett exited observer at their location.
+[14:36:20]	Ryan Marnett entered observer.
+[14:36:22]	Ryan Marnett exited observer at their location.
+[14:36:22]	Ryan Marnett entered observer.
+[14:36:23]	Ryan Marnett exited observer at their location.
+[14:36:24]	Ryan Marnett entered observer.
+[14:36:26]	Ryan Marnett exited observer at their location.
+[14:36:26]	Ryan Marnett entered observer.
+[14:36:29]	Ryan Marnett exited observer at their location.
+[14:36:30]	Ryan Marnett entered observer.
+[14:36:31]	[OOC] CCA.C17-UNION.SqL.72633: okay
+[14:36:33]	Ryan Marnett exited observer at their location.
+[14:36:33]	Ryan Marnett entered observer.
+[14:36:38]	Ryan Marnett exited observer at their location.
+[14:36:38]	Mr. Chief has connected.
+[14:36:38]	Ryan Marnett entered observer.
+[14:36:43]	Ryan Marnett exited observer at their location.
+[14:36:44]	Ryan Marnett entered observer.
+[14:36:45]	Ryan Marnett exited observer at their location.
+[14:36:45]	Ryan Marnett entered observer.
+[14:36:47]	[OOC] Jason Delly: A Woman's Punishment For Defending Her Husband = Cut Off Her Hand
+[14:36:48]	Ryan Marnett exited observer at their location.
+[14:36:49]	Ryan Marnett entered observer.
+[14:36:49]	Ryan Marnett exited observer at their location.
+[14:36:50]	Ryan Marnett entered observer.
+[14:36:51]	Ryan Marnett exited observer at their location.
+[14:36:51]	Ryan Marnett entered observer.
+[14:36:53]	Ryan Marnett exited observer at their location.
+[14:36:53]	Ryan Marnett entered observer.
+[14:36:55]	Ryan Marnett exited observer at their location.
+[14:36:55]	Ryan Marnett entered observer.
+[14:36:55]	Ryan Marnett exited observer at their location.
+[14:36:56]	Ryan Marnett entered observer.
+[14:36:56]	Ryan Marnett exited observer at their location.
+[14:36:56]	Ryan Marnett entered observer.
+[14:36:57]	Ryan Marnett exited observer at their location.
+[14:36:58]	Ryan Marnett entered observer.
+[14:36:59]	Ryan Marnett exited observer at their location.
+[14:36:59]	Ryan Marnett entered observer.
+[14:37:01]	Ryan Marnett exited observer at their location.
+[14:37:01]	Ryan Marnett entered observer.
+[14:37:10]	Ryan Marnett exited observer at their location.
+[14:37:10]	Ryan Marnett entered observer.
+[14:37:15]	[OOC] CCA.C17-UNION.SqL.72633: That is fucked and stupid as shit
+[14:37:21]	[OOC] Jason Delly: Cursing At Your Parents Warrants Death
+[14:37:27]	[OOC] Jason Delly: "For every one that curseth his father or his mother shall be surely put to death: he hath cursed his father or his mother; his blood shall be upon him." (Leviticus 20:9)
+[14:37:29]	[OOC] CCA.C17-UNION.SqL.72633: HAHAHAHAH
+[14:37:35]	[OOC] CCA.C17-GRID.i2.36307: lightroom observe
+[14:37:39]	Ryan Marnett exited observer at their location.
+[14:37:39]	Ryan Marnett entered observer.
+[14:37:39]	Ryan Marnett exited observer at their location.
+[14:37:42]	[OOC] Ryan Marnett: that's not a good thing
+[14:37:42]	Ryan Marnett entered observer.
+[14:37:42]	Ryan Marnett exited observer at their location.
+[14:37:43]	Ryan Marnett entered observer.
+[14:37:44]	Ryan Marnett exited observer at their location.
+[14:37:44]	Ryan Marnett entered observer.
+[14:37:45]	Ryan Marnett exited observer at their location.
+[14:37:46]	Ryan Marnett entered observer.
+[14:37:46]	Ryan Marnett exited observer at their location.
+[14:37:47]	Ryan Marnett has taken 5 damage from worldspawn.
+[14:37:49]	[OOC] CCA.C17-UNION.SqL.72633: UNGA BUNGA, IF YOU SAY CURSE YOU DIE UNGA BUNGA
+[14:37:49]	[OOC] Jason Delly: Men With Wounded or Missing Male Parts Are Not Allowed in Church
+[14:37:51]	[OOC] Ryan Marnett: exactly, the bible is outdated as fuck
+[14:37:51]	Ryan Marnett entered observer.
+[14:37:51]	Ryan Marnett exited observer at their location.
+[14:37:52]	Ryan Marnett entered observer.
+[14:37:53]	Ryan Marnett exited observer at their location.
+[14:37:54]	Ryan Marnett entered observer.
+[14:37:54]	Ryan Marnett exited observer at their location.
+[14:37:55]	Ryan Marnett entered observer.
+[14:37:55]	Ryan Marnett exited observer at their location.
+[14:37:56]	[OOC] Jason Delly: "He that is wounded in the stones, or hath his privy member cut off, shall not enter into the congregation of the Lord."(Deuteronomy 23:1)
+[14:37:56]	Ryan Marnett entered observer.
+[14:37:57]	Ryan Marnett exited observer at their location.
+[14:37:58]	Ryan Marnett entered observer.
+[14:37:59]	Ryan Marnett exited observer at their location.
+[14:38:01]	Ryan Marnett entered observer.
+[14:38:01]	Ryan Marnett exited observer at their location.
+[14:38:03]	Ryan Marnett entered observer.
+[14:38:03]	Ryan Marnett exited observer at their location.
+[14:38:04]	Ryan Marnett entered observer.
+[14:38:06]	Ryan Marnett exited observer at their location.
+[14:38:07]	Ryan Marnett entered observer.
+[14:38:07]	Ryan Marnett exited observer at their location.
+[14:38:09]	Ryan Marnett entered observer.
+[14:38:10]	[OOC] Jason Delly: If Your Brother Dies, You Need to Bang His Wife
+[14:38:15]	[OOC] CCA.C17-UNION.SqL.72633: I hope to christ Chicken doesn't thing this is good
+[14:38:17]	[OOC] Jason Delly: If Your Brother Dies, You Need to Bang His Wife
+[14:38:19]	Mr. Chief loaded the character 'Klaus Ludwig'
+[14:38:20]	[OOC] Jason Delly: "Master, Moses wrote unto us, If a man's brother die, and leave his wife behind him, and leave no children, that his brother should take his wife, and raise up seed unto his brother." (Mark 12:19)
+[14:38:24]	[OOC] CCA.C17-UNION.SqL.72633: think*
+[14:38:37]	Ryan Marnett exited observer at their location.
+[14:38:37]	Ryan Marnett entered observer.
+[14:38:37]	Ryan Marnett exited observer at their location.
+[14:38:38]	Ryan Marnett entered observer.
+[14:38:39]	Ryan Marnett exited observer at their location.
+[14:38:39]	Ryan Marnett entered observer.
+[14:38:39]	Ryan Marnett exited observer at their location.
+[14:38:41]	Ryan Marnett has taken 13 damage from worldspawn.
+[14:38:41]	Ryan Marnett entered observer.
+[14:38:42]	CCA.C17-GRID.i2.36307 has gained 10 tokens.
+[14:38:42]	Ryan Marnett exited observer at their location.
+[14:38:43]	Ryan Marnett has taken 31 damage from worldspawn.
+[14:38:44]	Ryan Marnett entered observer.
+[14:38:45]	Ryan Marnett exited observer at their location.
+[14:38:45]	Ryan Marnett entered observer.
+[14:38:54]	Ryan Marnett exited observer at their location.
+[14:38:54]	Ryan Marnett entered observer.
+[14:38:55]	Ryan Marnett exited observer at their location.
+[14:38:56]	Ryan Marnett entered observer.
+[14:38:57]	Ryan Marnett exited observer at their location.
+[14:39:26]	CCA.C17-UNION.SqL.72633 has gained 10 tokens.
+[14:39:33]	[OOC] Jason Delly: Women Will Never Teach Or Have Authority Over Men
+[14:39:39]	Ryan Marnett entered observer.
+[14:39:41]	[OOC] Jason Delly: "I permit no woman to teach or have authority over men; she is to keep silent." Timothy 2:11
+[14:39:46]	[OOC] CCA.C17-GRID.i2.36307: do you agree with that, chicken
+[14:39:47]	[OOC] Jason Delly: im using bible slang
+[14:39:48]	Ryan Marnett exited observer at their location.
+[14:39:49]	Ryan Marnett entered observer.
+[14:39:49]	Ryan Marnett exited observer at their location.
+[14:39:53]	[OOC] Ryan Marnett: chicken stop or you're being muted
+[14:39:59]	Ryan Marnett entered observer.
+[14:40:00]	CCA.C17-UNION.SqL.72633 used command '/Radio Ground units be advised: UNION.SqL.72633 and GRID.I2.36307 moving to D3 for inspection of a room.'.
+[14:40:53]	Ryan Marnett exited observer at their location.
+[14:40:53]	Ryan Marnett entered observer.
+[14:40:55]	CCA.C17-GRID.i2.36307 used command '/ViewData delly'.
+[14:40:57]	Ryan Marnett exited observer at their location.
+[14:40:58]	Ryan Marnett entered observer.
+[14:40:58]	Ryan Marnett exited observer at their location.
+[14:40:58]	Ryan Marnett entered observer.
+[14:41:00]	Ryan Marnett exited observer at their location.
+[14:41:00]	Ryan Marnett has taken 12 damage from worldspawn.
+[14:41:00]	Ryan Marnett entered observer.
+[14:41:01]	Klaus Ludwig ran 'take' on item 'Resin' (#36463)
+[14:41:01]	Klaus Ludwig has gained a 'Resin' #36463.
+[14:41:07]	[ME] Klaus Ludwig: picks up the shiny puck of metal.
+[14:41:12]	Ryan Marnett exited observer at their location.
+[14:41:13]	Ryan Marnett entered observer.
+[14:41:14]	Ryan Marnett exited observer at their location.
+[14:41:14]	Ryan Marnett entered observer.
+[14:41:15]	Ryan Marnett exited observer at their location.
+[14:41:15]	Ryan Marnett entered observer.
+[14:41:17]	Ryan Marnett exited observer at their location.
+[14:41:18]	Ryan Marnett entered observer.
+[14:41:24]	Ryan Marnett exited observer at their location.
+[14:41:25]	Ryan Marnett entered observer.
+[14:41:27]	Ryan Marnett exited observer at their location.
+[14:41:27]	Ryan Marnett entered observer.
+[14:41:29]	Ryan Marnett exited observer at their location.
+[14:41:29]	Ryan Marnett entered observer.
+[14:41:30]	Ryan Marnett exited observer at their location.
+[14:41:31]	Ryan Marnett has taken 15 damage from worldspawn.
+[14:41:31]	Ryan Marnett entered observer.
+[14:41:31]	CCA.C17-UNION.SqL.72633 ran 'Equip' on item 'Combat Knife' (#19067)
+[14:42:22]	Ryan Marnett exited observer at their location.
+[14:42:22]	Ryan Marnett entered observer.
+[14:42:23]	Ryan Marnett exited observer at their location.
+[14:42:23]	Ryan Marnett entered observer.
+[14:42:27]	Ryan Marnett exited observer at their location.
+[14:42:28]	Ryan Marnett entered observer.
+[14:42:28]	Ryan Marnett exited observer at their location.
+[14:42:29]	Ryan Marnett entered observer.
+[14:42:57]	[ME] Klaus Ludwig: searches the dump
+[14:42:58]	Klaus Ludwig rolled 79 out of 100.
+[14:42:58]	Klaus Ludwig used command '/Roll'.
+[14:42:58]	[ME] CCA.C17-GRID.i2.36307: searches the fucker i have no ties :(
+[14:43:00]	Ryan Marnett used command '/adminspawnmenu'.
+[14:43:09]	[ME] Jason Delly: has no contraband just normal items
+[14:43:21]	Ryan Marnett has spawned "Disposable Syringe"
+[14:43:21]	Ryan Marnett has spawned "Disposable Syringe"
+[14:43:23]	Ryan Marnett has spawned "Resin"
+[14:43:24]	Ryan Marnett has spawned "Resin"
+[14:43:27]	Klaus Ludwig ran 'take' on item 'Disposable Syringe' (#36810)
+[14:43:27]	Klaus Ludwig has gained a 'Disposable Syringe' #36810.
+[14:43:28]	Klaus Ludwig ran 'take' on item 'Disposable Syringe' (#36809)
+[14:43:28]	Klaus Ludwig has gained a 'Disposable Syringe' #36809.
+[14:43:36]	Klaus Ludwig ran 'take' on item 'Resin' (#36812)
+[14:43:36]	Klaus Ludwig has gained a 'Resin' #36812.
+[14:43:37]	Klaus Ludwig ran 'take' on item 'Resin' (#36811)
+[14:43:37]	Klaus Ludwig has gained a 'Resin' #36811.
+[14:43:42]	CCA.C17-GRID.i2.36307 has gained 10 tokens.
+[14:43:51]	Klaus Ludwig used the 'Resin Deposit' vendor.
+[14:43:58]	Ryan Marnett used the 'Resin Deposit' vendor.
+[14:44:26]	CCA.C17-UNION.SqL.72633 has gained 10 tokens.
+[14:44:43]	Ryan Marnett used command '/ToggleRaise'.
+[14:44:44]	Ryan Marnett used command '/ToggleRaise'.
+[14:44:45]	Ryan Marnett exited observer at their location.
+[14:44:46]	Ryan Marnett entered observer.
+[14:44:51]	Ryan Marnett exited observer at their location.
+[14:44:51]	Ryan Marnett entered observer.
+[14:44:52]	Ryan Marnett exited observer at their location.
+[14:45:11]	CCA.C17-GRID.i2.36307 has spawned 'models/gibs/ice_shard03.mdl'.
+[14:45:12]	CCA.C17-GRID.i2.36307 has spawned 'models/gibs/ice_shard03.mdl'.
+[14:45:39]	Klaus Ludwig ran 'take' on item 'Resin' (#36446)
+[14:45:39]	Klaus Ludwig has gained a 'Resin' #36446.
+[14:45:59]	Ryan Marnett entered observer.
+[14:46:08]	Ryan Marnett exited observer at their location.
+[14:46:10]	Ryan Marnett entered observer.
+[14:46:10]	[OOC] Jason Delly: i created a rp
+[14:46:12]	[OOC] Jason Delly: pog
+[14:47:14]	Ryan Marnett exited observer at their location.
+[14:47:14]	Ryan Marnett entered observer.
+[14:47:16]	Ryan Marnett exited observer at their location.
+[14:47:17]	[LOOC] CCA.C17-GRID.i2.36307: plot twist it's my crow
+[14:47:19]	Ryan Marnett entered observer.
+[14:47:23]	Ryan Marnett exited observer at their location.
+[14:47:24]	Ryan Marnett entered observer.
+[14:47:25]	Ryan Marnett exited observer at their location.
+[14:47:26]	Ryan Marnett entered observer.
+[14:47:27]	Ryan Marnett exited observer at their location.
+[14:47:33]	Ryan Marnett entered observer.
+[14:47:37]	Ryan Marnett exited observer at their location.
+[14:47:46]	Ryan Marnett entered observer.
+[14:47:52]	Ryan Marnett used command '/adminspawnmenu'.
+[14:47:59]	Klaus Ludwig ran 'drop' on item 'Resin' (#36463)
+[14:47:59]	Klaus Ludwig has lost a 'Resin' #36463.
+[14:48:00]	Klaus Ludwig ran 'drop' on item 'Resin' (#36811)
+[14:48:00]	Klaus Ludwig has lost a 'Resin' #36811.
+[14:48:00]	Klaus Ludwig ran 'drop' on item 'Resin' (#36812)
+[14:48:00]	Klaus Ludwig has lost a 'Resin' #36812.
+[14:48:01]	Klaus Ludwig ran 'drop' on item 'Resin' (#36446)
+[14:48:01]	Klaus Ludwig has lost a 'Resin' #36446.
+[14:48:04]	Klaus Ludwig ran 'drop' on item 'Disposable Syringe' (#36809)
+[14:48:04]	Klaus Ludwig has lost a 'Disposable Syringe' #36809.
+[14:48:05]	Klaus Ludwig ran 'drop' on item 'Disposable Syringe' (#36810)
+[14:48:05]	Klaus Ludwig has lost a 'Disposable Syringe' #36810.
+[14:48:10]	Klaus Ludwig ran 'take' on item 'Hybrid Radio' (#35518)
+[14:48:10]	Klaus Ludwig has gained a 'Hybrid Radio' #35518.
+[14:48:11]	Ryan Marnett exited observer at their location.
+[14:48:12]	Ryan Marnett has taken 24 damage from worldspawn.
+[14:48:13]	Klaus Ludwig ran 'Toggle' on item 'Hybrid Radio' (#35518)
+[14:48:28]	Klaus Ludwig ran 'take' on item 'Suitcase' (#36342)
+[14:48:28]	Klaus Ludwig has gained a 'Suitcase' #36342.
+[14:48:28]	Klaus Ludwig has gained a 'Zip Tie' #30876.
+[14:48:36]	Klaus Ludwig ran 'drop' on item 'Suitcase' (#36342)
+[14:48:36]	Klaus Ludwig has lost a 'Suitcase' #36342.
+[14:48:36]	Klaus Ludwig has lost a 'Zip Tie' #30876.
+[14:48:39]	Ryan Marnett entered observer.
+[14:48:42]	CCA.C17-GRID.i2.36307 has gained 10 tokens.
+[14:48:50]	Ryan Marnett exited observer at their location.
+[14:48:51]	Ryan Marnett entered observer.
+[14:48:51]	Ryan Marnett exited observer at their location.
+[14:48:51]	Ryan Marnett has taken 11 damage from worldspawn.
+[14:49:01]	Ryan Marnett entered observer.
+[14:49:03]	Ryan Marnett exited observer at their location.
+[14:49:03]	Ryan Marnett entered observer.
+[14:49:04]	Ryan Marnett exited observer at their location.
+[14:49:04]	Ryan Marnett entered observer.
+[14:49:04]	Ryan Marnett exited observer at their location.
+[14:49:05]	Ryan Marnett has taken 41 damage from worldspawn.
+[14:49:06]	Ryan Marnett entered observer.
+[14:49:08]	Ryan Marnett exited observer at their location.
+[14:49:08]	Ryan Marnett entered observer.
+[14:49:10]	Ryan Marnett exited observer at their location.
+[14:49:11]	Ryan Marnett entered observer.
+[14:49:13]	Ryan Marnett exited observer at their location.
+[14:49:13]	Ryan Marnett entered observer.
+[14:49:16]	[ME] CCA.C17-UNION.SqL.72633: Raises his Stunbaton and places it onto KO mode.
+[14:49:18]	Ryan Marnett exited observer at their location.
+[14:49:18]	Ryan Marnett entered observer.
+[14:49:18]	Ryan Marnett exited observer at their location.
+[14:49:19]	Ryan Marnett entered observer.
+[14:49:21]	Ryan Marnett exited observer at their location.
+[14:49:22]	Ryan Marnett entered observer.
+[14:49:26]	CCA.C17-UNION.SqL.72633 has gained 10 tokens.
+[14:49:32]	Ryan Marnett exited observer at their location.
+[14:49:33]	[LOOC] CCA.C17-GRID.i2.36307: one moment
+[14:49:33]	Ryan Marnett used command '/adminspawnmenu'.
+[14:50:14]	Klaus Ludwig ran 'take' on item 'A Set of Tools' (#33010)
+[14:50:14]	Klaus Ludwig has gained a 'A Set of Tools' #33010.
+[14:50:15]	Klaus Ludwig ran 'drop' on item 'A Set of Tools' (#33010)
+[14:50:15]	Klaus Ludwig has lost a 'A Set of Tools' #33010.
+[14:50:41]	Ryan Marnett entered observer.
+[14:51:05]	Ryan Marnett exited observer at their location.
+[14:51:05]	Ryan Marnett entered observer.
+[14:51:06]	Ryan Marnett exited observer at their location.
+[14:51:06]	Ryan Marnett entered observer.
+[14:51:07]	Ryan Marnett exited observer at their location.
+[14:51:07]	Ryan Marnett entered observer.
+[14:51:11]	Ryan Marnett exited observer at their location.
+[14:51:11]	Ryan Marnett entered observer.
+[14:51:25]	Ryan Marnett exited observer at their location.
+[14:51:29]	Ryan Marnett used command '/adminspawnmenu'.
+[14:51:30]	[LOOC] CCA.C17-UNION.SqL.72633: wouldn't*
+[14:51:46]	[LOOC] CCA.C17-GRID.i2.36307: back
+[14:52:10]	[OOC] Klaus Ludwig: we have a lot of junk
+[14:52:19]	[OOC] Jason Delly: also you can thank q for all of this
+[14:52:20]	[OOC] Jason Delly: lmao
+[14:52:32]	[OOC] Jason Delly: the blood is from q he shotgunned me
+[14:52:37]	[OOC] Jason Delly: and killed me
+[14:52:39]	[OOC] Jason Delly: lmao
+[14:52:45]	Klaus Ludwig ran 'drop' on item 'Padlock' (#35388)
+[14:52:45]	Klaus Ludwig has lost a 'Padlock' #35388.
+[14:52:45]	[OOC] Ryan Marnett: oh yeah i forgot i shot you
+[14:52:46]	[OOC] Jason Delly: im taking it ic
+[14:52:47]	Klaus Ludwig ran 'Consume' on item 'Flavored Breen's Water' (#36362)
+[14:52:47]	[OOC] Ryan Marnett: yeah the blood isn't ic
+[14:52:50]	[OOC] CCA.C17-GRID.i2.36307: hghgfytfyhfhj'
+[14:52:54]	[OOC] CCA.C17-UNION.SqL.72633: Too fucking bad, i'm voiding this
+[14:52:59]	Ryan Marnett entered observer.
+[14:53:04]	[OOC] Jason Delly: NOOOOO IT WAS FUNNY :(((((((
+[14:53:06]	Ryan Marnett exited observer at their location.
+[14:53:07]	Ryan Marnett entered observer.
+[14:53:07]	Ryan Marnett exited observer at their location.
+[14:53:07]	Ryan Marnett entered observer.
+[14:53:08]	Ryan Marnett exited observer at their location.
+[14:53:16]	[OOC] CCA.C17-UNION.SqL.72633: okay
+[14:53:19]	Klaus Ludwig ran 'take' on item 'MP7' (#35509)
+[14:53:19]	Klaus Ludwig has gained a 'MP7' #35509.
+[14:53:20]	Klaus Ludwig ran 'Equip' on item 'MP7' (#35509)
+[14:53:27]	Klaus Ludwig ran 'drop' on item 'MP7' (#35509)
+[14:53:27]	Klaus Ludwig has lost a 'MP7' #35509.
+[14:53:27]	Mr. Chicken loaded the character 'Achille 'Tucker' Tristram'
+[14:53:31]	Ryan Marnett used command '/adminspawnmenu'.
+[14:53:40]	Klaus Ludwig ran 'take' on item 'MP7' (#35509)
+[14:53:40]	Klaus Ludwig has gained a 'MP7' #35509.
+[14:53:42]	CCA.C17-GRID.i2.36307 has gained 10 tokens.
+[14:53:43]	Ryan Marnett has spawned "UU-Brand Cheese"
+[14:53:44]	Ryan Marnett has spawned "UU-Brand Cheese"
+[14:54:11]	Klaus Ludwig ran 'Equip' on item 'MP7' (#35509)
+[14:54:26]	CCA.C17-UNION.SqL.72633 has gained 10 tokens.
+[14:54:33]	Klaus Ludwig ran 'drop' on item 'MP7' (#35509)
+[14:54:33]	Klaus Ludwig has lost a 'MP7' #35509.
+[14:54:38]	[OOC] Achille 'Tucker' Tristram: klaus more like butt hurt
+[14:54:48]	[OOC] CCA.C17-UNION.SqL.72633: okay
+[14:55:50]	[OOC] CCA.C17-UNION.SqL.72633: brb
+[14:55:54]	FB|| light ROOM loaded the character 'Dustin Rory'
+[14:56:22]	[OOC] CCA.C17-GRID.i2.36307: gonna grab some water
+[14:56:32]	[OOC] Achille 'Tucker' Tristram: wait so
+[14:56:39]	[OOC] Achille 'Tucker' Tristram: 9/11 never happened?
+[14:56:47]	[OOC] Achille 'Tucker' Tristram: in this universe
+[14:58:22]	Klaus Ludwig ran 'take' on item 'Combine Hazmat Worker Suit' (#33392)
+[14:58:22]	Klaus Ludwig has gained a 'Combine Hazmat Worker Suit' #33392.
+[14:58:42]	CCA.C17-GRID.i2.36307 has gained 10 tokens.
+[14:58:43]	Klaus Ludwig ran 'take' on item '.9mm Pistol' (#36330)
+[14:58:43]	Klaus Ludwig has gained a '.9mm Pistol' #36330.
+[14:58:44]	Klaus Ludwig ran 'Equip' on item '.9mm Pistol' (#36330)
+[14:59:02]	Achille 'Tucker' Tristram ran 'Read' on item 'The Telltale Heart' (#22212)
+[14:59:15]	Achille 'Tucker' Tristram ran 'take' on item 'Hybrid Radio' (#31487)
+[14:59:15]	Achille 'Tucker' Tristram has gained a 'Hybrid Radio' #31487.
+[14:59:35]	[OOC] CCA.C17-GRID.i2.36307: back 
+[15:00:44]	Klaus Ludwig ran 'Equip' on item 'Combine Hazmat Worker Suit' (#33392)
+[15:00:55]	[OOC] Achille 'Tucker' Tristram: is grid afk
+[15:01:15]	Achille 'Tucker' Tristram used the 'General Store Vendor' vendor.
+[15:01:19]	Klaus Ludwig has taken 10 damage from npc_zombine.
+[15:01:20]	Klaus Ludwig has taken 10 damage from npc_zombine.
+[15:01:21]	Klaus Ludwig has taken 10 damage from npc_zombine.
+[15:01:24]	Klaus Ludwig has taken 10 damage from npc_zombine.
+[15:01:25]	Klaus Ludwig has taken 10 damage from npc_zombine.
+[15:01:27]	Klaus Ludwig has taken 10 damage from npc_zombine.
+[15:01:33]	Klaus Ludwig ran 'take' on item 'Flashlight' (#36813)
+[15:01:33]	Klaus Ludwig has gained a 'Flashlight' #36813.
+[15:02:08]	Klaus Ludwig ran 'EquipUn' on item 'Combine Hazmat Worker Suit' (#33392)
+[15:02:10]	Achille 'Tucker' Tristram opened the '' #2623 container.
+[15:02:10]	Achille 'Tucker' Tristram closed the '' #2623 container.
+[15:02:11]	Achille 'Tucker' Tristram opened the '' #2623 container.
+[15:02:14]	Achille 'Tucker' Tristram closed the '' #2623 container.
+[15:02:28]	[OOC] CCA.C17-GRID.i2.36307: no
+[15:03:31]	Klaus Ludwig ran 'drop' on item '.9mm Pistol' (#36330)
+[15:03:31]	Klaus Ludwig has lost a '.9mm Pistol' #36330.
+[15:03:33]	Achille 'Tucker' Tristram ran 'drop' on item 'Hybrid Radio' (#31487)
+[15:03:33]	Achille 'Tucker' Tristram has lost a 'Hybrid Radio' #31487.
+[15:03:38]	Klaus Ludwig ran 'drop' on item 'Combine Hazmat Worker Suit' (#33392)
+[15:03:38]	Klaus Ludwig has lost a 'Combine Hazmat Worker Suit' #33392.
+[15:03:41]	[LOOC] CCA.C17-GRID.i2.36307: why
+[15:03:42]	CCA.C17-GRID.i2.36307 has gained 10 tokens.
+[15:03:42]	Klaus Ludwig ran 'drop' on item 'Hybrid Radio' (#35518)
+[15:03:42]	Klaus Ludwig has lost a 'Hybrid Radio' #35518.
+[15:03:45]	Klaus Ludwig ran 'drop' on item 'Flashlight' (#36813)
+[15:03:45]	Klaus Ludwig has lost a 'Flashlight' #36813.
+[15:03:46]	[LOOC] Achille 'Tucker' Tristram: ?
+[15:03:52]	CCA.C17-GRID.i2.36307 ran 'Toggle' on item 'Hybrid Radio' (#31487)
+[15:03:54]	CCA.C17-GRID.i2.36307 ran 'take' on item 'Hybrid Radio' (#31487)
+[15:03:54]	CCA.C17-GRID.i2.36307 has gained a 'Hybrid Radio' #31487.
+[15:04:09]	[LOOC] Achille 'Tucker' Tristram: we have 8 radios
+[15:04:12]	[LOOC] Achille 'Tucker' Tristram: i can spare 1
+[15:04:20]	[LOOC] CCA.C17-GRID.i2.36307: srsly?
+[15:04:26]	[LOOC] CCA.C17-GRID.i2.36307: thought we had like 3
+[15:04:28]	[LOOC] Achille 'Tucker' Tristram: mhm we done alot of looting xd
+[15:04:39]	Klaus Ludwig ran 'take' on item 'Bandage' (#36356)
+[15:04:39]	Klaus Ludwig has gained a 'Bandage' #36356.
+[15:04:40]	Klaus Ludwig ran 'take' on item 'Bandage' (#36357)
+[15:04:40]	Klaus Ludwig has gained a 'Bandage' #36357.
+[15:04:41]	[LOOC] CCA.C17-GRID.i2.36307: S W E E T
+[15:04:42]	Klaus Ludwig ran 'Apply' on item 'Bandage' (#36357)
+[15:04:43]	Klaus Ludwig ran 'Apply' on item 'Bandage' (#36356)
+[15:04:52]	[LOOC] Achille 'Tucker' Tristram: so uhhhhhhhhhhhh i can gonna get that lp
+[15:04:53]	Achille 'Tucker' Tristram used command '/Apply'.
+[15:05:02]	CCA.C17-GRID.i2.36307 used command '/ViewData ach'.
+[15:06:20]	Klaus Ludwig has lost 7 tokens.
+[15:06:22]	Klaus Ludwig ran 'take' on item 'Flavored Breen's Water' (#36814)
+[15:06:22]	Klaus Ludwig has gained a 'Flavored Breen's Water' #36814.
+[15:06:23]	Klaus Ludwig has lost 10 tokens.
+[15:06:25]	Klaus Ludwig ran 'take' on item 'Sparkling Breen's Water' (#36815)
+[15:06:25]	Klaus Ludwig has gained a 'Sparkling Breen's Water' #36815.
+[15:06:27]	Klaus Ludwig ran 'Consume' on item 'Sparkling Breen's Water' (#36815)
+[15:07:03]	Ryan Marnett entered observer.
+[15:07:11]	Ryan Marnett used command '/PlySearch'.
+[15:07:25]	FB|| light ROOM loaded the character 'CCA.C17-UNION.SqL.72633'
+[15:07:28]	[OOC] CCA.C17-UNION.SqL.72633: back
+[15:07:47]	[W] CCA.C17-GRID.i2.36307: <:: He just turned in a radio tuned to our freq. ::>
+[15:08:13]	[LOOC] CCA.C17-GRID.i2.36307: get on qrm nerd
+[15:08:21]	FB|| light ROOM loaded the character 'CCA.C17-QrM.98240'
+[15:08:28]	CCA.C17-QrM.98240 used command '/Radio QrM is 10-8'.
+[15:08:41]	CCA.C17-GRID.i2.36307 used command '/ViewData ach'.
+[15:08:42]	CCA.C17-GRID.i2.36307 has gained 10 tokens.
+[15:08:48]	CCA.C17-GRID.i2.36307 used command '/Radio I need a yellow armband'.
+[15:08:54]	CCA.C17-QrM.98240 used command '/Radio 10-20?'.
+[15:09:05]	CCA.C17-GRID.i2.36307 used command '/Radio Plaza, I can grab it from the armoury, though.'.
+[15:09:11]	CCA.C17-QrM.98240 used command '/Radio Already on the way'.
+[15:09:38]	Klaus Ludwig has taken 10 damage from npc_zombie_torso.
+[15:09:38]	[ME] CCA.C17-QrM.98240: Holds out a small box with a yellow stripe on it
+[15:09:41]	CCA.C17-QrM.98240 ran 'drop' on item 'Yellow Loyalist Armband' (#36323)
+[15:09:41]	CCA.C17-QrM.98240 has lost a 'Yellow Loyalist Armband' #36323.
+[15:09:42]	[LOOC] CCA.C17-GRID.i2.36307: ups driver
+[15:09:42]	Klaus Ludwig has taken 10 damage from npc_zombie_torso.
+[15:09:44]	Klaus Ludwig has taken 10 damage from npc_zombie_torso.
+[15:09:46]	Klaus Ludwig has taken 10 damage from npc_zombie_torso.
+[15:09:48]	[ME] CCA.C17-GRID.i2.36307: takes the box
+[15:09:49]	CCA.C17-GRID.i2.36307 ran 'take' on item 'Yellow Loyalist Armband' (#36323)
+[15:09:49]	CCA.C17-GRID.i2.36307 has gained a 'Yellow Loyalist Armband' #36323.
+[15:10:05]	[ME] CCA.C17-GRID.i2.36307: hands the citizen his armband
+[15:10:08]	CCA.C17-GRID.i2.36307 ran 'drop' on item 'Yellow Loyalist Armband' (#36323)
+[15:10:08]	CCA.C17-GRID.i2.36307 has lost a 'Yellow Loyalist Armband' #36323.
+[15:10:10]	Achille 'Tucker' Tristram ran 'take' on item 'Yellow Loyalist Armband' (#36323)
+[15:10:10]	Achille 'Tucker' Tristram has gained a 'Yellow Loyalist Armband' #36323.
+[15:10:13]	Achille 'Tucker' Tristram ran 'Equip' on item 'Yellow Loyalist Armband' (#36323)
+[15:10:19]	FB|| light ROOM loaded the character 'CCA.C17-UNION.SqL.72633'
+[15:10:35]	CCA.C17-UNION.SqL.72633 used command '/Radio Attach GRID'.
+[15:10:52]	[OOC] Klaus Ludwig: i have found a pipe in trash :)
+[15:10:56]	[OOC] Achille 'Tucker' Tristram: poggers
+[15:10:57]	[OOC] CCA.C17-UNION.SqL.72633: okay
+[15:11:01]	[ME] Klaus Ludwig: picks up the pipe from the garbage pile.
+[15:11:03]	[OOC] Achille 'Tucker' Tristram: trash pipe
+[15:11:06]	[OOC] Achille 'Tucker' Tristram: zoggers
+[15:11:07]	[OOC] Klaus Ludwig: i require the item
+[15:11:28]	Ryan Marnett used command '/adminspawnmenu'.
+[15:11:54]	Ryan Marnett has spawned "Pipe"
+[15:12:08]	matt saton loaded the character 'CCA.C17-GRID.i3.69192'
+[15:12:13]	matt saton loaded the character 'CCA.C14-GRID.OfC.29402'
+[15:12:14]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:12:30]	CCA.C14-GRID.OfC.29402 used command '/Radio Requesting clarification, you said the frequency is compromised?'.
+[15:12:34]	[OOC] CCA.C17-GRID.i2.36307: smoke the trash with the pipe
+[15:12:49]	CCA.C17-UNION.SqL.72633 used command '/Radio UNION.SqL.72633 reporting: 10-91 turned in a Radio set to our frequency, I believe other 10-91's might have them'.
+[15:12:50]	[OOC] Klaus Ludwig: q
+[15:12:53]	[OOC] CCA.C14-GRID.OfC.29402: what
+[15:12:54]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:12:54]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:12:55]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:12:55]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:12:57]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:12:57]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:12:58]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:12:58]	[OOC] Klaus Ludwig: i need the pipe item
+[15:12:58]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:13:00]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:13:01]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:13:03]	[OOC] CCA.C14-GRID.OfC.29402: i gave it to you
+[15:13:07]	[OOC] CCA.C14-GRID.OfC.29402: i put it in front of you
+[15:13:10]	[OOC] Klaus Ludwig: wh
+[15:13:12]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:13:12]	Klaus Ludwig ran 'take' on item 'Pipe' (#36815)
+[15:13:12]	Klaus Ludwig has gained a 'Pipe' #36815.
+[15:13:12]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:13:14]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:13:14]	[OOC] Klaus Ludwig: oh there
+[15:13:14]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:13:16]	Klaus Ludwig ran 'Equip' on item 'Pipe' (#36815)
+[15:13:16]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:13:16]	Klaus Ludwig ran 'EquipUn' on item 'Pan' (#36358)
+[15:13:18]	Klaus Ludwig ran 'Equip' on item 'Pipe' (#36815)
+[15:13:25]	CCA.C17-UNION.SqL.72633 used command '/Radio I advise we change our frequency.'.
+[15:13:31]	Klaus Ludwig has lost 5 tokens.
+[15:13:31]	[LOOC] CCA.C17-GRID.i2.36307: tfw i stated it was compromised multiple times
+[15:13:34]	Klaus Ludwig ran 'Consume' on item 'Breen's Water' (#36816)
+[15:13:38]	[LOOC] CCA.C17-GRID.i2.36307: on many occasions
+[15:13:40]	[LOOC] CCA.C17-GRID.i2.36307: ;(
+[15:13:42]	CCA.C17-GRID.i2.36307 has gained 10 tokens.
+[15:13:42]	CCA.C14-GRID.OfC.29402 used command '/Radio Copy that, I'll report it to the Commander, expect a frequency change.'.
+[15:13:48]	CCA.C17-UNION.SqL.72633 used command '/Radio Understood'.
+[15:13:49]	[OOC] Achille 'Tucker' Tristram: wh
+[15:14:03]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:14:25]	matt saton loaded the character 'Ryan Marnett'
+[15:14:27]	Ryan Marnett entered observer.
+[15:15:08]	[ME] CCA.C17-GRID.i2.36307: stands at attentiom cus im that good
+[15:15:10]	[LOOC] CCA.C17-GRID.i2.36307: attentiom
+[15:15:16]	[LOOC] CCA.C17-GRID.i2.36307: achtug 
+[15:15:19]	CCA.C17-UNION.SqL.72633 has gained 10 tokens.
+[15:15:43]	[LOOC] CCA.C17-UNION.SqL.72633: STOP FUCKING MOVING
+[15:15:56]	[LOOC] CCA.C17-GRID.i2.36307: gonna stand at attention  and do a funky dance
+[15:15:56]	[OOC] Klaus Ludwig: do i need admin supervision for this?
+[15:16:02]	[OOC] Klaus Ludwig: i'm breaking a window
+[15:16:06]	[OOC] CCA.C17-GRID.i2.36307: why
+[15:16:11]	[OOC] Klaus Ludwig: why not
+[15:16:21]	[OOC] Klaus Ludwig: the windows are pure white too
+[15:16:26]	[OOC] Klaus Ludwig: so i can't see shit
+[15:16:26]	[OOC] CCA.C17-GRID.i2.36307: fair enough
+[15:16:39]	[OOC] Klaus Ludwig: you know what
+[15:16:40]	[OOC] Klaus Ludwig: nvm
+[15:16:45]	[OOC] CCA.C17-UNION.SqL.72633: okay
+[15:16:58]	Ryan Marnett used command '/adminspawnmenu'.
+[15:17:01]	[OOC] CCA.C17-GRID.i2.36307: q why are windows blinding white
+[15:17:52]	Achille 'Tucker' Tristram used the 'General Store Vendor' vendor.
+[15:17:57]	Klaus Ludwig used the 'General Store Vendor' vendor.
+[15:18:00]	Klaus Ludwig has lost 5 tokens.
+[15:18:00]	Klaus Ludwig has gained a 'Gloves' #36817.
+[15:18:04]	Achille 'Tucker' Tristram has lost 3 tokens.
+[15:18:04]	Achille 'Tucker' Tristram has gained a 'UU-Brand Chips' #36818.
+[15:18:06]	Klaus Ludwig has lost 17 tokens.
+[15:18:06]	Klaus Ludwig has gained a 'Brown Coat and Sweater' #36819.
+[15:18:16]	Klaus Ludwig ran 'Equip' on item 'Brown Coat and Sweater' (#36819)
+[15:18:17]	Klaus Ludwig ran 'EquipUn' on item 'Comfortable Blue Shirt' (#33945)
+[15:18:18]	Klaus Ludwig ran 'Equip' on item 'Brown Coat and Sweater' (#36819)
+[15:18:19]	Klaus Ludwig ran 'Equip' on item 'Gloves' (#36817)
+[15:18:19]	Klaus Ludwig ran 'EquipUn' on item 'Fingerless Gloves' (#32986)
+[15:18:20]	Klaus Ludwig ran 'Equip' on item 'Gloves' (#36817)
+[15:18:25]	Klaus Ludwig ran 'EquipUn' on item 'Brown Coat and Sweater' (#36819)
+[15:18:26]	Klaus Ludwig ran 'Equip' on item 'Brown Coat and Sweater' (#36819)
+[15:18:42]	CCA.C17-GRID.i2.36307 has gained 10 tokens.
+[15:19:50]	[ME] CCA.C17-GRID.i2.36307: puts the fucker on the desk
+[15:19:53]	CCA.C17-GRID.i2.36307 ran 'drop' on item 'Hybrid Radio' (#31487)
+[15:19:53]	CCA.C17-GRID.i2.36307 has lost a 'Hybrid Radio' #31487.
+[15:20:19]	CCA.C17-UNION.SqL.72633 has gained 10 tokens.
+[15:21:29]	[OOC] CCA.C17-GRID.i2.36307: one moment gotta let my dog in
+[15:21:34]	[OOC] Achille 'Tucker' Tristram: k
+[15:22:19]	[OOC] CCA.C17-GRID.i2.36307: kk
+[15:22:33]	[OOC] Klaus Ludwig: br
+[15:22:37]	[OOC] CCA.C17-GRID.i2.36307: q can you go on your grid ofc
+[15:22:41]	Ryan Marnett exited observer at their location.
+[15:22:44]	CCA.C17-UNION.SqL.72633 used command '/Radio UNION.SqL.72633 to all ground units: BOL for Achille Tristram, bring him in for questioning.'.
+[15:22:47]	matt saton loaded the character 'CCA.C14-GRID.OfC.29402'
+[15:22:49]	[OOC] CCA.C14-GRID.OfC.29402: sure
+[15:22:51]	CCA.C17-UNION.SqL.72633 used command '/ViewObjectives'.
+[15:22:57]	[OOC] CCA.C17-GRID.i2.36307: im gonna do something PRODUCTIVE
+[15:22:57]	[OOC] CCA.C14-GRID.OfC.29402: remind me not to say "you suck" to another unit
+[15:23:04]	[OOC] CCA.C14-GRID.OfC.29402: since that's apparently common and acceptable behavior
+[15:23:06]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:23:09]	[OOC] CCA.C17-GRID.i2.36307: why
+[15:23:10]	[OOC] Klaus Ludwig: reminder: grid ofc sucks
+[15:23:10]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:23:19]	[OOC] CCA.C14-GRID.OfC.29402: reminder: you don't deserve a promotion
+[15:23:20]	[OOC] CCA.C17-GRID.i2.36307: why did you noclip as soon as i went up to you :(
+[15:23:26]	[OOC] Achille 'Tucker' Tristram: grid ofc stinky
+[15:23:42]	CCA.C17-GRID.i2.36307 has gained 10 tokens.
+[15:23:42]	[OOC] Klaus Ludwig: passive aggressiveness is skyhigh right now lmao
+[15:23:57]	[OOC] CCA.C14-GRID.OfC.29402: that's not passive aggressive, i'm being fully aggressive
+[15:24:01]	[OOC] Klaus Ludwig: Ok
+[15:24:06]	[OOC] Achille 'Tucker' Tristram: here it comes
+[15:24:09]	[OOC] Klaus Ludwig: i'll leave then, thanks for being honest <3
+[15:24:11]	Mr. Chief (STEAM_0:1:129270116) has disconnected.
+[15:24:17]	[OOC] Achille 'Tucker' Tristram: god dammit q
+[15:24:22]	[OOC] Achille 'Tucker' Tristram: fuckin hell
+[15:24:26]	Mr. Chicken (STEAM_0:0:143523274) has disconnected.
+[15:24:51]	[LOOC] CCA.C17-GRID.i2.36307: up
+[15:25:18]	[LOOC] CCA.C17-GRID.i2.36307: scanner taser scanner taser scanner taser
+[15:25:19]	CCA.C17-UNION.SqL.72633 has gained 10 tokens.
+[15:25:52]	CCA.C17-UNION.SqL.72633 ran 'Consume' on item 'Civil Protection Functionary Grade Supplements' (#36808)
+[15:26:10]	CCA.C17-UNION.SqL.72633 ran 'take' on item 'Civil Protection Functionary Grade Ration' (#36820)
+[15:26:10]	CCA.C17-UNION.SqL.72633 has gained a 'Civil Protection Functionary Grade Ration' #36820.
+[15:26:13]	CCA.C17-UNION.SqL.72633 ran 'Open' on item 'Civil Protection Functionary Grade Ration' (#36820)
+[15:26:13]	CCA.C17-UNION.SqL.72633 has gained a 'Civil Protection Functionary Grade Food Product' #36821.
+[15:26:13]	CCA.C17-UNION.SqL.72633 has gained a 'Civil Protection Functionary Grade Supplements' #36822.
+[15:26:13]	CCA.C17-UNION.SqL.72633 has gained a 'Civil Protection Functionary Grade Drink' #36823.
+[15:26:15]	CCA.C17-UNION.SqL.72633 ran 'Consume' on item 'Civil Protection Functionary Grade Drink' (#36823)
+[15:27:06]	[OOC] CCA.C17-GRID.i2.36307: where did they go
+[15:27:10]	CCA.C14-GRID.OfC.29402 used command '/Radio News from the commander, we're changing the radio frequency.'.
+[15:27:18]	[OOC] CCA.C14-GRID.OfC.29402: I said something not nice and chief left
+[15:27:24]	[OOC] CCA.C14-GRID.OfC.29402: and also chicken left because friends with chief
+[15:27:29]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:27:30]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:27:30]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:27:30]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:27:32]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:27:37]	[OOC] CCA.C17-GRID.i2.36307: f
+[15:27:47]	CCA.C14-GRID.OfC.29402 has gained 10 tokens.
+[15:28:13]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:28:14]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:28:14]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:28:14]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:28:16]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:28:16]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:28:17]	CCA.C17-GRID.i2.36307 used command '/ToggleRaise'.
+[15:28:17]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:28:20]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:28:21]	CCA.C17-GRID.i2.36307 destroyed a 'Notepad' #31175.
+[15:28:22]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:28:22]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:28:23]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:28:24]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:28:24]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:28:25]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:28:26]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:28:26]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:28:27]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:28:28]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:28:28]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:28:28]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:28:29]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:28:29]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:28:29]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:28:30]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:28:32]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:28:32]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:28:33]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:28:33]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:28:42]	CCA.C17-GRID.i2.36307 has gained 10 tokens.
+[15:29:08]	CCA.C14-GRID.OfC.29402 used command '/ToggleRaise'.
+[15:29:08]	CCA.C14-GRID.OfC.29402 used command '/ToggleRaise'.
+[15:29:12]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:29:12]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:29:13]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:29:13]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:29:16]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:29:17]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:29:20]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:29:20]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:29:22]	CCA.C14-GRID.OfC.29402 used command '/ToggleRaise'.
+[15:29:23]	CCA.C14-GRID.OfC.29402 used command '/ToggleRaise'.
+[15:29:25]	CCA.C17-GRID.i2.36307 used command '/ViewObjectives'.
+[15:29:31]	CCA.C14-GRID.OfC.29402 used command '/ToggleRaise'.
+[15:29:31]	CCA.C14-GRID.OfC.29402 used command '/ToggleRaise'.
+[15:29:38]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:29:38]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:29:39]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:29:39]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:29:59]	CCA.C14-GRID.OfC.29402 used command '/ToggleRaise'.
+[15:30:00]	CCA.C14-GRID.OfC.29402 used command '/ToggleRaise'.
+[15:30:19]	CCA.C17-UNION.SqL.72633 has gained 10 tokens.
+[15:30:56]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:30:56]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:30:58]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:30:58]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:30:59]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:31:00]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:31:00]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:31:01]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:31:01]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:31:02]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:31:03]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:31:04]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:31:05]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:31:05]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:31:08]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:31:08]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:31:08]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:31:09]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:31:09]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:31:13]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:31:17]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:31:17]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:31:23]	CCA.C14-GRID.OfC.29402 used command '/ToggleRaise'.
+[15:31:24]	CCA.C14-GRID.OfC.29402 used command '/ToggleRaise'.
+[15:32:01]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:32:01]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:32:11]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:32:11]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:32:13]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:32:13]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:32:15]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:32:15]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:32:18]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:32:19]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:32:19]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:32:22]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:32:22]	[OOC] CCA.C17-UNION.SqL.72633: gonna hop off for now
+[15:32:24]	FB|| light ROOM (STEAM_0:1:17219621) has disconnected.
+[15:32:47]	CCA.C14-GRID.OfC.29402 has gained 10 tokens.
+[15:32:52]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:32:52]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:32:53]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:32:53]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:33:23]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:33:23]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:33:31]	CCA.C14-GRID.OfC.29402 used command '/ToggleRaise'.
+[15:33:32]	CCA.C14-GRID.OfC.29402 used command '/ToggleRaise'.
+[15:33:35]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:33:36]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:33:42]	CCA.C17-GRID.i2.36307 has gained 10 tokens.
+[15:33:47]	CCA.C14-GRID.OfC.29402 used command '/ToggleRaise'.
+[15:33:51]	DRD (STEAM_0:0:193599766) has disconnected.
+[15:33:52]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:33:53]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:34:13]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:34:13]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:34:28]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:34:28]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:34:34]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:34:34]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:34:39]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:34:39]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:34:49]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:34:50]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:34:54]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:34:54]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:34:57]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:34:57]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:35:02]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:35:02]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:35:04]	CCA.C14-GRID.OfC.29402 used command '/ToggleRaise'.
+[15:35:04]	CCA.C14-GRID.OfC.29402 used command '/ToggleRaise'.
+[15:35:06]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:35:06]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:35:09]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:35:09]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:35:15]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:35:15]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:35:17]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:35:18]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:35:27]	CCA.C14-GRID.OfC.29402 used command '/ToggleRaise'.
+[15:35:28]	CCA.C14-GRID.OfC.29402 used command '/ToggleRaise'.
+[15:35:31]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:35:31]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:35:33]	CCA.C14-GRID.OfC.29402 used command '/ToggleRaise'.
+[15:35:34]	CCA.C14-GRID.OfC.29402 used command '/ToggleRaise'.
+[15:35:36]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:35:36]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:35:41]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:35:41]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:35:45]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:35:46]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:35:46]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:35:46]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:35:50]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:35:50]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:35:56]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:35:56]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:36:05]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:36:06]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:36:07]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:36:08]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:36:10]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:36:10]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:36:15]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:36:15]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:36:19]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:36:20]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:36:23]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:36:23]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:36:25]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:36:25]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:36:36]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:36:36]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:36:45]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:36:45]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:36:50]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:36:50]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:36:54]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:36:54]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:36:59]	CCA.C14-GRID.OfC.29402 used command '/ToggleRaise'.
+[15:37:00]	CCA.C14-GRID.OfC.29402 used command '/ToggleRaise'.
+[15:37:01]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:37:01]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:37:01]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:37:02]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:37:19]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:37:19]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:37:23]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:37:23]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:37:27]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:37:27]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:37:32]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:37:32]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:37:47]	CCA.C14-GRID.OfC.29402 has gained 10 tokens.
+[15:37:57]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:37:57]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:38:00]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:38:00]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:38:12]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:38:13]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:38:19]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:38:19]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:38:23]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:38:23]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:38:24]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:38:24]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:38:25]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:38:25]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:38:26]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:38:26]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:38:55]	CCA.C14-GRID.OfC.29402 used command '/ToggleRaise'.
+[15:38:58]	CCA.C14-GRID.OfC.29402 used command '/ToggleRaise'.
+[15:39:09]	CCA.C14-GRID.OfC.29402 used command '/ToggleRaise'.
+[15:39:13]	CCA.C14-GRID.OfC.29402 used command '/ToggleRaise'.
+[15:39:23]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:39:23]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:39:28]	CCA.C14-GRID.OfC.29402 used command '/ToggleRaise'.
+[15:39:28]	CCA.C14-GRID.OfC.29402 used command '/ToggleRaise'.
+[15:39:30]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:39:30]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:39:35]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:39:35]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:39:42]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:39:42]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:39:46]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:39:46]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:40:16]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:40:17]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:40:23]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:40:23]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:40:31]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:40:31]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:40:36]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:40:36]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:40:44]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:40:45]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:40:49]	CCA.C14-GRID.OfC.29402 used command '/ToggleRaise'.
+[15:40:50]	CCA.C14-GRID.OfC.29402 used command '/ToggleRaise'.
+[15:40:54]	CCA.C14-GRID.OfC.29402 used command '/ToggleRaise'.
+[15:40:57]	CCA.C14-GRID.OfC.29402 used command '/ToggleRaise'.
+[15:40:58]	CCA.C14-GRID.OfC.29402 used command '/ToggleRaise'.
+[15:41:07]	CCA.C14-GRID.OfC.29402 used command '/ToggleRaise'.
+[15:41:08]	CCA.C14-GRID.OfC.29402 used command '/ToggleRaise'.
+[15:41:18]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:41:19]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:41:39]	CCA.C14-GRID.OfC.29402 used command '/ToggleRaise'.
+[15:41:39]	CCA.C14-GRID.OfC.29402 used command '/ToggleRaise'.
+[15:41:53]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:41:53]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:42:20]	CCA.C14-GRID.OfC.29402 used command '/ToggleRaise'.
+[15:42:21]	CCA.C14-GRID.OfC.29402 used command '/ToggleRaise'.
+[15:42:22]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:42:22]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:42:24]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:42:25]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:42:26]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:42:26]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:42:29]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:42:29]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:42:33]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:42:33]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:42:46]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:42:47]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:42:47]	CCA.C14-GRID.OfC.29402 has gained 10 tokens.
+[15:43:13]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:43:14]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:43:21]	CCA.C14-GRID.OfC.29402 used command '/ToggleRaise'.
+[15:43:22]	CCA.C14-GRID.OfC.29402 used command '/ToggleRaise'.
+[15:43:36]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:43:36]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:43:41]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:43:41]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:43:49]	CCA.C14-GRID.OfC.29402 used command '/ToggleRaise'.
+[15:43:49]	CCA.C14-GRID.OfC.29402 used command '/ToggleRaise'.
+[15:43:59]	CCA.C14-GRID.OfC.29402 used command '/ToggleRaise'.
+[15:44:00]	CCA.C14-GRID.OfC.29402 used command '/ToggleRaise'.
+[15:44:01]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:44:02]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:44:12]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:44:12]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:44:16]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:44:16]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:44:29]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:44:30]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:44:48]	CCA.C14-GRID.OfC.29402 used command '/ToggleRaise'.
+[15:44:49]	CCA.C14-GRID.OfC.29402 used command '/ToggleRaise'.
+[15:44:56]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:44:56]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:44:58]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:44:58]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:44:59]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:44:59]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:45:05]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:45:05]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:45:06]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:45:06]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:45:07]	CCA.C14-GRID.OfC.29402 used command '/ToggleRaise'.
+[15:45:08]	CCA.C14-GRID.OfC.29402 used command '/ToggleRaise'.
+[15:45:21]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:45:21]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:46:00]	CCA.C14-GRID.OfC.29402 used command '/ToggleRaise'.
+[15:46:01]	CCA.C14-GRID.OfC.29402 used command '/ToggleRaise'.
+[15:46:03]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:46:03]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:46:05]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:46:05]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:46:10]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:46:10]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:46:12]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:46:12]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:46:14]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:46:14]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:46:19]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:46:19]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:46:33]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:46:33]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:46:56]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:46:56]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:47:00]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:47:00]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:47:15]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:47:15]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:47:19]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:47:19]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:47:27]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:47:28]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:47:31]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:47:31]	CCA.C14-GRID.OfC.29402 has taken 115 damage from worldspawn.
+[15:47:31]	worldspawn has killed CCA.C14-GRID.OfC.29402.
+[15:47:31]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:47:35]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:47:47]	CCA.C14-GRID.OfC.29402 has gained 10 tokens.
+[15:48:02]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:48:02]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:48:07]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:48:07]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:48:18]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:48:18]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:48:25]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:48:25]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:48:30]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:48:30]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:48:36]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:48:36]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:49:51]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:49:51]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:49:53]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:49:53]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:49:56]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:49:57]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:49:59]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:49:59]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:49:59]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:49:59]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:50:01]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[15:50:08]	CCA.C14-GRID.OfC.29402 entered observer.
+[15:52:47]	CCA.C14-GRID.OfC.29402 has gained 10 tokens.
+[15:57:47]	CCA.C14-GRID.OfC.29402 has gained 10 tokens.
+[16:01:49]	[OOC] CCA.C14-GRID.OfC.29402: and also chicken left because friends with chief
+[16:01:52]	CCA.C14-GRID.OfC.29402 used command '/adminspawnmenu'.
+[16:02:47]	CCA.C14-GRID.OfC.29402 has gained 10 tokens.
+[16:05:24]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[16:05:24]	CCA.C14-GRID.OfC.29402 entered observer.
+[16:05:24]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[16:05:25]	CCA.C14-GRID.OfC.29402 used command '/adminspawnmenu'.
+[16:05:29]	CCA.C14-GRID.OfC.29402 has spawned "Medical Case"
+[16:05:35]	CCA.C14-GRID.OfC.29402 ran 'take' on item 'Medical Case' (#36823)
+[16:05:42]	CCA.C14-GRID.OfC.29402 ran 'drop' on item 'Bucket' (#22217)
+[16:05:42]	CCA.C14-GRID.OfC.29402 has lost a 'Bucket' #22217.
+[16:05:44]	CCA.C14-GRID.OfC.29402 ran 'take' on item 'Medical Case' (#36823)
+[16:05:48]	CCA.C14-GRID.OfC.29402 ran 'take' on item 'Medical Case' (#36823)
+[16:05:58]	CCA.C14-GRID.OfC.29402 ran 'drop' on item 'Flashlight' (#25925)
+[16:05:58]	CCA.C14-GRID.OfC.29402 has lost a 'Flashlight' #25925.
+[16:06:02]	CCA.C14-GRID.OfC.29402 ran 'drop' on item 'Empty 9mm Shells' (#28224)
+[16:06:02]	CCA.C14-GRID.OfC.29402 has lost a 'Empty 9mm Shells' #28224.
+[16:06:03]	CCA.C14-GRID.OfC.29402 ran 'drop' on item 'Screw Nuts' (#27560)
+[16:06:03]	CCA.C14-GRID.OfC.29402 has lost a 'Screw Nuts' #27560.
+[16:06:04]	CCA.C14-GRID.OfC.29402 ran 'drop' on item '.9mm Pistol' (#26734)
+[16:06:04]	CCA.C14-GRID.OfC.29402 has lost a '.9mm Pistol' #26734.
+[16:06:05]	CCA.C14-GRID.OfC.29402 ran 'drop' on item 'Blowtorch' (#18909)
+[16:06:05]	CCA.C14-GRID.OfC.29402 has lost a 'Blowtorch' #18909.
+[16:06:09]	CCA.C14-GRID.OfC.29402 ran 'take' on item 'Medical Case' (#36823)
+[16:06:10]	CCA.C14-GRID.OfC.29402 ran 'drop' on item 'Bucket' (#22218)
+[16:06:10]	CCA.C14-GRID.OfC.29402 has lost a 'Bucket' #22218.
+[16:06:14]	CCA.C14-GRID.OfC.29402 ran 'drop' on item 'Citizen ID' (#22416)
+[16:06:14]	CCA.C14-GRID.OfC.29402 has lost a 'Citizen ID' #22416.
+[16:06:18]	CCA.C14-GRID.OfC.29402 ran 'take' on item 'Medical Case' (#36823)
+[16:06:18]	CCA.C14-GRID.OfC.29402 has gained a 'Medical Case' #36823.
+[16:06:20]	CCA.C14-GRID.OfC.29402 used command '/ToggleRaise'.
+[16:06:20]	CCA.C14-GRID.OfC.29402 entered observer.
+[16:06:24]	CCA.C14-GRID.OfC.29402 destroyed a 'Flashlight' #25925.
+[16:06:24]	CCA.C14-GRID.OfC.29402 destroyed a 'Citizen ID' #22416.
+[16:06:24]	CCA.C14-GRID.OfC.29402 destroyed a 'Bucket' #22218.
+[16:06:24]	CCA.C14-GRID.OfC.29402 destroyed a 'Blowtorch' #18909.
+[16:06:24]	CCA.C14-GRID.OfC.29402 destroyed a 'Empty 9mm Shells' #28224.
+[16:06:24]	CCA.C14-GRID.OfC.29402 destroyed a 'Screw Nuts' #27560.
+[16:06:24]	CCA.C14-GRID.OfC.29402 destroyed a '.9mm Pistol' #26734.
+[16:06:27]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[16:07:14]	CCA.C14-GRID.OfC.29402 used command '/adminspawnmenu'.
+[16:07:47]	CCA.C14-GRID.OfC.29402 has gained 10 tokens.
+[16:12:47]	CCA.C14-GRID.OfC.29402 has gained 10 tokens.
+[16:17:47]	CCA.C14-GRID.OfC.29402 has gained 10 tokens.
+[16:22:47]	CCA.C14-GRID.OfC.29402 has gained 10 tokens.
+[16:27:47]	CCA.C14-GRID.OfC.29402 has gained 10 tokens.
+[16:32:45]	CCA.C14-GRID.OfC.29402 set rationTokens to '10'.
+[16:32:47]	CCA.C14-GRID.OfC.29402 has gained 10 tokens.
+[16:37:47]	CCA.C14-GRID.OfC.29402 has gained 10 tokens.
+[16:42:47]	CCA.C14-GRID.OfC.29402 has gained 10 tokens.
+[16:47:47]	CCA.C14-GRID.OfC.29402 has gained 10 tokens.
+[16:47:48]	CCA.C14-GRID.OfC.29402 entered observer.
+[16:52:47]	CCA.C14-GRID.OfC.29402 has gained 10 tokens.
+[16:57:47]	CCA.C14-GRID.OfC.29402 has gained 10 tokens.
+[17:02:47]	CCA.C14-GRID.OfC.29402 has gained 10 tokens.
+[17:07:47]	CCA.C14-GRID.OfC.29402 has gained 10 tokens.
+[17:12:47]	CCA.C14-GRID.OfC.29402 has gained 10 tokens.
+[17:17:47]	CCA.C14-GRID.OfC.29402 has gained 10 tokens.
+[17:22:47]	CCA.C14-GRID.OfC.29402 has gained 10 tokens.
+[17:27:47]	CCA.C14-GRID.OfC.29402 has gained 10 tokens.
+[17:32:47]	CCA.C14-GRID.OfC.29402 has gained 10 tokens.
+[17:37:47]	CCA.C14-GRID.OfC.29402 has gained 10 tokens.
+[17:42:47]	CCA.C14-GRID.OfC.29402 has gained 10 tokens.
+[17:47:47]	CCA.C14-GRID.OfC.29402 has gained 10 tokens.
+[17:52:47]	CCA.C14-GRID.OfC.29402 has gained 10 tokens.
+[17:57:47]	CCA.C14-GRID.OfC.29402 has gained 10 tokens.
+[18:02:47]	CCA.C14-GRID.OfC.29402 has gained 10 tokens.
+[18:07:47]	CCA.C14-GRID.OfC.29402 has gained 10 tokens.
+[18:12:47]	CCA.C14-GRID.OfC.29402 has gained 10 tokens.
+[18:17:23]	CCA.C14-GRID.OfC.29402 exited observer at their location.
+[18:17:24]	CCA.C14-GRID.OfC.29402 entered observer.
+[18:17:47]	CCA.C14-GRID.OfC.29402 has gained 10 tokens.
+[18:17:54]	FB|| light ROOM has connected.
+[18:18:52]	FB|| light ROOM loaded the character 'CCA.C17-UNION.SqL.72633'
+[18:19:19]	[OOC] CCA.C17-UNION.SqL.72633: cringe ass nai nai baby
+[18:22:47]	CCA.C14-GRID.OfC.29402 has gained 10 tokens.
+[18:23:52]	CCA.C17-UNION.SqL.72633 has gained 10 tokens.
+[18:24:56]	DRD has connected.
+[18:26:59]	NamRm has connected.
+[18:27:44]	NamRm loaded the character 'CCA.C17-RCT.25058'
+[18:27:47]	CCA.C14-GRID.OfC.29402 has gained 10 tokens.
+[18:27:51]	[OOC] CCA.C17-RCT.25058: hi poopies :))))))))))))
+[18:28:52]	CCA.C17-UNION.SqL.72633 has gained 10 tokens.
+[18:32:44]	CCA.C17-RCT.25058 has gained 10 tokens.
+[18:32:47]	CCA.C14-GRID.OfC.29402 has gained 10 tokens.
+[18:33:52]	CCA.C17-UNION.SqL.72633 has gained 10 tokens.
+[18:37:44]	CCA.C17-RCT.25058 has gained 10 tokens.
+[18:37:47]	CCA.C14-GRID.OfC.29402 has gained 10 tokens.
+[18:38:52]	CCA.C17-UNION.SqL.72633 has gained 10 tokens.
+[18:42:44]	CCA.C17-RCT.25058 has gained 10 tokens.
+[18:42:47]	CCA.C14-GRID.OfC.29402 has gained 10 tokens.
+[18:43:21]	DRD (STEAM_0:0:193599766) has disconnected.
+[18:43:52]	CCA.C17-UNION.SqL.72633 has gained 10 tokens.
+[18:47:44]	CCA.C17-RCT.25058 has gained 10 tokens.
+[18:47:47]	CCA.C14-GRID.OfC.29402 has gained 10 tokens.
+[18:48:52]	CCA.C17-UNION.SqL.72633 has gained 10 tokens.
+[18:50:03]	DRD has connected.
+[18:51:34]	DRD loaded the character 'CCA.C17-GRID.i2.36307'
+[18:51:56]	CCA.C17-GRID.i2.36307 used command '/ViewObjectives'.
+[18:52:28]	[LOOC] CCA.C17-GRID.i2.36307: i hate that mask
+[18:52:44]	CCA.C17-RCT.25058 has gained 10 tokens.
+[18:52:47]	CCA.C14-GRID.OfC.29402 has gained 10 tokens.
+[18:52:50]	[OOC] CCA.C17-UNION.SqL.72633: cringe
+[18:53:52]	CCA.C17-UNION.SqL.72633 has gained 10 tokens.
+[18:54:08]	[LOOC] CCA.C17-GRID.i2.36307: this is ic
+[18:54:17]	CCA.C17-GRID.i2.36307 has spawned 'models/foodnhouseholditems/lettuce.mdl'.
+[18:54:31]	CCA.C17-GRID.i2.36307 has spawned 'models/foodnhouseholditems/lettuce.mdl'.
+[18:54:31]	CCA.C17-GRID.i2.36307 has spawned 'models/foodnhouseholditems/lettuce.mdl'.
+[18:54:31]	CCA.C17-GRID.i2.36307 has spawned 'models/foodnhouseholditems/lettuce.mdl'.
+[18:54:31]	CCA.C17-GRID.i2.36307 has spawned 'models/foodnhouseholditems/lettuce.mdl'.
+[18:54:31]	CCA.C17-GRID.i2.36307 has spawned 'models/foodnhouseholditems/lettuce.mdl'.
+[18:54:31]	CCA.C17-GRID.i2.36307 has spawned 'models/foodnhouseholditems/lettuce.mdl'.
+[18:54:31]	CCA.C17-GRID.i2.36307 has spawned 'models/foodnhouseholditems/lettuce.mdl'.
+[18:54:31]	CCA.C17-GRID.i2.36307 has spawned 'models/foodnhouseholditems/lettuce.mdl'.
+[18:54:31]	CCA.C17-GRID.i2.36307 has spawned 'models/foodnhouseholditems/lettuce.mdl'.
+[18:54:31]	CCA.C17-GRID.i2.36307 has spawned 'models/foodnhouseholditems/lettuce.mdl'.
+[18:54:31]	CCA.C17-GRID.i2.36307 has spawned 'models/foodnhouseholditems/lettuce.mdl'.
+[18:54:31]	CCA.C17-GRID.i2.36307 has spawned 'models/foodnhouseholditems/lettuce.mdl'.
+[18:54:31]	CCA.C17-GRID.i2.36307 has spawned 'models/foodnhouseholditems/lettuce.mdl'.
+[18:54:31]	CCA.C17-GRID.i2.36307 has spawned 'models/foodnhouseholditems/lettuce.mdl'.
+[18:54:31]	CCA.C17-GRID.i2.36307 has spawned 'models/foodnhouseholditems/lettuce.mdl'.
+[18:54:44]	CCA.C17-UNION.SqL.72633 has taken 500 damage from prop_physics.
+[18:54:45]	prop_physics has killed CCA.C17-UNION.SqL.72633.
+[18:54:51]	[OOC] CCA.C17-UNION.SqL.72633: thanks
+[18:54:55]	[OOC] CCA.C17-GRID.i2.36307: I DID NOT EXPECT THAT TO WORK
+[18:55:00]	[OOC] CCA.C17-GRID.i2.36307: you can have my ammo
+[18:55:01]	FB|| light ROOM loaded the character 'OTA.C17-ECHO.OWC.25097'
+[18:55:11]	[OOC] OTA.C17-ECHO.OWC.25097: I don't want your dirty GRID ammo
+[18:55:14]	CCA.C17-RCT.25058 used command '/Radio 10-91e reported in Nexus with a physgun. Amputating PP face'.
+[18:55:20]	CCA.C17-GRID.i2.36307 has taken 35 damage from CCA.C17-RCT.25058.
+[18:55:21]	CCA.C17-GRID.i2.36307 has taken 35 damage from CCA.C17-RCT.25058.
+[18:55:22]	CCA.C17-GRID.i2.36307 has taken 35 damage from CCA.C17-RCT.25058.
+[18:55:22]	[OOC] CCA.C17-GRID.i2.36307: :(
+[18:55:25]	CCA.C17-GRID.i2.36307 used command '/ToggleRaise'.
+[18:55:28]	CCA.C17-RCT.25058 has taken 12 damage from CCA.C17-GRID.i2.36307.
+[18:55:28]	CCA.C17-RCT.25058 has taken 12 damage from CCA.C17-GRID.i2.36307.
+[18:55:28]	CCA.C17-RCT.25058 has taken 12 damage from CCA.C17-GRID.i2.36307.
+[18:55:29]	CCA.C17-RCT.25058 has taken 12 damage from CCA.C17-GRID.i2.36307.
+[18:55:29]	CCA.C17-RCT.25058 has taken 12 damage from CCA.C17-GRID.i2.36307.
+[18:55:29]	CCA.C17-RCT.25058 has taken 12 damage from CCA.C17-GRID.i2.36307.
+[18:55:29]	CCA.C17-RCT.25058 has taken 12 damage from CCA.C17-GRID.i2.36307.
+[18:55:29]	CCA.C17-RCT.25058 has taken 12 damage from CCA.C17-GRID.i2.36307.
+[18:55:29]	CCA.C17-GRID.i2.36307 has taken 35 damage from CCA.C17-RCT.25058.
+[18:55:30]	OTA.C17-ECHO.OWC.25097 has taken 12 damage from CCA.C17-GRID.i2.36307.
+[18:55:30]	OTA.C17-ECHO.OWC.25097 has taken 12 damage from CCA.C17-GRID.i2.36307.
+[18:55:30]	OTA.C17-ECHO.OWC.25097 has taken 12 damage from CCA.C17-GRID.i2.36307.
+[18:55:30]	OTA.C17-ECHO.OWC.25097 has taken 12 damage from CCA.C17-GRID.i2.36307.
+[18:55:30]	OTA.C17-ECHO.OWC.25097 has taken 12 damage from CCA.C17-GRID.i2.36307.
+[18:55:30]	OTA.C17-ECHO.OWC.25097 has taken 12 damage from CCA.C17-GRID.i2.36307.
+[18:55:30]	CCA.C17-GRID.i2.36307 has taken 35 damage from CCA.C17-RCT.25058.
+[18:55:30]	CCA.C17-RCT.25058 has taken 12 damage from CCA.C17-GRID.i2.36307.
+[18:55:30]	CCA.C17-RCT.25058 has taken 12 damage from CCA.C17-GRID.i2.36307.
+[18:55:31]	CCA.C17-RCT.25058 has taken 12 damage from CCA.C17-GRID.i2.36307.
+[18:55:31]	CCA.C17-RCT.25058 has taken 12 damage from CCA.C17-GRID.i2.36307.
+[18:55:31]	CCA.C17-RCT.25058 has taken 12 damage from CCA.C17-GRID.i2.36307.
+[18:55:31]	CCA.C17-GRID.i2.36307 has killed CCA.C17-RCT.25058 with weapon_smg1.
+[18:55:34]	CCA.C17-GRID.i2.36307 used command '/ToggleRaise'.
+[18:55:39]	CCA.C17-RCT.25058 used command '/Radio 11-99'.
+[18:56:20]	CCA.C17-GRID.i2.36307 has spawned 'models/foodnhouseholditems/lettuce.mdl'.
+[18:56:29]	CCA.C17-GRID.i2.36307 has spawned 'models/foodnhouseholditems/lettuce.mdl'.
+[18:56:35]	CCA.C17-GRID.i2.36307 has gained 10 tokens.
+[18:56:44]	CCA.C17-GRID.i2.36307 has spawned 'models/foodnhouseholditems/lettuce.mdl'.
+[18:56:50]	CCA.C17-GRID.i2.36307 has spawned 'models/Gibs/Antlion_gib_Large_2.mdl'.
+[18:56:53]	CCA.C17-GRID.i2.36307 has spawned 'models/props_c17/metalPot001a.mdl'.
+[18:56:56]	CCA.C17-GRID.i2.36307 has spawned 'models/props_c17/metalPot002a.mdl'.
+[18:56:59]	CCA.C17-GRID.i2.36307 has spawned 'models/props_c17/statue_horse.mdl'.
+[18:57:00]	CCA.C17-GRID.i2.36307 has taken 10 damage from prop_physics.
+[18:57:07]	[OOC] CCA.C17-GRID.i2.36307: LETTUCE HORSE
+[18:57:17]	CCA.C17-GRID.i2.36307 has spawned 'models/props_combine/breenbust.mdl'.
+[18:57:21]	[OOC] CCA.C17-GRID.i2.36307: lettuce breen
+[18:57:27]	CCA.C17-GRID.i2.36307 has spawned 'models/props_combine/breenglobe.mdl'.
+[18:57:30]	CCA.C17-GRID.i2.36307 has spawned 'models/props_interiors/refrigeratorDoor02a.mdl'.
+[18:57:34]	CCA.C17-GRID.i2.36307 has spawned 'models/props_interiors/VendingMachineSoda01a.mdl'.
+[18:57:45]	CCA.C17-RCT.25058 has gained 10 tokens.
+[18:57:48]	CCA.C14-GRID.OfC.29402 has gained 10 tokens.
+[18:58:07]	[OOC] OTA.C17-ECHO.OWC.25097: Can you stop?
+[18:58:25]	[LOOC] CCA.C17-GRID.i2.36307: WAIT
+[18:58:45]	[OOC] CCA.C17-GRID.i2.36307: hold still
+[18:59:03]	[OOC] CCA.C17-GRID.i2.36307: you have a little hydration straw lol
+[18:59:07]	[OOC] CCA.C17-GRID.i2.36307: i think
+[18:59:26]	CCA.C17-RCT.25058 has taken 2 damage from worldspawn.
+[19:00:44]	CCA.C17-RCT.25058 ran 'View' on item 'Notepad' (#30841)
+[19:01:23]	CCA.C17-GRID.i2.36307 has taken 2 damage from worldspawn.
+[19:01:26]	CCA.C17-GRID.i2.36307 has spawned 'models/props_interiors/VendingMachineSoda01a.mdl'.
+[19:01:28]	CCA.C17-GRID.i2.36307 has spawned 'models/props_junk/garbage128_composite001a.mdl'.
+[19:01:30]	CCA.C17-GRID.i2.36307 has taken 5 damage from prop_physics.
+[19:01:32]	CCA.C17-GRID.i2.36307 has spawned 'models/props_junk/garbage128_composite001a.mdl'.
+[19:01:35]	CCA.C17-GRID.i2.36307 has gained 10 tokens.
+[19:02:45]	CCA.C17-RCT.25058 has gained 10 tokens.
+[19:02:48]	CCA.C14-GRID.OfC.29402 has gained 10 tokens.
+[19:02:57]	CCA.C17-RCT.25058 has taken 2 damage from worldspawn.
+[19:03:00]	FB|| light ROOM loaded the character 'CCA.C17-UNION.SqL.72633'
+[19:03:09]	CCA.C17-GRID.i2.36307 has taken 35 damage from CCA.C17-RCT.25058.
+[19:03:10]	CCA.C17-GRID.i2.36307 has taken 35 damage from CCA.C17-RCT.25058.
+[19:03:11]	CCA.C17-GRID.i2.36307 has taken 35 damage from CCA.C17-RCT.25058.
+[19:03:17]	CCA.C17-GRID.i2.36307 used command '/ToggleRaise'.
+[19:03:18]	CCA.C17-GRID.i2.36307 has taken 35 damage from CCA.C17-RCT.25058.
+[19:03:19]	CCA.C17-GRID.i2.36307 has taken 35 damage from CCA.C17-RCT.25058.
+[19:03:19]	CCA.C17-RCT.25058 has taken 10 damage from CCA.C17-GRID.i2.36307.
+[19:03:21]	CCA.C17-GRID.i2.36307 has taken 35 damage from CCA.C17-RCT.25058.
+[19:03:22]	CCA.C17-GRID.i2.36307 has taken 35 damage from CCA.C17-RCT.25058.
+[19:03:23]	CCA.C17-RCT.25058 has taken 10 damage from CCA.C17-GRID.i2.36307.
+[19:03:26]	CCA.C17-RCT.25058 has taken 10 damage from CCA.C17-GRID.i2.36307.
+[19:03:38]	CCA.C17-GRID.i2.36307 used command '/ToggleRaise'.
+[19:03:40]	CCA.C17-RCT.25058 has taken 12 damage from CCA.C17-GRID.i2.36307.
+[19:03:40]	CCA.C17-GRID.i2.36307 has taken 35 damage from CCA.C17-RCT.25058.
+[19:03:41]	CCA.C17-GRID.i2.36307 has taken 35 damage from CCA.C17-RCT.25058.
+[19:03:42]	CCA.C17-RCT.25058 has killed CCA.C17-GRID.i2.36307 with ix_stunstick.
+[19:03:46]	[OOC] CCA.C17-GRID.i2.36307: ow
+[19:03:53]	CCA.C17-GRID.i2.36307 ran 'Equip' on item 'Combat Knife' (#35332)
+[19:03:54]	CCA.C17-GRID.i2.36307 ran 'Equip' on item '.9mm Pistol' (#36365)
+[19:03:55]	CCA.C17-GRID.i2.36307 ran 'Equip' on item 'MP7' (#36366)
+[19:04:00]	CCA.C17-GRID.i2.36307 used command '/ToggleRaise'.
+[19:04:04]	[ME] CCA.C17-GRID.i2.36307: mug
+[19:04:08]	CCA.C17-GRID.i2.36307 has taken 75 damage from CCA.C17-RCT.25058.
+[19:04:10]	CCA.C17-GRID.i2.36307 has taken 75 damage from CCA.C17-RCT.25058.
+[19:04:14]	[OOC] CCA.C17-GRID.i2.36307: wai
+[19:04:17]	[OOC] CCA.C17-GRID.i2.36307: wait
+[19:04:17]	[LOOC] CCA.C17-RCT.25058: s2k
+[19:04:35]	[OOC] CCA.C17-GRID.i2.36307: you're holding a gun like a knife on my screen
+[19:04:41]	[OOC] CCA.C17-GRID.i2.36307: hold still
+[19:04:41]	CCA.C17-GRID.i2.36307 used command '/ToggleRaise'.
+[19:05:16]	[OOC] CCA.C17-GRID.i2.36307: look in general
+[19:05:16]	CCA.C17-GRID.i2.36307 used command '/ToggleRaise'.
+[19:05:18]	CCA.C17-RCT.25058 has taken 10 damage from CCA.C17-GRID.i2.36307.
+[19:05:18]	CCA.C17-GRID.i2.36307 has taken 75 damage from CCA.C17-RCT.25058.
+[19:05:18]	CCA.C17-RCT.25058 has killed CCA.C17-GRID.i2.36307 with weapon_357.
+[19:05:24]	CCA.C17-RCT.25058 has taken 75 damage from CCA.C17-UNION.SqL.72633.
+[19:05:25]	CCA.C17-RCT.25058 has taken 75 damage from CCA.C17-UNION.SqL.72633.
+[19:05:25]	CCA.C17-UNION.SqL.72633 has killed CCA.C17-RCT.25058 with weapon_357.
+[19:05:44]	CCA.C17-UNION.SqL.72633 has taken 5 damage from worldspawn.
+[19:06:03]	[OOC] CCA.C17-GRID.i2.36307: camoflauge
+[19:06:35]	[LOOC] CCA.C17-GRID.i2.36307: EW
+[19:06:35]	CCA.C17-GRID.i2.36307 has gained 10 tokens.
+[19:06:38]	[LOOC] CCA.C17-UNION.SqL.72633: Icky
+[19:06:39]	[LOOC] CCA.C17-GRID.i2.36307: LOOK AT THIUS
+[19:07:45]	CCA.C17-RCT.25058 has gained 10 tokens.
+[19:07:48]	CCA.C14-GRID.OfC.29402 has gained 10 tokens.
+[19:07:56]	[LOOC] CCA.C17-UNION.SqL.72633: suck
+[19:08:00]	[LOOC] CCA.C17-UNION.SqL.72633: S U C K
+[19:08:00]	CCA.C17-UNION.SqL.72633 has gained 10 tokens.
+[19:08:05]	[LOOC] CCA.C17-GRID.i2.36307: NO
+[19:08:10]	[LOOC] CCA.C17-RCT.25058: where are you in vc
+[19:08:23]	[OOC] CCA.C17-GRID.i2.36307: what
+[19:08:23]	[LOOC] CCA.C17-UNION.SqL.72633: what
+[19:08:29]	[LOOC] CCA.C17-GRID.i2.36307: what
+[19:08:52]	CCA.C17-GRID.i2.36307 used command '/ToggleRaise'.
+[19:08:56]	CCA.C17-RCT.25058 has taken 5 damage from CCA.C17-GRID.i2.36307.
+[19:09:03]	CCA.C17-GRID.i2.36307 has taken 35 damage from CCA.C17-RCT.25058.
+[19:09:03]	CCA.C17-RCT.25058 has taken 5 damage from CCA.C17-GRID.i2.36307.
+[19:09:13]	CCA.C17-GRID.i2.36307 has taken 75 damage from CCA.C17-UNION.SqL.72633.
+[19:09:14]	CCA.C17-UNION.SqL.72633 has taken 5 damage from CCA.C17-GRID.i2.36307.
+[19:09:15]	CCA.C17-UNION.SqL.72633 has taken 5 damage from CCA.C17-GRID.i2.36307.
+[19:09:15]	CCA.C17-GRID.i2.36307 has taken 75 damage from CCA.C17-UNION.SqL.72633.
+[19:09:15]	CCA.C17-GRID.i2.36307 has taken 35 damage from CCA.C17-RCT.25058.
+[19:09:16]	CCA.C17-RCT.25058 has killed CCA.C17-GRID.i2.36307 with ix_stunstick.
+[19:09:16]	CCA.C17-RCT.25058 has taken 75 damage from CCA.C17-UNION.SqL.72633.
+[19:09:22]	[OOC] CCA.C17-RCT.25058: fuck off
+[19:09:27]	[OOC] CCA.C17-RCT.25058: thx <3
+[19:11:35]	CCA.C17-GRID.i2.36307 has gained 10 tokens.
+[19:12:27]	CCA.C17-UNION.SqL.72633 ran 'Equip' on item 'MP7' (#22164)
+[19:12:33]	CCA.C17-GRID.i2.36307 has spawned 'models/cca_tech_props/meu_armor.mdl'.
+[19:12:44]	CCA.C17-GRID.i2.36307 has spawned 'models/illusion/eftcontainers/armorrepair.mdl'.
+[19:12:45]	CCA.C17-RCT.25058 has gained 10 tokens.
+[19:12:48]	CCA.C14-GRID.OfC.29402 has gained 10 tokens.
+[19:13:00]	CCA.C17-UNION.SqL.72633 has gained 10 tokens.
+[19:13:54]	CCA.C17-GRID.i2.36307 has spawned 'models/weapons/w_smg_mp5.mdl'.
+[19:14:25]	CCA.C17-GRID.i2.36307 has spawned 'models/weapons/w_snip_awp.mdl'.
+[19:15:29]	FB|| light ROOM loaded the character 'OTA.C17-ECHO.OWC.25097'
+[19:15:33]	OTA.C17-ECHO.OWC.25097 has taken 2 damage from worldspawn.
+[19:16:35]	CCA.C17-GRID.i2.36307 has gained 10 tokens.
+[19:17:45]	CCA.C17-RCT.25058 has gained 10 tokens.
+[19:17:48]	CCA.C14-GRID.OfC.29402 has gained 10 tokens.
+[19:17:50]	FB|| light ROOM loaded the character 'OTA.C17-KILO.OSS.39412'
+[19:20:46]	OTA.C17-KILO.OSS.39412 has taken 5 damage from worldspawn.
+[19:20:50]	CCA.C17-RCT.25058 has taken 41 damage from OTA.C17-KILO.OSS.39412.
+[19:20:55]	CCA.C17-RCT.25058 has taken 41 damage from OTA.C17-KILO.OSS.39412.
+[19:20:55]	OTA.C17-KILO.OSS.39412 has killed CCA.C17-RCT.25058 with ix_hands.
+[19:21:35]	CCA.C17-GRID.i2.36307 has gained 10 tokens.
+[19:21:37]	NamRm loaded the character 'Santino Russo'
+[19:21:42]	[OOC] Santino Russo: poopy
+[19:21:50]	[OOC] OTA.C17-KILO.OSS.39412: stinky
+[19:21:56]	[OOC] OTA.C17-KILO.OSS.39412: poopy
+[19:21:59]	[OOC] OTA.C17-KILO.OSS.39412: hahahah
+[19:22:13]	FB|| light ROOM (STEAM_0:1:17219621) has disconnected.
+[19:22:48]	CCA.C14-GRID.OfC.29402 has gained 10 tokens.
+[19:24:18]	Santino Russo used command '/ita Coc'.
+[19:26:35]	CCA.C17-GRID.i2.36307 has gained 10 tokens.
+[19:27:48]	CCA.C14-GRID.OfC.29402 has gained 10 tokens.
+[19:31:35]	CCA.C17-GRID.i2.36307 has gained 10 tokens.
+[19:32:48]	CCA.C14-GRID.OfC.29402 has gained 10 tokens.
+[19:36:35]	CCA.C17-GRID.i2.36307 has gained 10 tokens.
+[19:37:48]	CCA.C14-GRID.OfC.29402 has gained 10 tokens.
+[19:41:35]	CCA.C17-GRID.i2.36307 has gained 10 tokens.
+[19:42:48]	CCA.C14-GRID.OfC.29402 has gained 10 tokens.
+[19:46:35]	CCA.C17-GRID.i2.36307 has gained 10 tokens.
+[19:47:48]	CCA.C14-GRID.OfC.29402 has gained 10 tokens.
+[19:51:35]	CCA.C17-GRID.i2.36307 has gained 10 tokens.
+[19:52:48]	CCA.C14-GRID.OfC.29402 has gained 10 tokens.
+[19:56:35]	CCA.C17-GRID.i2.36307 has gained 10 tokens.
+[19:57:48]	CCA.C14-GRID.OfC.29402 has gained 10 tokens.
+[20:01:35]	CCA.C17-GRID.i2.36307 has gained 10 tokens.
+[20:02:48]	CCA.C14-GRID.OfC.29402 has gained 10 tokens.
+[20:05:49]	[OOC] CCA.C17-GRID.i2.36307: wait i'm still in game
+[20:05:54]	DRD (STEAM_0:0:193599766) has disconnected.
+[20:07:48]	CCA.C14-GRID.OfC.29402 has gained 10 tokens.
+[20:11:55]	Avocadojuice has connected.
+[20:12:50]	CCA.C14-GRID.OfC.29402 has gained 10 tokens.
+[20:15:09]	Avocadojuice created the character 'notabigfatcock'
+[20:15:09]	notabigfatcock has gained a 'Suitcase' #36824.
+[20:15:09]	notabigfatcock has gained a 'Relocation Coupon' #36825.
+[20:15:09]	Avocadojuice loaded the character 'notabigfatcock'
+[20:17:24]	notabigfatcock ran 'drop' on item 'Suitcase' (#36824)
+[20:17:24]	notabigfatcock has lost a 'Suitcase' #36824.
+[20:17:31]	notabigfatcock ran 'take' on item 'Suitcase' (#36824)
+[20:17:31]	notabigfatcock has gained a 'Suitcase' #36824.
+[20:17:50]	CCA.C14-GRID.OfC.29402 has gained 10 tokens.
+[20:17:53]	Avocadojuice (STEAM_0:0:543708818) has disconnected.
+[20:22:50]	CCA.C14-GRID.OfC.29402 has gained 10 tokens.
+[20:24:00]	[OOC] CCA.C14-GRID.OfC.29402: reconnecting btb
+[20:24:03]	matt saton (STEAM_0:1:53097688) has disconnected.
+[21:03:35]	NamRm (STEAM_0:0:69476140) has disconnected.
+[21:06:04]	matt saton has connected.
+[21:15:34]	matt saton loaded the character 'Ryan Marnett'
+[21:15:35]	Ryan Marnett entered observer.
+[23:05:04]	NamRm has connected.
+[23:07:47]	NamRm loaded the character 'CCA.C17-RCT.25058'
+[23:09:50]	matt saton (STEAM_0:1:53097688) has disconnected.
+[23:12:47]	CCA.C17-RCT.25058 has gained 10 tokens.
+[23:14:23]	NamRm loaded the character 'Santino Russo'

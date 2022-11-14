@@ -1,0 +1,522 @@
+[11:16:06]	LightRinger has connected.
+[11:20:10]	LightRinger loaded the character 'R4-i5'
+[11:20:18]	[OOC] R4-i5: oh right...
+[11:25:11]	R4-i5 used command '/CharFallOver'.
+[11:25:23]	LightRinger loaded the character 'Private Blunfow Trustok'
+[11:26:13]	LightRinger loaded the character 'R2-k0'
+[11:28:17]	R2-k0 has spawned 'models/props_c17/FurnitureBoiler001a.mdl'.
+[11:38:46]	R2-k0 opened the '' #251 container.
+[11:38:57]	R2-k0 has gained a 'Defender Pistol' #2530.
+[11:38:59]	R2-k0 has gained a 'E-11D Blaster' #2564.
+[11:39:05]	R2-k0 has gained a 'DH-17a Blaster' #2414.
+[11:39:09]	R2-k0 has gained a 'Identichip' #2580.
+[11:39:09]	R2-k0 ran 'Equip' on item 'E-11D Blaster' (#2564)
+[11:39:12]	R2-k0 closed the '' #251 container.
+[11:40:05]	R2-k0 ran 'Equip' on item 'DH-17a Blaster' (#2414)
+[11:40:16]	R2-k0 ran 'EquipUn' on item 'DH-17a Blaster' (#2414)
+[11:40:17]	R2-k0 ran 'Equip' on item 'Defender Pistol' (#2530)
+[11:40:45]	R2-k0 ran 'drop' on item 'E-11D Blaster' (#2564)
+[11:40:45]	R2-k0 has lost a 'E-11D Blaster' #2564.
+[11:40:46]	R2-k0 ran 'drop' on item 'Defender Pistol' (#2530)
+[11:40:46]	R2-k0 has lost a 'Defender Pistol' #2530.
+[11:40:47]	R2-k0 ran 'drop' on item 'DH-17a Blaster' (#2414)
+[11:40:47]	R2-k0 has lost a 'DH-17a Blaster' #2414.
+[11:40:50]	R2-k0 ran 'drop' on item 'Identichip' (#2580)
+[11:40:50]	R2-k0 has lost a 'Identichip' #2580.
+[11:45:05]	R2-k0 used command '/CharFallOver'.
+[11:45:06]	R2-k0 used command '/CharGetUp'.
+[11:45:09]	R2-k0 used command '/CharGetUp'.
+[11:45:10]	R2-k0 used command '/CharGetUp'.
+[11:45:33]	R2-k0 has taken 10 damage from kingpommes_lfs_tie_fighter.
+[11:45:44]	R2-k0 has spawned 'models/props_c17/gravestone_statue001a.mdl'.
+[11:45:48]	R2-k0 has spawned 'models/props_c17/gravestone_statue001a.mdl'.
+[11:45:49]	R2-k0 has spawned 'models/props_c17/gravestone_statue001a.mdl'.
+[11:45:52]	R2-k0 has spawned 'models/props_c17/gravestone_statue001a.mdl'.
+[11:45:54]	R2-k0 has spawned 'models/props_c17/gravestone_statue001a.mdl'.
+[11:45:55]	R2-k0 has spawned 'models/props_c17/gravestone_statue001a.mdl'.
+[11:45:57]	R2-k0 has spawned 'models/props_c17/gravestone_statue001a.mdl'.
+[11:45:59]	R2-k0 has spawned 'models/props_c17/gravestone_statue001a.mdl'.
+[11:46:00]	R2-k0 has spawned 'models/props_c17/gravestone_statue001a.mdl'.
+[11:46:01]	R2-k0 has spawned 'models/props_c17/gravestone_statue001a.mdl'.
+[11:46:02]	R2-k0 has spawned 'models/props_c17/gravestone_statue001a.mdl'.
+[11:46:03]	R2-k0 has spawned 'models/props_c17/gravestone_statue001a.mdl'.
+[11:46:04]	R2-k0 has spawned 'models/props_c17/gravestone_statue001a.mdl'.
+[11:46:05]	R2-k0 has spawned 'models/props_c17/gravestone_statue001a.mdl'.
+[11:46:08]	R2-k0 has spawned 'models/props_c17/gravestone_statue001a.mdl'.
+[11:46:09]	R2-k0 has spawned 'models/props_c17/gravestone_statue001a.mdl'.
+[11:46:10]	R2-k0 has spawned 'models/props_c17/gravestone_statue001a.mdl'.
+[11:46:12]	R2-k0 has spawned 'models/props_c17/gravestone_statue001a.mdl'.
+[11:46:13]	R2-k0 has spawned 'models/props_c17/gravestone_statue001a.mdl'.
+[11:48:29]	R2-k0 has taken 66 damage from worldspawn.
+[11:51:58]	R2-k0 has taken 1 damage from door44.
+[11:52:51]	R2-k0 has spawned 'models/props_c17/GasPipes006a.mdl'.
+[11:52:52]	R2-k0 has spawned 'models/props_c17/FurnitureWashingmachine001a.mdl'.
+[11:52:58]	R2-k0 has spawned 'models/props_c17/FurnitureCouch001a.mdl'.
+[11:53:12]	R2-k0 has spawned 'models/props_c17/FurnitureCouch001a.mdl'.
+[11:53:22]	R2-k0 has spawned 'models/props_c17/FurnitureCouch001a.mdl'.
+[11:53:33]	R2-k0 has spawned 'models/props_c17/FurnitureCouch001a.mdl'.
+[11:53:40]	R2-k0 has spawned 'models/props_c17/FurnitureCouch001a.mdl'.
+[11:53:41]	R2-k0 has spawned 'models/props_c17/FurnitureCouch001a.mdl'.
+[11:53:43]	R2-k0 has spawned 'models/props_c17/FurnitureCouch001a.mdl'.
+[11:53:44]	R2-k0 has spawned 'models/props_c17/FurnitureCouch001a.mdl'.
+[11:53:45]	R2-k0 has spawned 'models/props_c17/FurnitureCouch001a.mdl'.
+[11:53:51]	R2-k0 has spawned 'models/props_c17/furnitureStove001a.mdl'.
+[11:53:54]	R2-k0 has spawned 'models/props_c17/furnitureStove001a.mdl'.
+[11:53:56]	R2-k0 has spawned 'models/props_c17/furnitureStove001a.mdl'.
+[11:53:58]	R2-k0 has spawned 'models/props_c17/furnitureStove001a.mdl'.
+[11:58:08]	R2-k0 has taken 78 damage from worldspawn.
+[11:58:08]	worldspawn has killed R2-k0.
+[11:58:57]	R2-k0 has taken 79 damage from console_explo.
+[11:58:59]	R2-k0 has taken 80 damage from console_explo.
+[11:58:59]	console_explo has killed R2-k0.
+[11:59:30]	R2-k0 has taken 90 damage from console_explo.
+[11:59:33]	R2-k0 has taken 90 damage from console_explo.
+[11:59:33]	console_explo has killed R2-k0.
+[11:59:56]	R2-k0 has taken 90 damage from console_explo.
+[12:00:04]	R2-k0 has taken 89 damage from console_explo.
+[12:00:04]	console_explo has killed R2-k0.
+[12:01:44]	R2-k0 ran 'take' on item 'Identichip' (#2580)
+[12:01:44]	R2-k0 has gained a 'Identichip' #2580.
+[12:10:51]	R2-k0 used the 'Supply Locker' vendor.
+[12:10:55]	R2-k0 has gained 0 credits.
+[12:10:55]	R2-k0 has gained a 'E-11 Blaster' #2713.
+[12:10:56]	R2-k0 has gained 0 credits.
+[12:10:56]	R2-k0 has gained a 'E-10 Blaster' #2714.
+[12:10:59]	R2-k0 has gained 0 credits.
+[12:10:59]	R2-k0 has gained a 'EC-17 Blaster' #2715.
+[12:11:01]	R2-k0 has gained 0 credits.
+[12:11:01]	R2-k0 has gained a 'RK-3 Blaster' #2716.
+[12:11:02]	R2-k0 has gained 0 credits.
+[12:11:02]	R2-k0 has gained a 'RT-97C Blaster' #2717.
+[12:11:20]	R2-k0 has gained 0 credits.
+[12:11:20]	R2-k0 has gained a 'RK-3 Blaster' #2718.
+[12:11:24]	R2-k0 ran 'Equip' on item 'RK-3 Blaster' (#2718)
+[12:11:30]	R2-k0 used the 'Supply Locker' vendor.
+[12:11:32]	R2-k0 has gained 0 credits.
+[12:11:32]	R2-k0 has gained a 'Tibanna Cartridge' #2719.
+[12:11:32]	R2-k0 has gained 0 credits.
+[12:11:32]	R2-k0 has gained a 'Tibanna Cartridge' #2720.
+[12:11:33]	R2-k0 has gained 0 credits.
+[12:11:33]	R2-k0 has gained a 'Tibanna Cartridge' #2721.
+[12:11:33]	R2-k0 has gained 0 credits.
+[12:11:33]	R2-k0 has gained a 'Tibanna Cartridge' #2722.
+[12:11:35]	R2-k0 has gained 0 credits.
+[12:11:35]	R2-k0 has gained a 'Comlink' #2723.
+[12:11:37]	R2-k0 has gained 0 credits.
+[12:11:37]	R2-k0 has gained a 'Flashlight' #2724.
+[12:11:42]	R2-k0 ran 'use' on item 'Tibanna Cartridge' (#2722)
+[12:11:42]	R2-k0 ran 'use' on item 'Tibanna Cartridge' (#2721)
+[12:11:44]	R2-k0 ran 'use' on item 'Tibanna Cartridge' (#2719)
+[12:11:44]	R2-k0 ran 'use' on item 'Tibanna Cartridge' (#2720)
+[12:11:57]	R2-k0 ran 'EquipUn' on item 'RK-3 Blaster' (#2718)
+[12:11:58]	R2-k0 ran 'Equip' on item 'RT-97C Blaster' (#2717)
+[12:12:12]	R2-k0 ran 'EquipUn' on item 'RT-97C Blaster' (#2717)
+[12:12:13]	R2-k0 ran 'Equip' on item 'RK-3 Blaster' (#2716)
+[12:12:23]	R2-k0 ran 'EquipUn' on item 'RK-3 Blaster' (#2716)
+[12:12:24]	R2-k0 ran 'Equip' on item 'RT-97C Blaster' (#2717)
+[12:12:35]	R2-k0 ran 'EquipUn' on item 'RT-97C Blaster' (#2717)
+[12:12:39]	R2-k0 ran 'Equip' on item 'EC-17 Blaster' (#2715)
+[12:12:48]	R2-k0 ran 'EquipUn' on item 'EC-17 Blaster' (#2715)
+[12:12:48]	R2-k0 ran 'Equip' on item 'E-10 Blaster' (#2714)
+[12:13:04]	R2-k0 ran 'EquipUn' on item 'E-10 Blaster' (#2714)
+[12:13:05]	R2-k0 ran 'Equip' on item 'E-11 Blaster' (#2713)
+[12:13:21]	R2-k0 ran 'EquipUn' on item 'E-11 Blaster' (#2713)
+[12:13:21]	R2-k0 ran 'Equip' on item 'E-10 Blaster' (#2714)
+[12:13:39]	R2-k0 destroyed a 'Armor Dirtifier' #2678.
+[12:13:46]	R2-k0 destroyed a 'Defender Pistol' #2527.
+[12:13:53]	R2-k0 destroyed a 'Tibanna Cartridge' #2659.
+[12:14:35]	R2-k0 ran 'Power' on item 'Comlink' (#2723)
+[12:14:41]	R2-k0 ran 'EquipUn' on item 'E-10 Blaster' (#2714)
+[12:14:42]	R2-k0 ran 'Equip' on item 'RT-97C Blaster' (#2717)
+[12:20:20]	R2-k0 has spawned 'models/props_junk/wood_crate002a.mdl'.
+[12:20:23]	R2-k0 has spawned 'models/props_junk/wood_crate002a.mdl'.
+[12:20:29]	R2-k0 has spawned 'models/props_junk/wood_crate002a.mdl'.
+[12:20:30]	R2-k0 has spawned 'models/props_junk/wood_crate002a.mdl'.
+[12:20:31]	R2-k0 has spawned 'models/props_junk/wood_crate002a.mdl'.
+[12:20:33]	R2-k0 has spawned 'models/props_junk/wood_crate002a.mdl'.
+[12:20:34]	R2-k0 has spawned 'models/props_junk/wood_crate002a.mdl'.
+[12:20:43]	R2-k0 has spawned 'models/props_junk/wood_crate002a.mdl'.
+[12:20:46]	R2-k0 has spawned 'models/props_junk/wood_crate002a.mdl'.
+[12:20:48]	R2-k0 has spawned 'models/props_junk/wood_crate002a.mdl'.
+[12:20:55]	R2-k0 has spawned 'models/props_junk/wood_crate002a.mdl'.
+[12:20:56]	R2-k0 has spawned 'models/props_junk/wood_crate002a.mdl'.
+[12:20:59]	R2-k0 has spawned 'models/props_junk/wood_crate002a.mdl'.
+[12:21:01]	R2-k0 has spawned 'models/props_junk/wood_crate002a.mdl'.
+[12:21:04]	R2-k0 has spawned 'models/props_junk/wood_crate002a.mdl'.
+[12:21:05]	R2-k0 has spawned 'models/props_junk/wood_crate002a.mdl'.
+[12:21:08]	R2-k0 has spawned 'models/props_junk/wood_crate002a.mdl'.
+[12:21:10]	R2-k0 has spawned 'models/props_junk/wood_crate002a.mdl'.
+[12:21:27]	R2-k0 has spawned 'models/props_junk/wood_crate002a.mdl'.
+[12:21:31]	R2-k0 has spawned 'models/props_junk/wood_crate002a.mdl'.
+[12:21:37]	R2-k0 has spawned 'models/props_junk/wood_crate002a.mdl'.
+[12:21:39]	R2-k0 has spawned 'models/props_junk/wood_crate002a.mdl'.
+[12:21:40]	R2-k0 has spawned 'models/props_junk/wood_crate002a.mdl'.
+[12:21:42]	R2-k0 has spawned 'models/props_junk/wood_crate002a.mdl'.
+[12:21:56]	R2-k0 opened the '' #315 container.
+[12:21:59]	R2-k0 closed the '' #315 container.
+[12:36:02]	R2-k0 used the 'Supply Locker' vendor.
+[12:36:04]	R2-k0 has gained 0 credits.
+[12:36:04]	R2-k0 has gained a 'Tibanna Cartridge' #2725.
+[12:36:05]	R2-k0 has gained 0 credits.
+[12:36:05]	R2-k0 has gained a 'Tibanna Cartridge' #2726.
+[12:36:05]	R2-k0 has gained 0 credits.
+[12:36:05]	R2-k0 has gained a 'Tibanna Cartridge' #2727.
+[12:36:06]	R2-k0 has gained 0 credits.
+[12:36:06]	R2-k0 has gained a 'Tibanna Cartridge' #2728.
+[12:36:06]	R2-k0 has gained 0 credits.
+[12:36:06]	R2-k0 has gained a 'Tibanna Cartridge' #2729.
+[12:36:07]	R2-k0 has gained 0 credits.
+[12:36:07]	R2-k0 has gained a 'Tibanna Cartridge' #2730.
+[12:36:07]	R2-k0 has gained 0 credits.
+[12:36:07]	R2-k0 has gained a 'Tibanna Cartridge' #2731.
+[12:36:11]	R2-k0 ran 'use' on item 'Tibanna Cartridge' (#2728)
+[12:36:12]	R2-k0 ran 'use' on item 'Tibanna Cartridge' (#2727)
+[12:36:12]	R2-k0 ran 'use' on item 'Tibanna Cartridge' (#2731)
+[12:36:13]	R2-k0 ran 'use' on item 'Tibanna Cartridge' (#2729)
+[12:36:14]	R2-k0 ran 'use' on item 'Tibanna Cartridge' (#2725)
+[12:36:14]	R2-k0 ran 'use' on item 'Tibanna Cartridge' (#2726)
+[12:36:16]	R2-k0 ran 'Equip' on item 'E-10 Blaster' (#2714)
+[12:36:21]	R2-k0 ran 'drop' on item 'RK-3 Blaster' (#2718)
+[12:36:21]	R2-k0 has lost a 'RK-3 Blaster' #2718.
+[12:36:23]	R2-k0 ran 'drop' on item 'RK-3 Blaster' (#2716)
+[12:36:23]	R2-k0 has lost a 'RK-3 Blaster' #2716.
+[12:36:23]	R2-k0 ran 'drop' on item 'E-11 Blaster' (#2713)
+[12:36:23]	R2-k0 has lost a 'E-11 Blaster' #2713.
+[12:36:25]	R2-k0 ran 'drop' on item 'E-10 Blaster' (#2714)
+[12:36:25]	R2-k0 has lost a 'E-10 Blaster' #2714.
+[12:37:27]	R2-k0 ran 'use' on item 'Tibanna Cartridge' (#2730)
+[12:39:03]	R2-k0 has taken 100 damage from worldspawn.
+[12:39:03]	worldspawn has killed R2-k0.
+[12:41:55]	R2-k0 has taken 114 damage from worldspawn.
+[12:41:55]	worldspawn has killed R2-k0.
+[12:45:06]	R2-k0 has spawned 'models/props_interiors/VendingMachineSoda01a.mdl'.
+[12:45:08]	R2-k0 has spawned 'models/props_junk/wood_crate001a.mdl'.
+[12:45:09]	R2-k0 opened the 'Crate' #321 container.
+[12:45:11]	R2-k0 closed the 'Crate' #321 container.
+[12:47:16]	R2-k0 has spawned 'models/props_junk/wood_crate002a.mdl'.
+[12:47:24]	R2-k0 has spawned 'models/props_junk/wood_crate002a.mdl'.
+[12:47:24]	R2-k0 has spawned 'models/props_junk/wood_crate002a.mdl'.
+[12:49:07]	R2-k0 has taken 50 damage from worldspawn.
+[12:49:10]	R2-k0 has taken 39 damage from worldspawn.
+[12:49:22]	R2-k0 has taken 30 damage from worldspawn.
+[12:49:22]	worldspawn has killed R2-k0.
+[12:50:53]	LightRinger created the character 'safsadfsadfsdafasd'
+[12:51:01]	LightRinger loaded the character 'safsadfsadfsdafasd'
+[12:55:21]	LightRinger loaded the character 'Private Blunfow Trustok'
+[12:55:43]	LightRinger (STEAM_0:1:54101851) deleted character 'Private TK-3822'
+[12:55:48]	LightRinger (STEAM_0:1:54101851) deleted character 'safsadfsadfsdafasd'
+[12:55:56]	LightRinger loaded the character 'MSE-6-b562u'
+[13:39:20]	NamRm has connected.
+[13:39:52]	NamRm (STEAM_0:0:69476140) has disconnected.
+[13:58:23]	[OOC] MSE-6-b562u: yo
+[14:03:43]	NamRm has connected.
+[14:04:18]	NamRm loaded the character 'Sergeant LS-7979'
+[14:04:20]	[OOC] Sergeant LS-7979: yo
+[14:06:01]	[LOOC] MSE-6-b562u: Yo I need help
+[14:06:05]	[LOOC] Sergeant LS-7979: sure what
+[14:06:06]	[LOOC] MSE-6-b562u: get ammo
+[14:06:13]	[LOOC] Sergeant LS-7979: okay
+[14:06:19]	Sergeant LS-7979 ran 'drop' on item 'Tibanna Cartridge' (#2704)
+[14:06:19]	Sergeant LS-7979 has lost a 'Tibanna Cartridge' #2704.
+[14:06:23]	[LOOC] MSE-6-b562u: Okay lets go
+[14:06:25]	Sergeant LS-7979 ran 'take' on item 'Tibanna Cartridge' (#2704)
+[14:06:25]	Sergeant LS-7979 has gained a 'Tibanna Cartridge' #2704.
+[14:07:07]	[LOOC] MSE-6-b562u: I got stuck with 2 chars because of bug, I reported it to staff but so far few hours nothing
+[14:07:40]	[LOOC] MSE-6-b562u: Iam confused, I need to get on bridge, You know way ?
+[14:07:51]	[LOOC] Sergeant LS-7979: i think so
+[14:08:37]	[LOOC] MSE-6-b562u: FFFFFFF
+[14:08:41]	[LOOC] MSE-6-b562u: okay sec
+[14:08:51]	[LOOC] MSE-6-b562u: stay here then I will come with other char
+[14:08:59]	LightRinger loaded the character 'R4-i5'
+[14:09:06]	LightRinger loaded the character 'R2-k0'
+[14:10:40]	R2-k0 has spawned 'models/props_interiors/Furniture_shelf01a.mdl'.
+[14:10:42]	R2-k0 has spawned 'models/props_interiors/VendingMachineSoda01a.mdl'.
+[14:10:42]	R2-k0 has taken 1 damage from door26_1.
+[14:10:42]	R2-k0 has taken 1 damage from door26_2.
+[14:10:42]	R2-k0 has taken 1 damage from door26_1.
+[14:10:42]	R2-k0 has taken 1 damage from door26_2.
+[14:10:42]	R2-k0 has taken 1 damage from door26_1.
+[14:10:42]	R2-k0 has taken 1 damage from door26_2.
+[14:10:42]	R2-k0 has taken 1 damage from door26_1.
+[14:10:42]	R2-k0 has taken 1 damage from door26_2.
+[14:10:42]	R2-k0 has taken 1 damage from door26_1.
+[14:10:42]	R2-k0 has taken 1 damage from door26_2.
+[14:10:42]	R2-k0 has taken 1 damage from door26_1.
+[14:10:42]	R2-k0 has taken 1 damage from door26_2.
+[14:10:42]	R2-k0 has taken 1 damage from door26_1.
+[14:10:42]	R2-k0 has taken 1 damage from door26_2.
+[14:10:42]	R2-k0 has taken 1 damage from door26_1.
+[14:10:42]	R2-k0 has taken 1 damage from door26_2.
+[14:10:42]	R2-k0 has taken 1 damage from door26_2.
+[14:10:42]	R2-k0 has taken 1 damage from door26_1.
+[14:10:42]	R2-k0 has taken 1 damage from door26_2.
+[14:10:42]	R2-k0 has taken 1 damage from door26_1.
+[14:10:42]	R2-k0 has taken 1 damage from door26_2.
+[14:10:42]	R2-k0 has taken 1 damage from door26_1.
+[14:10:42]	R2-k0 has taken 1 damage from door26_2.
+[14:10:42]	R2-k0 has taken 1 damage from door26_1.
+[14:10:42]	R2-k0 has taken 1 damage from door26_2.
+[14:10:42]	R2-k0 has taken 1 damage from door26_1.
+[14:10:42]	R2-k0 has taken 1 damage from door26_2.
+[14:10:42]	R2-k0 has taken 1 damage from door26_1.
+[14:10:42]	R2-k0 has taken 1 damage from door26_2.
+[14:10:42]	R2-k0 has taken 1 damage from door26_1.
+[14:10:42]	R2-k0 has taken 1 damage from door26_2.
+[14:10:42]	R2-k0 has taken 1 damage from door26_1.
+[14:10:42]	R2-k0 has taken 1 damage from door26_2.
+[14:10:42]	R2-k0 has taken 1 damage from door26_1.
+[14:10:42]	R2-k0 has taken 1 damage from door26_2.
+[14:10:42]	R2-k0 has taken 1 damage from door26_1.
+[14:10:42]	R2-k0 has taken 1 damage from door26_2.
+[14:10:42]	R2-k0 has taken 1 damage from door26_1.
+[14:10:42]	R2-k0 has taken 1 damage from door26_2.
+[14:10:42]	R2-k0 has taken 1 damage from door26_1.
+[14:10:42]	R2-k0 has taken 1 damage from door26_2.
+[14:10:42]	R2-k0 has taken 1 damage from door26_1.
+[14:10:42]	R2-k0 has taken 1 damage from door26_2.
+[14:10:42]	R2-k0 has taken 1 damage from door26_1.
+[14:10:42]	R2-k0 has taken 1 damage from door26_2.
+[14:10:42]	R2-k0 has taken 1 damage from door26_1.
+[14:10:42]	R2-k0 has taken 1 damage from door26_2.
+[14:10:42]	R2-k0 has taken 1 damage from door26_1.
+[14:10:42]	R2-k0 has taken 1 damage from door26_2.
+[14:10:42]	R2-k0 has taken 1 damage from door26_1.
+[14:10:42]	R2-k0 has taken 1 damage from door26_2.
+[14:10:42]	R2-k0 has taken 1 damage from door26_1.
+[14:10:42]	R2-k0 has taken 1 damage from door26_2.
+[14:10:42]	R2-k0 has taken 1 damage from door26_1.
+[14:10:42]	R2-k0 has taken 1 damage from door26_2.
+[14:10:42]	R2-k0 has taken 1 damage from door26_1.
+[14:10:42]	R2-k0 has taken 1 damage from door26_2.
+[14:10:42]	R2-k0 has taken 1 damage from door26_1.
+[14:10:42]	R2-k0 has taken 1 damage from door26_2.
+[14:10:42]	R2-k0 has taken 1 damage from door26_1.
+[14:10:42]	R2-k0 has taken 1 damage from door26_2.
+[14:10:42]	R2-k0 has taken 1 damage from door26_1.
+[14:10:42]	R2-k0 has taken 1 damage from door26_2.
+[14:10:42]	R2-k0 has taken 1 damage from door26_1.
+[14:10:42]	R2-k0 has taken 1 damage from door26_2.
+[14:10:42]	R2-k0 has taken 1 damage from door26_1.
+[14:10:42]	R2-k0 has taken 1 damage from door26_2.
+[14:10:42]	R2-k0 has taken 1 damage from door26_1.
+[14:10:42]	R2-k0 has taken 1 damage from door26_2.
+[14:10:42]	R2-k0 has taken 1 damage from door26_1.
+[14:10:43]	R2-k0 has taken 1 damage from door26_2.
+[14:10:43]	R2-k0 has taken 1 damage from door26_1.
+[14:10:43]	R2-k0 has taken 1 damage from door26_2.
+[14:10:43]	R2-k0 has taken 1 damage from door26_1.
+[14:10:43]	R2-k0 has taken 1 damage from door26_2.
+[14:10:43]	R2-k0 has taken 1 damage from door26_1.
+[14:10:43]	R2-k0 has taken 1 damage from door26_2.
+[14:10:43]	R2-k0 has taken 1 damage from door26_1.
+[14:10:43]	R2-k0 has taken 1 damage from door26_2.
+[14:10:43]	R2-k0 has taken 1 damage from door26_1.
+[14:10:43]	R2-k0 has taken 1 damage from door26_2.
+[14:10:43]	R2-k0 has taken 1 damage from door26_1.
+[14:10:43]	R2-k0 has taken 1 damage from door26_2.
+[14:10:43]	R2-k0 has taken 1 damage from door26_1.
+[14:10:43]	R2-k0 has taken 1 damage from door26_2.
+[14:10:43]	R2-k0 has taken 1 damage from door26_1.
+[14:10:43]	R2-k0 has taken 1 damage from door26_2.
+[14:10:43]	R2-k0 has taken 1 damage from door26_1.
+[14:10:43]	R2-k0 has taken 1 damage from door26_2.
+[14:10:43]	R2-k0 has taken 1 damage from door26_1.
+[14:10:43]	R2-k0 has taken 1 damage from door26_2.
+[14:10:43]	R2-k0 has taken 1 damage from door26_1.
+[14:10:43]	R2-k0 has taken 1 damage from door26_2.
+[14:10:43]	R2-k0 has taken 1 damage from door26_1.
+[14:10:43]	R2-k0 has taken 1 damage from door26_2.
+[14:10:43]	R2-k0 has taken 1 damage from door26_1.
+[14:10:43]	R2-k0 has taken 1 damage from door26_2.
+[14:10:43]	R2-k0 has taken 1 damage from door26_1.
+[14:10:43]	R2-k0 has taken 1 damage from door26_2.
+[14:10:43]	R2-k0 has taken 1 damage from door26_1.
+[14:10:43]	door26_1 has killed R2-k0.
+[14:10:47]	[LOOC] R2-k0: WELL FUCK
+[14:11:06]	[OOC] R2-k0: actualy wait 
+[14:11:12]	LightRinger loaded the character 'Private Blunfow Trustok'
+[14:11:14]	[Y] Private Blunfow Trustok: Yo.
+[14:11:18]	[OOC] Private Blunfow Trustok: Iam in corner
+[14:11:32]	[LOOC] Private Blunfow Trustok: try shoot the coner ceiling
+[14:11:51]	Private Blunfow Trustok used command '/CharFallOver'.
+[14:12:00]	[LOOC] Private Blunfow Trustok: Are you able to see anything ?
+[14:12:15]	[LOOC] Private Blunfow Trustok: I should be in the ceiling on the right side when you enter
+[14:12:23]	[LOOC] Private Blunfow Trustok: Right side corner
+[14:12:40]	[LOOC] Private Blunfow Trustok: anything ?
+[14:12:45]	Private Blunfow Trustok used command '/CharGetUp'.
+[14:12:48]	Private Blunfow Trustok has spawned 'models/props_interiors/refrigeratorDoor02a.mdl'.
+[14:12:58]	[LOOC] Private Blunfow Trustok: FINALLY
+[14:13:04]	[LOOC] Private Blunfow Trustok: fuck the doors um
+[14:13:19]	[LOOC] Private Blunfow Trustok: bug
+[14:13:26]	[LOOC] Private Blunfow Trustok: I sit on the chair with droid
+[14:13:40]	[LOOC] Private Blunfow Trustok: I got up and got stuck in the ceiling so I changed the char and this char got here too
+[14:13:53]	[LOOC] Private Blunfow Trustok: sec need the droid too
+[14:14:00]	LightRinger loaded the character 'R4-i5'
+[14:14:04]	R4-i5 used command '/CharFallOver'.
+[14:14:06]	R4-i5 has spawned 'models/props_junk/cardboard_box002a.mdl'.
+[14:14:08]	R4-i5 has spawned 'models/props_interiors/VendingMachineSoda01a_door.mdl'.
+[14:14:09]	R4-i5 has spawned 'models/props_junk/cardboard_box004a.mdl'.
+[14:14:11]	R4-i5 used command '/CharGetUp'.
+[14:14:13]	R4-i5 has spawned 'models/props_junk/cardboard_box004a_gib01.mdl'.
+[14:14:13]	R4-i5 has spawned 'models/props_junk/cardboard_box002a.mdl'.
+[14:14:23]	[LOOC] R4-i5: omg finally
+[14:14:41]	[LOOC] R4-i5: okay let me get here with the bot that has the card
+[14:14:46]	LightRinger loaded the character 'R2-k0'
+[14:16:07]	[LOOC] R2-k0: okay now take this
+[14:16:09]	R2-k0 ran 'drop' on item 'Identichip' (#2580)
+[14:16:09]	R2-k0 has lost a 'Identichip' #2580.
+[14:16:14]	[LOOC] R2-k0: and open me the doors
+[14:16:19]	Sergeant LS-7979 ran 'take' on item 'Identichip' (#2580)
+[14:16:19]	Sergeant LS-7979 has gained a 'Identichip' #2580.
+[14:16:25]	LightRinger loaded the character 'R4-i5'
+[14:16:27]	Sergeant LS-7979 ran 'drop' on item 'Identichip' (#974)
+[14:16:27]	Sergeant LS-7979 has lost a 'Identichip' #974.
+[14:16:35]	LightRinger loaded the character 'Private Blunfow Trustok'
+[14:16:41]	Sergeant LS-7979 ran 'drop' on item 'Identichip' (#2580)
+[14:16:41]	Sergeant LS-7979 has lost a 'Identichip' #2580.
+[14:16:43]	Sergeant LS-7979 ran 'take' on item 'Identichip' (#974)
+[14:16:43]	Sergeant LS-7979 has gained a 'Identichip' #974.
+[14:16:48]	LightRinger loaded the character 'R2-k0'
+[14:16:50]	R2-k0 ran 'take' on item 'Identichip' (#2580)
+[14:16:50]	R2-k0 has gained a 'Identichip' #2580.
+[14:16:56]	LightRinger loaded the character 'Private Blunfow Trustok'
+[14:17:02]	[LOOC] Private Blunfow Trustok: god damn brother, Thanks :D
+[14:17:11]	[OOC] Private Blunfow Trustok: lets return to normal rp lol
+[14:17:21]	[LOOC] Private Blunfow Trustok: so hows your day ?
+[14:17:30]	[LOOC] Private Blunfow Trustok: american ?
+[14:17:42]	[LOOC] Private Blunfow Trustok: Iam from Europe
+[14:17:49]	[LOOC] Private Blunfow Trustok: Czech Republic
+[14:17:59]	[LOOC] Private Blunfow Trustok: so actualy I got question
+[14:18:23]	[LOOC] Private Blunfow Trustok: As Army division, into what subdivisions I can get ?
+[14:19:04]	[LOOC] Private Blunfow Trustok: okay and what about the ... DeathTrooper or Royal Guard or ISB ?
+[14:19:35]	[LOOC] Private Blunfow Trustok: oh damn hmmmmm
+[14:19:43]	[LOOC] Private Blunfow Trustok: So overall its better to be Navy ?
+[14:19:49]	[LOOC] Private Blunfow Trustok: huh ?
+[14:20:32]	[LOOC] Private Blunfow Trustok: aha... 
+[14:20:46]	[LOOC] Private Blunfow Trustok: You are the ST right ?
+[14:21:06]	[LOOC] Private Blunfow Trustok: alright...
+[14:21:40]	[LOOC] Private Blunfow Trustok: Iam kina wondering really what I should really be, Honestly I really like the ISB in term ''Lock everyone Mentaly unstable''
+[14:22:23]	[LOOC] Private Blunfow Trustok: Sadly Events happen when its 4 or 5 AM for me
+[14:22:28]	[LOOC] Private Blunfow Trustok: So no events for me 
+[14:22:34]	[LOOC] Private Blunfow Trustok: um sec
+[14:22:44]	[LOOC] Private Blunfow Trustok: 21:22 (9:22 PM)
+[14:23:02]	[LOOC] Private Blunfow Trustok: Working
+[14:23:08]	[LOOC] Private Blunfow Trustok: Yeah its hard
+[14:23:18]	[LOOC] Private Blunfow Trustok: It sucks to be honest :D
+[14:23:39]	[LOOC] Private Blunfow Trustok: Well, I guess it doesnt matter, Iam mainly here for creating diversions for you all lmao
+[14:23:50]	[LOOC] Private Blunfow Trustok: Iam with QI agreed to do fuckery all arround :D
+[14:23:59]	[LOOC] Private Blunfow Trustok: If it doesnt cross the ''minge'' border
+[14:24:29]	[LOOC] Private Blunfow Trustok: 2 days ago We kidnapped the Zeak etc. Got us Colonel uniform and such
+[14:24:44]	[LOOC] Private Blunfow Trustok: but we got busted, most likely via Meta from Zeak sigh
+[14:25:04]	[LOOC] Private Blunfow Trustok: Well. I didnt wanted to PK him
+[14:25:45]	[LOOC] Private Blunfow Trustok: We could but I dont really want to do that because it pisses the people off real hard, because you spent ton of time to get enlisted in your prefered division, Making Char. Story and such
+[14:26:23]	[LOOC] Private Blunfow Trustok: Yeah well, We got already our return : )
+[14:26:35]	[LOOC] Private Blunfow Trustok: So... What are we going to do now :) ?
+[14:26:58]	[LOOC] Private Blunfow Trustok: hm, Let me go make a tea and I will try make some stuff arround
+[14:27:10]	[LOOC] Private Blunfow Trustok: Maybe Weapon cleaning : ) ?
+[14:27:23]	[LOOC] Private Blunfow Trustok: alright, brb in like 5 mins
+[14:40:50]	[LOOC] Private Blunfow Trustok: Okay so back
+[14:41:47]	Private Blunfow Trustok ran 'Equip' on item 'E-11 Blaster' (#2587)
+[14:42:46]	[OOC] Private Blunfow Trustok: RP starts :)
+[14:43:07]	Doughnut has connected.
+[14:44:19]	Doughnut loaded the character 'Lieutenant Shunk Tump'
+[14:44:29]	[ME] Private Blunfow Trustok: Would look arround, standing his guard
+[14:44:30]	[OOC] Lieutenant Shunk Tump: buenos dias nerd
+[14:44:33]	[OOC] Private Blunfow Trustok: HELLO
+[14:45:01]	[OOC] Lieutenant Shunk Tump: lieutenant dick balls here
+[14:45:11]	[OOC] Private Blunfow Trustok: oh cmon :D
+[14:45:27]	[OOC] Private Blunfow Trustok: Iam in ISB if needed
+[14:45:30]	[OOC] Private Blunfow Trustok: Doing some RP
+[14:45:41]	[ME] Private Blunfow Trustok: would think abit
+[14:48:06]	Doughnut (STEAM_0:1:127409364) has disconnected.
+[14:48:12]	[OOC] Private Blunfow Trustok: bruh
+[14:50:49]	LightRinger created the character 'Duncan Meltfog'
+[14:50:54]	LightRinger loaded the character 'Duncan Meltfog'
+[14:50:59]	[OOC] Duncan Meltfog: heh
+[14:51:06]	Duncan Meltfog used the 'Supply Locker' vendor.
+[14:51:09]	Duncan Meltfog has gained 0 credits.
+[14:51:09]	Duncan Meltfog has gained a 'Flashlight' #2725.
+[14:51:19]	Duncan Meltfog has gained 0 credits.
+[14:51:19]	Duncan Meltfog has gained a 'Comlink' #2726.
+[14:51:24]	Duncan Meltfog has gained 0 credits.
+[14:51:24]	Duncan Meltfog has gained a 'E-10 Blaster' #2727.
+[14:51:38]	Duncan Meltfog has gained 0 credits.
+[14:51:38]	Duncan Meltfog has gained a 'Tibanna Cartridge' #2728.
+[14:51:38]	Duncan Meltfog has gained 0 credits.
+[14:51:38]	Duncan Meltfog has gained a 'Tibanna Cartridge' #2729.
+[14:51:39]	Duncan Meltfog has gained 0 credits.
+[14:51:39]	Duncan Meltfog has gained a 'Tibanna Cartridge' #2730.
+[14:51:39]	Duncan Meltfog has gained 0 credits.
+[14:51:39]	Duncan Meltfog has gained a 'Tibanna Cartridge' #2731.
+[14:51:43]	Duncan Meltfog ran 'use' on item 'Tibanna Cartridge' (#2730)
+[14:51:43]	Duncan Meltfog ran 'use' on item 'Tibanna Cartridge' (#2731)
+[14:51:44]	Duncan Meltfog ran 'Power' on item 'Comlink' (#2726)
+[14:51:44]	Duncan Meltfog ran 'use' on item 'Tibanna Cartridge' (#2728)
+[14:51:45]	Duncan Meltfog ran 'Equip' on item 'E-10 Blaster' (#2727)
+[14:51:46]	Duncan Meltfog ran 'use' on item 'Tibanna Cartridge' (#2729)
+[14:52:34]	[OOC] Duncan Meltfog: hmmmm damn 
+[14:52:41]	[OOC] Duncan Meltfog: Hows the command for Radio in ?
+[14:52:59]	[OOC] Sergeant LS-7979: radio is /c
+[14:53:36]	[OOC] Duncan Meltfog: Ahhh 
+[14:53:41]	[OOC] Duncan Meltfog: So its restricted okay
+[14:54:09]	[OOC] Sergeant LS-7979: Im going to join another server for now
+[14:54:11]	[OOC] Duncan Meltfog: You can train ?
+[14:54:13]	[OOC] Duncan Meltfog: oh....
+[14:54:17]	[OOC] Sergeant LS-7979: shit im sorry
+[14:54:27]	[OOC] Sergeant LS-7979: later?
+[14:54:34]	[OOC] Duncan Meltfog: Its fine, Later is when to be exact ?
+[14:54:43]	[OOC] Sergeant LS-7979: maybe tonight or even tomorrow?
+[14:54:57]	[OOC] Duncan Meltfog: ah okay, maybe we will meet each other soon :D
+[14:54:59]	[OOC] Duncan Meltfog: have fun
+[14:55:02]	[OOC] Sergeant LS-7979: Alright thanks
+[14:55:05]	[OOC] Sergeant LS-7979: have a good one
+[14:55:08]	NamRm (STEAM_0:0:69476140) has disconnected.
+[14:55:09]	[OOC] Duncan Meltfog: :)
+[14:55:34]	Duncan Meltfog used the 'Supply Locker' vendor.
+[14:55:36]	Duncan Meltfog has gained 0 credits.
+[14:55:36]	Duncan Meltfog has gained a 'Tibanna Cartridge' #2728.
+[14:55:36]	Duncan Meltfog has gained 0 credits.
+[14:55:36]	Duncan Meltfog has gained a 'Tibanna Cartridge' #2729.
+[14:55:39]	Duncan Meltfog ran 'use' on item 'Tibanna Cartridge' (#2728)
+[14:55:40]	Duncan Meltfog ran 'use' on item 'Tibanna Cartridge' (#2729)
+[15:01:33]	Duncan Meltfog has taken 100 damage from blastdoor7_2.
+[15:01:33]	blastdoor7_2 has killed Duncan Meltfog.
+[15:01:45]	Duncan Meltfog used the 'Supply Locker' vendor.
+[15:01:47]	Duncan Meltfog has gained 0 credits.
+[15:01:47]	Duncan Meltfog has gained a 'Tibanna Cartridge' #2728.
+[15:01:48]	Duncan Meltfog has gained 0 credits.
+[15:01:48]	Duncan Meltfog has gained a 'Tibanna Cartridge' #2729.
+[15:01:48]	Duncan Meltfog has gained 0 credits.
+[15:01:48]	Duncan Meltfog has gained a 'Tibanna Cartridge' #2730.
+[15:01:48]	Duncan Meltfog has gained 0 credits.
+[15:01:48]	Duncan Meltfog has gained a 'Tibanna Cartridge' #2731.
+[15:01:52]	Duncan Meltfog ran 'use' on item 'Tibanna Cartridge' (#2731)
+[15:01:52]	Duncan Meltfog ran 'use' on item 'Tibanna Cartridge' (#2730)
+[15:01:54]	Duncan Meltfog ran 'use' on item 'Tibanna Cartridge' (#2728)
+[15:01:54]	Duncan Meltfog ran 'use' on item 'Tibanna Cartridge' (#2729)
+[15:01:59]	Duncan Meltfog ran 'Equip' on item 'E-10 Blaster' (#2727)
+[15:02:03]	Duncan Meltfog destroyed a 'RK-3 Blaster' #2718.
+[15:02:03]	Duncan Meltfog destroyed a 'RK-3 Blaster' #2716.
+[15:02:04]	Duncan Meltfog destroyed a 'E-10 Blaster' #2714.
+[15:02:04]	Duncan Meltfog destroyed a 'E-11 Blaster' #2713.
+[15:04:24]	Duncan Meltfog opened the '' #251 container.
+[15:04:26]	Duncan Meltfog closed the '' #251 container.
+[15:04:28]	Duncan Meltfog opened the '' #251 container.
+[15:04:34]	Duncan Meltfog has gained a 'Comlink' #1613.
+[15:04:37]	Duncan Meltfog closed the '' #251 container.
+[15:06:10]	LightRinger (STEAM_0:1:54101851) has disconnected.
+[15:22:24]	FlatPlum has connected.
+[16:04:46]	LightRinger has connected.
+[16:06:11]	LightRinger loaded the character 'Duncan Meltfog'
+[16:06:20]	[OOC] Duncan Meltfog: Where the FUCK is everyone
+[16:13:03]	LightRinger (STEAM_0:1:54101851) has disconnected.
+[16:17:07]	FlatPlum created the character 'Recruit TK-9480'
+[16:17:07]	FlatPlum loaded the character 'Recruit TK-9480'
+[16:18:51]	Recruit TK-9480 used the 'Supply Locker' vendor.
+[16:20:47]	Recruit TK-9480 used command '/CharDesc'.
+[16:21:08]	Recruit TK-9480 has taken 23 damage from worldspawn.
+[16:21:36]	Recruit TK-9480 has taken 24 damage from worldspawn.
+[16:22:00]	[OOC] Recruit TK-9480: anyone here 
+[16:23:43]	FlatPlum (STEAM_0:1:124454133) has disconnected.
+[20:19:37]	MiGHTyMaxiBLE has connected.
+[20:20:42]	MiGHTyMaxiBLE (STEAM_0:1:94362945) has disconnected.

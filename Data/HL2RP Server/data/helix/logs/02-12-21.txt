@@ -1,0 +1,842 @@
+[15:07:21]	poggers has connected.
+[15:09:29]	poggers loaded the character 'Johnny Benson'
+[15:15:13]	Johnny Benson has taken 15 damage from worldspawn.
+[15:16:38]	Johnny Benson used the 'General Store Manager' vendor.
+[15:17:55]	Johnny Benson ran 'take' on item 'Wires' (#6595)
+[15:17:55]	Johnny Benson has gained a 'Wires' #6595.
+[15:18:40]	Johnny Benson ran 'drop' on item 'Wooden Piece' (#6646)
+[15:18:40]	Johnny Benson has lost a 'Wooden Piece' #6646.
+[15:18:43]	Johnny Benson ran 'take' on item 'Wooden Piece' (#6646)
+[15:18:43]	Johnny Benson has gained a 'Wooden Piece' #6646.
+[15:18:58]	Johnny Benson ran 'equip' on item 'Citizen Filter' (#6703)
+[15:19:01]	Johnny Benson ran 'Equip' on item 'Handcannon' (#6655)
+[15:19:12]	Johnny Benson ran 'EquipUn' on item 'Handcannon' (#6655)
+[15:21:10]	DRD has connected.
+[15:25:49]	Johnny Benson opened the '' #477 container.
+[15:25:51]	Johnny Benson closed the '' #477 container.
+[15:26:17]	DRD loaded the character 'CCA.C17-GRID.i1.59212'
+[15:26:27]	[OOC] Johnny Benson: hi
+[15:26:37]	[OOC] CCA.C17-GRID.i1.59212: hi
+[15:26:40]	CCA.C17-GRID.i1.59212 used command '/ViewData john'.
+[15:27:03]	CCA.C17-GRID.i1.59212 has spawned 'models/props_c17/FurnitureDresser001a.mdl'.
+[15:27:36]	CCA.C17-GRID.i1.59212 used command '/AddTenant grid'.
+[15:27:50]	CCA.C17-GRID.i1.59212 used command '/RemoveTenant 2'.
+[15:28:17]	CCA.C17-GRID.i1.59212 used the 'General Store Manager' vendor.
+[15:29:50]	CCA.C17-GRID.i1.59212 used command '/ToggleRaise'.
+[15:29:55]	CCA.C17-GRID.i1.59212 used command '/ToggleRaise'.
+[15:30:04]	CCA.C17-GRID.i1.59212 opened the '' #396 container.
+[15:30:06]	CCA.C17-GRID.i1.59212 closed the '' #396 container.
+[15:30:08]	CCA.C17-GRID.i1.59212 opened the '' #395 container.
+[15:30:09]	CCA.C17-GRID.i1.59212 closed the '' #395 container.
+[15:30:11]	CCA.C17-GRID.i1.59212 opened the '' #397 container.
+[15:30:13]	CCA.C17-GRID.i1.59212 closed the '' #397 container.
+[15:31:17]	CCA.C17-GRID.i1.59212 has gained 10 tokens.
+[15:37:16]	[OOC] CCA.C17-GRID.i1.59212: brb
+[15:46:17]	CCA.C17-GRID.i1.59212 has gained 10 tokens.
+[15:56:17]	CCA.C17-GRID.i1.59212 has gained 10 tokens.
+[16:06:17]	CCA.C17-GRID.i1.59212 has gained 10 tokens.
+[16:07:29]	CCA.C17-GRID.i1.59212 opened the '' #400 container.
+[16:07:31]	CCA.C17-GRID.i1.59212 closed the '' #400 container.
+[16:07:32]	CCA.C17-GRID.i1.59212 opened the '' #374 container.
+[16:07:35]	CCA.C17-GRID.i1.59212 closed the '' #374 container.
+[16:08:20]	CCA.C17-GRID.i1.59212 has spawned 'models/mechanics/solid_steel/type_a_2_2.mdl'.
+[16:08:32]	CCA.C17-GRID.i1.59212 has spawned 'models/mechanics/solid_steel/type_f_6_4.mdl'.
+[16:08:37]	CCA.C17-GRID.i1.59212 has spawned 'models/mechanics/solid_steel/type_b_2_2.mdl'.
+[16:08:43]	CCA.C17-GRID.i1.59212 has spawned 'models/mechanics/solid_steel/type_b_2_24.mdl'.
+[16:08:57]	CCA.C17-GRID.i1.59212 has spawned 'models/quarterlife/fsd-overrun-toy.mdl'.
+[16:09:07]	CCA.C17-GRID.i1.59212 has spawned 'models/props_phx/trains/monorail1.mdl'.
+[16:09:12]	CCA.C17-GRID.i1.59212 has spawned 'models/props_phx/trains/trackslides_both.mdl'.
+[16:09:14]	CCA.C17-GRID.i1.59212 has spawned 'models/xqm/CoasterTrack/track_guide.mdl'.
+[16:09:19]	CCA.C17-GRID.i1.59212 has spawned 'models/props_phx/trains/double_wheels.mdl'.
+[16:09:31]	CCA.C17-GRID.i1.59212 has spawned 'models/xqm/CoasterTrack/special_station.mdl'.
+[16:09:34]	CCA.C17-GRID.i1.59212 has spawned 'models/xqm/CoasterTrack/straight_1.mdl'.
+[16:09:38]	CCA.C17-GRID.i1.59212 has spawned 'models/XQM/coastertrain1seat.mdl'.
+[16:09:47]	CCA.C17-GRID.i1.59212 has spawned 'models/props_phx/trains/double_wheels.mdl'.
+[16:09:49]	CCA.C17-GRID.i1.59212 has spawned 'models/props_phx/trains/medium_wheel_2.mdl'.
+[16:09:54]	CCA.C17-GRID.i1.59212 has spawned 'models/props_phx/trains/monorail1.mdl'.
+[16:10:04]	CCA.C17-GRID.i1.59212 has spawned 'models/props_phx/trains/tracks/track_1x.mdl'.
+[16:10:30]	CCA.C17-GRID.i1.59212 has spawned 'models/props_phx/trains/tracks/track_1x.mdl'.
+[16:10:30]	CCA.C17-GRID.i1.59212 has spawned 'models/props_phx/trains/tracks/track_1x.mdl'.
+[16:10:48]	CCA.C17-GRID.i1.59212 has spawned 'models/props_phx/trains/tracks/track_225_down.mdl'.
+[16:10:52]	CCA.C17-GRID.i1.59212 has spawned 'models/props_phx/trains/tracks/track_1x.mdl'.
+[16:10:54]	CCA.C17-GRID.i1.59212 has spawned 'models/props_phx/trains/tracks/track_single.mdl'.
+[16:11:02]	CCA.C17-GRID.i1.59212 has spawned 'models/props_phx/trains/tracks/track_single.mdl'.
+[16:11:02]	CCA.C17-GRID.i1.59212 has spawned 'models/props_phx/trains/tracks/track_single.mdl'.
+[16:11:05]	CCA.C17-GRID.i1.59212 has spawned 'models/props_phx/trains/tracks/track_single.mdl'.
+[16:11:05]	CCA.C17-GRID.i1.59212 has spawned 'models/props_phx/trains/tracks/track_single.mdl'.
+[16:11:05]	CCA.C17-GRID.i1.59212 has spawned 'models/props_phx/trains/tracks/track_single.mdl'.
+[16:11:05]	CCA.C17-GRID.i1.59212 has spawned 'models/props_phx/trains/tracks/track_single.mdl'.
+[16:11:05]	CCA.C17-GRID.i1.59212 has spawned 'models/props_phx/trains/tracks/track_single.mdl'.
+[16:11:05]	CCA.C17-GRID.i1.59212 has spawned 'models/props_phx/trains/tracks/track_single.mdl'.
+[16:11:05]	CCA.C17-GRID.i1.59212 has spawned 'models/props_phx/trains/tracks/track_single.mdl'.
+[16:11:05]	CCA.C17-GRID.i1.59212 has spawned 'models/props_phx/trains/tracks/track_single.mdl'.
+[16:11:05]	CCA.C17-GRID.i1.59212 has spawned 'models/props_phx/trains/tracks/track_single.mdl'.
+[16:11:05]	CCA.C17-GRID.i1.59212 has spawned 'models/props_phx/trains/tracks/track_single.mdl'.
+[16:11:05]	CCA.C17-GRID.i1.59212 has spawned 'models/props_phx/trains/tracks/track_single.mdl'.
+[16:11:05]	CCA.C17-GRID.i1.59212 has spawned 'models/props_phx/trains/tracks/track_single.mdl'.
+[16:11:05]	CCA.C17-GRID.i1.59212 has spawned 'models/props_phx/trains/tracks/track_single.mdl'.
+[16:11:05]	CCA.C17-GRID.i1.59212 has spawned 'models/props_phx/trains/tracks/track_single.mdl'.
+[16:11:05]	CCA.C17-GRID.i1.59212 has spawned 'models/props_phx/trains/tracks/track_single.mdl'.
+[16:11:10]	CCA.C17-GRID.i1.59212 has spawned 'models/props_phx/trains/tracks/track_single.mdl'.
+[16:11:10]	CCA.C17-GRID.i1.59212 has spawned 'models/props_phx/trains/tracks/track_single.mdl'.
+[16:11:10]	CCA.C17-GRID.i1.59212 has spawned 'models/props_phx/trains/tracks/track_single.mdl'.
+[16:11:10]	CCA.C17-GRID.i1.59212 has spawned 'models/props_phx/trains/tracks/track_single.mdl'.
+[16:11:10]	CCA.C17-GRID.i1.59212 has spawned 'models/props_phx/trains/tracks/track_single.mdl'.
+[16:11:10]	CCA.C17-GRID.i1.59212 has spawned 'models/props_phx/trains/tracks/track_single.mdl'.
+[16:11:10]	CCA.C17-GRID.i1.59212 has spawned 'models/props_phx/trains/tracks/track_single.mdl'.
+[16:11:10]	CCA.C17-GRID.i1.59212 has spawned 'models/props_phx/trains/tracks/track_single.mdl'.
+[16:11:10]	CCA.C17-GRID.i1.59212 has spawned 'models/props_phx/trains/tracks/track_single.mdl'.
+[16:11:10]	CCA.C17-GRID.i1.59212 has spawned 'models/props_phx/trains/tracks/track_single.mdl'.
+[16:11:10]	CCA.C17-GRID.i1.59212 has spawned 'models/props_phx/trains/tracks/track_single.mdl'.
+[16:11:10]	CCA.C17-GRID.i1.59212 has spawned 'models/props_phx/trains/tracks/track_single.mdl'.
+[16:11:10]	CCA.C17-GRID.i1.59212 has spawned 'models/props_phx/trains/tracks/track_single.mdl'.
+[16:11:10]	CCA.C17-GRID.i1.59212 has spawned 'models/props_phx/trains/tracks/track_single.mdl'.
+[16:11:10]	CCA.C17-GRID.i1.59212 has spawned 'models/props_phx/trains/tracks/track_single.mdl'.
+[16:11:16]	CCA.C17-GRID.i1.59212 has spawned 'models/props_phx/trains/double_wheels2.mdl'.
+[16:11:17]	CCA.C17-GRID.i1.59212 has gained 10 tokens.
+[16:11:21]	CCA.C17-GRID.i1.59212 has spawned 'models/props_phx/trains/double_wheels.mdl'.
+[16:11:24]	CCA.C17-GRID.i1.59212 has spawned 'models/props_phx/trains/double_wheels2.mdl'.
+[16:12:09]	CCA.C17-GRID.i1.59212 has spawned 'models/props_phx/trains/double_wheels_base.mdl'.
+[16:12:26]	CCA.C17-GRID.i1.59212 has spawned 'models/xqm/CoasterTrack/track_guide.mdl'.
+[16:12:42]	CCA.C17-GRID.i1.59212 has spawned 'models/XQM/Rails/gumball_1.mdl'.
+[16:12:46]	CCA.C17-GRID.i1.59212 has spawned 'models/xqm/Rails/cap.mdl'.
+[16:12:48]	CCA.C17-GRID.i1.59212 has spawned 'models/XQM/Rails/trackball_1.mdl'.
+[16:12:51]	CCA.C17-GRID.i1.59212 has spawned 'models/xqm/Rails/tunnel_8.mdl'.
+[16:13:03]	CCA.C17-GRID.i1.59212 has spawned 'models/mechanics/roboticslarge/claw_hub_8.mdl'.
+[16:13:10]	CCA.C17-GRID.i1.59212 has spawned 'models/mechanics/robotics/b1.mdl'.
+[16:13:16]	CCA.C17-GRID.i1.59212 has spawned 'models/mechanics/robotics/l1.mdl'.
+[16:13:22]	CCA.C17-GRID.i1.59212 has spawned 'models/mechanics/robotics/claw_guide.mdl'.
+[16:13:30]	CCA.C17-GRID.i1.59212 has spawned 'models/Mechanics/gears2/gear_18t3.mdl'.
+[16:13:33]	CCA.C17-GRID.i1.59212 has spawned 'models/Mechanics/gears2/gear_18t3.mdl'.
+[16:13:41]	CCA.C17-GRID.i1.59212 has spawned 'models/Mechanics/gears2/pinion_40t2.mdl'.
+[16:13:51]	CCA.C17-GRID.i1.59212 has spawned 'models/props_phx/mechanics/slider2.mdl'.
+[16:13:57]	CCA.C17-GRID.i1.59212 has spawned 'models/Mechanics/gears2/vert_12t1.mdl'.
+[16:14:11]	CCA.C17-GRID.i1.59212 has spawned 'models/props_phx/mechanics/medgear.mdl'.
+[16:14:46]	CCA.C17-GRID.i1.59212 has spawned 'models/props_phx/mechanics/mech1.mdl'.
+[16:14:55]	CCA.C17-GRID.i1.59212 has spawned 'models/mechanics/solid_steel/box_beam_4.mdl'.
+[16:15:02]	CCA.C17-GRID.i1.59212 has spawned 'models/xeon133/slider/slider_12x12x96.mdl'.
+[16:15:08]	CCA.C17-GRID.i1.59212 has spawned 'models/xeon133/slider/slider_bar_10x10x96.mdl'.
+[16:15:39]	CCA.C17-GRID.i1.59212 has spawned 'models/xeon133/slider/slider_stand_12x12x24.mdl'.
+[16:16:16]	CCA.C17-GRID.i1.59212 has spawned 'models/xeon133/slider/slider_12x12x96.mdl'.
+[16:16:17]	CCA.C17-GRID.i1.59212 has gained 10 tokens.
+[16:16:48]	CCA.C17-GRID.i1.59212 has spawned 'models/xeon133/slider/slider_bar_10x10x96.mdl'.
+[16:17:39]	CCA.C17-GRID.i1.59212 has taken 500 damage from CCA.C17-GRID.i1.59212.
+[16:17:39]	CCA.C17-GRID.i1.59212 has killed CCA.C17-GRID.i1.59212.
+[16:19:30]	Johnny Benson has taken 1 damage from worldspawn.
+[16:19:31]	Johnny Benson has taken 1 damage from worldspawn.
+[16:19:32]	Johnny Benson has taken 1 damage from worldspawn.
+[16:19:33]	Johnny Benson has taken 1 damage from worldspawn.
+[16:19:33]	Johnny Benson has taken 1 damage from worldspawn.
+[16:19:34]	Johnny Benson has taken 1 damage from worldspawn.
+[16:19:35]	Johnny Benson has taken 1 damage from worldspawn.
+[16:19:35]	Johnny Benson ran 'equip' on item 'Citizen Filter' (#6702)
+[16:21:17]	CCA.C17-GRID.i1.59212 has gained 10 tokens.
+[16:22:06]	DRD (STEAM_0:0:193599766) has disconnected.
+[16:25:31]	Johnny Benson used the 'Industrial Grade Oven' vendor.
+[16:28:38]	Johnny Benson used the 'General Store Manager' vendor.
+[16:29:02]	Johnny Benson used the 'Industrial Grade Oven' vendor.
+[16:29:06]	Johnny Benson used the 'Industrial Grade Stove' vendor.
+[16:29:09]	Johnny Benson used the 'Industrial Grade Stove' vendor.
+[16:29:13]	Johnny Benson used the 'Industrial Grade Oven' vendor.
+[16:29:17]	Johnny Benson has gained 0 tokens.
+[16:29:17]	Johnny Benson has gained a 'Bread Roll' #6711.
+[16:29:19]	Johnny Benson has gained 0 tokens.
+[16:38:31]	Johnny Benson ran 'drop' on item 'Rubber Tire' (#5472)
+[16:38:31]	Johnny Benson has lost a 'Rubber Tire' #5472.
+[16:38:36]	Johnny Benson ran 'take' on item 'Rubber Tire' (#5472)
+[16:38:36]	Johnny Benson has gained a 'Rubber Tire' #5472.
+[16:38:41]	Johnny Benson ran 'drop' on item 'A Bar of Soap' (#6657)
+[16:38:41]	Johnny Benson has lost a 'A Bar of Soap' #6657.
+[16:38:58]	Johnny Benson ran 'take' on item 'A Bar of Soap' (#6657)
+[16:38:58]	Johnny Benson has gained a 'A Bar of Soap' #6657.
+[16:47:09]	poggers (STEAM_0:1:513914177) has disconnected.
+[19:14:44]	MilkyWay has connected.
+[19:18:03]	MilkyWay loaded the character 'Hyo Jeong'
+[19:18:12]	Hyo Jeong opened the '' #477 container.
+[19:18:14]	Hyo Jeong closed the '' #477 container.
+[19:18:54]	MilkyWay loaded the character 'Andrew Philip'
+[19:19:03]	Andrew Philip has taken 5 damage from npc_headcrab.
+[19:19:05]	Andrew Philip has taken 5 damage from npc_headcrab.
+[19:19:18]	Andrew Philip has taken 5 damage from npc_headcrab_poison.
+[19:19:18]	Andrew Philip has taken 66 damage from npc_headcrab_poison.
+[19:19:21]	Andrew Philip has taken 5 damage from npc_headcrab_poison.
+[19:19:21]	Andrew Philip has taken 5 damage from npc_headcrab_poison.
+[19:19:22]	Andrew Philip has taken 10 damage from npc_poisonzombie.
+[19:19:22]	npc_poisonzombie has killed Andrew Philip.
+[19:19:36]	Andrew Philip ran 'Equip' on item 'Axe' (#6690)
+[19:21:04]	Andrew Philip has taken 10 damage from npc_zombine.
+[19:21:05]	Andrew Philip has taken 10 damage from npc_zombine.
+[19:21:06]	Andrew Philip has taken 10 damage from npc_zombine.
+[19:21:07]	Andrew Philip has taken 10 damage from npc_zombine.
+[19:21:08]	Andrew Philip has taken 10 damage from npc_zombine.
+[19:21:12]	Andrew Philip ran 'take' on item '12-Gauge Shells' (#6711)
+[19:21:12]	Andrew Philip has gained a '12-Gauge Shells' #6711.
+[19:21:13]	Andrew Philip has taken 76 damage from npc_grenade_frag.
+[19:21:13]	npc_grenade_frag has killed Andrew Philip.
+[19:23:11]	Andrew Philip ran 'Equip' on item 'Axe' (#6690)
+[19:23:47]	Andrew Philip has taken 5 damage from npc_headcrab.
+[19:24:09]	Andrew Philip has taken 3 damage from npc_fastzombie.
+[19:24:10]	Andrew Philip has taken 3 damage from npc_fastzombie.
+[19:24:10]	Andrew Philip has taken 3 damage from npc_fastzombie.
+[19:24:13]	Andrew Philip has gained 10 tokens.
+[19:24:15]	Andrew Philip has taken 5 damage from npc_headcrab_fast.
+[19:24:17]	Andrew Philip has taken 5 damage from npc_headcrab_fast.
+[19:24:19]	Andrew Philip has taken 5 damage from npc_headcrab_fast.
+[19:24:25]	Andrew Philip has taken 3 damage from npc_fastzombie.
+[19:24:26]	Andrew Philip has taken 3 damage from npc_fastzombie.
+[19:24:29]	Andrew Philip has gained 10 tokens.
+[19:24:36]	Andrew Philip has taken 10 damage from npc_zombie.
+[19:24:38]	Andrew Philip has taken 10 damage from npc_zombie.
+[19:24:40]	Andrew Philip has taken 3 damage from npc_fastzombie.
+[19:24:40]	Andrew Philip has taken 3 damage from npc_fastzombie.
+[19:24:43]	Andrew Philip has taken 3 damage from npc_fastzombie.
+[19:24:43]	Andrew Philip has taken 3 damage from npc_fastzombie.
+[19:24:46]	Andrew Philip has taken 3 damage from npc_fastzombie.
+[19:24:49]	Andrew Philip has gained 20 tokens.
+[19:24:57]	Andrew Philip has taken 3 damage from npc_fastzombie.
+[19:24:58]	Andrew Philip has taken 3 damage from npc_fastzombie.
+[19:25:02]	Andrew Philip has taken 3 damage from npc_fastzombie.
+[19:25:02]	Andrew Philip has taken 3 damage from npc_fastzombie.
+[19:25:05]	Andrew Philip has gained 20 tokens.
+[19:25:17]	Andrew Philip ran 'ApplySelf' on item 'Bandage' (#6549)
+[19:25:18]	Andrew Philip ran 'ApplySelf' on item 'Bandage' (#6549)
+[19:25:19]	Andrew Philip ran 'ApplySelf' on item 'Bandage' (#6549)
+[19:25:20]	Andrew Philip ran 'ApplySelf' on item 'Bandage' (#6549)
+[19:25:23]	Andrew Philip ran 'ApplySelf' on item 'Bandage' (#6549)
+[19:25:35]	Andrew Philip has taken 10 damage from npc_zombie.
+[19:25:45]	Andrew Philip destroyed a 'Blue Pre-War Shirt' #6717.
+[19:26:01]	Andrew Philip has taken 5 damage from npc_headcrab_poison.
+[19:26:01]	Andrew Philip has taken 84 damage from npc_headcrab_poison.
+[19:26:03]	Andrew Philip has taken 5 damage from npc_headcrab_poison.
+[19:26:03]	Andrew Philip has taken 5 damage from npc_headcrab_poison.
+[19:26:29]	Andrew Philip ran 'take' on item 'Padlock' (#6717)
+[19:26:29]	Andrew Philip has gained a 'Padlock' #6717.
+[19:26:34]	Andrew Philip has taken 10 damage from npc_zombine.
+[19:26:36]	Andrew Philip has taken 10 damage from npc_zombine.
+[19:26:36]	Andrew Philip has taken 10 damage from npc_zombine.
+[19:26:37]	Andrew Philip has taken 200 damage from npc_zombine.
+[19:26:37]	npc_zombine has killed Andrew Philip.
+[19:28:41]	Andrew Philip has taken 29 damage from trigger_hurt.
+[19:28:41]	Andrew Philip has taken 29 damage from trigger_hurt.
+[19:28:43]	Andrew Philip has taken 29 damage from trigger_hurt.
+[19:28:44]	Andrew Philip has taken 29 damage from trigger_hurt.
+[19:28:44]	trigger_hurt has killed Andrew Philip.
+[19:30:13]	Andrew Philip ran 'Equip' on item 'Axe' (#6690)
+[19:30:57]	Andrew Philip destroyed a 'A Bar of Soap' #6589.
+[19:31:52]	Andrew Philip has taken 5 damage from npc_headcrab_fast.
+[19:31:54]	Andrew Philip has taken 5 damage from npc_headcrab_fast.
+[19:32:01]	Andrew Philip has taken 10 damage from npc_zombie_torso.
+[19:32:12]	Andrew Philip has taken 10 damage from npc_zombie_torso.
+[19:32:13]	Andrew Philip has taken 10 damage from npc_zombie_torso.
+[19:32:15]	Andrew Philip has taken 10 damage from npc_zombie_torso.
+[19:32:16]	Andrew Philip has taken 10 damage from npc_zombie_torso.
+[19:32:17]	Andrew Philip has taken 10 damage from npc_zombie_torso.
+[19:33:44]	Andrew Philip has taken 5 damage from npc_antlion.
+[19:33:46]	Andrew Philip has taken 5 damage from npc_antlion.
+[19:33:47]	Andrew Philip has taken 5 damage from npc_antlion.
+[19:33:48]	Andrew Philip has taken 5 damage from npc_antlion.
+[19:33:55]	Andrew Philip ran 'ApplySelf' on item 'Bandage' (#6549)
+[19:33:56]	Andrew Philip ran 'ApplySelf' on item 'Bandage' (#6549)
+[19:33:57]	Andrew Philip ran 'ApplySelf' on item 'Bandage' (#6549)
+[19:33:58]	Andrew Philip ran 'ApplySelf' on item 'Bandage' (#6549)
+[19:34:01]	Andrew Philip ran 'ApplySelf' on item 'Bandage' (#6549)
+[19:34:07]	Andrew Philip has taken 5 damage from npc_antlion.
+[19:34:08]	Andrew Philip has taken 5 damage from npc_antlion.
+[19:34:08]	Andrew Philip has taken 5 damage from npc_antlion.
+[19:34:09]	Andrew Philip has taken 5 damage from npc_antlion.
+[19:34:10]	Andrew Philip has taken 5 damage from npc_antlion.
+[19:34:11]	Andrew Philip has taken 5 damage from npc_antlion.
+[19:34:12]	Andrew Philip has taken 5 damage from npc_antlion.
+[19:34:12]	Andrew Philip has taken 5 damage from npc_antlion.
+[19:34:13]	Andrew Philip has taken 5 damage from npc_antlion.
+[19:34:29]	Andrew Philip has taken 5 damage from npc_antlion.
+[19:34:51]	Andrew Philip ran 'ApplySelf' on item 'Bandage' (#6549)
+[19:34:55]	Andrew Philip has taken 5 damage from npc_antlion.
+[19:34:56]	Andrew Philip has taken 5 damage from npc_antlion.
+[19:34:58]	Andrew Philip has taken 5 damage from npc_antlion.
+[19:35:02]	Andrew Philip ran 'ApplySelf' on item 'Bandage' (#6549)
+[19:35:03]	Andrew Philip ran 'ApplySelf' on item 'Bandage' (#6549)
+[19:35:06]	Andrew Philip has taken 5 damage from npc_antlion.
+[19:35:09]	Andrew Philip has taken 5 damage from npc_antlion.
+[19:35:10]	Andrew Philip has taken 5 damage from npc_antlion.
+[19:35:10]	Andrew Philip has taken 5 damage from npc_antlion.
+[19:35:10]	Andrew Philip has taken 5 damage from npc_antlion.
+[19:35:11]	Andrew Philip has taken 5 damage from npc_antlion.
+[19:35:11]	Andrew Philip has taken 5 damage from npc_antlion.
+[19:35:11]	Andrew Philip has taken 5 damage from npc_antlion.
+[19:35:12]	Andrew Philip has taken 5 damage from npc_antlion.
+[19:35:12]	Andrew Philip has taken 5 damage from npc_antlion.
+[19:35:13]	Andrew Philip has taken 5 damage from npc_antlion.
+[19:35:14]	Andrew Philip has taken 5 damage from npc_antlion.
+[19:35:18]	Andrew Philip ran 'ApplySelf' on item 'Bandage' (#6549)
+[19:35:18]	Andrew Philip ran 'ApplySelf' on item 'Bandage' (#6549)
+[19:35:21]	Andrew Philip ran 'ApplySelf' on item 'Bandage' (#6549)
+[19:35:30]	Andrew Philip has taken 5 damage from npc_antlion.
+[19:35:32]	Andrew Philip has taken 5 damage from npc_antlion.
+[19:38:30]	Andrew Philip ran 'ApplySelf' on item 'Bandage' (#6549)
+[19:39:06]	Andrew Philip has taken 10 damage from npc_zombie.
+[19:39:08]	Andrew Philip ran 'take' on item 'Cloth Scrap' (#6719)
+[19:39:08]	Andrew Philip has gained a 'Cloth Scrap' #6719.
+[19:39:12]	Andrew Philip has taken 10 damage from npc_zombie.
+[19:40:21]	Andrew Philip has taken 5 damage from npc_headcrab_fast.
+[19:40:22]	Andrew Philip has taken 5 damage from npc_headcrab_fast.
+[19:40:23]	Andrew Philip has taken 5 damage from npc_headcrab_fast.
+[19:40:33]	Andrew Philip has taken 3 damage from npc_fastzombie.
+[19:40:33]	Andrew Philip has taken 3 damage from npc_fastzombie.
+[19:40:33]	Andrew Philip has taken 3 damage from npc_fastzombie.
+[19:40:35]	Andrew Philip has taken 5 damage from npc_headcrab_fast.
+[19:40:36]	Andrew Philip has taken 5 damage from npc_headcrab_poison.
+[19:40:36]	Andrew Philip has taken 45 damage from npc_headcrab_poison.
+[19:40:37]	Andrew Philip has taken 10 damage from npc_zombie.
+[19:40:37]	npc_zombie has killed Andrew Philip.
+[19:42:00]	Andrew Philip ran 'Equip' on item 'Axe' (#6690)
+[19:42:59]	Andrew Philip has taken 10 damage from npc_zombie.
+[19:43:00]	Andrew Philip has taken 10 damage from npc_zombie.
+[19:43:00]	Andrew Philip has taken 5 damage from npc_headcrab_fast.
+[19:43:02]	Andrew Philip has taken 5 damage from npc_headcrab_fast.
+[19:43:05]	Andrew Philip has taken 5 damage from npc_headcrab_fast.
+[19:43:06]	Andrew Philip has taken 5 damage from npc_headcrab_fast.
+[19:43:08]	Andrew Philip has taken 5 damage from npc_headcrab_fast.
+[19:43:09]	Andrew Philip has taken 5 damage from npc_headcrab_fast.
+[19:43:21]	Andrew Philip has taken 10 damage from npc_zombie.
+[19:43:31]	Andrew Philip has taken 5 damage from npc_headcrab_poison.
+[19:43:31]	Andrew Philip has taken 34 damage from npc_headcrab_poison.
+[19:44:13]	Andrew Philip has taken 10 damage from npc_poisonzombie.
+[19:44:19]	Andrew Philip has taken 10 damage from npc_poisonzombie.
+[19:44:21]	Andrew Philip has taken 10 damage from npc_poisonzombie.
+[19:44:26]	Andrew Philip ran 'take' on item 'Padlock' (#6721)
+[19:44:26]	Andrew Philip has gained a 'Padlock' #6721.
+[19:44:38]	Andrew Philip ran 'ApplySelf' on item 'Bandage' (#6549)
+[19:44:39]	Andrew Philip ran 'ApplySelf' on item 'Bandage' (#6549)
+[19:44:42]	Andrew Philip ran 'ApplySelf' on item 'Bandage' (#6549)
+[19:44:43]	Andrew Philip ran 'ApplySelf' on item 'Bandage' (#6549)
+[19:44:46]	Andrew Philip ran 'ApplySelf' on item 'Bandage' (#6549)
+[19:46:50]	Andrew Philip has taken 10 damage from monster_bullsquid.
+[19:46:52]	Andrew Philip has taken 10 damage from monster_bullsquid.
+[19:46:54]	Andrew Philip has taken 10 damage from monster_bullsquid.
+[19:46:56]	Andrew Philip has taken 10 damage from monster_bullsquid.
+[19:46:57]	Andrew Philip has taken 10 damage from monster_bullsquid.
+[19:47:37]	Andrew Philip ran 'ApplySelf' on item 'Bandage' (#6549)
+[19:47:38]	Andrew Philip ran 'ApplySelf' on item 'Bandage' (#6549)
+[19:47:39]	Andrew Philip ran 'ApplySelf' on item 'Bandage' (#6549)
+[19:47:41]	Andrew Philip ran 'ApplySelf' on item 'Bandage' (#6549)
+[19:47:41]	Andrew Philip ran 'ApplySelf' on item 'Bandage' (#6549)
+[19:48:14]	Andrew Philip has taken 10 damage from npc_zombine.
+[19:48:15]	Andrew Philip has taken 10 damage from npc_zombine.
+[19:48:26]	Andrew Philip has taken 5 damage from npc_fastzombie.
+[19:48:27]	Andrew Philip has taken 3 damage from npc_fastzombie.
+[19:48:27]	Andrew Philip has taken 3 damage from npc_fastzombie.
+[19:48:30]	Andrew Philip has taken 3 damage from npc_fastzombie.
+[19:48:30]	Andrew Philip has taken 3 damage from npc_fastzombie.
+[19:48:30]	Andrew Philip has taken 3 damage from npc_fastzombie.
+[19:48:34]	Andrew Philip has gained 10 tokens.
+[19:48:48]	Andrew Philip has taken 3 damage from npc_fastzombie.
+[19:48:48]	Andrew Philip has taken 3 damage from npc_fastzombie.
+[19:48:50]	Andrew Philip has taken 3 damage from npc_fastzombie.
+[19:48:53]	Andrew Philip has gained 20 tokens.
+[19:49:02]	Andrew Philip ran 'ApplySelf' on item 'Bandage' (#6549)
+[19:49:03]	Andrew Philip ran 'ApplySelf' on item 'Bandage' (#6549)
+[19:49:04]	Andrew Philip ran 'ApplySelf' on item 'Bandage' (#6549)
+[19:49:05]	Andrew Philip ran 'ApplySelf' on item 'Bandage' (#6549)
+[19:49:06]	Andrew Philip ran 'ApplySelf' on item 'Bandage' (#6549)
+[19:49:55]	Andrew Philip has taken 3 damage from npc_fastzombie.
+[19:49:55]	Andrew Philip has taken 3 damage from npc_fastzombie.
+[19:50:00]	Andrew Philip has gained 10 tokens.
+[19:50:04]	Andrew Philip has taken 10 damage from npc_zombie.
+[19:50:10]	Andrew Philip has taken 10 damage from npc_zombine.
+[19:50:11]	Andrew Philip has taken 10 damage from npc_zombine.
+[19:50:12]	Andrew Philip has taken 10 damage from npc_zombine.
+[19:50:13]	Andrew Philip has taken 188 damage from npc_zombine.
+[19:50:13]	npc_zombine has killed Andrew Philip.
+[19:52:12]	Andrew Philip ran 'Equip' on item 'Axe' (#6690)
+[19:52:31]	Andrew Philip has taken 14 damage from monster_hound_eye.
+[19:52:33]	Andrew Philip has taken 15 damage from monster_hound_eye.
+[19:52:34]	Andrew Philip has taken 15 damage from monster_hound_eye.
+[19:52:37]	Andrew Philip has taken 15 damage from monster_hound_eye.
+[19:52:44]	Andrew Philip ran 'ApplySelf' on item 'Bandage' (#6549)
+[19:52:45]	Andrew Philip ran 'ApplySelf' on item 'Bandage' (#6549)
+[19:52:46]	Andrew Philip ran 'ApplySelf' on item 'Bandage' (#6549)
+[19:52:47]	Andrew Philip ran 'ApplySelf' on item 'Bandage' (#6549)
+[19:53:45]	Andrew Philip has taken 5 damage from npc_headcrab.
+[19:53:47]	Andrew Philip has taken 5 damage from npc_headcrab.
+[19:54:01]	Andrew Philip ran 'ApplySelf' on item 'Bandage' (#6549)
+[19:54:57]	MilkyWay (STEAM_0:1:118336892) has disconnected.
+[20:41:14]	MilkyWay has connected.
+[20:41:21]	FB|| light ROOM has connected.
+[20:42:46]	DRD has connected.
+[20:42:54]	FB|| light ROOM loaded the character 'Owen Clark'
+[20:42:58]	Owen Clark ran 'Equip' on item 'Crowbar' (#6653)
+[20:43:02]	Owen Clark ran 'EquipUn' on item 'Crowbar' (#6653)
+[20:43:03]	Owen Clark ran 'Equip' on item 'Axe' (#6675)
+[20:43:55]	MilkyWay loaded the character 'Andrew Philip'
+[20:45:18]	DRD loaded the character 'CCA.C17-GRID.i1.59212'
+[20:45:26]	CCA.C17-GRID.i1.59212 ran 'Equip' on item 'SPAS-12' (#50)
+[20:45:27]	CCA.C17-GRID.i1.59212 ran 'Equip' on item 'USP Match' (#812)
+[20:45:50]	[OOC] Owen Clark: yo
+[20:45:55]	[OOC] CCA.C17-GRID.i1.59212: no
+[20:45:57]	FB|| light ROOM loaded the character 'CCA.C17-QrM.19891'
+[20:46:24]	CCA.C17-QrM.19891 used the 'Armory Supply' vendor.
+[20:46:30]	CCA.C17-QrM.19891 has gained 0 tokens.
+[20:46:30]	CCA.C17-QrM.19891 has gained a '9mm Pistol Magazine' #6726.
+[20:46:30]	CCA.C17-QrM.19891 has gained 0 tokens.
+[20:46:30]	CCA.C17-QrM.19891 has gained a '9mm Pistol Magazine' #6727.
+[20:46:31]	CCA.C17-QrM.19891 has gained 0 tokens.
+[20:46:31]	CCA.C17-QrM.19891 has gained a '9mm Pistol Magazine' #6728.
+[20:46:33]	CCA.C17-QrM.19891 has gained 0 tokens.
+[20:46:33]	CCA.C17-QrM.19891 has gained a '4.6x30 Rounds' #6729.
+[20:46:33]	CCA.C17-QrM.19891 has gained 0 tokens.
+[20:46:33]	CCA.C17-QrM.19891 has gained a '4.6x30 Rounds' #6730.
+[20:47:25]	CCA.C17-GRID.i1.59212 has spawned 'models/props_junk/PlasticCrate01a.mdl'.
+[20:47:41]	CCA.C17-QrM.19891 ran 'drop' on item 'KIBA Arms Ammocase' (#1435)
+[20:47:41]	CCA.C17-QrM.19891 has lost a 'KIBA Arms Ammocase' #1435.
+[20:47:41]	CCA.C17-QrM.19891 has lost a '12-Gauge Shells' #1444.
+[20:47:41]	CCA.C17-QrM.19891 has lost a '12-Gauge Shells' #1443.
+[20:47:41]	CCA.C17-QrM.19891 has lost a '9mm Pistol Magazine' #6727.
+[20:47:41]	CCA.C17-QrM.19891 has lost a '12-Gauge Shells' #1445.
+[20:47:41]	CCA.C17-QrM.19891 has lost a '4.6x30 Rounds' #6730.
+[20:47:41]	CCA.C17-QrM.19891 has lost a '4.6x30 Rounds' #6729.
+[20:47:41]	CCA.C17-QrM.19891 has lost a '4.6x30 Rounds' #1439.
+[20:47:41]	CCA.C17-QrM.19891 has lost a '9mm Pistol Magazine' #6726.
+[20:47:41]	CCA.C17-QrM.19891 has lost a '9mm Pistol Magazine' #6728.
+[20:47:43]	CCA.C17-QrM.19891 used the 'Armory Supply' vendor.
+[20:47:43]	CCA.C17-GRID.i1.59212 ran 'take' on item 'KIBA Arms Ammocase' (#1435)
+[20:47:43]	CCA.C17-GRID.i1.59212 has gained a 'KIBA Arms Ammocase' #1435.
+[20:47:43]	CCA.C17-GRID.i1.59212 has gained a '12-Gauge Shells' #1444.
+[20:47:43]	CCA.C17-GRID.i1.59212 has gained a '12-Gauge Shells' #1443.
+[20:47:43]	CCA.C17-GRID.i1.59212 has gained a '9mm Pistol Magazine' #6727.
+[20:47:43]	CCA.C17-GRID.i1.59212 has gained a '12-Gauge Shells' #1445.
+[20:47:43]	CCA.C17-GRID.i1.59212 has gained a '4.6x30 Rounds' #6730.
+[20:47:43]	CCA.C17-GRID.i1.59212 has gained a '4.6x30 Rounds' #6729.
+[20:47:43]	CCA.C17-GRID.i1.59212 has gained a '4.6x30 Rounds' #1439.
+[20:47:43]	CCA.C17-GRID.i1.59212 has gained a '9mm Pistol Magazine' #6726.
+[20:47:43]	CCA.C17-GRID.i1.59212 has gained a '9mm Pistol Magazine' #6728.
+[20:47:46]	CCA.C17-QrM.19891 has gained 0 tokens.
+[20:47:46]	CCA.C17-QrM.19891 has gained a 'Zip Tie' #6731.
+[20:47:46]	CCA.C17-QrM.19891 has gained 0 tokens.
+[20:47:46]	CCA.C17-QrM.19891 has gained a 'Zip Tie' #6732.
+[20:47:47]	CCA.C17-QrM.19891 has gained 0 tokens.
+[20:47:47]	CCA.C17-QrM.19891 has gained a 'Zip Tie' #6733.
+[20:47:47]	CCA.C17-QrM.19891 has gained 0 tokens.
+[20:47:47]	CCA.C17-QrM.19891 has gained a 'Zip Tie' #6734.
+[20:47:47]	CCA.C17-GRID.i1.59212 ran 'use' on item '12-Gauge Shells' (#1443)
+[20:47:49]	CCA.C17-GRID.i1.59212 ran 'use' on item '12-Gauge Shells' (#1444)
+[20:47:51]	CCA.C17-QrM.19891 ran 'drop' on item 'Zip Tie' (#6731)
+[20:47:51]	CCA.C17-QrM.19891 has lost a 'Zip Tie' #6731.
+[20:47:51]	CCA.C17-GRID.i1.59212 ran 'use' on item '12-Gauge Shells' (#1445)
+[20:47:52]	CCA.C17-QrM.19891 ran 'drop' on item 'Zip Tie' (#6115)
+[20:47:52]	CCA.C17-QrM.19891 has lost a 'Zip Tie' #6115.
+[20:47:52]	CCA.C17-QrM.19891 ran 'drop' on item 'Zip Tie' (#6732)
+[20:47:52]	CCA.C17-QrM.19891 has lost a 'Zip Tie' #6732.
+[20:47:53]	CCA.C17-QrM.19891 ran 'drop' on item 'Zip Tie' (#6733)
+[20:47:53]	CCA.C17-QrM.19891 has lost a 'Zip Tie' #6733.
+[20:47:54]	CCA.C17-QrM.19891 ran 'Use' on item 'Zip Tie' (#6734)
+[20:47:54]	CCA.C17-GRID.i1.59212 ran 'use' on item '9mm Pistol Magazine' (#6727)
+[20:47:55]	CCA.C17-QrM.19891 ran 'drop' on item 'Zip Tie' (#6734)
+[20:47:55]	CCA.C17-QrM.19891 has lost a 'Zip Tie' #6734.
+[20:47:55]	CCA.C17-GRID.i1.59212 ran 'use' on item '9mm Pistol Magazine' (#6726)
+[20:47:56]	CCA.C17-GRID.i1.59212 ran 'use' on item '9mm Pistol Magazine' (#6728)
+[20:47:57]	CCA.C17-GRID.i1.59212 ran 'drop' on item 'KIBA Arms Ammocase' (#1435)
+[20:47:57]	CCA.C17-GRID.i1.59212 has lost a 'KIBA Arms Ammocase' #1435.
+[20:47:57]	CCA.C17-GRID.i1.59212 has lost a '4.6x30 Rounds' #6729.
+[20:47:57]	CCA.C17-GRID.i1.59212 has lost a '4.6x30 Rounds' #1439.
+[20:47:57]	CCA.C17-GRID.i1.59212 has lost a '4.6x30 Rounds' #6730.
+[20:48:15]	CCA.C17-GRID.i1.59212 ran 'take' on item 'Zip Tie' (#6731)
+[20:48:15]	CCA.C17-GRID.i1.59212 has gained a 'Zip Tie' #6731.
+[20:48:18]	CCA.C17-GRID.i1.59212 ran 'take' on item 'Zip Tie' (#6115)
+[20:48:18]	CCA.C17-GRID.i1.59212 has gained a 'Zip Tie' #6115.
+[20:48:20]	CCA.C17-GRID.i1.59212 ran 'take' on item 'Zip Tie' (#6733)
+[20:48:20]	CCA.C17-GRID.i1.59212 has gained a 'Zip Tie' #6733.
+[20:48:22]	CCA.C17-GRID.i1.59212 ran 'take' on item 'Zip Tie' (#6732)
+[20:48:22]	CCA.C17-GRID.i1.59212 has gained a 'Zip Tie' #6732.
+[20:48:32]	CCA.C17-GRID.i1.59212 ran 'take' on item 'Zip Tie' (#6734)
+[20:48:32]	CCA.C17-GRID.i1.59212 has gained a 'Zip Tie' #6734.
+[20:48:59]	CCA.C17-GRID.i1.59212 has taken 12 damage from CCA.C17-QrM.19891.
+[20:49:01]	CCA.C17-QrM.19891 ran 'take' on item 'KIBA Arms Ammocase' (#1435)
+[20:49:01]	CCA.C17-QrM.19891 has gained a 'KIBA Arms Ammocase' #1435.
+[20:49:01]	CCA.C17-QrM.19891 has gained a '4.6x30 Rounds' #6729.
+[20:49:01]	CCA.C17-QrM.19891 has gained a '4.6x30 Rounds' #1439.
+[20:49:01]	CCA.C17-QrM.19891 has gained a '4.6x30 Rounds' #6730.
+[20:49:03]	CCA.C17-GRID.i1.59212 used command '/ToggleRaise'.
+[20:49:09]	FB|| light ROOM loaded the character 'Owen Clark'
+[20:49:22]	[OOC] CCA.C17-GRID.i1.59212: THE QUARTERMASTER SHOT ME
+[20:49:38]	[OOC] Owen Clark: okay
+[20:49:42]	Owen Clark ran 'EquipUn' on item 'Axe' (#6675)
+[20:49:42]	Owen Clark ran 'Equip' on item 'Axe' (#6675)
+[20:50:18]	CCA.C17-GRID.i1.59212 has gained 10 tokens.
+[20:51:16]	CCA.C17-GRID.i1.59212 used command '/ViewData OWEN'.
+[20:53:50]	Andrew Philip ran 'View' on item 'Paper' (#5257)
+[20:54:19]	CCA.C17-GRID.i1.59212 opened the '' #477 container.
+[20:54:21]	CCA.C17-GRID.i1.59212 closed the '' #477 container.
+[20:54:31]	[OOC] CCA.C17-GRID.i1.59212: BRB
+[20:54:40]	CCA.C17-GRID.i1.59212 used command '/PM OWEN i'll rejoin vc in 5 minutes oir so'.
+[20:55:18]	CCA.C17-GRID.i1.59212 has gained 10 tokens.
+[20:56:03]	[OOC] Owen Clark: Crungle
+[20:56:50]	[OOC] Andrew Philip: p
+[20:56:58]	[OOC] Owen Clark: Player 白给之人 has joined the game
+[20:57:03]	[OOC] Owen Clark: This scares ,e
+[20:57:05]	[OOC] Owen Clark: me*
+[20:58:56]	Owen Clark opened the '' #477 container.
+[20:58:58]	Owen Clark closed the '' #477 container.
+[20:59:32]	Owen Clark ran 'equip' on item 'Citizen Filter' (#6156)
+[20:59:35]	Owen Clark ran 'View' on item 'Notepad' (#1945)
+[20:59:39]	Owen Clark used the 'General Store Manager' vendor.
+[20:59:45]	Owen Clark has lost 10 tokens.
+[20:59:45]	Owen Clark has gained a 'Flashlight' #6735.
+[20:59:52]	Owen Clark ran 'View' on item 'Notepad' (#1945)
+[21:01:43]	[OOC] CCA.C17-GRID.i1.59212: back
+[21:01:45]	[OOC] CCA.C17-GRID.i1.59212: oh dear
+[21:02:25]	[OOC] Owen Clark: Imagine
+[21:02:30]	[OOC] Owen Clark: Rejoing VC smh
+[21:03:43]	[OOC] Owen Clark: Existing is cool.
+[21:03:55]	Andrew Philip has taken 1 damage from worldspawn.
+[21:03:55]	Andrew Philip has taken 1 damage from worldspawn.
+[21:03:56]	Andrew Philip has taken 1 damage from worldspawn.
+[21:03:57]	Andrew Philip has taken 1 damage from worldspawn.
+[21:03:58]	Andrew Philip has taken 1 damage from worldspawn.
+[21:03:58]	Andrew Philip has taken 1 damage from worldspawn.
+[21:03:59]	Andrew Philip has taken 1 damage from worldspawn.
+[21:03:59]	Andrew Philip ran 'equip' on item 'Citizen Filter' (#6604)
+[21:05:18]	CCA.C17-GRID.i1.59212 has gained 10 tokens.
+[21:06:01]	Owen Clark rolled 27 out of 100.
+[21:06:01]	Owen Clark used command '/Roll'.
+[21:06:04]	CCA.C17-GRID.i1.59212 rolled 67 out of 100.
+[21:06:04]	CCA.C17-GRID.i1.59212 used command '/Roll'.
+[21:06:11]	Owen Clark rolled 78 out of 100.
+[21:06:11]	Owen Clark used command '/Roll'.
+[21:06:30]	CCA.C17-GRID.i1.59212 rolled 1 out of 1.
+[21:06:30]	CCA.C17-GRID.i1.59212 used command '/Roll 1'.
+[21:06:58]	CCA.C17-GRID.i1.59212 has spawned 'models/props_c17/gate_door02a.mdl'.
+[21:07:03]	CCA.C17-GRID.i1.59212 has spawned 'models/props_c17/gate_door02a.mdl'.
+[21:07:23]	CCA.C17-GRID.i1.59212 has spawned 'models/props_c17/FurnitureTable002a.mdl'.
+[21:07:53]	Owen Clark ran 'EquipUn' on item 'Axe' (#6675)
+[21:07:54]	Owen Clark ran 'Equip' on item 'Crowbar' (#6653)
+[21:07:57]	CCA.C17-GRID.i1.59212 has spawned 'models/props_junk/PlasticCrate01a.mdl'.
+[21:07:59]	Owen Clark ran 'EquipUn' on item 'Crowbar' (#6653)
+[21:07:59]	Owen Clark ran 'Equip' on item 'Axe' (#6675)
+[21:07:59]	CCA.C17-GRID.i1.59212 has spawned 'models/props_junk/PlasticCrate01a.mdl'.
+[21:08:03]	CCA.C17-GRID.i1.59212 has spawned 'models/props_junk/plasticcrate01a.mdl'.
+[21:08:03]	CCA.C17-GRID.i1.59212 has spawned 'models/props_junk/plasticcrate01a.mdl'.
+[21:08:03]	CCA.C17-GRID.i1.59212 has spawned 'models/props_junk/plasticcrate01a.mdl'.
+[21:08:03]	CCA.C17-GRID.i1.59212 has spawned 'models/props_junk/plasticcrate01a.mdl'.
+[21:08:03]	CCA.C17-GRID.i1.59212 has spawned 'models/props_junk/plasticcrate01a.mdl'.
+[21:08:03]	CCA.C17-GRID.i1.59212 has spawned 'models/props_junk/plasticcrate01a.mdl'.
+[21:08:03]	CCA.C17-GRID.i1.59212 has spawned 'models/props_junk/plasticcrate01a.mdl'.
+[21:08:03]	CCA.C17-GRID.i1.59212 has spawned 'models/props_junk/plasticcrate01a.mdl'.
+[21:08:03]	CCA.C17-GRID.i1.59212 has spawned 'models/props_junk/plasticcrate01a.mdl'.
+[21:08:03]	CCA.C17-GRID.i1.59212 has spawned 'models/props_junk/plasticcrate01a.mdl'.
+[21:08:03]	CCA.C17-GRID.i1.59212 has spawned 'models/props_junk/plasticcrate01a.mdl'.
+[21:08:03]	CCA.C17-GRID.i1.59212 has spawned 'models/props_junk/plasticcrate01a.mdl'.
+[21:08:03]	CCA.C17-GRID.i1.59212 has spawned 'models/props_junk/plasticcrate01a.mdl'.
+[21:08:03]	CCA.C17-GRID.i1.59212 has spawned 'models/props_junk/plasticcrate01a.mdl'.
+[21:08:03]	CCA.C17-GRID.i1.59212 has spawned 'models/props_junk/plasticcrate01a.mdl'.
+[21:09:08]	CCA.C17-GRID.i1.59212 has spawned 'models/props_c17/FurnitureTable001a.mdl'.
+[21:09:14]	CCA.C17-GRID.i1.59212 has spawned 'models/props_junk/PopCan01a.mdl'.
+[21:09:19]	CCA.C17-GRID.i1.59212 has spawned 'models/props_junk/PopCan01a.mdl'.
+[21:09:45]	CCA.C17-GRID.i1.59212 has spawned 'models/props_wasteland/wheel01.mdl'.
+[21:09:54]	CCA.C17-GRID.i1.59212 has taken 16 damage from Owen Clark.
+[21:10:14]	CCA.C17-GRID.i1.59212 has spawned 'models/props_wasteland/wheel01.mdl'.
+[21:10:14]	CCA.C17-GRID.i1.59212 has spawned 'models/props_wasteland/wheel01.mdl'.
+[21:10:14]	CCA.C17-GRID.i1.59212 has spawned 'models/props_wasteland/wheel01.mdl'.
+[21:10:14]	CCA.C17-GRID.i1.59212 has spawned 'models/props_wasteland/wheel01.mdl'.
+[21:10:14]	CCA.C17-GRID.i1.59212 has spawned 'models/props_wasteland/wheel01.mdl'.
+[21:10:14]	CCA.C17-GRID.i1.59212 has spawned 'models/props_wasteland/wheel01.mdl'.
+[21:10:14]	CCA.C17-GRID.i1.59212 has spawned 'models/props_wasteland/wheel01.mdl'.
+[21:10:14]	CCA.C17-GRID.i1.59212 has spawned 'models/props_wasteland/wheel01.mdl'.
+[21:10:14]	CCA.C17-GRID.i1.59212 has spawned 'models/props_wasteland/wheel01.mdl'.
+[21:10:14]	CCA.C17-GRID.i1.59212 has spawned 'models/props_wasteland/wheel01.mdl'.
+[21:10:14]	CCA.C17-GRID.i1.59212 has spawned 'models/props_wasteland/wheel01.mdl'.
+[21:10:14]	CCA.C17-GRID.i1.59212 has spawned 'models/props_wasteland/wheel01.mdl'.
+[21:10:14]	CCA.C17-GRID.i1.59212 has spawned 'models/props_wasteland/wheel01.mdl'.
+[21:10:14]	CCA.C17-GRID.i1.59212 has spawned 'models/props_wasteland/wheel01.mdl'.
+[21:10:14]	CCA.C17-GRID.i1.59212 has spawned 'models/props_wasteland/wheel01.mdl'.
+[21:10:18]	CCA.C17-GRID.i1.59212 has gained 10 tokens.
+[21:10:20]	CCA.C17-GRID.i1.59212 has taken 5 damage from prop_physics.
+[21:10:20]	CCA.C17-GRID.i1.59212 has taken 5 damage from prop_physics.
+[21:10:25]	Owen Clark has taken 5 damage from prop_physics.
+[21:10:26]	Owen Clark has taken 500 damage from prop_physics.
+[21:10:26]	prop_physics has killed Owen Clark.
+[21:10:27]	CCA.C17-GRID.i1.59212 has taken 20 damage from prop_physics.
+[21:10:27]	CCA.C17-GRID.i1.59212 has taken 5 damage from prop_physics.
+[21:10:43]	Owen Clark ran 'Equip' on item 'Axe' (#6675)
+[21:10:45]	CCA.C17-GRID.i1.59212 has spawned 'models/props_wasteland/wheel01.mdl'.
+[21:10:45]	CCA.C17-GRID.i1.59212 has spawned 'models/props_wasteland/wheel01.mdl'.
+[21:10:45]	CCA.C17-GRID.i1.59212 has spawned 'models/props_wasteland/wheel01.mdl'.
+[21:10:45]	CCA.C17-GRID.i1.59212 has spawned 'models/props_wasteland/wheel01.mdl'.
+[21:10:45]	CCA.C17-GRID.i1.59212 has spawned 'models/props_wasteland/wheel01.mdl'.
+[21:10:45]	CCA.C17-GRID.i1.59212 has spawned 'models/props_wasteland/wheel01.mdl'.
+[21:10:45]	CCA.C17-GRID.i1.59212 has spawned 'models/props_wasteland/wheel01.mdl'.
+[21:10:45]	CCA.C17-GRID.i1.59212 has spawned 'models/props_wasteland/wheel01.mdl'.
+[21:10:45]	CCA.C17-GRID.i1.59212 has spawned 'models/props_wasteland/wheel01.mdl'.
+[21:10:45]	CCA.C17-GRID.i1.59212 has spawned 'models/props_wasteland/wheel01.mdl'.
+[21:10:45]	CCA.C17-GRID.i1.59212 has spawned 'models/props_wasteland/wheel01.mdl'.
+[21:10:45]	CCA.C17-GRID.i1.59212 has spawned 'models/props_wasteland/wheel01.mdl'.
+[21:10:45]	CCA.C17-GRID.i1.59212 has spawned 'models/props_wasteland/wheel01.mdl'.
+[21:10:45]	CCA.C17-GRID.i1.59212 has spawned 'models/props_wasteland/wheel01.mdl'.
+[21:10:45]	CCA.C17-GRID.i1.59212 has spawned 'models/props_wasteland/wheel01.mdl'.
+[21:11:32]	CCA.C17-GRID.i1.59212 has spawned 'models/props_wasteland/wheel01.mdl'.
+[21:11:32]	CCA.C17-GRID.i1.59212 has spawned 'models/props_wasteland/wheel01.mdl'.
+[21:11:32]	CCA.C17-GRID.i1.59212 has spawned 'models/props_wasteland/wheel01.mdl'.
+[21:11:32]	CCA.C17-GRID.i1.59212 has spawned 'models/props_wasteland/wheel01.mdl'.
+[21:11:32]	CCA.C17-GRID.i1.59212 has spawned 'models/props_wasteland/wheel01.mdl'.
+[21:11:32]	CCA.C17-GRID.i1.59212 has spawned 'models/props_wasteland/wheel01.mdl'.
+[21:11:32]	CCA.C17-GRID.i1.59212 has spawned 'models/props_wasteland/wheel01.mdl'.
+[21:11:32]	CCA.C17-GRID.i1.59212 has spawned 'models/props_wasteland/wheel01.mdl'.
+[21:11:32]	CCA.C17-GRID.i1.59212 has spawned 'models/props_wasteland/wheel01.mdl'.
+[21:11:32]	CCA.C17-GRID.i1.59212 has spawned 'models/props_wasteland/wheel01.mdl'.
+[21:11:32]	CCA.C17-GRID.i1.59212 has spawned 'models/props_wasteland/wheel01.mdl'.
+[21:11:32]	CCA.C17-GRID.i1.59212 has spawned 'models/props_wasteland/wheel01.mdl'.
+[21:11:32]	CCA.C17-GRID.i1.59212 has spawned 'models/props_wasteland/wheel01.mdl'.
+[21:11:32]	CCA.C17-GRID.i1.59212 has spawned 'models/props_wasteland/wheel01.mdl'.
+[21:11:32]	CCA.C17-GRID.i1.59212 has spawned 'models/props_wasteland/wheel01.mdl'.
+[21:11:38]	CCA.C17-GRID.i1.59212 has taken 16 damage from Owen Clark.
+[21:11:43]	Owen Clark has taken 500 damage from prop_physics.
+[21:11:43]	prop_physics has killed Owen Clark.
+[21:11:56]	[OOC] Owen Clark: Kind of want to hop onto the SWRP.
+[21:12:11]	[OOC] Owen Clark: MilkyWay you there????
+[21:13:08]	[OOC] Andrew Philip: ?
+[21:13:20]	[OOC] Owen Clark: Want to get on the SWRP????
+[21:13:36]	[OOC] Owen Clark: Project Revival SWRP.
+[21:13:41]	[OOC] Andrew Philip: its locked
+[21:13:48]	[OOC] Owen Clark: It shouldn't be?
+[21:14:19]	[OOC] Owen Clark: Gonna try to get on it.
+[21:14:27]	CCA.C17-GRID.i1.59212 has spawned 'models/props_lab/blastdoor001c.mdl'.
+[21:14:31]	[OOC] Andrew Philip: do u guys mind looking at my app btw
+[21:14:39]	FB|| light ROOM (STEAM_0:1:17219621) has disconnected.
+[21:14:39]	[OOC] Andrew Philip: post a +1 or -1
+[21:14:55]	CCA.C17-GRID.i1.59212 has spawned 'models/props_lab/blastdoor001c.mdl'.
+[21:14:55]	CCA.C17-GRID.i1.59212 has spawned 'models/props_lab/blastdoor001c.mdl'.
+[21:14:55]	CCA.C17-GRID.i1.59212 has spawned 'models/props_lab/blastdoor001c.mdl'.
+[21:14:55]	CCA.C17-GRID.i1.59212 has spawned 'models/props_lab/blastdoor001c.mdl'.
+[21:14:55]	CCA.C17-GRID.i1.59212 has spawned 'models/props_lab/blastdoor001c.mdl'.
+[21:14:55]	CCA.C17-GRID.i1.59212 has spawned 'models/props_lab/blastdoor001c.mdl'.
+[21:14:55]	CCA.C17-GRID.i1.59212 has spawned 'models/props_lab/blastdoor001c.mdl'.
+[21:14:55]	CCA.C17-GRID.i1.59212 has spawned 'models/props_lab/blastdoor001c.mdl'.
+[21:14:55]	CCA.C17-GRID.i1.59212 has spawned 'models/props_lab/blastdoor001c.mdl'.
+[21:14:55]	CCA.C17-GRID.i1.59212 has spawned 'models/props_lab/blastdoor001c.mdl'.
+[21:14:55]	CCA.C17-GRID.i1.59212 has spawned 'models/props_lab/blastdoor001c.mdl'.
+[21:14:55]	CCA.C17-GRID.i1.59212 has spawned 'models/props_lab/blastdoor001c.mdl'.
+[21:14:55]	CCA.C17-GRID.i1.59212 has spawned 'models/props_lab/blastdoor001c.mdl'.
+[21:14:55]	CCA.C17-GRID.i1.59212 has spawned 'models/props_lab/blastdoor001c.mdl'.
+[21:14:55]	CCA.C17-GRID.i1.59212 has spawned 'models/props_lab/blastdoor001c.mdl'.
+[21:14:58]	CCA.C17-GRID.i1.59212 has spawned 'models/props_lab/blastdoor001c.mdl'.
+[21:14:58]	CCA.C17-GRID.i1.59212 has spawned 'models/props_lab/blastdoor001c.mdl'.
+[21:14:58]	CCA.C17-GRID.i1.59212 has spawned 'models/props_lab/blastdoor001c.mdl'.
+[21:14:58]	CCA.C17-GRID.i1.59212 has spawned 'models/props_lab/blastdoor001c.mdl'.
+[21:14:58]	CCA.C17-GRID.i1.59212 has spawned 'models/props_lab/blastdoor001c.mdl'.
+[21:14:58]	CCA.C17-GRID.i1.59212 has spawned 'models/props_lab/blastdoor001c.mdl'.
+[21:14:58]	CCA.C17-GRID.i1.59212 has spawned 'models/props_lab/blastdoor001c.mdl'.
+[21:14:58]	CCA.C17-GRID.i1.59212 has spawned 'models/props_lab/blastdoor001c.mdl'.
+[21:14:58]	CCA.C17-GRID.i1.59212 has spawned 'models/props_lab/blastdoor001c.mdl'.
+[21:14:58]	CCA.C17-GRID.i1.59212 has spawned 'models/props_lab/blastdoor001c.mdl'.
+[21:14:58]	CCA.C17-GRID.i1.59212 has spawned 'models/props_lab/blastdoor001c.mdl'.
+[21:14:58]	CCA.C17-GRID.i1.59212 has spawned 'models/props_lab/blastdoor001c.mdl'.
+[21:14:58]	CCA.C17-GRID.i1.59212 has spawned 'models/props_lab/blastdoor001c.mdl'.
+[21:14:58]	CCA.C17-GRID.i1.59212 has spawned 'models/props_lab/blastdoor001c.mdl'.
+[21:14:58]	CCA.C17-GRID.i1.59212 has spawned 'models/props_lab/blastdoor001c.mdl'.
+[21:15:18]	CCA.C17-GRID.i1.59212 has gained 10 tokens.
+[21:15:24]	DRD (STEAM_0:0:193599766) has disconnected.
+[21:24:34]	Doughnut has connected.
+[21:26:03]	Doughnut loaded the character 'CCA.C17-JUDGE.i2.69124'
+[21:26:08]	[OOC] CCA.C17-JUDGE.i2.69124: e
+[21:26:15]	[OOC] Andrew Philip: C
+[21:26:40]	[OOC] Andrew Philip: I killed all the NPCs in the sewers
+[21:26:41]	CCA.C17-JUDGE.i2.69124 used command '/CharGiveFlag andrew pet'.
+[21:26:54]	Andrew Philip has spawned 'models/props_borealis/bluebarrel001.mdl'.
+[21:26:55]	CCA.C17-JUDGE.i2.69124 used command '/PlyWhitelist andrew ancin'.
+[21:26:58]	CCA.C17-JUDGE.i2.69124 used command '/PlyWhitelist andrew ancil'.
+[21:27:02]	CCA.C17-JUDGE.i2.69124 used command '/PlyWhitelist andrew synth'.
+[21:27:11]	CCA.C17-JUDGE.i2.69124 used command '/PlyWhitelist andrew bird'.
+[21:27:16]	CCA.C17-JUDGE.i2.69124 used command '/PlyWhitelist andrew xenian'.
+[21:27:19]	CCA.C17-JUDGE.i2.69124 used command '/PlyWhitelist andrew xen'.
+[21:28:11]	CCA.C17-JUDGE.i2.69124 used command '/PlyWhitelist andrew alien'.
+[21:28:17]	[OOC] CCA.C17-JUDGE.i2.69124: i think that's right
+[21:28:24]	[OOC] CCA.C17-JUDGE.i2.69124: wait
+[21:28:26]	[OOC] CCA.C17-JUDGE.i2.69124: maybe
+[21:28:33]	CCA.C17-JUDGE.i2.69124 used command '/PlyUnwhitelist andrew alien'.
+[21:28:37]	[OOC] Andrew Philip: isn't there like xenian, stalker and other abusive shit
+[21:28:43]	[OOC] Andrew Philip: XD
+[21:28:57]	[OOC] CCA.C17-JUDGE.i2.69124: i added you for stalker but idk the xenian faction
+[21:28:59]	[OOC] Andrew Philip: I'll probably rarely use them
+[21:29:05]	CCA.C17-JUDGE.i2.69124 entered observer.
+[21:29:12]	[OOC] Andrew Philip: I wonder btw for pet flags just wondering 
+[21:29:31]	CCA.C17-JUDGE.i2.69124 used command '/CharGiveFlag STEAM_0:1:118336892 pet'.
+[21:29:36]	[OOC] Andrew Philip: are there rules that I should be aware of them 
+[21:29:45]	[OOC] CCA.C17-JUDGE.i2.69124: just making sure you get it on all char ( i think it worked)
+[21:29:51]	[OOC] Andrew Philip: let me check
+[21:29:57]	MilkyWay loaded the character 'Hyo Jeong'
+[21:30:02]	[OOC] Hyo Jeong: nop
+[21:30:18]	[OOC] CCA.C17-JUDGE.i2.69124: just don't try to break the server, use them minge like outside of downtime, and yeah that's really it
+[21:30:21]	CCA.C17-JUDGE.i2.69124 used command '/CharGiveFlag STEAM_0:1:118336892 pet'.
+[21:30:22]	[OOC] CCA.C17-JUDGE.i2.69124: there
+[21:30:27]	MilkyWay loaded the character 'CCA.C17-UNION.i5.09143'
+[21:30:32]	[OOC] CCA.C17-JUDGE.i2.69124: just ask whenever you need em
+[21:30:33]	CCA.C17-JUDGE.i2.69124 used command '/CharGiveFlag STEAM_0:1:118336892 pet'.
+[21:30:48]	[OOC] CCA.C17-UNION.i5.09143: I'll prob never use them and only use them to enhance people's expirence 
+[21:30:57]	MilkyWay loaded the character 'Andrew Philip'
+[21:30:59]	[OOC] CCA.C17-JUDGE.i2.69124: mk
+[21:31:03]	CCA.C17-JUDGE.i2.69124 has gained 10 tokens.
+[21:31:22]	[OOC] Andrew Philip: oh btw the conatiner that was removed before the map change, you mind coming in and spawn it? 
+[21:31:35]	CCA.C17-JUDGE.i2.69124 has spawned 'models/props_junk/wood_crate001a_damaged.mdl'.
+[21:31:37]	CCA.C17-JUDGE.i2.69124 has spawned 'models/props_junk/wood_crate001a.mdl'.
+[21:31:37]	[LOOC] Andrew Philip: wtf
+[21:31:43]	[LOOC] Andrew Philip: oh hi
+[21:31:46]	CCA.C17-JUDGE.i2.69124 exited observer at their location.
+[21:31:50]	CCA.C17-JUDGE.i2.69124 has spawned 'models/props_wasteland/controlroom_storagecloset001a.mdl'.
+[21:31:51]	CCA.C17-JUDGE.i2.69124 entered observer.
+[21:31:51]	CCA.C17-JUDGE.i2.69124 exited observer at their location.
+[21:31:55]	[LOOC] CCA.C17-JUDGE.i2.69124: correct?
+[21:31:59]	[LOOC] Andrew Philip: yeah
+[21:32:01]	CCA.C17-JUDGE.i2.69124 entered observer.
+[21:32:11]	CCA.C17-JUDGE.i2.69124 exited observer at their location.
+[21:32:20]	CCA.C17-JUDGE.i2.69124 entered observer.
+[21:32:25]	[LOOC] Andrew Philip: hungery?
+[21:32:29]	[LOOC] CCA.C17-JUDGE.i2.69124: ew
+[21:32:46]	Andrew Philip opened the 'Metal Cabinet' #491 container.
+[21:32:48]	Andrew Philip closed the 'Metal Cabinet' #491 container.
+[21:32:54]	CCA.C17-JUDGE.i2.69124 ran 'View' on item 'Paper' (#5257)
+[21:33:10]	[OOC] CCA.C17-JUDGE.i2.69124: kk bye
+[21:33:14]	[OOC] Andrew Philip: before you go, you mind spawing in the zombies in the sewers
+[21:33:17]	[OOC] CCA.C17-JUDGE.i2.69124: sure
+[21:33:29]	[OOC] Andrew Philip: alright
+[21:33:48]	CCA.C17-JUDGE.i2.69124 has spawned a 'NPC [714][npc_zombie]'.
+[21:33:50]	CCA.C17-JUDGE.i2.69124 has spawned a 'NPC [750][npc_zombie]'.
+[21:33:52]	CCA.C17-JUDGE.i2.69124 has spawned a 'NPC [751][npc_zombie]'.
+[21:33:59]	CCA.C17-JUDGE.i2.69124 has spawned a 'NPC [841][npc_fastzombie]'.
+[21:34:00]	[OOC] Andrew Philip: I plan to donate more btw, I'll prob not even use these powers if an admin needs me to do so
+[21:34:03]	CCA.C17-JUDGE.i2.69124 has spawned a 'NPC [875][npc_fastzombie]'.
+[21:34:07]	[OOC] Andrew Philip: I know someone donated 80 usd 
+[21:34:11]	CCA.C17-JUDGE.i2.69124 has spawned a 'NPC [876][npc_zombie]'.
+[21:34:13]	CCA.C17-JUDGE.i2.69124 has spawned a 'NPC [882][npc_zombie]'.
+[21:34:18]	CCA.C17-JUDGE.i2.69124 has spawned a 'NPC [883][npc_poisonzombie]'.
+[21:34:21]	Andrew Philip ran 'View' on item 'Paper' (#5257)
+[21:34:21]	CCA.C17-JUDGE.i2.69124 has spawned a 'NPC [900][npc_zombie_torso]'.
+[21:34:23]	Andrew Philip opened the 'Metal Cabinet' #491 container.
+[21:34:25]	Andrew Philip closed the 'Metal Cabinet' #491 container.
+[21:34:30]	CCA.C17-JUDGE.i2.69124 has spawned a 'NPC [1271][npc_zombie]'.
+[21:34:32]	CCA.C17-JUDGE.i2.69124 has spawned a 'NPC [1267][npc_zombie]'.
+[21:34:33]	CCA.C17-JUDGE.i2.69124 has spawned a 'NPC [1272][npc_zombie]'.
+[21:34:35]	CCA.C17-JUDGE.i2.69124 has spawned a 'NPC [1573][npc_zombie]'.
+[21:34:39]	CCA.C17-JUDGE.i2.69124 has spawned a 'NPC [1574][npc_fastzombie]'.
+[21:34:41]	CCA.C17-JUDGE.i2.69124 has spawned a 'NPC [1587][npc_fastzombie]'.
+[21:34:43]	CCA.C17-JUDGE.i2.69124 has spawned a 'NPC [1951][npc_zombie]'.
+[21:34:44]	CCA.C17-JUDGE.i2.69124 has spawned a 'NPC [1954][npc_zombie]'.
+[21:34:47]	CCA.C17-JUDGE.i2.69124 has spawned a 'NPC [1955][npc_zombie]'.
+[21:34:52]	CCA.C17-JUDGE.i2.69124 has spawned a 'NPC [1956][npc_zombie]'.
+[21:34:57]	CCA.C17-JUDGE.i2.69124 has spawned a 'NPC [1957][npc_fastzombie]'.
+[21:35:02]	CCA.C17-JUDGE.i2.69124 has spawned a 'NPC [1958][npc_zombie]'.
+[21:35:14]	CCA.C17-JUDGE.i2.69124 has spawned a 'NPC [1959][npc_poisonzombie]'.
+[21:35:19]	CCA.C17-JUDGE.i2.69124 has spawned a 'NPC [1962][npc_zombie]'.
+[21:35:21]	CCA.C17-JUDGE.i2.69124 has spawned a 'NPC [1963][npc_zombie]'.
+[21:35:50]	CCA.C17-JUDGE.i2.69124 has spawned a 'NPC [1962][npc_zombie]'.
+[21:35:52]	CCA.C17-JUDGE.i2.69124 has spawned a 'NPC [1964][npc_zombie]'.
+[21:35:53]	CCA.C17-JUDGE.i2.69124 has spawned a 'NPC [1965][npc_zombie]'.
+[21:35:56]	CCA.C17-JUDGE.i2.69124 has spawned a 'NPC [1966][npc_fastzombie_torso]'.
+[21:35:57]	CCA.C17-JUDGE.i2.69124 has spawned a 'NPC [1967][npc_zombie]'.
+[21:36:03]	CCA.C17-JUDGE.i2.69124 has gained 10 tokens.
+[21:36:04]	CCA.C17-JUDGE.i2.69124 has spawned a 'NPC [1966][npc_zombie]'.
+[21:36:06]	CCA.C17-JUDGE.i2.69124 has spawned a 'NPC [1965][npc_zombie]'.
+[21:36:10]	CCA.C17-JUDGE.i2.69124 has spawned a 'NPC [1966][npc_fastzombie_torso]'.
+[21:36:38]	Doughnut (STEAM_0:1:127409364) has disconnected.
+[21:44:22]	Andrew Philip ran 'Use' on item 'Padlock' (#5267)
+[21:45:00]	Andrew Philip has taken 5 damage from npc_fastzombie.
+[21:45:51]	Andrew Philip has taken 3 damage from npc_fastzombie.
+[21:45:51]	Andrew Philip has taken 3 damage from npc_fastzombie.
+[21:45:51]	Andrew Philip has taken 3 damage from npc_fastzombie.
+[21:45:53]	Andrew Philip has taken 3 damage from npc_fastzombie.
+[21:45:54]	Andrew Philip has taken 3 damage from npc_fastzombie.
+[21:45:54]	Andrew Philip has taken 3 damage from npc_fastzombie.
+[21:45:54]	Andrew Philip has taken 3 damage from npc_fastzombie.
+[21:45:57]	Andrew Philip has gained 20 tokens.
+[21:46:01]	Andrew Philip has taken 3 damage from npc_fastzombie.
+[21:46:01]	Andrew Philip has taken 3 damage from npc_fastzombie.
+[21:46:04]	Andrew Philip has taken 3 damage from npc_fastzombie.
+[21:46:05]	Andrew Philip has taken 3 damage from npc_fastzombie.
+[21:46:05]	Andrew Philip has taken 3 damage from npc_fastzombie.
+[21:46:07]	Andrew Philip has gained 10 tokens.
+[21:46:10]	Andrew Philip has taken 10 damage from npc_zombie.
+[21:46:12]	Andrew Philip has taken 10 damage from npc_zombie.
+[21:47:05]	Andrew Philip ran 'ApplySelf' on item 'Bandage' (#6549)
+[21:47:06]	Andrew Philip ran 'ApplySelf' on item 'Bandage' (#6549)
+[21:47:08]	Andrew Philip ran 'ApplySelf' on item 'Bandage' (#6549)
+[21:47:25]	Andrew Philip has taken 10 damage from npc_zombie.
+[21:47:28]	Andrew Philip has taken 10 damage from npc_zombie.
+[21:47:41]	Andrew Philip has taken 10 damage from npc_poisonzombie.
+[21:47:44]	Andrew Philip has taken 5 damage from npc_headcrab_poison.
+[21:47:44]	Andrew Philip has taken 56 damage from npc_headcrab_poison.
+[21:47:54]	Andrew Philip has taken 5 damage from npc_headcrab_poison.
+[21:47:54]	Andrew Philip has taken 35 damage from npc_headcrab_poison.
+[21:47:57]	Andrew Philip has taken 5 damage from npc_headcrab_poison.
+[21:47:57]	Andrew Philip has taken 5 damage from npc_headcrab_poison.
+[21:48:10]	Andrew Philip has taken 10 damage from npc_poisonzombie.
+[21:48:11]	Andrew Philip has taken 10 damage from npc_poisonzombie.
+[21:48:13]	Andrew Philip has taken 10 damage from npc_poisonzombie.
+[21:48:13]	Andrew Philip has taken 5 damage from npc_headcrab_poison.
+[21:48:13]	Andrew Philip has taken 11 damage from npc_headcrab_poison.
+[21:48:14]	Andrew Philip has taken 10 damage from npc_poisonzombie.
+[21:48:14]	npc_poisonzombie has killed Andrew Philip.
+[21:49:32]	Andrew Philip ran 'Equip' on item 'Axe' (#6690)
+[21:51:52]	Andrew Philip has taken 10 damage from npc_zombie_torso.
+[21:51:54]	Andrew Philip has taken 10 damage from npc_zombie_torso.
+[21:51:55]	Andrew Philip has taken 10 damage from npc_zombie_torso.
+[21:51:56]	Andrew Philip has taken 5 damage from npc_headcrab_poison.
+[21:51:56]	Andrew Philip has taken 64 damage from npc_headcrab_poison.
+[21:52:16]	Andrew Philip has gained 20 tokens.
+[21:52:20]	Andrew Philip has taken 10 damage from npc_zombie_torso.
+[21:52:57]	Andrew Philip has taken 10 damage from npc_zombie.
+[21:53:00]	Andrew Philip has taken 10 damage from npc_zombie.
+[21:53:08]	Andrew Philip destroyed a 'Scrap Metal' #6741.
+[21:53:25]	Andrew Philip has taken 5 damage from npc_headcrab_poison.
+[21:53:25]	Andrew Philip has taken 29 damage from npc_headcrab_poison.
+[21:53:51]	Andrew Philip has taken 5 damage from npc_headcrab_poison.
+[21:53:51]	Andrew Philip has taken 24 damage from npc_headcrab_poison.
+[21:54:00]	Andrew Philip has taken 10 damage from npc_poisonzombie.
+[21:54:11]	Andrew Philip ran 'ApplySelf' on item 'Bandage' (#6549)
+[21:54:13]	Andrew Philip ran 'ApplySelf' on item 'Bandage' (#6549)
+[21:54:14]	Andrew Philip ran 'ApplySelf' on item 'Bandage' (#6549)
+[21:54:14]	Andrew Philip ran 'ApplySelf' on item 'Bandage' (#6549)
+[21:54:16]	Andrew Philip destroyed a 'Empty Paint Can' #6723.
+[21:54:17]	Andrew Philip has taken 3 damage from npc_fastzombie.
+[21:54:18]	Andrew Philip has taken 3 damage from npc_fastzombie.
+[21:54:20]	Andrew Philip has taken 3 damage from npc_fastzombie.
+[21:54:25]	Andrew Philip has taken 10 damage from npc_zombie.
+[21:54:29]	Andrew Philip has taken 5 damage from npc_fastzombie.
+[21:54:33]	Andrew Philip has gained 10 tokens.
+[21:54:38]	Andrew Philip has taken 3 damage from npc_fastzombie.
+[21:54:38]	Andrew Philip has taken 3 damage from npc_fastzombie.
+[21:54:39]	Andrew Philip has taken 3 damage from npc_fastzombie.
+[21:54:41]	Andrew Philip has taken 3 damage from npc_fastzombie.
+[21:54:41]	Andrew Philip has taken 3 damage from npc_fastzombie.
+[21:54:45]	Andrew Philip has gained 20 tokens.
+[21:55:04]	Andrew Philip has taken 10 damage from npc_zombie.
+[21:55:23]	Andrew Philip ran 'take' on item 'Padlock' (#6744)
+[21:55:23]	Andrew Philip has gained a 'Padlock' #6744.
+[21:55:25]	Andrew Philip has taken 10 damage from npc_zombie.
+[21:56:37]	Andrew Philip has taken 3 damage from npc_fastzombie.
+[21:56:37]	Andrew Philip has taken 3 damage from npc_fastzombie.
+[21:56:39]	Andrew Philip has taken 3 damage from npc_fastzombie.
+[21:56:40]	Andrew Philip has taken 3 damage from npc_fastzombie.
+[21:56:43]	Andrew Philip has gained 10 tokens.
+[21:56:56]	Andrew Philip has taken 10 damage from npc_zombie.
+[21:58:01]	Andrew Philip ran 'ApplySelf' on item 'Bandage' (#6549)
+[21:58:02]	Andrew Philip ran 'ApplySelf' on item 'Bandage' (#6549)
+[21:58:03]	Andrew Philip ran 'ApplySelf' on item 'Bandage' (#6549)
+[21:58:04]	Andrew Philip ran 'ApplySelf' on item 'Bandage' (#6549)
+[21:58:05]	Andrew Philip ran 'ApplySelf' on item 'Bandage' (#6549)
+[21:58:28]	Andrew Philip has taken 3 damage from npc_fastzombie_torso.
+[21:58:28]	Andrew Philip has taken 3 damage from npc_fastzombie_torso.
+[21:58:29]	Andrew Philip has taken 3 damage from npc_fastzombie_torso.
+[21:58:30]	Andrew Philip has taken 3 damage from npc_fastzombie_torso.
+[22:03:02]	Andrew Philip opened the 'Padlocked Metal Cabinet' #491 container.
+[22:03:04]	Andrew Philip ran 'EquipUn' on item 'Axe' (#6690)
+[22:03:07]	Andrew Philip has gained a 'Axe' #6690.
+[22:03:09]	Andrew Philip closed the 'Padlocked Metal Cabinet' #491 container.
+[22:03:24]	Andrew Philip has spawned 'models/props_interiors/Furniture_Desk01a.mdl'.
+[22:03:37]	Andrew Philip has spawned 'models/props_wasteland/laundry_cart002.mdl'.
+[22:04:28]	Andrew Philip has spawned 'models/props_wasteland/kitchen_shelf001a.mdl'.
+[22:05:00]	Andrew Philip has taken 1 damage from worldspawn.
+[22:05:01]	Andrew Philip has taken 1 damage from worldspawn.
+[22:05:01]	Andrew Philip has taken 1 damage from worldspawn.
+[22:05:02]	Andrew Philip has taken 1 damage from worldspawn.
+[22:05:02]	Andrew Philip ran 'equip' on item 'Citizen Filter' (#6600)
+[22:05:08]	Andrew Philip has spawned 'models/props_wasteland/kitchen_shelf001a.mdl'.
+[22:05:51]	MilkyWay (STEAM_0:1:118336892) has disconnected.

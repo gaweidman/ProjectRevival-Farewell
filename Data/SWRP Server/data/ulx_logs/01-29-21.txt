@@ -1,0 +1,242 @@
+<Logging continued from "data/ulx_logs/01-28-21.txt">
+[00:30:00] Client "matt saton" connected.
+[00:59:02] Client "Doughnut" connected.
+[00:59:56] Client "Doughnut" spawned in server <STEAM_0:1:127409364> (took 54 seconds).
+[01:01:07] Doughnut: // help
+[01:04:19] Doughnut: !menu
+[01:04:38] Doughnut: !menu
+[01:05:46] Doughnut: !menu
+[01:07:37] Doughnut: !menu
+[01:08:19] (Console) added Doughnut to group superadmin
+[01:08:49] Doughnut: /chargiveitem doughnut hazmat
+[01:08:59] Doughnut: /chargiveitem doughnut "cca filter"
+[01:09:12] Doughnut: /chargiveitem doughnut flashlight
+[01:09:33] Doughnut: /chargiveflag doughnut pet
+[01:09:36] Doughnut: /chargiveflag doughnut petc
+[01:13:16] Doughnut<STEAM_0:1:127409364> spawned model models/props_junk/trashcluster01a.mdl
+[01:14:09] Doughnut<STEAM_0:1:127409364> spawned model models/props_wasteland/kitchen_stove001a.mdl
+[01:14:36] Doughnut<STEAM_0:1:127409364> spawned model models/props_urban/bench001.mdl
+[01:16:54] Doughnut<STEAM_0:1:127409364> spawned model models/props_urban/bench001.mdl
+[01:17:41] Doughnut<STEAM_0:1:127409364> spawned model models/props_c17/briefcase001a.mdl
+[01:18:29] Doughnut<STEAM_0:1:127409364> spawned model models/props_trainstation/trashcan_indoor001b.mdl
+[01:18:37] Doughnut<STEAM_0:1:127409364> spawned model models/props_trainstation/trashcan_indoor001b.mdl
+[01:19:06] Doughnut<STEAM_0:1:127409364> spawned model models/props_junk/trashcluster01a_corner.mdl
+[01:19:15] Doughnut<STEAM_0:1:127409364> spawned model models/props_junk/trashcluster01a.mdl
+[01:19:18] Doughnut<STEAM_0:1:127409364> spawned model models/props_junk/trashcluster01a.mdl
+[01:19:48] Doughnut<STEAM_0:1:127409364> spawned model models/props_lab/partsbin01.mdl
+[01:20:09] Doughnut<STEAM_0:1:127409364> spawned model models/props_wasteland/controlroom_filecabinet002a.mdl
+[01:20:20] Doughnut<STEAM_0:1:127409364> spawned model models/props_wasteland/controlroom_filecabinet002a.mdl
+[01:20:27] Doughnut<STEAM_0:1:127409364> spawned model models/props_wasteland/controlroom_filecabinet001a.mdl
+[01:20:33] Doughnut<STEAM_0:1:127409364> spawned model models/props_wasteland/controlroom_filecabinet001a.mdl
+[01:21:00] Doughnut<STEAM_0:1:127409364> spawned model models/props_wasteland/kitchen_stove002a.mdl
+[01:21:08] Doughnut<STEAM_0:1:127409364> spawned model models/props_wasteland/kitchen_stove001a.mdl
+[01:21:37] Doughnut<STEAM_0:1:127409364> spawned model models/props_interiors/radiator01a.mdl
+[01:21:48] Doughnut<STEAM_0:1:127409364> spawned model models/props_wasteland/kitchen_stove001a.mdl
+[01:22:14] Doughnut<STEAM_0:1:127409364> spawned model models/props_wasteland/kitchen_fridge001a.mdl
+[01:22:28] Doughnut<STEAM_0:1:127409364> spawned model models/props_wasteland/kitchen_counter001c.mdl
+[01:22:38] Doughnut: /toggleraise
+[01:22:51] Doughnut<STEAM_0:1:127409364> spawned model models/props_wasteland/kitchen_counter001a.mdl
+[01:23:13] Doughnut<STEAM_0:1:127409364> spawned model models/props_wasteland/kitchen_counter001d.mdl
+[01:23:37] Doughnut<STEAM_0:1:127409364> spawned model models/props_downtown/booth01.mdl
+[01:23:50] Doughnut<STEAM_0:1:127409364> spawned model models/props_interiors/chair01.mdl
+[01:23:55] Doughnut<STEAM_0:1:127409364> spawned model models/props_interiors/dining_table_round.mdl
+[01:24:10] Doughnut<STEAM_0:1:127409364> spawned model models/props_interiors/dining_table_round.mdl
+[01:24:16] Doughnut<STEAM_0:1:127409364> spawned model models/props_c17/furnituretable003a.mdl
+[01:24:19] Doughnut<STEAM_0:1:127409364> spawned model models/props_c17/furnituretable002a.mdl
+[01:24:24] Doughnut<STEAM_0:1:127409364> spawned model models/props/cs_militia/wood_table.mdl
+[01:24:26] Doughnut<STEAM_0:1:127409364> spawned model models/props/cs_office/table_coffee.mdl
+[01:24:30] Doughnut<STEAM_0:1:127409364> spawned model models/props/cs_italy/it_mkt_table2.mdl
+[01:24:36] Doughnut<STEAM_0:1:127409364> spawned model models/props_c17/furnituretable003a.mdl
+[01:24:41] Doughnut<STEAM_0:1:127409364> spawned model models/props_c17/furnituretable002a.mdl
+[01:25:02] Doughnut<STEAM_0:1:127409364> spawned model models/props_interiors/chair01.mdl
+[01:30:09] Doughnut<STEAM_0:1:127409364> spawned model models/props_industrial/warehouse_shelf001.mdl
+[01:30:20] Doughnut<STEAM_0:1:127409364> spawned model models/props_industrial/warehouse_shelf002.mdl
+[01:31:08] Doughnut<STEAM_0:1:127409364> spawned model models/props_industrial/warehouse_shelf004.mdl
+[01:31:38] Doughnut<STEAM_0:1:127409364> spawned model models/props_wasteland/kitchen_counter001d.mdl
+[01:32:38] Doughnut<STEAM_0:1:127409364> spawned model models/props_wasteland/kitchen_counter001d.mdl
+[01:32:42] Doughnut<STEAM_0:1:127409364> spawned model models/props_wasteland/kitchen_counter001d.mdl
+[01:32:43] Doughnut<STEAM_0:1:127409364> spawned model models/props_wasteland/kitchen_counter001d.mdl
+[01:33:46] Doughnut<STEAM_0:1:127409364> spawned model models/props_wasteland/kitchen_counter001d.mdl
+[01:33:50] Doughnut<STEAM_0:1:127409364> spawned model models/props_wasteland/kitchen_counter001d.mdl
+[01:33:51] Doughnut<STEAM_0:1:127409364> spawned model models/props_wasteland/kitchen_counter001d.mdl
+[01:34:09] Doughnut<STEAM_0:1:127409364> spawned model models/props_wasteland/kitchen_counter001d.mdl
+[01:34:10] Doughnut<STEAM_0:1:127409364> spawned model models/props_wasteland/kitchen_counter001d.mdl
+[01:34:10] Doughnut<STEAM_0:1:127409364> spawned model models/props_wasteland/kitchen_counter001d.mdl
+[01:34:33] Doughnut<STEAM_0:1:127409364> spawned model models/props_wasteland/kitchen_counter001d.mdl
+[01:34:35] Doughnut<STEAM_0:1:127409364> spawned model models/props_wasteland/kitchen_counter001d.mdl
+[01:34:36] Doughnut<STEAM_0:1:127409364> spawned model models/props_wasteland/kitchen_counter001d.mdl
+[01:34:46] Doughnut<STEAM_0:1:127409364> spawned model models/props_wasteland/kitchen_counter001d.mdl
+[01:35:15] Doughnut<STEAM_0:1:127409364> spawned model models/props_wasteland/kitchen_counter001d.mdl
+[01:35:18] Doughnut<STEAM_0:1:127409364> spawned model models/props_wasteland/kitchen_counter001d.mdl
+[01:35:19] Doughnut<STEAM_0:1:127409364> spawned model models/props_wasteland/kitchen_counter001d.mdl
+[01:36:07] Doughnut<STEAM_0:1:127409364> spawned model models/props_wasteland/horizontalcoolingtank04.mdl
+[01:36:12] Doughnut<STEAM_0:1:127409364> spawned model models/props_wasteland/horizontalcoolingtank04.mdl
+[01:36:16] Doughnut<STEAM_0:1:127409364> spawned model models/props_wasteland/laundry_washer001a.mdl
+[01:36:32] Doughnut<STEAM_0:1:127409364> spawned model models/props_wasteland/laundry_washer003.mdl
+[01:43:04] Doughnut<STEAM_0:1:127409364> spawned sent ix_vendingmachine
+[01:43:20] Doughnut<STEAM_0:1:127409364> spawned sent ix_vendingmachine
+[01:43:35] Doughnut<STEAM_0:1:127409364> spawned sent ix_vendingmachine
+[01:43:58] Doughnut<STEAM_0:1:127409364> spawned sent ix_vendingmachine
+[01:44:11] Doughnut<STEAM_0:1:127409364> spawned sent ix_vendingmachine
+[01:44:27] Doughnut<STEAM_0:1:127409364> spawned sent ix_vendingmachine
+[01:44:44] Doughnut<STEAM_0:1:127409364> spawned sent ix_vendingmachine
+[01:45:00] Doughnut<STEAM_0:1:127409364> spawned sent ix_vendingmachine
+[01:45:18] Doughnut<STEAM_0:1:127409364> spawned sent ix_vendingmachine
+[01:45:25] Doughnut<STEAM_0:1:127409364> spawned sent ix_vendingmachine
+[02:07:42] Doughnut: /chargiveitem doughnut "union lock"
+[02:07:46] Doughnut: /chargiveitem doughnut "lock"
+[02:07:59] Doughnut: /chargiveitem doughnut "combine lock"
+[02:08:22] Doughnut<STEAM_0:1:127409364> spawned sent ix_forcefield
+[02:08:31] Doughnut: /charsetclass doughnut admin
+[02:08:39] Doughnut: /plytransfer doughnut admin
+[02:08:47] Doughnut: /plywhitelist doughnut admin
+[02:08:49] Doughnut: /plytransfer doughnut admin
+[02:08:58] Doughnut: /plywhitelist doughnut cca
+[02:09:01] Doughnut: /plywhitelist doughnut combine
+[02:09:06] Doughnut: /plytransfer doughnut combine
+[02:09:21] Doughnut<STEAM_0:1:127409364> spawned sent ix_forcefield
+[02:09:31] Doughnut: /plytransfer doughnut citizen
+[02:13:08] Dropped "Doughnut" from server<STEAM_0:1:127409364>
+
+
+
+[03:41:16] New map: rp_industrial17_v1
+[05:52:36] Client "matt saton" connected.
+[05:53:05] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 29 seconds).
+[05:54:16] Captain Nathan Vance<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_desk001b.mdl
+[05:54:26] Captain Nathan Vance<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_storagecloset001a.mdl
+[05:54:42] Captain Nathan Vance<STEAM_0:1:53097688> spawned model models/props_wasteland/kitchen_shelf001a.mdl
+[05:54:50] Captain Nathan Vance<STEAM_0:1:53097688> spawned model models/props_wasteland/cafeteria_table001a.mdl
+[05:55:02] Captain Nathan Vance<STEAM_0:1:53097688> spawned model models/props_wasteland/cafeteria_bench001a.mdl
+[05:55:58] Captain Nathan Vance<STEAM_0:1:53097688> spawned model models/props/cs_militia/food_stack.mdl
+[05:56:41] Captain Nathan Vance: /admin
+[05:56:51] Captain Nathan Vance: /chargiveitem vance "Conscript filter"
+[05:56:54] Captain Nathan Vance: /chargiveitem vance "Conscript filter"
+[05:57:43] Captain Nathan Vance<STEAM_0:1:53097688> spawned model models/props_c17/chair02a.mdl
+[05:59:14] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned sent ix_forcefield
+[05:59:18] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned sent ix_forcefield
+[05:59:20] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned sent ix_forcefield
+[05:59:22] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned sent ix_forcefield
+[05:59:29] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned sent ix_forcefield
+[05:59:33] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned sent ix_forcefield
+[06:00:41] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned model models/props/cs_militia/fireplacechimney01.mdl
+[06:01:09] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned model models/props_wasteland/laundry_cart002.mdl
+[06:01:15] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_desk001a.mdl
+[06:01:16] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_desk001b.mdl
+[06:01:40] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned sent ix_testent1
+[06:01:42] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned sent ix_testent7
+[06:01:44] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned sent ix_testent7
+[06:01:50] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned sent ix_stove
+[06:01:52] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned sent ix_testent7
+[06:01:54] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned sent ix_testent7
+[06:02:01] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned sent ix_testent7
+[06:02:15] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned sent ix_testent1
+[06:02:16] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned sent ix_testent7
+[06:02:18] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned sent ix_testent7
+[06:02:20] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned sent ix_testent7
+[06:02:21] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned sent ix_testent7
+[06:03:45] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned model models/props_c17/lockers001a.mdl
+[06:05:12] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned model models/props_junk/metalbucket01a.mdl
+[06:05:15] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned model models/props_junk/wood_crate001a.mdl
+[06:05:18] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned model models/props_junk/sawblade001a.mdl
+[06:05:24] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned model models/props_interiors/pot01a.mdl
+[06:05:28] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned model models/props_combine/weaponstripper.mdl
+[06:05:44] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned sent ix_rationdispenser
+[06:05:47] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned sent ix_cidprinter
+[06:05:52] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned sent ix_testent3
+[06:06:23] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned model models/items/ammocrate_ar2.mdl
+[06:06:25] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned model models/items/ammocrate_grenade.mdl
+[06:06:27] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned model models/items/ammocrate_rockets.mdl
+[06:06:28] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned model models/items/ammocrate_smg1.mdl
+[06:08:30] OTA.C17-ECHO.OWC.45564: /mapsceneadd
+[06:09:34] OTA.C17-ECHO.OWC.45564: /mapsceneadd
+[06:10:17] OTA.C17-ECHO.OWC.45564: /mapsceneadd
+[06:10:31] OTA.C17-ECHO.OWC.45564: /mapsceneadd
+[06:10:54] OTA.C17-ECHO.OWC.45564: /mapsceneadd
+[06:11:02] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned model models/props_furniture/piano.mdl
+[06:11:28] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned model models/props_furniture/piano.mdl
+[06:12:20] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned ragdoll models/props_vehicles/car001b_phy.mdl
+[06:12:21] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned ragdoll models/props_vehicles/car001a_phy.mdl
+[06:12:23] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned model models/props_vehicles/car001a_hatchback.mdl
+[06:12:32] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned model models/props_vehicles/car002a_physics.mdl
+[06:14:02] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned model models/props_junk/bicycle01a.mdl
+[06:14:11] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned model models/props_junk/garbage128_composite001c.mdl
+[06:14:12] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned model models/props_junk/garbage128_composite001b.mdl
+[06:14:19] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned model models/props_trainstation/trashcan_indoor001b.mdl
+[06:14:46] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned model models/props_junk/garbage256_composite002b.mdl
+[06:14:50] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned model models/props_junk/garbage128_composite001b.mdl
+[06:14:55] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned model models/props_junk/garbage128_composite001b.mdl
+[06:14:56] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned model models/props_junk/garbage128_composite001a.mdl
+[06:15:08] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned model models/props_lab/monitor01a.mdl
+[06:15:16] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned model models/props_lab/harddrive01.mdl
+[06:15:22] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned model models/props_lab/plotter.mdl
+[06:15:31] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned model models/props_lab/plotter.mdl
+[06:16:07] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned model models/props_vehicles/carparts_muffler01a.mdl
+[06:16:33] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned model models/props_junk/metalbucket02a.mdl
+[06:16:36] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned model models/props_junk/metal_paintcan001b.mdl
+[06:16:37] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned model models/props_junk/metalbucket01a.mdl
+[06:17:18] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned model models/props_equipment/sleeping_bag1.mdl
+[06:17:20] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned model models/props_urban/outhouse001.mdl
+[06:17:28] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned model models/props_junk/trashcluster01a_corner.mdl
+[06:17:42] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned model models/props_urban/bench001.mdl
+[06:17:48] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned model models/props/de_inferno/bench_wood.mdl
+[06:18:18] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned model models/props_urban/outhouse001.mdl
+[06:19:15] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_desk001a.mdl
+[06:19:25] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_desk001b.mdl
+[06:19:44] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned model models/props_unique/spawn_apartment/coffeeammo.mdl
+[06:20:08] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned model models/props_junk/trashcluster01a_corner.mdl
+[06:20:15] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned model models/props_junk/trashdumpster01a.mdl
+[06:20:28] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned model models/props_junk/pushcart01a.mdl
+[06:20:58] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned model models/props_junk/sawblade001a.mdl
+[06:21:00] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned model models/props_junk/metalbucket02a.mdl
+[06:21:01] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned model models/props_junk/metalgascan.mdl
+[06:21:02] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned model models/props_interiors/bathtub01a.mdl
+[06:21:04] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned model models/props_combine/weaponstripper.mdl
+[06:21:18] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned model models/props_junk/wood_crate001a_damaged.mdl
+[06:21:24] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned model models/props_junk/wood_crate001a_damaged.mdl
+[06:21:26] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned model models/props_junk/wood_crate001a.mdl
+[06:21:32] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned model models/props_junk/wood_crate002a.mdl
+[06:22:17] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned model models/props_unique/firepit_campground.mdl
+[06:22:19] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned model models/props/de_inferno/bench_concrete.mdl
+[06:22:22] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned model models/props/de_tides/patio_chair2.mdl
+[06:22:25] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned model models/props/de_piranesi/pi_orrery.mdl
+[06:23:12] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned model models/props/de_tides/patio_table2.mdl
+[06:23:21] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned model models/props/de_tides/patio_chair2.mdl
+[06:23:32] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned model models/props/de_tides/patio_chair2.mdl
+[06:23:45] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned model models/props_interiors/table_picnic.mdl
+[06:24:15] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned model models/props/cs_office/shelves_metal.mdl
+[06:24:16] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned model models/props/cs_office/shelves_metal1.mdl
+[06:24:24] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned model models/props/cs_office/shelves_metal1.mdl
+[06:24:27] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned model models/props/cs_office/shelves_metal2.mdl
+[06:24:42] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned model models/props/cs_office/shelves_metal3.mdl
+[06:25:27] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned model models/props_c17/door01_left.mdl
+[06:26:08] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned model models/props_junk/trashdumpster02.mdl
+[06:26:15] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned model models/props_junk/trashcluster01a_corner.mdl
+[06:26:39] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned model models/props/cs_office/paperbox_pile_01.mdl
+[06:27:13] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned model models/props/cs_office/offpaintinge.mdl
+[06:27:35] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned sent ix_combinelock
+[06:28:35] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned sent ix_forcefield
+[06:28:37] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned sent ix_forcefield
+[06:28:38] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned sent ix_forcefield
+[06:28:39] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned sent ix_forcefield
+[06:28:40] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned sent ix_forcefield
+[06:28:41] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned sent ix_forcefield
+[06:29:01] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned sent ix_uidprinter
+[06:29:03] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned sent ix_cidprinter
+[06:29:05] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned sent ix_cidprinter
+[06:29:07] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned sent ix_cidprinter
+[06:29:08] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned sent ix_cidprinter
+[06:29:42] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned sent ix_cidprinter
+[06:29:58] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_filecabinet002a.mdl
+[06:30:07] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_filecabinet002a.mdl
+[06:30:11] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_filecabinet002a.mdl
+[06:30:15] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_filecabinet002a.mdl
+[06:30:17] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned model models/props_vehicles/apc_tire001.mdl
+[06:30:19] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_filecabinet002a.mdl
+[06:30:38] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_filecabinet002a.mdl
+[06:31:04] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_filecabinet002a.mdl
+[06:33:10] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned sent ix_uidprinter
+[06:33:25] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned sent ix_cidprinter
+[06:33:31] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned sent ix_uidprinter
+[06:33:33] OTA.C17-ECHO.OWC.45564<STEAM_0:1:53097688> spawned sent ix_uidprinter
+[06:39:01] Dropped "OTA.C17-ECHO.OWC.45564" from server<STEAM_0:1:53097688>

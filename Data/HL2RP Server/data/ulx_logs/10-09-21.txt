@@ -1,0 +1,360 @@
+<Logging continued from "data/ulx_logs/10-08-21.txt">
+[00:00:16] Charles Perway: fucking shit.
+[00:00:21] Charles Perway: hold on.
+[00:00:24] Charles Perway: /me would scale the rock.
+[00:00:42] Brandon Miller: /me would scale the rock
+[00:00:46] Charles Perway<STEAM_0:1:53097688> spawned model models/hunter/blocks/cube025x025x025.mdl
+[00:00:53] Charles Perway<STEAM_0:1:53097688> spawned model models/hunter/blocks/cube025x025x025.mdl
+[00:00:55] Charles Perway<STEAM_0:1:53097688> used the tool rope on models/hunter/blocks/cube025x025x025.mdl
+[00:00:56] Dropped "Sleepy" from server<STEAM_0:1:19956984>
+[00:00:56] Charles Perway<STEAM_0:1:53097688> used the tool rope on models/hunter/blocks/cube025x025x025.mdl
+[00:01:01] Charles Perway<STEAM_0:1:53097688> used the tool material on maps/rp_depot_interior.bsp
+[00:01:01] Charles Perway<STEAM_0:1:53097688> used the tool material on models/hunter/blocks/cube025x025x025.mdl
+[00:01:02] Charles Perway<STEAM_0:1:53097688> used the tool material on models/hunter/blocks/cube025x025x025.mdl
+[00:01:12] Charles Perway<STEAM_0:1:53097688> spawned model models/hunter/blocks/cube05x05x05.mdl
+[00:01:13] Charles Perway<STEAM_0:1:53097688> spawned model models/hunter/blocks/cube025x025x025.mdl
+[00:01:21] Charles Perway<STEAM_0:1:53097688> used the tool rope on models/hunter/blocks/cube025x025x025.mdl
+[00:01:22] Charles Perway<STEAM_0:1:53097688> used the tool rope on models/hunter/blocks/cube025x025x025.mdl
+[00:01:42] Charles Perway<STEAM_0:1:53097688> used the tool rope on models/hunter/blocks/cube025x025x025.mdl
+[00:01:43] Charles Perway<STEAM_0:1:53097688> used the tool rope on models/hunter/blocks/cube025x025x025.mdl
+[00:01:46] Charles Perway<STEAM_0:1:53097688> used the tool material on models/hunter/blocks/cube025x025x025.mdl
+[00:01:50] Brandon Miller: // sleepy
+[00:01:57] Brandon Miller: // ah he left
+[00:02:00] Charles Perway: //fug
+[00:02:08] Brandon Miller: // poor sod
+[00:02:14] Charles Perway: /event The man yells down to attach the cord to the pod.
+[00:02:23] Charles Perway: /event He also yells to grab onto it.
+[00:02:27] Brandon Miller: /localevent /me does that
+[00:03:30] Charles Perway<STEAM_0:1:53097688> spawned/gave himself swep weapon_physcannon
+[00:03:30] Charles Perway: /toggleraise
+[00:03:32] Charles Perway: //fuc kit
+[00:03:55] Charles Perway: //WHY IS THIS HERE
+[00:04:01] (SILENT) Charles Perway ran rcon command: sv_physcannon_mega_enabled 1
+[00:04:11] (SILENT) Charles Perway ran rcon command: physcannon_mega_enabled 1
+[00:04:21] (SILENT) Charles Perway ran rcon command: physcannon_mega_enabled 1
+[00:05:02] Charles Perway: /y let's go
+[00:05:21] Brandon Miller: ooo
+[00:05:51] Brandon Miller: // now THAT is grimdark
+[00:05:55] Charles Perway: //holy shit it is
+[00:08:45] Charles Perway: nope
+[00:08:46] Charles Perway: thisi sn't it
+[00:10:34] Charles Perway: /y FUCKING A
+[00:10:38] Charles Perway: /Y LEARN HOW TO ARCHITECT
+[00:10:40] Charles Perway: /Y FUCK'S SAKE
+[00:10:50] Charles Perway: //i hate this map
+[00:10:52] Charles Perway: //so fucking much
+[00:10:53] Brandon Miller: // tp me
+[00:11:00] Charles Perway brought Brandon Miller
+[00:11:59] Brandon Miller: // im lost
+[00:12:25] Charles Perway brought Brandon Miller
+[00:12:28] Charles Perway: fuck me to tears
+[00:12:51] Charles Perway: I'm gonna load the pod up.
+[00:12:58] Charles Perway: You get to the top floor while I load this up
+[00:13:21] Charles Perway<STEAM_0:1:53097688> spawned model models/props_combine/masterinterface.mdl
+[00:13:29] Charles Perway<STEAM_0:1:53097688> spawned model models/props_combine/combine_generator01.mdl
+[00:13:34] Charles Perway<STEAM_0:1:53097688> spawned model models/props_combine/combine_generator01.mdl
+[00:13:54] Charles Perway<STEAM_0:1:53097688> spawned model models/props_combine/introomarea.mdl
+[00:14:23] Charles Perway<STEAM_0:1:53097688> spawned model models/hunter/plates/plate5x8.mdl
+[00:14:26] Charles Perway<STEAM_0:1:53097688> spawned model models/hunter/plates/plate2x6.mdl
+[00:14:29] Charles Perway<STEAM_0:1:53097688> used the tool nocollideeverything on models/hunter/plates/plate2x6.mdl
+[00:14:40] Charles Perway<STEAM_0:1:53097688> used the tool material on models/hunter/plates/plate2x6.mdl
+[00:14:42] Charles Perway<STEAM_0:1:53097688> used the tool material on models/hunter/plates/plate2x6.mdl
+[00:14:44] Charles Perway<STEAM_0:1:53097688> used the tool material on models/hunter/plates/plate2x6.mdl
+[00:14:45] Charles Perway<STEAM_0:1:53097688> used the tool material on models/hunter/plates/plate2x6.mdl
+[00:14:49] Charles Perway<STEAM_0:1:53097688> used the tool duplicator on models/hunter/plates/plate2x6.mdl
+[00:14:52] Charles Perway<STEAM_0:1:53097688> used the tool duplicator on maps/rp_depot_interior.bsp
+[00:14:52] Charles Perway<STEAM_0:1:53097688> spawned model models/hunter/plates/plate2x6.mdl
+[00:14:54] Charles Perway<STEAM_0:1:53097688> used the tool duplicator on maps/rp_depot_interior.bsp
+[00:14:54] Charles Perway<STEAM_0:1:53097688> spawned model models/hunter/plates/plate2x6.mdl
+[00:15:00] Charles Perway<STEAM_0:1:53097688> used the tool nocollideeverything on models/hunter/plates/plate2x6.mdl
+[00:15:02] Charles Perway<STEAM_0:1:53097688> used the tool nocollideeverything on models/hunter/plates/plate2x6.mdl
+[00:15:28] Charles Perway<STEAM_0:1:53097688> spawned effect models/props_combine/stasisvortex.mdl
+[00:15:36] Charles Perway<STEAM_0:1:53097688> spawned model models/props_combine/cell_01_pod.mdl
+[00:15:48] Charles Perway<STEAM_0:1:53097688> spawned model models/props_combine/cell_01_pod.mdl
+[00:15:52] Charles Perway<STEAM_0:1:53097688> used the tool nocollideeverything on models/hunter/plates/plate2x6.mdl
+[00:15:56] Charles Perway<STEAM_0:1:53097688> used the tool nocollideeverything on models/hunter/plates/plate2x6.mdl
+[00:15:59] Brandon Miller: // i am at the top floor
+[00:16:00] Charles Perway<STEAM_0:1:53097688> used the tool nocollideeverything on models/hunter/plates/plate2x6.mdl
+[00:16:03] Charles Perway<STEAM_0:1:53097688> used the tool nocollideeverything on models/hunter/plates/plate2x6.mdl
+[00:16:11] Charles Perway: //he be loading the pod
+[00:16:20] Charles Perway<STEAM_0:1:53097688> spawned model models/props_combine/cell_01_pod.mdl
+[00:16:27] Charles Perway<STEAM_0:1:53097688> spawned model models/props_combine/cell_01_pod.mdl
+[00:16:28] Client "Nep Nep" connected.
+[00:16:45] Charles Perway<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_combine/cell_01_pod.mdl
+[00:16:56] Charles Perway<STEAM_0:1:53097688> spawned model models/props_combine/combine_bunker01.mdl
+[00:16:59] Charles Perway<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_combine/combine_bunker01.mdl
+[00:17:25] Charles Perway<STEAM_0:1:53097688> spawned ragdoll models/props_combine/plazafallingmonitor.mdl
+[00:17:28] Charles Perway<STEAM_0:1:53097688> spawned model models/props_combine/strut_array_01.mdl
+[00:17:35] Charles Perway<STEAM_0:1:53097688> spawned effect models/props_combine/portalspire.mdl
+[00:17:37] Charles Perway<STEAM_0:1:53097688> spawned effect models/props_combine/portalspire.mdl
+[00:17:45] Charles Perway<STEAM_0:1:53097688> spawned effect models/props_combine/tpcontrollerscreens.mdl
+[00:17:46] Charles Perway<STEAM_0:1:53097688> spawned model models/props_combine/tpcontroller.mdl
+[00:17:58] Charles Perway<STEAM_0:1:53097688> used the tool duplicator on maps/rp_depot_interior.bsp
+[00:17:58] Charles Perway<STEAM_0:1:53097688> spawned model models/hunter/plates/plate2x6.mdl
+[00:18:07] Charles Perway<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_combine/tpcontroller.mdl
+[00:18:18] Charles Perway<STEAM_0:1:53097688> spawned effect models/props_combine/tpcontrollerscreens.mdl
+[00:18:27] Charles Perway<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_junk/watermelon01.mdl
+[00:18:43] Client "japan1793" connected.
+[00:19:24] Charles Perway<STEAM_0:1:53097688> spawned model models/props_combine/breenwindow.mdl
+[00:19:27] Charles Perway<STEAM_0:1:53097688> spawned model models/props_combine/cell_01_rigging.mdl
+[00:19:33] Charles Perway<STEAM_0:1:53097688> spawned model models/props_combine/combine_mortar01a.mdl
+[00:20:07] Charles Perway<STEAM_0:1:53097688> used the tool prop_door on maps/rp_depot_interior.bsp
+[00:20:14] Charles Perway: readY?
+[00:20:17] Charles Perway: let's move
+[00:20:17] Brandon Miller: yes
+[00:20:57] Charles Perway: this door here
+[00:21:10] Charles Perway<STEAM_0:1:53097688> used the tool witchergate on maps/rp_depot_interior.bsp
+[00:21:14] Charles Perway<STEAM_0:1:53097688> used the tool witchergate on maps/rp_depot_interior.bsp
+[00:21:17] Brandon Miller: // /me enters
+[00:21:23] Client "cnunyas" connected.
+[00:21:26] Charles Perway<STEAM_0:1:53097688> used the tool prop_door on maps/rp_depot_interior.bsp
+[00:21:49] Charles Perway: Ready?
+[00:21:57] Brandon Miller: // you keep an event going for a single person?
+[00:22:00] Brandon Miller: // are you nuts
+[00:22:00] Charles Perway: //yep
+[00:22:07] Brandon Miller: // well thank you
+[00:22:10] Charles Perway: //dude this level of loyalty i'm not gonna let go unrewarded
+[00:22:15] Charles Perway: //this event is dog shit but you're stickiong it through
+[00:22:17] Charles Perway: //that means a loit to be
+[00:22:19] Charles Perway: //me*
+[00:22:24] Brandon Miller: // literally nothing else going on lmao
+[00:22:30] Charles Perway: alrigh
+[00:22:34] Charles Perway: Let's start this thing up.
+[00:22:43] Charles Perway: Go look at the king for me, will you?
+[00:23:01] Brandon Miller: yeah
+[00:23:04] Charles Perway<STEAM_0:1:53097688> spawned sent pfx4_06_1
+[00:23:06] Brandon Miller: hes still there
+[00:23:15] Charles Perway<STEAM_0:1:53097688> spawned sent pfx4_06_1
+[00:23:18] Brandon Miller: twitching... over there...
+[00:23:23] Charles Perway<STEAM_0:1:53097688> spawned sent pfx4_06_1
+[00:23:38] Brandon Miller: // those are star wars things arent they
+[00:23:45] Brandon Miller: // i know a star wars thing when i see it
+[00:23:53] Charles Perway: //nope, just placeable particle effect
+[00:23:58] Charles Perway<STEAM_0:1:53097688> spawned sent pfx4_09
+[00:24:05] Brandon Miller: // looks like a lightsaber
+[00:24:38] Charles Perway: //the BFG particle is gone
+[00:24:39] Charles Perway: //werid
+[00:24:46] Charles Perway: //DMCA maybe?
+[00:24:53] Brandon Miller: // ha
+[00:25:12] Brandon Miller: now, dont shoot that oil rig by accident!
+[00:25:14] Charles Perway<STEAM_0:1:53097688> spawned sent pfx8_03_alt
+[00:25:38] Charles Perway: alright.
+[00:25:42] Charles Perway: It's ready ot fire.
+[00:25:44] Charles Perway: You readY?
+[00:25:49] Brandon Miller: yeah
+[00:26:03] Charles Perway: /plytransfer charles "transhuman arm"
+[00:26:11] Charles Perway: /dispatch Five seconds to firing.
+[00:26:28] Charles Perway<STEAM_0:1:53097688> spawned/gave himself swep weapon_displacer
+[00:26:29] Charles Perway: /toggleraise
+[00:27:14] Charles Perway: /event A green particle is launched quickly at the king. It pierces the neck quickly and cleanly.
+[00:27:22] Brandon Miller: got him!
+[00:27:23] Charles Perway: /event The thing is bleeding. It's hurt. It lets out a pained roar.
+[00:27:50] Brandon Miller: // *loud gurgling*
+[00:28:12] Brandon Miller: eugh
+[00:28:30] Charles Perway: /event It flails around, pained. It falls headfirst into the sand above it. It kicks for a little, then dies.
+[00:28:56] Charles Perway: //gene worm noises work surprisingly well for this thing
+[00:29:01] Brandon Miller: lord
+[00:29:18] Charles Perway: We did it.
+[00:29:21] Charles Perway: /y WE DID IT!
+[00:29:24] Charles Perway: /Y HOLY FUCK, WE DID IT!
+[00:29:26] Brandon Miller: yes
+[00:29:28] Brandon Miller: we did
+[00:29:41] Brandon Miller: glory to the Combine!
+[00:30:01] Charles Perway: /y GLORY TO THE-
+[00:30:02] Brandon Miller: did you hear that
+[00:30:04] Charles Perway: What the hell?
+[00:30:05] Charles Perway: I hear it.
+[00:30:15] Brandon Miller: vortigaunts
+[00:30:19] Charles Perway: .//so when you see it, don't shoot
+[00:30:22] Charles Perway: .//because it will destroy immersiopn
+[00:30:28] Brandon Miller: /looc alright
+[00:30:34] Charles Perway: .//because ICly it just won't react
+[00:30:38] Charles Perway: .//brb
+[00:30:38] Brandon Miller: /looc yes okay
+[00:30:47] Charles Perway: /event A flash of light blinds you for a moment.
+[00:30:49] Charles Perway blinded Brandon Miller by amount 255
+[00:31:06] Brandon Miller: // *time, doctor citizen?*
+[00:31:09] Charles Perway: //lmao
+[00:31:14] Charles Perway: //not quite
+[00:31:19] Charles Perway<STEAM_0:1:53097688> spawned NPC npc_vortigaunt
+[00:31:31] Charles Perway: //Time, Sergeant Mitchell?
+[00:31:32] Charles Perway<STEAM_0:1:53097688> used the tool submaterial on models/vortigaunt.mdl
+[00:31:37] Charles Perway<STEAM_0:1:53097688> used the tool submaterial on models/vortigaunt.mdl
+[00:31:40] Charles Perway<STEAM_0:1:53097688> used the tool duplicator on models/vortigaunt.mdl
+[00:31:41] Charles Perway<STEAM_0:1:53097688> used the tool duplicator on maps/rp_depot_interior.bsp
+[00:31:41] Charles Perway<STEAM_0:1:53097688> spawned NPC npc_vortigaunt
+[00:31:42] Charles Perway<STEAM_0:1:53097688> used the tool duplicator on maps/rp_depot_interior.bsp
+[00:31:42] Charles Perway<STEAM_0:1:53097688> spawned NPC npc_vortigaunt
+[00:31:44] Charles Perway<STEAM_0:1:53097688> used the tool duplicator on maps/rp_depot_interior.bsp
+[00:31:44] Charles Perway<STEAM_0:1:53097688> spawned NPC npc_vortigaunt
+[00:31:49] Charles Perway<STEAM_0:1:53097688> used the tool duplicator on maps/rp_depot_interior.bsp
+[00:31:49] Charles Perway<STEAM_0:1:53097688> spawned NPC npc_vortigaunt
+[00:31:50] Charles Perway<STEAM_0:1:53097688> used the tool duplicator on maps/rp_depot_interior.bsp
+[00:31:50] Charles Perway<STEAM_0:1:53097688> spawned NPC npc_vortigaunt
+[00:31:51] Charles Perway<STEAM_0:1:53097688> used the tool duplicator on maps/rp_depot_interior.bsp
+[00:31:51] Charles Perway<STEAM_0:1:53097688> spawned NPC npc_vortigaunt
+[00:31:52] Charles Perway<STEAM_0:1:53097688> used the tool duplicator on maps/rp_depot_interior.bsp
+[00:31:52] Charles Perway<STEAM_0:1:53097688> spawned NPC npc_vortigaunt
+[00:32:03] Charles Perway unblinded Themself
+[00:32:05] Charles Perway: uH.
+[00:32:09] Charles Perway: //SHIT
+[00:32:12] Charles Perway: //VOID THAT
+[00:32:17] Charles Perway: /charsetclass charles citizen
+[00:32:22] Brandon Miller: // lmao
+[00:32:28] Charles Perway: /plytransfer charles citizen
+[00:32:35] Charles Perway: //BRUH
+[00:32:41] Charles Perway<STEAM_0:1:53097688> used the tool duplicator on maps/rp_depot_interior.bsp
+[00:32:41] Charles Perway<STEAM_0:1:53097688> spawned NPC npc_vortigaunt
+[00:32:45] Charles Perway<STEAM_0:1:53097688> used the tool duplicator on maps/rp_depot_interior.bsp
+[00:32:45] Charles Perway<STEAM_0:1:53097688> spawned NPC npc_vortigaunt
+[00:32:49] Charles Perway blinded Brandon Miller by amount 255
+[00:32:50] Charles Perway<STEAM_0:1:53097688> used the tool duplicator on maps/rp_depot_interior.bsp
+[00:32:50] Charles Perway<STEAM_0:1:53097688> spawned NPC npc_vortigaunt
+[00:33:09] Charles Perway unblinded Everyone
+[00:33:13] Charles Perway<STEAM_0:1:53097688> used the tool eyeposer on models/vortigaunt.mdl
+[00:33:18] Charles Perway<STEAM_0:1:53097688> used the tool eyeposer on models/police_nemez.mdl
+[00:33:19] Charles Perway<STEAM_0:1:53097688> used the tool eyeposer on models/vortigaunt.mdl
+[00:33:20] Charles Perway<STEAM_0:1:53097688> used the tool eyeposer on models/police_nemez.mdl
+[00:33:21] Brandon Miller: /me is silent
+[00:33:22] Charles Perway<STEAM_0:1:53097688> used the tool eyeposer on models/police_nemez.mdl
+[00:33:23] Charles Perway<STEAM_0:1:53097688> used the tool eyeposer on models/vortigaunt.mdl
+[00:33:24] Charles Perway<STEAM_0:1:53097688> used the tool eyeposer on models/police_nemez.mdl
+[00:33:25] Charles Perway<STEAM_0:1:53097688> used the tool eyeposer on models/vortigaunt.mdl
+[00:33:25] Charles Perway<STEAM_0:1:53097688> used the tool eyeposer on models/police_nemez.mdl
+[00:33:27] Charles Perway<STEAM_0:1:53097688> used the tool faceposer on models/vortigaunt.mdl
+[00:33:45] Charles Perway<STEAM_0:1:53097688> used the tool faceposer on maps/rp_depot_interior.bsp
+[00:33:45] Charles Perway<STEAM_0:1:53097688> used the tool faceposer on maps/rp_depot_interior.bsp
+[00:33:52] Brandon Miller: // huhu look at his big silly ee
+[00:33:53] Charles Perway: /event A vortigaunt appears.
+[00:33:54] Brandon Miller: // eye
+[00:34:01] Charles Perway: /event It's eye is wide open, staring directly at the two men.
+[00:34:08] Brandon Miller: /me readies his weapon, but does not fire
+[00:34:24] Charles Perway: //so you can fire IC, just don't actually fire OOCly
+[00:34:30] (tsay from Charles Perway) You have enslaved my kin.
+[00:34:41] (tsay from Charles Perway) You have stolen our larval extract.
+[00:34:57] (tsay from Charles Perway) You have slain the Myrmidont Patriarch.
+[00:35:07] Charles Perway<STEAM_0:1:53097688> used the tool faceposer on models/vortigaunt.mdl
+[00:35:12] Charles Perway<STEAM_0:1:53097688> used the tool faceposer on maps/rp_depot_interior.bsp
+[00:35:22] Charles Perway<STEAM_0:1:53097688> used the tool faceposer on maps/rp_depot_interior.bsp
+[00:35:23] Charles Perway<STEAM_0:1:53097688> used the tool faceposer on maps/rp_depot_interior.bsp
+[00:35:23] Charles Perway<STEAM_0:1:53097688> used the tool faceposer on maps/rp_depot_interior.bsp
+[00:35:47] (tsay from Charles Perway) We see you, and while we do not wish to make our presence so known as it should be, we are watching you.
+[00:36:28] Brandon Miller: /me stays silent
+[00:36:36] Brandon Miller: /looc bro im just a citizen lmao
+[00:36:38] (tsay from Charles Perway) You, as well as the others, will know the name Freluci, and you will pay in kind for your evil.
+[00:37:34] Brandon Miller: /me lowers his weapon because he does not intend to shoot the vort
+[00:37:34] (tsay from Charles Perway) Brandon Miller and Charles Perway, you will regret this day, as will the rest of the Combine. Soon, we shall make ourselves known.
+[00:37:42] (tsay from Charles Perway) known.*
+[00:37:56] (tsay from Charles Perway) Your transgressions will not be forgiven.
+[00:38:01] Charles Perway blinded Everyone by amount 255
+[00:38:08] Charles Perway unblinded Themself
+[00:38:10] Charles Perway: Fuck.
+[00:38:13] Charles Perway: fuck fuck shit fuck fuck.
+[00:38:20] Brandon Miller: were we recording that
+[00:38:26] Brandon Miller: our helmets
+[00:38:41] Charles Perway: Nope.
+[00:38:47] Charles Perway: The thing.
+[00:38:52] Charles Perway: It was powered by vortigaunts.
+[00:39:04] Charles Perway: Four vortigaunts, in pods.
+[00:39:04] Brandon Miller: better report it
+[00:39:09] Charles Perway: I..
+[00:39:20] Charles Perway: I don't know if I'll be kept alive if I do.
+[00:39:24] Charles Perway: And you, you're a citizen.
+[00:39:27] Brandon Miller: lets not then
+[00:39:29] Brandon Miller: hmm
+[00:39:32] Brandon Miller: what to do
+[00:39:37] Charles Perway: When you get back to your city, deny any involvement.
+[00:39:46] Brandon Miller: yeah, alright
+[00:39:48] Charles Perway: An antlion stopped your train, your conductor fixed it, and you return.
+[00:39:51] Charles Perway: .//returned.*
+[00:39:53] Charles Perway: Got it?
+[00:39:53] Brandon Miller: ill give you your suit and guns back
+[00:39:59] Brandon Miller: yeah, got it
+[00:40:05] Charles Perway: Good.
+[00:40:15] Brandon Miller: // man the conductors been on the toilet thru all this lol
+[00:41:03] Charles Perway: //fuck i accidentally dleted hte desc
+[00:41:04] Charles Perway: //fuck me
+[00:41:47] Charles Perway: /createcustomitem "Antlion King Carapace" models/gibs/antlion_gib_small_2.mdl "A piece of an antlion king's carapace. It's tough. Doubtful it'll decompose any time soon, if ever. (Event Artifact: 10/8/2021)"
+[00:41:59] Charles Perway: Here, keep this on you.
+[00:42:03] Charles Perway: Little reminder.
+[00:42:12] Brandon Miller: /looc still blind
+[00:42:14] Brandon Miller: thank you
+[00:42:14] Charles Perway: .//fuck
+[00:42:15] Charles Perway unblinded Everyone
+[00:42:17] Charles Perway unblinded Everyone
+[00:42:25] Charles Perway: .//that's not contraband
+[00:42:31] Charles Perway: //event artifacts are mainly just OOC little trophies
+[00:42:41] Charles Perway: .//they take up inv space but CCA aren't allowed to use it ain anything IC
+[00:43:03] Charles Perway: .//so they can't charge you for it, quesiton oyu for it, whatever
+[00:43:05] Charles Perway: .//hang onto it
+[00:43:15] Brandon Miller: /looc alright
+[00:43:23] Charles Perway: /charsetmodel brandon models/player/zelpa/male_02_extended.mdl 
+[00:43:28] Charles Perway<STEAM_0:1:53097688> used the tool rb655_easy_bodygroup on models/player/zelpa/male_02_extended.mdl
+[00:43:29] Brandon Miller: /looc a fragment of his outer shell blows all the way over here lol
+[00:43:32] Charles Perway<STEAM_0:1:53097688> used the tool rb655_easy_bodygroup on maps/rp_depot_interior.bsp
+[00:43:39] Charles Perway: .//to be fair it's a fbig fucking explosion
+[00:43:45] Charles Perway: .//and yes, that is the one illogical part of this event
+[00:43:48] Charles Perway: You should get back to your train.
+[00:43:52] Charles Perway: /me would hold out his hand.
+[00:43:57] Charles Perway: But not without me thanking you for your help.
+[00:44:04] Charles Perway: Put 'er there.
+[00:44:16] Charles Perway: Shake my hand.
+[00:44:23] Brandon Miller: /me shakes the man's hand
+[00:44:29] Charles Perway: Alrigt.
+[00:44:31] Charles Perway: Alright.*
+[00:44:33] Charles Perway: It was a pleasure.
+[00:44:38] Brandon Miller: likewise
+[00:44:38] Charles Perway: Get back to your train. We take this to our graves.
+[00:44:40] Charles Perway: Take care.
+[00:44:41] Brandon Miller: /me is a citizen
+[00:44:44] Brandon Miller: see ya
+[00:44:56] Charles Perway: //door's open
+[00:45:00] Charles Perway: //okay
+[00:45:02] Brandon Miller: // lmao
+[00:45:29] Charles Perway<STEAM_0:1:53097688> changed their name to Frankie Millard
+[00:45:34] Frankie Millard<STEAM_0:1:53097688> used the tool rb655_easy_bodygroup on maps/rp_depot_interior.bsp
+[00:45:37] Frankie Millard<STEAM_0:1:53097688> used the tool rb655_easy_bodygroup on maps/rp_depot_interior.bsp
+[00:45:39] Brandon Miller: // ya know
+[00:45:41] Brandon Miller: // i wonder
+[00:45:58] Brandon Miller: // would this map be more popular than city 8
+[00:46:03] Brandon Miller: // theres a LOT to it
+[00:46:11] Brandon Miller: hey there engie
+[00:46:12] Frankie Millard: Train's back up and running.
+[00:46:14] Frankie Millard: Ready to go?
+[00:46:15] Brandon Miller: ah, great
+[00:46:17] Brandon Miller: yeah
+[00:46:21] Frankie Millard: Fantastic.
+[00:46:37] Frankie Millard: I don't much like being implicated in investigations, so let's just go back to the city, and I won't say a damn thing about the worm.
+[00:46:48] Brandon Miller: right, right
+[00:46:50] Brandon Miller: me too
+[00:46:54] Frankie Millard: go ahead.
+[00:46:58] Frankie Millard: /y All aboard!
+[00:47:14] Frankie Millard changed the map to rp_city8_canals
+[00:47:15] Server is shutting down/changing levels.
+
+
+
+[00:48:48] New map: rp_city8_canals
+[00:52:32] Client "Accursed Citizen" spawned in server <STEAM_0:0:19369750> (took 275 seconds).
+[00:55:05] Accursed Citizen<STEAM_0:0:19369750> changed their name to Brandon Miller
+[00:57:11] Dropped "Brandon Miller" from server<STEAM_0:0:19369750>
+[00:58:21] Client "StreamDude" connected.
+
+
+
+[03:14:38] New map: rp_city8_edit_v4r
+[07:07:24] Client "Dilly_" connected.
+[07:11:50] Client "Dilly_" spawned in server <STEAM_0:0:52468151> (took 266 seconds).
+[07:13:02] Dilly_<STEAM_0:0:52468151> changed their name to OTA.C08-ECHO:OWS.69173
+[07:14:05] OTA.C08-ECHO:OWS.69173<STEAM_0:0:52468151> changed their name to CCA.C08-UNION.i1.93347
+[07:14:44] CCA.C08-UNION.i1.93347<STEAM_0:0:52468151> used the tool item_ammo_crate on maps/rp_city8_edit_v4r.bsp
+[07:14:54] CCA.C08-UNION.i1.93347<STEAM_0:0:52468151> changed their name to OTA.C08-ECHO:OWS.69173
+[07:15:21] OTA.C08-ECHO:OWS.69173<STEAM_0:0:52468151> changed their name to CCA.C08-UNION.i1.93347
+[07:15:35] CCA.C08-UNION.i1.93347<STEAM_0:0:52468151> used the tool item_ammo_crate on maps/rp_city8_edit_v4r.bsp
+[07:15:42] CCA.C08-UNION.i1.93347<STEAM_0:0:52468151> changed their name to OTA.C08-ECHO:OWS.69173
+[07:16:21] OTA.C08-ECHO:OWS.69173<STEAM_0:0:52468151> changed their name to CCA.C08-UNION.i1.93347
+[07:16:26] CCA.C08-UNION.i1.93347: /radio Test
+[07:17:02] Dropped "CCA.C08-UNION.i1.93347" from server<STEAM_0:0:52468151>
+[08:14:22] Client "japan1793" connected.
+[08:18:26] Client "japan1793" spawned in server <STEAM_0:1:534723608> (took 244 seconds).
+[08:22:05] Dropped "japan1793" from server<STEAM_0:1:534723608>

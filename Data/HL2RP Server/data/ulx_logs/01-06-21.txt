@@ -1,0 +1,2784 @@
+[02:38:16] New map: rp_city17_build210
+[07:27:25] Client "lalajenny.568" connected.
+[13:39:00] Client "FB|| light ROOM" connected.
+[13:41:00] Client "FB|| light ROOM" spawned in server <STEAM_0:1:17219621> (took 120 seconds).
+[13:41:59] FB|| light ROOM<STEAM_0:1:17219621> changed their name to Theban 'Simmons' Revolt
+[13:44:18] Client "Doughnut" connected.
+[13:46:02] Client "Doughnut" spawned in server <STEAM_0:1:127409364> (took 104 seconds).
+[13:46:26] Doughnut<STEAM_0:1:127409364> changed their name to Preobrazhensky Bogolepov
+[13:48:13] Preobrazhensky Bogolepov<STEAM_0:1:127409364> spawned model models/props_junk/wood_crate001a_damaged.mdl
+[13:48:15] Preobrazhensky Bogolepov<STEAM_0:1:127409364> spawned model models/props_junk/wood_crate001a.mdl
+[13:48:39] Theban 'Simmons' Revolt: .// 31379
+[14:02:50] Preobrazhensky Bogolepov: /toggleraise
+[14:02:54] Preobrazhensky Bogolepov: /toggleraise
+[14:04:05] Preobrazhensky Bogolepov: /looc ew
+[14:04:28] Preobrazhensky Bogolepov: /charsetname preo Preobrazhensky "Sarge" Bogolepov
+[14:04:29] Preobrazhensky Bogolepov<STEAM_0:1:127409364> changed their name to Preobrazhensky Sarge Bogolepov
+[14:04:36] Preobrazhensky Sarge Bogolepov: /charsetname preo Preobrazhensky ''Sarge'' Bogolepov
+[14:04:37] Preobrazhensky Sarge Bogolepov<STEAM_0:1:127409364> changed their name to Preobrazhensky ''Sarge'' Bogolepov
+[14:05:51] Preobrazhensky ''Sarge'' Bogolepov: /charaddattribute simmons eng 5
+[14:06:22] Preobrazhensky ''Sarge'' Bogolepov: /charsetattribute simmons strength 0
+[14:06:33] Preobrazhensky ''Sarge'' Bogolepov: /charaddattribute simmons engineer 5
+[14:07:27] Preobrazhensky ''Sarge'' Bogolepov gave Theban 'Simmons' Revolt 18 rounds
+[14:07:27] Preobrazhensky ''Sarge'' Bogolepov: !giveammo simmons 18
+[14:08:54] Preobrazhensky ''Sarge'' Bogolepov: /toggleraise
+[14:09:02] Preobrazhensky ''Sarge'' Bogolepov: /toggleraise
+[14:09:10] Preobrazhensky ''Sarge'' Bogolepov<STEAM_0:1:127409364> spawned/gave himself swep tfa_rustalpha_handcannon
+[14:09:11] Preobrazhensky ''Sarge'' Bogolepov: /toggleraise
+[14:09:31] Preobrazhensky ''Sarge'' Bogolepov: /toggleraise
+[14:12:11] Theban 'Simmons' Revolt<STEAM_0:1:17219621> changed their name to CCA.C17-UNION.SqL.72633
+[14:12:17] CCA.C17-UNION.SqL.72633: /viewobjectives
+[14:14:24] CCA.C17-UNION.SqL.72633<STEAM_0:1:17219621> changed their name to OTA.C17-KILO.OSS.39412
+[14:14:32] OTA.C17-KILO.OSS.39412: // cringle
+[14:14:35] Preobrazhensky ''Sarge'' Bogolepov: // ew
+[14:14:41] OTA.C17-KILO.OSS.39412: // KILO cool
+[14:14:43] OTA.C17-KILO.OSS.39412: // You aren't
+[14:14:51] Preobrazhensky ''Sarge'' Bogolepov<STEAM_0:1:127409364> changed their name to Klaudiusz Olszewski
+[14:14:58] OTA.C17-KILO.OSS.39412<STEAM_0:1:17219621> changed their name to CCA.C17-UNION.SqL.72633
+[14:15:45] Klaudiusz Olszewski: /chargiveitem sql grenade 2
+[14:16:02] Klaudiusz Olszewski gave CCA.C17-UNION.SqL.72633 200 rounds
+[14:16:02] Klaudiusz Olszewski: !giveammo sql 200
+[14:16:09] Klaudiusz Olszewski gave CCA.C17-UNION.SqL.72633 100 rounds
+[14:16:09] Klaudiusz Olszewski: !giveammo sql 100
+[14:17:03] CCA.C17-UNION.SqL.72633: /r UNION.SqL.72633 is 10-8, status is green, ground units report on status and 10-20.
+[14:18:04] Klaudiusz Olszewski: Work?
+[14:18:04] CCA.C17-UNION.SqL.72633: I'll assume you require work.
+[14:18:11] CCA.C17-UNION.SqL.72633: /viewobjectives
+[14:18:22] Klaudiusz Olszewski: Yes
+[14:19:25] CCA.C17-UNION.SqL.72633: /me Leans over to his side and takes our a box filled with water cans.
+[14:19:32] CCA.C17-UNION.SqL.72633<STEAM_0:1:17219621> spawned model models/props_junk/plasticcrate01a.mdl
+[14:19:34] CCA.C17-UNION.SqL.72633<STEAM_0:1:17219621> spawned model models/props_junk/plasticcrate01a.mdl
+[14:20:09] CCA.C17-UNION.SqL.72633: /me Holds out a Key to the civvie.
+[14:20:15] Klaudiusz Olszewski: /me takes the key
+[14:20:30] CCA.C17-UNION.SqL.72633: Replace any missing water cans in the Breen vending machines.
+[14:20:54] Klaudiusz Olszewski: /me unlocks and opens the vending machine
+[14:21:09] Klaudiusz Olszewski: /me replaces any rows of cans that have missing spaces
+[14:21:19] Klaudiusz Olszewski: /me relocks the vending machine
+[14:21:50] Klaudiusz Olszewski: /me replaces any rows of cans that have missing spaces
+[14:21:51] Klaudiusz Olszewski: /me relocks the vending machine
+[14:22:04] Klaudiusz Olszewski: /me takes two cans of the big boi water
+[14:22:30] Klaudiusz Olszewski: /chargiveitem klau sparkling 2
+[14:22:55] Klaudiusz Olszewski: /me takes two cans of the big boi water
+[14:22:59] Klaudiusz Olszewski: /looc void
+[14:23:02] Klaudiusz Olszewski: /me replaces any rows of cans that have missing spaces
+[14:23:05] Klaudiusz Olszewski: /me relocks the vending machine
+[14:23:10] Klaudiusz Olszewski: /me replaces any rows of cans that have missing spaces
+[14:23:11] Klaudiusz Olszewski: /me relocks the vending machine
+[14:24:16] Klaudiusz Olszewski: /me places the key on the desk
+[14:24:20] Klaudiusz Olszewski: Any more work?
+[14:24:33] CCA.C17-UNION.SqL.72633: /me Takes the key and places it into his pocket.
+[14:24:34] CCA.C17-UNION.SqL.72633: Hm
+[14:24:38] CCA.C17-UNION.SqL.72633: Possibly, one moment.
+[14:25:30] CCA.C17-UNION.SqL.72633: /me Crouches down and does some wacky shit. The SqL then takes out a stack of papers (5 in total) and holds it out with a small roll of tape.
+[14:25:42] CCA.C17-UNION.SqL.72633<STEAM_0:1:17219621> spawned model models/props_c17/furnitureshelf002a.mdl
+[14:25:43] Klaudiusz Olszewski: /me takes the tape and papers
+[14:25:51] CCA.C17-UNION.SqL.72633<STEAM_0:1:17219621> spawned model models/props_junk/wood_crate001a.mdl
+[14:26:40] Klaudiusz Olszewski: /me takes a poster out and tapes it up
+[14:26:59] Klaudiusz Olszewski: /me takes a poster out and tapes it up next to all the other posters
+[14:27:34] Klaudiusz Olszewski: /me rips up the rest of the posters and tosses them in the dumpster
+[14:28:06] Klaudiusz Olszewski: Anything else
+[14:28:14] CCA.C17-UNION.SqL.72633: No
+[14:28:16] CCA.C17-UNION.SqL.72633: Apply
+[14:28:21] Klaudiusz Olszewski: /apply
+[14:28:32] CCA.C17-UNION.SqL.72633: /me Begins typing onto a wrist-mounted PDA system/
+[14:28:37] CCA.C17-UNION.SqL.72633: /viewdata Klaus
+[14:28:42] CCA.C17-UNION.SqL.72633: /viewdata Klaud
+[14:29:02] CCA.C17-UNION.SqL.72633: /viewdata Klaud
+[14:30:34] CCA.C17-UNION.SqL.72633: You can go
+[14:34:30] Klaudiusz Olszewski: Officer
+[14:34:44] CCA.C17-UNION.SqL.72633: What?
+[14:34:49] Klaudiusz Olszewski: I found contraband
+[14:35:00] CCA.C17-UNION.SqL.72633: Show me
+[14:35:12] CCA.C17-UNION.SqL.72633: Hm
+[14:35:21] CCA.C17-UNION.SqL.72633: Apply
+[14:35:24] Klaudiusz Olszewski: /apply
+[14:35:52] CCA.C17-UNION.SqL.72633: /viewdata Klaud
+[14:36:54] CCA.C17-UNION.SqL.72633: /viewdata Klaud
+[14:38:43] CCA.C17-UNION.SqL.72633: Where did you find this?
+[14:38:53] Klaudiusz Olszewski: In the playground place
+[14:39:01] CCA.C17-UNION.SqL.72633: Ugh...copy.
+[14:39:05] CCA.C17-UNION.SqL.72633: You can go
+[14:39:25] CCA.C17-UNION.SqL.72633: /r Officer going 10-7.
+[14:39:30] CCA.C17-UNION.SqL.72633<STEAM_0:1:17219621> changed their name to Dustin Rory
+[14:41:40] Dustin Rory<STEAM_0:1:17219621> changed their name to CCA.C17-UNION.SqL.72633
+[14:41:56] CCA.C17-UNION.SqL.72633: /r Ground command unit commencing a Ration cycle.
+[14:43:08] CCA.C17-UNION.SqL.72633: Apply
+[14:43:09] Klaudiusz Olszewski: /apply
+[14:43:18] CCA.C17-UNION.SqL.72633: /viewdata Klaud
+[14:43:51] Klaudiusz Olszewski: /chargiveitem sql guide
+[14:43:56] Klaudiusz Olszewski: /chargiveitem sql handbook
+[14:46:51] CCA.C17-UNION.SqL.72633<STEAM_0:1:17219621> changed their name to Theban 'Simmons' Revolt
+[14:52:08] Klaudiusz Olszewski: Hey.
+[14:52:12] Theban 'Simmons' Revolt: Yes?
+[14:52:19] Klaudiusz Olszewski: You wanna buy some stuff
+[14:56:18] Theban 'Simmons' Revolt: Uhhhhh, what exactly do you have for sell?
+[14:57:15] Klaudiusz Olszewski: A bunch of wires, and electronic goods
+[14:57:31] Theban 'Simmons' Revolt: Hmph........no i'm fine for now.
+[14:58:05] Theban 'Simmons' Revolt: Sorry, I might buy some shit later
+[15:11:33] Dropped "Theban 'Simmons' Revolt" from server<STEAM_0:1:17219621>
+[15:11:59] Dropped "Klaudiusz Olszewski" from server<STEAM_0:1:127409364>
+[16:17:02] Client "Doughnut" connected.
+[16:17:15] Client "FB|| light ROOM" connected.
+[16:18:21] Client "Doughnut" spawned in server <STEAM_0:1:127409364> (took 79 seconds).
+[16:18:51] Doughnut<STEAM_0:1:127409364> changed their name to Preobrazhensky ''Sarge'' Bogolepov
+[16:19:17] Client "FB|| light ROOM" spawned in server <STEAM_0:1:17219621> (took 122 seconds).
+[16:20:22] FB|| light ROOM<STEAM_0:1:17219621> changed their name to Theban 'Simmons' Revolt
+[16:23:39] Theban 'Simmons' Revolt<STEAM_0:1:17219621> changed their name to OTA.C17-KILO.OSS.39412
+[16:24:28] Preobrazhensky ''Sarge'' Bogolepov set the hp for Themself to 100
+[16:24:28] Preobrazhensky ''Sarge'' Bogolepov: !hp preo 100
+[16:24:31] Preobrazhensky ''Sarge'' Bogolepov set the hp for Themself to 102
+[16:24:31] Preobrazhensky ''Sarge'' Bogolepov: !hp preo 102
+[16:25:51] OTA.C17-KILO.OSS.39412<STEAM_0:1:17219621> changed their name to OTA.C17-ECHO.OWC.25097
+[16:26:27] OTA.C17-ECHO.OWC.25097<STEAM_0:1:17219621> changed their name to CCA.C17-UNION.SqL.72633
+[16:26:34] CCA.C17-UNION.SqL.72633: /rollstat agi
+[16:26:39] Preobrazhensky ''Sarge'' Bogolepov: /rollstat agi
+[16:26:44] CCA.C17-UNION.SqL.72633: /rollstat agi
+[16:27:47] CCA.C17-UNION.SqL.72633<STEAM_0:1:17219621> spawned model models/props_c17/furnitureboiler001a.mdl
+[16:27:56] CCA.C17-UNION.SqL.72633<STEAM_0:1:17219621> spawned model models/props_c17/furniturewashingmachine001a.mdl
+[16:28:24] Preobrazhensky ''Sarge'' Bogolepov gave CCA.C17-UNION.SqL.72633 300 rounds
+[16:28:24] Preobrazhensky ''Sarge'' Bogolepov: !giveammo sql 300
+[16:28:29] Preobrazhensky ''Sarge'' Bogolepov gave CCA.C17-UNION.SqL.72633 200 rounds
+[16:28:29] Preobrazhensky ''Sarge'' Bogolepov: !giveammo sql 200
+[16:33:23] Dropped "Preobrazhensky ''Sarge'' Bogolepov" from server<STEAM_0:1:127409364>
+[16:45:33] Dropped "CCA.C17-UNION.SqL.72633" from server<STEAM_0:1:17219621>
+[17:38:44] Client "FB|| light ROOM" connected.
+[17:40:52] Client "FB|| light ROOM" spawned in server <STEAM_0:1:17219621> (took 128 seconds).
+[17:42:03] FB|| light ROOM<STEAM_0:1:17219621> changed their name to Theban 'Simmons' Revolt
+[18:00:36] Dropped "Theban 'Simmons' Revolt" from server<STEAM_0:1:17219621>
+[18:12:43] Client "Doughnut" connected.
+[18:14:19] Client "Doughnut" spawned in server <STEAM_0:1:127409364> (took 96 seconds).
+[18:18:08] Doughnut<STEAM_0:1:127409364> changed their name to CCA.C17-JUDGE.i4.22767
+[18:22:41] CCA.C17-JUDGE.i4.22767<STEAM_0:1:127409364> spawned sent xen_spore_small
+[18:22:44] CCA.C17-JUDGE.i4.22767<STEAM_0:1:127409364> spawned sent xen_spore_medium
+[18:22:56] CCA.C17-JUDGE.i4.22767<STEAM_0:1:127409364> spawned sent xen_plantlight
+[18:23:01] CCA.C17-JUDGE.i4.22767<STEAM_0:1:127409364> spawned sent xen_tree
+[18:23:12] CCA.C17-JUDGE.i4.22767<STEAM_0:1:127409364> spawned sent xen_spore_small
+[18:23:17] CCA.C17-JUDGE.i4.22767<STEAM_0:1:127409364> spawned sent xen_plantlight
+[18:23:34] CCA.C17-JUDGE.i4.22767<STEAM_0:1:127409364> spawned sent xen_tree
+[18:23:50] CCA.C17-JUDGE.i4.22767<STEAM_0:1:127409364> spawned NPC npc_headcrab
+[18:23:52] CCA.C17-JUDGE.i4.22767<STEAM_0:1:127409364> spawned NPC npc_headcrab
+[18:23:56] CCA.C17-JUDGE.i4.22767<STEAM_0:1:127409364> spawned NPC npc_headcrab
+[18:24:00] CCA.C17-JUDGE.i4.22767<STEAM_0:1:127409364> spawned NPC npc_headcrab
+[18:24:04] CCA.C17-JUDGE.i4.22767<STEAM_0:1:127409364> spawned NPC npc_zombie
+[18:24:11] CCA.C17-JUDGE.i4.22767<STEAM_0:1:127409364> spawned NPC npc_poisonzombie
+[18:24:20] CCA.C17-JUDGE.i4.22767<STEAM_0:1:127409364> spawned NPC npc_zombie_torso
+[18:24:33] CCA.C17-JUDGE.i4.22767<STEAM_0:1:127409364> spawned NPC npc_fastzombie
+[18:24:43] CCA.C17-JUDGE.i4.22767<STEAM_0:1:127409364> spawned NPC npc_fastzombie_torso
+[18:24:45] CCA.C17-JUDGE.i4.22767<STEAM_0:1:127409364> spawned NPC npc_headcrab_fast
+[18:24:49] CCA.C17-JUDGE.i4.22767<STEAM_0:1:127409364> spawned NPC npc_zombie
+[18:24:52] CCA.C17-JUDGE.i4.22767<STEAM_0:1:127409364> spawned NPC npc_headcrab
+[18:25:15] CCA.C17-JUDGE.i4.22767<STEAM_0:1:127409364> spawned NPC npc_zombie_torso
+[18:25:58] CCA.C17-JUDGE.i4.22767<STEAM_0:1:127409364> spawned NPC monster_bullsquid
+[18:26:28] CCA.C17-JUDGE.i4.22767<STEAM_0:1:127409364> spawned NPC monster_hound_eye
+[18:26:43] CCA.C17-JUDGE.i4.22767<STEAM_0:1:127409364> spawned NPC npc_zombie_torso
+[18:26:46] CCA.C17-JUDGE.i4.22767<STEAM_0:1:127409364> spawned NPC npc_fastzombie
+[18:26:57] CCA.C17-JUDGE.i4.22767<STEAM_0:1:127409364> spawned NPC npc_headcrab
+[18:26:59] CCA.C17-JUDGE.i4.22767<STEAM_0:1:127409364> spawned NPC npc_headcrab
+[18:27:03] CCA.C17-JUDGE.i4.22767<STEAM_0:1:127409364> spawned NPC npc_zombie
+[18:27:07] CCA.C17-JUDGE.i4.22767<STEAM_0:1:127409364> spawned NPC npc_poisonzombie
+[18:27:09] CCA.C17-JUDGE.i4.22767<STEAM_0:1:127409364> spawned NPC npc_fastzombie
+[18:27:11] CCA.C17-JUDGE.i4.22767<STEAM_0:1:127409364> spawned NPC npc_headcrab_fast
+[18:27:13] CCA.C17-JUDGE.i4.22767<STEAM_0:1:127409364> spawned NPC npc_headcrab
+[18:27:23] CCA.C17-JUDGE.i4.22767<STEAM_0:1:127409364> spawned NPC npc_fastzombie_torso
+[18:27:28] CCA.C17-JUDGE.i4.22767<STEAM_0:1:127409364> spawned NPC npc_zombie
+[18:30:24] CCA.C17-JUDGE.i4.22767<STEAM_0:1:127409364> spawned NPC npc_zombie_torso
+[18:30:33] CCA.C17-JUDGE.i4.22767<STEAM_0:1:127409364> spawned NPC npc_barnacle
+[18:30:44] CCA.C17-JUDGE.i4.22767<STEAM_0:1:127409364> spawned NPC npc_barnacle
+[18:31:12] CCA.C17-JUDGE.i4.22767<STEAM_0:1:127409364> spawned sent xen_spore_large
+[18:31:16] CCA.C17-JUDGE.i4.22767<STEAM_0:1:127409364> spawned sent xen_hair
+[18:31:18] CCA.C17-JUDGE.i4.22767<STEAM_0:1:127409364> spawned sent xen_hair
+[18:31:18] CCA.C17-JUDGE.i4.22767<STEAM_0:1:127409364> spawned sent xen_hair
+[18:31:19] CCA.C17-JUDGE.i4.22767<STEAM_0:1:127409364> spawned sent xen_hair
+[18:31:21] CCA.C17-JUDGE.i4.22767<STEAM_0:1:127409364> spawned sent xen_hair
+[18:31:27] CCA.C17-JUDGE.i4.22767<STEAM_0:1:127409364> spawned sent xen_hair
+[18:31:27] CCA.C17-JUDGE.i4.22767<STEAM_0:1:127409364> spawned sent xen_hair
+[18:31:29] CCA.C17-JUDGE.i4.22767<STEAM_0:1:127409364> spawned sent xen_hair
+[18:31:31] CCA.C17-JUDGE.i4.22767<STEAM_0:1:127409364> spawned sent xen_hair
+[18:31:32] CCA.C17-JUDGE.i4.22767<STEAM_0:1:127409364> spawned sent xen_hair
+[18:31:32] CCA.C17-JUDGE.i4.22767<STEAM_0:1:127409364> spawned sent xen_hair
+[18:31:33] CCA.C17-JUDGE.i4.22767<STEAM_0:1:127409364> spawned sent xen_hair
+[18:31:34] CCA.C17-JUDGE.i4.22767<STEAM_0:1:127409364> spawned sent xen_hair
+[18:31:37] CCA.C17-JUDGE.i4.22767<STEAM_0:1:127409364> spawned sent xen_hair
+[18:31:37] CCA.C17-JUDGE.i4.22767<STEAM_0:1:127409364> spawned sent xen_hair
+[18:31:39] CCA.C17-JUDGE.i4.22767<STEAM_0:1:127409364> spawned sent xen_hair
+[18:32:32] CCA.C17-JUDGE.i4.22767<STEAM_0:1:127409364> spawned sent xen_plantlight
+[18:32:34] CCA.C17-JUDGE.i4.22767<STEAM_0:1:127409364> spawned sent xen_hair
+[18:32:35] CCA.C17-JUDGE.i4.22767<STEAM_0:1:127409364> spawned sent xen_hair
+[18:32:36] CCA.C17-JUDGE.i4.22767<STEAM_0:1:127409364> spawned sent xen_hair
+[18:32:44] CCA.C17-JUDGE.i4.22767<STEAM_0:1:127409364> spawned sent xen_plantlight
+[18:33:00] CCA.C17-JUDGE.i4.22767<STEAM_0:1:127409364> spawned NPC npc_headcrab_fast
+[18:33:03] CCA.C17-JUDGE.i4.22767<STEAM_0:1:127409364> spawned NPC npc_zombie_torso
+[18:33:09] CCA.C17-JUDGE.i4.22767<STEAM_0:1:127409364> spawned NPC npc_zombie
+[18:33:37] CCA.C17-JUDGE.i4.22767<STEAM_0:1:127409364> spawned NPC npc_poisonzombie
+[18:33:43] CCA.C17-JUDGE.i4.22767<STEAM_0:1:127409364> spawned NPC npc_headcrab_black
+[18:33:47] CCA.C17-JUDGE.i4.22767<STEAM_0:1:127409364> spawned NPC npc_fastzombie_torso
+[18:34:07] CCA.C17-JUDGE.i4.22767<STEAM_0:1:127409364> spawned sent xen_plantlight
+[18:34:36] CCA.C17-JUDGE.i4.22767<STEAM_0:1:127409364> spawned NPC npc_fastzombie
+[18:34:47] Client "FB|| light ROOM" connected.
+[18:35:42] Client "Mr. Chicken" connected.
+[18:36:38] Client "FB|| light ROOM" spawned in server <STEAM_0:1:17219621> (took 111 seconds).
+[18:37:26] FB|| light ROOM<STEAM_0:1:17219621> changed their name to CCA.C17-UNION.SqL.72633
+[18:37:36] CCA.C17-UNION.SqL.72633: // okay
+[18:37:52] Client "NamRm" connected.
+[18:39:04] Client "Ollie Garner" connected.
+[18:39:11] Client "Mr. Chicken" spawned in server <STEAM_0:0:143523274> (took 209 seconds).
+[18:40:21] Mr. Chicken<STEAM_0:0:143523274> changed their name to Shane Vaska
+[18:40:29] Shane Vaska: // yuh
+[18:40:31] CCA.C17-UNION.SqL.72633: // yo
+[18:40:43] CCA.C17-JUDGE.i4.22767 gave CCA.C17-UNION.SqL.72633 300 rounds
+[18:40:43] CCA.C17-JUDGE.i4.22767: !giveammo sql 300
+[18:40:47] CCA.C17-UNION.SqL.72633: // Cringe ass time
+[18:40:49] CCA.C17-JUDGE.i4.22767 gave CCA.C17-UNION.SqL.72633 300 rounds
+[18:40:49] CCA.C17-JUDGE.i4.22767: !giveammo sql 300
+[18:41:10] CCA.C17-UNION.SqL.72633: // I like how the RCT never got his training
+[18:41:12] CCA.C17-UNION.SqL.72633: // Really cool
+[18:41:19] CCA.C17-JUDGE.i4.22767<STEAM_0:1:127409364> changed their name to Klaudiusz Olszewski
+[18:41:30] Client "NamRm" spawned in server <STEAM_0:0:69476140> (took 218 seconds).
+[18:41:45] Klaudiusz Olszewski<STEAM_0:1:127409364> spawned model models/hunter/plates/plate2x2.mdl
+[18:41:47] Klaudiusz Olszewski<STEAM_0:1:127409364> spawned model models/hunter/plates/plate2x3.mdl
+[18:41:49] Klaudiusz Olszewski<STEAM_0:1:127409364> spawned model models/hunter/plates/plate4x4.mdl
+[18:41:52] Klaudiusz Olszewski<STEAM_0:1:127409364> spawned model models/hunter/plates/plate2x2.mdl
+[18:41:54] Klaudiusz Olszewski<STEAM_0:1:127409364> spawned model models/hunter/plates/plate2x3.mdl
+[18:41:54] CCA.C17-UNION.SqL.72633: // 5 players pog
+[18:42:06] CCA.C17-UNION.SqL.72633: // Join VC Chicken
+[18:42:09] Klaudiusz Olszewski<STEAM_0:1:127409364> used the tool colour on models/hunter/plates/plate2x3.mdl
+[18:42:33] CCA.C17-UNION.SqL.72633: /r UNION.SqL.72633 is 10-8, ground units report.
+[18:43:19] Client "Ollie Garner" spawned in server <STEAM_0:1:52892973> (took 255 seconds).
+[18:43:24] NamRm<STEAM_0:0:69476140> changed their name to CCA.C17-RCT.25058
+[18:43:41] CCA.C17-RCT.25058: /c // haha lol xd
+[18:43:46] CCA.C17-RCT.25058: /r // haha lol xd
+[18:44:23] Shane Vaska: // are we ic?
+[18:44:24] Klaudiusz Olszewski<STEAM_0:1:127409364> used the tool rb655_easy_bodygroup on models/police_nemez.mdl
+[18:44:36] CCA.C17-UNION.SqL.72633: // we're supposed to be
+[18:44:40] CCA.C17-UNION.SqL.72633: // But we're fixing a few things
+[18:44:43] Klaudiusz Olszewski: /charsetbodygroup rct mask 0
+[18:44:44] Ollie Garner<STEAM_0:1:52892973> changed their name to Morgan Beck
+[18:44:46] CCA.C17-UNION.SqL.72633: // Mainly the RCT's fucking bodygroups
+[18:44:46] Klaudiusz Olszewski: /charsetbodygroup rct radio 0
+[18:44:47] Klaudiusz Olszewski<STEAM_0:1:127409364> used the tool rb655_easy_bodygroup on maps/rp_city17_build210.bsp
+[18:44:48] Klaudiusz Olszewski<STEAM_0:1:127409364> used the tool rb655_easy_bodygroup on models/police_nemez.mdl
+[18:44:49] Morgan Beck: // Yo.
+[18:44:51] CCA.C17-UNION.SqL.72633: // yo
+[18:45:01] CCA.C17-RCT.25058: .// FUCK
+[18:45:05] CCA.C17-UNION.SqL.72633: // Checking to see if Chief and Dilly are gonna hop on
+[18:45:19] Klaudiusz Olszewski: /charsetname rct CCA.C17-UNION.I5.25058
+[18:45:20] CCA.C17-RCT.25058<STEAM_0:0:69476140> changed their name to CCA.C17-UNION.I5.25058
+[18:45:20] CCA.C17-UNION.SqL.72633: // POP QUIZ, SHOULD I PROMOTE THE RCT?????
+[18:45:27] CCA.C17-UNION.I5.25058: // yes
+[18:45:32] CCA.C17-UNION.I5.25058: // goteem
+[18:45:38] CCA.C17-UNION.I5.25058<STEAM_0:0:69476140> changed their name to Santino Russo
+[18:46:10] Santino Russo<STEAM_0:0:69476140> changed their name to CCA.C17-UNION.I5.25058
+[18:46:12] CCA.C17-UNION.SqL.72633: // Bouta do a shitty training session
+[18:46:19] CCA.C17-UNION.SqL.72633: // WHO WANTS TO WATCH OOC???
+[18:47:53] CCA.C17-UNION.SqL.72633: RCT
+[18:47:56] Morgan Beck: The fuck?
+[18:48:07] CCA.C17-UNION.SqL.72633: Come with me for a moment, we'll be doing a informal training exercise
+[18:48:23] Klaudiusz Olszewski to admins: not yet ollie
+[18:48:28] Morgan Beck to admins: Got it.
+[18:48:54] Klaudiusz Olszewski: // imma wait till we have 6-7 to start the funky
+[18:49:03] CCA.C17-UNION.SqL.72633: Alright, have you learned basic searching and faces?
+[18:49:22] CCA.C17-UNION.I5.25058: Yup.
+[18:49:33] CCA.C17-UNION.SqL.72633: Alright, then show me right face
+[18:49:39] CCA.C17-UNION.SqL.72633: About face
+[18:49:53] CCA.C17-UNION.SqL.72633: Right face
+[18:49:58] CCA.C17-UNION.SqL.72633: Left face
+[18:50:23] CCA.C17-UNION.SqL.72633: Front face
+[18:50:29] CCA.C17-UNION.SqL.72633: Good
+[18:51:07] CCA.C17-UNION.SqL.72633: Then we'll learn breaching
+[18:51:10] CCA.C17-UNION.SqL.72633: Come with me
+[18:51:11] CCA.C17-UNION.I5.25058: Alright
+[18:51:28] CCA.C17-UNION.SqL.72633: Breaching as you know, if to forcefully get into a room.
+[18:51:51] Shane Vaska<STEAM_0:0:143523274> changed their name to Achille 'Tucker' Tristram
+[18:52:01] Client "DRD" connected.
+[18:54:29] CCA.C17-UNION.SqL.72633: .// Act | LP Given | OOC date | ooc time
+[18:54:40] Morgan Beck: Howdy.
+[18:54:43] CCA.C17-UNION.SqL.72633: .// Civil Status: Housing Block:Flat No.:---------------[ ] BOL[ ] Wanted---------------Loyalty Points: Violations:---------------DOB: Sex: Blood Type:Medical Condition:Mental Condition:
+[18:54:46] CCA.C17-UNION.I5.25058: /viewdata achil
+[18:54:48] Achille 'Tucker' Tristram: Bonjour sir beck
+[18:54:55] Morgan Beck: How've you been?
+[18:55:00] Achille 'Tucker' Tristram: Decent
+[18:55:04] CCA.C17-UNION.I5.25058: /viewdata santino
+[18:55:05] Morgan Beck: Good to hear.
+[18:55:09] Achille 'Tucker' Tristram: You?
+[18:55:15] Morgan Beck: Hm... eh.
+[18:55:19] Morgan Beck: Eh at most.
+[18:55:50] Morgan Beck: Anything interesting happen around the city?
+[18:55:58] Achille 'Tucker' Tristram: Nothing really
+[18:56:08] Morgan Beck: Nice.
+[18:56:21] Achille 'Tucker' Tristram: Exhuasted
+[18:56:26] Morgan Beck: How come?
+[18:56:40] Achille 'Tucker' Tristram: Been doing alot of extra work for loyality points
+[18:56:44] Morgan Beck: Ah.
+[18:57:27] Morgan Beck: I haven't done much work for the Combine in a while. Especially since having to close down the resturaunt.
+[18:57:41] Klaudiusz Olszewski gave CCA.C17-UNION.I5.25058 9000 rounds
+[18:57:41] Klaudiusz Olszewski: !giveammo i5 9000
+[18:57:51] Client "DRD" connected.
+[18:58:02] Achille 'Tucker' Tristram: Yep almost got killed by one of them head crabs the other day sneaky bastard was hiding in a dumpster
+[18:58:13] Morgan Beck: Damn.
+[18:58:22] Morgan Beck: I've been bitten by those fuckers.
+[18:58:27] Morgan Beck: Not fun.
+[18:58:33] Achille 'Tucker' Tristram: I can tell
+[18:58:42] CCA.C17-UNION.SqL.72633: // DRD do be joining
+[18:58:48] Klaudiusz Olszewski: // cmon drd join faster
+[18:58:51] Klaudiusz Olszewski gave CCA.C17-UNION.I5.25058 9000 rounds
+[18:58:51] Klaudiusz Olszewski: !giveammo i5 9000
+[18:58:56] Achille 'Tucker' Tristram: You know even if they wanna kill you I think if i took there teeth out they would make a decent pet
+[18:59:04] Morgan Beck: Ehhh
+[18:59:22] Morgan Beck: I'm not a medical expert. Much less with fuckin aliens.
+[19:00:16] Client "DRD" spawned in server <STEAM_0:0:193599766> (took 145 seconds).
+[19:00:33] Morgan Beck: Hell, I wouldn't want to put my hand in their fuckin hole... mouth... whatever.
+[19:00:54] Achille 'Tucker' Tristram: I dont understand it and I never want too
+[19:01:04] Morgan Beck: Yeah.
+[19:01:28] Achille 'Tucker' Tristram: Remember when all we use to do was sit at home watch a sport game maybe drink a beer?
+[19:01:44] Achille 'Tucker' Tristram: Now where here crazy how things work
+[19:01:45] Morgan Beck: No. I never was interested in that stuff pre-war.
+[19:01:51] Achille 'Tucker' Tristram: Hm
+[19:02:08] Morgan Beck: I was always into buisness.
+[19:02:46] Achille 'Tucker' Tristram: I worked in a family restraunt in france it closed after someone puked.
+[19:03:02] Achille 'Tucker' Tristram: Turns out it was a safty hazard they had raw fish with the cooked meet
+[19:03:07] Morgan Beck: Really? Someone puking isn't *that* bad.
+[19:03:07] Achille 'Tucker' Tristram: /looc meat*
+[19:03:18] Klaudiusz Olszewski cleared decals
+[19:03:18] Klaudiusz Olszewski: !cleardecals
+[19:03:19] DRD<STEAM_0:0:193599766> changed their name to CCA.C17-GRID.i2.36307
+[19:03:21] Morgan Beck: Hmph. You never flash freezed your meats?
+[19:03:32] Morgan Beck: Or well, fish?
+[19:03:33] Achille 'Tucker' Tristram: My family always think if they dont have a perfect rep they are failures
+[19:03:38] Achille 'Tucker' Tristram: Maybe
+[19:03:56] Morgan Beck: I know that flash freezing kills most of the hazards. Makes it safe to eat, for the most part.
+[19:04:13] Klaudiusz Olszewski: // ratio!
+[19:04:13] CCA.C17-GRID.i2.36307: // c
+[19:04:23] CCA.C17-UNION.I5.25058: // hold on mang
+[19:04:24] Achille 'Tucker' Tristram: Hm
+[19:04:40] Morgan Beck: I know that the shit CCA gives me never... decays.
+[19:04:42] Klaudiusz Olszewski: /charsetname i5 CCA.C17-UNION.i5.25058
+[19:04:43] CCA.C17-UNION.I5.25058<STEAM_0:0:69476140> changed their name to CCA.C17-UNION.i5.25058
+[19:04:50] Morgan Beck: Or well, Combine. Not CCA.
+[19:04:53] Klaudiusz Olszewski: // evempt toime
+[19:04:58] Achille 'Tucker' Tristram: Yea
+[19:05:00] CCA.C17-UNION.i5.25058<STEAM_0:0:69476140> changed their name to Santino Russo
+[19:05:08] Morgan Beck: I've never seen a *hint* of mold on the fucking cheese or bread.
+[19:05:15] Morgan Beck: I've even left one out for multiple weeks as a test.
+[19:05:16] Achille 'Tucker' Tristram: I dont think thats cheese
+[19:05:18] Morgan Beck: Nothing.
+[19:05:42] Morgan Beck: The bread doesn't even go more stale. As stale as it already is, it never advances.
+[19:05:47] Morgan Beck: Shit freaks me the fuck out.
+[19:06:08] Achille 'Tucker' Tristram: Probably one of those shitty rations that never go bad
+[19:06:18] Morgan Beck: Maybe.
+[19:06:21] CCA.C17-UNION.SqL.72633: /r UNION.SqL.72633 reporting: unit is 10-8, ground units report.
+[19:06:25] Klaudiusz Olszewski: officer
+[19:06:25] CCA.C17-GRID.i2.36307: /r Unit is 10-8, status is green. Updating 10-20 to Plaza.
+[19:06:26] Achille 'Tucker' Tristram: Or its some artifical shit
+[19:06:33] Morgan Beck: No shit it's artifical.
+[19:06:34] CCA.C17-GRID.i2.36307: huh?
+[19:06:38] Klaudiusz Olszewski: I saw some headcrabs in district 3
+[19:06:53] CCA.C17-UNION.SqL.72633: .// Cringle
+[19:06:56] CCA.C17-GRID.i2.36307: /r 10-91 reporting parasitics in district 3.
+[19:07:08] Achille 'Tucker' Tristram: Alright well
+[19:07:12] CCA.C17-UNION.SqL.72633: /r Copy, we're moving in for now to see how bad it is.
+[19:07:12] Achille 'Tucker' Tristram: Im going to head out
+[19:07:16] Morgan Beck: Right. Have fun.
+[19:07:17] Achille 'Tucker' Tristram: Nice talking morgan
+[19:07:17] CCA.C17-UNION.SqL.72633: /r Code:SWORD is authorized.
+[19:07:32] Klaudiusz Olszewski set the hp for CCA.C17-UNION.SqL.72633 to 100
+[19:07:32] Klaudiusz Olszewski: !hp sql 100
+[19:07:44] Klaudiusz Olszewski set the armor for CCA.C17-UNION.SqL.72633 to 150
+[19:07:44] Klaudiusz Olszewski: !armor sql 150
+[19:08:04] CCA.C17-GRID.i2.36307: /viewobjectives
+[19:08:10] CCA.C17-GRID.i2.36307: /r ACHILLES SPOTTED
+[19:08:15] Achille 'Tucker' Tristram: Greatings officer
+[19:08:41] Achille 'Tucker' Tristram: One flashlight please
+[19:08:41] CCA.C17-UNION.SqL.72633: /r The Xenian situation is more important for right now
+[19:09:01] CCA.C17-GRID.i2.36307: /toggleraise
+[19:09:06] Morgan Beck: Fuck this.
+[19:09:28] Klaudiusz Olszewski: /event When you round the corner you see a break in the wall blocking off the infested area
+[19:09:36] Morgan Beck: /toggleraise
+[19:09:37] Morgan Beck: /toggleraise
+[19:10:01] Achille 'Tucker' Tristram: /y WHAT THE FUCK
+[19:10:16] CCA.C17-UNION.SqL.72633: /r Reporting, massive Xenian breach in D3, requesting for ECHO:ONE support.
+[19:10:17] CCA.C17-UNION.SqL.72633: W
+[19:10:19] CCA.C17-GRID.i2.36307: /toggleraise
+[19:10:36] Achille 'Tucker' Tristram: /y MORGAN?
+[19:10:40] Morgan Beck: What?
+[19:10:45] CCA.C17-UNION.SqL.72633: /r Requesting for mandatory conscription of 10-91's so they can clean up the mess
+[19:10:51] Achille 'Tucker' Tristram: Theres fuckin hoards on creatures out there can 
+[19:10:55] Achille 'Tucker' Tristram: I stay in here?
+[19:10:57] CCA.C17-GRID.i2.36307: /toggleraise
+[19:11:00] Klaudiusz Olszewski: /pm Sql Request approved.
+[19:11:05] Morgan Beck: Sure. Not in the backrooms though.
+[19:11:06] CCA.C17-UNION.SqL.72633<STEAM_0:1:17219621> changed their name to OTA.C17-ECHO.OWC.25097
+[19:11:07] Klaudiusz Olszewski gave CCA.C17-GRID.i2.36307 100 rounds
+[19:11:07] Klaudiusz Olszewski: !giveammo i2 100
+[19:11:10] Klaudiusz Olszewski gave CCA.C17-GRID.i2.36307 100 rounds
+[19:11:10] Klaudiusz Olszewski: !giveammo i2 100
+[19:11:14] CCA.C17-GRID.i2.36307: /toggleraise
+[19:11:15] Achille 'Tucker' Tristram: // ota
+[19:11:17] Achille 'Tucker' Tristram: // pog
+[19:11:21] Klaudiusz Olszewski: // pogta
+[19:11:25] CCA.C17-GRID.i2.36307: /y move
+[19:11:29] CCA.C17-GRID.i2.36307: /y RUN
+[19:11:29] OTA.C17-ECHO.OWC.25097: /r Copy, updating 10-20 to Armory for hazard suit pick up.
+[19:11:44] Morgan Beck: Ugh, what's out there?
+[19:11:49] OTA.C17-ECHO.OWC.25097: /r ECHO:ONE out of stasis, preparing for combat.
+[19:12:09] Achille 'Tucker' Tristram: Headcrabs, Zombies and those headcrabs that shoot acid
+[19:12:15] Morgan Beck: Fuck-
+[19:12:17] Santino Russo: Zombies
+[19:12:18] Morgan Beck: Shoot... acid?
+[19:12:20] Morgan Beck: Excuse me?
+[19:12:33] Achille 'Tucker' Tristram: All I know is the headcrab shot acid or something
+[19:12:39] CCA.C17-GRID.i2.36307: /R VIROME IN PLAZA, WON'T FUCKING DIE
+[19:12:50] Achille 'Tucker' Tristram: Its over in d3
+[19:12:51] CCA.C17-GRID.i2.36307: /toggleraise
+[19:12:51] Klaudiusz Olszewski gave CCA.C17-GRID.i2.36307 300 rounds
+[19:12:51] Klaudiusz Olszewski: !giveammo i2 300
+[19:12:56] CCA.C17-GRID.i2.36307: /toggleraise
+[19:13:06] CCA.C17-GRID.i2.36307: /toggleraise
+[19:13:06] Morgan Beck: We should be safe. Probably.
+[19:13:11] OTA.C17-ECHO.OWC.25097: Round up the 10-91's for mandatory conscription
+[19:13:14] Morgan Beck: Going to check for any vents though. Just incase.
+[19:13:17] Santino Russo: Over there
+[19:13:18] CCA.C17-GRID.i2.36307: Where to?
+[19:13:20] CCA.C17-GRID.i2.36307: /toggleraise
+[19:13:29] CCA.C17-GRID.i2.36307: /toggleraise
+[19:13:29] OTA.C17-ECHO.OWC.25097: Nexus checkpoint
+[19:13:37] CCA.C17-GRID.i2.36307: citizen
+[19:13:48] Morgan Beck: Well, I'm going to barricade the front-
+[19:13:55] CCA.C17-GRID.i2.36307: go stand over by the Nexus checkpoint
+[19:13:57] Morgan Beck: Swore I just heard something.
+[19:13:59] Achille 'Tucker' Tristram: I can help
+[19:14:03] CCA.C17-GRID.i2.36307: go stand over by the Nexus checkpoint
+[19:14:04] CCA.C17-GRID.i2.36307: /toggleraise
+[19:14:05] Achille 'Tucker' Tristram: /me grabs table
+[19:14:14] Achille 'Tucker' Tristram: /me pulls to doors
+[19:14:30] Morgan Beck: /looc fuck 
+[19:14:51] CCA.C17-GRID.i2.36307: /toggleraise
+[19:14:55] Klaudiusz Olszewski<STEAM_0:1:127409364> spawned NPC npc_zombie
+[19:14:56] Klaudiusz Olszewski<STEAM_0:1:127409364> spawned NPC npc_zombie
+[19:15:00] Klaudiusz Olszewski<STEAM_0:1:127409364> spawned NPC npc_fastzombie
+[19:15:01] Klaudiusz Olszewski<STEAM_0:1:127409364> spawned NPC npc_fastzombie
+[19:15:04] Morgan Beck: /me grabs the sofa, soon pushing it and lifting it onto the table.
+[19:15:05] Klaudiusz Olszewski<STEAM_0:1:127409364> spawned NPC npc_zombie
+[19:15:06] Klaudiusz Olszewski<STEAM_0:1:127409364> spawned NPC npc_zombie
+[19:15:09] Achille 'Tucker' Tristram: /me assists
+[19:15:41] Morgan Beck: /looc fuck it I'm gonna use standard HL2 shiot
+[19:15:43] Client "Dilly_" connected.
+[19:15:44] CCA.C17-GRID.i2.36307: /toggleraise
+[19:15:46] Achille 'Tucker' Tristram: /looc ight
+[19:15:50] Morgan Beck<STEAM_0:1:52892973> spawned model models/props_c17/furniturecouch001a.mdl
+[19:15:57] OTA.C17-ECHO.OWC.25097: /dispatch Citizen notice: citizens report to the Nexus checkpoint for mandatory conscription.
+[19:16:02] Achille 'Tucker' Tristram: Well shit
+[19:16:06] Klaudiusz Olszewski: /toggleraise
+[19:16:13] Achille 'Tucker' Tristram: Should we go?
+[19:16:14] Klaudiusz Olszewski: /toggleraise
+[19:16:20] CCA.C17-GRID.i2.36307: /toggleraise
+[19:16:23] Morgan Beck: I can let you out through the back if you want.
+[19:16:27] OTA.C17-ECHO.OWC.25097: /me Holds out a stack of Hazmat suits to the GRID.
+[19:16:28] Klaudiusz Olszewski: /toggleraise
+[19:16:29] Klaudiusz Olszewski: /toggleraise
+[19:16:32] Morgan Beck: But I'm gonna be staying here for the most part.
+[19:16:35] CCA.C17-GRID.i2.36307: /me takes the fuckers
+[19:16:38] Achille 'Tucker' Tristram: Alright let me out
+[19:16:41] OTA.C17-ECHO.OWC.25097: The airtanks will be issued once we have rounded up all of them
+[19:16:45] Santino Russo: Another one
+[19:17:19] OTA.C17-ECHO.OWC.25097: /y Citizens! line up shoulder to shoulder!
+[19:17:23] Santino Russo: There's more!
+[19:17:51] CCA.C17-GRID.i2.36307: /me drops a suit in front of the citizen
+[19:17:56] Morgan Beck: /toggleraise
+[19:18:04] Klaudiusz Olszewski: /chargiveitem santino hazmat
+[19:18:05] Santino Russo: /me grabs the suit, looking at it.
+[19:18:08] Morgan Beck: /toggleraise
+[19:18:16] CCA.C17-GRID.i2.36307: // doughnut give actual suits pls
+[19:18:19] Santino Russo: Do I... wear it?
+[19:18:20] Klaudiusz Olszewski: /chargiveitem achille hazmat
+[19:18:28] Klaudiusz Olszewski: /chargiveitem klau hazmat
+[19:18:31] CCA.C17-GRID.i2.36307: uh
+[19:18:36] CCA.C17-GRID.i2.36307: yes
+[19:18:44] CCA.C17-GRID.i2.36307: /me drops a suit in front of the citizen
+[19:18:45] Santino Russo: /me puts the suit on over his clothes.
+[19:18:49] CCA.C17-GRID.i2.36307: /me drops a suit in front of the citizen
+[19:19:52] CCA.C17-GRID.i2.36307: /r We're missing one person.
+[19:20:08] OTA.C17-ECHO.OWC.25097: /r Xenian breach appears to be clear, ECHO:ONE will provide assistance with the clean up.
+[19:20:27] Morgan Beck: /toggleraise
+[19:20:41] Morgan Beck: /toggleraise
+[19:20:44] OTA.C17-ECHO.OWC.25097: /dispatch misscount detected
+[19:20:46] OTA.C17-ECHO.OWC.25097: // Void
+[19:20:56] Santino Russo: // miscount
+[19:21:10] OTA.C17-ECHO.OWC.25097: // Bruh
+[19:21:18] OTA.C17-ECHO.OWC.25097: /dispatch miscount detected
+[19:21:29] Morgan Beck: What?
+[19:21:30] Achille 'Tucker' Tristram: // rations
+[19:21:31] Achille 'Tucker' Tristram: // pog
+[19:21:57] Klaudiusz Olszewski<STEAM_0:1:127409364> used the tool rb655_easy_bodygroup on maps/rp_city17_build210.bsp
+[19:22:14] OTA.C17-ECHO.OWC.25097: Citizens, you will be assisting us with the clean up process in the containment zone.
+[19:22:18] Klaudiusz Olszewski<STEAM_0:1:127409364> used the tool rb655_easy_bodygroup on maps/rp_city17_build210.bsp
+[19:22:27] Client "Dilly_" spawned in server <STEAM_0:0:52468151> (took 404 seconds).
+[19:22:31] Klaudiusz Olszewski<STEAM_0:1:127409364> used the tool rb655_easy_bodygroup on maps/rp_city17_build210.bsp
+[19:22:36] Klaudiusz Olszewski<STEAM_0:1:127409364> used the tool rb655_easy_bodygroup on models/hlvr/characters/worker/worker_player.mdl
+[19:22:38] Klaudiusz Olszewski<STEAM_0:1:127409364> used the tool rb655_easy_bodygroup on maps/rp_city17_build210.bsp
+[19:22:54] OTA.C17-ECHO.OWC.25097: All of you will be given the equipment required for this task and I will be providing security along with the CCA officer.
+[19:23:22] Dilly_<STEAM_0:0:52468151> changed their name to Jim Stinson
+[19:23:50] OTA.C17-ECHO.OWC.25097: Stay here and do not talk
+[19:23:55] Klaudiusz Olszewski<STEAM_0:1:127409364> spawned model models/hlvr/combine_hazardprops/combinehazardprops_hoover.mdl
+[19:23:59] CCA.C17-GRID.i2.36307: go over there and line up with them
+[19:24:06] CCA.C17-GRID.i2.36307: /me points to the losers at the checkpoint
+[19:24:06] Jim Stinson: Oh uhh right'o.
+[19:24:27] Jim Stinson: /actstand 2
+[19:24:30] CCA.C17-GRID.i2.36307: i said line up with them
+[19:24:31] OTA.C17-ECHO.OWC.25097: Alright, this will be used to destroy large Xenian structures, do you understand?
+[19:24:40] CCA.C17-GRID.i2.36307: /me gives the citizen a suit
+[19:24:41] Klaudiusz Olszewski: /chargiveitem stinson hazmat
+[19:24:46] Santino Russo: I sure do.
+[19:24:49] Achille 'Tucker' Tristram: /me nods head
+[19:24:50] Morgan Beck: /toggleraise
+[19:25:04] Morgan Beck: /toggleraise
+[19:25:08] CCA.C17-GRID.i2.36307: .// put it on
+[19:25:10] Jim Stinson: /me grabs the suit, folding it out
+[19:25:20] Klaudiusz Olszewski<STEAM_0:1:127409364> used the tool rb655_easy_bodygroup on models/hlvr/characters/worker/worker_player.mdl
+[19:25:22] Klaudiusz Olszewski<STEAM_0:1:127409364> used the tool rb655_easy_bodygroup on maps/rp_city17_build210.bsp
+[19:25:36] OTA.C17-ECHO.OWC.25097: GRID, code:SWORD is authorized until this is resolved.
+[19:25:56] Klaudiusz Olszewski: /changesociostatus yellow
+[19:26:13] OTA.C17-ECHO.OWC.25097: Alright, two of you pick up the machine and all of you follow me.
+[19:26:32] Morgan Beck: // BRB
+[19:26:33] Santino Russo: /me 
+[19:26:35] Santino Russo: .// fuck off
+[19:26:36] Klaudiusz Olszewski: /me grabs one side of the tank
+[19:26:49] Santino Russo: /me grabs other side of tank.
+[19:27:51] Morgan Beck: // Back
+[19:28:02] CCA.C17-GRID.i2.36307: // you caused a miscount 
+[19:28:09] Santino Russo: .// void
+[19:28:11] Klaudiusz Olszewski<STEAM_0:1:127409364> used the tool emitter on maps/rp_city17_build210.bsp
+[19:28:14] Klaudiusz Olszewski<STEAM_0:1:127409364> used the tool emitter on maps/rp_city17_build210.bsp
+[19:28:15] Morgan Beck: // Bruh moment.
+[19:28:21] Santino Russo: /me sets the tank down.
+[19:28:37] Klaudiusz Olszewski<STEAM_0:1:127409364> used the tool rope on models/props_lab/tpplug.mdl
+[19:28:38] Klaudiusz Olszewski<STEAM_0:1:127409364> used the tool rope on maps/rp_city17_build210.bsp
+[19:28:40] Klaudiusz Olszewski<STEAM_0:1:127409364> used the tool rope on models/props_lab/tpplug.mdl
+[19:28:41] Klaudiusz Olszewski<STEAM_0:1:127409364> used the tool rope on maps/rp_city17_build210.bsp
+[19:29:00] OTA.C17-ECHO.OWC.25097: /y One of you will use the hose to destroy the Xenian structures! the rest will bring the bodies into a pile for later cremation!
+[19:29:14] Santino Russo: /me grabs the hose.
+[19:29:20] Klaudiusz Olszewski<STEAM_0:1:127409364> used the tool rope on models/props_lab/tpplug.mdl
+[19:29:20] Achille 'Tucker' Tristram: /me grabs hose
+[19:29:24] Santino Russo: .// 2 late
+[19:29:24] Klaudiusz Olszewski<STEAM_0:1:127409364> used the tool rope on models/props_lab/tpplug.mdl
+[19:29:26] Klaudiusz Olszewski<STEAM_0:1:127409364> used the tool rope on models/props_lab/tpplug.mdl
+[19:29:28] Klaudiusz Olszewski<STEAM_0:1:127409364> used the tool rope on maps/rp_city17_build210.bsp
+[19:29:30] CCA.C17-GRID.i2.36307<STEAM_0:0:193599766> spawned model models/props_junk/wood_crate002a.mdl
+[19:29:32] CCA.C17-GRID.i2.36307<STEAM_0:0:193599766> spawned model models/props_junk/wood_crate002a.mdl
+[19:29:42] Santino Russo: .// me
+[19:30:13] OTA.C17-ECHO.OWC.25097: The one with the hose, spray the liquid onto the fauna.
+[19:30:24] Santino Russo: Is the fauna that big orb?
+[19:30:31] CCA.C17-GRID.i2.36307: yes
+[19:30:37] Achille 'Tucker' Tristram: // chief is getting on so we can do the thing later
+[19:30:38] Achille 'Tucker' Tristram: // pog
+[19:30:41] OTA.C17-ECHO.OWC.25097: Anything that isn't normal needs to be sprayed down.
+[19:30:46] Santino Russo: Gotcha'
+[19:30:51] Achille 'Tucker' Tristram: These tickel
+[19:31:07] OTA.C17-ECHO.OWC.25097: /y Everyone else get the bodies and place them into a pile!
+[19:31:27] Jim Stinson: .// o tits I gotta yeet
+[19:31:30] CCA.C17-GRID.i2.36307: /y MOVE IT!
+[19:31:33] Jim Stinson: .// here uhhh someone take my suit
+[19:31:46] Dropped "Jim Stinson" from server<STEAM_0:0:52468151>
+[19:32:13] Client "Mr. Chief" connected.
+[19:32:18] OTA.C17-ECHO.OWC.25097: Start working
+[19:32:36] OTA.C17-ECHO.OWC.25097: I'll look after the others
+[19:32:45] Santino Russo: /me aims at the spikey boys with the hose at his hip. He releases the liquid from within the hose out onto the spikey boys until they are all coated. He then turns it off and looks at the large white orb.
+[19:32:52] Santino Russo: God damn...
+[19:33:07] CCA.C17-GRID.i2.36307: I do not want to touch it.
+[19:33:34] OTA.C17-ECHO.OWC.25097: // Ollie should TP himself over here and put on a suit so he can work
+[19:33:42] Klaudiusz Olszewski: /toggleraise
+[19:33:53] Achille 'Tucker' Tristram: JEsus
+[19:33:56] Klaudiusz Olszewski: I know
+[19:34:04] OTA.C17-ECHO.OWC.25097: /r Necrotic tagged
+[19:34:08] Santino Russo: /me walks toward the orb-on-stilts, making sure the hose doesn't get caught on his feet. He aims up at the orb from his hip. He then sprays the whole thing on the side that's visible. He then takes several sidesteps while spraying from his hip, coating it.
+[19:34:21] Morgan Beck: // I would, but I probably might go soon.
+[19:34:25] Achille 'Tucker' Tristram: Should we check inside the buildings too?
+[19:34:28] OTA.C17-ECHO.OWC.25097: /r beginning sweep of housing block "Michigan"
+[19:34:31] OTA.C17-ECHO.OWC.25097: Behind me
+[19:34:50] Morgan Beck: // Got some personal shit to do that came up,
+[19:34:54] OTA.C17-ECHO.OWC.25097: // Alright
+[19:34:56] Klaudiusz Olszewski<STEAM_0:1:127409364> spawned NPC npc_zombie
+[19:34:59] Klaudiusz Olszewski<STEAM_0:1:127409364> spawned NPC npc_fastzombie_torso
+[19:35:13] Klaudiusz Olszewski<STEAM_0:1:127409364> spawned NPC npc_headcrab_fast
+[19:35:18] Klaudiusz Olszewski<STEAM_0:1:127409364> spawned NPC npc_fastzombie_torso
+[19:35:35] Klaudiusz Olszewski<STEAM_0:1:127409364> spawned sent xen_plantlight
+[19:35:38] Achille 'Tucker' Tristram: I heat
+[19:35:39] Klaudiusz Olszewski<STEAM_0:1:127409364> spawned sent xen_spore_small
+[19:35:41] OTA.C17-ECHO.OWC.25097: .// Wanna see a meme?
+[19:35:42] Achille 'Tucker' Tristram: I hear something
+[19:35:48] Achille 'Tucker' Tristram: /looc lmao
+[19:35:50] OTA.C17-ECHO.OWC.25097: Copy
+[19:36:04] Santino Russo: /me turns it off, making sure the orb is sufficiently coated. He walks toward another smaller orb with the hose on hip. He releases the cleaning solution, coating the whole orb as he walks around it. He turns and hits the spikey boys in the distance.
+[19:36:07] Klaudiusz Olszewski<STEAM_0:1:127409364> spawned NPC npc_poisonzombie
+[19:36:13] Santino Russo: /me sprays the spikey boys down.
+[19:36:16] Klaudiusz Olszewski<STEAM_0:1:127409364> spawned NPC npc_poisonzombie
+[19:36:18] Klaudiusz Olszewski<STEAM_0:1:127409364> spawned NPC npc_headcrab_fast
+[19:36:18] Morgan Beck: // Yeah, gotta go. Sorry I wasn't able to stay on for long.
+[19:36:25] Klaudiusz Olszewski<STEAM_0:1:127409364> spawned NPC npc_zombie_torso
+[19:36:27] OTA.C17-ECHO.OWC.25097: // You're good!
+[19:36:29] Achille 'Tucker' Tristram: // your fine man
+[19:36:31] Klaudiusz Olszewski<STEAM_0:1:127409364> spawned NPC npc_headcrab
+[19:36:35] Dropped "Morgan Beck" from server<STEAM_0:1:52892973>
+[19:36:57] CCA.C17-GRID.i2.36307<STEAM_0:0:193599766> spawned model models/hunter/blocks/cube025x025x025.mdl
+[19:36:58] Klaudiusz Olszewski<STEAM_0:1:127409364> spawned NPC npc_headcrab
+[19:37:02] OTA.C17-ECHO.OWC.25097: // Fuck, I don't have pistol ammo
+[19:37:10] OTA.C17-ECHO.OWC.25097: // Uhhh, Doughnut give me your powers
+[19:37:15] Klaudiusz Olszewski<STEAM_0:1:127409364> spawned NPC npc_zombie
+[19:37:19] OTA.C17-ECHO.OWC.25097: // Plez
+[19:37:21] Klaudiusz Olszewski gave OTA.C17-ECHO.OWC.25097 200 rounds
+[19:37:21] Klaudiusz Olszewski: !giveammo echo 200
+[19:37:29] Achille 'Tucker' Tristram: /me hides in cornor
+[19:37:31] Santino Russo: /me sprays the hentai type beat tentacle with the hose after spraying the spikey boys. He turns it off and walks toward the bigger orb and spikey boys.
+[19:37:33] Client "Mr. Chief" spawned in server <STEAM_0:1:129270116> (took 320 seconds).
+[19:37:47] OTA.C17-ECHO.OWC.25097: // I'm muted because I want to hear in game
+[19:38:00] Achille 'Tucker' Tristram: Is it gone>
+[19:38:03] OTA.C17-ECHO.OWC.25097: Cleaned
+[19:38:20] CCA.C17-GRID.i2.36307<STEAM_0:0:193599766> used the tool emitter on models/hunter/blocks/cube025x025x025.mdl
+[19:38:21] Santino Russo: /me turns the hose on and sprays the orb and spikey boys like he is a machine gunner, left and right. He coats both of the invasive species.
+[19:38:25] CCA.C17-GRID.i2.36307<STEAM_0:0:193599766> used the tool emitter on models/hunter/blocks/cube025x025x025.mdl
+[19:38:34] Santino Russo: /me turns it off, making sure the orb is sufficiently coated. He walks toward another smaller orb with the hose on hip. He releases the cleaning solution, coating the whole orb as he walks around it. He turns and hits the spikey boys in the distance.
+[19:39:04] OTA.C17-ECHO.OWC.25097: Return to standard conscription duties, I will call upon a Worker if I require one
+[19:39:09] Santino Russo: /me turns it off, making sure the orb is sufficiently coated. He walks toward another smaller orb with the hose on hip. He releases the cleaning solution, coating the whole orb as he walks around it. He turns and hits the lone spikey boy in the distance.
+[19:39:11] Achille 'Tucker' Tristram: Yes, sir.
+[19:39:20] CCA.C17-GRID.i2.36307<STEAM_0:0:193599766> used the tool rope on maps/rp_city17_build210.bsp
+[19:39:31] Achille 'Tucker' Tristram: Hey
+[19:39:31] Klaudiusz Olszewski<STEAM_0:1:127409364> spawned NPC npc_zombie
+[19:39:33] CCA.C17-GRID.i2.36307<STEAM_0:0:193599766> used the tool rope on maps/rp_city17_build210.bsp
+[19:39:35] Klaudiusz Olszewski<STEAM_0:1:127409364> spawned NPC npc_zombie_torso
+[19:39:35] Achille 'Tucker' Tristram: Should
+[19:39:38] Klaudiusz Olszewski<STEAM_0:1:127409364> spawned NPC npc_barnacle
+[19:39:45] Achille 'Tucker' Tristram: Sir
+[19:39:51] CCA.C17-GRID.i2.36307: what?
+[19:39:57] Achille 'Tucker' Tristram: Should I search the cwu science
+[19:40:02] Mr. Chief<STEAM_0:1:129270116> changed their name to OTA.C17-ECHO.OWC.29481
+[19:40:17] Achille 'Tucker' Tristram: I hear them
+[19:40:18] CCA.C17-GRID.i2.36307: /toggleraise
+[19:40:21] Achille 'Tucker' Tristram: WATCH OUT
+[19:40:21] Klaudiusz Olszewski<STEAM_0:1:127409364> spawned NPC npc_barnacle
+[19:40:23] OTA.C17-ECHO.OWC.29481: /r 10-8, Status?
+[19:40:37] Achille 'Tucker' Tristram: COMBINE
+[19:40:38] CCA.C17-GRID.i2.36307: /r Got some necrotics in the CSU
+[19:40:42] Klaudiusz Olszewski: /toggleraise
+[19:40:51] OTA.C17-ECHO.OWC.25097: /r ECHO:ONE reporting: Michigan is clean.
+[19:40:58] Klaudiusz Olszewski: /toggleraise
+[19:41:08] Achille 'Tucker' Tristram: looks clear
+[19:41:10] CCA.C17-GRID.i2.36307: /toggleraise
+[19:41:18] OTA.C17-ECHO.OWC.29481: /r 10-4. On-site.
+[19:41:21] CCA.C17-GRID.i2.36307: Move the body
+[19:41:26] Santino Russo: /me flicks the hose on at his hip, spraying down the ceiling barnacle. He then turns his hose off.
+[19:41:30] Achille 'Tucker' Tristram: Who- Who are you guys?
+[19:41:33] Achille 'Tucker' Tristram: Are you cca?
+[19:41:38] OTA.C17-ECHO.OWC.29481: quit talking
+[19:41:39] CCA.C17-GRID.i2.36307: move the body
+[19:41:42] Achille 'Tucker' Tristram: Yes, sir
+[19:41:52] Achille 'Tucker' Tristram: /me grabs body by legs moving it to pile
+[19:42:08] OTA.C17-ECHO.OWC.29481: situation status?
+[19:42:15] Achille 'Tucker' Tristram: /me throws
+[19:42:20] Santino Russo: // brb one sec
+[19:42:31] OTA.C17-ECHO.OWC.29481: move away
+[19:42:32] OTA.C17-ECHO.OWC.25097: Large Xenian breach in this district, most of the Xenian lifeforms have been exterminated
+[19:42:32] Achille 'Tucker' Tristram: Should I get the ones inside too?
+[19:42:39] OTA.C17-ECHO.OWC.25097: Affirmative
+[19:42:45] OTA.C17-ECHO.OWC.29481: copy
+[19:42:49] Achille 'Tucker' Tristram: /me picks up corpse
+[19:42:59] OTA.C17-ECHO.OWC.25097: // This do be a neato event
+[19:43:08] OTA.C17-ECHO.OWC.29481: haven't had an infestation in a while
+[19:43:10] Achille 'Tucker' Tristram: /me throws body down
+[19:43:21] Achille 'Tucker' Tristram: // spawn more zombies ;)
+[19:43:37] Klaudiusz Olszewski<STEAM_0:1:127409364> spawned NPC npc_barnacle
+[19:43:38] OTA.C17-ECHO.OWC.25097: Yeah, this city doesn't have much Xenian activity.
+[19:43:39] Santino Russo: // back
+[19:43:42] OTA.C17-ECHO.OWC.29481: affirmative
+[19:43:49] Achille 'Tucker' Tristram: Stay bac
+[19:44:05] Achille 'Tucker' Tristram: Those things fuckin grab you and sink there teeth into you
+[19:44:08] Achille 'Tucker' Tristram: Ill go get a unit
+[19:44:15] Achille 'Tucker' Tristram: Over here
+[19:44:16] OTA.C17-ECHO.OWC.29481: // tfw pulse smgs are missing textured for me
+[19:44:19] OTA.C17-ECHO.OWC.25097: // F
+[19:44:24] OTA.C17-ECHO.OWC.25097: // Looks fine for me
+[19:44:29] Achille 'Tucker' Tristram: Wh-
+[19:44:31] CCA.C17-GRID.i2.36307: /toggleraise
+[19:44:33] Client "private greenman" connected.
+[19:44:36] CCA.C17-GRID.i2.36307: /toggleraise
+[19:44:38] CCA.C17-GRID.i2.36307: ew
+[19:44:44] OTA.C17-ECHO.OWC.29481: hold it
+[19:44:52] CCA.C17-GRID.i2.36307: /toggleraise
+[19:45:00] CCA.C17-GRID.i2.36307: /toggleraise
+[19:45:01] OTA.C17-ECHO.OWC.29481: clean
+[19:45:01] Achille 'Tucker' Tristram: Hm
+[19:45:09] OTA.C17-ECHO.OWC.25097: This part of the district was searched, how did that Xenian get there?
+[19:45:09] Achille 'Tucker' Tristram: /me picks up zombie
+[19:45:14] OTA.C17-ECHO.OWC.29481: unkown
+[19:45:17] OTA.C17-ECHO.OWC.25097: Hm
+[19:45:25] OTA.C17-ECHO.OWC.29481: move back
+[19:45:27] Achille 'Tucker' Tristram: Should we check in there?
+[19:45:41] OTA.C17-ECHO.OWC.25097: Negative, we'll check it at a later date.
+[19:45:57] OTA.C17-ECHO.OWC.25097: .// Little did you know, that is where stasis is
+[19:46:08] Achille 'Tucker' Tristram: Didnt they all come from d4 shouldent we go search there?
+[19:46:18] Santino Russo: // void
+[19:46:44] OTA.C17-ECHO.OWC.29481: you don't give us suggestions, citizen
+[19:46:48] Achille 'Tucker' Tristram: // should spawn more things
+[19:46:56] OTA.C17-ECHO.OWC.25097: // 7 players because somebody is joining pog
+[19:47:07] Klaudiusz Olszewski: // i could
+[19:47:12] Achille 'Tucker' Tristram: // do it
+[19:47:12] OTA.C17-ECHO.OWC.29481: is the situation resolved?
+[19:47:15] Achille 'Tucker' Tristram: // dew it
+[19:47:18] OTA.C17-ECHO.OWC.25097: Looks to be
+[19:47:26] Achille 'Tucker' Tristram: /me picks up corpse
+[19:47:27] Klaudiusz Olszewski<STEAM_0:1:127409364> spawned NPC monster_gonome
+[19:47:35] OTA.C17-ECHO.OWC.29481: copy
+[19:47:37] OTA.C17-ECHO.OWC.25097: .// If we did Antlions this almost will be a Killteam alpha thing lmao
+[19:48:09] Santino Russo: There's another!
+[19:48:12] Santino Russo: Over here
+[19:48:14] CCA.C17-GRID.i2.36307: another what?
+[19:48:16] CCA.C17-GRID.i2.36307: another what?
+[19:48:30] Achille 'Tucker' Tristram: Jesus christ
+[19:48:30] OTA.C17-ECHO.OWC.29481: tag one necrotic
+[19:48:41] Klaudiusz Olszewski<STEAM_0:1:127409364> spawned NPC monster_bullsquid
+[19:48:42] OTA.C17-ECHO.OWC.29481: /me kicks the corpse.
+[19:48:45] CCA.C17-GRID.i2.36307: /toggleraise
+[19:48:56] CCA.C17-GRID.i2.36307: /toggleraise
+[19:49:02] Achille 'Tucker' Tristram: Fuckin
+[19:49:05] Achille 'Tucker' Tristram: Hell
+[19:49:05] Klaudiusz Olszewski: /me pokes it
+[19:49:07] OTA.C17-ECHO.OWC.29481: citizen, move back
+[19:49:08] OTA.C17-ECHO.OWC.25097: /r ECHO:ONE reporting: Xenobe tagged at our 10-20.
+[19:49:17] OTA.C17-ECHO.OWC.25097: // Low on ammo again, bruh.
+[19:49:20] OTA.C17-ECHO.OWC.29481: /me kicks the Gonome corpse.
+[19:49:22] Achille 'Tucker' Tristram: // i would be down for a hord of zombies
+[19:49:31] Achille 'Tucker' Tristram: // ;)
+[19:49:32] Klaudiusz Olszewski: // ew
+[19:49:32] Client "private greenman" spawned in server <STEAM_0:1:540386641> (took 299 seconds).
+[19:49:44] OTA.C17-ECHO.OWC.25097: .// Do it again, fucking watch me
+[19:49:48] Achille 'Tucker' Tristram: S-Should we take that too the pit to?
+[19:49:53] OTA.C17-ECHO.OWC.25097: Affirmative
+[19:49:54] Achille 'Tucker' Tristram: Pile i mean
+[19:49:56] Santino Russo: I'll help
+[19:50:01] Achille 'Tucker' Tristram: Well can I get some help guys
+[19:50:10] CCA.C17-GRID.i2.36307: help him
+[19:50:12] Achille 'Tucker' Tristram: /me attempts to lift big fucker
+[19:50:15] Achille 'Tucker' Tristram: /rollstat str
+[19:50:21] Santino Russo: /me grabs the tail and the rear right leg, awaiting assistance.
+[19:50:22] Achille 'Tucker' Tristram: AGGGGG
+[19:50:27] Achille 'Tucker' Tristram: Help me
+[19:50:29] Achille 'Tucker' Tristram: Please
+[19:50:32] Santino Russo: /me grabs the tail and the rear right leg, awaiting assistance.
+[19:50:39] Klaudiusz Olszewski: /me grabs the tenticles
+[19:50:45] Santino Russo: /me lifts the thing up.
+[19:50:45] Achille 'Tucker' Tristram: Can I get some help over here
+[19:50:48] Klaudiusz Olszewski: /rollstat str
+[19:50:52] Klaudiusz Olszewski: /me lifts with the man
+[19:50:56] Achille 'Tucker' Tristram: /me attempts to lift big fucker
+[19:50:59] Achille 'Tucker' Tristram: /rollstat str
+[19:51:03] Santino Russo: /rollstat str
+[19:51:10] Achille 'Tucker' Tristram: Fuckin fat fuck
+[19:51:16] Achille 'Tucker' Tristram: /me attempts to lift big fucker
+[19:51:16] Klaudiusz Olszewski: /me tosses it into the pile
+[19:51:18] OTA.C17-ECHO.OWC.29481: /w Citizens do not have any augmentations or strength enhancements, therefore they are inferior to our forms.
+[19:51:18] Achille 'Tucker' Tristram: /rollstat str
+[19:51:21] Achille 'Tucker' Tristram: Fuck
+[19:51:22] Santino Russo: /me swings it into the pile
+[19:51:27] Achille 'Tucker' Tristram: Can you guys help?
+[19:51:33] Santino Russo: Sure.
+[19:51:35] OTA.C17-ECHO.OWC.25097: /w Indeed, the OTA are far superior compared to citizens.
+[19:51:36] Klaudiusz Olszewski: /it you strain your back trying to move it
+[19:51:39] OTA.C17-ECHO.OWC.29481: /w Haha.
+[19:51:39] Achille 'Tucker' Tristram: alright lift on all 3
+[19:51:40] Santino Russo: /me attempts to lift the thing.
+[19:51:44] Santino Russo: /rollstat str
+[19:51:44] Achille 'Tucker' Tristram: 1
+[19:51:45] Achille 'Tucker' Tristram: 2
+[19:51:46] Klaudiusz Olszewski: /me helps them lift it
+[19:51:46] Achille 'Tucker' Tristram: 3
+[19:51:49] Klaudiusz Olszewski: /rollstat str
+[19:51:49] Achille 'Tucker' Tristram: lift
+[19:51:53] Achille 'Tucker' Tristram: /rollstat str
+[19:52:04] Klaudiusz Olszewski: /it the thing is barely lifted
+[19:52:08] Achille 'Tucker' Tristram: God
+[19:52:16] OTA.C17-ECHO.OWC.25097: // Citizen gets a promotion to conscript
+[19:52:18] Achille 'Tucker' Tristram: Can you help?
+[19:52:22] Santino Russo: /me attempts to throw it.\
+[19:52:24] OTA.C17-ECHO.OWC.29481: /r Citizens may be too malnourished. They can barely lift a corpse.
+[19:52:24] Klaudiusz Olszewski: /me tosses into pile
+[19:52:25] Santino Russo: We got it.
+[19:52:25] private greenman<STEAM_0:1:540386641> changed their name to jack
+[19:52:33] OTA.C17-ECHO.OWC.29481: hurry up
+[19:52:36] Achille 'Tucker' Tristram: // more npcs plz
+[19:52:37] Klaudiusz Olszewski: /it it is tossed into the body pile
+[19:52:41] Santino Russo: // no
+[19:52:43] OTA.C17-ECHO.OWC.25097: // New player boys
+[19:52:43] Achille 'Tucker' Tristram: // :(
+[19:52:47] Klaudiusz Olszewski: // pog
+[19:52:48] OTA.C17-ECHO.OWC.25097: // GRID go deal with that nerd
+[19:53:02] Achille 'Tucker' Tristram: // nice first impression
+[19:53:14] OTA.C17-ECHO.OWC.25097: .// This is wonderful
+[19:53:19] OTA.C17-ECHO.OWC.29481: move back
+[19:53:20] OTA.C17-ECHO.OWC.25097: back up
+[19:53:29] Santino Russo: I've finished.
+[19:53:34] Achille 'Tucker' Tristram: /me nods
+[19:53:35] OTA.C17-ECHO.OWC.29481: affirmative
+[19:53:57] OTA.C17-ECHO.OWC.29481: infestation cleanup finished?
+[19:54:01] OTA.C17-ECHO.OWC.25097: Seems so
+[19:54:04] OTA.C17-ECHO.OWC.29481: copy
+[19:54:05] CCA.C17-GRID.i2.36307: behind the fence
+[19:54:12] Achille 'Tucker' Tristram: /looc i want grunt talk and i want it now
+[19:54:14] OTA.C17-ECHO.OWC.29481: awaiting Overwatch command set
+[19:54:15] CCA.C17-GRID.i2.36307: coupon?
+[19:54:16] OTA.C17-ECHO.OWC.25097: .// okay
+[19:54:20] OTA.C17-ECHO.OWC.29481: .// okay
+[19:54:21] jack: you are an error for me
+[19:54:23] OTA.C17-ECHO.OWC.25097: Copy that, get them onto the wall?
+[19:54:25] Santino Russo: .// okay
+[19:54:28] OTA.C17-ECHO.OWC.29481: affirmative
+[19:54:28] CCA.C17-GRID.i2.36307: .// do /content
+[19:54:33] OTA.C17-ECHO.OWC.25097: /y All of you on the wall!
+[19:54:35] jack: /content
+[19:54:41] OTA.C17-ECHO.OWC.25097: Face us
+[19:54:59] Achille 'Tucker' Tristram: // boba fett rips a fat one
+[19:55:09] OTA.C17-ECHO.OWC.25097: We'll need to investigate the breach at a later point
+[19:55:12] jack: hold on it is downloading
+[19:55:13] OTA.C17-ECHO.OWC.29481: copy
+[19:55:20] Achille 'Tucker' Tristram: /me sniffle
+[19:55:30] OTA.C17-ECHO.OWC.25097: .// Time to purge
+[19:55:36] CCA.C17-GRID.i2.36307: .// restart gmod when downloaded
+[19:55:37] Achille 'Tucker' Tristram: /me sniffle x2
+[19:55:43] jack: okay thanks
+[19:55:53] OTA.C17-ECHO.OWC.25097: .// /me purges the French man
+[19:55:56] OTA.C17-ECHO.OWC.29481: air tank at 60%
+[19:55:59] Klaudiusz Olszewski: /pm 298 Overwatch: Distribute loyalist points to the individuals who assisted in the cleaning of the breach.
+[19:56:00] OTA.C17-ECHO.OWC.25097: Understood
+[19:56:08] Achille 'Tucker' Tristram: /looc ill shoot that air tank
+[19:56:12] OTA.C17-ECHO.OWC.25097: .// Do it
+[19:56:14] OTA.C17-ECHO.OWC.29481: .// do it hoe
+[19:56:14] Klaudiusz Olszewski: /pm 25097 Overwatch: Distribute loyalist points to the individuals who assisted in the cleaning of the breach.
+[19:56:16] CCA.C17-GRID.i2.36307: .// do .// for looc, and // for ooc
+[19:56:52] OTA.C17-ECHO.OWC.25097: I've recieved a order set from Overwatch, we need a CCA officer to distrivute loyalist points to them.
+[19:56:57] OTA.C17-ECHO.OWC.29481: copy
+[19:56:59] OTA.C17-ECHO.OWC.25097: .// distribute*
+[19:57:00] Achille 'Tucker' Tristram: // poggies
+[19:57:08] OTA.C17-ECHO.OWC.25097: Or we can do it, it works either way
+[19:57:19] OTA.C17-ECHO.OWC.25097: .// Check /viewobjectives Chief
+[19:57:24] OTA.C17-ECHO.OWC.25097: /viewobjectives
+[19:57:24] OTA.C17-ECHO.OWC.29481: /viewobjectives
+[19:57:33] Dropped "jack" from server<STEAM_0:1:540386641>
+[19:57:38] OTA.C17-ECHO.OWC.29481: should we just do it?
+[19:57:43] CCA.C17-GRID.i2.36307: // he's restarting gmod
+[19:57:48] OTA.C17-ECHO.OWC.25097: Hmph.....sure
+[19:57:52] OTA.C17-ECHO.OWC.25097: All of you apply.
+[19:57:56] Klaudiusz Olszewski: /apply
+[19:57:56] Santino Russo: /apply
+[19:57:57] Achille 'Tucker' Tristram: /apply
+[19:58:06] OTA.C17-ECHO.OWC.29481: hold it
+[19:58:10] OTA.C17-ECHO.OWC.29481: /viewobjectives
+[19:58:17] OTA.C17-ECHO.OWC.29481: Achille Tristram?
+[19:58:29] OTA.C17-ECHO.OWC.25097: I'll deal with the others.
+[19:58:36] OTA.C17-ECHO.OWC.29481: citizen
+[19:58:40] OTA.C17-ECHO.OWC.29481: move over here
+[19:58:47] OTA.C17-ECHO.OWC.25097: /me Begins typing onto a PDA system.
+[19:58:47] OTA.C17-ECHO.OWC.29481: against the door
+[19:58:52] OTA.C17-ECHO.OWC.29481: now
+[19:58:53] OTA.C17-ECHO.OWC.25097: /viewdata Klaud
+[19:58:58] OTA.C17-ECHO.OWC.29481: i2
+[19:59:00] Client "private greenman" connected.
+[19:59:03] OTA.C17-ECHO.OWC.29481: this is Achille Tristram
+[19:59:12] OTA.C17-ECHO.OWC.29481: citizen wanted
+[19:59:12] CCA.C17-GRID.i2.36307: .// shit no ties, gimme some
+[19:59:37] OTA.C17-ECHO.OWC.25097: 3 LP awarded
+[19:59:48] OTA.C17-ECHO.OWC.25097: /me Begins typing onto a PDA system.
+[19:59:54] OTA.C17-ECHO.OWC.25097: /viewdata Santino
+[19:59:57] OTA.C17-ECHO.OWC.29481: take off the suit
+[19:59:57] CCA.C17-GRID.i2.36307: .// gimme a ziptie
+[20:00:01] OTA.C17-ECHO.OWC.29481: .// i dont have any
+[20:00:04] CCA.C17-GRID.i2.36307: .// fuck
+[20:00:09] CCA.C17-GRID.i2.36307: .// lightroom?
+[20:00:14] Klaudiusz Olszewski: /chargiveitem 29481 ziptie
+[20:00:16] Klaudiusz Olszewski: /chargiveitem 29481 zip
+[20:00:21] OTA.C17-ECHO.OWC.29481: /roll
+[20:00:21] OTA.C17-ECHO.OWC.29481: /me Attempts to restrain the citizen/suspect via Ziptie by placing one on their wrists. (Do you resist?)
+[20:00:28] Achille 'Tucker' Tristram: /me does not resist
+[20:00:31] Klaudiusz Olszewski: /chargiveitem i2 zip 2
+[20:00:33] OTA.C17-ECHO.OWC.25097: /viewdata Klaud
+[20:00:39] OTA.C17-ECHO.OWC.29481: /me searches the man
+[20:00:47] OTA.C17-ECHO.OWC.29481: /me searches the suit, at least
+[20:00:52] OTA.C17-ECHO.OWC.25097: /viewdata Santino
+[20:00:54] OTA.C17-ECHO.OWC.29481: turn around
+[20:01:01] CCA.C17-GRID.i2.36307: /charsearcg
+[20:01:11] CCA.C17-GRID.i2.36307: /charsearch
+[20:01:17] OTA.C17-ECHO.OWC.25097: 3 LP awarded
+[20:01:19] Santino Russo: .// tfw you get the same LP as the others who did /me one liners
+[20:01:22] OTA.C17-ECHO.OWC.29481: /me unzips the suit and takes it off him.
+[20:01:24] OTA.C17-ECHO.OWC.29481: /charsearch
+[20:01:32] OTA.C17-ECHO.OWC.25097: Both of you take off the suits and give them to me
+[20:01:41] OTA.C17-ECHO.OWC.29481: /me searches the man.
+[20:01:43] Client "private greenman" spawned in server <STEAM_0:1:540386641> (took 163 seconds).
+[20:01:44] Achille 'Tucker' Tristram: What did I do?
+[20:01:45] OTA.C17-ECHO.OWC.25097: // Fuck, brb for a moment
+[20:01:45] OTA.C17-ECHO.OWC.29481: /charsearch
+[20:02:17] OTA.C17-ECHO.OWC.29481: /r No contraband. Worst item is a padlock, which doesn't matter.
+[20:02:39] private greenman<STEAM_0:1:540386641> changed their name to jack
+[20:02:54] OTA.C17-ECHO.OWC.25097: // bet
+[20:02:55] CCA.C17-GRID.i2.36307: .// i hgave no audio
+[20:02:57] OTA.C17-ECHO.OWC.29481: /r Apprehending and bringing suspect in. Transferring prisoner to CCA authority after proper securing.
+[20:02:59] CCA.C17-GRID.i2.36307: .// use text please
+[20:03:03] OTA.C17-ECHO.OWC.25097: /r Copy
+[20:03:04] OTA.C17-ECHO.OWC.29481: let's move
+[20:03:07] jack: i can see you now
+[20:03:10] OTA.C17-ECHO.OWC.29481: take him in with me
+[20:03:13] OTA.C17-ECHO.OWC.25097: Alright
+[20:03:21] CCA.C17-GRID.i2.36307: .// what do you want as a surname
+[20:03:28] jack: how to become civil protection
+[20:03:36] Client "That dude named Stev" connected.
+[20:03:49] CCA.C17-GRID.i2.36307: .// what do you want as a surname
+[20:04:01] CCA.C17-GRID.i2.36307: off the table
+[20:04:02] CCA.C17-GRID.i2.36307: now
+[20:04:04] jack: liebes
+[20:04:20] CCA.C17-GRID.i2.36307: /pm klaud liebes
+[20:04:33] Klaudiusz Olszewski: /charsetname jack Jack Liebes
+[20:04:34] jack<STEAM_0:1:540386641> changed their name to Jack Liebes
+[20:04:46] OTA.C17-ECHO.OWC.29481: blindfold him
+[20:04:49] OTA.C17-ECHO.OWC.25097: Copy
+[20:04:50] Jack Liebes: how to become civil protection
+[20:04:58] OTA.C17-ECHO.OWC.25097: /me Blindfolds the civvie
+[20:04:58] CCA.C17-GRID.i2.36307: give me your coupon
+[20:05:03] Jack Liebes: how
+[20:05:06] OTA.C17-ECHO.OWC.29481: drag him in
+[20:05:09] OTA.C17-ECHO.OWC.25097: /me Drags him
+[20:05:16] CCA.C17-GRID.i2.36307: .// press tab
+[20:05:24] CCA.C17-GRID.i2.36307: .// it's in your inventory
+[20:05:45] Klaudiusz Olszewski: /createcid "Jake Liebes" 96243
+[20:05:53] OTA.C17-ECHO.OWC.25097: /me Throws him onto the bench
+[20:05:54] CCA.C17-GRID.i2.36307: STAY
+[20:06:03] Klaudiusz Olszewski: /createcid "Jake Liebes" 96243
+[20:06:12] OTA.C17-ECHO.OWC.29481: /r 10-91 detained. Transferring authority to CCA units.
+[20:06:30] OTA.C17-ECHO.OWC.29481<STEAM_0:1:129270116> changed their name to CCA.C17-JUDGE.OfC.91412
+[20:06:34] OTA.C17-ECHO.OWC.25097: /r ECHO:ONE returning to stasis.
+[20:06:38] Klaudiusz Olszewski<STEAM_0:1:127409364> changed their name to CCA.C17-JUDGE.i4.22767
+[20:06:40] OTA.C17-ECHO.OWC.25097<STEAM_0:1:17219621> changed their name to CCA.C17-UNION.SqL.72633
+[20:06:49] CCA.C17-JUDGE.i4.22767: /changesociostatus gr
+[20:06:53] CCA.C17-UNION.SqL.72633: // Ratio is great
+[20:06:54] CCA.C17-JUDGE.i4.22767: /changesociostatus green
+[20:06:57] Achille 'Tucker' Tristram: // yes
+[20:07:00] CCA.C17-JUDGE.i4.22767: /radio 10-8
+[20:07:08] CCA.C17-UNION.SqL.72633: // Why do we have another JUDGE
+[20:07:10] CCA.C17-JUDGE.OfC.91412: /r 10-4, report to detainment.
+[20:07:19] CCA.C17-JUDGE.i4.22767: /radio 10-4
+[20:07:39] CCA.C17-UNION.SqL.72633<STEAM_0:1:17219621> changed their name to Theban 'Simmons' Revolt
+[20:07:46] Santino Russo<STEAM_0:0:69476140> changed their name to Simone Evans
+[20:07:47] CCA.C17-GRID.i2.36307: blood type, sex, date of birth, medical and/or mental conditions?
+[20:07:50] CCA.C17-GRID.i2.36307: /viewdata jack
+[20:07:54] Simone Evans<STEAM_0:0:69476140> changed their name to Santino Russo
+[20:08:17] CCA.C17-JUDGE.OfC.91412: citizen was arrested for having a combine radio, on a combine frequency. You're going to question and/or interrogate him.
+[20:08:22] CCA.C17-JUDGE.OfC.91412: i will be overseeing this
+[20:08:27] CCA.C17-JUDGE.i4.22767: Understood
+[20:08:44] CCA.C17-JUDGE.OfC.91412: suspect is blindfolded
+[20:08:48] CCA.C17-JUDGE.i4.22767: Up
+[20:08:49] Jack Liebes: o male 03/1988 healthy mental state happy
+[20:08:58] Jack Liebes: blood type o
+[20:09:06] CCA.C17-JUDGE.i4.22767: /me grabs the civvie by his arm and drags him
+[20:09:18] CCA.C17-JUDGE.i4.22767: Open up
+[20:09:28] CCA.C17-GRID.i2.36307: you're 18, correct?
+[20:09:33] Jack Liebes: yes]\
+[20:09:38] Jack Liebes: yes
+[20:09:52] CCA.C17-GRID.i2.36307: /RW Got an underage 10-91, amputate?
+[20:10:00] CCA.C17-JUDGE.OfC.91412: /r How underage?
+[20:10:05] CCA.C17-GRID.i2.36307: /r 18
+[20:10:16] CCA.C17-JUDGE.OfC.91412: /r Minimum age is 21, correct?
+[20:10:21] CCA.C17-GRID.i2.36307: .// you gotta be 21 ic
+[20:10:45] Jack Liebes: can i be an exception please
+[20:10:50] CCA.C17-JUDGE.i4.22767: /me sits the man down and straps him into the chair
+[20:11:01] CCA.C17-JUDGE.i4.22767: /me takes off the blindfold
+[20:11:06] CCA.C17-GRID.i2.36307: /r Correct.
+[20:11:06] Achille 'Tucker' Tristram: /me looks around
+[20:11:10] CCA.C17-JUDGE.i4.22767: /me snaps
+[20:11:13] CCA.C17-JUDGE.i4.22767: Hey look at me
+[20:11:27] Achille 'Tucker' Tristram: /me stares at the judge then the judge behind him
+[20:11:35] Achille 'Tucker' Tristram: /me looks back at original judge
+[20:11:52] CCA.C17-JUDGE.OfC.91412: /c Double-check his data, make sure they aren't lying. If they aren't, amputate them in the back room.
+[20:11:58] CCA.C17-JUDGE.OfC.91412: /r Double-check his data, make sure they aren't lying. If they aren't, amputate them in the back room.
+[20:12:03] CCA.C17-JUDGE.i4.22767: It is my understanding that you are in here for turning in a combine radio, with our frequency.
+[20:12:09] CCA.C17-JUDGE.i4.22767: Understood
+[20:12:17] CCA.C17-GRID.i2.36307: /viewdata jack
+[20:12:23] CCA.C17-JUDGE.i4.22767: /viewdata achille
+[20:12:29] Jack Liebes: sorry
+[20:12:38] Achille 'Tucker' Tristram: I thought it was just a normal radio?
+[20:12:47] CCA.C17-JUDGE.OfC.91412: haha
+[20:12:47] CCA.C17-GRID.i2.36307: alright
+[20:12:58] Jack Liebes: alright what?
+[20:13:08] CCA.C17-JUDGE.i4.22767: You understand all radios are contraband
+[20:13:17] CCA.C17-GRID.i2.36307: you were born in March, 1988?
+[20:13:17] Achille 'Tucker' Tristram: That is why I turned it in
+[20:13:17] CCA.C17-JUDGE.i4.22767: There is no real thing here as a normal radio
+[20:13:21] Jack Liebes: yes
+[20:13:36] CCA.C17-GRID.i2.36307: you are 18 years of age?
+[20:13:36] CCA.C17-JUDGE.i4.22767: So, exaclty where did you aquire the radio
+[20:13:40] Jack Liebes: no
+[20:14:01] CCA.C17-GRID.i2.36307: .// ic it's 2006
+[20:14:09] Achille 'Tucker' Tristram: Well I was walking around district 2 and I found a radio in the back ally area by the restraunt
+[20:14:56] CCA.C17-JUDGE.i4.22767: So you are telling me someone killed a unit, and just tossed the radio behind a loyalist owned establishment?
+[20:15:05] CCA.C17-GRID.i2.36307: go on the wall and face it
+[20:15:08] CCA.C17-JUDGE.i4.22767: With no one noticing
+[20:15:09] Achille 'Tucker' Tristram: Killed?
+[20:15:14] CCA.C17-GRID.i2.36307: /me attempts to tie the subject (resist?)
+[20:15:19] Jack Liebes: no
+[20:15:24] Achille 'Tucker' Tristram: I though he just dropped it on accident or something
+[20:15:27] CCA.C17-JUDGE.i4.22767: That is the only way to have acquired a radio such as the one you tunred in
+[20:15:41] CCA.C17-JUDGE.OfC.91412: look at my uniform
+[20:15:41] CCA.C17-JUDGE.i4.22767: No unit is stupid enough to detatch their radio and toss it
+[20:15:45] Achille 'Tucker' Tristram: Okay
+[20:15:51] CCA.C17-JUDGE.OfC.91412: do you see the radio strapped to my chest?
+[20:16:01] CCA.C17-GRID.i2.36307: /me pulls on the mans arm
+[20:16:04] Achille 'Tucker' Tristram: Yes
+[20:16:09] CCA.C17-GRID.i2.36307: follow
+[20:16:28] CCA.C17-JUDGE.OfC.91412: tell me, then; How and why the hell would an officer drop his radio?
+[20:16:34] CCA.C17-GRID.i2.36307: /me shoves the man onto the chair, tying his arms to the armrests
+[20:16:52] Achille 'Tucker' Tristram: I dont know officer but all I know is I found a radio behind the building.
+[20:16:54] CCA.C17-GRID.i2.36307: /r Amputating.
+[20:17:00] CCA.C17-JUDGE.i4.22767: /radio 10-4
+[20:17:07] Theban 'Simmons' Revolt: /r // okay
+[20:17:07] CCA.C17-JUDGE.OfC.91412: really?
+[20:17:09] CCA.C17-GRID.i2.36307: /me aims his pistol at the mans head, firing
+[20:17:10] CCA.C17-GRID.i2.36307: /toggleraise
+[20:17:12] Theban 'Simmons' Revolt: /r // okay
+[20:17:15] Achille 'Tucker' Tristram: Yep
+[20:17:18] CCA.C17-GRID.i2.36307 killed Jack Liebes using player
+[20:17:25] CCA.C17-GRID.i2.36307: /toggleraise
+[20:17:26] CCA.C17-JUDGE.i4.22767: And no reports of a body around that area?
+[20:17:31] CCA.C17-JUDGE.i4.22767: Interesting
+[20:17:39] CCA.C17-JUDGE.OfC.91412: how bad do you think this situation is, citizen?
+[20:17:57] Achille 'Tucker' Tristram: Pretty bad but I dont know what else to say
+[20:18:13] Achille 'Tucker' Tristram: I found a radio there and turned it in like a good citizen
+[20:18:15] CCA.C17-GRID.i2.36307: /r Amputated.
+[20:18:22] CCA.C17-JUDGE.OfC.91412: good citizen?
+[20:18:23] Achille 'Tucker' Tristram: I cant explain why its there
+[20:18:37] Theban 'Simmons' Revolt: // People getting amputated on their first day be like
+[20:18:38] CCA.C17-JUDGE.OfC.91412: you've had multiple arrests, and even had Wanted posters out for you at one point.
+[20:18:43] CCA.C17-JUDGE.i4.22767: // indeed
+[20:18:48] CCA.C17-JUDGE.OfC.91412: you have the nerve to say you're a good citizen?
+[20:18:50] Jack Liebes: what was that for?
+[20:18:53] CCA.C17-JUDGE.i4.22767: // remember you char has to be at least 21 to survive
+[20:18:56] Achille 'Tucker' Tristram: Hey look man those poster were because of someone who wrote with my name
+[20:19:01] Jack Liebes: ohhhhhh
+[20:19:02] Achille 'Tucker' Tristram: that was proven
+[20:19:06] CCA.C17-JUDGE.i4.22767: // so sorry but i gotta delete the character with magic admin powers
+[20:19:13] CCA.C17-JUDGE.OfC.91412: I know.
+[20:19:14] Achille 'Tucker' Tristram: // spooky
+[20:19:15] CCA.C17-JUDGE.i4.22767: // you can make a new one in like 10 seconds
+[20:19:21] CCA.C17-JUDGE.i4.22767: /charban jake
+[20:19:24] CCA.C17-JUDGE.OfC.91412: continue, JUDGE
+[20:19:27] CCA.C17-JUDGE.i4.22767: /charban jack
+[20:19:27] Jack Liebes<STEAM_0:1:540386641> changed their name to private greenman
+[20:19:32] Theban 'Simmons' Revolt: // Admin powers were banned by the Geneva convention
+[20:19:56] CCA.C17-JUDGE.i4.22767: // you were banned by the geneva convention
+[20:20:08] CCA.C17-JUDGE.i4.22767: You understand that your story makes little sense yes?
+[20:20:08] Achille 'Tucker' Tristram: // FFFFFFFFFFF
+[20:20:17] Achille 'Tucker' Tristram: Yes
+[20:20:23] CCA.C17-JUDGE.i4.22767: A unit just drops their radio, or a unit dies and the radio is just tossed
+[20:20:25] CCA.C17-JUDGE.OfC.91412: /w If he doesn't talk, move onto the laser. A little pain might make the pig squeal.
+[20:20:26] private greenman<STEAM_0:1:540386641> changed their name to jack kalen
+[20:20:34] Santino Russo<STEAM_0:0:69476140> changed their name to CCA.C17-UNION.i5.25058
+[20:20:55] Achille 'Tucker' Tristram: Look officer im telling you hear all I saw was a radio on the ground and I turned it in
+[20:20:57] CCA.C17-JUDGE.i4.22767: /w understood sir
+[20:21:02] CCA.C17-UNION.i5.25058<STEAM_0:0:69476140> changed their name to Simone Evans
+[20:21:03] jack kalen: hello?
+[20:21:18] CCA.C17-GRID.i2.36307: coupon?
+[20:21:51] CCA.C17-JUDGE.i4.22767: Your story is doubtable at best, a lie at worst, not only due to the nature of the contraband, but also your history with us.
+[20:22:32] Achille 'Tucker' Tristram: Look officer iv made mistakes and got myself in jail but I swear im a good citizen with a good heart just trying to turn in contraband
+[20:22:40] CCA.C17-JUDGE.OfC.91412: haha
+[20:22:44] CCA.C17-JUDGE.i4.22767: hm
+[20:22:46] Achille 'Tucker' Tristram: /looc gay
+[20:22:50] CCA.C17-JUDGE.i4.22767: /looc no
+[20:22:54] CCA.C17-JUDGE.OfC.91412: begin our methods
+[20:22:59] Achille 'Tucker' Tristram: What?
+[20:23:12] CCA.C17-JUDGE.i4.22767: At this time we will begin with advanced interrogation procedures.
+[20:23:20] CCA.C17-GRID.i2.36307: blood type, date of birth, medical and/or mental conditions, and sex?
+[20:23:28] CCA.C17-JUDGE.OfC.91412: citizen, I think you'll find that these methods are quite effective
+[20:23:35] Achille 'Tucker' Tristram: Uh
+[20:23:41] Achille 'Tucker' Tristram: /y GAH
+[20:23:56] CCA.C17-JUDGE.i4.22767: So how's your story holding up?
+[20:23:56] jack kalen: a+ 1978 healthy mental state calm male
+[20:24:10] Achille 'Tucker' Tristram: /y YES I SWEAR ITS THE TRUTH
+[20:24:27] CCA.C17-GRID.i2.36307: Date and month?
+[20:24:28] Achille 'Tucker' Tristram: /Y AAAAAAAGGGGGH
+[20:24:32] CCA.C17-JUDGE.i4.22767: Again doubtable at best
+[20:24:41] jack kalen: march 9th
+[20:24:41] CCA.C17-JUDGE.i4.22767: do not make this go on longer.
+[20:24:50] Achille 'Tucker' Tristram: What do you want me to do lie?
+[20:24:55] Achille 'Tucker' Tristram: Im telling the truth
+[20:25:04] CCA.C17-JUDGE.i4.22767: Wrong answer
+[20:25:06] CCA.C17-GRID.i2.36307: /viewdata jack
+[20:25:11] Achille 'Tucker' Tristram: /y AGHHH
+[20:25:20] Achille 'Tucker' Tristram: OKAY OKAY
+[20:25:21] Achille 'Tucker' Tristram: STOP
+[20:25:23] Achille 'Tucker' Tristram: PLEASE
+[20:25:24] CCA.C17-GRID.i2.36307: /viewdata jack
+[20:25:33] CCA.C17-JUDGE.i4.22767: Seems that someone is ready to talk
+[20:25:34] Simone Evans: .// using an airtank wouldn't work irl but if it works ic, it works ic :)))))
+[20:26:11] Achille 'Tucker' Tristram: Look I found it in d2 but not in that ally it was in a white truck inside some crates
+[20:26:13] CCA.C17-GRID.i2.36307: /me hands the citizen his CID
+[20:26:29] CCA.C17-JUDGE.i4.22767: So your story changes to something I somehow believe less
+[20:26:34] CCA.C17-JUDGE.OfC.91412: haha
+[20:26:37] CCA.C17-GRID.i2.36307: you can go
+[20:26:38] CCA.C17-JUDGE.OfC.91412: you're horrible at lying
+[20:26:41] jack kalen: how to become civil protection
+[20:26:50] CCA.C17-GRID.i2.36307: apply when you have 10 LP
+[20:26:52] CCA.C17-JUDGE.i4.22767: Now a rebel tosses it into a box in the open?
+[20:26:56] jack kalen: okay
+[20:27:07] CCA.C17-JUDGE.i4.22767: /me hovers over the button
+[20:27:19] CCA.C17-JUDGE.OfC.91412: /me walks over to  the switch, and grabs it, as if he was going to pull it again.
+[20:27:30] CCA.C17-JUDGE.OfC.91412: last chance, talk
+[20:27:32] CCA.C17-GRID.i2.36307: Stop running
+[20:27:42] Achille 'Tucker' Tristram: OKAY OKAY
+[20:27:47] Achille 'Tucker' Tristram: Somebody gave it to me
+[20:27:54] CCA.C17-JUDGE.i4.22767: Description?
+[20:28:07] Achille 'Tucker' Tristram: Some fuckin black market dealer 
+[20:28:20] CCA.C17-JUDGE.i4.22767: So you were interacting with the black market?
+[20:28:23] Achille 'Tucker' Tristram: Black hair and 6ft tall white has a scar on his face
+[20:28:23] CCA.C17-JUDGE.i4.22767: Interesting
+[20:28:23] Achille 'Tucker' Tristram: No
+[20:28:30] Achille 'Tucker' Tristram: He offered me it
+[20:28:41] CCA.C17-JUDGE.i4.22767: You will lead us to this dealer
+[20:29:00] CCA.C17-JUDGE.OfC.91412: affirmative
+[20:29:17] Theban 'Simmons' Revolt: // brb
+[20:29:30] Achille 'Tucker' Tristram: It was just in a apartment
+[20:29:35] CCA.C17-JUDGE.i4.22767: Which
+[20:29:48] CCA.C17-JUDGE.OfC.91412: i've frankly had enough of this story changing
+[20:29:51] Achille 'Tucker' Tristram: michigan
+[20:29:57] Achille 'Tucker' Tristram: I swear its in the apartments
+[20:29:59] CCA.C17-JUDGE.i4.22767: I'm entertained by it
+[20:30:00] Achille 'Tucker' Tristram: Ill show you
+[20:30:07] CCA.C17-JUDGE.i4.22767: Give us a number
+[20:30:12] Achille 'Tucker' Tristram: 2B
+[20:30:19] jack kalen: /ooc how to become civil protection
+[20:30:29] CCA.C17-JUDGE.i4.22767: /me ustraps achille from the chair
+[20:30:31] Achille 'Tucker' Tristram: // the name
+[20:30:33] Achille 'Tucker' Tristram: // hurtp
+[20:30:39] CCA.C17-JUDGE.i4.22767: /charsetname Jack Jack Kalen
+[20:30:39] jack kalen<STEAM_0:1:540386641> changed their name to Jack Kalen
+[20:30:42] Simone Evans: // when civil protection applications are available you can
+[20:30:42] Jack Kalen: hurtp
+[20:30:44] Achille 'Tucker' Tristram: /
+[20:30:46] CCA.C17-JUDGE.OfC.91412: detain him for the duration of our investigation
+[20:30:47] CCA.C17-JUDGE.i4.22767: /me grabs the scumbag
+[20:31:03] Jack Kalen: how to apply
+[20:31:06] Simone Evans: // you can try out at least. you'd have to answer some questions about being a cp though
+[20:31:10] CCA.C17-JUDGE.i4.22767: /me tosses
+[20:31:18] Dropped "Jack Kalen" from server<STEAM_0:1:540386641>
+[20:31:22] Achille 'Tucker' Tristram: // F
+[20:31:25] CCA.C17-GRID.i2.36307: // not f
+[20:31:28] CCA.C17-GRID.i2.36307: // dumbass
+[20:31:32] Achille 'Tucker' Tristram<STEAM_0:0:143523274> changed their name to Shane Vaska
+[20:31:43] Simone Evans<STEAM_0:0:69476140> changed their name to Santino Russo
+[20:31:51] Santino Russo: Hey officer.
+[20:31:59] CCA.C17-GRID.i2.36307: work?
+[20:32:03] Santino Russo: Yeah
+[20:32:04] CCA.C17-JUDGE.i4.22767: We should inform units personally to avoid allowing the dealer to know
+[20:32:25] CCA.C17-JUDGE.i4.22767: /radio Grid, what's your 10-20
+[20:32:27] CCA.C17-JUDGE.OfC.91412: vopy
+[20:32:33] CCA.C17-GRID.i2.36307: /r Workdesk
+[20:32:36] CCA.C17-JUDGE.i4.22767: /radio 10-4
+[20:32:43] CCA.C17-GRID.i2.36307: /me hands the citizen 4 posters and some tape
+[20:32:48] Santino Russo: /me takes the items.
+[20:32:57] CCA.C17-GRID.i2.36307: around the plaza
+[20:32:57] Santino Russo: /me tapes the poster to the wall.
+[20:32:59] CCA.C17-JUDGE.i4.22767: I2
+[20:33:04] Santino Russo: /me tapes the poster to the wall.
+[20:33:07] CCA.C17-JUDGE.i4.22767: We're commencing a raid on an apartment
+[20:33:10] Santino Russo: /me tapes the poster to the wall.
+[20:33:11] CCA.C17-GRID.i2.36307: fun
+[20:33:12] CCA.C17-JUDGE.i4.22767: Come with us]
+[20:33:13] Santino Russo: /me tapes the poster to the wall.
+[20:33:17] CCA.C17-JUDGE.OfC.91412: double time
+[20:34:04] CCA.C17-GRID.i2.36307: .// inspection positions
+[20:34:07] CCA.C17-JUDGE.OfC.91412: /dispatch inspection positions
+[20:34:16] CCA.C17-JUDGE.i4.22767: /toggleraise
+[20:34:17] CCA.C17-JUDGE.i4.22767: /toggleraise
+[20:35:02] Shane Vaska: Suh
+[20:35:10] Santino Russo: Are you... my room mate?
+[20:35:13] Shane Vaska: Yep
+[20:35:21] Santino Russo: Nice to meet ya'. Santino.
+[20:35:22] Shane Vaska: Also if things happen dont worry about it
+[20:35:27] Shane Vaska: You got that?
+[20:35:35] Santino Russo: What things?
+[20:35:40] Shane Vaska: Dont worry about 
+[20:35:47] Santino Russo: Don't worry about what?
+[20:35:53] Shane Vaska: Dont worry about it
+[20:35:59] CCA.C17-GRID.i2.36307: oh yeah
+[20:36:08] CCA.C17-GRID.i2.36307: bio-locks have a breaching setting
+[20:36:13] CCA.C17-GRID.i2.36307: i can go get one
+[20:36:14] Shane Vaska: Take cover
+[20:36:15] CCA.C17-JUDGE.i4.22767: Interesting
+[20:36:17] CCA.C17-JUDGE.i4.22767: Nah
+[20:36:20] Shane Vaska: /me opens window
+[20:36:21] CCA.C17-JUDGE.OfC.91412: we got it
+[20:36:23] Santino Russo: The hell?
+[20:36:30] CCA.C17-GRID.i2.36307: what the fuck?
+[20:36:35] Shane Vaska: Look man im in a bit trouble thats all
+[20:36:39] Santino Russo: /me sets his hand on his shoulder.
+[20:36:44] Santino Russo: What are you doing?
+[20:36:46] Shane Vaska: /me takes hand off
+[20:36:49] Shane Vaska: Nothing just uh
+[20:36:49] Santino Russo: /rollstat str
+[20:36:54] Shane Vaska: /rollstat str
+[20:36:57] Santino Russo: Hm.
+[20:36:58] Shane Vaska: /it the hand is off
+[20:37:04] Shane Vaska: Just getting fresh air
+[20:37:18] Shane Vaska: Pretty outside
+[20:37:35] Shane Vaska: /looc im gonna break it so its actually open
+[20:37:37] Santino Russo: /w If you are in trouble with the cops, I won't say.
+[20:37:44] Santino Russo: // void break
+[20:37:48] CCA.C17-GRID.i2.36307: /viewdata ach
+[20:37:50] CCA.C17-JUDGE.i4.22767: /toggleraise
+[20:37:53] Santino Russo: // window IC is open so break
+[20:37:54] CCA.C17-JUDGE.OfC.91412: stunsticks set
+[20:37:55] Santino Russo: // :)
+[20:37:55] CCA.C17-GRID.i2.36307: /viewdata shane
+[20:37:59] CCA.C17-JUDGE.OfC.91412: ready?
+[20:38:02] CCA.C17-GRID.i2.36307: /toggleraise
+[20:38:02] CCA.C17-JUDGE.i4.22767: Ready
+[20:38:06] Shane Vaska: /w Just comply with them just hold them off maybe
+[20:38:25] Santino Russo: /w If you want me to do that, I need to know why you are running.
+[20:38:29] Shane Vaska: /w You think that drop will break my legs?
+[20:38:34] Santino Russo: /w Yeah.
+[20:38:37] Shane Vaska: Shit
+[20:38:47] Santino Russo: /w Now. Let me know what you've done.
+[20:39:00] Shane Vaska: /w Black market
+[20:39:12] CCA.C17-JUDGE.OfC.91412: stack
+[20:39:26] Santino Russo: What's your name? First name is fine. I want to get to know my room mate.
+[20:39:29] CCA.C17-JUDGE.OfC.91412: WALL!
+[20:39:32] Shane Vaska: /me jumps out 
+[20:39:33] CCA.C17-JUDGE.OfC.91412: NOW!
+[20:39:50] Shane Vaska: /rollstat con
+[20:39:54] CCA.C17-GRID.i2.36307: /toggleraise
+[20:40:03] CCA.C17-JUDGE.OfC.91412: UH
+[20:40:06] CCA.C17-GRID.i2.36307: huh
+[20:40:08] CCA.C17-GRID.i2.36307: idiot
+[20:40:09] CCA.C17-JUDGE.OfC.91412: SEARCH HIM!
+[20:40:09] CCA.C17-JUDGE.i4.22767: /it you pull your leg and sprain your ankle
+[20:40:09] Santino Russo: Sirs.
+[20:40:15] CCA.C17-GRID.i2.36307: /y FACE THE WALL
+[20:40:22] CCA.C17-GRID.i2.36307: /me attempts to tie the subject (resist?)
+[20:40:26] Santino Russo: /me doesn't resist.
+[20:40:27] CCA.C17-JUDGE.i4.22767: /toggleraise
+[20:40:33] CCA.C17-GRID.i2.36307: /me cuts the induviduals ties with his combat knife
+[20:40:38] CCA.C17-GRID.i2.36307: .// pp[ps
+[20:40:40] CCA.C17-GRID.i2.36307: .// void
+[20:40:42] CCA.C17-GRID.i2.36307: /charsearch'
+[20:40:54] CCA.C17-JUDGE.OfC.91412: /me slams the stunstick into the man's back.
+[20:40:59] CCA.C17-JUDGE.OfC.91412: /rollstat str
+[20:41:03] Shane Vaska: /rollstat con
+[20:41:13] Shane Vaska: Pussy shit
+[20:41:17] Shane Vaska: /me spits on
+[20:41:26] CCA.C17-GRID.i2.36307: /me strips of weapons and comms
+[20:41:29] CCA.C17-GRID.i2.36307: /me cuts the induviduals ties with his combat knife
+[20:41:37] CCA.C17-JUDGE.i4.22767: /it the stunstick bounces off his thick fucking skull and the vibration goes back into your arm
+[20:41:39] CCA.C17-GRID.i2.36307: /r Clean
+[20:41:42] CCA.C17-JUDGE.OfC.91412: oh
+[20:41:42] Theban 'Simmons' Revolt<STEAM_0:1:17219621> changed their name to Dustin Rory
+[20:41:44] CCA.C17-JUDGE.OfC.91412: okay
+[20:41:47] CCA.C17-JUDGE.OfC.91412: /rollstat con
+[20:41:49] Dustin Rory<STEAM_0:1:17219621> changed their name to Theban 'Simmons' Revolt
+[20:41:56] CCA.C17-JUDGE.i4.22767: /it it feels funky
+[20:42:08] CCA.C17-JUDGE.OfC.91412: /me tackles the stupid fucker.
+[20:42:11] CCA.C17-JUDGE.OfC.91412: /rollstat str
+[20:42:12] Shane Vaska: /me rolls over
+[20:42:15] Shane Vaska: /rollstat agi
+[20:42:22] CCA.C17-JUDGE.i4.22767: /me tries to tackle the fucker
+[20:42:22] Shane Vaska: Slow ass
+[20:42:25] CCA.C17-JUDGE.i4.22767: /rollstat str
+[20:42:30] Shane Vaska: /rollstat agi
+[20:42:45] CCA.C17-JUDGE.i4.22767: /it The judge tackles the man to the ground
+[20:42:51] CCA.C17-JUDGE.i4.22767: /looc more to the ground
+[20:42:59] CCA.C17-JUDGE.i4.22767: /y STOP RESISTING!
+[20:43:01] CCA.C17-JUDGE.OfC.91412: /me kicks the man in the ribs.
+[20:43:02] CCA.C17-JUDGE.OfC.91412: /rollstat str
+[20:43:09] Shane Vaska: /rollstat con
+[20:43:16] Shane Vaska: // NAT ZERO
+[20:43:18] Shane Vaska: // NAT 100
+[20:43:20] Shane Vaska: // BRUHHHHHHHHH
+[20:43:35] CCA.C17-JUDGE.i4.22767: /it the judge breaks 3 ribs and one causes minor internal bleeding
+[20:43:41] Shane Vaska: /Y AGHHHHH
+[20:43:59] CCA.C17-JUDGE.i4.22767: /y STOP RESISTING
+[20:44:07] Shane Vaska: /ME SPITS ON 14
+[20:44:11] Shane Vaska: i4
+[20:44:24] CCA.C17-JUDGE.i4.22767: /me hits the man in the head with his stunstick
+[20:44:27] CCA.C17-JUDGE.i4.22767: /rollstat str
+[20:44:30] Shane Vaska: /rollstat con
+[20:44:39] Shane Vaska: /charfallover
+[20:44:42] CCA.C17-JUDGE.i4.22767: /it the man is knocked out and now has a big ol lump
+[20:44:44] CCA.C17-GRID.i2.36307: /toggleraise
+[20:44:47] CCA.C17-JUDGE.OfC.91412: i4
+[20:44:48] CCA.C17-JUDGE.i4.22767: /me gets off the civvie
+[20:44:49] CCA.C17-GRID.i2.36307: You two okay?
+[20:44:52] CCA.C17-JUDGE.OfC.91412: take him back
+[20:44:54] CCA.C17-JUDGE.OfC.91412: grid
+[20:44:59] CCA.C17-JUDGE.OfC.91412: you and i are returning to the apartment
+[20:45:01] CCA.C17-JUDGE.i4.22767: /me drags the man
+[20:45:19] Santino Russo<STEAM_0:0:69476140> changed their name to Simone Evans
+[20:45:30] Simone Evans<STEAM_0:0:69476140> changed their name to Santino Russo
+[20:45:35] CCA.C17-GRID.i2.36307: /toggleraise
+[20:45:50] CCA.C17-JUDGE.OfC.91412: MOVE!
+[20:46:00] CCA.C17-GRID.i2.36307: oh
+[20:46:03] CCA.C17-GRID.i2.36307: i like this toolkit
+[20:46:04] CCA.C17-JUDGE.i4.22767 set the hp for Shane Vaska to 20
+[20:46:04] CCA.C17-JUDGE.i4.22767: !hp shane 20
+[20:46:48] CCA.C17-GRID.i2.36307: toolkit, wrench, and some pliers
+[20:46:52] CCA.C17-GRID.i2.36307: no
+[20:46:54] CCA.C17-GRID.i2.36307: .// tongs
+[20:46:58] CCA.C17-JUDGE.OfC.91412: apply
+[20:47:01] Santino Russo: /apply
+[20:47:14] CCA.C17-JUDGE.OfC.91412: /viewdata santino
+[20:47:17] CCA.C17-JUDGE.i4.22767: /me zipties the man before he wakes up
+[20:47:19] CCA.C17-JUDGE.OfC.91412: loyalist
+[20:47:20] CCA.C17-JUDGE.OfC.91412: cleaned
+[20:47:47] Shane Vaska: /me groans in pain
+[20:47:52] CCA.C17-JUDGE.i4.22767: /radio Suspect has been detained.
+[20:47:59] CCA.C17-GRID.i2.36307: /toggleraise
+[20:48:02] CCA.C17-GRID.i2.36307: entire block?
+[20:48:05] CCA.C17-GRID.i2.36307: wouldn't hurt
+[20:48:13] CCA.C17-JUDGE.OfC.91412: /c Does he match the description?
+[20:48:17] CCA.C17-JUDGE.OfC.91412: /r Does he match the description?
+[20:48:22] CCA.C17-JUDGE.i4.22767: /radio 10-9
+[20:48:27] CCA.C17-JUDGE.OfC.91412: /r Does he match the description?
+[20:48:35] CCA.C17-JUDGE.i4.22767: /radio 10-9 again
+[20:48:38] CCA.C17-JUDGE.OfC.91412: /r Does he match the description?
+[20:48:48] CCA.C17-GRID.i2.36307: /r
+[20:48:49] CCA.C17-JUDGE.i4.22767: /radio affirmative
+[20:48:53] CCA.C17-JUDGE.OfC.91412: /r 10-4.
+[20:48:55] CCA.C17-JUDGE.i4.22767: /radio 
+[20:49:05] CCA.C17-JUDGE.i4.22767: // 
+[20:49:12] CCA.C17-JUDGE.OfC.91412: no need to search the rest
+[20:49:41] CCA.C17-GRID.i2.36307: what do i do with the tools?
+[20:49:57] CCA.C17-JUDGE.OfC.91412: /dispatch Attention, community: Citizens may leave their inspection-positions, and return to normal procedure.
+[20:50:08] CCA.C17-JUDGE.OfC.91412: give them to me
+[20:50:19] CCA.C17-GRID.i2.36307: /me gives him the shit
+[20:50:35] CCA.C17-JUDGE.OfC.91412: return to normal duty
+[20:50:38] CCA.C17-JUDGE.OfC.91412: /r Ripcording.
+[20:50:49] Client "Methfred" connected.
+[20:52:08] Santino Russo: /pm i4 can you give me 2 cloth scrap for 2 beanies?
+[20:52:17] CCA.C17-JUDGE.OfC.91412: take him to interrogation
+[20:52:17] CCA.C17-GRID.i2.36307<STEAM_0:0:193599766> changed their name to Blackbird
+[20:52:19] Shane Vaska: /charfallover
+[20:52:56] CCA.C17-JUDGE.i4.22767: /me straps him into the chair
+[20:53:18] CCA.C17-JUDGE.i4.22767: !bring shane
+[20:53:22] CCA.C17-JUDGE.i4.22767 brought Shane Vaska
+[20:53:22] CCA.C17-JUDGE.i4.22767: !bring shane
+[20:53:29] CCA.C17-JUDGE.OfC.91412: /it The JUDGE OfC fogs up the glass with his breathing.
+[20:53:37] CCA.C17-JUDGE.i4.22767: Alrighty then
+[20:53:55] Shane Vaska: /me is in aganizing pain
+[20:53:57] CCA.C17-JUDGE.i4.22767: It is my understanding that you are a black market dealer
+[20:54:04] CCA.C17-JUDGE.i4.22767: /charsearch
+[20:54:21] Shane Vaska: Can I get medical treatment then we do this whole thing HOLY SHIT
+[20:54:25] Shane Vaska: Fuckin ribs
+[20:54:25] CCA.C17-JUDGE.i4.22767: After
+[20:54:35] CCA.C17-JUDGE.OfC.91412: talk, pig
+[20:54:37] CCA.C17-JUDGE.i4.22767: You will answer our questions first
+[20:54:39] Shane Vaska: Pig?
+[20:54:44] Shane Vaska: Says you your a cop
+[20:54:49] Blackbird<STEAM_0:0:193599766> changed their name to CCA.C17-GRID.i2.36307
+[20:54:56] CCA.C17-JUDGE.i4.22767: /me slaps the man
+[20:54:59] CCA.C17-JUDGE.i4.22767: /rollstat str
+[20:55:00] Shane Vaska: But I guess all combine are hyp-
+[20:55:03] Shane Vaska: /rollstat con
+[20:55:13] CCA.C17-JUDGE.OfC.91412: answer our questions or you'll get 6 more broken ribs.
+[20:55:15] Santino Russo: /me hands the officer the tape
+[20:55:26] CCA.C17-GRID.i2.36307: /me takes tpape
+[20:55:27] CCA.C17-GRID.i2.36307: apply
+[20:55:29] Santino Russo: /apply
+[20:55:30] Shane Vaska: What do you wanna know mr pig?
+[20:55:45] Theban 'Simmons' Revolt: .// Cringle
+[20:55:51] CCA.C17-JUDGE.i4.22767: Have you sold goods to a man named Achille Tristam.
+[20:55:58] CCA.C17-GRID.i2.36307: /viewdata sant
+[20:56:31] Shane Vaska: Not really I sell to alot of people
+[20:56:36] CCA.C17-GRID.i2.36307: 19
+[20:56:43] CCA.C17-JUDGE.i4.22767: What do you mean not really?
+[20:56:44] CCA.C17-JUDGE.OfC.91412: tell the truth, dog
+[20:56:46] Santino Russo: Is the next armband at 20?
+[20:56:50] CCA.C17-GRID.i2.36307: yES
+[20:56:53] Shane Vaska: Okay homie
+[20:56:54] CCA.C17-GRID.i2.36307: .// Yes
+[20:57:06] Santino Russo: Could I do another job then? Just real quick. Like pamphlets or something.
+[20:57:09] Shane Vaska: You think I remember every client?
+[20:57:19] CCA.C17-JUDGE.OfC.91412: step out of the room for a moment.
+[20:57:31] CCA.C17-JUDGE.OfC.91412: /pm i4 get on a manhack pill when i do the /me
+[20:57:55] Client "Methfred" spawned in server <STEAM_0:1:48276840> (took 426 seconds).
+[20:58:00] CCA.C17-JUDGE.OfC.91412: /it presses a button, and a small object emerges from the device on his shoulder. It glows blue.
+[20:58:05] CCA.C17-JUDGE.OfC.91412: /it It flies.
+[20:58:10] Shane Vaska: manhack
+[20:58:23] CCA.C17-GRID.i2.36307: /me takes out a handful of pamphlets, handing it to the citizen
+[20:58:24] Santino Russo: /me grabs the pamphlets.
+[20:58:27] CCA.C17-GRID.i2.36307: slide them under the door
+[20:58:32] Santino Russo: Gotcha'.
+[20:58:35] Shane Vaska: What are you gonna let its little saw cut me?
+[20:58:53] CCA.C17-JUDGE.OfC.91412: /me commands the manhack to hover near the man's face.
+[20:59:02] CCA.C17-JUDGE.i4.22767 killed Shane Vaska
+[20:59:02] CCA.C17-JUDGE.OfC.91412: you'd best talk
+[20:59:05] Shane Vaska: // lmao
+[20:59:12] Shane Vaska: // i didnt mean to press w
+[20:59:13] Santino Russo: /me slides a pamphlets under the door.
+[20:59:14] Shane Vaska: // im sorry
+[20:59:17] Santino Russo: /me slides a pamphlets under the door.
+[20:59:20] Client "private greenman" connected.
+[20:59:21] Santino Russo: /me slides a pamphlets under the door.
+[20:59:22] Santino Russo: /me slides a pamphlets under the door.
+[20:59:27] CCA.C17-JUDGE.i4.22767 brought Shane Vaska
+[20:59:27] CCA.C17-JUDGE.i4.22767: !bring shane
+[20:59:36] Shane Vaska: //i cant jump
+[20:59:43] Shane Vaska: // or crouch jumpy
+[20:59:47] Santino Russo: Done
+[21:00:07] Methfred<STEAM_0:1:48276840> changed their name to Alfred Langenberg
+[21:00:11] Santino Russo: .// hello?
+[21:00:17] Alfred Langenberg: // God it
+[21:00:31] Shane Vaska: // give pill
+[21:00:37] Shane Vaska: // it fixes it
+[21:00:42] Alfred Langenberg: // God it's been forever since I played HL2rp. Anyone got that content link?
+[21:00:42] CCA.C17-GRID.i2.36307: /viewdata sant
+[21:00:49] Shane Vaska: // do /content
+[21:00:53] Alfred Langenberg: /content
+[21:01:07] Client "private greenman" spawned in server <STEAM_0:1:540386641> (took 107 seconds).
+[21:01:07] Shane Vaska: // now i cant crouch :(
+[21:01:09] Alfred Langenberg: // sweet. I'll be back in a hot minute.
+[21:01:19] CCA.C17-GRID.i2.36307: 20, i'll get you an armband
+[21:01:20] Shane Vaska: That spose to scare me?
+[21:01:21] Dropped "Alfred Langenberg" from server<STEAM_0:1:48276840>
+[21:01:24] Santino Russo: Alright. Thanks.
+[21:01:33] Shane Vaska: /me sweats
+[21:01:39] CCA.C17-JUDGE.OfC.91412: it should, yes
+[21:01:43] Shane Vaska: Get that thing away from me
+[21:01:48] CCA.C17-JUDGE.i4.22767 killed Shane Vaska
+[21:01:52] Shane Vaska: // FUCK SAKES
+[21:01:54] Shane Vaska: // WHY
+[21:02:00] Shane Vaska: // freeze me
+[21:02:00] private greenman<STEAM_0:1:540386641> changed their name to Jack Kalen
+[21:02:02] CCA.C17-JUDGE.i4.22767: !bring shance
+[21:02:05] CCA.C17-JUDGE.i4.22767 brought Shane Vaska
+[21:02:05] CCA.C17-JUDGE.i4.22767: !bring shane
+[21:02:11] CCA.C17-JUDGE.i4.22767 froze Shane Vaska
+[21:02:11] CCA.C17-JUDGE.i4.22767: !freeze shane
+[21:02:30] CCA.C17-JUDGE.OfC.91412: this device can cut through your skull within 2 seconds.
+[21:02:36] Theban 'Simmons' Revolt<STEAM_0:1:17219621> changed their name to CCA.C17-QrM.98240
+[21:02:37] CCA.C17-JUDGE.OfC.91412: you'd best be scared.
+[21:02:40] Shane Vaska: I-I can tell
+[21:02:53] CCA.C17-QrM.98240: /r QrM is 10-8, anyone need me?
+[21:02:58] Shane Vaska: /me moves head away from man hack
+[21:03:02] CCA.C17-JUDGE.OfC.91412: do you know an Achille Tristram?
+[21:03:09] Shane Vaska: it rings a bell
+[21:03:12] Jack Kalen: /ooc how to apply for civil protection
+[21:03:12] CCA.C17-JUDGE.OfC.91412: /me commands it to follow wherever the citizen looks.
+[21:03:22] Shane Vaska: // just do it
+[21:03:22] CCA.C17-QrM.98240: // Get 10 LP and you can do OOC apps or IC apps
+[21:03:28] CCA.C17-GRID.i2.36307: // its been explained many times
+[21:03:31] CCA.C17-JUDGE.OfC.91412: rings a bell?
+[21:03:37] Shane Vaska: OKAY OKAY
+[21:03:41] CCA.C17-QrM.98240: // Chill out GRID
+[21:03:47] Jack Kalen: i dont know where to go
+[21:03:51] Shane Vaska: I know the guy
+[21:03:52] CCA.C17-GRID.i2.36307: /r I need a [20 lp armband], 10-20 is plaza
+[21:03:56] Jack Kalen: and also what is lp
+[21:04:04] CCA.C17-QrM.98240: /r Copy that
+[21:04:08] CCA.C17-JUDGE.OfC.91412: did you give him a radio with our frequency?
+[21:04:12] Shane Vaska: // im lying to you so i dont get killed
+[21:04:21] Shane Vaska: // no
+[21:04:24] Shane Vaska: // this character
+[21:04:27] Shane Vaska: // dosent want to dy
+[21:04:33] Shane Vaska: // so hes going along with it
+[21:04:43] Shane Vaska: // cause theres a manhack at my neck
+[21:04:59] Shane Vaska: I dont know a achille
+[21:05:06] CCA.C17-JUDGE.OfC.91412: changing your story?
+[21:05:16] Shane Vaska: No just uh
+[21:05:29] Shane Vaska: was thinking of a diffrent guy
+[21:05:36] CCA.C17-QrM.98240: /me Holds out a Blue armband box to the CP.
+[21:05:36] Shane Vaska: Never heard of a achille
+[21:05:46] CCA.C17-JUDGE.OfC.91412: hm
+[21:06:02] CCA.C17-GRID.i2.36307: /me takes the box, handing it to the civvie
+[21:06:07] Santino Russo: /me takes off his armband, handing it to the officer in exchange.
+[21:06:12] Dropped "Jack Kalen" from server<STEAM_0:1:540386641>
+[21:06:17] CCA.C17-QrM.98240: // Bruh
+[21:06:24] Santino Russo: /me takes the box.
+[21:06:28] Client "Methfred" connected.
+[21:06:29] Shane Vaska: // you no give cp
+[21:06:31] Shane Vaska: // me mad
+[21:06:34] CCA.C17-QrM.98240: // okay
+[21:06:35] Shane Vaska: // >:(
+[21:06:38] Santino Russo: Thanks.
+[21:06:47] CCA.C17-JUDGE.OfC.91412: You are a bad liar
+[21:06:55] Shane Vaska: Its the truth
+[21:06:56] CCA.C17-QrM.98240<STEAM_0:1:17219621> changed their name to Theban 'Simmons' Revolt
+[21:06:56] CCA.C17-JUDGE.OfC.91412: tell me right now, what's your story?
+[21:07:08] Shane Vaska: What do you mean?
+[21:07:25] CCA.C17-JUDGE.OfC.91412: did you give a radio with our frequency to Achille Tristram or not>
+[21:07:37] Shane Vaska: I did not
+[21:07:43] Shane Vaska: // achille is fucked :(
+[21:07:52] CCA.C17-JUDGE.OfC.91412: hm
+[21:07:58] CCA.C17-JUDGE.OfC.91412: you are a black market dealer, yes?
+[21:08:02] CCA.C17-JUDGE.OfC.91412: /viewdata shane
+[21:08:14] Shane Vaska: I can be called many things
+[21:09:05] CCA.C17-JUDGE.OfC.91412: do you sell illegal things to people?
+[21:09:12] Shane Vaska: Yes
+[21:09:22] Client "Methfred" spawned in server <STEAM_0:1:48276840> (took 174 seconds).
+[21:09:37] CCA.C17-GRID.i2.36307<STEAM_0:0:193599766> changed their name to Janet 'Carolina' Fraiser
+[21:09:37] CCA.C17-JUDGE.OfC.91412: what kinds?
+[21:09:46] Shane Vaska: Uh tools
+[21:09:54] CCA.C17-JUDGE.OfC.91412: you hesitated
+[21:10:19] Janet 'Carolina' Fraiser: // doughnut help
+[21:10:19] Shane Vaska: I sell tools or anything that counts as contraband I sell alot of things
+[21:10:32] CCA.C17-JUDGE.OfC.91412: guns? Ammunition?
+[21:10:38] Shane Vaska: Uhh
+[21:10:40] Shane Vaska: No
+[21:10:45] CCA.C17-JUDGE.OfC.91412: liar
+[21:10:47] Shane Vaska: /looc no*
+[21:10:51] CCA.C17-JUDGE.OfC.91412: filthy, lying mutt
+[21:11:21] Shane Vaska: Okay okay
+[21:11:30] Shane Vaska: I sell weapons and combine items too
+[21:11:34] Janet 'Carolina' Fraiser: i have an idea
+[21:11:37] CCA.C17-JUDGE.OfC.91412: guns?
+[21:11:44] Shane Vaska: yes
+[21:11:50] CCA.C17-JUDGE.OfC.91412: thanks for admitting it
+[21:12:19] Shane Vaska: /looc yes
+[21:12:38] CCA.C17-JUDGE.OfC.91412: /me commands the manhack to cut into the man's skull through his eyes. It's fucking brutal, even by JUDGE standards.
+[21:12:53] CCA.C17-JUDGE.OfC.91412: /it He is dead soon after, though.
+[21:13:10] Shane Vaska: // live long and prospare
+[21:13:32] Janet 'Carolina' Fraiser: //  prosper you sack of shit
+[21:13:38] Shane Vaska: .// i am god
+[21:13:38] CCA.C17-JUDGE.i4.22767: !slay shane
+[21:13:43] CCA.C17-JUDGE.i4.22767 unfroze Shane Vaska
+[21:13:43] CCA.C17-JUDGE.i4.22767: !unfreeze shane
+[21:13:51] CCA.C17-JUDGE.i4.22767 killed Shane Vaska
+[21:13:51] Shane Vaska<STEAM_0:0:143523274> changed their name to Achille 'Tucker' Tristram
+[21:14:00] CCA.C17-JUDGE.i4.22767: /charban sahne
+[21:14:03] CCA.C17-JUDGE.OfC.91412: /r i4, bring Achille back in here.
+[21:14:12] CCA.C17-JUDGE.i4.22767: /radio 10-4
+[21:14:15] Methfred<STEAM_0:1:48276840> changed their name to Alfred Langenberg
+[21:14:28] CCA.C17-JUDGE.i4.22767: /me grabs achille
+[21:14:32] Client "| Kehmicle |" connected.
+[21:14:36] CCA.C17-JUDGE.i4.22767: /looc you gonna resist?
+[21:14:40] Client "| Kehmicle |" connected.
+[21:14:40] Alfred Langenberg: // im back bros how's your days going
+[21:14:41] Achille 'Tucker' Tristram: /me does not resist
+[21:14:47] Theban 'Simmons' Revolt: // good!
+[21:14:49] CCA.C17-JUDGE.OfC.91412: // good, hbu?
+[21:14:54] Santino Russo: // im chill
+[21:14:56] Alfred Langenberg: // It's goin good
+[21:15:09] Alfred Langenberg: // oh yo holy shit is that doughnut?
+[21:15:09] CCA.C17-JUDGE.i4.22767: /me sits down and straps in achille
+[21:15:14] CCA.C17-JUDGE.i4.22767: // what's poppin
+[21:15:19] CCA.C17-JUDGE.i4.22767: // it's goin good
+[21:15:20] CCA.C17-JUDGE.i4.22767: // hby
+[21:15:21] Alfred Langenberg: // I haven't seen you in fucking ages dude.
+[21:15:29] Alfred Langenberg: // Must've been at least a year
+[21:15:43] CCA.C17-JUDGE.i4.22767: // indeed
+[21:15:47] CCA.C17-JUDGE.i4.22767: Alright then
+[21:15:51] CCA.C17-JUDGE.i4.22767: It seems
+[21:15:52] Janet 'Carolina' Fraiser<STEAM_0:0:193599766> changed their name to CCA.C17-SCN.49412
+[21:15:57] CCA.C17-JUDGE.i4.22767: That your story doesn't match up
+[21:16:02] Alfred Langenberg: // Good to see you're still alive and kicking man!
+[21:16:04] Achille 'Tucker' Tristram: How so?
+[21:16:21] CCA.C17-JUDGE.i4.22767: The dealer doesn't know you
+[21:16:35] Achille 'Tucker' Tristram: And your gonna believe a blackmarke dealer?
+[21:16:45] CCA.C17-JUDGE.OfC.91412: he had a manhack an inch from his face.
+[21:16:51] CCA.C17-JUDGE.OfC.91412: I would say he told the truth
+[21:16:59] Alfred Langenberg: // Hey where is this server located cause I just got a huge lag spike and I'm not sure if it's the server or my shitty internet
+[21:17:14] Theban 'Simmons' Revolt: // Uhhhhhh, unsure actually.
+[21:17:20] CCA.C17-SCN.49412: // us
+[21:17:21] CCA.C17-JUDGE.OfC.91412: i'm going to make this plain and simple for you. Tell us what happened, or we assume you killed an officer for it and stole it, and turned it in for lp.
+[21:17:26] CCA.C17-SCN.49412: // afaik
+[21:17:30] Alfred Langenberg: // Ah just my internet then. Drats.
+[21:17:36] Theban 'Simmons' Revolt: // F
+[21:17:47] Theban 'Simmons' Revolt: // 7 players pog
+[21:17:49] Alfred Langenberg: // Eh it goes away after I cry long enough
+[21:18:00] Alfred Langenberg: // back down from 700 to 200
+[21:18:01] Theban 'Simmons' Revolt: // Relatable
+[21:18:23] CCA.C17-SCN.49412: .// slaughter me
+[21:18:37] CCA.C17-JUDGE.OfC.91412 killed CCA.C17-SCN.49412 using ix_hands
+[21:18:54] CCA.C17-SCN.49412: // chicken join vc
+[21:19:23] Alfred Langenberg: // Oh deary me I appear to be trapped within the train station's confines.
+[21:19:37] Theban 'Simmons' Revolt: // Fuck, let me hop onto CCA and help you out
+[21:19:42] Theban 'Simmons' Revolt<STEAM_0:1:17219621> changed their name to CCA.C17-UNION.SqL.72633
+[21:19:53] CCA.C17-UNION.SqL.72633: // We just need to get you a CID!
+[21:19:57] Alfred Langenberg: // you didn't have to dude there's already so many
+[21:20:08] CCA.C17-UNION.SqL.72633: // They're interrogating people
+[21:20:21] CCA.C17-UNION.SqL.72633: // So i'll have to do this real quick
+[21:20:31] Alfred Langenberg: // aaaaaaaahh interrogating. that brings back memories. fuck it's been too long.
+[21:20:37] CCA.C17-UNION.SqL.72633: // truly
+[21:20:53] CCA.C17-JUDGE.OfC.91412: you have five minutes to tell us
+[21:21:01] Alfred Langenberg: // i haven't played hl2 since late 2019 probably, I've only played for a few hours between then and now.
+[21:21:03] CCA.C17-JUDGE.i4.22767<STEAM_0:1:127409364> spawned/gave himself swep weapon_gauss
+[21:21:04] CCA.C17-JUDGE.i4.22767: /toggleraise
+[21:21:08] CCA.C17-UNION.SqL.72633: // Ah, I feel that
+[21:21:09] Alfred Langenberg: // hl2rp* I've payed a fuckton of hl2
+[21:21:31] Achille 'Tucker' Tristram: Okay
+[21:21:33] CCA.C17-SCN.49412: /me cuts the induviduals ties with his combat knife
+[21:21:35] Achille 'Tucker' Tristram: Heres the truth
+[21:21:35] CCA.C17-SCN.49412: /me attempts to tie the subject (resist?)
+[21:21:36] CCA.C17-SCN.49412: /me strips of weapons and comms
+[21:21:38] CCA.C17-SCN.49412: /me takes a photograph of the citizen, with a bright flash
+[21:21:39] CCA.C17-SCN.49412: /me takes a photograph of the citizen, with a bright flash
+[21:21:43] Alfred Langenberg: It's about time. Been waiting here for hours.
+[21:21:45] Alfred Langenberg: No offense.
+[21:21:51] Achille 'Tucker' Tristram: I found it in the sewer
+[21:21:52] CCA.C17-SCN.49412: // /me kill all rebels
+[21:21:52] CCA.C17-UNION.SqL.72633: No offense taken Civvie.
+[21:21:56] CCA.C17-UNION.SqL.72633: Apply for me
+[21:22:03] CCA.C17-SCN.49412: /rollstat str
+[21:22:18] Alfred Langenberg: /me reaches into his invisible suitcase because there's no weapon for it, pulling out a coupon and reading it out loud.
+[21:22:26] Alfred Langenberg: "Alfred Langenberg, 06179"
+[21:22:34] CCA.C17-UNION.SqL.72633: .// Do some servers have suitcase sweps?
+[21:22:42] CCA.C17-UNION.SqL.72633: .// This is my second Server, sorry ;-;
+[21:22:56] Alfred Langenberg: .// yeah like with animations playing from the first two guys you see in hl2
+[21:23:04] CCA.C17-UNION.SqL.72633: .// Ah that do be kinda cool.
+[21:23:14] Alfred Langenberg: .// only a handfull of servers have it and I got no fuckin clue why
+[21:23:15] CCA.C17-UNION.SqL.72633: .// I'll get back to IC, was just curious.
+[21:23:36] CCA.C17-UNION.SqL.72633: /me Begins typing onto a PDA device while whispering the name "Alfred Langenberg"
+[21:23:39] CCA.C17-UNION.SqL.72633: /viewdata Alfred
+[21:23:49] Alfred Langenberg: /me scratches his nose with his free hand.
+[21:24:05] CCA.C17-JUDGE.OfC.91412: hmgrgrlglrlgrlg
+[21:24:08] CCA.C17-JUDGE.i4.22767: jmkafjkweiogkjuagnjku;ag
+[21:24:11] CCA.C17-UNION.SqL.72633: Alright, what is your DOB and blood type?
+[21:24:14] CCA.C17-JUDGE.OfC.91412: hmrlhlglrllaagagagrlglrlglrglrlgrl
+[21:24:16] CCA.C17-JUDGE.i4.22767: /me speaks in judge
+[21:24:18] CCA.C17-UNION.SqL.72633: .// Please note that the current date is 2006
+[21:24:23] CCA.C17-JUDGE.OfC.91412: am
+[21:24:25] CCA.C17-JUDGE.i4.22767: milk milk milk milk milk
+[21:24:25] CCA.C17-UNION.SqL.72633: .// Also you need to be 21 or older.
+[21:24:27] CCA.C17-JUDGE.OfC.91412: 60
+[21:24:28] CCA.C17-JUDGE.OfC.91412: 9
+[21:24:28] Alfred Langenberg: .// aaaha thank you I was just about to ask
+[21:24:30] CCA.C17-JUDGE.OfC.91412: haha
+[21:24:30] CCA.C17-JUDGE.i4.22767: haha
+[21:24:38] CCA.C17-JUDGE.OfC.91412: 20
+[21:24:39] CCA.C17-JUDGE.OfC.91412: 5
+[21:24:41] Alfred Langenberg: .// when was the 7HW here?
+[21:24:43] CCA.C17-JUDGE.i4.22767: haha
+[21:24:45] CCA.C17-JUDGE.i4.22767: 20
+[21:24:47] CCA.C17-JUDGE.i4.22767: 4
+[21:24:51] CCA.C17-JUDGE.OfC.91412: 20
+[21:24:52] CCA.C17-JUDGE.OfC.91412: 5
+[21:24:54] CCA.C17-UNION.SqL.72633: .// Uhhhh, fuck I forgot.
+[21:24:55] CCA.C17-JUDGE.i4.22767: twenty
+[21:24:59] CCA.C17-JUDGE.i4.22767: 20
+[21:25:02] CCA.C17-UNION.SqL.72633: .// Asking staff as we speak.
+[21:25:02] CCA.C17-JUDGE.OfC.91412: 4
+[21:25:03] CCA.C17-JUDGE.OfC.91412: 20
+[21:25:05] CCA.C17-JUDGE.OfC.91412: 60
+[21:25:06] CCA.C17-JUDGE.OfC.91412: 9
+[21:25:06] Alfred Langenberg: .// convenient
+[21:25:08] CCA.C17-JUDGE.OfC.91412: haha
+[21:25:19] CCA.C17-UNION.SqL.72633: .// Currently in a VC with them and a couple other players.
+[21:25:31] Alfred Langenberg: .// ah nice tell em I said wassup
+[21:25:49] CCA.C17-UNION.SqL.72633: .// Alright, we're just gonna say it was 2003 for now.
+[21:25:53] CCA.C17-JUDGE.i4.22767: So
+[21:25:53] CCA.C17-UNION.SqL.72633: .// Not 100% confirmed.
+[21:26:05] CCA.C17-UNION.SqL.72633: .// It happened in 2003*
+[21:26:06] Alfred Langenberg: .// I'll just say I'm 36 that leaves my options open alright?
+[21:26:06] CCA.C17-JUDGE.i4.22767: He did rat out a rebel conspirator
+[21:26:10] CCA.C17-JUDGE.i4.22767: However
+[21:26:13] CCA.C17-UNION.SqL.72633: .// Indeed
+[21:26:14] CCA.C17-JUDGE.i4.22767: He did lie at first
+[21:26:18] CCA.C17-JUDGE.OfC.91412: a lot
+[21:26:21] CCA.C17-JUDGE.i4.22767: Which might suggest conspiracy
+[21:26:26] CCA.C17-JUDGE.OfC.91412: affirmative
+[21:26:33] CCA.C17-JUDGE.i4.22767: Likely to save his own sorry ass though
+[21:26:36] CCA.C17-JUDGE.OfC.91412: and he still had a cca radio with our frequency
+[21:26:41] CCA.C17-JUDGE.i4.22767: Indeed
+[21:26:41] Alfred Langenberg: March 12, 1970. A positive.
+[21:26:45] CCA.C17-JUDGE.OfC.91412: and he went in the sewers
+[21:26:48] CCA.C17-UNION.SqL.72633: Hmph
+[21:26:50] CCA.C17-JUDGE.i4.22767: But if he found it in the sewers that's likely
+[21:26:58] CCA.C17-UNION.SqL.72633: Pre-war medical and mental history?
+[21:26:59] CCA.C17-JUDGE.i4.22767: As there are scumbags worse than him down there
+[21:27:05] CCA.C17-JUDGE.OfC.91412: affirmative
+[21:27:09] Alfred Langenberg: Eh, hold on just a moment...
+[21:27:20] CCA.C17-JUDGE.i4.22767: So he might have just been sewer diving and found it near a hideout
+[21:27:37] CCA.C17-JUDGE.OfC.91412: maybe, but he pointed fingers at the dealer, who didn't know anything about him
+[21:27:45] CCA.C17-SCN.49412: /dispatch conspiracy
+[21:27:45] CCA.C17-JUDGE.i4.22767: indeed
+[21:27:48] Alfred Langenberg: /me opens up his suitcase again, fishing around in it for a bit too long until he pulls out some old, winkled forms stapled together, holding them out.
+[21:27:52] CCA.C17-JUDGE.i4.22767: but then how did he know about the dealer
+[21:28:00] Alfred Langenberg: All clean. At least, for the most part.
+[21:28:05] CCA.C17-UNION.SqL.72633: You still have your Pre-war medical papers?
+[21:28:07] CCA.C17-JUDGE.OfC.91412: he could have been conspiring with the dealer
+[21:28:14] Alfred Langenberg: No, no, CMU re-issued.
+[21:28:15] CCA.C17-JUDGE.OfC.91412: and the dealer didn't crack
+[21:28:17] CCA.C17-UNION.SqL.72633: Ah
+[21:28:24] CCA.C17-JUDGE.i4.22767: indeed
+[21:28:26] CCA.C17-UNION.SqL.72633: /me Begins typing onto a PDA device once again.
+[21:28:33] CCA.C17-UNION.SqL.72633: /viewdata Alfred
+[21:28:52] CCA.C17-UNION.SqL.72633: Alright, show me your relocation coupon.
+[21:29:20] CCA.C17-JUDGE.OfC.91412: i say we amputate for the many possible reasons for us to believe he is a rebel conspirer
+[21:29:31] Alfred Langenberg: /me reaches into the chest pocket on his jacket. Whether you noticed or not, it's been poking right out of it. He forks it over to your hand.
+[21:29:32] CCA.C17-JUDGE.i4.22767: Agreed
+[21:29:38] CCA.C17-JUDGE.OfC.91412: cop
+[21:29:40] CCA.C17-JUDGE.OfC.91412: y
+[21:29:46] CCA.C17-JUDGE.i4.22767: There is not much else he can say to help himself at this point
+[21:29:48] CCA.C17-UNION.SqL.72633: /me Takes it and places the Card into his butt pocket.
+[21:29:53] CCA.C17-JUDGE.OfC.91412: copy
+[21:29:55] Alfred Langenberg: .// keep forgetting is tab to access the menu and not f1 lmao. too much nutscript.
+[21:30:02] CCA.C17-UNION.SqL.72633: Get on the wall for a moment.
+[21:30:08] Alfred Langenberg: Ah, boy.
+[21:30:19] Alfred Langenberg: /me lays his suitcase flat on the table.
+[21:30:29] CCA.C17-UNION.SqL.72633: You won't be searched for now.
+[21:30:31] CCA.C17-UNION.SqL.72633: face me
+[21:30:41] CCA.C17-UNION.SqL.72633: Stay still for now, i'll be out with your CID.
+[21:31:09] Alfred Langenberg: // you get many players during the day?
+[21:31:15] CCA.C17-UNION.SqL.72633: // Not really ;-;
+[21:31:16] CCA.C17-JUDGE.i4.22767: // sometimes
+[21:31:24] Alfred Langenberg: // ah that's unfortunate
+[21:31:42] CCA.C17-JUDGE.OfC.91412: achille
+[21:31:43] CCA.C17-UNION.SqL.72633: /me Holds out a freshly made CID to the civvie.
+[21:32:00] Alfred Langenberg: /me tries to back up, but hits the wall. "Bit close for comfort there, bud."
+[21:32:06] CCA.C17-UNION.SqL.72633: Noted
+[21:32:07] Alfred Langenberg: /me grabs the CID, putting it in his pocket.
+[21:32:13] CCA.C17-UNION.SqL.72633: You can go
+[21:32:20] Alfred Langenberg: .// where is it
+[21:32:22] CCA.C17-UNION.SqL.72633: .// sORRY
+[21:32:23] CCA.C17-JUDGE.OfC.91412: You are being charged with rebel conspiracy.
+[21:32:24] CCA.C17-UNION.SqL.72633: .// Fuck
+[21:32:29] CCA.C17-JUDGE.OfC.91412: do you have any last words?
+[21:32:30] Achille 'Tucker' Tristram: /looc fuck u
+[21:32:32] Achille 'Tucker' Tristram: /looc fuck u
+[21:32:33] Achille 'Tucker' Tristram: /looc fuck u
+[21:32:33] Achille 'Tucker' Tristram: /looc fuck u
+[21:32:34] Achille 'Tucker' Tristram: /looc fuck u
+[21:32:47] Alfred Langenberg: /me tests out the field, sticking his arm through it before walking through.
+[21:32:48] CCA.C17-UNION.SqL.72633: /viewdata Alfred
+[21:32:57] CCA.C17-UNION.SqL.72633: /viewdata Alfred
+[21:33:08] CCA.C17-JUDGE.OfC.91412: /me adjusts the laser to point at his eyes.
+[21:33:27] Alfred Langenberg: // God I love c17 so much. All the other maps will never be able to compete with the nostalgia.
+[21:33:31] CCA.C17-UNION.SqL.72633<STEAM_0:1:17219621> changed their name to Theban 'Simmons' Revolt
+[21:33:36] Theban 'Simmons' Revolt: // Truly
+[21:33:44] CCA.C17-JUDGE.OfC.91412: /y KRONK! PULL THE LEVER!
+[21:33:47] Achille 'Tucker' Tristram was killed by trigger_hurt
+[21:33:58] CCA.C17-JUDGE.i4.22767: /charban achill
+[21:33:58] Achille 'Tucker' Tristram<STEAM_0:0:143523274> changed their name to Mr. Chicken
+[21:34:04] Theban 'Simmons' Revolt: // I remember somebody was complaining about this map to us because he thinks it's "ugly"
+[21:34:15] Alfred Langenberg to admins: hey there's a floating lock in the distribution center
+[21:34:17] Theban 'Simmons' Revolt: // That guy was an asshole though so whatever.
+[21:34:18] Dropped "Mr. Chicken" from server<STEAM_0:0:143523274>
+[21:34:25] Alfred Langenberg: // tell him to go shove it up his ass. c17 is epic.
+[21:34:25] CCA.C17-JUDGE.i4.22767: // the floating lock is normal
+[21:34:32] Alfred Langenberg: // it is?
+[21:34:40] CCA.C17-JUDGE.i4.22767: // yes
+[21:34:40] CCA.C17-JUDGE.OfC.91412<STEAM_0:1:129270116> changed their name to Klaus Ludwig
+[21:34:44] Theban 'Simmons' Revolt: // This map itself is kinda bugged
+[21:34:48] Alfred Langenberg: // w...why?
+[21:34:57] Theban 'Simmons' Revolt: // It looks great and works wonderfully but the map bugs out when we use the Bio-locks.
+[21:35:13] Alfred Langenberg: // damn I've never seen that glitch before.
+[21:35:22] Theban 'Simmons' Revolt: // Truly
+[21:35:34] Alfred Langenberg: // then again it's been quite a long time. maybe it's just a newer (or older) version of the map. idk.
+[21:35:40] Theban 'Simmons' Revolt: // Unsure
+[21:36:25] Alfred Langenberg: // rain? HELL YEAH DUDE
+[21:36:31] CCA.C17-SCN.49412: // fuck i
+[21:36:41] Theban 'Simmons' Revolt: // Yeah, I fucking love weather mods.
+[21:36:43] CCA.C17-SCN.49412: /me takes a photograph of the citizen, with a bright flash
+[21:36:50] Theban 'Simmons' Revolt: // But also it doesn't work perfectly on this map.
+[21:36:53] Alfred Langenberg: /me flinches, covering his eyes after the photo.
+[21:36:59] CCA.C17-SCN.49412: .// welcome
+[21:37:05] Alfred Langenberg: I always forget how bright you buggers are.
+[21:37:07] Alfred Langenberg: .// yo. 
+[21:37:07] Theban 'Simmons' Revolt: // It works, but snow on the ground is kinda bugged.
+[21:37:20] CCA.C17-JUDGE.i4.22767<STEAM_0:1:127409364> changed their name to Preobrazhensky ''Sarge'' Bogolepov
+[21:37:22] CCA.C17-SCN.49412: .// your sight belongs to me now
+[21:37:27] Alfred Langenberg: .// uh oh
+[21:37:44] CCA.C17-SCN.49412: .// oh im the only cca now, lemme hop on to an *organic* unit
+[21:37:47] Alfred Langenberg: .// I miss suit zoom so much. everything is so distant.
+[21:37:52] CCA.C17-SCN.49412: .// ikr
+[21:38:00] CCA.C17-SCN.49412<STEAM_0:0:193599766> changed their name to CCA.C17-GRID.i2.36307
+[21:38:06] CCA.C17-GRID.i2.36307: // fuck
+[21:38:08] Theban 'Simmons' Revolt: // This ratio is amazing
+[21:38:20] CCA.C17-GRID.i2.36307: .// hey
+[21:38:24] CCA.C17-GRID.i2.36307: .// can you kill me
+[21:38:31] CCA.C17-GRID.i2.36307 suicided!
+[21:38:31] Preobrazhensky ''Sarge'' Bogolepov slayed CCA.C17-GRID.i2.36307
+[21:38:31] Preobrazhensky ''Sarge'' Bogolepov: !slay i2
+[21:38:51] CCA.C17-GRID.i2.36307: /pm sarge ammo
+[21:38:56] Preobrazhensky ''Sarge'' Bogolepov gave CCA.C17-GRID.i2.36307 200 rounds
+[21:38:56] Preobrazhensky ''Sarge'' Bogolepov: !giveammo i2 200
+[21:39:01] Preobrazhensky ''Sarge'' Bogolepov gave CCA.C17-GRID.i2.36307 200 rounds
+[21:39:01] Preobrazhensky ''Sarge'' Bogolepov: !giveammo i2 200
+[21:39:09] Klaus Ludwig: /y I AM GERMAN!
+[21:39:17] Preobrazhensky ''Sarge'' Bogolepov: /y I AM RUSSIAN
+[21:39:25] Theban 'Simmons' Revolt: Uh...i'm American.
+[21:39:32] Preobrazhensky ''Sarge'' Bogolepov: /y EWWWWW
+[21:39:50] Theban 'Simmons' Revolt: We should start prepping for the op.
+[21:39:56] Theban 'Simmons' Revolt: Lets go to the base.
+[21:40:14] Alfred Langenberg: // kinda sad you guys use digits instead of the far cooler taglines
+[21:40:21] Theban 'Simmons' Revolt: // What do you mean?
+[21:40:23] Klaus Ludwig: officer
+[21:40:24] Santino Russo suicided!
+[21:40:29] Klaus Ludwig: do you want to see a magic trick?
+[21:40:29] CCA.C17-GRID.i2.36307: is that a pallet?
+[21:40:33] CCA.C17-GRID.i2.36307: sure
+[21:40:38] Theban 'Simmons' Revolt: // Let me rephrase, give me an example of that type of name.
+[21:40:40] Alfred Langenberg: // For the CCA, like Tap-4 rather than 45761
+[21:40:41] Klaus Ludwig: /me chucks the pallet behind him.
+[21:40:46] Klaus Ludwig: tada
+[21:40:49] CCA.C17-GRID.i2.36307: huh
+[21:40:53] Klaus Ludwig: i
+[21:41:00] Alfred Langenberg: // you know, like in the actual game.
+[21:41:03] Theban 'Simmons' Revolt: // Eh, personally that isn't as cool.
+[21:41:06] Theban 'Simmons' Revolt: // Just personally.
+[21:41:16] Alfred Langenberg: // I'm never wrong so you must be wrong
+[21:41:51] CCA.C17-GRID.i2.36307<STEAM_0:0:193599766> spawned model models/hunter/blocks/cube025x025x025.mdl
+[21:41:52] Theban 'Simmons' Revolt: // I have been defeated....I shall return to the void where every RCT resides.
+[21:41:53] Klaus Ludwig was killed by prop_physics
+[21:41:58] Alfred Langenberg: // owned
+[21:42:07] Theban 'Simmons' Revolt: // Truly
+[21:42:44] Alfred Langenberg: // hey what's the command to do animations again? like for leaning against a wall and stuff
+[21:42:57] Preobrazhensky ''Sarge'' Bogolepov: // i don't think so
+[21:43:04] Alfred Langenberg: // you dont think what?
+[21:43:07] Theban 'Simmons' Revolt: // uhhhhhhhh, I believe the models we use can't do that but they looks better compared to the TNB models.
+[21:43:10] Preobrazhensky ''Sarge'' Bogolepov: // we have animation stuff
+[21:43:16] Alfred Langenberg: // oof.
+[21:43:21] Theban 'Simmons' Revolt: // Yeah
+[21:43:35] Theban 'Simmons' Revolt: // Althought......it's better than the shitty TNB models.
+[21:43:41] Theban 'Simmons' Revolt: // although*
+[21:43:53] Alfred Langenberg: // true but I have a fondness for my anims.
+[21:44:05] Theban 'Simmons' Revolt: // Fair enough
+[21:44:33] Theban 'Simmons' Revolt: // just noticed Chicken left.
+[21:44:35] Theban 'Simmons' Revolt: // Bruh
+[21:45:23] Alfred Langenberg: // so uh question, a very important one. what now? what is there to do here?
+[21:45:56] Theban 'Simmons' Revolt: // Currently some "underground" stuff is happening so in just a moment a decent amount of stuff will be happening.
+[21:46:07] Theban 'Simmons' Revolt: // Just waiting for a few people to get on and shit is going to go down.
+[21:46:14] Alfred Langenberg: // exciting. kinda sad I never really got into enjoying resi RP.
+[21:47:44] Preobrazhensky ''Sarge'' Bogolepov: /chargiveitem simmons "mp7 mag" 3
+[21:47:45] Theban 'Simmons' Revolt: // LAGGGGG
+[21:47:47] Client "Ollie Garner" connected.
+[21:47:47] Client "A Mandalorian" connected.
+[21:47:55] Alfred Langenberg: /discord
+[21:47:57] Preobrazhensky ''Sarge'' Bogolepov: /chargiveitem simmons "4.6x3 mag" 3
+[21:48:01] Preobrazhensky ''Sarge'' Bogolepov: /chargiveitem simmons "4.6x3" 3
+[21:48:03] Theban 'Simmons' Revolt: // Player Ollie Garner has joined the gamePlayer A Mandalorian has joined the game
+[21:48:04] Theban 'Simmons' Revolt: // Pog
+[21:48:06] Alfred Langenberg: // anyone else just almost crash?
+[21:48:13] Theban 'Simmons' Revolt: // Yeah I got lag
+[21:48:19] Preobrazhensky ''Sarge'' Bogolepov: // probably q editing the server
+[21:48:35] Alfred Langenberg: // ah. gonna assume Q is someone important.
+[21:48:41] Klaus Ludwig: // owner
+[21:48:41] CCA.C17-GRID.i2.36307: // server owner
+[21:48:44] Preobrazhensky ''Sarge'' Bogolepov: // mhm
+[21:48:45] Alfred Langenberg: // figured
+[21:49:11] Alfred Langenberg: Tssst
+[21:49:13] Alfred Langenberg: Officer
+[21:49:25] Alfred Langenberg: You mind, uh, pointing me to residential housing for assignment?
+[21:49:30] CCA.C17-GRID.i2.36307: come on
+[21:49:43] CCA.C17-GRID.i2.36307: wg
+[21:49:44] Theban 'Simmons' Revolt: // This will be fun
+[21:49:47] CCA.C17-GRID.i2.36307: .// oops
+[21:49:53] Client "Steve Cosma" connected.
+[21:50:06] Alfred Langenberg: You got some pretty fancy duds.
+[21:50:15] CCA.C17-GRID.i2.36307: duds?
+[21:50:23] Alfred Langenberg: Uniform. You have a 
+[21:50:26] Alfred Langenberg: nice uniform.
+[21:50:28] CCA.C17-GRID.i2.36307: oh
+[21:50:31] CCA.C17-GRID.i2.36307: thank you
+[21:50:56] Client "Ollie Garner" spawned in server <STEAM_0:1:52892973> (took 189 seconds).
+[21:51:15] Alfred Langenberg: /me checks his watch.
+[21:51:23] CCA.C17-GRID.i2.36307: huh
+[21:51:50] CCA.C17-GRID.i2.36307: One.....
+[21:51:53] CCA.C17-GRID.i2.36307: c
+[21:52:05] CCA.C17-GRID.i2.36307: apply
+[21:52:14] Alfred Langenberg: Alfred Langenberg, 06179.
+[21:52:17] Ollie Garner<STEAM_0:1:52892973> changed their name to Morgan Beck
+[21:52:19] CCA.C17-GRID.i2.36307: /viewdata alf
+[21:52:28] Alfred Langenberg: Pretty eeeh
+[21:52:30] Alfred Langenberg: Quaint.
+[21:52:35] CCA.C17-GRID.i2.36307: Michigan, 1C
+[21:52:38] Theban 'Simmons' Revolt: /me takes a Kevlar vest out of the barrel and places it on.
+[21:52:47] CCA.C17-GRID.i2.36307: If you begome a loyalist you can get moved to Caroline.
+[21:53:01] CCA.C17-GRID.i2.36307: // gonna restard gmod, brb
+[21:53:05] Dropped "CCA.C17-GRID.i2.36307" from server<STEAM_0:0:193599766>
+[21:53:15] Theban 'Simmons' Revolt: // F
+[21:53:20] Theban 'Simmons' Revolt: // We need CP's ;-;
+[21:53:25] Alfred Langenberg: // God I love you kept the cramped apartments from hl2.
+[21:53:58] Klaus Ludwig: /me puts on the kevlar vest.
+[21:54:10] Preobrazhensky ''Sarge'' Bogolepov set the hp for Theban 'Simmons' Revolt to 100
+[21:54:10] Preobrazhensky ''Sarge'' Bogolepov: !hp theban 100
+[21:54:14] Preobrazhensky ''Sarge'' Bogolepov set the hp for Klaus Ludwig to 100
+[21:54:14] Preobrazhensky ''Sarge'' Bogolepov: !hp klaus 100
+[21:55:08] Alfred Langenberg: // how's civ RP doin on this server? lot's of opportunities right?
+[21:55:17] Theban 'Simmons' Revolt: // Uhhhhhh, we try ;-;
+[21:55:24] Client "wzhangwei" connected.
+[21:55:47] Alfred Langenberg: // you at least try to keep it fun for our boys in blue right?
+[21:55:58] Preobrazhensky ''Sarge'' Bogolepov: // for the most part yeah
+[21:56:04] Client "DRD" connected.
+[21:56:06] Morgan Beck: // We try our best.
+[21:56:15] Theban 'Simmons' Revolt: // 8 players on in total poggers
+[21:56:20] Preobrazhensky ''Sarge'' Bogolepov: // i mean we can't have an event every 5 seconds so it depends a lot on passive rp n shit
+[21:56:48] Alfred Langenberg: // I'm aware but I've been on here less than an hour. I'm just getting my facts straight before I make commitments.
+[21:57:34] Morgan Beck: // We're a bit inactive with our events, but we try to host at least a few per month.
+[21:57:51] Theban 'Simmons' Revolt: // Ollie we have a problem
+[21:57:56] Alfred Langenberg: // you got a GM team at least or does staff kinda scramble to do them
+[21:58:14] Theban 'Simmons' Revolt: // Staff are usually acting as game master.
+[21:58:20] Theban 'Simmons' Revolt: // Also we have stat based rolls.
+[21:58:33] Theban 'Simmons' Revolt: // Mostly based off of DND
+[21:58:37] Alfred Langenberg: // bro that's cringe. you gotta get a GM team sorted out. And state rolls are pretty epic.
+[21:59:04] Theban 'Simmons' Revolt: // Truly, a SqL would not have the same strength or agility as a civvie.
+[21:59:13] Morgan Beck: // We don't have GMs. Our staff usually does em. The owner does campaign events though. Campaigns are as they sound. A story over multiple events.
+[21:59:33] Morgan Beck: /adminspawnmenu
+[21:59:35] Preobrazhensky ''Sarge'' Bogolepov: /chargiveitem preo radio
+[21:59:44] Alfred Langenberg: // It's still pretty imported to have designated GM's imho.
+[21:59:51] Dropped "Santino Russo" from server<STEAM_0:0:69476140>
+[22:00:11] Theban 'Simmons' Revolt: /r Testing
+[22:00:13] Alfred Langenberg: // Althought I guess it does make sense to just use regular staff for smaller communities. So nevermind then.
+[22:00:25] Preobrazhensky ''Sarge'' Bogolepov: /radio test
+[22:00:29] Client "DRD" spawned in server <STEAM_0:0:193599766> (took 265 seconds).
+[22:00:30] Preobrazhensky ''Sarge'' Bogolepov: /radio test
+[22:00:41] Theban 'Simmons' Revolt: /r Testing, testing.
+[22:01:14] Client "Steve Cosma" connected.
+[22:01:16] Preobrazhensky ''Sarge'' Bogolepov: /chargiveitem preo hybrid
+[22:01:35] Preobrazhensky ''Sarge'' Bogolepov: /radio test
+[22:01:42] Alfred Langenberg: Sorry
+[22:01:44] Theban 'Simmons' Revolt: /r I can read you
+[22:01:45] Morgan Beck: It's all good.
+[22:01:53] Preobrazhensky ''Sarge'' Bogolepov set the armor for Theban 'Simmons' Revolt to 100
+[22:01:53] Preobrazhensky ''Sarge'' Bogolepov: !armor theban 100
+[22:01:55] Alfred Langenberg: // civ vc's pog I missed them so fucking much
+[22:01:57] Preobrazhensky ''Sarge'' Bogolepov set the armor for Theban 'Simmons' Revolt to 50
+[22:01:57] Preobrazhensky ''Sarge'' Bogolepov: !armor theban 50
+[22:02:05] Theban 'Simmons' Revolt: // civ vc's?
+[22:02:08] Preobrazhensky ''Sarge'' Bogolepov set the armor for Klaus Ludwig to 50
+[22:02:08] Preobrazhensky ''Sarge'' Bogolepov: !armor klaus 50
+[22:02:10] Alfred Langenberg: // voice commands
+[22:02:11] Morgan Beck: // The voice lines.
+[22:02:22] Theban 'Simmons' Revolt: // ah
+[22:02:27] DRD<STEAM_0:0:193599766> changed their name to CCA.C17-GRID.i2.36307
+[22:02:28] Preobrazhensky ''Sarge'' Bogolepov set the armor for Klaus Ludwig to 80
+[22:02:28] Preobrazhensky ''Sarge'' Bogolepov: !armor klaus 80
+[22:02:31] Preobrazhensky ''Sarge'' Bogolepov set the armor for Klaus Ludwig to 80
+[22:02:31] Preobrazhensky ''Sarge'' Bogolepov: !armor klaus 80
+[22:02:35] CCA.C17-GRID.i2.36307: // cool
+[22:02:35] Preobrazhensky ''Sarge'' Bogolepov set the armor for Theban 'Simmons' Revolt to 80
+[22:02:35] Preobrazhensky ''Sarge'' Bogolepov: !armor theban 80
+[22:02:36] Alfred Langenberg: // God everything is making my nostalgic fuck me.
+[22:03:00] Morgan Beck: // BRB for a hot sec
+[22:03:50] Alfred Langenberg: Hey, eh
+[22:03:53] Alfred Langenberg: Sorry to bother
+[22:03:54] Morgan Beck: // Back
+[22:04:01] Client "A Mandalorian" spawned in server <STEAM_0:1:176186550> (took 974 seconds).
+[22:04:02] CCA.C17-GRID.i2.36307: yeah?
+[22:04:03] Alfred Langenberg: I found a shirt and I just wanted to make sure it's not contraband.
+[22:04:12] CCA.C17-GRID.i2.36307: it's fine
+[22:04:22] Theban 'Simmons' Revolt: /me Takes off his Hazmat suit and kevlar vests and places it into his suitcase.
+[22:04:23] Klaus Ludwig: /me takes off his suit and hazmat gear.
+[22:04:33] Theban 'Simmons' Revolt: Are we ready boys?
+[22:04:38] Klaus Ludwig: i am
+[22:04:38] CCA.C17-GRID.i2.36307: as long it doesn't have any traitorous anti-UU messages, you can wear it.
+[22:04:45] CCA.C17-GRID.i2.36307: or rebel insignia, of course.
+[22:05:08] Alfred Langenberg: Hmm... It's pretty nice. Think I'm gonna save it for a special occasion.
+[22:05:14] Alfred Langenberg: Like there's many of those these days.
+[22:05:16] Alfred Langenberg: /me sighs.
+[22:05:28] Theban 'Simmons' Revolt: Alright, me and Church will get to D4 via the sewers and enter D3, Sarge will distract the CCA with a massive fire.
+[22:05:35] CCA.C17-GRID.i2.36307: hmm
+[22:05:42] Theban 'Simmons' Revolt: Report to us when the fire is big Sarge.
+[22:06:02] CCA.C17-GRID.i2.36307: that store over there sells clothes
+[22:06:10] CCA.C17-GRID.i2.36307: /me points to the general store with his stunstick
+[22:06:16] CCA.C17-GRID.i2.36307: all UU-Approved
+[22:06:19] Morgan Beck<STEAM_0:1:52892973> changed their name to CCA.C14-UNION.i5.37434
+[22:06:26] Theban 'Simmons' Revolt: // do be gamer time now
+[22:06:33] CCA.C14-UNION.i5.37434: /r Unit is 10-8, reporting from the train station.
+[22:06:43] Alfred Langenberg: Oh, yeah, I saw it. But clothes are expensive, you know. I'm waiting until I get a good reason to actually spend the money.
+[22:06:56] CCA.C17-GRID.i2.36307: /r Copy.
+[22:07:08] CCA.C17-GRID.i2.36307: saving is never a bad idea.
+[22:07:28] Alfred Langenberg: Where'd that guy come from?
+[22:07:32] Alfred Langenberg: I didn't see him in the statiom
+[22:07:37] Alfred Langenberg: .// station*
+[22:07:41] CCA.C14-UNION.i5.37434: /r Going to pick up a ration in the Nexus.
+[22:07:48] CCA.C17-GRID.i2.36307: /r 10-4.
+[22:07:49] CCA.C17-GRID.i2.36307: Huh
+[22:08:28] Alfred Langenberg: Say, what's the deal with all these, uh... Crabs around.
+[22:08:45] Preobrazhensky ''Sarge'' Bogolepov: /me soaks a rag in gasoline and pours some on the couches and tables
+[22:08:45] CCA.C17-GRID.i2.36307: the parasitics?
+[22:08:50] A Mandalorian<STEAM_0:1:176186550> changed their name to Grant Johnson
+[22:08:53] Alfred Langenberg: If that's what you call them.
+[22:08:56] Theban 'Simmons' Revolt: /rw Tell us when the CCA are distracted.
+[22:09:01] Preobrazhensky ''Sarge'' Bogolepov: /me pours some gunpowder around
+[22:09:04] CCA.C17-GRID.i2.36307: we had a breach earlier today, taken care of quickly, with no casualties.
+[22:09:13] Alfred Langenberg: A breach? Thse far into the city?
+[22:09:14] Theban 'Simmons' Revolt: // Are you afk GRID?
+[22:09:16] CCA.C17-GRID.i2.36307: // no
+[22:09:17] Alfred Langenberg: .// this*
+[22:09:23] Theban 'Simmons' Revolt: // help the new civvie.
+[22:09:23] Alfred Langenberg: .// fuck me gmod is making me iliterate dude
+[22:09:24] Preobrazhensky ''Sarge'' Bogolepov: /me sparks the metal
+[22:09:28] Preobrazhensky ''Sarge'' Bogolepov: /roll
+[22:09:34] Preobrazhensky ''Sarge'' Bogolepov: /me sparks it again
+[22:09:35] Preobrazhensky ''Sarge'' Bogolepov: /roll
+[22:09:40] Preobrazhensky ''Sarge'' Bogolepov: /radio lit
+[22:09:40] CCA.C17-GRID.i2.36307: Mhm.
+[22:09:47] Preobrazhensky ''Sarge'' Bogolepov<STEAM_0:1:127409364> spawned/gave himself swep weapon_extinguisher_infinite
+[22:09:47] Preobrazhensky ''Sarge'' Bogolepov: /toggleraise
+[22:09:52] Theban 'Simmons' Revolt: /rw Repeat that?
+[22:09:57] CCA.C14-UNION.i5.37434: /r Ration has been obtained.
+[22:10:00] CCA.C17-GRID.i2.36307: // new civvie?
+[22:10:01] Preobrazhensky ''Sarge'' Bogolepov: /radio It's lit
+[22:10:05] CCA.C17-GRID.i2.36307: // oh
+[22:10:17] CCA.C14-UNION.i5.37434: /r GRID, permission to attach?
+[22:10:24] Theban 'Simmons' Revolt: /me Places on his Suit and kevlar.
+[22:10:27] Preobrazhensky ''Sarge'' Bogolepov: /y Officer
+[22:10:29] Preobrazhensky ''Sarge'' Bogolepov: /y Officer
+[22:10:30] CCA.C14-UNION.i5.37434: Hm?
+[22:10:32] Klaus Ludwig: /me puts on his kevlar vest, then his suit.
+[22:10:33] CCA.C17-GRID.i2.36307: /r Granted, but I'm just going to process a 10-91.
+[22:10:35] Preobrazhensky ''Sarge'' Bogolepov: The CWU's on fire!
+[22:10:41] CCA.C14-UNION.i5.37434: Got it.
+[22:10:54] CCA.C17-GRID.i2.36307: /r Updating 10-20 to train station.
+[22:11:03] Theban 'Simmons' Revolt: /rw Copy that, we'll start the explosion soon.
+[22:11:11] CCA.C14-UNION.i5.37434: /r Potential fire at CWU. Investigating.
+[22:11:16] Preobrazhensky ''Sarge'' Bogolepov: /toggleraise
+[22:11:16] CCA.C14-UNION.i5.37434: /r SHIT FIRE.
+[22:11:29] Klaus Ludwig: /me lays two combine airtanks at the door of the Gridbay.
+[22:11:31] CCA.C17-GRID.i2.36307: /RY SHIT, HOW BIG?
+[22:11:42] CCA.C14-UNION.i5.37434: /r GRID, any idea where the fuck is one of those fire begone shits?
+[22:11:49] CCA.C17-GRID.i2.36307: /pm i5 whats the code for crm 
+[22:11:58] CCA.C14-UNION.i5.37434: /reply I don't know.
+[22:12:00] Preobrazhensky ''Sarge'' Bogolepov<STEAM_0:1:127409364> used the tool dynamite on maps/rp_city17_build210.bsp
+[22:12:04] CCA.C14-UNION.i5.37434: /reply I haven't been on in ages.
+[22:12:07] Theban 'Simmons' Revolt: /me Fires a shot at the Canister before ducking down.
+[22:12:19] Alfred Langenberg: // uh oh i hear fuckery
+[22:12:20] CCA.C17-GRID.i2.36307: oh my
+[22:12:23] CCA.C14-UNION.i5.37434: Yeah
+[22:12:27] CCA.C17-GRID.i2.36307: come on
+[22:12:29] Theban 'Simmons' Revolt: // Shhhh
+[22:12:33] Preobrazhensky ''Sarge'' Bogolepov<STEAM_0:1:127409364> used the tool creator on maps/rp_city17_build210.bsp
+[22:12:34] Preobrazhensky ''Sarge'' Bogolepov<STEAM_0:1:127409364> spawned NPC npc_metropolice
+[22:12:34] Preobrazhensky ''Sarge'' Bogolepov<STEAM_0:1:127409364> used the tool creator on maps/rp_city17_build210.bsp
+[22:12:34] Preobrazhensky ''Sarge'' Bogolepov<STEAM_0:1:127409364> spawned NPC npc_metropolice
+[22:12:35] Preobrazhensky ''Sarge'' Bogolepov<STEAM_0:1:127409364> used the tool creator on maps/rp_city17_build210.bsp
+[22:12:35] Preobrazhensky ''Sarge'' Bogolepov<STEAM_0:1:127409364> spawned NPC npc_metropolice
+[22:12:36] Preobrazhensky ''Sarge'' Bogolepov<STEAM_0:1:127409364> used the tool creator on maps/rp_city17_build210.bsp
+[22:12:36] Preobrazhensky ''Sarge'' Bogolepov<STEAM_0:1:127409364> spawned NPC npc_metropolice
+[22:12:40] Preobrazhensky ''Sarge'' Bogolepov<STEAM_0:1:127409364> used the tool creator on maps/rp_city17_build210.bsp
+[22:12:41] Preobrazhensky ''Sarge'' Bogolepov<STEAM_0:1:127409364> used the tool creator on maps/rp_city17_build210.bsp
+[22:12:41] Preobrazhensky ''Sarge'' Bogolepov<STEAM_0:1:127409364> spawned NPC npc_metropolice
+[22:12:41] CCA.C17-GRID.i2.36307: probably a fire extenguisher (or however the fuck you spell it) in the gridbay
+[22:12:44] CCA.C14-UNION.i5.37434: Uh...
+[22:12:53] CCA.C14-UNION.i5.37434: You hear that?
+[22:12:58] CCA.C17-GRID.i2.36307: .// no sound
+[22:13:08] CCA.C14-UNION.i5.37434: /looc explosions
+[22:13:10] Preobrazhensky ''Sarge'' Bogolepov: /event Multiple Grid biosignals are lost at once
+[22:13:13] CCA.C17-GRID.i2.36307: .// ah, what direction
+[22:13:15] CCA.C14-UNION.i5.37434: Uh... shit.
+[22:13:16] CCA.C17-GRID.i2.36307: oh fucking-
+[22:13:17] Alfred Langenberg: // oops
+[22:13:22] CCA.C17-GRID.i2.36307: /y MOVE IT
+[22:13:25] CCA.C14-UNION.i5.37434: /me quickly pulls out his 9mm
+[22:13:27] Theban 'Simmons' Revolt: /me loots
+[22:13:28] Theban 'Simmons' Revolt: /roll
+[22:13:28] CCA.C14-UNION.i5.37434: /toggleraise
+[22:13:31] Klaus Ludwig: /me loots.
+[22:13:32] Klaus Ludwig: /roll
+[22:13:42] Theban 'Simmons' Revolt: /me loots
+[22:13:43] Theban 'Simmons' Revolt: /roll
+[22:13:52] Klaus Ludwig: /me loots.
+[22:13:53] Klaus Ludwig: /roll
+[22:14:02] CCA.C17-GRID.i2.36307: /RY ALL AVAILABLE UNITS, COAGULATE AT GRIDBAY
+[22:14:10] CCA.C17-GRID.i2.36307: /toggleraise
+[22:14:13] Theban 'Simmons' Revolt: // Hold
+[22:14:16] CCA.C17-GRID.i2.36307: // oh
+[22:14:18] CCA.C14-UNION.i5.37434: /toggleraise
+[22:14:18] Preobrazhensky ''Sarge'' Bogolepov: // jebus
+[22:14:22] CCA.C17-GRID.i2.36307: // we gonna do combat rp shit
+[22:14:51] CCA.C14-UNION.i5.37434: /roll
+[22:14:53] Klaus Ludwig: /me strips all comms and weapons and binds hands.
+[22:14:56] Klaus Ludwig: /roll
+[22:15:00] Theban 'Simmons' Revolt: /roll
+[22:15:03] Theban 'Simmons' Revolt: .// roll for who goes first
+[22:15:05] CCA.C17-GRID.i2.36307: /roll
+[22:15:36] CCA.C14-UNION.i5.37434: /looc Klaus, GRID, UNION, Theban
+[22:15:59] Theban 'Simmons' Revolt: .// We have kevlar on by the way
+[22:16:02] Klaus Ludwig: /me fires a somewhat controlled burst at the GRID's upper body/neck/head region.
+[22:16:03] Theban 'Simmons' Revolt: .// Just so you're aware
+[22:16:07] Klaus Ludwig: /rollstat agi
+[22:16:09] CCA.C17-GRID.i2.36307: /rollstat con
+[22:16:14] CCA.C17-GRID.i2.36307: .// con
+[22:16:33] Theban 'Simmons' Revolt: .// Damn, have fun with 4.6 rounds in your body.
+[22:16:56] CCA.C17-GRID.i2.36307: .// youch
+[22:16:59] Alfred Langenberg: // are forcefield sounds just global or something i keep hearing them even when im not near one
+[22:17:06] CCA.C17-GRID.i2.36307: .// do stopsound
+[22:17:06] Theban 'Simmons' Revolt: // Really?
+[22:17:09] CCA.C17-GRID.i2.36307: .// fuck
+[22:17:11] Theban 'Simmons' Revolt: // Do "stopsound"
+[22:17:15] CCA.C17-GRID.i2.36307: // do stopsound in consolke
+[22:17:15] Alfred Langenberg: // yeah its freaking me the tf out lmao
+[22:17:21] Alfred Langenberg: // its not a constant noise it comes and goes
+[22:17:23] Preobrazhensky ''Sarge'' Bogolepov: /it The grid unit is hit by 2 rounds, the other 2 missing his head, but those that hit him knocked the wind out of him
+[22:17:40] CCA.C17-GRID.i2.36307: .// me, yeah?
+[22:17:45] Preobrazhensky ''Sarge'' Bogolepov: /looc ye
+[22:18:31] CCA.C17-GRID.i2.36307: /me fires a burst at whoever the fuck is in front you both look the same, aiming for the torso
+[22:18:35] CCA.C17-GRID.i2.36307: /rollstat agi
+[22:18:50] Klaus Ludwig: /me attempts to duck in time(probably won't work)
+[22:18:57] Klaus Ludwig: /rollstat agi
+[22:19:02] Klaus Ludwig: /rollstat con
+[22:19:16] CCA.C17-GRID.i2.36307: .// is that a 42 or a 20
+[22:19:24] Theban 'Simmons' Revolt: .// It was a agi and then a con
+[22:19:27] Theban 'Simmons' Revolt: .// Join VC nerd
+[22:19:28] CCA.C17-GRID.i2.36307: .// oh
+[22:19:32] CCA.C14-UNION.i5.37434: /looc Doughie doin a /it
+[22:19:47] CCA.C17-GRID.i2.36307: .// d-
+[22:19:49] Preobrazhensky ''Sarge'' Bogolepov: /it While trying to duck away the unit hits you in the leg twice, nothing hitting vital arteries n shit but still pretty fucky
+[22:19:50] CCA.C17-GRID.i2.36307: .// doughie
+[22:19:58] Preobrazhensky ''Sarge'' Bogolepov: /looc dognut
+[22:20:18] CCA.C14-UNION.i5.37434: /looc fire twice in the leg
+[22:21:01] CCA.C17-GRID.i2.36307: // poor alfred is missing the firefight
+[22:21:05] CCA.C14-UNION.i5.37434: /me goes to aim at the... guy sorta behind cover, firing shots towards the leg.
+[22:21:15] CCA.C17-GRID.i2.36307: // come and be shot in the crossfire
+[22:21:22] CCA.C14-UNION.i5.37434: /rollstat agi
+[22:21:30] Alfred Langenberg: // I almost was lmao did you not see me walk right into it and then away
+[22:21:35] Klaus Ludwig: /me attempts to pull his leg forwards in time.
+[22:21:38] Alfred Langenberg: // I want to watch but you guys kept looking over at me
+[22:21:38] Klaus Ludwig: /rollstat agi
+[22:21:44] Klaus Ludwig: /rollstat con
+[22:21:47] Alfred Langenberg: // felt self conscious and in danger
+[22:21:51] CCA.C17-GRID.i2.36307: // no one will stop you
+[22:21:58] CCA.C14-UNION.i5.37434: // CombatRP so don't worry
+[22:21:59] Preobrazhensky ''Sarge'' Bogolepov: /it The man is shot 3 more times now in his other leg
+[22:22:03] Theban 'Simmons' Revolt: // We are in timescale, couldn't fire at you if we tried.
+[22:22:20] Theban 'Simmons' Revolt: /me Starts firing a controlled burst at the GRID units upper torso.
+[22:22:29] Alfred Langenberg: // I mean I can't really see any of your /me's without being very very close. im just listening in from behind a wall rn.
+[22:22:45] CCA.C17-GRID.i2.36307: /me tries to fucking get into cover by the pillar
+[22:22:47] CCA.C17-GRID.i2.36307: /rollstat agi
+[22:22:48] Theban 'Simmons' Revolt: /rollstat agi
+[22:22:49] Dropped "Grant Johnson" from server<STEAM_0:1:176186550>
+[22:22:50] Preobrazhensky ''Sarge'' Bogolepov: /changesociostatus yellow
+[22:22:54] Preobrazhensky ''Sarge'' Bogolepov: /looc rip
+[22:22:54] CCA.C14-UNION.i5.37434: // OOOOOOOF
+[22:23:23] Preobrazhensky ''Sarge'' Bogolepov: /it the man shoots all 3 rounds into a wall
+[22:23:29] Preobrazhensky ''Sarge'' Bogolepov: /it the grid matrixed that shit
+[22:23:38] Klaus Ludwig: /me attempts to gun down the UNION with 5 shots.
+[22:23:41] Klaus Ludwig: /rollstat agi
+[22:23:56] CCA.C14-UNION.i5.37434: /rollstat con
+[22:24:31] Preobrazhensky ''Sarge'' Bogolepov: /it The unit is hit by the rounds but doesn't seem to have much trouble from it
+[22:25:42] Alfred Langenberg: // you see nothing. nothing at aaaalll.
+[22:25:52] Alfred Langenberg: .// sorry what
+[22:26:02] Theban 'Simmons' Revolt: // /me shoots at you with perfect aim, regardless of anything I now get a +100 to any roll
+[22:26:12] Theban 'Simmons' Revolt: // You have been Sniped!
+[22:26:16] CCA.C17-GRID.i2.36307: /me fires a controlled burst at Theban
+[22:26:16] Alfred Langenberg: // that's the true rebel spirit!
+[22:26:19] CCA.C17-GRID.i2.36307: /rollstat agi
+[22:26:51] Theban 'Simmons' Revolt: /me Attempts to dodge into the Building (am I allowed to grab Klaus just to get him up so he can move into the room?)
+[22:27:05] Theban 'Simmons' Revolt: /rollstat agi
+[22:27:29] Preobrazhensky ''Sarge'' Bogolepov: /it while ducking into the room you are shot in the foot while grabbing klaus
+[22:27:41] Alfred Langenberg: // dont judge me the cinder block is my friend
+[22:27:58] Theban 'Simmons' Revolt: // Cinder blocks are cool not gonna lie
+[22:28:07] Alfred Langenberg: // best weapon in the game
+[22:28:07] Theban 'Simmons' Revolt: // My friend is about to die ;-;
+[22:28:29] CCA.C17-GRID.i2.36307: // you might be able to fucking toss a cinder block at one side
+[22:28:39] Theban 'Simmons' Revolt: // Should come help bruh.
+[22:28:42] Theban 'Simmons' Revolt: // Totally not meta
+[22:28:42] Alfred Langenberg: // that was the original plan but then I realized you guys have guns and I don't
+[22:28:57] CCA.C17-GRID.i2.36307: // well no one would expect it
+[22:28:59] CCA.C17-GRID.i2.36307: // rebels nor cp
+[22:29:02] Preobrazhensky ''Sarge'' Bogolepov: // cinder block
+[22:29:06] Preobrazhensky ''Sarge'' Bogolepov: // is gun enough
+[22:29:08] Alfred Langenberg: // hnnng but I'm a coward
+[22:29:09] Theban 'Simmons' Revolt: // So a cinder block to the head could help a lot.
+[22:29:13] CCA.C14-UNION.i5.37434: /me aims towards the man in the front door, soon firing a few shots, mostly hoping to hit somewhere vital.
+[22:29:15] Theban 'Simmons' Revolt: // Also RNG would help you
+[22:29:19] CCA.C14-UNION.i5.37434: /rollstat agi
+[22:29:19] CCA.C17-GRID.i2.36307: // you can always make another char if it goes wrong
+[22:29:21] Klaus Ludwig: /rollstat con
+[22:29:31] Alfred Langenberg: // Impossible, Alfred is un-killable.
+[22:29:36] CCA.C17-GRID.i2.36307: // exactly
+[22:29:40] CCA.C17-GRID.i2.36307: // come join the combat rp
+[22:29:47] CCA.C17-GRID.i2.36307: // bonk a rebel, bonk a cp, or maybe bonk both
+[22:30:05] Theban 'Simmons' Revolt: /me Grabs Klaus and brings him into the Room more, attempting to get into a good position.
+[22:30:06] Alfred Langenberg: // I will establish my own faction and triumph over both lolwebul and robocop
+[22:30:11] CCA.C17-GRID.i2.36307: // yes
+[22:30:19] Theban 'Simmons' Revolt: /rollstat str
+[22:30:22] CCA.C17-GRID.i2.36307: // come give my grid some pop
+[22:30:34] Alfred Langenberg: // its kinda late now that ive been fucking about they went inside
+[22:30:38] Preobrazhensky ''Sarge'' Bogolepov: // ye
+[22:32:08] Alfred Langenberg: // bit rude innit
+[22:32:14] Klaus Ludwig: /me reloads.
+[22:32:14] Preobrazhensky ''Sarge'' Bogolepov: // mhm
+[22:32:18] CCA.C14-UNION.i5.37434: /toggleraise
+[22:32:25] Alfred Langenberg: // big ol jerk
+[22:32:50] Alfred Langenberg: // I have the best weapon in the game and you will not rip it from my very weak hands
+[22:32:56] CCA.C17-GRID.i2.36307: // come help
+[22:33:13] Alfred Langenberg: // they're inside tf is a blueshirt with a brick gonna do. I'm waiting for a good moment.
+[22:33:30] CCA.C17-GRID.i2.36307: /me goes up beside the door, grenade in hand
+[22:33:33] CCA.C17-GRID.i2.36307: /rollstat agi
+[22:33:59] Alfred Langenberg: // actually you know what I just had a really stupid idea.
+[22:34:05] Alfred Langenberg: // you think I should do it?
+[22:34:06] Theban 'Simmons' Revolt: // do it
+[22:34:15] CCA.C17-GRID.i2.36307: // do it
+[22:34:18] Klaus Ludwig: // do it
+[22:34:35] Alfred Langenberg: /me attempts to make a charge to the building, cinderblock in hand and steely determination in his eyes.
+[22:34:44] Theban 'Simmons' Revolt: .// CHAD
+[22:34:46] Theban 'Simmons' Revolt: .// Fucking chad
+[22:34:54] Theban 'Simmons' Revolt: .// No wait, are you helping us or them?
+[22:34:59] Alfred Langenberg: .// roll or?
+[22:35:11] Preobrazhensky ''Sarge'' Bogolepov: /looc running up towards it was your action
+[22:35:13] Alfred Langenberg: .// am i out of range to see you
+[22:35:16] Preobrazhensky ''Sarge'' Bogolepov: /looc so just stand near by
+[22:35:18] Theban 'Simmons' Revolt: /me Fires a large burst of 4.6mm armor piercing rounds into the wall where the GRID was.
+[22:35:33] CCA.C17-GRID.i2.36307: /rollstat con
+[22:35:37] Theban 'Simmons' Revolt: /rollstat agi
+[22:36:47] Alfred Langenberg: .// its time for me to shine. and then get shot.
+[22:36:55] Alfred Langenberg: .// ill shine with blood!
+[22:36:57] CCA.C17-GRID.i2.36307: .// hey
+[22:37:02] CCA.C17-GRID.i2.36307: .// you should join the discord vc
+[22:37:07] CCA.C17-GRID.i2.36307: .// get the discord with /discord
+[22:37:21] Alfred Langenberg: .// i actually already got the link i just forgot to hit join
+[22:37:26] Preobrazhensky ''Sarge'' Bogolepov: /it The grid is shot in his arm twice
+[22:37:57] Preobrazhensky ''Sarge'' Bogolepov<STEAM_0:1:127409364> spawned/gave himself swep weapon_smg1
+[22:37:58] Preobrazhensky ''Sarge'' Bogolepov: /toggleraise
+[22:38:21] Alfred Langenberg: /roll
+[22:39:11] Klaus Ludwig: /me attempts to shoot a burst of 7 shots through the wall at where the GRID was.
+[22:39:14] Klaus Ludwig: /rollstat agi
+[22:39:16] CCA.C17-GRID.i2.36307: /rollstat con
+[22:39:18] Alfred Langenberg: .// this was probably a bad time to have a very low strength stat
+[22:39:29] Preobrazhensky ''Sarge'' Bogolepov: /it You accidentally shoot the terminal next to you
+[22:39:57] CCA.C17-GRID.i2.36307: /me tosses his grenade into the room, trying to aim where he was shot from
+[22:40:00] CCA.C17-GRID.i2.36307: /rollstat agi
+[22:40:48] Klaus Ludwig: /me attempts to smack the thrown grenade outta midair back at the fucking outside.
+[22:41:01] Klaus Ludwig: /rollstat agi
+[22:41:04] CCA.C17-GRID.i2.36307: /toggleraise
+[22:41:36] Alfred Langenberg: .// 52 for a hit back?
+[22:41:37] Alfred Langenberg: .// smh
+[22:42:26] Preobrazhensky ''Sarge'' Bogolepov: /it the grenade is hit and bonks the grid for a second
+[22:42:34] CCA.C17-GRID.i2.36307: /me rolls it back with his foot lol
+[22:42:36] CCA.C17-GRID.i2.36307: /rollstat agi
+[22:42:37] Alfred Langenberg: .// im very glad im going AFTER the grenade explodes lmao
+[22:42:43] Alfred Langenberg: .// holy shit
+[22:42:46] CCA.C14-UNION.i5.37434: /looc oohohh
+[22:42:55] Preobrazhensky ''Sarge'' Bogolepov: /it it somehow curves in between the rebels
+[22:43:31] Preobrazhensky ''Sarge'' Bogolepov: /roll 1
+[22:43:42] Preobrazhensky ''Sarge'' Bogolepov: /roll 1
+[22:45:01] CCA.C17-GRID.i2.36307: /toggleraise
+[22:45:08] Preobrazhensky ''Sarge'' Bogolepov: /looc also imma say it was just rolled next to yall since you're too close together for inbetween
+[22:45:20] CCA.C17-GRID.i2.36307<STEAM_0:0:193599766> spawned model models/items/grenadeammo.mdl
+[22:45:31] CCA.C17-GRID.i2.36307<STEAM_0:0:193599766> spawned model models/items/grenadeammo.mdl
+[22:45:34] CCA.C17-GRID.i2.36307<STEAM_0:0:193599766> spawned model models/items/grenadeammo.mdl
+[22:45:51] Alfred Langenberg: .// its a *very* hot potato
+[22:46:06] Theban 'Simmons' Revolt: .// Attack the Combine Alfred, or I will not be happy ;-;
+[22:46:11] Alfred Langenberg: .// wait so has the grenade already gone off or what?
+[22:46:21] CCA.C14-UNION.i5.37434: /looc It's ABOUT to go off.
+[22:46:23] Alfred Langenberg: .// oh this is a very bad moment to run inside
+[22:46:37] Alfred Langenberg: .// I'll allow it
+[22:46:46] Alfred Langenberg: .// you ARE inside the doorframe so you could easily stop me
+[22:47:12] Alfred Langenberg: .// rebels are cringe. I'm UU for life, sorry to say.
+[22:47:35] Alfred Langenberg: .// yeah I'll do one of those funny slides and hit the deck
+[22:48:12] Alfred Langenberg: /me turns his heels, sliding to a stop and falling into the GRID before he gets inside the building, his brick still raised however.
+[22:48:32] Alfred Langenberg: .// male 07 supremacy
+[22:48:33] Theban 'Simmons' Revolt: .//A true lad
+[22:48:37] Alfred Langenberg: /roll agility
+[22:48:41] Alfred Langenberg: .// uh oh
+[22:48:41] CCA.C17-GRID.i2.36307: /rollstat agi
+[22:48:48] CCA.C17-GRID.i2.36307: .// /rollstat
+[22:48:53] Preobrazhensky ''Sarge'' Bogolepov: /it the grid unit is knocked slightly off balance
+[22:48:57] Alfred Langenberg: .// right right sorry i forgot
+[22:49:02] Alfred Langenberg: /rollstate agility
+[22:49:09] Theban 'Simmons' Revolt: .// It's fine, you didn't need to roll
+[22:49:51] Preobrazhensky ''Sarge'' Bogolepov<STEAM_0:1:127409364> spawned/gave himself swep weapon_frag
+[22:49:52] Preobrazhensky ''Sarge'' Bogolepov: /toggleraise
+[22:50:01] Theban 'Simmons' Revolt: /me Grabs Church while praying in his mind, he then fucking runs behind the corner with Klaud.
+[22:50:01] Alfred Langenberg: .// union if you wanted to practice your aim you could just straight up unload on me, it looks like im attacking the grid tbh.
+[22:50:06] Theban 'Simmons' Revolt: /rollstat agi
+[22:50:12] Theban 'Simmons' Revolt: /rollstat str
+[22:50:17] CCA.C14-UNION.i5.37434: // OOOH
+[22:50:26] Alfred Langenberg: // o7
+[22:50:30] Preobrazhensky ''Sarge'' Bogolepov: /it You accidentally push klaus instead of pulling him
+[22:50:30] CCA.C14-UNION.i5.37434: // o7
+[22:50:37] Klaus Ludwig: bitch
+[22:50:47] Theban 'Simmons' Revolt: /y FUCK!
+[22:50:51] Preobrazhensky ''Sarge'' Bogolepov: /toggleraise
+[22:51:37] CCA.C17-GRID.i2.36307: /me fucking leaps backwards out of the building, aiming to his left
+[22:51:40] CCA.C17-GRID.i2.36307: /rollstat agi
+[22:51:41] Alfred Langenberg: .// hey either the grid absorbs the blow for me, pulls me out of the way or I die in the open.
+[22:51:50] Theban 'Simmons' Revolt: .// You die in the open lmao
+[22:51:51] Alfred Langenberg: .// oh shrapnel time for me
+[22:51:57] CCA.C14-UNION.i5.37434: // swiss cheese
+[22:52:05] Preobrazhensky ''Sarge'' Bogolepov: /it the grid spins around the cround all cool and shit
+[22:52:12] Preobrazhensky ''Sarge'' Bogolepov: /looc corner*
+[22:52:17] Theban 'Simmons' Revolt: .// Bruh
+[22:52:33] Preobrazhensky ''Sarge'' Bogolepov: /toggleraise
+[22:52:37] Preobrazhensky ''Sarge'' Bogolepov killed Klaus Ludwig using npc_grenade_frag
+[22:52:45] CCA.C14-UNION.i5.37434: // R.I.P
+[22:52:54] Alfred Langenberg: .// should i roll for luck and prayers?
+[22:52:55] Theban 'Simmons' Revolt: // This is breaking my heart.
+[22:52:55] CCA.C14-UNION.i5.37434: /charban Klaus
+[22:52:55] Klaus Ludwig<STEAM_0:1:129270116> changed their name to Mr. Chief
+[22:53:09] Mr. Chief<STEAM_0:1:129270116> changed their name to Richard Mundy
+[22:53:28] Preobrazhensky ''Sarge'' Bogolepov: !bring richard
+[22:53:30] Preobrazhensky ''Sarge'' Bogolepov: !bring richard
+[22:53:33] Preobrazhensky ''Sarge'' Bogolepov brought Richard Mundy
+[22:53:33] Preobrazhensky ''Sarge'' Bogolepov: !bring richard
+[22:53:33] Alfred Langenberg: .// am I rolling for getting fucked by shrapnel or what
+[22:53:45] Theban 'Simmons' Revolt: .// do /rollstat con
+[22:53:54] Alfred Langenberg: .// ah fuck I knew i shouldve raised con
+[22:53:56] CCA.C17-GRID.i2.36307: .// dont worry alfred i'll try to help you if you get riddled with shrapnel and i survive <3
+[22:53:57] Alfred Langenberg: /rollstat con
+[22:53:59] Alfred Langenberg: .// oh.
+[22:54:05] Preobrazhensky ''Sarge'' Bogolepov: /toggleraise
+[22:54:08] Alfred Langenberg: .// oops
+[22:54:17] Theban 'Simmons' Revolt: .// SHit
+[22:54:20] Theban 'Simmons' Revolt: .// On accident
+[22:54:29] Preobrazhensky ''Sarge'' Bogolepov set the hp for Alfred Langenberg to 20
+[22:54:29] Preobrazhensky ''Sarge'' Bogolepov: !hp alfred 20
+[22:54:34] Alfred Langenberg: /me gets absolutely ass blasted with shrapnel. Whoopsie.
+[22:54:36] Alfred Langenberg: /charfallover
+[22:54:42] CCA.C14-UNION.i5.37434: Shit
+[22:54:51] Preobrazhensky ''Sarge'' Bogolepov: /chargiveitem theban grenade
+[22:54:55] CCA.C17-GRID.i2.36307: /toggleraise
+[22:54:59] Alfred Langenberg: .// Remember my name and insult GRID for me brothas.
+[22:55:00] CCA.C17-GRID.i2.36307: /toggleraise
+[22:55:05] Preobrazhensky ''Sarge'' Bogolepov: /chargiveitem richard suitcase
+[22:55:36] Richard Mundy: .// dont fuck up
+[22:55:42] Theban 'Simmons' Revolt: .// Fuck off
+[22:55:48] Richard Mundy: /apply
+[22:55:56] Theban 'Simmons' Revolt: /rollstat agi
+[22:55:56] CCA.C14-UNION.i5.37434: /looc /me shoots grid i2 in the neck, and betrays the combines
+[22:56:02] Preobrazhensky ''Sarge'' Bogolepov: /createcid Richard Mundy 66098
+[22:56:14] Preobrazhensky ''Sarge'' Bogolepov: /chargiveitem richard notepade 2
+[22:56:18] Preobrazhensky ''Sarge'' Bogolepov: /chargiveitem richard notepad 2
+[22:56:38] CCA.C17-GRID.i2.36307<STEAM_0:0:193599766> spawned model models/items/grenadeammo.mdl
+[22:56:39] CCA.C17-GRID.i2.36307<STEAM_0:0:193599766> spawned model models/items/grenadeammo.mdl
+[22:57:03] CCA.C14-UNION.i5.37434: /toggleraise
+[22:57:16] Alfred Langenberg: // It may have been my decision but I blame you GRID
+[22:57:22] CCA.C14-UNION.i5.37434: // F
+[22:57:24] Richard Mundy: // fuck you GRID
+[22:57:34] Theban 'Simmons' Revolt: // he's about to die since I threw a grenade and he's right next to it.
+[22:57:38] Alfred Langenberg: // My golden moment... Robbed from me!
+[22:57:47] CCA.C17-GRID.i2.36307<STEAM_0:0:193599766> spawned model models/items/grenadeammo.mdl
+[22:57:54] CCA.C17-GRID.i2.36307<STEAM_0:0:193599766> spawned model models/items/grenadeammo.mdl
+[22:58:10] CCA.C17-GRID.i2.36307: /me fucking punts the grenade as far as he can
+[22:58:17] CCA.C17-GRID.i2.36307: /rollstat agi
+[22:58:25] CCA.C17-GRID.i2.36307: /rollstat str
+[22:58:39] Alfred Langenberg: // I think next time i will be statmaxxing. Just gotta figure fuckin how to
+[22:58:51] Theban 'Simmons' Revolt: /me Dodges behind cover.
+[22:59:03] Preobrazhensky ''Sarge'' Bogolepov<STEAM_0:1:127409364> spawned/gave himself swep weapon_frag
+[22:59:03] Preobrazhensky ''Sarge'' Bogolepov: /toggleraise
+[22:59:09] Preobrazhensky ''Sarge'' Bogolepov killed Alfred Langenberg using npc_grenade_frag
+[22:59:11] Alfred Langenberg: // ouchie
+[22:59:15] Theban 'Simmons' Revolt: // F
+[22:59:17] Preobrazhensky ''Sarge'' Bogolepov brought Alfred Langenberg
+[22:59:17] Preobrazhensky ''Sarge'' Bogolepov: !bring alfred
+[22:59:20] CCA.C17-GRID.i2.36307<STEAM_0:0:193599766> used the tool creator on maps/rp_city17_build210.bsp
+[22:59:20] CCA.C17-GRID.i2.36307<STEAM_0:0:193599766> spawned model models/items/grenadeammo.mdl
+[22:59:22] Preobrazhensky ''Sarge'' Bogolepov set the hp for Alfred Langenberg to 20
+[22:59:22] Preobrazhensky ''Sarge'' Bogolepov: !hp alf 20
+[22:59:23] Alfred Langenberg: /charfallover
+[22:59:25] CCA.C17-GRID.i2.36307<STEAM_0:0:193599766> used the tool motor on models/items/grenadeammo.mdl
+[22:59:26] CCA.C17-GRID.i2.36307<STEAM_0:0:193599766> used the tool motor on maps/rp_city17_build210.bsp
+[22:59:41] Alfred Langenberg: /me bleeds out lmao.
+[22:59:41] Alfred Langenberg: /roll
+[23:00:03] CCA.C17-GRID.i2.36307<STEAM_0:0:193599766> spawned model models/items/grenadeammo.mdl
+[23:00:04] Theban 'Simmons' Revolt: .// FUCK
+[23:00:04] CCA.C14-UNION.i5.37434: i2, do you want me to get the civi to safety>
+[23:00:04] CCA.C17-GRID.i2.36307<STEAM_0:0:193599766> used the tool motor on models/items/grenadeammo.mdl
+[23:00:06] CCA.C17-GRID.i2.36307<STEAM_0:0:193599766> used the tool motor on maps/rp_city17_build210.bsp
+[23:00:09] CCA.C14-UNION.i5.37434: *?
+[23:00:28] CCA.C17-GRID.i2.36307: /rollstat con
+[23:00:46] Alfred Langenberg: // did GRID get shrapnel'd?
+[23:00:48] Preobrazhensky ''Sarge'' Bogolepov: /it the grid is riddled with shrapnel
+[23:00:54] CCA.C17-GRID.i2.36307: /y FUCK THAT GET ME TO SFAETY
+[23:00:56] CCA.C17-GRID.i2.36307: .// void
+[23:00:57] Alfred Langenberg: // REVENGE I CAUSED THIS
+[23:01:04] Preobrazhensky ''Sarge'' Bogolepov set the hp for CCA.C17-GRID.i2.36307 to 30
+[23:01:04] Preobrazhensky ''Sarge'' Bogolepov: !hp grid 30
+[23:01:14] Preobrazhensky ''Sarge'' Bogolepov set the armor for CCA.C17-GRID.i2.36307 to 2
+[23:01:14] Preobrazhensky ''Sarge'' Bogolepov: !armor grid 2
+[23:01:21] Theban 'Simmons' Revolt: /me Dodges to the left of the corner and aims his weapon near the door waiting for anybody to pass it.
+[23:01:57] Alfred Langenberg: // union i got a wild idea
+[23:02:06] Theban 'Simmons' Revolt: // die
+[23:02:07] Alfred Langenberg: // lock the door. what they gon do?
+[23:02:11] Theban 'Simmons' Revolt: // A lot
+[23:02:17] Alfred Langenberg: // make a new door
+[23:02:19] Alfred Langenberg: // ez
+[23:02:47] CCA.C14-UNION.i5.37434: /me goes to grab the i2's collar with his left hand, keeping his 9mm in his right hand as he trys to drag the GRID away.
+[23:03:00] CCA.C14-UNION.i5.37434: /toggleraise
+[23:03:25] Preobrazhensky ''Sarge'' Bogolepov: /toggleraise
+[23:03:26] Theban 'Simmons' Revolt: /me Moves to cover to his left and starts aiming his weapon on the GRID body once he is in sight.
+[23:03:29] Preobrazhensky ''Sarge'' Bogolepov: /toggleraise
+[23:03:37] Alfred Langenberg: // I should've taken my moment when you guys were out in the open. Damn my cowardice.
+[23:03:48] CCA.C14-UNION.i5.37434: /r GRID INJURIED, REQUESTING SUPPORT AT GRID BAY!
+[23:03:52] Richard Mundy: // i fucking died
+[23:03:58] Alfred Langenberg: // owned
+[23:04:01] CCA.C14-UNION.i5.37434: /rollstat str
+[23:04:46] Alfred Langenberg: /me takes a nice sleepy nap due to his concussion and blood loss. Sweet dreams, Alfie!
+[23:04:57] Theban 'Simmons' Revolt: .// Truly sweet dreams
+[23:05:07] Alfred Langenberg: .// indeed
+[23:05:53] Alfred Langenberg: // I was a GRID a few times. I don't like it generaly, but driving the APC was pretty fun.
+[23:06:17] Preobrazhensky ''Sarge'' Bogolepov set the hp for Richard Mundy to 100
+[23:06:17] Preobrazhensky ''Sarge'' Bogolepov: !hp mundy 100
+[23:06:19] CCA.C17-GRID.i2.36307: // become cp and become grid :(
+[23:06:24] Theban 'Simmons' Revolt: // GRID bad
+[23:06:26] Theban 'Simmons' Revolt: // UNION good
+[23:06:26] Richard Mundy: // GRID bad
+[23:06:28] Alfred Langenberg: // Do you have cool car
+[23:06:29] Richard Mundy: // UNION good
+[23:06:35] CCA.C17-GRID.i2.36307: // im the only grid not inlcuding q
+[23:07:08] Alfred Langenberg: // do you have a cool APC because that is my only motivation in life
+[23:07:16] Richard Mundy: // all units can use APCs
+[23:07:20] CCA.C14-UNION.i5.37434: /me fires shots towards the rebel, mostly just trying to scare them off at this point.
+[23:07:20] Richard Mundy: // at a certain rank
+[23:07:26] CCA.C14-UNION.i5.37434: /rollstat agi
+[23:07:28] Theban 'Simmons' Revolt: /rollstat agi
+[23:07:28] Alfred Langenberg: // Oh fuck that then. Union is better anyway
+[23:07:33] Richard Mundy: // but this specific map makes the use of them hard
+[23:07:34] Theban 'Simmons' Revolt: /rollstat con
+[23:07:35] CCA.C17-GRID.i2.36307: // grid gets c o o l  s c a n n e r
+[23:07:44] Alfred Langenberg: // Scanner you say?
+[23:07:47] CCA.C17-GRID.i2.36307: // yes
+[23:07:54] CCA.C17-GRID.i2.36307: // likew my scanner char
+[23:08:00] Alfred Langenberg: // Well I'll consider it while I'm bleeding out
+[23:08:05] Theban 'Simmons' Revolt: /me Starts firing a burst of 7 rounds at the i5 attempting to kill him.
+[23:08:11] Theban 'Simmons' Revolt: /rollstat agi
+[23:08:26] CCA.C14-UNION.i5.37434: /me tries to move to his left, into what would probably count as cover.
+[23:08:32] CCA.C14-UNION.i5.37434: /rollstat agi
+[23:09:08] Alfred Langenberg: // speaking of die how often are PK's handed out?
+[23:09:16] Preobrazhensky ''Sarge'' Bogolepov: !armour union 82
+[23:09:22] Preobrazhensky ''Sarge'' Bogolepov set the armor for CCA.C14-UNION.i5.37434 to 82
+[23:09:22] Preobrazhensky ''Sarge'' Bogolepov: !armor union 82
+[23:10:06] CCA.C14-UNION.i5.37434: /me grabs the i2, trying to pull him to the corner.
+[23:10:19] CCA.C14-UNION.i5.37434: /rollstat str
+[23:10:28] Theban 'Simmons' Revolt: /me Starts firing a large burst of 4.6mm rounds at the UNION once again.
+[23:11:14] CCA.C17-GRID.i2.36307: .// take my smg fucker
+[23:12:08] Preobrazhensky ''Sarge'' Bogolepov: /charsetthirst preo 100
+[23:12:37] CCA.C14-UNION.i5.37434: /me searches through the i2's equipment, trying to see what he has.
+[23:12:48] CCA.C17-GRID.i2.36307: .// mp7, knife uh 
+[23:12:52] CCA.C17-GRID.i2.36307: .// 1 grenade
+[23:12:58] CCA.C17-GRID.i2.36307: .// satchel with a screwdriver and notebook
+[23:13:12] CCA.C17-GRID.i2.36307: .// a cid assigned to jake liebes why the fuck do i have that
+[23:13:32] CCA.C17-GRID.i2.36307: .// and a pistol
+[23:13:51] CCA.C14-UNION.i5.37434: /me takes the MP7, holstering his pistol.
+[23:14:35] Theban 'Simmons' Revolt: /me Moves up to the corner near the checkpoint and mounts his MP7 barrel onto the corner ready to fire.
+[23:14:51] Alfred Langenberg: // can i stand up so I can see the action
+[23:15:12] CCA.C17-GRID.i2.36307: // /me bleeds maliciously
+[23:15:17] Alfred Langenberg: // I have acidic blood
+[23:15:49] Alfred Langenberg: // I am an observer, a legal non combatant
+[23:16:22] Alfred Langenberg: // The geneva convention doesnt exist? then I hereby found the Langenberg convention: everyone is free game except me.
+[23:16:41] Alfred Langenberg: .// ill give you a lollipop
+[23:16:49] Alfred Langenberg: /me gives you a cherry lollipop.
+[23:16:52] CCA.C17-GRID.i2.36307: // the 36307 convention; only city scanners have rights
+[23:16:53] Theban 'Simmons' Revolt: /me bet
+[23:17:02] Alfred Langenberg: // -1
+[23:17:06] Theban 'Simmons' Revolt: // -1
+[23:17:31] Alfred Langenberg: .// really? nooooo
+[23:18:03] CCA.C14-UNION.i5.37434: /toggleraise
+[23:18:05] Alfred Langenberg: .// if I made it in you'dda been fucked man. nothing compares to a blueshirt and his trusty cinderblock.
+[23:18:21] Alfred Langenberg: .// blueshirts hold all the power man
+[23:18:28] Alfred Langenberg: .// they kicked the combine off earth in like 15 years
+[23:18:29] CCA.C14-UNION.i5.37434: /me peeks over the GRID i2, and fires towards the rebel, praying to the Advisor's that he hits.
+[23:18:37] CCA.C17-GRID.i2.36307: .// blueshirt, the polar opposite of redshirt, they always live
+[23:18:42] CCA.C14-UNION.i5.37434: /rollstat agi
+[23:18:45] Alfred Langenberg: .// exactly
+[23:18:51] Theban 'Simmons' Revolt: /me Dashes to the left just enough so he won't be able to get shot.
+[23:18:52] Theban 'Simmons' Revolt: /rollstat agi
+[23:18:57] Alfred Langenberg: .// After this event is over I'll heal my wounds rapidly
+[23:19:01] Alfred Langenberg: .// im just pretending to be hurt
+[23:19:44] Alfred Langenberg: .// if you say "im not gonna miss" you will instantly roll a 0 dude
+[23:19:52] Theban 'Simmons' Revolt: /me Starts mag dumping into the units.
+[23:19:55] Theban 'Simmons' Revolt: /rollstat agi
+[23:19:58] Alfred Langenberg: .// fucking
+[23:19:59] Alfred Langenberg: .// told you
+[23:20:06] Alfred Langenberg: .// close enough
+[23:20:12] CCA.C14-UNION.i5.37434: /rollstat agi
+[23:20:49] CCA.C17-GRID.i2.36307: /me fucking groans in pain
+[23:20:51] CCA.C17-GRID.i2.36307: /rollstat agi]
+[23:20:57] CCA.C17-GRID.i2.36307: /rollstat agi
+[23:21:04] Alfred Langenberg: // how does one get up stats because mine are kinda poopy bro
+[23:21:24] CCA.C14-UNION.i5.37434: /me takes the moment, firing at the rebel man.
+[23:21:29] Theban 'Simmons' Revolt: /rollstat agi
+[23:21:29] Alfred Langenberg: .// theres no way to up stats as civvie?
+[23:21:30] CCA.C14-UNION.i5.37434: /rollstat agi
+[23:21:39] Alfred Langenberg: .// rude
+[23:21:45] Alfred Langenberg: .// very rude
+[23:21:46] Preobrazhensky ''Sarge'' Bogolepov set the hp for Alfred Langenberg to 20
+[23:21:46] Preobrazhensky ''Sarge'' Bogolepov: !hp alfred 20
+[23:21:47] Alfred Langenberg: .// im suing you
+[23:22:07] Theban 'Simmons' Revolt: /me Starts spraying 7 rounds into the units.
+[23:22:11] Theban 'Simmons' Revolt: /rollstat agi
+[23:22:15] Alfred Langenberg: .// wait didnt you magdump
+[23:22:19] Alfred Langenberg: .// dont you need to reload
+[23:22:26] CCA.C14-UNION.i5.37434: /me ducks behind the GRID i2.
+[23:22:29] CCA.C14-UNION.i5.37434: /rollstat agi
+[23:22:38] Theban 'Simmons' Revolt killed CCA.C17-GRID.i2.36307 using player
+[23:22:39] Alfred Langenberg: .// wow union
+[23:22:46] Alfred Langenberg: .// fuckin cold dude
+[23:22:55] Preobrazhensky ''Sarge'' Bogolepov<STEAM_0:1:127409364> spawned ragdoll models/police_nemez.mdl
+[23:22:56] Alfred Langenberg: // you got done dirty grid
+[23:23:04] CCA.C17-GRID.i2.36307: // :(
+[23:23:08] Preobrazhensky ''Sarge'' Bogolepov<STEAM_0:1:127409364> used the tool rb655_easy_bodygroup on models/police_nemez.mdl
+[23:23:15] Alfred Langenberg: // but thats what you get for ruining my MASTER PLAN
+[23:23:27] Preobrazhensky ''Sarge'' Bogolepov brought CCA.C17-GRID.i2.36307
+[23:23:27] Preobrazhensky ''Sarge'' Bogolepov: !bring grid
+[23:23:34] Alfred Langenberg: .// grid
+[23:23:46] Alfred Langenberg: .// this would have all gone well if you just let me cinderblock the rebs
+[23:23:48] Alfred Langenberg: .// you fool
+[23:23:53] Theban 'Simmons' Revolt: /me Starts firing at the UNION while moving to another corner.
+[23:23:54] Alfred Langenberg: .// you absolute bafoon
+[23:23:57] Theban 'Simmons' Revolt: /rollstat agi
+[23:24:00] Alfred Langenberg: .// you fucking pea brained monkey
+[23:24:15] CCA.C14-UNION.i5.37434: /me goes to grab the grenade, setting down the MP7, hoping the dead body on him hides the fact he has a grenade.
+[23:24:50] CCA.C14-UNION.i5.37434: /toggleraise
+[23:24:57] Alfred Langenberg: .// your 0 roll says otherwise
+[23:25:24] Theban 'Simmons' Revolt: /me Places his gun barrel onto the angle (not aiming at you but there atleast)
+[23:25:43] CCA.C14-UNION.i5.37434: /me pulls the pin, nudging the body to the side, throwing it RIGHT at the wall infront of him.
+[23:25:55] Alfred Langenberg: .// you are going to get blastwave'd dude
+[23:25:59] Alfred Langenberg: .// you just fucked yourself
+[23:26:00] CCA.C14-UNION.i5.37434: /rollstat agi
+[23:26:09] Alfred Langenberg: .// well ill be damned
+[23:26:28] Theban 'Simmons' Revolt: /me Just fucking runs into the alleyway the UNION is in while firing at the Units.
+[23:26:54] Alfred Langenberg: /w // kiss me
+[23:27:09] Theban 'Simmons' Revolt: /rollstat agi
+[23:27:16] CCA.C14-UNION.i5.37434: /rollstat agi
+[23:27:48] CCA.C17-GRID.i2.36307: /toggleraise
+[23:27:48] Preobrazhensky ''Sarge'' Bogolepov<STEAM_0:1:127409364> spawned/gave himself swep weapon_frag
+[23:27:49] Preobrazhensky ''Sarge'' Bogolepov: /toggleraise
+[23:27:56] CCA.C17-GRID.i2.36307: /toggleraise
+[23:28:02] CCA.C17-GRID.i2.36307<STEAM_0:0:193599766> spawned model models/props_c17/furnituretable002a.mdl
+[23:28:08] Preobrazhensky ''Sarge'' Bogolepov: /toggleraise
+[23:28:10] Preobrazhensky ''Sarge'' Bogolepov: /toggleraise
+[23:28:20] CCA.C17-GRID.i2.36307<STEAM_0:0:193599766> spawned model models/props_c17/furnituretable002a.mdl
+[23:28:29] Alfred Langenberg: .// the table! oh the humanity!
+[23:28:31] CCA.C17-GRID.i2.36307: administer
+[23:28:32] CCA.C17-GRID.i2.36307: fist
+[23:28:33] CCA.C17-GRID.i2.36307: 2
+[23:28:35] CCA.C17-GRID.i2.36307: shit
+[23:28:36] CCA.C17-GRID.i2.36307: canal
+[23:28:43] Alfred Langenberg: /w run
+[23:28:47] Alfred Langenberg: /w run
+[23:28:48] Alfred Langenberg: /w run
+[23:28:50] Alfred Langenberg: /w run
+[23:28:57] CCA.C14-UNION.i5.37434: /me grabs the MP7 he set aside, and tried to open fire on the man's legs.
+[23:29:03] CCA.C17-GRID.i2.36307<STEAM_0:0:193599766> spawned model models/foodnhouseholditems/carrot.mdl
+[23:29:04] CCA.C14-UNION.i5.37434: /toggleraise
+[23:29:14] Alfred Langenberg: karat
+[23:29:15] CCA.C14-UNION.i5.37434: /rollstat agi
+[23:29:15] Theban 'Simmons' Revolt: /me Starts firing his MP7 in return.
+[23:29:17] Theban 'Simmons' Revolt: /rollstat agi
+[23:29:22] CCA.C17-GRID.i2.36307<STEAM_0:0:193599766> spawned/used tool leafblower -=RESTRICTED=-
+[23:29:23] CCA.C17-GRID.i2.36307<STEAM_0:0:193599766> spawned/used tool leafblower -=RESTRICTED=-
+[23:29:23] CCA.C17-GRID.i2.36307<STEAM_0:0:193599766> spawned/used tool leafblower -=RESTRICTED=-
+[23:29:23] CCA.C17-GRID.i2.36307<STEAM_0:0:193599766> spawned/used tool leafblower -=RESTRICTED=-
+[23:29:23] CCA.C17-GRID.i2.36307<STEAM_0:0:193599766> spawned/used tool leafblower -=RESTRICTED=-
+[23:29:23] CCA.C17-GRID.i2.36307<STEAM_0:0:193599766> spawned/used tool leafblower -=RESTRICTED=-
+[23:29:23] CCA.C17-GRID.i2.36307<STEAM_0:0:193599766> spawned/used tool leafblower -=RESTRICTED=-
+[23:29:23] CCA.C17-GRID.i2.36307<STEAM_0:0:193599766> spawned/used tool leafblower -=RESTRICTED=-
+[23:29:23] CCA.C17-GRID.i2.36307<STEAM_0:0:193599766> spawned/used tool leafblower -=RESTRICTED=-
+[23:29:23] CCA.C17-GRID.i2.36307<STEAM_0:0:193599766> spawned/used tool leafblower -=RESTRICTED=-
+[23:29:23] CCA.C17-GRID.i2.36307<STEAM_0:0:193599766> spawned/used tool leafblower -=RESTRICTED=-
+[23:29:23] CCA.C17-GRID.i2.36307<STEAM_0:0:193599766> spawned/used tool leafblower -=RESTRICTED=-
+[23:29:23] CCA.C17-GRID.i2.36307<STEAM_0:0:193599766> spawned/used tool leafblower -=RESTRICTED=-
+[23:29:23] CCA.C17-GRID.i2.36307<STEAM_0:0:193599766> spawned/used tool leafblower -=RESTRICTED=-
+[23:29:23] CCA.C17-GRID.i2.36307<STEAM_0:0:193599766> spawned/used tool leafblower -=RESTRICTED=-
+[23:29:23] CCA.C17-GRID.i2.36307<STEAM_0:0:193599766> spawned/used tool leafblower -=RESTRICTED=-
+[23:29:23] CCA.C17-GRID.i2.36307<STEAM_0:0:193599766> spawned/used tool leafblower -=RESTRICTED=-
+[23:29:23] CCA.C17-GRID.i2.36307<STEAM_0:0:193599766> spawned/used tool leafblower -=RESTRICTED=-
+[23:29:23] CCA.C17-GRID.i2.36307<STEAM_0:0:193599766> spawned/used tool leafblower -=RESTRICTED=-
+[23:29:23] CCA.C17-GRID.i2.36307<STEAM_0:0:193599766> spawned/used tool leafblower -=RESTRICTED=-
+[23:29:23] CCA.C17-GRID.i2.36307<STEAM_0:0:193599766> spawned/used tool leafblower -=RESTRICTED=-
+[23:29:23] CCA.C17-GRID.i2.36307<STEAM_0:0:193599766> spawned/used tool leafblower -=RESTRICTED=-
+[23:29:23] CCA.C17-GRID.i2.36307<STEAM_0:0:193599766> spawned/used tool leafblower -=RESTRICTED=-
+[23:29:23] CCA.C17-GRID.i2.36307<STEAM_0:0:193599766> spawned/used tool leafblower -=RESTRICTED=-
+[23:29:23] CCA.C17-GRID.i2.36307<STEAM_0:0:193599766> spawned/used tool leafblower -=RESTRICTED=-
+[23:29:23] CCA.C17-GRID.i2.36307<STEAM_0:0:193599766> spawned/used tool leafblower -=RESTRICTED=-
+[23:29:35] CCA.C17-GRID.i2.36307<STEAM_0:0:193599766> spawned model models/foodnhouseholditems/carrot.mdl
+[23:29:37] Alfred Langenberg was killed by prop_physics
+[23:29:37] CCA.C17-GRID.i2.36307<STEAM_0:0:193599766> used the tool balloon on models/foodnhouseholditems/carrot.mdl
+[23:29:44] CCA.C17-GRID.i2.36307: // why did he die
+[23:29:48] Alfred Langenberg: // owned
+[23:30:11] CCA.C14-UNION.i5.37434: /rollstat con
+[23:30:12] Theban 'Simmons' Revolt: /rollstat con
+[23:30:16] Alfred Langenberg: // i was such low health the fucking cinderblock killed me
+[23:30:25] Preobrazhensky ''Sarge'' Bogolepov: /toggleraise
+[23:31:59] Alfred Langenberg: // holy shit
+[23:32:04] CCA.C14-UNION.i5.37434: /rollstat con
+[23:32:04] Theban 'Simmons' Revolt: /rollstat con
+[23:32:07] Theban 'Simmons' Revolt: /rollstat con
+[23:32:11] Alfred Langenberg: // i got that fucking cinderblock above the roof
+[23:32:15] Alfred Langenberg: // blueshirt stronk
+[23:32:26] CCA.C14-UNION.i5.37434: /rollstat con
+[23:32:29] Theban 'Simmons' Revolt: /rollstat con
+[23:33:12] Dropped "Richard Mundy" from server<STEAM_0:1:129270116>
+[23:33:19] Theban 'Simmons' Revolt: /me Fires into the CCA officers face with the MP7 at point blank range nerd.
+[23:33:35] Theban 'Simmons' Revolt: /rollstat agi
+[23:33:36] Alfred Langenberg was killed by prop_physics
+[23:33:44] CCA.C14-UNION.i5.37434: /rollstat agi
+[23:34:20] CCA.C14-UNION.i5.37434: /me tries to unload what he could right into his right knee.
+[23:34:24] CCA.C14-UNION.i5.37434: /looc *left
+[23:34:37] CCA.C14-UNION.i5.37434: /rollstat agi
+[23:34:43] Theban 'Simmons' Revolt: /rollstat agi
+[23:34:50] Theban 'Simmons' Revolt: /rollstat con
+[23:34:51] Alfred Langenberg: // At this point I think I've bled out tbh
+[23:35:11] Alfred Langenberg: // I hate you GRID it was a perfectly horrible plan
+[23:35:27] Preobrazhensky ''Sarge'' Bogolepov set the hp for Theban 'Simmons' Revolt to 25
+[23:35:27] Preobrazhensky ''Sarge'' Bogolepov: !hp theban 25
+[23:35:30] CCA.C17-GRID.i2.36307: // im sorry :(
+[23:35:38] Alfred Langenberg: // I will never forgive you ))):
+[23:35:47] Theban 'Simmons' Revolt: /me Starts fucking mag dumping into the UNIONs head.
+[23:36:18] CCA.C14-UNION.i5.37434: /rollstat agi
+[23:36:18] Theban 'Simmons' Revolt: /rollstat agi
+[23:36:28] Theban 'Simmons' Revolt killed CCA.C14-UNION.i5.37434 using player
+[23:36:59] Preobrazhensky ''Sarge'' Bogolepov<STEAM_0:1:127409364> spawned ragdoll models/gonzo/monkcop/monkcop.mdl
+[23:37:01] Preobrazhensky ''Sarge'' Bogolepov<STEAM_0:1:127409364> spawned ragdoll models/police_nemez.mdl
+[23:37:18] CCA.C14-UNION.i5.37434 gave Themself 50 rounds
+[23:37:19] Alfred Langenberg: // the CP's woulda won if I was able to use my cinderblock obvi
+[23:37:20] CCA.C14-UNION.i5.37434: /toggleraise
+[23:37:21] CCA.C14-UNION.i5.37434: /toggleraise
+[23:37:22] CCA.C14-UNION.i5.37434: /toggleraise
+[23:37:29] CCA.C14-UNION.i5.37434 brought CCA.C17-GRID.i2.36307
+[23:37:29] CCA.C14-UNION.i5.37434: !bring GRID
+[23:37:42] CCA.C14-UNION.i5.37434 gave CCA.C17-GRID.i2.36307 150 rounds
+[23:38:02] CCA.C14-UNION.i5.37434: /toggleraise
+[23:38:29] CCA.C17-GRID.i2.36307: /toggleraise
+[23:38:46] CCA.C14-UNION.i5.37434: /y CLEAR!
+[23:38:57] Preobrazhensky ''Sarge'' Bogolepov<STEAM_0:1:127409364> spawned ragdoll models/police_nemez.mdl
+[23:38:58] Preobrazhensky ''Sarge'' Bogolepov<STEAM_0:1:127409364> spawned ragdoll models/police_nemez.mdl
+[23:39:00] Preobrazhensky ''Sarge'' Bogolepov<STEAM_0:1:127409364> spawned ragdoll models/police_nemez.mdl
+[23:39:00] CCA.C17-GRID.i2.36307: fucking hell
+[23:39:01] Preobrazhensky ''Sarge'' Bogolepov<STEAM_0:1:127409364> spawned ragdoll models/police_nemez.mdl
+[23:39:03] CCA.C14-UNION.i5.37434: Yeah
+[23:39:04] Preobrazhensky ''Sarge'' Bogolepov<STEAM_0:1:127409364> spawned ragdoll models/police_nemez.mdl
+[23:39:05] Preobrazhensky ''Sarge'' Bogolepov<STEAM_0:1:127409364> spawned ragdoll models/police_nemez.mdl
+[23:39:06] Theban 'Simmons' Revolt: /me Fucking leans against the wall and lays down.
+[23:39:06] Preobrazhensky ''Sarge'' Bogolepov<STEAM_0:1:127409364> spawned ragdoll models/police_nemez.mdl
+[23:39:08] Preobrazhensky ''Sarge'' Bogolepov<STEAM_0:1:127409364> spawned ragdoll models/police_nemez.mdl
+[23:39:09] CCA.C17-GRID.i2.36307: /toggleraise
+[23:39:10] Preobrazhensky ''Sarge'' Bogolepov<STEAM_0:1:127409364> used the tool rb655_easy_bodygroup on models/police_nemez.mdl
+[23:39:14] CCA.C14-UNION.i5.37434: They're still probably out.
+[23:39:15] Preobrazhensky ''Sarge'' Bogolepov<STEAM_0:1:127409364> used the tool rb655_easy_bodygroup on models/police_nemez.mdl
+[23:39:20] Preobrazhensky ''Sarge'' Bogolepov<STEAM_0:1:127409364> used the tool rb655_easy_bodygroup on models/police_nemez.mdl
+[23:39:21] Alfred Langenberg: // hey drd question what's a man gotta get to even apply for CP
+[23:39:23] Preobrazhensky ''Sarge'' Bogolepov<STEAM_0:1:127409364> used the tool rb655_easy_bodygroup on models/police_nemez.mdl
+[23:39:38] Preobrazhensky ''Sarge'' Bogolepov<STEAM_0:1:127409364> used the tool rb655_easy_bodygroup on models/police_nemez.mdl
+[23:39:40] CCA.C17-GRID.i2.36307: /r Dispatch, I suggest going into at least unrest procedure. GRIDBAY has been slaughtered.
+[23:39:42] Preobrazhensky ''Sarge'' Bogolepov<STEAM_0:1:127409364> used the tool rb655_easy_bodygroup on models/police_nemez.mdl
+[23:39:45] Preobrazhensky ''Sarge'' Bogolepov<STEAM_0:1:127409364> used the tool rb655_easy_bodygroup on models/police_nemez.mdl
+[23:39:47] Preobrazhensky ''Sarge'' Bogolepov<STEAM_0:1:127409364> used the tool rb655_easy_bodygroup on models/police_nemez.mdl
+[23:39:48] Alfred Langenberg: // forum apps yuck
+[23:40:05] CCA.C17-GRID.i2.36307: // doughnut i radio'd to dispatch to do something
+[23:40:19] Alfred Langenberg: // send in the cinderblock squad
+[23:40:35] CCA.C17-GRID.i2.36307: /toggleraise
+[23:40:40] Preobrazhensky ''Sarge'' Bogolepov: /rollstat medical
+[23:40:58] Preobrazhensky ''Sarge'' Bogolepov set the hp for Theban 'Simmons' Revolt to 60
+[23:40:58] Preobrazhensky ''Sarge'' Bogolepov: !hp simmons 60
+[23:41:05] Preobrazhensky ''Sarge'' Bogolepov set the hp for Theban 'Simmons' Revolt to 60
+[23:41:05] Preobrazhensky ''Sarge'' Bogolepov: !hp simmo 60
+[23:41:17] Theban 'Simmons' Revolt<STEAM_0:1:17219621> changed their name to CCA.C17-UNION.SqL.72633
+[23:41:18] CCA.C17-UNION.SqL.72633: /
+[23:41:40] CCA.C17-UNION.SqL.72633: /r Ground command unit is 10-8: all ground units report.
+[23:41:50] CCA.C14-UNION.i5.37434: /toggleraise
+[23:42:07] Alfred Langenberg: // hehe headcrab dance
+[23:42:08] CCA.C14-UNION.i5.37434: I'll drag the bodies back to the Nexus.
+[23:42:19] CCA.C14-UNION.i5.37434: /r Going to drag the two deceased CCA to the Nexus.
+[23:42:25] CCA.C17-UNION.SqL.72633: /r Double timing it to the Bio-single losses 10-20.
+[23:42:30] CCA.C17-GRID.i2.36307: /r Status is green, for myself at least. GRIDBAY was uh... slaughtered.
+[23:42:35] CCA.C17-GRID.i2.36307: /toggleraise
+[23:42:36] CCA.C14-UNION.i5.37434: /chargiveflag i5 petnr
+[23:42:41] CCA.C14-UNION.i5.37434: /toggleraise
+[23:42:42] CCA.C14-UNION.i5.37434: /toggleraise
+[23:42:43] CCA.C17-UNION.SqL.72633: /r How the fuck did this happen units?
+[23:42:43] CCA.C14-UNION.i5.37434: /toggleraise
+[23:42:53] CCA.C17-UNION.SqL.72633: Holy fuck
+[23:43:02] CCA.C14-UNION.i5.37434: /r Locking down the alleyways
+[23:43:15] CCA.C17-GRID.i2.36307: /r Unknown, we s- We should go into at least sociostatus red in my opinion.
+[23:43:23] CCA.C17-UNION.SqL.72633: /r Ground command unit to Overwatch: requesting for sociostatus to be updated to "Judgment Waiver"
+[23:43:28] Preobrazhensky ''Sarge'' Bogolepov: /changesociostatus jw
+[23:43:39] Preobrazhensky ''Sarge'' Bogolepov: /dispatch judgement waiver
+[23:43:40] CCA.C17-GRID.i2.36307: /fr Oh my god. I- This is-
+[23:43:49] CCA.C17-UNION.SqL.72633: /dispatch Judgment waiver
+[23:43:57] CCA.C17-GRID.i2.36307: /fr This is horrible.
+[23:44:02] CCA.C17-UNION.SqL.72633: On the wall
+[23:44:09] CCA.C17-UNION.SqL.72633: Face it
+[23:44:19] CCA.C17-UNION.SqL.72633: /me Begins tying the civvie (resist?)
+[23:44:27] Alfred Langenberg: .// no resi
+[23:44:30] CCA.C14-UNION.i5.37434: /r GRID i2 delievered to Nexus entrance. Transporting UNION i5 now.
+[23:44:34] Alfred Langenberg: // I haven't slept in twelve years
+[23:44:50] CCA.C17-UNION.SqL.72633: /me Begins searching him
+[23:44:52] CCA.C17-UNION.SqL.72633: /charsearch
+[23:45:01] CCA.C17-UNION.SqL.72633: /me Cuts his ties
+[23:45:40] CCA.C17-GRID.i2.36307: I- I need to collect myself.
+[23:45:53] CCA.C17-UNION.SqL.72633: Go to the other room and collect yourself.
+[23:46:05] CCA.C17-UNION.SqL.72633: but before that
+[23:46:12] CCA.C17-UNION.SqL.72633: We need to check the cameras.
+[23:46:18] CCA.C17-GRID.i2.36307: /me would have a slightly shaky voice
+[23:46:26] CCA.C17-UNION.SqL.72633: /me Checks the cameras in the GRID-bay.
+[23:47:00] Preobrazhensky ''Sarge'' Bogolepov: /it The footage shows the door being blasted open and multiple grenades rolling into the gridbay, then it just goes black
+[23:47:06] CCA.C17-UNION.SqL.72633: Fuck
+[23:47:16] CCA.C17-UNION.SqL.72633: This was a insurgency strike to say the least.
+[23:47:19] Alfred Langenberg: // you drag bodies, I play with a dead headcrab. we all have our kinks.
+[23:48:35] CCA.C17-UNION.SqL.72633: /me Ground command unit to command/high command: insurgency strike confirmed on the GRID-bay, every GRID in the room was annihilated......command set?
+[23:48:51] CCA.C17-UNION.SqL.72633: You can collect yourself, you have 30 seconds.
+[23:49:20] CCA.C17-GRID.i2.36307: /me just fucking slaps himself in the face
+[23:49:39] CCA.C17-UNION.SqL.72633: /pm i5 ** CCA.C17-UNION.SqL.72633 Ground command unit to command/high command: insurgency strike confirmed on the GRID-bay, every GRID in the room was annihilated......command set?
+[23:49:53] CCA.C14-UNION.i5.37434<STEAM_0:1:52892973> changed their name to CCA.C17-HELIX.DvL.33698
+[23:49:54] CCA.C17-UNION.SqL.72633: /r 
+[23:50:09] CCA.C17-HELIX.DvL.33698: /ry GOD FUCKING DAMNIT.
+[23:50:48] CCA.C17-HELIX.DvL.33698: /r Give me a fucking report of the wounded.
+[23:51:00] CCA.C17-UNION.SqL.72633: /r Unknown, beginning count.
+[23:51:18] CCA.C17-UNION.SqL.72633: /r Nine confirmed dead.
+[23:51:23] CCA.C17-HELIX.DvL.33698: /r To those who are wounded, transport them to the Nexus. As HELIX count has been low, I will be-
+[23:51:33] CCA.C17-HELIX.DvL.33698: /r F-Fucking...
+[23:51:33] CCA.C17-UNION.SqL.72633: /r No wounded, only dead.
+[23:51:41] Alfred Langenberg: // dont forget to count wi'l ol' me in the body count
+[23:51:49] CCA.C17-HELIX.DvL.33698: /r Right... give... me...
+[23:51:55] Alfred Langenberg: // I am a CCA
+[23:51:56] CCA.C17-HELIX.DvL.33698: /r A second to report this to the SeC.
+[23:52:02] Alfred Langenberg: // I'm the SeC
+[23:52:03] CCA.C17-UNION.SqL.72633: /r Understood
+[23:52:16] Alfred Langenberg: // Oh yeah I should be an advisor
+[23:52:19] Alfred Langenberg: // I am an advisor now
+[23:52:31] CCA.C17-UNION.SqL.72633: /r Ripcording ground units to 10-20 D1 until it is confirmed if we are safe.
+[23:52:46] CCA.C17-HELIX.DvL.33698: /me began to type onto the terminal, sending a message to the SeC.
+[23:52:52] CCA.C17-UNION.SqL.72633: /r Ground command unit to ground units: double time it to D1 until further notice.
+[23:52:56] Alfred Langenberg: im going to abuse this
+[23:53:43] Alfred Langenberg: // I demand to be slayed, in gladitorial combat
+[23:53:52] Alfred Langenberg suicided!
+[23:53:52] Preobrazhensky ''Sarge'' Bogolepov slayed Alfred Langenberg
+[23:53:52] Preobrazhensky ''Sarge'' Bogolepov: !slay alfred
+[23:53:52] Alfred Langenberg: // I will lose because I havent touched pill pack in forever
+[23:53:54] CCA.C17-UNION.SqL.72633<STEAM_0:1:17219621> changed their name to Theban 'Simmons' Revolt
+[23:54:08] Alfred Langenberg: // demoted
+[23:54:10] Alfred Langenberg: // abuse
+[23:54:23] Alfred Langenberg: // I'm also owner now, you're demoted from staff
+[23:54:43] Alfred Langenberg: // I'm God-Emperor
+[23:55:17] Preobrazhensky ''Sarge'' Bogolepov: /pm helix Klaus Ludwig
+[23:55:56] Alfred Langenberg: .// you want a lollipop kid
+[23:56:00] CCA.C17-GRID.i2.36307: .// yes
+[23:56:04] Alfred Langenberg: .// what flavor
+[23:56:14] CCA.C17-GRID.i2.36307: .// lemon
+[23:56:23] Alfred Langenberg: .// i only have cherry butterscotch blueberry and grape
+[23:56:27] CCA.C17-GRID.i2.36307: .// you have chocolate flavour?
+[23:56:33] Preobrazhensky ''Sarge'' Bogolepov<STEAM_0:1:127409364> changed their name to Klaudiusz Olszewski
+[23:56:41] Alfred Langenberg: .// pick one of those four
+[23:56:44] Alfred Langenberg: .// or morphine
+[23:56:46] Alfred Langenberg: ./ i have morphine
+[23:56:50] CCA.C17-GRID.i2.36307: .// morphine sucker
+[23:56:52] Alfred Langenberg: /me upcaps a syrette of morphine and injects it into your arm.
+[23:56:53] Klaudiusz Olszewski<STEAM_0:1:127409364> changed their name to Preobrazhensky ''Sarge'' Bogolepov
+[23:56:56] Alfred Langenberg: /me upcaps a syrette of morphine and injects it into your arm.
+[23:56:57] Alfred Langenberg: /me upcaps a syrette of morphine and injects it into your arm.
+[23:56:57] CCA.C17-GRID.i2.36307: /rollstat con
+[23:56:57] Alfred Langenberg: /me upcaps a syrette of morphine and injects it into your arm.
+[23:56:58] Theban 'Simmons' Revolt: /r Ugh...this is Simmons.....Sarge you there?
+[23:57:01] Alfred Langenberg: .// you have overdoesed
+[23:57:06] Alfred Langenberg: .// i will now steal your stuff
+[23:57:06] Preobrazhensky ''Sarge'' Bogolepov: /radio Yes what has happened?
+[23:57:15] Theban 'Simmons' Revolt: /r Church is gone....
+[23:57:25] CCA.C17-GRID.i2.36307: /toggleraise
+[23:57:29] CCA.C17-GRID.i2.36307: /toggleraise
+[23:57:31] CCA.C17-GRID.i2.36307: /toggleraise
+[23:57:32] CCA.C17-GRID.i2.36307: /toggleraise
+[23:57:39] Alfred Langenberg: .// rude
+[23:57:41] Theban 'Simmons' Revolt: /r But we were able to get into the Grid bay, revenge him and even get some equipment along the way.
+[23:57:47] Alfred Langenberg: .// i got no idea what to do now
+[23:57:59] Preobrazhensky ''Sarge'' Bogolepov: /radio Блядь
+[23:58:05] Alfred Langenberg: .// My goal tomorrow is to become breen
+[23:58:09] CCA.C17-HELIX.DvL.33698: /r O-Okay. Message sent.
+[23:58:15] Preobrazhensky ''Sarge'' Bogolepov: /radio Well hopefully we got something good out of this
+[23:58:20] Alfred Langenberg: .// sound reasonable?
+[23:58:21] CCA.C17-HELIX.DvL.33698: /r Obvious to say, but DO NOT patrol without three units.
+[23:58:25] CCA.C17-GRID.i2.36307: .// yes
+[23:58:26] CCA.C17-GRID.i2.36307: /toggleraise
+[23:58:50] Alfred Langenberg: .// but legit idk what to do
+[23:58:59] CCA.C17-GRID.i2.36307: .// be a loyalist
+[23:59:00] CCA.C17-HELIX.DvL.33698: /r HELIX.DvL going off duty.
+[23:59:01] CCA.C17-GRID.i2.36307: .// apply for cp
+[23:59:06] Alfred Langenberg: .// that was the plan
+[23:59:06] CCA.C17-HELIX.DvL.33698<STEAM_0:1:52892973> changed their name to Morgan Beck
+[23:59:12] Alfred Langenberg: .// and then I got blown up by a grenade
+[23:59:15] Alfred Langenberg: .// jej
+[23:59:15] Theban 'Simmons' Revolt: /r Alright.......my location is currently near the D4 entrance to the catacombs.....can you pick me up and bring me to the base?
+[23:59:30] Preobrazhensky ''Sarge'' Bogolepov: /radio Copy
+<Logging continued in "data/ulx_logs/01-07-21.txt">

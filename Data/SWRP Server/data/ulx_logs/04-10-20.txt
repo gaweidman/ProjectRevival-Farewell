@@ -1,0 +1,103 @@
+<Logging continued from "data/ulx_logs/04-09-20.txt">
+[00:00:48] Client "ChickenChaser" connected.
+[00:03:03] Client "ChickenChaser" spawned in server <STEAM_0:1:25250785> (took 135 seconds).
+[00:04:47] ChickenChaser<STEAM_0:1:25250785> changed their name to John Sturges
+[00:05:09] Dropped "John Sturges" from server<STEAM_0:1:25250785>
+[00:07:31] Dropped "Retarded Bird" from server<STEAM_0:1:53097688>
+[00:08:06] Server is shutting down/changing levels.
+
+
+
+[13:40:58] New map: rp_industrial17_v1
+[15:59:14] Client "matt saton" connected.
+[16:01:46] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 152 seconds).
+[16:03:46] matt saton<STEAM_0:1:53097688> changed their name to Gabe Hill
+[16:04:29] Gabe Hill: /textadd "lorem ipsum dolor sit amet," 2
+[16:04:44] Gabe Hill: /textremove
+[16:06:17] Gabe Hill: /toggleraise
+[16:06:21] Gabe Hill: /toggleraise
+[16:07:25] Gabe Hill: /toggleraise
+[16:11:43] Gabe Hill<STEAM_0:1:53097688> spawned NPC npc_headcrab
+[16:11:53] Gabe Hill<STEAM_0:1:53097688> spawned NPC npc_houndeye
+[16:11:57] Gabe Hill<STEAM_0:1:53097688> spawned NPC npc_houndeye
+[16:11:59] Gabe Hill<STEAM_0:1:53097688> spawned NPC npc_houndeye
+[16:12:06] Gabe Hill<STEAM_0:1:53097688> spawned NPC npc_fauna_ground
+[16:12:12] Gabe Hill<STEAM_0:1:53097688> spawned NPC npc_particlestorm
+[16:12:27] Gabe Hill: /respawn
+[16:12:31] Gabe Hill: /respawn gabe
+[16:12:44] Gabe Hill<STEAM_0:1:53097688> changed their name to UU-SeC.17
+[16:12:52] UU-SeC.17<STEAM_0:1:53097688> spawned NPC npc_bullsquid_aquatic
+[16:12:55] UU-SeC.17<STEAM_0:1:53097688> spawned NPC npc_bullsquid_aquatic
+[16:13:08] UU-SeC.17<STEAM_0:1:53097688> spawned NPC npc_bullsquid_aquatic
+[16:14:22] UU-SeC.17<STEAM_0:1:53097688> used the tool creator on maps/rp_industrial17_v1.bsp
+[16:14:22] UU-SeC.17<STEAM_0:1:53097688> spawned NPC npc_bullsquid
+[16:14:25] UU-SeC.17<STEAM_0:1:53097688> used the tool permaprops on maps/rp_industrial17_v1.bsp
+[16:14:36] UU-SeC.17<STEAM_0:1:53097688> spawned NPC npc_houndeye
+[16:14:37] UU-SeC.17<STEAM_0:1:53097688> used the tool permaprops on models/orion_hl2_beta/betaheye.mdl
+[16:14:46] UU-SeC.17<STEAM_0:1:53097688> spawned NPC npc_houndeye
+[16:14:47] UU-SeC.17<STEAM_0:1:53097688> used the tool permaprops on maps/rp_industrial17_v1.bsp
+[16:14:48] UU-SeC.17<STEAM_0:1:53097688> used the tool permaprops on models/orion_hl2_beta/betaheye.mdl
+[16:14:50] UU-SeC.17<STEAM_0:1:53097688> spawned NPC npc_houndeye
+[16:14:52] UU-SeC.17<STEAM_0:1:53097688> spawned NPC npc_houndeye
+[16:14:55] UU-SeC.17<STEAM_0:1:53097688> spawned NPC npc_houndeye
+[16:14:58] UU-SeC.17<STEAM_0:1:53097688> spawned NPC npc_houndeye
+[16:15:01] UU-SeC.17<STEAM_0:1:53097688> spawned NPC npc_houndeye
+[16:15:04] UU-SeC.17<STEAM_0:1:53097688> spawned NPC npc_houndeye
+[16:15:05] UU-SeC.17<STEAM_0:1:53097688> spawned NPC npc_hydra
+[16:15:10] UU-SeC.17<STEAM_0:1:53097688> spawned NPC npc_houndeye
+[16:15:22] UU-SeC.17<STEAM_0:1:53097688> spawned NPC npc_houndeye
+[16:15:22] UU-SeC.17<STEAM_0:1:53097688> used the tool permaprops on models/orion_hl2_beta/betaheye.mdl
+[16:18:03] UU-SeC.17<STEAM_0:1:53097688> spawned ragdoll models/combine_soldier.mdl
+[16:18:10] UU-SeC.17<STEAM_0:1:53097688> spawned ragdoll models/gman_high.mdl
+[16:18:32] UU-SeC.17<STEAM_0:1:53097688> spawned ragdoll models/humans/corpse1.mdl
+[16:19:14] UU-SeC.17<STEAM_0:1:53097688> used the tool permaprops on models/humans/corpse1.mdl
+[16:22:09] Client "Bluboi" connected.
+[16:22:51] Client "Bluboi" spawned in server <STEAM_0:1:535256546> (took 42 seconds).
+[16:23:16] Dropped "UU-SeC.17" from server<STEAM_0:1:53097688>
+[16:23:16] Bluboi<STEAM_0:1:535256546> changed their name to CCA.C17-UNION.i5.91462
+[16:24:25] Dropped "CCA.C17-UNION.i5.91462" from server<STEAM_0:1:535256546>
+[16:44:59] Client "wolfmaster666" connected.
+[16:48:05] Client "wolfmaster666" spawned in server <STEAM_0:1:452596013> (took 186 seconds).
+[16:48:29] Dropped "wolfmaster666" from server<STEAM_0:1:452596013>
+[17:00:38] Client "Mr. Chief" connected.
+[17:04:58] Client "Mr. Chief" spawned in server <STEAM_0:1:129270116> (took 260 seconds).
+[17:06:35] Mr. Chief<STEAM_0:1:129270116> changed their name to OTA.C17-KING.i3.50919
+[17:14:36] Dropped "OTA.C17-KING.i3.50919" from server<STEAM_0:1:129270116>
+[17:22:42] Client "PirateDavey" connected.
+[17:23:29] Client "Sir PretzelFist" connected.
+[17:26:11] Client "PirateDavey" spawned in server <STEAM_0:1:191784883> (took 209 seconds).
+[17:27:45] PirateDavey<STEAM_0:1:191784883> changed their name to CCA.C17-GRID.i5.80147
+[17:28:01] CCA.C17-GRID.i5.80147: judgment
+[17:29:17] CCA.C17-GRID.i5.80147<STEAM_0:1:191784883> spawned model models/props_c17/gravestone_cross001b.mdl
+[17:31:28] CCA.C17-GRID.i5.80147<STEAM_0:1:191784883> spawned model models/props_junk/trashbin01a.mdl
+[17:40:25] CCA.C17-GRID.i5.80147<STEAM_0:1:191784883> spawned model models/props_junk/plasticbucket001a.mdl
+[17:40:51] CCA.C17-GRID.i5.80147: six
+[17:40:55] CCA.C17-GRID.i5.80147: six
+[17:40:57] CCA.C17-GRID.i5.80147: Six
+[17:40:59] CCA.C17-GRID.i5.80147: 6
+[17:41:03] CCA.C17-GRID.i5.80147: 7
+[17:41:05] CCA.C17-GRID.i5.80147: 8
+[17:41:13] CCA.C17-GRID.i5.80147: 78
+[17:41:27] CCA.C17-GRID.i5.80147: 7 8
+[17:41:42] Client "Sir PretzelFist" spawned in server <STEAM_0:0:157634705> (took 1093 seconds).
+[17:42:11] CCA.C17-GRID.i5.80147: /ooc cereal killer
+[17:44:22] CCA.C17-GRID.i5.80147: /ooc you have to get a cid
+[17:44:26] CCA.C17-GRID.i5.80147: /ooc to get into the city
+[17:44:33] CCA.C17-GRID.i5.80147: /ooc press tab to open the menu
+[17:44:38] CCA.C17-GRID.i5.80147: /ooc select inventory and hand me the yellow card
+[17:44:39] Sir PretzelFist: oh god so much lag
+[17:45:52] CCA.C17-GRID.i5.80147: /looc hold e on it
+[17:47:57] Dropped "Sir PretzelFist" from server<STEAM_0:0:157634705>
+[17:50:07] Dropped "CCA.C17-GRID.i5.80147" from server<STEAM_0:1:191784883>
+[20:56:28] Client "Painevan" connected.
+[20:56:37] Client "Mr. Chief" connected.
+[20:56:42] Client "DeWees" connected.
+[21:02:32] Client "Painevan" spawned in server <STEAM_0:0:68118061> (took 364 seconds).
+[21:03:25] Client "DeWees" spawned in server <STEAM_0:1:53156902> (took 403 seconds).
+[21:03:44] Client "Mr. Chief" spawned in server <STEAM_0:1:129270116> (took 427 seconds).
+[21:04:01] Painevan<STEAM_0:0:68118061> changed their name to Karl Von Habsburg
+[21:11:26] DeWees<STEAM_0:1:53156902> changed their name to Oleg Rust
+[21:12:19] Dropped "Oleg Rust" from server<STEAM_0:1:53156902>
+[21:12:40] Dropped "Karl Von Habsburg" from server<STEAM_0:0:68118061>
+[21:14:51] Mr. Chief<STEAM_0:1:129270116> changed their name to CCA.C17-JUDGE.i2.58102
+[21:21:34] Dropped "CCA.C17-JUDGE.i2.58102" from server<STEAM_0:1:129270116>

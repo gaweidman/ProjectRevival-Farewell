@@ -1,0 +1,404 @@
+<Logging continued from "data/ulx_logs/07-27-21.txt">
+[01:10:43] Client "Eb020" connected.
+[01:21:35] Client "Eb020" connected.
+[01:36:48] Client "Eb020" connected.
+
+
+
+[02:24:33] New map: rp_city8_edit_v4r
+[09:38:01] Client "DirectorHomeless" connected.
+[09:40:46] Client "DirectorHomeless" spawned in server <STEAM_0:1:47645599> (took 165 seconds).
+[09:44:07] DirectorHomeless<STEAM_0:1:47645599> changed their name to Dimitri Sikon
+[10:05:40] Dimitri Sikon was killed by monster_bullsquid
+[10:05:48] Dropped "Dimitri Sikon" from server<STEAM_0:1:47645599>
+[10:07:08] Client "DirectorHomeless" connected.
+[10:09:21] Client "DirectorHomeless" spawned in server <STEAM_0:1:47645599> (took 133 seconds).
+[10:10:57] DirectorHomeless<STEAM_0:1:47645599> changed their name to Dimitri Sikon
+[10:16:29] Client "Universal Viper" connected.
+[10:30:55] Dimitri Sikon<STEAM_0:1:47645599> spawned/gave himself swep tfa_ordinalrifle
+[10:32:31] Dropped "Dimitri Sikon" from server<STEAM_0:1:47645599>
+[10:47:25] Client "Universal Viper" spawned in server <STEAM_0:1:592277755> (took 1856 seconds).
+[10:50:23] Universal Viper<STEAM_0:1:592277755> changed their name to Nick Flamingo
+[10:53:02] Nick Flamingo was killed by trigger_hurt
+[10:53:36] Dropped "Nick Flamingo" from server<STEAM_0:1:592277755>
+[10:53:46] Client "Jorgen_Skog" connected.
+[10:58:45] Client "Jorgen_Skog" spawned in server <STEAM_0:1:115897813> (took 299 seconds).
+[11:00:42] Jorgen_Skog<STEAM_0:1:115897813> changed their name to CCA.C08-UNION.i2.22034
+[11:13:59] CCA.C08-UNION.i2.22034: /actsit
+[11:14:04] CCA.C08-UNION.i2.22034: /actlean
+[11:26:48] Dropped "CCA.C08-UNION.i2.22034" from server<STEAM_0:1:115897813>
+[12:20:43] Client "Dilly_" connected.
+[12:25:22] Client "Dilly_" spawned in server <STEAM_0:0:52468151> (took 279 seconds).
+[12:38:50] Dilly_<STEAM_0:0:52468151> changed their name to CCA.C08-UNION.i1.93347
+[12:48:00] CCA.C08-UNION.i1.93347<STEAM_0:0:52468151> changed their name to Carson Copper
+[12:52:17] Dropped "Carson Copper" from server<STEAM_0:0:52468151>
+[13:11:41] Client "Dilly_" connected.
+[13:13:03] Client "Dilly_" spawned in server <STEAM_0:0:52468151> (took 82 seconds).
+[13:23:53] Dilly_<STEAM_0:0:52468151> changed their name to Carson Copper
+[13:29:47] Carson Copper<STEAM_0:0:52468151> spawned model models/props_c17/furniturechair001a.mdl
+[13:30:35] Carson Copper<STEAM_0:0:52468151> used the tool prop_door on maps/rp_city8_edit_v4r.bsp
+[13:32:29] Carson Copper<STEAM_0:0:52468151> spawned model models/props_c17/chair02a.mdl
+[13:32:31] Carson Copper<STEAM_0:0:52468151> used the tool advresizer on models/props_c17/chair02a.mdl
+[13:32:35] Carson Copper<STEAM_0:0:52468151> used the tool advresizer on models/props_c17/chair02a.mdl
+[13:32:40] Carson Copper<STEAM_0:0:52468151> used the tool advresizer on models/props_c17/chair02a.mdl
+[13:32:54] Carson Copper<STEAM_0:0:52468151> spawned model models/props_junk/plasticcrate01a.mdl
+[13:32:55] Carson Copper<STEAM_0:0:52468151> used the tool advresizer on models/props_junk/plasticcrate01a.mdl
+[13:33:38] Carson Copper<STEAM_0:0:52468151> used the tool light on maps/rp_city8_edit_v4r.bsp
+[13:33:39] Carson Copper<STEAM_0:0:52468151> used the tool light on maps/rp_city8_edit_v4r.bsp
+[13:33:54] Carson Copper<STEAM_0:0:52468151> used the tool light on maps/rp_city8_edit_v4r.bsp
+[13:34:16] Carson Copper<STEAM_0:0:52468151> used the tool light on maps/rp_city8_edit_v4r.bsp
+[13:34:21] Carson Copper<STEAM_0:0:52468151> used the tool light on maps/rp_city8_edit_v4r.bsp
+[13:34:34] Carson Copper<STEAM_0:0:52468151> used the tool light on maps/rp_city8_edit_v4r.bsp
+[13:34:46] Carson Copper<STEAM_0:0:52468151> spawned model models/props_c17/furnituredrawer001a_shard01.mdl
+[13:34:47] Client "AlexLV" connected.
+[13:34:50] Carson Copper<STEAM_0:0:52468151> spawned/used tool leafblower -=RESTRICTED=-
+[13:34:50] Carson Copper<STEAM_0:0:52468151> spawned/used tool leafblower -=RESTRICTED=-
+[13:36:23] Carson Copper<STEAM_0:0:52468151> spawned/used tool leafblower -=RESTRICTED=-
+[13:36:47] Carson Copper<STEAM_0:0:52468151> spawned model models/props_interiors/toiletpaperroll.mdl
+[13:36:52] Carson Copper<STEAM_0:0:52468151> spawned model models/props/cs_office/cardboard_box03.mdl
+[13:37:09] Carson Copper<STEAM_0:0:52468151> spawned model models/props/cs_militia/couch.mdl
+[13:37:13] Carson Copper<STEAM_0:0:52468151> spawned model models/props/cs_militia/couch.mdl
+[13:37:29] Carson Copper<STEAM_0:0:52468151> spawned model models/props_warehouse/office_furniture_desk_corner.mdl
+[13:37:31] Carson Copper<STEAM_0:0:52468151> spawned model models/props_warehouse/office_furniture_desk_corner.mdl
+[13:37:34] Carson Copper<STEAM_0:0:52468151> spawned model models/props_warehouse/office_furniture_desk_corner.mdl
+[13:38:00] Carson Copper<STEAM_0:0:52468151> spawned model models/props_warehouse/office_furniture_desk.mdl
+[13:38:18] Carson Copper<STEAM_0:0:52468151> spawned model models/props_warehouse/office_furniture_desk_corner.mdl
+[13:38:47] Client "Sgt. Salvador" connected.
+[13:38:51] Carson Copper<STEAM_0:0:52468151> spawned model models/hla_combine_props/combine_console_main_1.mdl
+[13:38:56] Carson Copper<STEAM_0:0:52468151> spawned model models/hla_combine_props/console_shell_smal.mdl
+[13:41:28] Carson Copper<STEAM_0:0:52468151> spawned model models/props_combineal/vr_combine_interface_01.mdl
+[13:41:46] Carson Copper<STEAM_0:0:52468151> spawned model models/props_combineal/combine_locker01.mdl
+[13:41:58] Client "Sgt. Salvador" spawned in server <STEAM_0:0:27835911> (took 191 seconds).
+[13:42:15] Carson Copper<STEAM_0:0:52468151> spawned model models/props_trainstation/bench_indoor001a.mdl
+[13:42:17] Carson Copper<STEAM_0:0:52468151> spawned model models/items/car_battery01.mdl
+[13:42:20] Carson Copper<STEAM_0:0:52468151> spawned model models/props_c17/playgroundtick-tack-toe_post01.mdl
+[13:42:30] Carson Copper<STEAM_0:0:52468151> spawned model models/ccr/props/grub_vial_full.mdl
+[13:42:43] Carson Copper<STEAM_0:0:52468151> spawned model models/ccr/props/grub_vial.mdl
+[13:42:45] Carson Copper<STEAM_0:0:52468151> spawned model models/ccr/props/syringe.mdl
+[13:42:48] Carson Copper<STEAM_0:0:52468151> spawned model models/ccr/props/health_charger.mdl
+[13:43:15] Carson Copper<STEAM_0:0:52468151> spawned model models/props/foundation01.mdl
+[13:43:19] Carson Copper<STEAM_0:0:52468151> spawned model models/props/railing2.mdl
+[13:43:40] Carson Copper<STEAM_0:0:52468151> spawned model models/props/floor3_quarter.mdl
+[13:44:12] Carson Copper<STEAM_0:0:52468151> spawned model models/decoration/mason_jar.mdl
+[13:44:14] Carson Copper<STEAM_0:0:52468151> spawned model models/decoration/mason_jar_lit.mdl
+[13:44:24] Carson Copper<STEAM_0:0:52468151> spawned model models/combinefortification/combinescreen1.mdl
+[13:44:28] Carson Copper<STEAM_0:0:52468151> spawned model models/combinefortification/combinescreen1.mdl
+[13:44:59] Carson Copper<STEAM_0:0:52468151> spawned model models/barn/barn_foundation1.mdl
+[13:45:09] Carson Copper<STEAM_0:0:52468151> spawned model models/props/foundation02.mdl
+[13:45:16] Sgt. Salvador<STEAM_0:0:27835911> changed their name to Drake Salvador
+[13:45:34] Drake Salvador: // hamborger
+[13:45:52] Carson Copper: // with borger 
+[13:46:01] Drake Salvador: // hamborger with borger, hold the ham
+[13:46:15] Carson Copper<STEAM_0:0:52468151> spawned model models/military/platform1.mdl
+[13:46:38] Carson Copper<STEAM_0:0:52468151> spawned model models/military/doorframe.mdl
+[13:46:52] Carson Copper<STEAM_0:0:52468151> spawned model models/barn/barn_railing128.mdl
+[13:47:03] Carson Copper<STEAM_0:0:52468151> spawned model models/props/wood_grate2.mdl
+[13:47:09] Carson Copper<STEAM_0:0:52468151> spawned model models/props/wallcap6.mdl
+[13:47:18] Carson Copper<STEAM_0:0:52468151> spawned model models/props/wood_cap2.mdl
+[13:47:21] Carson Copper<STEAM_0:0:52468151> spawned model models/props/wall8.mdl
+[13:48:09] Carson Copper<STEAM_0:0:52468151> spawned model models/props/industrial17/arcademachine.mdl
+[13:48:19] Carson Copper<STEAM_0:0:52468151> spawned model models/props/industrial17/constructionsideb.mdl
+[13:48:49] Carson Copper: /content
+[13:49:45] Carson Copper<STEAM_0:0:52468151> changed their name to CCA.C08-UNION.i1.93347
+[13:51:13] CCA.C08-UNION.i1.93347: // e 
+[13:51:26] Drake Salvador: // HELIX best division
+[13:51:30] Drake Salvador: // fight me
+[13:51:41] CCA.C08-UNION.i1.93347: // debatable 
+[13:51:44] CCA.C08-UNION.i1.93347: // e
+[13:52:08] Drake Salvador: // i
+[13:52:57] CCA.C08-UNION.i1.93347<STEAM_0:0:52468151> changed their name to Carson Copper
+[13:59:18] Dropped "Carson Copper" from server<STEAM_0:0:52468151>
+[14:11:05] Client "Death Razor" connected.
+[14:13:04] Client "Death Razor" spawned in server <STEAM_0:1:66880501> (took 119 seconds).
+[14:14:08] Death Razor<STEAM_0:1:66880501> changed their name to CCA.C08-JUDGE.EpU.64998
+[14:18:01] Dropped "CCA.C08-JUDGE.EpU.64998" from server<STEAM_0:1:66880501>
+[14:18:35] Client "Death Razor" connected.
+[14:19:56] Client "Death Razor" spawned in server <STEAM_0:1:66880501> (took 81 seconds).
+[14:20:24] Death Razor<STEAM_0:1:66880501> changed their name to CCA.C08-JUDGE.EpU.64998
+[14:20:30] CCA.C08-JUDGE.EpU.64998: // Alright back my keyboard was stupid
+[14:21:23] CCA.C08-JUDGE.EpU.64998: [[ Boo
+[14:21:27] Drake Salvador: .// Oogabooga
+[14:21:42] CCA.C08-JUDGE.EpU.64998: [[ I should've gone on Andrew but eh
+[14:21:54] Drake Salvador: .// I thought there'd be training today because I missed yesterday
+[14:22:01] Drake Salvador: .// Only was able to get on at like 6 PM
+[14:22:04] CCA.C08-JUDGE.EpU.64998: [[ There is if you scheduled yourself for it
+[14:22:14] CCA.C08-JUDGE.EpU.64998: [[ Did you set yourself to be on today for it?
+[14:22:21] Drake Salvador: .// Well I set myself for yesterday
+[14:22:32] Drake Salvador: .// but I'm assuming that since I missed it, and no one else chose today, he ain't doing it today
+[14:23:14] CCA.C08-JUDGE.EpU.64998: [[ It's between today and tomorrow
+[14:23:30] CCA.C08-JUDGE.EpU.64998: [[ Yesterday, today, and tomorrow
+[14:24:00] Drake Salvador: .// We'll see. I'ma hop off for now because no one's getting on and I've been on for a good minute. I'll be on later
+[14:24:04] Dropped "Drake Salvador" from server<STEAM_0:0:27835911>
+[14:24:06] CCA.C08-JUDGE.EpU.64998: [[ I mean
+[14:27:37] Dropped "CCA.C08-JUDGE.EpU.64998" from server<STEAM_0:1:66880501>
+[14:50:23] Client "DirectorHomeless" connected.
+[14:52:16] Client "DirectorHomeless" spawned in server <STEAM_0:1:47645599> (took 113 seconds).
+[14:53:17] DirectorHomeless<STEAM_0:1:47645599> changed their name to Dimitri Sikon
+[14:56:15] Client "Apollo7771FO3" connected.
+[14:56:28] Dropped "Dimitri Sikon" from server<STEAM_0:1:47645599>
+[14:59:30] Client "Apollo7771FO3" spawned in server <STEAM_0:1:40787669> (took 195 seconds).
+[15:02:28] Apollo7771FO3<STEAM_0:1:40787669> changed their name to CCA.C08-HELIX.i2.64998
+[15:03:41] Dropped "CCA.C08-HELIX.i2.64998" from server<STEAM_0:1:40787669>
+[15:29:25] Client "Dilly_" connected.
+[15:32:13] Client "Dilly_" spawned in server <STEAM_0:0:52468151> (took 168 seconds).
+[15:33:06] Dilly_<STEAM_0:0:52468151> changed their name to Carson Copper
+[15:34:06] Carson Copper was killed by trigger_hurt
+[15:37:19] Client "Death Razor" connected.
+[15:39:40] Client "Death Razor" spawned in server <STEAM_0:1:66880501> (took 141 seconds).
+[15:40:23] Death Razor<STEAM_0:1:66880501> changed their name to CCA.C08-JUDGE.EpU.64998
+[15:40:30] CCA.C08-JUDGE.EpU.64998: // Buenas tardes
+[15:40:39] Carson Copper: // que
+[15:40:47] CCA.C08-JUDGE.EpU.64998: // Tiempo para jugar
+[15:41:56] Carson Copper<STEAM_0:0:52468151> spawned/used tool hoverball -=RESTRICTED=-
+[15:42:10] Carson Copper: .// heckin bodygroups
+[15:42:22] CCA.C08-JUDGE.EpU.64998: [[ oh you got pet flags
+[15:42:24] CCA.C08-JUDGE.EpU.64998: [[ forgot
+[15:42:29] Carson Copper: .// question actually
+[15:42:34] Carson Copper: .// can you use the manhacks or no?
+[15:42:40] CCA.C08-JUDGE.EpU.64998: [[ IC yes
+[15:42:46] Carson Copper: .// ah gotcha 
+[15:42:47] CCA.C08-JUDGE.EpU.64998: [[ OOC the swep is being fixed
+[15:42:52] Carson Copper: .// noted
+[15:43:00] CCA.C08-JUDGE.EpU.64998: [[ No fucking clue when tbh it'll be fixed
+[15:43:00] Carson Copper<STEAM_0:0:52468151> used the tool rb655_easy_bodygroup on maps/rp_city8_edit_v4r.bsp
+[15:43:12] Carson Copper: .// ah who knows
+[15:43:21] Carson Copper: .// if ya bug Q about it a few he might put somethin out
+[15:43:32] CCA.C08-JUDGE.EpU.64998: [[ Did you get the acceptance for training too?
+[15:43:55] Carson Copper: .// not really the acceptence, but I got promoted afterward
+[15:44:02] Carson Copper: .// I've had my i3 unit for ages now
+[15:44:07] CCA.C08-JUDGE.EpU.64998: [[ Ah, alright
+[15:44:15] Carson Copper: .// he brought me up to speed I guess with everyone else
+[15:44:20] Carson Copper: .// did you go streight to EpU? 
+[15:44:30] CCA.C08-JUDGE.EpU.64998: [[ I was assigned EpU, yea
+[15:44:33] Carson Copper: .// huh
+[15:44:49] CCA.C08-JUDGE.EpU.64998: [[ This is just my foot unit though
+[15:45:02] CCA.C08-JUDGE.EpU.64998: [[ Not sure about the whole High Command thing he's working on
+[15:45:33] CCA.C08-JUDGE.EpU.64998: [[ Pretty much right now the only highest ranking patrol unit at the moment
+[15:45:40] Carson Copper: .// rank leaders ye
+[15:45:43] CCA.C08-JUDGE.EpU.64998: [[ yea
+[15:45:47] Carson Copper: .// I know a few of the old guys had some
+[15:45:48] Client "DirectorHomeless" connected.
+[15:45:57] Carson Copper: .// DRD got his up
+[15:46:00] CCA.C08-JUDGE.EpU.64998: [[ He's slimming it down
+[15:46:04] Carson Copper: .// ye
+[15:46:13] CCA.C08-JUDGE.EpU.64998: [[ I think there's only one SqL in general that's Gabe himself
+[15:46:18] Carson Copper: .// personally I like ground units; just cuz ya get to do all the dirtwork 
+[15:46:23] Carson Copper: .// ah
+[15:46:33] CCA.C08-JUDGE.EpU.64998: [[ You get to go out as a ground unit
+[15:46:41] CCA.C08-JUDGE.EpU.64998: [[ Being a DvL you essentially cannot
+[15:46:54] CCA.C08-JUDGE.EpU.64998: [[ Only when shit hits the fan
+[15:47:03] Carson Copper: .// ye
+[15:47:12] Carson Copper: .// locked inside your we lil office 
+[15:47:36] CCA.C08-JUDGE.EpU.64998: [[ Yeah, I still like being a DvL but I would like a secondary for patrols no matter the rank
+[15:47:44] CCA.C08-JUDGE.EpU.64998: [[ So I got squared into Judge
+[15:47:57] CCA.C08-JUDGE.EpU.64998: [[ Which is personally fine
+[15:47:58] Client "DirectorHomeless" spawned in server <STEAM_0:1:47645599> (took 130 seconds).
+[15:47:58] Client "Sgt. Salvador" connected.
+[15:48:01] Carson Copper: .// I didn't have much of a choice for my division lol 
+[15:48:16] CCA.C08-JUDGE.EpU.64998: [[ He's having generally every new unit into Union I believe
+[15:48:19] Carson Copper: .// Been wanting to join GRID all since I got my whitelist
+[15:48:21] Carson Copper: .// ye
+[15:48:35] CCA.C08-JUDGE.EpU.64998: [[ GRID is Ollie's thing I believe or Gabe
+[15:48:37] DirectorHomeless<STEAM_0:1:47645599> changed their name to Dimitri Sikon
+[15:48:43] Carson Copper: .// but like even as time progressed and I was eligible  
+[15:48:45] CCA.C08-JUDGE.EpU.64998: [[ Depends who is the EpU for it or OfC
+[15:48:57] Client "Apollo7771FO3" connected.
+[15:49:03] Carson Copper: .// think it was Q who held it for awhile 
+[15:49:14] CCA.C08-JUDGE.EpU.64998: [[ Doesn't Ollie have it now?
+[15:49:19] Carson Copper: .// That's all I can recal tho, Haven't been active.
+[15:49:21] Carson Copper: .// could be
+[15:49:34] CCA.C08-JUDGE.EpU.64998: [[ Yeah, activity is pretty much the only way to get in
+[15:49:47] Dimitri Sikon: /ooc MR EPU
+[15:49:51] CCA.C08-JUDGE.EpU.64998: [[ I'm gonna tell you this now, you need to be able to tolerate a walking sim for a while
+[15:49:53] CCA.C08-JUDGE.EpU.64998: // Ayo
+[15:50:00] CCA.C08-JUDGE.EpU.64998: // What's poppin
+[15:50:00] Dimitri Sikon: /ooc you owe me LOYALTY POINTS FOR SANITATION WORK!
+[15:50:12] CCA.C08-JUDGE.EpU.64998: // I need to INSPECT
+[15:50:17] CCA.C08-JUDGE.EpU.64998: // Because I got off
+[15:50:23] CCA.C08-JUDGE.EpU.64998: [[ But yea
+[15:50:27] CCA.C08-JUDGE.EpU.64998: [[ It is what it is
+[15:50:29] Dimitri Sikon: /ooc boi i will tan your arse blue, gimme those points
+[15:50:31] Carson Copper: .// ye
+[15:50:35] CCA.C08-JUDGE.EpU.64998: /viewdata Dimitri
+[15:50:47] Client "Sgt. Salvador" spawned in server <STEAM_0:0:27835911> (took 169 seconds).
+[15:51:01] CCA.C08-JUDGE.EpU.64998: // You have them already
+[15:51:08] CCA.C08-JUDGE.EpU.64998: // You're on 2
+[15:51:11] Dimitri Sikon: /ooc then MOOLAH
+[15:51:25] CCA.C08-JUDGE.EpU.64998: // There's no tokens associated with the work desk lol
+[15:51:38] CCA.C08-JUDGE.EpU.64998: // They're meant as a passive way to get points
+[15:51:38] Client "Apollo7771FO3" spawned in server <STEAM_0:1:40787669> (took 161 seconds).
+[15:52:34] CCA.C08-JUDGE.EpU.64998: // Also I can't give you any more sanitation work like that anymore for the time being until you get to the CWU's sanitation
+[15:52:53] Apollo7771FO3<STEAM_0:1:40787669> changed their name to Bubba
+[15:53:06] Bubba: /ooc Hmm, mefth.
+[15:53:22] Carson Copper: // time to have roasted bubbba
+[15:53:38] Bubba: /ooc Real?
+[15:53:45] Bubba: /ooc Based.
+[15:54:11] Dimitri Sikon: Hello officer
+[15:54:17] Dimitri Sikon: I have a few questons
+[15:54:17] CCA.C08-JUDGE.EpU.64998: May I help you?
+[15:54:19] Dimitri Sikon: yes
+[15:54:28] CCA.C08-JUDGE.EpU.64998: What're your questions, citizen?
+[15:54:39] Dimitri Sikon: If a a Citizen turns in contraband, might they be rewarded for their good deeds?
+[15:54:47] Dimitri Sikon: i would do so anyway
+[15:54:48] CCA.C08-JUDGE.EpU.64998: Depending on the level of contraband
+[15:54:54] CCA.C08-JUDGE.EpU.64998: There are rewards in points for it
+[15:54:56] Dimitri Sikon: so i found a gentleman carrying this
+[15:55:00] Dimitri Sikon: he dropped it and ran
+[15:55:21] CCA.C08-JUDGE.EpU.64998: /me takes the ammunition, inspecting it
+[15:55:26] CCA.C08-JUDGE.EpU.64998: Where'd you find this?
+[15:55:32] Sgt. Salvador<STEAM_0:0:27835911> changed their name to Drake Salvador
+[15:55:40] Dimitri Sikon: you know the apartments in main street
+[15:55:49] Dimitri Sikon: there was a guy hanging around there talking with someone
+[15:55:53] Drake Salvador: // get off the bird >:(
+[15:55:53] CCA.C08-JUDGE.EpU.64998: You got a name?
+[15:55:56] Bubba<STEAM_0:1:40787669> changed their name to Todd Muller
+[15:56:00] Dimitri Sikon: nope, never seen them before
+[15:56:04] Dimitri Sikon: they had weird suit on
+[15:56:07] Dimitri Sikon: very strange
+[15:56:20] CCA.C08-JUDGE.EpU.64998: Show me, please
+[15:56:24] Drake Salvador: .// Is that supposed to be slavo-scandinavian?
+[15:56:24] Todd Muller: Afternoon and all that.
+[15:56:31] Carson Copper: And all that?
+[15:56:41] CCA.C08-JUDGE.EpU.64998: // Anyone else got a CCA unit so it's 2:3
+[15:56:51] Todd Muller: /ooc Sure.
+[15:56:57] Drake Salvador: // Unless you plan on both patrolling together, don't switch
+[15:56:57] Dimitri Sikon: here
+[15:56:58] Todd Muller<STEAM_0:1:40787669> changed their name to CCA.C08-HELIX.i2.64998
+[15:57:00] Dimitri Sikon: this door was open
+[15:57:02] CCA.C08-JUDGE.EpU.64998: // Appreciate the help, and yes
+[15:57:02] Dimitri Sikon: which is odd
+[15:57:07] Dimitri Sikon: because it is usually shut
+[15:57:11] CCA.C08-HELIX.i2.64998: /radio 10-8.
+[15:57:24] CCA.C08-JUDGE.EpU.64998: /radio Copy Helix, you're joining my team, standby
+[15:57:28] CCA.C08-JUDGE.EpU.64998: Alright
+[15:57:31] CCA.C08-JUDGE.EpU.64998: Apply
+[15:57:34] Dimitri Sikon: /apply
+[15:57:38] CCA.C08-HELIX.i2.64998: /radio Any squads active?
+[15:57:45] CCA.C08-JUDGE.EpU.64998: /radio Alpha's green
+[15:57:55] Dimitri Sikon: /looc how do i check my loyalty points?
+[15:57:55] CCA.C08-JUDGE.EpU.64998: /me takes out his datapad and types a few things in
+[15:58:01] CCA.C08-JUDGE.EpU.64998: [[ You ask a CCA officer
+[15:58:19] Dimitri Sikon: How many loyalty points have i accrewed?
+[15:58:48] CCA.C08-JUDGE.EpU.64998: Two, you'll be receiving 3 now, making it five
+[15:58:53] Dimitri Sikon: I see
+[15:58:54] CCA.C08-JUDGE.EpU.64998: /viewdata Dimitri
+[15:59:02] Dimitri Sikon: might i purchase a Sanitation suit now?
+[15:59:13] CCA.C08-HELIX.i2.64998: Hm.
+[15:59:23] Carson Copper: Er. Pardon me folks.
+[15:59:27] CCA.C08-JUDGE.EpU.64998: You may apply for the Workers' Union for it, Dimitri.
+[15:59:32] Client "adsin15" connected.
+[15:59:34] CCA.C08-JUDGE.EpU.64998: Helix
+[15:59:34] Dimitri Sikon: Where do i do that?
+[15:59:35] Carson Copper: Thank ye'.
+[15:59:43] CCA.C08-JUDGE.EpU.64998: Check inside here and see if anything else's been moved around
+[15:59:45] Client "Jorgen_Skog" connected.
+[15:59:49] CCA.C08-JUDGE.EpU.64998: /me points to the door
+[15:59:56] CCA.C08-HELIX.i2.64998: /me The HELIX unit would nod their head.
+[15:59:59] CCA.C08-HELIX.i2.64998: Copy.
+[16:00:02] CCA.C08-JUDGE.EpU.64998: You may apply within a few hours time
+[16:00:03] Carson Copper<STEAM_0:0:52468151> used the tool rb655_easy_bodygroup on maps/rp_city8_edit_v4r.bsp
+[16:00:10] CCA.C08-JUDGE.EpU.64998: [[ Aka uh
+[16:00:14] CCA.C08-JUDGE.EpU.64998: [[ I need to ask Gabe
+[16:00:18] Dimitri Sikon: /looc i see
+[16:00:19] CCA.C08-JUDGE.EpU.64998: [[ Or you may
+[16:00:22] CCA.C08-JUDGE.EpU.64998: [[ Given your LP
+[16:00:32] Dimitri Sikon: /looc what is the highest tier of LP?
+[16:00:32] Drake Salvador: /pm 64998 If you're gonna' put a "The" or "He" at the start of your /me, do /it instead.
+[16:00:42] Drake Salvador: // Two 64998
+[16:00:44] Drake Salvador: // 10/10
+[16:00:49] CCA.C08-HELIX.i2.64998: Mhm, all is well.
+[16:01:03] Drake Salvador: /pm HELIX If you're gonna' put a "The" or "He" at the start of your /me, do /it instead.
+[16:01:05] CCA.C08-JUDGE.EpU.64998: // Gabe messed it up I didn't notice wow
+[16:01:09] CCA.C08-JUDGE.EpU.64998: Copy that
+[16:01:19] CCA.C08-JUDGE.EpU.64998: Citizen found pulse ammunition outside the door
+[16:01:27] CCA.C08-HELIX.i2.64998: Ah.
+[16:01:31] Dimitri Sikon: i mean
+[16:01:32] CCA.C08-JUDGE.EpU.64998: Strange
+[16:01:34] Dimitri Sikon: im not the smartest
+[16:01:40] Dimitri Sikon: but it looked like a handoff
+[16:01:45] Dimitri Sikon: given the 2 indiviudla
+[16:01:46] CCA.C08-JUDGE.EpU.64998: Hm
+[16:01:50] Dimitri Sikon: and how spooked they got
+[16:01:55] CCA.C08-JUDGE.EpU.64998: You got a description?
+[16:02:07] Dimitri Sikon: As i said, one was wearing a suit so i couldn't see shit
+[16:02:09] Dimitri Sikon: the other one
+[16:02:20] Dimitri Sikon: Looked like a bunch of old military gear
+[16:02:29] CCA.C08-JUDGE.EpU.64998: I see..
+[16:02:31] Dimitri Sikon: helmet, vest that sort of get-up y'know?
+[16:02:41] Drake Salvador: Everything alright here?
+[16:02:52] CCA.C08-JUDGE.EpU.64998: Alright, thank you for handing this in, I'll put in a word to the Manager of the Sanitation Department so you may apply
+[16:03:03] Dimitri Sikon: Thank you
+[16:03:07] CCA.C08-JUDGE.EpU.64998: You can go
+[16:03:14] Drake Salvador: I'll take that as a yes.
+[16:03:23] CCA.C08-JUDGE.EpU.64998: Let's go
+[16:03:29] CCA.C08-HELIX.i2.64998: Eh, copy.
+[16:03:58] CCA.C08-JUDGE.EpU.64998: Strange how he described it
+[16:04:02] CCA.C08-HELIX.i2.64998: /reply That vvill take me a while to remember, but, I will try.
+[16:04:29] CCA.C08-HELIX.i2.64998: Hm- yeah.
+[16:04:39] CCA.C08-JUDGE.EpU.64998: Come on
+[16:04:43] Drake Salvador: /pm i2 Yeah, if you do it the way you just did, it looks like --CCA.C08-HELIX.i2.64998 he does this.--
+[16:04:55] CCA.C08-JUDGE.EpU.64998: Old military gear..
+[16:05:09] CCA.C08-HELIX.i2.64998: Maybe- Eh, never mind.
+[16:05:17] CCA.C08-JUDGE.EpU.64998: Speak now
+[16:05:25] Dimitri Sikon: hey
+[16:05:29] Dimitri Sikon: can i get a ration?
+[16:05:42] CCA.C08-JUDGE.EpU.64998: Ration cycles will be online when they're announced, citizen.
+[16:05:51] CCA.C08-JUDGE.EpU.64998: [[ Which I was ironically planning to do it
+[16:05:51] Drake Salvador: /pm i2 I.E. if you were told to check a man's ID, and wanted to do a --He-- You would do /it The unit (or he) looks down at his PDA and starts to enter the man's data
+[16:05:51] Dimitri Sikon: i see, this is a shame
+[16:06:02] CCA.C08-JUDGE.EpU.64998: Tell me after, Helix.
+[16:06:09] CCA.C08-HELIX.i2.64998: Mhm, will do.
+[16:06:12] CCA.C08-JUDGE.EpU.64998: Clock is on the dot for the cycle
+[16:06:22] CCA.C08-JUDGE.EpU.64998: Post up outside, I'll announce.
+[16:06:22] Dimitri Sikon: /looc are any admins on?
+[16:06:26] CCA.C08-JUDGE.EpU.64998: [[ Currently, no
+[16:06:41] CCA.C08-HELIX.i2.64998: /ooc One moment, being pulled somewhere.
+[16:07:04] CCA.C08-JUDGE.EpU.64998: Citizen
+[16:07:05] CCA.C08-JUDGE.EpU.64998: Apply
+[16:07:07] Dimitri Sikon: /apply
+[16:07:22] CCA.C08-JUDGE.EpU.64998: /me types in a few things into his datapad
+[16:08:09] CCA.C08-HELIX.i2.64998: /ooc Kay back, sorry about that.
+[16:09:03] CCA.C08-JUDGE.EpU.64998: One standard one loyalist
+[16:09:23] Dimitri Sikon: thank you
+[16:09:31] CCA.C08-JUDGE.EpU.64998: /y Next
+[16:09:36] CCA.C08-JUDGE.EpU.64998: Apply
+[16:09:37] Carson Copper: /apply
+[16:09:49] CCA.C08-JUDGE.EpU.64998: /me types in a few things into his datapad
+[16:10:12] CCA.C08-JUDGE.EpU.64998: One standard
+[16:10:16] Carson Copper: Preciate it.
+[16:10:26] CCA.C08-JUDGE.EpU.64998: Apply
+[16:10:37] Drake Salvador: /me stares at the unit through the window, before slowly saying his credentials.
+[16:10:38] Drake Salvador: /apply
+[16:11:02] CCA.C08-JUDGE.EpU.64998: Ah, the yellow armband loyalist, good to see you
+[16:11:05] CCA.C08-JUDGE.EpU.64998: /me types in a few things into his datapad
+[16:11:10] CCA.C08-JUDGE.EpU.64998: /viewdata Drake
+[16:11:44] CCA.C08-JUDGE.EpU.64998: /viewdata Drake
+[16:12:05] CCA.C08-JUDGE.EpU.64998: For you, one loyalist and one standard
+[16:12:18] Drake Salvador: /me grabs the packets, walking toward the tables with them in his arms.
+[16:13:02] Drake Salvador: /me sits down on the bench, unpacking his rations. He pockets the tokens almost immediately, setting the food containers side-by-side.
+[16:13:25] CCA.C08-JUDGE.EpU.64998: // Alright I have a bit of an emergency to tend to sadly with my mother so I'll be on tonight, sorry I couldn't be long for longer than now but good to see we all joined up
+[16:13:43] Drake Salvador: // Aiight man, take care.
+[16:13:44] CCA.C08-HELIX.i2.64998: /ooc Alrighty.
+[16:13:47] CCA.C08-HELIX.i2.64998: /ooc Take care.
+[16:13:52] CCA.C08-JUDGE.EpU.64998: // I'll be on tonight, y'all take care
+[16:13:54] Dropped "CCA.C08-JUDGE.EpU.64998" from server<STEAM_0:1:66880501>
+[16:14:35] Client "I SHIT MYSELF" connected.
+[16:14:35] Client "adsin15" spawned in server <STEAM_0:0:35761453> (took 903 seconds).
+[16:15:08] CCA.C08-HELIX.i2.64998: /radio 10-7.
+[16:15:15] CCA.C08-HELIX.i2.64998<STEAM_0:1:40787669> changed their name to Bubba
+[16:16:30] Dropped "Drake Salvador" from server<STEAM_0:0:27835911>
+[16:22:46] adsin15<STEAM_0:0:35761453> changed their name to James Sinclair
+[16:23:01] James Sinclair: /content
+[16:25:37] Dropped "Dimitri Sikon" from server<STEAM_0:1:47645599>
+[16:30:16] James Sinclair was killed by trigger_hurt
+[16:30:25] James Sinclair was killed by trigger_hurt
+[16:31:04] James Sinclair: /ity Hello?
+[16:31:15] James Sinclair: /y Hello?
+[16:31:57] Dropped "James Sinclair" from server<STEAM_0:0:35761453>
+[16:32:33] Bubba: /ooc S
+[16:32:36] Dropped "Bubba" from server<STEAM_0:1:40787669>
+[16:34:33] Dropped "Carson Copper" from server<STEAM_0:0:52468151>
+[16:36:06] Client "Universal Viper" connected.
+[16:38:34] Client "Universal Viper" spawned in server <STEAM_0:1:592277755> (took 148 seconds).
+[16:39:19] Universal Viper<STEAM_0:1:592277755> changed their name to Nick Flamingo
+[16:41:25] Dropped "Nick Flamingo" from server<STEAM_0:1:592277755>

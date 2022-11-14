@@ -1,0 +1,1817 @@
+<Logging continued from "data/ulx_logs/09-24-21.txt">
+[01:28:54] Client "japan1793" connected.
+
+
+
+[02:09:17] New map: rp_city8_edit_v4r
+[11:12:39] Client "matt saton" connected.
+[11:17:37] Client "matt saton" connected.
+[11:18:50] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 73 seconds).
+[11:20:18] matt saton<STEAM_0:1:53097688> changed their name to Lee Maylor
+[11:20:42] Lee Maylor changed the map to rp_generators
+[11:20:42] Server is shutting down/changing levels.
+
+
+
+[11:22:52] New map: rp_generators
+[11:24:29] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 142 seconds).
+[11:25:52] matt saton<STEAM_0:1:53097688> changed their name to Lee Maylor
+[11:26:57] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_combine/combine_interface003.mdl
+[11:26:59] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_combine/combine_interface002.mdl
+[11:27:16] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on maps/rp_generators.bsp
+[11:27:17] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/combine_interface002.mdl
+[11:27:30] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_combine/combine_mine01.mdl
+[11:27:59] Lee Maylor<STEAM_0:1:53097688> spawned effect models/synth.mdl
+[11:27:59] Lee Maylor<STEAM_0:1:53097688> spawned ragdoll models/vortigaunt.mdl
+[11:28:02] Lee Maylor<STEAM_0:1:53097688> spawned ragdoll models/vortigaunt_slave.mdl
+[11:28:07] Lee Maylor<STEAM_0:1:53097688> spawned ragdoll models/vortigaunt_slave.mdl
+[11:28:17] Lee Maylor<STEAM_0:1:53097688> spawned model models/alyx_emptool_prop.mdl
+[11:28:27] Lee Maylor<STEAM_0:1:53097688> spawned model models/combine_apc_dynamic.mdl
+[11:29:18] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_combine/combine_interface001.mdl
+[11:29:26] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_combine/combine_intwallunit.mdl
+[11:29:33] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_combine/combine_intmonitor001.mdl
+[11:30:05] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/combine_intmonitor001.mdl
+[11:30:06] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/combine_interface001.mdl
+[11:30:06] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/combine_intwallunit.mdl
+[11:30:16] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_combine/combine_generator01.mdl
+[11:30:29] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_combine/combine_generator01.mdl
+[11:30:38] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_combine/combine_generator01.mdl
+[11:31:00] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/combine_generator01.mdl
+[11:31:00] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/combine_generator01.mdl
+[11:31:19] Client "gasmask guy" connected.
+[11:31:24] Lee Maylor<STEAM_0:1:53097688> spawned ragdoll models/props_combine/combine_door01.mdl
+[11:31:50] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/vortigaunt_slave.mdl
+[11:32:00] Lee Maylor<STEAM_0:1:53097688> spawned ragdoll models/vortigaunt_slave.mdl
+[11:32:10] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/vortigaunt_slave.mdl
+[11:32:14] Lee Maylor<STEAM_0:1:53097688> spawned model models/container_chunk01.mdl
+[11:32:16] Lee Maylor<STEAM_0:1:53097688> spawned model models/container_chunk01.mdl
+[11:32:23] Lee Maylor<STEAM_0:1:53097688> spawned ragdoll models/manhack.mdl
+[11:32:25] Lee Maylor<STEAM_0:1:53097688> spawned effect models/soldier_stripped.mdl
+[11:32:27] Lee Maylor<STEAM_0:1:53097688> spawned effect models/soldier_stripped.mdl
+[11:33:29] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_lab/monitor02.mdl
+[11:33:56] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_c17/computer01_keyboard.mdl
+[11:34:02] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_lab/harddrive02.mdl
+[11:34:03] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_lab/harddrive01.mdl
+[11:34:07] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_lab/harddrive02.mdl
+[11:34:12] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_lab/monitor02.mdl
+[11:34:13] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/z-o-m-b-i-e/st/stol/st_stol_08.mdl
+[11:34:18] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_lab/harddrive02.mdl
+[11:34:19] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_lab/harddrive02.mdl
+[11:34:21] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_c17/computer01_keyboard.mdl
+[11:34:22] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/z-o-m-b-i-e/st/mebel_trash/st_mebeltrash_stul_01.mdl
+[11:34:45] Lee Maylor<STEAM_0:1:53097688> spawned ragdoll models/humans/charple04.mdl
+[11:35:48] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_combine/combine_interface003.mdl
+[11:36:45] Lee Maylor<STEAM_0:1:53097688> spawned model models/hunter/plates/plate4x6.mdl
+[11:36:49] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/hunter/plates/plate4x6.mdl
+[11:36:51] Lee Maylor<STEAM_0:1:53097688> used the tool material on models/hunter/plates/plate4x6.mdl
+[11:36:57] Client "Michλel's World" connected.
+[11:37:20] Lee Maylor<STEAM_0:1:53097688> spawned model models/hunter/blocks/cube4x6x1.mdl
+[11:37:24] Lee Maylor<STEAM_0:1:53097688> spawned model models/hunter/blocks/cube2x3x025.mdl
+[11:37:26] Lee Maylor<STEAM_0:1:53097688> spawned model models/hunter/blocks/cube4x4x025.mdl
+[11:37:28] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/hunter/blocks/cube4x4x025.mdl
+[11:37:30] Lee Maylor<STEAM_0:1:53097688> used the tool material on models/hunter/blocks/cube4x4x025.mdl
+[11:37:50] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/hunter/blocks/cube4x4x025.mdl
+[11:37:52] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/hunter/blocks/cube4x4x025.mdl
+[11:38:26] Client "Michλel's World" spawned in server <STEAM_0:1:75161355> (took 89 seconds).
+[11:38:31] Lee Maylor<STEAM_0:1:53097688> spawned model models/weapons/w_irifle.mdl
+[11:38:42] Lee Maylor<STEAM_0:1:53097688> spawned model models/weapons/w_crowbar.mdl
+[11:38:49] Michλel's World<STEAM_0:1:75161355> changed their name to John Smith
+[11:38:55] John Smith: // whats up demons
+[11:38:58] Lee Maylor: //suh
+[11:39:02] John Smith: // its ya boy
+[11:39:25] Lee Maylor<STEAM_0:1:53097688> spawned model models/hunter/misc/lift2x2.mdl
+[11:39:30] Lee Maylor<STEAM_0:1:53097688> spawned model models/hunter/plates/plate4x4.mdl
+[11:39:33] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/hunter/plates/plate4x4.mdl
+[11:39:40] John Smith: // we just waiting for mor people to join in first?
+[11:39:43] Client "gasmask guy" spawned in server <STEAM_0:1:453700418> (took 504 seconds).
+[11:39:46] Lee Maylor: //yuh, we still got about
+[11:39:48] John Smith: // thank you dispatch
+[11:39:54] Lee Maylor: //50 or so minutes?
+[11:39:54] John Smith: // an hour?
+[11:39:55] Lee Maylor: !bring smith
+[11:39:57] Lee Maylor: //yeah
+[11:40:02] Lee Maylor teleported John Smith
+[11:40:02] Lee Maylor: !teleport smith
+[11:40:03] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/hunter/plates/plate4x4.mdl
+[11:40:04] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/hunter/plates/plate4x4.mdl
+[11:40:09] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/hunter/plates/plate4x4.mdl
+[11:40:14] Lee Maylor teleported John Smith
+[11:40:14] Lee Maylor: !teleport smith
+[11:40:16] John Smith: // wtf
+[11:40:18] Lee Maylor teleported John Smith
+[11:40:18] Lee Maylor: !teleport smith
+[11:40:37] Lee Maylor<STEAM_0:1:53097688> used the tool material on models/hunter/misc/lift2x2.mdl
+[11:40:37] Lee Maylor<STEAM_0:1:53097688> used the tool material on models/hunter/misc/lift2x2.mdl
+[11:40:39] Lee Maylor<STEAM_0:1:53097688> used the tool material on models/hunter/plates/plate4x4.mdl
+[11:40:40] John Smith: // so i dont go anywhere?
+[11:40:42] Lee Maylor: .//padded chamber
+[11:40:46] Lee Maylor: .//correct
+[11:40:52] Lee Maylor<STEAM_0:1:53097688> used the tool material on models/hunter/plates/plate4x4.mdl
+[11:40:54] Lee Maylor<STEAM_0:1:53097688> used the tool material on models/hunter/plates/plate4x4.mdl
+[11:41:00] Lee Maylor<STEAM_0:1:53097688> used the tool material on models/hunter/misc/lift2x2.mdl
+[11:41:04] Lee Maylor<STEAM_0:1:53097688> used the tool material on models/hunter/plates/plate4x4.mdl
+[11:41:06] Lee Maylor<STEAM_0:1:53097688> used the tool material on models/hunter/plates/plate4x4.mdl
+[11:41:32] John Smith: // welp
+[11:41:39] gasmask guy<STEAM_0:1:453700418> changed their name to James Johnson
+[11:41:39] John Smith: // im gonna listen to music while we wait
+[11:41:45] Lee Maylor: //i'm propping
+[11:41:50] James Johnson: // where tf are we?
+[11:41:57] Lee Maylor: //joe's house
+[11:42:02] Lee Maylor teleported to John Smith
+[11:42:02] Lee Maylor: !goto smith
+[11:42:04] James Johnson: // what is a house
+[11:42:24] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_phx/construct/metal_wire1x2x2b.mdl
+[11:42:30] James Johnson: // ok but i wasnt here for much of the event so can you tell me where we arel ocated?
+[11:42:36] John Smith: // no idea, all i know is we are having what is basically a horror-based event in about 40 mins
+[11:42:36] Lee Maylor<STEAM_0:1:53097688> spawned model models/hunter/tubes/tube4x4x1d.mdl
+[11:42:37] Lee Maylor<STEAM_0:1:53097688> spawned model models/hunter/tubes/tube4x4x5.mdl
+[11:42:39] Lee Maylor<STEAM_0:1:53097688> spawned model models/hunter/tubes/tube4x4x1d.mdl
+[11:42:40] Lee Maylor<STEAM_0:1:53097688> spawned model models/hunter/tubes/tube4x4x2.mdl
+[11:42:42] Lee Maylor<STEAM_0:1:53097688> spawned model models/hunter/tubes/tube4x4x5.mdl
+[11:42:48] Lee Maylor brought James Johnson
+[11:42:48] Lee Maylor: !bring james, john
+[11:42:53] Lee Maylor brought James Johnson,John Smith
+[11:42:53] Lee Maylor: !bring john
+[11:42:56] John Smith: // the MAP is a STALKER based map
+[11:43:00] Lee Maylor: //yeah let me catch you up a bit
+[11:43:19] Lee Maylor: //so when we went through the gate into the next district, we ended up in what seemed to be an abandoned block
+[11:44:06] Lee Maylor: //after exploring it a bit we found a king unit who effectively said "bro this place is locked down what the fuck, but you've got an OTA with you so we know you're not an anti-citizen. just gtfo back to where you came from"
+[11:44:17] Lee Maylor: //so they backtrack and try to run back through but now there's rubble in the way of where they came
+[11:44:28] John Smith: // then we got shot down by somethin after getting into a dropship and we crashed here
+[11:44:30] Lee Maylor: //keep in mind at this time there's a bunch of xenians around. zombies, headcrabs, panthereyes, all that fun stuff
+[11:44:39] James Johnson: // you mean cosmic cats?
+[11:44:45] Lee Maylor: //i do mean cosmic cats
+[11:44:46] John Smith: // yes those
+[11:44:47] Lee Maylor: //so they're like "shit might as well find another way out so we don't die"
+[11:44:49] John Smith: // rename them
+[11:44:53] John Smith: // do it q
+[11:44:59] John Smith: // or i will call you cringe
+[11:45:12] James Johnson: // MALE 07 GANG
+[11:45:18] James Johnson: .// holy shit you guys danced on sync
+[11:45:20] John Smith: //PERFECTLY IN SYNC
+[11:45:27] Lee Maylor: //LET'S GOOOOO
+[11:45:45] Lee Maylor: //so anyways they see that dropships are coming to get them out of this district because it's being more and more overrun by xenians
+[11:46:02] Lee Maylor: //so a dropship comes, and there's space for the two. they get on to one, assumedly unnoticed, and are on there for, eh, a few hours
+[11:46:20] Lee Maylor: //dropship gets struck by lightning, falls, people get out and are like, hey what the fuck
+[11:46:22] John Smith: // but yeah after we crashed here me and a ECHO unit got split up and now im lost in an underground facility
+[11:46:27] Lee Maylor: //^
+[11:46:39] John Smith: // and got heavily spooked
+[11:46:41] James Johnson: // james just walked here
+[11:46:46] Lee Maylor: //lmao
+[11:46:50] John Smith: // lol
+[11:46:51] Lee Maylor: //we'll just say ICly you were here
+[11:46:56] James Johnson: // trying to find the gang of the shotty cop,john,and OTA
+[11:47:04] James Johnson: // and carson too 
+[11:47:10] John Smith: // yeah, we are all split up rn
+[11:47:14] Lee Maylor: //it's been revealed that the underground base was, at some point, under combine control
+[11:47:29] John Smith: // and again, thanks for sending those puppy vids, helped me a ton
+[11:47:33] Lee Maylor: //yeah, any time
+[11:48:25] James Johnson: // hey lee i got a question, what is that PR thing next to yoru name?
+[11:48:32] Lee Maylor: //that's the server logo
+[11:48:34] John Smith: // its the server logo
+[11:48:40] James Johnson: // are you the owner?
+[11:48:42] John Smith: //jinx
+[11:48:43] Lee Maylor: //affirmative
+[11:49:19] John Smith: // brb, gonna go eat
+[11:49:20] Lee Maylor<STEAM_0:1:53097688> spawned ragdoll models/ultimo/alien_baltan_basical_medium_size.mdl
+[11:49:22] Lee Maylor<STEAM_0:1:53097688> spawned ragdoll models/ultimo/alien_baltan_basical_small_size.mdl
+[11:49:24] Lee Maylor<STEAM_0:1:53097688> spawned ragdoll models/ultimo/alien_baltan_basical_large_size.mdl
+[11:49:29] Lee Maylor<STEAM_0:1:53097688> spawned ragdoll models/ultimo/alien_baltan_basical_human_size.mdl
+[11:49:33] John Smith: //i require...
+[11:49:35] Lee Maylor<STEAM_0:1:53097688> spawned ragdoll models/ultimo/alien_baltan_basical_human_size.mdl
+[11:49:41] John Smith: // S U S T E N A N C E
+[11:49:47] Lee Maylor: //SUSTENANCE
+[11:50:24] Lee Maylor<STEAM_0:1:53097688> spawned model models/gibs/antlion_gib_small_3.mdl
+[11:50:25] Lee Maylor<STEAM_0:1:53097688> spawned model models/gibs/gunship_gibs_eye.mdl
+[11:50:33] Lee Maylor<STEAM_0:1:53097688> spawned ragdoll models/strider_parts/strider_brain.mdl
+[11:50:35] Lee Maylor<STEAM_0:1:53097688> spawned ragdoll models/strider_parts/strider_brain.mdl
+[11:50:42] Lee Maylor<STEAM_0:1:53097688> spawned ragdoll models/strider_parts/strider_brain.mdl
+[11:50:44] Lee Maylor<STEAM_0:1:53097688> spawned ragdoll models/strider_parts/strider_brain.mdl
+[11:50:47] Lee Maylor<STEAM_0:1:53097688> spawned ragdoll models/strider_parts/strider_brain.mdl
+[11:50:53] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/strider_parts/strider_brain.mdl
+[11:51:05] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/strider_parts/strider_brain.mdl
+[11:51:06] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on maps/rp_generators.bsp
+[11:51:06] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on maps/rp_generators.bsp
+[11:51:07] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on maps/rp_generators.bsp
+[11:51:07] James Johnson: // are vortigaunts real or nah
+[11:51:07] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/strider_parts/strider_brain.mdl
+[11:51:12] Lee Maylor: //yep
+[11:51:23] James Johnson: // where do i apply for vort?
+[11:51:32] Lee Maylor: //they're not playable on the server yet becuase i'm still programming their SWEP and putting some finishing touches on their guide
+[11:51:37] James Johnson: // oh ok
+[11:51:39] Lee Maylor: //but they're gonna be the next release
+[11:51:54] James Johnson: // holy shit rock weapon?
+[11:52:01] Lee Maylor: //it go bonk on stuff
+[11:52:08] James Johnson: // how get rock?
+[11:52:10] Lee Maylor: //if you want to check them out, we have videos on our youtube channel of our progress with it
+[11:52:18] Lee Maylor: //find rock on a map, ask admin for rock item, get rock item
+[11:52:27] James Johnson: // aight
+[11:52:35] James Johnson: // im probably gonna apply for vort
+[11:53:12] Lee Maylor: //i love vort RP, so i'm hyped for that being done
+[11:53:25] Lee Maylor was killed by trigger_hurt
+[11:53:53] Lee Maylor: //thank you consul
+[11:54:14] James Johnson: // im not very good at talking like a vort but i think i can do pretty good
+[11:54:40] Lee Maylor: //as long as you're trying you're fine
+[11:54:54] Lee Maylor<STEAM_0:1:53097688> spawned model models/hunter/plates/plate3x3.mdl
+[11:54:54] Lee Maylor<STEAM_0:1:53097688> used the tool submaterial on models/hunter/plates/plate3x3.mdl
+[11:54:56] Lee Maylor<STEAM_0:1:53097688> used the tool submaterial on models/hunter/plates/plate3x3.mdl
+[11:55:06] Lee Maylor<STEAM_0:1:53097688> used the tool material on models/hunter/plates/plate3x3.mdl
+[11:55:09] John Smith: // returneth i have
+[11:55:12] Lee Maylor: //welcome back
+[11:55:21] Lee Maylor<STEAM_0:1:53097688> used the tool material on models/hunter/plates/plate3x3.mdl
+[11:55:22] Lee Maylor<STEAM_0:1:53097688> used the tool material on models/hunter/plates/plate3x3.mdl
+[11:55:22] Lee Maylor<STEAM_0:1:53097688> used the tool material on models/hunter/plates/plate3x3.mdl
+[11:55:29] Lee Maylor<STEAM_0:1:53097688> used the tool mapret on models/hunter/plates/plate3x3.mdl
+[11:55:42] John Smith: // also, thging abput my character, his flashlight broke, so now i have to sue a lantern
+[11:55:52] John Smith: // Amesia 100
+[11:55:54] Lee Maylor<STEAM_0:1:53097688> used the tool mapret on maps/rp_generators.bsp
+[11:56:00] James Johnson: // haha james still have flashlight
+[11:56:10] Lee Maylor teleported to John Smith
+[11:56:12] John Smith: // bitch fuck off Lantern RP is fun
+[11:56:30] Lee Maylor<STEAM_0:1:53097688> used the tool duplicator on maps/rp_generators.bsp
+[11:56:30] Lee Maylor<STEAM_0:1:53097688> spawned model models/sf_models/sf_oil_lamp.mdl
+[11:56:31] Lee Maylor<STEAM_0:1:53097688> used the tool duplicator on maps/rp_generators.bsp
+[11:56:31] Lee Maylor<STEAM_0:1:53097688> spawned model models/sf_models/sf_oil_lamp.mdl
+[11:56:41] John Smith: // bro imagine being under 5'11"
+[11:56:52] Lee Maylor: //bro imagine being over 5'11"
+[11:56:58] John Smith: // no no, i thought we all got split up
+[11:57:02] Lee Maylor<STEAM_0:1:53097688> used the tool duplicator on maps/rp_generators.bsp
+[11:57:02] Lee Maylor<STEAM_0:1:53097688> spawned model models/sf_models/sf_oil_lamp.mdl
+[11:57:03] Lee Maylor<STEAM_0:1:53097688> used the tool duplicator on maps/rp_generators.bsp
+[11:57:03] Lee Maylor<STEAM_0:1:53097688> spawned model models/sf_models/sf_oil_lamp.mdl
+[11:57:03] Lee Maylor<STEAM_0:1:53097688> used the tool duplicator on maps/rp_generators.bsp
+[11:57:03] Lee Maylor<STEAM_0:1:53097688> spawned model models/sf_models/sf_oil_lamp.mdl
+[11:57:04] Lee Maylor<STEAM_0:1:53097688> used the tool duplicator on maps/rp_generators.bsp
+[11:57:04] Lee Maylor<STEAM_0:1:53097688> spawned model models/sf_models/sf_oil_lamp.mdl
+[11:57:07] John Smith: // so James would-
+[11:57:10] Lee Maylor: //i'm just putting down lanterns
+[11:57:18] John Smith: // oh your just fucking around ic
+[11:57:18] James Johnson: // imagine being under 55'11
+[11:57:29] James Johnson: // look at my description
+[11:57:32] Lee Maylor: //ackshually i'm 7'13"
+[11:57:38] Lee Maylor: //lmao
+[11:57:52] John Smith: // lantern dual
+[11:57:55] Lee Maylor<STEAM_0:1:53097688> spawned/gave himself swep weapon_displacer
+[11:57:56] Lee Maylor: /toggleraise
+[11:58:01] Lee Maylor: fuck y'all i'm out of here
+[11:58:03] Lee Maylor killed John Smith using obj_portal
+[11:58:13] John Smith: //i die
+[11:58:15] Lee Maylor: //how the shit
+[11:58:17] Lee Maylor brought John Smith
+[11:58:17] Lee Maylor: !bring smith
+[11:58:17] James Johnson: // low health
+[11:58:23] James Johnson: /y MEDIC!
+[11:58:28] James Johnson: /Y MEEEEEEEEDIC!
+[11:58:30] Lee Maylor set the hp for Everyone to 100
+[11:58:38] Lee Maylor: /Y YO, DOC! COME ON, MAN!
+[11:58:42] James Johnson: Thanks,Doc.
+[11:58:49] Lee Maylor: Yeah yeah, thanks.
+[11:59:00] Lee Maylor<STEAM_0:1:53097688> spawned/gave himself swep swep_construction_kit
+[11:59:01] Lee Maylor: /toggleraise
+[11:59:34] John Smith: // im stuck
+[11:59:41] Lee Maylor: //sucks to suck
+[12:00:04] James Johnson: .// i remeber in this one server i launched an explosive barrel at 500 mph towards a cp officer
+[12:00:12] Lee Maylor: .//lmao
+[12:00:15] John Smith: .// lol
+[12:00:22] Lee Maylor: .//one time i wanted to get into the CWU to do anti-civil shit
+[12:00:28] Lee Maylor: .//but i didn't want to apply
+[12:00:35] Lee Maylor: .//so i had this really drawn out scheme
+[12:00:56] Lee Maylor: .//where i took a spare citizen overshirt, then convinced a CCA unit to give me bleach because I'm doing cleaning duty for my apartments
+[12:01:07] Lee Maylor: .//i get the bleach, bleach my shirt white, then paint on a CWU logo
+[12:01:26] Lee Maylor: .//then go to a different unit and say "hey i just got into the CWU can i get my CWU ID card so i can open the locks"
+[12:01:30] Lee Maylor: .//and it fucking *worked*
+[12:01:39] John Smith: // *H O W*
+[12:01:56] Lee Maylor: .//fucking genius plan, this was like 3 years ago or something, long before PR was a thought
+[12:02:00] John Smith: // 2 lanterns mating
+[12:02:02] Lee Maylor: .//still my favorite story
+[12:02:07] Lee Maylor<STEAM_0:1:53097688> spawned/gave himself swep weapon_357
+[12:02:08] Lee Maylor: /toggleraise
+[12:02:20] Lee Maylor: yuo hav my permsion to dye
+[12:02:21] James Johnson: .// nice
+[12:02:43] Lee Maylor<STEAM_0:1:53097688> used the tool material on models/hunter/tubes/tube4x4x5.mdl
+[12:02:48] Lee Maylor<STEAM_0:1:53097688> used the tool material on models/hunter/tubes/tube4x4x5.mdl
+[12:02:48] James Johnson: .// i remember the time i devious licked over 16 grenades and hid them in suitcases
+[12:02:58] Lee Maylor: .//nefarious lick
+[12:03:03] Lee Maylor<STEAM_0:1:53097688> used the tool material on models/hunter/tubes/tube4x4x5.mdl
+[12:03:06] Lee Maylor<STEAM_0:1:53097688> used the tool material on models/hunter/tubes/tube4x4x5.mdl
+[12:03:08] Lee Maylor<STEAM_0:1:53097688> used the tool material on models/hunter/tubes/tube4x4x5.mdl
+[12:03:10] Lee Maylor<STEAM_0:1:53097688> used the tool material on models/hunter/tubes/tube4x4x5.mdl
+[12:03:11] Lee Maylor<STEAM_0:1:53097688> used the tool material on models/hunter/tubes/tube4x4x5.mdl
+[12:03:15] Lee Maylor<STEAM_0:1:53097688> used the tool material on models/hunter/tubes/tube4x4x5.mdl
+[12:03:17] Lee Maylor<STEAM_0:1:53097688> used the tool material on models/hunter/tubes/tube4x4x5.mdl
+[12:03:20] Lee Maylor<STEAM_0:1:53097688> used the tool material on models/hunter/tubes/tube4x4x5.mdl
+[12:03:23] Lee Maylor<STEAM_0:1:53097688> used the tool material on models/hunter/tubes/tube4x4x5.mdl
+[12:03:24] Lee Maylor<STEAM_0:1:53097688> used the tool material on models/hunter/tubes/tube4x4x5.mdl
+[12:03:26] Lee Maylor<STEAM_0:1:53097688> used the tool material on models/hunter/tubes/tube4x4x5.mdl
+[12:03:27] Lee Maylor<STEAM_0:1:53097688> used the tool material on models/hunter/tubes/tube4x4x5.mdl
+[12:03:28] Lee Maylor<STEAM_0:1:53097688> used the tool material on models/hunter/tubes/tube4x4x5.mdl
+[12:03:29] Lee Maylor<STEAM_0:1:53097688> used the tool material on models/hunter/tubes/tube4x4x5.mdl
+[12:03:31] James Johnson: .// once i had them in suitcases i dropped them from a balconey and detonated the grenades
+[12:03:31] Lee Maylor<STEAM_0:1:53097688> used the tool material on models/hunter/tubes/tube4x4x5.mdl
+[12:03:34] Lee Maylor<STEAM_0:1:53097688> used the tool material on models/hunter/tubes/tube4x4x5.mdl
+[12:03:36] Lee Maylor<STEAM_0:1:53097688> used the tool material on models/hunter/tubes/tube4x4x5.mdl
+[12:03:38] Lee Maylor: .//holy fuck
+[12:03:41] Lee Maylor<STEAM_0:1:53097688> used the tool material on models/hunter/tubes/tube4x4x5.mdl
+[12:03:44] Lee Maylor<STEAM_0:1:53097688> used the tool material on models/hunter/tubes/tube4x4x5.mdl
+[12:03:46] Lee Maylor<STEAM_0:1:53097688> used the tool material on models/hunter/tubes/tube4x4x5.mdl
+[12:03:47] Lee Maylor<STEAM_0:1:53097688> used the tool material on models/hunter/tubes/tube4x4x5.mdl
+[12:03:48] Lee Maylor<STEAM_0:1:53097688> used the tool material on models/hunter/tubes/tube4x4x5.mdl
+[12:03:49] Lee Maylor<STEAM_0:1:53097688> used the tool material on models/hunter/tubes/tube4x4x5.mdl
+[12:03:52] Lee Maylor<STEAM_0:1:53097688> used the tool material on models/hunter/tubes/tube4x4x5.mdl
+[12:03:57] James Johnson: .// so yeah minor trolling
+[12:03:59] John Smith: // AH WINDOWS
+[12:04:01] Lee Maylor cleared decals
+[12:04:01] Lee Maylor: !cleardecals
+[12:04:07] Lee Maylor: .//we engage in a moderate amount of tomfoolery
+[12:04:09] Lee Maylor<STEAM_0:1:53097688> used the tool material on models/hunter/tubes/tube4x4x5.mdl
+[12:04:11] Lee Maylor<STEAM_0:1:53097688> used the tool material on models/hunter/tubes/tube4x4x5.mdl
+[12:04:12] Lee Maylor<STEAM_0:1:53097688> used the tool material on models/hunter/tubes/tube4x4x5.mdl
+[12:04:16] Lee Maylor<STEAM_0:1:53097688> used the tool material on models/hunter/tubes/tube4x4x5.mdl
+[12:04:20] Lee Maylor<STEAM_0:1:53097688> used the tool material on models/hunter/tubes/tube4x4x5.mdl
+[12:04:21] Lee Maylor<STEAM_0:1:53097688> used the tool material on models/hunter/tubes/tube4x4x5.mdl
+[12:04:24] Lee Maylor<STEAM_0:1:53097688> used the tool material on models/industrial_uniforms/pm_industrial_uniform2.mdl
+[12:04:25] Lee Maylor<STEAM_0:1:53097688> used the tool material on models/hunter/tubes/tube4x4x5.mdl
+[12:04:25] Lee Maylor<STEAM_0:1:53097688> used the tool material on models/hunter/tubes/tube4x4x5.mdl
+[12:04:25] Lee Maylor<STEAM_0:1:53097688> used the tool material on models/hunter/tubes/tube4x4x5.mdl
+[12:04:26] Lee Maylor<STEAM_0:1:53097688> used the tool material on models/hunter/tubes/tube4x4x5.mdl
+[12:04:26] Lee Maylor<STEAM_0:1:53097688> used the tool material on models/hunter/tubes/tube4x4x5.mdl
+[12:04:26] Lee Maylor<STEAM_0:1:53097688> used the tool material on models/industrial_uniforms/pm_industrial_uniform2.mdl
+[12:04:26] Lee Maylor<STEAM_0:1:53097688> used the tool material on models/industrial_uniforms/pm_industrial_uniform2.mdl
+[12:04:27] Lee Maylor<STEAM_0:1:53097688> used the tool material on models/hunter/tubes/tube4x4x5.mdl
+[12:04:28] John Smith: // the OS of the computer screens is ":) fart"
+[12:04:33] Lee Maylor<STEAM_0:1:53097688> used the tool material on models/hunter/tubes/tube4x4x5.mdl
+[12:04:34] John Smith: //XD
+[12:04:38] Lee Maylor: //it be
+[12:04:59] Lee Maylor: //26 more minutes
+[12:05:08] John Smith: // i can eat in that amount of time
+[12:05:11] Lee Maylor<STEAM_0:1:53097688> spawned/gave himself swep weapon_crossbow
+[12:05:13] John Smith: // *inhales*
+[12:05:16] Lee Maylor: .//i eat so fast
+[12:05:16] Lee Maylor: /toggleraise
+[12:05:20] Lee Maylor: .//it is not healthy
+[12:05:24] Lee Maylor: .//this is not a brag
+[12:05:36] John Smith: // *vaccum noises*
+[12:05:45] Lee Maylor<STEAM_0:1:53097688> spawned/gave himself swep weapon_cuff_elastic
+[12:05:46] Lee Maylor: /toggleraise
+[12:05:53] Lee Maylor: .//i got these for the swrp server months ago
+[12:06:04] Lee Maylor: .//i was gonna make them a zip tie thing and integrate them into the server but
+[12:06:08] Lee Maylor: .//never did
+[12:06:10] James Johnson: .// so guys what is the IC length of your character's cocks
+[12:06:20] Lee Maylor: .// i have a vachine
+[12:06:24] James Johnson: .// so guys what is the IC length of your character's cocks
+[12:06:32] John Smith: // 99999 inches
+[12:06:37] Lee Maylor<STEAM_0:1:53097688> spawned/gave himself swep weapon_cuff_police
+[12:06:38] Lee Maylor: /toggleraise
+[12:06:39] James Johnson: .// james is 12 feet
+[12:06:48] Lee Maylor<STEAM_0:1:53097688> spawned/gave himself swep weapon_cuff_tactical
+[12:06:51] Lee Maylor: /toggleraise
+[12:07:08] Lee Maylor: .//do you just roll yours up like a fire hose
+[12:07:11] Lee Maylor<STEAM_0:1:53097688> spawned/gave himself swep ix_supersoldiercannon
+[12:07:12] Lee Maylor: /toggleraise
+[12:07:15] John Smith: .// yes
+[12:08:03] John Smith: // also 12 ft is 144in. mine is longer
+[12:08:10] John Smith: // i have le beeg dick
+[12:08:13] Lee Maylor: //just realized that laser eyes for a stlaker would be easy ot program
+[12:08:18] James Johnson:  hey baby girl wanna play roblox with me?
+[12:08:23] Lee Maylor: screech
+[12:08:36] James Johnson:  i love your voice keep talking
+[12:08:40] Lee Maylor: grar
+[12:08:43] Lee Maylor: :3
+[12:08:55] James Johnson: .// hl2 stalker dating sim
+[12:09:01] James Johnson: .// code it now
+[12:09:12] Client "BlueHavoc911" connected.
+[12:09:15] John Smith: // aight imma just leave if this is what happens in OOC for the event.
+[12:09:26] John Smith: .// jk
+[12:09:27] Lee Maylor: //event doesn't start until 1:30
+[12:09:32] John Smith: .// or am i
+[12:09:36] Lee Maylor: //you knew good and damn well what you were getting into
+[12:09:39] Lee Maylor: .//nah i'm teasing
+[12:10:31] James Johnson: .// what does constitution do in the skills thing?
+[12:10:36] John Smith: // mmm *N O O D L E S*
+[12:10:38] Lee Maylor: .//increases your max health
+[12:10:49] James Johnson: .// how train?
+[12:11:07] Lee Maylor: .//take damage
+[12:11:22] James Johnson: .// what if i wrote the united states of america constitution
+[12:11:51] John Smith: // i have 95 UU dollaridoos
+[12:12:04] James Johnson: // it is 1:11 PM
+[12:12:33] James Johnson: .// jokes on you lee i know how to minge
+[12:12:37] James Johnson: /actarrest
+[12:12:43] James Johnson: .// wtf there isnt an /actarrest
+[12:12:50] Lee Maylor: .//because of the playermodel anims
+[12:13:06] James Johnson: /actlean
+[12:13:10] James Johnson: /actarrest
+[12:14:17] John Smith: // *tf2 inventory music intensifies*
+[12:14:39] James Johnson: // <:: ATTENTION CITY 17, MY BALLS ITCH ::> *judgement waiver ambience starts playing*
+[12:14:48] Lee Maylor: CHEESE
+[12:14:51] Lee Maylor: dream about cheese
+[12:14:56] Lee Maylor: help
+[12:14:56] James Johnson: hawaii
+[12:14:56] Lee Maylor: help
+[12:14:57] Lee Maylor: help
+[12:14:58] Lee Maylor: help
+[12:14:59] Lee Maylor: help
+[12:15:06] Lee Maylor: little corner
+[12:15:12] Lee Maylor: here to help
+[12:15:13] James Johnson: ok
+[12:15:15] Lee Maylor: even odds
+[12:15:15] John Smith: Sometimes, I dream about cheese.
+[12:15:23] Lee Maylor: patch yourself up
+[12:15:26] James Johnson: we trusted you
+[12:15:28] Lee Maylor: watch what you're doing
+[12:15:29] John Smith: here, take this medkit
+[12:15:36] James Johnson: .// wtf is "we trusted you" for?
+[12:15:52] John Smith: .// cut line
+[12:15:54] Lee Maylor: .//i could be wrong but i'm pretty sure it's a cut line from HL2 back when you were able to kill citizens
+[12:16:07] Lee Maylor: cps
+[12:16:11] Lee Maylor: cover me
+[12:16:12] John Smith: .// you were originally meant to be able to kill them, but playtesters complained about it
+[12:16:16] James Johnson: .// "Soap trusted you! I thought i could too! So why in the BLOODY HELL DOES MAKAROV KNOW YOU!"
+[12:16:22] Lee Maylor: here ammo
+[12:16:24] Lee Maylor: here come the hacks
+[12:16:30] Lee Maylor: here have a medkit
+[12:16:34] Lee Maylor: hold down this spot
+[12:16:34] John Smith: Hacks!
+[12:16:37] Lee Maylor: doing something
+[12:16:44] James Johnson: hacks
+[12:16:46] Lee Maylor: zombies
+[12:16:49] Lee Maylor: finally
+[12:16:50] James Johnson: hacks
+[12:16:52] James Johnson: hacks
+[12:16:52] Lee Maylor: fantastic
+[12:16:55] Lee Maylor: excuse me
+[12:17:00] James Johnson: the hacks
+[12:17:00] Lee Maylor: cover me
+[12:17:04] Lee Maylor: the hacks
+[12:17:05] Lee Maylor: hacks
+[12:17:08] Lee Maylor: behind you
+[12:17:08] Lee Maylor: busy
+[12:17:11] James Johnson: .// i am haxoring!!!!!!!
+[12:17:25] Lee Maylor<STEAM_0:1:53097688> changed their name to Dispatch/Overwatch
+[12:17:28] Dispatch/Overwatch: !goto james
+[12:17:30] Dispatch/Overwatch teleported to James Johnson
+[12:17:30] Dispatch/Overwatch: !goto james
+[12:17:33] Dispatch/Overwatch: sixty
+[12:17:35] Dispatch/Overwatch: 60
+[12:17:36] Dispatch/Overwatch: 9
+[12:17:39] Dispatch/Overwatch: 60
+[12:17:39] Dispatch/Overwatch: 9
+[12:17:40] Dispatch/Overwatch: 60
+[12:17:41] Dispatch/Overwatch: 9
+[12:17:42] Dispatch/Overwatch: 4
+[12:17:43] Dispatch/Overwatch: 20
+[12:17:50] James Johnson:  hey baby girl wanna be my discord kitten
+[12:17:56] John Smith: administer
+[12:17:57] Dispatch/Overwatch: amputate
+[12:17:59] John Smith: fist
+[12:18:00] Dispatch/Overwatch: administer
+[12:18:01] Dispatch/Overwatch: fist
+[12:18:01] John Smith: two
+[12:18:02] Dispatch/Overwatch: 2
+[12:18:02] Dispatch/Overwatch: shit
+[12:18:03] Dispatch/Overwatch: canal
+[12:18:03] John Smith: shit
+[12:18:04] Dispatch/Overwatch: yhaha
+[12:18:05] Dispatch/Overwatch: haha
+[12:18:05] John Smith: canal
+[12:18:10] Dispatch/Overwatch: administer
+[12:18:11] Dispatch/Overwatch: fist
+[12:18:11] Dispatch/Overwatch: 2
+[12:18:12] Dispatch/Overwatch: shit
+[12:18:13] Dispatch/Overwatch: canal
+[12:18:14] Dispatch/Overwatch: haha
+[12:18:21] Dispatch/Overwatch: back me up
+[12:18:26] Dispatch/Overwatch: 10-0 hunting
+[12:18:30] Dispatch/Overwatch: 10-14
+[12:18:34] Dispatch/Overwatch: 10-103 tag
+[12:18:37] James Johnson: .// me vs dispatch
+[12:18:41] Dispatch/Overwatch: 10-97 goa
+[12:18:46] Dispatch/Overwatch: 0
+[12:18:47] Dispatch/Overwatch: 1
+[12:18:47] Dispatch/Overwatch: 0
+[12:18:48] Dispatch/Overwatch: 0
+[12:18:49] Dispatch/Overwatch: 0
+[12:18:50] Dispatch/Overwatch: 1
+[12:18:50] Dispatch/Overwatch: 1
+[12:18:51] Dispatch/Overwatch: 0
+[12:18:52] Dispatch/Overwatch: 1
+[12:18:52] Dispatch/Overwatch: 0
+[12:18:53] Dispatch/Overwatch: 0
+[12:18:53] John Smith: // *death battle theme starts*
+[12:18:56] Dispatch/Overwatch: 1
+[12:18:57] Dispatch/Overwatch: 1
+[12:19:05] James Johnson: .// lord of the siths starts playing
+[12:19:30] Dispatch/Overwatch: 0
+[12:19:31] Dispatch/Overwatch: 0
+[12:19:32] Dispatch/Overwatch: 1
+[12:19:33] Dispatch/Overwatch: 1
+[12:19:34] Dispatch/Overwatch: 0
+[12:19:34] Dispatch/Overwatch: 0
+[12:19:35] Dispatch/Overwatch: 0
+[12:19:36] Dispatch/Overwatch: 1
+[12:19:37] Dispatch/Overwatch: 0
+[12:19:37] Dispatch/Overwatch: 0
+[12:19:38] Dispatch/Overwatch: 1
+[12:19:39] Dispatch/Overwatch: 0
+[12:19:40] Dispatch/Overwatch: 0
+[12:19:41] Dispatch/Overwatch: 1
+[12:19:41] Dispatch/Overwatch: 1
+[12:19:41] Dispatch/Overwatch: /me would proceed to tie the individual. Would they resist?
+[12:19:42] Dispatch/Overwatch: 1
+[12:19:43] Dispatch/Overwatch: 1
+[12:19:44] Dispatch/Overwatch: 0
+[12:19:45] Dispatch/Overwatch: 1
+[12:19:46] Dispatch/Overwatch: 0
+[12:19:47] Dispatch/Overwatch: 0
+[12:19:48] Dispatch/Overwatch: 0
+[12:19:49] Dispatch/Overwatch: 0
+[12:19:50] Dispatch/Overwatch: 1
+[12:19:51] Dispatch/Overwatch: 1
+[12:19:52] Dispatch/Overwatch: 0
+[12:19:52] Dispatch/Overwatch: 1
+[12:19:53] Dispatch/Overwatch: 1
+[12:19:55] Dispatch/Overwatch: 0
+[12:19:55] Dispatch/Overwatch: 1
+[12:19:56] Dispatch/Overwatch: 1
+[12:19:57] Dispatch/Overwatch: 1
+[12:19:58] Dispatch/Overwatch: 0
+[12:19:59] Dispatch/Overwatch: 0
+[12:20:00] Dispatch/Overwatch: 1
+[12:20:01] Dispatch/Overwatch: 1
+[12:20:12] Dispatch/Overwatch<STEAM_0:1:53097688> spawned sent pfx8_03_alt
+[12:20:21] John Smith: Thats why yo mama DEAD
+[12:20:24] Dispatch/Overwatch: /me , having said the universal time travel code, time travels back in time to find out who asked.
+[12:20:50] James Johnson: // dispatch is on a honourable mission
+[12:20:57] Dispatch/Overwatch: //10 minutes
+[12:21:00] Client "BlueHavoc911" spawned in server <STEAM_0:1:81937896> (took 708 seconds).
+[12:21:08] Dispatch/Overwatch: //oh thank fuck- oh fuck a new person
+[12:21:17] Dispatch/Overwatch<STEAM_0:1:53097688> changed their name to CCA.C08-GRID.i3.08313
+[12:21:19] CCA.C08-GRID.i3.08313 teleported to James Johnson
+[12:21:19] John Smith: // OH SHIT PANIC
+[12:21:28] CCA.C08-GRID.i3.08313: //bad time for a new player
+[12:21:32] CCA.C08-GRID.i3.08313<STEAM_0:1:53097688> spawned sent pfx4_04~
+[12:21:33] CCA.C08-GRID.i3.08313<STEAM_0:1:53097688> spawned sent pfx4_04
+[12:21:41] CCA.C08-GRID.i3.08313<STEAM_0:1:53097688> spawned sent pfx5_01
+[12:21:43] CCA.C08-GRID.i3.08313<STEAM_0:1:53097688> spawned sent pfx5_00_alt
+[12:21:43] BlueHavoc911<STEAM_0:1:81937896> changed their name to Vira "Proko" Prokopanko
+[12:21:48] John Smith: // *HL1 Lambda Alarm intensifies*
+[12:21:52] CCA.C08-GRID.i3.08313: //Welcome!
+[12:22:02] CCA.C08-GRID.i3.08313: //You came at a bit of an awkward time, we're mid event, but still, welcome.
+[12:22:02] John Smith: // to Shitty 17-
+[12:22:05] Vira "Proko" Prokopanko: // Hi lol I guess I have played on this server lol
+[12:22:08] CCA.C08-GRID.i3.08313: //techincally about to start an-
+[12:22:09] CCA.C08-GRID.i3.08313: //ah epic
+[12:22:19] Vira "Proko" Prokopanko: // i already had a char made lol
+[12:22:19] CCA.C08-GRID.i3.08313: //technically*
+[12:22:22] CCA.C08-GRID.i3.08313: //gamer
+[12:22:31] CCA.C08-GRID.i3.08313: //well welcome back, great to have you
+[12:22:39] CCA.C08-GRID.i3.08313: //we've got 8 minutes until the event starts, i can go ahead and get you caught up
+[12:22:43] Vira "Proko" Prokopanko: // Ye lol excited to get bak into hl2
+[12:22:44] CCA.C08-GRID.i3.08313 brought Vira "Proko" Prokopanko
+[12:23:12] Vira "Proko" Prokopanko: .// hello good people shall we do the rp today?
+[12:23:16] John Smith: // well im stuck in an underground facility, and we're all split up
+[12:23:21] James Johnson: .// we are waitng for the event
+[12:23:25] John Smith: // pretty much the extent of what happened
+[12:23:25] James Johnson: .// so cant really rp as of now
+[12:23:33] James Johnson: .// this event should be a banger tho
+[12:23:44] John Smith: .// yesterdays partof it was
+[12:23:52] CCA.C08-GRID.i3.08313: //event starts at 1:30 PM est so we've got time to 
+[12:23:53] CCA.C08-GRID.i3.08313: //tell
+[12:24:00] John Smith: .// if todays half isnt i will murder q
+[12:24:13] Vira "Proko" Prokopanko: .// oh fun
+[12:24:22] CCA.C08-GRID.i3.08313: //short story long, event started with a cutscene of a city official talking to City 8's commander, having discovered a previously theorized type of alien that can look forward or backwards in time
+[12:24:39] CCA.C08-GRID.i3.08313: //they weren't sure if such a creature was possible, but they think it's very much possible
+[12:24:40] John Smith: // also we have respirators now so we no-longer the the cringe ass hazmat suits
+[12:24:51] CCA.C08-GRID.i3.08313: /chargiveitem vira respirator
+[12:25:05] John Smith: // AH A FEMALE
+[12:25:07] CCA.C08-GRID.i3.08313: //so commander says "epic sounds like a plan let's go wrangle us an alien"
+[12:25:09] CCA.C08-GRID.i3.08313: //i'm paraphrasing
+[12:25:28] Vira "Proko" Prokopanko: // cool cool
+[12:25:40] CCA.C08-GRID.i3.08313: //so when they try to get a way into wherever this alien would be, shit goes awry and new xenians start cropping up in the city
+[12:25:46] CCA.C08-GRID.i3.08313: //first in small amounts, then it's getting pretty hairy
+[12:26:00] James Johnson: // for example: the cosmic cat
+[12:26:10] James Johnson: // and it's cherry flavour
+[12:26:19] CCA.C08-GRID.i3.08313: //so a small group of citizens and an OTA unit that happened to be fighting flee to a nearby precinct just a gate over
+[12:26:23] Vira "Proko" Prokopanko: // They have flavours?
+[12:26:31] John Smith: // panthereye's more chad name
+[12:26:36] James Johnson: // grid can you show her- fuck you john
+[12:26:41] CCA.C08-GRID.i3.08313: //the order was given to protect citizens and and CCA units at all costs, they don't want to be losing slave labor so they say yfuck it let's keep them safe
+[12:26:57] John Smith: // the Panthereye is refered to as the cosmic cat IC
+[12:27:02] James Johnson: // yes
+[12:27:14] John Smith: // it is the *ahem* C H A D name
+[12:27:15] CCA.C08-GRID.i3.08313: //this new precinct seems abandoned and weird, it's got xenians too, and then they come across a king unit who effectively says "hey what the hell are you doing here, did you miss a memo? this place is infested, gtfo"
+[12:27:34] CCA.C08-GRID.i3.08313: //"you're lucky you have that OTA with you or we'd figure you're anti-citizens, get back to your precinct"
+[12:27:52] CCA.C08-GRID.i3.08313: //so they're like "ight" and backtrack to where they came, but uh-oh there's rubble in the way
+[12:27:53] James Johnson: // james was walking far behind them  so he didnt really do much
+[12:28:16] John Smith: // Q WE GOT 3 MINS
+[12:28:16] CCA.C08-GRID.i3.08313: //so they go try to find another way out. more xenians are coming out, it's a hell of a time
+[12:28:33] CCA.C08-GRID.i3.08313: //they see dropships are coming in to evacuate the king unit and co., so they hitch a ride
+[12:28:41] Vira "Proko" Prokopanko: // I like it seems very flushed out Im excited so play
+[12:29:04] John Smith: // we then get taken out by something and we crash and we are all split up and im stuck in th emiddle of an underground base
+[12:29:05] CCA.C08-GRID.i3.08313: //dropships escape, they're on there for a good couple hours, dropship gets struck by lightning, and crashes, and that's how we all ended up here
+[12:29:30] CCA.C08-GRID.i3.08313: //i can't give away too much for the sake of plot interest but i do have an explanation for this shitfuck of a map
+[12:29:34] CCA.C08-GRID.i3.08313: //and i say that endearingly
+[12:29:39] CCA.C08-GRID.i3.08313: //and thank you!@
+[12:29:47] John Smith: // it is very spooky as well
+[12:29:58] John Smith: // i got spooped several times last night
+[12:30:07] CCA.C08-GRID.i3.08313: //so for you vira and you james, we'll say you're a separate group from john, you happened to go a different way after crashing
+[12:30:25] CCA.C08-GRID.i3.08313: //and it's 1:30
+[12:30:33] John Smith: // lettuce begin
+[12:30:36] CCA.C08-GRID.i3.08313: //alright have fun gents. let me bring john back first and i'll get you two set up
+[12:31:15] CCA.C08-GRID.i3.08313 brought James Johnson,John Smith
+[12:31:15] CCA.C08-GRID.i3.08313: !bring john
+[12:31:20] CCA.C08-GRID.i3.08313: .//two johns, fuck
+[12:31:23] CCA.C08-GRID.i3.08313 returned James Johnson to their original position
+[12:31:23] CCA.C08-GRID.i3.08313: !return johnson
+[12:31:26] CCA.C08-GRID.i3.08313 teleported to James Johnson
+[12:31:26] CCA.C08-GRID.i3.08313: !goto johnson
+[12:31:36] John Smith: .// lantern?
+[12:32:09] CCA.C08-GRID.i3.08313 brought James Johnson,Vira "Proko" Prokopanko
+[12:32:09] CCA.C08-GRID.i3.08313: !bring johnson,vira
+[12:32:09] John Smith: /pm GRID.i3 ayyo i kinda need the lantern
+[12:32:16] CCA.C08-GRID.i3.08313 teleported to John Smith
+[12:32:21] CCA.C08-GRID.i3.08313<STEAM_0:1:53097688> used the tool duplicator on maps/rp_generators.bsp
+[12:32:21] CCA.C08-GRID.i3.08313<STEAM_0:1:53097688> spawned model models/sf_models/sf_oil_lamp.mdl
+[12:32:24] CCA.C08-GRID.i3.08313: .//nah
+[12:32:27] John Smith: .// danke
+[12:32:33] CCA.C08-GRID.i3.08313: .//yeye
+[12:32:50] James Johnson: .// oh shit
+[12:32:55] Vira "Proko" Prokopanko: Well
+[12:32:56] CCA.C08-GRID.i3.08313: //i'll be here GMing, i'll try to get my time split pretty evenly, but if you need my attention immediately, feel free to send a message in admin chat
+[12:32:59] Vira "Proko" Prokopanko: This sucks.
+[12:33:04] CCA.C08-GRID.i3.08313 teleported to James Johnson
+[12:33:21] Vira "Proko" Prokopanko: Move cover to cover yeah? Not one for being sniped or for being in the rain.
+[12:33:24] CCA.C08-GRID.i3.08313<STEAM_0:1:53097688> spawned model models/props_equipment/sleeping_bag1.mdl
+[12:33:30] CCA.C08-GRID.i3.08313<STEAM_0:1:53097688> spawned model models/props/cs_office/trash_can_p.mdl
+[12:33:31] John Smith: /me would wake up and view his surroundings...
+[12:33:34] James Johnson: There is no snipers
+[12:33:47] John Smith: Well then...
+[12:33:50] Vira "Proko" Prokopanko: Oh anything I dont like walking in the open.
+[12:33:54] CCA.C08-GRID.i3.08313<STEAM_0:1:53097688> spawned model models/props_unique/firepit_campground.mdl
+[12:34:05] CCA.C08-GRID.i3.08313<STEAM_0:1:53097688> spawned model models/props_junk/trafficcone001a.mdl
+[12:34:06] CCA.C08-GRID.i3.08313<STEAM_0:1:53097688> spawned model models/props_junk/trafficcone001a.mdl
+[12:34:07] CCA.C08-GRID.i3.08313<STEAM_0:1:53097688> spawned model models/props_junk/trafficcone001a.mdl
+[12:34:09] CCA.C08-GRID.i3.08313<STEAM_0:1:53097688> spawned model models/props_junk/trafficcone001a.mdl
+[12:34:11] CCA.C08-GRID.i3.08313<STEAM_0:1:53097688> spawned model models/props_junk/trafficcone001a.mdl
+[12:34:16] CCA.C08-GRID.i3.08313<STEAM_0:1:53097688> spawned model models/props_junk/trashdumpster02b.mdl
+[12:34:17] CCA.C08-GRID.i3.08313<STEAM_0:1:53097688> spawned model models/props_junk/trafficcone001a.mdl
+[12:34:19] CCA.C08-GRID.i3.08313<STEAM_0:1:53097688> spawned model models/props_junk/trafficcone001a.mdl
+[12:34:20] CCA.C08-GRID.i3.08313<STEAM_0:1:53097688> spawned model models/props_junk/trafficcone001a.mdl
+[12:34:30] CCA.C08-GRID.i3.08313 teleported to John Smith
+[12:34:37] CCA.C08-GRID.i3.08313: .//mmm tasty gas leak
+[12:34:42] John Smith: Keep against the wall John..
+[12:34:46] CCA.C08-GRID.i3.08313 returned Themself to their original position
+[12:34:51] John Smith: piss
+[12:35:09] James Johnson: What the hell..
+[12:35:54] CCA.C08-GRID.i3.08313<STEAM_0:1:53097688> spawned NPC npc_headcrab
+[12:35:55] CCA.C08-GRID.i3.08313<STEAM_0:1:53097688> spawned NPC npc_headcrab
+[12:36:13] John Smith: .// was i meant to hear that
+[12:36:25] CCA.C08-GRID.i3.08313 teleported to Vira "Proko" Prokopanko
+[12:36:39] John Smith: // i just got flashbacks to the Hat run in BM
+[12:36:51] John Smith: // fucking ladders are the bane of that run
+[12:36:54] CCA.C08-GRID.i3.08313 teleported to John Smith
+[12:37:00] CCA.C08-GRID.i3.08313 teleported to Vira "Proko" Prokopanko
+[12:37:05] James Johnson: // bro just wear the hat
+[12:37:22] CCA.C08-GRID.i3.08313<STEAM_0:1:53097688> changed their name to Vortigaunt
+[12:37:26] Vortigaunt teleported to Vira "Proko" Prokopanko
+[12:37:27] James Johnson: Oh its jsut you
+[12:37:33] James Johnson: I found a shotgun
+[12:37:42] John Smith: Well then
+[12:37:46] Vira "Proko" Prokopanko: Yeah, wow okay,,,uhm lead the way then I guess.
+[12:37:57] John Smith: this isnt ominous at all...
+[12:37:57] Vortigaunt teleported to John Smith
+[12:38:11] Vortigaunt returned Themself to their original position
+[12:38:25] Vortigaunt: /it The structure is of strange make. You could call it nearly alien, but that wouldn't be totally accurate.
+[12:38:34] John Smith: /me would realize where he is, and find out he is on the other side of the door that he first failed.
+[12:38:40] John Smith: Well then...
+[12:38:43] Vortigaunt: /it It doesn't feel quite combine, but not quite human. Some strange gray area in the middle.
+[12:38:49] Vira "Proko" Prokopanko: I've never seen anything grow? built? I mean what is it?
+[12:38:59] Vortigaunt teleported to John Smith
+[12:39:05] John Smith: /me would input "104924" into the keypad.
+[12:39:06] James Johnson: /me feels the wall is it rock?
+[12:39:17] John Smith: /pm q i think i found my way out
+[12:39:35] Vortigaunt: /it The door opens.
+[12:39:45] John Smith: /me would step outside...
+[12:40:06] John Smith: Never thought I'd be happier to see such a shitty sky...
+[12:40:26] James Johnson: /y HEY!
+[12:40:31] James Johnson: /y YOU!
+[12:40:33] John Smith: Holy shit!
+[12:40:41] James Johnson: Oh hey john!
+[12:40:45] John Smith: hey
+[12:40:51] James Johnson: I found a shotgun
+[12:40:54] John Smith: nice
+[12:40:56] Vortigaunt: /me takes out their datapad and types a couple things in.
+[12:41:06] Vortigaunt: .//void that
+[12:41:07] Vortigaunt: .//sorry, bind
+[12:41:12] John Smith: .// fat finger moment
+[12:41:23] James Johnson: Have you seen the cop? or the OTA soldier?
+[12:41:45] John Smith: last time I saw the OTA we got separated.
+[12:41:51] James Johnson: Oh
+[12:41:55] John Smith: I have zero idea as to where he is
+[12:42:01] James Johnson: Huh
+[12:42:08] James Johnson: Well wanna come with us?
+[12:42:14] John Smith: yes
+[12:42:20] James Johnson: Alright
+[12:42:24] James Johnson: FOllow me
+[12:42:56] James Johnson: I think these are tesla coils
+[12:43:31] Vortigaunt<STEAM_0:1:53097688> changed their name to Unknown Speaker
+[12:43:32] Vira "Proko" Prokopanko: Thats not a good sign.
+[12:43:36] Unknown Speaker teleported to John Smith
+[12:43:38] James Johnson: Oh thats radiation
+[12:43:40] John Smith: .// ignore the radiation symbol, it just says danger
+[12:43:44] Unknown Speaker: .//what he said
+[12:43:44] James Johnson: .// oh ok
+[12:44:09] Unknown Speaker: Still, they're valuable. I hope the recovery teams can keep them alive.
+[12:44:24] John Smith: I got a media player in my pocket
+[12:44:27] James Johnson: DId anyone hear a boice?
+[12:44:28] James Johnson: Oh
+[12:44:34] James Johnson: .// *voice
+[12:44:38] John Smith: that's what you're hearing
+[12:44:44] Vira "Proko" Prokopanko: Gotcha.
+[12:44:49] Unknown Speaker: It's going to be a hell of a time getting these to work with our science, but it's nothing we can't handle.
+[12:45:29] John Smith: well...
+[12:45:31] James Johnson: Yeah its just road nothing good
+[12:45:36] John Smith: we can either walk back to the city
+[12:45:44] John Smith: or find some sort of vehicle
+[12:45:46] James Johnson: That'd take too long
+[12:45:52] James Johnson: We could find a vehicle
+[12:46:07] John Smith: What the fuck?
+[12:46:07] James Johnson: What the hell was that
+[12:46:17] Unknown Speaker<STEAM_0:1:53097688> spawned NPC monster_panthereye
+[12:46:27] Unknown Speaker set the hp for Everyone to 250
+[12:46:35] James Johnson: EAT THAT FATASS!
+[12:46:37] Vira "Proko" Prokopanko: Holy shit.
+[12:46:38] James Johnson: Oh shit!
+[12:46:40] John Smith: /me would remember the the base underneath this place is haunted, and then get scared by the panthereye coming out of no-where.
+[12:46:43] James Johnson: THe sound might've attracted more!
+[12:46:57] James Johnson: Alright you two, On me
+[12:47:31] James Johnson: You two stay in here
+[12:47:35] Unknown Speaker: /charsetmodel speaker models/half-life/panthereye.mdl
+[12:47:55] Unknown Speaker: /plytransfer speaker alien
+[12:47:56] John Smith: /me would set the lantern on the table.
+[12:47:59] Vira "Proko" Prokopanko: /me she would hunker down trying to stay under cover and limit her profile/
+[12:48:13] James Johnson: /it You would hear walking on the roof Probably James
+[12:48:21] John Smith: really wishing my flashlight didn't break...
+[12:48:23] Client "Apollo7771FO3" connected.
+[12:48:36] Vira "Proko" Prokopanko: Yeah that would've been nice.
+[12:48:53] James Johnson: Alright i dont see any more Cats
+[12:48:58] Unknown Speaker<STEAM_0:1:53097688> used the tool rb655_easy_bodygroup on maps/rp_generators.bsp
+[12:48:59] James Johnson: So we got two options
+[12:49:00] Unknown Speaker<STEAM_0:1:53097688> used the tool rb655_easy_bodygroup on maps/rp_generators.bsp
+[12:49:01] James Johnson: Stay here for a bity
+[12:49:05] James Johnson: Or keep moving
+[12:49:08] Unknown Speaker teleported to John Smith
+[12:49:10] John Smith: keep moving
+[12:49:18] Vira "Proko" Prokopanko: Keep moving sounds the best.
+[12:49:19] John Smith: we need to find a vehicle to get out of here.
+[12:49:24] James Johnson: 2 to 1
+[12:49:26] James Johnson: Alright lets go
+[12:49:55] Vira "Proko" Prokopanko: You call them panthereyes?
+[12:50:03] James Johnson: I call them Cosmic Cats
+[12:50:09] Unknown Speaker: //this is a turn of direction i wasn't expecting but one i won't discourage either
+[12:50:09] John Smith: so do I
+[12:50:24] Vira "Proko" Prokopanko: Gotcha.
+[12:50:31] James Johnson: So did any of you ever get your driving Licensce?
+[12:50:36] John Smith: yep
+[12:50:37] Vira "Proko" Prokopanko: No.
+[12:50:43] James Johnson: Ok john you will be driving
+[12:51:05] Unknown Speaker teleported to John Smith
+[12:51:40] Unknown Speaker<STEAM_0:1:53097688> spawned vehicle models/props_vehicles/apc001.mdl
+[12:51:52] James Johnson: Hey You
+[12:51:55] Vira "Proko" Prokopanko: Yes?
+[12:51:56] Client "Apollo7771FO3" connected.
+[12:52:00] Unknown Speaker<STEAM_0:1:53097688> spawned vehicle models/blu/avia/avia.mdl
+[12:52:01] James Johnson: Do you know what that trailer says?
+[12:52:08] Unknown Speaker<STEAM_0:1:53097688> spawned vehicle models/blu/skoda_liaz/skoda_liaz.mdl
+[12:52:15] Unknown Speaker<STEAM_0:1:53097688> spawned vehicle models/blu/gaz52/gaz52.mdl
+[12:52:21] Unknown Speaker<STEAM_0:1:53097688> spawned vehicle models/blu/avia/avia.mdl
+[12:52:22] Vira "Proko" Prokopanko: Well its Russian so its a little bit harder.
+[12:52:23] Unknown Speaker<STEAM_0:1:53097688> spawned vehicle models/blu/gaz52/gaz52.mdl
+[12:52:24] Unknown Speaker<STEAM_0:1:53097688> spawned vehicle models/blu/avia/avia.mdl
+[12:52:30] Vira "Proko" Prokopanko: .// Dont actually speak russian so no lol
+[12:52:34] Unknown Speaker<STEAM_0:1:53097688> spawned vehicle models/vehicles/buggy_elite.mdl
+[12:52:35] James Johnson: .// damn
+[12:52:38] Unknown Speaker<STEAM_0:1:53097688> spawned vehicle models/vehicles/7seatvan.mdl
+[12:52:42] Unknown Speaker<STEAM_0:1:53097688> spawned vehicle models/props_vehicles/apc001.mdl
+[12:52:42] James Johnson: Alright thats fine
+[12:52:45] Unknown Speaker<STEAM_0:1:53097688> spawned vehicle models/vehicle.mdl
+[12:52:50] Unknown Speaker<STEAM_0:1:53097688> spawned vehicle models/blu/trabant/trabant02.mdl
+[12:52:54] Unknown Speaker<STEAM_0:1:53097688> spawned vehicle models/vehicle.mdl
+[12:52:56] Unknown Speaker<STEAM_0:1:53097688> spawned vehicle models/buggy.mdl
+[12:53:01] Unknown Speaker<STEAM_0:1:53097688> spawned vehicle models/vehicles/7seatvan.mdl
+[12:53:02] Unknown Speaker<STEAM_0:1:53097688> spawned vehicle models/vehicles/buggy_elite.mdl
+[12:53:16] Vira "Proko" Prokopanko: I think it just some industrial warning.
+[12:53:18] Unknown Speaker<STEAM_0:1:53097688> spawned vehicle models/props_vehicles/apc001.mdl
+[12:53:22] James Johnson: Alright then
+[12:53:23] Vira "Proko" Prokopanko: Nothing that will help us.
+[12:53:23] Unknown Speaker<STEAM_0:1:53097688> spawned vehicle models/blu/avia/avia.mdl
+[12:53:33] Unknown Speaker teleported to John Smith
+[12:53:38] Unknown Speaker returned Themself to their original position
+[12:54:11] Unknown Speaker<STEAM_0:1:53097688> spawned effect models/items/item_item_crate_dynamic.mdl
+[12:54:14] Unknown Speaker<STEAM_0:1:53097688> spawned model models/items/item_item_crate.mdl
+[12:54:16] Unknown Speaker<STEAM_0:1:53097688> spawned model models/items/item_item_crate.mdl
+[12:54:23] Unknown Speaker<STEAM_0:1:53097688> used the tool weld on models/items/item_item_crate.mdl
+[12:54:23] James Johnson: // hey admuin can you come here a sec?
+[12:54:23] Unknown Speaker<STEAM_0:1:53097688> used the tool weld on models/blu/avia/avia.mdl
+[12:54:23] Vira "Proko" Prokopanko: Hey!
+[12:54:27] Unknown Speaker teleported to John Smith
+[12:54:28] Unknown Speaker: .//no
+[12:54:32] Unknown Speaker teleported to James Johnson
+[12:54:36] Unknown Speaker: .//no
+[12:54:38] Unknown Speaker: .//what's up
+[12:54:43] Unknown Speaker: .//ah i see
+[12:54:50] James Johnson: /me Inspects the body and is the armor in tact?
+[12:54:55] Vira "Proko" Prokopanko: We are in Ukraine.
+[12:54:56] Unknown Speaker: .//roll
+[12:54:59] James Johnson: /roll
+[12:55:02] James Johnson: .// :(
+[12:55:04] Vira "Proko" Prokopanko: /me she points to the flag on the car.
+[12:55:09] Unknown Speaker: /it No, but you manage to get a little bit of cloth scrap.
+[12:55:14] Unknown Speaker: /chargiveitem speaker "cloth scrap"
+[12:55:15] James Johnson: Thats good to know
+[12:55:21] James Johnson: Yeah this armor is totaled
+[12:55:26] James Johnson: .// one more thing
+[12:55:30] Unknown Speaker: .//yuh
+[12:55:42] James Johnson: /me attempts to break this well thing using the shotgun butt and their elbow
+[12:55:44] James Johnson: /roll
+[12:55:47] James Johnson: .// oh come on
+[12:55:49] Unknown Speaker: .//actually do /rollstat str
+[12:55:51] Client "Apollo7771FO3" spawned in server <STEAM_0:1:40787669> (took 235 seconds).
+[12:55:54] James Johnson: /rollstat str
+[12:55:55] Unknown Speaker: .//and w'ell do +25 for the shotgun stock
+[12:55:58] Unknown Speaker: //50+ is a succ-
+[12:55:59] Unknown Speaker: //damn
+[12:56:03] Unknown Speaker: //big unlucky
+[12:56:13] James Johnson: .// damn 35.002
+[12:56:39] Unknown Speaker: /it You fail. Your grandfather is ashamed.
+[12:56:46] James Johnson: Damn it!
+[12:56:46] Unknown Speaker: /it You notice there's a handle on it though.
+[12:56:52] Apollo7771FO3<STEAM_0:1:40787669> changed their name to Todd Muller
+[12:56:56] James Johnson: /me pulls/twists the handle
+[12:57:00] Todd Muller<STEAM_0:1:40787669> changed their name to CCA.C08-HELIX.i2.64998
+[12:57:05] CCA.C08-HELIX.i2.64998: /ooc what did I miss
+[12:57:07] Unknown Speaker: /it The wooden cover comes right off. Inside is some water.
+[12:57:14] Unknown Speaker: //haha heehoo heeha hooo
+[12:57:35] James Johnson: Just some water
+[12:57:36] Vira "Proko" Prokopanko: // sudden changes in events require to me leave thank you for your time
+[12:57:42] CCA.C08-HELIX.i2.64998 to admins: ayo, what did I miss
+[12:57:44] Unknown Speaker: //take care, thank you for bieng oin
+[12:57:48] Vira "Proko" Prokopanko: // I apologize
+[12:57:48] James Johnson: .// seeya
+[12:57:50] Unknown Speaker: /pm i2 i'll explain in ooc, gimme a sec
+[12:57:52] Dropped "Vira "Proko" Prokopanko" from server<STEAM_0:1:81937896>
+[12:57:55] Unknown Speaker: //alright so
+[12:57:56] CCA.C08-HELIX.i2.64998: /reply alright
+[12:58:06] Unknown Speaker: //event started last night with a cutscene of an administrator talking to the commander
+[12:58:09] Unknown Speaker: //actually hodl on
+[12:58:20] James Johnson: Feel like grave robbing?
+[12:58:31] John Smith: hell no
+[12:58:39] James Johnson: Yeah you're right
+[12:58:43] James Johnson: We have space cats on us
+[12:58:48] James Johnson: We wouldn't want ghosts
+[12:58:54] CCA.C08-HELIX.i2.64998: /w king
+[12:58:56] John Smith: well.
+[12:58:59] John Smith: about that...
+[12:59:11] John Smith: there is an entire facility below us right now
+[12:59:18] John Smith: and it's haunted by something
+[12:59:23] James Johnson: How could we get to it?
+[12:59:40] John Smith: I've already been down there, nothing worth grabbing
+[12:59:40] CCA.C08-HELIX.i2.64998: Hm.
+[12:59:50] James Johnson: Alright then
+[12:59:53] John Smith: but there was this one room...
+[13:00:07] John Smith: it was huge, and circular
+[13:00:20] John Smith: i feel like it's important in some way
+[13:00:37] John Smith: should we go down there and look?
+[13:00:39] James Johnson: I think we should go back to that facility
+[13:00:43] John Smith: yeah...
+[13:00:47] John Smith: lets go
+[13:01:02] Unknown Speaker: //check your DMs
+[13:01:08] Unknown Speaker teleported to John Smith
+[13:01:17] Unknown Speaker teleported to CCA.C08-HELIX.i2.64998
+[13:01:27] John Smith: // theres nothing the-
+[13:01:31] John Smith: // oh wait
+[13:01:34] Unknown Speaker: //i meant for helicks
+[13:01:39] CCA.C08-HELIX.i2.64998: /ooc I sees
+[13:01:41] John Smith: // figured as much
+[13:01:59] CCA.C08-HELIX.i2.64998: /ooc brb
+[13:02:01] Unknown Speaker teleported to CCA.C08-HELIX.i2.64998
+[13:02:03] Unknown Speaker teleported to John Smith
+[13:02:04] Dropped "CCA.C08-HELIX.i2.64998" from server<STEAM_0:1:40787669>
+[13:02:35] Unknown Speaker teleported to John Smith
+[13:03:06] John Smith: /me would push the button on the elevator
+[13:03:09] Unknown Speaker: /it Seems like the elevator is out of service.
+[13:03:12] John Smith: piss
+[13:03:15] Unknown Speaker: /toggleraise
+[13:03:16] Unknown Speaker: /toggleraise
+[13:03:18] James Johnson: Oh there is a ladder
+[13:03:54] Unknown Speaker teleported to John Smith
+[13:03:57] James Johnson: /me can i open the power box?
+[13:04:08] Unknown Speaker teleported to James Johnson
+[13:04:11] Unknown Speaker: /it Sure.
+[13:04:22] James Johnson: /me opens the power box are the switches off?
+[13:04:26] Unknown Speaker: /it They are.
+[13:04:31] Unknown Speaker: /it Well, one of them is.
+[13:04:39] John Smith: /y HEY, GET DOWN HERE, I'M NOT TRACKING THROUGH THIS PLACE BY MYSELF AGAIN.
+[13:04:39] James Johnson: /me i flick that one on using a stick i found
+[13:04:54] Unknown Speaker: /it Success. You hear something kick to life above you.
+[13:05:27] John Smith: // WHAT ARE YOU DOING?!
+[13:05:41] Unknown Speaker: //sdssshhh
+[13:05:43] Unknown Speaker: //it'll be funny
+[13:05:45] James Johnson: /me pushes the button on elevator?
+[13:05:55] John Smith: // WELL IM NOT FINDING IT FUNNY
+[13:05:59] Unknown Speaker: /it The elevator goes downwards.
+[13:06:09] Unknown Speaker: /it The elevator arrives on the bottom.
+[13:06:14] Unknown Speaker brought James Johnson
+[13:06:20] John Smith: // i fucking hate you both
+[13:06:24] James Johnson: I got hte elevator working
+[13:06:39] James Johnson: Sick
+[13:06:54] James Johnson: .// hey admin
+[13:06:56] Unknown Speaker brought James Johnson
+[13:07:00] Unknown Speaker: //ignore that
+[13:07:03] Unknown Speaker returned James Johnson to their original position
+[13:07:09] James Johnson: .// ignore the hatch closed?
+[13:07:12] Unknown Speaker: //no not that
+[13:07:15] Unknown Speaker: //ignore being brought
+[13:07:19] James Johnson: .// oh ok
+[13:07:25] James Johnson: /me plugs in this plug
+[13:07:34] Unknown Speaker: /it The plug is plugged in. The machine begins to whirr.
+[13:07:47] James Johnson: /me brings this hatch open
+[13:08:06] Unknown Speaker: /it The hatch is opened.
+[13:08:11] Unknown Speaker: /it There are two unplugged plugs.
+[13:08:12] James Johnson: /me plugs all 3 plugs in
+[13:08:21] James Johnson: .// or two i guess
+[13:08:28] Unknown Speaker: /it The plugs are plugged in.
+[13:08:42] James Johnson: /me the generator is online?
+[13:09:16] Unknown Speaker: //did those sfx play
+[13:09:23] John Smith: .// no
+[13:09:25] Unknown Speaker: //fuyck
+[13:09:28] John Smith: // i heard nothing
+[13:09:34] John Smith: // except the gas
+[13:09:39] John Smith: // brb gotta P I S S
+[13:09:53] Unknown Speaker: //that time?
+[13:10:22] James Johnson: .// sorry was AFK
+[13:10:39] James Johnson: Yes!
+[13:10:53] James Johnson: /me plugs this one in
+[13:10:58] James Johnson: /me this one too
+[13:11:02] Unknown Speaker: /it The plugs are plugged in, all the way.
+[13:11:26] James Johnson: Oh thats a problem
+[13:12:00] Unknown Speaker teleported to James Johnson
+[13:12:15] Unknown Speaker: /event Three Klaxon tones ring out. A voice is played across the facility.
+[13:12:20] Unknown Speaker<STEAM_0:1:53097688> changed their name to OTA.C08-KING:EOA.10512
+[13:12:53] John Smith: // i am back
+[13:12:55] James Johnson: I got all three generators working
+[13:12:57] OTA.C08-KING:EOA.10512: /dispatch System power restored. Beginning power up sequence. Approximate time left, 5 minutes.
+[13:13:00] James Johnson: But there is a gas leak
+[13:13:02] OTA.C08-KING:EOA.10512 teleported to John Smith
+[13:13:08] John Smith: Well then
+[13:13:21] John Smith: follow me
+[13:13:48] James Johnson: // hey admin could i use your help agian?
+[13:13:51] OTA.C08-KING:EOA.10512: //yep
+[13:13:58] OTA.C08-KING:EOA.10512: .//ignore my playermodel
+[13:14:01] James Johnson: Hey help me open all these boxes
+[13:14:12] OTA.C08-KING:EOA.10512: .//do one roll for each six crates
+[13:14:16] James Johnson: /me they open all the boxes anything?
+[13:14:17] OTA.C08-KING:EOA.10512: .//so four rolls total
+[13:14:21] James Johnson: /roll
+[13:14:22] John Smith: /me would begin oping the boxes
+[13:14:23] James Johnson: /roll
+[13:14:24] James Johnson: /roll
+[13:14:25] James Johnson: /roll
+[13:14:28] John Smith: /roll 100
+[13:14:31] OTA.C08-KING:EOA.10512: .//alright let me spawn the loot
+[13:14:31] OTA.C08-KING:EOA.10512: /adminspawnmenu
+[13:15:36] John Smith: HA
+[13:15:40] John Smith: NEW FLASHLIGHT
+[13:15:46] OTA.C08-KING:EOA.10512: //that's all she wrote
+[13:15:56] James Johnson: THIS IS THE BEST!
+[13:16:11] OTA.C08-KING:EOA.10512: /dispatch Two minutes remaining.
+[13:16:49] James Johnson: Take that thermo bag
+[13:17:00] OTA.C08-KING:EOA.10512: /dispatch Alert: One minute. Repeat: One minute.
+[13:17:45] James Johnson: Grab all you want
+[13:18:37] OTA.C08-KING:EOA.10512: /dispatch Warmup complete. Manual system startup required.
+[13:18:59] John Smith: do I take the lantern with me...
+[13:19:07] John Smith: nah probably not.
+[13:19:37] John Smith: /pm KING so i hope you know i'll want that lantern dupe right?
+[13:19:45] OTA.C08-KING:EOA.10512: /pm john got it
+[13:20:00] James Johnson: // back
+[13:20:13] James Johnson: Alright john lets move it
+[13:20:23] John Smith: follow me, I know where to go
+[13:20:25] OTA.C08-KING:EOA.10512: /dispatch Awaiting manual startup.
+[13:20:52] OTA.C08-KING:EOA.10512 teleported to James Johnson
+[13:20:57] James Johnson: /me is this vortigaunt dead/
+[13:21:01] John Smith: this wasn't here before... I don't think anyway...
+[13:21:19] John Smith: // this is still unsettling even with a flashlight lol
+[13:21:20] OTA.C08-KING:EOA.10512<STEAM_0:1:53097688> spawned ragdoll models/orion_hl2_beta/fassassin.mdl
+[13:21:32] OTA.C08-KING:EOA.10512<STEAM_0:1:53097688> spawned effect models/weapons/v_oicw.mdl
+[13:21:35] OTA.C08-KING:EOA.10512<STEAM_0:1:53097688> spawned ragdoll models/orion_hl2_beta/fassassin.mdl
+[13:21:37] John Smith: .// also yes that vort is probably dead
+[13:21:41] James Johnson: // is this vortigaunt dead?
+[13:21:45] OTA.C08-KING:EOA.10512: //yes
+[13:21:50] James Johnson: // damn
+[13:21:52] OTA.C08-KING:EOA.10512<STEAM_0:1:53097688> spawned ragdoll models/orion_hl2_beta/ichthyosaur.mdl
+[13:21:52] John Smith: follow me
+[13:21:57] OTA.C08-KING:EOA.10512<STEAM_0:1:53097688> spawned ragdoll models/orion/combine_guard.mdl
+[13:21:59] OTA.C08-KING:EOA.10512<STEAM_0:1:53097688> spawned ragdoll models/orion/combine_guard.mdl
+[13:22:03] OTA.C08-KING:EOA.10512<STEAM_0:1:53097688> spawned model models/gibs/bmpod/sack.mdl
+[13:22:05] OTA.C08-KING:EOA.10512<STEAM_0:1:53097688> spawned ragdoll models/staleak.mdl
+[13:22:14] OTA.C08-KING:EOA.10512<STEAM_0:1:53097688> spawned ragdoll models/staleak.mdl
+[13:22:16] OTA.C08-KING:EOA.10512<STEAM_0:1:53097688> spawned ragdoll models/stalker_old.mdl
+[13:22:39] OTA.C08-KING:EOA.10512<STEAM_0:1:53097688> spawned ragdoll models/staleak.mdl
+[13:23:06] OTA.C08-KING:EOA.10512<STEAM_0:1:53097688> changed their name to Unknown Speaker
+[13:23:08] Unknown Speaker: /charsetmodel speaker models/staleak.mdl
+[13:23:10] John Smith: here we are...
+[13:23:13] Unknown Speaker teleported to James Johnson
+[13:23:31] James Johnson: Stay here
+[13:23:34] John Smith: go check the other side
+[13:23:43] James Johnson: /y NO OTHER SWITCH!
+[13:23:50] Unknown Speaker<STEAM_0:1:53097688> used the tool light on maps/rp_generators.bsp
+[13:23:52] John Smith: anything?
+[13:23:53] Unknown Speaker<STEAM_0:1:53097688> used the tool light on maps/rp_generators.bsp
+[13:23:56] James Johnson: Nope
+[13:23:57] Unknown Speaker<STEAM_0:1:53097688> used the tool light on maps/rp_generators.bsp
+[13:24:01] Unknown Speaker<STEAM_0:1:53097688> used the tool light on maps/rp_generators.bsp
+[13:24:03] John Smith: right then
+[13:24:05] James Johnson: // alright Adminge we're gonna flip the switch
+[13:24:06] Unknown Speaker<STEAM_0:1:53097688> used the tool light on maps/rp_generators.bsp
+[13:24:19] John Smith: /me woudl prepare himself to pull the lever, not knowing what will happen.
+[13:24:38] John Smith: /me would then pull the lever, activating whatever this machine is.
+[13:24:59] Unknown Speaker: /it Red lights come on, and a sound plays.
+[13:25:31] Unknown Speaker: /plytransfer speaker "transhuman arm"
+[13:25:42] James Johnson: I think its on
+[13:25:50] John Smith: i think so too
+[13:25:51] Unknown Speaker: /dispatch System initialization complete. Requiring manual startup.
+[13:25:54] James Johnson: By the way i suggest you put on your work suit
+[13:25:56] Unknown Speaker: /plytransfer speaker "alien"
+[13:26:21] John Smith: manual startup required...
+[13:27:05] James Johnson: Get in here and stay
+[13:27:28] James Johnson: /me stomps this thing down
+[13:27:58] James Johnson: // i found another switch 
+[13:28:05] James Johnson: /y YOU OK JOHN?
+[13:28:12] (SILENT) Unknown Speaker ran rcon command: sbox_maxlights 99999
+[13:28:14] John Smith: // STALKER JUST FUKIN JUMPSCARED ME HOLY SHIT
+[13:28:21] James Johnson: /y JOOHN! ARE YOU OK?!
+[13:28:41] John Smith: // pull the switch
+[13:28:54] James Johnson: /me pulls the switch
+[13:29:02] James Johnson: // i pulled the switch admin
+[13:29:05] James Johnson: // poggers
+[13:29:07] Unknown Speaker<STEAM_0:1:53097688> used the tool light on maps/rp_generators.bsp
+[13:29:09] Unknown Speaker<STEAM_0:1:53097688> used the tool light on maps/rp_generators.bsp
+[13:29:10] Unknown Speaker<STEAM_0:1:53097688> used the tool light on maps/rp_generators.bsp
+[13:29:13] Unknown Speaker<STEAM_0:1:53097688> used the tool light on maps/rp_generators.bsp
+[13:29:32] Unknown Speaker: /plytransfer speaker "transhuman arm"
+[13:29:48] Unknown Speaker: /dispatch Powerup complete. Awaiting system uplink trigger.
+[13:29:59] Unknown Speaker: /plytransfer speaker alien
+[13:30:25] John Smith: // got another switch
+[13:30:38] Unknown Speaker<STEAM_0:1:53097688> used the tool light on maps/rp_generators.bsp
+[13:30:39] John Smith: /me would pull the lever.
+[13:30:40] Unknown Speaker<STEAM_0:1:53097688> used the tool light on maps/rp_generators.bsp
+[13:30:41] Unknown Speaker<STEAM_0:1:53097688> used the tool light on maps/rp_generators.bsp
+[13:30:43] Unknown Speaker<STEAM_0:1:53097688> used the tool light on maps/rp_generators.bsp
+[13:31:01] James Johnson: /me what do these buttons do?
+[13:31:13] Unknown Speaker: /plytransfer speaker "transhuman arm"
+[13:31:37] Unknown Speaker: /it A powerup sound plays through the large spherical room. Humming is now audible.
+[13:31:45] James Johnson: Oh there you are
+[13:31:55] James Johnson: Well i guess we restored the power to this place
+[13:32:00] John Smith: hope so...
+[13:32:04] James Johnson: Uh quick question
+[13:32:07] James Johnson: Why did we do that?
+[13:32:11] John Smith: uh...
+[13:32:14] John Smith: good question
+[13:32:15] James Johnson: For shits and giggles?
+[13:32:19] Unknown Speaker: /dispatch Powerup complete. Awaiting system uplink trigger.
+[13:32:20] John Smith: probably
+[13:32:29] James Johnson: Ok we gotta do the system uplink trigger
+[13:32:42] James Johnson: Do you know what those words mean?
+[13:32:46] John Smith: no.
+[13:32:50] James Johnson: Well shit
+[13:32:58] James Johnson: /me is this computer on?
+[13:33:05] Unknown Speaker: /it Nope.
+[13:33:18] Unknown Speaker: /dispatch Powerup complete. Awaiting system uplink trigger.
+[13:33:21] James Johnson: /me examines the buttons. Is this the system uplink trigger?
+[13:33:31] Unknown Speaker: /it There is no writing to indicate a yes or a no.
+[13:33:43] James Johnson: Well
+[13:34:03] John Smith: /me would push a button in hopes of activating the uplink trigger...
+[13:34:12] Unknown Speaker: /it You hear a beep. Nothing much happens.
+[13:34:15] Unknown Speaker<STEAM_0:1:53097688> spawned NPC monster_zombie_scientist
+[13:34:19] Unknown Speaker<STEAM_0:1:53097688> spawned NPC monster_zombie_scientist
+[13:34:23] James Johnson: /me presses a button here?
+[13:34:23] Unknown Speaker<STEAM_0:1:53097688> spawned NPC monster_zombie_scientist
+[13:34:25] Unknown Speaker<STEAM_0:1:53097688> spawned NPC monster_zombie_scientist
+[13:34:31] John Smith: /me would push another one
+[13:34:49] Unknown Speaker set the hp for Everyone to 250
+[13:34:55] Unknown Speaker<STEAM_0:1:53097688> spawned/gave himself swep weapon_fists
+[13:34:56] Unknown Speaker: /toggleraise
+[13:35:01] Unknown Speaker: /it The scientist has a note on it.
+[13:35:05] John Smith: /me would grab it
+[13:35:07] Unknown Speaker: /chargiveitem speaker notepad
+[13:35:33] James Johnson: Well? What does it say?
+[13:35:38] John Smith: // where is ti because i cant find it
+[13:35:48] James Johnson: .// i think the admin is writng
+[13:35:51] Unknown Speaker: .//here
+[13:36:07] James Johnson: Could i read that?
+[13:36:15] Unknown Speaker<STEAM_0:1:53097688> used the tool light on maps/rp_generators.bsp
+[13:36:16] Unknown Speaker<STEAM_0:1:53097688> used the tool light on maps/rp_generators.bsp
+[13:36:17] Unknown Speaker<STEAM_0:1:53097688> used the tool light on maps/rp_generators.bsp
+[13:36:21] John Smith: /me would read it, it would say "Jacob, remember that the switch must be thrown once you start up the power. It's down the elevator from the big room, you know the one."
+[13:36:22] Unknown Speaker<STEAM_0:1:53097688> used the tool light on maps/rp_generators.bsp
+[13:36:33] Unknown Speaker<STEAM_0:1:53097688> used the tool lamp on maps/rp_generators.bsp
+[13:36:39] Unknown Speaker<STEAM_0:1:53097688> used the tool lamp on maps/rp_generators.bsp
+[13:36:40] Unknown Speaker<STEAM_0:1:53097688> used the tool lamp on maps/rp_generators.bsp
+[13:36:41] John Smith: Down the elevator huh...
+[13:36:42] James Johnson: Well that is the uplink
+[13:36:46] Unknown Speaker<STEAM_0:1:53097688> used the tool lamp on models/lamps/torch.mdl
+[13:36:54] Unknown Speaker<STEAM_0:1:53097688> used the tool lamp on models/lamps/torch.mdl
+[13:36:57] Unknown Speaker<STEAM_0:1:53097688> used the tool lamp on models/lamps/torch.mdl
+[13:36:58] Unknown Speaker<STEAM_0:1:53097688> used the tool lamp on models/lamps/torch.mdl
+[13:37:56] John Smith: /me would open it up,and pull the lever
+[13:38:12] Unknown Speaker: /event The pods around the room glow green. You see some kind of alien inside of each of them.
+[13:38:26] Unknown Speaker: /event Looks half crab-ish? Have a model for reference.
+[13:38:28] James Johnson: /me inspects the alien
+[13:38:42] Unknown Speaker<STEAM_0:1:53097688> used the tool animprop on maps/rp_generators.bsp
+[13:38:46] Unknown Speaker: .//looks like this
+[13:38:58] James Johnson: .// what the fuck
+[13:38:59] John Smith: uh...
+[13:39:04] John Smith: the door just shut
+[13:39:47] Unknown Speaker blinded Everyone by amount 255
+[13:39:52] James Johnson: /y GAH!
+[13:39:53] John Smith: AGH
+[13:39:58] Unknown Speaker changed the map to rp_aneurism_v2
+[13:39:58] Server is shutting down/changing levels.
+
+
+
+[13:41:11] New map: rp_aneurism_v2
+[13:41:20] Client "Michλel's World" connected.
+[13:42:20] Client "Michλel's World" spawned in server <STEAM_0:1:75161355> (took 60 seconds).
+[13:42:22] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 114 seconds).
+[13:42:40] Michλel's World<STEAM_0:1:75161355> changed their name to John Smith
+[13:43:00] Lee Maylor blinded Everyone by amount 255
+[13:43:00] Lee Maylor blinded Everyone by amount 255
+[13:43:00] matt saton<STEAM_0:1:53097688> changed their name to Lee Maylor
+[13:43:03] Lee Maylor unblinded Themself
+[13:43:46] John Smith: // at least this time the white voide makes sense
+[13:44:12] Lee Maylor: //there is one valid song to play right now
+[13:44:19] Lee Maylor: //or for the PR series if you legally can
+[13:44:20] Client "gasmask guy" connected.
+[13:44:22] John Smith: // what is it
+[13:46:08] John Smith: // TELL ME
+[13:46:29] Lee Maylor: //look in your DMs bruh
+[13:46:49] Client "gasmask guy" spawned in server <STEAM_0:1:453700418> (took 149 seconds).
+[13:47:18] John Smith: // lowkey does kinda fit do
+[13:48:08] Lee Maylor<STEAM_0:1:53097688> changed their name to Unknown Alien
+[13:48:11] Unknown Alien: /charsetmodel alien models/m_anm.mdl
+[13:48:55] gasmask guy<STEAM_0:1:453700418> changed their name to James Johnson
+[13:49:00] James Johnson: // OH GOD OH FUCK NOT THE ANEURISM MAP
+[13:49:15] Unknown Alien blinded Everyone by amount 255
+[13:49:18] Unknown Alien unblinded Themself
+[13:49:41] Unknown Alien muted Everyone
+[13:50:36] Unknown Alien brought James Johnson,John Smith
+[13:50:47] Unknown Alien unblinded Everyone
+[13:50:48] Unknown Alien unblinded Everyone
+[13:50:48] Unknown Alien unblinded Everyone
+[13:50:48] Unknown Alien unblinded Everyone
+[13:50:51] Unknown Alien unmuted Everyone
+[13:50:56] Unknown Alien: /event New place.
+[13:51:03] Unknown Alien unmuted Everyone
+[13:51:07] Unknown Alien unblinded Everyone
+[13:51:13] James Johnson: Ugh.. My head.
+[13:51:32] James Johnson: Where the hell are we
+[13:51:34] John Smith: ow...
+[13:51:39] John Smith: no idea...
+[13:52:02] John Smith: oh this isn't claustrapobic at all
+[13:52:11] James Johnson: // oh no we clipped through reality and now we are in the backrooms
+[13:52:27] Unknown Alien: /charsetmodel alien models/stalker.mdl
+[13:52:30] Unknown Alien: /charsetmodel alien models/leakstalker.mdl
+[13:52:35] Unknown Alien: /charsetmodel alien models/stalkerleak.mdl
+[13:52:39] Unknown Alien: /charsetmodel alien models/stalker_leak.mdl
+[13:52:56] John Smith: good thing this suits heat resistant
+[13:53:07] (tsay from Unknown Alien) New visitors.
+[13:53:26] (tsay from Unknown Alien) I wonder how long they will stay.
+[13:53:34] John Smith: you hearing that?
+[13:53:36] (tsay from Unknown Alien) One can only hope.
+[13:53:39] James Johnson: I do
+[13:53:52] James Johnson: /y WHERE ARE YOU?!
+[13:54:02] John Smith: // OH SHIT THIS WAS IN A LIMINAL SPACES GMOD VIDEO
+[13:54:16] John Smith: // I THOUGHT IT LOOKED FAMILIAR
+[13:54:17] James Johnson: // this is the aneurism gamemode's map
+[13:55:05] Unknown Alien<STEAM_0:1:53097688> spawned ragdoll models/assaslek.mdl
+[13:56:39] John Smith: what the fuck...?
+[13:56:54] James Johnson: Urh..
+[13:57:15] John Smith: you good?
+[13:57:22] James Johnson: My leg.
+[13:57:30] James Johnson: I hear voices too
+[13:57:43] (tsay from Unknown Alien) To hell with science!
+[13:57:54] James Johnson: //  right when james fell over grigori said "Oh lights of light! Why have you taken my helper!"
+[13:58:16] (tsay from Unknown Alien) You have enslaved and massacred my race. I have been seeking vengeance for centuries.
+[13:58:29] John Smith: /chardesc 6'1" | Deep Voice | Austrailian Accent | Amulet Around Neck, Seems to be a Sort of Family Crest or Something like that...
+[13:58:36] (tsay from Unknown Alien) Don't struggle, honey.ngeance for centuries.
+[13:58:40] Unknown Alien: //void that
+[13:58:46] (tsay from Unknown Alien) Don't struggle honey.
+[13:58:52] James Johnson: m-
+[13:58:54] James Johnson: Mom?
+[13:58:59] James Johnson: Is that really you..?
+[13:59:07] (tsay from Unknown Alien) Wake up and smell the ashes...
+[13:59:08] John Smith: // i take it that "to hell with science" was Cave Johnson?
+[13:59:14] Unknown Alien: //i'm not saying shit
+[13:59:24] (tsay from Unknown Alien) They don't understand.
+[13:59:25] John Smith: // yeah i already know it is
+[13:59:27] James Johnson: // we can hear these voices ic right?
+[13:59:30] (tsay from Unknown Alien) The humans never do.
+[13:59:31] John Smith: // prolly
+[13:59:35] Unknown Alien: //affirmative
+[13:59:46] (tsay from Unknown Alien) The humans never do.
+[13:59:54] (tsay from Unknown Alien) Shlal we show them mercy?
+[13:59:58] James Johnson: Alright! Im sick of this shit!
+[14:00:01] (tsay from Unknown Alien) Such is not our place.
+[14:00:14] James Johnson: /Y WHERE ARE YOU?!
+[14:00:54] James Johnson: The end?
+[14:01:13] Unknown Alien<STEAM_0:1:53097688> spawned ragdoll models/player/guerilla.mdl
+[14:01:22] Unknown Alien: /charsetmodel alien models/player/guerilla.mdl
+[14:01:44] John Smith: what the hell?
+[14:01:45] James Johnson: YOU SAW HIM?
+[14:01:51] John Smith: yeah...
+[14:02:05] Unknown Alien: I mean you no harm.
+[14:02:09] James Johnson: WHO ARE YOU?!
+[14:02:11] Unknown Alien: /charsetmodel alien models/player/combine_soldier_prisonguard.mdl
+[14:02:25] Unknown Alien: /it The appearance of the... being... would morph frequently into different forms.
+[14:02:35] Unknown Alien: Quite the question for you to ask, I take it you wish to leave.
+[14:02:43] John Smith: yeah we do
+[14:02:43] Unknown Alien set the scale for Themself to 1
+[14:02:45] James Johnson: I-
+[14:02:53] Unknown Alien: /charsetmodel alien models/player/skeleton.mdl
+[14:02:56] John Smith: // shronk
+[14:03:01] Unknown Alien set the scale for Themself to 2
+[14:03:14] John Smith: // beeg
+[14:03:18] Unknown Alien: It is hard to understand this place.
+[14:03:20] James Johnson: I have to be dreaming
+[14:03:27] Unknown Alien: You are awake.
+[14:03:38] Unknown Alien: Come with me, I will explain everything you can comprehend.
+[14:03:49] Unknown Alien: Your people have been quite the troublemakers.
+[14:04:24] Unknown Alien: Yourselves and the Shu'ulathoi, the Vortipodes, the Yoqri, but especially your people.
+[14:04:26] Unknown Alien: .//ah
+[14:04:33] Unknown Alien: .//invisible wall
+[14:04:35] Unknown Alien: .//but of course
+[14:04:40] James Johnson: // you're jsut too tall
+[14:04:43] Unknown Alien: .//oh
+[14:04:46] John Smith: // no, its you height
+[14:05:03] Unknown Alien set the scale for Themself to 1
+[14:05:10] Unknown Alien: Now.
+[14:05:15] Unknown Alien: /charsetskin alien 3
+[14:05:22] Unknown Alien: Let me determine, you are from... You call it...
+[14:05:26] Unknown Alien: Give me a moment.
+[14:05:31] John Smith: Earth?
+[14:05:34] Unknown Alien: /charsetmodel alien models/player/dod_american.mdl
+[14:05:40] James Johnson: /me Touches the skeleton attempting to see if its real
+[14:05:43] James Johnson: /me Or the soldier
+[14:05:45] Unknown Alien: Tokyo...
+[14:05:46] Unknown Alien: Wait..
+[14:05:50] Unknown Alien: /charsetmodel alien models/player/police.mdl
+[14:05:53] Unknown Alien: No, City 8.
+[14:05:59] John Smith: yeah...
+[14:06:23] Unknown Alien: /charsetmodel alien models/player/hostage/hostage_01.mdl
+[14:06:30] Unknown Alien: Your time shouldn't be far off.
+[14:06:56] Unknown Alien: Your people *have* been quite the trouble. Be sure to tell them that. It's quite the show to watch.
+[14:07:00] Unknown Alien: It should be just a few turns around here.
+[14:07:09] Unknown Alien: /toggleraise
+[14:07:35] Unknown Alien: This should do it.
+[14:07:45] Unknown Alien: A word of advice for you all, if you don't mind.
+[14:08:09] Unknown Alien: Stay out of trouble, please.
+[14:08:20] Unknown Alien: What we see in the future for you does not bode well for many people.
+[14:08:23] James Johnson: Why should i listen to you?
+[14:08:35] Unknown Alien: I don't have an answer ofr that.
+[14:08:38] Unknown Alien: .//for*
+[14:08:45] Unknown Alien: The actions of most recent have been problematic.
+[14:08:49] Unknown Alien: With your... Cave Johnson.
+[14:08:55] John Smith: who?
+[14:08:56] James Johnson: Who?
+[14:09:04] Unknown Alien: Ah, right, the large community.
+[14:09:12] Unknown Alien: Beware of the one they call Freluci.
+[14:09:20] Unknown Alien: He has come recently.
+[14:09:27] James Johnson: What?
+[14:09:28] Unknown Alien: No, no, he *will* be coming.
+[14:09:31] James Johnson: You're making no sense
+[14:09:40] Unknown Alien<STEAM_0:1:53097688> spawned sent pfx8_04
+[14:09:47] James Johnson: AGH!
+[14:09:47] Unknown Alien: You must open your mind.
+[14:09:54] Unknown Alien: Go ahead.
+[14:09:56] Unknown Alien: This is your exit.
+[14:10:10] James Johnson: /me poke his nose then runs away
+[14:10:15] John Smith: /me would cover his eyes as he stepped towards it...
+[14:10:19] Unknown Alien: /charsetmodel alien models/player/corpse1.mdl
+[14:10:21] Unknown Alien blinded Everyone by amount 255
+[14:10:25] James Johnson: /me enters hisexist
+[14:10:29] Unknown Alien changed the map to rp_generators
+[14:10:29] Server is shutting down/changing levels.
+
+
+
+[14:12:31] New map: rp_generators
+[14:12:35] Client "Michλel's World" connected.
+[14:13:45] Client "Michλel's World" spawned in server <STEAM_0:1:75161355> (took 70 seconds).
+[14:13:51] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 125 seconds).
+[14:14:04] Michλel's World<STEAM_0:1:75161355> changed their name to John Smith
+[14:15:22] matt saton<STEAM_0:1:53097688> changed their name to Dispatch/Overwatch
+[14:15:25] Dispatch/Overwatch teleported to John Smith
+[14:15:55] Dispatch/Overwatch brought John Smith
+[14:15:55] Dispatch/Overwatch: !bring *
+[14:15:57] Dispatch/Overwatch blinded Everyone by amount 255
+[14:16:00] Dispatch/Overwatch unblinded Themself
+[14:16:18] Client "gasmask guy" spawned in server <STEAM_0:1:453700418> (took 272 seconds).
+[14:16:32] Dispatch/Overwatch: //i wonder what these buttons do
+[14:17:36] Dispatch/Overwatch<STEAM_0:1:53097688> spawned sent pfx4_05
+[14:17:39] Dispatch/Overwatch<STEAM_0:1:53097688> spawned sent pfx4_05
+[14:17:41] gasmask guy<STEAM_0:1:453700418> changed their name to James Johnson
+[14:17:41] Dispatch/Overwatch<STEAM_0:1:53097688> spawned sent pfx4_05~
+[14:17:52] James Johnson: // can i get a tp back?
+[14:17:53] John Smith: // get his ass over here
+[14:17:53] Dispatch/Overwatch brought James Johnson
+[14:17:57] Dispatch/Overwatch blinded James Johnson,John Smith by amount 255
+[14:17:59] Dispatch/Overwatch<STEAM_0:1:53097688> spawned sent pfx4_05~
+[14:18:07] Dispatch/Overwatch<STEAM_0:1:53097688> spawned sent pfx4_05
+[14:18:15] Dispatch/Overwatch<STEAM_0:1:53097688> spawned sent pfx4_05~
+[14:18:28] Dispatch/Overwatch<STEAM_0:1:53097688> spawned model models/hunter/blocks/cube075x1x025.mdl
+[14:18:32] Dispatch/Overwatch<STEAM_0:1:53097688> spawned model models/hunter/blocks/cube1x1x1.mdl
+[14:18:34] Dispatch/Overwatch<STEAM_0:1:53097688> used the tool nocollideeverything on models/hunter/blocks/cube1x1x1.mdl
+[14:18:42] Dispatch/Overwatch<STEAM_0:1:53097688> used the tool colour on models/hunter/blocks/cube1x1x1.mdl
+[14:18:52] Dispatch/Overwatch<STEAM_0:1:53097688> used the tool nocollideeverything on models/hunter/blocks/cube1x1x1.mdl
+[14:18:53] Dispatch/Overwatch<STEAM_0:1:53097688> used the tool nocollideeverything on models/hunter/blocks/cube1x1x1.mdl
+[14:18:53] Dispatch/Overwatch<STEAM_0:1:53097688> used the tool nocollideeverything on maps/rp_generators.bsp
+[14:18:53] Dispatch/Overwatch<STEAM_0:1:53097688> used the tool nocollideeverything on maps/rp_generators.bsp
+[14:18:54] Dispatch/Overwatch<STEAM_0:1:53097688> used the tool nocollideeverything on maps/rp_generators.bsp
+[14:18:54] Dispatch/Overwatch<STEAM_0:1:53097688> used the tool nocollideeverything on maps/rp_generators.bsp
+[14:18:55] Dispatch/Overwatch<STEAM_0:1:53097688> used the tool nocollideeverything on models/hunter/blocks/cube1x1x1.mdl
+[14:18:56] Dispatch/Overwatch<STEAM_0:1:53097688> used the tool nocollideeverything on models/hunter/blocks/cube1x1x1.mdl
+[14:18:58] Dispatch/Overwatch<STEAM_0:1:53097688> used the tool nocollideeverything on models/hunter/blocks/cube1x1x1.mdl
+[14:18:58] Dispatch/Overwatch<STEAM_0:1:53097688> used the tool nocollideeverything on models/hunter/blocks/cube1x1x1.mdl
+[14:18:59] Dispatch/Overwatch<STEAM_0:1:53097688> used the tool nocollideeverything on models/hunter/blocks/cube1x1x1.mdl
+[14:19:06] Dispatch/Overwatch brought John Smith
+[14:19:15] Dispatch/Overwatch brought John Smith
+[14:19:18] Dispatch/Overwatch unblinded Everyone
+[14:19:29] John Smith: // is he here?
+[14:19:49] John Smith: holy shit!
+[14:20:00] John Smith: // ah piss hes AFK
+[14:20:16] James Johnson: WHO ARE YOU?
+[14:20:16] Dispatch/Overwatch: //i don't know how to undo what i do
+[14:20:18] Dispatch/Overwatch: //did*
+[14:20:24] James Johnson: // waht did you do?
+[14:20:32] James Johnson: YOU!
+[14:20:34] Dispatch/Overwatch: //i pressed a button
+[14:20:34] James Johnson: WHO ARE YOU?!
+[14:20:40] Dispatch/Overwatch: //OH
+[14:20:41] Dispatch/Overwatch: //FIXEDI T
+[14:20:42] John Smith: DUDE
+[14:20:44] Dispatch/Overwatch teleported to John Smith
+[14:20:46] John Smith: ITS ME!
+[14:20:48] John Smith: JOHN
+[14:20:53] James Johnson: Oh
+[14:20:57] James Johnson: Oh thank god it-
+[14:21:03] John Smith: aw....
+[14:21:04] James Johnson: Well shit we gotta get out of here
+[14:21:07] John Smith: for fucks sake!
+[14:21:11] Dispatch/Overwatch: /DISPATCH Error. System overload. System overload.
+[14:21:28] James Johnson: /me attempts to open the- Oh?
+[14:21:44] Dispatch/Overwatch: /event The sirens keep blaring, but it'll get annoying.
+[14:21:57] James Johnson: John
+[14:22:03] John Smith: yeah?
+[14:22:04] James Johnson: Here is my plan
+[14:22:07] James Johnson: we will KEEP running
+[14:22:08] Dispatch/Overwatch: //pretend the elevator was already down there
+[14:22:10] James Johnson: till we're out of here
+[14:22:15] James Johnson: Dont wait for me
+[14:22:20] James Johnson: I wont wait for you
+[14:23:09] Dispatch/Overwatch: /dispatch autonomous judgment
+[14:23:28] Dispatch/Overwatch: /dispatch individual charged with
+[14:23:40] James Johnson: // POV: Chernoybl
+[14:24:01] John Smith: /Y HOLY SHIT
+[14:24:19] Dispatch/Overwatch: /dispatch activity level 1
+[14:24:35] James Johnson: HOLY FUCKING SHIT!
+[14:24:41] James Johnson: WHAT HAVE WE DONE?!
+[14:24:41] Dispatch/Overwatch set the hp for Everyone to 100
+[14:24:48] James Johnson: /y JOHN?!
+[14:25:25] John Smith: Shit...
+[14:25:33] John Smith: oh hell, where's James?!
+[14:25:55] James Johnson: /y JOHN?!
+[14:26:37] John Smith: woah...
+[14:27:50] Dispatch/Overwatch teleported to John Smith
+[14:28:18] Dispatch/Overwatch: /dispatch evasion behavior
+[14:28:37] Dispatch/Overwatch<STEAM_0:1:53097688> changed their name to Unknown Speaker
+[14:28:40] Unknown Speaker teleported to John Smith
+[14:28:49] Unknown Speaker teleported to James Johnson
+[14:29:28] Unknown Speaker teleported to John Smith
+[14:29:30] John Smith: /pm dispatch dude James is gonna get his socks scared off of him, i garentee it
+[14:29:45] Unknown Speaker teleported to James Johnson
+[14:29:55] John Smith: /pm unknown bro james is gonna get the socks scared off of him lol
+[14:30:54] Unknown Speaker: /dispatch receive your verdict
+[14:31:14] James Johnson: // wtf does that mean?
+[14:31:25] John Smith: // you still stuck in the facility?
+[14:31:29] Unknown Speaker: //means you're endangering sociostability
+[14:31:35] Unknown Speaker: //by doing what you're doing
+[14:31:41] James Johnson: // im not doing shit
+[14:31:47] Unknown Speaker: //what did do past tense
+[14:31:56] Unknown Speaker<STEAM_0:1:53097688> spawned sent pfx8_04
+[14:31:58] John Smith: // james you still in the facility
+[14:32:08] James Johnson: // it would be meta for me to say right?
+[14:32:10] Unknown Speaker teleported to James Johnson
+[14:32:12] Unknown Speaker: //correct
+[14:32:22] Unknown Speaker: /event Outside, a large orb appears in the center of the field.
+[14:32:50] Unknown Speaker<STEAM_0:1:53097688> spawned sent pfx4_08
+[14:33:36] Unknown Speaker: /dispatch Initiating forced destruction of psychocidal machinery.
+[14:34:17] John Smith: // i never saw an orb but ok
+[14:34:20] Unknown Speaker: //oh
+[14:34:21] Unknown Speaker: //it's there
+[14:34:22] Unknown Speaker: //werid
+[14:34:34] Unknown Speaker: //let me place it a second time
+[14:34:39] Unknown Speaker<STEAM_0:1:53097688> spawned sent pfx8_04
+[14:34:45] John Smith: // there it is
+[14:34:59] Unknown Speaker teleported to James Johnson
+[14:35:01] James Johnson: /y JOHN?
+[14:35:44] Unknown Speaker: /dispatch Procedure: Successful. Preparing to amputate psychocidal slash sociocidal malignant individuals.
+[14:36:19] Unknown Speaker<STEAM_0:1:53097688> changed their name to Unknown Citizen
+[14:36:30] Unknown Citizen teleported to James Johnson
+[14:36:33] James Johnson: // *doom music starts playing*
+[14:36:35] Unknown Citizen<STEAM_0:1:53097688> spawned/gave himself swep tfa_rustalpha_pipeshotgun
+[14:36:35] Unknown Citizen: /toggleraise
+[14:36:38] John Smith: // every now and then i hear something go in water, should i be concerned>
+[14:36:46] Unknown Citizen: /y combine
+[14:36:51] Unknown Citizen: /y move it, move it
+[14:36:54] James Johnson: /y WHOS THERE?!
+[14:36:56] Unknown Citizen: /y MOVE IT OUT!
+[14:37:01] Unknown Citizen: /toggleraise
+[14:37:04] Unknown Citizen: what hell?
+[14:37:07] Unknown Citizen: .//What the hell?*
+[14:37:15] James Johnson: Hey pal
+[14:37:22] Unknown Citizen: What the hell are you doing out here? Nevermind who you are, do you have any idea where the hell you are?
+[14:37:26] Unknown Citizen: Where are you from?
+[14:37:30] James Johnson: City 8
+[14:37:40] Unknown Citizen: How the HELL did you get into the Ukraine?
+[14:37:52] James Johnson: A dropship
+[14:38:07] John Smith: /y JAMES?!
+[14:38:20] James Johnson: Do you need me to explain what i was doing in one?
+[14:38:22] Unknown Citizen: You need to get the hell out. I've got a truck.
+[14:38:35] James Johnson: I'd like to leave but i gotta find my pal John
+[14:38:37] Unknown Citizen: No, the Combine is going to tear this place to shreds, let's just GO.
+[14:38:38] John Smith: /Y JAMES?
+[14:38:40] Unknown Citizen: john? Hold on.
+[14:38:43] Unknown Citizen: Let's get my truck.
+[14:38:53] Unknown Citizen: You, wait, uhh... here. Wait here.
+[14:38:57] Unknown Citizen: I'll be back.
+[14:38:57] James Johnson: Do you have a flare gun?
+[14:38:59] James Johnson: Oh ok
+[14:39:04] Unknown Citizen: /toggleraise
+[14:39:25] Unknown Citizen: /chargiveflag citizen Cc
+[14:39:26] Unknown Citizen<STEAM_0:1:53097688> spawned vehicle models/blu/gaz52/gaz52.mdl
+[14:39:27] Unknown Citizen<STEAM_0:1:53097688> spawned vehicle models/blu/avia/avia.mdl
+[14:39:32] Unknown Citizen: /chargiveflag citizen petncr
+[14:39:36] John Smith: /ME would drop the one of the notes, not needing it any more.
+[14:39:40] Unknown Citizen<STEAM_0:1:53097688> spawned model models/items/item_item_crate.mdl
+[14:39:44] Unknown Citizen was killed by gmod_sent_vehicle_fphysics_base
+[14:39:55] Unknown Citizen<STEAM_0:1:53097688> spawned vehicle models/blu/avia/avia.mdl
+[14:39:59] Unknown Citizen<STEAM_0:1:53097688> spawned model models/items/item_item_crate.mdl
+[14:40:04] Unknown Citizen<STEAM_0:1:53097688> used the tool weld on models/items/item_item_crate.mdl
+[14:40:04] Unknown Citizen<STEAM_0:1:53097688> used the tool weld on models/blu/avia/avia.mdl
+[14:40:09] Unknown Citizen<STEAM_0:1:53097688> spawned vehicle models/nova/airboat_seat.mdl
+[14:40:15] Unknown Citizen<STEAM_0:1:53097688> used the tool nocollideeverything on models/nova/airboat_seat.mdl
+[14:40:16] Unknown Citizen<STEAM_0:1:53097688> used the tool nocollideeverything on models/items/item_item_crate.mdl
+[14:40:19] Unknown Citizen<STEAM_0:1:53097688> used the tool colour on models/nova/airboat_seat.mdl
+[14:40:46] John Smith: /y JAMES?
+[14:41:07] John Smith: /Y JAMES?
+[14:41:45] Unknown Citizen: /y GET IN!
+[14:42:03] John Smith: /Y JAMES WHERE ARE YOU?!
+[14:42:16] Unknown Citizen: /Y john!
+[14:42:18] Unknown Citizen: /y JOHN!
+[14:42:24] Unknown Citizen: /y NOT JOHN!
+[14:42:29] Unknown Citizen<STEAM_0:1:53097688> spawned/gave himself swep weapon_vj_flaregun
+[14:42:29] Unknown Citizen: /toggleraise
+[14:42:44] Unknown Citizen: /y get in!
+[14:42:54] Unknown Citizen: You can drive, just GO.
+[14:42:58] John Smith: jesus Christ where the hell are you?
+[14:43:06] James Johnson: I never got my licensce!
+[14:43:10] Unknown Citizen: Fuck, I'll drive!
+[14:43:20] Unknown Citizen: Where was he last? Do you know?
+[14:43:28] James Johnson: In the facility
+[14:43:31] James Johnson: But he cant sitll be in there
+[14:43:57] Unknown Citizen: /y GET IN!
+[14:44:01] Unknown Citizen: /Y SIT ON TOP OF THE CRATE.
+[14:44:11] Unknown Citizen: .//there should be a chair
+[14:44:19] Unknown Citizen: //hit e on the top of the crate
+[14:44:23] Unknown Citizen: .//nothing?
+[14:44:26] Unknown Citizen<STEAM_0:1:53097688> used the tool colour on models/items/item_item_crate.mdl
+[14:44:26] Unknown Citizen<STEAM_0:1:53097688> used the tool colour on models/items/item_item_crate.mdl
+[14:44:26] Unknown Citizen<STEAM_0:1:53097688> used the tool colour on models/items/item_item_crate.mdl
+[14:44:27] Unknown Citizen<STEAM_0:1:53097688> used the tool colour on models/blu/avia/avia.mdl
+[14:44:27] Unknown Citizen<STEAM_0:1:53097688> used the tool colour on models/blu/avia/avia.mdl
+[14:44:29] John Smith: // nope
+[14:44:31] Unknown Citizen<STEAM_0:1:53097688> spawned vehicle models/nova/airboat_seat.mdl
+[14:44:40] Unknown Citizen<STEAM_0:1:53097688> used the tool weld on models/nova/airboat_seat.mdl
+[14:44:41] Unknown Citizen<STEAM_0:1:53097688> used the tool weld on models/items/item_item_crate.mdl
+[14:44:45] Unknown Citizen<STEAM_0:1:53097688> used the tool colour on models/nova/airboat_seat.mdl
+[14:45:06] Unknown Citizen: /y PLEASURE TO MEET YOU ALL, NAME'S FRANKIE.
+[14:45:14] John Smith: /y JOHN
+[14:45:14] James Johnson: My name is james!
+[14:45:49] Unknown Citizen: /Y i know a guy
+[14:45:52] John Smith: /ME as we go past the base, I would flip the bird at literally everything.
+[14:45:53] Unknown Citizen: /y who can get us to the canals of city 8
+[14:46:15] Unknown Citizen: /Y LET'S MOVE
+[14:46:29] John Smith: // map change
+[14:46:31] Unknown Citizen changed the map to rp_city8_canals
+[14:46:32] Server is shutting down/changing levels.
+
+
+
+[14:47:53] New map: rp_city8_canals
+[14:47:57] Client "Michλel's World" connected.
+[14:49:06] Client "Michλel's World" spawned in server <STEAM_0:1:75161355> (took 69 seconds).
+[14:49:10] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 120 seconds).
+[14:49:26] Michλel's World<STEAM_0:1:75161355> changed their name to John Smith
+[14:50:09] matt saton<STEAM_0:1:53097688> changed their name to Unknown Citizen
+[14:50:13] Unknown Citizen: /charsetname citizen 'Frankie'
+[14:50:14] Unknown Citizen<STEAM_0:1:53097688> changed their name to 'Frankie'
+[14:50:16] 'Frankie' blinded Everyone by amount 255
+[14:50:19] 'Frankie' unblinded Themself
+[14:50:23] 'Frankie' unblinded Everyone
+[14:50:30] 'Frankie': .//i'll explain how we got here
+[14:51:16] John Smith: /chardesc 6'1" | Deep Voice | Austrailian Accent | Has an Amulet Around His Neck, Seems to be Some Form of Family Heirloom or Something Like That...
+[14:51:32] 'Frankie': //wanna see where i got the picture for the rival in the backlands teaser
+[14:51:39] John Smith: // sure
+[14:51:43] 'Frankie' brought John Smith
+[14:51:43] 'Frankie': !bring smith
+[14:51:46] 'Frankie': .//right here
+[14:51:46] Client "gasmask guy" spawned in server <STEAM_0:1:453700418> (took 276 seconds).
+[14:51:49] 'Frankie'<STEAM_0:1:53097688> used the tool rope on maps/rp_city8_canals.bsp
+[14:51:49] 'Frankie'<STEAM_0:1:53097688> used the tool rope on maps/rp_city8_canals.bsp
+[14:51:50] 'Frankie'<STEAM_0:1:53097688> used the tool rope on maps/rp_city8_canals.bsp
+[14:51:51] 'Frankie'<STEAM_0:1:53097688> used the tool rope on maps/rp_city8_canals.bsp
+[14:51:54] 'Frankie'<STEAM_0:1:53097688> used the tool rope on maps/rp_city8_canals.bsp
+[14:51:54] 'Frankie'<STEAM_0:1:53097688> used the tool rope on maps/rp_city8_canals.bsp
+[14:51:55] 'Frankie'<STEAM_0:1:53097688> used the tool rope on maps/rp_city8_canals.bsp
+[14:51:56] 'Frankie'<STEAM_0:1:53097688> used the tool rope on maps/rp_city8_canals.bsp
+[14:52:02] 'Frankie'<STEAM_0:1:53097688> used the tool rope on maps/rp_city8_canals.bsp
+[14:52:03] 'Frankie'<STEAM_0:1:53097688> used the tool rope on maps/rp_city8_canals.bsp
+[14:52:03] 'Frankie'<STEAM_0:1:53097688> used the tool rope on maps/rp_city8_canals.bsp
+[14:52:05] 'Frankie'<STEAM_0:1:53097688> used the tool rope on maps/rp_city8_canals.bsp
+[14:52:05] 'Frankie'<STEAM_0:1:53097688> used the tool rope on maps/rp_city8_canals.bsp
+[14:52:08] 'Frankie'<STEAM_0:1:53097688> used the tool rope on maps/rp_city8_canals.bsp
+[14:52:09] 'Frankie'<STEAM_0:1:53097688> used the tool rope on maps/rp_city8_canals.bsp
+[14:52:10] 'Frankie'<STEAM_0:1:53097688> used the tool rope on maps/rp_city8_canals.bsp
+[14:52:37] John Smith: // nice
+[14:52:50] 'Frankie'<STEAM_0:1:53097688> spawned model models/quarterlife/fsd-overrun-toy.mdl
+[14:52:51] 'Frankie'<STEAM_0:1:53097688> spawned model models/quarterlife/fsd-overrun-toy.mdl
+[14:53:09] 'Frankie'<STEAM_0:1:53097688> spawned model models/maxofs2d/camera.mdl
+[14:53:18] 'Frankie'<STEAM_0:1:53097688> used the tool rope on maps/rp_city8_canals.bsp
+[14:53:20] 'Frankie'<STEAM_0:1:53097688> used the tool rope on models/maxofs2d/camera.mdl
+[14:53:22] 'Frankie'<STEAM_0:1:53097688> used the tool rope on maps/rp_city8_canals.bsp
+[14:53:24] 'Frankie'<STEAM_0:1:53097688> used the tool rope on models/maxofs2d/camera.mdl
+[14:53:25] 'Frankie'<STEAM_0:1:53097688> used the tool rope on models/maxofs2d/camera.mdl
+[14:53:27] 'Frankie'<STEAM_0:1:53097688> used the tool rope on maps/rp_city8_canals.bsp
+[14:53:29] 'Frankie'<STEAM_0:1:53097688> used the tool rope on models/maxofs2d/camera.mdl
+[14:53:31] 'Frankie'<STEAM_0:1:53097688> used the tool rope on maps/rp_city8_canals.bsp
+[14:53:33] 'Frankie': .//yep
+[14:53:34] 'Frankie': .//right here
+[14:54:54] 'Frankie'<STEAM_0:1:53097688> spawned/gave himself swep weapon_ar2
+[14:54:54] 'Frankie': /toggleraise
+[14:55:01] 'Frankie' killed John Smith using player
+[14:55:04] 'Frankie': //hmmm
+[14:55:05] gasmask guy<STEAM_0:1:453700418> changed their name to James Johnson
+[14:55:06] 'Frankie': //you did not fall
+[14:55:14] 'Frankie' transported John Smith to James Johnson
+[14:55:17] 'Frankie' blinded James Johnson,John Smith by amount 255
+[14:55:25] John Smith: // AHHH IM BLIND AGAIN
+[14:55:26] James Johnson: // PLEASE STOP WITH THE DAMN TRANSITIONS
+[14:55:30] 'Frankie' unblinded Everyone
+[14:56:13] 'Frankie': /event After a long truck ride, a helicopter ride, another truck ride, then a train ride, a group of anti-citizens manage to smuggle you into City 8's canals.
+[14:56:28] 'Frankie': /event You get off the train and it looks awfully... familiar.
+[14:56:29] 'Frankie' brought James Johnson,John Smith
+[14:56:39] 'Frankie': /chargiveitem frankie respirator
+[14:56:45] John Smith: here again...
+[14:56:56] 'Frankie': What, you've been here?
+[14:57:15] Client "DRD" connected.
+[14:57:16] 'Frankie': /charsetmodel frankie models/player/zelpa/male_04_extended.mdl
+[14:57:21] 'Frankie': /charsetmodel frankie models/player/zelpa/male_04_extended.mdl
+[14:57:26] 'Frankie': /chareditbodygroup frankie
+[14:57:40] John Smith: /me would point to his left, "Yeah, we got out of here just over there"
+[14:58:04] 'Frankie': Holy hell, you sure have a story to tell, don't you?
+[14:58:10] John Smith: oh yeah.
+[14:58:15] 'Frankie': One that I don't have time to listen to.
+[14:58:20] 'Frankie': No disrespect.
+[14:58:27] 'Frankie': You said your precinct was... 47, correct?
+[14:58:29] 'Frankie': No, 35.
+[14:58:41] John Smith: yep
+[14:58:47] 'Frankie': //i had a dream last night that city 17 d47 was a good map
+[14:58:58] 'Frankie': //not even joking, that was genuinely my dream.
+[14:59:08] 'Frankie': Alright.
+[14:59:13] John Smith: // does it actually fucking suck dick
+[14:59:20] 'Frankie': //it's not my favorite
+[14:59:24] 'Frankie': Well, that's just a jump, skip, and a hop away.
+[14:59:26] 'Frankie': Not far at all.
+[14:59:32] Client "DRD" spawned in server <STEAM_0:0:193599766> (took 137 seconds).
+[14:59:42] 'Frankie': //Timing 100
+[14:59:46] James Johnson: Uh frankie
+[14:59:50] 'Frankie': Yeah
+[14:59:52] James Johnson: I dont know how to skip
+[14:59:53] 'Frankie': .//Yeah?*
+[15:00:00] 'Frankie': It was a figure of speech.
+[15:00:04] James Johnson: Oh
+[15:00:25] 'Frankie': //the people vvho made this map have never seen actual canals
+[15:00:36] DRD<STEAM_0:0:193599766> changed their name to CCA.C08-GRID.i1.23710
+[15:00:44] CCA.C08-GRID.i1.23710: // HELLO
+[15:00:50] 'Frankie': //OH HEY VVHAT'S UP
+[15:01:16] CCA.C08-GRID.i1.23710: // where shall i pop into existence
+[15:01:20] 'Frankie': //uhhh
+[15:01:22] 'Frankie': //we're abouti ot end so
+[15:01:29] 'Frankie': //back in the normal districT??
+[15:01:45] CCA.C08-GRID.i1.23710: // where even are we
+[15:01:49] 'Frankie': //city 8 canals
+[15:01:51] 'Frankie': //a precinct over
+[15:01:54] 'Frankie': Alright.
+[15:01:57] 'Frankie': Should be through here.
+[15:02:02] CCA.C08-GRID.i1.23710: // i did not know that was a thing
+[15:02:07] 'Frankie': Oh, and you two don't look the most suited to be going through the servers.
+[15:02:12] 'Frankie': So have these.
+[15:02:14] 'Frankie': /adminspawnmenu
+[15:02:50] 'Frankie': You'll get out in the sewers, in the lower levels. Move on up through there and you should be able to find a way out.
+[15:03:03] 'Frankie': Break a window or something, be sneaky about it.
+[15:03:11] 'Frankie': /me would pull open the sliding door.
+[15:03:16] 'Frankie': Well, thanks for being here.
+[15:03:20] 'Frankie': Take care.
+[15:03:26] 'Frankie': Go on through.
+[15:03:33] John Smith: thanks for getting our asses out of here.
+[15:03:33] 'Frankie' changed the map to rp_city8_edit_v4r
+[15:03:33] Server is shutting down/changing levels.
+
+
+
+[15:05:31] New map: rp_city8_edit_v4r
+[15:05:36] Client "Michλel's World" connected.
+[15:06:58] Client "Michλel's World" spawned in server <STEAM_0:1:75161355> (took 82 seconds).
+[15:06:58] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 138 seconds).
+[15:07:25] Michλel's World<STEAM_0:1:75161355> changed their name to John Smith
+[15:07:59] Client "DRD" spawned in server <STEAM_0:0:193599766> (took 199 seconds).
+[15:08:08] matt saton<STEAM_0:1:53097688> changed their name to Jason Mackey
+[15:08:20] Jason Mackey brought John Smith
+[15:08:20] Jason Mackey: !bring john
+[15:08:28] Jason Mackey: /chargiveitem mackey flashlight
+[15:09:01] Jason Mackey: //i didn't quite stick the landing
+[15:09:05] Jason Mackey: //but the rest of it was pretty good
+[15:09:08] Jason Mackey: //imo
+[15:09:14] Jason Mackey: /chargiveitem mackey respirator
+[15:09:47] DRD<STEAM_0:0:193599766> changed their name to CCA.C08-GRID.i1.23710
+[15:10:16] Jason Mackey<STEAM_0:1:53097688> spawned/gave himself swep weapon_shotgun
+[15:10:17] Jason Mackey: /toggleraise
+[15:10:29] CCA.C08-GRID.i1.23710: // Project Revival supports Bloc Quebecois
+[15:11:16] Jason Mackey: //fuck i forgot i;ve had this one event in my bakc pocket for a wihle now
+[15:11:20] Jason Mackey: //FUCk
+[15:11:23] Jason Mackey: //better luck enxt time
+[15:11:33] CCA.C08-GRID.i1.23710: // why is he locked in there
+[15:11:36] CCA.C08-GRID.i1.23710: // what has he done
+[15:11:41] CCA.C08-GRID.i1.23710: // who did you kill
+[15:11:42] Jason Mackey: //supported quebec
+[15:11:45] John Smith: // war crimes against serbia
+[15:11:48] CCA.C08-GRID.i1.23710: // hey q
+[15:11:50] Jason Mackey: //suh
+[15:11:51] John Smith: //thats what i did /j
+[15:12:06] CCA.C08-GRID.i1.23710: // did you know that there's a quebec nationalist party
+[15:12:24] CCA.C08-GRID.i1.23710: // they run for pm every election but it's literally impossible for them to win
+[15:12:31] CCA.C08-GRID.i1.23710: // they dont have any candidates outside of quebec
+[15:12:31] Jason Mackey: //why is it literally impossible
+[15:12:34] Jason Mackey: //LMAO
+[15:12:53] Client "gasmask guy" spawned in server <STEAM_0:1:453700418> (took 493 seconds).
+[15:12:59] Jason Mackey: //quebec is the alabama of canada
+[15:13:04] CCA.C08-GRID.i1.23710: // also our election that happened a few days ago did literally nothing
+[15:13:17] CCA.C08-GRID.i1.23710: // we still have a minority government
+[15:13:22] Jason Mackey: //you've still got ol' king boris-trudeau? 
+[15:13:24] CCA.C08-GRID.i1.23710: // with the same people
+[15:13:35] CCA.C08-GRID.i1.23710: // does the us have minority governments?
+[15:13:45] Jason Mackey: //i don't know what a minority government is so i'm gomnna guess n
+[15:13:47] Jason Mackey: //no*
+[15:13:51] CCA.C08-GRID.i1.23710: // basically
+[15:14:26] CCA.C08-GRID.i1.23710: // the liberals have the most votes
+[15:14:26] John Smith: // can we finish this game plz i bored
+[15:14:32] Jason Mackey: //waiting for gasmask guy
+[15:14:38] CCA.C08-GRID.i1.23710: // but have less seats than thew tories in parliment
+[15:14:40] Jason Mackey: //hey this is glory for me
+[15:14:43] CCA.C08-GRID.i1.23710: // than*
+[15:14:51] Jason Mackey: //because i have to play hunt down the freeman after this
+[15:14:57] CCA.C08-GRID.i1.23710: // ha
+[15:14:59] Jason Mackey: /toggleraise
+[15:15:37] Jason Mackey: /toggleraise
+[15:15:39] Jason Mackey: /toggleraise
+[15:16:10] gasmask guy<STEAM_0:1:453700418> changed their name to James Johnson
+[15:16:13] James Johnson: // sorry guys im back
+[15:16:14] John Smith: // HES HERE
+[15:16:21] Jason Mackey brought James Johnson
+[15:16:21] Jason Mackey: !bring johnson
+[15:16:24] CCA.C08-GRID.i1.23710: // he arrives!
+[15:16:27] Jason Mackey: /toggleraise
+[15:16:34] John Smith: // can we now finish this shit please
+[15:16:36] Jason Mackey: /it The grate is already pulled open.
+[15:16:40] Jason Mackey: !birng smith, johnson
+[15:16:43] Jason Mackey: !birng smith, johnson
+[15:16:45] Jason Mackey brought John Smith
+[15:16:45] Jason Mackey: !bring smith, johnson
+[15:16:49] Jason Mackey brought James Johnson
+[15:16:49] Jason Mackey: !bring johnson
+[15:17:33] CCA.C08-GRID.i1.23710 to admins: you know
+[15:17:42] CCA.C08-GRID.i1.23710 to admins: we have nothing saying prostitution is illegal
+[15:18:02] Jason Mackey to admins: prostitution should be legal
+[15:18:33] CCA.C08-GRID.i1.23710 to admins: gonna make a prostiute character
+[15:18:43] CCA.C08-GRID.i1.23710: // whore headcrab
+[15:18:49] John Smith: lets drop the crowbars here
+[15:18:49] CCA.C08-GRID.i1.23710: // meant to put that in admin chat
+[15:18:51] Jason Mackey to admins: no
+[15:18:54] Jason Mackey to admins: i mean IRl
+[15:18:58] CCA.C08-GRID.i1.23710 to admins: oh\
+[15:19:04] CCA.C08-GRID.i1.23710 to admins: it's legal here
+[15:19:06] CCA.C08-GRID.i1.23710 to admins: kind of
+[15:19:12] CCA.C08-GRID.i1.23710 to admins: it's legal to sell, not to buy
+[15:19:28] CCA.C08-GRID.i1.23710 to admins: in order to protect sex workers
+[15:20:05] James Johnson: Hey
+[15:20:07] James Johnson: Officer
+[15:20:19] CCA.C08-GRID.i1.23710: yep?
+[15:20:20] James Johnson: I, uh, Found a shotgun
+[15:20:26] CCA.C08-GRID.i1.23710: you what
+[15:20:28] Jason Mackey: //SURPRISE CUTSCENE
+[15:20:34] Jason Mackey: //like 60 seconds and then we're done
+[15:20:37] Jason Mackey brought CCA.C08-GRID.i1.23710,James Johnson,John Smith
+[15:20:37] Jason Mackey: !bring *
+[15:20:37] John Smith: // bitch fuck off
+[15:20:38] CCA.C08-GRID.i1.23710: // wait we're doing something : (
+[15:20:40] Jason Mackey cloaked Everyone by amount 0
+[15:20:43] Jason Mackey uncloaked Themself
+[15:20:45] James Johnson: // and im stuck
+[15:20:51] CCA.C08-GRID.i1.23710: // we were doing rp :     (
+[15:20:51] Jason Mackey brought James Johnson
+[15:20:56] James Johnson: // its fine
+[15:21:09] Jason Mackey: /event Commander, the research outpost has been breached.
+[15:21:13] Jason Mackey cleared decals
+[15:21:30] Jason Mackey: /event This is a loss, but we've learned a lot from whatever the intruders did.
+[15:21:42] Jason Mackey: We got back data that made... no sense. It didn't apply to any of the current science we had.
+[15:21:49] Jason Mackey: /event We got back data that made... no sense. It didn't apply to any of the current science we had.
+[15:22:16] Jason Mackey: /event So over the past few days, we came up with THIS. The tower model.
+[15:22:27] Jason Mackey: /event It's a new way of representing how we see... all of existence.
+[15:22:50] Jason Mackey: /event Some things are beyond our comprehension, but this will be a great help in trying to grasp them.
+[15:23:00] Jason Mackey: I'll send you a diagram soon.
+[15:23:04] Jason Mackey returned John Smith to their original position
+[15:23:06] Jason Mackey returned James Johnson to their original position
+[15:23:08] Jason Mackey returned CCA.C08-GRID.i1.23710 to their original position
+[15:23:10] Jason Mackey uncloaked Everyone
+[15:23:18] Jason Mackey transported James Johnson to CCA.C08-GRID.i1.23710
+[15:23:21] James Johnson: // holy shit im still in the admin- nvm
+[15:23:31] James Johnson: Here ya go
+[15:23:33] Jason Mackey: //well hey
+[15:23:37] Jason Mackey: //thank you for coming to the event
+[15:23:39] Jason Mackey: //it wasn't uhhh
+[15:23:42] Jason Mackey: //it was good i think for a part
+[15:23:49] CCA.C08-GRID.i1.23710: right... both of you face the wall for a moment
+[15:23:51] Jason Mackey: //the ending could have bene better, but i appreciate you guys being here nonetheless
+[15:23:57] James Johnson: I also have a bunch of materials
+[15:24:03] Jason Mackey: //welcoem to the server James, great ot have you, thank you for sticking with it
+[15:24:08] CCA.C08-GRID.i1.23710: face the wall
+[15:24:30] James Johnson: // np
+[15:24:44] Jason Mackey: //if you're not already in the discord i'd recommend you ojin
+[15:24:51] CCA.C08-GRID.i1.23710: where the fuck...
+[15:24:52] James Johnson: // i am in the discord. i am llama.
+[15:24:56] Jason Mackey: //ah epic
+[15:25:01] Jason Mackey: //well welcome
+[15:25:02] Jason Mackey: //great ot have you
+[15:25:05] James Johnson: Its a long story
+[15:25:06] CCA.C08-GRID.i1.23710: alright, this stuff is not contraband
+[15:25:09] Jason Mackey: //i have to go play hunt down the freeman
+[15:25:09] Jason Mackey: //so
+[15:25:13] Jason Mackey: //lord have mercy on my soul
+[15:25:16] Jason Mackey: //take care
+[15:25:18] John Smith: // have fun
+[15:25:20] James Johnson: // good luck
+[15:25:23] Jason Mackey<STEAM_0:1:53097688> changed their name to Lee Maylor
+[15:25:23] John Smith: // dont die :)
+[15:25:27] CCA.C08-GRID.i1.23710: /me would attempt to the the citizen. (Resist?)
+[15:25:35] James Johnson: /me nope
+[15:25:37] CCA.C08-GRID.i1.23710: you're not being detained.
+[15:25:50] CCA.C08-GRID.i1.23710: /charsearch
+[15:26:00] CCA.C08-GRID.i1.23710: apply for me?
+[15:26:16] James Johnson: /apply
+[15:26:32] CCA.C08-GRID.i1.23710: /viewdata james
+[15:27:12] CCA.C08-GRID.i1.23710: alright, I'm going to overlook the fact that you have 2 ration components you should not have, as you just turned in a shotgun.
+[15:27:21] CCA.C08-GRID.i1.23710: /viewdata john
+[15:27:27] James Johnson: Its just food
+[15:28:00] CCA.C08-GRID.i1.23710: /me would attempt to the the citizen. (Resist?)
+[15:28:07] John Smith: /me would not resist.
+[15:29:39] James Johnson: Hey agian
+[15:29:40] CCA.C08-GRID.i1.23710: .// you there?
+[15:29:43] James Johnson: I found some pulse bullets
+[15:29:51] CCA.C08-GRID.i1.23710: how the fuck?
+[15:29:52] John Smith: .// yeah, youve not said a fucking word to me
+[15:30:05] CCA.C08-GRID.i1.23710: .// oh i didnt see your thing mb
+[15:30:17] James Johnson: .// james comes back "hey so i found a rocket launcher"
+[15:30:17] CCA.C08-GRID.i1.23710: /charsearch
+[15:30:32] CCA.C08-GRID.i1.23710: /charsearch
+[15:30:41] John Smith: // that would be fucking beautiful
+[15:31:04] CCA.C08-GRID.i1.23710: alright
+[15:31:18] CCA.C08-GRID.i1.23710: where'd he go?
+[15:31:22] John Smith: no idea
+[15:31:32] CCA.C08-GRID.i1.23710: /viewdata james
+[15:31:41] Dropped "John Smith" from server<STEAM_0:1:75161355>
+[15:32:18] CCA.C08-GRID.i1.23710: // alright, im off for now
+[15:32:19] CCA.C08-GRID.i1.23710: // cya
+[15:32:29] Dropped "CCA.C08-GRID.i1.23710" from server<STEAM_0:0:193599766>
+[15:33:41] James Johnson: // where the fuck is the ration area
+[15:35:59] Dropped "James Johnson" from server<STEAM_0:1:453700418>
+[16:23:56] Dropped "Lee Maylor" from server<STEAM_0:1:53097688>

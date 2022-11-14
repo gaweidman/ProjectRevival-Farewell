@@ -1,0 +1,565 @@
+<Logging continued from "data/ulx_logs/05-04-20.txt">
+[00:39:13] Client "matt saton" connected.
+[00:42:45] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 212 seconds).
+[00:49:07] Dropped "matt saton" from server<STEAM_0:1:53097688>
+[00:49:23] Client "matt saton" connected.
+[00:51:11] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 108 seconds).
+[00:55:44] matt saton<STEAM_0:1:53097688> changed their name to Retarded Bird
+[00:57:58] Retarded Bird<STEAM_0:1:53097688> spawned sent ix_station_workbench
+[00:58:00] Retarded Bird<STEAM_0:1:53097688> spawned sent ix_station_workbench
+[00:58:03] Retarded Bird<STEAM_0:1:53097688> spawned sent ix_station_workbench
+[00:58:03] Retarded Bird<STEAM_0:1:53097688> spawned sent ix_station_workbench
+[00:58:04] Retarded Bird<STEAM_0:1:53097688> spawned sent ix_station_workbench
+[00:58:04] Retarded Bird<STEAM_0:1:53097688> spawned sent ix_station_workbench
+[00:58:04] Retarded Bird<STEAM_0:1:53097688> spawned sent ix_station_workbench
+[00:58:04] Retarded Bird<STEAM_0:1:53097688> spawned sent ix_station_workbench
+[00:58:04] Retarded Bird<STEAM_0:1:53097688> spawned sent ix_station_workbench
+[00:58:05] Retarded Bird<STEAM_0:1:53097688> spawned sent ix_station_workbench
+[00:58:33] Retarded Bird<STEAM_0:1:53097688> changed their name to CCA.C08-GRID.i4.69192
+[00:58:36] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned sent ix_station_workbench
+[00:59:05] CCA.C08-GRID.i4.69192: /chargiveitem grid water
+[00:59:16] CCA.C08-GRID.i4.69192: /chargiveitem grid cid
+[00:59:23] CCA.C08-GRID.i4.69192: /chargiveitem grid citizen
+[00:59:27] CCA.C08-GRID.i4.69192: /adminspawnmenu
+[01:00:26] CCA.C08-GRID.i4.69192: /chargiveitem grid wrench
+[01:01:06] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned sent ix_station_workbench
+[01:02:58] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned sent ix_station_workbench
+[01:03:01] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned sent ix_station_workbench
+[01:03:06] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned sent ix_station_workbench
+[01:04:21] CCA.C08-GRID.i4.69192: /doorsethidden true
+[01:06:11] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned sent ix_station_workbench
+[01:12:50] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned sent ix_vendor
+[01:12:53] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned sent ix_station_workbench
+[01:19:03] CCA.C08-GRID.i4.69192: /toggleraise
+[01:19:53] CCA.C08-GRID.i4.69192: /toggleraise
+[01:19:59] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned sent ix_station_workbench
+[01:20:00] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned sent ix_station_workbench
+[01:21:01] CCA.C08-GRID.i4.69192: /chargiveflag grid V
+[01:34:19] CCA.C08-GRID.i4.69192: /chargiveitem grid paper
+[01:34:57] CCA.C08-GRID.i4.69192: /chargiveitem grid water
+[01:55:00] Client "Crowflex" connected.
+[01:58:22] Client "Crowflex" spawned in server <STEAM_0:1:22825691> (took 202 seconds).
+[02:00:03] Crowflex<STEAM_0:1:22825691> changed their name to Andrew Bennett
+[02:07:27] Dropped "Andrew Bennett" from server<STEAM_0:1:22825691>
+[03:25:39] CCA.C08-GRID.i4.69192: /adminspawnmenu
+[03:25:43] CCA.C08-GRID.i4.69192: /adminspawnmenu
+[03:28:17] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned/gave himself swep tfa_rustalpha_torch
+[03:28:18] CCA.C08-GRID.i4.69192: /toggleraise
+[03:28:31] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned/gave himself swep tfa_rustalpha_torch
+[03:28:32] CCA.C08-GRID.i4.69192: /toggleraise
+[03:29:45] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned model models/props_junk/metal_paintcan001a.mdl
+[03:30:50] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned model models/weapons/w_packatc.mdl
+[03:30:55] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned model models/weapons/w_packatb.mdl
+[03:30:59] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned model models/weapons/w_packatc.mdl
+[03:31:05] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned model models/weapons/w_packate.mdl
+[03:31:07] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned model models/weapons/w_packate.mdl
+[03:31:11] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned model models/weapons/w_packati.mdl
+[03:31:16] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned model models/weapons/w_packatl.mdl
+[03:31:21] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned model models/weapons/w_packatp.mdl
+[03:31:24] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned model models/weapons/w_packatb.mdl
+[03:31:27] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned model models/weapons/w_packatc.mdl
+[03:32:25] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned model models/probs_misc/tobbcco_box-1.mdl
+[03:32:34] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned model models/probs_misc/tobbcco_box-1_gib1.mdl
+[03:32:36] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned model models/probs_misc/tobccco_box-1.mdl
+[03:32:42] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned model models/probs_misc/tobdcco_box-1.mdl
+[03:32:47] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned model models/foodnhouseholdaaaaa/combirationa.mdl
+[03:32:53] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned model models/foodnhouseholdaaaaa/combirationb.mdl
+[03:32:58] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned model models/foodnhouseholdaaaaa/combirationc.mdl
+[03:33:01] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned model models/gibs/props_canteen/vm_sneckol.mdl
+[03:33:06] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned model models/mres/consumables/lag_mre.mdl
+[03:33:08] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned model models/mres/consumables/pag_mre.mdl
+[03:33:23] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned model models/mres/consumables/tag_mre.mdl
+[03:33:33] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned model models/mres/consumables/zag_mre.mdl
+[03:33:50] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned model models/closedboxshin.mdl
+[03:33:54] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned model models/closedboxshit.mdl
+[03:33:59] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned model models/bioshockinfinite/hext_candy_chocolate.mdl
+[03:34:07] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned model models/phycitnew.mdl
+[03:34:11] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned model models/phycinnew.mdl
+[03:34:13] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned model models/phycitnew.mdl
+[03:34:15] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned model models/closedboxshin.mdl
+[03:34:19] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned model models/closedboxshit.mdl
+[03:34:26] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned model models/closedboxshit.mdl
+[03:35:23] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned model models/weapons/w_packatp.mdl
+[03:35:28] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned model models/weapons/w_packatl.mdl
+[03:35:32] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned model models/weapons/w_packatp.mdl
+[03:35:42] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned model models/weapons/w_packate.mdl
+[03:37:24] CCA.C08-GRID.i4.69192: /chargiveitem grid soda
+[03:37:24] CCA.C08-GRID.i4.69192: /chargiveitem grid soda
+[03:38:38] CCA.C08-GRID.i4.69192: /chargiveitem grid soda
+[03:38:43] CCA.C08-GRID.i4.69192: /chargiveitem grid soda
+[03:38:44] CCA.C08-GRID.i4.69192: /adminspawnmenu
+[03:39:11] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned model models/foodnhouseholdaaaaa/combirationa.mdl
+[03:39:14] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned model models/foodnhouseholdaaaaa/combirationb.mdl
+[03:39:22] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned model models/foodnhouseholdaaaaa/combirationc.mdl
+[03:39:25] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned model models/mres/consumables/pag_mre.mdl
+[03:39:26] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned model models/foodnhouseholdaaaaa/combirationc.mdl
+[03:39:36] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned model models/pg_plops/pg_food/pg_tortellinat.mdl
+[03:39:40] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned model models/pg_plops/pg_food/pg_tortellinan.mdl
+[03:39:42] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned model models/pg_plops/pg_food/pg_tortellinap.mdl
+[03:39:45] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned model models/pg_plops/pg_food/pg_tortellinar.mdl
+[03:39:46] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned model models/pg_plops/pg_food/pg_tortellinar.mdl
+[03:39:49] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned model models/pg_plops/pg_food/pg_tortellinan.mdl
+[03:39:51] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned model models/pg_plops/pg_food/pg_tortellinap.mdl
+[03:39:52] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned model models/pg_plops/pg_food/pg_tortellinan.mdl
+[03:39:53] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned model models/pg_plops/pg_food/pg_tortellinac.mdl
+[03:39:55] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned model models/pg_plops/pg_food/pg_tortellinap.mdl
+[03:39:57] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned model models/pg_plops/pg_food/pg_tortellinar.mdl
+[03:40:00] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned model models/pg_plops/pg_food/pg_tortellinas.mdl
+[03:40:02] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned model models/pg_plops/pg_food/pg_tortellinat.mdl
+[03:40:09] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned model models/foodnhouseholdaaaaa/combirationb.mdl
+[03:40:10] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned model models/foodnhouseholdaaaaa/combirationa.mdl
+[03:40:13] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned model models/foodnhouseholdaaaaa/combirationb.mdl
+[03:40:16] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned model models/foodnhouseholdaaaaa/combirationc.mdl
+[03:40:18] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned model models/gibs/props_canteen/vm_sneckol.mdl
+[03:40:33] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned model models/mres/consumables/lag_mre.mdl
+[03:40:44] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned model models/mres/consumables/pag_mre.mdl
+[03:40:55] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned model models/mres/consumables/tag_mre.mdl
+[03:41:06] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned model models/mres/consumables/zag_mre.mdl
+[03:41:19] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned model models/probs_misc/tobbcco_box-1.mdl
+[03:41:23] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned model models/probs_misc/tobccco_box-1.mdl
+[03:41:25] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned model models/probs_misc/tobccco_box-1.mdl
+[03:41:28] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned model models/probs_misc/tobdcco_box-1.mdl
+[03:42:02] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned model models/props_lunk/popcan01a.mdl
+[03:42:22] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned model models/props_cunk/popcan01a.mdl
+[03:42:27] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned model models/weapons/w_packatb.mdl
+[03:42:29] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned model models/weapons/w_packatc.mdl
+[03:42:32] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned model models/weapons/w_packatc.mdl
+[03:42:34] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned model models/weapons/w_packate.mdl
+[03:42:36] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned model models/weapons/w_packate.mdl
+[03:42:38] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned model models/weapons/w_packate.mdl
+[03:42:39] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned model models/weapons/w_packate.mdl
+[03:42:43] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned model models/weapons/w_packate.mdl
+[03:42:45] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned model models/weapons/w_packati.mdl
+[03:42:48] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned model models/weapons/w_packatl.mdl
+[03:42:51] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned model models/weapons/w_packatm.mdl
+[03:42:53] CCA.C08-GRID.i4.69192<STEAM_0:1:53097688> spawned model models/weapons/w_packatp.mdl
+[03:49:23] Dropped "CCA.C08-GRID.i4.69192" from server<STEAM_0:1:53097688>
+[09:51:24] Client "LilyBugRain" connected.
+[09:51:30] Client "LilyBugRain" connected.
+[10:00:55] Client "LilyBugRain" spawned in server <STEAM_0:1:526304688> (took 565 seconds).
+[10:07:34] Dropped "LilyBugRain" from server<STEAM_0:1:526304688>
+[11:15:47] Client "FB|| light ROOM" connected.
+[11:16:41] Client "FB|| light ROOM" spawned in server <STEAM_0:1:17219621> (took 54 seconds).
+[11:17:11] FB|| light ROOM<STEAM_0:1:17219621> changed their name to Ethan King
+[11:17:15] Ethan King: /chardesc
+[11:19:39] Ethan King: /chardesc
+[11:22:08] Ethan King: /chardesc
+[11:22:27] Ethan King: /chardesc
+[11:22:41] Ethan King: /chardesc
+[11:22:50] Ethan King: /chardesc
+[11:25:34] Dropped "Ethan King" from server<STEAM_0:1:17219621>
+[12:23:04] Client "FB|| light ROOM" connected.
+[12:23:49] Client "FB|| light ROOM" spawned in server <STEAM_0:1:17219621> (took 45 seconds).
+[12:24:19] FB|| light ROOM<STEAM_0:1:17219621> changed their name to Ethan King
+[12:30:14] Dropped "Ethan King" from server<STEAM_0:1:17219621>
+[12:36:26] Client "Catman" connected.
+[12:38:31] Client "FB|| light ROOM" connected.
+[12:39:18] Client "FB|| light ROOM" spawned in server <STEAM_0:1:17219621> (took 47 seconds).
+[12:39:47] FB|| light ROOM<STEAM_0:1:17219621> changed their name to Ethan King
+[12:43:58] Client "Catman" spawned in server <STEAM_0:0:93262339> (took 452 seconds).
+[12:44:42] Catman<STEAM_0:0:93262339> changed their name to CCA.C08-UNION.i3.29332
+[12:46:19] Ethan King<STEAM_0:1:17219621> changed their name to Mitchell Lazarus
+[12:47:45] CCA.C08-UNION.i3.29332: /ooc I fucking hate how you got two MPF uniforms
+[12:48:04] Mitchell Lazarus: // lmao
+[12:48:24] CCA.C08-UNION.i3.29332: /ooc Wasn't Q's uniform a event or something
+[12:48:29] Mitchell Lazarus: // Not like it actually gives us armour.
+[12:48:45] CCA.C08-UNION.i3.29332: /ooc it doesn't give us armor either
+[12:49:01] Mitchell Lazarus: // Then we're just badass Civies now.
+[12:49:10] CCA.C08-UNION.i3.29332: /ooc No
+[12:49:19] Mitchell Lazarus: // Bet
+[12:49:29] CCA.C08-UNION.i3.29332: /ooc You attacked and then kidnapped a 
+[12:49:35] CCA.C08-UNION.i3.29332: /ooc MPF in a public place
+[12:49:40] Mitchell Lazarus: sir
+[12:49:49] Mitchell Lazarus: Officer
+[12:49:53] CCA.C08-UNION.i3.29332: /ooc Put on the uniform infront of me
+[12:49:55] CCA.C08-UNION.i3.29332: What
+[12:50:17] Mitchell Lazarus: Theirs a workbench flipped over in the middle of the street, Are you gonna do something about it?
+[12:51:01] CCA.C08-UNION.i3.29332: I seriously don't care
+[12:51:18] CCA.C08-UNION.i3.29332: Its not like we use these roads
+[12:51:41] Mitchell Lazarus: That means a anti-Civie could grab and run off with it without much issue.
+[12:52:01] Mitchell Lazarus: Which allows him to make something far more than just tools.
+[12:52:36] CCA.C08-UNION.i3.29332: /me Takes the tools from the work bench or anything that can isn't get free from the work bench
+[12:52:43] CCA.C08-UNION.i3.29332: See they can't have any more tools
+[12:52:49] Mitchell Lazarus: Better.
+[12:53:02] CCA.C08-UNION.i3.29332: I fucking hate citizens
+[12:53:18] CCA.C08-UNION.i3.29332<STEAM_0:0:93262339> spawned model models/props_interiors/pot02a.mdl
+[12:54:54] CCA.C08-UNION.i3.29332<STEAM_0:0:93262339> spawned model models/props_interiors/pot02a.mdl
+[12:55:11] CCA.C08-UNION.i3.29332<STEAM_0:0:93262339> spawned model models/props_interiors/pot02a.mdl
+[12:55:53] CCA.C08-UNION.i3.29332<STEAM_0:0:93262339> spawned model models/props_interiors/pot02a.mdl
+[12:55:53] Mitchell Lazarus: //YEET
+[12:56:01] CCA.C08-UNION.i3.29332<STEAM_0:0:93262339> spawned model models/props_interiors/pot02a.mdl
+[12:56:08] CCA.C08-UNION.i3.29332<STEAM_0:0:93262339> spawned model models/props_interiors/pot02a.mdl
+[12:56:34] CCA.C08-UNION.i3.29332<STEAM_0:0:93262339> spawned model models/props_interiors/pot01a.mdl
+[12:57:05] CCA.C08-UNION.i3.29332<STEAM_0:0:93262339> spawned model models/props_interiors/pot01a.mdl
+[12:57:43] CCA.C08-UNION.i3.29332<STEAM_0:0:93262339> spawned model models/props_interiors/pot01a.mdl
+[12:57:57] CCA.C08-UNION.i3.29332<STEAM_0:0:93262339> spawned model models/props_interiors/pot01a.mdl
+[12:58:01] Mitchell Lazarus<STEAM_0:1:17219621> changed their name to Ethan King
+[12:58:19] CCA.C08-UNION.i3.29332<STEAM_0:0:93262339> spawned model models/props_interiors/pot01a.mdl
+[12:58:44] Dropped "CCA.C08-UNION.i3.29332" from server<STEAM_0:0:93262339>
+[13:03:26] Dropped "Ethan King" from server<STEAM_0:1:17219621>
+[13:04:03] Client "FB|| light ROOM" connected.
+[13:04:50] Client "FB|| light ROOM" spawned in server <STEAM_0:1:17219621> (took 47 seconds).
+[13:06:44] FB|| light ROOM<STEAM_0:1:17219621> changed their name to Ethan King
+[13:08:07] Ethan King: /actlean
+[13:09:54] Client "Kayle Solo" connected.
+[13:10:45] Ethan King: /actlean
+[13:11:43] Client "Kayle Solo" spawned in server <STEAM_0:1:39753467> (took 109 seconds).
+[13:16:34] Kayle Solo<STEAM_0:1:39753467> changed their name to Alexei Stravolsky
+[13:16:42] Ethan King: Yo
+[13:16:42] Alexei Stravolsky: /ooc oh damn
+[13:16:50] Alexei Stravolsky: /looc we ooc rn?
+[13:16:59] Ethan King: .// Sure, I guess
+[13:17:01] Alexei Stravolsky: /looc i mean noones on rn
+[13:17:10] Ethan King: .// GAmer
+[13:17:23] Ethan King: .// Give money
+[13:17:27] Alexei Stravolsky: /looc no
+[13:17:32] Ethan King: .// Well okay then
+[13:17:35] Alexei Stravolsky: /looc *default dances*
+[13:17:41] Ethan King: .// Why?
+[13:17:46] Alexei Stravolsky: /looc i dont know
+[13:17:46] Ethan King: original thought
+[13:17:52] Alexei Stravolsky: dream about cheese
+[13:18:04] Ethan King: Civil protection
+[13:18:08] Ethan King: behind you
+[13:18:10] Alexei Stravolsky: dwell on it
+[13:18:14] Ethan King: dont forget hawaii
+[13:18:20] Ethan King: first time
+[13:18:23] Alexei Stravolsky: had a dime
+[13:18:24] Ethan King: had a dime
+[13:18:28] Alexei Stravolsky: bruh
+[13:18:42] Ethan King: NO U
+[13:18:46] Alexei Stravolsky: you all over
+[13:18:50] Ethan King: Hold it against you
+[13:18:53] Alexei Stravolsky: hi
+[13:18:57] Ethan King: leave it alone
+[13:19:03] Ethan King: in the gutter
+[13:19:08] Alexei Stravolsky: bear thinking about
+[13:19:16] Ethan King: Mind on work
+[13:19:21] Alexei Stravolsky: more information
+[13:19:22] Ethan King: Nip that talk
+[13:19:29] Alexei Stravolsky: never can tell
+[13:19:32] Ethan King: Sure of that
+[13:19:38] Ethan King: say to loud
+[13:19:39] Alexei Stravolsky: no argument there
+[13:19:42] Ethan King: .// The fuck
+[13:19:50] Ethan King: Say too loud
+[13:20:00] Ethan King: you all over
+[13:20:02] Alexei Stravolsky: on your tombstone
+[13:20:06] Ethan King: tell sut up
+[13:20:10] Ethan King: tell shut up
+[13:20:12] Alexei Stravolsky: Tell shut up
+[13:20:30] Alexei Stravolsky: tell shut up
+[13:20:31] Alexei Stravolsky: tell shut up
+[13:20:31] Alexei Stravolsky: tell shut up
+[13:20:32] Alexei Stravolsky: tell shut up
+[13:20:33] Alexei Stravolsky: tell shut up
+[13:20:34] Alexei Stravolsky: tell shut up
+[13:20:41] Alexei Stravolsky: /looc bind spam is epic
+[13:20:48] Ethan King: .// Oh by the way did you forget to grab the other CP's suit?
+[13:20:54] Alexei Stravolsky: /looc yes bruh
+[13:20:58] Ethan King: .// lmao
+[13:20:59] Alexei Stravolsky: /looc Bruh
+[13:21:16] Alexei Stravolsky: talking to yourself
+[13:21:29] Ethan King: .// Well we have Zip-Ties and i have one of their radio's so we can kill another one at some point.
+[13:21:42] Alexei Stravolsky: /looc Gamer
+[13:21:56] Ethan King: .// Also theirs four of us counting watcher so gamer
+[13:22:05] Ethan King: original thought
+[13:22:19] Ethan King: .// Ow
+[13:22:27] Alexei Stravolsky: original thought
+[13:22:34] Ethan King: No how about you
+[13:22:37] Alexei Stravolsky: /looc my keyboard was being cringe for some reason
+[13:22:39] Alexei Stravolsky: no
+[13:22:43] Ethan King: dwell on it
+[13:22:49] Alexei Stravolsky: enough out of you
+[13:22:51] Alexei Stravolsky: fuck
+[13:22:53] Ethan King: .// BRB
+[13:22:56] Alexei Stravolsky: enough out of
+[13:23:55] Ethan King: .// back
+[13:24:05] Alexei Stravolsky: /looc poopy
+[13:24:05] Ethan King: How about that
+[13:24:12] Alexei Stravolsky: /looc uh oh
+[13:24:13] Alexei Stravolsky: /looc stinky
+[13:24:15] Alexei Stravolsky: /looc poopy
+[13:24:22] Ethan King: .// Old memes are great
+[13:24:27] Alexei Stravolsky: /looc correct
+[13:24:32] Ethan King: supposed to do
+[13:24:37] Alexei Stravolsky: dwell on it
+[13:24:43] Ethan King: .// No u
+[13:24:50] Alexei Stravolsky: /ooc F
+[13:25:14] Ethan King: .// Perhaps we'll get nicknames for actually being wanted by the combine now.
+[13:25:34] Alexei Stravolsky: /looc we've kicked open like
+[13:25:40] Alexei Stravolsky: /looc well
+[13:25:45] Alexei Stravolsky: /looc cut open like 6 doors at this point
+[13:26:04] Ethan King: .// We're actually rebels and not just midly annoying CP's.
+[13:26:13] Alexei Stravolsky: /looc lmao
+[13:26:39] Ethan King: .// So good for us, Also this is actually my first rebel Char i've had.
+[13:26:55] Alexei Stravolsky: /looc i have another character i wanna make a CP when trials start
+[13:27:00] Alexei Stravolsky: /looc or signups or whatever
+[13:27:02] Ethan King: .// Well that actually did something useful.
+[13:27:14] Ethan King: .// Also same for me.
+[13:27:29] Ethan King: .// I'm probably making BIG LAZZY a cp
+[13:27:34] Alexei Stravolsky: /looc i actually found a vent you can open and crawl into in the sewers
+[13:27:41] Ethan King: .// I've seen that
+[13:27:54] Ethan King: .// Someone put down some anime nullshit
+[13:28:01] Alexei Stravolsky: /looc nullshit?
+[13:28:05] Ethan King: .// *Bullshit
+[13:28:10] Alexei Stravolsky: /looc oh lmao
+[13:28:21] Ethan King: .// Sorry at the moment i'm half braindead
+[13:28:29] Alexei Stravolsky: /looc tired or smth?
+[13:28:32] Ethan King: .// Yeah
+[13:28:39] Ethan King: .// Didn't get much sleep.
+[13:28:43] Alexei Stravolsky: /charfallover
+[13:28:48] Alexei Stravolsky: /looc OH FUCK
+[13:28:48] Ethan King: .// lmao
+[13:29:04] Ethan King: // Uhhh, What happened
+[13:29:13] Alexei Stravolsky: /ooc i did /charfallover and fucking died
+[13:29:22] Ethan King: // lmao, Did you lose your shit?
+[13:29:29] Alexei Stravolsky: /ooc no its just unequipped
+[13:29:38] Alexei Stravolsky: /ooc i did lose the ammo though
+[13:29:39] Alexei Stravolsky: /ooc F
+[13:29:43] Ethan King: // Cool, Get your ass down here.
+[13:29:53] Ethan King: // Also might have to ask a Admin for ammo
+[13:30:03] Ethan King: // Just because you died for bullshit reasons
+[13:30:21] Alexei Stravolsky: /looc did q mention anything about when this server takes place? like before/after gordon gets the Epic Victory Royale
+[13:30:36] Ethan King: .// No idea, But i imagine it's before.
+[13:30:43] Client "Catman" connected.
+[13:30:58] Alexei Stravolsky: /actstand
+[13:30:58] Ethan King: .// When it says you joined a second time lmao
+[13:31:02] Alexei Stravolsky: /ooc Bruh
+[13:31:27] Ethan King: .// The outlands on this map are really pretty for some reason
+[13:31:44] Alexei Stravolsky: /looc you might wanna check out Project Half Life under BMRP
+[13:31:47] Alexei Stravolsky: /looc its really good
+[13:31:58] Alexei Stravolsky: /looc or uh
+[13:32:01] Alexei Stravolsky: /looc Project BMRP
+[13:32:01] Ethan King: .// Maybe, Let me go find it.
+[13:32:25] Alexei Stravolsky: /looc they have a minecraft server too lmao
+[13:32:48] Ethan King: // Sure i guess we can go check it out until a few people get on.
+[13:33:00] Ethan King: // See ya there.
+[13:33:02] Dropped "Ethan King" from server<STEAM_0:1:17219621>
+[13:34:39] Dropped "Alexei Stravolsky" from server<STEAM_0:1:39753467>
+[13:35:50] Client "XYZ509" connected.
+[13:37:19] Client "jeffgunn" connected.
+[13:37:26] Client "Catman" spawned in server <STEAM_0:0:93262339> (took 403 seconds).
+[13:37:34] Client "XYZ509" spawned in server <STEAM_0:1:116497963> (took 104 seconds).
+[13:38:04] Catman<STEAM_0:0:93262339> changed their name to CCA.C08-UNION.i3.29332
+[13:38:27] Dropped "CCA.C08-UNION.i3.29332" from server<STEAM_0:0:93262339>
+[13:38:55] XYZ509<STEAM_0:1:116497963> changed their name to Jimmy 'Watcher 3' John
+[13:39:55] Client "jeffgunn" spawned in server <STEAM_0:0:532864343> (took 156 seconds).
+[13:40:47] Dropped "Jimmy 'Watcher 3' John" from server<STEAM_0:1:116497963>
+[13:42:06] Dropped "jeffgunn" from server<STEAM_0:0:532864343>
+[14:19:44] Client "FB|| light ROOM" connected.
+[14:21:16] Client "FB|| light ROOM" spawned in server <STEAM_0:1:17219621> (took 92 seconds).
+[14:22:03] FB|| light ROOM<STEAM_0:1:17219621> changed their name to Ethan King
+[14:22:28] Dropped "Ethan King" from server<STEAM_0:1:17219621>
+[14:28:39] Client "FB|| light ROOM" connected.
+[14:30:06] Client "FB|| light ROOM" spawned in server <STEAM_0:1:17219621> (took 87 seconds).
+[14:30:40] FB|| light ROOM<STEAM_0:1:17219621> changed their name to Ethan King
+[14:37:18] Dropped "Ethan King" from server<STEAM_0:1:17219621>
+[14:50:06] Client "FB|| light ROOM" connected.
+[15:10:09] Client "FB|| light ROOM" connected.
+[15:11:40] Client "FB|| light ROOM" spawned in server <STEAM_0:1:17219621> (took 91 seconds).
+[15:11:41] Client "Kayle Solo" connected.
+[15:12:02] FB|| light ROOM<STEAM_0:1:17219621> changed their name to Ethan King
+[15:12:23] Client "Kayle Solo" spawned in server <STEAM_0:1:39753467> (took 42 seconds).
+[15:12:49] Kayle Solo<STEAM_0:1:39753467> changed their name to Nicholas Nilsson
+[15:13:18] Dropped "Nicholas Nilsson" from server<STEAM_0:1:39753467>
+[15:22:44] Ethan King: /actlean
+[15:24:34] Dropped "Ethan King" from server<STEAM_0:1:17219621>
+[15:25:35] Client "FB|| light ROOM" connected.
+[15:26:22] Client "FB|| light ROOM" spawned in server <STEAM_0:1:17219621> (took 47 seconds).
+[15:29:41] FB|| light ROOM<STEAM_0:1:17219621> changed their name to Ethan King
+[15:34:16] Ethan King<STEAM_0:1:17219621> changed their name to Mitchell Lazarus
+[15:35:37] Client "Catman" connected.
+[15:36:01] Client "Kayle Solo" connected.
+[15:36:32] Client "Kayle Solo" spawned in server <STEAM_0:1:39753467> (took 31 seconds).
+[15:37:00] Kayle Solo<STEAM_0:1:39753467> changed their name to Alexei Stravolsky
+[15:37:08] Alexei Stravolsky: /ooc BIG MITCH
+[15:37:12] Mitchell Lazarus<STEAM_0:1:17219621> changed their name to Ethan King
+[15:37:23] Alexei Stravolsky: /ooc isnt big mitch the name of a phineas and ferb character
+[15:37:40] Ethan King: // Bruh, I found so much shit on my mitchell Char and not my rebel.
+[15:37:47] Ethan King<STEAM_0:1:17219621> changed their name to Mitchell Lazarus
+[15:37:55] Alexei Stravolsky: /ooc isnt big mitch cp
+[15:38:03] Mitchell Lazarus: // trying to make him one.
+[15:38:43] Mitchell Lazarus: // I'm so close to bringing this shit to are hiding spot.
+[15:38:54] Alexei Stravolsky: /ooc what is it
+[15:38:55] Mitchell Lazarus: // Not gonna but i'm close
+[15:39:14] Alexei Stravolsky: /ooc is it good stuff
+[15:39:18] Mitchell Lazarus: // Found like ten flashlights, A thermos, And some other shit.
+[15:39:33] Alexei Stravolsky: /ooc how
+[15:39:57] Mitchell Lazarus: // Remeber that store we broke into to find shit?
+[15:40:15] Alexei Stravolsky: /ooc mhmm
+[15:40:25] Mitchell Lazarus: // it was in there
+[15:40:28] Client "Catman" spawned in server <STEAM_0:0:93262339> (took 291 seconds).
+[15:40:39] Alexei Stravolsky: /ooc who tf was catman
+[15:40:45] Alexei Stravolsky: /ooc uh
+[15:40:47] Alexei Stravolsky: /ooc is catman
+[15:41:01] Dropped "Catman" from server<STEAM_0:0:93262339>
+[15:41:08] Alexei Stravolsky: /ooc bruh remember that guy who just kept coughing over his mic
+[15:41:23] Mitchell Lazarus: // He was a legend not gonna lie
+[15:41:29] Alexei Stravolsky: /ooc he was vibin doe
+[15:41:36] Mitchell Lazarus: // Ye
+[15:41:46] Alexei Stravolsky: /ooc he did need his breen water doe
+[15:42:14] Mitchell Lazarus: // I'm stashin this shit
+[15:42:28] Alexei Stravolsky: /ooc i have a character who i wanna make a CP
+[15:43:36] Alexei Stravolsky: /ooc i wonder how many doors we broke
+[15:44:07] Mitchell Lazarus: // Think four
+[15:44:30] Mitchell Lazarus<STEAM_0:1:17219621> changed their name to Ethan King
+[15:44:45] Alexei Stravolsky: /ooc i was right, big mitch is the name of a phineas and ferb character
+[15:44:54] Ethan King: // Thats pretty neat.
+[15:45:23] Alexei Stravolsky: /ooc cant wait for q or watcher to get on
+[15:45:30] Ethan King: // Hopefully you find that stash of items I put down so we can IC get them without Meta.
+[15:46:01] Ethan King: Alex
+[15:46:27] Ethan King: Alex?
+[15:47:05] Alexei Stravolsky: Yeah?
+[15:47:08] Alexei Stravolsky: /looc i was afk lmao
+[15:47:13] Ethan King: .// Oof
+[15:47:35] Ethan King: You think that "Watcher" guy is trustworthy?
+[15:47:47] Alexei Stravolsky: Yeah. Why?
+[15:48:15] Ethan King: Hmmm, I found it strange that the combine didn't kill him but just caved him in.
+[15:48:36] Alexei Stravolsky: How do you know he didn't get there a different way? He could be from an entirely different city.
+[15:49:08] Ethan King: Perhaps, Though I can't complain about him since we do have a mutual agreement.
+[15:49:30] Ethan King: We're rebels who want to destroy the combine, that we can relate to.
+[15:49:47] Alexei Stravolsky: I'm just happy to be getting out of here.
+[15:49:52] Ethan King: Yeah.
+[15:49:59] Ethan King: .// Gotta AFK for a minute
+[15:50:03] Alexei Stravolsky: /looc oh god imagine that store owners reaction
+[15:50:12] Alexei Stravolsky: /looc he gets to work and all his shit is gone
+[15:54:43] Ethan King: .// YEE
+[15:54:56] Alexei Stravolsky: /looc oo oo a a justin is gorila
+[15:55:04] Ethan King: .// OOGGAAA BOOGASAA
+[15:55:17] Alexei Stravolsky: /ooc UNGA BUNGA I NEED TO GO LOOK AT CAVE PAINTING
+[15:55:31] Ethan King: // ME HIT TINY MAN WITH ROCK
+[15:55:45] Alexei Stravolsky: /OOC HIT FLOOR WITH STONE
+[15:56:27] Ethan King: So, Are your wounds healed yet?
+[15:56:35] Alexei Stravolsky: A little.
+[15:56:42] Ethan King: Better than nothing.
+[15:56:46] Alexei Stravolsky: /looc tfw you were at like 30 smth health and now its back to 90 smth
+[15:56:50] Alexei Stravolsky: /looc le epic!
+[15:57:00] Ethan King: .// Don't worry about it i'm magic
+[15:57:02] Alexei Stravolsky: /looc bro if you wanna heal just die smh
+[15:57:15] Ethan King: .// Unless you have lots of ammo equiped
+[15:57:26] Ethan King: .// Thats when it becomes a issue.
+[15:58:19] Alexei Stravolsky: /looc so if you know the song regulate by warren g
+[15:58:21] Ethan King: .// Wonder when Watcher or Q is getting on
+[15:58:35] Ethan King: .// Also no i don't know that song
+[15:58:40] Alexei Stravolsky: /looc its a rap song
+[15:58:48] Alexei Stravolsky: /looc kinda like 90s rap, not the newer stuff
+[15:59:12] Alexei Stravolsky: /looc someone made a music video for it with footage of bert and ernie from sesame street and its like perfectly lip synced
+[15:59:33] Ethan King: .// Thats amazing.
+[15:59:43] Alexei Stravolsky: /looc lmao yeah
+[15:59:58] Ethan King: .// This is not very gamer.
+[16:00:12] Alexei Stravolsky: /looc idk if you wanna be annoying you can ask on discord when they'll get on
+[16:00:41] Ethan King: Unless their are ladders it might be difficult to get down there.
+[16:00:47] Alexei Stravolsky: Yeah.
+[16:00:59] Alexei Stravolsky: /looc hmm i wonder what that is right there
+[16:01:14] Ethan King: .// I mean going down every floor.
+[16:01:20] Alexei Stravolsky: /looc oh
+[16:01:23] Ethan King: .// Lmao
+[16:01:33] Ethan King: .// I'm retarded but not that retarded
+[16:01:42] Ethan King: .// Also not blind
+[16:02:04] Ethan King: .// These are the only songs the combine enjoy
+[16:02:18] Alexei Stravolsky: /looc it do be bopping doe
+[16:02:22] Ethan King: .// They have very dedicated taste.
+[16:02:32] Alexei Stravolsky: /stash
+[16:02:32] Ethan King: // YEE
+[16:02:35] Alexei Stravolsky: /ooc its ok gamer
+[16:02:45] Ethan King: // We're just vibing gamer.
+[16:03:35] Ethan King: Yo
+[16:03:41] Ethan King: What are these posters?
+[16:03:48] Alexei Stravolsky: I dunno.
+[16:03:55] Ethan King: Look like Movies.
+[16:04:09] Alexei Stravolsky: /ooc i have only ever played Mankind Divided and Human Revolution, i really wanna play the original deus ex games
+[16:04:12] Alexei Stravolsky: Maybe.
+[16:04:33] Ethan King: Original thought
+[16:04:38] Alexei Stravolsky: no
+[16:04:42] Ethan King: Me neither
+[16:04:42] Alexei Stravolsky: /looc bruh
+[16:04:55] Ethan King: Civil protection
+[16:05:00] Alexei Stravolsky: dwell on it
+[16:05:03] Ethan King: NO U
+[16:05:06] Alexei Stravolsky: DREAM ABOUT CHEESE
+[16:05:10] Ethan King: dont forget hawaii
+[16:05:22] Ethan King: "Don't forget Hawaii
+[16:05:27] Ethan King: .// Wait what
+[16:05:29] Alexei Stravolsky: Bear thinking about
+[16:05:37] Ethan King: .// Dont forget hawaii
+[16:05:44] Ethan King: Dont forget hawaii
+[16:05:45] Ethan King: Dont forget hawaii
+[16:05:47] Ethan King: Dont forget hawaii
+[16:05:48] Ethan King: Dont forget hawaii
+[16:05:52] Ethan King: .// It worked
+[16:05:55] Ethan King: Dont forget hawaii
+[16:06:07] Ethan King: Dont forget hawaii
+[16:06:08] Ethan King: Dont forget hawaii
+[16:06:10] Ethan King: Dont forget hawaii
+[16:07:39] Ethan King: https://discord.com/channels/396055899061354506/396055899615264779/707296742168854608
+[16:07:59] Alexei Stravolsky: /looc heres a fun fact: the owner of the BMRP server i sent you to has traced furry porn and its a Phat Meme in the community
+[16:08:12] Ethan King: .// Lmao
+[16:08:27] Alexei Stravolsky: /looc the guy remaking the map with BMS textures said hes gonna put it as a big ass poster in the devbox
+[16:08:38] Ethan King: .// Bruh, What a legend
+[16:08:41] Alexei Stravolsky: /looc which is just a big cube devs go to test things
+[16:08:52] Ethan King: .// Pretty NEAT
+[16:09:21] Alexei Stravolsky: /looc top ten n word
+[16:09:28] Ethan King: .// NO U
+[16:09:33] Ethan King: .// NOCLIP
+[16:09:48] Alexei Stravolsky: /ooc fart penis sex
+[16:09:53] Ethan King: // BRUH
+[16:10:05] Ethan King: .// GIVE MONEY
+[16:10:06] Alexei Stravolsky: /ooc i made some dumb shit in sandbox earlier
+[16:10:10] Alexei Stravolsky: /looc Nao
+[16:10:13] Ethan King: .// FUCK
+[16:10:55] Alexei Stravolsky: /looc fuck you radio
+[16:10:55] Ethan King: .// lmao
+[16:11:11] Ethan King: .// BRUH
+[16:12:01] Alexei Stravolsky: /looc Freeman, you fool!
+[16:12:09] Ethan King: // I'm stuck because a ladder won't work
+[16:14:12] Alexei Stravolsky: /ooc Bruh
+[16:14:29] Ethan King: // This is not very Gamer
+[16:15:12] Ethan King: // lmao
+[16:15:32] Alexei Stravolsky<STEAM_0:1:39753467> changed their name to Nicholas Nilsson
+[16:15:41] Nicholas Nilsson: /ooc oh
+[16:15:43] Nicholas Nilsson: /ooc i found the stash
+[16:15:49] Nicholas Nilsson: /ooc i spawned next to it
+[16:15:51] Ethan King<STEAM_0:1:17219621> changed their name to Mitchell Lazarus
+[16:16:00] Nicholas Nilsson: /ooc kind  of a bruh moment ngl
+[16:16:01] Mitchell Lazarus: // Yee.
+[16:16:25] Mitchell Lazarus: // Imma have to go for about 30 minutes.
+[16:16:31] Nicholas Nilsson: /ooc Breen is gonna say the N WORD
+[16:16:34] Nicholas Nilsson: /ooc ok gamer
+[16:16:37] Dropped "Mitchell Lazarus" from server<STEAM_0:1:17219621>
+[16:16:54] Dropped "Nicholas Nilsson" from server<STEAM_0:1:39753467>
+[16:55:55] Client "FB|| light ROOM" connected.
+[16:56:41] Client "FB|| light ROOM" spawned in server <STEAM_0:1:17219621> (took 46 seconds).
+[16:57:04] FB|| light ROOM<STEAM_0:1:17219621> changed their name to Ethan King
+[16:57:21] Ethan King<STEAM_0:1:17219621> changed their name to Mitchell Lazarus
+[17:06:33] Mitchell Lazarus was killed by trigger_hurt
+[17:07:40] Dropped "Mitchell Lazarus" from server<STEAM_0:1:17219621>
+[17:19:58] Client "FB|| light ROOM" connected.
+[17:20:31] Client "FB|| light ROOM" spawned in server <STEAM_0:1:17219621> (took 33 seconds).
+[17:21:36] FB|| light ROOM<STEAM_0:1:17219621> changed their name to Ethan King
+[17:23:55] Ethan King<STEAM_0:1:17219621> changed their name to Mitchell Lazarus
+[17:28:33] Mitchell Lazarus: /actsit
+[17:31:32] Mitchell Lazarus<STEAM_0:1:17219621> changed their name to Ethan King
+[17:50:40] Dropped "Ethan King" from server<STEAM_0:1:17219621>
+[18:40:22] Client "FB|| light ROOM" connected.
+[18:40:56] Client "FB|| light ROOM" spawned in server <STEAM_0:1:17219621> (took 34 seconds).
+[18:41:20] FB|| light ROOM<STEAM_0:1:17219621> changed their name to Ethan King
+[18:42:17] Ethan King<STEAM_0:1:17219621> changed their name to Mitchell Lazarus
+[18:55:11] Mitchell Lazarus<STEAM_0:1:17219621> changed their name to Ethan King
+[18:55:36] Ethan King<STEAM_0:1:17219621> changed their name to Mitchell Lazarus
+[19:02:19] Mitchell Lazarus<STEAM_0:1:17219621> changed their name to Ethan King
+[19:04:23] Dropped "Ethan King" from server<STEAM_0:1:17219621>
+[20:05:47] Client "FB|| light ROOM" connected.
+[20:06:33] Client "FB|| light ROOM" spawned in server <STEAM_0:1:17219621> (took 46 seconds).
+[20:07:59] FB|| light ROOM<STEAM_0:1:17219621> changed their name to Ethan King
+[20:35:25] Dropped "Ethan King" from server<STEAM_0:1:17219621>
+[21:22:53] Client "Catman" connected.
+[21:26:54] Server is shutting down/changing levels.
+
+
+
+[21:30:26] New map: rp_city8_edit_v4r
+[21:32:45] Client "Catman" connected.
+[21:36:50] Client "Catman" spawned in server <STEAM_0:0:93262339> (took 245 seconds).
+[21:37:43] Catman<STEAM_0:0:93262339> changed their name to CCA.C08-UNION.i3.29332
+[21:41:48] Dropped "CCA.C08-UNION.i3.29332" from server<STEAM_0:0:93262339>

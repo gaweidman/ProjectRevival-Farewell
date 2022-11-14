@@ -1,0 +1,518 @@
+[03:46:18] New map: rp_stardestroyer_v2_5
+[12:25:37] Client "FB|| light ROOM" connected.
+[12:34:08] Client "FB|| light ROOM" connected.
+[12:35:15] Client "FB|| light ROOM" spawned in server <STEAM_0:1:17219621> (took 67 seconds).
+[12:50:09] Dropped "FB|| light ROOM" from server<STEAM_0:1:17219621>
+[13:05:08] Client "FB|| light ROOM" connected.
+[13:06:13] Client "FB|| light ROOM" spawned in server <STEAM_0:1:17219621> (took 65 seconds).
+[13:09:48] Dropped "Corporal TK-7886" from server<STEAM_0:1:17219621>
+[13:25:52] Client "FB|| light ROOM" connected.
+[13:27:04] Client "FB|| light ROOM" spawned in server <STEAM_0:1:17219621> (took 72 seconds).
+[13:32:44] Dropped "Sergeant Owen ''Bulwark'' Tump" from server<STEAM_0:1:17219621>
+[13:46:05] Client "FB|| light ROOM" connected.
+[13:46:39] Client "FB|| light ROOM" connected.
+[13:47:41] Client "FB|| light ROOM" spawned in server <STEAM_0:1:17219621> (took 62 seconds).
+[13:51:32] Lance Corporal TX-7062: // greahe
+[13:52:39] Lance Corporal TX-7062<STEAM_0:1:17219621> spawned model models/props_phx/construct/metal_plate4x4_tri.mdl
+[13:53:04] Lance Corporal TX-7062: /charsetmodel Shadow models/props_c17/canister02a.mdl
+[13:53:11] Lance Corporal TX-7062: /charsetmodel TX models/props_c17/canister02a.mdl
+[13:55:13] Lance Corporal TX-7062: /charsetmodel TX models/player/ven/tk_shadowtrooper_01/tk_shadowtrooper.mdl
+[13:55:32] Lance Corporal TX-7062: !health TX 100
+
+
+
+[14:03:03] New map: rp_stardestroyer_v2_5
+[14:03:19] Client "FB|| light ROOM" connected.
+[14:04:20] Client "FB|| light ROOM" spawned in server <STEAM_0:1:17219621> (took 61 seconds).
+[14:08:43] Client "matt saton" connected.
+[14:10:10] Client "DRD" connected.
+[14:10:19] Client "matt saton" connected.
+[14:10:25] Client "matt saton" connected.
+[14:12:16] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 111 seconds).
+[14:13:21] Lieutenant Ezyn Linmer: //howdy
+[14:13:26] Lieutenant Ezyn Linmer: //guess who forgot to install the content
+[14:13:56] Client "DRD" spawned in server <STEAM_0:0:193599766> (took 226 seconds).
+[14:15:18] Lance Corporal TX-7062: !BRING Ezyn
+[14:15:25] Lance Corporal TX-7062: // Hey, Q.
+[14:15:28] Lieutenant Ezyn Linmer: //sup
+[14:15:30] Lieutenant Ezyn Linmer: //yes let me fix
+[14:15:36] Lance Corporal TX-7062: // Bet
+[14:15:43] Lieutenant Ezyn Linmer: !menu
+[14:15:45] Client "Red blood cell" connected.
+[14:15:51] Lance Corporal TX-7062: // Heal me while you're at it.
+[14:15:54] Lieutenant Ezyn Linmer removed all access rights from FB|| light ROOM
+[14:15:57] Lieutenant Ezyn Linmer: //fixed
+[14:15:59] Lieutenant Ezyn Linmer set the hp for Lance Corporal TX-7062 to 100
+[14:15:59] Lieutenant Ezyn Linmer: !hp lance 100
+[14:16:00] Lieutenant Ezyn Linmer: //dfone
+[14:16:11] Lance Corporal TX-7062: // Pog
+[14:16:52] Lieutenant Ezyn Linmer<STEAM_0:1:53097688> spawned vehicle models/nova/airboat_seat.mdl
+[14:16:55] Lieutenant Ezyn Linmer<STEAM_0:1:53097688> spawned vehicle models/nova/airboat_seat.mdl
+[14:16:57] Lieutenant Ezyn Linmer<STEAM_0:1:53097688> spawned vehicle models/nova/airboat_seat.mdl
+[14:17:06] Lieutenant Ezyn Linmer: //SUP DRD
+[14:17:08] Lieutenant Ezyn Linmer: //sup drd*
+[14:17:25] Lance Corporal TX-7062: // SUP DRD
+[14:17:34] Petty Officer Third Class Kariss Novar to admins: we don't have editbodygroup with the menu?
+[14:17:41] Lieutenant Ezyn Linmer: /pm kariss nosir
+[14:17:44] Lieutenant Ezyn Linmer to admins: nosir
+[14:17:53] Petty Officer Third Class Kariss Novar to admins: unfortunate, you should add it
+[14:18:00] Lieutenant Ezyn Linmer to admins: next restart, not gonna restart again
+[14:18:31] Dropped "Petty Officer Third Class Kariss Novar" from server<STEAM_0:0:193599766>
+[14:18:31] Lance Corporal TX-7062: // he crashed
+[14:18:34] Lance Corporal TX-7062: // Dumbo
+[14:19:43] Lieutenant Ezyn Linmer teleported to Lance Corporal TX-7062
+[14:19:43] Lieutenant Ezyn Linmer: !goto lance
+[14:19:46] Lieutenant Ezyn Linmer: //brb
+[14:19:47] Dropped "Lieutenant Ezyn Linmer" from server<STEAM_0:1:53097688>
+[14:21:03] Client "matt saton" connected.
+[14:22:31] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 88 seconds).
+[14:24:56] Lieutenant Ezyn Linmer: //sup
+[14:25:00] Lance Corporal TX-7062: // Yo
+[14:25:03] Lance Corporal TX-7062: // Vibin
+[14:25:09] Lieutenant Ezyn Linmer teleported to Lance Corporal TX-7062
+[14:25:09] Lieutenant Ezyn Linmer: !goto lance
+[14:25:18] Client "DRD" connected.
+[14:27:04] Recruit TK-1688: /roll 9999
+[14:27:09] Recruit TK-1688: /charsetname recruit "Staff Sergeant RG-0510"
+[14:27:11] Lance Corporal TX-7062: // I have a Lollipop in my inventory.
+[14:27:40] Client "DRD" spawned in server <STEAM_0:0:193599766> (took 142 seconds).
+[14:29:05] Staff Sergeant RG-0510: /charsetmodel rg models/epangelmatikes/royalguard/royal_guard.mdl
+[14:30:13] Lance Corporal TX-7062: // I have learned that blaster barrel length does actually matter.
+[14:30:42] Lance Corporal TX-7062: /me Would be seen without a helmet on, sucking on what looks to be a green Lollipop.
+[14:31:35] Petty Officer Third Class Kariss Novar to admins: q we still don't have the bodygroup tool\
+[14:31:40] Staff Sergeant RG-0510 to admins: FUCK
+[14:31:46] Staff Sergeant RG-0510 to admins: shit fuck i knew we were missing something
+[14:31:58] Staff Sergeant RG-0510 to admins: use the edit icon in the spawnmenu to see the bodygroups
+[14:32:25] Lance Corporal TX-7062: // Just vibin with a Lollipop.
+[14:33:36] Petty Officer Third Class Kariss Novar<STEAM_0:0:193599766> spawned NPC npc_vjks_amedic2
+[14:34:11] Petty Officer Third Class Kariss Novar<STEAM_0:0:193599766> spawned NPC npc_vjks_amedic2f
+[14:34:30] Staff Sergeant RG-0510: /me would turn and inspect the shadow trooper, his visor pointed straight at him.
+[14:34:35] Lance Corporal TX-7062: /me Would look at the Red Guard for a second, shrugging before returing to his Lollipop.
+[14:34:58] Lance Corporal TX-7062: .// is Halloween the actual name for the holiday or does Star Wars have a fucky variant of it?
+[14:35:11] Petty Officer Third Class Kariss Novar<STEAM_0:0:193599766> spawned ragdoll models/kriegsyntax/imperial/army/medics/playermodel_male_01.mdl
+[14:35:12] Staff Sergeant RG-0510: .//idk, i don';t know if halloween is even a canon thing
+[14:35:23] Staff Sergeant RG-0510: .//or extended universe
+[14:35:28] Lance Corporal TX-7062: .// Fuck it, we'll say it is for fun sakes.
+[14:35:32] Petty Officer Third Class Kariss Novar: .// remmenant of an old human practice called uh
+[14:35:39] Petty Officer Third Class Kariss Novar: .// sanheim
+[14:35:44] Staff Sergeant RG-0510: .//LMAO
+[14:35:54] Petty Officer Third Class Kariss Novar<STEAM_0:0:193599766> spawned ragdoll models/kriegsyntax/imperial/army/medics/playermodel_male_01.mdl
+[14:35:58] Staff Sergeant RG-0510 to admins: your flashlight is on
+[14:36:06] Petty Officer Third Class Kariss Novar<STEAM_0:0:193599766> spawned ragdoll models/kriegsyntax/imperial/army/medics/playermodel_male_01.mdl
+[14:36:15] Lance Corporal TX-7062: /me Would look up at the Red Guard once again, "Anything you need from me?"
+[14:36:17] Petty Officer Third Class Kariss Novar to admins: can i have a coat
+[14:36:26] Staff Sergeant RG-0510 to admins: yeah, do you know how to find the name of the bodygroup
+[14:36:26] Petty Officer Third Class Kariss Novar to admins: correction, MAY i have a coat?
+[14:36:28] Lance Corporal TX-7062: .// Me noticing you're a Staff Sergeant.
+[14:36:31] Petty Officer Third Class Kariss Novar to admins: yes
+[14:36:44] Petty Officer Third Class Kariss Novar: /charsetbodygroup kariss base_uniform 3
+[14:36:46] Staff Sergeant RG-0510 to admins: oh you mean like are you cleared to have one, yeah, absolutely
+[14:36:53] Petty Officer Third Class Kariss Novar: /charsetbodygroup kariss base_uniform 2
+[14:37:08] Petty Officer Third Class Kariss Novar: /charsetbodygroup kariss base_uniform 1
+[14:37:12] Petty Officer Third Class Kariss Novar: // EWWWWW
+[14:37:19] Petty Officer Third Class Kariss Novar: // THE RAINCOAT
+[14:37:28] Petty Officer Third Class Kariss Novar: // LOOK AT THIS SHIT
+[14:37:30] Staff Sergeant RG-0510: /me would speak a single word, a decisive "No" and nothing more. He continues on.
+[14:37:33] Staff Sergeant RG-0510: //ew
+[14:37:36] Lance Corporal TX-7062: I see.
+[14:37:40] Staff Sergeant RG-0510: //is my pike showing on ym back
+[14:37:42] Petty Officer Third Class Kariss Novar: /charsetbodygroup kariss base_uniform 2
+[14:37:46] Lance Corporal TX-7062: // Negative
+[14:37:47] Petty Officer Third Class Kariss Novar: // it is not
+[14:37:50] Staff Sergeant RG-0510: //fucking dick
+[14:38:08] Staff Sergeant RG-0510: //well i'm not waiting for meisen
+[14:38:14] Staff Sergeant RG-0510: /toggleraise
+[14:38:16] Staff Sergeant RG-0510: /toggleraise
+[14:38:16] Petty Officer Third Class Kariss Novar to admins: shit, we should make actual rank insignias
+[14:38:21] Lance Corporal TX-7062: // Red Guard are cringe, I would like you to know that.
+[14:38:26] Staff Sergeant RG-0510: //your cring
+[14:38:29] Petty Officer Third Class Kariss Novar to admins: medic model has two versions of all the ranks
+[14:38:35] Lance Corporal TX-7062: // Shadow Troopers are pog.
+[14:39:09] Lance Corporal TX-7062: // We can both agree to the fact that Navy is actually the spawn of satan.
+[14:39:18] Staff Sergeant RG-0510: //navy is awesome
+[14:39:21] Petty Officer Third Class Kariss Novar: /charsetskin kariss 1
+[14:39:22] Petty Officer Third Class Kariss Novar: /charsetskin kariss 2
+[14:39:24] Petty Officer Third Class Kariss Novar: /charsetskin kariss 0
+[14:39:26] Petty Officer Third Class Kariss Novar: /charsetskin kariss 1
+[14:39:29] Lance Corporal TX-7062: // HOW DARE YOU
+[14:39:35] Petty Officer Third Class Kariss Novar: /charsetbodygroup kariss base_uniform 2
+[14:39:37] Petty Officer Third Class Kariss Novar: /charsetbodygroup kariss base_uniform 1
+[14:39:39] Petty Officer Third Class Kariss Novar: /charsetbodygroup kariss base_uniform 0
+[14:39:50] Petty Officer Third Class Kariss Novar: /charsetskin kariss 1
+[14:39:51] Petty Officer Third Class Kariss Novar: /charsetskin kariss 2
+[14:39:53] Petty Officer Third Class Kariss Novar: /charsetskin kariss 21
+[14:39:55] Petty Officer Third Class Kariss Novar: /charsetskin kariss 1
+[14:39:57] Petty Officer Third Class Kariss Novar: /charsetskin kariss 2
+[14:39:58] Petty Officer Third Class Kariss Novar: /charsetskin kariss 1
+[14:40:00] Petty Officer Third Class Kariss Novar: /charsetskin kariss 2
+[14:40:01] Petty Officer Third Class Kariss Novar: /charsetskin kariss 1
+[14:40:03] Petty Officer Third Class Kariss Novar: /charsetskin kariss 2
+[14:40:05] Petty Officer Third Class Kariss Novar: /charsetskin kariss 1
+[14:40:08] Petty Officer Third Class Kariss Novar: /charsetskin kariss 2
+[14:40:11] Staff Sergeant RG-0510: /event The speakers around the ship click on.
+[14:40:15] Petty Officer Third Class Kariss Novar: /charsetbodygroup kariss base_uniform 2
+[14:40:32] Petty Officer Third Class Kariss Novar: hey
+[14:40:34] Staff Sergeant RG-0510 teleported to Petty Officer Third Class Kariss Novar
+[14:40:38] Lance Corporal TX-7062: /me Would look up at the medical officer, still sucking on his Lollipop, "What's up?"
+[14:40:49] Petty Officer Third Class Kariss Novar: you know, that sucker is unhealthy
+[14:40:54] Staff Sergeant RG-0510<STEAM_0:1:53097688> spawned sent lunasflightschool_lambda
+[14:40:56] Lance Corporal TX-7062: Correct
+[14:41:01] Staff Sergeant RG-0510: /chargiveflag rg pet
+[14:41:13] Staff Sergeant RG-0510: /event '"Attention, all members of the 394th deployment, report to the Main Hangar Bay immediately."'
+[14:41:20] Staff Sergeant RG-0510: //wtf
+[14:41:24] Lance Corporal TX-7062: We apart of that?
+[14:41:27] Staff Sergeant RG-0510: /event "'"Attention, all members of the 394th deployment, report to the Main Hangar Bay immediately."'"
+[14:41:31] Staff Sergeant RG-0510: //?SDSDAF?DSAFSAFDSA
+[14:41:34] Staff Sergeant RG-0510: //HOW
+[14:41:38] Staff Sergeant RG-0510: //whatever, you heard the man
+[14:41:46] Staff Sergeant RG-0510: //you guys are 394th deployment
+[14:41:53] Lance Corporal TX-7062: Fuck it, lets just go and see what happens.
+[14:41:58] Petty Officer Third Class Kariss Novar: uh
+[14:41:58] Petty Officer Third Class Kariss Novar: /toggleraise
+[14:42:01] Petty Officer Third Class Kariss Novar: /toggleraise
+[14:42:11] Petty Officer Third Class Kariss Novar<STEAM_0:0:193599766> spawned ragdoll models/kriegsyntax/imperial/army/medics/playermodel_male_01.mdl
+[14:42:31] Petty Officer Third Class Kariss Novar: /charsetbodygroup karissa mask 1
+[14:42:37] Petty Officer Third Class Kariss Novar: /charsetbodygroup kariss mask 1
+[14:42:55] Lance Corporal TX-7062: /comm I've arrived at the Main Hangar Bay, awaiting further orders.
+[14:42:57] Petty Officer Third Class Kariss Novar: /charsetbodygroup kariss keycard 1
+[14:42:59] Petty Officer Third Class Kariss Novar: /charsetbodygroup kariss keycard 2
+[14:43:02] Petty Officer Third Class Kariss Novar: /charsetbodygroup kariss keycard 3
+[14:43:16] Lord Vader: //this model
+[14:43:18] Lord Vader: //iks so fucking bad
+[14:43:27] Lance Corporal TX-7062: // I like to imagine I still have a lollipop in my mouth.
+[14:43:39] Lord Vader: //i hope you like being not alive
+[14:43:41] Petty Officer Third Class Kariss Novar: /charsetbodygroup kariss hat 3
+[14:43:45] Lance Corporal TX-7062: // I DO
+[14:43:53] Petty Officer Third Class Kariss Novar: /charsetbodygroup kariss hat 1
+[14:43:54] Petty Officer Third Class Kariss Novar: /charsetbodygroup kariss hat 2
+[14:44:02] Lord Vader: //ignore lightsaber sounds
+[14:44:02] Petty Officer Third Class Kariss Novar: /charsetbodygroup kariss keycard 2
+[14:44:10] Lord Vader: /me would proceed to tie the individual. Would they resist?
+[14:44:13] Petty Officer Third Class Kariss Novar: /charsetbodygroup kariss mask 2
+[14:44:15] Petty Officer Third Class Kariss Novar: /charsetbodygroup kariss mask 3
+[14:44:16] Petty Officer Third Class Kariss Novar: /charsetbodygroup kariss mask 1
+[14:44:17] Lord Vader: /me would proceed to tie the individual. Would they resist?
+[14:44:18] Petty Officer Third Class Kariss Novar: /charsetbodygroup kariss mask 0
+[14:44:19] Lord Vader: /toggleraise
+[14:44:21] Lord Vader: /toggleraise
+[14:44:22] Lord Vader: /toggleraise
+[14:45:11] Petty Officer Third Class Kariss Novar: // why are you so muscular
+[14:45:17] Lord Vader: //because the model is shitty
+[14:45:24] Lord Vader: //it's from soulcalibur 4
+[14:45:26] Petty Officer Third Class Kariss Novar: // why is there a fan blowing your cape up
+[14:45:27] Lance Corporal TX-7062: /me Would salute at the presence of Darth Vader, simply staying quiet and awaiting any commands given to him.
+[14:45:51] Petty Officer Third Class Kariss Novar: /me would do a correct PALM OPEN NAVAL SALUTE like a TRUE classy person.
+[14:46:12] Lord Vader: /me would wait for a moment before speaking.
+[14:46:13] Lord Vader: At ease.
+[14:46:25] Lance Corporal TX-7062: /me Would stand at ease, keeping his rifle in front of him.
+[14:46:30] Petty Officer Third Class Kariss Novar: /me would put his hands behind his back, standing at ease.
+[14:47:12] Lord Vader: 394th deployment, I have work for you. Come to the cruiser for debriefing.
+[14:48:37] Lord Vader: I am seeking a particular artifact of personal interest to both myself and our Emperor.
+[14:49:21] Lord Vader: The nature of this artifact will remain undisclosed, but it is of great value to the Empire.
+[14:49:59] Lord Vader: You will be embarking with me on a mission to find this artifact.
+[14:50:16] Petty Officer Third Class Kariss Novar: // what the fuyck
+[14:50:21] Lance Corporal TX-7062: // Wha
+[14:50:26] Petty Officer Third Class Kariss Novar: // go into third person and look at the tie fighters on tge roof
+[14:50:41] Lance Corporal TX-7062: // What's wrong with them?
+[14:50:41] Lord Vader: Our first stop is Coruscant, in its lower levels. We have a lead to investigate there.
+[14:50:44] Lance Corporal TX-7062: // Look fine to me
+[14:50:49] Petty Officer Third Class Kariss Novar: // afk
+[14:50:53] Petty Officer Third Class Kariss Novar: // no wiongs
+[14:50:54] Petty Officer Third Class Kariss Novar: //w ings
+[14:50:57] Petty Officer Third Class Kariss Novar: // wungs
+[14:50:58] Petty Officer Third Class Kariss Novar: // wings
+[14:51:06] Lord Vader: Ready yourselves immediately. I will be awaiting our departure.
+[14:51:26] Lance Corporal TX-7062: /me Would give one final salute while saying, "Understood, Lord Vader!"
+[14:51:29] Lord Vader: When you are ready, take your seat on the shuttle.
+[14:51:40] Lance Corporal TX-7062: .// Vader flies
+[14:51:45] Lord Vader: .//shush it's his pilot
+[14:52:07] Lance Corporal TX-7062: .// Nah, Vader is just taking us out on a casual flight like a true homie.
+[14:52:31] Lord Vader teleported to Petty Officer Third Class Kariss Novar
+[14:54:19] Lord Vader changed the map to rp_coruscantbelow
+[14:54:19] Server is shutting down/changing levels.
+
+
+
+[14:54:59] New map: rp_coruscantbelow
+[14:55:56] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 78 seconds).
+[14:56:22] Client "FB|| light ROOM" spawned in server <STEAM_0:1:17219621> (took 104 seconds).
+[14:56:46] Client "DRD" spawned in server <STEAM_0:0:193599766> (took 128 seconds).
+[14:58:14] Lance Corporal TX-7062: /chardesc
+[14:58:18] Lord Vader blinded Themself by amount 255
+[14:58:18] Lord Vader: !blind ^
+[14:58:22] Lord Vader unblinded Themself
+[14:58:22] Lord Vader: !unblind ^
+[14:58:28] Lord Vader was killed by trigger_hurt
+[14:59:23] Lord Vader brought Lance Corporal TX-7062
+[14:59:23] Lord Vader: !bring *
+[15:00:46] Lance Corporal TX-7062: // Just tell me when we're IC.
+[15:00:52] Lord Vader: //will do
+[15:01:17] Lance Corporal TX-7062: /chardesc
+[15:01:50] Dropped "DRD" from server<STEAM_0:0:193599766>
+[15:01:58] Lord Vader: //brb whilewe wait on DRD
+[15:02:14] Lance Corporal TX-7062: // Aight
+[15:05:56] Lance Corporal TX-7062: // DRD said that he doesn't really have the brain power for RP right now.
+[15:06:01] Lance Corporal TX-7062: // TIME TO SOLO AN EVENT
+[15:06:26] Lord Vader: //amazing
+[15:06:55] Lord Vader: .//pretend this is the same shuttle
+[15:07:25] Lance Corporal TX-7062: // Aight
+[15:07:28] Lord Vader: //oh fuc kme
+[15:07:33] Lord Vader: //why is my walking weird
+[15:07:45] Lance Corporal TX-7062: /me Would look around for a second, readjusting his grip on the blaster rifle before standing at attention.
+[15:07:52] Lord Vader: //okay we IC now
+[15:07:56] Lance Corporal TX-7062: // Pog
+[15:08:06] Lord Vader: //but my walking isf ucked up, let the rtecord show
+[15:08:10] Lord Vader: //i'm walking super fast for some rason
+[15:08:12] Lord Vader: //in fact
+[15:08:13] Lord Vader suicided!
+[15:08:13] Lord Vader slayed Themself
+[15:08:13] Lord Vader: !slay ^
+[15:08:15] Lance Corporal TX-7062: // Lmao
+[15:08:19] Lord Vader teleported to Lance Corporal TX-7062
+[15:08:27] Lord Vader: //nope, didn't fix it
+[15:08:27] Lance Corporal TX-7062: // Vader drops dead from a heart attack right in front of me
+[15:08:29] Lord Vader: //fantastic
+[15:09:35] Lance Corporal TX-7062: // DRD is attempting to talk me into assasinating Vader, I shall not listen to such heresy.
+[15:10:54] Lord Vader: Here in the underworld, there is a man by the name of "Mod Jeirlid". Find him, and report back to me. 
+[15:10:57] Lord Vader: You have your comlink?
+[15:10:59] Lord Vader: /chargiveitem vader comlink
+[15:11:19] Lance Corporal TX-7062: Yes I do, Lord Vader.
+[15:11:46] Lord Vader: Good. Use any tactics necessary. Intimidation, stealth, outright questioning, the discretion is yours.
+[15:11:57] Lord Vader: I have my own obligations.
+[15:12:04] Lance Corporal TX-7062: /me Would nod his head, "Understood, Lord vader"
+[15:12:09] Lord Vader: Dismissed.
+[15:12:24] Lance Corporal TX-7062: // Do we have a funny Invisibility swep?
+[15:12:44] ???: //we do not, it breaks noclip invisiblity
+[15:12:49] ???: //RP your stealth sadly
+[15:12:58] Lance Corporal TX-7062: // F, ultra sad.
+[15:13:19] ???: Hey, you lookin' to make a few extra bucks?
+[15:13:27] ???: I got some friends who would love to have armor like that.
+[15:13:35] Lance Corporal TX-7062: /me Would look at the alien up and down, "No, but I have a question for you.
+[15:13:46] ???: Nah.
+[15:13:53] Client "Red blood cell" connected.
+[15:14:07] Lance Corporal TX-7062: You don't have much a choice in the matter, answer truthfully or else.
+[15:14:21] Lance Corporal TX-7062: Are you aware of a man that goes by the name, "Mod Jeirlid"?
+[15:14:41] ???: Who's asking?
+[15:15:20] Lance Corporal TX-7062: TX-7062 under the orders of Lord Vader himself, I implore you to give me all the information surrounding Mod Jeirlid.
+[15:15:40] ???: Right. Like you know Vader. Get lost, poser.
+[15:15:46] ???: /me would turn to walk away.
+[15:16:02] Lance Corporal TX-7062: /me Would dash forward, attempting to grab the civvie.
+[15:16:17] ???: /it You succeed. Do you grab him with one hand on the shoulder, are you trying to tackle him, what's the deal?
+[15:16:29] Lance Corporal TX-7062: .// I'm simply trying to grab him by the shoulder.
+[15:16:38] ???: .//gotcha
+[15:16:43] Lance Corporal TX-7062: .// Fucking hell, I gotta go AFK for a moment, maybe more.
+[15:16:54] Lance Corporal TX-7062: .// I wanted to do shit event but I might not be able to, family shit.
+[15:16:55] ???: Get your hands offa me, you son of a bitch.
+[15:17:04] Lance Corporal TX-7062: .// I wanted to the event*
+[15:17:09] Lance Corporal TX-7062: .// FUICK
+[15:17:27] Lance Corporal TX-7062: .// Whatever, if I'm not back in 5 minutes or more assume I won't be back at all, really sorry!
+[15:17:32] ???: .//gotcha, i undesrtand
+[15:18:14] ???<STEAM_0:1:53097688> spawned ragdoll models/npc_hcn/starwars/bf/sullustan/sullustan.mdl
+[15:19:10] ???: /charsetbodygroup ??? head 2
+[15:19:11] ???: /charsetbodygroup ??? head 3
+[15:19:13] ???: /charsetbodygroup ??? head 4
+[15:19:14] ???: /charsetbodygroup ??? head 2
+[15:19:16] ???: /charsetbodygroup ??? head 1
+[15:19:17] ???: /charsetbodygroup ??? head 2
+[15:19:18] ???: /charsetbodygroup ??? head 1
+[15:22:40] Lance Corporal TX-7062: .// Back
+[15:22:43] ???: .//sup
+[15:22:43] Lance Corporal TX-7062: .// poggers
+[15:22:54] ???: .//don't mind that my skin color changed
+[15:23:15] Lance Corporal TX-7062: /me Would try to bring the man closer, exclaiming, "Listen buddy, give me all the details and we won't have to get violent."
+[15:23:55] ???: You really wanna play this game, eh?
+[15:24:42] Lance Corporal TX-7062: /me Would look the man up and down once more, readjusting his blaster in a threatening manner, "Correct, now simply tell me what you know and I'll be on my way, I'll even keep this out of the report."
+[15:25:39] ???: Let me get one thing straight.
+[15:25:46] ???: I don't even know your guy.
+[15:25:58] ???: But anything that you imps are looking for down here, isn't your business./
+[15:26:53] Lance Corporal TX-7062: /me Would look at the man dead in the eye, "If the Emperor commands it, anything is our business, now kindly point me in the direction where I can find Mod and we'll end this little discussion."
+[15:27:30] ???: Buddy, I don't know Mod.. The hell did you say, Jair...lid?
+[15:27:43] Lance Corporal TX-7062: Correct, Jairlid.
+[15:27:51] ???: .//jeirlid actually you slut
+[15:27:55] Lance Corporal TX-7062: .// Shit
+[15:28:06] ???: .//i was typing it how i'm pronouncing it
+[15:28:07] Lance Corporal TX-7062: .// Regardless, I have to get going due to some personal shit.
+[15:28:16] ???: //understandable
+[15:28:19] Lance Corporal TX-7062: .// I'm really fucking sorry, I wanted to get this done.
+[15:28:26] ???: .//don't be sorry, i get it
+[15:28:34] Lance Corporal TX-7062: .// Alright, let me get going.
+[15:28:39] ???: .//have fun
+[15:28:41] Dropped "Lance Corporal TX-7062" from server<STEAM_0:1:17219621>
+[15:28:44] Dropped "???" from server<STEAM_0:1:53097688>
+[15:33:50] Client "Red blood cell" connected.
+[15:40:58] Client "matt saton" connected.
+[15:41:13] Client "Red blood cell" connected.
+[15:42:27] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 89 seconds).
+[15:43:32] Client "Red blood cell" spawned in server <STEAM_0:0:38537787> (took 139 seconds).
+[15:44:23] Dropped "Red blood cell" from server<STEAM_0:0:38537787>
+[15:51:31] Client "Red blood cell" connected.
+[15:52:37] Client "Red blood cell" spawned in server <STEAM_0:0:38537787> (took 66 seconds).
+[15:54:53] ???: /chargiveitem ??? comlink
+[15:56:08] Dropped "Flight Crewman Third Class Soot Halcyon" from server<STEAM_0:0:38537787>
+[15:56:24] Client "Red blood cell" connected.
+[15:57:58] Client "Red blood cell" spawned in server <STEAM_0:0:38537787> (took 94 seconds).
+[16:00:06] ???: //hwdy
+[16:00:17] ???: //still broken?
+[16:00:22] ???: //OH
+[16:00:23] ???: //wait
+[16:00:26] ???: //you're an error for me too
+[16:00:27] ???: //bruh
+[16:00:29] ???: //that's fucking why
+[16:00:33] Flight Crewman Third Class Soot Halcyon: // yeah some models are broken idk
+[16:00:36] ???: //but i have to eat dinner because timing is fan fucking tastic
+[16:00:43] ???: //i'll give you a new model when i get back and we can arr pee
+[16:00:54] Flight Crewman Third Class Soot Halcyon: // alr but its a school night and its currently 9pm so
+[16:00:59] Flight Crewman Third Class Soot Halcyon: // might have to go off in a while
+[16:01:08] ???: //ah
+[16:01:09] ???: //gotcha
+[16:01:10] ???: //well fuck
+[16:01:14] Flight Crewman Third Class Soot Halcyon: // have a lot of homework for tomorrow that ive left for the last second and 4 tests on wednesday i have to revise for
+[16:01:19] Flight Crewman Third Class Soot Halcyon: // ill stay for as long as i can tho
+[16:01:29] Flight Crewman Third Class Soot Halcyon was killed by trigger_hurt
+[16:06:20] R5-R3: /dr hello
+[16:44:25] Dropped "Private First Class LS-5922" from server<STEAM_0:0:38537787>
+[17:16:44] ??? was killed by trigger_hurt
+[17:20:52] ???<STEAM_0:1:53097688> spawned sent lunasflightschool_tie_avenger
+[17:21:37] ???<STEAM_0:1:53097688> spawned sent lunasflightschool_tie_interdictor
+[17:22:30] ???<STEAM_0:1:53097688> spawned sent lunasflightschool_spiral
+[17:22:57] ???<STEAM_0:1:53097688> spawned sent lunasflightschool_cr90
+[17:59:27] Client "Red blood cell" connected.
+[18:00:33] Client "Red blood cell" spawned in server <STEAM_0:0:38537787> (took 66 seconds).
+[18:01:14] Flight Crewman Third Class Soot Halcyon: // uhh q im an error and i cant equip my blaster
+[18:01:41] ???: //HOWDY
+[18:01:50] ???: //i know the reason for both of those
+[18:02:02] ???: //one becuase your model was removed from the game, and two because the swep for the blaster is broken, i'm sure
+[18:02:04] ???: //one sec
+[18:02:31] Flight Crewman Third Class Soot Halcyon: // will characters be wiped in first order rp
+[18:02:43] ???: //did you take what i said seriously about first order RP
+[18:02:49] Flight Crewman Third Class Soot Halcyon: // yes
+[18:02:56] ???: //i was jokin g
+[18:02:58] ???: //impRP 4 lyfe
+[18:03:00] Flight Crewman Third Class Soot Halcyon: // no first order rp/
+[18:03:05] Flight Crewman Third Class Soot Halcyon: // bro.
+[18:03:10] ???: //no first order rp
+[18:03:12] Flight Crewman Third Class Soot Halcyon: // imperial rp is so terrible
+[18:03:26] Flight Crewman Third Class Soot Halcyon: // cw is the best era #
+[18:05:19] ???: //let me seee
+[18:05:23] ???: /charsetmodel soot models/sw1_tiepilot.mdl
+[18:05:33] ???: //heard tpose
+[18:06:20] ???<STEAM_0:1:53097688> spawned ragdoll models/kriegsyntax/imperial/navy/technician/npc_male_01.mdl
+[18:06:37] ???: /CHARSETMODEL soot models/kriegsyntax/imperial/navy/shuttlepilots/playermodel_male_01.mdl
+[18:06:51] ???: /plysearch
+[18:06:57] ???: /adminspawnmenu
+[18:07:18] Private First Class LS-5922: // blasters also broken can i have new swep
+[18:07:24] Private First Class LS-5922: // and pets
+[18:07:27] ???: //i'm working oni t
+[18:07:33] Private First Class LS-5922: // kk
+[18:07:46] ???: /plysearch
+[18:07:55] ???: //is your E-11S broken too?
+[18:08:10] ???: /toggleraise
+[18:08:17] ???: //heard
+[18:08:26] Private First Class LS-5922: // its invisible in firstperson and when i drop it its also invisible
+[18:08:41] ???: //raise the weapon
+[18:08:41] Private First Class LS-5922: // i cant fire it or put it off safety
+[18:08:44] Private First Class LS-5922: // ic at
+[18:08:47] Private First Class LS-5922: // cant
+[18:08:54] ???: //do /toggleraise
+[18:09:06] Private First Class LS-5922: /toggleraise
+[18:09:14] ???: //the model being invisible when you drop it i'm aware of, there's not much i can do about that, it's because the model is fucked up
+[18:09:17] Private First Class LS-5922: // oh i couldnt so shift e r
+[18:09:18] ???: //on the addon's end
+[18:09:25] ???: //no, you don't do shift e r in helix at all
+[18:09:27] ???: //you just hold r 
+[18:09:30] ???: /toggleraise
+[18:09:33] Private First Class LS-5922: // oh
+[18:09:45] ???: //but if you're like me you have a bind to automatically do /toggleraise
+[18:09:51] Private First Class LS-5922: // i have
+[18:09:51] ???: //alright let me get you caught up
+[18:09:52] Private First Class LS-5922: /toggleraise
+[18:09:53] Private First Class LS-5922: /toggleraise
+[18:09:54] Private First Class LS-5922: /toggleraise
+[18:09:56] ???: //based
+[18:10:23] ???: !bring ls
+[18:10:24] ???: !bring ls
+[18:10:27] ??? brought Private First Class LS-5922
+[18:10:27] ???: !bring ls
+[18:10:28] ???: //okay
+[18:10:31] ???: //so basically
+[18:10:35] ???: //what's going on
+[18:10:51] ???: //vader took some people from the 394th deployment, that's the thing that all of the players belong to
+[18:11:01] Private First Class LS-5922: // uh huh
+[18:11:11] ???: //for a mission to obtain some sort of artifact that both him and palpatine are interested in
+[18:11:21] ???: //their first lead is here in the lower levels of coruscant
+[18:11:52] ???: //they're looking for someone named
+[18:11:55] ???: //hold on let me copy and paste it
+[18:12:56] ???: //Di Gevvl
+[18:13:15] Private First Class LS-5922: // alr lemme grab drink rq
+[18:13:21] ???: //you've been instructed to go through and use any means necessary, intimidation, outright violence, torture, being in general nice, whatever, to find this guy
+[18:13:28] ???: //and vader is on comlink at all times
+[18:13:41] ???: //are you familiar with the lower levels of coruscant
+[18:14:14] ???: /toggleraise
+[18:14:42] ???: /toggleraise
+[18:14:57] ???: /toggleraise
+[18:15:43] Private First Class LS-5922: // ok back no
+[18:15:55] ???: //it's the seedier part of coruscant
+[18:16:00] ???: //literally below the upper levels
+[18:16:09] Private First Class LS-5922: // oh i thought u meant the map
+[18:16:09] ???: //the farther down you go, the more criminal and sleazy and slummy
+[18:16:12] ???: //oh nah
+[18:16:21] Private First Class LS-5922: // yea i know
+[18:16:43] ???: //alright you're good to go whenever you're ready
+[18:17:30] Private First Class LS-5922: // alright okay
+[18:18:02] ???: Hey, you. Psst.
+[18:18:08] Private First Class LS-5922: Hm?
+[18:18:23] ???: I know someone who'll take that armor off your hands for good money.
+[18:18:45] Private First Class LS-5922: Uh huh?
+[18:18:50] Private First Class LS-5922: And who's that?
+[18:19:07] ???: Why do you want to know? You want to make the easiest money of your life?
+[18:19:50] Private First Class LS-5922: /me would just stare at the dude.
+[18:20:14] ???: What, am I talking to a droid or something? Does that compute?
+[18:20:24] ???: Armor. Credits. Sell for money.
+[18:20:28] Private First Class LS-5922: Not interested, brother.
+[18:20:42] Private First Class LS-5922: /me would pivot on his heel, glancing around
+[18:20:51] ???: You're missing out.
+[18:20:56] Private First Class LS-5922: /me would spin back around to the man
+[18:21:07] Private First Class LS-5922: I'm sure.
+[18:21:22] Private First Class LS-5922: Hey, actually.
+[18:21:39] ???: /me would perk up at the sound of the word "actually".
+[18:21:50] Private First Class LS-5922: On second thought, sure.
+[18:21:57] Private First Class LS-5922: I'm in dire need of some credits.
+[18:22:16] Private First Class LS-5922: Why not?
+[18:22:27] ???: Great, right this way.
+[18:22:53] ???: //oh btvv vader is here but he's off doing his ovvn shit
+[18:23:02] Private First Class LS-5922: // yuh
+[18:23:03] Private First Class LS-5922: // btw
+[18:23:09] Private First Class LS-5922: // im pretty awkward at rp so
+[18:23:15] ???: //it be like that, all good
+[18:23:43] Private First Class LS-5922: // especially one on one rp
+[18:24:06] ???: //i totally knovv vvhere i am
+[18:24:32] Private First Class LS-5922: You sure you knovv vvhere you're going, pal?
+[18:24:36] ???: .//shush
+[18:25:14] ???: Alright, I'll wait outside the door, just take off the armor, you can leave the uh, y'know. Skivvies. Keep the undersuit.
+[18:25:25] ???: Just let me know when you're done.
+[18:26:01] Private First Class LS-5922: // wahts the
+[18:26:14] Private First Class LS-5922: // commlink thing
+[18:26:17] Private First Class LS-5922: // frequency
+[18:26:19] Private First Class LS-5922: // is there one?
+[18:26:25] ???: //no frequency, just turn on the comlink and do /c
+[18:26:47] Private First Class LS-5922: /me would get behind the corner
+[18:26:58] Private First Class LS-5922: /c M'lord, are you there?
+[18:27:14] Lord Vader: /c I am. I trust this is about a lead?
+[18:27:53] Private First Class LS-5922: /c Uh huh. Some Duros just brought me into a building, said he knows someone that would buy my armour for a hefty price.
+[18:28:18] Private First Class LS-5922: /c Could possibly be our man. 
+[18:29:13] Private First Class LS-5922: // 1 sec brb
+[18:29:28] Lord Vader: /c I did not send you to find possibilities. I sent you for results. Find their name.
+[18:32:21] Private First Class LS-5922: // i got told to get off, i'm not supposed to be on right now 
+[18:32:27] Private First Class LS-5922: // i'm supposed to be finishing my work ;/
+[18:32:43] Lord Vader: //alright
+[18:32:48] Private First Class LS-5922: // i'll be on next event
+[18:32:49] Lord Vader: //life is more important, go do your shit
+[18:32:49] Private First Class LS-5922: // cya
+[18:32:53] Lord Vader: //thanks for tryng
+[18:32:56] Private First Class LS-5922: // yuh yuh yuh
+[18:33:00] Private First Class LS-5922: // np q
+[18:33:04] Private First Class LS-5922: // bye bye
+[18:33:07] Dropped "Private First Class LS-5922" from server<STEAM_0:0:38537787>
+[18:33:08] Lord Vader: //take care
+[18:36:15] Lord Vader<STEAM_0:1:53097688> spawned ragdoll models/kriegsyntax/imperial/stormtroopers/stormtroopers/npc_male_01.mdl
+[18:39:34] Dropped "Lord Vader" from server<STEAM_0:1:53097688>

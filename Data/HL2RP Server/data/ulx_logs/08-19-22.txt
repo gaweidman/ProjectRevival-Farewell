@@ -1,0 +1,72 @@
+<Logging continued from "data/ulx_logs/08-18-22.txt">
+[02:43:37] Client "Mr.Ganar" connected.
+[02:48:25] Client "Mr.Ganar" connected.
+[02:50:07] Client "Mr.Ganar" spawned in server <STEAM_0:0:80909581> (took 102 seconds).
+[02:50:28] Dropped "Mr.Ganar" from server<STEAM_0:0:80909581>
+
+
+
+[03:18:29] New map: rp_industrial17_v1
+[10:29:19] Client "Nums" connected.
+[10:30:52] Client "Nums" spawned in server <STEAM_0:1:196547442> (took 93 seconds).
+[10:32:05] Nums<STEAM_0:1:196547442> changed their name to CCA.C14-RCT.77460
+[15:26:00] Client "RJzbest" connected.
+[15:44:57] Client "Peppermint" connected.
+[15:46:27] Client "Peppermint" spawned in server <STEAM_0:1:115933392> (took 90 seconds).
+[15:46:50] Peppermint<STEAM_0:1:115933392> changed their name to Tanya L. Fredrickson
+[15:56:36] Dropped "Tanya L. Fredrickson" from server<STEAM_0:1:115933392>
+[17:26:01] CCA.C14-RCT.77460 suicided!
+[18:08:55] Client "Peppermint" connected.
+[18:10:24] Client "Peppermint" spawned in server <STEAM_0:1:115933392> (took 89 seconds).
+[18:10:47] Peppermint<STEAM_0:1:115933392> changed their name to Tanya L. Fredrickson
+[18:12:16] Dropped "Tanya L. Fredrickson" from server<STEAM_0:1:115933392>
+[19:24:22] Client "Peppermint" connected.
+[19:25:51] Client "Peppermint" spawned in server <STEAM_0:1:115933392> (took 89 seconds).
+[19:26:25] Peppermint<STEAM_0:1:115933392> changed their name to Tanya L. Fredrickson
+[19:26:36] Tanya L. Fredrickson: // You still afk ana
+[19:32:34] Client "cass" connected.
+[19:34:31] Client "cass" spawned in server <STEAM_0:0:57118159> (took 117 seconds).
+[19:37:55] cass<STEAM_0:0:57118159> changed their name to Selene Akehurst
+[19:40:13] Tanya L. Fredrickson: // hallo
+[19:41:03] Tanya L. Fredrickson: /chardesc 6,1 | Black hair | Chemical burn on the right side of face | blue eyes | Wearing a CMU loyalist armband
+[19:41:24] Selene Akehurst: /discord
+[19:47:30] Dropped "Selene Akehurst" from server<STEAM_0:0:57118159>
+[20:04:09] Client "Pvt. Parts" connected.
+[20:12:16] Dropped "Tanya L. Fredrickson" from server<STEAM_0:1:115933392>
+[20:13:09] Client "bonkers_on_acid" connected.
+[20:19:57] Client "bonkers_on_acid" spawned in server <STEAM_0:1:526656414> (took 408 seconds).
+[20:23:17] bonkers_on_acid<STEAM_0:1:526656414> changed their name to jogga
+[20:25:01] Dropped "jogga" from server<STEAM_0:1:526656414>
+[20:36:43] Client "Peppermint" connected.
+[20:38:09] Client "Peppermint" spawned in server <STEAM_0:1:115933392> (took 86 seconds).
+[20:38:34] Peppermint<STEAM_0:1:115933392> changed their name to Tanya L. Fredrickson
+[20:41:44] Dropped "Tanya L. Fredrickson" from server<STEAM_0:1:115933392>
+[22:38:05] Client "Peppermint" connected.
+[22:39:30] Client "Peppermint" spawned in server <STEAM_0:1:115933392> (took 85 seconds).
+[22:39:54] Peppermint<STEAM_0:1:115933392> changed their name to Tanya L. Fredrickson
+[22:54:47] Tanya L. Fredrickson<STEAM_0:1:115933392> changed their name to Zomboid OTA Creature
+[22:58:07] Zomboid OTA Creature<STEAM_0:1:115933392> changed their name to Tanya L. Fredrickson
+[23:17:28] Dropped "Tanya L. Fredrickson" from server<STEAM_0:1:115933392>
+
+
+
+[23:29:41] New map: rp_industrial17_v1
+[23:30:51] Client "matt saton" connected.
+[23:32:41] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 110 seconds).
+[23:33:50] matt saton<STEAM_0:1:53097688> changed their name to CCA.C17-GRID.i3.10945
+[23:34:45] CCA.C17-GRID.i3.10945: /t test
+[23:34:47] CCA.C17-GRID.i3.10945: /y test
+[23:35:30] CCA.C17-GRID.i3.10945: /addtenant grid
+[23:35:54] CCA.C17-GRID.i3.10945: /removetenant 1
+[23:42:26] CCA.C17-GRID.i3.10945: /toggleraise
+[23:42:33] CCA.C17-GRID.i3.10945: /addtenant grid
+[23:43:09] CCA.C17-GRID.i3.10945: /addtenant grid
+[23:44:05] CCA.C17-GRID.i3.10945: !stirp ^
+[23:44:08] CCA.C17-GRID.i3.10945 stripped weapons from Themself
+[23:44:08] CCA.C17-GRID.i3.10945: !strip ^
+[23:44:12] CCA.C17-GRID.i3.10945 gave Themself ix_keys
+[23:44:12] CCA.C17-GRID.i3.10945: !give ^ ix_keys
+[23:44:23] CCA.C17-GRID.i3.10945: /removetenant 1
+[23:44:25] CCA.C17-GRID.i3.10945: /removetenant 1
+[23:44:52] Dropped "CCA.C17-GRID.i3.10945" from server<STEAM_0:1:53097688>
+<Logging continued in "data/ulx_logs/08-20-22.txt">

@@ -1,0 +1,132 @@
+[02:49:20] New map: rp_city8_edit_v4r
+
+
+
+[11:41:01] New map: rp_city8_edit_v4r
+[11:43:18] Client "matt saton" connected.
+[11:45:54] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 156 seconds).
+[11:46:45] matt saton<STEAM_0:1:53097688> changed their name to CCA.C08-GRID.i3.08313
+[11:46:47] CCA.C08-GRID.i3.08313: //test
+[11:51:10] CCA.C08-GRID.i3.08313: /charsetthirst grid 100
+[11:51:13] CCA.C08-GRID.i3.08313: /charsethunger grid 100
+[11:59:24] CCA.C08-GRID.i3.08313<STEAM_0:1:53097688> spawned sent ix_forcefield
+[11:59:27] CCA.C08-GRID.i3.08313<STEAM_0:1:53097688> spawned sent ix_forcefield
+[11:59:29] CCA.C08-GRID.i3.08313<STEAM_0:1:53097688> spawned sent ix_forcefield
+[11:59:31] CCA.C08-GRID.i3.08313<STEAM_0:1:53097688> spawned sent ix_forcefield
+[11:59:33] CCA.C08-GRID.i3.08313<STEAM_0:1:53097688> spawned sent ix_forcefield
+[12:06:47] CCA.C08-GRID.i3.08313<STEAM_0:1:53097688> spawned sent ix_combinelock
+[12:06:51] CCA.C08-GRID.i3.08313<STEAM_0:1:53097688> spawned sent ix_combinelock
+[12:07:00] CCA.C08-GRID.i3.08313<STEAM_0:1:53097688> spawned sent ix_unionlock
+[12:08:37] CCA.C08-GRID.i3.08313: /toggleraise
+[12:08:38] CCA.C08-GRID.i3.08313: /toggleraise
+[12:19:48] CCA.C08-GRID.i3.08313: /chargiveitem grid supplements
+[12:19:58] CCA.C08-GRID.i3.08313: /chargiveitem grid "citize nsupplements"
+[12:20:06] CCA.C08-GRID.i3.08313: /chargiveitem grid "food product"
+[12:21:10] CCA.C08-GRID.i3.08313: /chargiveitem grid "citizen grade food product"
+[12:21:17] CCA.C08-GRID.i3.08313: /chargiveitem grid "standard grade food product"
+[12:21:21] CCA.C08-GRID.i3.08313: /chargiveitem grid "standard food product"
+[12:21:26] CCA.C08-GRID.i3.08313: /chargiveitem grid "priority-grade food product"
+[12:21:30] CCA.C08-GRID.i3.08313: /chargiveitem grid "priority grade food product"
+[12:21:36] CCA.C08-GRID.i3.08313: /chargiveitem grid "priority greade"
+[12:21:39] CCA.C08-GRID.i3.08313: /chargiveitem grid "priority grade"
+[12:22:46] CCA.C08-GRID.i3.08313: /adminspawnmenu
+[12:27:16] CCA.C08-GRID.i3.08313<STEAM_0:1:53097688> spawned model models/foodnhouseholdaaaaa/combirationc.mdl
+[12:28:06] CCA.C08-GRID.i3.08313<STEAM_0:1:53097688> spawned model models/pg_plops/pg_food/pg_tortellinar.mdl
+[12:43:33] CCA.C08-GRID.i3.08313<STEAM_0:1:53097688> spawned NPC npc_vortigaunt
+[12:43:37] CCA.C08-GRID.i3.08313<STEAM_0:1:53097688> spawned NPC npc_vortigaunt
+[12:43:39] CCA.C08-GRID.i3.08313<STEAM_0:1:53097688> spawned NPC npc_citizen
+[12:43:41] CCA.C08-GRID.i3.08313<STEAM_0:1:53097688> spawned NPC npc_citizen
+[12:43:47] CCA.C08-GRID.i3.08313<STEAM_0:1:53097688> spawned NPC npc_citizen
+[12:47:49] CCA.C08-GRID.i3.08313<STEAM_0:1:53097688> spawned model models/pg_plops/pg_food/pg_tortellinap.mdl
+[12:47:51] CCA.C08-GRID.i3.08313<STEAM_0:1:53097688> spawned model models/pg_plops/pg_food/pg_tortellinap.mdl
+[12:48:32] CCA.C08-GRID.i3.08313<STEAM_0:1:53097688> spawned model models/weapons/w_packate.mdl
+[12:48:32] CCA.C08-GRID.i3.08313<STEAM_0:1:53097688> spawned model models/pg_plops/pg_food/pg_tortellinat.mdl
+[12:48:41] CCA.C08-GRID.i3.08313<STEAM_0:1:53097688> spawned model models/probs_misc/tobdcco_box-1.mdl
+[12:48:45] CCA.C08-GRID.i3.08313<STEAM_0:1:53097688> spawned model models/mres/consumables/tag_mre.mdl
+[12:48:52] CCA.C08-GRID.i3.08313<STEAM_0:1:53097688> spawned model models/pg_plops/pg_food/pg_tortellinat.mdl
+[12:51:19] CCA.C08-GRID.i3.08313<STEAM_0:1:53097688> spawned model models/probs_misc/tobdcco_box-1.mdl
+[12:52:53] Client "Beedle" connected.
+[12:54:40] Client "Beedle" spawned in server <STEAM_0:1:31603520> (took 107 seconds).
+[12:55:03] Beedle<STEAM_0:1:31603520> changed their name to Kane Davis
+[12:58:22] Client "nukeboy76" connected.
+[13:11:19] Dropped "Kane Davis" from server<STEAM_0:1:31603520>
+[14:05:35] CCA.C08-GRID.i3.08313<STEAM_0:1:53097688> spawned model models/props_cunk/popcan01a.mdl
+[14:06:32] CCA.C08-GRID.i3.08313<STEAM_0:1:53097688> spawned model models/probs_misc/tobccco_box-1.mdl
+[14:06:35] CCA.C08-GRID.i3.08313<STEAM_0:1:53097688> spawned model models/weapons/w_packatm.mdl
+[14:07:13] CCA.C08-GRID.i3.08313<STEAM_0:1:53097688> spawned model models/probs_misc/tobccco_box-1.mdl
+[14:10:24] CCA.C08-GRID.i3.08313<STEAM_0:1:53097688> spawned model models/probs_misc/tobccco_box-1.mdl
+[14:25:19] CCA.C08-GRID.i3.08313: //sup
+[14:29:52] Client "Beedle" connected.
+[14:31:24] Client "Beedle" spawned in server <STEAM_0:1:31603520> (took 92 seconds).
+[14:36:02] Beedle<STEAM_0:1:31603520> changed their name to Kane Davis
+[14:38:29] CCA.C08-GRID.i3.08313: //sup beedle
+[14:38:47] Kane Davis: // just lurking the strange general chat rn lol
+[14:39:08] CCA.C08-GRID.i3.08313: //understandable
+[14:39:12] CCA.C08-GRID.i3.08313: //do you like my icon
+[14:39:30] Kane Davis: // oh nice can barely see it but I know what it is
+[14:39:44] CCA.C08-GRID.i3.08313: //i'm working on fixing and adding to rations
+[14:39:47] CCA.C08-GRID.i3.08313: //so they don't have both eat and consume
+[14:39:51] CCA.C08-GRID.i3.08313: //and also you get supplements that heal you
+[14:40:28] Kane Davis: [[ I think we should work on a Worker's Union roster rebuild. 
+[14:40:55] Kane Davis: [[ I think the CWU is a big part of Citizen RP
+[14:41:07] CCA.C08-GRID.i3.08313: .//that would be a good one too
+[14:41:19] CCA.C08-GRID.i3.08313: .//i want to add a system where buildings work a bit differnetly
+[14:41:23] CCA.C08-GRID.i3.08313: .//it's a bit ambitious but a good idea
+[14:41:38] CCA.C08-GRID.i3.08313: .//so you have to clock in once every however long, and if you don't clock in after [x] amount of time, you lose your store
+[14:41:44] CCA.C08-GRID.i3.08313: .//so people in commerce don't just get a store
+[14:41:46] CCA.C08-GRID.i3.08313: .//and then
+[14:41:47] CCA.C08-GRID.i3.08313: .//dip
+[14:41:50] CCA.C08-GRID.i3.08313: .//and the store is taken forever
+[14:41:55] CCA.C08-GRID.i3.08313: .//kinda like rust bases
+[14:42:00] CCA.C08-GRID.i3.08313: .//and then yeah logistics may not be the best
+[14:42:29] Kane Davis: [[ Yes I think discord channels devoted to CWU RP schedules that would be good
+[14:42:35] Kane Davis: and work logs for LP
+[14:42:38] Kane Davis: [[ ***
+[14:42:38] CCA.C08-GRID.i3.08313: .//yeah
+[14:42:57] CCA.C08-GRID.i3.08313: .//logistics, the branch is a cool idea but i also love logistics personally
+[14:43:00] CCA.C08-GRID.i3.08313: .//not the branch but the field
+[14:43:35] Kane Davis: [[ I'm going to try and devote my character Jagraj to the CWU at some point soon.
+[14:44:04] Kane Davis: [[ Is there someone at the head of the CWU right now??
+[14:45:19] CCA.C08-GRID.i3.08313: .//not at the moment no
+[14:45:28] CCA.C08-GRID.i3.08313: .//i'm serving as interim director just to run applciations
+[14:45:31] CCA.C08-GRID.i3.08313: .//but at the moment, no
+[14:46:26] Kane Davis: [[ CWU recruitment is all done IC right?
+[14:46:45] CCA.C08-GRID.i3.08313: .//affirmative
+[14:47:49] Kane Davis: [[ Yea I think we should make a locked discord channel and access to that channe means you're in the Union and on the roster, but it's up to the user how active their schedule and work logs are.
+[14:48:12] Kane Davis: [[ more schedule and work logs = more benefits of something
+[14:49:06] Kane Davis: [[ I'd say LP cause it's work for the betterment of the Combine system
+[14:49:15] CCA.C08-GRID.i3.08313: .//yeah
+[14:50:20] Kane Davis: [[ I'd like to see either 1 LP given by a CCA in game or 1 LP given after CWU director approves the work log
+[14:50:33] CCA.C08-GRID.i3.08313: .//hmm, interesting idea
+[14:51:45] Kane Davis: [[ yea dont see a need to write a log if the eyes of the 'benefactors' see thru the CCA unit labor is confimed 
+[14:51:48] Kane Davis: [[ if thsat makes sense
+[14:52:55] Kane Davis: [[ I can see a CCA unit/division of some type working directly with the CWU to observe city general maintenence.
+[14:53:22] Kane Davis: [[ like yesterday I did a check of building plumbing and a CCA unit observed the work then /viewdata logged it I think.
+[14:53:28] CCA.C08-GRID.i3.08313: .//see that's a great idea, but i have a counter offer: The City Bureaucracy
+[14:53:38] CCA.C08-GRID.i3.08313: .//city bureaucracy roleplay there would be pretty cool too imo
+[14:53:55] CCA.C08-GRID.i3.08313: .//and considering the CWU is an office of the CA
+[14:53:57] CCA.C08-GRID.i3.08313: .//it would make sense
+[14:54:29] Kane Davis: [[ wym like... just like, jobs under the CA like an office?
+[14:55:53] CCA.C08-GRID.i3.08313: .//an office as in like, wait hold on are you american
+[14:56:03] Kane Davis: [[ yes 
+[14:57:03] CCA.C08-GRID.i3.08313: .//yknow how you have- wait no bad example
+[14:57:09] CCA.C08-GRID.i3.08313: .//hold on let me think
+[14:57:35] Kane Davis: [[ Like you want the CWU to adhere more to the CA 
+[14:57:44] Kane Davis: [[ and have other infastuctures under the Ca
+[14:57:54] CCA.C08-GRID.i3.08313: .//the CWU already does adhere to the CA as written in the guide
+[14:58:32] CCA.C08-GRID.i3.08313: .//the CWU is, in server canon, an organization created and executively run by the CA
+[14:58:36] CCA.C08-GRID.i3.08313: .//am i making any sense
+[14:58:39] Kane Davis: [[ Ya
+[14:58:41] CCA.C08-GRID.i3.08313: .//yeye
+[14:58:45] CCA.C08-GRID.i3.08313: .//let's continue this on discord
+[14:58:47] CCA.C08-GRID.i3.08313: .//but uhhh
+[14:58:49] CCA.C08-GRID.i3.08313: .//server's gonna restar
+[14:58:52] CCA.C08-GRID.i3.08313: .//because i have a lot of changes to push
+[14:59:00] CCA.C08-GRID.i3.08313: .//and the server will need a restart
+[14:59:02] Kane Davis: [[ ok
+[14:59:08] Dropped "Kane Davis" from server<STEAM_0:1:31603520>
+
+
+
+[15:03:31] New map: rp_city8_edit_v4r
+[16:56:15] Client "alexandria209" connected.

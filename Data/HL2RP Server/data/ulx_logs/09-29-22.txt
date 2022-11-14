@@ -1,0 +1,601 @@
+<Logging continued from "data/ulx_logs/09-28-22.txt">
+[00:10:48] Client "matt saton" connected.
+[00:13:41] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 173 seconds).
+[00:33:14] matt saton<STEAM_0:1:53097688> changed their name to Andrew Cloverman
+[00:33:34] Andrew Cloverman<STEAM_0:1:53097688> changed their name to CPT Nathan Vance
+[00:34:33] Dropped "CPT Nathan Vance" from server<STEAM_0:1:53097688>
+
+
+
+[03:08:13] New map: rp_industrial17_v1
+[10:03:57] Client "matt saton" connected.
+[10:07:08] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 191 seconds).
+[10:08:09] matt saton<STEAM_0:1:53097688> changed their name to Andrew Cloverman
+[10:08:18] Andrew Cloverman: /charsethunger andrew 100
+[10:08:20] Andrew Cloverman: /charsetthirst 100
+[10:08:25] Andrew Cloverman: /charsetthirst andrew 100
+[10:09:14] Andrew Cloverman: /textremove 5
+[10:09:25] Andrew Cloverman: /textremove 
+[10:13:40] Client "Tom Jones #1 Fan" connected.
+[10:15:32] Client "Tom Jones #1 Fan" spawned in server <STEAM_0:1:39081684> (took 112 seconds).
+[10:15:52] Andrew Cloverman: /textadd "<font=prPRIcons3D2DFont><color=255, 150, 0>m</color></font>" 1.25
+[10:15:58] Andrew Cloverman: /textremove
+[10:16:05] Andrew Cloverman: /textadd "<font=prPRIcons3D2DFont><color=255, 150, 0>m</color></font>" 1.25
+[10:16:08] Tom Jones #1 Fan<STEAM_0:1:39081684> changed their name to Marti Verdugo
+[10:16:42] Marti Verdugo: // oh sick
+[10:16:46] Marti Verdugo: // a bulletin board that has nothing on it
+[10:16:57] Andrew Cloverman: /textadd "<font=prDINCond3D2DFont><color=255, 150, 0>CONSTRUCTION ZONE</color></font>" 0.65
+[10:17:15] Andrew Cloverman: /textremove 10
+[10:17:39] Andrew Cloverman: /textadd "<font=prPRIcons3D2DFont><color=255, 150, 0>m</color></font>" 1.25
+[10:17:47] Andrew Cloverman: /textremove 10
+[10:18:03] Andrew Cloverman: /textremove 
+[10:18:10] Andrew Cloverman: /textadd "<font=prPRIcons3D2DFont><color=255, 150, 0>m</color></font>" 1.25
+[10:18:40] Andrew Cloverman: /textadd "<font=prDINCond3D2DFont><color=255, 150, 0>CONSTRUCTION ZONE</color></font>" 0.65
+[10:18:47] Marti Verdugo: Where did this come from?
+[10:19:05] Andrew Cloverman: /textadd "<font=prCMB3D2DFont><color=255, 150, 0>access is restricted to</color></font>" 0.35
+[10:19:21] Andrew Cloverman: /textadd "<font=prCMB3D2DFont><color=255, 150, 0>cwu members and ota or</color></font>" 0.35
+[10:19:38] Andrew Cloverman: /textadd "<font=prCMB3D2DFont><color=255, 150, 0>hem functionaries</color></font>" 0.35
+[10:19:50] Andrew Cloverman: /textadd "<font=prCMB3D2DFont><color=255, 150, 0>unauthorized access is</color></font>" 0.35
+[10:19:59] Marti Verdugo: /roll
+[10:20:10] Andrew Cloverman: /textadd "<font=prCMB3D2DFont><color=255, 150, 0>punishable by up to</color></font>" 0.35
+[10:20:19] Andrew Cloverman: /textadd "<font=prCMB3D2DFont><color=255, 150, 0>amputation</color></font>" 0.35
+[10:21:14] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/cs_office/chair_office.mdl
+[10:22:23] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/chairlobby01.mdl
+[10:23:03] Andrew Cloverman<STEAM_0:1:53097688> used the tool stacker_improved on models/props_interiors/chairlobby01.mdl
+[10:23:03] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/chairlobby01.mdl
+[10:23:07] Andrew Cloverman<STEAM_0:1:53097688> used the tool stacker_improved on models/props_interiors/chairlobby01.mdl
+[10:23:07] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/chairlobby01.mdl
+[10:23:13] Andrew Cloverman<STEAM_0:1:53097688> used the tool stacker_improved on models/props_interiors/chairlobby01.mdl
+[10:23:13] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/chairlobby01.mdl
+[10:23:18] Andrew Cloverman<STEAM_0:1:53097688> used the tool stacker_improved on models/props_interiors/chairlobby01.mdl
+[10:23:18] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/chairlobby01.mdl
+[10:23:25] Andrew Cloverman<STEAM_0:1:53097688> used the tool stacker_improved on models/props_interiors/chairlobby01.mdl
+[10:23:25] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/chairlobby01.mdl
+[10:23:25] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/chairlobby01.mdl
+[10:23:25] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/chairlobby01.mdl
+[10:23:27] Andrew Cloverman<STEAM_0:1:53097688> used the tool stacker_improved on models/props_interiors/chairlobby01.mdl
+[10:23:27] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/chairlobby01.mdl
+[10:23:27] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/chairlobby01.mdl
+[10:23:27] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/chairlobby01.mdl
+[10:23:30] Andrew Cloverman<STEAM_0:1:53097688> used the tool stacker_improved on models/props_interiors/chairlobby01.mdl
+[10:23:30] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/chairlobby01.mdl
+[10:23:30] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/chairlobby01.mdl
+[10:23:30] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/chairlobby01.mdl
+[10:24:32] Andrew Cloverman<STEAM_0:1:53097688> used the tool stacker_improved on models/props_interiors/chairlobby01.mdl
+[10:24:32] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/chairlobby01.mdl
+[10:24:32] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/chairlobby01.mdl
+[10:24:32] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/chairlobby01.mdl
+[10:24:35] Andrew Cloverman<STEAM_0:1:53097688> used the tool stacker_improved on models/props_interiors/chairlobby01.mdl
+[10:24:35] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/chairlobby01.mdl
+[10:24:35] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/chairlobby01.mdl
+[10:24:35] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/chairlobby01.mdl
+[10:24:47] Andrew Cloverman<STEAM_0:1:53097688> used the tool stacker_improved on models/props_interiors/chairlobby01.mdl
+[10:24:47] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/chairlobby01.mdl
+[10:24:47] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/chairlobby01.mdl
+[10:24:47] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/chairlobby01.mdl
+[10:24:48] Andrew Cloverman<STEAM_0:1:53097688> used the tool stacker_improved on models/props_interiors/chairlobby01.mdl
+[10:24:48] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/chairlobby01.mdl
+[10:24:48] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/chairlobby01.mdl
+[10:24:48] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/chairlobby01.mdl
+[10:24:52] Dropped "Marti Verdugo" from server<STEAM_0:1:39081684>
+[10:24:55] Andrew Cloverman<STEAM_0:1:53097688> used the tool stacker_improved on models/props_interiors/chairlobby01.mdl
+[10:24:55] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/chairlobby01.mdl
+[10:24:55] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/chairlobby01.mdl
+[10:24:55] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/chairlobby01.mdl
+[10:24:58] Andrew Cloverman<STEAM_0:1:53097688> used the tool stacker_improved on models/props_interiors/chairlobby01.mdl
+[10:24:58] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/chairlobby01.mdl
+[10:24:58] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/chairlobby01.mdl
+[10:24:58] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/chairlobby01.mdl
+[10:25:00] Andrew Cloverman<STEAM_0:1:53097688> used the tool stacker_improved on models/props_interiors/chairlobby01.mdl
+[10:25:00] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/chairlobby01.mdl
+[10:25:00] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/chairlobby01.mdl
+[10:25:00] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/chairlobby01.mdl
+[10:25:09] Andrew Cloverman<STEAM_0:1:53097688> used the tool stacker_improved on models/props_interiors/chairlobby01.mdl
+[10:25:09] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/chairlobby01.mdl
+[10:25:09] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/chairlobby01.mdl
+[10:25:09] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/chairlobby01.mdl
+[10:25:10] Andrew Cloverman<STEAM_0:1:53097688> used the tool stacker_improved on models/props_interiors/chairlobby01.mdl
+[10:25:10] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/chairlobby01.mdl
+[10:25:10] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/chairlobby01.mdl
+[10:25:10] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/chairlobby01.mdl
+[10:25:16] Andrew Cloverman<STEAM_0:1:53097688> used the tool stacker_improved on models/props_interiors/chairlobby01.mdl
+[10:25:16] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/chairlobby01.mdl
+[10:25:16] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/chairlobby01.mdl
+[10:25:16] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/chairlobby01.mdl
+[10:25:17] Andrew Cloverman<STEAM_0:1:53097688> used the tool stacker_improved on maps/rp_industrial17_v1.bsp
+[10:25:18] Andrew Cloverman<STEAM_0:1:53097688> used the tool stacker_improved on models/props_interiors/chairlobby01.mdl
+[10:25:18] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/chairlobby01.mdl
+[10:25:18] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/chairlobby01.mdl
+[10:25:18] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/chairlobby01.mdl
+[10:25:21] Andrew Cloverman<STEAM_0:1:53097688> used the tool stacker_improved on models/props_interiors/chairlobby01.mdl
+[10:25:21] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/chairlobby01.mdl
+[10:25:21] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/chairlobby01.mdl
+[10:25:21] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/chairlobby01.mdl
+[10:25:27] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/chairlobby01.mdl
+[10:26:02] Andrew Cloverman<STEAM_0:1:53097688> used the tool stacker_improved on models/props_interiors/chairlobby01.mdl
+[10:26:02] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/chairlobby01.mdl
+[10:26:02] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/chairlobby01.mdl
+[10:26:02] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/chairlobby01.mdl
+[10:26:09] Andrew Cloverman<STEAM_0:1:53097688> used the tool stacker_improved on models/props_interiors/chairlobby01.mdl
+[10:26:09] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/chairlobby01.mdl
+[10:26:09] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/chairlobby01.mdl
+[10:26:09] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/chairlobby01.mdl
+[10:26:34] Andrew Cloverman<STEAM_0:1:53097688> used the tool stacker_improved on models/props_interiors/chairlobby01.mdl
+[10:26:34] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/chairlobby01.mdl
+[10:26:34] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/chairlobby01.mdl
+[10:26:34] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/chairlobby01.mdl
+[10:26:35] Andrew Cloverman<STEAM_0:1:53097688> used the tool stacker_improved on models/props_interiors/chairlobby01.mdl
+[10:26:35] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/chairlobby01.mdl
+[10:26:35] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/chairlobby01.mdl
+[10:26:35] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/chairlobby01.mdl
+[10:26:40] Andrew Cloverman<STEAM_0:1:53097688> used the tool stacker_improved on models/props_interiors/chairlobby01.mdl
+[10:26:40] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/chairlobby01.mdl
+[10:26:40] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/chairlobby01.mdl
+[10:26:40] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/chairlobby01.mdl
+[10:26:54] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props_interiors/chairlobby01.mdl
+[10:26:54] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props_interiors/chairlobby01.mdl
+[10:26:55] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props_interiors/chairlobby01.mdl
+[10:26:55] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props_interiors/chairlobby01.mdl
+[10:26:58] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props_interiors/chairlobby01.mdl
+[10:26:59] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on maps/rp_industrial17_v1.bsp
+[10:27:00] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props_interiors/chairlobby01.mdl
+[10:27:01] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props_interiors/chairlobby01.mdl
+[10:27:01] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props_interiors/chairlobby01.mdl
+[10:27:01] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props_interiors/chairlobby01.mdl
+[10:27:02] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on maps/rp_industrial17_v1.bsp
+[10:27:02] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props_interiors/chairlobby01.mdl
+[10:27:03] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props_interiors/chairlobby01.mdl
+[10:27:03] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props_interiors/chairlobby01.mdl
+[10:27:04] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props_interiors/chairlobby01.mdl
+[10:27:04] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props_interiors/chairlobby01.mdl
+[10:28:12] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on maps/rp_industrial17_v1.bsp
+[10:29:06] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_lab/tpplugholder_single.mdl
+[10:29:11] Andrew Cloverman<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_lab/tpplugholder_single.mdl
+[10:29:32] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_lab/tpswitch.mdl
+[10:29:33] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_lab/tpplugholder_single.mdl
+[10:29:35] Andrew Cloverman<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_lab/tpplugholder_single.mdl
+[10:29:53] Andrew Cloverman<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_lab/tpplugholder_single.mdl
+[10:30:04] Andrew Cloverman<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_lab/tpplugholder_single.mdl
+[10:30:05] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props_lab/tpplugholder_single.mdl
+[10:30:10] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on maps/rp_industrial17_v1.bsp
+[10:31:00] Client "Lynch" connected.
+[10:31:02] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_lab/tpplugholder.mdl
+[10:31:03] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_lab/tpplugholder_single.mdl
+[10:31:27] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props_lab/tpplugholder_single.mdl
+[10:31:32] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_lab/tpplugholder_single.mdl
+[10:31:39] Andrew Cloverman<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_lab/tpplugholder_single.mdl
+[10:31:50] Andrew Cloverman<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_lab/tpplugholder_single.mdl
+[10:31:52] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props_lab/tpplugholder_single.mdl
+[10:32:41] Andrew Cloverman: /textadd "<font=prCMB3D2DFont><color=255, 150, 0>DATA MAIN</color></font>" 0.18
+[10:33:10] Andrew Cloverman: /textadd "<font=prCMB3D2DFont><color=255, 150, 0>CONTROL</color></font>" 0.55
+[10:33:15] Client "Lynch" spawned in server <STEAM_0:1:626926779> (took 135 seconds).
+[10:33:55] Andrew Cloverman: /textadd "<font=prCMB3D2DFont><color=255, 150, 0>DATA MAIN</color></font>" 0.18
+[10:34:20] Lynch<STEAM_0:1:626926779> changed their name to Henry Blackwoods
+[10:34:28] Andrew Cloverman: //good morning
+[10:34:37] Henry Blackwoods: // Hey there, hows it goin'.
+[10:34:42] Andrew Cloverman: //it's good
+[10:34:52] Andrew Cloverman: //just gettin some propping and stuff in before i start my schoolwork
+[10:35:02] Henry Blackwoods: // Alr.
+[10:37:18] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_lab/powerbox01a.mdl
+[10:37:20] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_lab/powerbox02b.mdl
+[10:37:21] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_lab/powerbox02a.mdl
+[10:37:22] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_lab/powerbox02c.mdl
+[10:37:24] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_lab/powerbox03a.mdl
+[10:39:30] Henry Blackwoods: // Must be tuff running the server, since ya' seem busy.
+[10:39:45] Andrew Cloverman: //yeah, it's a balancing act for 3 parts of my life
+[10:39:50] Andrew Cloverman: //school, work, and server
+[10:40:50] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/de_tides/vending_cart.mdl
+[10:41:07] Henry Blackwoods: // Still though, whenever the server gets active it's fun here.
+[10:41:21] Andrew Cloverman: //thanks, i appreciate that. i try to keep it fun whenever i'm able to
+[10:41:33] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props/de_tides/vending_cart.mdl
+[10:42:13] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/de_inferno/wine_barrel.mdl
+[10:42:16] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/de_inferno/wine_barrel_p1.mdl
+[10:42:17] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/de_inferno/wine_barrel.mdl
+[10:42:20] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/de_inferno/wine_barrel.mdl
+[10:42:36] Andrew Cloverman: //my goal is to get a solid and stable schedule
+[10:42:42] Andrew Cloverman: //so we always have someone on for afternoons and evenings
+[10:42:54] Andrew Cloverman: //we're not quite there but it's the goal
+[10:43:06] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props/de_inferno/wine_barrel.mdl
+[10:43:06] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props/de_inferno/wine_barrel.mdl
+[10:43:06] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props/de_inferno/wine_barrel.mdl
+[10:43:14] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/de_inferno/scaffolding.mdl
+[10:43:46] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_junk/wood_pallet001a.mdl
+[10:43:47] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_junk/pushcart01a.mdl
+[10:43:55] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_c17/furniturewashingmachine001a.mdl
+[10:44:05] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props_c17/furniturewashingmachine001a.mdl
+[10:44:05] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props_junk/pushcart01a.mdl
+[10:44:24] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_junk/metalbucket02a.mdl
+[10:44:33] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props_junk/metalbucket02a.mdl
+[10:44:44] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_wasteland/medbridge_base01.mdl
+[10:44:50] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_wasteland/medbridge_strut01.mdl
+[10:44:59] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_wasteland/prison_bedframe001b.mdl
+[10:45:16] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_wasteland/barricade002a.mdl
+[10:45:34] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_combine/combine_barricade_short01a.mdl
+[10:45:38] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_combine/combine_barricade_short02a.mdl
+[10:45:40] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_combine/combine_barricade_short02a.mdl
+[10:45:42] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_combine/combine_barricade_short03a.mdl
+[10:45:47] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_combine/combine_barricade_short03a.mdl
+[10:45:51] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_combine/combine_barricade_short01a.mdl
+[10:45:55] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_combine/combine_barricade_short01a.mdl
+[10:46:23] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/combine_barricade_short01a.mdl
+[10:46:24] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/combine_barricade_short01a.mdl
+[10:46:30] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_combine/combinebuttress.mdl
+[10:46:32] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_combine/combine_barricade_short01a.mdl
+[10:47:03] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_trainstation/handrail_64decoration001a.mdl
+[10:47:04] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_trainstation/handrail_64decoration001a.mdl
+[10:47:19] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_trainstation/handrail_64decoration001a.mdl
+[10:47:22] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_trainstation/handrail_64decoration001a.mdl
+[10:47:33] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on maps/rp_industrial17_v1.bsp
+[10:47:33] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on maps/rp_industrial17_v1.bsp
+[10:47:37] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on maps/rp_industrial17_v1.bsp
+[10:47:39] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props_trainstation/handrail_64decoration001a.mdl
+[10:47:43] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_trainstation/handrail_64decoration001a.mdl
+[10:47:54] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props_trainstation/handrail_64decoration001a.mdl
+[10:48:12] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_trainstation/handrail_64decoration001a.mdl
+[10:48:30] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on maps/rp_industrial17_v1.bsp
+[10:48:31] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on maps/rp_industrial17_v1.bsp
+[10:48:31] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props_trainstation/handrail_64decoration001a.mdl
+[10:49:04] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/cs_office/computer_caseb_p4a.mdl
+[10:49:11] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/cs_office/computer_caseb_p7a.mdl
+[10:49:26] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/cs_office/table_coffee_p1.mdl
+[10:49:32] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/cs_office/table_coffee_p2.mdl
+[10:49:38] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props/cs_office/table_coffee_p2.mdl
+[10:49:38] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props/cs_office/table_coffee_p1.mdl
+[10:50:03] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_junk/cinderblock01a.mdl
+[10:50:17] Andrew Cloverman<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_junk/cinderblock01a.mdl
+[10:51:00] Andrew Cloverman<STEAM_0:1:53097688> spawned effect models/props/de_tides/woodframe_archway.mdl
+[10:51:02] Andrew Cloverman<STEAM_0:1:53097688> spawned effect models/props/de_tides/woodframe_archway_b.mdl
+[10:51:03] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/de_tides/tides_staffonly_sign.mdl
+[10:51:16] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/de_tides/tides_banner_a.mdl
+[10:51:41] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/de_tides/flowerbed.mdl
+[10:52:03] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/de_inferno/claypot03.mdl
+[10:52:16] Andrew Cloverman<STEAM_0:1:53097688> used the tool nocollideeverything on models/props/de_inferno/claypot03.mdl
+[10:52:17] Andrew Cloverman<STEAM_0:1:53097688> used the tool nocollideeverything on models/props/de_inferno/claypot03.mdl
+[10:52:21] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props/de_inferno/claypot03.mdl
+[10:52:26] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/de_inferno/hay_bails.mdl
+[10:52:28] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/de_inferno/hay_bail_stack.mdl
+[10:52:29] Andrew Cloverman<STEAM_0:1:53097688> spawned effect models/props/de_inferno/infarchc.mdl
+[10:53:47] Andrew Cloverman: /adminspawnmenu
+[10:55:44] Andrew Cloverman: /chargiveitem
+[10:55:45] Andrew Cloverman: /adminspawnmenu
+[11:05:52] Andrew Cloverman: //sorry, i gotta do a lua refresh rq to test something
+[11:06:05] Andrew Cloverman: //this will cause a lag spike but your game is fine dw
+[11:53:38] Henry Blackwoods: // Hooray, I destroyed all the chairs.
+[12:34:14] Dropped "Henry Blackwoods" from server<STEAM_0:1:626926779>
+[12:46:26] Client "Lynch" connected.
+[12:48:24] Client "Lynch" spawned in server <STEAM_0:1:626926779> (took 118 seconds).
+[12:49:02] Lynch<STEAM_0:1:626926779> changed their name to Henry Blackwoods
+[12:49:11] Henry Blackwoods: // Back.
+[12:51:15] Dropped "Henry Blackwoods" from server<STEAM_0:1:626926779>
+[12:53:41] Client "Lynch" connected.
+[12:55:39] Client "Lynch" spawned in server <STEAM_0:1:626926779> (took 118 seconds).
+[12:56:29] Lynch<STEAM_0:1:626926779> changed their name to Henry Blackwoods
+[12:56:36] Henry Blackwoods: // Back again.
+[12:57:36] Henry Blackwoods: // And I uh died by spinning something.
+[13:15:37] Andrew Cloverman: /chargiveitem andrew "sewn cloth"
+[13:23:54] Andrew Cloverman: //sorry, sup
+[13:24:11] Henry Blackwoods: // Yeah so, I spinned a physics prop and got killed by it...
+[13:24:24] Henry Blackwoods: // Now I am trapped in the trainstation.
+[13:24:32] Andrew Cloverman: //F, where'd you die
+[13:24:43] Henry Blackwoods: // CZ
+[13:24:56] Andrew Cloverman brought Henry Blackwoods
+[13:25:00] Henry Blackwoods: /looc Thanks
+[13:25:18] Andrew Cloverman: //alright i do homewor
+[13:25:26] Henry Blackwoods: // aight
+[13:25:49] Henry Blackwoods: // If the server becomes atleast abit more active, I'll join back.
+[13:25:54] Henry Blackwoods: // Until then, cya
+[13:26:06] Dropped "Henry Blackwoods" from server<STEAM_0:1:626926779>
+[13:29:30] Client "YeeterDeeter" connected.
+[13:41:01] Client "YeeterDeeter" spawned in server <STEAM_0:0:54625514> (took 691 seconds).
+[13:46:46] YeeterDeeter<STEAM_0:0:54625514> changed their name to David Ramey
+[13:48:19] David Ramey: /ooc Howdy do 
+[13:49:36] David Ramey: /charfallover
+[13:49:55] David Ramey: /charfallover
+[13:50:13] David Ramey: /charfallover 1
+[13:50:22] David Ramey: /charfallover 1
+[13:50:31] David Ramey: /charfallover 1
+[13:50:40] David Ramey: /charfallover 1
+[13:52:37] David Ramey: /charfallover 1
+[13:52:43] David Ramey: /charfallover 1
+[13:53:09] David Ramey: /charfallover 1
+[13:53:18] David Ramey: /charfallover 1
+[13:53:25] David Ramey: /charfallover 1
+[13:55:57] David Ramey: /charfallover 1
+[13:56:03] David Ramey: /charfallover 1
+[13:56:21] David Ramey: /charfallover 1
+[13:56:28] David Ramey: /charfallover 1
+[13:56:38] David Ramey: /charfallover 1
+[13:56:46] David Ramey: /charfallover 1
+[13:56:51] David Ramey: /charfallover 1
+[13:56:57] David Ramey: /charfallover 1
+[13:57:01] Andrew Cloverman: //oh, hey, sorry! i've been AFKing while I do my homework
+[13:57:08] David Ramey: /ooc howdy do
+[13:57:17] Andrew Cloverman: //Sorry I left you hanging for so long. Give me one second and I'll be over to process you.
+[13:57:20] Andrew Cloverman<STEAM_0:1:53097688> changed their name to CCA.C17-GRID.i3.10945
+[13:57:38] CCA.C17-GRID.i3.10945: //VVelcome, of course, by the vvay.
+[13:58:06] David Ramey: /ooc o7 I was around for some time during the first installment of the server so it's nice to see that it's improved 
+[13:58:38] CCA.C17-GRID.i3.10945: //oh, welcome back, then! I thought your character's name was familiar, it must have been something you used before.
+[13:58:49] CCA.C17-GRID.i3.10945: .//no idea why i'm still tlaking in global OOC
+[13:58:51] David Ramey: /ooc Oh trust me this is the first time. 
+[13:58:57] CCA.C17-GRID.i3.10945: //oh, I must just be going crazy
+[13:59:00] David Ramey: /looc I just responded in kind :^)
+[13:59:13] CCA.C17-GRID.i3.10945: .//We're still a ways away from what I want in quality, but it's a process.
+[13:59:17] CCA.C17-GRID.i3.10945: Get between these two fences.
+[13:59:27] Client "Lynch" connected.
+[14:00:09] David Ramey: /me Had seemingly been staring off into the distance before suddenly being jolted to attention by the sound of a nearby vocoder ''Alrighty'' They plainly responded 
+[14:00:42] Client "Lynch" spawned in server <STEAM_0:1:626926779> (took 75 seconds).
+[14:00:44] CCA.C17-GRID.i3.10945: /me would step behind the citizen, his stunstick already clipped to his utility belt. He positions himself somewhat close, but not within violation of personal space.
+[14:00:59] CCA.C17-GRID.i3.10945: Do you have anything on you that might poke me, stick me, stab me, anything like that?
+[14:01:10] David Ramey: Nope.
+[14:01:46] Lynch<STEAM_0:1:626926779> changed their name to Henry Blackwoods
+[14:01:48] CCA.C17-GRID.i3.10945: /it '<:: Alright ::>', the unit says in response, moving his hands forward and patting down the man, should he choose not to resist.
+[14:01:50] CCA.C17-GRID.i3.10945: /charsearch
+[14:02:04] Henry Blackwoods: // Hey there.
+[14:02:11] David Ramey: /ME Simply doesn't resist
+[14:02:12] CCA.C17-GRID.i3.10945: //howdy, I'm just processing the new guy. I'm still mid assignment
+[14:02:31] Henry Blackwoods: // Oh and hello Yeeter.
+[14:02:41] CCA.C17-GRID.i3.10945: /me snags the man's relocation coupon from what assumedly would be his pocket and then gently yet firmly takes his suitcase from his hand.
+[14:02:42] David Ramey: /ooc Eller
+[14:03:02] CCA.C17-GRID.i3.10945: /charsearch
+[14:03:32] CCA.C17-GRID.i3.10945: /me steps away from the citizen and moves to the aged table. He places the suitcase down and opens it fully.
+[14:03:39] CCA.C17-GRID.i3.10945: /me looks toward the citizen before searching the case.
+[14:03:48] CCA.C17-GRID.i3.10945: You're free to turn away from the fence, just don't leave this area.
+[14:04:29] CCA.C17-GRID.i3.10945: /me proceeds to search through the suitcase, going through (what I'm OOCly assuming is) folded clothes, personal belongings, hygiene products, and whatever else might be inside.
+[14:04:45] CCA.C17-GRID.i3.10945: .//trying not to powergame the contents of your suitcase, I'm just making a guess
+[14:05:21] David Ramey: /looc Honestly i didn't think that much through so at this point you could just say what the contents are 
+[14:05:37] CCA.C17-GRID.i3.10945: /me looks through any compartments that might be inside, any small things hiding in pouches or possible dime bags of illicit substances.
+[14:05:51] CCA.C17-GRID.i3.10945: /me finds nothing of note and closes the suitcase.
+[14:06:14] CCA.C17-GRID.i3.10945: Take your case and proceed to the coupon. processing station.
+[14:06:46] CCA.C17-GRID.i3.10945: /me takes out his PDA in preparation, typing the man's CID in from his coupon that he had already taken.
+[14:07:06] CCA.C17-GRID.i3.10945: /me makes sure to hold the coupon up to the flourescent lights on the ceiling, making sure it's not counterfeit.
+[14:07:17] David Ramey: /me stared off into the distance as the unit processed his information
+[14:07:23] CCA.C17-GRID.i3.10945: /me looks toward the citizen and speaks:
+[14:07:28] CCA.C17-GRID.i3.10945: One moment, let me print your CID.
+[14:08:05] CCA.C17-GRID.i3.10945: Step forward.
+[14:08:19] CCA.C17-GRID.i3.10945: /me pulls up his PDA once again, already opened to the man's data file. 
+[14:09:17] David Ramey: /me took an audible breath before extending his right arm outward toward the officer as if expecting something ''Yaes'' they say whilst stepping forwards
+[14:09:31] CCA.C17-GRID.i3.10945: You can put that arm down, I need to ask you a few questions first.
+[14:09:42] CCA.C17-GRID.i3.10945: /me speaks flatly, not quite impatient, but definitely not warm and welcoming.
+[14:09:49] David Ramey: N-No further quenion.
+[14:10:15] CCA.C17-GRID.i3.10945: First off, what is your date of birth?
+[14:10:24] CCA.C17-GRID.i3.10945: .//the current year is 2006, the war was in 2003, so the latest year to be born is 1985
+[14:11:27] Client "Weaponized Autism" connected.
+[14:12:03] David Ramey: /me The suited individual pauses for a moment ''My social security number is one-three-five-four-two-eight.. Shit what wa- Oh! THREE!''
+[14:12:14] David Ramey: Oh, you said my birthday?
+[14:12:56] David Ramey: The day I was born, my, eh, Deddy, he duct tape me to the gas pedal of the family Buick, and I drive my Mammie and Pappi home from the 'ospital......
+[14:13:02] CCA.C17-GRID.i3.10945: /me stifles a sigh. "<:: Yes, your birthday. Do you need a Q-Tip to clear out your ears, or can we get this done before my shift ends?"
+[14:13:10] David Ramey: /me leaned in slightly 
+[14:13:14] David Ramey: /w They died!
+[14:13:23] David Ramey: Oh!
+[14:13:56] David Ramey: Nineteen-Eighty-Five, Octo-..October Fifth 
+[14:14:11] CCA.C17-GRID.i3.10945: Fantastic, that wasn't too hard.
+[14:14:13] CCA.C17-GRID.i3.10945: You're a male, correct?
+[14:14:17] CCA.C17-GRID.i3.10945: /me types on his PDA as he speaks.
+[14:14:22] CCA.C17-GRID.i3.10945: /viewdata ra
+[14:14:24] David Ramey: Yaes 
+[14:14:41] CCA.C17-GRID.i3.10945: And then... do you know your blood type?
+[14:14:50] CCA.C17-GRID.i3.10945: If not, don't worry, I can mark it as unknown.
+[14:15:04] David Ramey: O-Positive 
+[14:15:08] CCA.C17-GRID.i3.10945: Alright...
+[14:15:10] CCA.C17-GRID.i3.10945: /viewdata ra
+[14:16:13] CCA.C17-GRID.i3.10945: Do you have any mental or physical disabilities or issues?
+[14:16:24] CCA.C17-GRID.i3.10945: This could be something minor, like Eczema, OCD, a bad knee, or something major.
+[14:16:45] David Ramey: No
+[14:16:49] CCA.C17-GRID.i3.10945: Great.
+[14:16:52] CCA.C17-GRID.i3.10945: /viewdata ra
+[14:17:23] CCA.C17-GRID.i3.10945: That'll be all. When you need more filters, you can buy them from the CHANGE store in the plaza or from any of the vending machines around the precinct.
+[14:17:51] CCA.C17-GRID.i3.10945: You can also buy a respirator which doesn't require filters and is much less invasive than a large oxygen suit.
+[14:18:10] David Ramey: /me stared aimlessly at the unit 
+[14:18:14] Client "Weaponized Autism" spawned in server <STEAM_0:0:50046388> (took 407 seconds).
+[14:18:16] CCA.C17-GRID.i3.10945: Do you have any questions for me?
+[14:18:29] David Ramey: No further quenion
+[14:18:33] CCA.C17-GRID.i3.10945: Great.
+[14:18:46] CCA.C17-GRID.i3.10945: /me holds out the man's CID card for him to take, still warm from the printer.
+[14:19:03] David Ramey: /me gently takes it from the officer's grasp 
+[14:19:10] CCA.C17-GRID.i3.10945: /me steps out of the way of the forcefield.
+[14:19:16] David Ramey: /me continued staring 
+[14:19:19] CCA.C17-GRID.i3.10945: You're free to enter. Stay out of trouble.
+[14:19:35] CCA.C17-GRID.i3.10945: come on, get out
+[14:19:47] CCA.C17-GRID.i3.10945: Leave.
+[14:19:54] David Ramey: I will go... I know when I'm not wanted
+[14:20:00] David Ramey: /me skimpers away
+[14:20:08] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> changed their name to Andrew Cloverman
+[14:20:11] Andrew Cloverman: //alright back to working on homework
+[14:22:44] Weaponized Autism<STEAM_0:0:50046388> changed their name to Mousa Al Zarqawi
+[14:23:40] Dropped "Mousa Al Zarqawi" from server<STEAM_0:0:50046388>
+[14:26:05] Dropped "David Ramey" from server<STEAM_0:0:54625514>
+[14:26:21] Dropped "Henry Blackwoods" from server<STEAM_0:1:626926779>
+[16:28:30] Client "swansonfletcher" connected.
+[16:34:06] Client "Painevan" connected.
+[16:37:26] Client "Painevan" spawned in server <STEAM_0:0:68118061> (took 200 seconds).
+[16:42:18] Painevan<STEAM_0:0:68118061> changed their name to Jonathan Jackson
+[16:51:02] Jonathan Jackson<STEAM_0:0:68118061> changed their name to Zombie
+[16:51:15] Zombie<STEAM_0:0:68118061> changed their name to Jonathan Jackson
+[17:10:10] Client "Mr Gritz" connected.
+[17:11:30] Client "Mr Gritz" spawned in server <STEAM_0:1:209628751> (took 80 seconds).
+[17:12:15] Mr Gritz<STEAM_0:1:209628751> changed their name to Ethan Forrester
+[17:12:31] Ethan Forrester: /ooc Uh oh
+[17:12:41] Jonathan Jackson: // whomst
+[17:12:43] Jonathan Jackson: // Oh hello
+[17:13:02] Ethan Forrester: /ooc I almost got stuck inside a warehouse
+[17:13:19] Jonathan Jackson: // Oh did you did that work cycle and disconnect?
+[17:13:25] Ethan Forrester: /ooc Yep
+[17:13:25] Jonathan Jackson: // Yeah no there is a button to open it
+[17:13:34] Ethan Forrester: /ooc I'm out
+[17:13:48] Jonathan Jackson: // good
+[17:14:12] Dropped "Ethan Forrester" from server<STEAM_0:1:209628751>
+[17:22:24] Client "Arbogast1989" connected.
+[17:30:17] Client "Arbogast1989" connected.
+[17:34:31] Client "Arbogast1989" spawned in server <STEAM_0:1:510813207> (took 254 seconds).
+[17:35:50] Dropped "Arbogast1989" from server<STEAM_0:1:510813207>
+[17:50:45] Jonathan Jackson<STEAM_0:0:68118061> changed their name to OTA.C17-ECHO.OHZ.74152
+[17:57:49] OTA.C17-ECHO.OHZ.74152: i
+[18:03:19] Client "Bean" connected.
+[18:04:25] Client "Bean" spawned in server <STEAM_0:1:591779303> (took 66 seconds).
+[18:05:00] Bean<STEAM_0:1:591779303> changed their name to Daniel J. Cutter
+[18:07:56] Dropped "Daniel J. Cutter" from server<STEAM_0:1:591779303>
+[18:34:01] Dropped "OTA.C17-ECHO.OHZ.74152" from server<STEAM_0:0:68118061>
+[19:23:14] Client "firelegend2011" connected.
+[19:25:22] Client "firelegend2011" connected.
+[23:03:15] Client "Painevan" connected.
+[23:05:49] Client "Painevan" spawned in server <STEAM_0:0:68118061> (took 154 seconds).
+[23:07:41] Painevan<STEAM_0:0:68118061> changed their name to Jonathan Jackson
+[23:07:47] Jonathan Jackson: // Q are you here
+[23:11:34] Andrew Cloverman teleported to Jonathan Jackson
+[23:11:35] Andrew Cloverman: .//alright
+[23:11:41] Andrew Cloverman: .//let's craft
+[23:12:42] Jonathan Jackson: /looc K
+[23:12:49] Jonathan Jackson: /looc I require the shirt :)
+[23:12:58] Andrew Cloverman: /chargiveitem andrew "citizen shirt"
+[23:13:08] Jonathan Jackson: /looc Did you know there was like 10 armor scrap in the sewers for some reason?
+[23:13:16] Andrew Cloverman: .//i did not, but i didn't put it there
+[23:13:24] Jonathan Jackson: /looc No clue then, but there was a ton
+[23:14:03] Jonathan Jackson: /looc Hek just one more scrap
+[23:15:05] Jonathan Jackson: // I have done it
+[23:15:16] Jonathan Jackson: // I now have extra reinforced
+[23:15:19] Andrew Cloverman: //nice
+[23:15:42] Jonathan Jackson: // Now I just need to figure out what the hell I'm gonna need it for lol
+[23:15:58] Jonathan Jackson: // I want to make this a secretive rebel character but right now they don't have a legitimate reason to rebel
+[23:16:04] Andrew Cloverman: //that is fair
+[23:16:14] Andrew Cloverman: //i love to imagine, as a joke, like
+[23:16:38] Andrew Cloverman: //some dude filing complaints but getting really angry they don't get read so he just starts to violently rebel
+[23:17:03] Jonathan Jackson: // I literally filed a complaint to the consul when that thing with the Judge happened when they were still a Union
+[23:17:12] Andrew Cloverman: //really funny to imagine some guy writing complaints about how the ladies at the DMV are mean but it doesn't get fixed, so he bombs a parking garage
+[23:17:20] Jonathan Jackson: // IRA
+[23:17:55] Jonathan Jackson: // I also just created a loyalist char
+[23:18:01] Jonathan Jackson: // Oh by the way since you are here
+[23:18:09] Jonathan Jackson: // Can I do a interview for CWU on that character?
+[23:18:27] Andrew Cloverman: //yeah for sure. you're donator so you can just have it
+[23:18:31] Andrew Cloverman: //i forgot that was a thing
+[23:18:46] Jonathan Jackson: // It's more fun doing it the authentic way, I have the LP cause I reported some guy anyways
+[23:18:50] Jonathan Jackson<STEAM_0:0:68118061> changed their name to Karl Merks
+[23:20:00] Andrew Cloverman: //PFFFF
+[23:20:08] Andrew Cloverman: //what branch
+[23:20:18] Karl Merks: Oh what pleasant surroundings this area sure does hold, quite the view I must say, reminds me of City-12 quite so!
+[23:20:26] Karl Merks: // Find out ICly?
+[23:20:29] Karl Merks: // :)
+[23:21:04] Andrew Cloverman: Hey, how can I help you?
+[23:21:14] Andrew Cloverman: /charsethunger andrew 100
+[23:21:17] Andrew Cloverman: /charsetthirst andrew 100
+[23:22:14] Karl Merks: Ah hello there young chap, quite jolly to find such a quaint residence for the CWU now eh? Innit brilliant what our benefactors provide for us on the daily, quite the contrary to what those mooks shillng out their blackmarket goons said on the train here, but I didn't believe a word!
+[23:22:55] Karl Merks: Though I didn't partake in this journey only to ramble on about the niceties of the office you reside in currently, I came to inquire about obtaining a position in the Civil Workers Union! Yes quite that really!
+[23:24:10] Karl Merks: Of course I will fully understand if you aren't allowing new applications for I shall have an eternity of patience to use at a whim, but nevertheless it is best to inquire so that the oppertunity doesn't get taken by another individual such as myself!
+[23:24:53] Andrew Cloverman: .//as soon as you step out of this building, i'm going to do a /event for a a vending machine to fall out of the sky and turn you to dust
+[23:25:01] Karl Merks: /looc lmao
+[23:25:30] Karl Merks: /looc Karl merks just has a grand vocabulary and is a great rambler
+[23:26:34] Andrew Cloverman: ...Right. What branch were you trying to apply to?
+[23:27:17] Karl Merks: Now, I did come prepared for this exact pondering you might have had, therefor I deducted the best thing to do was to bring my own documents in order to fully grasp the decision ahead of me!
+[23:28:05] Karl Merks: /me takes out a folded papers one by one, opens them up to full view and places them on the counter one by one, they are all very detailed accounts of all the branches of the CWU.
+[23:28:35] Karl Merks: Of course what man could I be if I didn't take into account all of the different positives of each branch and my own skillset.
+[23:29:39] Karl Merks: Now I do believe that logistics would be off the table due to my quite humble nature in the height catagory, even though I can assure you I am at peak physical health for my age! It doesn't matter much if I can't reach the top shelf when my employer asks me to bring out a box!
+[23:29:50] Karl Merks: /me does a belly laugh before continuing.
+[23:31:06] Karl Merks: I am afraid I have little in the way of practical medical training, so therefor that option is cut out right in the begining leaving only the Infestation Control Team as well as the Commerce branch, however I see it mostly fit to join the Commerce branch considering my skillset as a exquisit linguist in all manners of culture and knowlege of the dictionary inside and out!
+[23:32:25] Karl Merks: Does that answer your question good sir? I do hope you were paying attention, for I do tend to be a small bit descriptive though my peers have described it to be miniscule so I doubt fully that could've affected your understanding! Quite clearly you were very dilligent, it is only natural in your line of work I assume.
+[23:33:14] Andrew Cloverman: It does. You've definitely got a thesaurus or two on the mind. But, sure. Commerce.
+[23:33:33] Karl Merks: Quite so chap, quite so!
+[23:34:40] Karl Merks: What may the next step be? I quite do want to see how the beuracracy efficently handles all of it's members and clientel in the matter of moments, I doubt even for a second it could be pondered to be inefficent, it is the Civil Workers Union after all!
+[23:37:09] Andrew Cloverman: I'll need to bring someone over for a loyalist point check, if that goes well then you can interview with the interim director of the CWU.
+[23:37:45] Andrew Cloverman: If you don't mind giving me a second in the back, I'll try to get a unit over here and do the paperwork for a new transfer.
+[23:38:06] Karl Merks: No problem I believe these standard procedures can be crucial in determining the qualifications of applicants! I do not mind whatever you shall due so long as it benefits in the process!
+[23:38:50] Andrew Cloverman: Great, I'll be right back.
+[23:39:01] Karl Merks: Perfection indeed good sir.
+[23:39:07] Andrew Cloverman: /me turns directly after speaking, very obviously done with the interaction, but not in a way that's overtly rude.
+[23:39:19] Andrew Cloverman<STEAM_0:1:53097688> changed their name to CCA.C17-GRID.EpU.06912
+[23:39:49] CCA.C17-GRID.EpU.06912: //gotta have a short delay
+[23:39:50] CCA.C17-GRID.EpU.06912: //for relaism
+[23:39:55] Karl Merks: /me stands with perfect posture able to see by neck height over the counter at the magazines across from him being shocased.
+[23:39:57] Karl Merks: // No prob
+[23:40:06] CCA.C17-GRID.EpU.06912: //the timing of a seinfeld episode
+[23:40:29] CCA.C17-GRID.EpU.06912: .///it Kramer bursts into the room, talking about something crazy.
+[23:40:41] CCA.C17-GRID.EpU.06912: /me opens the door and focuses his eyes on the citizen at the counter.
+[23:40:45] CCA.C17-GRID.EpU.06912: /charsethunger grid 100
+[23:40:46] Karl Merks: Hm quite the assortment of nick nacks don't they have in this place? Quite the great arrangement I'll say, it is truley above and beyond being able to see the work that has been placed here!
+[23:40:49] CCA.C17-GRID.EpU.06912: /charsetthirst grid 100
+[23:40:52] Karl Merks: /me is talking to himself as they walk in
+[23:41:11] Karl Merks: /me turns around at the noise of the door opening and closing twenty times.
+[23:41:22] CCA.C17-GRID.EpU.06912: /me steps in, grabbing his PDA.
+[23:41:37] Karl Merks: Ahh hello there you must be the good officer who has come to assist in my application towards benefiting the city as a whole, splended indeed!
+[23:41:47] Karl Merks: /looc splendid*
+[23:42:10] CCA.C17-GRID.EpU.06912: /me flatly stops the man barely after his last word gets out.
+[23:42:12] CCA.C17-GRID.EpU.06912: Nope.
+[23:42:15] CCA.C17-GRID.EpU.06912: /me speaks into his radio.
+[23:42:22] CCA.C17-GRID.EpU.06912: /r i3, report to the CWU headquarters.
+[23:42:24] Karl Merks: I do hope you had a quite alright time venturing forth through the streets-
+[23:42:33] CCA.C17-GRID.EpU.06912: /me turns and leaves the room without saying another word to the man.
+[23:42:41] CCA.C17-GRID.EpU.06912: /r LP check. Your job, I have anything else to do.
+[23:42:44] Karl Merks: Oh quite alright, I do not mind waiting any longer, for it is quite good--
+[23:42:58] Karl Merks: /me is talking in the distance.
+[23:43:10] CCA.C17-GRID.EpU.06912<STEAM_0:1:53097688> changed their name to CCA.C17-GRID.i3.10945
+[23:43:25] CCA.C17-GRID.i3.10945: //that is the most funny thing to happen to me
+[23:43:32] CCA.C17-GRID.i3.10945: //during all of my entire day
+[23:43:42] CCA.C17-GRID.i3.10945: /me opens the door and steps in, closing it behind him.
+[23:44:13] CCA.C17-GRID.i3.10945: /me would clear his throat loudly to get the citizen's attention.
+[23:44:20] Karl Merks: /looc Oops doing homework
+[23:44:26] Karl Merks: Ah hello there!
+[23:44:27] CCA.C17-GRID.i3.10945: .//PFFFF
+[23:44:33] CCA.C17-GRID.i3.10945: .//do you need to submit this before midnight
+[23:44:33] Karl Merks: /me turns around to see the person
+[23:44:39] CCA.C17-GRID.i3.10945: .//if so we can wait 15 mins, i don't mind
+[23:44:41] Karl Merks: /looc Nah it's due in the morning
+[23:44:48] CCA.C17-GRID.i3.10945: .//alright
+[23:45:43] Karl Merks: Hello there good chap of mind, innit a nice day indeed? I was hoping that your deliverance to this place of residence for the Civil Workers Union would be perfectly splendid in timing and it sure seems to be that case considering your position as of now!
+[23:46:19] Karl Merks: /me smiles genuinely happy to see the officer, as well strange as it might be considering he doesn't even know the person.
+[23:47:24] Karl Merks: I do hope your trip was perfect coming down from your headquaters, my you should definitely be commended for you actions seeing how fast you managed to arrive here, that is quite unheard of in City-13, quite the contrast!
+[23:47:48] CCA.C17-GRID.i3.10945: Yeah, we try to cover the city well. You're the one trying to get an LP check, right?
+[23:48:48] Karl Merks: I do believe you are correct good sir, at least I would hope, I do need my Loyalty Points checked for the individual here, all part of the process and we must all oblige our roles as it is layed out for us perfectly by the system! I do believe you will be needing me to apply so I shall do that right now to get it out of the way.
+[23:48:49] Karl Merks: /apply
+[23:49:24] Karl Merks: There we go, good to always have it memorized, never a dull moment making sure you are always learning!
+[23:49:52] CCA.C17-GRID.i3.10945: /me takes out his PDA as the man reads his dissertation on LP checks, then types in his CID as he says it.
+[23:50:02] CCA.C17-GRID.i3.10945: /viewdata rl
+[23:50:26] CCA.C17-GRID.i3.10945: /me lowers it and looks back at the man.
+[23:50:30] CCA.C17-GRID.i3.10945: It says here you only have two loyalist poins.
+[23:50:38] CCA.C17-GRID.i3.10945: /viewdata rl
+[23:50:42] Karl Merks: /me tackles the entity infront of them to the ground.
+[23:50:49] Karl Merks: /looc misclick
+[23:50:59] CCA.C17-GRID.i3.10945: .//e4rgfdbtgxnhv
+[23:51:38] Karl Merks: /looc I should have 7 since just yesterday I was told by Nums that he had added 5 LP for reporting a person who literally ended up attacking him and got arrested
+[23:51:49] Karl Merks: /looc Idk if they forgot to put it in or what?
+[23:51:49] CCA.C17-GRID.i3.10945: .//he must have forgotten
+[23:51:52] CCA.C17-GRID.i3.10945: .//FUCK
+[23:51:55] CCA.C17-GRID.i3.10945: .//NOT HE IT IS NOT HE
+[23:51:59] CCA.C17-GRID.i3.10945: .//NOT HE REPEAT NOT HE
+[23:52:01] CCA.C17-GRID.i3.10945: .//SORRY NUMS
+[23:52:02] CCA.C17-GRID.i3.10945: .//SHE
+[23:52:09] CCA.C17-GRID.i3.10945: .//anyways
+[23:52:12] CCA.C17-GRID.i3.10945: .//yeah must have slipped her mind
+[23:52:16] Karl Merks: /looc Seems so
+[23:52:37] CCA.C17-GRID.i3.10945: Looks like you meet the requirement, I think you're set to apply.
+[23:53:03] Karl Merks: Perfection! Good to see I am properly qualified to enter into the Civil Workers Union proper! Jolly good alright!
+[23:53:06] CCA.C17-GRID.i3.10945: /me clips his PDA to his utility belt, now done with it.
+[23:53:46] Karl Merks: Thank you again officer for making the trek over here, I am sure now that you have important matters to deal with and I do not hesitate to allow you to carry on with your duties in protecting the populace.
+[23:54:09] CCA.C17-GRID.i3.10945: Thanks, I'll make sure I don't sprain my legs trying to get here in time.
+[23:54:21] Karl Merks: /me laughs at the remark.
+[23:54:27] Karl Merks: Quite so indeed!
+[23:54:32] CCA.C17-GRID.i3.10945: /me turns back around and opens the door, pushing it as he walks through it.
+[23:54:41] Client "Bean" connected.
+[23:55:10] CCA.C17-GRID.i3.10945: /r Is Gottlieb available? We have somebody who needs to apply.
+[23:55:32] CCA.C17-GRID.i3.10945: /r I'm not sure, you'd have to ask the CWU member I talked to.
+[23:55:40] Karl Merks: /me hums to himself as he waits patiently.
+[23:55:47] Client "Bean" spawned in server <STEAM_0:1:591779303> (took 66 seconds).
+[23:55:55] Karl Merks: // BEAN
+[23:55:58] CCA.C17-GRID.i3.10945: /r Alright, thanks. 10-4
+[23:56:12] Bean<STEAM_0:1:591779303> changed their name to Daniel J. Cutter
+[23:56:27] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> changed their name to Anna Gottlieb
+[23:56:31] Anna Gottlieb: //hey bean
+[23:56:36] Daniel J. Cutter: /ooc Thats me
+[23:57:03] Anna Gottlieb: Hello, Andrew.
+[23:57:20] Anna Gottlieb: thank you, he's all set?
+[23:57:25] Daniel J. Cutter<STEAM_0:1:591779303> changed their name to Alex Palovichov
+[23:57:32] Anna Gottlieb: Good wokr.
+[23:57:51] Anna Gottlieb: Hello, mister Merks. It's great to meet you.
+[23:58:06] Anna Gottlieb: My name is Anna Gottlieb, I'm the interim director of City 17's CWU.
+[23:58:19] Alex Palovichov: Oh...Hello...
+[23:58:29] Alex Palovichov: Just gotta sneak past you...
+[23:58:53] Anna Gottlieb: .//two of them: there are two of them
+[23:58:55] Karl Merks: Great to meet you too indeed, I do wish my presence here does not disturb your opperations too much, for as much as I wish to apply there are greater things than me!
+[23:59:01] Karl Merks: /looc LOYALIST SQUAD
+[23:59:28] Alex Palovichov: /me Would grab a Pamphlet off the display, reading it over
+[23:59:47] Anna Gottlieb: I'm happy to hear about your eagerness. If you'll just follow me, please.
+[23:59:55] Anna Gottlieb: .//oh sorry you were still talking, my bad
+[23:59:57] Karl Merks: Of course this is a fine residence, I do not hesistate to believe that my presence here disturbs anything being done here, I am sure this district is well operated and maintained around the clock.
+<Logging continued in "data/ulx_logs/09-30-22.txt">

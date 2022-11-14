@@ -1,0 +1,8 @@
+L 11/09/2022 - 08:54:27: Log file started (file "logs\L1109006.log") (game "c:\servers\revivalhl2rp\garrysmod") (version "8607")
+L 11/09/2022 - 08:54:27: rcon from "192.223.25.172:34260": command "exec server.cfg"
+L 11/09/2022 - 08:54:33: rcon from "192.223.25.172:34298": command "logaddress_add 192.223.25.172:10000"
+L 11/09/2022 - 08:54:55: rcon from "192.223.25.172:34316": command "Ulx changemap RP_industrial17_v1"
+L 11/09/2022 - 08:54:59: rcon from "192.223.25.172:34320": command "Ulx help"
+L 11/09/2022 - 08:55:22: [ULX] (Console) changed the map to rp_industrial17_v1
+L 11/09/2022 - 08:55:22: rcon from "192.223.25.172:35320": command "ulx map rp_industrial17_v1"
+L 11/09/2022 - 08:55:22: Log file closed.

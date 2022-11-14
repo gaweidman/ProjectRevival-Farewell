@@ -1,0 +1,240 @@
+[11:45:54]	matt saton has connected.
+[11:46:45]	matt saton loaded the character 'CCA.C08-GRID.i3.08313'
+[11:46:47]	[OOC] CCA.C08-GRID.i3.08313: test
+[11:46:48]	CCA.C08-GRID.i3.08313 entered observer.
+[11:47:17]	CCA.C08-GRID.i3.08313 exited observer at their location.
+[11:48:13]	CCA.C08-GRID.i3.08313 has taken 2 damage from CCA.C08-GRID.i3.08313.
+[11:48:58]	CCA.C08-GRID.i3.08313 has taken 2 damage from CCA.C08-GRID.i3.08313.
+[11:49:08]	CCA.C08-GRID.i3.08313 entered observer.
+[11:51:10]	CCA.C08-GRID.i3.08313 used command '/CharSetThirst grid 100'.
+[11:51:13]	CCA.C08-GRID.i3.08313 used command '/CharSetHunger grid 100'.
+[11:51:45]	CCA.C08-GRID.i3.08313 has gained 10 tokens.
+[11:54:44]	CCA.C08-GRID.i3.08313 exited observer at their location.
+[11:54:47]	CCA.C08-GRID.i3.08313 entered observer.
+[11:56:45]	CCA.C08-GRID.i3.08313 has gained 10 tokens.
+[11:59:16]	CCA.C08-GRID.i3.08313 exited observer at their location.
+[11:59:24]	CCA.C08-GRID.i3.08313 has spawned a 'Entity [2898][ix_forcefield]'.
+[11:59:25]	CCA.C08-GRID.i3.08313 entered observer.
+[11:59:26]	CCA.C08-GRID.i3.08313 exited observer at their location.
+[11:59:27]	CCA.C08-GRID.i3.08313 has spawned a 'Entity [2898][ix_forcefield]'.
+[11:59:29]	CCA.C08-GRID.i3.08313 has spawned a 'Entity [2900][ix_forcefield]'.
+[11:59:31]	CCA.C08-GRID.i3.08313 has spawned a 'Entity [2898][ix_forcefield]'.
+[11:59:33]	CCA.C08-GRID.i3.08313 has spawned a 'Entity [2900][ix_forcefield]'.
+[11:59:36]	CCA.C08-GRID.i3.08313 entered observer.
+[12:01:45]	CCA.C08-GRID.i3.08313 has gained 10 tokens.
+[12:04:26]	CCA.C08-GRID.i3.08313 exited observer at their location.
+[12:04:27]	CCA.C08-GRID.i3.08313 entered observer.
+[12:04:41]	CCA.C08-GRID.i3.08313 exited observer at their location.
+[12:04:42]	CCA.C08-GRID.i3.08313 entered observer.
+[12:05:03]	CCA.C08-GRID.i3.08313 ran 'View' on item 'Paper' (#20773)
+[12:06:20]	CCA.C08-GRID.i3.08313 exited observer at their location.
+[12:06:21]	CCA.C08-GRID.i3.08313 entered observer.
+[12:06:24]	CCA.C08-GRID.i3.08313 exited observer at their location.
+[12:06:24]	CCA.C08-GRID.i3.08313 entered observer.
+[12:06:24]	CCA.C08-GRID.i3.08313 exited observer at their location.
+[12:06:25]	CCA.C08-GRID.i3.08313 entered observer.
+[12:06:26]	CCA.C08-GRID.i3.08313 exited observer at their location.
+[12:06:26]	CCA.C08-GRID.i3.08313 entered observer.
+[12:06:38]	CCA.C08-GRID.i3.08313 exited observer at their location.
+[12:06:40]	CCA.C08-GRID.i3.08313 entered observer.
+[12:06:43]	CCA.C08-GRID.i3.08313 exited observer at their location.
+[12:06:45]	CCA.C08-GRID.i3.08313 has gained 10 tokens.
+[12:06:47]	CCA.C08-GRID.i3.08313 has spawned a 'Entity [60][ix_combinelock]'.
+[12:06:48]	CCA.C08-GRID.i3.08313 entered observer.
+[12:06:50]	CCA.C08-GRID.i3.08313 exited observer at their location.
+[12:06:51]	CCA.C08-GRID.i3.08313 has spawned a 'Entity [60][ix_combinelock]'.
+[12:06:52]	CCA.C08-GRID.i3.08313 entered observer.
+[12:07:00]	CCA.C08-GRID.i3.08313 has spawned a 'Entity [1294][ix_unionlock]'.
+[12:08:37]	CCA.C08-GRID.i3.08313 used command '/ToggleRaise'.
+[12:08:38]	CCA.C08-GRID.i3.08313 used command '/ToggleRaise'.
+[12:11:45]	CCA.C08-GRID.i3.08313 has gained 10 tokens.
+[12:19:48]	CCA.C08-GRID.i3.08313 has gained a 'Supplements' #20827.
+[12:19:48]	CCA.C08-GRID.i3.08313 used command '/CharGiveItem grid supplements'.
+[12:19:58]	CCA.C08-GRID.i3.08313 used command '/CharGiveItem grid citize nsupplements'.
+[12:20:06]	CCA.C08-GRID.i3.08313 has gained a 'Civil Protection Functionary Grade Food Product' #20828.
+[12:20:06]	CCA.C08-GRID.i3.08313 used command '/CharGiveItem grid food product'.
+[12:21:10]	CCA.C08-GRID.i3.08313 used command '/CharGiveItem grid citizen grade food product'.
+[12:21:17]	CCA.C08-GRID.i3.08313 used command '/CharGiveItem grid standard grade food product'.
+[12:21:21]	CCA.C08-GRID.i3.08313 used command '/CharGiveItem grid standard food product'.
+[12:21:26]	CCA.C08-GRID.i3.08313 used command '/CharGiveItem grid priority-grade food product'.
+[12:21:30]	CCA.C08-GRID.i3.08313 used command '/CharGiveItem grid priority grade food product'.
+[12:21:36]	CCA.C08-GRID.i3.08313 used command '/CharGiveItem grid priority greade'.
+[12:21:39]	CCA.C08-GRID.i3.08313 has gained a 'Priority Grade Citizen Food Product' #20829.
+[12:21:39]	CCA.C08-GRID.i3.08313 used command '/CharGiveItem grid priority grade'.
+[12:21:43]	CCA.C08-GRID.i3.08313 ran 'Consume' on item 'Priority Grade Citizen Food Product' (#20829)
+[12:21:45]	CCA.C08-GRID.i3.08313 has gained 10 tokens.
+[12:22:46]	CCA.C08-GRID.i3.08313 used command '/adminspawnmenu'.
+[12:27:16]	CCA.C08-GRID.i3.08313 has spawned 'models/foodnhouseholdaaaaa/combirationc.mdl'.
+[12:28:06]	CCA.C08-GRID.i3.08313 has spawned 'models/pg_plops/pg_food/pg_tortellinar.mdl'.
+[12:43:24]	CCA.C08-GRID.i3.08313 exited observer at their location.
+[12:43:26]	CCA.C08-GRID.i3.08313 entered observer.
+[12:43:26]	CCA.C08-GRID.i3.08313 exited observer at their location.
+[12:43:33]	CCA.C08-GRID.i3.08313 has spawned a 'NPC [2899][npc_vortigaunt]'.
+[12:43:36]	CCA.C08-GRID.i3.08313 entered observer.
+[12:43:37]	CCA.C08-GRID.i3.08313 has spawned a 'NPC [2899][npc_vortigaunt]'.
+[12:43:39]	CCA.C08-GRID.i3.08313 has spawned a 'NPC [2902][npc_citizen]'.
+[12:43:41]	CCA.C08-GRID.i3.08313 has spawned a 'NPC [2904][npc_citizen]'.
+[12:43:47]	CCA.C08-GRID.i3.08313 has spawned a 'NPC [2909][npc_citizen]'.
+[12:46:45]	CCA.C08-GRID.i3.08313 has gained 10 tokens.
+[12:47:49]	CCA.C08-GRID.i3.08313 has spawned 'models/pg_plops/pg_food/pg_tortellinap.mdl'.
+[12:47:51]	CCA.C08-GRID.i3.08313 has spawned 'models/pg_plops/pg_food/pg_tortellinap.mdl'.
+[12:48:32]	CCA.C08-GRID.i3.08313 has spawned 'models/weapons/w_packate.mdl'.
+[12:48:32]	CCA.C08-GRID.i3.08313 has spawned 'models/pg_plops/pg_food/pg_tortellinat.mdl'.
+[12:48:41]	CCA.C08-GRID.i3.08313 has spawned 'models/probs_misc/tobdcco_box-1.mdl'.
+[12:48:45]	CCA.C08-GRID.i3.08313 has spawned 'models/mres/consumables/tag_mre.mdl'.
+[12:48:52]	CCA.C08-GRID.i3.08313 has spawned 'models/pg_plops/pg_food/pg_tortellinat.mdl'.
+[12:51:19]	CCA.C08-GRID.i3.08313 has spawned 'models/probs_misc/tobdcco_box-1.mdl'.
+[12:51:45]	CCA.C08-GRID.i3.08313 has gained 10 tokens.
+[12:54:40]	Beedle has connected.
+[12:55:03]	Beedle loaded the character 'Kane Davis'
+[13:11:19]	Beedle (STEAM_0:1:31603520) has disconnected.
+[13:56:45]	CCA.C08-GRID.i3.08313 has gained 10 tokens.
+[14:05:35]	CCA.C08-GRID.i3.08313 has spawned 'models/props_cunk/popcan01a.mdl'.
+[14:06:32]	CCA.C08-GRID.i3.08313 has spawned 'models/probs_misc/tobccco_box-1.mdl'.
+[14:06:35]	CCA.C08-GRID.i3.08313 has spawned 'models/weapons/w_packatm.mdl'.
+[14:06:45]	CCA.C08-GRID.i3.08313 has gained 10 tokens.
+[14:07:13]	CCA.C08-GRID.i3.08313 has spawned 'models/probs_misc/tobccco_box-1.mdl'.
+[14:10:24]	CCA.C08-GRID.i3.08313 has spawned 'models/probs_misc/tobccco_box-1.mdl'.
+[14:11:45]	CCA.C08-GRID.i3.08313 has gained 10 tokens.
+[14:23:25]	CCA.C08-GRID.i3.08313 exited observer at their location.
+[14:23:26]	CCA.C08-GRID.i3.08313 entered observer.
+[14:23:26]	CCA.C08-GRID.i3.08313 exited observer at their location.
+[14:23:27]	CCA.C08-GRID.i3.08313 entered observer.
+[14:23:27]	CCA.C08-GRID.i3.08313 exited observer at their location.
+[14:23:28]	CCA.C08-GRID.i3.08313 entered observer.
+[14:23:29]	CCA.C08-GRID.i3.08313 exited observer at their location.
+[14:23:30]	CCA.C08-GRID.i3.08313 entered observer.
+[14:23:30]	CCA.C08-GRID.i3.08313 exited observer at their location.
+[14:23:30]	CCA.C08-GRID.i3.08313 entered observer.
+[14:23:31]	CCA.C08-GRID.i3.08313 exited observer at their location.
+[14:23:31]	CCA.C08-GRID.i3.08313 entered observer.
+[14:23:32]	CCA.C08-GRID.i3.08313 exited observer at their location.
+[14:23:32]	CCA.C08-GRID.i3.08313 entered observer.
+[14:23:32]	CCA.C08-GRID.i3.08313 exited observer at their location.
+[14:23:34]	CCA.C08-GRID.i3.08313 entered observer.
+[14:23:34]	CCA.C08-GRID.i3.08313 exited observer at their location.
+[14:23:35]	CCA.C08-GRID.i3.08313 entered observer.
+[14:23:35]	CCA.C08-GRID.i3.08313 exited observer at their location.
+[14:23:37]	CCA.C08-GRID.i3.08313 entered observer.
+[14:23:39]	CCA.C08-GRID.i3.08313 exited observer at their location.
+[14:23:39]	CCA.C08-GRID.i3.08313 entered observer.
+[14:23:39]	CCA.C08-GRID.i3.08313 exited observer at their location.
+[14:23:40]	CCA.C08-GRID.i3.08313 entered observer.
+[14:23:40]	CCA.C08-GRID.i3.08313 exited observer at their location.
+[14:23:41]	CCA.C08-GRID.i3.08313 entered observer.
+[14:23:42]	CCA.C08-GRID.i3.08313 exited observer at their location.
+[14:23:43]	CCA.C08-GRID.i3.08313 entered observer.
+[14:23:44]	CCA.C08-GRID.i3.08313 exited observer at their location.
+[14:23:44]	CCA.C08-GRID.i3.08313 entered observer.
+[14:23:44]	CCA.C08-GRID.i3.08313 exited observer at their location.
+[14:23:45]	CCA.C08-GRID.i3.08313 entered observer.
+[14:23:45]	CCA.C08-GRID.i3.08313 exited observer at their location.
+[14:23:45]	CCA.C08-GRID.i3.08313 entered observer.
+[14:23:45]	CCA.C08-GRID.i3.08313 exited observer at their location.
+[14:23:46]	CCA.C08-GRID.i3.08313 entered observer.
+[14:23:46]	CCA.C08-GRID.i3.08313 exited observer at their location.
+[14:23:47]	CCA.C08-GRID.i3.08313 entered observer.
+[14:23:47]	CCA.C08-GRID.i3.08313 exited observer at their location.
+[14:23:48]	CCA.C08-GRID.i3.08313 entered observer.
+[14:23:48]	CCA.C08-GRID.i3.08313 exited observer at their location.
+[14:23:49]	CCA.C08-GRID.i3.08313 entered observer.
+[14:23:49]	CCA.C08-GRID.i3.08313 exited observer at their location.
+[14:23:49]	CCA.C08-GRID.i3.08313 entered observer.
+[14:23:50]	CCA.C08-GRID.i3.08313 exited observer at their location.
+[14:23:50]	CCA.C08-GRID.i3.08313 entered observer.
+[14:23:50]	CCA.C08-GRID.i3.08313 exited observer at their location.
+[14:23:52]	CCA.C08-GRID.i3.08313 entered observer.
+[14:23:52]	CCA.C08-GRID.i3.08313 exited observer at their location.
+[14:23:54]	CCA.C08-GRID.i3.08313 entered observer.
+[14:23:56]	CCA.C08-GRID.i3.08313 exited observer at their location.
+[14:23:57]	CCA.C08-GRID.i3.08313 entered observer.
+[14:23:59]	CCA.C08-GRID.i3.08313 exited observer at their location.
+[14:24:00]	CCA.C08-GRID.i3.08313 entered observer.
+[14:25:19]	[OOC] CCA.C08-GRID.i3.08313: sup
+[14:31:24]	Beedle has connected.
+[14:36:02]	Beedle loaded the character 'Kane Davis'
+[14:38:29]	[OOC] CCA.C08-GRID.i3.08313: sup beedle
+[14:38:31]	CCA.C08-GRID.i3.08313 exited observer at their location.
+[14:38:35]	CCA.C08-GRID.i3.08313 entered observer.
+[14:38:36]	CCA.C08-GRID.i3.08313 exited observer at their location.
+[14:38:40]	CCA.C08-GRID.i3.08313 entered observer.
+[14:38:41]	CCA.C08-GRID.i3.08313 exited observer at their location.
+[14:38:41]	CCA.C08-GRID.i3.08313 used the 'Ration Supply' vendor.
+[14:38:42]	CCA.C08-GRID.i3.08313 has gained 0 tokens.
+[14:38:42]	CCA.C08-GRID.i3.08313 has gained a 'Standard Grade Ration' #20829.
+[14:38:44]	CCA.C08-GRID.i3.08313 entered observer.
+[14:38:45]	CCA.C08-GRID.i3.08313 ran 'Open' on item 'Standard Grade Ration' (#20829)
+[14:38:45]	CCA.C08-GRID.i3.08313 has gained a 'Standard Grade Citizen Food Product' #20830.
+[14:38:45]	CCA.C08-GRID.i3.08313 has gained a 'Consulate Water' #20831.
+[14:38:45]	CCA.C08-GRID.i3.08313 has gained 10 tokens.
+[14:38:47]	[OOC] Kane Davis: just lurking the strange general chat rn lol
+[14:38:50]	CCA.C08-GRID.i3.08313 exited observer at their location.
+[14:39:08]	[OOC] CCA.C08-GRID.i3.08313: understandable
+[14:39:12]	[OOC] CCA.C08-GRID.i3.08313: do you like my icon
+[14:39:27]	CCA.C08-GRID.i3.08313 entered observer.
+[14:39:28]	CCA.C08-GRID.i3.08313 exited observer at their location.
+[14:39:30]	[OOC] Kane Davis: oh nice can barely see it but I know what it is
+[14:39:44]	[OOC] CCA.C08-GRID.i3.08313: i'm working on fixing and adding to rations
+[14:39:47]	[OOC] CCA.C08-GRID.i3.08313: so they don't have both eat and consume
+[14:39:51]	[OOC] CCA.C08-GRID.i3.08313: and also you get supplements that heal you
+[14:40:28]	[LOOC] Kane Davis: I think we should work on a Worker's Union roster rebuild. 
+[14:40:55]	[LOOC] Kane Davis: I think the CWU is a big part of Citizen RP
+[14:41:07]	[LOOC] CCA.C08-GRID.i3.08313: that would be a good one too
+[14:41:09]	CCA.C08-GRID.i3.08313 has gained 10 tokens.
+[14:41:19]	[LOOC] CCA.C08-GRID.i3.08313: i want to add a system where buildings work a bit differnetly
+[14:41:23]	[LOOC] CCA.C08-GRID.i3.08313: it's a bit ambitious but a good idea
+[14:41:38]	[LOOC] CCA.C08-GRID.i3.08313: so you have to clock in once every however long, and if you don't clock in after [x] amount of time, you lose your store
+[14:41:44]	[LOOC] CCA.C08-GRID.i3.08313: so people in commerce don't just get a store
+[14:41:46]	[LOOC] CCA.C08-GRID.i3.08313: and then
+[14:41:47]	[LOOC] CCA.C08-GRID.i3.08313: dip
+[14:41:50]	[LOOC] CCA.C08-GRID.i3.08313: and the store is taken forever
+[14:41:55]	[LOOC] CCA.C08-GRID.i3.08313: kinda like rust bases
+[14:42:00]	[LOOC] CCA.C08-GRID.i3.08313: and then yeah logistics may not be the best
+[14:42:29]	[LOOC] Kane Davis: Yes I think discord channels devoted to CWU RP schedules that would be good
+[14:42:38]	[LOOC] Kane Davis: ***
+[14:42:38]	[LOOC] CCA.C08-GRID.i3.08313: yeah
+[14:42:57]	[LOOC] CCA.C08-GRID.i3.08313: logistics, the branch is a cool idea but i also love logistics personally
+[14:43:00]	[LOOC] CCA.C08-GRID.i3.08313: not the branch but the field
+[14:43:35]	[LOOC] Kane Davis: I'm going to try and devote my character Jagraj to the CWU at some point soon.
+[14:44:04]	[LOOC] Kane Davis: Is there someone at the head of the CWU right now??
+[14:45:19]	[LOOC] CCA.C08-GRID.i3.08313: not at the moment no
+[14:45:28]	[LOOC] CCA.C08-GRID.i3.08313: i'm serving as interim director just to run applciations
+[14:45:31]	[LOOC] CCA.C08-GRID.i3.08313: but at the moment, no
+[14:46:09]	CCA.C08-GRID.i3.08313 has gained 10 tokens.
+[14:46:26]	[LOOC] Kane Davis: CWU recruitment is all done IC right?
+[14:46:45]	[LOOC] CCA.C08-GRID.i3.08313: affirmative
+[14:47:49]	[LOOC] Kane Davis: Yea I think we should make a locked discord channel and access to that channe means you're in the Union and on the roster, but it's up to the user how active their schedule and work logs are.
+[14:48:12]	[LOOC] Kane Davis: more schedule and work logs = more benefits of something
+[14:49:06]	[LOOC] Kane Davis: I'd say LP cause it's work for the betterment of the Combine system
+[14:49:15]	[LOOC] CCA.C08-GRID.i3.08313: yeah
+[14:50:20]	[LOOC] Kane Davis: I'd like to see either 1 LP given by a CCA in game or 1 LP given after CWU director approves the work log
+[14:50:33]	[LOOC] CCA.C08-GRID.i3.08313: hmm, interesting idea
+[14:51:09]	CCA.C08-GRID.i3.08313 has gained 10 tokens.
+[14:51:45]	[LOOC] Kane Davis: yea dont see a need to write a log if the eyes of the 'benefactors' see thru the CCA unit labor is confimed 
+[14:51:48]	[LOOC] Kane Davis: if thsat makes sense
+[14:52:55]	[LOOC] Kane Davis: I can see a CCA unit/division of some type working directly with the CWU to observe city general maintenence.
+[14:53:22]	[LOOC] Kane Davis: like yesterday I did a check of building plumbing and a CCA unit observed the work then /viewdata logged it I think.
+[14:53:28]	[LOOC] CCA.C08-GRID.i3.08313: see that's a great idea, but i have a counter offer: The City Bureaucracy
+[14:53:38]	[LOOC] CCA.C08-GRID.i3.08313: city bureaucracy roleplay there would be pretty cool too imo
+[14:53:55]	[LOOC] CCA.C08-GRID.i3.08313: and considering the CWU is an office of the CA
+[14:53:57]	[LOOC] CCA.C08-GRID.i3.08313: it would make sense
+[14:54:29]	[LOOC] Kane Davis: wym like... just like, jobs under the CA like an office?
+[14:55:53]	[LOOC] CCA.C08-GRID.i3.08313: an office as in like, wait hold on are you american
+[14:56:03]	[LOOC] Kane Davis: yes 
+[14:56:09]	CCA.C08-GRID.i3.08313 has gained 10 tokens.
+[14:57:03]	[LOOC] CCA.C08-GRID.i3.08313: yknow how you have- wait no bad example
+[14:57:09]	[LOOC] CCA.C08-GRID.i3.08313: hold on let me think
+[14:57:35]	[LOOC] Kane Davis: Like you want the CWU to adhere more to the CA 
+[14:57:44]	[LOOC] Kane Davis: and have other infastuctures under the Ca
+[14:57:54]	[LOOC] CCA.C08-GRID.i3.08313: the CWU already does adhere to the CA as written in the guide
+[14:58:32]	[LOOC] CCA.C08-GRID.i3.08313: the CWU is, in server canon, an organization created and executively run by the CA
+[14:58:36]	[LOOC] CCA.C08-GRID.i3.08313: am i making any sense
+[14:58:39]	[LOOC] Kane Davis: Ya
+[14:58:41]	[LOOC] CCA.C08-GRID.i3.08313: yeye
+[14:58:45]	[LOOC] CCA.C08-GRID.i3.08313: let's continue this on discord
+[14:58:47]	[LOOC] CCA.C08-GRID.i3.08313: but uhhh
+[14:58:49]	[LOOC] CCA.C08-GRID.i3.08313: server's gonna restar
+[14:58:52]	[LOOC] CCA.C08-GRID.i3.08313: because i have a lot of changes to push
+[14:59:00]	[LOOC] CCA.C08-GRID.i3.08313: and the server will need a restart
+[14:59:02]	[LOOC] Kane Davis: ok
+[14:59:08]	Beedle (STEAM_0:1:31603520) has disconnected.

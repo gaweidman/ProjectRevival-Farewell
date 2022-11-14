@@ -1,0 +1,585 @@
+<Logging continued from "data/ulx_logs/08-28-22.txt">
+[03:26:02] Dropped "CCA.C17-JUDGE.OfC.01993" from server<STEAM_0:1:53097688>
+
+
+
+[03:33:22] New map: rp_industrial17_v1
+[04:07:25] Client "Mr.Ganar" connected.
+[11:10:55] Client "Prelude9203" connected.
+[11:15:50] Client "Prelude9203" spawned in server <STEAM_0:1:79247036> (took 295 seconds).
+[11:19:01] Dropped "Prelude9203" from server<STEAM_0:1:79247036>
+[11:47:08] Client "Painevan" connected.
+[11:47:59] Client "matt saton" connected.
+[11:49:35] Client "Painevan" spawned in server <STEAM_0:0:68118061> (took 147 seconds).
+[11:50:48] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 169 seconds).
+[11:50:56] Painevan<STEAM_0:0:68118061> changed their name to Zombie
+[11:54:16] matt saton<STEAM_0:1:53097688> changed their name to Ryan Maley
+[12:25:40] Zombie: // I live
+[12:25:44] Zombie<STEAM_0:0:68118061> changed their name to Jonathan Jackson
+[12:25:49] Jonathan Jackson<STEAM_0:0:68118061> used the tool remover on maps/rp_industrial17_v1.bsp
+[12:26:53] Jonathan Jackson<STEAM_0:0:68118061> used the tool ledscreen on maps/rp_industrial17_v1.bsp
+[13:04:18] Ryan Maley<STEAM_0:1:53097688> spawned model models/props_combine/combine_smallmonitor001.mdl
+[13:06:28] Ryan Maley<STEAM_0:1:53097688> spawned model models/props_office/file_cabinet_03.mdl
+[13:06:44] Ryan Maley<STEAM_0:1:53097688> spawned model models/props_lab/filecabinet02.mdl
+[13:06:48] Ryan Maley<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_lab/filecabinet02.mdl
+[13:07:06] Ryan Maley<STEAM_0:1:53097688> spawned model models/props_junk/trashcluster01a.mdl
+[13:07:13] Ryan Maley<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_junk/trashcluster01a.mdl
+[13:07:33] Ryan Maley<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_junk/trashcluster01a.mdl
+[13:07:37] Ryan Maley<STEAM_0:1:53097688> used the tool permaprops on models/props_junk/trashcluster01a.mdl
+[13:07:51] Ryan Maley<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_storagecloset001a.mdl
+[13:07:59] Ryan Maley<STEAM_0:1:53097688> spawned model models/props/cs_militia/table_shed.mdl
+[13:09:19] Ryan Maley<STEAM_0:1:53097688> spawned model models/props_c17/cashregister01a.mdl
+[13:09:42] Ryan Maley<STEAM_0:1:53097688> spawned model models/props_interiors/magazine_rack.mdl
+[13:10:48] Ryan Maley<STEAM_0:1:53097688> spawned model models/props/cs_militia/bar01.mdl
+[13:11:14] Ryan Maley<STEAM_0:1:53097688> used the tool nocollideeverything on models/props/cs_militia/bar01.mdl
+[13:11:24] Ryan Maley<STEAM_0:1:53097688> used the tool nocollideeverything on models/props/cs_militia/bar01.mdl
+[13:12:25] Ryan Maley<STEAM_0:1:53097688> used the tool nocollideeverything on models/props/cs_militia/bar01.mdl
+[13:13:04] Ryan Maley<STEAM_0:1:53097688> used the tool nocollideeverything on models/props/cs_militia/bar01.mdl
+[13:13:19] Ryan Maley<STEAM_0:1:53097688> spawned model models/chairs/armchair.mdl
+[13:13:21] Ryan Maley<STEAM_0:1:53097688> spawned model models/props/cs_office/sofa_chair.mdl
+[13:13:21] Ryan Maley: /toggleraise
+[13:13:23] Ryan Maley<STEAM_0:1:53097688> spawned model models/chairs/armchair.mdl
+[13:13:52] Ryan Maley<STEAM_0:1:53097688> spawned model models/props/cs_office/sofa_chair.mdl
+[13:13:57] Ryan Maley<STEAM_0:1:53097688> spawned model models/scenery/furniture/coffeetable1/vestbl.mdl
+[13:14:10] Ryan Maley<STEAM_0:1:53097688> spawned model models/props_interiors/desk_executive.mdl
+[13:15:18] Ryan Maley<STEAM_0:1:53097688> spawned model models/scenery/furniture/coffeetable1/vestbl.mdl
+[13:16:08] Ryan Maley<STEAM_0:1:53097688> spawned model models/props_foliage/tree_springers_01a.mdl
+[13:16:12] Ryan Maley<STEAM_0:1:53097688> spawned model models/props/de_inferno/bench_concrete.mdl
+[13:16:13] Ryan Maley<STEAM_0:1:53097688> spawned model models/props/de_piranesi/pi_sundial.mdl
+[13:16:20] Ryan Maley<STEAM_0:1:53097688> spawned model models/props/de_piranesi/pi_bench.mdl
+[13:16:22] Ryan Maley<STEAM_0:1:53097688> spawned model models/props/de_tides/vending_cart.mdl
+[13:16:49] Ryan Maley<STEAM_0:1:53097688> spawned model models/props_interiors/side_table_square.mdl
+[13:16:57] Ryan Maley<STEAM_0:1:53097688> spawned model models/wilderness/lamp6.mdl
+[13:17:03] Ryan Maley<STEAM_0:1:53097688> spawned model models/wilderness/lamp6.mdl
+[13:17:08] Ryan Maley<STEAM_0:1:53097688> used the tool permaprops on maps/rp_industrial17_v1.bsp
+[13:17:08] Ryan Maley<STEAM_0:1:53097688> used the tool permaprops on models/wilderness/lamp6.mdl
+[13:17:08] Ryan Maley<STEAM_0:1:53097688> used the tool permaprops on models/scenery/furniture/coffeetable1/vestbl.mdl
+[13:17:18] Ryan Maley<STEAM_0:1:53097688> spawned model models/props_furniture/picture_frame8.mdl
+[13:17:20] Ryan Maley<STEAM_0:1:53097688> spawned model models/props_interiors/painting_landscape01.mdl
+[13:17:23] Ryan Maley<STEAM_0:1:53097688> spawned model models/props_interiors/painting_portrait01.mdl
+[13:17:37] Ryan Maley<STEAM_0:1:53097688> spawned model models/props_urban/hotel_curtain001.mdl
+[13:17:47] Ryan Maley<STEAM_0:1:53097688> spawned model models/props_urban/hotel_curtain001.mdl
+[13:17:50] Ryan Maley<STEAM_0:1:53097688> spawned model models/props_urban/hotel_curtain001.mdl
+[13:18:08] Ryan Maley<STEAM_0:1:53097688> spawned model models/highrise/lobby_chair_01.mdl
+[13:18:11] Ryan Maley<STEAM_0:1:53097688> spawned model models/env/furniture/decosofa_wood/decosofa_wood_dou.mdl
+[13:18:18] Ryan Maley: /charsetthirst andrew 100
+[13:18:24] Ryan Maley<STEAM_0:1:53097688> changed their name to Andrew Cloverman
+[13:18:26] Andrew Cloverman: /charsetthirst andrew 100
+[13:18:31] Andrew Cloverman: /charsethunger andrew 100
+[13:18:35] Andrew Cloverman: /me takes out their datapad and types a couple things in.
+[13:19:27] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/env/furniture/bstoolred/bstoolred.mdl
+[13:19:39] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/env/furniture/square_sink/sink_double.mdl
+[13:19:49] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/env/lighting/lamp_trumpet/lamp_trumpet_tall.mdl
+[13:19:59] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/gmod_tower/suitetv.mdl
+[13:20:02] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/u4lab/tv_monitor_plasma.mdl
+[13:20:06] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/testmodels/apple_display.mdl
+[13:20:30] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/testmodels/macbook_pro.mdl
+[13:21:16] Andrew Cloverman: /chargiveflag andrew pet
+[13:21:20] Andrew Cloverman: /chargiveflag andrew ncrC
+[13:21:23] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/chair_cafeteria.mdl
+[13:21:34] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/de_tides/patio_chair.mdl
+[13:21:55] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props/de_tides/patio_chair.mdl
+[13:22:02] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/de_tides/patio_chair.mdl
+[13:22:10] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props/de_tides/patio_chair.mdl
+[13:22:32] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_urban/light_fixture01.mdl
+[13:22:37] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_urban/light_fixture01.mdl
+[13:22:47] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/highrise/tall_lamp_01.mdl
+[13:22:48] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/highrise/sconce_01.mdl
+[13:22:52] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/highrise/sconce_01.mdl
+[13:22:55] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/env/lighting/lamp_trumpet/lamp_trumpet_tall.mdl
+[13:23:04] Andrew Cloverman<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_urban/light_fixture01.mdl
+[13:23:20] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/u4lab/track_lighting_a.mdl
+[13:23:23] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/cs_assault/light_shop2.mdl
+[13:24:19] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/highrise/trashcanashtray_01.mdl
+[13:24:27] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_urban/light_fixture01.mdl
+[13:24:39] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/env/lighting/corridor_ceil_lamp/corridor_ceil_lamp.mdl
+[13:24:42] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/env/lighting/jelly_lamp/jellylamp.mdl
+[13:24:49] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/u4lab/track_lighting_a.mdl
+[13:24:50] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/env/lighting/corridorlamp/corridorlamp.mdl
+[13:24:53] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_unique/spawn_apartment/lantern.mdl
+[13:25:34] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/de_nuke/nuclearfuelcontainer.mdl
+[13:25:45] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/cs_office/phone.mdl
+[13:28:36] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_warehouse/table_01.mdl
+[13:28:40] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_downtown/bed_motel01.mdl
+[13:29:01] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/de_inferno/bench_concrete.mdl
+[13:29:08] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_warehouse/office_furniture_couch.mdl
+[13:29:12] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/sickness/streetnamesign.mdl
+[13:29:14] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/sickness/streetnamesign2.mdl
+[13:29:22] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/sickness/displayflatfill_01.mdl
+[13:29:26] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_equipment/fountain_drinks.mdl
+[13:29:27] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_downtown/pooltable.mdl
+[13:29:39] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/pg_props/pg_hospital/pg_ekg.mdl
+[13:29:43] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/de_vegas/card_table.mdl
+[13:30:01] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/sickness/splitway_02.mdl
+[13:30:11] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/de_tides/planter.mdl
+[13:30:16] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/de_tides/planter.mdl
+[13:30:54] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/env/decor/plant_decofern/plant_decofern.mdl
+[13:30:57] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/env/decor/tall_plant_b/tall_plant_b.mdl
+[13:30:58] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/env/decor/plant_decofern/plant_decofern.mdl
+[13:31:14] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/env/decor/plant_decofern/plant_decofern.mdl
+[13:31:18] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props/cs_militia/bar01.mdl
+[13:31:19] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props_interiors/painting_portrait01.mdl
+[13:31:32] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/chairs/armchair.mdl
+[13:31:47] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/chairs/armchair.mdl
+[13:32:11] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/cs_office/trash_can_p.mdl
+[13:32:16] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/magazine_rack.mdl
+[13:32:25] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props_interiors/magazine_rack.mdl
+[13:32:33] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/magazine_rack.mdl
+[13:32:37] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props_interiors/magazine_rack.mdl
+[13:33:11] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/hunter/plates/plate025x025.mdl
+[13:33:26] Andrew Cloverman<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate025x025.mdl
+[13:33:27] Andrew Cloverman<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate025x025.mdl
+[13:33:30] Andrew Cloverman<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate025x025.mdl
+[13:33:32] Andrew Cloverman<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate025x025.mdl
+[13:33:36] Andrew Cloverman<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate025x025.mdl
+[13:33:38] Andrew Cloverman<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate025x025.mdl
+[13:33:39] Andrew Cloverman<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate025x025.mdl
+[13:33:48] Andrew Cloverman<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate025x025.mdl
+[13:33:49] Andrew Cloverman<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate025x025.mdl
+[13:33:59] Andrew Cloverman<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate025x025.mdl
+[13:34:00] Andrew Cloverman<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate025x025.mdl
+[13:34:13] Andrew Cloverman: /textadd "A kiosk of various Combine pamphlets." 0.35
+[13:34:21] Andrew Cloverman: /textadd "A kiosk of various Combine pamphlets." 0.35
+[13:34:49] Andrew Cloverman<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate025x025.mdl
+[13:34:50] Andrew Cloverman<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate025x025.mdl
+[13:34:57] Andrew Cloverman: /textadd "A kiosk of various Combine pamphlets." 0.35
+[13:35:27] Andrew Cloverman: /textremove 
+[13:35:29] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/hunter/plates/plate025x025.mdl
+[13:35:36] Andrew Cloverman<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate025x025.mdl
+[13:35:38] Andrew Cloverman<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate025x025.mdl
+[13:35:39] Andrew Cloverman<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate025x025.mdl
+[13:35:40] Andrew Cloverman<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate025x025.mdl
+[13:35:44] Andrew Cloverman<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate025x025.mdl
+[13:35:45] Andrew Cloverman<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate025x025.mdl
+[13:35:45] Andrew Cloverman<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate025x025.mdl
+[13:36:02] Andrew Cloverman<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate025x025.mdl
+[13:36:03] Andrew Cloverman<STEAM_0:1:53097688> used the tool precision on maps/rp_industrial17_v1.bsp
+[13:36:25] Andrew Cloverman: /textadd "A kiosk of various Combine pamphlets." 0.35
+[13:36:40] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/hunter/blocks/cube8x8x8.mdl
+[13:36:42] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/hunter/plates/plate.mdl
+[13:36:43] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/hunter/plates/plate.mdl
+[13:36:45] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/hunter/plates/plate.mdl
+[13:36:45] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/hunter/plates/plate.mdl
+[13:36:46] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/hunter/plates/plate.mdl
+[13:37:29] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/hunter/plates/plate025x025.mdl
+[13:38:46] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on maps/rp_industrial17_v1.bsp
+[13:38:46] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on maps/rp_industrial17_v1.bsp
+[13:38:47] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props_trainstation/train002.mdl
+[13:38:50] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on maps/rp_industrial17_v1.bsp
+[13:38:53] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/hunter/plates/plate2x2.mdl
+[13:38:56] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/hunter/plates/plate2x3.mdl
+[13:39:02] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/hunter/plates/plate3x4.mdl
+[13:39:06] Andrew Cloverman<STEAM_0:1:53097688> used the tool nocollideeverything on models/hunter/plates/plate3x4.mdl
+[13:39:11] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/hunter/plates/plate3x4.mdl
+[13:39:11] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/hunter/plates/plate2x4.mdl
+[13:39:14] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/hunter/plates/plate2x6.mdl
+[13:39:16] Andrew Cloverman<STEAM_0:1:53097688> used the tool nocollideeverything on models/hunter/plates/plate2x6.mdl
+[13:40:12] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/hunter/plates/plate2x7.mdl
+[13:40:13] Andrew Cloverman<STEAM_0:1:53097688> used the tool nocollideeverything on models/hunter/plates/plate2x7.mdl
+[13:40:40] Andrew Cloverman<STEAM_0:1:53097688> used the tool stacker_improved on models/hunter/plates/plate2x7.mdl
+[13:40:40] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/hunter/plates/plate2x7.mdl
+[13:40:44] Andrew Cloverman<STEAM_0:1:53097688> used the tool stacker_improved on models/hunter/plates/plate2x7.mdl
+[13:40:44] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/hunter/plates/plate2x7.mdl
+[13:40:48] Andrew Cloverman<STEAM_0:1:53097688> used the tool colour on models/hunter/plates/plate2x7.mdl
+[13:40:49] Andrew Cloverman<STEAM_0:1:53097688> used the tool colour on models/hunter/plates/plate2x7.mdl
+[13:40:52] Andrew Cloverman<STEAM_0:1:53097688> used the tool nocollideeverything on models/hunter/plates/plate2x7.mdl
+[13:40:52] Andrew Cloverman<STEAM_0:1:53097688> used the tool nocollideeverything on models/hunter/plates/plate2x7.mdl
+[13:40:54] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/hunter/plates/plate2x7.mdl
+[13:40:55] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/hunter/plates/plate2x7.mdl
+[13:41:17] Andrew Cloverman: /textadd "You cannot walk on barbed wire."
+[13:41:24] Andrew Cloverman: /textremove 
+[13:41:31] Andrew Cloverman: /textadd "You cannot walk on barbed wire."
+[13:41:56] Andrew Cloverman: /textadd "They are not bars of solid metal, they are ropelike."
+[14:00:41] Client "ronanbaturner" connected.
+[14:02:28] Client "ronanbaturner" connected.
+[14:13:19] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/desk_executive.mdl
+[14:13:27] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props_interiors/desk_executive.mdl
+[14:13:31] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/de_piranesi/pi_sundial.mdl
+[14:13:44] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/hunter/plates/plate05x1.mdl
+[14:14:16] Andrew Cloverman<STEAM_0:1:53097688> used the tool material on models/hunter/plates/plate05x1.mdl
+[14:14:32] Andrew Cloverman<STEAM_0:1:53097688> used the tool material on models/hunter/plates/plate05x1.mdl
+[14:14:41] Andrew Cloverman<STEAM_0:1:53097688> used the tool material on models/hunter/plates/plate05x1.mdl
+[14:14:42] Andrew Cloverman<STEAM_0:1:53097688> used the tool material on models/hunter/plates/plate05x1.mdl
+[14:14:45] Andrew Cloverman<STEAM_0:1:53097688> used the tool material on models/props_c17/door01_left.mdl
+[14:14:45] Andrew Cloverman<STEAM_0:1:53097688> used the tool material on models/hunter/plates/plate05x1.mdl
+[14:14:53] Andrew Cloverman<STEAM_0:1:53097688> used the tool material on maps/rp_industrial17_v1.bsp
+[14:14:53] Andrew Cloverman<STEAM_0:1:53097688> used the tool material on models/hunter/plates/plate05x1.mdl
+[14:14:58] Andrew Cloverman<STEAM_0:1:53097688> used the tool nocollideeverything on models/hunter/plates/plate05x1.mdl
+[14:15:28] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/hunter/plates/plate05x1.mdl
+[14:15:31] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/hunter/plates/plate075x105.mdl
+[14:15:32] Andrew Cloverman<STEAM_0:1:53097688> used the tool nocollideeverything on models/hunter/plates/plate075x105.mdl
+[14:16:01] Client "Nums" connected.
+[14:18:42] Client "Nums" spawned in server <STEAM_0:1:196547442> (took 161 seconds).
+[14:19:24] Jonathan Jackson: Welcom
+[14:19:31] Jonathan Jackson: // Welcome
+[14:19:46] Nums<STEAM_0:1:196547442> changed their name to CCA.C17-UNION.i5.77460
+[14:21:07] Jonathan Jackson: // virgin combine
+[14:22:26] Jonathan Jackson: // what is a request device
+[14:22:46] Andrew Cloverman: //you do /request and it sends a message to CCA units
+[14:22:53] Andrew Cloverman: //it's good for reporting crimes or when you're in trouble
+[14:22:59] Andrew Cloverman: //or really when you just need a CCA unit and can't find one
+[14:23:18] Andrew Cloverman: //it's only one way though
+[14:24:05] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/painting_landscape01.mdl
+[14:24:15] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_vtmb/armchair.mdl
+[14:24:18] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/chairs/armchair.mdl
+[14:24:19] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/sofa_chair02.mdl
+[14:24:21] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/sofa01.mdl
+[14:24:55] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/hunter/plates/plate025x4.mdl
+[14:24:56] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/hunter/plates/plate05x1.mdl
+[14:25:01] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/hunter/plates/plate05x2.mdl
+[14:25:04] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/hunter/plates/plate075x105.mdl
+[14:25:05] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/hunter/plates/plate075x1.mdl
+[14:25:13] Andrew Cloverman<STEAM_0:1:53097688> used the tool nocollideeverything on models/hunter/plates/plate075x1.mdl
+[14:25:29] Jonathan Jackson: // Oh that's cool
+[14:25:32] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/squad/sf_plates/sf_plate2x3.mdl
+[14:25:34] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/squad/sf_plates/sf_plate2x4.mdl
+[14:25:39] Andrew Cloverman<STEAM_0:1:53097688> used the tool nocollideeverything on models/squad/sf_plates/sf_plate2x4.mdl
+[14:25:43] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/squad/sf_plates/sf_plate2x5.mdl
+[14:25:45] Andrew Cloverman<STEAM_0:1:53097688> used the tool nocollideeverything on models/squad/sf_plates/sf_plate2x5.mdl
+[14:25:59] Andrew Cloverman: //it's a Combine jitterbug
+[14:26:03] CCA.C17-UNION.i5.77460: You
+[14:26:06] CCA.C17-UNION.i5.77460: Apply
+[14:26:10] Jonathan Jackson: Why?
+[14:26:25] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/squad/sf_plates/sf_plate2x5.mdl
+[14:26:31] CCA.C17-UNION.i5.77460: Did you not want work?
+[14:26:56] Jonathan Jackson: Not really, I just saw the gashes on your uniform and was making sure you were okay.
+[14:27:10] Jonathan Jackson: You don't look exactly hot mind you.
+[14:27:10] CCA.C17-UNION.i5.77460: I am not of your concern.
+[14:27:27] Jonathan Jackson: You say that but it is the Civil Protection that well... Protect us right?
+[14:27:40] Jonathan Jackson: I can concern myself all I want for the cities safety.
+[14:27:41] Andrew Cloverman: /textadd "Top-Shelf Furniture" 0.8
+[14:27:46] Andrew Cloverman: /textremove
+[14:27:47] Jonathan Jackson: Either way, just checking.
+[14:28:06] Andrew Cloverman: /textadd "Top-Shelf Furniture" 0.8
+[14:28:44] Jonathan Jackson: // damn bro why you gotta be like that
+[14:28:59] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/bed_motel.mdl
+[14:29:01] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/bed_motel.mdl
+[14:29:03] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_downtown/bed_motel01.mdl
+[14:29:29] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props_downtown/bed_motel01.mdl
+[14:29:34] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/side_table_square.mdl
+[14:29:35] Jonathan Jackson<STEAM_0:0:68118061> changed their name to CCA.C17-HELIX.i4.08874
+[14:29:44] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props_interiors/side_table_square.mdl
+[14:29:52] CCA.C17-HELIX.i4.08874: /radio 10-8OT 20 minutes.
+[14:30:08] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_downtown/bar_long_endcorner.mdl
+[14:30:18] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/env/lighting/lamp_trumpet/lamp_trumpet_tall.mdl
+[14:30:23] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/env/lighting/lamp_trumpet/lamp_trumpet_tall.mdl
+[14:30:34] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_furniture/piano_bench.mdl
+[14:30:50] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_c17/furnituredresser001a.mdl
+[14:31:20] CCA.C17-UNION.i5.77460: /rooc void
+[14:31:27] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_c17/furnituredrawer002a.mdl
+[14:31:30] CCA.C17-HELIX.i4.08874: /rooc lol
+[14:31:33] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_c17/furnituredrawer002a.mdl
+[14:31:48] CCA.C17-HELIX.i4.08874: /rooc I was gonna get on to heal you but it looks like you managed that
+[14:31:48] CCA.C17-UNION.i5.77460: /kickdoor
+[14:31:52] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_c17/furnituredrawer001a.mdl
+[14:32:05] CCA.C17-HELIX.i4.08874<STEAM_0:0:68118061> changed their name to Jonathan Jackson
+[14:33:11] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_downtown/sign_donotenter.mdl
+[14:33:35] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_furniture/piano.mdl
+[14:33:38] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_furniture/piano_bench.mdl
+[14:34:03] Jonathan Jackson: // I'll do a work desk thing in like 5-10 minutes because I go get something to eat rq
+[14:34:23] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_downtown/pooltable.mdl
+[14:34:33] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props_downtown/pooltable.mdl
+[14:34:43] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_downtown/pooltable.mdl
+[14:34:54] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/highrise/lobby_chair_02.mdl
+[14:34:57] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/cs_office/sofa.mdl
+[14:34:58] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/cs_militia/couch.mdl
+[14:35:00] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/cs_office/sofa.mdl
+[14:35:10] CCA.C17-UNION.i5.77460: // ok
+[14:36:16] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props/cs_office/sofa.mdl
+[14:36:20] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/cs_militia/couch.mdl
+[14:36:21] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/de_inferno/tableantique.mdl
+[14:36:37] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props/de_inferno/tableantique.mdl
+[14:37:21] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/chairs/armchair.mdl
+[14:37:28] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/chairs/armchair.mdl
+[14:37:30] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props_furniture/piano.mdl
+[14:37:30] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props_furniture/piano_bench.mdl
+[14:37:33] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props_c17/furnituredrawer002a.mdl
+[14:37:33] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props_c17/furnituredrawer001a.mdl
+[14:37:34] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/env/lighting/lamp_trumpet/lamp_trumpet_tall.mdl
+[14:38:01] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/painting_landscape01.mdl
+[14:38:28] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props_interiors/painting_landscape01.mdl
+[14:39:04] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_c17/furniturecupboard001a.mdl
+[14:39:59] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/furniture_cabinetdrawer01a.mdl
+[14:40:01] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/furniture_cabinetdrawer02a.mdl
+[14:40:03] CCA.C17-UNION.i5.77460: /me sets up a recording device inside the room. Facing the table.
+[14:40:37] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/sickness/fridge_01.mdl
+[14:40:38] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/refrigerator03.mdl
+[14:40:41] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/refrigerator03.mdl
+[14:40:48] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/dinning_table_oval.mdl
+[14:41:06] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/furniture_shelf01a.mdl
+[14:41:37] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/painting_portrait01.mdl
+[14:42:04] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props_interiors/painting_portrait01.mdl
+[14:42:04] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props_interiors/furniture_cabinetdrawer02a.mdl
+[14:42:12] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/desk_executive.mdl
+[14:42:36] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/u4lab/chair_office_a.mdl
+[14:42:53] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/chair01.mdl
+[14:42:59] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/de_tides/patio_chair.mdl
+[14:43:56] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_furniture/cafe_barstool1.mdl
+[14:44:32] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on maps/rp_industrial17_v1.bsp
+[14:45:26] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/furniture_chair01a.mdl
+[14:45:29] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/furniture_chair01a.mdl
+[14:45:38] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_interiors/furniture_chair01a.mdl
+[14:45:56] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/chairs/armchair.mdl
+[14:46:13] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/chairs/armchair.mdl
+[14:46:16] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props_interiors/desk_executive.mdl
+[14:46:35] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on maps/rp_industrial17_v1.bsp
+[14:48:16] Andrew Cloverman: /me takes out their datapad and types a couple things in.
+[14:48:42] CCA.C17-UNION.i5.77460: /actlean 1
+[14:53:43] Jonathan Jackson: // back
+[14:53:49] CCA.C17-UNION.i5.77460: // wb
+[14:54:14] CCA.C17-UNION.i5.77460: Work?
+[14:54:16] Jonathan Jackson: Sure
+[14:54:19] CCA.C17-UNION.i5.77460: Alright
+[14:54:23] CCA.C17-UNION.i5.77460: Let me search you first.
+[14:54:39] Jonathan Jackson: /me nods, "No problem."
+[14:55:08] CCA.C17-UNION.i5.77460: Okay I know you probably know the whole deal. Would you mind if I tied you just for my own safety?
+[14:55:08] Jonathan Jackson: /me puts his hands against the wall and slightly opens his legs up for them to be searched.
+[14:55:19] Jonathan Jackson: I don't see why that would be nessesary
+[14:55:25] Jonathan Jackson: But okay.
+[14:55:29] CCA.C17-UNION.i5.77460: Appreciated.
+[14:55:47] CCA.C17-UNION.i5.77460: /me would pull out a pair of ties and would attempt to tie his hands.
+[14:56:20] CCA.C17-UNION.i5.77460: /me would begin to pat the man down side to side. "Sorry about all this."
+[14:56:26] CCA.C17-UNION.i5.77460: /charsearch
+[14:56:42] CCA.C17-UNION.i5.77460: Cleaned
+[14:57:02] Jonathan Jackson: I would hope so.
+[14:57:32] CCA.C17-UNION.i5.77460: /me would pull a black bag out from their pocket and place it over the mans head. She would place her turned off stunstick to his back with her right hand and hold his arm tightly with her left.
+[14:57:56] Jonathan Jackson: Wait wha-
+[14:58:03] CCA.C17-UNION.i5.77460: /me would lead the man away as he most liked was confused.
+[14:58:58] CCA.C17-UNION.i5.77460: /me would leave the man standing and tied behind a desk.
+[14:59:06] Jonathan Jackson: What are you doing!?
+[14:59:11] Jonathan Jackson: What did I do?
+[14:59:11] CCA.C17-UNION.i5.77460: Shut it
+[14:59:21] Jonathan Jackson: This is undeserved.
+[14:59:31] CCA.C17-UNION.i5.77460: /me would pull the bag from his head revealing the room.
+[14:59:42] CCA.C17-UNION.i5.77460: Someone will be with you shortly.
+[14:59:42] Jonathan Jackson: /me looks out, eyes adjusting to the darkness.
+[14:59:49] Jonathan Jackson: What the fu-
+[15:00:18] CCA.C17-UNION.i5.77460: /me would begin the record in the room.
+[15:00:30] Jonathan Jackson: /me is clearly agitated.
+[15:00:32] CCA.C17-UNION.i5.77460: Right
+[15:00:40] CCA.C17-UNION.i5.77460: Please state your name for the record.
+[15:00:50] Jonathan Jackson: Fine, if you need.
+[15:00:54] Jonathan Jackson: Jonathan Jackson
+[15:01:01] Jonathan Jackson: Now what's the big deal?
+[15:01:25] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_junk/wood_crate001a_damagedmax.mdl
+[15:01:34] Jonathan Jackson: /me is clearly agitated, to what he assumes is a completely unwarrented arrest.
+[15:01:55] CCA.C17-UNION.i5.77460: Johnathan Jackson.
+[15:01:56] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_lab/filecabinet02.mdl
+[15:02:05] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_lab/filecabinet02.mdl
+[15:02:12] CCA.C17-UNION.i5.77460: We would like to know your affiliation with one, Alex Palobovich.
+[15:02:25] Jonathan Jackson: The loyalist?
+[15:02:28] CCA.C17-UNION.i5.77460: Yes
+[15:02:30] Jonathan Jackson: I hate the guy.
+[15:02:34] Jonathan Jackson: I hate no affiliation.
+[15:02:40] Jonathan Jackson: /looc have*
+[15:02:45] CCA.C17-UNION.i5.77460: Have you seen him as of late?
+[15:02:54] Jonathan Jackson: No and I couldn't care less. Can I go?
+[15:03:04] CCA.C17-UNION.i5.77460: Cool it
+[15:03:15] CCA.C17-UNION.i5.77460: We are not done with you yet.
+[15:03:28] Jonathan Jackson: Sorry this is all unwarrented, if you wanted to talk to me about that guy you could have ASKED.
+[15:04:19] CCA.C17-UNION.i5.77460: We have video of you tresspassing into the Construction Zone. Entering the storm system. This is a high violation.
+[15:04:41] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/items/ammocrate_smg1.mdl
+[15:04:45] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/items/ammocrate_rockets.mdl
+[15:04:49] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/items/ammocrate_ar2.mdl
+[15:04:51] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/items/ammocrate_grenade.mdl
+[15:04:52] Jonathan Jackson: I've never done such a thing, the only time was when I was in the sewers on account of a work cycle.
+[15:04:55] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/items/item_item_crate.mdl
+[15:05:00] CCA.C17-UNION.i5.77460: We want to know what you know about the "Loyalist".
+[15:05:05] Jonathan Jackson: /looc Any time I've been in there, I've had a suit on concealing my identity
+[15:05:10] CCA.C17-UNION.i5.77460: Everything and anything.
+[15:05:21] CCA.C17-UNION.i5.77460: Do that for us and you will be on your way.
+[15:05:31] Jonathan Jackson: I know *nothing*
+[15:05:34] Jonathan Jackson: Stop acting like I do
+[15:06:19] Jonathan Jackson: All I know is he tryed to keep us in a building with and active psycho, after he killed an officer.
+[15:06:23] CCA.C17-UNION.i5.77460: Have you seen Alex Palobovich Inside the sewer system or inside the construction zone.
+[15:06:31] CCA.C17-UNION.i5.77460: Using a gas analyzer perhaps?
+[15:06:56] Jonathan Jackson: Apart from when he lead us in there for a work cycle that was accompanied by one of your, "OTA" officers. No.
+[15:07:15] Jonathan Jackson: And I don't know what a gas analyzer is and even less what that would look like.
+[15:07:34] CCA.C17-UNION.i5.77460: Your lack of cooperation is upsetting.
+[15:07:43] Jonathan Jackson: I am cooperating fully.
+[15:07:46] Jonathan Jackson: /me sighs.
+[15:07:47] Jonathan Jackson: Look
+[15:07:51] CCA.C17-UNION.i5.77460: No
+[15:07:54] Andrew Cloverman<STEAM_0:1:53097688> spawned ragdoll models/zombie/classic.mdl
+[15:07:56] Jonathan Jackson: I know nothing about the guy other than what I told you.
+[15:08:00] CCA.C17-UNION.i5.77460: Do not say another word.
+[15:08:08] CCA.C17-UNION.i5.77460: Listen to me.
+[15:08:14] Jonathan Jackson: Sure.
+[15:09:20] Jonathan Jackson: /looc That feeling when you are being interrogated for something you don't know :P
+[15:10:43] CCA.C17-UNION.i5.77460: This is not going to end the way you think it is. We know you've been around that area, and we have information that you have been there. Now all I want is a confirmation that you have seen an individual in a Union Hazmat suit inside the sewer before for whatever reason except the one workshift you worked together.
+[15:10:47] Andrew Cloverman<STEAM_0:1:53097688> spawned ragdoll models/gargantua.mdl
+[15:10:52] Andrew Cloverman<STEAM_0:1:53097688> spawned ragdoll models/gargantua.mdl
+[15:11:04] CCA.C17-UNION.i5.77460: You will speak only the words I want to here. Do not beat around the bush with me or so help me.
+[15:11:30] CCA.C17-UNION.i5.77460: .// hear*
+[15:11:38] Jonathan Jackson: You care to be more specific? Because I've already reported to Alex himself that one of his suits have been stolen. Orange or Yellow?
+[15:12:10] Jonathan Jackson: I wasn't in the construction zone when I saw the man with the stolen one on either.
+[15:12:46] Jonathan Jackson: I was at my place, the Grizzly Grotto, when I go outside and I see a person in a yellow ICT hazmat suit walking around and killing headcrabs.
+[15:13:02] Jonathan Jackson: I question him, and all he says is he's in there on Alex's orders
+[15:13:10] Jonathan Jackson: Other than that, I have nothing for you.
+[15:13:18] CCA.C17-UNION.i5.77460: Have you seen an individual in the sewers or in the construction zone with a Union Hazmat Suit outside of the workshift you attended.
+[15:13:54] Jonathan Jackson: I haven't seen anything because I haven't been in there. I told you the one occurance that I have seen that happen.
+[15:14:07] Jonathan Jackson: I know the suit was stolen because Alex had said it himself.
+[15:14:33] Andrew Cloverman<STEAM_0:1:53097688> spawned ragdoll models/antlion_guard.mdl
+[15:14:33] Jonathan Jackson: Also there was already another witness to it as well, I don't know him but he also stated he saw the person.
+[15:15:02] Andrew Cloverman<STEAM_0:1:53097688> spawned ragdoll models/zombie/fast.mdl
+[15:15:24] CCA.C17-UNION.i5.77460: Did you see anyone resembling the individual at question inside the sewer or other restricted zones yes or no. I better hear only yes or no too.
+[15:15:43] Jonathan Jackson: Didn't I already just tell you?
+[15:15:52] CCA.C17-UNION.i5.77460: Face the wall please.
+[15:15:57] Jonathan Jackson: Fine.
+[15:16:35] CCA.C17-UNION.i5.77460: /me would kick their stun baton on high and press it against the mans lower back. Causing a burn and hopefully rendering him unconcious.
+[15:17:05] Jonathan Jackson: /me falls to the ground, still concious but barely.
+[15:17:11] Jonathan Jackson: What the FUCK!
+[15:17:28] Jonathan Jackson: /me groans in pain.
+[15:17:31] CCA.C17-UNION.i5.77460: /me would perform the act again on the other side of his lower back.
+[15:17:41] Jonathan Jackson: I do absolutely nothing, and you t-
+[15:17:53] Jonathan Jackson: /me falls over unconcious.
+[15:18:27] CCA.C17-UNION.i5.77460: /me powers off her stunstick and places the bag over his head once more. She walks over to the camera and turns it off.
+[15:18:50] CCA.C17-UNION.i5.77460: /me would grab the man by under his arms and begin to drag him away.
+[15:19:54] CCA.C17-UNION.i5.77460: /me would huff the man around her and onto the street. She turns, takes the bag off his head, and clips his ties.
+[15:20:14] Jonathan Jackson: // still restrained...
+[15:22:07] Jonathan Jackson: // TFW you do nothing  and know nothing nor do they have any actual evidence of you ever being in the CZ except during a work cycle and you get beaten for it
+[15:22:46] CCA.C17-UNION.i5.77460: // welcome to dystopian societies
+[15:22:59] CCA.C17-UNION.i5.77460: // use it for story building
+[15:24:40] Client "CHEEKI-BREEKI_" connected.
+[15:27:41] Jonathan Jackson: // Bro this just makes me think that CPs are even more incompetent than before
+[15:27:58] Jonathan Jackson: // First I see an unarmed guy single handedly kill 5 officers
+[15:28:01] Jonathan Jackson: // Now this lol
+[15:28:32] Jonathan Jackson: /me slowly wakes up, pushing himself off the ground, aching from bruises and burns on him.
+[15:28:48] Dropped "CCA.C17-UNION.i5.77460" from server<STEAM_0:1:196547442>
+[15:28:50] Jonathan Jackson: /w Fucking helll.
+[15:30:18] Client "CHEEKI-BREEKI_" spawned in server <STEAM_0:0:84428978> (took 338 seconds).
+[15:33:07] CHEEKI-BREEKI_<STEAM_0:0:84428978> changed their name to Adam Miller
+[15:35:21] Adam Miller: /doscprd
+[15:35:24] Adam Miller: /discord
+[15:35:59] Jonathan Jackson: // Hold on one sec, be right with you
+[15:36:04] Jonathan Jackson<STEAM_0:0:68118061> changed their name to CCA.C17-HELIX.i4.08874
+[15:36:13] CCA.C17-HELIX.i4.08874: /radio 10-8 standing by.
+[15:38:58] CCA.C17-HELIX.i4.08874: You there.
+[15:39:05] CCA.C17-HELIX.i4.08874: Come over here.
+[15:39:22] Adam Miller: yes sir
+[15:39:41] CCA.C17-HELIX.i4.08874: Full name?
+[15:39:46] Adam Miller: Adam Miller
+[15:39:52] Adam Miller: i just got to the city
+[15:39:54] CCA.C17-HELIX.i4.08874: Right
+[15:40:06] CCA.C17-HELIX.i4.08874: Hand me your relocation coupon.
+[15:40:08] Adam Miller: sure
+[15:40:28] Adam Miller: /me searches inside his pockets grabbing a small card handing it to the officer
+[15:40:39] CCA.C17-HELIX.i4.08874: /me holds his hand out, and grabs the coupon.
+[15:40:44] CCA.C17-HELIX.i4.08874: One second.
+[15:40:55] CCA.C17-HELIX.i4.08874: /viewdata miller
+[15:41:29] CCA.C17-HELIX.i4.08874: Alright, I need you to answer a few questions for me.
+[15:41:36] Adam Miller: alright
+[15:42:01] CCA.C17-HELIX.i4.08874: /me takes a small PDA off of his holster, powering it on with a switch. It illuminates green.
+[15:42:11] CCA.C17-HELIX.i4.08874: I assume you are male?
+[15:42:19] Adam Miller: correct
+[15:42:21] CCA.C17-HELIX.i4.08874: /viewdata miller
+[15:42:34] Adam Miller: /me removes his gasmask showing his face to the officer
+[15:42:54] CCA.C17-HELIX.i4.08874: If you weren't standing next to a air vent, you would be choking right now.
+[15:43:02] CCA.C17-HELIX.i4.08874: I'd reccomend you keep that on at all times.
+[15:43:24] CCA.C17-HELIX.i4.08874: Next question, what is your blood type?
+[15:43:31] CCA.C17-HELIX.i4.08874: As far as you know.
+[15:43:52] Adam Miller: umm... Im not sure I think it was A+ or something like that
+[15:44:04] CCA.C17-HELIX.i4.08874: You can always check with the CMU.
+[15:44:11] CCA.C17-HELIX.i4.08874: /me types in a couple notes.
+[15:44:14] CCA.C17-HELIX.i4.08874: /viewdata miller
+[15:44:30] CCA.C17-HELIX.i4.08874: DOB?
+[15:44:49] Adam Miller: what is a DOB sir?
+[15:45:02] CCA.C17-HELIX.i4.08874: /looc Year is 2003, suppresion field came up in 1986, so year has to be 1985 or lower.
+[15:45:05] CCA.C17-HELIX.i4.08874: Date of birth.
+[15:45:25] Adam Miller: .// kk
+[15:45:39] Adam Miller: 1981 last time I checked
+[15:45:56] CCA.C17-HELIX.i4.08874: I'm mildly concerned you don't know your birth date.
+[15:46:02] CCA.C17-HELIX.i4.08874: What is the day and month?
+[15:46:07] CCA.C17-HELIX.i4.08874: When you were born rather.
+[15:46:12] Adam Miller: its hard to remember things this days
+[15:46:15] CCA.C17-HELIX.i4.08874: /viewdata miller
+[15:46:34] Adam Miller: yeah the third day of september
+[15:46:41] CCA.C17-HELIX.i4.08874: Mkay
+[15:46:49] CCA.C17-HELIX.i4.08874: /me adds some more notes into his PDA.
+[15:46:52] CCA.C17-HELIX.i4.08874: /viewdata miller
+[15:47:12] CCA.C17-HELIX.i4.08874: Any mental conditions we should be aware of?
+[15:47:26] Adam Miller: I dont think so
+[15:47:52] CCA.C17-HELIX.i4.08874: Nothing minor either, like OCD or ADD?
+[15:48:01] CCA.C17-HELIX.i4.08874: /viewdata miller
+[15:48:10] Adam Miller: not that im aware of
+[15:48:17] CCA.C17-HELIX.i4.08874: Sure
+[15:48:27] CCA.C17-HELIX.i4.08874: Any phyiscal conditions?
+[15:48:59] CCA.C17-HELIX.i4.08874: /looc Bad ankle, pain in thigh, sickness, etc. Stuff like that
+[15:50:13] Adam Miller: I had a problem with me left leg my adductor broke a long time ago and I cant really run
+[15:50:18] Adam Miller: so I guess that
+[15:50:30] CCA.C17-HELIX.i4.08874: Mhm.
+[15:50:35] CCA.C17-HELIX.i4.08874: /viewdata miller
+[15:51:18] CCA.C17-HELIX.i4.08874: Are you in the Civil Workers Union?
+[15:51:31] Adam Miller: nope
+[15:51:37] Adam Miller: Im just another citizen
+[15:51:46] CCA.C17-HELIX.i4.08874: I thought so.
+[15:51:51] CCA.C17-HELIX.i4.08874: /viewdata miller
+[15:52:14] CCA.C17-HELIX.i4.08874: Anything else you want to note about yourself? I assume not.
+[15:52:21] Adam Miller: no sir
+[15:52:26] CCA.C17-HELIX.i4.08874: Alright
+[15:52:36] CCA.C17-HELIX.i4.08874: Put back on that mask so you don't choke when you leave.
+[15:52:44] Adam Miller: alright
+[15:52:54] CCA.C17-HELIX.i4.08874: /me holds his hand out, with a CID card held in them.
+[15:53:05] Adam Miller: /me would put on his gasmask before grabbing the card putting it in his right pocket
+[15:53:17] CCA.C17-HELIX.i4.08874: Don't lose it.
+[15:53:24] Adam Miller: got it
+[15:53:38] CCA.C17-HELIX.i4.08874: If you have any other questions, like about housing, go to the work desk.
+[15:53:45] CCA.C17-HELIX.i4.08874: Otherwise, you can go.
+[15:53:51] Adam Miller: will do, thanks officer
+[15:54:13] CCA.C17-HELIX.i4.08874: // Make sure you equip the filter too
+[15:54:22] Adam Miller: // got it xd
+[15:54:56] Adam Miller: /actsit
+[15:56:11] CCA.C17-HELIX.i4.08874: // Feel free to explore around for now, if you have any questions you know where to find me.
+[15:56:29] Adam Miller: // alright thanks man
+[15:56:49] Adam Miller: // hey can u come to the plaza for a sec?
+[15:56:54] CCA.C17-HELIX.i4.08874: // I am in the plaza
+[15:56:59] Adam Miller: .// u got a problem in the elevator
+[15:57:15] CCA.C17-HELIX.i4.08874: // What do you mean?
+[15:57:18] Adam Miller: .// come see it
+[15:57:27] CCA.C17-HELIX.i4.08874: // Is it OOC or is it IC?
+[15:57:30] Adam Miller: .// ooc
+[15:58:03] CCA.C17-HELIX.i4.08874: // hMM
+[15:58:04] Adam Miller: .// its half way open
+[15:58:07] CCA.C17-HELIX.i4.08874: // I can fix it probably
+[15:58:11] CCA.C17-HELIX.i4.08874: // Give me a sec
+[15:59:31] Adam Miller: // there u go
+[15:59:37] Adam Miller: // fixed it
+[15:59:50] CCA.C17-HELIX.i4.08874: // Someone probably blocked a door while using it.
+[15:59:55] Adam Miller: // yeah
+[16:00:06] Adam Miller: // imma go afk for a bit and ill be back 
+[16:00:11] CCA.C17-HELIX.i4.08874: // Alr
+[16:03:34] CCA.C17-HELIX.i4.08874: /radio 10-13
+[16:03:39] CCA.C17-HELIX.i4.08874: /radio 10-14
+[16:10:17] Dropped "Adam Miller" from server<STEAM_0:0:84428978>
+[16:11:12] CCA.C17-HELIX.i4.08874<STEAM_0:0:68118061> changed their name to Zombie
+[16:23:02] Zombie<STEAM_0:0:68118061> changed their name to Jonathan Jackson
+[16:40:14] Jonathan Jackson<STEAM_0:0:68118061> changed their name to Zombie
+[17:00:31] Client "Doom" connected.
+[17:03:45] Client "Doom" spawned in server <STEAM_0:0:64739582> (took 194 seconds).
+[17:03:59] Doom<STEAM_0:0:64739582> changed their name to Wilfred Goodfield
+[17:04:15] Wilfred Goodfield: // Where's the discord
+[17:04:46] Wilfred Goodfield: !discord
+[17:04:49] Wilfred Goodfield: /discord
+[17:05:04] Wilfred Goodfield: /discord
+[17:05:13] Wilfred Goodfield: /discord
+[17:05:20] Dropped "Wilfred Goodfield" from server<STEAM_0:0:64739582>
+[17:12:21] Zombie<STEAM_0:0:68118061> changed their name to CCA.C17-HELIX.i4.08874
+[17:39:39] Dropped "Andrew Cloverman" from server<STEAM_0:1:53097688>
+[17:43:41] Client "Peppermint" connected.
+[17:45:09] Client "Peppermint" spawned in server <STEAM_0:1:115933392> (took 88 seconds).
+[17:45:38] Peppermint<STEAM_0:1:115933392> changed their name to Tanya L. Fredrickson
+[17:46:09] Dropped "Tanya L. Fredrickson" from server<STEAM_0:1:115933392>
+[17:56:16] Dropped "CCA.C17-HELIX.i4.08874" from server<STEAM_0:0:68118061>
+[18:44:28] Client "Mr.Ganar" connected.
+[18:44:42] Client "Mr.Ganar" connected.
+[18:46:25] Client "Mr.Ganar" spawned in server <STEAM_0:0:80909581> (took 103 seconds).
+[18:46:46] Dropped "Mr.Ganar" from server<STEAM_0:0:80909581>
+[18:48:42] Client "Peppermint" connected.
+[20:08:40] Client "Peppermint" connected.
+[20:10:03] Client "Peppermint" spawned in server <STEAM_0:1:115933392> (took 83 seconds).
+[20:10:36] Peppermint<STEAM_0:1:115933392> changed their name to Tanya L. Fredrickson
+[20:18:42] Dropped "Tanya L. Fredrickson" from server<STEAM_0:1:115933392>
+[21:37:47] Client "Painevan" connected.
+[21:40:19] Client "Painevan" spawned in server <STEAM_0:0:68118061> (took 152 seconds).
+[21:41:14] Painevan<STEAM_0:0:68118061> changed their name to Zombie
+[22:50:13] Dropped "Zombie" from server<STEAM_0:0:68118061>

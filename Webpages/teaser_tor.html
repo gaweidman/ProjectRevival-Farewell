@@ -1,0 +1,97 @@
+<link href="https://fonts.googleapis.com/css2?family=VT323&display=swap" rel="stylesheet">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<meta charset="utf-8"/>
+<script>
+    var end = new Date('6/19/2020 9:30 PM EST');
+    
+    var _second = 1000;
+    var _minute = _second * 60;
+    var _hour = _minute * 60;
+    var _day = _hour * 24;
+    var timer;
+    
+    function getESTOffset() {
+    
+        return new Date().getTimezoneOffset() - (end.getTimezoneOffset())
+    }
+    
+    function showRemaining() {
+        var now = new Date();
+        var distance = end - now - getESTOffset() * _hour;
+        if (distance < 0) {
+    
+            clearInterval(timer);
+            document.getElementById('countdown').innerHTML = 'EXPIRED!';
+    
+            return;
+        }
+        var days = Math.floor(distance / _day);
+        var hours = Math.floor((distance % _day) / _hour);
+        var minutes = Math.floor((distance % _hour) / _minute);
+        var seconds = Math.floor((distance % _minute) / _second);
+    
+        document.getElementById('countdown').innerHTML = days + ':';
+        document.getElementById('countdown').innerHTML += hours + ':';
+        document.getElementById('countdown').innerHTML += minutes + ':';
+        document.getElementById('countdown').innerHTML += seconds + '';
+    }
+    
+    timer = setInterval(showRemaining, 1000);
+</script>
+
+<body style="background-color: black; font-family: 'VT323'; color: white; font-size: 15pt; position: relative;">
+    <div class="regularterminal">
+        <p>
+            <span>
+                <span>Waiting on verification uplink... <span style="color: lime">Done.</span></span>
+                <span style="float: right">USER: CONSUL</span>
+            </span>
+            <br/>
+            <span>Waiting on secure transmission... <span style="color: lime">Received.</span></span>
+            <br/>
+            <span>Decrypting from UniMaxSec Protocol... <span style="color: red">Error: Unexpected characters present, possible corruption.</span></span>
+            <br/>
+            <br/>
+            <span style="color: deepskyblue">Display message anyways? [Y/N]</span>
+            <br/>
+            <span>> </span><span style="color: gold">Y</span>
+            <br/>
+            <br/>
+            <span style="font-family: 'VT323'; color: white; font-size: 15pt">BEGIN MESSAGE DISPLAY</span>
+        </p>
+        
+    </div>
+    <p class="filedisplay" style="font-size: 25pt">
+        <span>Cit⠀...tr-tor (W*ŽxÎ 1ö†>‹f+$™</span>
+        <br/>
+        <span>!ª«F2» unit r*ported nõ'ÍÚýeAZ¬ Å¦ÜÜindividual talked about uæg>³,N°j¬øfbrotherâ×µîÎFÝr>€DEE…»¦;Cii¨ÝQ</span>
+        <br/>
+        <span>Å¦ÜÜd uæg>³,N°j¬øfeâ×µ  cÀ„ Y$d¡;À–“?êCÿÿÿ³õ{™œLá‹ü¼|¨×þVÍôÿû²d üö¤UÌ›|TÀ]¬ç0 žS2nem³œ€· >xÏÌdÿöÛ;QÌ</span>
+        <br/>
+        <span>ÿÿsfõ?1—)á˜,ÙœÿÿE-ˆç,Š¼•‹\Ð—§forced th---fficer to commit suicideúªÐ§^klÆ!²x ö#óÅ¸g·fÐUsë°É_¶º °ˆÎ†â</span>
+        <br/>
+        <span>aŸæ„aâ 1ŒH;K pale worm š¢PE'ŒF 0Ë` ê™1à spoke b¡  €C5Uú\äoÀlH†taÄQÅsCq\ ½ùµÿÿÿþš’Js£¡48Àÿû²dõXQJ›ž¬©</span>
+        <br/>
+        <span>:BBÊDHI&'©<–0îYF—;¨Ñµ#fàCçÆÒXÊ²ÀBLÄ²€Î%´ÃÁ<ÌÇ¨Ãzqhç˜”S+($o140PÂ1=S4¹1mCÿÿÿ³õ{„¡è‚•&#š¡;xòeÊßÐqyŒ"pÄÆ</span>
+        <br/>
+        <span>.ñ5  4€  Ç†#(¬ßè6×ÿÿdays after, ÿ new xenobe was found.œ1ÿHÊÈHØ•¦C½  ¿Ñ*äŒresembled bioticñf™š²Œ¸<Í®#fà</span>
+        <br/> 
+        <span>I¥ÈeÀ È˜Ù‹holding a$€ôÀ0Ltopped with<ÄHÀrÔÐÒ  Åª(™%ÌŒ±v ®ÐB†% fIS TO BE CONSIDERED HIGHLY DANGEROUS)</span>
+        <br/>
+        <span>P6ìçÐžì§&nû­@Ø³Ÿ@ benefactors have no idea‘Š€1„åy‚ãÁ±‚1  úæ·</span>
+        <br/>
+    </p>
+    <p class="regularterminal">
+        <span style="font-family: 'VT323'; color: white; font-size: 15pt">END MESSAGE DISPLAY</span>
+        <br/>
+        <br/>
+        <span style="color: deepskyblue">Message has one attachment: officerinterview.mp3</span>
+        <br/>
+        <span style="color: deepskyblue">Downloading: [==========]</span>
+        <br/
+        <span style="color: deepskyblue">Download finished.</span></span>
+    </p>
+</body>

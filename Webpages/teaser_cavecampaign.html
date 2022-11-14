@@ -1,0 +1,85 @@
+<head>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Cutive+Mono&family=DM+Mono&display=swap" rel="stylesheet"><link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <title>Project Revival</title>
+    <meta charset="utf-8"/>
+    <script>
+        var end = new Date('6/19/2020 9:30 PM EST');
+        
+        var _second = 1000;
+        var _minute = _second * 60;
+        var _hour = _minute * 60;
+        var _day = _hour * 24;
+        var timer;
+        
+        function getESTOffset() {
+        
+            return new Date().getTimezoneOffset() - (end.getTimezoneOffset())
+        }
+        
+        function showRemaining() {
+            var now = new Date();
+            var distance = end - now - getESTOffset() * _hour;
+            if (distance < 0) {
+        
+                clearInterval(timer);
+                document.getElementById('countdown').innerHTML = 'EXPIRED!';
+        
+                return;
+            }
+            var days = Math.floor(distance / _day);
+            var hours = Math.floor((distance % _day) / _hour);
+            var minutes = Math.floor((distance % _hour) / _minute);
+            var seconds = Math.floor((distance % _minute) / _second);
+        
+            document.getElementById('countdown').innerHTML = days + ':';
+            document.getElementById('countdown').innerHTML += hours + ':';
+            document.getElementById('countdown').innerHTML += minutes + ':';
+            document.getElementById('countdown').innerHTML += seconds + '';
+        }
+        
+        timer = setInterval(showRemaining, 1000);
+    </script>
+</head>
+
+<body style="background-color: black; font-family: 'Cutive Mono', monospace; font-size: 15pt; position: relative; color: #0dbd00">
+    <div class="regularterminal">
+        <p>
+            <span>OTA.S02-ECHO.ORD.20521: <:: OTA.S02-ECHO.ORD.20521 reporting. ::></span>
+            <br/>
+            <br/>
+            <span>OTA.S02-ECHO.ORD.19425: <:: Copy. Standby for debrief. ::></span>
+            <br/>
+            <br/>
+            <span>OTA.S02-ECHO.ORD.20521: <:: Copy. ::></span>
+            <br/>
+            <br/>
+            <span style="color: #c72b00">UU-CmD.02 <:: Good evening, gentlemen, let's make this quick. ::></span>
+            <br/>
+            <br/>
+            <span style="color: #c72b00">UU-CmD.02 <:: We are resuming our reconnaissance missions in the midwest. You two will have troops going down to Findlay, Ohio. The wasteland scanners picked up some footage of buildings, including an old government building. ::></span>
+            <br/>
+            <br/>
+            <span style="color: #c72b00">UU-CmD.02 <:: It's probably nothing, long abandoned at this point, but it's worth checking out. ::></span>
+            <br/>
+            <br/>
+            <span style="color: #c72b00">UU-CmD.02 <:: The plan is simple. You'll go in and inspect the all the small buildings in the area, before finally checking out the government building. You'll be under autonomous judgment. Amputate anyone you find unless you suspect they may be of importance. Notify us if your troops find anything out of the normal. ::></span>
+            <br/>
+            <br/>
+            <span style="color: #c72b00">UU-CmD.02 <:: Do you understand? ::></span>
+            <br/>
+            <br/>
+            <span>OTA.S02-ECHO.ORD.20521: <:: Yes, Commander. ::></span>
+            <br/>
+            <br/>
+            <span>OTA.S02-ECHO.ORD.19425: <:: Yes, Commander. ::></span>
+            <br/>
+            <br/>
+            <span style="color: #c72b00">UU-CmD.02 <:: Wonderful. Dismissed. ::></span>
+            
+        </p>
+        
+    </div>
+</body>

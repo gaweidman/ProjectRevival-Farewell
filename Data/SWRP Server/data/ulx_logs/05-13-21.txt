@@ -1,0 +1,885 @@
+[03:06:32] New map: rp_naboo_city_v2_1
+[19:18:00] Client "Doughnut" connected.
+[19:21:16] Client "Doughnut" spawned in server <STEAM_0:1:127409364> (took 196 seconds).
+[19:32:05] Client "DRD" connected.
+[19:35:43] Client "DRD" spawned in server <STEAM_0:0:193599766> (took 218 seconds).
+[19:37:58] Petty Officer Third Class Karissa Novar: /charsetbodygroup novar rig
+[19:38:06] Petty Officer Third Class Karissa Novar: /charsetbodygroup novar keycard
+[19:38:08] Petty Officer Third Class Karissa Novar: /charsetbodygroup novar keycar1
+[19:38:16] Petty Officer Third Class Karissa Novar: /charsetbodygroup novar body
+[19:38:21] Petty Officer Third Class Karissa Novar: /charsetbodygroup novar torso
+[19:39:08] Petty Officer Third Class Karissa Novar<STEAM_0:0:193599766> spawned ragdoll models/cire992/props4/cermedicalarm01.mdl
+[19:39:20] Petty Officer Second Class Arnold Jackson<STEAM_0:1:127409364> spawned model models/props_borealis/mooring_cleat01.mdl
+[19:39:25] Petty Officer Third Class Karissa Novar<STEAM_0:0:193599766> spawned effect models/bunny/2-1bmedical/2-1bmedicaldroid_arms.mdl
+[19:39:59] Petty Officer Third Class Karissa Novar<STEAM_0:0:193599766> spawned model models/props/starwars/medical/ammo_pickup.mdl
+[19:40:30] Petty Officer Third Class Karissa Novar: /charsetbodygroup novar base_uniform 0
+[19:40:51] Petty Officer Third Class Karissa Novar: /charsetbodygroup novar mask 1
+[19:40:54] Petty Officer Third Class Karissa Novar: /charsetbodygroup novar mask 0
+[19:42:22] Petty Officer Third Class Karissa Novar: /charsetbodygroup novar code_cylinders_1 1
+[19:42:27] Petty Officer Third Class Karissa Novar: /charsetbodygroup novar code_cylinder_1 1
+[19:42:51] Petty Officer Third Class Karissa Novar: /charsetbodygroup novar "code cylinders 1" 1
+[19:43:23] Agent Carson Photin: /toggleraise
+[19:43:25] Agent Carson Photin: /toggleraise
+[19:44:44] Petty Officer Third Class Karissa Novar<STEAM_0:0:193599766> spawned model models/cire992/props4/pictureframe02.mdl
+[19:44:53] Petty Officer Third Class Karissa Novar<STEAM_0:0:193599766> spawned model models/cire992/props4/pictureframe03.mdl
+[19:45:37] Petty Officer Third Class Karissa Novar<STEAM_0:0:193599766> spawned model models/cire992/props2/geth_tower_01.mdl
+[19:45:42] Petty Officer Third Class Karissa Novar<STEAM_0:0:193599766> spawned model models/cire992/props3/biog_apl_kro_statue.mdl
+[19:46:59] Petty Officer Third Class Karissa Novar<STEAM_0:0:193599766> spawned ragdoll models/cire992/props3/biggethturret.mdl
+[19:47:02] Agent Carson Photin: /chargiveitem carson flashlight
+[19:47:09] Petty Officer Third Class Karissa Novar<STEAM_0:0:193599766> spawned ragdoll models/cire992/props3/biggethturret.mdl
+[19:47:16] Petty Officer Third Class Karissa Novar<STEAM_0:0:193599766> spawned model models/cire992/props2/containerkitchen03.mdl
+[19:47:44] Client "FB|| light ROOM" connected.
+[19:47:52] Petty Officer Third Class Karissa Novar<STEAM_0:0:193599766> spawned model models/cire992/props4/gethpile_01.mdl
+[19:47:58] Petty Officer Third Class Karissa Novar<STEAM_0:0:193599766> spawned model models/cire992/props4/escapepod03.mdl
+[19:48:03] Petty Officer Third Class Karissa Novar<STEAM_0:0:193599766> spawned model models/cire992/props4/chairtorture01.mdl
+[19:48:13] Petty Officer Third Class Karissa Novar<STEAM_0:0:193599766> spawned model models/cire992/props4/chairtorture01.mdl
+[19:48:33] Petty Officer Third Class Karissa Novar<STEAM_0:0:193599766> spawned model models/cire992/props4/disc_grenade.mdl
+[19:48:36] Petty Officer Third Class Karissa Novar<STEAM_0:0:193599766> spawned ragdoll models/cire992/props4/cermedicalarm01.mdl
+[19:48:38] Petty Officer Third Class Karissa Novar<STEAM_0:0:193599766> spawned model models/cire992/props4/bioapl_ind_crane01_end.mdl
+[19:48:40] Client "FB|| light ROOM" spawned in server <STEAM_0:1:17219621> (took 56 seconds).
+[19:48:47] Petty Officer Third Class Karissa Novar<STEAM_0:0:193599766> spawned model models/cire992/props4/pictureframe01.mdl
+[19:48:52] Petty Officer Third Class Karissa Novar<STEAM_0:0:193599766> spawned model models/cire992/props4/pictureframe03.mdl
+[19:49:10] Petty Officer Third Class Karissa Novar<STEAM_0:0:193599766> spawned model models/cire992/props/miningvehiclenowheel.mdl
+[19:49:19] Petty Officer Third Class Karissa Novar<STEAM_0:0:193599766> spawned model models/cire992/props/farmplownowheel.mdl
+[19:49:23] Petty Officer Third Class Karissa Novar<STEAM_0:0:193599766> spawned model models/cire992/props/farmplow.mdl
+[19:49:30] Petty Officer Third Class Karissa Novar<STEAM_0:0:193599766> spawned model models/cire992/props/dumpster.mdl
+[19:49:32] Petty Officer Third Class Karissa Novar<STEAM_0:0:193599766> spawned model models/cire992/liq/n7_tubing_03.mdl
+[19:49:37] Petty Officer Third Class Karissa Novar<STEAM_0:0:193599766> spawned model models/cire992/props/snipertower.mdl
+[19:49:44] Petty Officer Third Class Karissa Novar<STEAM_0:0:193599766> spawned model models/cire992/props/datapad.mdl
+[19:50:02] Agent Carson Photin brought Corporal TK-7886
+[19:50:02] Agent Carson Photin: !bring tk
+[19:50:13] Agent Carson Photin brought Corporal TK-7886
+[19:50:13] Agent Carson Photin: !bring tk
+[19:50:52] Corporal TK-7886: Yo what up
+[19:51:29] Agent Carson Photin brought Sergeant RT-9824 ''Bulwark''
+[19:51:29] Agent Carson Photin: !bring rt
+[19:51:31] Petty Officer Third Class Karissa Novar: /CREATECUSTOMITEM Datapad models/cire992/props/datapad.mdl "It's literally a mass effect datapad, writted in Turian. Someone broke the space-time continuum."
+[19:52:01] Petty Officer Third Class Karissa Novar<STEAM_0:0:193599766> spawned model models/cire992/props/thermos.mdl
+[19:52:11] Petty Officer Third Class Karissa Novar<STEAM_0:0:193599766> spawned model models/cire992/props/terminal.mdl
+[19:52:13] Petty Officer Third Class Karissa Novar<STEAM_0:0:193599766> spawned model models/cire992/props/terminal.mdl
+[19:52:15] Sergeant RT-9824 ''Bulwark'' was killed by prop_physics
+[19:52:21] Agent Carson Photin brought Sergeant RT-9824 ''Bulwark''
+[19:52:21] Agent Carson Photin: !bring rt
+[19:52:35] Petty Officer Third Class Karissa Novar<STEAM_0:0:193599766> spawned model models/props_junk/trashdumpster01a.mdl
+[19:52:36] Petty Officer Third Class Karissa Novar<STEAM_0:0:193599766> spawned model models/props_junk/trashdumpster02.mdl
+[19:52:38] Agent Carson Photin was killed by prop_physics
+[19:52:38] Sergeant RT-9824 ''Bulwark'' was killed by prop_physics
+[19:52:38] Petty Officer Third Class Karissa Novar was killed by prop_physics
+[19:53:08] Petty Officer Third Class Karissa Novar<STEAM_0:0:193599766> spawned NPC npc_citizen
+[19:53:18] Petty Officer Third Class Karissa Novar<STEAM_0:0:193599766> spawned NPC npc_combine
+[19:53:18] Agent Carson Photin<STEAM_0:1:127409364> spawned NPC npc_combine_s
+[19:53:26] Agent Carson Photin<STEAM_0:1:127409364> spawned NPC npc_combine_s
+[19:53:36] Petty Officer Third Class Karissa Novar<STEAM_0:0:193599766> spawned NPC npc_combine
+[19:53:50] Agent Carson Photin: /chargiveflag carson petcCrRpP
+[19:53:52] Agent Carson Photin<STEAM_0:1:127409364> spawned ragdoll models/npc/markus/swbf2/characters/imperial/imperial_tanktrooper/imperial_tanktrooper_02.mdl
+[19:54:07] Agent Carson Photin<STEAM_0:1:127409364> spawned ragdoll models/npc/markus/swbf2/characters/imperial/imperial_tanktrooper/imperial_tanktrooper_01.mdl
+[19:54:09] Agent Carson Photin<STEAM_0:1:127409364> spawned ragdoll models/npc/markus/swbf2/characters/imperial/imperial_tanktrooper/imperial_tanktrooper_04.mdl
+[19:54:25] Agent Carson Photin: /charsetmodel rt models/npc/markus/swbf2/characters/imperial/imperial_tanktrooper/imperial_tanktrooper_04.mdl
+[19:54:38] Agent Carson Photin: !menu
+[19:54:46] Petty Officer Third Class Karissa Novar<STEAM_0:0:193599766> spawned NPC npc_vjks_blackholeheavyf
+[19:54:52] Petty Officer Third Class Karissa Novar<STEAM_0:0:193599766> spawned NPC npc_vjks_impoff_moff
+[19:55:03] Agent Carson Photin cleared decals
+[19:55:03] Agent Carson Photin: !cleardecals
+[19:55:11] Agent Carson Photin: !clearalldecals
+[19:55:12] Petty Officer Third Class Karissa Novar<STEAM_0:0:193599766> spawned NPC npc_vjks_amedic2f
+[19:55:22] Petty Officer Third Class Karissa Novar<STEAM_0:0:193599766> spawned model models/props_c17/shelfunit01a.mdl
+[19:55:58] Petty Officer Third Class Karissa Novar: /toggleraise
+[19:56:01] Petty Officer Third Class Karissa Novar killed Corporal TK-7886 using rw_sw_umb1
+[19:56:21] Agent Carson Photin: /toggleraise
+[19:56:22] Petty Officer Third Class Karissa Novar: /toggleraise
+[19:56:25] Agent Carson Photin killed Petty Officer Third Class Karissa Novar using rw_sw_z6i
+[19:56:41] Petty Officer Third Class Karissa Novar: /toggleraise
+[19:57:00] Petty Officer Third Class Karissa Novar<STEAM_0:0:193599766> spawned sent pfx5_03
+[19:57:00] Petty Officer Third Class Karissa Novar<STEAM_0:0:193599766> spawned sent pfx5_03
+[19:57:00] Petty Officer Third Class Karissa Novar<STEAM_0:0:193599766> spawned sent pfx5_03
+[19:57:01] Petty Officer Third Class Karissa Novar<STEAM_0:0:193599766> spawned sent pfx5_03
+[19:57:01] Petty Officer Third Class Karissa Novar<STEAM_0:0:193599766> spawned sent pfx5_03
+[19:57:01] Petty Officer Third Class Karissa Novar<STEAM_0:0:193599766> spawned sent pfx5_03
+[19:57:01] Petty Officer Third Class Karissa Novar<STEAM_0:0:193599766> spawned sent pfx5_03
+[19:57:02] Petty Officer Third Class Karissa Novar<STEAM_0:0:193599766> spawned sent pfx5_03
+[19:57:05] Petty Officer Third Class Karissa Novar<STEAM_0:0:193599766> spawned sent pfx5_00_alt_s
+[19:57:06] Petty Officer Third Class Karissa Novar<STEAM_0:0:193599766> spawned sent pfx5_03
+[19:57:28] Petty Officer Third Class Karissa Novar<STEAM_0:0:193599766> spawned sent pfx9_00
+[19:57:58] Petty Officer Third Class Karissa Novar: /toggleraise
+[19:58:00] Petty Officer Third Class Karissa Novar killed Corporal TK-7886 using rw_sw_umb1
+[19:58:11] Petty Officer Third Class Karissa Novar: /toggleraise
+[19:58:25] Petty Officer Third Class Karissa Novar: /toggleraise
+[19:58:29] Petty Officer Third Class Karissa Novar: /toggleraise
+[19:58:32] Corporal TK-7886 killed Petty Officer Third Class Karissa Novar using rw_sw_umb1
+[19:58:46] Agent Carson Photin suicided!
+[19:58:46] Petty Officer Third Class Karissa Novar slayed Agent Carson Photin
+[19:58:46] Petty Officer Third Class Karissa Novar: !slay agent
+[19:59:19] Petty Officer Third Class Karissa Novar: /toggleraise
+[19:59:34] Agent Carson Photin: /toggleraise
+[19:59:38] Corporal TK-7886 killed Petty Officer Third Class Karissa Novar using rw_sw_umb1
+[19:59:53] Agent Carson Photin killed Petty Officer Third Class Karissa Novar using rw_sw_nt242c
+[20:00:01] Petty Officer Third Class Karissa Novar: /toggleraise
+[20:00:04] Petty Officer Third Class Karissa Novar killed Corporal TK-7886 using rw_sw_royal_guard_staff
+[20:00:08] Petty Officer Third Class Karissa Novar killed Agent Carson Photin using rw_sw_royal_guard_staff
+[20:00:23] Agent Carson Photin: /toggleraise
+[20:00:30] Agent Carson Photin killed Petty Officer Third Class Karissa Novar using rw_sw_huntershotgun
+[20:00:38] Petty Officer Third Class Karissa Novar: /toggleraise
+[20:00:45] Agent Carson Photin killed Petty Officer Third Class Karissa Novar using rw_sw_huntershotgun
+[20:00:55] Petty Officer Third Class Karissa Novar: /toggleraise
+[20:01:01] Petty Officer Third Class Karissa Novar killed Agent Carson Photin using rw_sw_z2
+[20:01:08] Agent Carson Photin: /toggleraise
+[20:01:09] Petty Officer Third Class Karissa Novar: /toggleraise
+[20:01:13] Petty Officer Third Class Karissa Novar: /toggleraise
+[20:01:16] Agent Carson Photin killed Petty Officer Third Class Karissa Novar using rw_sw_m57
+[20:01:16] Agent Carson Photin killed Corporal TK-7886 using rw_sw_m57
+[20:01:26] Petty Officer Third Class Karissa Novar: /toggleraise
+[20:01:33] Agent Carson Photin killed Petty Officer Third Class Karissa Novar using rw_sw_m57
+[20:01:40] Petty Officer Third Class Karissa Novar: /toggleraise
+[20:01:59] Agent Carson Photin: /toggleraise
+[20:02:01] Agent Carson Photin: /toggleraise
+[20:02:05] Agent Carson Photin killed Petty Officer Third Class Karissa Novar using rw_sw_m57
+[20:02:13] Petty Officer Third Class Karissa Novar: /toggleraise
+[20:02:34] Petty Officer Third Class Karissa Novar: /toggleraise
+[20:02:45] Agent Carson Photin killed Petty Officer Third Class Karissa Novar using rw_sw_m57
+[20:02:56] Petty Officer Third Class Karissa Novar: /toggleraise
+[20:02:58] Agent Carson Photin: /toggleraise
+[20:02:58] Petty Officer Third Class Karissa Novar: /toggleraise
+[20:03:09] Petty Officer Third Class Karissa Novar killed Agent Carson Photin using hunter_flechette
+[20:03:11] Petty Officer Third Class Karissa Novar: /toggleraise
+[20:03:15] Petty Officer Third Class Karissa Novar was killed by npc_manhack
+[20:03:25] Agent Carson Photin: /toggleraise
+[20:03:30] Petty Officer Third Class Karissa Novar: /toggleraise
+[20:03:37] Agent Carson Photin: /toggleraise
+[20:03:51] Petty Officer Third Class Karissa Novar: /toggleraise
+[20:03:54] Agent Carson Photin: /toggleraise
+[20:03:55] Petty Officer Third Class Karissa Novar killed Corporal TK-7886 using rpg_missile
+[20:03:55] Petty Officer Third Class Karissa Novar suicided!
+[20:04:01] Agent Carson Photin: /toggleraise
+[20:04:02] Petty Officer Third Class Karissa Novar: /toggleraise
+[20:04:12] Agent Carson Photin: /toggleraise
+[20:04:17] Petty Officer Third Class Karissa Novar: /toggleraise
+[20:04:24] Agent Carson Photin: /toggleraise
+[20:04:40] Agent Carson Photin: /toggleraise
+[20:04:55] Petty Officer Third Class Karissa Novar<STEAM_0:0:193599766> spawned ragdoll models/kriegsyntax/imperial/stormtroopers/medics/playermodel_male_01.mdl
+[20:04:59] Agent Carson Photin: /toggleraise
+[20:05:01] Petty Officer Third Class Karissa Novar<STEAM_0:0:193599766> spawned model models/hunter/blocks/cube1x150x1.mdl
+[20:05:02] Petty Officer Third Class Karissa Novar killed Agent Carson Photin using prop_physics
+[20:05:06] Petty Officer Third Class Karissa Novar<STEAM_0:0:193599766> spawned model models/hunter/blocks/cube1x150x1.mdl
+[20:05:09] Corporal TK-7886<STEAM_0:1:17219621> spawned model models/xwing/xwingtwo1.mdl
+[20:05:20] Dropped "Agent Carson Photin" from server<STEAM_0:1:127409364>
+[20:05:21] Client "Doughnut" connected.
+[20:05:28] Petty Officer Third Class Karissa Novar<STEAM_0:0:193599766> spawned model models/props_c17/furniturewashingmachine001a.mdl
+[20:05:33] Corporal TK-7886<STEAM_0:1:17219621> spawned model models/xwing/xwing1.mdl
+[20:05:58] Client "Doughnut" spawned in server <STEAM_0:1:127409364> (took 37 seconds).
+[20:06:35] Petty Officer Third Class Karissa Novar<STEAM_0:0:193599766> spawned model models/props_interiors/vendingmachinesoda01a.mdl
+[20:06:37] Petty Officer Third Class Karissa Novar killed Corporal TK-7886 using prop_physics
+[20:07:20] Petty Officer Third Class Karissa Novar<STEAM_0:0:193599766> spawned model models/props_interiors/bathtub01a.mdl
+[20:07:39] Petty Officer Third Class Karissa Novar<STEAM_0:0:193599766> spawned model models/props_lab/clipboard.mdl
+[20:08:07] Petty Officer Third Class Karissa Novar<STEAM_0:0:193599766> spawned model models/props_junk/sawblade001a.mdl
+[20:08:32] Petty Officer Third Class Karissa Novar: /toggleraise
+[20:08:38] Petty Officer Third Class Karissa Novar killed Petty Officer Second Class Arnold Jackson using player
+[20:09:12] Petty Officer Third Class Karissa Novar: !bring tk
+[20:10:00] Petty Officer Third Class Karissa Novar suicided!
+[20:10:00] Petty Officer Second Class Arnold Jackson slayed Petty Officer Third Class Karissa Novar
+[20:10:00] Petty Officer Second Class Arnold Jackson: !slay karis
+[20:10:07] Petty Officer Third Class Karissa Novar mauled Corporal TK-7886
+[20:10:07] Petty Officer Third Class Karissa Novar: !maul tk
+[20:10:27] Corporal TK-7886 suicided!
+[20:10:57] Dropped "Corporal TK-7886" from server<STEAM_0:1:17219621>
+[20:13:12] Client "FB|| light ROOM" connected.
+[20:13:15] Dropped "Petty Officer Third Class Karissa Novar" from server<STEAM_0:0:193599766>
+[20:13:15] Dropped "Petty Officer Second Class Arnold Jackson" from server<STEAM_0:1:127409364>
+[20:13:58] Client "FB|| light ROOM" spawned in server <STEAM_0:1:17219621> (took 46 seconds).
+[20:14:10] Client "Doughnut" connected.
+
+
+
+[20:15:20] New map: rp_stardestroyer_v2_5
+[20:15:20] Client "FB|| light ROOM" connected.
+[20:15:20] Client "FB|| light ROOM" connected.
+[20:15:20] Client "FB|| light ROOM" connected.
+[20:15:20] Client "FB|| light ROOM" connected.
+[20:15:20] Client "FB|| light ROOM" connected.
+[20:15:20] Client "FB|| light ROOM" connected.
+[20:16:08] Client "FB|| light ROOM" spawned in server <STEAM_0:1:17219621> (took 48 seconds).
+[20:17:51] Client "Doughnut" connected.
+[20:18:51] Client "Doughnut" spawned in server <STEAM_0:1:127409364> (took 60 seconds).
+[20:21:21] Lance Corporal TX-7062: bloxwich
+[20:21:37] Lance Corporal TX-7062: blaxwich
+[20:22:34] Dropped "Lance Corporal TX-7062" from server<STEAM_0:1:17219621>
+[20:23:32] Client "FB|| light ROOM" connected.
+[20:24:25] Client "FB|| light ROOM" spawned in server <STEAM_0:1:17219621> (took 53 seconds).
+[20:24:58] Lance Corporal TX-7062: // cock and balls
+[20:25:13] Lance Corporal TX-7062: /d cock
+[20:25:16] Lance Corporal TX-7062: /D cock
+[20:25:18] Lance Corporal TX-7062: /dr
+[20:25:24] Lance Corporal TX-7062: /dr cock and bgalls 
+[20:26:46] Lance Corporal TX-7062: // 👍︎❒︎◆︎■︎♑︎●︎♏︎
+[20:27:10] Lance Corporal TX-7062: // ☞︎◆︎♍︎🙵 ⍓︎□︎◆︎ ♎︎♓︎♍︎🙵♒︎□︎●︎♏︎
+[20:29:29] Lance Corporal TX-7062: // ✌︎●︎●︎ ⬥︎♏︎🕯︎❖︎♏︎ ♌︎♏︎♏︎■︎ ♑︎♓︎❖︎♏︎■︎👌︎⍓︎ ⧫︎♒︎□︎⬧︎♏︎ ⬥︎♒︎□︎ ♍︎♋︎❍︎♏︎ ♌︎♏︎♐︎□︎❒︎♏︎❄︎♒︎♏︎ ♎︎❒︎♏︎♋︎❍︎ □︎♐︎ ♋︎ ■︎♋︎⧫︎♓︎□︎■︎🕈︎♒︎♏︎❒︎♏︎ ♐︎❒︎♏︎♏︎♎︎□︎❍︎ ⬥︎□︎◆︎●︎♎︎ ♏︎■︎♎︎◆︎❒︎♏︎❄︎♒︎♏︎ ⬥︎□︎❒︎🙵 ♋︎■︎♎︎ ◻︎❒︎♋︎⍓︎♏︎❒︎⬧︎⚐︎♐︎ ♍︎♏︎■︎⧫︎◆︎❒︎♓︎♏︎⬧︎☟︎♋︎❖︎♏︎ ♌︎❒︎□︎◆︎♑︎♒︎⧫︎ ◆︎⬧︎ ⧫︎□︎ ⧫︎♒︎♓︎⬧︎ ♎︎♋︎⍓︎🕈︎♒︎♋︎⧫︎ ⬧︎♒︎♋︎●︎●︎ ♌︎♏︎ □︎◆︎❒︎ ●︎♏︎♑︎♋︎♍︎⍓︎✍︎🕈︎♒︎♋︎⧫︎ ⬥︎♓︎●︎●︎ □︎◆︎❒︎ ♍︎♒︎♓︎●︎♎︎❒ 
+[20:31:18] Lance Corporal TX-7062: // ✋︎■︎ ⧫︎♒︎♏︎ ♐︎♓︎❒︎⬧︎⧫︎ ♋︎♑︎♏︎📪︎ ♓︎■︎ ⧫︎♒︎♏︎ ♐︎♓︎❒︎⬧︎⧫︎ ♌︎♋︎⧫︎⧫︎●︎♏︎📪︎ ⬥︎♒︎♏︎■︎ ⧫︎♒︎♏︎ ⬧︎♒︎♋︎♎︎□︎⬥︎⬧︎ ♐︎♓︎❒︎⬧︎⧫︎ ●︎♏︎■︎♑︎⧫︎♒︎♏︎■︎♏︎♎︎📪︎ □︎■︎♏︎ ⬧︎⧫︎□︎□︎♎︎📬︎ 👌︎◆︎❒︎■︎♏︎♎︎ ♌︎⍓︎ ⧫︎♒︎♏︎ ♏︎❍︎♌︎♏︎❒︎⬧︎ □︎♐︎ ✌︎❒︎❍︎♋︎♑︎♏︎♎︎♎︎□︎■︎📪︎ ♒︎♓︎⬧︎ ⬧︎□︎◆︎●︎ ♌︎●︎♓︎⬧︎⧫︎♏︎❒︎♏︎♎︎ ♌︎⍓︎ ⧫︎♒︎♏︎ ♐︎♓︎❒︎♏︎⬧︎ □︎♐︎ ☟︎♏︎●︎●︎ ♋︎■︎♎︎ ⧫︎♋︎♓︎■︎⧫︎♏︎♎︎ ♌︎♏︎⍓︎□︎■︎♎︎ ♋︎⬧︎♍︎♏︎■︎⬧︎♓︎□︎■︎📪︎ ♒︎♏︎ ♍︎♒︎□︎⬧
+[20:32:45] Lance Corporal TX-7062: // ✋︎❍︎♋︎♑︎♓︎■︎♏︎ ♌︎♏︎♓︎■︎♑︎ ♋︎ 👎︎♓︎⬧︎♍︎□︎❒︎♎︎ 💣︎□︎♎︎♏︎❒︎♋︎⧫︎□︎❒︎
+[20:34:53] Client "NamRm" connected.
+[20:35:24] Client "DRD" connected.
+[20:36:30] Lance Corporal TX-7062: // ♒︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎♋︎
+[20:37:20] Client "NamRm" spawned in server <STEAM_0:0:69476140> (took 147 seconds).
+[20:38:01] Client "DRD" spawned in server <STEAM_0:0:193599766> (took 157 seconds).
+[20:38:56] Air Private First Class Charlie Black: // poop
+[20:39:25] Lance Corporal TX-7062: // cock
+[20:39:30] Lance Corporal TX-7062: // and perhaps balls
+[20:39:56] Lance Corporal TX-7062: // ✋︎⧫︎⬧︎ ⧫︎♓︎❍︎♏︎ ⧫︎□︎ 🙵♓︎♍︎🙵 ♑︎◆︎❍︎ ♋︎■︎♎︎ ♍︎♒︎♏︎⬥︎ ♋︎⬧︎⬧︎📪︎ ♋︎■︎♎︎ ♓︎🕯︎❍︎ ♋︎●︎●︎ □︎◆︎⧫︎ □︎♐︎ ♋︎⬧︎⬧︎
+[20:40:46] Lance Corporal TX-7062: // ♋︎
+[20:41:32] Lance Corporal TX-7062: // ✌︎
+[20:43:06] Dropped "DRD" from server<STEAM_0:0:193599766>
+[20:44:16] Lance Corporal TX-7062: Whats up?
+[20:44:21] Private ST-6864: Nothing much.
+[20:44:26] Private ST-6864: You?
+[20:44:34] Lance Corporal TX-7062: uh.......nothing much either.
+[20:44:44] Client "DRD" connected.
+[20:44:47] Lance Corporal TX-7062: Not much happens around here anyways.
+[20:44:51] Private ST-6864: Yeah
+[20:44:51] Client "Dr. Cranberry" connected.
+[20:45:33] Lance Corporal TX-7062: 👍︎□︎♍︎🙵 ♋︎■︎♎︎ ♌︎♋︎●︎●︎⬧︎📪︎ ❍︎♓︎⬧︎⧫︎♏︎❒︎ ☞︎❒︎♏︎♏︎❍︎♋︎■︎📬︎
+[20:45:35] Lance Corporal TX-7062: .// void
+[20:46:07] Client "DRD" spawned in server <STEAM_0:0:193599766> (took 83 seconds).
+[20:46:59] Lance Corporal TX-7062: Seems pretty dead around here lately.
+[20:47:06] Lance Corporal TX-7062: Wonder why?
+[20:47:18] Private ST-6864: Yeah. Don't know how long my sanity will last.
+[20:47:27] Lance Corporal TX-7062: Ah
+[20:47:32] Petty Officer Second Class Arnold Jackson: /charsetbodygroup john helmet 0
+[20:47:37] Petty Officer Second Class Arnold Jackson: /charsetbodygroup arnold helmet 0
+[20:47:42] Petty Officer Second Class Arnold Jackson: /charsetbodygroup arnold hat 0
+[20:47:45] Petty Officer Second Class Arnold Jackson: /charsetbodygroup arnold headgear 0
+[20:47:51] Lance Corporal TX-7062: Fairly long considering we have some decent people around here.
+[20:49:04] Lance Corporal TX-7062: .// 👍︎☜︎✌︎💧︎☜︎ 👌︎☼︎☜︎✌︎❄︎☟︎✋︎☠︎☝︎
+[20:49:25] Client "Dr. Cranberry" spawned in server <STEAM_0:1:22058736> (took 274 seconds).
+[20:51:00] Petty Officer Second Class Arnold Jackson<STEAM_0:1:127409364> spawned ragdoll models/kriegsyntax/imperial/stormtroopers/officer_esb/playermodel_male_01.mdl
+[20:51:11] Petty Officer Second Class Arnold Jackson<STEAM_0:1:127409364> spawned ragdoll models/kriegsyntax/imperial/stormtroopers/officer_esb/playermodel_male_01.mdl
+[20:51:41] Petty Officer Second Class Arnold Jackson: /charsetmodel arnold models/kriegsyntax/imperial/stormtroopers/officer_esb/playermodel_male_01.mdl
+[20:52:14] Petty Officer Second Class Arnold Jackson: /charsetbodygroup arnold rank 0
+[20:52:19] Petty Officer Second Class Arnold Jackson<STEAM_0:1:127409364> spawned ragdoll models/kriegsyntax/imperial/stormtroopers/officer_esb/playermodel_male_01.mdl
+[20:52:23] Petty Officer Third Class Karissa Novar: /charsetbodygroup kari holster 1
+[20:52:31] Petty Officer Second Class Arnold Jackson: /charsetbodygroup arnold "rank bar" 0
+[20:52:34] Petty Officer Second Class Arnold Jackson: /charsetbodygroup arnold "rank bar" 4
+[20:52:36] Petty Officer Second Class Arnold Jackson: /charsetbodygroup arnold "rank bar" 5
+[20:52:38] Petty Officer Second Class Arnold Jackson: /charsetbodygroup arnold "rank bar" 6
+[20:52:43] Petty Officer Second Class Arnold Jackson<STEAM_0:1:127409364> spawned ragdoll models/kriegsyntax/imperial/stormtroopers/officer_esb/playermodel_male_01.mdl
+[20:52:53] Corporal TK-7886: .// cock
+[20:52:56] Petty Officer Second Class Arnold Jackson: /charsetbodygroup arnold "base uniform" 1
+[20:52:57] Corporal TK-7886: .// and ball torture
+[20:53:04] Private TK-7948-394: .// Or CBT
+[20:53:07] Petty Officer Second Class Arnold Jackson: /charsetbodygroup arnold "base_uniform" 1
+[20:53:11] Petty Officer Second Class Arnold Jackson: /charsetbodygroup arnold "base_uniform" 2
+[20:53:12] Petty Officer Second Class Arnold Jackson: /charsetbodygroup arnold "base_uniform" 3
+[20:53:13] Corporal TK-7886: .// perhaps even torture of the balls?
+[20:53:18] Petty Officer Second Class Arnold Jackson: /charsetbodygroup arnold "base_uniform" 0
+[20:53:21] Private TK-7948-394: .// Testicular Tortion
+[20:53:36] Petty Officer Second Class Arnold Jackson: /charsetbodygroup arnold "holster" 0
+[20:53:38] Corporal TK-7886: .// Cock Destruction
+[20:53:43] Petty Officer Second Class Arnold Jackson: /charsetbodygroup arnold "belt boxes" 0
+[20:54:13] Petty Officer Second Class Arnold Jackson: /charsetbodygroup arnold "code cylinder" 0
+[20:54:21] Petty Officer Second Class Arnold Jackson: /charsetbodygroup arnold "code cylinders" 0
+[20:54:40] Petty Officer Third Class Karissa Novar: /chargiveflag 7984 pet
+[20:54:42] Petty Officer Second Class Arnold Jackson: /charsetbodygroup arnold "keycard" 1
+[20:54:51] Petty Officer Third Class Karissa Novar: /chargiveflag 7948 pet
+[20:54:53] Petty Officer Second Class Arnold Jackson: /charsetbodygroup arnold "mask" 1
+[20:55:05] Petty Officer Third Class Karissa Novar: /plywhitelist 7948 droid
+[20:55:24] Private TK-7948-394: Your mom gay
+[20:55:26] Corporal TK-7886: https://lingojam.com/WingdingsTranslator
+[20:55:31] Petty Officer Second Class Arnold Jackson: /plywhitelist 7948 Commando
+[20:55:38] Petty Officer Second Class Arnold Jackson: /plywhitelist 7948 Commando
+[20:55:56] Corporal TK-7886: 💧︎⧫︎□︎❒︎❍︎⧫︎❒︎□︎□︎◻︎♏︎❒︎ ◻︎□︎♑︎
+[20:56:01] Petty Officer Second Class Arnold Jackson<STEAM_0:1:127409364> spawned ragdoll models/kriegsyntax/imperial/compnor/blackholecommandos/npc_male_01.mdl
+[20:56:04] Petty Officer Second Class Arnold Jackson<STEAM_0:1:127409364> spawned ragdoll models/kriegsyntax/imperial/compnor/blackholecommandos/playermodel_male_01.mdl
+[20:56:19] Petty Officer Second Class Arnold Jackson: /charsetmodel 7948 models/kriegsyntax/imperial/compnor/blackholecommandos/playermodel_male_01.mdl
+[20:56:25] Petty Officer Second Class Arnold Jackson<STEAM_0:1:127409364> spawned ragdoll models/kriegsyntax/imperial/compnor/blackholecommandos/playermodel_male_01.mdl
+[20:56:36] Dropped "Private TK-7948-394" from server<STEAM_0:1:22058736>
+[20:57:33] Petty Officer Third Class Karissa Novar suicided!
+[20:57:33] Petty Officer Third Class Karissa Novar slayed Themself
+[20:58:07] Petty Officer Third Class Karissa Novar<STEAM_0:0:193599766> spawned model models/cire992/props4/pictureframe03.mdl
+[20:58:08] Petty Officer Second Class Arnold Jackson: /charsetbodygroup arnold "hat" 1
+[20:58:10] Petty Officer Second Class Arnold Jackson: /charsetbodygroup arnold "hat" 2
+[20:58:19] Petty Officer Second Class Arnold Jackson: /charsetbodygroup arnold "hat" 1
+[20:58:21] Petty Officer Second Class Arnold Jackson: /charsetbodygroup arnold "hat" 2
+[20:58:23] Petty Officer Second Class Arnold Jackson: /charsetbodygroup arnold "hat" 3
+[20:58:27] Petty Officer Second Class Arnold Jackson: /charsetbodygroup arnold "hat" 1
+[20:58:31] Petty Officer Second Class Arnold Jackson: /toggleraise
+[20:58:41] Petty Officer Third Class Karissa Novar<STEAM_0:0:193599766> spawned model models/cire992/props4/omni_tool_02.mdl
+[20:58:46] Petty Officer Second Class Arnold Jackson: /toggleraise
+[21:04:47] Petty Officer Second Class Arnold Jackson: /toggleraise
+[21:04:49] Petty Officer Second Class Arnold Jackson: /toggleraise
+[21:10:25] Sergeant RT-9824 ''Bulwark''<STEAM_0:1:17219621> spawned model models/props_c17/canister02a.mdl
+[21:10:40] Sergeant RT-9824 ''Bulwark''<STEAM_0:1:17219621> spawned model models/ehawk/ehawk1.mdl
+[21:10:41] Sergeant RT-9824 ''Bulwark''<STEAM_0:1:17219621> spawned model models/sfp_alphag/sfp_alphag.mdl
+[21:11:16] Sergeant RT-9824 ''Bulwark'': Hey
+[21:11:24] Private ST-6864: Hey, man.
+[21:11:29] Sergeant RT-9824 ''Bulwark'': Hows it going?
+[21:11:41] Private ST-6864: It's been boring as all hell.
+[21:11:56] Sergeant RT-9824 ''Bulwark'': Ah, I get that.
+[21:12:06] Sergeant RT-9824 ''Bulwark'': I've mostly just been at the sparring ring lately.
+[21:12:08] Sergeant RT-9824 ''Bulwark'': Not much else.
+[21:12:19] Sergeant RT-9824 ''Bulwark'': Patrolling and fighting.
+[21:12:21] Private ST-6864: Breaking some skulls, huh?
+[21:12:32] Sergeant RT-9824 ''Bulwark'': I've sadly been holding back on that.
+[21:12:50] Sergeant RT-9824 ''Bulwark'': I've been warned of possibly being filed for treason.
+[21:12:58] Sergeant RT-9824 ''Bulwark'': So i've been cutting back.
+[21:13:11] Private ST-6864: Yeah, I'd imagine.
+[21:13:16] Sergeant RT-9824 ''Bulwark'': /me Chuckles
+[21:13:25] Sergeant RT-9824 ''Bulwark'': Well beating the fuck out of other soldiers doesn't really help my case.
+[21:13:37] Petty Officer Second Class Arnold Jackson: /whitelist RT- Unkown
+[21:13:42] Petty Officer Second Class Arnold Jackson: /plywhitelist RT- Unkown
+[21:13:47] Petty Officer Second Class Arnold Jackson: /plywhitelist RT- misc
+[21:13:49] Sergeant RT-9824 ''Bulwark'': Also i've actually been thinking of asking High Command if I can join the army as a tank trooper.
+[21:14:02] Sergeant RT-9824 ''Bulwark'': Actually, i've gotta go.
+[21:14:04] Sergeant RT-9824 ''Bulwark'': Duty is calling.
+[21:14:08] Private ST-6864: Alright bye.
+[21:14:52] 👍︎□︎♍︎🙵 ♋︎■︎♎︎ ♌︎♋︎●︎●︎⬧︎: // cock
+[21:15:05] Petty Officer Third Class Karissa Novar: dr. Kleiner
+[21:15:07] 👍︎□︎♍︎🙵 ♋︎■︎♎︎ ♌︎♋︎●︎●︎⬧︎: Cock
+[21:15:09] Petty Officer Third Class Karissa Novar: my old professor
+[21:15:10] 👍︎□︎♍︎🙵 ♋︎■︎♎︎ ♌︎♋︎●︎●︎⬧︎: Actually
+[21:15:11] 👍︎□︎♍︎🙵 ♋︎■︎♎︎ ♌︎♋︎●︎●︎⬧︎: I am 
+[21:15:12] 👍︎□︎♍︎🙵 ♋︎■︎♎︎ ♌︎♋︎●︎●︎⬧︎: 👍︎□︎♍︎🙵 ♋︎■︎♎︎ ♌︎♋︎●︎●︎⬧︎
+[21:15:24] Petty Officer Third Class Karissa Novar: you should of given me that A
+[21:15:25] Petty Officer Third Class Karissa Novar: /toggleraise
+[21:15:31] Petty Officer Second Class Arnold Jackson: /charsetname 👍︎ Maimpho Zarsek
+[21:15:37] Maimpho Zarsek: // 👍︎□︎♍︎🙵 ♋︎■︎♎︎ ♌︎♋︎●︎●︎⬧︎
+[21:15:52] Unkown: /charsetname unkown Grotack Lunthan
+[21:16:40] Grotack Lunthan: /charsetmodel maimpho models/npc_hcn/starwars/bf/human/human_male_3.mdl
+[21:16:48] Maimpho Zarsek: // Uhhhhh h👍︎□︎♍︎🙵 ♋︎■︎♎︎ ♌︎♋︎●︎●︎⬧︎
+[21:16:54] Grotack Lunthan brought Maimpho Zarsek
+[21:16:54] Grotack Lunthan: !bring maimpho
+[21:17:10] Maimpho Zarsek: 👍︎□︎♍︎🙵 ♋︎■︎♎︎ ♌︎♋︎●︎●︎⬧︎
+[21:17:18] Grotack Lunthan brought Maimpho Zarsek
+[21:17:18] Grotack Lunthan: !bring maimpho
+[21:17:42] Petty Officer Third Class Karissa Novar: /toggleraise
+[21:17:52] Maimpho Zarsek: rw_sw_ib94
+[21:18:28] Grotack Lunthan: /chargiveitem maimpho ib94
+[21:18:36] Grotack Lunthan: /chargiveitem maimpho rw_sw_ib94
+[21:18:58] Grotack Lunthan<STEAM_0:1:127409364> spawned sent lunasflightschool_lambda
+[21:19:08] Petty Officer Third Class Karissa Novar: /ME SHOWS ADOPTION PAPERS
+[21:19:10] Petty Officer Third Class Karissa Novar: /ROLL
+[21:19:14] Grotack Lunthan: /createcustomitem
+[21:19:15] Private ST-6864: /me shreds adoption papers
+[21:19:20] Private ST-6864: /roll str
+[21:19:32] Petty Officer Third Class Karissa Novar: /it you get a papercut on your glove
+[21:19:37] Maimpho Zarsek: // rw_sw_ib94
+[21:19:45] Private ST-6864: /rollstat con
+[21:19:47] Grotack Lunthan<STEAM_0:1:127409364> spawned model models/props/de_nuke/nuclearcontainerboxclosed.mdl
+[21:19:51] Maimpho Zarsek: //✋︎👎︎✋︎⚐︎❄︎
+[21:19:53] Petty Officer Third Class Karissa Novar: /it you die instantly
+[21:20:53] Grotack Lunthan<STEAM_0:1:127409364> spawned model models/cire992/props4/cratefruit02_s.mdl
+[21:20:56] Grotack Lunthan<STEAM_0:1:127409364> spawned model models/cire992/props4/cratecargo01_xl.mdl
+[21:20:58] Grotack Lunthan<STEAM_0:1:127409364> spawned model models/cire992/props4/cratecargo01_xl.mdl
+[21:21:00] Grotack Lunthan<STEAM_0:1:127409364> spawned model models/cire992/props4/crateshipping01_a.mdl
+[21:21:03] Grotack Lunthan<STEAM_0:1:127409364> spawned model models/props/de_dust/du_crate_64x80.mdl
+[21:21:08] Grotack Lunthan<STEAM_0:1:127409364> spawned model models/props/de_nuke/crate_small.mdl
+[21:21:11] Grotack Lunthan<STEAM_0:1:127409364> spawned model models/props/de_nuke/crate_extrasmall.mdl
+[21:21:49] Grotack Lunthan: /event There's a call over the PA announcing "An unkown vessel has been detected in the vacinity"
+[21:21:59] Grotack Lunthan: // where did my quotations go!
+[21:22:03] Grotack Lunthan: // ugh
+[21:22:31] Petty Officer Third Class Karissa Novar: // namrm is getting cheese
+[21:22:37] Maimpho Zarsek: // C H E E S E
+[21:22:47] Grotack Lunthan: /event Faintly you hear ''Unknown craft, identify yourself''
+[21:22:56] Petty Officer Third Class Karissa Novar: // who the fuck left the PA on
+[21:23:02] Maimpho Zarsek: // Who left you on?
+[21:23:09] Petty Officer Third Class Karissa Novar: // i did
+[21:23:11] Maimpho Zarsek: // Also my name is actually ✋︎👎︎✋︎⚐︎❄︎
+[21:23:14] Maimpho Zarsek: // not this shitty name
+[21:23:33] Petty Officer Third Class Karissa Novar<STEAM_0:0:193599766> spawned model models/props_interiors/pot01a.mdl
+[21:24:01] Grotack Lunthan: /event ''This is craft TV-3245, transporting goods from Naboo City permission to proceed''
+[21:24:37] Petty Officer Third Class Karissa Novar: // are communications and the pa system attatched or something
+[21:24:45] Grotack Lunthan: /ooc it's over the radio shush
+[21:24:52] Grotack Lunthan: // just so you know whats going on
+[21:24:53] Maimpho Zarsek: // Shut the fuc-
+[21:26:38] Grotack Lunthan: /event The Navy hailing the vessel says ''TV-3245, you are to land your vessel in hangar 1 for inspection of goods, any attempt at evading this will result in immediate forced disabling of your vessel''
+[21:27:03] Grotack Lunthan: /event The transport vessel responds ''Understood, landing in hangar 1 now''
+[21:27:38] Grotack Lunthan<STEAM_0:1:127409364> spawned sent lunasflightschool_spiral
+[21:27:41] Grotack Lunthan<STEAM_0:1:127409364> spawned sent lunasflightschool_havoc
+[21:27:47] Grotack Lunthan<STEAM_0:1:127409364> spawned sent lunasflightschool_skipray
+[21:27:58] Grotack Lunthan<STEAM_0:1:127409364> spawned sent lunasflightschool_imp_dropship
+[21:28:12] Grotack Lunthan<STEAM_0:1:127409364> spawned sent lunasflightschool_ebonhawk
+[21:30:29] Petty Officer Third Class Karissa Novar: do you two have your identichips?
+[21:30:49] Petty Officer Third Class Karissa Novar: .// you look like E.T.
+[21:30:53] Grotack Lunthan: /me Presents ID and cargo manifest
+[21:31:02] Maimpho Zarsek: /me Presents his ID to the Imperial fucker.
+[21:31:03] Grotack Lunthan: This should be all we're carrying
+[21:31:13] Petty Officer Third Class Karissa Novar: .// what does the cargo manifest say dumbass
+[21:31:45] Grotack Lunthan: /it The manifest states that they're transporting general construction goods, somewhat odd due to the long distance from Naboo
+[21:31:45] Maimpho Zarsek: // I love that we have OTA anims.
+[21:32:04] Grotack Lunthan: /it It states that the cargo is meant to go to Coruscant
+[21:32:28] Petty Officer Third Class Karissa Novar: why are construction materials being transported from Naboo to Corcucaunt?
+[21:32:57] Grotack Lunthan: They requested high grade goods that could only be found from this one company on Naboo
+[21:33:08] Petty Officer Third Class Karissa Novar: mhm, both of you stay here
+[21:33:13] Petty Officer Third Class Karissa Novar: don't move
+[21:33:14] Maimpho Zarsek: Alrighty
+[21:33:25] Petty Officer Third Class Karissa Novar: // sir your shuttle is phasing out of reality
+[21:33:33] Grotack Lunthan: // it's magic
+[21:33:38] Grotack Lunthan: // i am the Depressticle
+[21:33:41] Maimpho Zarsek: // Broken cloaking device lmao.
+[21:33:48] Grotack Lunthan: // it's rebooting
+[21:33:55] Petty Officer Third Class Karissa Novar: .// where the fuck would the cargohold be
+[21:34:00] Maimpho Zarsek: // Yes
+[21:34:03] Grotack Lunthan: /looc the back probably
+[21:34:08] Maimpho Zarsek: // I like the ST vibin.
+[21:34:38] Grotack Lunthan: // are... are you gonna search it?
+[21:34:52] Petty Officer Third Class Karissa Novar: /c I need you to search the cargo hold of the ship, I can't find it.
+[21:35:14] Private ST-6864: Where's the cargo hold?
+[21:35:18] Grotack Lunthan: Follow me
+[21:35:24] Maimpho Zarsek: Well then
+[21:35:41] Petty Officer Third Class Karissa Novar: I said don't move.
+[21:35:45] Maimpho Zarsek: Alright, alright.
+[21:35:53] Petty Officer Third Class Karissa Novar: /adminspawnmenu
+[21:35:54] Grotack Lunthan: /me Pulls a handle under the backside of the ship revealing a decently large cargohold full of crates
+[21:35:55] Maimpho Zarsek: .// fuckin dick
+[21:36:14] Grotack Lunthan: If you want to search it you should fit
+[21:36:31] Petty Officer Third Class Karissa Novar: /adminspawnmenu
+[21:36:35] Private ST-6864: Me go inside there?
+[21:36:44] Grotack Lunthan: Yeah, I mean that's how inspections work
+[21:36:57] Private ST-6864: Mmm, alright.
+[21:37:33] Private ST-6864: /me climbs into the cargo hold. He opens up some of the crates, peering into them.
+[21:37:39] Grotack Lunthan: /looc rolmn
+[21:37:43] Private ST-6864: /roll
+[21:38:09] Grotack Lunthan: /it The crates seem to be carrying construction materials and a lot of packing
+[21:38:19] Grotack Lunthan: /it Would you care to inspect the materials?
+[21:38:30] Private ST-6864: /me inspects the materials.
+[21:38:37] Grotack Lunthan: /looc rolmn
+[21:38:40] Private ST-6864: /roll
+[21:38:43] Petty Officer Third Class Karissa Novar to admins: ... so ic'ly there'd be someone in the control tower ready to kind of lock down the hanger?
+[21:38:46] Maimpho Zarsek: .// Cock
+[21:38:50] Grotack Lunthan to admins: yes
+[21:38:54] Petty Officer Third Class Karissa Novar: .// no FUCKING swearing
+[21:38:58] Maimpho Zarsek: .// F*U&CK
+[21:39:14] Maimpho Zarsek: So uh........why aren't there more troopers?
+[21:39:14] Grotack Lunthan: /it The materials seem to be pretty flimsy, weird since they were meant to be high quality and special delivered.
+[21:39:20] Maimpho Zarsek: Would have expected more.
+[21:39:44] Private ST-6864: We really ordered this? Alright.
+[21:40:17] Grotack Lunthan: Well it was ordered to Coruscant so whoever ordered this gets what they get I guess *chuckles nervously*
+[21:40:18] Petty Officer Third Class Karissa Novar: I don't care what you'd expect.
+[21:40:23] Maimpho Zarsek: Hmph
+[21:40:37] Private ST-6864: I guess so.
+[21:40:42] Private ST-6864: /me climbs out of the cargo hold.
+[21:40:47] Petty Officer Third Class Karissa Novar: this is a cargo search, just cooperate and be quiet, and it'll go over quickly
+[21:40:59] Maimpho Zarsek: Duly noted
+[21:41:03] Maimpho Zarsek: .// And ignored
+[21:41:17] Petty Officer Third Class Karissa Novar: oh yeah, where's your cargo being delivered?
+[21:41:18] Grotack Lunthan: /event A call over the radio is heard calling for a droid to do a quick scan in the cargo hold for a final check.
+[21:41:30] Maimpho Zarsek: Did he not tell you? 
+[21:41:35] Petty Officer Third Class Karissa Novar: he did
+[21:41:37] Grotack Lunthan: Huh? Wh- why would they need to do a final check, don't they trust you guys?
+[21:41:49] Private ST-6864: Standard procedure.
+[21:41:51] Grotack Lunthan to admins: oy fuckboi get on a droid for like a sec
+[21:41:53] Maimpho Zarsek: W-What? then why did you ask?
+[21:42:03] Grotack Lunthan to admins: do a /me scan
+[21:42:08] Petty Officer Third Class Karissa Novar to admins: fine
+[21:42:35] Grotack Lunthan: /chargiveitem maimpho radio
+[21:42:55] R2-M3: /w beep beep motherfucker
+[21:42:55] Grotack Lunthan to admins: tell me when you scan it
+[21:43:12] R2-M3: /me would scan the cargohold of the ship
+[21:43:15] R2-M3 to admins: scnaned
+[21:43:17] Grotack Lunthan: /me rests my hands on my belt
+[21:43:17] R2-M3: /roll
+[21:43:41] Grotack Lunthan: /event The droid beeps and a red light flashes for a bit indicating a problem
+[21:43:51] Grotack Lunthan: Hey- uh what's he saying
+[21:44:03] Private ST-6864: Something seems to be wrong in the cargo.
+[21:44:20] R2-M3<STEAM_0:0:193599766> spawned model models/kingpommes/starwars/misc/droids/r2_q5.mdl
+[21:44:23] Grotack Lunthan: How- uh how can that be? Weird.
+[21:44:56] Private ST-6864: I'm going to look inside again.
+[21:45:07] Grotack Lunthan: Uh- do you think that's really necessary?
+[21:45:14] Private ST-6864: Absolutely.
+[21:45:18] Petty Officer Third Class Karissa Novar: just want you to confirm what he said
+[21:45:25] Petty Officer Third Class Karissa Novar: so, where are you heading?
+[21:45:38] Private ST-6864: /me climbs into the cargo hold. He digs throught the cargo, trying to locate whatever the scan picked up.
+[21:45:42] Maimpho Zarsek: We were headed to coruscant (or however you spell it)
+[21:45:46] Grotack Lunthan: /looc roll rq
+[21:45:50] Petty Officer Third Class Karissa Novar: right
+[21:45:52] Maimpho Zarsek: Naboo to Coruscant.
+[21:46:08] Private ST-6864: .// what is rq
+[21:46:13] Grotack Lunthan: /looc real quick
+[21:46:17] Private ST-6864: /roll
+[21:46:49] Grotack Lunthan: /it You dig around, and push aside some ''metal'' beams, and find smaller crates under the packing material.
+[21:46:53] Petty Officer Third Class Karissa Novar: /c Is everything alright back there?
+[21:47:15] Private ST-6864: /r Yeah, droid picked something up. Looking for the cause now.
+[21:47:23] Private ST-6864: /comms Yeah, droid picked something up. Looking for the cause now.
+[21:47:29] Private ST-6864: /c Yeah, droid picked something up. Looking for the cause now.
+[21:47:48] Private ST-6864: /me opens the crates.
+[21:47:48] Maimpho Zarsek: Why don't we go take a look if you want?
+[21:47:50] Petty Officer Third Class Karissa Novar: // gtg
+[21:47:57] Maimpho Zarsek: // kk
+[21:48:16] Maimpho Zarsek: // three player event pog
+[21:48:19] Petty Officer Third Class Karissa Novar: // nvm, i can be on for a short time 
+[21:48:22] Petty Officer Third Class Karissa Novar: no need
+[21:48:23] Grotack Lunthan: /it You look inside the crate discovering what seems to be vials of an unkown liquid and bags of some sort of herb
+[21:48:33] Maimpho Zarsek: Hmph, alrighty.
+[21:48:41] Private ST-6864: What'd you say you were delivering?
+[21:48:55] Grotack Lunthan: Uh just some construction stuff wh- why?
+[21:49:08] Private ST-6864: Hold on, just a moment.
+[21:49:28] Private ST-6864: /me inspects the vials and bags.
+[21:50:17] Maimpho Zarsek: // illegal pog
+[21:50:26] Maimpho Zarsek: // I am illegal
+[21:50:38] Grotack Lunthan: /it the vials seem to be filled with a greenish yellow liquid, however it does not seem synthetic rather from a person, or creature. The bags look to be filled with herbs resembling something called Alderaanian snuff.
+[21:51:00] Grotack Lunthan: /looc i looked it up these are real things
+[21:51:12] Grotack Lunthan: // alderaan is colorado prove me wrong
+[21:51:19] Petty Officer Third Class Karissa Novar: // utah
+[21:51:30] Grotack Lunthan: // alderaan has it's own special drugs tho
+[21:51:35] Private ST-6864: /c I think I have found the discrepancy. Found some green liquid and some herbs.
+[21:51:56] Grotack Lunthan: *chuckles* there uh, there must be some mistake here
+[21:52:07] Petty Officer Third Class Karissa Novar: /c That's odd, bring some around front.
+[21:52:13] Private ST-6864: /c Will do.
+[21:52:39] Private ST-6864: /me grabs a crate, crawling out of the cargo.
+[21:53:03] Grotack Lunthan: /me pulls out ib94 behind the droid
+[21:53:07] Grotack Lunthan: /toggleraise
+[21:53:14] Grotack Lunthan: /y Step away!
+[21:53:27] Maimpho Zarsek: Stay still and be quiet.
+[21:53:32] Maimpho Zarsek: We can make this easy.
+[21:53:49] Petty Officer Third Class Karissa Novar: you're in the hanger of an Imperial stardestroyer, how do you think this will end?
+[21:54:08] Petty Officer Third Class Karissa Novar: There's someone up in that control room up there, watching this entire thing
+[21:54:09] Grotack Lunthan: /me grabs radio at his side ''We ran into a problem, the goods will be there soon sir''
+[21:54:34] Maimpho Zarsek: He won't say anything considering if he does you two will be dead.
+[21:54:36] Grotack Lunthan: Well its gonna let us go or we're gonna blast our way out understood
+[21:55:12] Grotack Lunthan: Ay Maim lets move out
+[21:55:17] Grotack Lunthan: /y Face the wall
+[21:55:17] Maimpho Zarsek: Alrighty
+[21:55:31] Grotack Lunthan: /me climbs into the transport
+[21:55:45] Grotack Lunthan: /event An alarm starts going off as the men step into the vehicle
+[21:55:51] Maimpho Zarsek: /me While keeping his blaster pointed at the two he slowly gets himself into the vehicle.
+[21:55:56] Grotack Lunthan: /y Lets move it before we're stuckk
+[21:55:59] Grotack Lunthan: /toggleraise
+[21:56:00] Maimpho Zarsek: /y Alrighty!
+[21:56:03] Grotack Lunthan: /toggleraise
+[21:56:05] Petty Officer Third Class Karissa Novar to admins: want me to do the thing
+[21:56:08] Grotack Lunthan to admins: yes
+[21:56:39] Petty Officer Third Class Karissa Novar to admins: there's also turrets and tie fighters
+[21:56:52] Grotack Lunthan to admins: if y'all wanna pilot them the go ahead
+[21:58:15] Grotack Lunthan: // so uh yall can get in tie fighters and attack us if you want
+[21:58:35] Maimpho Zarsek: // Optional, but if you do it you get bonus points.
+[21:58:50] Grotack Lunthan: // you get a peanut butter and chocolate brownie
+[21:59:13] Petty Officer Third Class Karissa Novar: // drunk piloting
+[21:59:24] Petty Officer Third Class Karissa Novar: /toggleraise
+[21:59:35] Air Private First Class Charlie Black was killed by lunasflightschool_ebonhawk
+[21:59:39] Maimpho Zarsek: // L M A O
+[21:59:46] Air Private First Class Charlie Black: // game lag rip
+[22:00:22] Petty Officer Third Class Karissa Novar brought Air Private First Class Charlie Black
+[22:00:22] Petty Officer Third Class Karissa Novar: !bring char
+[22:00:30] Petty Officer Third Class Karissa Novar: /toggleraise
+[22:00:31] Petty Officer Third Class Karissa Novar: /toggleraise
+[22:01:23] Maimpho Zarsek: // Just shot the Bride pog.
+[22:01:28] Maimpho Zarsek: // bridge*
+[22:02:00] Petty Officer Third Class Karissa Novar brought Air Private First Class Charlie Black
+[22:02:00] Petty Officer Third Class Karissa Novar: !bring char
+[22:02:06] Maimpho Zarsek: // pog
+[22:02:17] Petty Officer Third Class Karissa Novar: // gtg now
+[22:02:20] Maimpho Zarsek: // kk
+[22:02:22] Grotack Lunthan: /event You see the ship after sustaining much damage fly under the star destroyer and leaves the area
+[22:02:33] Dropped "Petty Officer Third Class Karissa Novar" from server<STEAM_0:0:193599766>
+[22:04:03] Petty Officer Second Class Arnold Jackson<STEAM_0:1:127409364> spawned model models/props/de_dust/du_crate_96x96.mdl
+[22:04:09] Petty Officer Second Class Arnold Jackson<STEAM_0:1:127409364> spawned model models/props/cs_militia/crate_extrasmallmill.mdl
+[22:04:38] Petty Officer Second Class Arnold Jackson: What did you find?
+[22:04:57] Private ST-6864: Green viles and some herb looking things.
+[22:05:42] Petty Officer Second Class Arnold Jackson: Hm
+[22:05:54] Petty Officer Second Class Arnold Jackson: /me Takes a bag and vile out of the crate
+[22:06:12] Petty Officer Second Class Arnold Jackson: I'll have medical inspect this, can you take this to storage?
+[22:06:18] Private ST-6864: Alright
+[22:06:25] Private ST-6864: /me grabs the crate.
+[22:07:46] Petty Officer Second Class Arnold Jackson: /
+[22:08:03] Private ST-6864: /me sets crate down.
+[22:08:05] Petty Officer Second Class Arnold Jackson: /me places the bag and vile on the desk with a note to the CMO
+[22:08:16] Petty Officer Second Class Arnold Jackson: /plywhitelist arnold army
+[22:09:17] Lieutenant Shunk Tump: /charsetmodel shunk models/kriegsyntax/imperial/army/officer_esb/playermodel_male_01.mdl
+[22:10:19] Lieutenant Shunk Tump: /charsetbodygroup 
+[22:10:33] Lieutenant Shunk Tump: /chargiveflag shunk petcCrRvV
+[22:10:34] Lieutenant Shunk Tump<STEAM_0:1:127409364> spawned ragdoll models/kriegsyntax/imperial/army/officer_esb/playermodel_male_01.mdl
+[22:11:07] Lieutenant Shunk Tump: /charsetbodygroup shunk "rank bar" 2
+[22:11:09] Lieutenant Shunk Tump: /charsetbodygroup shunk "rank bar" 1
+[22:11:32] Lieutenant Shunk Tump: /chargiveitem shunk flash
+[22:12:33] Sergeant RT-9824 ''Bulwark'': /c This trooper is requesting for an army officer.
+[22:12:49] Sergeant RT-9824 ''Bulwark'': /c My location is the training room.
+[22:13:33] Lieutenant Shunk Tump: /c This is Lieutenant Shunk Tump going to your location now
+[22:13:46] Sergeant RT-9824 ''Bulwark'': /c Copy that
+[22:14:54] Private ST-6864: /act halt
+[22:15:04] Sergeant RT-9824 ''Bulwark'': /me Salutes to the Officer.
+[22:15:12] Lieutenant Shunk Tump: You requested me?
+[22:15:16] Sergeant RT-9824 ''Bulwark'': Yes, sir.
+[22:15:16] Dropped "Private ST-6864" from server<STEAM_0:0:69476140>
+[22:15:30] Sergeant RT-9824 ''Bulwark'': I would like to request a transfer into the Army Tank Trooper division.
+[22:16:06] Lieutenant Shunk Tump: /me Scrolls through data pad. ''Your identification numbers were what again?"
+[22:16:14] Sergeant RT-9824 ''Bulwark'': 9824
+[22:16:34] Lieutenant Shunk Tump: /me Searches up 9824
+[22:16:57] Lieutenant Shunk Tump: /me Looks at his records ''Okayyyy then. You seem capable.
+[22:17:07] Lieutenant Shunk Tump: /me just peeks up at the RT
+[22:17:32] Sergeant RT-9824 ''Bulwark'': /me Simply stands saluting not really thinking about what that Lieutenant could possibly be looking at.
+[22:18:43] Lieutenant Shunk Tump: *sighs*  Alrightm I'll see that you're transfered as soon as I can, your new fatigues should be in your bunks.
+[22:18:52] Sergeant RT-9824 ''Bulwark'': Thank you, sir.
+[22:18:58] Lieutenant Shunk Tump: /me nods and walks away
+[22:19:42] Sergeant RT-9824 ''Bulwark'': .// models/npc/markus/swbf2/characters/imperial/imperial_tanktrooper/imperial_tanktrooper_03.mdl
+[22:19:51] Lieutenant Shunk Tump: /charsetmodel RT models/npc/markus/swbf2/characters/imperial/imperial_tanktrooper/imperial_tanktrooper_03.mdl
+[22:20:02] Lieutenant Shunk Tump: /plytransfer RT army
+[22:20:06] Sergeant RT-9824 ''Bulwark'': /chardesc
+[22:20:37] Lieutenant Shunk Tump: /charsetname RT Sergeant Bullwark Tump
+[22:20:56] Lieutenant Shunk Tump<STEAM_0:1:127409364> spawned ragdoll models/kriegsyntax/imperial/army/officer_anh/playermodel_male_01.mdl
+[22:21:29] Lieutenant Shunk Tump: /charsetbodygroup shunk head 12
+[22:21:41] Lieutenant Shunk Tump: /charsetbodygroup shunk head 11
+[22:21:53] Sergeant Bullwark Tump: Father
+[22:21:55] Lieutenant Shunk Tump: Son
+[22:22:00] Lieutenant Shunk Tump: /me kisses his helmet
+[22:22:17] Lieutenant Shunk Tump: /charsetbodygroup shunk head 13
+[22:22:20] Lieutenant Shunk Tump: /charsetbodygroup shunk head 12
+[22:22:21] Lieutenant Shunk Tump: /charsetbodygroup shunk head 13
+[22:22:23] Lieutenant Shunk Tump: /charsetbodygroup shunk head 11
+[22:23:55] Sergeant Bullwark Tump: .// models/player/markus/swbf2/characters/imperial/imperial_tanktrooper/imperial_tanktrooper_03.mdl
+[22:24:12] Lieutenant Shunk Tump: /charsetmodel Bullwark models/player/markus/swbf2/characters/imperial/imperial_tanktrooper/imperial_tanktrooper_03.mdl
+[22:26:10] Lieutenant Shunk Tump: /toggleraise
+[22:26:12] Lieutenant Shunk Tump: /toggleraise
+[22:26:29] Lieutenant Shunk Tump: /toggleraise
+[22:26:34] Sergeant Bullwark Tump: /chardesc
+[22:26:51] Sergeant Bullwark Tump: /chardesc
+[22:27:17] Lieutenant Shunk Tump: /toggleraise
+[22:27:19] Lieutenant Shunk Tump: /toggleraise
+[22:27:29] Lieutenant Shunk Tump: /toggleraise
+[22:28:45] Sergeant Bullwark Tump: Thats because I beat them half to death and they hate me for it.
+[22:29:06] Lieutenant Shunk Tump brought Sergeant Bullwark Tump
+[22:29:06] Lieutenant Shunk Tump: !bring bull
+[22:29:21] Lieutenant Shunk Tump<STEAM_0:1:127409364> spawned sent tkaro_lfs_tx225
+[22:29:36] Lieutenant Shunk Tump<STEAM_0:1:127409364> spawned sent tkaro_lfs_tx225
+[22:31:02] Sergeant Bullwark Tump killed Lieutenant Shunk Tump using tkaro_lfs_tx225
+[22:31:10] Lieutenant Shunk Tump: !goto bull
+[22:31:12] Lieutenant Shunk Tump teleported to Sergeant Bullwark Tump
+[22:31:12] Lieutenant Shunk Tump: !goto bull
+[22:31:52] Lieutenant Shunk Tump: /chargiveitem sergeant repair
+[22:31:57] Lieutenant Shunk Tump: /chargiveitem sergeant cutter
+[22:32:01] Lieutenant Shunk Tump: /adminspawnmenu
+[22:32:30] Sergeant Bullwark Tump: Father
+[22:32:38] Lieutenant Shunk Tump: /toggleraise
+[22:32:43] Sergeant Bullwark Tump: I have murdered my enemies and bathed in their blood.
+[22:32:46] Sergeant Bullwark Tump: Are you proud?
+[22:33:15] Lieutenant Shunk Tump<STEAM_0:1:127409364> spawned NPC npc_combine_s
+[22:33:15] Lieutenant Shunk Tump<STEAM_0:1:127409364> spawned NPC npc_combine_s
+[22:33:16] Lieutenant Shunk Tump<STEAM_0:1:127409364> spawned NPC npc_combine_s
+[22:33:30] Lieutenant Shunk Tump<STEAM_0:1:127409364> spawned NPC npc_combine_s
+[22:34:18] Lieutenant Shunk Tump<STEAM_0:1:127409364> spawned NPC npc_vj_rebeltrooper
+[22:34:34] Sergeant Bullwark Tump was killed by npc_vj_rebeltrooper
+[22:35:06] Lieutenant Shunk Tump brought Sergeant Bullwark Tump
+[22:35:06] Lieutenant Shunk Tump: !bring bull
+[22:35:28] Lieutenant Shunk Tump<STEAM_0:1:127409364> spawned NPC npc_combine_s
+[22:36:30] Lieutenant Shunk Tump<STEAM_0:1:127409364> spawned NPC npc_combine_s
+[22:36:31] Lieutenant Shunk Tump<STEAM_0:1:127409364> spawned NPC npc_combine_s
+[22:36:32] Lieutenant Shunk Tump<STEAM_0:1:127409364> spawned NPC npc_combine_s
+[22:37:35] Lieutenant Shunk Tump: /toggleraise
+[22:37:59] Lieutenant Shunk Tump: /toggleraise
+[22:38:10] Lieutenant Shunk Tump killed Sergeant Bullwark Tump using rw_sw_rk3
+[22:39:14] Sergeant Bullwark Tump: before you stands Bulwark and his chad father Shunk.
+[22:39:19] Sergeant Bullwark Tump: Skunk
+[22:39:26] Sergeant Bullwark Tump: Stunk
+[22:39:28] Sergeant Bullwark Tump: Scunk]
+[22:39:33] Sergeant Bullwark Tump: Sgunk
+[22:39:37] Sergeant Bullwark Tump: Sshunk
+[22:39:40] Sergeant Bullwark Tump: Slunk
+[22:40:39] Sergeant Bullwark Tump: // Owen Tump
+[22:41:01] Lieutenant Shunk Tump: /charsetname serg Sergeant Owen ''Bullwark'' Tump
+[22:41:12] Sergeant Owen ''Bullwark'' Tump: // Bulwark
+[22:41:18] Lieutenant Shunk Tump: /charsetname serg Sergeant Owen ''Bulwark'' Tump
+[22:41:36] Sergeant Owen ''Bulwark'' Tump: Tump
+[22:41:42] Lieutenant Shunk Tump: Bump a lump tump
+[22:41:54] Sergeant Owen ''Bulwark'' Tump: Is that the song you sung to me when I was but a child?
+[22:42:05] Lieutenant Shunk Tump: No, that was the first suggestion for your name
+[22:42:12] Sergeant Owen ''Bulwark'' Tump: Ah
+[22:42:16] Lieutenant Shunk Tump: We settled on owen
+[22:42:22] Sergeant Owen ''Bulwark'' Tump: I have taken the nickname "bulwark" as my first name.
+[22:42:35] Sergeant Owen ''Bulwark'' Tump: I am a defensive wall who will protect his allies in battle.
+[22:42:48] Lieutenant Shunk Tump: so long as you do not soil the name of the Tumps
+[22:43:07] Sergeant Owen ''Bulwark'' Tump: I will not Father, I will die in battle along with my enemies.
+[22:43:18] Lieutenant Shunk Tump: Good boy
+[22:43:32] Sergeant Owen ''Bulwark'' Tump: Thank you, father.
+[22:43:43] Lieutenant Shunk Tump: /me nods, clicks the back of my heels and turns
+[22:48:20] Dropped "Sergeant Owen ''Bulwark'' Tump" from server<STEAM_0:1:17219621>
+[22:48:23] Client "FB|| light ROOM" connected.
+[22:49:03] Client "FB|| light ROOM" spawned in server <STEAM_0:1:17219621> (took 40 seconds).
+[22:54:26] Lieutenant Shunk Tump: How are you my child
+[22:54:36] Sergeant Owen ''Bulwark'' Tump: Simply on break at the moment.
+[22:54:57] Sergeant Owen ''Bulwark'' Tump: Not many fights or problems are happened since that smuggler issue.
+[22:55:05] Sergeant Owen ''Bulwark'' Tump: .// have happened*
+[22:58:39] Client "Chicken" connected.
+[23:00:50] Client "Chicken" spawned in server <STEAM_0:0:143523274> (took 131 seconds).
+[23:02:07] Sergeant Owen ''Bulwark'' Tump: So how is your work going for you, father?
+[23:03:00] Lieutenant Shunk Tump: Very murderous, you?
+[23:03:05] Sergeant Owen ''Bulwark'' Tump: I wish
+[23:03:17] Sergeant Owen ''Bulwark'' Tump: Sadly no battles have begun in a while.
+[23:03:33] Lieutenant Shunk Tump: We shall soon occupy our enemies home
+[23:03:42] Sergeant Owen ''Bulwark'' Tump: Wonderful news Father!
+[23:03:56] Sergeant Owen ''Bulwark'' Tump: I will be pleased if I die in battle.
+[23:04:23] Sergeant Owen ''Bulwark'' Tump: It is in my nature to want to honor the war god "Ni'Shaw.
+[23:04:30] Lieutenant Shunk Tump: Indeed
+[23:05:09] Bartholomew Tump: /y TUMP! LETS GO BOWLING!
+[23:05:54] Dropped "Bartholomew Tump" from server<STEAM_0:0:143523274>
+[23:06:00] Client "Chicken" connected.
+[23:06:04] Petty Officer Second Class Arnold Jackson: /toggleraise
+[23:06:11] Petty Officer Second Class Arnold Jackson: /toggleraise
+[23:06:53] Sergeant Owen ''Bulwark'' Tump: Hey Arnold.
+[23:06:57] Client "Chicken" spawned in server <STEAM_0:0:143523274> (took 57 seconds).
+[23:06:57] Sergeant Owen ''Bulwark'' Tump: Hows the day going?
+[23:07:01] Petty Officer Second Class Arnold Jackson: Good, you?
+[23:07:07] Sergeant Owen ''Bulwark'' Tump: Fairly well.
+[23:07:11] Sergeant Owen ''Bulwark'' Tump: I met with my father today.
+[23:07:13] Petty Officer Second Class Arnold Jackson: Oh nice
+[23:07:17] Sergeant Owen ''Bulwark'' Tump: Though for a brief moment.
+[23:07:32] Sergeant Owen ''Bulwark'' Tump: Oh and by the way.
+[23:07:35] Sergeant Owen ''Bulwark'' Tump: Just to clafiry.
+[23:07:39] Sergeant Owen ''Bulwark'' Tump: .// clarify*
+[23:07:45] Sergeant Owen ''Bulwark'' Tump: I'm Bulwark.
+[23:07:49] Petty Officer Second Class Arnold Jackson: Oh... oh my
+[23:07:50] Bartholomew Tump: /me takes owens helmet off
+[23:07:57] Bartholomew Tump: OWEN!
+[23:08:09] Petty Officer Second Class Arnold Jackson: /y Give the trooper his uniform back
+[23:08:10] Petty Officer Second Class Arnold Jackson: /toggleraise
+[23:08:41] Sergeant Owen ''Bulwark'' Tump: /me Back hands the other Tump in the nose and yells "DO NOT DISGRACE OUR GOD THE NI'SHAW"!!
+[23:08:45] Petty Officer Second Class Arnold Jackson: /toggleraise
+[23:08:53] Bartholomew Tump: /me rubs face
+[23:08:54] Bartholomew Tump: Ow
+[23:08:55] Sergeant Owen ''Bulwark'' Tump: Now give me my helmet back.
+[23:08:57] Petty Officer Second Class Arnold Jackson: The hell is a Ni'shaw?
+[23:09:02] Bartholomew Tump: /me gives helmet
+[23:09:09] Sergeant Owen ''Bulwark'' Tump: You will do well in this army if you remain vigilant and ready for death.
+[23:09:15] Sergeant Owen ''Bulwark'' Tump: /me Takes the helmet and places it on.
+[23:09:25] Sergeant Owen ''Bulwark'' Tump: /me Clears his throat.
+[23:09:30] Petty Officer Second Class Arnold Jackson: Anywho
+[23:09:48] Bartholomew Tump: doing mom
+[23:10:33] Petty Officer Second Class Arnold Jackson brought Bartholomew Tump,Sergeant Owen ''Bulwark'' Tump
+[23:10:33] Petty Officer Second Class Arnold Jackson: !bring *
+[23:10:41] Petty Officer Second Class Arnold Jackson<STEAM_0:1:127409364> spawned sent kingpommes_lfs_tie_fighter
+[23:10:53] Petty Officer Second Class Arnold Jackson brought Sergeant Owen ''Bulwark'' Tump
+[23:10:53] Petty Officer Second Class Arnold Jackson: !bring bulwark
+[23:12:36] Petty Officer Second Class Arnold Jackson<STEAM_0:1:127409364> spawned sent kingpommes_lfs_tie_fighter
+[23:12:58] Petty Officer Second Class Arnold Jackson<STEAM_0:1:127409364> spawned sent kingpommes_lfs_tie_fighter
+[23:13:12] Petty Officer Second Class Arnold Jackson<STEAM_0:1:127409364> spawned sent kingpommes_lfs_tie_fighter
+[23:13:52] Petty Officer Second Class Arnold Jackson<STEAM_0:1:127409364> spawned sent lunasflightschool_alligator
+[23:14:15] Petty Officer Second Class Arnold Jackson<STEAM_0:1:127409364> spawned sent kingpommes_lfs_t85
+[23:14:33] Petty Officer Second Class Arnold Jackson<STEAM_0:1:127409364> spawned sent lunasflightschool_xwing
+[23:14:47] Petty Officer Second Class Arnold Jackson<STEAM_0:1:127409364> spawned sent lunasflightschool_xwing
+[23:15:27] Petty Officer Second Class Arnold Jackson brought Sergeant Owen ''Bulwark'' Tump
+[23:15:27] Petty Officer Second Class Arnold Jackson: !bring bulwark
+[23:16:14] Petty Officer Second Class Arnold Jackson: /charsetname barth Crewman Third Class Bartholomew Tump
+[23:16:19] Petty Officer Second Class Arnold Jackson<STEAM_0:1:127409364> spawned ragdoll models/kriegsyntax/imperial/navy/worker/playermodel_male_01.mdl
+[23:16:23] Petty Officer Second Class Arnold Jackson<STEAM_0:1:127409364> spawned ragdoll models/kriegsyntax/imperial/navy/shuttlepilots/npc_male_01.mdl
+[23:16:33] Petty Officer Second Class Arnold Jackson: /charsetmodel barth models/kriegsyntax/imperial/navy/shuttlepilots/playermodel_male_01.mdl
+[23:16:49] Sergeant Owen ''Bulwark'' Tump: .// models/sw1_tiepilot.mdl
+[23:17:04] Petty Officer Second Class Arnold Jackson: /charsetmodel bulwark models/ragdoll/markus/swbf2/characters/hero/imperial_pilots/pilot_imperial_orig_01_ragdoll/pilot_imperial_orig_01_ragdoll.mdl
+[23:17:09] Crewman Third Class Bartholomew Tump: models/player/markus/swbf2/characters/hero/imperial_pilots/pilot_imperial_orig_01/pilot_imperial_orig_01.mdl
+[23:17:23] Crewman Third Class Bartholomew Tump: models/player/markus/swbf2/characters/hero/imperial_pilots/pilot_imperial_orig_01/pilot_imperial_orig_01.mdl
+[23:17:24] Petty Officer Second Class Arnold Jackson: /charsetmodel barth Models/player/markus/swbf2/characters/hero/imperial_pilots/pilot_imperial_orig_01/pilot_imperial_orig_01.mdl.
+[23:17:24] Crewman Third Class Bartholomew Tump: models/player/markus/swbf2/characters/hero/imperial_pilots/pilot_imperial_orig_01/pilot_imperial_orig_01.mdl
+[23:17:29] Petty Officer Second Class Arnold Jackson: /charsetmodel barth Models/player/markus/swbf2/characters/hero/imperial_pilots/pilot_imperial_orig_01/pilot_imperial_orig_01.mdl
+[23:17:39] Petty Officer Second Class Arnold Jackson<STEAM_0:1:127409364> spawned ragdoll models/npc/markus/swbf2/characters/imperial/imperial_tanktrooper/imperial_tanktrooper_04.mdl
+[23:17:41] Petty Officer Second Class Arnold Jackson<STEAM_0:1:127409364> spawned ragdoll models/npc/markus/swbf2/characters/imperial/imperial_tanktrooper/imperial_tanktrooper_03.mdl
+[23:17:50] Petty Officer Second Class Arnold Jackson: /charsetmodel bulwark models/npc/markus/swbf2/characters/imperial/imperial_tanktrooper/imperial_tanktrooper_03.mdl
+[23:18:03] Petty Officer Second Class Arnold Jackson: /charsetmodel bulwark models/player/markus/swbf2/characters/imperial/imperial_tanktrooper/imperial_tanktrooper_03.mdl
+[23:18:44] Sergeant Owen ''Bulwark'' Tump: Barth, you will not disgrace the Tump name while in this army.
+[23:18:49] Sergeant Owen ''Bulwark'' Tump: Do you understand?
+[23:18:56] Crewman Third Class Bartholomew Tump: /me nods head rapitally
+[23:19:13] Sergeant Owen ''Bulwark'' Tump: You will do what you're told and annihilate the enemy before dying with them.
+[23:19:28] Sergeant Owen ''Bulwark'' Tump: We will not disgrace our name nor will we disgrace the Ni'Shaw.
+[23:19:35] Sergeant Owen ''Bulwark'' Tump: You may go.\
+[23:19:37] Crewman Third Class Bartholomew Tump: Yes
+[23:19:48] Lieutenant Shunk Tump: My boys
+[23:19:50] Crewman Third Class Bartholomew Tump: /me stares at father
+[23:19:55] Sergeant Owen ''Bulwark'' Tump: Good day, Father.
+[23:20:05] Crewman Third Class Bartholomew Tump: Greatings, father
+[23:20:07] Lieutenant Shunk Tump: I see you've been accepted
+[23:20:15] Crewman Third Class Bartholomew Tump: Yes
+[23:20:28] Sergeant Owen ''Bulwark'' Tump: I have instructed him to not disgrace our name nor the Ni'Shaw.
+[23:20:55] Lieutenant Shunk Tump: Good, do report if he proceeds to do such things
+[23:21:01] Sergeant Owen ''Bulwark'' Tump: Of course
+[23:22:12] Sergeant Owen ''Bulwark'' Tump: .// Shafar
+[23:22:56] Sergeant Owen ''Bulwark'' Tump: .// Ni'Shaw-Dak followers believed that innocent people following other religions were doomed, and thus killing them was not wrong.
+[23:23:44] Lieutenant Shunk Tump: /chargiveflag bartholomew P
+[23:34:31] Crewman Third Class Bartholomew Tump: /action sit
+[23:35:06] Lieutenant Shunk Tump: /chargiveflag bartholomew pet
+[23:35:16] Crewman Third Class Bartholomew Tump<STEAM_0:0:143523274> spawned model models/gibs/antlion_gib_large_2.mdl
+[23:35:39] Crewman Third Class Bartholomew Tump<STEAM_0:0:143523274> spawned model models/gibs/antlion_gib_large_2.mdl
+[23:35:53] Crewman Third Class Bartholomew Tump<STEAM_0:0:143523274> spawned model models/props_c17/metalpot002a.mdl
+[23:35:58] Crewman Third Class Bartholomew Tump<STEAM_0:0:143523274> spawned model models/gibs/antlion_gib_large_2.mdl
+[23:37:19] Crewman Third Class Bartholomew Tump<STEAM_0:0:143523274> spawned model models/props_c17/metalpot002a.mdl
+[23:37:25] Crewman Third Class Bartholomew Tump<STEAM_0:0:143523274> spawned model models/gibs/antlion_gib_large_2.mdl
+[23:38:24] Crewman Third Class Bartholomew Tump<STEAM_0:0:143523274> spawned model models/props_c17/furniturestove001a.mdl
+[23:41:21] Lieutenant Shunk Tump<STEAM_0:1:127409364> spawned ragdoll models/carlwheezer/playermodels/carlwheezer.mdl
+[23:42:31] Lieutenant Shunk Tump<STEAM_0:1:127409364> spawned model models/cire992/props/kitchen05.mdl
+[23:43:40] Lieutenant Shunk Tump: /toggleraise
+[23:43:44] Lieutenant Shunk Tump: /toggleraise
+[23:43:50] Lieutenant Shunk Tump: /toggleraise
+[23:43:52] Lieutenant Shunk Tump: /toggleraise
+[23:44:11] Lieutenant Shunk Tump: /toggleraise
+[23:44:16] Crewman Third Class Bartholomew Tump<STEAM_0:0:143523274> spawned model models/noesis/donut.mdl
+[23:44:41] Crewman Third Class Bartholomew Tump killed Lieutenant Shunk Tump using weapon_lightsaber
+[23:44:45] Sergeant Owen ''Bulwark'' Tump killed Crewman Third Class Bartholomew Tump using rw_sw_e11
+[23:44:54] Lieutenant Shunk Tump: /toggleraise
+[23:45:07] Lieutenant Shunk Tump killed Sergeant Owen ''Bulwark'' Tump using weapon_lightsaber
+[23:45:16] Lieutenant Shunk Tump brought Crewman Third Class Bartholomew Tump
+[23:45:16] Lieutenant Shunk Tump: !bring barth
+[23:45:56] Lieutenant Shunk Tump suicided!
+[23:45:56] Lieutenant Shunk Tump slayed Themself
+[23:45:56] Lieutenant Shunk Tump: !slay shunk
+[23:46:06] Crewman Third Class Bartholomew Tump<STEAM_0:0:143523274> spawned model models/props_phx/misc/egg.mdl
+[23:46:07] Crewman Third Class Bartholomew Tump<STEAM_0:0:143523274> spawned model models/props_phx/misc/egg.mdl
+[23:46:10] Lieutenant Shunk Tump: /toggleraise
+[23:46:10] Crewman Third Class Bartholomew Tump<STEAM_0:0:143523274> spawned model models/props_phx/misc/egg.mdl
+[23:46:11] Crewman Third Class Bartholomew Tump<STEAM_0:0:143523274> spawned model models/props_phx/misc/egg.mdl
+[23:46:13] Crewman Third Class Bartholomew Tump<STEAM_0:0:143523274> spawned model models/props_phx/misc/egg.mdl
+[23:46:14] Crewman Third Class Bartholomew Tump<STEAM_0:0:143523274> spawned model models/props_phx/misc/egg.mdl
+[23:46:15] Crewman Third Class Bartholomew Tump<STEAM_0:0:143523274> spawned model models/props_phx/misc/egg.mdl
+[23:46:16] Crewman Third Class Bartholomew Tump<STEAM_0:0:143523274> spawned model models/props_phx/misc/egg.mdl
+[23:46:20] Crewman Third Class Bartholomew Tump: mmm eggs
+[23:46:22] Crewman Third Class Bartholomew Tump<STEAM_0:0:143523274> spawned model models/props_phx/misc/egg.mdl
+[23:46:23] Lieutenant Shunk Tump: !bring bulkwark
+[23:46:25] Crewman Third Class Bartholomew Tump<STEAM_0:0:143523274> spawned model models/props_phx/misc/egg.mdl
+[23:46:27] Lieutenant Shunk Tump brought Sergeant Owen ''Bulwark'' Tump
+[23:46:27] Lieutenant Shunk Tump: !bring bul
+[23:46:28] Crewman Third Class Bartholomew Tump<STEAM_0:0:143523274> spawned model models/noesis/donut.mdl
+[23:47:01] Crewman Third Class Bartholomew Tump: /looc /me eggs doughnuts house
+[23:47:02] Crewman Third Class Bartholomew Tump<STEAM_0:0:143523274> spawned model models/props_phx/misc/egg.mdl
+[23:47:10] Crewman Third Class Bartholomew Tump<STEAM_0:0:143523274> spawned model models/props_phx/misc/egg.mdl
+[23:47:13] Lieutenant Shunk Tump: /toggleraise
+[23:47:14] Crewman Third Class Bartholomew Tump<STEAM_0:0:143523274> spawned model models/props_phx/misc/egg.mdl
+[23:47:15] Crewman Third Class Bartholomew Tump<STEAM_0:0:143523274> spawned model models/props_phx/misc/egg.mdl
+[23:47:16] Sergeant Owen ''Bulwark'' Tump: .// You have disgraced the Ni'Shaw, I shall slay you.
+[23:47:18] Crewman Third Class Bartholomew Tump<STEAM_0:0:143523274> spawned model models/props_phx/misc/egg.mdl
+[23:47:20] Crewman Third Class Bartholomew Tump<STEAM_0:0:143523274> spawned model models/props_phx/misc/egg.mdl
+[23:47:23] Lieutenant Shunk Tump killed Crewman Third Class Bartholomew Tump using weapon_lightsaber
+[23:47:38] Crewman Third Class Bartholomew Tump: // tp back loser
+[23:47:40] Lieutenant Shunk Tump gave Sergeant Owen ''Bulwark'' Tump 1000 rounds
+[23:47:40] Lieutenant Shunk Tump: !giveammo owen 1000
+[23:47:45] Lieutenant Shunk Tump brought Crewman Third Class Bartholomew Tump
+[23:47:45] Lieutenant Shunk Tump: !bring barth
+[23:47:49] Crewman Third Class Bartholomew Tump<STEAM_0:0:143523274> spawned model models/props_phx/cannon.mdl
+[23:47:53] Lieutenant Shunk Tump: /toggleraise
+[23:48:31] Crewman Third Class Bartholomew Tump<STEAM_0:0:143523274> spawned model models/props_phx/misc/potato.mdl
+[23:48:42] Sergeant Owen ''Bulwark'' Tump: Father, could you please tell us stories of the Ni'Shaw warriors?
+[23:48:49] Lieutenant Shunk Tump: Yes my child
+[23:48:51] Crewman Third Class Bartholomew Tump: /me places potato for family
+[23:48:53] Crewman Third Class Bartholomew Tump<STEAM_0:0:143523274> spawned model models/props_phx/misc/potato.mdl
+[23:48:54] Crewman Third Class Bartholomew Tump<STEAM_0:0:143523274> spawned model models/props_phx/misc/potato.mdl
+[23:48:58] Crewman Third Class Bartholomew Tump: Dinner
+[23:49:02] Lieutenant Shunk Tump suicided!
+[23:49:02] Lieutenant Shunk Tump slayed Themself
+[23:49:02] Lieutenant Shunk Tump: !slay shunk
+[23:49:04] Crewman Third Class Bartholomew Tump<STEAM_0:0:143523274> spawned model models/props_phx/misc/soccerball.mdl
+[23:49:07] Lieutenant Shunk Tump teleported to Sergeant Owen ''Bulwark'' Tump
+[23:49:07] Lieutenant Shunk Tump: !goto bulwa
+[23:49:27] Sergeant Owen ''Bulwark'' Tump killed Crewman Third Class Bartholomew Tump using rw_sw_e11
+[23:49:35] Lieutenant Shunk Tump suicided!
+[23:49:35] Lieutenant Shunk Tump slayed Themself
+[23:49:35] Lieutenant Shunk Tump: !slay shunk
+[23:49:42] Lieutenant Shunk Tump teleported to Sergeant Owen ''Bulwark'' Tump
+[23:49:42] Lieutenant Shunk Tump: !goto bulwa
+[23:49:46] Dropped "Lieutenant Shunk Tump" from server<STEAM_0:1:127409364>
+[23:49:47] Client "Doughnut" connected.
+[23:50:37] Client "Doughnut" spawned in server <STEAM_0:1:127409364> (took 50 seconds).
+[23:51:05] Sergeant Owen ''Bulwark'' Tump killed Crewman Third Class Bartholomew Tump using rw_sw_e11
+[23:54:06] Lieutenant Shunk Tump<STEAM_0:1:127409364> spawned model models/hunter/blocks/cube05x05x025.mdl
+[23:54:11] Crewman Third Class Bartholomew Tump<STEAM_0:0:143523274> spawned model models/props_vehicles/truck001a.mdl
+[23:54:21] Crewman Third Class Bartholomew Tump<STEAM_0:0:143523274> spawned model models/weapons/w_smg_p90.mdl
+[23:54:37] Crewman Third Class Bartholomew Tump: Your not you without a p-90
+[23:55:00] Sergeant Owen ''Bulwark'' Tump killed Crewman Third Class Bartholomew Tump using rw_sw_e11
+[23:55:53] Sergeant Owen ''Bulwark'' Tump: Are we the last of the Ni'Shaw-Dak, father?
+[23:56:29] Lieutenant Shunk Tump: Possibly, our religion is old and scarce in the universe, but some believe the Zulirian swordmasters to still walk among us
+[23:56:56] Sergeant Owen ''Bulwark'' Tump: I hope they still are.
+[23:57:00] Lieutenant Shunk Tump: As do I
+[23:58:50] Sergeant Owen ''Bulwark'' Tump: Father, I will bring glory to the Ni'Shaw and our family.
+[23:58:59] Lieutenant Shunk Tump: I hope so
+[23:59:18] Lieutenant Shunk Tump: We shall show all the known sectors of our power
+[23:59:46] Sergeant Owen ''Bulwark'' Tump: .// DOUGHNUT
+[23:59:58] Sergeant Owen ''Bulwark'' Tump: .// I will join a seperate VC, we can still talk in IC if you so wish.
+<Logging continued in "data/ulx_logs/05-14-21.txt">

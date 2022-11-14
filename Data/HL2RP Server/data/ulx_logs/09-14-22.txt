@@ -1,0 +1,492 @@
+[03:18:18] New map: rp_industrial17_v1
+
+
+
+[05:40:15] New map: rp_industrial17_v1
+[14:06:44] Client "Nums" connected.
+[14:10:37] Client "Nums" spawned in server <STEAM_0:1:196547442> (took 233 seconds).
+[14:11:34] Nums<STEAM_0:1:196547442> changed their name to Finan O'Conall
+[14:27:03] Finan O'Conall was killed by npc_zombie
+[14:29:17] Finan O'Conall was killed by npc_zombine
+[17:04:13] Client "Meme_Lord_Satan" connected.
+[17:13:25] Client "TheBloodMaster" connected.
+[17:19:28] Client "TheBloodMaster" connected.
+[17:19:46] Client "TheBloodMaster" connected.
+[17:45:57] Client "wendigo" connected.
+[17:46:47] Client "wendigo" connected.
+[17:55:46] Client "wendigo" spawned in server <STEAM_0:1:429480781> (took 539 seconds).
+[17:59:27] wendigo<STEAM_0:1:429480781> changed their name to Jason
+[18:01:18] Jason: /content
+[18:03:38] Jason: /discord
+[18:04:04] Jason: !dispatch
+[18:12:07] Dropped "Jason" from server<STEAM_0:1:429480781>
+[19:21:45] Client "The Free Mann" connected.
+[20:48:23] Dropped "Finan O'Conall" from server<STEAM_0:1:196547442>
+[21:39:55] Client "stieman1981" connected.
+[21:44:23] Client "stieman1981" spawned in server <STEAM_0:1:47597058> (took 268 seconds).
+[21:45:02] Dropped "stieman1981" from server<STEAM_0:1:47597058>
+[22:27:35] Client "matt saton" connected.
+[22:27:52] Client "Bean" connected.
+[22:28:59] Client "Bean" spawned in server <STEAM_0:1:591779303> (took 67 seconds).
+[22:29:25] Bean<STEAM_0:1:591779303> changed their name to Alex Palovichov
+[22:30:09] Alex Palovichov: Hm
+[22:30:40] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 185 seconds).
+[22:31:29] Alex Palovichov: hUH
+[22:31:36] Alex Palovichov: New vending machines...
+[22:31:44] Alex Palovichov: Didn't see these get installed...
+[22:52:09] Client "The Free Mann" connected.
+[23:02:40] matt saton<STEAM_0:1:53097688> changed their name to CCA.C17-GRID.i3.10945
+[23:02:47] CCA.C17-GRID.i3.10945: //hlelo
+[23:02:53] Alex Palovichov: /ooc hllo
+[23:02:54] CCA.C17-GRID.i3.10945 added Alex Palovichov to group trialmod
+[23:02:58] CCA.C17-GRID.i3.10945: //alright so
+[23:03:01] CCA.C17-GRID.i3.10945: //first thing is most important
+[23:03:07] CCA.C17-GRID.i3.10945: //go to your helix settings
+[23:03:14] CCA.C17-GRID.i3.10945: //and if you like, turn off observer reset
+[23:03:24] CCA.C17-GRID.i3.10945: //so when you go into noclip and leave it, it won't teleport you back where you started
+[23:03:33] CCA.C17-GRID.i3.10945: //you cna leave it on if you want but i don't recommend it
+[23:03:40] Alex Palovichov: /ooc Alr
+[23:04:39] CCA.C17-GRID.i3.10945: //alright so noclip is fairly normal
+[23:04:48] CCA.C17-GRID.i3.10945: //biggest thing is to not turn on your flashlight or keep out your physgun when in observer
+[23:04:51] CCA.C17-GRID.i3.10945: //it's bad for immersion
+[23:05:00] Alex Palovichov: /ooc Yeah, I saw that happen a few times
+[23:05:04] CCA.C17-GRID.i3.10945: //yeah
+[23:05:22] CCA.C17-GRID.i3.10945: //our admin tool we use is ULX
+[23:05:31] CCA.C17-GRID.i3.10945: //i recommend using the console for your commands
+[23:05:41] CCA.C17-GRID.i3.10945: //because you can use them in chat but when you send the command, it actually gets sent in IC chat
+[23:05:53] Alex Palovichov: /ooc Ah okay
+[23:06:08] CCA.C17-GRID.i3.10945: //you can also use the ULX menu but it's not very fast
+[23:06:22] Alex Palovichov: /ooc How?
+[23:06:29] CCA.C17-GRID.i3.10945: //!menu or ulx menu in chat
+[23:06:34] Alex Palovichov: !menu
+[23:06:35] CCA.C17-GRID.i3.10945: //sorry, !menu in chat or ulx menu in console
+[23:06:43] Alex Palovichov: /ooc Ah I see
+[23:06:56] CCA.C17-GRID.i3.10945: //when you're dioing ULX stuff in the console, you can run your commands by just putting the name of the command after "ulx "
+[23:07:01] CCA.C17-GRID.i3.10945: //without the quotes
+[23:07:23] Alex Palovichov: /ooc Alr
+[23:07:23] CCA.C17-GRID.i3.10945: //so "ulx kick Name 'Minging, no intent to RP, come back later.'
+[23:07:36] Alex Palovichov: /ooc Would I need the '
+[23:07:45] CCA.C17-GRID.i3.10945: //you would need to use a double quote for the reason yes
+[23:07:50] Alex Palovichov: /ooc Alr
+[23:07:58] CCA.C17-GRID.i3.10945: //if you're passing an argument that has any spaces you put it in double quotes
+[23:08:12] Alex Palovichov: /ooc Alr
+[23:08:13] CCA.C17-GRID.i3.10945: //the commands for helix aren't in ULX, those are actual / commands
+[23:08:33] CCA.C17-GRID.i3.10945: //the most you'll be using are /charsetname, /charsetskin, /chareditbodygroup
+[23:08:47] CCA.C17-GRID.i3.10945: //the chat shows command descriptions as you type them as you're aware from regular, non-staff stuffw
+[23:08:58] CCA.C17-GRID.i3.10945: //i don't know if i gave trialmods the ability to use it
+[23:09:02] CCA.C17-GRID.i3.10945: //but you might be using the admin spawn menu
+[23:09:07] CCA.C17-GRID.i3.10945: //the command for that is /adminspawnmenu
+[23:09:13] Alex Palovichov: /adminspawnmenu
+[23:09:18] CCA.C17-GRID.i3.10945: //i'd prefer you try to avoid spawning items whenever possible but sometimes you need to and that's fine
+[23:09:20] Alex Palovichov: /ooc Nope, doesn't work
+[23:09:29] CCA.C17-GRID.i3.10945: //alright i'll need to grant you permission for that
+[23:09:43] CCA.C17-GRID.i3.10945: //but when you're using it, it's organized by categories
+[23:09:46] Alex Palovichov: /ooc So, would I only spawn items in like a GM situation?
+[23:09:50] CCA.C17-GRID.i3.10945: //exactly
+[23:10:01] Alex Palovichov: /ooc Yeah, makes sense
+[23:10:08] CCA.C17-GRID.i3.10945: //i like to hide loot around usually but i'd prefer if you clear loot spawning with us while you're in trialmod
+[23:10:30] CCA.C17-GRID.i3.10945: //until we know you've got your amounts and jhudgement down
+[23:10:30] Alex Palovichov: /ooc Alright
+[23:10:37] Alex Palovichov: /ooc Yeah, makes sense
+[23:10:53] CCA.C17-GRID.i3.10945: //i trust you personally but some of it is just making sure we're on the same wavelength
+[23:11:05] Alex Palovichov: /ooc And by clear loot spawning, does tha tmean...go around the map and "BZZZZZ" all the loose items?
+[23:11:21] CCA.C17-GRID.i3.10945: //yeah, we use...
+[23:11:31] CCA.C17-GRID.i3.10945: //so go into your weapons in your spawn menu, go into the HL2 RP category
+[23:11:46] CCA.C17-GRID.i3.10945: /charsetthirst grid 100]
+[23:11:47] CCA.C17-GRID.i3.10945: /charsetthirst grid 100
+[23:11:55] CCA.C17-GRID.i3.10945: //it's something called "plasma immolator"
+[23:11:55] Alex Palovichov: /ooc The handcannon?
+[23:11:59] Alex Palovichov: /ooc Oh
+[23:12:04] CCA.C17-GRID.i3.10945: //it's not something we normally give
+[23:12:07] CCA.C17-GRID.i3.10945: //i set it up on the fly
+[23:12:12] Client "The Free Mann" connected.
+[23:12:17] CCA.C17-GRID.i3.10945: //but it's a rework and reskin of the gluon gun 
+[23:12:21] CCA.C17-GRID.i3.10945: //it doesn't run out of ammo
+[23:12:30] CCA.C17-GRID.i3.10945: //you just BRRRRR on loose trash and as long as you get a direct hit
+[23:12:32] Alex Palovichov: /ooc Ah alr
+[23:12:36] CCA.C17-GRID.i3.10945: //then it'll destroy the item
+[23:12:42] Alex Palovichov: /ooc Wait in Hl2rp catagory?
+[23:12:50] CCA.C17-GRID.i3.10945: //oh sorry it's not in that category
+[23:12:54] Alex Palovichov: /ooc Ah
+[23:13:01] Alex Palovichov: /ooc Beta Swep?
+[23:13:07] CCA.C17-GRID.i3.10945: //it's in the "SLVbase - half-life renaissance sweps" category
+[23:13:12] CCA.C17-GRID.i3.10945: //plasma immolator
+[23:13:15] Alex Palovichov: /ooc Ah I see it
+[23:13:18] CCA.C17-GRID.i3.10945: //kinda yeah
+[23:13:25] CCA.C17-GRID.i3.10945: //i assembled it in a hurry
+[23:13:34] CCA.C17-GRID.i3.10945: //we don't give it to players normally unless it's pain wanting to clear out trash
+[23:13:43] CCA.C17-GRID.i3.10945: //but i would prefer if you cleared out trash when not much is going on
+[23:13:50] CCA.C17-GRID.i3.10945: //just try to be mindful of what looks like a player stash and what doesn't
+[23:13:50] Alex Palovichov: /ooc Yeah alr
+[23:13:54] CCA.C17-GRID.i3.10945: //idk if item ESP is default
+[23:14:04] CCA.C17-GRID.i3.10945: //first off is your admin ESP on by defualt
+[23:14:08] CCA.C17-GRID.i3.10945: //can you see my name
+[23:14:11] Alex Palovichov: /ooc Yeah
+[23:14:13] CCA.C17-GRID.i3.10945: //awesome
+[23:14:16] CCA.C17-GRID.i3.10945: //is it telling you where items are?
+[23:14:28] Alex Palovichov: /ooc Uhh, I don't see any currently...might have to turn it off and on
+[23:14:40] CCA.C17-GRID.i3.10945: //no, you go to your helix settings and turn on optItemESP
+[23:14:45] Alex Palovichov: /ooc Yeah ik
+[23:14:47] CCA.C17-GRID.i3.10945: //i don't keep that oin at all times
+[23:14:48] Alex Palovichov: /ooc It is on
+[23:14:49] CCA.C17-GRID.i3.10945: //gotcha gotcha
+[23:14:55] Alex Palovichov: /ooc Still doesn't show tho...
+[23:15:01] CCA.C17-GRID.i3.10945: //it might be because of your rank?
+[23:15:06] Alex Palovichov: /ooc Maybe
+[23:15:09] CCA.C17-GRID.i3.10945 added Alex Palovichov to group superadmin
+[23:15:11] CCA.C17-GRID.i3.10945: //what about now
+[23:15:12] Alex Palovichov: /ooc OHH
+[23:15:14] Alex Palovichov: /ooc YEAH
+[23:15:14] CCA.C17-GRID.i3.10945: //eah
+[23:15:17] CCA.C17-GRID.i3.10945 added Alex Palovichov to group trialmod
+[23:15:25] CCA.C17-GRID.i3.10945: //i'll have to fix that in the rank stuff
+[23:15:32] CCA.C17-GRID.i3.10945: //idon't keep it on all the time
+[23:15:42] CCA.C17-GRID.i3.10945: //let's see, what else
+[23:15:44] CCA.C17-GRID.i3.10945: //do you have any questions for me
+[23:15:49] Client "The Free Mann" spawned in server <STEAM_0:0:197396133> (took 217 seconds).
+[23:16:05] Alex Palovichov: /ooc Yeah...When someone makes a @ where would it show? Like in chat?
+[23:16:32] Alex Palovichov: /ooc Cause last time I modded was on...Axions HL2RP...and a DarkRP...But I hate talking bout that one
+[23:16:42] CCA.C17-GRID.i3.10945: //oh yes! it shows in chat
+[23:16:45] CCA.C17-GRID.i3.10945 to admins: like this
+[23:16:46] Alex Palovichov: /ooc Ah alrighty
+[23:16:52] Alex Palovichov: /ooc Coolio
+[23:17:03] Alex Palovichov: /ooc And when I need to TP, I use ULX...and their name? Or Steam ID?
+[23:17:08] CCA.C17-GRID.i3.10945: //ttheir name
+[23:17:11] Alex Palovichov: /ooc Ah okay
+[23:17:17] CCA.C17-GRID.i3.10945: //in console it's "ulx tp [name]"
+[23:17:56] Alex Palovichov: /ooc Could I quickly try it out?
+[23:18:10] CCA.C17-GRID.i3.10945: //for sure
+[23:18:14] CCA.C17-GRID.i3.10945: //try out anything
+[23:18:35] Alex Palovichov: /ooc So Ulx tp... name
+[23:18:44] Alex Palovichov: /ooc Is it "teleport" or "tp"
+[23:18:57] Alex Palovichov: /ooc Cause I see teleport...not tp
+[23:19:08] CCA.C17-GRID.i3.10945: //sorry, my bad it is teleport
+[23:19:15] Alex Palovichov: /ooc Ah oki
+[23:19:15] CCA.C17-GRID.i3.10945: //i'm used to using muscle memory in all honesty
+[23:19:21] Alex Palovichov: /ooc I think I got it
+[23:19:42] CCA.C17-GRID.i3.10945: //uhh so let's see, basic IC information
+[23:19:46] CCA.C17-GRID.i3.10945: //the current year is 2006, the war was in 2003
+[23:19:57] CCA.C17-GRID.i3.10945: //we have the suppression feld
+[23:20:04] Alex Palovichov: /ooc Of course...
+[23:20:06] CCA.C17-GRID.i3.10945: //children were not killed, though, they were taken to work camps
+[23:20:06] The Free Mann<STEAM_0:0:197396133> changed their name to Oliver Jones
+[23:20:30] CCA.C17-GRID.i3.10945: //the IC propaganda version of the story is they were taken to living facilities that were safe for children
+[23:20:30] CCA.C17-GRID.i3.10945: /toggleraise
+[23:20:32] CCA.C17-GRID.i3.10945: /toggleraise
+[23:20:36] CCA.C17-GRID.i3.10945: //welcome, oliver!
+[23:20:40] Oliver Jones: // Hello
+[23:20:43] Alex Palovichov: /ooc Welcome!
+[23:20:44] CCA.C17-GRID.i3.10945: //i'll be right over to process you
+[23:20:52] CCA.C17-GRID.i3.10945: //huh, the trialmod icon isn't shovving up
+[23:20:55] CCA.C17-GRID.i3.10945: //i'll look into that
+[23:20:56] Oliver Jones: // Please refill my hp the damn gas removed some of it.
+[23:20:58] Alex Palovichov: /ooc It was...
+[23:21:00] CCA.C17-GRID.i3.10945 set the hp for Oliver Jones to 100
+[23:21:07] CCA.C17-GRID.i3.10945: Step back.
+[23:21:18] CCA.C17-GRID.i3.10945: Too far. I just meant a few steps.
+[23:21:48] Oliver Jones: /me takes out his transfer card from his pocket, "Here is my card, officer."
+[23:22:00] Alex Palovichov: /ooc Ah I see, console makes everything easier...
+[23:22:06] CCA.C17-GRID.i3.10945: Perfect.
+[23:22:21] CCA.C17-GRID.i3.10945: /me takes the coupon and looks it over in the light, checking to make sure it's not counterfeit.
+[23:22:27] CCA.C17-GRID.i3.10945: one moment
+[23:22:37] CCA.C17-GRID.i3.10945: /me inserts the coupon into the machine on the wall.
+[23:22:48] CCA.C17-GRID.i3.10945: /chargiveflag alex ncrC
+[23:23:11] CCA.C17-GRID.i3.10945: Alright, I've got a few questions for you.
+[23:23:12] Oliver Jones: // How do I get guns?
+[23:23:17] Oliver Jones: Ok?
+[23:23:44] CCA.C17-GRID.i3.10945: //steal them from a CP or get attention from a black market dealer and they'll be willing to deal with you
+[23:23:50] CCA.C17-GRID.i3.10945: /me takes out his PDA as he speaks.
+[23:23:54] Alex Palovichov: /ooc Mmmm...BMD...
+[23:23:54] CCA.C17-GRID.i3.10945: Alright, first off, I need your date of birth.]
+[23:24:00] CCA.C17-GRID.i3.10945: .//current year is 2006, war was in 2003
+[23:24:05] CCA.C17-GRID.i3.10945: .//so the minimum year to be born is 1985
+[23:24:19] CCA.C17-GRID.i3.10945 to admins: any questions for me so far
+[23:24:37] Oliver Jones: May 5th, 1965
+[23:25:03] CCA.C17-GRID.i3.10945: Alright...
+[23:25:05] CCA.C17-GRID.i3.10945: /viewdata oliver
+[23:25:32] CCA.C17-GRID.i3.10945: And you're a male, correct?
+[23:25:34] CCA.C17-GRID.i3.10945: /viewdata oliver
+[23:25:39] CCA.C17-GRID.i3.10945 to admins: oh, big thing
+[23:25:41] Alex Palovichov to admins: Mmm, Would I be able to just...put a random /it here and there whenever someone is doing something to add to atmosphere? Like in the sewers "A shiver goes down your spine...You feel as if you are being watched"
+[23:25:57] Oliver Jones: Yes
+[23:26:00] Alex Palovichov to admins: grumble grumble...Chat limits...
+[23:26:05] CCA.C17-GRID.i3.10945 to admins: yeah, that's fair game. just try not to force feelings or things directly onto people
+[23:26:10] CCA.C17-GRID.i3.10945 to admins: you can, hold on
+[23:26:14] CCA.C17-GRID.i3.10945: And then.. Do you know your blood type?
+[23:26:17] Oliver Jones: Yes
+[23:26:19] Oliver Jones: A+
+[23:26:20] CCA.C17-GRID.i3.10945: If not, no problem, I can mark it as unknown.
+[23:26:21] Alex Palovichov to admins: yeah yeah...Just sorta adding to something, not forcing...
+[23:26:21] CCA.C17-GRID.i3.10945: Fantastic.
+[23:26:23] CCA.C17-GRID.i3.10945: /viewdata oliver
+[23:26:48] CCA.C17-GRID.i3.10945: And then.. do you have any physical or mental problems?
+[23:26:57] Alex Palovichov to admins: A shiver goes down your spine...You feel as if you are being watched...Though, the feeling seems to fade
+[23:27:00] CCA.C17-GRID.i3.10945: This could be something minor or major, so, OCD, Eczema, a bad knee...
+[23:27:04] Alex Palovichov to admins: Sorta like that.
+[23:27:09] Oliver Jones: None
+[23:27:35] CCA.C17-GRID.i3.10945 to admins: i'd say that counts as forcing feelings onto someone. the idea is great but try to avoid telling the player how they feel. give them an environmental thing but don't tell them their own response to it
+[23:27:39] CCA.C17-GRID.i3.10945: Alright..
+[23:27:41] CCA.C17-GRID.i3.10945: /viewdata oliver
+[23:27:42] Alex Palovichov to admins: Ahhh
+[23:27:46] Alex Palovichov to admins: Okay
+[23:27:47] CCA.C17-GRID.i3.10945: That'll do it.
+[23:27:55] CCA.C17-GRID.i3.10945: You can get filters from the CHANGE store or any of the vending machines.
+[23:28:04] CCA.C17-GRID.i3.10945 to admins: sorry ulx chat limit is bad
+[23:28:20] CCA.C17-GRID.i3.10945: There are also other local stores, but when those are closed, the CHANGE store is always open.
+[23:28:30] Oliver Jones: Alright thanks
+[23:28:31] CCA.C17-GRID.i3.10945: Any time you're near an air vent, you're safe to take off your suit.
+[23:28:39] CCA.C17-GRID.i3.10945: You can also buy a respirator which doesn't take filters and is less invasive.
+[23:28:44] CCA.C17-GRID.i3.10945: See that piece of Combine tech behind you?
+[23:28:54] Oliver Jones: Yes
+[23:28:55] CCA.C17-GRID.i3.10945: That's an air vent
+[23:29:11] CCA.C17-GRID.i3.10945: .//you know whetehr or not if it's one for sure by directly looking at it
+[23:29:16] CCA.C17-GRID.i3.10945: .//they have tooltips if they're functioning
+[23:29:27] CCA.C17-GRID.i3.10945: Any questions for me?
+[23:29:31] Oliver Jones: Nope
+[23:29:34] CCA.C17-GRID.i3.10945: Alright..
+[23:29:38] CCA.C17-GRID.i3.10945: /me holds out the man's CID for him to take.
+[23:30:07] CCA.C17-GRID.i3.10945: .//If you have any questions feel free to send either myself or Alex a message. I'm the owner and Alex is our new trialmod in training.
+[23:30:19] CCA.C17-GRID.i3.10945: .//you cna join the discord with /discord if you like, and you can get the content with /content
+[23:30:25] Oliver Jones: /discord
+[23:30:26] CCA.C17-GRID.i3.10945: /me steps out of the way for the citizen to go through the forcefield.
+[23:30:39] Oliver Jones: Thanks
+[23:30:50] CCA.C17-GRID.i3.10945 to admins: alright back
+[23:31:00] CCA.C17-GRID.i3.10945 to admins: but yeah, try to give strictly envrinomental descriptions
+[23:31:11] CCA.C17-GRID.i3.10945 to admins: if they ask you for a description of their wound, that's fine, that's your place to decide more or less
+[23:31:16] CCA.C17-GRID.i3.10945 to admins: but emotions are a big tihng to avoid forcing
+[23:31:21] CCA.C17-GRID.i3.10945 to admins: uhhhh a really big thing
+[23:31:32] CCA.C17-GRID.i3.10945 to admins: no NSFW content. at all
+[23:31:37] Alex Palovichov to admins: Of course
+[23:31:40] CCA.C17-GRID.i3.10945 to admins: lot of minors here, and there's no good way to regular who is and isn't a minor
+[23:31:52] CCA.C17-GRID.i3.10945 to admins: i don't want to be a vehicle for grooming or anything so
+[23:31:53] Alex Palovichov to admins: 100%
+[23:32:00] CCA.C17-GRID.i3.10945 to admins: to regulate*
+[23:32:09] Alex Palovichov to admins: I'm presuming a perm ban for anyone caught?
+[23:32:26] CCA.C17-GRID.i3.10945 to admins: depends on the circumstnaces. chicken will make jokes that are more or less sexual
+[23:32:37] CCA.C17-GRID.i3.10945 to admins: i just tend to message him and be like "hey. don't do that."
+[23:32:42] CCA.C17-GRID.i3.10945 to admins: or whatever
+[23:33:00] Alex Palovichov to admins: Yeah...A talking to if its a joke...A ban if its like...ERP?
+[23:33:05] CCA.C17-GRID.i3.10945 to admins: yeah, exactly
+[23:33:10] Alex Palovichov to admins: alrighty
+[23:33:36] CCA.C17-GRID.i3.10945 to admins: biggest thing is just using your own discretion, and determining intent
+[23:33:43] Alex Palovichov to admins: Would this work? "A cold breeze radiates through the alleyway, discarded papers shuffling around..."
+[23:33:47] CCA.C17-GRID.i3.10945 to admins: yes, that's perfect
+[23:33:56] Alex Palovichov to admins: Alrighty, and of course
+[23:33:57] CCA.C17-GRID.i3.10945 to admins: a good example of something not to do was on willard
+[23:34:02] CCA.C17-GRID.i3.10945 to admins: i had a lot of xenian stuff in my lungs
+[23:34:09] CCA.C17-GRID.i3.10945 to admins: and an admin did a /it of me suddenly going into a coughing fit
+[23:34:15] CCA.C17-GRID.i3.10945 to admins: which is fair but i'd prefer to avoid doing that specifically
+[23:34:19] Alex Palovichov to admins: Oh my...Don't get me started on Willard...
+[23:34:29] Alex Palovichov to admins: I had that exact thing happen lmao
+[23:34:34] CCA.C17-GRID.i3.10945 to admins: instead i'd send a PM saying "hey, given the amount of xenian stuff in your lungs, you should start coughing or reacting in some way"
+[23:34:39] CCA.C17-GRID.i3.10945 to admins: ..in some way
+[23:34:47] CCA.C17-GRID.i3.10945 to admins: just like a friendly heads up
+[23:34:55] Alex Palovichov to admins: Ah alright, so a heads up to tell them about IC problems...
+[23:35:03] Alex Palovichov to admins: like if you were injured...you should react a bit
+[23:35:22] CCA.C17-GRID.i3.10945 to admins: yeah, basically. giving them a friendly notice to remind them they should probably react
+[23:35:30] CCA.C17-GRID.i3.10945 to admins: instead of directly telling them their reaction
+[23:35:36] CCA.C17-GRID.i3.10945 to admins: unless that reaction is like, being shot in the heart and dying, obviously
+[23:35:43] Alex Palovichov to admins: Yeah, let them react to it the way they want to?
+[23:35:46] CCA.C17-GRID.i3.10945 to admins: exactly
+[23:35:53] Alex Palovichov to admins: Since they know their char more than I do
+[23:35:59] CCA.C17-GRID.i3.10945 to admins: you get it
+[23:36:20] CCA.C17-GRID.i3.10945 to admins: the command to do events is /event, it does the orange text thing
+[23:36:27] CCA.C17-GRID.i3.10945 to admins: you can use those for flavor text if you want
+[23:36:30] Alex Palovichov to admins: oh another thing...In like a combat RP...How should I determine the amount of shots/hits a person should take
+[23:36:41] CCA.C17-GRID.i3.10945 to admins: so i need to write the combat doc
+[23:36:44] CCA.C17-GRID.i3.10945 to admins: but in general
+[23:36:54] CCA.C17-GRID.i3.10945 to admins: if it's a hit, then it depends on the weapon
+[23:37:02] CCA.C17-GRID.i3.10945 to admins: if it's an MP7 or a pulse rifle or something automatic
+[23:37:08] CCA.C17-GRID.i3.10945 to admins: you have them roll out of 3, /roll 3
+[23:37:12] CCA.C17-GRID.i3.10945 to admins: and then add that roll to 5
+[23:37:16] CCA.C17-GRID.i3.10945 to admins: and that's the number of shots that are taken
+[23:37:21] Alex Palovichov to admins: Ah okay
+[23:37:27] CCA.C17-GRID.i3.10945 to admins: if it's a pistol, do 2 + /roll 3
+[23:37:29] Alex Palovichov to admins: Should I also tell them to miss a few if they do fire?
+[23:37:42] CCA.C17-GRID.i3.10945 to admins: that's something i need to work out, but for now no
+[23:37:46] Alex Palovichov to admins: ah okay
+[23:37:51] CCA.C17-GRID.i3.10945 to admins: that is subject to change when i write htedocument
+[23:38:06] Alex Palovichov to admins: So if they want to miss a few, they can? But its not required
+[23:38:28] CCA.C17-GRID.i3.10945 to admins: exactly
+[23:38:39] CCA.C17-GRID.i3.10945 to admins: if they're using a revolver, it's just 1 shot and that's it
+[23:38:43] CCA.C17-GRID.i3.10945 to admins: because it does a LOT of damage
+[23:38:46] CCA.C17-GRID.i3.10945 to admins: for Pks
+[23:38:58] CCA.C17-GRID.i3.10945 to admins: i need to write that down and get that worked out better
+[23:39:03] CCA.C17-GRID.i3.10945 to admins: but in general
+[23:39:06] CCA.C17-GRID.i3.10945 to admins: most deaths raen't a PK
+[23:39:11] Alex Palovichov to admins: Mostly NLR?
+[23:39:13] CCA.C17-GRID.i3.10945 to admins: it's only a PK at the moment if it's punishment for a cirme
+[23:39:16] CCA.C17-GRID.i3.10945 to admins: exactly
+[23:39:22] Alex Palovichov to admins: ah okay
+[23:39:23] CCA.C17-GRID.i3.10945 to admins: so if you're being amputated then it's a PK
+[23:39:28] CCA.C17-GRID.i3.10945 to admins: the player can also request a PK obviosuly
+[23:39:31] Oliver Jones: /content
+[23:39:41] Alex Palovichov to admins: Alright...What if its like a execution by like a rebel?
+[23:39:45] CCA.C17-GRID.i3.10945 to admins: but that's the mandatory punishment if it's a punishment for a crime
+[23:39:58] CCA.C17-GRID.i3.10945 to admins: that's a big time grey area. in the past we've done a PK for that
+[23:40:12] CCA.C17-GRID.i3.10945 to admins: like if a rebel takes out another rebel, or if it's a group of rebels especially
+[23:40:14] Alex Palovichov<STEAM_0:1:591779303> changed their name to James McKay
+[23:40:15] CCA.C17-GRID.i3.10945 to admins: then i'd say probably PK
+[23:40:24] CCA.C17-GRID.i3.10945 to admins: and it's meaningful
+[23:40:36] CCA.C17-GRID.i3.10945 to admins: if it's meaningful, in general it shoudl probably be a PK
+[23:40:38] James McKay: /y Why hello my friend!
+[23:40:38] Oliver Jones: /y hello
+[23:40:47] CCA.C17-GRID.i3.10945 to admins: but if it's just some dude brekaing down and shooting people because they're brekaing down
+[23:40:49] CCA.C17-GRID.i3.10945 to admins: no PK
+[23:40:51] James McKay: /me Would slide down the ladder
+[23:40:57] James McKay: You do well?
+[23:41:03] Oliver Jones: You almost scared me there.
+[23:41:03] CCA.C17-GRID.i3.10945 to admins: because their character has no investment in that, it's just a bad roll of the dice
+[23:41:04] James McKay to admins: Alr
+[23:41:05] Oliver Jones: Yep
+[23:41:07] Oliver Jones: I am doing well
+[23:41:11] CCA.C17-GRID.i3.10945 to admins: it's a big time gray area
+[23:41:11] James McKay: Good! Good!
+[23:41:13] Oliver Jones: Just scavenging and all
+[23:41:25] James McKay: Ah...Scavenging...Make ends meet eh?
+[23:41:27] James McKay: /me Chuckles
+[23:41:29] CCA.C17-GRID.i3.10945 to admins: but yeah, if it's very meaningful or punishment for a crime, probably PK
+[23:41:33] James McKay: Please...Come! Come!
+[23:41:42] James McKay: I not have much guests down here...
+[23:41:43] CCA.C17-GRID.i3.10945 to admins: but if they die from re-education given as a punishment
+[23:41:44] CCA.C17-GRID.i3.10945 to admins: no PK
+[23:41:46] Oliver Jones: /looc lemme install 
+[23:41:48] CCA.C17-GRID.i3.10945 to admins: only if it's amputations
+[23:41:49] James McKay to admins: Alrighty
+[23:41:50] Oliver Jones: /looc lemme install content
+[23:41:56] James McKay: /looc Oh of course
+[23:42:01] CCA.C17-GRID.i3.10945 to admins: am i making sense
+[23:42:01] James McKay: /looc /content
+[23:42:03] Oliver Jones: /looc I will reconnect
+[23:42:03] CCA.C17-GRID.i3.10945 to admins: it's hard to describe
+[23:42:08] James McKay: /looc Alrighty!
+[23:42:09] CCA.C17-GRID.i3.10945 to admins: i don't have this like, written out at the moment
+[23:42:12] Dropped "Oliver Jones" from server<STEAM_0:0:197396133>
+[23:42:14] James McKay to admins: Of course
+[23:42:16] CCA.C17-GRID.i3.10945 to admins: i need to do that
+[23:42:17] James McKay: /ooc rejoining
+[23:42:20] CCA.C17-GRID.i3.10945: //heard
+[23:42:20] James McKay: /ooc Content
+[23:42:23] James McKay: /ooc Oki dokie
+[23:42:36] Client "The Free Mann" connected.
+[23:42:40] CCA.C17-GRID.i3.10945: //what else...
+[23:42:43] James McKay to admins: If its a amputation for a crime then PK...Small sorta death ain't a PK
+[23:42:48] CCA.C17-GRID.i3.10945 to admins: yeah
+[23:42:50] James McKay to admins: like a death to a headcrab
+[23:42:59] CCA.C17-GRID.i3.10945 to admins: or accidental death from re-education, no PK
+[23:43:06] James McKay to admins: Yeah makes sense
+[23:43:19] CCA.C17-GRID.i3.10945 to admins: uhhh, you'll probably need to spawn in somne items on request
+[23:43:24] CCA.C17-GRID.i3.10945 to admins: so if they see a pipe in some trash
+[23:43:31] CCA.C17-GRID.i3.10945 to admins: they can request the pipe item and you can give it to them
+[23:43:39] Client "The Free Mann" spawned in server <STEAM_0:0:197396133> (took 63 seconds).
+[23:43:43] James McKay to admins: Like transfer to inv?
+[23:43:58] CCA.C17-GRID.i3.10945 to admins: i mean like if they see a pipe in a prop that isn't an item
+[23:43:59] The Free Mann<STEAM_0:0:197396133> changed their name to Oliver Jones
+[23:44:07] CCA.C17-GRID.i3.10945 to admins: you're allowed to spawn in an actual pipe item on the player's request
+[23:44:08] James McKay: Come!
+[23:44:10] Oliver Jones: /looc back
+[23:44:17] James McKay to admins: alrighty
+[23:44:21] Oliver Jones: This is an interesting place
+[23:44:21] James McKay: Please! Sit!
+[23:44:25] CCA.C17-GRID.i3.10945 to admins: try to avoid giving rocks, they're broken for now
+[23:44:30] James McKay: You hungry? Thirsty?
+[23:44:33] CCA.C17-GRID.i3.10945 to admins: same goes for empty cans and planks
+[23:44:33] Oliver Jones: /me takes a sit on one of the wooden chairs
+[23:44:37] Oliver Jones: No
+[23:44:41] CCA.C17-GRID.i3.10945 to admins: and things that are just props onthe street
+[23:44:49] CCA.C17-GRID.i3.10945 to admins: players are allowed to move things they see on the streetw
+[23:44:57] James McKay: Ah okay! Please...tell me...What are you looking for?
+[23:45:00] CCA.C17-GRID.i3.10945 to admins: like if they see a sleeping bag, they're allowed to move it wherever they want
+[23:45:03] Oliver Jones: Hm
+[23:45:14] Oliver Jones: I am not so sure, just arrived here in the city.
+[23:45:18] CCA.C17-GRID.i3.10945 to admins: just make sure to un-permaprop it from the street and permaprop it where they want to place it
+[23:45:23] James McKay: Ah...New and you already come down here?
+[23:45:25] CCA.C17-GRID.i3.10945 to admins: the permapropping is done with the Permaprops tool
+[23:45:28] Oliver Jones: Yep
+[23:45:28] CCA.C17-GRID.i3.10945 to admins: left click permaprops
+[23:45:32] CCA.C17-GRID.i3.10945 to admins: right click un-permaprops
+[23:45:39] Oliver Jones: Just explorin unknown parts of the city.
+[23:45:43] CCA.C17-GRID.i3.10945 to admins: reload when hit while looking at the world, respawns all permaprops
+[23:45:52] James McKay: I'd watch yourself...CPs will kill you if they find you down here...
+[23:45:56] James McKay: I serious...
+[23:45:57] CCA.C17-GRID.i3.10945 to admins: reload when hit when looking at a prop will update the permaprop's location in the database
+[23:45:58] Oliver Jones: I know
+[23:46:03] CCA.C17-GRID.i3.10945 to admins: oh, HUGE things
+[23:46:07] CCA.C17-GRID.i3.10945 to admins: there are some entities you do NOT permaprop
+[23:46:09] James McKay: And yet you take risk...
+[23:46:13] CCA.C17-GRID.i3.10945 to admins: do not permaprop storage entities
+[23:46:16] CCA.C17-GRID.i3.10945 to admins: like things with inventories
+[23:46:18] James McKay: Strange...
+[23:46:18] CCA.C17-GRID.i3.10945 to admins: don't permaprop items
+[23:46:22] CCA.C17-GRID.i3.10945 to admins: don't permaprop vendors
+[23:46:34] James McKay to admins: So...basically don't perma prop interactable items...
+[23:46:40] CCA.C17-GRID.i3.10945 to admins: kind of
+[23:46:41] Oliver Jones: So, what do you have?
+[23:46:43] Oliver Jones: Anyways
+[23:46:47] CCA.C17-GRID.i3.10945 to admins: you permaprop searchable dumpsters
+[23:46:50] James McKay: Well...What you need?
+[23:46:57] Oliver Jones: I'd like some food and water.
+[23:47:02] CCA.C17-GRID.i3.10945 to admins: you don't permaprop forcefields, but you do permaprop air vents
+[23:47:11] James McKay: So you ARE Thirsty and Hungry!
+[23:47:17] CCA.C17-GRID.i3.10945 to admins: i need to fix permaprops to not allow you to prop non-persist entities but that's a thing on my end
+[23:47:28] James McKay: /me Chuckles "You could've said so when I asked!"
+[23:47:44] Oliver Jones: I am not, though I would appreciate some.
+[23:47:56] James McKay: /me Would reach into a bag, taking out a can of sardines and a can of water, sliding it over to him.
+[23:47:58] Oliver Jones: Rations don't appear like they're going to open anytime soon.
+[23:48:17] James McKay: Well...There is always someone up above that would give food for work...
+[23:48:21] Oliver Jones: /me fetches the food and slides it in his suitcase.
+[23:48:28] CCA.C17-GRID.i3.10945 to admins: so NO to items, containers, vendors, printers, forcefields, combine locks, CWU locks
+[23:48:30] James McKay to admins: Alright...I'll make sure to remember that...
+[23:48:38] CCA.C17-GRID.i3.10945 to admins: yeah i need to write that down somewhere and fix the permaprop tool
+[23:48:40] James McKay: How it look up there...
+[23:48:53] CCA.C17-GRID.i3.10945 to admins: i just pinned it in staff chat
+[23:48:58] James McKay: Well?
+[23:49:02] James McKay to admins: I see that
+[23:49:10] CCA.C17-GRID.i3.10945 to admins: what else...
+[23:49:14] James McKay: Not talkative type eh?
+[23:49:24] Oliver Jones: Eh, I am new here.
+[23:49:36] James McKay: /me Chuckles "I not blame you...Not much people would talk to a person like me! Hah!"
+[23:49:42] CCA.C17-GRID.i3.10945 to admins: you put locks on containers in the C menu
+[23:49:46] CCA.C17-GRID.i3.10945 to admins: right clcik on something while holding C
+[23:49:52] Oliver Jones: I am lookin to work as a welder.
+[23:50:01] James McKay: A welder...You come to wrong place then!
+[23:50:07] CCA.C17-GRID.i3.10945 to admins: to take the password off of a container hit "set password" and then just hit enter while the text box is empty
+[23:50:08] James McKay: You don't want to be down here...
+[23:50:13] CCA.C17-GRID.i3.10945 to admins: uhhh logs
+[23:50:16] James McKay: It'll ruin your chances...I promise you...
+[23:50:17] James McKay: But...
+[23:50:18] CCA.C17-GRID.i3.10945 to admins: there's no way to access logs from pervious days
+[23:50:25] James McKay: Its for you to decide your fate...
+[23:50:26] CCA.C17-GRID.i3.10945 to admins: ineed to program that
+[23:50:29] CCA.C17-GRID.i3.10945 to admins: but all logs are sent as they happen in the cosole
+[23:50:36] CCA.C17-GRID.i3.10945 to admins: i think those are sent to trialmods
+[23:50:52] James McKay: Will you be above...safe...warm...fed, Or down here with us...hunted...Its your decision...
+[23:51:11] James McKay to admins: Ah alright...
+[23:51:17] Oliver Jones: Mhm
+[23:51:39] James McKay: I won't persuade you to come down here...But...You need to make your mind up...
+[23:51:52] James McKay: With every passing second...you're in danger down here...But...you are free
+[23:52:20] James McKay: Up there...You are safe...But shackled to the Combines grasp...
+[23:52:36] James McKay: It's up to you to make that choice...
+[23:52:43] James McKay: I'll leave you to it...
+[23:53:09] CCA.C17-GRID.i3.10945 to admins: are they coming up
+[23:53:27] James McKay to admins: Uhh, I let them decide their fate...they didn't really answer that much
+[23:53:35] James McKay to admins: But maybe...
+[23:53:46] Oliver Jones: // Will throwing an empty bottle be able to damage someone?
+[23:54:15] James McKay: /ooc Ehhh, Yes if its done through a IC combat situation
+[23:54:57] James McKay to admins: btw the Grizzly Grotto meta base...Since I have IC info on it on James McKay...How would I even be able to enter it...since both entrances are locked...
+[23:55:03] James McKay to admins: mfw limits...
+[23:55:09] James McKay to admins: since both entrances are locked
+[23:55:36] CCA.C17-GRID.i3.10945 to admins: it's got a padlock on it but
+[23:55:40] CCA.C17-GRID.i3.10945 to admins: i don't think DRD or lgiht know the code
+[23:55:44] CCA.C17-GRID.i3.10945 to admins: i'll need to coordinate that with them
+[23:55:48] James McKay to admins: Ah alrighty
+[23:55:50] CCA.C17-GRID.i3.10945 to admins: the code they want on the odors
+[23:57:09] James McKay: /it The distant sound of humming can be heard... Echoing throughout the sewers...
+[23:57:29] James McKay: Ah...
+[23:57:31] James McKay: Hello again!
+[23:57:34] Oliver Jones: Hello!
+[23:57:41] James McKay: Sorry...let me get out of your way...
+[23:57:51] Oliver Jones: Thanks
+[23:58:35] James McKay: /rollskill Fabrication
+[23:58:54] James McKay to admins: Crafting RP...How would I decide what skills n parts they need...
+<Logging continued in "data/ulx_logs/09-15-22.txt">

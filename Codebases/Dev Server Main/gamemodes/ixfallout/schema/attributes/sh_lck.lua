@@ -1,0 +1,2 @@
+ATTRIBUTE.name = "Luck"
+ATTRIBUTE.description = "Fate. Karma. An extremely high or low Luck will affect the character - somehow. Events and situations will be changed by how lucky (or unlucky) your character is."

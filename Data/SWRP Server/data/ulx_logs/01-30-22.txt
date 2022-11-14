@@ -1,0 +1,152 @@
+<Logging continued from "data/ulx_logs/01-16-22.txt">
+[13:41:12] Client "FB|| light ROOM" connected.
+[13:43:09] Client "matt saton" connected.
+[13:44:29] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 80 seconds).
+[13:46:22] matt saton<STEAM_0:1:53097688> changed their name to Darth Hexus
+[13:47:08] Darth Hexus: /toggleraise
+[13:47:10] Darth Hexus: /toggleraise
+[13:48:03] Darth Hexus: /setscreentext "Test
+[13:48:05] Darth Hexus: /setscreentext "Test"
+[13:49:47] Darth Hexus: /clearscreendraws
+[13:51:22] Darth Hexus: /clearscreendraws
+[13:53:11] Darth Hexus: /setscreentext
+[13:53:20] Darth Hexus: /clearscreendraws
+[13:55:10] Darth Hexus: /drawloading
+[13:57:28] Darth Hexus: /settoptext Reputation Increased
+[13:57:39] Darth Hexus: /settoptext Reputation Increased
+[13:58:53] Darth Hexus: /settoptext Reputation Increased
+[13:58:58] Darth Hexus: /clearscreendraws
+[14:03:18] Darth Hexus: /clearscreendraws
+[14:03:21] Darth Hexus: /clearscreendraws
+[14:04:36] Darth Hexus: /toggleraise
+[14:04:36] Darth Hexus: /toggleraise
+[14:04:37] Darth Hexus: /toggleraise
+[14:05:22] Darth Hexus: /charsetmodel hexus models/epangelmatikes/templeguard/temple_guard_opt.mdl
+[14:06:14] Darth Hexus suicided!
+[14:06:14] Darth Hexus slayed Themself
+[14:06:14] Darth Hexus: !slay ^
+[14:06:27] Darth Hexus<STEAM_0:1:53097688> used the tool rb655_lightsaber on maps/rp_mos_mesric_v2_1.bsp
+[14:06:34] Darth Hexus<STEAM_0:1:53097688> used the tool rb655_lightsaber on maps/rp_mos_mesric_v2_1.bsp
+[14:06:41] Darth Hexus: /toggleraise
+[14:06:43] Darth Hexus: /toggleraise
+[14:06:46] Darth Hexus: /toggleraise
+[14:06:47] Darth Hexus: /toggleraise
+[14:07:08] Darth Hexus: /charsetmodel hexus models/konnie/starwars/darthvader.mdl
+[14:07:18] Darth Hexus<STEAM_0:1:53097688> used the tool colour on maps/rp_mos_mesric_v2_1.bsp
+[14:09:08] Darth Hexus: /notifyall test
+[14:09:14] Darth Hexus: /notifyall Reputation Increased!
+[14:09:23] Darth Hexus: /clearscreendraws
+[14:09:38] Darth Hexus: /notifyall "Tatooine Reputation Increased"
+[14:09:46] Darth Hexus: /notifyall "Tatooine reputation increased."
+[14:10:01] Darth Hexus: /notifyall "Tatooine reputation increased."
+[14:10:07] Darth Hexus: /notifyall "Hutt reputation increased."
+[14:10:12] Darth Hexus: /notifyall "Hutt reputation decreased."
+[14:11:44] Darth Hexus: Reputation increased.
+[14:11:51] Darth Hexus: /notifyall "Hutt reputation decreased!"
+[14:12:34] Darth Hexus: /toggleraise
+[14:13:00] Darth Hexus<STEAM_0:1:53097688> spawned/gave himself swep weapon_cuff_plastic
+[14:13:00] Darth Hexus: /toggleraise
+[14:13:19] Darth Hexus: /chargiveitem hexus electrocuffs
+[14:13:24] Darth Hexus: /toggleraise
+[14:13:26] Darth Hexus<STEAM_0:1:53097688> spawned/gave himself swep weapon_cuff_police
+[14:13:27] Darth Hexus: /toggleraise
+[14:34:06] Darth Hexus: /toggleraise
+[14:34:36] Darth Hexus<STEAM_0:1:53097688> spawned model models/starwars/syphadias/props/sw_tor/bioware_ea/props/neutral/neu_bunker.mdl
+[14:34:51] Darth Hexus<STEAM_0:1:53097688> spawned model models/starwars/syphadias/props/sw_tor/bioware_ea/props/city/city_bench_metal.mdl
+[14:35:02] Darth Hexus<STEAM_0:1:53097688> used the tool stacker_improved on models/starwars/syphadias/props/sw_tor/bioware_ea/props/city/city_bench_metal.mdl
+[14:35:02] Darth Hexus<STEAM_0:1:53097688> spawned model models/starwars/syphadias/props/sw_tor/bioware_ea/props/city/city_bench_metal.mdl
+[14:35:03] Darth Hexus<STEAM_0:1:53097688> used the tool stacker_improved on models/starwars/syphadias/props/sw_tor/bioware_ea/props/city/city_bench_metal.mdl
+[14:35:03] Darth Hexus<STEAM_0:1:53097688> spawned model models/starwars/syphadias/props/sw_tor/bioware_ea/props/city/city_bench_metal.mdl
+[14:35:12] Darth Hexus<STEAM_0:1:53097688> used the tool stacker_improved on models/starwars/syphadias/props/sw_tor/bioware_ea/props/city/city_bench_metal.mdl
+[14:35:12] Darth Hexus<STEAM_0:1:53097688> spawned model models/starwars/syphadias/props/sw_tor/bioware_ea/props/city/city_bench_metal.mdl
+[14:35:13] Darth Hexus<STEAM_0:1:53097688> used the tool stacker_improved on models/starwars/syphadias/props/sw_tor/bioware_ea/props/city/city_bench_metal.mdl
+[14:35:13] Darth Hexus<STEAM_0:1:53097688> spawned model models/starwars/syphadias/props/sw_tor/bioware_ea/props/city/city_bench_metal.mdl
+[14:35:15] Darth Hexus<STEAM_0:1:53097688> used the tool stacker_improved on models/starwars/syphadias/props/sw_tor/bioware_ea/props/city/city_bench_metal.mdl
+[14:35:15] Darth Hexus<STEAM_0:1:53097688> spawned model models/starwars/syphadias/props/sw_tor/bioware_ea/props/city/city_bench_metal.mdl
+[14:35:16] Darth Hexus<STEAM_0:1:53097688> used the tool stacker_improved on models/starwars/syphadias/props/sw_tor/bioware_ea/props/city/city_bench_metal.mdl
+[14:35:16] Darth Hexus<STEAM_0:1:53097688> spawned model models/starwars/syphadias/props/sw_tor/bioware_ea/props/city/city_bench_metal.mdl
+[14:35:20] Darth Hexus<STEAM_0:1:53097688> used the tool stacker_improved on models/starwars/syphadias/props/sw_tor/bioware_ea/props/city/city_bench_metal.mdl
+[14:35:20] Darth Hexus<STEAM_0:1:53097688> spawned model models/starwars/syphadias/props/sw_tor/bioware_ea/props/city/city_bench_metal.mdl
+[14:35:20] Darth Hexus<STEAM_0:1:53097688> used the tool stacker_improved on models/starwars/syphadias/props/sw_tor/bioware_ea/props/city/city_bench_metal.mdl
+[14:35:21] Darth Hexus<STEAM_0:1:53097688> used the tool stacker_improved on models/starwars/syphadias/props/sw_tor/bioware_ea/props/city/city_bench_metal.mdl
+[14:35:21] Darth Hexus<STEAM_0:1:53097688> spawned model models/starwars/syphadias/props/sw_tor/bioware_ea/props/city/city_bench_metal.mdl
+[14:36:08] Darth Hexus<STEAM_0:1:53097688> spawned model models/starwars/syphadias/props/sw_tor/bioware_ea/props/city/city_bench_metal.mdl
+[14:36:13] Darth Hexus<STEAM_0:1:53097688> used the tool stacker_improved on models/starwars/syphadias/props/sw_tor/bioware_ea/props/city/city_bench_metal.mdl
+[14:36:13] Darth Hexus<STEAM_0:1:53097688> spawned model models/starwars/syphadias/props/sw_tor/bioware_ea/props/city/city_bench_metal.mdl
+[14:36:13] Darth Hexus<STEAM_0:1:53097688> used the tool stacker_improved on models/starwars/syphadias/props/sw_tor/bioware_ea/props/city/city_bench_metal.mdl
+[14:36:14] Darth Hexus<STEAM_0:1:53097688> spawned model models/starwars/syphadias/props/sw_tor/bioware_ea/props/city/city_bench_metal.mdl
+[14:36:21] Darth Hexus<STEAM_0:1:53097688> spawned model models/starwars/syphadias/props/sw_tor/bioware_ea/props/city/city_bench_metal.mdl
+[14:36:41] Darth Hexus<STEAM_0:1:53097688> used the tool stacker_improved on models/starwars/syphadias/props/sw_tor/bioware_ea/props/city/city_bench_metal.mdl
+[14:36:41] Darth Hexus<STEAM_0:1:53097688> spawned model models/starwars/syphadias/props/sw_tor/bioware_ea/props/city/city_bench_metal.mdl
+[14:36:47] Darth Hexus<STEAM_0:1:53097688> used the tool permaprops on models/starwars/syphadias/props/sw_tor/bioware_ea/props/city/city_bench_metal.mdl
+[14:36:48] Darth Hexus<STEAM_0:1:53097688> used the tool permaprops on models/starwars/syphadias/props/sw_tor/bioware_ea/props/city/city_bench_metal.mdl
+[14:36:48] Darth Hexus<STEAM_0:1:53097688> used the tool permaprops on models/starwars/syphadias/props/sw_tor/bioware_ea/props/city/city_bench_metal.mdl
+[14:36:49] Darth Hexus<STEAM_0:1:53097688> used the tool permaprops on models/starwars/syphadias/props/sw_tor/bioware_ea/props/city/city_bench_metal.mdl
+[14:36:49] Darth Hexus<STEAM_0:1:53097688> used the tool permaprops on models/starwars/syphadias/props/sw_tor/bioware_ea/props/city/city_bench_metal.mdl
+[14:36:50] Darth Hexus<STEAM_0:1:53097688> used the tool permaprops on models/starwars/syphadias/props/sw_tor/bioware_ea/props/city/city_bench_metal.mdl
+[14:36:50] Darth Hexus<STEAM_0:1:53097688> used the tool permaprops on models/starwars/syphadias/props/sw_tor/bioware_ea/props/city/city_bench_metal.mdl
+[14:44:55] Darth Hexus: /doorlock
+[14:45:47] Darth Hexus: /doorlock
+[14:48:54] Darth Hexus: /toggleraise
+[14:49:12] Darth Hexus: /toggleraise
+[14:49:32] Darth Hexus<STEAM_0:1:53097688> spawned model models/hunter/blocks/cube4x4x05.mdl
+[14:49:35] Darth Hexus<STEAM_0:1:53097688> spawned model models/hunter/blocks/cube8x8x05.mdl
+[14:49:49] Darth Hexus<STEAM_0:1:53097688> spawned model models/hunter/blocks/cube1x2x025.mdl
+[14:49:50] Darth Hexus<STEAM_0:1:53097688> spawned model models/hunter/blocks/cube2x3x025.mdl
+
+
+
+[14:58:03] New map: rp_mos_mesric_v2_1
+
+
+
+[15:01:43] New map: rp_stardestroyer_v2_6
+[15:02:49] Client "matt saton" connected.
+[15:03:53] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 64 seconds).
+[15:05:02] matt saton<STEAM_0:1:53097688> changed their name to Rear Admiral Erel Reed
+[15:05:39] Rear Admiral Erel Reed<STEAM_0:1:53097688> spawned/gave himself swep weapon_rpg
+[15:05:43] Rear Admiral Erel Reed: /toggleraise
+[15:05:49] Rear Admiral Erel Reed<STEAM_0:1:53097688> spawned/gave himself swep weapon_pistol
+[15:05:49] Rear Admiral Erel Reed: /toggleraise
+[15:05:55] Rear Admiral Erel Reed: /toggleraise
+[15:06:02] Rear Admiral Erel Reed<STEAM_0:1:53097688> spawned/gave himself swep weapon_jetpack
+[15:06:03] Rear Admiral Erel Reed: /toggleraise
+[15:06:08] Rear Admiral Erel Reed: /toggleraise
+[15:06:10] Rear Admiral Erel Reed: /toggleraise
+[15:06:20] Rear Admiral Erel Reed: /toggleraise
+[15:06:22] Rear Admiral Erel Reed: /toggleraise
+[15:06:23] Rear Admiral Erel Reed: /toggleraise
+[15:08:35] Rear Admiral Erel Reed: /deleteerrormodels
+[15:10:32] Rear Admiral Erel Reed: /toggleraise
+[15:10:35] Rear Admiral Erel Reed: /toggleraise
+[15:10:40] Rear Admiral Erel Reed: /toggleraise
+[15:27:13] Client "Zapper" connected.
+[15:31:55] Client "Zapper" spawned in server <STEAM_0:1:88228734> (took 282 seconds).
+[15:33:40] Zapper<STEAM_0:1:88228734> changed their name to Corporal SC-43288-394
+[15:34:11] Corporal SC-43288-394<STEAM_0:1:88228734> used the tool camera on maps/rp_stardestroyer_v2_6.bsp
+[15:35:05] Corporal SC-43288-394<STEAM_0:1:88228734> used the tool rb655_easy_bodygroup on maps/rp_stardestroyer_v2_6.bsp
+[15:36:08] Corporal SC-43288-394<STEAM_0:1:88228734> used the tool rb655_easy_bodygroup on maps/rp_stardestroyer_v2_6.bsp
+[15:36:09] Corporal SC-43288-394<STEAM_0:1:88228734> used the tool rb655_easy_bodygroup on maps/rp_stardestroyer_v2_6.bsp
+[15:46:07] Corporal SC-43288-394: /ooc You spawning things in?
+[15:56:57] Client "frozenlies210" connected.
+[15:57:55] Client "frozenlies210" spawned in server <STEAM_0:0:168486264> (took 58 seconds).
+[15:58:30] frozenlies210<STEAM_0:0:168486264> changed their name to Private First Class TK-6414 'Delta'
+[15:59:09] Corporal SC-43288-394<STEAM_0:1:88228734> changed their name to High Colonel James Alexandria
+[15:59:25] High Colonel James Alexandria<STEAM_0:1:88228734> used the tool camera on maps/rp_stardestroyer_v2_6.bsp
+[15:59:33] High Colonel James Alexandria<STEAM_0:1:88228734> used the tool rb655_easy_bodygroup on maps/rp_stardestroyer_v2_6.bsp
+[16:00:21] High Colonel James Alexandria<STEAM_0:1:88228734> used the tool rb655_easy_bodygroup on maps/rp_stardestroyer_v2_6.bsp
+[16:00:21] High Colonel James Alexandria<STEAM_0:1:88228734> used the tool rb655_easy_bodygroup on maps/rp_stardestroyer_v2_6.bsp
+[16:02:42] High Colonel James Alexandria<STEAM_0:1:88228734> used the tool rb655_easy_bodygroup on maps/rp_stardestroyer_v2_6.bsp
+[16:04:37] Dropped "Private First Class TK-6414 'Delta'" from server<STEAM_0:0:168486264>
+[16:09:02] High Colonel James Alexandria: /ooc Gordon I'm Hungry
+[16:11:37] High Colonel James Alexandria: /me slautes
+[16:12:20] High Colonel James Alexandria: /me slautes
+[16:26:47] Dropped "High Colonel James Alexandria" from server<STEAM_0:1:88228734>
+[17:24:54] Client "HazelEyedRedhead" connected.
+[17:27:55] Client "HazelEyedRedhead" spawned in server <STEAM_0:0:88523451> (took 181 seconds).
+[17:29:24] HazelEyedRedhead<STEAM_0:0:88523451> changed their name to Crewman Third Class Tiraan Malway
+[17:30:11] Crewman Third Class Tiraan Malway: // matt?
+[17:30:36] Crewman Third Class Tiraan Malway: // you alive?
+[17:32:29] Dropped "Crewman Third Class Tiraan Malway" from server<STEAM_0:0:88523451>
+[19:20:45] Client "zenolbrys" connected.
+[21:16:18] Dropped "Rear Admiral Erel Reed" from server<STEAM_0:1:53097688>

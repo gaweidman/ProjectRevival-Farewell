@@ -1,0 +1,61 @@
+[10:11:35]	matt saton has connected.
+[10:12:54]	matt saton loaded the character 'Administrative Character'
+[10:12:55]	Administrative Character has taken 78 damage from worldspawn.
+[10:13:05]	Administrative Character entered observer.
+[10:13:08]	Administrative Character exited observer at their location.
+[10:13:11]	Administrative Character entered observer.
+[10:13:12]	Administrative Character ran 'drop' on item 'Resin' (#11068)
+[10:13:12]	Administrative Character has lost a 'Resin' #11068.
+[10:13:19]	Administrative Character ran 'drop' on item 'Resin' (#11074)
+[10:13:19]	Administrative Character has lost a 'Resin' #11074.
+[10:13:30]	Administrative Character ran 'drop' on item 'Resin' (#11065)
+[10:13:30]	Administrative Character has lost a 'Resin' #11065.
+[10:13:31]	Administrative Character exited observer at their location.
+[10:13:41]	Administrative Character has spawned 'models/props_junk/wood_crate001a_damaged.mdl'.
+[10:13:52]	Administrative Character entered observer.
+[10:14:00]	Administrative Character ran 'drop' on item 'Resin' (#11080)
+[10:14:00]	Administrative Character has lost a 'Resin' #11080.
+[10:14:10]	Administrative Character exited observer at their location.
+[10:14:12]	Administrative Character entered observer.
+[10:15:15]	Administrative Character ran 'drop' on item 'Resin' (#11063)
+[10:15:15]	Administrative Character has lost a 'Resin' #11063.
+[10:24:56]	Administrative Character ran 'take' on item 'Resin' (#11067)
+[10:24:56]	Administrative Character has gained a 'Resin' #11067.
+[10:24:59]	Administrative Character opened the '' #2186 container.
+[10:25:01]	Administrative Character closed the '' #2186 container.
+[10:25:12]	Administrative Character ran 'drop' on item 'Resin' (#11067)
+[10:25:12]	Administrative Character has lost a 'Resin' #11067.
+[10:27:02]	Administrative Character has gained a 'Resin' #21126.
+[10:27:02]	Administrative Character used command '/CharGiveItem admin resin 1'.
+[10:27:04]	Administrative Character ran 'drop' on item 'Resin' (#21126)
+[10:27:04]	Administrative Character has lost a 'Resin' #21126.
+[10:27:10]	Administrative Character exited observer at their location.
+[10:27:10]	Administrative Character entered observer.
+[10:27:33]	Administrative Character exited observer at their location.
+[10:27:33]	Administrative Character entered observer.
+[10:27:38]	Administrative Character exited observer at their location.
+[10:27:38]	Administrative Character entered observer.
+[10:27:40]	Administrative Character exited observer at their location.
+[10:27:40]	Administrative Character entered observer.
+[10:27:40]	Administrative Character exited observer at their location.
+[10:27:40]	Administrative Character entered observer.
+[10:28:18]	Administrative Character used command '/adminspawnmenu'.
+[10:28:36]	Administrative Character used command '/CharGiveItem admin bandage'.
+[10:28:39]	Administrative Character used command '/adminspawnmenu'.
+[10:31:58]	matt saton (STEAM_0:1:53097688) has disconnected.
+[22:59:29]	Epica has connected.
+[23:05:14]	Epica loaded the character 'Samantha Robertson'
+[23:08:06]	Samantha Robertson used command '/CharDesc'.
+[23:08:33]	Samantha Robertson used command '/CharDesc 6'0 / Young adult / Dark Brown hair  / Carries a massive backpack.'.
+[23:10:13]	Samantha Robertson has taken 250 damage from trigger_hurt.
+[23:10:13]	trigger_hurt has killed Samantha Robertson.
+[23:10:24]	Samantha Robertson has taken 250 damage from trigger_hurt.
+[23:10:24]	trigger_hurt has killed Samantha Robertson.
+[23:11:36]	Samantha Robertson ran 'EquipUn' on item 'Cyclopic Citizen Suit' (#21045)
+[23:11:51]	Samantha Robertson ran 'Equip' on item 'Cyclopic Citizen Suit' (#21045)
+[23:13:23]	Samantha Robertson has taken 250 damage from trigger_hurt.
+[23:13:23]	trigger_hurt has killed Samantha Robertson.
+[23:13:42]	Samantha Robertson ran 'EquipUn' on item 'Cyclopic Citizen Suit' (#21045)
+[23:18:50]	Samantha Robertson ran 'Equip' on item 'Cyclopic Citizen Suit' (#21045)
+[23:18:56]	Samantha Robertson ran 'EquipUn' on item 'Cyclopic Citizen Suit' (#21045)
+[23:21:06]	Epica (STEAM_0:1:178325073) has disconnected.

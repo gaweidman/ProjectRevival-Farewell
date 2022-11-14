@@ -1,0 +1,230 @@
+[13:44:29]	matt saton has connected.
+[13:46:22]	matt saton loaded the character 'Darth Hexus'
+[13:46:27]	Darth Hexus entered observer.
+[13:46:53]	Darth Hexus exited observer at their location.
+[13:46:54]	Darth Hexus entered observer.
+[13:47:08]	Darth Hexus used command '/ToggleRaise'.
+[13:47:10]	Darth Hexus used command '/ToggleRaise'.
+[13:48:03]	Darth Hexus used command '/SetScreenText "Test'.
+[13:48:05]	Darth Hexus used command '/SetScreenText Test'.
+[13:49:47]	Darth Hexus used command '/ClearScreenDraws'.
+[13:51:22]	Darth Hexus used command '/ClearScreenDraws'.
+[13:51:24]	Darth Hexus exited observer at their location.
+[13:51:26]	Darth Hexus entered observer.
+[13:51:26]	Darth Hexus exited observer at their location.
+[13:51:27]	Darth Hexus entered observer.
+[13:51:32]	Darth Hexus exited observer at their location.
+[13:51:37]	Darth Hexus entered observer.
+[13:53:11]	Darth Hexus used command '/SetScreenText'.
+[13:53:20]	Darth Hexus used command '/ClearScreenDraws'.
+[13:55:10]	Darth Hexus used command '/DrawLoading'.
+[13:55:20]	Darth Hexus exited observer at their location.
+[13:55:23]	Darth Hexus entered observer.
+[13:55:24]	Darth Hexus exited observer at their location.
+[13:55:24]	Darth Hexus entered observer.
+[13:55:26]	Darth Hexus exited observer at their location.
+[13:55:27]	Darth Hexus entered observer.
+[13:55:27]	Darth Hexus exited observer at their location.
+[13:55:27]	Darth Hexus entered observer.
+[13:57:28]	Darth Hexus used command '/SetTopText Reputation Increased'.
+[13:57:39]	Darth Hexus used command '/SetTopText Reputation Increased'.
+[13:58:53]	Darth Hexus used command '/SetTopText Reputation Increased'.
+[13:58:58]	Darth Hexus used command '/ClearScreenDraws'.
+[14:03:18]	Darth Hexus used command '/ClearScreenDraws'.
+[14:03:21]	Darth Hexus used command '/ClearScreenDraws'.
+[14:04:36]	Darth Hexus used command '/ToggleRaise'.
+[14:04:36]	Darth Hexus used command '/ToggleRaise'.
+[14:04:37]	Darth Hexus used command '/ToggleRaise'.
+[14:04:50]	Darth Hexus exited observer at their location.
+[14:05:22]	Darth Hexus used command '/CharSetModel hexus models/epangelmatikes/templeguard/temple_guard_opt.mdl'.
+[14:06:14]	Darth Hexus has killed Darth Hexus.
+[14:06:41]	Darth Hexus used command '/ToggleRaise'.
+[14:06:43]	Darth Hexus used command '/ToggleRaise'.
+[14:06:46]	Darth Hexus used command '/ToggleRaise'.
+[14:06:47]	Darth Hexus used command '/ToggleRaise'.
+[14:07:01]	Darth Hexus entered observer.
+[14:07:01]	Darth Hexus exited observer at their location.
+[14:07:08]	Darth Hexus used command '/CharSetModel hexus models/konnie/starwars/darthvader.mdl'.
+[14:09:08]	Darth Hexus used command '/NotifyAll test'.
+[14:09:14]	Darth Hexus used command '/NotifyAll Reputation Increased!'.
+[14:09:23]	Darth Hexus used command '/ClearScreenDraws'.
+[14:09:38]	Darth Hexus used command '/NotifyAll Tatooine Reputation Increased'.
+[14:09:46]	Darth Hexus used command '/NotifyAll Tatooine reputation increased.'.
+[14:10:01]	Darth Hexus used command '/NotifyAll Tatooine reputation increased.'.
+[14:10:07]	Darth Hexus used command '/NotifyAll Hutt reputation increased.'.
+[14:10:12]	Darth Hexus used command '/NotifyAll Hutt reputation decreased.'.
+[14:11:51]	Darth Hexus used command '/NotifyAll Hutt reputation decreased!'.
+[14:11:52]	Darth Hexus entered observer.
+[14:11:53]	Darth Hexus exited observer at their location.
+[14:11:54]	Darth Hexus entered observer.
+[14:11:54]	Darth Hexus exited observer at their location.
+[14:11:54]	Darth Hexus entered observer.
+[14:11:54]	Darth Hexus exited observer at their location.
+[14:11:55]	Darth Hexus entered observer.
+[14:11:55]	Darth Hexus exited observer at their location.
+[14:11:55]	Darth Hexus entered observer.
+[14:11:56]	Darth Hexus exited observer at their location.
+[14:12:34]	Darth Hexus used command '/ToggleRaise'.
+[14:12:47]	Darth Hexus entered observer.
+[14:13:00]	Darth Hexus used command '/ToggleRaise'.
+[14:13:08]	Darth Hexus exited observer at their location.
+[14:13:19]	Darth Hexus has gained a 'Electrocuffs' #2728.
+[14:13:19]	Darth Hexus used command '/CharGiveItem hexus electrocuffs'.
+[14:13:21]	Darth Hexus ran 'Equip' on item 'Electrocuffs' (#2728)
+[14:13:24]	Darth Hexus entered observer.
+[14:13:24]	Darth Hexus used command '/ToggleRaise'.
+[14:13:27]	Darth Hexus used command '/ToggleRaise'.
+[14:14:00]	Darth Hexus exited observer at their location.
+[14:24:45]	Darth Hexus entered observer.
+[14:24:47]	Darth Hexus exited observer at their location.
+[14:25:53]	Darth Hexus entered observer.
+[14:34:06]	Darth Hexus used command '/ToggleRaise'.
+[14:34:32]	Darth Hexus exited observer at their location.
+[14:34:36]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/neutral/neu_bunker.mdl'.
+[14:34:36]	Darth Hexus entered observer.
+[14:34:37]	Darth Hexus exited observer at their location.
+[14:34:51]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/city/city_bench_metal.mdl'.
+[14:35:02]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/city/city_bench_metal.mdl'.
+[14:35:03]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/city/city_bench_metal.mdl'.
+[14:35:12]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/city/city_bench_metal.mdl'.
+[14:35:13]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/city/city_bench_metal.mdl'.
+[14:35:15]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/city/city_bench_metal.mdl'.
+[14:35:16]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/city/city_bench_metal.mdl'.
+[14:35:20]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/city/city_bench_metal.mdl'.
+[14:35:21]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/city/city_bench_metal.mdl'.
+[14:35:23]	Darth Hexus entered observer.
+[14:36:05]	Darth Hexus exited observer at their location.
+[14:36:06]	Darth Hexus entered observer.
+[14:36:07]	Darth Hexus exited observer at their location.
+[14:36:08]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/city/city_bench_metal.mdl'.
+[14:36:13]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/city/city_bench_metal.mdl'.
+[14:36:14]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/city/city_bench_metal.mdl'.
+[14:36:14]	Darth Hexus entered observer.
+[14:36:21]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/city/city_bench_metal.mdl'.
+[14:36:25]	Darth Hexus exited observer at their location.
+[14:36:40]	Darth Hexus entered observer.
+[14:36:40]	Darth Hexus exited observer at their location.
+[14:36:41]	Darth Hexus has spawned 'models/starwars/syphadias/props/sw_tor/bioware_ea/props/city/city_bench_metal.mdl'.
+[14:36:41]	Darth Hexus entered observer.
+[14:39:52]	Darth Hexus exited observer at their location.
+[14:39:59]	Darth Hexus entered observer.
+[14:40:11]	Darth Hexus exited observer at their location.
+[14:42:11]	Darth Hexus entered observer.
+[14:44:52]	Darth Hexus exited observer at their location.
+[14:45:44]	Darth Hexus entered observer.
+[14:45:45]	Darth Hexus exited observer at their location.
+[14:45:47]	Darth Hexus used command '/DoorLock'.
+[14:47:08]	Darth Hexus entered observer.
+[14:48:54]	Darth Hexus used command '/ToggleRaise'.
+[14:49:12]	Darth Hexus used command '/ToggleRaise'.
+[14:49:32]	Darth Hexus has spawned 'models/hunter/blocks/cube4x4x05.mdl'.
+[14:49:35]	Darth Hexus has spawned 'models/hunter/blocks/cube8x8x05.mdl'.
+[14:49:49]	Darth Hexus has spawned 'models/hunter/blocks/cube1x2x025.mdl'.
+[14:49:50]	Darth Hexus has spawned 'models/hunter/blocks/cube2x3x025.mdl'.
+[15:03:53]	matt saton has connected.
+[15:05:02]	matt saton loaded the character 'Rear Admiral Erel Reed'
+[15:05:05]	Rear Admiral Erel Reed entered observer.
+[15:05:43]	Rear Admiral Erel Reed used command '/ToggleRaise'.
+[15:05:46]	Rear Admiral Erel Reed destroyed a 'Box of Crackers' #2499.
+[15:05:46]	Rear Admiral Erel Reed destroyed a 'Box of Crackers' #2509.
+[15:05:46]	Rear Admiral Erel Reed destroyed a 'Box of Crackers' #2504.
+[15:05:46]	Rear Admiral Erel Reed destroyed a 'Box of Crackers' #2508.
+[15:05:46]	Rear Admiral Erel Reed destroyed a 'Box of Crackers' #2496.
+[15:05:46]	Rear Admiral Erel Reed destroyed a 'Box of Crackers' #2500.
+[15:05:46]	Rear Admiral Erel Reed destroyed a 'Box of Crackers' #2497.
+[15:05:46]	Rear Admiral Erel Reed destroyed a 'Box of Crackers' #2514.
+[15:05:46]	Rear Admiral Erel Reed destroyed a 'Box of Crackers' #2505.
+[15:05:46]	Rear Admiral Erel Reed destroyed a 'Box of Crackers' #2495.
+[15:05:46]	Rear Admiral Erel Reed destroyed a 'Box of Crackers' #2502.
+[15:05:46]	Rear Admiral Erel Reed destroyed a 'Box of Crackers' #2494.
+[15:05:46]	Rear Admiral Erel Reed destroyed a 'Box of Crackers' #2510.
+[15:05:46]	Rear Admiral Erel Reed destroyed a 'Box of Crackers' #2501.
+[15:05:46]	Rear Admiral Erel Reed destroyed a 'Box of Crackers' #2512.
+[15:05:46]	Rear Admiral Erel Reed destroyed a 'Box of Crackers' #2519.
+[15:05:46]	Rear Admiral Erel Reed destroyed a 'Box of Crackers' #2511.
+[15:05:46]	Rear Admiral Erel Reed destroyed a 'Box of Crackers' #2513.
+[15:05:46]	Rear Admiral Erel Reed destroyed a 'Box of Crackers' #2503.
+[15:05:46]	Rear Admiral Erel Reed destroyed a 'Box of Crackers' #2515.
+[15:05:46]	Rear Admiral Erel Reed destroyed a 'Box of Crackers' #2498.
+[15:05:46]	Rear Admiral Erel Reed destroyed a 'Box of Crackers' #2516.
+[15:05:46]	Rear Admiral Erel Reed destroyed a 'Box of Crackers' #2518.
+[15:05:46]	Rear Admiral Erel Reed destroyed a 'Box of Crackers' #2489.
+[15:05:46]	Rear Admiral Erel Reed destroyed a 'Box of Crackers' #2488.
+[15:05:46]	Rear Admiral Erel Reed destroyed a 'Box of Crackers' #2486.
+[15:05:46]	Rear Admiral Erel Reed destroyed a 'Box of Crackers' #2517.
+[15:05:46]	Rear Admiral Erel Reed destroyed a 'Box of Crackers' #2493.
+[15:05:46]	Rear Admiral Erel Reed destroyed a 'Box of Crackers' #2487.
+[15:05:49]	Rear Admiral Erel Reed used command '/ToggleRaise'.
+[15:05:51]	Rear Admiral Erel Reed destroyed a 'Box of Crackers' #2507.
+[15:05:53]	Rear Admiral Erel Reed destroyed a 'Box of Crackers' #2506.
+[15:05:55]	Rear Admiral Erel Reed used command '/ToggleRaise'.
+[15:06:03]	Rear Admiral Erel Reed used command '/ToggleRaise'.
+[15:06:06]	Rear Admiral Erel Reed exited observer at their location.
+[15:06:08]	Rear Admiral Erel Reed used command '/ToggleRaise'.
+[15:06:10]	Rear Admiral Erel Reed used command '/ToggleRaise'.
+[15:06:20]	Rear Admiral Erel Reed used command '/ToggleRaise'.
+[15:06:22]	Rear Admiral Erel Reed used command '/ToggleRaise'.
+[15:06:23]	Rear Admiral Erel Reed used command '/ToggleRaise'.
+[15:07:25]	Rear Admiral Erel Reed entered observer.
+[15:07:26]	Rear Admiral Erel Reed exited observer at their location.
+[15:07:32]	Rear Admiral Erel Reed entered observer.
+[15:07:36]	Rear Admiral Erel Reed exited observer at their location.
+[15:08:04]	Rear Admiral Erel Reed entered observer.
+[15:08:04]	Rear Admiral Erel Reed exited observer at their location.
+[15:08:29]	Rear Admiral Erel Reed entered observer.
+[15:08:35]	Rear Admiral Erel Reed used command '/DeleteErrorModels'.
+[15:09:11]	Rear Admiral Erel Reed exited observer at their location.
+[15:09:12]	Rear Admiral Erel Reed entered observer.
+[15:09:16]	Rear Admiral Erel Reed exited observer at their location.
+[15:09:19]	Rear Admiral Erel Reed entered observer.
+[15:09:29]	Rear Admiral Erel Reed exited observer at their location.
+[15:09:30]	Rear Admiral Erel Reed has taken 67 damage from worldspawn.
+[15:09:46]	Rear Admiral Erel Reed entered observer.
+[15:09:47]	Rear Admiral Erel Reed exited observer at their location.
+[15:09:54]	Rear Admiral Erel Reed entered observer.
+[15:10:30]	Rear Admiral Erel Reed exited observer at their location.
+[15:10:31]	Rear Admiral Erel Reed entered observer.
+[15:10:32]	Rear Admiral Erel Reed used command '/ToggleRaise'.
+[15:10:34]	Rear Admiral Erel Reed exited observer at their location.
+[15:10:35]	Rear Admiral Erel Reed used command '/ToggleRaise'.
+[15:10:37]	Rear Admiral Erel Reed entered observer.
+[15:10:37]	Rear Admiral Erel Reed exited observer at their location.
+[15:10:40]	Rear Admiral Erel Reed used command '/ToggleRaise'.
+[15:10:46]	Rear Admiral Erel Reed has taken 5 damage from worldspawn.
+[15:10:46]	Rear Admiral Erel Reed entered observer.
+[15:10:46]	Rear Admiral Erel Reed exited observer at their location.
+[15:10:47]	Rear Admiral Erel Reed entered observer.
+[15:10:48]	Rear Admiral Erel Reed exited observer at their location.
+[15:10:48]	Rear Admiral Erel Reed entered observer.
+[15:10:54]	Rear Admiral Erel Reed exited observer at their location.
+[15:10:56]	Rear Admiral Erel Reed entered observer.
+[15:14:12]	Rear Admiral Erel Reed exited observer at their location.
+[15:14:12]	Rear Admiral Erel Reed entered observer.
+[15:14:13]	Rear Admiral Erel Reed exited observer at their location.
+[15:14:13]	Rear Admiral Erel Reed entered observer.
+[15:14:14]	Rear Admiral Erel Reed exited observer at their location.
+[15:14:14]	Rear Admiral Erel Reed entered observer.
+[15:31:55]	Zapper has connected.
+[15:33:39]	Zapper loaded the character 'Corporal SC-43288-394'
+[15:46:07]	[OOC] Corporal SC-43288-394: You spawning things in?
+[15:48:35]	Corporal SC-43288-394 used the 'Supply Locker' vendor.
+[15:48:56]	Corporal SC-43288-394 used the 'Supply Locker' vendor.
+[15:49:00]	Corporal SC-43288-394 has gained 0 credits.
+[15:49:00]	Corporal SC-43288-394 has gained a 'Flashlight' #2729.
+[15:57:55]	frozenlies210 has connected.
+[15:58:29]	frozenlies210 loaded the character 'Private First Class TK-6414 'Delta''
+[15:59:09]	Zapper loaded the character 'High Colonel James Alexandria'
+[16:04:37]	frozenlies210 (STEAM_0:0:168486264) has disconnected.
+[16:06:29]	High Colonel James Alexandria used the 'Supply Locker' vendor.
+[16:06:32]	High Colonel James Alexandria has gained 0 credits.
+[16:06:32]	High Colonel James Alexandria has gained a 'Flashlight' #2730.
+[16:09:02]	[OOC] High Colonel James Alexandria: Gordon I'm Hungry
+[16:11:37]	[ME] High Colonel James Alexandria: slautes
+[16:12:20]	[ME] High Colonel James Alexandria: slautes
+[16:26:47]	Zapper (STEAM_0:1:88228734) has disconnected.
+[17:27:55]	HazelEyedRedhead has connected.
+[17:29:24]	HazelEyedRedhead loaded the character 'Crewman Third Class Tiraan Malway'
+[17:30:11]	[OOC] Crewman Third Class Tiraan Malway: matt?
+[17:30:36]	[OOC] Crewman Third Class Tiraan Malway: you alive?
+[17:32:29]	HazelEyedRedhead (STEAM_0:0:88523451) has disconnected.
+[21:16:18]	matt saton (STEAM_0:1:53097688) has disconnected (timed out).

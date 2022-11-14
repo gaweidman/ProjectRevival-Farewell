@@ -1,0 +1,411 @@
+<Logging continued from "data/ulx_logs/04-22-20.txt">
+[00:00:48] CCA.C17-GRID.i4.69192: move along
+[00:00:50] CCA.C17-GRID.i4.69192: vacate citizen
+[00:00:52] CCA.C17-GRID.i4.69192: vacate
+[00:09:01] CCA.C17-GRID.i4.69192<STEAM_0:1:53097688> spawned NPC npc_manhack
+[00:09:07] CCA.C17-GRID.i4.69192<STEAM_0:1:53097688> spawned NPC npc_cscanner
+[00:09:31] CCA.C17-GRID.i4.69192<STEAM_0:1:53097688> spawned NPC npc_manhack
+[00:09:47] CCA.C17-GRID.i4.69192<STEAM_0:1:53097688> spawned sent hla_tripmine
+[00:09:55] CCA.C17-GRID.i4.69192<STEAM_0:1:53097688> used the tool permaprops on models/oxide/hla/combine_tripmine/combine_tripmine.mdl
+[00:09:59] CCA.C17-GRID.i4.69192<STEAM_0:1:53097688> used the tool permaprops on maps/rp_industrial17_v1.bsp
+[00:10:53] CCA.C17-GRID.i4.69192<STEAM_0:1:53097688> spawned sent hla_tripmine
+[00:10:56] CCA.C17-GRID.i4.69192<STEAM_0:1:53097688> used the tool permaprops on models/oxide/hla/combine_tripmine/combine_tripmine.mdl
+[00:10:59] CCA.C17-GRID.i4.69192<STEAM_0:1:53097688> used the tool permaprops on maps/rp_industrial17_v1.bsp
+[00:11:01] CCA.C17-GRID.i4.69192<STEAM_0:1:53097688> used the tool permaprops on maps/rp_industrial17_v1.bsp
+[00:11:01] CCA.C17-GRID.i4.69192 was killed by hla_tripmine
+[00:11:20] CCA.C17-GRID.i4.69192<STEAM_0:1:53097688> used the tool permaprops on maps/rp_industrial17_v1.bsp
+[00:11:28] CCA.C17-GRID.i4.69192<STEAM_0:1:53097688> spawned sent hla_tripmine
+[00:11:32] CCA.C17-GRID.i4.69192<STEAM_0:1:53097688> used the tool permaprops on models/oxide/hla/combine_tripmine/combine_tripmine.mdl
+[00:11:34] CCA.C17-GRID.i4.69192<STEAM_0:1:53097688> used the tool permaprops on maps/rp_industrial17_v1.bsp
+[00:11:38] CCA.C17-GRID.i4.69192<STEAM_0:1:53097688> used the tool permaprops on models/props_junk/garbage_glassbottle003a.mdl
+[00:11:38] CCA.C17-GRID.i4.69192<STEAM_0:1:53097688> used the tool permaprops on maps/rp_industrial17_v1.bsp
+[00:11:40] CCA.C17-GRID.i4.69192<STEAM_0:1:53097688> used the tool permaprops on maps/rp_industrial17_v1.bsp
+[00:11:42] CCA.C17-GRID.i4.69192<STEAM_0:1:53097688> used the tool permaprops on maps/rp_industrial17_v1.bsp
+[00:50:47] CCA.C17-GRID.i4.69192<STEAM_0:1:53097688> spawned NPC npc_combine_s
+[00:50:59] CCA.C17-GRID.i4.69192<STEAM_0:1:53097688> spawned NPC npc_combine_s
+[00:51:10] CCA.C17-GRID.i4.69192<STEAM_0:1:53097688> spawned NPC npc_combine_s
+[04:54:55] Client "SANSO" connected.
+[07:51:36] Client "themselves" connected.
+[08:45:02] Dropped "CCA.C17-GRID.i4.69192" from server<STEAM_0:1:53097688>
+[15:15:22] Client "MadriX" connected.
+[15:23:43] Client "MadriX" spawned in server <STEAM_0:1:5265874> (took 501 seconds).
+[15:27:26] Dropped "MadriX" from server<STEAM_0:1:5265874>
+[22:15:45] Client "matt saton" connected.
+[22:27:05] Client "matt saton" connected.
+[22:28:50] Client "Painevan" connected.
+[22:31:13] Client "Painevan" spawned in server <STEAM_0:0:68118061> (took 143 seconds).
+[22:31:45] Painevan<STEAM_0:0:68118061> changed their name to Franz Ferdinand
+[22:33:39] Dropped "Franz Ferdinand" from server<STEAM_0:0:68118061>
+[22:36:21] Server is shutting down/changing levels.
+
+
+
+[22:40:07] New map: rp_industrial17_v1
+[22:42:25] Client "matt saton" connected.
+[22:44:01] Client "Mr. Chief" connected.
+[22:45:33] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 188 seconds).
+[22:47:00] matt saton<STEAM_0:1:53097688> changed their name to Joseph Kimsler
+[22:47:07] Client "Zapper" connected.
+[22:47:13] Joseph Kimsler: cheese
+[22:47:16] Joseph Kimsler: dream about cheese
+[22:47:18] Joseph Kimsler: dream about cheese
+[22:47:26] Joseph Kimsler: dont forget hawaii
+[22:47:30] Joseph Kimsler: enough of
+[22:47:33] Joseph Kimsler: figures
+[22:47:34] Joseph Kimsler: first time
+[22:47:41] Joseph Kimsler: mind on work
+[22:47:47] Joseph Kimsler: nip that talk
+[22:47:54] Joseph Kimsler: telling me
+[22:48:44] Joseph Kimsler<STEAM_0:1:53097688> spawned NPC npc_manhack
+[22:48:46] Client "Mr. Chief" spawned in server <STEAM_0:1:129270116> (took 285 seconds).
+[22:49:02] Joseph Kimsler<STEAM_0:1:53097688> spawned NPC npc_manhack
+[22:49:34] Joseph Kimsler<STEAM_0:1:53097688> spawned NPC npc_cscanner
+[22:49:39] Joseph Kimsler<STEAM_0:1:53097688> spawned NPC npc_cscanner
+[22:49:39] Joseph Kimsler<STEAM_0:1:53097688> spawned NPC npc_cscanner
+[22:50:03] Mr. Chief<STEAM_0:1:129270116> changed their name to CCA.C17-JUDGE.i2.58102
+[22:50:11] Joseph Kimsler<STEAM_0:1:53097688> spawned NPC npc_citizen
+[22:50:29] Joseph Kimsler: dont forget hawaii
+[22:50:31] CCA.C17-JUDGE.i2.58102: /toggleraise
+[22:50:34] Client "Zapper" spawned in server <STEAM_0:1:88228734> (took 207 seconds).
+[22:50:37] CCA.C17-JUDGE.i2.58102 killed Joseph Kimsler using ix_stunstick
+[22:50:42] CCA.C17-JUDGE.i2.58102: /toggleraise
+[22:50:54] CCA.C17-JUDGE.i2.58102: /toggleraise
+[22:51:25] Joseph Kimsler: //chief did you get the new voiceline addons
+[22:51:50] CCA.C17-JUDGE.i2.58102: copy
+[22:51:53] CCA.C17-JUDGE.i2.58102: hold it
+[22:52:05] CCA.C17-JUDGE.i2.58102: shit
+[22:52:08] Joseph Kimsler<STEAM_0:1:53097688> changed their name to CCA.C17-GRID.i4.69192
+[22:52:11] Dropped "CCA.C17-JUDGE.i2.58102" from server<STEAM_0:1:129270116>
+[22:52:12] CCA.C17-GRID.i4.69192: possible 647e
+[22:52:20] CCA.C17-GRID.i4.69192: rodger that
+[22:52:46] Zapper<STEAM_0:1:88228734> changed their name to The Consul
+[22:53:05] CCA.C17-GRID.i4.69192: /plywhitelist consul vort
+[22:53:08] CCA.C17-GRID.i4.69192: /plywhitelist consul xenian
+[22:53:10] Client "Mr. Chief" connected.
+[22:53:11] CCA.C17-GRID.i4.69192: /plywhitelist consul overwatchg
+[22:53:14] CCA.C17-GRID.i4.69192: /plywhitelist consul overwatch
+[22:53:17] CCA.C17-GRID.i4.69192: /plywhitelist consul combine
+[22:53:21] The Consul: copy
+[22:53:50] CCA.C17-GRID.i4.69192: /plywhitelist consul bird
+[22:54:04] CCA.C17-GRID.i4.69192<STEAM_0:1:53097688> changed their name to The Consul
+[22:54:14] Client "Mr. Chief" spawned in server <STEAM_0:1:129270116> (took 64 seconds).
+[22:54:32] The Consul: /toggleraise
+[22:54:36] The Consul<STEAM_0:1:53097688> spawned/gave himself swep weapon_pistol
+[22:54:37] The Consul: /toggleraise
+[22:54:39] The Consul<STEAM_0:1:53097688> spawned/gave himself swep weapon_crowbar
+[22:54:40] The Consul: /toggleraise
+[22:54:50] The Consul: /toggleraise
+[22:54:57] The Consul: /toggleraise
+[22:54:58] The Consul: /toggleraise
+[22:55:04] The Consul: /toggleraise
+[22:55:11] The Consul: /toggleraise
+[22:55:12] The Consul: /toggleraise
+[22:55:13] Mr. Chief<STEAM_0:1:129270116> changed their name to OTA.C17-KING.i3.50919
+[22:55:17] The Consul: king
+[22:55:19] The Consul: ur a faget
+[22:55:23] OTA.C17-KING.i3.50919: /toggleraise
+[22:55:26] OTA.C17-KING.i3.50919: /toggleraise
+[22:55:37] OTA.C17-KING.i3.50919: /toggleraise
+[22:55:39] OTA.C17-KING.i3.50919: /toggleraise
+[22:55:50] The Consul: /charsetmodel king models/characters/combine_soldier/jqblk/combine_s_super.mdl
+[22:56:33] The Consul: /charsetmodel king models/hlvr/characters/combine/heavy/combine_heavy_hlvr_player.mdl
+[22:56:40] The Consul: /doorsethidden true
+[22:56:43] The Consul: /charsetmodel king models/characters/combine_soldier/jqblk/combine_s_super.mdl
+[22:57:01] OTA.C17-KING.i3.50919: /toggleraise
+[22:57:05] OTA.C17-KING.i3.50919 killed The Consul using prop_combine_ball
+[22:57:10] OTA.C17-KING.i3.50919: /toggleraise
+[22:57:59] The Consul: /charsetmodel king models/characters/combine_soldier/jqblk/combine_s_super.mdl
+[22:58:05] The Consul: /charsetmodel king models/sect_police2.mdl
+[22:58:15] The Consul<STEAM_0:1:53097688> spawned ragdoll models/leet_police2.mdl
+[22:58:16] OTA.C17-KING.i3.50919<STEAM_0:1:129270116> used the tool camera on maps/rp_industrial17_v1.bsp
+[22:58:42] OTA.C17-KING.i3.50919: /toggleraise
+[22:58:46] The Consul: /charsetmodel king models/cultist/hl_a/worker/hazmat_2/npc/hazmat_2.mdl
+[22:59:04] OTA.C17-KING.i3.50919 killed The Consul using prop_combine_ball
+[22:59:09] The Consul: /charsetmodel king models/cultist/hl_a/metropolice/npc/metrocop.mdl
+[22:59:18] OTA.C17-KING.i3.50919<STEAM_0:1:129270116> spawned/gave himself swep weapon_ar21
+[22:59:21] OTA.C17-KING.i3.50919: /toggleraise
+[22:59:49] The Consul: /charsetmodel king models/cultist/hl_a/combine_grunt/npc/combine_grunt.mdl
+[22:59:54] The Consul<STEAM_0:1:53097688> spawned ragdoll models/lamarr.mdl
+[22:59:57] The Consul<STEAM_0:1:53097688> spawned ragdoll models/headcrabclassic.mdl
+[23:00:37] OTA.C17-KING.i3.50919<STEAM_0:1:129270116> spawned/gave himself swep weapon_spulse
+[23:00:38] OTA.C17-KING.i3.50919: /toggleraise
+[23:00:42] The Consul: /charsetmodel king models/dpfilms/metropolice/skull_police_female.mdl
+[23:00:57] OTA.C17-KING.i3.50919<STEAM_0:1:129270116> spawned/gave himself swep weapon_chargebow
+[23:01:00] OTA.C17-KING.i3.50919: /toggleraise
+[23:01:05] OTA.C17-KING.i3.50919<STEAM_0:1:129270116> spawned/gave himself swep weapon_oicw
+[23:01:06] OTA.C17-KING.i3.50919: /toggleraise
+[23:01:43] The Consul<STEAM_0:1:53097688> spawned model models/hlvr/combine_hazardprops/combinehazardprops_crate.mdl
+[23:01:48] The Consul<STEAM_0:1:53097688> spawned model models/hlvr/combine_hazardprops/combinehazardprops_barrel_lock.mdl
+[23:01:53] The Consul<STEAM_0:1:53097688> spawned model models/hlvr/combine_hazardprops/combinehazardprops_hoover.mdl
+[23:02:00] The Consul<STEAM_0:1:53097688> spawned model models/hlvr/combine_hazardprops/combinehazardprops_trashbag.mdl
+[23:02:07] The Consul<STEAM_0:1:53097688> spawned model models/hlvr/combine_hazardprops/combinehazardprops_warningsign.mdl
+[23:02:21] The Consul<STEAM_0:1:53097688> spawned model models/hlvr/combine_hazardprops/combinehazardprops_forcefield_left.mdl
+[23:02:26] The Consul<STEAM_0:1:53097688> spawned model models/hlvr/combine_hazardprops/combinehazardprops_forcefield_right.mdl
+[23:02:30] The Consul<STEAM_0:1:53097688> spawned model models/hlvr/combine_hazardprops/combinehazardprops_lamp.mdl
+[23:02:36] The Consul<STEAM_0:1:53097688> spawned model models/hlvr/combine_hazardprops/combinehazardprops_container.mdl
+[23:02:41] The Consul<STEAM_0:1:53097688> spawned model models/hlvr/combine_hazardprops/combinehazardprops_detector.mdl
+[23:03:29] The Consul<STEAM_0:1:88228734> spawned/gave himself swep weapon_357
+[23:03:32] The Consul: /charsetmodel king models/nicrobe/gallahan.mdl
+[23:03:33] OTA.C17-KING.i3.50919<STEAM_0:1:129270116> spawned/gave himself swep tfa_rustalpha_rocktool
+[23:03:47] OTA.C17-KING.i3.50919: /toggleraise
+[23:04:05] The Consul<STEAM_0:1:53097688> spawned ragdoll models/antlion.mdl
+[23:04:12] OTA.C17-KING.i3.50919: /toggleraise
+[23:04:40] The Consul<STEAM_0:1:53097688> spawned model models/optica/hlalyx_poster.mdl
+[23:04:59] The Consul<STEAM_0:1:53097688> spawned model models/cmb-computer-main/cmb-computer-main.mdl
+[23:05:04] The Consul<STEAM_0:1:53097688> spawned model models/cmb-computer-main/cmb-computer-main2.mdl
+[23:05:37] OTA.C17-KING.i3.50919<STEAM_0:1:129270116> spawned/gave himself swep tfa_rustalpha_bolt_action_rifle
+[23:05:38] The Consul<STEAM_0:1:53097688> spawned/gave himself swep tfa_rustalpha_hunting_bow
+[23:05:38] The Consul: /toggleraise
+[23:05:40] OTA.C17-KING.i3.50919: /toggleraise
+[23:05:51] OTA.C17-KING.i3.50919<STEAM_0:1:129270116> spawned/gave himself swep tfa_rustalpha_pipeshotgun
+[23:05:52] OTA.C17-KING.i3.50919: /toggleraise
+[23:05:58] OTA.C17-KING.i3.50919<STEAM_0:1:129270116> spawned/gave himself swep tfa_rustalpha_f1_grenade
+[23:06:00] OTA.C17-KING.i3.50919: /toggleraise
+[23:06:01] The Consul<STEAM_0:1:88228734> spawned sent ent_bigmommapod
+[23:06:13] OTA.C17-KING.i3.50919<STEAM_0:1:129270116> spawned/gave himself swep tfa_rustalpha_pickaxe
+[23:06:14] OTA.C17-KING.i3.50919: /toggleraise
+[23:06:17] The Consul: /charsetmodel king models/combine_shotgun_a.mdl
+[23:06:25] The Consul: /charsetmodel king models/player/combine_shotgun_a.mdl
+[23:06:40] OTA.C17-KING.i3.50919: /toggleraise
+[23:06:45] The Consul revoked god mode from Themself
+[23:06:45] The Consul: !ungod
+[23:06:46] The Consul: !hp 5
+[23:06:49] The Consul set the hp for Themself to 5
+[23:06:49] The Consul: !hp ^ 5
+[23:06:59] The Consul<STEAM_0:1:53097688> spawned/gave himself swep weapon_pistol
+[23:06:59] The Consul: /toggleraise
+[23:07:05] The Consul killed The Consul using ix_hands
+[23:07:12] OTA.C17-KING.i3.50919<STEAM_0:1:129270116> spawned/gave himself swep tfa_rustalpha_mp5
+[23:07:13] OTA.C17-KING.i3.50919: /toggleraise
+[23:07:14] The Consul: /charsetmodel king models/player/combine_super_a.mdl
+[23:07:14] OTA.C17-KING.i3.50919: /toggleraise
+[23:07:24] OTA.C17-KING.i3.50919: /toggleraise
+[23:07:26] The Consul: /charsetmodel king models/player/combine_coast_s.mdl
+[23:07:28] OTA.C17-KING.i3.50919: /toggleraise
+[23:07:29] The Consul teleported to OTA.C17-KING.i3.50919
+[23:07:29] The Consul: !goto king
+[23:07:31] OTA.C17-KING.i3.50919: /toggleraise
+[23:07:38] OTA.C17-KING.i3.50919 killed The Consul using tfa_rustalpha_mp5
+[23:08:04] The Consul<STEAM_0:1:53097688> spawned model models/cmb-bio-computer/cmb-bio-computer.mdl
+[23:08:10] OTA.C17-KING.i3.50919<STEAM_0:1:129270116> spawned/gave himself swep tfa_rustalpha_pipeshotgun
+[23:08:11] OTA.C17-KING.i3.50919: /toggleraise
+[23:08:41] OTA.C17-KING.i3.50919<STEAM_0:1:129270116> spawned/gave himself swep tfa_rustalpha_p250
+[23:08:41] OTA.C17-KING.i3.50919: /toggleraise
+[23:08:58] OTA.C17-KING.i3.50919 killed The Consul using tfa_rustalpha_p250
+[23:09:05] OTA.C17-KING.i3.50919<STEAM_0:1:129270116> spawned/gave himself swep tfa_rustalpha_m4
+[23:09:08] OTA.C17-KING.i3.50919: /toggleraise
+[23:09:23] OTA.C17-KING.i3.50919<STEAM_0:1:129270116> spawned/gave himself swep tfa_rustalpha_torch
+[23:09:24] OTA.C17-KING.i3.50919: /toggleraise
+[23:09:28] The Consul: /charsetmodel king models/player/combine_soldinf.mdl
+[23:09:28] OTA.C17-KING.i3.50919<STEAM_0:1:129270116> spawned/gave himself swep tfa_rustalpha_handcannon
+[23:09:29] OTA.C17-KING.i3.50919: /toggleraise
+[23:09:31] OTA.C17-KING.i3.50919 killed The Consul using tfa_rustalpha_handcannon
+[23:09:42] OTA.C17-KING.i3.50919<STEAM_0:1:129270116> spawned/gave himself swep tfa_rustalpha_shotgun
+[23:09:43] OTA.C17-KING.i3.50919: /toggleraise
+[23:09:56] OTA.C17-KING.i3.50919<STEAM_0:1:129270116> spawned/gave himself swep tfa_rustalpha_flare
+[23:09:56] OTA.C17-KING.i3.50919: /toggleraise
+[23:10:11] OTA.C17-KING.i3.50919<STEAM_0:1:129270116> spawned/gave himself swep tfa_rustalpha_hatchet
+[23:10:11] OTA.C17-KING.i3.50919: /toggleraise
+[23:10:11] The Consul: /charsetmodel king models/player/combine_super_a.mdl
+[23:10:41] The Consul suicided!
+[23:10:42] The Consul<STEAM_0:1:53097688> changed their name to Joseph Kimsler
+[23:10:55] Joseph Kimsler: dream about cheese
+[23:10:55] Joseph Kimsler: dream about cheese
+[23:10:56] Joseph Kimsler: dream about cheese
+[23:10:57] Joseph Kimsler: dream about cheese
+[23:10:57] Joseph Kimsler: dream about cheese
+[23:10:58] Joseph Kimsler: dream about cheese
+[23:11:01] Joseph Kimsler: dream about cheese
+[23:11:04] Joseph Kimsler: dream about cheese
+[23:11:07] Joseph Kimsler: dream about cheese
+[23:11:10] OTA.C17-KING.i3.50919 killed The Consul using tfa_rustalpha_hatchet
+[23:11:12] Joseph Kimsler: dont forget hawaii
+[23:11:17] Joseph Kimsler<STEAM_0:1:53097688> spawned/gave himself swep weapon_crossbow
+[23:11:17] Joseph Kimsler: /toggleraise
+[23:11:22] OTA.C17-KING.i3.50919: /toggleraise
+[23:11:26] OTA.C17-KING.i3.50919: /toggleraise
+[23:11:29] OTA.C17-KING.i3.50919: /toggleraise
+[23:11:33] OTA.C17-KING.i3.50919 killed Joseph Kimsler using tfa_rustalpha_shotgun
+[23:11:38] The Consul suicided!
+[23:11:45] Joseph Kimsler<STEAM_0:1:53097688> spawned/gave himself swep weapon_crossbow
+[23:11:45] Joseph Kimsler: /toggleraise
+[23:11:58] OTA.C17-KING.i3.50919 killed Joseph Kimsler using tfa_rustalpha_shotgun
+[23:11:58] Joseph Kimsler: !slay ^
+[23:12:02] OTA.C17-KING.i3.50919<STEAM_0:1:129270116> spawned/gave himself swep tfa_rustalpha_pistol
+[23:12:03] The Consul suicided!
+[23:12:03] OTA.C17-KING.i3.50919: /toggleraise
+[23:12:09] Joseph Kimsler<STEAM_0:1:53097688> spawned/gave himself swep weapon_crossbow
+[23:12:09] Joseph Kimsler: /toggleraise
+[23:12:27] OTA.C17-KING.i3.50919<STEAM_0:1:129270116> spawned/gave himself swep tfa_rustalpha_mp5
+[23:12:27] OTA.C17-KING.i3.50919: /toggleraise
+[23:12:30] Joseph Kimsler<STEAM_0:1:53097688> used the tool creator on maps/rp_industrial17_v1.bsp
+[23:12:30] Joseph Kimsler<STEAM_0:1:53097688> spawned/gave himself swep weapon_crossbow
+[23:12:30] Joseph Kimsler<STEAM_0:1:53097688> used the tool creator on models/weapons/w_crossbow.mdl
+[23:12:30] Joseph Kimsler<STEAM_0:1:53097688> spawned/gave himself swep weapon_crossbow
+[23:12:31] Joseph Kimsler<STEAM_0:1:53097688> used the tool creator on models/weapons/w_crossbow.mdl
+[23:12:31] Joseph Kimsler<STEAM_0:1:53097688> spawned/gave himself swep weapon_crossbow
+[23:12:31] Joseph Kimsler<STEAM_0:1:53097688> used the tool creator on models/weapons/w_crossbow.mdl
+[23:12:31] Joseph Kimsler<STEAM_0:1:53097688> spawned/gave himself swep weapon_crossbow
+[23:12:31] Joseph Kimsler<STEAM_0:1:53097688> used the tool creator on models/weapons/w_crossbow.mdl
+[23:12:31] Joseph Kimsler<STEAM_0:1:53097688> spawned/gave himself swep weapon_crossbow
+[23:12:32] OTA.C17-KING.i3.50919<STEAM_0:1:129270116> spawned/gave himself swep tfa_rustalpha_revolver
+[23:12:32] Joseph Kimsler<STEAM_0:1:53097688> spawned/gave himself swep weapon_crossbow
+[23:12:32] OTA.C17-KING.i3.50919: /toggleraise
+[23:12:34] Joseph Kimsler: /toggleraise
+[23:12:35] OTA.C17-KING.i3.50919 killed Joseph Kimsler using tfa_rustalpha_revolver
+[23:12:40] The Consul suicided!
+[23:12:42] Joseph Kimsler<STEAM_0:1:53097688> spawned/gave himself swep weapon_crossbow
+[23:12:43] Joseph Kimsler: /toggleraise
+[23:12:44] OTA.C17-KING.i3.50919<STEAM_0:1:129270116> spawned/gave himself swep weapon_ar21
+[23:12:45] OTA.C17-KING.i3.50919: /toggleraise
+[23:12:48] Joseph Kimsler was killed by prop_combine_ball
+[23:12:49] OTA.C17-KING.i3.50919 was killed by prop_combine_ball
+[23:12:53] The Consul suicided!
+[23:12:55] OTA.C17-KING.i3.50919<STEAM_0:1:129270116> spawned/gave himself swep weapon_ar21
+[23:12:56] OTA.C17-KING.i3.50919: /toggleraise
+[23:12:57] Joseph Kimsler<STEAM_0:1:53097688> spawned/gave himself swep weapon_crowbar
+[23:12:58] Joseph Kimsler: /toggleraise
+[23:13:06] Joseph Kimsler: dream about cheese
+[23:13:09] Joseph Kimsler<STEAM_0:1:53097688> spawned/gave himself swep weapon_frag
+[23:13:09] Joseph Kimsler: /toggleraise
+[23:13:09] Joseph Kimsler was killed by prop_combine_ball
+[23:13:09] The Consul was killed by prop_combine_ball
+[23:13:14] The Consul suicided!
+[23:13:18] Joseph Kimsler<STEAM_0:1:53097688> spawned/gave himself swep weapon_crossbow
+[23:13:19] Joseph Kimsler: /toggleraise
+[23:13:35] Joseph Kimsler<STEAM_0:1:53097688> spawned/gave himself swep weapon_physcannon
+[23:13:36] Joseph Kimsler: /toggleraise
+[23:14:26] The Consul was killed by prop_combine_ball
+[23:14:37] OTA.C17-KING.i3.50919<STEAM_0:1:129270116> spawned/gave himself swep weapon_spulse
+[23:14:37] OTA.C17-KING.i3.50919: /toggleraise
+[23:14:40] Joseph Kimsler: //hewwo
+[23:14:55] Joseph Kimsler: hi
+[23:14:57] Joseph Kimsler: hold it against you
+[23:15:00] Joseph Kimsler: bear thinking about
+[23:15:07] Joseph Kimsler: had a dime
+[23:15:10] OTA.C17-KING.i3.50919 was killed by prop_combine_ball
+[23:15:15] Joseph Kimsler: had a dime
+[23:15:15] The Consul suicided!
+[23:15:16] OTA.C17-KING.i3.50919<STEAM_0:1:129270116> spawned/gave himself swep weapon_spulse
+[23:15:16] Joseph Kimsler<STEAM_0:1:53097688> spawned/gave himself swep weapon_bugbait
+[23:15:17] Joseph Kimsler: /toggleraise
+[23:15:17] OTA.C17-KING.i3.50919<STEAM_0:1:129270116> spawned/gave himself swep weapon_ar21
+[23:15:18] OTA.C17-KING.i3.50919<STEAM_0:1:129270116> spawned/gave himself swep weapon_spulse
+[23:15:21] OTA.C17-KING.i3.50919: /toggleraise
+[23:15:21] Joseph Kimsler<STEAM_0:1:53097688> spawned/gave himself swep weapon_stunstick
+[23:15:22] Joseph Kimsler: /toggleraise
+[23:15:27] The Consul was killed by prop_combine_ball
+[23:15:27] Joseph Kimsler<STEAM_0:1:53097688> spawned/gave himself swep weapon_bfg_assasin_pistols
+[23:15:29] Joseph Kimsler: /toggleraise
+[23:15:33] Joseph Kimsler was killed by prop_combine_ball
+[23:15:38] The Consul suicided!
+[23:15:45] Joseph Kimsler<STEAM_0:1:53097688> spawned NPC npc_combine_s
+[23:15:53] Joseph Kimsler<STEAM_0:1:53097688> spawned model models/gibs/hgibs.mdl
+[23:16:02] Joseph Kimsler<STEAM_0:1:53097688> spawned/gave himself swep pill_wep_translocator
+[23:16:03] Joseph Kimsler: /toggleraise
+[23:16:11] Joseph Kimsler: /toggleraise
+[23:16:20] Joseph Kimsler killed The Consul using player
+[23:16:29] The Consul suicided!
+[23:17:01] The Consul suicided!
+[23:17:14] The Consul suicided!
+[23:17:23] The Consul suicided!
+[23:17:27] Joseph Kimsler suicided!
+[23:17:42] OTA.C17-KING.i3.50919 killed Joseph Kimsler using player
+[23:18:04] Joseph Kimsler granted god mode upon Themself
+[23:18:04] Joseph Kimsler: !god
+[23:19:52] OTA.C17-KING.i3.50919 killed Joseph Kimsler using player
+[23:20:11] Joseph Kimsler: /toggleraise
+[23:20:24] Joseph Kimsler killed OTA.C17-KING.i3.50919 using player
+[23:20:44] Joseph Kimsler suicided!
+[23:20:56] Joseph Kimsler suicided!
+[23:22:05] OTA.C17-KING.i3.50919 suicided!
+[23:22:21] Joseph Kimsler: /toggleraise
+[23:22:23] Joseph Kimsler was killed by pill_ent_phys
+[23:22:49] Joseph Kimsler was killed by pill_ent_phys
+[23:25:44] Joseph Kimsler<STEAM_0:1:53097688> spawned/gave himself swep weapon_rpg
+[23:25:47] Joseph Kimsler: !giveammo ^
+[23:25:50] Joseph Kimsler gave Themself 5 rounds
+[23:25:50] Joseph Kimsler: !giveammo ^ 5
+[23:25:53] Joseph Kimsler gave Themself 10000 rounds
+[23:25:53] Joseph Kimsler: !giveammo ^ 10000
+[23:25:53] Joseph Kimsler: /toggleraise
+[23:25:59] Joseph Kimsler set the hp for Themself to 100
+[23:25:59] Joseph Kimsler: !hp ^ 100
+[23:26:04] Joseph Kimsler set the armor for Themself to 100
+[23:26:04] Joseph Kimsler: !armor ^ 100
+[23:26:08] OTA.C17-KING.i3.50919 killed Joseph Kimsler using pill_ent_phys
+[23:26:36] Joseph Kimsler<STEAM_0:1:53097688> spawned/gave himself swep weapon_rpg
+[23:26:36] Joseph Kimsler: /toggleraise
+[23:26:45] OTA.C17-KING.i3.50919 killed Joseph Kimsler using pill_ent_phys
+[23:26:54] Joseph Kimsler<STEAM_0:1:53097688> spawned/gave himself swep weapon_rpg
+[23:26:56] Joseph Kimsler: /toggleraise
+[23:27:00] OTA.C17-KING.i3.50919 killed Joseph Kimsler using pill_ent_phys
+[23:27:08] Joseph Kimsler suicided!
+[23:27:16] Joseph Kimsler suicided!
+[23:27:26] Joseph Kimsler suicided!
+[23:27:36] Joseph Kimsler suicided!
+[23:28:00] Joseph Kimsler suicided!
+[23:28:10] Joseph Kimsler teleported to The Consul
+[23:28:10] Joseph Kimsler: !goto consul
+[23:28:31] Joseph Kimsler: /y Consul!
+[23:28:36] Joseph Kimsler: /y Consul!
+[23:28:44] Joseph Kimsler: /y Consul!
+[23:28:45] Joseph Kimsler: /y Consul!
+[23:29:08] Joseph Kimsler: /y Consul!
+[23:29:26] Joseph Kimsler<STEAM_0:1:53097688> changed their name to UU-SeC.17
+[23:29:32] UU-SeC.17: /dispatch autonomous judgment
+[23:30:03] UU-SeC.17<STEAM_0:1:53097688> changed their name to Joseph Kimsler
+[23:30:38] Joseph Kimsler: /y Consul!
+[23:30:45] Joseph Kimsler: /toggleraise
+[23:31:36] Joseph Kimsler<STEAM_0:1:53097688> spawned/gave himself swep weapon_rpg
+[23:31:36] Joseph Kimsler: /toggleraise
+[23:31:38] Joseph Kimsler: /toggleraise
+[23:31:39] Joseph Kimsler<STEAM_0:1:53097688> spawned/gave himself swep weapon_rpg
+[23:31:39] Joseph Kimsler: /toggleraise
+[23:31:58] Joseph Kimsler gave Themself 50000 rounds
+[23:31:58] Joseph Kimsler: !giveammo ^ 50000
+[23:32:18] OTA.C17-KING.i3.50919 killed Joseph Kimsler using pill_ent_phys
+[23:34:41] Dropped "OTA.C17-KING.i3.50919" from server<STEAM_0:1:129270116>
+[23:35:05] Joseph Kimsler killed The Consul
+[23:35:15] The Consul suicided!
+[23:36:07] The Consul: /ooc hey!
+[23:37:14] Joseph Kimsler: /y Consul!
+[23:37:24] Joseph Kimsler: Consul, it is quite a pleasure.
+[23:37:27] Joseph Kimsler: An honor, really.
+[23:37:35] Joseph Kimsler: I wanted to speak about I haven't been feeling alright.
+[23:37:43] Joseph Kimsler: I've been feeling stran-
+[23:37:44] Joseph Kimsler: Oh.
+[23:37:45] Joseph Kimsler: Oh God.
+[23:37:51] Joseph Kimsler: It's happening again.
+[23:37:59] Joseph Kimsler: Consul!
+[23:38:05] Joseph Kimsler: Oh no! I'm... I'm..
+[23:38:10] Joseph Kimsler: /y I'M ASCENDING!
+[23:38:44] Joseph Kimsler: I have ascended, Consul.
+[23:38:48] Joseph Kimsler: I have more pressing matters to attend to.
+[23:38:51] Joseph Kimsler: Best wishes.
+[23:41:33] Joseph Kimsler: /y Consul!
+[23:41:43] Joseph Kimsler: Consul, may I speak with you?
+[23:41:54] Joseph Kimsler: /toggleraise
+[23:42:02] Joseph Kimsler: I am.. not feeling well.
+[23:44:42] The Consul was killed by pill_ent_phys
+[23:45:39] Joseph Kimsler suicided!
+[23:46:35] Joseph Kimsler: /toggleraise
+[23:47:11] Joseph Kimsler: /toggleraise
+[23:47:17] Joseph Kimsler<STEAM_0:1:53097688> spawned model models/props_c17/suitcase_passenger_physics.mdl
+[23:48:13] Joseph Kimsler<STEAM_0:1:53097688> spawned ragdoll models/lamarr.mdl
+[23:48:22] Joseph Kimsler<STEAM_0:1:53097688> spawned ragdoll models/headcrabclassic.mdl
+[23:50:04] Joseph Kimsler<STEAM_0:1:53097688> spawned/gave himself swep weapon_shotgun
+[23:50:59] Joseph Kimsler<STEAM_0:1:53097688> spawned/gave himself swep grub_combine_sniper
+[23:50:59] Joseph Kimsler: /toggleraise
+[23:52:19] Joseph Kimsler gave Themself 500000 rounds
+[23:52:19] Joseph Kimsler: !giveammo ^ 500000
+[23:54:57] Joseph Kimsler: dream about cheese
+[23:55:02] Joseph Kimsler: /y dream about cheese
+[23:55:15] Joseph Kimsler: /y dont forget hawaii
+[23:55:18] Joseph Kimsler: /y dont forget hawaii
+[23:55:21] Joseph Kimsler: /y dream about cheese
+[23:55:25] Joseph Kimsler: dream about cheese
+[23:57:44] The Consul: Judgement
+[23:58:35] Joseph Kimsler<STEAM_0:1:53097688> changed their name to The Consul
+[23:59:41] Dropped "The Consul" from server<STEAM_0:1:88228734>
+<Logging continued in "data/ulx_logs/04-24-20.txt">

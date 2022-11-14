@@ -1,0 +1,85 @@
+<Logging continued from "data/ulx_logs/05-30-20.txt">
+[00:01:13] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 99 seconds).
+[00:04:17] matt saton<STEAM_0:1:53097688> changed their name to Joseph Kimsler
+[00:04:40] Joseph Kimsler<STEAM_0:1:53097688> spawned sent ix_station_workbench
+[00:04:42] Joseph Kimsler<STEAM_0:1:53097688> spawned sent ix_station_airpressurizer
+[00:04:51] Joseph Kimsler<STEAM_0:1:53097688> used the tool permaprops on models/props_lab/reciever_cart.mdl
+[00:05:38] Joseph Kimsler: /adminspawnmenu
+[00:06:43] Joseph Kimsler: /chargiveitem joseph "air tank"
+[00:06:50] Joseph Kimsler: /chargiveitem joseph "empty combine air tank"
+[00:09:20] Joseph Kimsler: /chargiveitem joseph "empty combine air tank"
+[00:09:40] Joseph Kimsler suicided!
+[00:10:01] Joseph Kimsler suicided!
+[00:10:28] Joseph Kimsler: /charsetattribute joseph eng 60
+[00:10:39] Joseph Kimsler: /chargiveitem joseph "empty combine air tank"
+[00:10:46] Joseph Kimsler suicided!
+[00:11:07] Joseph Kimsler suicided!
+[00:17:44] Joseph Kimsler<STEAM_0:1:53097688> spawned/gave himself swep weapon_crowbar
+[00:17:45] Joseph Kimsler: /toggleraise
+[00:23:33] Joseph Kimsler: /adminspawnmenu
+[00:24:39] Joseph Kimsler: /chargiveitem joseph "empty combine air tank"
+[00:29:13] Joseph Kimsler<STEAM_0:1:53097688> spawned NPC monster_g_man
+[00:29:16] Joseph Kimsler<STEAM_0:1:53097688> spawned NPC monster_gonome
+[00:29:18] Joseph Kimsler<STEAM_0:1:53097688> spawned NPC monster_hwgrunt
+[00:35:10] Joseph Kimsler: >test
+[00:36:06] Joseph Kimsler: >test
+[00:48:52] Joseph Kimsler<STEAM_0:1:53097688> spawned model models/props/de_train/lockers001a.mdl
+[00:49:30] Joseph Kimsler<STEAM_0:1:53097688> spawned model models/props/cs_militia/circularsaw01.mdl
+[00:49:57] Joseph Kimsler<STEAM_0:1:53097688> spawned model models/props/cs_militia/mailbox01.mdl
+[00:58:07] Joseph Kimsler<STEAM_0:1:53097688> spawned model models/props_debris/concrete_cynderblock001.mdl
+[00:58:15] Joseph Kimsler<STEAM_0:1:53097688> spawned model models/props_debris/concrete_cynderblock001.mdl
+[00:58:54] Joseph Kimsler<STEAM_0:1:53097688> spawned model models/props_lab/teleplatform.mdl
+[00:59:41] Joseph Kimsler<STEAM_0:1:53097688> spawned model models/props_c17/gate_door01a.mdl
+[00:59:51] Joseph Kimsler<STEAM_0:1:53097688> spawned model models/props_c17/tools_pliers01a.mdl
+
+
+
+[01:14:51] New map: rp_city8_edit_v4r
+[01:17:46] Client "matt saton" connected.
+[01:19:04] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 78 seconds).
+[01:20:18] matt saton<STEAM_0:1:53097688> changed their name to Joseph Kimsler
+[01:23:32] Joseph Kimsler: /adminspawnmenu
+[01:33:39] Joseph Kimsler<STEAM_0:1:53097688> spawned model models/perftest/loader_static.mdl
+[01:33:43] Joseph Kimsler<STEAM_0:1:53097688> spawned effect models/perftest/loader.mdl
+[01:34:14] Joseph Kimsler<STEAM_0:1:53097688> spawned effect models/perftest/grass_tuft_001.mdl
+[01:34:48] Joseph Kimsler<STEAM_0:1:53097688> spawned effect models/perftest/ground_objects8k.mdl
+[01:35:06] Joseph Kimsler<STEAM_0:1:53097688> spawned effect models/perftest/rocksground02c.mdl
+[01:35:08] Joseph Kimsler<STEAM_0:1:53097688> spawned model models/perftest/rocksground01b.mdl
+[01:39:40] Joseph Kimsler<STEAM_0:1:53097688> spawned model models/perftest/rocksground01b.mdl
+[01:40:49] Joseph Kimsler<STEAM_0:1:53097688> spawned model models/perftest/rocksground01b.mdl
+[01:41:51] Joseph Kimsler<STEAM_0:1:53097688> spawned model models/props_c17/playground_carousel01.mdl
+[01:42:12] Joseph Kimsler<STEAM_0:1:53097688> spawned vehicle models/nova/airboat_seat.mdl
+[01:49:39] Joseph Kimsler: /adminspawnmenu
+[01:50:45] Joseph Kimsler: /chargiveitem joseph reclaimed
+
+
+
+[23:02:53] New map: rp_city8_edit_v4r
+[23:04:30] Client "matt saton" connected.
+[23:07:58] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 208 seconds).
+[23:11:15] matt saton<STEAM_0:1:53097688> changed their name to Joseph Kimsler
+[23:11:26] Joseph Kimsler<STEAM_0:1:53097688> spawned/gave himself swep weapon_rpg
+[23:11:26] Joseph Kimsler<STEAM_0:1:53097688> spawned/gave himself swep weapon_shotgun
+[23:11:27] Joseph Kimsler: /toggleraise
+[23:11:30] Joseph Kimsler<STEAM_0:1:53097688> spawned/gave himself swep weapon_smg1
+[23:11:31] Joseph Kimsler: /toggleraise
+[23:11:33] Joseph Kimsler<STEAM_0:1:53097688> spawned/gave himself swep weapon_shotgun
+[23:11:33] Joseph Kimsler: /toggleraise
+[23:11:35] Joseph Kimsler<STEAM_0:1:53097688> spawned/gave himself swep weapon_crossbow
+[23:11:35] Joseph Kimsler: /toggleraise
+[23:11:40] Joseph Kimsler<STEAM_0:1:53097688> spawned/gave himself swep weapon_ar2
+[23:11:40] Joseph Kimsler: /toggleraise
+[23:11:46] Joseph Kimsler<STEAM_0:1:53097688> spawned/gave himself swep weapon_smg1
+[23:11:47] Joseph Kimsler: /toggleraise
+[23:11:51] Joseph Kimsler<STEAM_0:1:53097688> spawned/gave himself swep swep_vortigaunt_sweep
+[23:11:51] Joseph Kimsler: /toggleraise
+[23:11:52] Joseph Kimsler<STEAM_0:1:53097688> spawned/gave himself swep swep_vortigaunt_heal
+[23:11:53] Joseph Kimsler: /toggleraise
+[23:12:41] Joseph Kimsler<STEAM_0:1:53097688> spawned sent ix_station_forge
+[23:15:36] Joseph Kimsler<STEAM_0:1:53097688> spawned/gave himself swep ix_stunstick
+[23:15:37] Joseph Kimsler: /toggleraise
+[23:29:13] Joseph Kimsler: >test
+[23:29:35] Joseph Kimsler: >test
+[23:29:40] Joseph Kimsler: >being on hammer
+[23:29:43] Joseph Kimsler: >Being this dumb
+[23:29:45] Joseph Kimsler: //found your issue

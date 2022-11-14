@@ -1,0 +1,5 @@
+ITEM.name = "Brown Loyalist Armband"
+ITEM.model = "models/props_junk/cardboard_box004a.mdl"
+ITEM.description = "A brown loyalist armband."
+ITEM.category = "Bands"
+ITEM.band = "brown"

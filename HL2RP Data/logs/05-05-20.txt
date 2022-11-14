@@ -1,0 +1,804 @@
+[00:42:45]	matt saton has connected.
+[00:49:07]	matt saton (STEAM_0:1:53097688) has disconnected.
+[00:51:11]	matt saton has connected.
+[00:55:44]	matt saton loaded the character 'Retarded Bird'
+[00:56:06]	Retarded Bird entered observer.
+[00:57:49]	Retarded Bird exited observer at their location.
+[00:57:58]	Retarded Bird has spawned a 'Entity [288][ix_station_workbench]'.
+[00:58:00]	Retarded Bird has spawned a 'Entity [2906][ix_station_workbench]'.
+[00:58:00]	Retarded Bird entered observer.
+[00:58:03]	Retarded Bird has spawned a 'Entity [2907][ix_station_workbench]'.
+[00:58:03]	Retarded Bird has spawned a 'Entity [2908][ix_station_workbench]'.
+[00:58:04]	Retarded Bird has spawned a 'Entity [2909][ix_station_workbench]'.
+[00:58:04]	Retarded Bird has spawned a 'Entity [2924][ix_station_workbench]'.
+[00:58:04]	Retarded Bird has spawned a 'Entity [2927][ix_station_workbench]'.
+[00:58:04]	Retarded Bird has spawned a 'Entity [2931][ix_station_workbench]'.
+[00:58:04]	Retarded Bird has spawned a 'Entity [2934][ix_station_workbench]'.
+[00:58:05]	Retarded Bird has spawned a 'Entity [2937][ix_station_workbench]'.
+[00:58:32]	matt saton loaded the character 'CCA.C08-GRID.i4.69192'
+[00:58:36]	CCA.C08-GRID.i4.69192 has spawned a 'Entity [2901][ix_station_workbench]'.
+[00:58:39]	CCA.C08-GRID.i4.69192 entered observer.
+[00:58:43]	CCA.C08-GRID.i4.69192 exited observer at their location.
+[00:59:05]	CCA.C08-GRID.i4.69192 has gained a 'Breen's Water' #6949.
+[00:59:05]	CCA.C08-GRID.i4.69192 used command '/CharGiveItem grid water'.
+[00:59:27]	CCA.C08-GRID.i4.69192 used command '/adminspawnmenu'.
+[01:00:26]	CCA.C08-GRID.i4.69192 has gained a 'Wrench' #6950.
+[01:00:27]	CCA.C08-GRID.i4.69192 used command '/CharGiveItem grid wrench'.
+[01:01:02]	CCA.C08-GRID.i4.69192 entered observer.
+[01:01:06]	CCA.C08-GRID.i4.69192 has spawned a 'Entity [2901][ix_station_workbench]'.
+[01:01:06]	CCA.C08-GRID.i4.69192 exited observer at their location.
+[01:01:09]	CCA.C08-GRID.i4.69192 entered observer.
+[01:01:12]	CCA.C08-GRID.i4.69192 exited observer at their location.
+[01:01:12]	CCA.C08-GRID.i4.69192 entered observer.
+[01:01:13]	CCA.C08-GRID.i4.69192 exited observer at their location.
+[01:01:45]	CCA.C08-GRID.i4.69192 entered observer.
+[01:01:45]	CCA.C08-GRID.i4.69192 exited observer at their location.
+[01:02:58]	CCA.C08-GRID.i4.69192 has spawned a 'Entity [2901][ix_station_workbench]'.
+[01:02:58]	CCA.C08-GRID.i4.69192 entered observer.
+[01:03:01]	CCA.C08-GRID.i4.69192 has spawned a 'Entity [2901][ix_station_workbench]'.
+[01:03:06]	CCA.C08-GRID.i4.69192 has spawned a 'Entity [2901][ix_station_workbench]'.
+[01:03:06]	CCA.C08-GRID.i4.69192 exited observer at their location.
+[01:04:21]	CCA.C08-GRID.i4.69192 used command '/DoorSetHidden true'.
+[01:05:42]	CCA.C08-GRID.i4.69192 ran 'drop' on item 'Wrench' (#6950)
+[01:05:42]	CCA.C08-GRID.i4.69192 has lost a 'Wrench' #6950.
+[01:05:43]	CCA.C08-GRID.i4.69192 ran 'drop' on item 'Breen's Water' (#6949)
+[01:05:43]	CCA.C08-GRID.i4.69192 has lost a 'Breen's Water' #6949.
+[01:05:45]	CCA.C08-GRID.i4.69192 ran 'drop' on item 'Percocet 20mg' (#6934)
+[01:05:45]	CCA.C08-GRID.i4.69192 has lost a 'Percocet 20mg' #6934.
+[01:05:49]	CCA.C08-GRID.i4.69192 ran 'take' on item 'Percocet 20mg' (#6934)
+[01:05:49]	CCA.C08-GRID.i4.69192 has gained a 'Percocet 20mg' #6934.
+[01:05:50]	CCA.C08-GRID.i4.69192 ran 'take' on item 'Breen's Water' (#6949)
+[01:05:50]	CCA.C08-GRID.i4.69192 has gained a 'Breen's Water' #6949.
+[01:05:52]	CCA.C08-GRID.i4.69192 ran 'take' on item 'Wrench' (#6950)
+[01:05:52]	CCA.C08-GRID.i4.69192 has gained a 'Wrench' #6950.
+[01:05:54]	CCA.C08-GRID.i4.69192 entered observer.
+[01:06:01]	CCA.C08-GRID.i4.69192 ran 'take' on item 'Suitcase' (#3835)
+[01:06:01]	CCA.C08-GRID.i4.69192 has gained a 'Suitcase' #3835.
+[01:06:03]	CCA.C08-GRID.i4.69192 ran 'drop' on item 'Suitcase' (#3835)
+[01:06:03]	CCA.C08-GRID.i4.69192 has lost a 'Suitcase' #3835.
+[01:06:11]	CCA.C08-GRID.i4.69192 has spawned a 'Entity [2910][ix_station_workbench]'.
+[01:06:16]	CCA.C08-GRID.i4.69192 exited observer at their location.
+[01:06:16]	CCA.C08-GRID.i4.69192 entered observer.
+[01:06:17]	CCA.C08-GRID.i4.69192 exited observer at their location.
+[01:12:23]	CCA.C08-GRID.i4.69192 entered observer.
+[01:12:50]	CCA.C08-GRID.i4.69192 has spawned a 'Entity [2910][ix_vendor]'.
+[01:12:51]	CCA.C08-GRID.i4.69192 exited observer at their location.
+[01:12:53]	CCA.C08-GRID.i4.69192 has spawned a 'Entity [2912][ix_station_workbench]'.
+[01:13:06]	CCA.C08-GRID.i4.69192 has gained 10 tokens.
+[01:16:35]	CCA.C08-GRID.i4.69192 entered observer.
+[01:18:06]	CCA.C08-GRID.i4.69192 has gained 10 tokens.
+[01:19:03]	CCA.C08-GRID.i4.69192 used command '/ToggleRaise'.
+[01:19:19]	CCA.C08-GRID.i4.69192 exited observer at their location.
+[01:19:20]	CCA.C08-GRID.i4.69192 entered observer.
+[01:19:53]	CCA.C08-GRID.i4.69192 used command '/ToggleRaise'.
+[01:19:59]	CCA.C08-GRID.i4.69192 has spawned a 'Entity [2910][ix_station_workbench]'.
+[01:19:59]	CCA.C08-GRID.i4.69192 exited observer at their location.
+[01:20:00]	CCA.C08-GRID.i4.69192 has spawned a 'Entity [2912][ix_station_workbench]'.
+[01:21:01]	CCA.C08-GRID.i4.69192 used command '/CharGiveFlag grid V'.
+[01:21:05]	CCA.C08-GRID.i4.69192 entered observer.
+[01:25:32]	CCA.C08-GRID.i4.69192 has gained 10 tokens.
+[01:30:32]	CCA.C08-GRID.i4.69192 has gained 10 tokens.
+[01:34:09]	CCA.C08-GRID.i4.69192 exited observer at their location.
+[01:34:11]	CCA.C08-GRID.i4.69192 has lost a 'Breen's Water' #6949.
+[01:34:11]	CCA.C08-GRID.i4.69192 has gained a 'Melon' #6951.
+[01:34:12]	CCA.C08-GRID.i4.69192 entered observer.
+[01:34:19]	CCA.C08-GRID.i4.69192 has gained a 'Paper' #6952.
+[01:34:19]	CCA.C08-GRID.i4.69192 used command '/CharGiveItem grid paper'.
+[01:34:57]	CCA.C08-GRID.i4.69192 has gained a 'Breen's Water' #6953.
+[01:34:57]	CCA.C08-GRID.i4.69192 used command '/CharGiveItem grid water'.
+[01:35:01]	CCA.C08-GRID.i4.69192 exited observer at their location.
+[01:35:32]	CCA.C08-GRID.i4.69192 has gained 10 tokens.
+[01:35:32]	CCA.C08-GRID.i4.69192 has lost a 'Breen's Water' #6953.
+[01:35:32]	CCA.C08-GRID.i4.69192 has gained a 'Melon' #6953.
+[01:35:35]	CCA.C08-GRID.i4.69192 entered observer.
+[01:35:37]	CCA.C08-GRID.i4.69192 exited observer at their location.
+[01:35:38]	CCA.C08-GRID.i4.69192 entered observer.
+[01:40:32]	CCA.C08-GRID.i4.69192 has gained 10 tokens.
+[01:45:32]	CCA.C08-GRID.i4.69192 has gained 10 tokens.
+[01:50:32]	CCA.C08-GRID.i4.69192 has gained 10 tokens.
+[01:55:32]	CCA.C08-GRID.i4.69192 has gained 10 tokens.
+[01:58:22]	Crowflex has connected.
+[02:00:03]	Crowflex created the character 'Andrew Bennett'
+[02:00:03]	Crowflex loaded the character 'Andrew Bennett'
+[02:00:32]	CCA.C08-GRID.i4.69192 has gained 10 tokens.
+[02:05:02]	Andrew Bennett opened the '' #894 container.
+[02:05:03]	Andrew Bennett closed the '' #894 container.
+[02:05:05]	Andrew Bennett opened the '' #894 container.
+[02:05:05]	Andrew Bennett closed the '' #894 container.
+[02:05:06]	Andrew Bennett opened the '' #894 container.
+[02:05:09]	Andrew Bennett closed the '' #894 container.
+[02:05:32]	CCA.C08-GRID.i4.69192 has gained 10 tokens.
+[02:06:56]	Andrew Bennett opened the '' #891 container.
+[02:06:59]	Andrew Bennett closed the '' #891 container.
+[02:07:27]	Crowflex (STEAM_0:1:22825691) has disconnected.
+[02:10:32]	CCA.C08-GRID.i4.69192 has gained 10 tokens.
+[02:15:32]	CCA.C08-GRID.i4.69192 has gained 10 tokens.
+[02:20:32]	CCA.C08-GRID.i4.69192 has gained 10 tokens.
+[02:25:32]	CCA.C08-GRID.i4.69192 has gained 10 tokens.
+[02:30:32]	CCA.C08-GRID.i4.69192 has gained 10 tokens.
+[02:35:32]	CCA.C08-GRID.i4.69192 has gained 10 tokens.
+[02:40:32]	CCA.C08-GRID.i4.69192 has gained 10 tokens.
+[02:47:53]	CCA.C08-GRID.i4.69192 has gained 10 tokens.
+[02:54:34]	CCA.C08-GRID.i4.69192 has gained 10 tokens.
+[02:59:34]	CCA.C08-GRID.i4.69192 has gained 10 tokens.
+[03:04:34]	CCA.C08-GRID.i4.69192 has gained 10 tokens.
+[03:09:34]	CCA.C08-GRID.i4.69192 has gained 10 tokens.
+[03:14:34]	CCA.C08-GRID.i4.69192 has gained 10 tokens.
+[03:19:34]	CCA.C08-GRID.i4.69192 has gained 10 tokens.
+[03:24:34]	CCA.C08-GRID.i4.69192 has gained 10 tokens.
+[03:25:39]	CCA.C08-GRID.i4.69192 used command '/adminspawnmenu'.
+[03:25:43]	CCA.C08-GRID.i4.69192 used command '/adminspawnmenu'.
+[03:28:18]	CCA.C08-GRID.i4.69192 used command '/ToggleRaise'.
+[03:28:21]	CCA.C08-GRID.i4.69192 exited observer at their location.
+[03:28:23]	CCA.C08-GRID.i4.69192 entered observer.
+[03:28:30]	CCA.C08-GRID.i4.69192 exited observer at their location.
+[03:28:32]	CCA.C08-GRID.i4.69192 used command '/ToggleRaise'.
+[03:28:42]	CCA.C08-GRID.i4.69192 entered observer.
+[03:29:34]	CCA.C08-GRID.i4.69192 has gained 10 tokens.
+[03:29:45]	CCA.C08-GRID.i4.69192 has spawned 'models/props_junk/metal_paintcan001a.mdl'.
+[03:30:50]	CCA.C08-GRID.i4.69192 has spawned 'models/weapons/w_packatc.mdl'.
+[03:30:54]	CCA.C08-GRID.i4.69192 exited observer at their location.
+[03:30:55]	CCA.C08-GRID.i4.69192 has spawned 'models/weapons/w_packatb.mdl'.
+[03:30:57]	CCA.C08-GRID.i4.69192 entered observer.
+[03:30:59]	CCA.C08-GRID.i4.69192 has spawned 'models/weapons/w_packatc.mdl'.
+[03:31:05]	CCA.C08-GRID.i4.69192 has spawned 'models/weapons/w_packate.mdl'.
+[03:31:07]	CCA.C08-GRID.i4.69192 has spawned 'models/weapons/w_packate.mdl'.
+[03:31:11]	CCA.C08-GRID.i4.69192 has spawned 'models/weapons/w_packati.mdl'.
+[03:31:16]	CCA.C08-GRID.i4.69192 has spawned 'models/weapons/w_packatl.mdl'.
+[03:31:21]	CCA.C08-GRID.i4.69192 has spawned 'models/weapons/w_packatp.mdl'.
+[03:31:24]	CCA.C08-GRID.i4.69192 has spawned 'models/weapons/w_packatb.mdl'.
+[03:31:27]	CCA.C08-GRID.i4.69192 has spawned 'models/weapons/w_packatc.mdl'.
+[03:32:25]	CCA.C08-GRID.i4.69192 has spawned 'models/probs_misc/tobbcco_box-1.mdl'.
+[03:32:34]	CCA.C08-GRID.i4.69192 has spawned 'models/probs_misc/tobbcco_box-1_gib1.mdl'.
+[03:32:36]	CCA.C08-GRID.i4.69192 has spawned 'models/probs_misc/tobccco_box-1.mdl'.
+[03:32:42]	CCA.C08-GRID.i4.69192 has spawned 'models/probs_misc/tobdcco_box-1.mdl'.
+[03:32:47]	CCA.C08-GRID.i4.69192 has spawned 'models/foodnhouseholdaaaaa/combirationa.mdl'.
+[03:32:53]	CCA.C08-GRID.i4.69192 has spawned 'models/foodnhouseholdaaaaa/combirationb.mdl'.
+[03:32:58]	CCA.C08-GRID.i4.69192 has spawned 'models/foodnhouseholdaaaaa/combirationc.mdl'.
+[03:33:01]	CCA.C08-GRID.i4.69192 has spawned 'models/gibs/props_canteen/vm_sneckol.mdl'.
+[03:33:06]	CCA.C08-GRID.i4.69192 has spawned 'models/mres/consumables/lag_mre.mdl'.
+[03:33:08]	CCA.C08-GRID.i4.69192 has spawned 'models/mres/consumables/pag_mre.mdl'.
+[03:33:23]	CCA.C08-GRID.i4.69192 has spawned 'models/mres/consumables/tag_mre.mdl'.
+[03:33:33]	CCA.C08-GRID.i4.69192 has spawned 'models/mres/consumables/zag_mre.mdl'.
+[03:33:50]	CCA.C08-GRID.i4.69192 has spawned 'models/closedboxshin.mdl'.
+[03:33:54]	CCA.C08-GRID.i4.69192 has spawned 'models/closedboxshit.mdl'.
+[03:33:59]	CCA.C08-GRID.i4.69192 has spawned 'models/bioshockinfinite/hext_candy_chocolate.mdl'.
+[03:34:07]	CCA.C08-GRID.i4.69192 has spawned 'models/phycitnew.mdl'.
+[03:34:11]	CCA.C08-GRID.i4.69192 has spawned 'models/phycinnew.mdl'.
+[03:34:13]	CCA.C08-GRID.i4.69192 has spawned 'models/phycitnew.mdl'.
+[03:34:15]	CCA.C08-GRID.i4.69192 has spawned 'models/closedboxshin.mdl'.
+[03:34:19]	CCA.C08-GRID.i4.69192 has spawned 'models/closedboxshit.mdl'.
+[03:34:26]	CCA.C08-GRID.i4.69192 has spawned 'models/closedboxshit.mdl'.
+[03:34:34]	CCA.C08-GRID.i4.69192 has gained 10 tokens.
+[03:35:23]	CCA.C08-GRID.i4.69192 has spawned 'models/weapons/w_packatp.mdl'.
+[03:35:28]	CCA.C08-GRID.i4.69192 has spawned 'models/weapons/w_packatl.mdl'.
+[03:35:32]	CCA.C08-GRID.i4.69192 has spawned 'models/weapons/w_packatp.mdl'.
+[03:35:42]	CCA.C08-GRID.i4.69192 has spawned 'models/weapons/w_packate.mdl'.
+[03:38:41]	CCA.C08-GRID.i4.69192 exited observer at their location.
+[03:38:44]	CCA.C08-GRID.i4.69192 used command '/adminspawnmenu'.
+[03:39:03]	CCA.C08-GRID.i4.69192 has spawned "Universal Soda"
+[03:39:06]	CCA.C08-GRID.i4.69192 ran 'take' on item 'Universal Soda' (#6954)
+[03:39:06]	CCA.C08-GRID.i4.69192 has gained a 'Universal Soda' #6954.
+[03:39:11]	CCA.C08-GRID.i4.69192 has spawned 'models/foodnhouseholdaaaaa/combirationa.mdl'.
+[03:39:14]	CCA.C08-GRID.i4.69192 has spawned 'models/foodnhouseholdaaaaa/combirationb.mdl'.
+[03:39:19]	CCA.C08-GRID.i4.69192 entered observer.
+[03:39:22]	CCA.C08-GRID.i4.69192 has spawned 'models/foodnhouseholdaaaaa/combirationc.mdl'.
+[03:39:25]	CCA.C08-GRID.i4.69192 has spawned 'models/mres/consumables/pag_mre.mdl'.
+[03:39:26]	CCA.C08-GRID.i4.69192 has spawned 'models/foodnhouseholdaaaaa/combirationc.mdl'.
+[03:39:36]	CCA.C08-GRID.i4.69192 has spawned 'models/pg_plops/pg_food/pg_tortellinat.mdl'.
+[03:39:40]	CCA.C08-GRID.i4.69192 has spawned 'models/pg_plops/pg_food/pg_tortellinan.mdl'.
+[03:39:42]	CCA.C08-GRID.i4.69192 has spawned 'models/pg_plops/pg_food/pg_tortellinap.mdl'.
+[03:39:45]	CCA.C08-GRID.i4.69192 has spawned 'models/pg_plops/pg_food/pg_tortellinar.mdl'.
+[03:39:46]	CCA.C08-GRID.i4.69192 has spawned 'models/pg_plops/pg_food/pg_tortellinar.mdl'.
+[03:39:49]	CCA.C08-GRID.i4.69192 has spawned 'models/pg_plops/pg_food/pg_tortellinan.mdl'.
+[03:39:51]	CCA.C08-GRID.i4.69192 has spawned 'models/pg_plops/pg_food/pg_tortellinap.mdl'.
+[03:39:52]	CCA.C08-GRID.i4.69192 has spawned 'models/pg_plops/pg_food/pg_tortellinan.mdl'.
+[03:39:53]	CCA.C08-GRID.i4.69192 has spawned 'models/pg_plops/pg_food/pg_tortellinac.mdl'.
+[03:39:55]	CCA.C08-GRID.i4.69192 has spawned 'models/pg_plops/pg_food/pg_tortellinap.mdl'.
+[03:39:57]	CCA.C08-GRID.i4.69192 has spawned 'models/pg_plops/pg_food/pg_tortellinar.mdl'.
+[03:40:00]	CCA.C08-GRID.i4.69192 has spawned 'models/pg_plops/pg_food/pg_tortellinas.mdl'.
+[03:40:02]	CCA.C08-GRID.i4.69192 has spawned 'models/pg_plops/pg_food/pg_tortellinat.mdl'.
+[03:40:09]	CCA.C08-GRID.i4.69192 has spawned 'models/foodnhouseholdaaaaa/combirationb.mdl'.
+[03:40:10]	CCA.C08-GRID.i4.69192 has spawned 'models/foodnhouseholdaaaaa/combirationa.mdl'.
+[03:40:13]	CCA.C08-GRID.i4.69192 has spawned 'models/foodnhouseholdaaaaa/combirationb.mdl'.
+[03:40:16]	CCA.C08-GRID.i4.69192 has spawned 'models/foodnhouseholdaaaaa/combirationc.mdl'.
+[03:40:18]	CCA.C08-GRID.i4.69192 has spawned 'models/gibs/props_canteen/vm_sneckol.mdl'.
+[03:40:33]	CCA.C08-GRID.i4.69192 has spawned 'models/mres/consumables/lag_mre.mdl'.
+[03:40:44]	CCA.C08-GRID.i4.69192 has spawned 'models/mres/consumables/pag_mre.mdl'.
+[03:40:55]	CCA.C08-GRID.i4.69192 has spawned 'models/mres/consumables/tag_mre.mdl'.
+[03:41:06]	CCA.C08-GRID.i4.69192 has spawned 'models/mres/consumables/zag_mre.mdl'.
+[03:41:19]	CCA.C08-GRID.i4.69192 has spawned 'models/probs_misc/tobbcco_box-1.mdl'.
+[03:41:23]	CCA.C08-GRID.i4.69192 has spawned 'models/probs_misc/tobccco_box-1.mdl'.
+[03:41:25]	CCA.C08-GRID.i4.69192 has spawned 'models/probs_misc/tobccco_box-1.mdl'.
+[03:41:28]	CCA.C08-GRID.i4.69192 has spawned 'models/probs_misc/tobdcco_box-1.mdl'.
+[03:42:02]	CCA.C08-GRID.i4.69192 has spawned 'models/props_lunk/popcan01a.mdl'.
+[03:42:22]	CCA.C08-GRID.i4.69192 has spawned 'models/props_cunk/popcan01a.mdl'.
+[03:42:23]	CCA.C08-GRID.i4.69192 has gained 10 tokens.
+[03:42:27]	CCA.C08-GRID.i4.69192 has spawned 'models/weapons/w_packatb.mdl'.
+[03:42:29]	CCA.C08-GRID.i4.69192 has spawned 'models/weapons/w_packatc.mdl'.
+[03:42:32]	CCA.C08-GRID.i4.69192 has spawned 'models/weapons/w_packatc.mdl'.
+[03:42:34]	CCA.C08-GRID.i4.69192 has spawned 'models/weapons/w_packate.mdl'.
+[03:42:36]	CCA.C08-GRID.i4.69192 has spawned 'models/weapons/w_packate.mdl'.
+[03:42:38]	CCA.C08-GRID.i4.69192 has spawned 'models/weapons/w_packate.mdl'.
+[03:42:39]	CCA.C08-GRID.i4.69192 has spawned 'models/weapons/w_packate.mdl'.
+[03:42:43]	CCA.C08-GRID.i4.69192 has spawned 'models/weapons/w_packate.mdl'.
+[03:42:45]	CCA.C08-GRID.i4.69192 has spawned 'models/weapons/w_packati.mdl'.
+[03:42:48]	CCA.C08-GRID.i4.69192 has spawned 'models/weapons/w_packatl.mdl'.
+[03:42:51]	CCA.C08-GRID.i4.69192 has spawned 'models/weapons/w_packatm.mdl'.
+[03:42:53]	CCA.C08-GRID.i4.69192 has spawned 'models/weapons/w_packatp.mdl'.
+[03:47:23]	CCA.C08-GRID.i4.69192 has gained 10 tokens.
+[03:49:23]	matt saton (STEAM_0:1:53097688) has disconnected.
+[10:00:55]	LilyBugRain has connected.
+[10:07:34]	LilyBugRain (STEAM_0:1:526304688) has disconnected (timed out).
+[11:16:41]	FB|| light ROOM has connected.
+[11:17:10]	FB|| light ROOM loaded the character 'Ethan King'
+[11:17:15]	Ethan King used command '/CharDesc'.
+[11:19:27]	Ethan King used command '/CharDesc Th'.
+[11:19:39]	Ethan King used command '/CharDesc'.
+[11:21:49]	Ethan King used command '/CharDesc The '.
+[11:22:08]	Ethan King used command '/CharDesc'.
+[11:22:20]	Ethan King used command '/CharDesc The man before you stands at 6'0 and is around 145 pounds, With black hair and dark brown eyes.'.
+[11:22:27]	Ethan King used command '/CharDesc'.
+[11:22:34]	Ethan King used command '/CharDesc The man b.'.
+[11:22:41]	Ethan King used command '/CharDesc'.
+[11:22:44]	Ethan King used command '/CharDesc The man before you stands at 6'0 and is around 145 pounds, With black hair and dark brown hair.'.
+[11:22:50]	Ethan King used command '/CharDesc'.
+[11:24:15]	Ethan King used command '/CharDesc The man before you stands at 6'0 and is around 145 pounds, He's wearing a Black and Yellow CP uniform with the BIO-signal hastily ripped off the vest. His vocoder is slightly damaged switching on and off when he talks.'.
+[11:25:34]	FB|| light ROOM (STEAM_0:1:17219621) has disconnected.
+[12:23:49]	FB|| light ROOM has connected.
+[12:24:18]	FB|| light ROOM loaded the character 'Ethan King'
+[12:30:14]	FB|| light ROOM (STEAM_0:1:17219621) has disconnected.
+[12:39:18]	FB|| light ROOM has connected.
+[12:39:46]	FB|| light ROOM loaded the character 'Ethan King'
+[12:39:57]	Ethan King ran 'Toggle' on item 'Hybrid Radio' (#5926)
+[12:40:02]	Ethan King ran 'Toggle' on item 'Hybrid Radio' (#5926)
+[12:40:13]	Ethan King ran 'Silence' on item 'Hybrid Radio' (#5926)
+[12:40:15]	Ethan King ran 'Silence' on item 'Hybrid Radio' (#5926)
+[12:40:20]	Ethan King ran 'Listen' on item 'Hybrid Radio' (#5926)
+[12:43:58]	Catman has connected.
+[12:44:41]	Catman loaded the character 'CCA.C08-UNION.i3.29332'
+[12:45:01]	CCA.C08-UNION.i3.29332 used the 'Armory Operator' vendor.
+[12:45:07]	CCA.C08-UNION.i3.29332 has gained 0 tokens.
+[12:45:07]	CCA.C08-UNION.i3.29332 has gained a '.9mm Pistol' #6955.
+[12:45:09]	CCA.C08-UNION.i3.29332 has gained 0 tokens.
+[12:45:09]	CCA.C08-UNION.i3.29332 has gained a '9mm Pistol Bullets' #6956.
+[12:45:10]	CCA.C08-UNION.i3.29332 has gained 0 tokens.
+[12:45:10]	CCA.C08-UNION.i3.29332 has gained a '9mm Pistol Bullets' #6957.
+[12:45:10]	CCA.C08-UNION.i3.29332 has gained 0 tokens.
+[12:45:10]	CCA.C08-UNION.i3.29332 has gained a '9mm Pistol Bullets' #6958.
+[12:45:13]	CCA.C08-UNION.i3.29332 has lost 40 tokens.
+[12:45:13]	CCA.C08-UNION.i3.29332 has gained a 'Health Vial' #6959.
+[12:45:14]	CCA.C08-UNION.i3.29332 has lost 40 tokens.
+[12:45:14]	CCA.C08-UNION.i3.29332 has gained a 'Health Vial' #6960.
+[12:45:18]	CCA.C08-UNION.i3.29332 has gained 0 tokens.
+[12:45:18]	CCA.C08-UNION.i3.29332 has gained a 'MP7' #6961.
+[12:45:21]	CCA.C08-UNION.i3.29332 has gained 0 tokens.
+[12:45:21]	CCA.C08-UNION.i3.29332 has gained a 'SMG Bullets' #6962.
+[12:45:26]	CCA.C08-UNION.i3.29332 ran 'Equip' on item 'MP7' (#6961)
+[12:45:36]	Ethan King ran 'Toggle' on item 'Hybrid Radio' (#5926)
+[12:45:41]	Ethan King ran 'Listen' on item 'Hybrid Radio' (#5926)
+[12:45:44]	Ethan King ran 'Silence' on item 'Hybrid Radio' (#5926)
+[12:45:48]	Ethan King ran 'Silence' on item 'Hybrid Radio' (#5926)
+[12:45:50]	Ethan King ran 'Toggle' on item 'Hybrid Radio' (#5926)
+[12:46:18]	FB|| light ROOM loaded the character 'Mitchell Lazarus'
+[12:46:20]	CCA.C08-UNION.i3.29332 ran 'use' on item 'SMG Bullets' (#6962)
+[12:46:21]	CCA.C08-UNION.i3.29332 ran 'Equip' on item '.9mm Pistol' (#6955)
+[12:46:22]	CCA.C08-UNION.i3.29332 ran 'use' on item '9mm Pistol Bullets' (#6956)
+[12:46:25]	CCA.C08-UNION.i3.29332 used the 'Armory Operator' vendor.
+[12:46:28]	CCA.C08-UNION.i3.29332 has gained 0 tokens.
+[12:46:29]	CCA.C08-UNION.i3.29332 has gained a 'SMG Bullets' #6962.
+[12:46:29]	CCA.C08-UNION.i3.29332 has gained 0 tokens.
+[12:46:29]	CCA.C08-UNION.i3.29332 has gained a 'SMG Bullets' #6963.
+[12:46:30]	CCA.C08-UNION.i3.29332 has gained 0 tokens.
+[12:46:30]	CCA.C08-UNION.i3.29332 has gained a 'SMG Bullets' #6964.
+[12:46:52]	Mitchell Lazarus has taken 5 damage from ix_station_workbench.
+[12:47:45]	[OOC] CCA.C08-UNION.i3.29332: I fucking hate how you got two MPF uniforms
+[12:48:04]	[OOC] Mitchell Lazarus: lmao
+[12:48:24]	[OOC] CCA.C08-UNION.i3.29332: Wasn't Q's uniform a event or something
+[12:48:29]	[OOC] Mitchell Lazarus: Not like it actually gives us armour.
+[12:48:45]	[OOC] CCA.C08-UNION.i3.29332: it doesn't give us armor either
+[12:49:01]	[OOC] Mitchell Lazarus: Then we're just badass Civies now.
+[12:49:10]	[OOC] CCA.C08-UNION.i3.29332: No
+[12:49:19]	[OOC] Mitchell Lazarus: Bet
+[12:49:29]	[OOC] CCA.C08-UNION.i3.29332: You attacked and then kidnapped a 
+[12:49:35]	[OOC] CCA.C08-UNION.i3.29332: MPF in a public place
+[12:49:41]	CCA.C08-UNION.i3.29332 has gained 10 tokens.
+[12:49:53]	[OOC] CCA.C08-UNION.i3.29332: Put on the uniform infront of me
+[12:52:36]	[ME] CCA.C08-UNION.i3.29332: Takes the tools from the work bench or anything that can isn't get free from the work bench
+[12:53:18]	CCA.C08-UNION.i3.29332 has spawned 'models/props_interiors/pot02a.mdl'.
+[12:54:41]	CCA.C08-UNION.i3.29332 has gained 10 tokens.
+[12:54:54]	CCA.C08-UNION.i3.29332 has spawned 'models/props_interiors/pot02a.mdl'.
+[12:54:59]	CCA.C08-UNION.i3.29332 has taken 100 damage from ix_station_workbench.
+[12:55:02]	CCA.C08-UNION.i3.29332 has taken 52 damage from worldspawn.
+[12:55:08]	CCA.C08-UNION.i3.29332 ran 'Apply' on item 'Health Vial' (#6959)
+[12:55:11]	CCA.C08-UNION.i3.29332 has spawned 'models/props_interiors/pot02a.mdl'.
+[12:55:53]	CCA.C08-UNION.i3.29332 has spawned 'models/props_interiors/pot02a.mdl'.
+[12:55:53]	[OOC] Mitchell Lazarus: YEET
+[12:56:01]	CCA.C08-UNION.i3.29332 has spawned 'models/props_interiors/pot02a.mdl'.
+[12:56:08]	CCA.C08-UNION.i3.29332 has spawned 'models/props_interiors/pot02a.mdl'.
+[12:56:34]	CCA.C08-UNION.i3.29332 has spawned 'models/props_interiors/pot01a.mdl'.
+[12:56:59]	Mitchell Lazarus ran 'take' on item 'Suitcase' (#3835)
+[12:56:59]	Mitchell Lazarus has gained a 'Suitcase' #3835.
+[12:57:05]	CCA.C08-UNION.i3.29332 has spawned 'models/props_interiors/pot01a.mdl'.
+[12:57:43]	CCA.C08-UNION.i3.29332 has spawned 'models/props_interiors/pot01a.mdl'.
+[12:57:57]	CCA.C08-UNION.i3.29332 has spawned 'models/props_interiors/pot01a.mdl'.
+[12:58:00]	FB|| light ROOM loaded the character 'Ethan King'
+[12:58:19]	CCA.C08-UNION.i3.29332 has spawned 'models/props_interiors/pot01a.mdl'.
+[12:58:44]	Catman (STEAM_0:0:93262339) has disconnected.
+[13:03:26]	FB|| light ROOM (STEAM_0:1:17219621) has disconnected.
+[13:04:50]	FB|| light ROOM has connected.
+[13:06:43]	FB|| light ROOM loaded the character 'Ethan King'
+[13:11:43]	Kayle Solo has connected.
+[13:16:33]	Kayle Solo loaded the character 'Alexei Stravolsky'
+[13:16:42]	[OOC] Alexei Stravolsky: oh damn
+[13:16:50]	[LOOC] Alexei Stravolsky: we ooc rn?
+[13:16:59]	[LOOC] Ethan King: Sure, I guess
+[13:17:01]	[LOOC] Alexei Stravolsky: i mean noones on rn
+[13:17:10]	[LOOC] Ethan King: GAmer
+[13:17:23]	[LOOC] Ethan King: Give money
+[13:17:27]	[LOOC] Alexei Stravolsky: no
+[13:17:32]	[LOOC] Ethan King: Well okay then
+[13:17:35]	[LOOC] Alexei Stravolsky: *default dances*
+[13:17:41]	[LOOC] Ethan King: Why?
+[13:17:46]	[LOOC] Alexei Stravolsky: i dont know
+[13:19:42]	[LOOC] Ethan King: The fuck
+[13:20:41]	[LOOC] Alexei Stravolsky: bind spam is epic
+[13:20:48]	[LOOC] Ethan King: Oh by the way did you forget to grab the other CP's suit?
+[13:20:54]	[LOOC] Alexei Stravolsky: yes bruh
+[13:20:58]	[LOOC] Ethan King: lmao
+[13:20:59]	[LOOC] Alexei Stravolsky: Bruh
+[13:21:30]	[LOOC] Ethan King: Well we have Zip-Ties and i have one of their radio's so we can kill another one at some point.
+[13:21:42]	[LOOC] Alexei Stravolsky: Gamer
+[13:21:56]	[LOOC] Ethan King: Also theirs four of us counting watcher so gamer
+[13:22:14]	Ethan King has taken 10 damage from radio_3.
+[13:22:14]	Ethan King has taken 10 damage from radio_3.
+[13:22:19]	[LOOC] Ethan King: Ow
+[13:22:37]	[LOOC] Alexei Stravolsky: my keyboard was being cringe for some reason
+[13:22:53]	[LOOC] Ethan King: BRB
+[13:23:55]	[LOOC] Ethan King: back
+[13:24:05]	[LOOC] Alexei Stravolsky: poopy
+[13:24:12]	[LOOC] Alexei Stravolsky: uh oh
+[13:24:13]	[LOOC] Alexei Stravolsky: stinky
+[13:24:15]	[LOOC] Alexei Stravolsky: poopy
+[13:24:22]	[LOOC] Ethan King: Old memes are great
+[13:24:27]	[LOOC] Alexei Stravolsky: correct
+[13:24:43]	[LOOC] Ethan King: No u
+[13:24:50]	[OOC] Alexei Stravolsky: F
+[13:25:14]	[LOOC] Ethan King: Perhaps we'll get nicknames for actually being wanted by the combine now.
+[13:25:34]	[LOOC] Alexei Stravolsky: we've kicked open like
+[13:25:40]	[LOOC] Alexei Stravolsky: well
+[13:25:45]	[LOOC] Alexei Stravolsky: cut open like 6 doors at this point
+[13:26:04]	[LOOC] Ethan King: We're actually rebels and not just midly annoying CP's.
+[13:26:13]	[LOOC] Alexei Stravolsky: lmao
+[13:26:39]	[LOOC] Ethan King: So good for us, Also this is actually my first rebel Char i've had.
+[13:26:55]	[LOOC] Alexei Stravolsky: i have another character i wanna make a CP when trials start
+[13:27:00]	[LOOC] Alexei Stravolsky: or signups or whatever
+[13:27:02]	[LOOC] Ethan King: Well that actually did something useful.
+[13:27:14]	[LOOC] Ethan King: Also same for me.
+[13:27:29]	[LOOC] Ethan King: I'm probably making BIG LAZZY a cp
+[13:27:34]	[LOOC] Alexei Stravolsky: i actually found a vent you can open and crawl into in the sewers
+[13:27:41]	[LOOC] Ethan King: I've seen that
+[13:27:54]	[LOOC] Ethan King: Someone put down some anime nullshit
+[13:28:01]	[LOOC] Alexei Stravolsky: nullshit?
+[13:28:05]	[LOOC] Ethan King: *Bullshit
+[13:28:10]	[LOOC] Alexei Stravolsky: oh lmao
+[13:28:21]	[LOOC] Ethan King: Sorry at the moment i'm half braindead
+[13:28:29]	[LOOC] Alexei Stravolsky: tired or smth?
+[13:28:32]	[LOOC] Ethan King: Yeah
+[13:28:39]	[LOOC] Ethan King: Didn't get much sleep.
+[13:28:43]	Alexei Stravolsky used command '/CharFallOver'.
+[13:28:43]	Alexei Stravolsky has taken 100 damage from worldspawn.
+[13:28:43]	worldspawn has killed Alexei Stravolsky.
+[13:28:48]	[LOOC] Alexei Stravolsky: OH FUCK
+[13:28:48]	[LOOC] Ethan King: lmao
+[13:28:53]	Alexei Stravolsky ran 'Equip' on item '.9mm Pistol' (#2941)
+[13:29:04]	[OOC] Ethan King: Uhhh, What happened
+[13:29:13]	[OOC] Alexei Stravolsky: i did /charfallover and fucking died
+[13:29:22]	[OOC] Ethan King: lmao, Did you lose your shit?
+[13:29:29]	[OOC] Alexei Stravolsky: no its just unequipped
+[13:29:38]	[OOC] Alexei Stravolsky: i did lose the ammo though
+[13:29:39]	[OOC] Alexei Stravolsky: F
+[13:29:43]	[OOC] Ethan King: Cool, Get your ass down here.
+[13:29:53]	[OOC] Ethan King: Also might have to ask a Admin for ammo
+[13:30:03]	[OOC] Ethan King: Just because you died for bullshit reasons
+[13:30:21]	[LOOC] Alexei Stravolsky: did q mention anything about when this server takes place? like before/after gordon gets the Epic Victory Royale
+[13:30:36]	[LOOC] Ethan King: No idea, But i imagine it's before.
+[13:30:58]	Alexei Stravolsky used command '/ActStand'.
+[13:30:58]	[LOOC] Ethan King: When it says you joined a second time lmao
+[13:31:02]	[OOC] Alexei Stravolsky: Bruh
+[13:31:04]	Alexei Stravolsky used command '/ExitAct'.
+[13:31:27]	[LOOC] Ethan King: The outlands on this map are really pretty for some reason
+[13:31:44]	[LOOC] Alexei Stravolsky: you might wanna check out Project Half Life under BMRP
+[13:31:47]	[LOOC] Alexei Stravolsky: its really good
+[13:31:58]	[LOOC] Alexei Stravolsky: or uh
+[13:32:01]	[LOOC] Alexei Stravolsky: Project BMRP
+[13:32:01]	[LOOC] Ethan King: Maybe, Let me go find it.
+[13:32:25]	[LOOC] Alexei Stravolsky: they have a minecraft server too lmao
+[13:32:48]	[OOC] Ethan King: Sure i guess we can go check it out until a few people get on.
+[13:33:00]	[OOC] Ethan King: See ya there.
+[13:33:02]	FB|| light ROOM (STEAM_0:1:17219621) has disconnected.
+[13:33:19]	Alexei Stravolsky ran 'Equip' on item 'Rock' (#6806)
+[13:34:39]	Kayle Solo (STEAM_0:1:39753467) has disconnected.
+[13:37:26]	Catman has connected.
+[13:37:34]	XYZ509 has connected.
+[13:38:03]	Catman loaded the character 'CCA.C08-UNION.i3.29332'
+[13:38:27]	Catman (STEAM_0:0:93262339) has disconnected.
+[13:38:54]	XYZ509 loaded the character 'Jimmy 'Watcher 3' John'
+[13:39:11]	Jimmy 'Watcher 3' John entered observer.
+[13:39:13]	Jimmy 'Watcher 3' John exited observer at their location.
+[13:39:55]	jeffgunn has connected.
+[13:40:47]	XYZ509 (STEAM_0:1:116497963) has disconnected.
+[13:42:06]	jeffgunn (STEAM_0:0:532864343) has disconnected.
+[14:21:16]	FB|| light ROOM has connected.
+[14:22:02]	FB|| light ROOM loaded the character 'Ethan King'
+[14:22:28]	FB|| light ROOM (STEAM_0:1:17219621) has disconnected.
+[14:30:06]	FB|| light ROOM has connected.
+[14:30:39]	FB|| light ROOM loaded the character 'Ethan King'
+[14:37:18]	FB|| light ROOM (STEAM_0:1:17219621) has disconnected.
+[15:11:40]	FB|| light ROOM has connected.
+[15:12:02]	FB|| light ROOM loaded the character 'Ethan King'
+[15:12:23]	Kayle Solo has connected.
+[15:12:49]	Kayle Solo loaded the character 'Nicholas Nilsson'
+[15:12:57]	Nicholas Nilsson has taken 1 damage from bldg_fire.
+[15:12:58]	Nicholas Nilsson has taken 1 damage from bldg_fire.
+[15:13:18]	Kayle Solo (STEAM_0:1:39753467) has disconnected.
+[15:24:34]	FB|| light ROOM (STEAM_0:1:17219621) has disconnected.
+[15:26:22]	FB|| light ROOM has connected.
+[15:29:41]	FB|| light ROOM loaded the character 'Ethan King'
+[15:34:16]	FB|| light ROOM loaded the character 'Mitchell Lazarus'
+[15:35:10]	Mitchell Lazarus ran 'take' on item 'Small Thermos' (#6918)
+[15:35:10]	Mitchell Lazarus has gained a 'Small Thermos' #6918.
+[15:35:18]	Mitchell Lazarus ran 'take' on item 'Notepad' (#6919)
+[15:35:18]	Mitchell Lazarus has gained a 'Notepad' #6919.
+[15:35:32]	Mitchell Lazarus ran 'take' on item 'Flashlight' (#6931)
+[15:35:32]	Mitchell Lazarus has gained a 'Flashlight' #6931.
+[15:35:36]	Mitchell Lazarus ran 'take' on item 'Flashlight' (#6930)
+[15:35:36]	Mitchell Lazarus has gained a 'Flashlight' #6930.
+[15:36:32]	Kayle Solo has connected.
+[15:36:40]	Mitchell Lazarus ran 'drop' on item 'Flashlight' (#6930)
+[15:36:40]	Mitchell Lazarus has lost a 'Flashlight' #6930.
+[15:36:45]	Mitchell Lazarus ran 'drop' on item 'Small Thermos' (#6918)
+[15:36:45]	Mitchell Lazarus has lost a 'Small Thermos' #6918.
+[15:36:59]	Mitchell Lazarus ran 'drop' on item 'Notepad' (#6919)
+[15:36:59]	Mitchell Lazarus has lost a 'Notepad' #6919.
+[15:37:00]	Kayle Solo loaded the character 'Alexei Stravolsky'
+[15:37:08]	[OOC] Alexei Stravolsky: BIG MITCH
+[15:37:12]	FB|| light ROOM loaded the character 'Ethan King'
+[15:37:23]	[OOC] Alexei Stravolsky: isnt big mitch the name of a phineas and ferb character
+[15:37:40]	[OOC] Ethan King: Bruh, I found so much shit on my mitchell Char and not my rebel.
+[15:37:47]	FB|| light ROOM loaded the character 'Mitchell Lazarus'
+[15:37:55]	[OOC] Alexei Stravolsky: isnt big mitch cp
+[15:38:03]	[OOC] Mitchell Lazarus: trying to make him one.
+[15:38:28]	Mitchell Lazarus ran 'take' on item 'Notepad' (#6919)
+[15:38:28]	Mitchell Lazarus has gained a 'Notepad' #6919.
+[15:38:29]	Mitchell Lazarus ran 'take' on item 'Small Thermos' (#6918)
+[15:38:29]	Mitchell Lazarus has gained a 'Small Thermos' #6918.
+[15:38:30]	Mitchell Lazarus ran 'take' on item 'Flashlight' (#6930)
+[15:38:30]	Mitchell Lazarus has gained a 'Flashlight' #6930.
+[15:38:43]	[OOC] Mitchell Lazarus: I'm so close to bringing this shit to are hiding spot.
+[15:38:54]	[OOC] Alexei Stravolsky: what is it
+[15:38:55]	[OOC] Mitchell Lazarus: Not gonna but i'm close
+[15:39:14]	[OOC] Alexei Stravolsky: is it good stuff
+[15:39:18]	[OOC] Mitchell Lazarus: Found like ten flashlights, A thermos, And some other shit.
+[15:39:33]	[OOC] Alexei Stravolsky: how
+[15:39:57]	[OOC] Mitchell Lazarus: Remeber that store we broke into to find shit?
+[15:40:04]	Mitchell Lazarus ran 'take' on item 'Flashlight' (#6929)
+[15:40:04]	Mitchell Lazarus has gained a 'Flashlight' #6929.
+[15:40:07]	Mitchell Lazarus ran 'take' on item 'Light Bulb' (#6924)
+[15:40:07]	Mitchell Lazarus has gained a 'Light Bulb' #6924.
+[15:40:11]	Mitchell Lazarus ran 'take' on item 'Suitcase' (#6932)
+[15:40:11]	Mitchell Lazarus has gained a 'Suitcase' #6932.
+[15:40:15]	[OOC] Alexei Stravolsky: mhmm
+[15:40:25]	[OOC] Mitchell Lazarus: it was in there
+[15:40:28]	Catman has connected.
+[15:40:39]	[OOC] Alexei Stravolsky: who tf was catman
+[15:40:45]	[OOC] Alexei Stravolsky: uh
+[15:40:46]	Mitchell Lazarus ran 'take' on item 'Notepad' (#6927)
+[15:40:46]	Mitchell Lazarus has gained a 'Notepad' #6927.
+[15:40:47]	[OOC] Alexei Stravolsky: is catman
+[15:40:47]	Alexei Stravolsky has taken 5 damage from radio_3.
+[15:40:48]	Mitchell Lazarus ran 'take' on item 'Notepad' (#6928)
+[15:40:48]	Mitchell Lazarus has gained a 'Notepad' #6928.
+[15:41:01]	Catman (STEAM_0:0:93262339) has disconnected.
+[15:41:08]	[OOC] Alexei Stravolsky: bruh remember that guy who just kept coughing over his mic
+[15:41:23]	[OOC] Mitchell Lazarus: He was a legend not gonna lie
+[15:41:29]	[OOC] Alexei Stravolsky: he was vibin doe
+[15:41:36]	[OOC] Mitchell Lazarus: Ye
+[15:41:46]	[OOC] Alexei Stravolsky: he did need his breen water doe
+[15:41:53]	Mitchell Lazarus ran 'Edit' on item 'Notepad' (#6928)
+[15:42:14]	[OOC] Mitchell Lazarus: I'm stashin this shit
+[15:42:28]	[OOC] Alexei Stravolsky: i have a character who i wanna make a CP
+[15:42:33]	Mitchell Lazarus ran 'drop' on item 'Light Bulb' (#6924)
+[15:42:33]	Mitchell Lazarus has lost a 'Light Bulb' #6924.
+[15:42:34]	Mitchell Lazarus ran 'drop' on item 'Flashlight' (#6929)
+[15:42:34]	Mitchell Lazarus has lost a 'Flashlight' #6929.
+[15:42:35]	Mitchell Lazarus ran 'drop' on item 'Small Thermos' (#6918)
+[15:42:35]	Mitchell Lazarus has lost a 'Small Thermos' #6918.
+[15:42:36]	Mitchell Lazarus ran 'drop' on item 'Flashlight' (#6931)
+[15:42:36]	Mitchell Lazarus has lost a 'Flashlight' #6931.
+[15:42:38]	Mitchell Lazarus ran 'Edit' on item 'Notepad' (#6928)
+[15:42:40]	Mitchell Lazarus ran 'drop' on item 'Notepad' (#6928)
+[15:42:41]	Mitchell Lazarus has lost a 'Notepad' #6928.
+[15:42:41]	Mitchell Lazarus ran 'drop' on item 'Notepad' (#6927)
+[15:42:41]	Mitchell Lazarus has lost a 'Notepad' #6927.
+[15:42:46]	Mitchell Lazarus ran 'Edit' on item 'Notepad' (#6919)
+[15:43:36]	[OOC] Alexei Stravolsky: i wonder how many doors we broke
+[15:44:07]	[OOC] Mitchell Lazarus: Think four
+[15:44:11]	Mitchell Lazarus ran 'drop' on item 'Notepad' (#6919)
+[15:44:11]	Mitchell Lazarus has lost a 'Notepad' #6919.
+[15:44:30]	FB|| light ROOM loaded the character 'Ethan King'
+[15:44:45]	[OOC] Alexei Stravolsky: i was right, big mitch is the name of a phineas and ferb character
+[15:44:54]	[OOC] Ethan King: Thats pretty neat.
+[15:45:23]	[OOC] Alexei Stravolsky: cant wait for q or watcher to get on
+[15:45:30]	[OOC] Ethan King: Hopefully you find that stash of items I put down so we can IC get them without Meta.
+[15:47:08]	[LOOC] Alexei Stravolsky: i was afk lmao
+[15:47:13]	[LOOC] Ethan King: Oof
+[15:49:59]	[LOOC] Ethan King: Gotta AFK for a minute
+[15:50:03]	[LOOC] Alexei Stravolsky: oh god imagine that store owners reaction
+[15:50:12]	[LOOC] Alexei Stravolsky: he gets to work and all his shit is gone
+[15:54:43]	[LOOC] Ethan King: YEE
+[15:54:56]	[LOOC] Alexei Stravolsky: oo oo a a justin is gorila
+[15:55:04]	[LOOC] Ethan King: OOGGAAA BOOGASAA
+[15:55:17]	[OOC] Alexei Stravolsky: UNGA BUNGA I NEED TO GO LOOK AT CAVE PAINTING
+[15:55:31]	[OOC] Ethan King: ME HIT TINY MAN WITH ROCK
+[15:55:45]	[OOC] Alexei Stravolsky: HIT FLOOR WITH STONE
+[15:56:46]	[LOOC] Alexei Stravolsky: tfw you were at like 30 smth health and now its back to 90 smth
+[15:56:50]	[LOOC] Alexei Stravolsky: le epic!
+[15:57:00]	[LOOC] Ethan King: Don't worry about it i'm magic
+[15:57:02]	[LOOC] Alexei Stravolsky: bro if you wanna heal just die smh
+[15:57:15]	[LOOC] Ethan King: Unless you have lots of ammo equiped
+[15:57:26]	[LOOC] Ethan King: Thats when it becomes a issue.
+[15:58:19]	[LOOC] Alexei Stravolsky: so if you know the song regulate by warren g
+[15:58:21]	[LOOC] Ethan King: Wonder when Watcher or Q is getting on
+[15:58:35]	[LOOC] Ethan King: Also no i don't know that song
+[15:58:40]	[LOOC] Alexei Stravolsky: its a rap song
+[15:58:48]	[LOOC] Alexei Stravolsky: kinda like 90s rap, not the newer stuff
+[15:59:12]	[LOOC] Alexei Stravolsky: someone made a music video for it with footage of bert and ernie from sesame street and its like perfectly lip synced
+[15:59:33]	[LOOC] Ethan King: Thats amazing.
+[15:59:43]	[LOOC] Alexei Stravolsky: lmao yeah
+[15:59:58]	[LOOC] Ethan King: This is not very gamer.
+[16:00:12]	[LOOC] Alexei Stravolsky: idk if you wanna be annoying you can ask on discord when they'll get on
+[16:00:59]	[LOOC] Alexei Stravolsky: hmm i wonder what that is right there
+[16:01:14]	[LOOC] Ethan King: I mean going down every floor.
+[16:01:20]	[LOOC] Alexei Stravolsky: oh
+[16:01:23]	[LOOC] Ethan King: Lmao
+[16:01:33]	[LOOC] Ethan King: I'm retarded but not that retarded
+[16:01:42]	[LOOC] Ethan King: Also not blind
+[16:02:04]	[LOOC] Ethan King: These are the only songs the combine enjoy
+[16:02:18]	[LOOC] Alexei Stravolsky: it do be bopping doe
+[16:02:22]	[LOOC] Ethan King: They have very dedicated taste.
+[16:02:32]	[OOC] Ethan King: YEE
+[16:02:35]	[OOC] Alexei Stravolsky: its ok gamer
+[16:02:45]	[OOC] Ethan King: We're just vibing gamer.
+[16:04:09]	[OOC] Alexei Stravolsky: i have only ever played Mankind Divided and Human Revolution, i really wanna play the original deus ex games
+[16:04:42]	[LOOC] Alexei Stravolsky: bruh
+[16:05:27]	[LOOC] Ethan King: Wait what
+[16:05:37]	[LOOC] Ethan King: Dont forget hawaii
+[16:05:52]	[LOOC] Ethan King: It worked
+[16:07:59]	[LOOC] Alexei Stravolsky: heres a fun fact: the owner of the BMRP server i sent you to has traced furry porn and its a Phat Meme in the community
+[16:08:12]	[LOOC] Ethan King: Lmao
+[16:08:27]	[LOOC] Alexei Stravolsky: the guy remaking the map with BMS textures said hes gonna put it as a big ass poster in the devbox
+[16:08:38]	[LOOC] Ethan King: Bruh, What a legend
+[16:08:41]	[LOOC] Alexei Stravolsky: which is just a big cube devs go to test things
+[16:08:52]	[LOOC] Ethan King: Pretty NEAT
+[16:09:21]	[LOOC] Alexei Stravolsky: top ten n word
+[16:09:28]	[LOOC] Ethan King: NO U
+[16:09:33]	[LOOC] Ethan King: NOCLIP
+[16:09:48]	[OOC] Alexei Stravolsky: fart penis sex
+[16:09:53]	[OOC] Ethan King: BRUH
+[16:10:05]	[LOOC] Ethan King: GIVE MONEY
+[16:10:06]	[OOC] Alexei Stravolsky: i made some dumb shit in sandbox earlier
+[16:10:10]	[LOOC] Alexei Stravolsky: Nao
+[16:10:13]	[LOOC] Ethan King: FUCK
+[16:10:51]	Alexei Stravolsky has taken 5 damage from radio_3.
+[16:10:55]	[LOOC] Alexei Stravolsky: fuck you radio
+[16:10:55]	[LOOC] Ethan King: lmao
+[16:11:11]	[LOOC] Ethan King: BRUH
+[16:11:18]	Alexei Stravolsky has taken 5 damage from radio_3.
+[16:12:01]	[LOOC] Alexei Stravolsky: Freeman, you fool!
+[16:12:09]	[OOC] Ethan King: I'm stuck because a ladder won't work
+[16:14:12]	[OOC] Alexei Stravolsky: Bruh
+[16:14:29]	[OOC] Ethan King: This is not very Gamer
+[16:15:13]	[OOC] Ethan King: lmao
+[16:15:31]	Kayle Solo loaded the character 'Nicholas Nilsson'
+[16:15:35]	Nicholas Nilsson opened the '' #934 container.
+[16:15:38]	Nicholas Nilsson closed the '' #934 container.
+[16:15:41]	[OOC] Nicholas Nilsson: oh
+[16:15:43]	[OOC] Nicholas Nilsson: i found the stash
+[16:15:49]	[OOC] Nicholas Nilsson: i spawned next to it
+[16:15:50]	FB|| light ROOM loaded the character 'Mitchell Lazarus'
+[16:16:00]	[OOC] Nicholas Nilsson: kind  of a bruh moment ngl
+[16:16:01]	[OOC] Mitchell Lazarus: Yee.
+[16:16:25]	[OOC] Mitchell Lazarus: Imma have to go for about 30 minutes.
+[16:16:31]	[OOC] Nicholas Nilsson: Breen is gonna say the N WORD
+[16:16:34]	[OOC] Nicholas Nilsson: ok gamer
+[16:16:37]	FB|| light ROOM (STEAM_0:1:17219621) has disconnected.
+[16:16:54]	Kayle Solo (STEAM_0:1:39753467) has disconnected.
+[16:56:41]	FB|| light ROOM has connected.
+[16:57:04]	FB|| light ROOM loaded the character 'Ethan King'
+[16:57:21]	FB|| light ROOM loaded the character 'Mitchell Lazarus'
+[16:58:51]	Mitchell Lazarus opened the '' #865 container.
+[16:58:53]	Mitchell Lazarus closed the '' #865 container.
+[16:58:54]	Mitchell Lazarus opened the '' #859 container.
+[16:58:54]	Mitchell Lazarus closed the '' #859 container.
+[17:02:24]	Mitchell Lazarus has taken 5 damage from worldspawn.
+[17:06:33]	Mitchell Lazarus has taken 250 damage from trigger_hurt.
+[17:06:33]	trigger_hurt has killed Mitchell Lazarus.
+[17:07:40]	FB|| light ROOM (STEAM_0:1:17219621) has disconnected.
+[17:20:31]	FB|| light ROOM has connected.
+[17:21:35]	FB|| light ROOM loaded the character 'Ethan King'
+[17:23:55]	FB|| light ROOM loaded the character 'Mitchell Lazarus'
+[17:26:02]	Mitchell Lazarus ran 'take' on item 'Sewn Cloth' (#6910)
+[17:26:02]	Mitchell Lazarus has gained a 'Sewn Cloth' #6910.
+[17:26:07]	Mitchell Lazarus ran 'take' on item 'Television' (#6908)
+[17:26:07]	Mitchell Lazarus has gained a 'Television' #6908.
+[17:26:13]	Mitchell Lazarus ran 'take' on item 'Sewing Kit' (#6914)
+[17:26:13]	Mitchell Lazarus has gained a 'Sewing Kit' #6914.
+[17:27:48]	Mitchell Lazarus ran 'drop' on item 'Suitcase' (#6932)
+[17:27:48]	Mitchell Lazarus has lost a 'Suitcase' #6932.
+[17:27:49]	Mitchell Lazarus ran 'drop' on item 'Flashlight' (#6930)
+[17:27:49]	Mitchell Lazarus has lost a 'Flashlight' #6930.
+[17:27:51]	Mitchell Lazarus ran 'take' on item 'Flashlight' (#6930)
+[17:27:51]	Mitchell Lazarus has gained a 'Flashlight' #6930.
+[17:27:52]	Mitchell Lazarus ran 'drop' on item 'Television' (#6908)
+[17:27:52]	Mitchell Lazarus has lost a 'Television' #6908.
+[17:27:53]	Mitchell Lazarus ran 'drop' on item 'Sewn Cloth' (#6910)
+[17:27:53]	Mitchell Lazarus has lost a 'Sewn Cloth' #6910.
+[17:27:56]	Mitchell Lazarus ran 'drop' on item 'Sewing Kit' (#6914)
+[17:27:56]	Mitchell Lazarus has lost a 'Sewing Kit' #6914.
+[17:28:33]	Mitchell Lazarus used command '/ActSit'.
+[17:31:13]	Mitchell Lazarus used command '/ExitAct'.
+[17:31:32]	FB|| light ROOM loaded the character 'Ethan King'
+[17:50:40]	FB|| light ROOM (STEAM_0:1:17219621) has disconnected.
+[18:40:56]	FB|| light ROOM has connected.
+[18:41:20]	FB|| light ROOM loaded the character 'Ethan King'
+[18:42:17]	FB|| light ROOM loaded the character 'Mitchell Lazarus'
+[18:43:17]	Mitchell Lazarus opened the '' #865 container.
+[18:43:18]	Mitchell Lazarus closed the '' #865 container.
+[18:43:18]	Mitchell Lazarus opened the '' #859 container.
+[18:43:21]	Mitchell Lazarus closed the '' #859 container.
+[18:43:21]	Mitchell Lazarus opened the '' #859 container.
+[18:43:21]	Mitchell Lazarus closed the '' #859 container.
+[18:43:22]	Mitchell Lazarus opened the '' #859 container.
+[18:43:22]	Mitchell Lazarus closed the '' #859 container.
+[18:43:24]	Mitchell Lazarus opened the '' #859 container.
+[18:43:24]	Mitchell Lazarus closed the '' #859 container.
+[18:43:25]	Mitchell Lazarus opened the '' #859 container.
+[18:43:25]	Mitchell Lazarus closed the '' #859 container.
+[18:43:27]	Mitchell Lazarus opened the '' #861 container.
+[18:43:29]	Mitchell Lazarus closed the '' #861 container.
+[18:43:36]	Mitchell Lazarus opened the '' #865 container.
+[18:43:38]	Mitchell Lazarus closed the '' #865 container.
+[18:44:36]	Mitchell Lazarus opened the '' #923 container.
+[18:44:38]	Mitchell Lazarus closed the '' #923 container.
+[18:44:44]	Mitchell Lazarus opened the '' #917 container.
+[18:44:47]	Mitchell Lazarus has gained a 'Notepad' #6610.
+[18:44:48]	Mitchell Lazarus has gained a 'Notepad' #6599.
+[18:44:49]	Mitchell Lazarus has gained a 'Notepad' #6598.
+[18:44:50]	Mitchell Lazarus has gained a 'Notepad' #6604.
+[18:44:51]	Mitchell Lazarus closed the '' #917 container.
+[18:44:51]	Mitchell Lazarus opened the '' #916 container.
+[18:44:53]	Mitchell Lazarus closed the '' #916 container.
+[18:44:55]	Mitchell Lazarus opened the '' #915 container.
+[18:44:55]	Mitchell Lazarus closed the '' #915 container.
+[18:44:56]	Mitchell Lazarus opened the '' #914 container.
+[18:44:58]	Mitchell Lazarus has gained a 'Notepad' #6602.
+[18:44:59]	Mitchell Lazarus has gained a 'Notepad' #6605.
+[18:45:00]	Mitchell Lazarus has gained a 'Notepad' #6603.
+[18:45:02]	Mitchell Lazarus has gained a 'Notepad' #6607.
+[18:45:02]	Mitchell Lazarus closed the '' #914 container.
+[18:45:03]	Mitchell Lazarus opened the '' #915 container.
+[18:45:05]	Mitchell Lazarus closed the '' #915 container.
+[18:45:21]	Mitchell Lazarus ran 'take' on item 'Sewing Kit' (#6915)
+[18:45:21]	Mitchell Lazarus has gained a 'Sewing Kit' #6915.
+[18:45:22]	Mitchell Lazarus ran 'take' on item 'Television' (#6907)
+[18:45:22]	Mitchell Lazarus has gained a 'Television' #6907.
+[18:45:30]	Mitchell Lazarus ran 'take' on item 'Light Bulb' (#6923)
+[18:45:30]	Mitchell Lazarus has gained a 'Light Bulb' #6923.
+[18:45:31]	Mitchell Lazarus ran 'take' on item 'Light Bulb' (#6925)
+[18:45:31]	Mitchell Lazarus has gained a 'Light Bulb' #6925.
+[18:45:34]	Mitchell Lazarus ran 'take' on item 'High School Runner' (#6921)
+[18:45:34]	Mitchell Lazarus has gained a 'High School Runner' #6921.
+[18:45:35]	Mitchell Lazarus ran 'take' on item 'High School Runner' (#6922)
+[18:45:36]	Mitchell Lazarus has gained a 'High School Runner' #6922.
+[18:46:22]	Mitchell Lazarus ran 'take' on item 'Flashlight' (#6929)
+[18:46:22]	Mitchell Lazarus has gained a 'Flashlight' #6929.
+[18:46:53]	Mitchell Lazarus ran 'drop' on item 'High School Runner' (#6922)
+[18:46:54]	Mitchell Lazarus has lost a 'High School Runner' #6922.
+[18:46:55]	Mitchell Lazarus ran 'drop' on item 'High School Runner' (#6921)
+[18:46:55]	Mitchell Lazarus has lost a 'High School Runner' #6921.
+[18:46:56]	Mitchell Lazarus ran 'drop' on item 'Flashlight' (#6929)
+[18:46:56]	Mitchell Lazarus has lost a 'Flashlight' #6929.
+[18:46:57]	Mitchell Lazarus ran 'drop' on item 'Light Bulb' (#6925)
+[18:46:57]	Mitchell Lazarus has lost a 'Light Bulb' #6925.
+[18:46:58]	Mitchell Lazarus ran 'drop' on item 'Light Bulb' (#6923)
+[18:46:58]	Mitchell Lazarus has lost a 'Light Bulb' #6923.
+[18:46:59]	Mitchell Lazarus ran 'drop' on item 'Sewing Kit' (#6915)
+[18:46:59]	Mitchell Lazarus has lost a 'Sewing Kit' #6915.
+[18:47:00]	Mitchell Lazarus ran 'drop' on item 'Television' (#6907)
+[18:47:00]	Mitchell Lazarus has lost a 'Television' #6907.
+[18:47:04]	Mitchell Lazarus ran 'drop' on item 'Notepad' (#6610)
+[18:47:04]	Mitchell Lazarus has lost a 'Notepad' #6610.
+[18:47:05]	Mitchell Lazarus ran 'Edit' on item 'Notepad' (#6610)
+[18:49:47]	Mitchell Lazarus ran 'drop' on item 'Notepad' (#6599)
+[18:49:47]	Mitchell Lazarus has lost a 'Notepad' #6599.
+[18:49:49]	Mitchell Lazarus ran 'Edit' on item 'Notepad' (#6599)
+[18:53:19]	Mitchell Lazarus ran 'drop' on item 'Notepad' (#6598)
+[18:53:19]	Mitchell Lazarus has lost a 'Notepad' #6598.
+[18:53:21]	Mitchell Lazarus ran 'Edit' on item 'Notepad' (#6598)
+[18:54:36]	Mitchell Lazarus ran 'drop' on item 'Notepad' (#6602)
+[18:54:36]	Mitchell Lazarus has lost a 'Notepad' #6602.
+[18:54:37]	Mitchell Lazarus ran 'Edit' on item 'Notepad' (#6602)
+[18:55:04]	Mitchell Lazarus ran 'take' on item 'Notepad' (#6602)
+[18:55:04]	Mitchell Lazarus has gained a 'Notepad' #6602.
+[18:55:11]	FB|| light ROOM loaded the character 'Ethan King'
+[18:55:36]	FB|| light ROOM loaded the character 'Mitchell Lazarus'
+[18:57:31]	Mitchell Lazarus opened the '' #883 container.
+[18:57:31]	Mitchell Lazarus closed the '' #883 container.
+[18:57:32]	Mitchell Lazarus opened the '' #883 container.
+[18:57:47]	Mitchell Lazarus closed the '' #883 container.
+[18:58:47]	Mitchell Lazarus opened the '' #859 container.
+[18:58:48]	Mitchell Lazarus closed the '' #859 container.
+[18:58:52]	Mitchell Lazarus opened the '' #865 container.
+[18:58:53]	Mitchell Lazarus closed the '' #865 container.
+[19:01:01]	Mitchell Lazarus ran 'take' on item 'Sewing Kit' (#6915)
+[19:01:01]	Mitchell Lazarus has gained a 'Sewing Kit' #6915.
+[19:01:02]	Mitchell Lazarus ran 'take' on item 'Television' (#6907)
+[19:01:02]	Mitchell Lazarus has gained a 'Television' #6907.
+[19:01:04]	Mitchell Lazarus ran 'take' on item 'Light Bulb' (#6923)
+[19:01:04]	Mitchell Lazarus has gained a 'Light Bulb' #6923.
+[19:01:05]	Mitchell Lazarus ran 'take' on item 'Light Bulb' (#6925)
+[19:01:05]	Mitchell Lazarus has gained a 'Light Bulb' #6925.
+[19:01:07]	Mitchell Lazarus ran 'take' on item 'Flashlight' (#6929)
+[19:01:07]	Mitchell Lazarus has gained a 'Flashlight' #6929.
+[19:01:08]	Mitchell Lazarus ran 'take' on item 'High School Runner' (#6921)
+[19:01:08]	Mitchell Lazarus has gained a 'High School Runner' #6921.
+[19:01:10]	Mitchell Lazarus ran 'take' on item 'High School Runner' (#6922)
+[19:01:10]	Mitchell Lazarus has gained a 'High School Runner' #6922.
+[19:01:11]	Mitchell Lazarus ran 'take' on item 'Notepad' (#6610)
+[19:01:11]	Mitchell Lazarus has gained a 'Notepad' #6610.
+[19:01:32]	Mitchell Lazarus ran 'drop' on item 'Notepad' (#6602)
+[19:01:32]	Mitchell Lazarus has lost a 'Notepad' #6602.
+[19:01:33]	Mitchell Lazarus ran 'Edit' on item 'Notepad' (#6602)
+[19:01:35]	Mitchell Lazarus ran 'take' on item 'Notepad' (#6602)
+[19:01:35]	Mitchell Lazarus has gained a 'Notepad' #6602.
+[19:01:37]	Mitchell Lazarus ran 'drop' on item 'Notepad' (#6610)
+[19:01:37]	Mitchell Lazarus has lost a 'Notepad' #6610.
+[19:01:37]	Mitchell Lazarus ran 'View' on item 'Notepad' (#6610)
+[19:01:40]	Mitchell Lazarus ran 'drop' on item 'Flashlight' (#6929)
+[19:01:40]	Mitchell Lazarus has lost a 'Flashlight' #6929.
+[19:01:41]	Mitchell Lazarus ran 'drop' on item 'Light Bulb' (#6925)
+[19:01:41]	Mitchell Lazarus has lost a 'Light Bulb' #6925.
+[19:01:42]	Mitchell Lazarus ran 'drop' on item 'Light Bulb' (#6923)
+[19:01:42]	Mitchell Lazarus has lost a 'Light Bulb' #6923.
+[19:01:43]	Mitchell Lazarus ran 'drop' on item 'Sewing Kit' (#6915)
+[19:01:43]	Mitchell Lazarus has lost a 'Sewing Kit' #6915.
+[19:01:43]	Mitchell Lazarus ran 'drop' on item 'Television' (#6907)
+[19:01:43]	Mitchell Lazarus has lost a 'Television' #6907.
+[19:01:44]	Mitchell Lazarus ran 'read' on item 'High School Runner' (#6921)
+[19:01:46]	Mitchell Lazarus ran 'drop' on item 'High School Runner' (#6921)
+[19:01:46]	Mitchell Lazarus has lost a 'High School Runner' #6921.
+[19:01:46]	Mitchell Lazarus ran 'read' on item 'High School Runner' (#6922)
+[19:01:48]	Mitchell Lazarus ran 'drop' on item 'High School Runner' (#6922)
+[19:01:48]	Mitchell Lazarus has lost a 'High School Runner' #6922.
+[19:02:19]	FB|| light ROOM loaded the character 'Ethan King'
+[19:04:23]	FB|| light ROOM (STEAM_0:1:17219621) has disconnected.
+[20:06:33]	FB|| light ROOM has connected.
+[20:07:59]	FB|| light ROOM loaded the character 'Ethan King'
+[20:15:57]	Ethan King ran 'View' on item 'Notepad' (#6610)
+[20:35:25]	FB|| light ROOM (STEAM_0:1:17219621) has disconnected.
+[21:36:50]	Catman has connected.
+[21:37:42]	Catman loaded the character 'CCA.C08-UNION.i3.29332'
+[21:40:26]	CCA.C08-UNION.i3.29332 ran 'Apply' on item 'Health Vial' (#6960)
+[21:41:17]	CCA.C08-UNION.i3.29332 used the 'Armory Operator' vendor.
+[21:41:33]	CCA.C08-UNION.i3.29332 has lost 65 tokens.
+[21:41:33]	CCA.C08-UNION.i3.29332 has gained a 'Health Kit' #6965.
+[21:41:33]	CCA.C08-UNION.i3.29332 has lost 65 tokens.
+[21:41:33]	CCA.C08-UNION.i3.29332 has gained a 'Health Kit' #6966.
+[21:41:34]	CCA.C08-UNION.i3.29332 has lost 65 tokens.
+[21:41:34]	CCA.C08-UNION.i3.29332 has gained a 'Health Kit' #6967.
+[21:41:34]	CCA.C08-UNION.i3.29332 has lost 65 tokens.
+[21:41:34]	CCA.C08-UNION.i3.29332 has gained a 'Health Kit' #6968.
+[21:41:39]	CCA.C08-UNION.i3.29332 ran 'Apply' on item 'Health Kit' (#6965)
+[21:41:40]	CCA.C08-UNION.i3.29332 ran 'Apply' on item 'Health Kit' (#6968)
+[21:41:48]	Catman (STEAM_0:0:93262339) has disconnected.

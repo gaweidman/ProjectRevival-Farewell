@@ -1,0 +1,2542 @@
+L 11/03/2022 - 02:53:49: Log file started (file "logs\L1103002.log") (game "c:\servers\revivalhl2rp\garrysmod") (version "8607")
+L 11/03/2022 - 02:53:49: Lua Error: [Helix] Attempt to index unknown item 'emptywatercan'
+
+L 11/03/2022 - 02:53:49: Lua Error: [Helix] Attempt to index unknown item 'emptywatercan'
+
+L 11/03/2022 - 02:53:49: Lua Error: [Helix] Attempt to index unknown item 'emptywatercan'
+
+L 11/03/2022 - 02:53:49: Lua Error: [Helix] Attempt to index unknown item 'emptywatercan'
+
+L 11/03/2022 - 02:53:50: Lua Error: [Helix] Attempt to index unknown item 'applejuice'
+
+L 11/03/2022 - 02:53:50: Lua Error: [Helix] Attempt to index unknown item 'applejuice'
+
+L 11/03/2022 - 02:53:50: Lua Error: [Helix] Attempt to index unknown item 'chickenwrap'
+
+L 11/03/2022 - 02:53:54: Lua Error: [Helix] hook.SafeRun error for schema hook "LoadData":
+	gamemodes/ixhl2rp/schema/sv_hooks.lua:47: attempt to index global 'lacedEnt' (a nil value)
+stack traceback:
+	gamemodes/helix/gamemode/core/libs/sh_plugin.lua:414: in function 'SafeRun'
+	gamemodes/helix/gamemode/core/libs/sh_plugin.lua:314: in function 'RunLoadData'
+	gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:953: in function 'Run'
+	gamemodes/helix/gamemode/core/libs/thirdparty/sv_mysql.lua:633: in function 'OnConnected'
+	gamemodes/helix/gamemode/core/libs/thirdparty/sv_mysql.lua:535: in function <gamemodes/helix/gamemode/core/libs/thirdparty/sv_mysql.lua:534>
+
+L 11/03/2022 - 02:53:54: Connection to Steam servers successful.
+L 11/03/2022 - 02:53:54:    Public IP is 192.223.26.159.
+L 11/03/2022 - 02:53:54: Assigned persistent gameserver Steam ID [G-1:3334754].
+L 11/03/2022 - 02:53:54: VAC secure mode is activated.
+L 11/03/2022 - 11:36:55: "Global Defence Initiative<2><STEAM_0:0:49504081><>" connected, address "174.114.216.104:27005"
+L 11/03/2022 - 11:36:56: "Global Defence Initiative<2><STEAM_0:0:49504081><>" STEAM USERID validated
+L 11/03/2022 - 11:37:02: Lua Error: 
+[lfs_ground_vehicle_base] gamemodes/ixhl2rp/entities/entities/ix_stove.lua:25: attempt to index global 'trace' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/entities/entities/ix_stove.lua:25
+   2. Spawn - [C]:-1
+    3. PPEntityFromTable - addons/lfs_ground_vehicle_base/lua/permaprops/sv_lib.lua:120
+     4. ReloadPermaProps - addons/lfs_ground_vehicle_base/lua/permaprops/sv_lib.lua:233
+      5. unknown - addons/lfs_ground_vehicle_base/lua/permaprops/sv_lib.lua:241
+
+
+L 11/03/2022 - 11:37:02: Lua Error: 
+[lfs_ground_vehicle_base] gamemodes/ixhl2rp/entities/entities/ix_stove.lua:25: attempt to index global 'trace' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/entities/entities/ix_stove.lua:25
+   2. Spawn - [C]:-1
+    3. PPEntityFromTable - addons/lfs_ground_vehicle_base/lua/permaprops/sv_lib.lua:120
+     4. ReloadPermaProps - addons/lfs_ground_vehicle_base/lua/permaprops/sv_lib.lua:233
+      5. unknown - addons/lfs_ground_vehicle_base/lua/permaprops/sv_lib.lua:241
+
+
+L 11/03/2022 - 11:39:04: Lua Error: [Helix] Attempt to index unknown item 'reclaimed_metal'
+
+L 11/03/2022 - 11:39:04: "Global Defence Initiative<2><STEAM_0:0:49504081><>" entered the game
+L 11/03/2022 - 11:39:04: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/03/2022 - 11:55:57: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:810: attempt to index global 'dmgInfo' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:810
+
+
+L 11/03/2022 - 11:56:06: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:812: attempt to index global 'dmgInfo' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:812
+
+
+L 11/03/2022 - 11:56:15: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:810: attempt to index global 'dmgInfo' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:810
+
+
+L 11/03/2022 - 11:56:17: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:810: attempt to index global 'dmgInfo' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:810
+
+
+L 11/03/2022 - 11:56:20: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:810: attempt to index global 'dmgInfo' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:810
+
+
+L 11/03/2022 - 11:56:22: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:810: attempt to index global 'dmgInfo' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:810
+
+
+L 11/03/2022 - 11:56:40: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:812: attempt to index global 'dmgInfo' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:812
+
+
+L 11/03/2022 - 11:56:41: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:812: attempt to index global 'dmgInfo' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:812
+
+
+L 11/03/2022 - 11:56:43: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:812: attempt to index global 'dmgInfo' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:812
+
+
+L 11/03/2022 - 11:56:44: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:812: attempt to index global 'dmgInfo' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:812
+
+
+L 11/03/2022 - 11:57:24: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:812: attempt to index global 'dmgInfo' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:812
+
+
+L 11/03/2022 - 11:57:51: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:812: attempt to index global 'dmgInfo' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:812
+
+
+L 11/03/2022 - 12:00:15: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:812: attempt to index global 'dmgInfo' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:812
+
+
+L 11/03/2022 - 12:00:17: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:812: attempt to index global 'dmgInfo' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:812
+
+
+L 11/03/2022 - 12:01:01: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:810: attempt to index global 'dmgInfo' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:810
+
+
+L 11/03/2022 - 12:01:21: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:812: attempt to index global 'dmgInfo' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:812
+
+
+L 11/03/2022 - 12:01:23: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:812: attempt to index global 'dmgInfo' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:812
+
+
+L 11/03/2022 - 12:01:25: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:812: attempt to index global 'dmgInfo' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:812
+
+
+L 11/03/2022 - 12:01:27: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:812: attempt to index global 'dmgInfo' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:812
+
+
+L 11/03/2022 - 12:02:16: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:812: attempt to index global 'dmgInfo' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:812
+
+
+L 11/03/2022 - 12:02:17: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:812: attempt to index global 'dmgInfo' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:812
+
+
+L 11/03/2022 - 12:02:23: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:812: attempt to index global 'dmgInfo' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:812
+
+
+L 11/03/2022 - 12:05:16: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:677: bad argument #1 to 'ClearCondition' (number expected, got no value)
+  1. ClearCondition - [C]:-1
+   2. unknown - gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:677
+
+
+L 11/03/2022 - 12:05:24: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:677: bad argument #1 to 'ClearCondition' (number expected, got no value)
+  1. ClearCondition - [C]:-1
+   2. unknown - gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:677
+
+
+L 11/03/2022 - 12:05:33: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:677: bad argument #1 to 'ClearCondition' (number expected, got no value)
+  1. ClearCondition - [C]:-1
+   2. unknown - gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:677
+
+
+L 11/03/2022 - 12:05:43: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:677: bad argument #1 to 'ClearCondition' (number expected, got no value)
+  1. ClearCondition - [C]:-1
+   2. unknown - gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:677
+
+
+L 11/03/2022 - 12:06:59: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:677: bad argument #1 to 'ClearCondition' (number expected, got no value)
+  1. ClearCondition - [C]:-1
+   2. unknown - gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:677
+
+
+L 11/03/2022 - 12:07:38: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:677: bad argument #1 to 'ClearCondition' (number expected, got no value)
+  1. ClearCondition - [C]:-1
+   2. unknown - gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:677
+
+
+L 11/03/2022 - 12:08:29: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:677: bad argument #1 to 'ClearCondition' (number expected, got no value)
+  1. ClearCondition - [C]:-1
+   2. unknown - gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:677
+
+
+L 11/03/2022 - 12:08:32: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:677: bad argument #1 to 'ClearCondition' (number expected, got no value)
+  1. ClearCondition - [C]:-1
+   2. unknown - gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:677
+
+
+L 11/03/2022 - 12:09:09: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:677: bad argument #1 to 'ClearCondition' (number expected, got no value)
+  1. ClearCondition - [C]:-1
+   2. unknown - gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:677
+
+
+L 11/03/2022 - 12:09:46: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:677: bad argument #1 to 'ClearCondition' (number expected, got no value)
+  1. ClearCondition - [C]:-1
+   2. unknown - gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:677
+
+
+L 11/03/2022 - 12:13:26: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:812: attempt to index global 'dmgInfo' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:812
+
+
+L 11/03/2022 - 12:13:28: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:812: attempt to index global 'dmgInfo' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:812
+
+
+L 11/03/2022 - 12:13:30: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:812: attempt to index global 'dmgInfo' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:812
+
+
+L 11/03/2022 - 12:13:32: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:812: attempt to index global 'dmgInfo' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:812
+
+
+L 11/03/2022 - 12:13:59: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:810: attempt to index global 'dmgInfo' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:810
+
+
+L 11/03/2022 - 12:14:05: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:812: attempt to index global 'dmgInfo' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:812
+
+
+L 11/03/2022 - 12:17:00: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:810: attempt to index global 'dmgInfo' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:810
+
+
+L 11/03/2022 - 12:19:39: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:812: attempt to index global 'dmgInfo' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:812
+
+
+L 11/03/2022 - 12:19:41: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:812: attempt to index global 'dmgInfo' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:812
+
+
+L 11/03/2022 - 12:19:42: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:812: attempt to index global 'dmgInfo' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:812
+
+
+L 11/03/2022 - 12:19:52: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:812: attempt to index global 'dmgInfo' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:812
+
+
+L 11/03/2022 - 12:19:53: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:812: attempt to index global 'dmgInfo' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:812
+
+
+L 11/03/2022 - 12:19:56: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:812: attempt to index global 'dmgInfo' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:812
+
+
+L 11/03/2022 - 12:19:57: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:812: attempt to index global 'dmgInfo' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:812
+
+
+L 11/03/2022 - 14:22:34: "Global Defence Initiative<2><STEAM_0:0:49504081><>" disconnected (reason "Disconnect by user.")
+L 11/03/2022 - 14:22:46: "Global Defence Initiative<3><STEAM_0:0:49504081><>" connected, address "174.114.216.104:27005"
+L 11/03/2022 - 14:22:46: "Global Defence Initiative<3><STEAM_0:0:49504081><>" STEAM USERID validated
+L 11/03/2022 - 14:23:58: "Global Defence Initiative<3><STEAM_0:0:49504081><>" entered the game
+L 11/03/2022 - 14:23:58: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/03/2022 - 14:24:41: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/schema/sv_hooks.lua:588: attempt to call method 'SetVortessence' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/schema/sv_hooks.lua:588
+   2. Run - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:354
+    3. func - gamemodes/helix/gamemode/core/libs/sh_character.lua:923
+     4. unknown - lua/includes/extensions/net.lua:33
+
+
+L 11/03/2022 - 14:26:27: "Global Defence Initiative<3><STEAM_0:0:49504081><>" disconnected (reason "Disconnect by user.")
+L 11/03/2022 - 16:52:46: "Global Defence Initiative<4><STEAM_0:0:49504081><>" connected, address "174.114.216.104:27005"
+L 11/03/2022 - 16:52:46: "Global Defence Initiative<4><STEAM_0:0:49504081><>" STEAM USERID validated
+L 11/03/2022 - 16:54:36: "Global Defence Initiative<4><STEAM_0:0:49504081><>" entered the game
+L 11/03/2022 - 16:54:36: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/03/2022 - 16:55:11: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/schema/sv_hooks.lua:588: attempt to call method 'SetVortessence' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/schema/sv_hooks.lua:588
+   2. Run - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:354
+    3. func - gamemodes/helix/gamemode/core/libs/sh_character.lua:923
+     4. unknown - lua/includes/extensions/net.lua:33
+
+
+L 11/03/2022 - 17:20:43: "Global Defence Initiative<4><STEAM_0:0:49504081><>" disconnected (reason "Disconnect by user.")
+L 11/03/2022 - 18:14:49: "wendigo<5><STEAM_0:1:429480781><>" connected, address "107.128.116.69:27005"
+L 11/03/2022 - 18:14:50: "wendigo<5><STEAM_0:1:429480781><>" STEAM USERID validated
+L 11/03/2022 - 18:16:53: "wendigo<5><STEAM_0:1:429480781><>" entered the game
+L 11/03/2022 - 18:16:53: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/03/2022 - 18:17:00: "Weaponized Turtles<6><STEAM_0:0:69165544><>" connected, address "73.17.224.161:27005"
+L 11/03/2022 - 18:17:01: "Weaponized Turtles<6><STEAM_0:0:69165544><>" STEAM USERID validated
+L 11/03/2022 - 18:18:34: "Weaponized Turtles<6><STEAM_0:0:69165544><>" entered the game
+L 11/03/2022 - 18:18:35: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/03/2022 - 18:32:19: "jcbutter1<7><STEAM_0:0:124699996><>" connected, address "35.148.8.128:48037"
+L 11/03/2022 - 18:32:19: "jcbutter1<7><STEAM_0:0:124699996><>" STEAM USERID validated
+L 11/03/2022 - 18:32:20: "jcbutter1<7><STEAM_0:0:124699996><>" disconnected (reason "Disconnect by user.")
+L 11/03/2022 - 18:37:59: "methsmoker1987<8><STEAM_0:1:47170537><>" connected, address "50.81.58.147:27005"
+L 11/03/2022 - 18:37:59: "methsmoker1987<8><STEAM_0:1:47170537><>" STEAM USERID validated
+L 11/03/2022 - 18:39:47: "methsmoker1987<8><STEAM_0:1:47170537><>" disconnected (reason "Disconnect by user.")
+L 11/03/2022 - 18:46:50: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/citizenapartments/entities/weapons/ix_keys.lua:192: attempt to index field 'tenantTbl' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/plugins/citizenapartments/entities/weapons/ix_keys.lua:192
+
+
+L 11/03/2022 - 18:52:10: "DRD<9><STEAM_0:0:193599766><>" connected, address "156.34.58.106:27005"
+L 11/03/2022 - 18:52:10: "DRD<9><STEAM_0:0:193599766><>" STEAM USERID validated
+L 11/03/2022 - 18:53:42: Lua Error: [Helix] Attempt to index unknown item 'cmbfood'
+
+L 11/03/2022 - 18:53:42: Lua Error: [Helix] Attempt to index unknown item 'cmbdrink'
+
+L 11/03/2022 - 18:53:42: Lua Error: [Helix] Attempt to index unknown item 'cmbdrink'
+
+L 11/03/2022 - 18:53:42: Lua Error: [Helix] Attempt to index unknown item 'handheld_radio'
+
+L 11/03/2022 - 18:53:42: Lua Error: [Helix] Attempt to index unknown item 'cmbdrink'
+
+L 11/03/2022 - 18:53:42: Lua Error: [Helix] Attempt to index unknown item 'combineration'
+
+L 11/03/2022 - 18:53:42: Lua Error: [Helix] Attempt to index unknown item 'ration'
+
+L 11/03/2022 - 18:53:43: "DRD<9><STEAM_0:0:193599766><>" entered the game
+L 11/03/2022 - 18:53:43: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/03/2022 - 18:56:18: "methsmoker1987<10><STEAM_0:1:47170537><>" connected, address "50.81.58.147:27005"
+L 11/03/2022 - 18:56:18: "methsmoker1987<10><STEAM_0:1:47170537><>" STEAM USERID validated
+L 11/03/2022 - 18:59:14: [ULX] Paul-Henri Cartier gave Themself 90 rounds
+L 11/03/2022 - 18:59:19: [ULX] Paul-Henri Cartier gave Themself 90 rounds
+L 11/03/2022 - 19:03:17: "FB|| light ROOM<11><STEAM_0:1:17219621><>" connected, address "72.219.9.241:27005"
+L 11/03/2022 - 19:03:17: "FB|| light ROOM<11><STEAM_0:1:17219621><>" STEAM USERID validated
+L 11/03/2022 - 19:04:10: "methsmoker1987<10><STEAM_0:1:47170537><>" entered the game
+L 11/03/2022 - 19:04:11: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/03/2022 - 19:05:50: Lua Error: [Helix] Attempt to index unknown item 'duplexradio'
+
+L 11/03/2022 - 19:05:50: Lua Error: [Helix] Attempt to index unknown item 'band_gold'
+
+L 11/03/2022 - 19:05:50: Lua Error: [Helix] Attempt to index unknown item 'duplexradio'
+
+L 11/03/2022 - 19:05:50: Lua Error: [Helix] Attempt to index unknown item 'coppercoil'
+
+L 11/03/2022 - 19:05:50: "FB|| light ROOM<11><STEAM_0:1:17219621><>" entered the game
+L 11/03/2022 - 19:05:50: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/03/2022 - 19:07:04: [ULX] CCA.C17-GRID.i1.23710 gave Themself 90 rounds
+L 11/03/2022 - 19:07:08: [ULX] CCA.C17-GRID.i1.23710 gave Themself 90 rounds
+L 11/03/2022 - 19:07:38: "Lynch<12><STEAM_0:1:626926779><>" connected, address "78.61.145.227:27005"
+L 11/03/2022 - 19:07:38: "Lynch<12><STEAM_0:1:626926779><>" STEAM USERID validated
+L 11/03/2022 - 19:13:20: "Lynch<12><STEAM_0:1:626926779><>" entered the game
+L 11/03/2022 - 19:13:20: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/03/2022 - 19:13:43: [ULX] CCA.C17-GRID.i1.23710 set the hp for Ethan King to 1099
+L 11/03/2022 - 19:13:45: [ULX] CCA.C17-GRID.i1.23710 set the hp for Ethan King to 100
+L 11/03/2022 - 19:50:50: "Mr. Chief<13><STEAM_0:1:129270116><>" connected, address "66.253.168.243:27005"
+L 11/03/2022 - 19:50:51: "Mr. Chief<13><STEAM_0:1:129270116><>" STEAM USERID validated
+L 11/03/2022 - 19:55:29: "Mr. Chief<13><STEAM_0:1:129270116><>" entered the game
+L 11/03/2022 - 19:55:30: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/03/2022 - 19:58:24: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/cac/sh_plugin.lua:63: attempt to index a nil value
+  1. v - gamemodes/ixhl2rp/plugins/cac/sh_plugin.lua:63
+   2. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+    3. Kill - [C]:-1
+     4. Call - gamemodes/base/gamemode/player.lua:359
+      5. unknown - gamemodes/base/gamemode/player.lua:466
+       6. Spawn - [C]:-1
+        7. func - gamemodes/helix/gamemode/core/libs/sh_character.lua:921
+         8. unknown - lua/includes/extensions/net.lua:33
+
+
+L 11/03/2022 - 19:58:32: [ULX] Major-General Sir Issac Brock KB set the hp for Themself to 999999
+L 11/03/2022 - 19:58:36: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/schema/meta/sv_player.lua:142: attempt to index a nil value
+  1. unknown - gamemodes/ixhl2rp/schema/meta/sv_player.lua:142
+
+
+L 11/03/2022 - 19:58:49: [ULX] CCA.C17-QrM.98240<STEAM_0:1:17219621> used the tool item_ammo_crate on maps/rp_industrial17_v1.bsp
+L 11/03/2022 - 19:58:49: [ULX] CCA.C17-QrM.98240<STEAM_0:1:17219621> used the tool item_ammo_crate on maps/rp_industrial17_v1.bsp
+L 11/03/2022 - 19:58:49: [ULX] CCA.C17-QrM.98240<STEAM_0:1:17219621> used the tool item_ammo_crate on maps/rp_industrial17_v1.bsp
+L 11/03/2022 - 19:58:50: [ULX] CCA.C17-QrM.98240<STEAM_0:1:17219621> used the tool item_ammo_crate on maps/rp_industrial17_v1.bsp
+L 11/03/2022 - 19:58:53: [ULX] Major-General Sir Issac Brock KB brought CCA.C17-QrM.98240
+L 11/03/2022 - 19:58:58: [ULX] CCA.C17-QrM.98240<STEAM_0:1:17219621> used the tool item_ammo_crate on maps/rp_industrial17_v1.bsp
+L 11/03/2022 - 19:58:59: [ULX] CCA.C17-QrM.98240<STEAM_0:1:17219621> used the tool item_ammo_crate on maps/rp_industrial17_v1.bsp
+L 11/03/2022 - 19:58:59: [ULX] CCA.C17-QrM.98240<STEAM_0:1:17219621> used the tool item_ammo_crate on maps/rp_industrial17_v1.bsp
+L 11/03/2022 - 19:59:00: [ULX] CCA.C17-QrM.98240<STEAM_0:1:17219621> used the tool item_ammo_crate on maps/rp_industrial17_v1.bsp
+L 11/03/2022 - 19:59:10: [ULX] Major-General Sir Issac Brock KB<STEAM_0:0:193599766> spawned sent pfx9_00
+L 11/03/2022 - 19:59:17: [ULX] Major-General Sir Issac Brock KB<STEAM_0:0:193599766> spawned sent pfx9_00
+L 11/03/2022 - 19:59:20: [ULX] Major-General Sir Issac Brock KB<STEAM_0:0:193599766> spawned sent pfx9_00
+L 11/03/2022 - 20:00:18: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:1372: attempt to index local 'lClawAttach' (a nil value)
+  1. StartChargebeams - gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:1372
+   2. unknown - gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:203
+
+
+L 11/03/2022 - 20:00:58: [ULX] Major-General Sir Issac Brock KB<STEAM_0:0:193599766> spawned/gave himself swep sfw_behemoth
+L 11/03/2022 - 20:01:50: [ULX] Major-General Sir Issac Brock KB gave CCA.C17-UNION.i4.29852 1 rounds
+L 11/03/2022 - 20:01:52: [ULX] Major-General Sir Issac Brock KB gave CCA.C17-UNION.i4.29852 1 rounds
+L 11/03/2022 - 20:01:53: [ULX] Major-General Sir Issac Brock KB gave CCA.C17-UNION.i4.29852 1 rounds
+L 11/03/2022 - 20:01:54: [ULX] Major-General Sir Issac Brock KB gave CCA.C17-UNION.i4.29852 1 rounds
+L 11/03/2022 - 20:01:55: [ULX] Major-General Sir Issac Brock KB gave CCA.C17-UNION.i4.29852 1 rounds
+L 11/03/2022 - 20:01:56: [ULX] Major-General Sir Issac Brock KB gave CCA.C17-UNION.i4.29852 1 rounds
+L 11/03/2022 - 20:01:56: [ULX] Major-General Sir Issac Brock KB gave CCA.C17-UNION.i4.29852 1 rounds
+L 11/03/2022 - 20:01:56: [ULX] Major-General Sir Issac Brock KB gave CCA.C17-UNION.i4.29852 1 rounds
+L 11/03/2022 - 20:01:56: [ULX] Major-General Sir Issac Brock KB gave CCA.C17-UNION.i4.29852 1 rounds
+L 11/03/2022 - 20:01:57: [ULX] Major-General Sir Issac Brock KB gave CCA.C17-UNION.i4.29852 1 rounds
+L 11/03/2022 - 20:01:57: [ULX] Major-General Sir Issac Brock KB gave CCA.C17-UNION.i4.29852 1 rounds
+L 11/03/2022 - 20:01:57: [ULX] Major-General Sir Issac Brock KB gave CCA.C17-UNION.i4.29852 1 rounds
+L 11/03/2022 - 20:01:58: [ULX] Major-General Sir Issac Brock KB gave CCA.C17-UNION.i4.29852 90 rounds
+L 11/03/2022 - 20:01:59: [ULX] Major-General Sir Issac Brock KB gave CCA.C17-UNION.i4.29852 90 rounds
+L 11/03/2022 - 20:02:03: [ULX] Major-General Sir Issac Brock KB gave CCA.C17-UNION.i4.29852 90 rounds
+L 11/03/2022 - 20:02:03: [ULX] Major-General Sir Issac Brock KB gave CCA.C17-UNION.i4.29852 90 rounds
+L 11/03/2022 - 20:02:04: [ULX] Major-General Sir Issac Brock KB gave CCA.C17-UNION.i4.29852 90 rounds
+L 11/03/2022 - 20:02:04: [ULX] Major-General Sir Issac Brock KB gave CCA.C17-UNION.i4.29852 90 rounds
+L 11/03/2022 - 20:02:04: [ULX] Major-General Sir Issac Brock KB gave CCA.C17-UNION.i4.29852 90 rounds
+L 11/03/2022 - 20:02:04: [ULX] Major-General Sir Issac Brock KB gave CCA.C17-UNION.i4.29852 90 rounds
+L 11/03/2022 - 20:02:04: [ULX] Major-General Sir Issac Brock KB gave CCA.C17-UNION.i4.29852 90 rounds
+L 11/03/2022 - 20:02:04: [ULX] Major-General Sir Issac Brock KB gave CCA.C17-UNION.i4.29852 90 rounds
+L 11/03/2022 - 20:02:05: [ULX] Major-General Sir Issac Brock KB gave CCA.C17-UNION.i4.29852 90 rounds
+L 11/03/2022 - 20:02:05: [ULX] Major-General Sir Issac Brock KB gave CCA.C17-UNION.i4.29852 90 rounds
+L 11/03/2022 - 20:02:05: [ULX] Major-General Sir Issac Brock KB gave CCA.C17-UNION.i4.29852 90 rounds
+L 11/03/2022 - 20:02:05: [ULX] Major-General Sir Issac Brock KB gave CCA.C17-UNION.i4.29852 90 rounds
+L 11/03/2022 - 20:02:06: [ULX] Major-General Sir Issac Brock KB gave CCA.C17-UNION.i4.29852 90 rounds
+L 11/03/2022 - 20:02:06: [ULX] Major-General Sir Issac Brock KB gave CCA.C17-UNION.i4.29852 90 rounds
+L 11/03/2022 - 20:02:06: [ULX] Major-General Sir Issac Brock KB gave CCA.C17-UNION.i4.29852 90 rounds
+L 11/03/2022 - 20:02:06: [ULX] Major-General Sir Issac Brock KB gave CCA.C17-UNION.i4.29852 90 rounds
+L 11/03/2022 - 20:02:06: [ULX] Major-General Sir Issac Brock KB gave CCA.C17-UNION.i4.29852 90 rounds
+L 11/03/2022 - 20:02:07: [ULX] Major-General Sir Issac Brock KB gave CCA.C17-UNION.i4.29852 90 rounds
+L 11/03/2022 - 20:02:07: [ULX] Major-General Sir Issac Brock KB gave CCA.C17-UNION.i4.29852 90 rounds
+L 11/03/2022 - 20:02:07: [ULX] Major-General Sir Issac Brock KB gave CCA.C17-UNION.i4.29852 90 rounds
+L 11/03/2022 - 20:02:07: [ULX] Major-General Sir Issac Brock KB gave CCA.C17-UNION.i4.29852 90 rounds
+L 11/03/2022 - 20:02:08: [ULX] Major-General Sir Issac Brock KB gave CCA.C17-UNION.i4.29852 90 rounds
+L 11/03/2022 - 20:02:08: [ULX] Major-General Sir Issac Brock KB gave CCA.C17-UNION.i4.29852 90 rounds
+L 11/03/2022 - 20:02:08: [ULX] Major-General Sir Issac Brock KB gave CCA.C17-UNION.i4.29852 90 rounds
+L 11/03/2022 - 20:02:33: [ULX] Major-General Sir Issac Brock KB brought CCA.C17-UNION.i4.29852
+L 11/03/2022 - 20:03:05: [ULX] Major-General Sir Issac Brock KB<STEAM_0:0:193599766> spawned/gave himself swep sfw_phoenix
+L 11/03/2022 - 20:06:31: [ULX] Major-General Sir Issac Brock KB<STEAM_0:0:193599766> spawned/gave himself swep weapon_leash_rope
+L 11/03/2022 - 20:06:41: [ULX] Major-General Sir Issac Brock KB brought CCA.C17-UNION.i4.29852
+L 11/03/2022 - 20:06:44: [ULX] Major-General Sir Issac Brock KB gave CCA.C17-UNION.i4.29852 90 rounds
+L 11/03/2022 - 20:06:45: [ULX] Major-General Sir Issac Brock KB gave CCA.C17-UNION.i4.29852 90 rounds
+L 11/03/2022 - 20:06:53: [ULX] Major-General Sir Issac Brock KB gave CCA.C17-UNION.i4.29852 90 rounds
+L 11/03/2022 - 20:06:55: [ULX] Major-General Sir Issac Brock KB brought CCA.C17-UNION.i4.29852
+L 11/03/2022 - 20:08:12: [ULX] Major-General Sir Issac Brock KB brought CCA.C17-UNION.i4.29852
+L 11/03/2022 - 20:08:32: [ULX] Major-General Sir Issac Brock KB brought CCA.C17-UNION.i4.29852
+L 11/03/2022 - 20:11:40: [ULX] Cemre Akçam<STEAM_0:0:193599766> spawned sent ix_testent4
+L 11/03/2022 - 20:13:39: Lua Error: 
+[ulx] gamemodes/ixhl2rp/schema/sv_hooks.lua:766: bad argument #2 to 'sub' (number expected, got nil)
+  1. sub - [C]:-1
+   2. unknown - gamemodes/ixhl2rp/schema/sv_hooks.lua:766
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:354
+     4. Kill - [C]:-1
+      5. call - addons/ulx/lua/ulx/modules/sh/fun.lua:85
+       6. __fn - addons/ulib/lua/ulib/shared/commands.lua:943
+        7. execute - addons/ulib/lua/ulib/shared/commands.lua:1323
+         8. unknown - addons/ulib/lua/ulib/shared/commands.lua:1351
+          9. Run - lua/includes/modules/concommand.lua:54
+           10. unknown - addons/ulib/lua/ulib/shared/commands.lua:1365
+            11. unknown - lua/includes/modules/concommand.lua:54
+
+
+L 11/03/2022 - 20:13:39: [ULX] Cemre Akçam slayed PVT Nathan Pierce
+L 11/03/2022 - 20:17:07: Lua Error: attempted to add entry to non-existent log type "Player [3][DRD]"
+L 11/03/2022 - 20:17:07: Lua Error: 
+[ulib] gamemodes/helix/gamemode/core/libs/sh_log.lua:115: bad argument #1 to 'WriteString' (string expected, got nil)
+  1. WriteString - [C]:-1
+   2. Send - gamemodes/helix/gamemode/core/libs/sh_log.lua:115
+    3. callback - gamemodes/helix/gamemode/core/libs/sh_log.lua:105
+     4. onResult - gamemodes/helix/gamemode/core/libs/thirdparty/sh_cami.lua:443
+      5. callback - gamemodes/helix/gamemode/core/libs/thirdparty/sh_cami.lua:448
+       6. fn - addons/ulib/lua/ulib/shared/cami_ulib.lua:23
+        7. Call - addons/ulib/lua/ulib/shared/hook.lua:109
+         8. PlayerHasAccess - gamemodes/helix/gamemode/core/libs/thirdparty/sh_cami.lua:383
+          9. GetPlayersWithAccess - gamemodes/helix/gamemode/core/libs/thirdparty/sh_cami.lua:447
+           10. Add - gamemodes/helix/gamemode/core/libs/sh_log.lua:104
+            11. SearchPlayer - gamemodes/ixhl2rp/schema/sv_schema.lua:393
+             12. OnRun - gamemodes/ixhl2rp/schema/sh_commands.lua:579
+              13. Run - gamemodes/helix/gamemode/core/libs/sh_command.lua:499
+               14. ParL 11/03/2022 - 20:17:07: Lua Error: 
+[ERROR] Warning! A net message (ixLogStream) is already started! Discarding in favor of the new message! (ixTypeClass)
+  1. func - gamemodes/helix/plugins/typing.lua:232
+   2. unknown - lua/includes/extensions/net.lua:33
+
+
+L 11/03/2022 - 20:18:55: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/hunger/sh_plugin.lua:84: attempt to index local 'char' (a nil value)
+  1. v - gamemodes/ixhl2rp/plugins/hunger/sh_plugin.lua:84
+   2. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+    3. Spawn - [C]:-1
+     4. Kick - gamemodes/helix/gamemode/core/meta/sh_character.lua:211
+      5. callback - gamemodes/helix/gamemode/core/sh_commands.lua:313
+       6. unknown - gamemodes/helix/gamemode/core/meta/sh_character.lua:85
+        7. pcall - [C]:-1
+         8. Execute - gamemodes/helix/gamemode/core/libs/thirdparty/sv_mysql.lua:569
+          9. Save - gamemodes/helix/gamemode/core/meta/sh_character.lua:90
+           10. OnRun - gamemodes/helix/gamemode/core/sh_commands.lua:312
+            11. Run - gamemodes/helix/gamemode/core/libs/sh_command.lua:499
+             12. Parse - gamemodes/helix/gamemode/core/libs/sh_command.lua:561
+              13. Run - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:324
+               14. func - gamemodes/ixhl2rp/plugins/chatbox/sh_plugin.lua:235
+                15. unknL 11/03/2022 - 20:20:07: [ULX] Paul-Henri Cartier gave PVT Nathan Pierce 90 rounds
+L 11/03/2022 - 20:22:41: [ULX] Paul-Henri Cartier set the armor for Themself to 100
+L 11/03/2022 - 20:22:47: [ULX] Paul-Henri Cartier set the armor for Ethan King to 50
+L 11/03/2022 - 20:25:42: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. Think - lua/entities/vfire/shared.lua:620
+        7. Prioritize - lua/entities/vfire/shared.lua:165
+         8. unknown - lua/entities/vfire/shared.lua:104
+          9. Spawn - [C]:-1
+           10. CreateVFire - lua/autorun/fire_creation.lua:189
+            11. Ignite - lua/autorun/fire_game_modifications.lua:72
+             12. Receive - lua/autorun/properties/ignite.lua:47
+              13. func - lua/includes/modules/properties.lua:173
+               14. unknown - lua/includes/extensions/net.lua:33
+
+
+L 11/03/2022 - 20:25:42: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. Think - lua/entities/vfire/shared.lua:620
+        7. Prioritize - lua/entities/vfire/shared.lua:165
+         8. unknown - lua/entities/vfire/shared.lua:104
+          9. Spawn - [C]:-1
+           10. CreateVFire - lua/autorun/fire_creation.lua:189
+            11. Ignite - lua/autorun/fire_game_modifications.lua:72
+             12. Receive - lua/autorun/properties/ignite.lua:47
+              13. func - lua/includes/modules/properties.lua:173
+               14. unknown - lua/includes/extensions/net.lua:33
+
+
+L 11/03/2022 - 20:25:42: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. Think - lua/entities/vfire/shared.lua:620
+        7. Prioritize - lua/entities/vfire/shared.lua:165
+         8. unknown - lua/entities/vfire/shared.lua:104
+          9. Spawn - [C]:-1
+           10. CreateVFire - lua/autorun/fire_creation.lua:189
+            11. Ignite - lua/autorun/fire_game_modifications.lua:72
+             12. Receive - lua/autorun/properties/ignite.lua:47
+              13. func - lua/includes/modules/properties.lua:173
+               14. unknown - lua/includes/extensions/net.lua:33
+
+
+L 11/03/2022 - 20:25:42: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. Think - lua/entities/vfire/shared.lua:620
+        7. Prioritize - lua/entities/vfire/shared.lua:165
+         8. unknown - lua/entities/vfire/shared.lua:104
+          9. Spawn - [C]:-1
+           10. CreateVFire - lua/autorun/fire_creation.lua:189
+            11. Ignite - lua/autorun/fire_game_modifications.lua:72
+             12. Receive - lua/autorun/properties/ignite.lua:47
+              13. func - lua/includes/modules/properties.lua:173
+               14. unknown - lua/includes/extensions/net.lua:33
+
+
+L 11/03/2022 - 20:25:43: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:25:43: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:25:43: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:25:43: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:25:45: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:25:45: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:25:45: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:25:45: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:25:46: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:25:46: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:25:46: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:25:46: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:25:48: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:25:48: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:25:48: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:25:48: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:25:49: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:25:49: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:25:49: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:25:49: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:25:51: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:25:51: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:25:51: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:25:51: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:25:52: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:25:52: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:25:52: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:25:52: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:25:54: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:25:54: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:25:54: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:25:54: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:25:55: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:25:55: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:25:55: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:25:55: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:25:57: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:25:57: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:25:57: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:25:57: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:25:58: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:25:58: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:25:58: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:25:58: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:26:00: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:26:00: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:26:00: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:26:00: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:26:01: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:26:01: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:26:01: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:26:01: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:26:03: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:26:03: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:26:03: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:26:03: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:26:04: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:26:04: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:26:04: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:26:04: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:26:06: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:26:06: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:26:06: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:26:06: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:26:07: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:26:07: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:26:07: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:26:07: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:26:09: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:26:09: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:26:09: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:26:09: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:26:10: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:26:10: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:26:10: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:26:10: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:26:12: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:26:12: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:26:12: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:26:12: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:26:14: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:26:14: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:26:14: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:26:14: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:26:15: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:26:15: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:26:15: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:26:15: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:26:17: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:26:17: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:26:17: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:26:17: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:26:18: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:26:18: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:26:20: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:26:20: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:26:21: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:26:21: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:26:23: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:26:23: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:26:24: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:26:24: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:26:26: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:26:26: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:26:27: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:26:27: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:26:29: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:26:29: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:26:30: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:26:30: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:26:32: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:26:32: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:26:33: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:26:33: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:26:35: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:26:35: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:26:36: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:26:36: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:26:38: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:26:38: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:26:39: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:26:39: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:26:41: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:26:41: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:26:42: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:26:42: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:26:44: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:26:44: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:26:45: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:26:45: Lua Error: 
+[ulib] gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. fn - gamemodes/ixhl2rp/plugins/combinecameras/sh_plugin.lua:284
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+     4. TakeDamageInfo - [C]:-1
+      5. BurnThink - lua/entities/vfire/shared.lua:883
+       6. unknown - lua/entities/vfire/shared.lua:620
+
+
+L 11/03/2022 - 20:29:04: [ULX] Ethan King<STEAM_0:1:17219621> used the tool item_ammo_crate on maps/rp_industrial17_v1.bsp
+L 11/03/2022 - 20:29:07: [ULX] Ethan King<STEAM_0:1:17219621> used the tool item_ammo_crate on maps/rp_industrial17_v1.bsp
+L 11/03/2022 - 20:29:08: [ULX] Ethan King<STEAM_0:1:17219621> used the tool item_ammo_crate on maps/rp_industrial17_v1.bsp
+L 11/03/2022 - 20:29:08: [ULX] Ethan King<STEAM_0:1:17219621> used the tool item_ammo_crate on maps/rp_industrial17_v1.bsp
+L 11/03/2022 - 20:29:08: [ULX] Ethan King<STEAM_0:1:17219621> used the tool item_ammo_crate on maps/rp_industrial17_v1.bsp
+L 11/03/2022 - 20:29:20: [ULX] Dispatch gave CCA.C17-UNION.i4.29852 99999 rounds
+L 11/03/2022 - 20:30:42: [ULX] Ethan King<STEAM_0:1:17219621> used the tool item_item_crate on maps/rp_industrial17_v1.bsp
+L 11/03/2022 - 20:31:44: [ULX] Dispatch brought Ethan King
+L 11/03/2022 - 20:40:59: Lua Error: attempted to add entry to non-existent log type "Player [7][Mr. Chief]"
+L 11/03/2022 - 20:40:59: Lua Error: 
+[ulib] gamemodes/helix/gamemode/core/libs/sh_log.lua:115: bad argument #1 to 'WriteString' (string expected, got nil)
+  1. WriteString - [C]:-1
+   2. Send - gamemodes/helix/gamemode/core/libs/sh_log.lua:115
+    3. callback - gamemodes/helix/gamemode/core/libs/sh_log.lua:105
+     4. onResult - gamemodes/helix/gamemode/core/libs/thirdparty/sh_cami.lua:443
+      5. callback - gamemodes/helix/gamemode/core/libs/thirdparty/sh_cami.lua:448
+       6. fn - addons/ulib/lua/ulib/shared/cami_ulib.lua:23
+        7. Call - addons/ulib/lua/ulib/shared/hook.lua:109
+         8. PlayerHasAccess - gamemodes/helix/gamemode/core/libs/thirdparty/sh_cami.lua:383
+          9. GetPlayersWithAccess - gamemodes/helix/gamemode/core/libs/thirdparty/sh_cami.lua:447
+           10. Add - gamemodes/helix/gamemode/core/libs/sh_log.lua:104
+            11. SearchPlayer - gamemodes/ixhl2rp/schema/sv_schema.lua:393
+             12. OnRun - gamemodes/ixhl2rp/schema/sh_commands.lua:564
+              13. Run - gamemodes/helix/gamemode/core/libs/sh_command.lua:499
+               14. ParL 11/03/2022 - 20:40:59: Lua Error: 
+[ERROR] Warning! A net message (ixLogStream) is already started! Discarding in favor of the new message! (ixTypeClass)
+  1. func - gamemodes/helix/plugins/typing.lua:232
+   2. unknown - lua/includes/extensions/net.lua:33
+
+
+L 11/03/2022 - 20:44:55: [ULX] CCA.C17-GRID.i1.23710 ragdolled CCA.C17-UNION.i4.29852
+L 11/03/2022 - 20:45:04: [ULX] CCA.C17-GRID.i1.23710 unragdolled CCA.C17-UNION.i4.29852
+L 11/03/2022 - 20:46:05: "Lildirtyharry04<14><STEAM_0:0:247487472><>" connected, address "152.37.143.67:27005"
+L 11/03/2022 - 20:46:06: "Lildirtyharry04<14><STEAM_0:0:247487472><>" STEAM USERID validated
+L 11/03/2022 - 20:46:50: "Chicken<15><STEAM_0:0:143523274><>" connected, address "173.16.69.239:27005"
+L 11/03/2022 - 20:46:50: "Chicken<15><STEAM_0:0:143523274><>" STEAM USERID validated
+L 11/03/2022 - 20:47:29: [ULX] CCA.C17-GRID.i1.23710<STEAM_0:0:193599766> spawned model models/props_c17/fence03a.mdl
+L 11/03/2022 - 20:47:49: "Lildirtyharry04<14><STEAM_0:0:247487472><>" entered the game
+L 11/03/2022 - 20:47:50: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/03/2022 - 20:49:35: [ULX] Ava Carter<STEAM_0:1:429480781> spawned model models/props_c17/furnitureboiler001a.mdl
+L 11/03/2022 - 20:51:01: Lua Error: [Helix] Attempt to index unknown item 'purifiedwater'
+
+L 11/03/2022 - 20:51:01: "Chicken<15><STEAM_0:0:143523274><>" entered the game
+L 11/03/2022 - 20:51:01: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/03/2022 - 20:51:49: [ULX] CCA.C17-GRID.i1.23710 teleported to Charlamange Durango
+L 11/03/2022 - 20:52:04: [ULX] CCA.C17-GRID.i1.23710 brought Charlamange Durango
+L 11/03/2022 - 20:56:03: "Global Defence Initiative<16><STEAM_0:0:49504081><>" connected, address "174.114.216.104:27005"
+L 11/03/2022 - 20:56:04: "Global Defence Initiative<16><STEAM_0:0:49504081><>" STEAM USERID validated
+L 11/03/2022 - 20:56:21: "Mal0 v0.9<17><STEAM_0:1:207594832><>" connected, address "24.178.166.67:27005"
+L 11/03/2022 - 20:56:21: "Mal0 v0.9<17><STEAM_0:1:207594832><>" STEAM USERID validated
+L 11/03/2022 - 20:57:59: "Global Defence Initiative<16><STEAM_0:0:49504081><>" entered the game
+L 11/03/2022 - 20:57:59: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/03/2022 - 20:58:15: "scout<18><STEAM_0:1:178325073><>" connected, address "108.26.164.28:27005"
+L 11/03/2022 - 20:58:15: "scout<18><STEAM_0:1:178325073><>" STEAM USERID validated
+L 11/03/2022 - 21:00:21: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/schema/sv_hooks.lua:588: attempt to call method 'SetVortessence' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/schema/sv_hooks.lua:588
+   2. Run - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:354
+    3. func - gamemodes/helix/gamemode/core/libs/sh_character.lua:923
+     4. unknown - lua/includes/extensions/net.lua:33
+
+
+L 11/03/2022 - 21:00:26: "Mal0 v0.9<17><STEAM_0:1:207594832><>" entered the game
+L 11/03/2022 - 21:00:26: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/03/2022 - 21:03:08: [ULX] Paul-Henri Cartier slayed Bird
+L 11/03/2022 - 21:03:20: [ULX] Paul-Henri Cartier brought Bird
+L 11/03/2022 - 21:04:04: "scout<18><STEAM_0:1:178325073><>" disconnected (reason "Map is missing")
+L 11/03/2022 - 21:05:57: "Mr.Ganar<19><STEAM_0:0:80909581><>" connected, address "85.15.110.91:27005"
+L 11/03/2022 - 21:05:57: "Mr.Ganar<19><STEAM_0:0:80909581><>" STEAM USERID validated
+L 11/03/2022 - 21:06:31: Lua Error: 
+[half-life_2_remake_-_melee_pack_1613510768] gamemodes/helix/gamemode/core/hooks/sh_hooks.lua:198: attempt to index local 'animation' (a nil value)
+  1. unknown - gamemodes/helix/gamemode/core/hooks/sh_hooks.lua:198
+   2. SetAnimation - [C]:-1
+    3. Swing - addons/half-life_2_remake_-_melee_pack_1613510768/lua/weapons/weapon_hl2basebludgeon.lua:96
+     4. unknown - addons/half-life_2_remake_-_melee_pack_1613510768/lua/weapons/weapon_hl2basebludgeon.lua:148
+
+
+L 11/03/2022 - 21:06:32: Lua Error: 
+[half-life_2_remake_-_melee_pack_1613510768] gamemodes/helix/gamemode/core/hooks/sh_hooks.lua:198: attempt to index local 'animation' (a nil value)
+  1. unknown - gamemodes/helix/gamemode/core/hooks/sh_hooks.lua:198
+   2. SetAnimation - [C]:-1
+    3. Swing - addons/half-life_2_remake_-_melee_pack_1613510768/lua/weapons/weapon_hl2basebludgeon.lua:96
+     4. unknown - addons/half-life_2_remake_-_melee_pack_1613510768/lua/weapons/weapon_hl2basebludgeon.lua:148
+
+
+L 11/03/2022 - 21:06:33: Lua Error: 
+[half-life_2_remake_-_melee_pack_1613510768] gamemodes/helix/gamemode/core/hooks/sh_hooks.lua:198: attempt to index local 'animation' (a nil value)
+  1. unknown - gamemodes/helix/gamemode/core/hooks/sh_hooks.lua:198
+   2. SetAnimation - [C]:-1
+    3. Swing - addons/half-life_2_remake_-_melee_pack_1613510768/lua/weapons/weapon_hl2basebludgeon.lua:96
+     4. unknown - addons/half-life_2_remake_-_melee_pack_1613510768/lua/weapons/weapon_hl2basebludgeon.lua:148
+
+
+L 11/03/2022 - 21:07:00: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/schema/sv_hooks.lua:588: attempt to call method 'SetVortessence' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/schema/sv_hooks.lua:588
+   2. Run - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:354
+    3. func - gamemodes/helix/gamemode/core/libs/sh_character.lua:923
+     4. unknown - lua/includes/extensions/net.lua:33
+
+
+L 11/03/2022 - 21:07:45: [ULX] Major-General Sir Issac Brock KB<STEAM_0:0:193599766> spawned sent pfx9_00
+L 11/03/2022 - 21:08:17: "Mr.Ganar<19><STEAM_0:0:80909581><>" disconnected (reason "Mr.Ganar timed out")
+L 11/03/2022 - 21:08:36: [ULX] Major-General Sir Issac Brock KB gave CAC.C17-CRM.24238 ix_biosigstunstick
+L 11/03/2022 - 21:09:01: [ULX] Major-General Sir Issac Brock KB<STEAM_0:0:193599766> spawned sent pfx9_00
+L 11/03/2022 - 21:09:19: "Enclave<20><STEAM_0:0:34463192><>" connected, address "75.248.18.54:27005"
+L 11/03/2022 - 21:09:19: "Enclave<20><STEAM_0:0:34463192><>" STEAM USERID validated
+L 11/03/2022 - 21:09:43: [ULX] Major-General Sir Issac Brock KB<STEAM_0:0:193599766> spawned sent pfx9_00
+L 11/03/2022 - 21:10:01: [ULX] Major-General Sir Issac Brock KB<STEAM_0:0:193599766> spawned sent pfx9_00
+L 11/03/2022 - 21:10:08: [ULX] Major-General Sir Issac Brock KB<STEAM_0:0:193599766> spawned sent pfx9_00
+L 11/03/2022 - 21:10:19: [ULX] Major-General Sir Issac Brock KB<STEAM_0:0:193599766> spawned sent pfx9_00
+L 11/03/2022 - 21:10:31: "scout<21><STEAM_0:1:178325073><>" connected, address "108.26.164.28:27005"
+L 11/03/2022 - 21:10:31: "scout<21><STEAM_0:1:178325073><>" STEAM USERID validated
+L 11/03/2022 - 21:10:59: [ULX] Major-General Sir Issac Brock KB<STEAM_0:0:193599766> used the tool paint on maps/rp_industrial17_v1.bsp
+L 11/03/2022 - 21:10:59: [ULX] Major-General Sir Issac Brock KB<STEAM_0:0:193599766> used the tool paint on maps/rp_industrial17_v1.bsp
+L 11/03/2022 - 21:10:59: [ULX] Major-General Sir Issac Brock KB<STEAM_0:0:193599766> used the tool paint on maps/rp_industrial17_v1.bsp
+L 11/03/2022 - 21:10:59: [ULX] Major-General Sir Issac Brock KB<STEAM_0:0:193599766> used the tool paint on maps/rp_industrial17_v1.bsp
+L 11/03/2022 - 21:10:59: [ULX] Major-General Sir Issac Brock KB<STEAM_0:0:193599766> used the tool paint on maps/rp_industrial17_v1.bsp
+L 11/03/2022 - 21:10:59: [ULX] Major-General Sir Issac Brock KB<STEAM_0:0:193599766> used the tool paint on maps/rp_industrial17_v1.bsp
+L 11/03/2022 - 21:10:59: [ULX] Major-General Sir Issac Brock KB<STEAM_0:0:193599766> used the tool paint on maps/rp_industrial17_v1.bsp
+L 11/03/2022 - 21:10:59: [ULX] Major-General Sir Issac Brock KB<STEAM_0:0:193599766> used the tool paint on maps/rp_industrial17_v1.bsp
+L 11/03/2022 - 21:10:59: [ULX] Major-General Sir Issac Brock KB<STEAM_0:0:193599766> used the tool paint on maps/rp_industrial17_v1.bsp
+L 11/03/2022 - 21:10:59: [ULX] Major-General Sir Issac Brock KB<STEAM_0:0:193599766> used the tool paint on maps/rp_industrial17_v1.bsp
+L 11/03/2022 - 21:11:16: [ULX] Major-General Sir Issac Brock KB<STEAM_0:0:193599766> spawned sent pfx9_00
+L 11/03/2022 - 21:11:26: [ULX] Major-General Sir Issac Brock KB<STEAM_0:0:193599766> spawned sent pfx9_00
+L 11/03/2022 - 21:11:44: [ULX] Major-General Sir Issac Brock KB<STEAM_0:0:193599766> spawned sent pfx9_00
+L 11/03/2022 - 21:11:56: "scout<21><STEAM_0:1:178325073><>" disconnected (reason "Map is missing")
+L 11/03/2022 - 21:12:01: [ULX] Major-General Sir Issac Brock KB<STEAM_0:0:193599766> spawned sent pfx9_00
+L 11/03/2022 - 21:12:17: [ULX] Major-General Sir Issac Brock KB<STEAM_0:0:193599766> spawned/gave himself swep weapon_chumtoad
+L 11/03/2022 - 21:12:27: "Weaponized Turtles<6><STEAM_0:0:69165544><>" disconnected (reason "Weaponized Turtles timed out")
+L 11/03/2022 - 21:12:28: "Weaponized Turtles<22><STEAM_0:0:69165544><>" connected, address "73.17.224.161:27005"
+L 11/03/2022 - 21:12:28: "Weaponized Turtles<22><STEAM_0:0:69165544><>" STEAM USERID validated
+L 11/03/2022 - 21:13:10: [ULX] Major-General Sir Issac Brock KB<STEAM_0:0:193599766> spawned sent pfx9_00
+L 11/03/2022 - 21:13:16: "Enclave<20><STEAM_0:0:34463192><>" entered the game
+L 11/03/2022 - 21:13:16: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/03/2022 - 21:13:28: "Weaponized Turtles<22><STEAM_0:0:69165544><>" entered the game
+L 11/03/2022 - 21:13:28: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/03/2022 - 21:14:06: Lua Error: 
+[ulib] gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:83: Tried to use a NULL physics object!
+  1. GetMassCenter - [C]:-1
+   2. fn - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:83
+    3. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+
+
+L 11/03/2022 - 21:14:13: "Mr.Ganar<23><STEAM_0:0:80909581><>" connected, address "85.15.110.91:27005"
+L 11/03/2022 - 21:14:13: "Mr.Ganar<23><STEAM_0:0:80909581><>" STEAM USERID validated
+L 11/03/2022 - 21:14:24: "piggles<24><STEAM_0:0:64286677><>" connected, address "73.61.190.24:27005"
+L 11/03/2022 - 21:14:24: "piggles<24><STEAM_0:0:64286677><>" STEAM USERID validated
+L 11/03/2022 - 21:14:51: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/schema/sv_hooks.lua:588: attempt to call method 'SetVortessence' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/schema/sv_hooks.lua:588
+   2. Run - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:354
+    3. func - gamemodes/helix/gamemode/core/libs/sh_character.lua:923
+     4. unknown - lua/includes/extensions/net.lua:33
+
+
+L 11/03/2022 - 21:15:50: "Mr.Ganar<23><STEAM_0:0:80909581><>" entered the game
+L 11/03/2022 - 21:15:51: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/03/2022 - 21:15:51: "Enclave<20><STEAM_0:0:34463192><>" disconnected (reason "Disconnect by user.")
+L 11/03/2022 - 21:16:16: "Mr.Ganar<23><STEAM_0:0:80909581><>" disconnected (reason "Disconnect by user.")
+L 11/03/2022 - 21:16:45: "FB|| light ROOM<11><STEAM_0:1:17219621><>" disconnected (reason "Disconnect by user.")
+L 11/03/2022 - 21:18:39: "Val<25><STEAM_0:1:65067683><>" connected, address "24.217.228.156:27005"
+L 11/03/2022 - 21:18:39: "Val<25><STEAM_0:1:65067683><>" STEAM USERID validated
+L 11/03/2022 - 21:20:45: "Val<25><STEAM_0:1:65067683><>" entered the game
+L 11/03/2022 - 21:20:46: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/03/2022 - 21:21:41: "piggles<24><STEAM_0:0:64286677><>" entered the game
+L 11/03/2022 - 21:21:41: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/03/2022 - 21:21:51: "Dilly_<26><STEAM_0:0:52468151><>" connected, address "45.88.190.92:27005"
+L 11/03/2022 - 21:21:52: "Dilly_<26><STEAM_0:0:52468151><>" STEAM USERID validated
+L 11/03/2022 - 21:23:55: [ULX] Dispatch<STEAM_0:0:193599766> spawned NPC npc_antlion
+L 11/03/2022 - 21:24:02: [ULX] Dispatch<STEAM_0:0:193599766> spawned NPC npc_antlion
+L 11/03/2022 - 21:24:19: [ULX] Dispatch<STEAM_0:0:193599766> used the tool creator on maps/rp_industrial17_v1.bsp
+L 11/03/2022 - 21:24:19: [ULX] Dispatch<STEAM_0:0:193599766> spawned NPC npc_antlion
+L 11/03/2022 - 21:24:32: [ULX] Dispatch<STEAM_0:0:193599766> used the tool creator on maps/rp_industrial17_v1.bsp
+L 11/03/2022 - 21:24:32: [ULX] Dispatch<STEAM_0:0:193599766> spawned NPC npc_antlion
+L 11/03/2022 - 21:24:39: "FB|| light ROOM<27><STEAM_0:1:17219621><>" connected, address "72.219.9.241:27005"
+L 11/03/2022 - 21:24:39: "FB|| light ROOM<27><STEAM_0:1:17219621><>" STEAM USERID validated
+L 11/03/2022 - 21:24:42: "methsmoker1987<10><STEAM_0:1:47170537><>" disconnected (reason "Disconnect by user.")
+L 11/03/2022 - 21:24:52: "FB|| light ROOM<27><STEAM_0:1:17219621><>" disconnected (reason "Disconnect by user.")
+L 11/03/2022 - 21:24:59: [ULX] Dispatch<STEAM_0:0:193599766> used the tool creator on maps/rp_industrial17_v1.bsp
+L 11/03/2022 - 21:24:59: [ULX] Dispatch<STEAM_0:0:193599766> spawned NPC npc_antlion
+L 11/03/2022 - 21:24:59: [ULX] Dispatch<STEAM_0:0:193599766> used the tool creator on maps/rp_industrial17_v1.bsp
+L 11/03/2022 - 21:24:59: [ULX] Dispatch<STEAM_0:0:193599766> spawned NPC npc_antlion
+L 11/03/2022 - 21:25:01: [ULX] Dispatch<STEAM_0:0:193599766> used the tool creator on maps/rp_industrial17_v1.bsp
+L 11/03/2022 - 21:25:01: [ULX] Dispatch<STEAM_0:0:193599766> spawned NPC npc_antlion
+L 11/03/2022 - 21:25:16: "methsmoker1987<28><STEAM_0:1:47170537><>" connected, address "50.81.58.147:27005"
+L 11/03/2022 - 21:25:17: "methsmoker1987<28><STEAM_0:1:47170537><>" STEAM USERID validated
+L 11/03/2022 - 21:25:26: "methsmoker1987<28><STEAM_0:1:47170537><>" disconnected (reason "Disconnect by user.")
+L 11/03/2022 - 21:25:40: Lua Error: [Helix] Attempt to index unknown item 'union_chips'
+
+L 11/03/2022 - 21:25:40: Lua Error: [Helix] Attempt to index unknown item 'union_chips'
+
+L 11/03/2022 - 21:25:40: Lua Error: [Helix] Attempt to index unknown item 'battered_scrap'
+
+L 11/03/2022 - 21:25:40: Lua Error: [Helix] Attempt to index unknown item 'morphine'
+
+L 11/03/2022 - 21:25:40: "Dilly_<26><STEAM_0:0:52468151><>" entered the game
+L 11/03/2022 - 21:25:40: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/03/2022 - 21:26:05: [ULX] Dispatch<STEAM_0:0:193599766> used the tool creator on maps/rp_industrial17_v1.bsp
+L 11/03/2022 - 21:26:05: [ULX] Dispatch<STEAM_0:0:193599766> spawned NPC npc_antlion
+L 11/03/2022 - 21:26:07: [ULX] Dispatch<STEAM_0:0:193599766> used the tool creator on maps/rp_industrial17_v1.bsp
+L 11/03/2022 - 21:26:07: [ULX] Dispatch<STEAM_0:0:193599766> spawned NPC npc_antlion
+L 11/03/2022 - 21:26:56: "piggles<24><STEAM_0:0:64286677><>" disconnected (reason "Disconnect by user.")
+L 11/03/2022 - 21:26:58: [ULX] Dispatch<STEAM_0:0:193599766> used the tool creator on maps/rp_industrial17_v1.bsp
+L 11/03/2022 - 21:26:58: [ULX] Dispatch<STEAM_0:0:193599766> spawned NPC npc_antlion
+L 11/03/2022 - 21:27:23: [ULX] Dispatch<STEAM_0:0:193599766> used the tool creator on maps/rp_industrial17_v1.bsp
+L 11/03/2022 - 21:27:23: [ULX] Dispatch<STEAM_0:0:193599766> spawned NPC npc_antlion
+L 11/03/2022 - 21:27:24: [ULX] Dispatch<STEAM_0:0:193599766> used the tool creator on maps/rp_industrial17_v1.bsp
+L 11/03/2022 - 21:27:24: [ULX] Dispatch<STEAM_0:0:193599766> spawned NPC npc_antlion
+L 11/03/2022 - 21:27:25: [ULX] Dispatch<STEAM_0:0:193599766> used the tool creator on maps/rp_industrial17_v1.bsp
+L 11/03/2022 - 21:27:25: [ULX] Dispatch<STEAM_0:0:193599766> spawned NPC npc_antlion
+L 11/03/2022 - 21:27:26: "Enclave<29><STEAM_0:0:34463192><>" connected, address "75.248.18.54:27005"
+L 11/03/2022 - 21:27:26: "Enclave<29><STEAM_0:0:34463192><>" STEAM USERID validated
+L 11/03/2022 - 21:28:06: "methsmoker1987<30><STEAM_0:1:47170537><>" connected, address "50.81.58.147:27005"
+L 11/03/2022 - 21:28:06: "methsmoker1987<30><STEAM_0:1:47170537><>" STEAM USERID validated
+L 11/03/2022 - 21:28:56: "Enclave<29><STEAM_0:0:34463192><>" entered the game
+L 11/03/2022 - 21:28:57: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/03/2022 - 21:29:13: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/schema/sv_hooks.lua:988: attempt to index a nil value
+  1. unknown - gamemodes/ixhl2rp/schema/sv_hooks.lua:988
+   2. Run - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:354
+    3. Send - gamemodes/helix/gamemode/core/libs/sh_chatbox.lua:344
+     4. OnRun - gamemodes/ixhl2rp/schema/sh_commands.lua:256
+      5. Run - gamemodes/helix/gamemode/core/libs/sh_command.lua:499
+       6. Parse - gamemodes/helix/gamemode/core/libs/sh_command.lua:561
+        7. Run - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:324
+         8. func - gamemodes/ixhl2rp/plugins/chatbox/sh_plugin.lua:235
+          9. unknown - lua/includes/extensions/net.lua:33
+
+
+L 11/03/2022 - 21:29:21: "methsmoker1987<30><STEAM_0:1:47170537><>" entered the game
+L 11/03/2022 - 21:29:22: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/03/2022 - 21:29:22: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/cac/sh_plugin.lua:63: attempt to index a nil value
+  1. v - gamemodes/ixhl2rp/plugins/cac/sh_plugin.lua:63
+   2. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+    3. Kill - [C]:-1
+     4. Call - gamemodes/base/gamemode/player.lua:359
+      5. unknown - gamemodes/base/gamemode/player.lua:466
+       6. Spawn - [C]:-1
+        7. func - gamemodes/helix/gamemode/core/libs/sh_character.lua:921
+         8. unknown - lua/includes/extensions/net.lua:33
+
+
+L 11/03/2022 - 21:29:32: [ULX] Dispatch<STEAM_0:0:193599766> used the tool creator on maps/rp_industrial17_v1.bsp
+L 11/03/2022 - 21:29:32: [ULX] Dispatch<STEAM_0:0:193599766> spawned NPC npc_antlion
+L 11/03/2022 - 21:29:44: "Enclave<29><STEAM_0:0:34463192><>" disconnected (reason "Enclave timed out")
+L 11/03/2022 - 21:30:25: "Enclave<31><STEAM_0:0:34463192><>" connected, address "75.248.18.54:27005"
+L 11/03/2022 - 21:30:25: "Enclave<31><STEAM_0:0:34463192><>" STEAM USERID validated
+L 11/03/2022 - 21:31:11: "Kurt Knispel<32><STEAM_0:0:462224253><>" connected, address "31.16.253.124:11477"
+L 11/03/2022 - 21:31:12: "Kurt Knispel<32><STEAM_0:0:462224253><>" STEAM USERID validated
+L 11/03/2022 - 21:31:15: "Dilly_<26><STEAM_0:0:52468151><>" disconnected (reason "Disconnect by user.")
+L 11/03/2022 - 21:31:37: [ULX] Dispatch<STEAM_0:0:193599766> spawned NPC npc_antlion
+L 11/03/2022 - 21:31:42: "Enclave<31><STEAM_0:0:34463192><>" entered the game
+L 11/03/2022 - 21:31:43: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/03/2022 - 21:31:51: "methsmoker1987<30><STEAM_0:1:47170537><>" disconnected (reason "methsmoker1987 timed out")
+L 11/03/2022 - 21:32:54: [ULX] Dispatch<STEAM_0:0:193599766> spawned NPC npc_antlion
+L 11/03/2022 - 21:33:07: Lua Error: 
+[SLVBase 2] lua/entities/npc_creature_base/init.lua:2447: bad argument #1 to 'pairs' (table expected, got nil)
+  1. pairs - [C]:-1
+   2. StopSounds - lua/entities/npc_creature_base/init.lua:2447
+    3. unknown - lua/entities/npc_creature_base/init.lua:2690
+     4. AddRelationship - [C]:-1
+      5. func - addons/extended_properties_104607712/lua/autorun/rb655_ext_props.lua:587
+       6. Receive - addons/extended_properties_104607712/lua/autorun/rb655_ext_props.lua:32
+        7. func - lua/includes/modules/properties.lua:173
+         8. unknown - lua/includes/extensions/net.lua:33
+
+
+L 11/03/2022 - 21:33:07: Lua Error: 
+[SLVBase 2] lua/entities/npc_creature_base/init.lua:2447: bad argument #1 to 'pairs' (table expected, got nil)
+  1. pairs - [C]:-1
+   2. StopSounds - lua/entities/npc_creature_base/init.lua:2447
+    3. unknown - lua/entities/npc_creature_base/init.lua:2690
+     4. AddRelationship - [C]:-1
+      5. func - addons/extended_properties_104607712/lua/autorun/rb655_ext_props.lua:587
+       6. Receive - addons/extended_properties_104607712/lua/autorun/rb655_ext_props.lua:32
+        7. func - lua/includes/modules/properties.lua:173
+         8. unknown - lua/includes/extensions/net.lua:33
+
+
+L 11/03/2022 - 21:33:07: Lua Error: 
+[SLVBase 2] lua/entities/npc_creature_base/init.lua:2447: bad argument #1 to 'pairs' (table expected, got nil)
+  1. pairs - [C]:-1
+   2. StopSounds - lua/entities/npc_creature_base/init.lua:2447
+    3. unknown - lua/entities/npc_creature_base/init.lua:2690
+     4. AddRelationship - [C]:-1
+      5. func - addons/extended_properties_104607712/lua/autorun/rb655_ext_props.lua:587
+       6. Receive - addons/extended_properties_104607712/lua/autorun/rb655_ext_props.lua:32
+        7. func - lua/includes/modules/properties.lua:173
+         8. unknown - lua/includes/extensions/net.lua:33
+
+
+L 11/03/2022 - 21:33:27: "Enclave<31><STEAM_0:0:34463192><>" disconnected (reason "Enclave timed out")
+L 11/03/2022 - 21:33:46: [ULX] Dispatch<STEAM_0:0:193599766> spawned NPC npc_antlion
+L 11/03/2022 - 21:33:58: "Global Defence Initiative<16><STEAM_0:0:49504081><>" disconnected (reason "Disconnect by user.")
+L 11/03/2022 - 21:34:12: "Enclave<33><STEAM_0:0:34463192><>" connected, address "75.248.18.54:27005"
+L 11/03/2022 - 21:34:13: "Enclave<33><STEAM_0:0:34463192><>" STEAM USERID validated
+L 11/03/2022 - 21:34:28: Lua Error: 
+[ulib] gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212: table index is nil
+  1. GetBaseDT - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212
+   2. CalcDamage - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:300
+    3. fn - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:26
+     4. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+
+
+L 11/03/2022 - 21:35:27: "Enclave<33><STEAM_0:0:34463192><>" entered the game
+L 11/03/2022 - 21:35:27: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/03/2022 - 21:35:40: [ULX] Dispatch<STEAM_0:0:193599766> spawned NPC npc_antlion_worker
+L 11/03/2022 - 21:36:02: [ULX] Dispatch<STEAM_0:0:193599766> spawned NPC npc_antlion
+L 11/03/2022 - 21:36:11: "Enclave<33><STEAM_0:0:34463192><>" disconnected (reason "Enclave timed out")
+L 11/03/2022 - 21:37:14: "Kurt Knispel<32><STEAM_0:0:462224253><>" disconnected (reason "Disconnect by user.")
+L 11/03/2022 - 21:37:20: "Kurt Knispel<34><STEAM_0:0:462224253><>" connected, address "31.16.253.124:11477"
+L 11/03/2022 - 21:37:20: "Kurt Knispel<34><STEAM_0:0:462224253><>" STEAM USERID validated
+L 11/03/2022 - 21:37:26: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/schema/sv_hooks.lua:588: attempt to call method 'SetVortessence' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/schema/sv_hooks.lua:588
+   2. Run - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:354
+    3. func - gamemodes/helix/gamemode/core/libs/sh_character.lua:923
+     4. unknown - lua/includes/extensions/net.lua:33
+
+
+L 11/03/2022 - 21:38:01: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/citizenapartments/entities/weapons/ix_keys.lua:192: attempt to index field 'tenantTbl' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/plugins/citizenapartments/entities/weapons/ix_keys.lua:192
+
+
+L 11/03/2022 - 21:38:56: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/citizenapartments/entities/weapons/ix_keys.lua:192: attempt to index field 'tenantTbl' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/plugins/citizenapartments/entities/weapons/ix_keys.lua:192
+
+
+L 11/03/2022 - 21:39:07: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/citizenapartments/entities/weapons/ix_keys.lua:192: attempt to index field 'tenantTbl' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/plugins/citizenapartments/entities/weapons/ix_keys.lua:192
+
+
+L 11/03/2022 - 21:40:07: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/citizenapartments/entities/weapons/ix_keys.lua:101: attempt to index field 'tenantTbl' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/plugins/citizenapartments/entities/weapons/ix_keys.lua:101
+
+
+L 11/03/2022 - 21:40:14: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/citizenapartments/entities/weapons/ix_keys.lua:192: attempt to index field 'tenantTbl' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/plugins/citizenapartments/entities/weapons/ix_keys.lua:192
+
+
+L 11/03/2022 - 21:40:21: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/citizenapartments/entities/weapons/ix_keys.lua:192: attempt to index field 'tenantTbl' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/plugins/citizenapartments/entities/weapons/ix_keys.lua:192
+
+
+L 11/03/2022 - 21:40:44: "Enclave<35><STEAM_0:0:34463192><>" connected, address "75.248.18.54:27005"
+L 11/03/2022 - 21:40:44: "Enclave<35><STEAM_0:0:34463192><>" STEAM USERID validated
+L 11/03/2022 - 21:42:53: "Lildirtyharry04<14><STEAM_0:0:247487472><>" disconnected (reason "Disconnect by user.")
+L 11/03/2022 - 21:42:59: "Enclave<35><STEAM_0:0:34463192><>" entered the game
+L 11/03/2022 - 21:43:00: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/03/2022 - 21:43:23: "Kurt Knispel<34><STEAM_0:0:462224253><>" entered the game
+L 11/03/2022 - 21:43:24: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/03/2022 - 21:43:27: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/schema/sv_hooks.lua:988: attempt to index a nil value
+  1. unknown - gamemodes/ixhl2rp/schema/sv_hooks.lua:988
+   2. Run - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:354
+    3. Send - gamemodes/helix/gamemode/core/libs/sh_chatbox.lua:344
+     4. OnRun - gamemodes/ixhl2rp/schema/sh_commands.lua:256
+      5. Run - gamemodes/helix/gamemode/core/libs/sh_command.lua:499
+       6. Parse - gamemodes/helix/gamemode/core/libs/sh_command.lua:561
+        7. Run - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:324
+         8. func - gamemodes/ixhl2rp/plugins/chatbox/sh_plugin.lua:235
+          9. unknown - lua/includes/extensions/net.lua:33
+
+
+L 11/03/2022 - 21:46:22: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/schema/sh_commands.lua:240: Tried to use a NULL entity!
+  1. GetPos - [C]:-1
+   2. OnRun - gamemodes/ixhl2rp/schema/sh_commands.lua:240
+    3. Run - gamemodes/helix/gamemode/core/libs/sh_command.lua:499
+     4. Parse - gamemodes/helix/gamemode/core/libs/sh_command.lua:561
+      5. Run - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:324
+       6. func - gamemodes/ixhl2rp/plugins/chatbox/sh_plugin.lua:235
+        7. unknown - lua/includes/extensions/net.lua:33
+
+
+L 11/03/2022 - 21:46:30: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/schema/sh_commands.lua:240: Tried to use a NULL entity!
+  1. GetPos - [C]:-1
+   2. OnRun - gamemodes/ixhl2rp/schema/sh_commands.lua:240
+    3. Run - gamemodes/helix/gamemode/core/libs/sh_command.lua:499
+     4. Parse - gamemodes/helix/gamemode/core/libs/sh_command.lua:561
+      5. Run - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:324
+       6. func - gamemodes/ixhl2rp/plugins/chatbox/sh_plugin.lua:235
+        7. unknown - lua/includes/extensions/net.lua:33
+
+
+L 11/03/2022 - 21:47:24: "Kurt Knispel<34><STEAM_0:0:462224253><>" disconnected (reason "Disconnect by user.")
+L 11/03/2022 - 21:47:42: "Chicken<15><STEAM_0:0:143523274><>" disconnected (reason "Disconnect by user.")
+L 11/03/2022 - 21:47:57: Lua Error: attempted to add entry to non-existent log type "Player [2][Weaponized Turtles]"
+L 11/03/2022 - 21:47:57: Lua Error: 
+[ulib] gamemodes/helix/gamemode/core/libs/sh_log.lua:115: bad argument #1 to 'WriteString' (string expected, got nil)
+  1. WriteString - [C]:-1
+   2. Send - gamemodes/helix/gamemode/core/libs/sh_log.lua:115
+    3. callback - gamemodes/helix/gamemode/core/libs/sh_log.lua:105
+     4. onResult - gamemodes/helix/gamemode/core/libs/thirdparty/sh_cami.lua:443
+      5. callback - gamemodes/helix/gamemode/core/libs/thirdparty/sh_cami.lua:448
+       6. fn - addons/ulib/lua/ulib/shared/cami_ulib.lua:23
+        7. Call - addons/ulib/lua/ulib/shared/hook.lua:109
+         8. PlayerHasAccess - gamemodes/helix/gamemode/core/libs/thirdparty/sh_cami.lua:383
+          9. GetPlayersWithAccess - gamemodes/helix/gamemode/core/libs/thirdparty/sh_cami.lua:447
+           10. Add - gamemodes/helix/gamemode/core/libs/sh_log.lua:104
+            11. SearchPlayer - gamemodes/ixhl2rp/schema/sv_schema.lua:393
+             12. OnRun - gamemodes/ixhl2rp/schema/sh_commands.lua:564
+              13. Run - gamemodes/helix/gamemode/core/libs/sh_command.lua:499
+               14. ParL 11/03/2022 - 21:47:57: Lua Error: 
+[ERROR] Warning! A net message (ixLogStream) is already started! Discarding in favor of the new message! (ixTypeClass)
+  1. func - gamemodes/helix/plugins/typing.lua:232
+   2. unknown - lua/includes/extensions/net.lua:33
+
+
+L 11/03/2022 - 21:49:07: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/03/2022 - 21:49:07: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/03/2022 - 21:49:07: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/03/2022 - 21:49:07: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/03/2022 - 21:49:07: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/03/2022 - 21:49:07: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/03/2022 - 21:49:07: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/03/2022 - 21:49:07: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/03/2022 - 21:49:07: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+
+
+L 11/03/2022 - 21:49:07: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/skeleton-cca_cameras/sv_hooks.lua:37: Tried to use a NULL entity!
+  1. GetClass - [C]:-1
+   2. v - gamemodes/ixhl2rp/plugins/skeleton

@@ -1,0 +1,2355 @@
+<Logging continued from "data/ulx_logs/07-19-20.txt">
+[00:01:57] CCA.C14-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on models/props_lab/reciever_cart.mdl
+[00:02:02] CCA.C14-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on models/props_wasteland/controlroom_desk001b.mdl
+[00:05:17] Dropped "CCA.C14-GRID.i3.69192" from server<STEAM_0:1:53097688>
+[01:18:38] Client "Zapper" connected.
+[01:22:33] Client "Zapper" spawned in server <STEAM_0:1:88228734> (took 235 seconds).
+[01:23:55] Zapper<STEAM_0:1:88228734> changed their name to James Alexandria
+[01:25:17] James Alexandria<STEAM_0:1:88228734> spawned model models/props_c17/furnituredrawer001a_chunk05.mdl
+[01:25:42] James Alexandria: !menu\
+[01:25:46] James Alexandria: !menu
+[01:25:59] (SILENT) James Alexandria opened the profile of Themself
+[01:26:36] Dropped "James Alexandria" from server<STEAM_0:1:88228734>
+
+
+
+[03:31:46] New map: rp_city14_utopia
+[11:25:39] Client "matt saton" connected.
+[11:29:17] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 218 seconds).
+[11:33:07] matt saton<STEAM_0:1:53097688> changed their name to James Albright
+[11:33:11] James Albright: /adminspawnmenu
+[11:33:56] James Albright: /chargiveitem james bullsquid
+
+
+
+[11:36:40] New map: rp_city14_utopia
+[11:37:33] Client "matt saton" connected.
+[11:38:56] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 83 seconds).
+[11:40:01] matt saton<STEAM_0:1:53097688> changed their name to James Albright
+[11:40:04] James Albright: /adminspawnmenu
+[11:45:41] James Albright<STEAM_0:1:53097688> used the tool remover on models/gibs/xenians/mgib_01.mdl
+[11:45:42] James Albright<STEAM_0:1:53097688> used the tool remover on models/gibs/xenians/mgib_01.mdl
+[11:45:42] James Albright<STEAM_0:1:53097688> used the tool remover on models/gibs/xenians/mgib_07.mdl
+[11:45:43] James Albright<STEAM_0:1:53097688> used the tool remover on models/gibs/xenians/mgib_01.mdl
+[11:45:43] James Albright<STEAM_0:1:53097688> used the tool remover on maps/rp_city14_utopia.bsp
+[11:45:43] James Albright<STEAM_0:1:53097688> used the tool remover on models/gibs/xenians/sgib_03.mdl
+[11:45:44] James Albright<STEAM_0:1:53097688> used the tool remover on models/gibs/xenians/sgib_03.mdl
+[11:45:44] James Albright<STEAM_0:1:53097688> used the tool remover on models/gibs/xenians/mgib_07.mdl
+[11:45:45] James Albright<STEAM_0:1:53097688> used the tool remover on models/gibs/xenians/sgib_03.mdl
+[11:45:45] James Albright<STEAM_0:1:53097688> used the tool remover on models/gibs/xenians/sgib_03.mdl
+[11:45:45] James Albright<STEAM_0:1:53097688> used the tool remover on models/gibs/xenians/mgib_01.mdl
+[11:45:46] James Albright<STEAM_0:1:53097688> used the tool remover on models/gibs/xenians/sgib_01.mdl
+[11:45:46] James Albright<STEAM_0:1:53097688> used the tool remover on maps/rp_city14_utopia.bsp
+[11:45:47] James Albright<STEAM_0:1:53097688> used the tool remover on models/gibs/xenians/sgib_03.mdl
+[11:45:49] James Albright<STEAM_0:1:53097688> used the tool remover on models/gibs/xenians/mgib_03.mdl
+[11:45:49] James Albright<STEAM_0:1:53097688> used the tool remover on maps/rp_city14_utopia.bsp
+[11:45:49] James Albright<STEAM_0:1:53097688> used the tool remover on maps/rp_city14_utopia.bsp
+[11:45:50] James Albright<STEAM_0:1:53097688> used the tool remover on models/gibs/xenians/mgib_02.mdl
+[11:45:50] James Albright<STEAM_0:1:53097688> used the tool remover on models/gibs/xenians/sgib_01.mdl
+[11:47:39] Client "Madeline Wuntch" connected.
+[11:56:16] Client "Madeline Wuntch" spawned in server <STEAM_0:0:193599766> (took 517 seconds).
+
+
+
+[12:01:25] New map: rp_city14_utopia
+[12:01:26] Client "matt saton" connected.
+[12:01:29] Client "matt saton" connected.
+[12:02:51] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 82 seconds).
+[12:04:01] matt saton<STEAM_0:1:53097688> changed their name to James Albright
+[12:24:47] James Albright<STEAM_0:1:53097688> spawned sent ix_testent5
+[12:24:50] James Albright<STEAM_0:1:53097688> spawned sent ix_testent5
+[12:25:20] James Albright<STEAM_0:1:53097688> spawned sent ix_testent5
+[12:25:21] James Albright<STEAM_0:1:53097688> spawned sent ix_testent5
+[12:37:22] James Albright<STEAM_0:1:53097688> spawned sent ix_testent5
+[12:37:59] James Albright: test
+[12:40:12] James Albright: test
+[12:40:18] James Albright: t
+[12:41:40] James Albright: /chargiveitem james pan
+[12:41:46] James Albright: /adminspawnmenu
+[12:42:38] James Albright<STEAM_0:1:53097688> spawned model models/props_c17/oildrum001_explosive.mdl
+[12:42:40] James Albright<STEAM_0:1:53097688> spawned/gave himself swep weapon_pistol
+[12:42:41] James Albright: /toggleraise
+[12:42:51] James Albright extinguished all 3 fires.
+[12:42:53] James Albright cleared decals
+[12:42:53] James Albright cleared decals
+[12:43:35] James Albright<STEAM_0:1:53097688> spawned model models/props_c17/metalpot001a.mdl
+[12:43:36] James Albright<STEAM_0:1:53097688> spawned model models/props_c17/metalpot002a.mdl
+[12:47:56] James Albright: /adminspawnmenu
+[12:48:02] James Albright: /adminspawnmenu
+[12:50:13] James Albright: t
+[13:24:01] Client "Ollie Garner" connected.
+[13:28:30] Client "Ollie Garner" spawned in server <STEAM_0:1:52892973> (took 269 seconds).
+[13:31:06] Ollie Garner<STEAM_0:1:52892973> changed their name to Morgan Beck
+[13:31:09] Morgan Beck: // Yeet
+[13:31:42] James Albright: //suh
+[13:32:09] James Albright: //i either arleady added or would like to add the fallout workstation props
+[13:32:25] Morgan Beck: // Ah. We should prob add that into the content soon
+[13:32:36] James Albright: //yeah
+[13:32:38] Morgan Beck: // It has some really good models we can use for cookin stuff
+[13:32:41] James Albright: //yes
+[13:32:50] James Albright: //so far all we have is the uh
+[13:32:55] James Albright: //the whatsit
+[13:32:58] Morgan Beck: // And general rebel crafting shit
+[13:33:01] James Albright: /doorsethidden true
+[13:33:04] James Albright: //or grid shit
+[13:33:11] James Albright: //basically most things involving working with your hands
+[13:33:16] Morgan Beck: // Yee, mostly Rebel imo
+[13:33:18] James Albright: //also i kidnapped a scanner yesterday
+[13:33:31] Morgan Beck: // So that explains the screenshots of yesterday
+[13:33:39] James Albright: //affiramtive
+[13:33:59] Morgan Beck: // tfw most pimped apartment
+[13:34:02] James Albright: /adminspawnmenu
+[13:34:27] Morgan Beck: // WAIT THE FUCK
+[13:34:35] Morgan Beck: // WHEN DID I GET A ANTLION GRUB NUGGET?
+[13:34:36] James Albright: //?
+[13:34:51] James Albright: //it's a chicken nugget but i chagned it to antlion grub nugget sicne rodriguo is dead
+[13:34:56] Morgan Beck: // Ah.
+[13:35:05] James Albright: .//pit drone meat
+[13:35:08] Morgan Beck: /looc Neat
+[13:35:20] James Albright: .//i made it so that this has a 100% chance of giving you virome poison
+[13:35:26] James Albright: .//wait
+[13:35:28] James Albright: .//did you just eat it 
+[13:35:30] Morgan Beck: /looc Surprised that one doesn't hurt you.
+[13:35:35] Morgan Beck: /looc Well, as much as pit drone
+[13:35:37] Morgan Beck: /looc and yes
+[13:35:47] James Albright: .//so your character now has virome poison OOC
+[13:35:54] Morgan Beck: /looc neat
+[13:36:01] James Albright: .//i programmed in the functionality with the disease/sickness plugin
+[13:36:06] Morgan Beck: /looc Ah.
+[13:36:10] Morgan Beck: /looc Time to hope I don't get fucked
+[13:36:22] James Albright: .//it's not done nor have i started production but yeah when i do you're going to be like
+[13:36:24] James Albright: .//fucking dead
+[13:36:29] James Albright: .//OOC of course
+[13:36:30] James Albright: /adminspawnmenu
+[13:36:33] Morgan Beck: /looc F
+[13:36:49] James Albright: .//we got houndeye meat and houndeye leg
+[13:36:57] Morgan Beck: /looc Nice
+[13:37:00] James Albright: .//for each raw alien food you eat
+[13:37:07] James Albright: .//you have a 25% chance of getting a disease
+[13:37:16] Morgan Beck: /looc well, if I'm going to die either way
+[13:37:17] James Albright: .//and i'm gonna add in parasites as well
+[13:37:24] James Albright: .//since
+[13:37:25] James Albright: .//yknow
+[13:37:30] Morgan Beck: /looc Yeah.
+[13:37:31] James Albright: .//that's a real thing
+[13:37:32] James Albright: /adminspawnmenu
+[13:37:42] James Albright: .//civil hospital is gonna be busy as shit after this
+[13:37:51] Morgan Beck: /looc If we have anyone in civil hospital tbh
+[13:38:00] James Albright: .//we've got vendes panm but he never gets on
+[13:38:08] Morgan Beck: /looc Yeah.
+[13:38:13] James Albright: .//we need to encourage people who aren't the best at rebelRP to get on it
+[13:38:19] Morgan Beck: /looc Yee.
+[13:38:20] James Albright: .//fuck
+[13:38:22] James Albright: .//medicalRp i mean
+[13:38:37] Morgan Beck: /looc I mean, we could probably figure out a mechanical system for it 
+[13:38:47] Morgan Beck: /looc Since we need to work on CWU update at some point
+[13:39:09] James Albright: .//and i need to add in compatibility for applying health kits to others instead of just yourself
+[13:39:14] James Albright: .//i only didi t for medkits and nothing else
+[13:39:16] Morgan Beck: /looc F.
+[13:39:41] Morgan Beck: /looc GOnna fix me ping give me a secx
+[13:39:44] James Albright: //alright
+[13:39:51] James Albright<STEAM_0:1:53097688> spawned sent ix_testent5
+[13:40:27] Morgan Beck: /looc Shit ton better
+[13:40:32] James Albright: .//nice
+[13:40:37] James Albright: .//i'm working on programming in the cooking atm
+[13:40:41] Morgan Beck: /looc Aight
+[13:40:42] James Albright: .//i haven't added in all the alien food items
+[13:40:45] James Albright: .//i have a couple more monsters to do
+[13:40:51] James Albright: .//that i have to program in the cooked variants
+[13:40:53] James Albright: .//then the carving
+[13:40:55] Morgan Beck: /looc By the way! I say we should get a NPC spawner addon
+[13:41:12] Morgan Beck: /looc Set it to spawn NPCs every hour or so
+[13:41:28] Morgan Beck: /looc So we don't rely on restarts to make the metros or QZ dangerous again
+[13:41:40] James Albright: .//true and it'll add some variety
+[13:41:46] Morgan Beck: /looc Yeah
+[13:41:56] James Albright: .//until i find a good npc spawner plugin tho
+[13:42:00] Morgan Beck: /looc F.
+[13:42:01] James Albright: .//take out your toolgun
+[13:42:04] James Albright: .//open up permaprops
+[13:42:11] James Albright: .//at hit r
+[13:42:13] Morgan Beck<STEAM_0:1:52892973> used the tool permaprops on models/props_c17/furniturestove001a.mdl
+[13:42:14] Morgan Beck<STEAM_0:1:52892973> used the tool permaprops on maps/rp_city14_utopia.bsp
+[13:42:18] James Albright: .//boom
+[13:42:19] Morgan Beck: /looc I guess
+[13:42:20] James Albright: .//everythign that died is back
+[13:42:26] James Albright: .//i'mn just saying until i get a chance to look at plugins
+[13:42:32] Morgan Beck: /looc Ah.
+[13:42:39] Morgan Beck: /looc I'll prob see if I can find a good addon for it
+[13:42:43] James Albright: .//addon no
+[13:42:46] James Albright: .//plugin yes
+[13:42:49] Morgan Beck: /looc Oof, aight.
+[13:42:57] James Albright: .//unless there's an NPC spawner that stays past restarts
+[13:43:03] James Albright: /toggleraise
+[13:43:06] Morgan Beck: /looc There probably is one tbh
+[13:43:15] James Albright: .//if you wouldn't midn can you pleasle ook for that for me
+[13:43:25] Morgan Beck: /looc I'll look for it at some point in the future
+[13:43:48] Morgan Beck: /looc I just fucking realized that the couch table looks like a sterotypical drug dealer table
+[13:44:05] James Albright: //holy shit it does
+[13:44:07] James Albright: /toggleraise
+[13:44:08] Morgan Beck: /looc Like, every TV show that has drug dealers always has that ONE fucking table
+[13:44:13] James Albright: .//you right
+[13:44:17] James Albright: .//and the cigs and tipped over cans don't help
+[13:44:24] James Albright: .//open bag of holy shit i just got really dizzy
+[13:44:31] Morgan Beck: /looc F
+[13:44:42] James Albright: .//plot twist
+[13:44:56] James Albright: .//morgan is secretly a drgu delaer
+[13:45:00] James Albright: .//did i mention i added in drugs?
+[13:45:04] Morgan Beck: /looc Tbh, I might delve into that at some point
+[13:45:06] James Albright: .//i don't have models for thme but i found a drugs plugin
+[13:45:10] Morgan Beck: /looc I saw the drugs n shit
+[13:45:14] James Albright: .//yeah
+[13:45:18] Morgan Beck: /looc Idea
+[13:45:21] James Albright: .//shoot
+[13:45:24] Morgan Beck: /looc Add in addiction disease 
+[13:45:34] James Albright: .//that's the only reason i haven't started dealing out rugs
+[13:45:40] Morgan Beck: /looc Ah.
+[13:45:59] Morgan Beck: /looc Tbh, make it somewhat low to catch. Like, holy fuck 25% would be high tbh.
+[13:46:02] James Albright: .//if i add in drugs i will very much add that
+[13:46:11] James Albright: .//it'll basically work like fallout
+[13:46:14] James Albright: .//like to an exact
+[13:46:30] Morgan Beck: /looc tfw i drink a vodka once in Fallout NV and now I am majorly addicted to alchohol 
+[13:46:42] James Albright: //tfw i do jet in fallout 4 all the time
+[13:46:49] Morgan Beck: // tfw inhaling cow shit
+[13:47:01] James Albright: //is that actaully what jet comes from
+[13:47:06] Morgan Beck: // It's fertilizer
+[13:47:11] James Albright: /doorsethidden true
+[13:47:13] James Albright: //jet from fallolut?
+[13:47:14] James Albright: /toggleraise
+[13:47:15] Morgan Beck: // So yeah
+[13:47:18] Morgan Beck: // Literally it is
+[13:47:20] James Albright: //no shit
+[13:47:24] James Albright: //didn't know tha
+[13:47:26] James Albright cleared decals
+[13:47:26] James Albright cleared decals
+[13:47:32] Morgan Beck: // Yeah, actual shit
+[13:47:50] James Albright: //hell yes
+[13:48:35] Morgan Beck: // "Jet is extracted from brahmin dung fumes and administered via a inhaler"
+[13:48:42] James Albright: /doorsethidden true
+[13:48:43] James Albright: //well shit
+[13:48:47] James Albright: //i'm sticking to psycho
+[13:49:02] Morgan Beck: // F
+[13:49:03] James Albright: //yeah in NV i never did drugs but in fallout 4 i do drugs like it's candy
+[13:49:12] Morgan Beck: // I don't usually use chems
+[13:49:23] Morgan Beck: // Never liked their benefits much
+[13:49:36] Morgan Beck: // ALBEIT PSYCHO MADE LONESOME ROAD BEARABLE
+[13:49:40] James Albright: //LMAO
+[13:49:46] James Albright: //i never played through fallout NV
+[13:49:58] James Albright: //i've met mister house, that's the farthest i've gotten
+[13:50:03] Morgan Beck: // F. You should take like, a week off when we get enough staff to function and just play through NV
+[13:50:13] James Albright: //yeah, i hear it's amazing
+[13:50:19] Morgan Beck: // It's pretty good
+[13:50:19] James Albright: //"wait, it's all political?"
+[13:50:38] James Albright: /toggleraise
+[13:50:40] Morgan Beck: // tfw no one complained about games being political till recently
+[13:51:10] Morgan Beck<STEAM_0:1:52892973> spawned model models/props_interiors/pot02a.mdl
+[13:51:17] James Albright: //lmao becuase right now politics are especially unbearabel
+[13:51:33] Morgan Beck: // Yeah. By the way, when you add in the pot as a cooking item, make it so we can equip it as well
+[13:51:38] Morgan Beck: // Since we have a pot weapon
+[13:51:38] James Albright: //yes
+[13:51:56] James Albright<STEAM_0:1:53097688> spawned/gave himself swep weapon_hl2m_pot
+[13:51:56] James Albright: /toggleraise
+[13:52:01] Morgan Beck: // Like, Morgan genuienly uses the pot a shit ton as a weapon, especially during portal storms when headcrabs start appearing
+[13:52:10] James Albright: //i love how you use the pot and not a pan
+[13:52:12] James Albright: /toggleraise
+[13:52:13] James Albright: /toggleraise
+[13:52:21] Morgan Beck: // tenderizes better
+[13:52:24] James Albright: //PFF
+[13:52:40] James Albright: //i msut reutrn to progrmaming soi can get this shit done before work
+[13:52:42] Morgan Beck: // Tbf, a pot is probably easier to handle.
+[13:52:50] Morgan Beck: // Kk, F for the fact you got work
+[13:52:58] James Albright: //yeah
+[13:53:09] James Albright: //wednesday thursday friday i'm off
+[13:53:12] Morgan Beck: // How long will you be workin today?
+[13:53:14] Morgan Beck: // And nice
+[13:53:19] James Albright: //4-9 EST
+[13:53:23] James Albright: so 1-6
+[13:53:25] Morgan Beck: // Aight
+[13:53:52] Morgan Beck: // If pain gets on, I might try to get him to help me figure out a mini event
+[13:53:54] James Albright: //but knowing how shitty closing goes, probably 4-10
+[13:53:58] James Albright: //alright
+[13:54:30] Morgan Beck: // Might do something fun, like Race-X shit.
+[13:54:44] James Albright: //nice
+[13:54:48] Morgan Beck: // without pit drones, because fuck those
+[13:55:21] Morgan Beck: // Hell, I might fuck with the civis and possess one of the Shocktroopers and not attack them.
+[13:55:34] James Albright: //that's what mine does
+[13:55:38] James Albright: //i use mine as just a scout
+[13:55:40] Morgan Beck: // Of course, attack CPs, but it would be funny to see the civis freak the fuck out
+[13:55:58] James Albright: //hell yes
+[13:56:14] Morgan Beck: // If it becomes all CP hours, I might do a Antlion colony event then.
+[13:56:31] James Albright: //you should make a dispatch char in that case
+[13:56:39] Morgan Beck: // Probably
+[13:56:48] James Albright: //if you do, do it under the OTA faction
+[13:56:52] Morgan Beck: // Yee
+[13:57:26] James Albright: //oh shit
+[13:57:27] James Albright: //btw
+[13:57:30] Morgan Beck: // Hm?
+[13:57:34] James Albright: //hop on your cp pls for me
+[13:57:38] James Albright: //i need to test somttihngo ut
+[13:57:41] James Albright: //i made a fucky wucky
+[13:57:42] Morgan Beck<STEAM_0:1:52892973> changed their name to CCA.C14-HELIX.DvL.33698
+[13:57:52] James Albright: /visordanger DO YOU READ me
+[13:57:56] James Albright: /doorsethidden true
+[13:57:58] James Albright: //did you see tha
+[13:57:59] CCA.C14-HELIX.DvL.33698: // Aight
+[13:58:03] CCA.C14-HELIX.DvL.33698: // See what?
+[13:58:05] James Albright: //look in the top left corner
+[13:58:06] James Albright: /visordanger DO YOU READ me
+[13:58:07] James Albright: /visordanger DO YOU READ me
+[13:58:07] James Albright: /visordanger DO YOU READ me
+[13:58:08] James Albright: /visordanger DO YOU READ me
+[13:58:08] James Albright: /visordanger DO YOU READ me
+[13:58:09] James Albright: /visordanger DO YOU READ me
+[13:58:10] James Albright: /visordanger DO YOU READ me
+[13:58:11] James Albright: /visordanger DO YOU READ me
+[13:58:13] James Albright: //nothing?
+[13:58:15] James Albright: //no red text?
+[13:58:15] CCA.C14-HELIX.DvL.33698: // No?
+[13:58:18] James Albright: //alright
+[13:58:19] CCA.C14-HELIX.DvL.33698: // No red text?
+[13:58:32] James Albright: //i added in /visordanger but made a huge fucky wucky
+[13:58:33] CCA.C14-HELIX.DvL.33698: // YES YOU ADDED IT IN
+[13:58:33] James Albright: //try to use it
+[13:58:41] CCA.C14-HELIX.DvL.33698: /visordanger
+[13:58:46] CCA.C14-HELIX.DvL.33698: // I am not a member of the combine
+[13:58:49] James Albright: //correct
+[13:58:54] CCA.C14-HELIX.DvL.33698: // BUT FUCK YES 
+[13:58:55] James Albright: //also i made the switch to the tfa sweps
+[13:59:05] James Albright<STEAM_0:1:53097688> spawned/gave himself swep tfa_hl2r_stunstick
+[13:59:06] James Albright<STEAM_0:1:53097688> spawned/gave himself swep tfa_hl2r_frag
+[13:59:07] James Albright<STEAM_0:1:53097688> spawned/gave himself swep tfa_hl2r_357
+[13:59:08] James Albright: /toggleraise
+[13:59:21] James Albright: //THT WAS ACCIDENTAL I SWEAR
+[13:59:23] CCA.C14-HELIX.DvL.33698: // F
+[13:59:23] James Albright cleared decals
+[13:59:23] James Albright cleared decals
+[13:59:52] James Albright: //wonderufk
+[14:00:02] James Albright: .//cujm
+[14:00:11] CCA.C14-HELIX.DvL.33698: // Tfw for some reason I lost all of my shotgun ammo
+[14:00:18] James Albright: //bugs boefre,. i think fixed onbw
+[14:00:23] James Albright: //maybe
+[14:00:24] James Albright<STEAM_0:1:53097688> spawned/gave himself swep tfa_hl2r_pistol
+[14:00:25] James Albright: /toggleraise
+[14:00:25] CCA.C14-HELIX.DvL.33698 gave Themself 120 rounds
+[14:00:37] CCA.C14-HELIX.DvL.33698: // Aww no shotgun shell model
+[14:00:39] James Albright: //i want ot disable the low on ammos oud
+[14:00:39] James Albright: /toggleraise
+[14:00:42] James Albright: //low on ammo sound*
+[14:00:42] James Albright: /toggleraise
+[14:00:50] CCA.C14-HELIX.DvL.33698: // There's a low ammo sound?
+[14:00:54] James Albright: //yeah, keep firing
+[14:01:03] James Albright: //you'll hear a ticking getting higher and higher pitched
+[14:01:10] James Albright: //it's mainly on semi-auto and automatic weapons
+[14:01:14] CCA.C14-HELIX.DvL.33698: // Ah.
+[14:01:22] James Albright: //i love the smoke
+[14:01:31] CCA.C14-HELIX.DvL.33698: // Ah, I see what you mean
+[14:01:31] James Albright: //BRUH THE SMOKING SHLELS
+[14:01:40] James Albright: //and the hitmarkers
+[14:01:42] James Albright: //toherwise awesome
+[14:01:51] CCA.C14-HELIX.DvL.33698: // I love the fact that it holds a extra in the chamber
+[14:01:55] James Albright: /yeah
+[14:02:19] CCA.C14-HELIX.DvL.33698: // Nice thing about it is that the iron sights are optional
+[14:02:27] James Albright: //tru but who woudln't use them
+[14:02:33] James Albright: //i also want ot get rid of the ammop counter
+[14:02:34] James Albright: //for realism
+[14:02:39] CCA.C14-HELIX.DvL.33698: // AR2 sights do be kinda poopoo tbh
+[14:02:43] James Albright: //have it only count reserve ammo
+[14:02:47] James Albright<STEAM_0:1:53097688> spawned/gave himself swep tfa_hl2r_ar2
+[14:02:48] James Albright: /toggleraise
+[14:02:48] CCA.C14-HELIX.DvL.33698: // Ah.
+[14:02:49] James Albright: /toggleraise
+[14:02:53] James Albright: //kinda like SL does
+[14:03:00] CCA.C14-HELIX.DvL.33698 was killed by prop_combine_ball
+[14:03:04] CCA.C14-HELIX.DvL.33698: // fuck my ammo
+[14:03:09] James Albright: //just givei t bakc to oyurself
+[14:03:16] CCA.C14-HELIX.DvL.33698 gave Themself 120 rounds
+[14:03:29] CCA.C14-HELIX.DvL.33698 gave Themself 120 rounds
+[14:03:41] CCA.C14-HELIX.DvL.33698 gave Themself 350 rounds
+[14:03:52] CCA.C14-HELIX.DvL.33698: // I feel like Light is gonna be happy with these
+[14:04:17] James Albright: //hell yeah he is
+[14:04:27] CCA.C14-HELIX.DvL.33698: // I also now will have the excuse to press R alot
+[14:04:33] CCA.C14-HELIX.DvL.33698: // Just to see the inspect animations
+[14:04:45] James Albright: //honestly the inspect is aweo se
+[14:04:45] CCA.C14-HELIX.DvL.33698: // what the fuck
+[14:04:49] James Albright<STEAM_0:1:53097688> spawned/gave himself swep tfa_hl2r_pistol
+[14:04:50] James Albright<STEAM_0:1:53097688> spawned/gave himself swep tfa_hl2r_357
+[14:04:50] James Albright: /toggleraise
+[14:04:51] James Albright: /what
+[14:04:51] CCA.C14-HELIX.DvL.33698: // why is stunstick doge
+[14:04:52] James Albright: /toggleraise
+[14:05:00] James Albright: //oh yeahi need to fix that
+[14:05:04] CCA.C14-HELIX.DvL.33698: // Please
+[14:05:06] James Albright<STEAM_0:1:53097688> spawned/gave himself swep tfa_hl2r_shotgun
+[14:05:07] James Albright<STEAM_0:1:53097688> spawned/gave himself swep tfa_hl2r_smg1
+[14:05:07] James Albright: /toggleraise
+[14:05:17] James Albright: //is tihs a missing texture forf you
+[14:05:20] CCA.C14-HELIX.DvL.33698: // Yeah, it is
+[14:05:24] James Albright: //okay it's not jsut me
+[14:05:26] CCA.C14-HELIX.DvL.33698: // I don't know why
+[14:05:26] James Albright: //fuck
+[14:05:31] James Albright<STEAM_0:1:53097688> spawned/gave himself swep tfa_hl2r_rpg
+[14:05:32] James Albright<STEAM_0:1:53097688> spawned/gave himself swep tfa_hl2r_crossbow
+[14:05:35] James Albright: /toggleraise
+[14:05:37] James Albright cleared decals
+[14:05:37] James Albright cleared decals
+[14:05:43] James Albright: //CROSSBOW SCOPE HAS LIKE
+[14:05:48] James Albright: //ACTUAL SCOPE SHIT WHERE IT GETS ROUNDER NEAR THE EDGES
+[14:05:51] CCA.C14-HELIX.DvL.33698: // Yeah
+[14:05:54] CCA.C14-HELIX.DvL.33698: // So fucking nice
+[14:05:59] James Albright: //wait
+[14:06:00] James Albright: //fuck
+[14:06:00] James Albright cleared decals
+[14:06:00] James Albright cleared decals
+[14:06:06] James Albright removed ragdolls
+[14:06:36] James Albright: //sec got mad about the alien army and threw a pencil through bulletproof glass
+[14:06:40] CCA.C14-HELIX.DvL.33698: // Bet
+[14:06:59] James Albright: //fun fact
+[14:07:00] CCA.C14-HELIX.DvL.33698: // Oh it's gone
+[14:07:15] James Albright: //it's impossible to put a hole in plexiglass
+[14:07:19] James Albright: //or one of those shits
+[14:07:20] CCA.C14-HELIX.DvL.33698: // Damn
+[14:07:22] James Albright: //is it plexiglass?
+[14:07:24] James Albright: //it will shatter
+[14:07:27] James Albright: //100% of the time\
+[14:07:30] CCA.C14-HELIX.DvL.33698: // Oof
+[14:07:33] James Albright: //NO IT'S THE FCLKIN UH
+[14:07:38] James Albright: //HAD THE WORD O NTHE TIP OF MY TONGUE
+[14:07:49] CCA.C14-HELIX.DvL.33698: // no fuckin clue.
+[14:08:01] CCA.C14-HELIX.DvL.33698<STEAM_0:1:52892973> spawned NPC npc_zombie
+[14:08:07] CCA.C14-HELIX.DvL.33698<STEAM_0:1:52892973> spawned NPC npc_zombie
+[14:08:16] CCA.C14-HELIX.DvL.33698<STEAM_0:1:52892973> spawned NPC npc_zombie
+[14:08:48] CCA.C14-HELIX.DvL.33698: // Anyways, probably gonna head off for now since no one else is on
+[14:09:12] CCA.C14-HELIX.DvL.33698: // So yee
+[14:09:15] Dropped "CCA.C14-HELIX.DvL.33698" from server<STEAM_0:1:52892973>
+[14:15:11] Client "Madeline Wuntch" connected.
+[15:01:02] Client "Madeline Wuntch" connected.
+[15:21:18] Client "Madeline Wuntch" connected.
+[15:56:22] Client "Madeline Wuntch" connected.
+[16:00:37] Client "Madeline Wuntch" connected.
+[16:05:36] Client "Madeline Wuntch" spawned in server <STEAM_0:0:193599766> (took 299 seconds).
+[16:07:53] Madeline Wuntch<STEAM_0:0:193599766> changed their name to CCA.C14-GRID.i4.36307
+[16:17:08] Client "STILL CHILL" connected.
+[16:32:51] CCA.C14-GRID.i4.36307<STEAM_0:0:193599766> changed their name to CCA.C14-SCN.49218
+[16:33:03] CCA.C14-SCN.49218: // oh god
+[16:33:11] CCA.C14-SCN.49218: // i spawned in the ceiling
+[16:36:42] CCA.C14-SCN.49218<STEAM_0:0:193599766> changed their name to CCA.C14-GRID.i4.36307
+[16:59:25] CCA.C14-GRID.i4.36307<STEAM_0:0:193599766> changed their name to CCA.C14-SCN.49218
+[17:44:42] Client "cc-revival hl2rp owner" connected.
+[17:53:10] Client "cc-revival hl2rp owner" spawned in server <STEAM_0:0:455782278> (took 508 seconds).
+[17:54:44] Dropped "cc-revival hl2rp owner" from server<STEAM_0:0:455782278>
+[17:58:56] CCA.C14-SCN.49218<STEAM_0:0:193599766> changed their name to CCA.C14-GRID.i4.36307
+[18:13:03] CCA.C14-GRID.i4.36307<STEAM_0:0:193599766> changed their name to Janet Fraiser
+[18:50:04] Janet Fraiser: /toggleraise
+[18:52:09] Dropped "Janet Fraiser" from server<STEAM_0:0:193599766>
+[18:53:26] Client "Doughnut" connected.
+[18:59:26] Client "Doughnut" spawned in server <STEAM_0:1:127409364> (took 360 seconds).
+[19:03:56] Doughnut<STEAM_0:1:127409364> changed their name to James Fuzzilli
+[19:04:05] James Fuzzilli: // howdy
+[19:05:00] James Fuzzilli: // hello?
+[19:05:05] James Fuzzilli: /discord
+[19:11:34] James Fuzzilli: /ar Hello
+[19:11:46] James Fuzzilli<STEAM_0:1:127409364> changed their name to Doughnut
+[19:14:22] Client "Madeline Wuntch" connected.
+[19:15:05] Doughnut<STEAM_0:1:127409364> changed their name to Hans Weiß
+[19:15:46] Client "Madeline Wuntch" spawned in server <STEAM_0:0:193599766> (took 84 seconds).
+[19:17:19] Madeline Wuntch<STEAM_0:0:193599766> changed their name to CCA.C14-GRID.i4.36307
+[19:17:25] CCA.C14-GRID.i4.36307: // I GOT YA
+[19:17:35] Hans Weiß: // yay
+[19:18:00] CCA.C14-GRID.i4.36307: // you need the content or anything
+[19:18:19] Hans Weiß: // i'll check it out in a sec but it seems i already have most stuff
+[19:18:31] CCA.C14-GRID.i4.36307: // am i an error
+[19:18:32] Hans Weiß: // except your textures
+[19:18:39] CCA.C14-GRID.i4.36307: // ok do /content
+[19:18:45] Hans Weiß: /content
+[19:18:57] CCA.C14-GRID.i4.36307: // i'll clear you through first, tho ig
+[19:19:00] CCA.C14-GRID.i4.36307: right
+[19:19:01] CCA.C14-GRID.i4.36307: apply
+[19:19:03] Hans Weiß: /apply
+[19:19:16] CCA.C14-GRID.i4.36307: coupon?
+[19:19:55] CCA.C14-GRID.i4.36307: // it just spews out wtf
+[19:20:02] CCA.C14-GRID.i4.36307: .// e
+[19:20:06] Hans Weiß: // that machine is hella rude
+[19:20:20] CCA.C14-GRID.i4.36307: ,.. git ut/.
+[19:20:20] Hans Weiß: /looc bruh
+[19:20:22] CCA.C14-GRID.i4.36307: .// got it?
+[19:20:29] CCA.C14-GRID.i4.36307: // f
+[19:20:47] CCA.C14-GRID.i4.36307: right, Mr. Weiss
+[19:20:52] CCA.C14-GRID.i4.36307: I have some questions
+[19:20:57] Hans Weiß: Alright.
+[19:21:15] CCA.C14-GRID.i4.36307: DoB, Blood type, gender, medical/mental conditions
+[19:21:22] CCA.C14-GRID.i4.36307: ././ my cat is climbing my room brb
+[19:21:45] CCA.C14-GRID.i4.36307: .// back
+[19:21:46] Hans Weiß: /looc what year is it in game?
+[19:21:51] CCA.C14-GRID.i4.36307: .// 2001
+[19:21:57] CCA.C14-GRID.i4.36307: .// minimum age is 21
+[19:22:31] Hans Weiß: March 12th 1988, A-, Male, Stable mental and health conditions.
+[19:22:36] CCA.C14-GRID.i4.36307: right
+[19:22:42] CCA.C14-GRID.i4.36307: /oldviewdata hans
+[19:23:37] CCA.C14-GRID.i4.36307: You're assigned to 2B, Moscow block.
+[19:23:46] CCA.C14-GRID.i4.36307: Right outside by the work desk
+[19:23:49] CCA.C14-GRID.i4.36307: you can go
+[19:23:54] Hans Weiß: Thank you.
+[19:24:18] CCA.C14-GRID.i4.36307<STEAM_0:0:193599766> changed their name to Janet Fraiser
+[19:24:39] Hans Weiß: Hello there.
+[19:24:41] Janet Fraiser: afternoon
+[19:24:48] Janet Fraiser: you're new here?
+[19:24:56] Hans Weiß: Yeah, just came in from City-36
+[19:25:05] Janet Fraiser: I heard it's rough there
+[19:25:14] Hans Weiß: Could be worse.
+[19:25:23] Janet Fraiser: right
+[19:25:31] Janet Fraiser: there's a bookstore over there
+[19:25:43] Janet Fraiser: a general store over there, owner's a bitch, though
+[19:25:52] Janet Fraiser: then in front of the CCA station there is a cafe
+[19:26:01] Hans Weiß: Thanks for the info.
+[19:26:05] Janet Fraiser: oh yeah
+[19:26:10] Janet Fraiser: the frogs are harmless
+[19:26:14] Hans Weiß: Frogs?
+[19:26:17] Janet Fraiser: yeah
+[19:26:20] Janet Fraiser: big one eyed frogs
+[19:26:38] Janet Fraiser: everything else either stabs you, shocks you, or bites you, though
+[19:26:57] Hans Weiß: Alright.
+[19:27:22] Janet Fraiser<STEAM_0:0:193599766> changed their name to CCA.C14-SCN.49218
+[19:27:25] CCA.C14-SCN.49218: // oh god
+[19:27:28] CCA.C14-SCN.49218: // my scanner is stuck
+[19:27:31] Hans Weiß: // bruh
+[19:27:34] CCA.C14-SCN.49218: // f
+[19:27:38] Hans Weiß: // where at maybe i can help
+[19:27:40] CCA.C14-SCN.49218: // its stuck in the barracks
+[19:27:47] CCA.C14-SCN.49218: // nah only cp can open the doors
+[19:27:47] Hans Weiß: // never mind then
+[19:27:54] CCA.C14-SCN.49218: // actually
+[19:28:01] CCA.C14-SCN.49218: // nvm
+[19:28:10] CCA.C14-SCN.49218<STEAM_0:0:193599766> changed their name to Janet Fraiser
+[19:28:27] Hans Weiß: // just gotta say this server seems pretty new as i don't see some functions that i do on some other hl2rp's
+[19:28:28] Janet Fraiser: // e
+[19:28:38] Janet Fraiser: // like what?
+[19:28:51] Hans Weiß: // the camera's don't takes pictures of you and report it to cps
+[19:28:56] Janet Fraiser: // i dont think its new but its just like one guy 
+[19:29:05] Janet Fraiser: // yeah i noticed that
+[19:29:18] Janet Fraiser: // oh shit i forgot what apartment im in
+[19:29:23] Hans Weiß: // bruh
+[19:29:52] Hans Weiß: // you should put it in your desc next time
+[19:29:59] Janet Fraiser: // maybe
+[19:30:05] Janet Fraiser: // my scanner char was kidnapped
+[19:30:14] Hans Weiß: // oh damn
+[19:30:27] Janet Fraiser: // it got lured into an apartment then shoved in a box
+[19:30:29] James Albright: //we're trying to grow, but i'm only one developer so it's taking time
+[19:30:31] Hans Weiß: // imma be afk for a second
+[19:30:38] James Albright: //also welcome to the server hans
+[19:30:39] Janet Fraiser: // q you're alive
+[19:30:42] Hans Weiß: // TY
+[19:30:45] James Albright: //yeah, i was at work but i got cut
+[19:30:56] Janet Fraiser: // wdym cut
+[19:31:10] James Albright: //they said "hey we have too many people go home"
+[19:31:20] James Albright: //"we're not busy and somebody can do your job, you can go home"
+[19:31:23] James Albright: //i go to leave
+[19:31:23] Janet Fraiser: // oh yeah my scanner is stuck in outpost storm
+[19:31:25] James Albright: //i see a fuckton of people
+[19:31:33] James Albright: //oh i'll move you, np
+[19:31:41] Janet Fraiser: // what kind of place to you work at with that manu people
+[19:31:43] Janet Fraiser: // thge thing is
+[19:31:46] Janet Fraiser: // my spawn resets
+[19:31:56] James Albright: //dude a bunch of places do that
+[19:31:58] Janet Fraiser: // so everytime i go back on it its in the storm barracks again
+[19:32:03] Janet Fraiser: // no but
+[19:32:07] James Albright: //wait hold on you don't live in america where everything is back-asswards as shit
+[19:32:11] Janet Fraiser: // is quarentine not in effect where you are
+[19:32:22] Janet Fraiser: // i went to the us once
+[19:32:25] Janet Fraiser: // it was cool
+[19:32:27] James Albright: //no, it's really not, because a vocal majority of fucktards said "i don't wanna stay home"
+[19:32:40] Janet Fraiser: // same here
+[19:32:40] James Albright: //it's cool when black people aren't being murdered and there isn't a pandemic
+[19:32:41] Hans Weiß: // back
+[19:32:56] Janet Fraiser: // yeah
+[19:33:12] James Albright: //but that's political and i don't like mixing politics and server shit
+[19:33:18] James Albright: //so i'm gonna shut my trap
+[19:33:26] Janet Fraiser: // could you possibly set it so my scanner just spawns anywhere except inside storm or nexus
+[19:33:30] Janet Fraiser: // just outside
+[19:33:36] James Albright: /doorsethidden true
+[19:33:38] Janet Fraiser: // cus without an admin or another cp on
+[19:33:42] Janet Fraiser: // im fucked
+[19:33:54] James Albright: /spawnadd scanner
+[19:33:58] Janet Fraiser<STEAM_0:0:193599766> changed their name to CCA.C14-SCN.49218
+[19:34:04] James Albright: //yeah. i can try and see. the big issue is that spawning is handled on a faction basis, not on a class basis
+[19:34:24] James Albright: //so i'd need to find a plugin for it or program it in
+[19:34:24] CCA.C14-SCN.49218: // Combine Robotic Commision faction?
+[19:34:28] CCA.C14-SCN.49218: // oj
+[19:34:35] CCA.C14-SCN.49218: // perfect
+[19:34:38] CCA.C14-SCN.49218: // thanks
+[19:34:41] James Albright: //yeah np
+[19:34:51] James Albright: //i'm gonna get something to eat and then i'll be back
+[19:35:08] Hans Weiß: // so whats with like the arabic, french, german, etc. flags?
+[19:35:11] CCA.C14-SCN.49218: // oh
+[19:35:20] CCA.C14-SCN.49218: // it lets your character speak and understand those languages
+[19:35:27] James Albright: //^
+[19:35:29] Hans Weiß: // oh cool
+[19:35:37] CCA.C14-SCN.49218: // like my grid char has french flags
+[19:35:49] James Albright: //it's not really implemented into char creation like i want it to be yet but
+[19:35:53] James Albright: //it's planned
+[19:36:01] CCA.C14-SCN.49218: // you probably need German flag on yours eh?
+[19:36:03] James Albright: //if your char is a native german i'll happily give you the german flag
+[19:36:13] Hans Weiß: // aight, cause i half made my char german in hopes that was what it was
+[19:36:17] James Albright: //yep
+[19:36:19] James Albright: /chargiveflag hans G
+[19:36:33] Hans Weiß: // so how do i switch in between the two
+[19:36:38] CCA.C14-SCN.49218: // you dont have to
+[19:36:41] Hans Weiß: // nvm found it
+[19:36:44] James Albright: //you speak in german by using the- yep
+[19:36:56] CCA.C14-SCN.49218: // is it /de
+[19:36:59] CCA.C14-SCN.49218: // or /gr
+[19:37:02] CCA.C14-SCN.49218: // or /ge
+[19:37:07] James Albright: ///ge. i didn't make the commands
+[19:37:16] Hans Weiß: /ge Hello
+[19:37:33] CCA.C14-SCN.49218: // my scanner should have all language flags because scanner
+[19:37:36] James Albright: //pff
+[19:37:46] Hans Weiß: // what if it's a french scanner?
+[19:37:49] CCA.C14-SCN.49218: // oh shit the metalworks have a skylight?
+[19:37:52] James Albright: //then it surrendors
+[19:37:55] James Albright: //surrenders*
+[19:38:00] Hans Weiß: // damn
+[19:38:11] CCA.C14-SCN.49218: // the arabic in my scanner was when i crashed into the SeCs office
+[19:38:13] James Albright: //tbf dispatch probably would be fluent in all languages considering it's, yknow, a global thing
+[19:38:27] Hans Weiß: // yeah
+[19:38:33] James Albright: /chargiveflag scn AFGPIRS
+[19:38:45] Hans Weiß: // or would at least have multiple translators
+[19:38:51] James Albright: /CHARGIVEFLAG scn FIGRAPS
+[19:38:54] Hans Weiß: /ge Damn that's bright
+[19:39:03] James Albright: //yeah
+[19:39:16] CCA.C14-SCN.49218: .// IT WONT STOP
+[19:39:34] James Albright: //but also i don't imagine scanners being able to hear
+[19:39:42] CCA.C14-SCN.49218: // scanners have a microphone probably
+[19:39:46] CCA.C14-SCN.49218: // their job is to observe
+[19:40:05] Hans Weiß: // true
+[19:40:12] CCA.C14-SCN.49218: // the fuck
+[19:40:15] James Albright: //true? unsure, it just feels weird-
+[19:40:16] James Albright: //wha
+[19:40:17] CCA.C14-SCN.49218: // the scanner went sideways
+[19:40:31] James Albright: //OH FUCk i forgot to replace the vending machines after the db got nuked]
+[19:40:39] James Albright: //but, right, food, need sustenance. back soon.
+[19:40:56] CCA.C14-SCN.49218: // oh shit the vending machines are gone xd
+[19:41:19] CCA.C14-SCN.49218: .// you jumped
+[19:41:22] CCA.C14-SCN.49218: .// PATHETIC
+[19:42:09] CCA.C14-SCN.49218: // DOORS
+[19:42:11] Hans Weiß: // all i gotta do to escape you
+[19:42:12] CCA.C14-SCN.49218: // MY ONLY WEAKNESS
+[19:43:37] Hans Weiß: // that's how you bamboozle a scanner
+[19:43:45] CCA.C14-SCN.49218: // im bamboozled ooc
+[19:44:49] Hans Weiß: // i've got myself in quite the pickle
+[19:45:00] CCA.C14-SCN.49218: // what did you do
+[19:45:00] Hans Weiß: // nvm
+[19:45:06] Hans Weiß: // i was stuck on a roof
+[19:45:35] CCA.C14-SCN.49218: // thats like a level 5 violation right there
+[19:45:37] CCA.C14-SCN.49218: // naughty
+[19:45:52] Hans Weiß: // first day here and i've broken multiple laws
+[19:46:09] CCA.C14-SCN.49218: // im gonna kamikaze
+[19:46:27] Hans Weiß: // btw how do you get out of third person cause the simple third person doesn't let me
+[19:49:51] CCA.C14-SCN.49218: // uhhh
+[19:49:53] CCA.C14-SCN.49218: // tab
+[19:49:56] CCA.C14-SCN.49218: // settings
+[19:49:59] CCA.C14-SCN.49218: // scroll down
+[19:50:10] CCA.C14-SCN.49218: // enable third person no
+[19:50:15] Hans Weiß: // thank you
+[19:50:48] Hans Weiß: // creepy canner taking pics inside peoples houses
+[19:50:52] Hans Weiß: // scanner*
+[19:51:00] CCA.C14-SCN.49218: // :)
+[19:51:08] CCA.C14-SCN.49218: // 500 tokens for the photos
+[19:51:16] Hans Weiß: // im poor you think i can afford that
+[19:51:23] CCA.C14-SCN.49218: /droptokens 300
+[19:51:37] CCA.C14-SCN.49218: // i just shat out tokens
+[19:51:39] CCA.C14-SCN.49218: // look
+[19:51:40] CCA.C14-SCN.49218: /
+[19:51:44] CCA.C14-SCN.49218: /droptokens 1
+[19:51:45] Hans Weiß: // i got em gracias
+[19:51:47] CCA.C14-SCN.49218: /droptokens 1
+[19:51:48] CCA.C14-SCN.49218: /droptokens 1
+[19:51:49] CCA.C14-SCN.49218: /droptokens 1
+[19:51:50] CCA.C14-SCN.49218: /droptokens 1
+[19:51:51] CCA.C14-SCN.49218: /droptokens 1
+[19:51:52] CCA.C14-SCN.49218: /droptokens 1
+[19:51:52] CCA.C14-SCN.49218: /droptokens 1
+[19:51:53] CCA.C14-SCN.49218: /droptokens 1
+[19:51:57] CCA.C14-SCN.49218: // scanner shit
+[19:52:01] Hans Weiß: // ew
+[19:52:38] Hans Weiß: // i will beat the light right off of you
+[19:52:53] CCA.C14-SCN.49218: // i'll get on my grid cha
+[19:53:02] CCA.C14-SCN.49218: // i'll get on my grid char and beat you
+[19:53:07] Hans Weiß: // tryna blind me
+[19:53:43] CCA.C14-SCN.49218: /me takes 4 photos and sends them to dispatch
+[19:54:02] Hans Weiß killed CCA.C14-SCN.49218 using ix_hands
+[19:54:10] CCA.C14-SCN.49218<STEAM_0:0:193599766> changed their name to CCA.C14-GRID.i4.36307
+[19:54:17] CCA.C14-GRID.i4.36307: // what the fuck
+[19:54:22] Hans Weiß: // what?
+[19:54:23] CCA.C14-GRID.i4.36307: // my stunbaton is gone
+[19:54:30] Hans Weiß: // haha now you cant beat me
+[19:54:37] CCA.C14-GRID.i4.36307: // i have a knife
+[19:54:39] CCA.C14-GRID.i4.36307: /toggleraise
+[19:54:41] Hans Weiß: // shit
+[19:54:45] CCA.C14-GRID.i4.36307: // and a gun
+[19:54:59] Hans Weiß: // at that point you aint beating just killing
+[19:55:18] CCA.C14-GRID.i4.36307: /toggleraise
+[19:56:19] CCA.C14-GRID.i4.36307<STEAM_0:0:193599766> changed their name to Janet Fraiser
+[19:56:27] Janet Fraiser: // gotta shower afk
+[19:56:30] Hans Weiß: // k
+[19:56:35] Hans Weiß: // imma download content
+[19:56:41] Janet Fraiser: // good idea
+[20:09:51] Hans Weiß: // back
+[20:10:10] Hans Weiß: // imma restart gmod to get the content
+[20:10:13] Dropped "Hans Weiß" from server<STEAM_0:1:127409364>
+[20:17:58] Client "Doughnut" connected.
+[20:18:13] James Albright: //too klonge that i figur3ed
+[20:20:27] James Albright: test
+[20:21:05] Client "Doughnut" spawned in server <STEAM_0:1:127409364> (took 187 seconds).
+[20:22:02] Doughnut<STEAM_0:1:127409364> changed their name to Hans Weiß
+[20:22:06] Hans Weiß: // e
+[20:22:10] James Albright: //wb
+[20:23:05] James Albright: //oh fuck i left the stove on
+[20:23:06] Janet Fraiser: // bacl
+[20:23:10] Hans Weiß: //oh no
+[20:23:16] James Albright: //no, the IC stove
+[20:23:18] Hans Weiß: // oooh
+[20:23:32] Hans Weiß: // *entire apartment block burns down*
+[20:23:53] James Albright: //oh no what a shame, we'll have to put everybody in the housing block with HL2 style apartments and roof access oh n oooo
+[20:24:07] Hans Weiß: // ooooooh nooooooo
+[20:24:44] Hans Weiß: /doorbuy
+[20:24:58] James Albright: //yeah you can't break windows on this map
+[20:25:00] James Albright: //kinda poopy
+[20:25:04] Hans Weiß: // damn
+[20:25:15] James Albright: /adminspawnmenu
+[20:25:19] Hans Weiß: // wait you vclipping and watching me?
+[20:25:22] Janet Fraiser<STEAM_0:0:193599766> changed their name to CCA.C14-SCN.49218
+[20:25:26] James Albright: //i'm more just looking around
+[20:25:28] CCA.C14-SCN.49218: // eeeeeeeeeeeeeeeeeee
+[20:25:29] James Albright: //i heard punching and looked
+[20:25:31] Hans Weiß: // eeeeeeeeeeeeeee
+[20:25:32] CCA.C14-SCN.49218: // i am trapped
+[20:25:35] Hans Weiß: // again?
+[20:25:40] CCA.C14-SCN.49218: // i spawn in here
+[20:25:52] Hans Weiß: // i might have to become a cp just to help you and your scanner
+[20:26:02] CCA.C14-SCN.49218: // xd
+[20:26:11] CCA.C14-SCN.49218: // then become GRID and be a scanner with me
+[20:26:14] James Albright: //i love how at this point now that you're in grid you subsist mainly off of scanner RP
+[20:26:17] Hans Weiß: // bet
+[20:26:22] James Albright: //do become grid though, we need it ;-;
+[20:26:33] CCA.C14-SCN.49218: // scanner rp is fun ngl
+[20:26:41] James Albright: //i would program in the fortiifaction tablet but i need to get this cooking system done
+[20:26:46] James Albright: //fortification*
+[20:27:05] CCA.C14-SCN.49218: // scanner is confusing af to operate tho
+[20:27:59] CCA.C14-SCN.49218: // first scanner on the moon
+[20:28:04] James Albright<STEAM_0:1:53097688> changed their name to CCA.C14-GRID.i3.69192
+[20:28:06] CCA.C14-GRID.i3.69192 teleported to CCA.C14-SCN.49218
+[20:28:12] Hans Weiß: // well im trapped now
+[20:28:13] CCA.C14-GRID.i3.69192: Fucking...
+[20:28:18] Hans Weiß: // oh
+[20:28:20] CCA.C14-GRID.i3.69192: Sorry, forcefield malfunction.
+[20:28:23] CCA.C14-GRID.i3.69192: move along
+[20:28:46] CCA.C14-GRID.i3.69192: //i want a vc for move along that isn't you yelling at them
+[20:29:06] CCA.C14-SCN.49218: /radiowhisper Scanner 42918 reports 10-91 attempting possible tresspass into NEXUS
+[20:29:26] CCA.C14-GRID.i3.69192: /radio Copy that, investigate and report.
+[20:30:22] Hans Weiß: // oh btw i stole someones cheese
+[20:31:46] Hans Weiß: // XD
+[20:31:53] Hans Weiß: // bamboozled the scanner
+[20:32:29] CCA.C14-GRID.i3.69192: //haha i showed that robot fuck
+[20:33:03] CCA.C14-GRID.i3.69192: hm
+[20:33:16] CCA.C14-GRID.i3.69192: Where did I put that...
+[20:33:20] CCA.C14-GRID.i3.69192: Oh, here it is.
+[20:33:31] Hans Weiß: // i can hear a unit but i cant see him
+[20:33:37] Hans Weiß: // oh
+[20:33:40] CCA.C14-GRID.i3.69192: .//hola
+[20:33:40] Hans Weiß: // oh no
+[20:34:05] CCA.C14-GRID.i3.69192: /adminspawnmenu
+[20:34:22] Hans Weiß: // wait, when did my clothes change?
+[20:34:27] CCA.C14-GRID.i3.69192: //they idd?
+[20:34:30] Hans Weiß: // yeah
+[20:34:32] CCA.C14-GRID.i3.69192: //they look the same foir me
+[20:34:41] Hans Weiß: // i had the blue jumpsuit now i have this
+[20:34:47] CCA.C14-GRID.i3.69192: //i see you wearing the blue jumpsuit
+[20:34:49] CCA.C14-SCN.49218: // you have a blue jumpsuit?
+[20:34:49] CCA.C14-GRID.i3.69192: //what do you see
+[20:34:58] Hans Weiß: // i see me wearing like a flannel shirt and jeans
+[20:35:04] CCA.C14-GRID.i3.69192: //tf?
+[20:35:10] CCA.C14-GRID.i3.69192: //we don't even have a model like that
+[20:35:17] CCA.C14-GRID.i3.69192<STEAM_0:1:53097688> used the tool rb655_easy_bodygroup on models/player/zelpa/male_07_extended.mdl
+[20:35:19] CCA.C14-SCN.49218: // probably a replacer
+[20:35:25] Hans Weiß: // oh it's bodygroups
+[20:35:29] CCA.C14-SCN.49218: // thats a sick jacket
+[20:35:43] CCA.C14-GRID.i3.69192: //thre, that reset it
+[20:35:47] CCA.C14-GRID.i3.69192: //or should ahve
+[20:35:52] Hans Weiß: // nah im still wearing the shirt and jeans for me
+[20:35:59] CCA.C14-GRID.i3.69192: //weird. i see you wearinga jumpsuit
+[20:36:15] Hans Weiß: // can you set my model to a dif one then this one
+[20:36:16] CCA.C14-SCN.49218: // it's a replacer
+[20:36:23] CCA.C14-GRID.i3.69192: //sure, any request?
+[20:36:27] Hans Weiß: // baldy
+[20:36:32] CCA.C14-GRID.i3.69192: //male 03, alright
+[20:36:36] Hans Weiß: // i think
+[20:36:40] CCA.C14-SCN.49218: / male 03 screams GERMAN
+[20:36:44] CCA.C14-GRID.i3.69192: /charsetmodel hans models/player/zelpa/male_04_extended.mdl
+[20:36:45] CCA.C14-SCN.49218: // male 03 screams GERMAN
+[20:36:54] Hans Weiß: // nah still shirt and jeans
+[20:37:08] CCA.C14-GRID.i3.69192: //yeah it's only on your end
+[20:37:12] Hans Weiß: // weird
+[20:37:13] CCA.C14-GRID.i3.69192: //like the scanner said you probably have a replacement
+[20:37:23] CCA.C14-GRID.i3.69192: //accidentally or otherwise
+[20:37:25] Hans Weiß: // so how do i fix it?
+[20:37:31] CCA.C14-SCN.49218: // uninstall
+[20:37:34] CCA.C14-GRID.i3.69192: //try to find a replacement addon on your addons and uninstall it
+[20:37:37] CCA.C14-SCN.49218: // i have a stupid replacer too
+[20:37:41] CCA.C14-SCN.49218: // i cant find it
+[20:38:06] Hans Weiß: // what might it be called?
+[20:38:14] CCA.C14-GRID.i3.69192: //not sure, i'm trying to find anything like it and i'm finding nothing
+[20:39:06] Hans Weiß: // im just gonna ignore it for now
+[20:39:10] CCA.C14-SCN.49218: // im actually gonna clear out some of my addons
+[20:39:16] CCA.C14-SCN.49218: // oops the scanner is following you
+[20:39:34] CCA.C14-SCN.49218: // i wish there was a way to see which addon collections you subsribed to
+[20:39:55] CCA.C14-GRID.i3.69192: /me pulls down the cardboard in the window.
+[20:40:07] CCA.C14-GRID.i3.69192: /adminspawnmenu
+[20:40:27] CCA.C14-GRID.i3.69192: /me tosses the piece of cardboard in a trash pile.
+[20:42:22] CCA.C14-GRID.i3.69192: //oh shit it's malcompliance monday
+[20:42:32] Hans Weiß: // im concerned
+[20:42:45] CCA.C14-GRID.i3.69192: //you're not the one with highly valued firearms
+[20:42:53] Hans Weiß: // oh good
+[20:43:24] CCA.C14-GRID.i3.69192: /actmotion
+[20:43:30] CCA.C14-GRID.i3.69192: /actstand
+[20:43:41] CCA.C14-GRID.i3.69192: /actlean
+[20:43:48] CCA.C14-GRID.i3.69192: /actstand
+[20:43:59] CCA.C14-GRID.i3.69192: /actstand
+[20:44:11] Hans Weiß: Hello
+[20:44:18] CCA.C14-GRID.i3.69192: Hi, how can I help you?
+[20:44:25] Hans Weiß: I'm looking for a job.
+[20:44:40] CCA.C14-GRID.i3.69192: Great, I'll have you on...
+[20:44:45] CCA.C14-GRID.i3.69192: Give me a second.
+[20:44:52] CCA.C14-GRID.i3.69192: /radio Anybody have any tasks that need immediate doing?
+[20:45:02] CCA.C14-GRID.i3.69192: /radio Copy that.
+[20:45:18] CCA.C14-GRID.i3.69192: You mind garbage?
+[20:45:23] Hans Weiß: Not at all.
+[20:45:31] CCA.C14-GRID.i3.69192: Right answer. You're going to be searching the garbage for contraband.
+[20:45:40] Hans Weiß: Alright.
+[20:45:59] CCA.C14-SCN.49218: // does the code under your name mean anything
+[20:46:05] CCA.C14-GRID.i3.69192: Just go around the dumpsters and see if you can find anything. The scanner will follow you around and make sure you do it.
+[20:46:20] CCA.C14-GRID.i3.69192: .//so OOC, you'll just go to dumpsters and other trash places/props and roll for contraband
+[20:46:23] CCA.C14-GRID.i3.69192: .//i'll be there in observer watching
+[20:46:32] Hans Weiß: /looc k
+[20:46:45] CCA.C14-GRID.i3.69192: //during inactive hours, no. it more matters in events and stuff
+[20:46:50] CCA.C14-GRID.i3.69192: Go ahead.
+[20:47:11] Hans Weiß: // so just look through trash bins or just any pile anywhere?
+[20:47:27] CCA.C14-SCN.49218: // ignore the photos it takes while walking
+[20:47:27] CCA.C14-GRID.i3.69192: //piles no because you can see what's in them, but trash bins and broken down cars are fair game
+[20:47:35] CCA.C14-SCN.49218: // i have it set to follow and it takes pics itself
+[20:47:49] Hans Weiß: /me searches through crate for contraband
+[20:47:53] Hans Weiß: /roll
+[20:48:11] CCA.C14-SCN.49218: /me takes a photo, without the flash
+[20:48:24] Hans Weiß: /looc do i find anything?
+[20:48:24] CCA.C14-GRID.i3.69192: /it Given the location and pretty obvious place for things to be, all you find is a piece of paper reading "fuk da police"
+[20:48:27] CCA.C14-GRID.i3.69192: /adminspawnmenu
+[20:48:33] Hans Weiß: /looc kk
+[20:48:33] CCA.C14-GRID.i3.69192: /chargiveitem grid paper
+[20:48:44] Hans Weiß: /me searches through car for any contraband
+[20:48:49] CCA.C14-SCN.49218: /pm hans the alleys would be a good place
+[20:49:08] CCA.C14-GRID.i3.69192: //i forgot you can't pick shit back up. if you want i can put it in your suitcase for you
+[20:49:16] Hans Weiß: // alright
+[20:49:22] CCA.C14-GRID.i3.69192: /plysearch
+[20:49:24] Hans Weiß: /me searches in crate for any contraband
+[20:49:25] Hans Weiß: /roll
+[20:49:29] CCA.C14-SCN.49218: // WHY AM I BOUNCING
+[20:49:31] CCA.C14-GRID.i3.69192: /adminspawnmenu
+[20:49:35] CCA.C14-GRID.i3.69192: /plysearch
+[20:49:38] Hans Weiß: // the scanner is drunk
+[20:49:42] CCA.C14-GRID.i3.69192: .//hold on, give me a second to describe
+[20:50:25] CCA.C14-GRID.i3.69192: /it You just find a bunch of pencils. Nothing super incriminating until you notice they're all merchandise pencils from the movie production of 1984.
+[20:50:37] CCA.C14-GRID.i3.69192: /it The book, obviously. Not the, not the year.
+[20:50:38] CCA.C14-GRID.i3.69192: /it Yeah.
+[20:50:49] CCA.C14-SCN.49218: // xd
+[20:50:56] Hans Weiß: /me takes the book at puts it in jumpsuit
+[20:51:03] CCA.C14-GRID.i3.69192: /it No, they're pencils.
+[20:51:12] Hans Weiß: /looc oh
+[20:51:14] Hans Weiß: // im dumb
+[20:51:18] CCA.C14-GRID.i3.69192: /it They're merchandise pencils, as merchandise for the movie version.
+[20:51:20] CCA.C14-GRID.i3.69192: .//you're good
+[20:51:21] CCA.C14-GRID.i3.69192: /adminspawnmenu
+[20:51:42] Hans Weiß: /me opens up, and looks through dumpster
+[20:51:44] Hans Weiß: /roll
+[20:51:52] CCA.C14-SCN.49218: /me shines its extremely bright spotlight around the alley
+[20:52:02] CCA.C14-GRID.i3.69192: /createcustomitem "1984 Pencils" models/props_junk/cardboard_box004a.mdl "A box of pencils, merchandise for the movie production of Orwell's 1984."
+[20:52:11] CCA.C14-GRID.i3.69192: .//sorry, i'm here
+[20:52:16] Hans Weiß: /looc it's aight
+[20:52:50] CCA.C14-GRID.i3.69192: /it You find what looks like a drawing of a vortigaunt slave and sad faces drawn around it.
+[20:53:12] CCA.C14-GRID.i3.69192: /createcustomitem "Weird Drawing" models/props_junk/garbage_newspaper001a.mdl "It depicts a vortigaunt slave with sad faces drawn around it."
+[20:53:13] CCA.C14-SCN.49218: // did a vortigaunt draw it
+[20:53:42] Hans Weiß: /me searches through dumpster for contraband
+[20:53:43] Hans Weiß: /roll
+[20:54:03] CCA.C14-GRID.i3.69192: /createcustomitem "Coffee Cup" models/props_junk/garbage_coffeemug001a.mdl "It's just a ceramic coffee cup."
+[20:54:24] Hans Weiß: /me searches through dumpster for contraband
+[20:54:26] Hans Weiß: /roll
+[20:54:46] CCA.C14-SCN.49218: .// f
+[20:55:00] Hans Weiß: /looc i wonder if i even found trash
+[20:55:03] CCA.C14-GRID.i3.69192: /it You find a highly well-drawn picture of an overwatch soldier with the words "HAIL" sloppily written on it."
+[20:55:10] Client "Randy Bo Bandy" connected.
+[20:55:20] Hans Weiß: /me leaves picture in trash
+[20:55:23] CCA.C14-GRID.i3.69192: /createcustomitem
+[20:55:31] CCA.C14-GRID.i3.69192: .//jarvis worked hard on that :(
+[20:55:32] Hans Weiß: /me searches through crate for contraband
+[20:55:39] Hans Weiß: /looc jarvis can suck a bean
+[20:55:40] Hans Weiß: /roll
+[20:55:49] CCA.C14-GRID.i3.69192: /adminspawnmenu
+[20:56:26] Hans Weiß: /me searches through car for contraband
+[20:56:28] Hans Weiß: /roll
+[20:56:31] CCA.C14-GRID.i3.69192: .//nice
+[20:56:32] Hans Weiß: /looc nice
+[20:56:37] CCA.C14-SCN.49218: .// nice
+[20:56:53] (tsay from CCA.C14-GRID.i3.69192) nice
+[20:57:11] Client "Randy Bo Bandy" spawned in server <STEAM_0:1:59602972> (took 121 seconds).
+[20:57:19] CCA.C14-GRID.i3.69192: /it You find a pack of expired condoms.
+[20:57:28] CCA.C14-SCN.49218: .// damn, expired?
+[20:57:35] Hans Weiß: /me tosses those back into the seat
+[20:57:36] CCA.C14-GRID.i3.69192: .//remember: no erp
+[20:57:42] Hans Weiß: /ge Disgusting people
+[20:57:54] CCA.C14-GRID.i3.69192: //Hans Weiß used command '/ge Disgusting people'.
+[20:57:55] CCA.C14-GRID.i3.69192: //nice
+[20:57:57] Hans Weiß: /me searches through car for contrabang
+[20:58:03] CCA.C14-GRID.i3.69192: .//PFFF
+[20:58:03] Hans Weiß: /looc contraband*
+[20:58:10] Hans Weiß: /roll
+[20:58:14] CCA.C14-SCN.49218: /me scans sensually
+[20:58:15] CCA.C14-GRID.i3.69192: .//OOOOOOOH SHIT
+[20:58:16] CCA.C14-SCN.49218: // OH DUFC
+[20:58:17] Hans Weiß: /looc ooooooh i did a good
+[20:58:20] CCA.C14-GRID.i3.69192: /adminspawnmenu
+[20:58:24] CCA.C14-SCN.49218: .// I MEANT TO DO // /ME
+[20:58:34] Randy Bo Bandy<STEAM_0:1:59602972> changed their name to Randy Stevens
+[20:58:41] Hans Weiß: // imma fuck the camera
+[20:58:45] CCA.C14-SCN.49218: // NO
+[20:59:04] Hans Weiß: // "no" says the person scanning me sensually
+[20:59:04] CCA.C14-GRID.i3.69192: //wb randy
+[20:59:04] CCA.C14-SCN.49218: /me furiously photographs the ammo
+[20:59:16] CCA.C14-GRID.i3.69192: /plysearch
+[20:59:17] Randy Stevens: // what?
+[20:59:21] Randy Stevens: // oh thx
+[20:59:24] Hans Weiß: // don't worry about it
+[20:59:34] CCA.C14-GRID.i3.69192: /adminspawnmenu
+[20:59:43] Hans Weiß: /me searches the bed of the truck
+[20:59:46] Hans Weiß: /roll
+[20:59:49] CCA.C14-SCN.49218: // brb
+[20:59:54] CCA.C14-GRID.i3.69192: /pm hans uno segundo
+[20:59:57] CCA.C14-GRID.i3.69192: /plysearch
+[20:59:57] CCA.C14-GRID.i3.69192: /plysearch
+[21:00:00] CCA.C14-GRID.i3.69192: /plysearch
+[21:00:00] Hans Weiß: /pm grid aight
+[21:00:04] CCA.C14-GRID.i3.69192 teleported to Hans Weiß
+[21:00:13] CCA.C14-GRID.i3.69192 cleared decals
+[21:00:13] CCA.C14-GRID.i3.69192 cleared decals
+[21:00:19] CCA.C14-GRID.i3.69192: /it You find A FOLDING CHAIR!
+[21:00:26] CCA.C14-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_chair001a.mdl
+[21:00:38] Hans Weiß: /me searches the cabin of the truck
+[21:00:38] CCA.C14-GRID.i3.69192: /it Sorry, counts for the whole vehicle
+[21:00:39] Hans Weiß: /roll
+[21:00:39] Randy Stevens to admins: Can someone unlock my apartment?
+[21:00:43] Hans Weiß: /looc ooooooh
+[21:00:43] CCA.C14-GRID.i3.69192: .//FUCK THAT IS UNFORUTNATE
+[21:00:45] CCA.C14-GRID.i3.69192 teleported to Randy Stevens
+[21:00:50] Randy Stevens: [[ <
+[21:00:51] CCA.C14-GRID.i3.69192 returned Themself to their original position
+[21:00:52] Randy Stevens: [[ 3
+[21:00:56] Hans Weiß: /looc a 99 and 100
+[21:01:04] CCA.C14-GRID.i3.69192: .//might want to go get a lottery ticket bud
+[21:01:09] Hans Weiß: /looc bet
+[21:01:16] CCA.C14-SCN.49218: // i gotta do the horses its lightening out
+[21:01:20] Randy Stevens: /me opens the window. He removes a smoke from the pack, and strikes it on the box
+[21:01:22] CCA.C14-GRID.i3.69192: .//go play some MvM with a squad surplus
+[21:01:28] CCA.C14-GRID.i3.69192: .//might get a damn golden apn
+[21:01:32] CCA.C14-GRID.i3.69192: /adminspawnmenu
+[21:02:00] Randy Stevens: /me takes long drags, blowing it out the window. He left his full arm out the window too, as to not stink up the place
+[21:02:13] Hans Weiß: /me jumps into dumpster
+[21:02:24] Hans Weiß: /me searches through dumpster for contraband
+[21:02:32] Hans Weiß: /roll
+[21:03:01] CCA.C14-GRID.i3.69192: /it You find a half-filled jerrycan full of... something? It doesn't smell like gasoline.
+[21:03:03] Randy Stevens: /me finishes his smoke and tosses the rest out the window. He shuts it, and quickly leaves his apartment
+[21:03:21] CCA.C14-GRID.i3.69192: /createcustomitem "Jerrycan" models/props_junk/gascan001a.mdl "It's halfway-filled with some liquid."
+[21:03:36] Hans Weiß: /looc concern
+[21:03:45] Hans Weiß: /me searches crate
+[21:03:46] Hans Weiß: /roll
+[21:03:57] CCA.C14-GRID.i3.69192: .//tfw it's actually nitroglycerine and then you trip on a rock
+[21:04:05] Hans Weiß: /looc wait a minute
+[21:04:21] CCA.C14-GRID.i3.69192: /it You find a broken bottle with a greasy handprint on its neck.
+[21:04:36] CCA.C14-GRID.i3.69192: /createcustomitem "Broken Bottle" models/props_junk/GlassBottle01a.mdl "It's got a greasy handprint on its neck."
+[21:05:02] Hans Weiß: /me takes bottle, picking it up with shirt wrapped around hand
+[21:05:04] CCA.C14-GRID.i3.69192: /createcustomitem "Broken Bottle" models/props_junk/garbage_glassbottle003a_chunk01.mdl "It's got a greasy handprint on its neck."
+[21:05:16] Hans Weiß: /me searches car for contraband
+[21:05:17] Hans Weiß: /roll
+[21:05:26] Hans Weiß: /looc hope i don't find anymore condoms
+[21:05:28] CCA.C14-GRID.i3.69192: /createcustomitem "Boot" models/props_junk/shoe001a.mdl "Fuck you."
+[21:06:15] CCA.C14-GRID.i3.69192: //thers' a fence on this map that's climbable, like as a part of the map
+[21:06:24] Hans Weiß: // i know
+[21:06:26] CCA.C14-GRID.i3.69192: //ah
+[21:06:35] CCA.C14-GRID.i3.69192: //isn't it that one?
+[21:06:39] Hans Weiß: // no
+[21:06:42] CCA.C14-GRID.i3.69192: //oh
+[21:06:51] Hans Weiß: /me searches through trashcan for contraband
+[21:06:52] Hans Weiß: /roll
+[21:07:41] CCA.C14-GRID.i3.69192: /it Sorry, little brother.
+[21:07:44] Randy Stevens to admins: Scavenge rp? <3
+[21:07:51] Hans Weiß: /looc beg pardon
+[21:07:59] CCA.C14-GRID.i3.69192: /pm randy one second, doing that atm
+[21:08:01] Hans Weiß: /it it's ok older bro
+[21:08:03] Randy Stevens: /me stuck his head through the window, and rummages through the shell of the car
+[21:08:23] CCA.C14-GRID.i3.69192: /createcustomitem "Empty Can" models/props_junk/PopCan01a.mdl "It's an empty can of 'The Inspector's Water'"
+[21:08:29] CCA.C14-GRID.i3.69192: /createcustomitem "Empty Can" models/props_junk/PopCan01a.mdl "It's an empty can of 'The Inspector's Water'."
+[21:08:39] Hans Weiß: /me searches through truck cabin
+[21:08:40] Hans Weiß: /roll
+[21:08:54] CCA.C14-GRID.i3.69192: /it You find a carton of what used to be milk. Now it's cottage cheese.
+[21:09:00] Hans Weiß: Ew
+[21:09:08] Hans Weiß: /me leaves carton in truck
+[21:09:12] CCA.C14-GRID.i3.69192: .//oi
+[21:09:13] CCA.C14-GRID.i3.69192: .//oi
+[21:09:27] CCA.C14-GRID.i3.69192: .//i was saying sorry, i was talking to my little brother
+[21:09:32] Hans Weiß: /looc oh
+[21:10:10] Hans Weiß: /looc so tempting
+[21:10:23] CCA.C14-GRID.i3.69192: .//OH SHIT HE GAVE IN TO THE DARK SIDE OF THE FORCE
+[21:10:47] CCA.C14-GRID.i3.69192: /me loses its shit taking pictures.
+[21:10:55] Hans Weiß: /me shrugs
+[21:11:08] CCA.C14-GRID.i3.69192: /me would proceed to tie the individual. Would they resist?
+[21:11:10] CCA.C14-GRID.i3.69192: .//void that
+[21:11:11] CCA.C14-GRID.i3.69192: /doorsethidden true
+[21:11:12] CCA.C14-GRID.i3.69192: .//bind
+[21:11:58] Hans Weiß: /me searches dumpster for contraband
+[21:12:01] Hans Weiß: /roll
+[21:12:40] CCA.C14-GRID.i3.69192: /createcustomitem "Empty Paint Can" models/props_junk/metal_paintcan001b.mdl "An empty can of paint. It looks like the color 'Skylight Blue'."
+[21:12:53] Randy Stevens: /pm CCA.C14-GRID.i3.69192 Let me know when your here
+[21:12:58] CCA.C14-GRID.i3.69192: /pm randy will do, sorry, almsot done
+[21:13:22] Hans Weiß: Hi, I'm back
+[21:13:41] CCA.C14-GRID.i3.69192: Great, show me the spoils.
+[21:14:01] Randy Stevens: /pm CCA.C14-GRID.i3.69192 Your good man. No need to apolygize. 
+[21:14:02] Hans Weiß: /me empties out pockets, and other container areas on person onto table
+[21:14:22] CCA.C14-GRID.i3.69192: Holy shit.
+[21:14:40] Hans Weiß: Yeah
+[21:14:45] CCA.C14-GRID.i3.69192: Heh. Fuk da police.
+[21:14:48] CCA.C14-GRID.i3.69192: That's cute.
+[21:14:57] CCA.C14-GRID.i3.69192: /me takes a look in the jerrycan.
+[21:15:03] CCA.C14-GRID.i3.69192: This isn't gasoline, what is this
+[21:15:03] CCA.C14-GRID.i3.69192: /doorsethidden true
+[21:15:07] Hans Weiß: No idea.
+[21:15:12] CCA.C14-GRID.i3.69192: Hm.
+[21:15:17] CCA.C14-GRID.i3.69192: Let's see.
+[21:15:26] CCA.C14-GRID.i3.69192: You can keep...
+[21:15:57] CCA.C14-GRID.i3.69192: Give me a second to deposit these somewhere safe.
+[21:16:37] CCA.C14-GRID.i3.69192: Alright, let me check my handbook, see what you get.
+[21:16:49] CCA.C14-GRID.i3.69192: /charkick scn
+[21:16:49] CCA.C14-SCN.49218<STEAM_0:0:193599766> changed their name to Madeline Wuntch
+[21:17:21] CCA.C14-GRID.i3.69192: /me takes out his PDA and presses buttons while looking at the screen.
+[21:17:58] CCA.C14-GRID.i3.69192: Let me see your ID.
+[21:18:02] Hans Weiß: /apply
+[21:18:05] CCA.C14-GRID.i3.69192: No, your ID card.
+[21:18:19] CCA.C14-GRID.i3.69192: /me puts the ID card behind his back.
+[21:18:23] CCA.C14-GRID.i3.69192: Now apply.
+[21:18:27] Hans Weiß: /apply
+[21:18:33] CCA.C14-GRID.i3.69192: Great. Let me put in your new data.
+[21:18:47] CCA.C14-GRID.i3.69192: /me presses some more buttons on his PDA, apparently typing on it.
+[21:18:56] CCA.C14-GRID.i3.69192: /oldviewdata hans
+[21:20:08] CCA.C14-GRID.i3.69192: You now have 5 loyalist points.
+[21:20:12] CCA.C14-GRID.i3.69192: Don't spend 'em all in one place.
+[21:20:18] Hans Weiß: /me chuckles
+[21:20:34] CCA.C14-GRID.i3.69192: Hold on, that puts you on a yellow armband, and it says here it's your first day.
+[21:20:37] Dropped "Randy Stevens" from server<STEAM_0:1:59602972>
+[21:20:44] CCA.C14-GRID.i3.69192: Big congratulations. Follow me and I'll get you your armband.
+[21:20:51] Hans Weiß: Alright.
+[21:20:52] CCA.C14-GRID.i3.69192: .//tfw i didn't ocnsider how many LP this could get you
+[21:21:05] Hans Weiß: /looc mfw im a loyalist immediately
+[21:21:13] CCA.C14-GRID.i3.69192: .//mfw rules is rules
+[21:21:25] CCA.C14-GRID.i3.69192: Alright, this way.
+[21:22:06] CCA.C14-GRID.i3.69192: Stay here.
+[21:22:19] Hans Weiß: // /me runs away
+[21:22:27] CCA.C14-GRID.i3.69192: //runs away from getting loyalist armband
+[21:22:33] Hans Weiß: // exactly
+[21:22:57] CCA.C14-GRID.i3.69192: /chargiveitem grid yellow
+[21:23:22] CCA.C14-GRID.i3.69192: /me hands the citizen a clean, yellow loyalist armband.
+[21:23:26] CCA.C14-GRID.i3.69192: .//btw pls recognize
+[21:23:49] Hans Weiß: /me puts on yellow armband
+[21:23:50] CCA.C14-GRID.i3.69192: .//i need to make those pac items at some point
+[21:23:57] CCA.C14-GRID.i3.69192: Alright, you're free to go.
+[21:24:04] CCA.C14-GRID.i3.69192: //brb
+[21:27:22] CCA.C14-GRID.i3.69192: //back
+[21:27:23] Madeline Wuntch<STEAM_0:0:193599766> changed their name to CCA.C14-SCN.49218
+[21:27:28] CCA.C14-SCN.49218: // e
+[21:27:30] CCA.C14-SCN.49218: // what happened
+[21:27:32] CCA.C14-GRID.i3.69192: //ayy you're bakc
+[21:27:33] CCA.C14-GRID.i3.69192: /doorsethidden true
+[21:27:36] CCA.C14-SCN.49218: // why am i here
+[21:27:43] CCA.C14-GRID.i3.69192: //i kicked your scn char because you went AFK on combine
+[21:27:46] CCA.C14-SCN.49218: // oh
+[21:27:52] CCA.C14-SCN.49218: // had to do the horses
+[21:27:56] CCA.C14-SCN.49218: // sorry
+[21:27:59] CCA.C14-GRID.i3.69192: //no you're fine
+[21:28:02] CCA.C14-GRID.i3.69192: //just make sure to switch to a citizen
+[21:28:26] CCA.C14-SCN.49218: // uh
+[21:28:30] CCA.C14-SCN.49218: // what is this
+[21:28:55] CCA.C14-SCN.49218: // ah 
+[21:28:57] CCA.C14-GRID.i3.69192: //i'm gonnma get some programming done
+[21:29:05] CCA.C14-SCN.49218: // the mystic void of the rooftops
+[21:29:16] CCA.C14-GRID.i3.69192<STEAM_0:1:53097688> changed their name to James Albright
+[21:29:46] Client "PhilipIsBored" connected.
+[21:30:43] James Albright<STEAM_0:1:53097688> spawned sent ix_testent5
+[21:30:46] James Albright<STEAM_0:1:53097688> spawned sent ix_testent5
+[21:30:47] James Albright<STEAM_0:1:53097688> spawned sent ix_testent5
+[21:30:50] James Albright<STEAM_0:1:53097688> spawned sent ix_testent5
+[21:32:10] Client "PhilipIsBored" spawned in server <STEAM_0:0:38537787> (took 144 seconds).
+[21:35:43] PhilipIsBored<STEAM_0:0:38537787> changed their name to Ronald "Ron" Broadbet
+[21:35:52] CCA.C14-SCN.49218: // when i go down too fast the scanner flips on its side
+[21:35:56] James Albright: //damn
+[21:36:02] James Albright: //wb philip
+[21:36:03] CCA.C14-SCN.49218: // it looks odd
+[21:36:03] Ronald "Ron" Broadbet: // shit ratio :moyai:
+[21:36:07] Ronald "Ron" Broadbet: // i cant flag up
+[21:36:09] Ronald "Ron" Broadbet: // oh well
+[21:36:11] Ronald "Ron" Broadbet: // how doi
+[21:36:15] Ronald "Ron" Broadbet: // launch gmod in 32 bit
+[21:36:23] Ronald "Ron" Broadbet: // so i dont die when i go on  emily
+[21:36:28] CCA.C14-SCN.49218: // go off the beta
+[21:41:16] James Albright: //back
+[21:41:21] CCA.C14-SCN.49218: // wb
+[21:42:29] Ronald "Ron" Broadbet: // idk how to go off the beta lol
+[21:42:33] Ronald "Ron" Broadbet: // can i get my bottle
+[21:42:35] CCA.C14-SCN.49218: // ok uh
+[21:42:48] CCA.C14-SCN.49218: // go on steam, right?
+[21:42:55] Ronald "Ron" Broadbet: // yea
+[21:42:57] CCA.C14-SCN.49218: // then uh
+[21:42:59] CCA.C14-SCN.49218: // library
+[21:43:13] Dropped "Hans Weiß" from server<STEAM_0:1:127409364>
+[21:43:16] CCA.C14-SCN.49218: // left click gmod
+[21:43:23] CCA.C14-SCN.49218: // go to properties
+[21:43:32] James Albright: //[SERVER] Doughnut (STEAM_0:1:127409364) has disconnected (timed out).
+[21:43:35] CCA.C14-SCN.49218: // betas
+[21:43:40] CCA.C14-SCN.49218: // then do none
+[21:43:45] CCA.C14-SCN.49218: // do it with gmod closed though
+[21:44:43] James Albright: //models/vortigaunt/eyeball_blue
+[21:44:45] James Albright: //I FUCKIGN TOLD YOU
+[21:44:47] James Albright: //WHO'S CRAZY NOW
+[21:44:49] James Albright: //BAWK BAWK
+[21:44:57] James Albright: //fuck YES
+[21:45:04] James Albright<STEAM_0:1:53097688> spawned NPC npc_vortigaunt
+[21:45:09] CCA.C14-SCN.49218: // what
+[21:45:16] CCA.C14-SCN.49218: // q are you okay
+[21:45:18] Ronald "Ron" Broadbet: // ???
+[21:45:24] James Albright: //you sohuld hear the noises i'm making
+[21:45:25] James Albright: /me would proceed to tie the individual. Would they resist?
+[21:45:26] James Albright teleported to CCA.C14-SCN.49218
+[21:45:26] James Albright: !goto scn
+[21:45:33] James Albright teleported to Ronald "Ron" Broadbet
+[21:45:33] James Albright: !goto ron
+[21:45:46] Ronald "Ron" Broadbet: .// wtf
+[21:45:48] James Albright returned Themself to their original position
+[21:45:56] CCA.C14-SCN.49218: // wait
+[21:45:57] CCA.C14-SCN.49218: // WAIT
+[21:45:58] James Albright<STEAM_0:1:53097688> spawned NPC npc_vortigaunt
+[21:46:01] James Albright<STEAM_0:1:53097688> used the tool submaterial on models/vortigaunt.mdl
+[21:46:02] CCA.C14-SCN.49218: // IS A MANHACK CHAR POSSIBLE
+[21:46:05] James Albright<STEAM_0:1:53097688> used the tool submaterial on models/vortigaunt.mdl
+[21:46:05] Ronald "Ron" Broadbet: // no
+[21:46:06] James Albright<STEAM_0:1:53097688> used the tool submaterial on models/vortigaunt.mdl
+[21:46:07] James Albright<STEAM_0:1:53097688> used the tool submaterial on models/vortigaunt.mdl
+[21:46:08] Ronald "Ron" Broadbet: // i dont think so
+[21:46:09] CCA.C14-SCN.49218: // disgusting
+[21:46:13] James Albright<STEAM_0:1:53097688> used the tool submaterial on models/vortigaunt.mdl
+[21:46:16] James Albright<STEAM_0:1:53097688> used the tool submaterial on models/vortigaunt.mdl
+[21:46:16] James Albright<STEAM_0:1:53097688> used the tool submaterial on models/vortigaunt.mdl
+[21:46:16] Ronald "Ron" Broadbet: // i dont think they're controlled
+[21:46:17] James Albright<STEAM_0:1:53097688> used the tool submaterial on models/vortigaunt.mdl
+[21:46:52] Dropped "Ronald "Ron" Broadbet" from server<STEAM_0:0:38537787>
+[21:47:13] CCA.C14-SCN.49218: // f
+[21:47:15] James Albright<STEAM_0:1:53097688> spawned NPC npc_vortigaunt
+[21:47:51] James Albright<STEAM_0:1:53097688> used the tool turret on models/vortigaunt.mdl
+[21:48:12] James Albright<STEAM_0:1:53097688> used the tool turret on maps/rp_city14_utopia.bsp
+[21:48:27] Client "Doughnut" connected.
+[21:49:43] CCA.C14-SCN.49218: Too many vertex format changes in frame, whole world not rendered (x54)
+[21:49:46] CCA.C14-SCN.49218: // Too many vertex format changes in frame, whole world not rendered (x54)
+[21:49:50] James Albright: //that's normal
+[21:50:04] CCA.C14-SCN.49218: // Too many vertex format changes in frame, whole world not rendered (x54)
+[21:50:07] CCA.C14-SCN.49218: // oops
+[21:50:16] CCA.C14-SCN.49218: R_DrawDecalsAll: overflowing m_aBatches. Reduce 1048576 decals in the scene. (x2)
+[21:50:18] CCA.C14-SCN.49218: // R_DrawDecalsAll: overflowing m_aBatches. Reduce 1048576 decals in the scene. (x2)
+[21:50:38] CCA.C14-SCN.49218: // what the heck do these mean
+[21:52:06] Client "Doughnut" spawned in server <STEAM_0:1:127409364> (took 219 seconds).
+[21:52:40] Client "PhilipIsBored" connected.
+[21:53:09] Doughnut<STEAM_0:1:127409364> changed their name to Hans Weiß
+[21:53:10] James Albright<STEAM_0:1:53097688> used the tool submaterial on models/vortigaunt.mdl
+[21:53:15] James Albright<STEAM_0:1:53097688> used the tool submaterial on models/vortigaunt.mdl
+[21:53:19] James Albright<STEAM_0:1:53097688> used the tool submaterial on models/vortigaunt.mdl
+[21:53:30] Hans Weiß: // so i thought i found the addon that was fucking with my model, nope im still flanel boi
+[21:53:47] James Albright: //i added a tooltip to make vorts trasncend but i still can't make their fucking eyes blue
+[21:53:56] James Albright: //not a tooltip but what's it called
+[21:53:58] James Albright: //context menu item,
+[21:54:41] James Albright<STEAM_0:1:53097688> used the tool submaterial on models/vortigaunt.mdl
+[21:54:46] James Albright<STEAM_0:1:53097688> used the tool submaterial on models/vortigaunt.mdl
+[21:54:49] James Albright<STEAM_0:1:53097688> used the tool submaterial on maps/rp_city14_utopia.bsp
+[21:54:53] James Albright: models/vortigaunt/eyeball_blue
+[21:54:55] James Albright: //models/vortigaunt/eyeball_blue
+[21:54:57] James Albright: //FUNCIONER
+[21:54:59] James Albright: //FUNCIONAR*
+[21:55:12] Hans Weiß: // yo is cp like an forums application or whats the dealio there
+[21:55:15] CCA.C14-SCN.49218: // ic
+[21:55:25] CCA.C14-SCN.49218: // you need 15 lp (which i dont agree with but)
+[21:55:29] James Albright: //IC at 15 LP
+[21:55:32] Hans Weiß: // aight
+[21:55:50] CCA.C14-SCN.49218: // in the mean time i suggest joining cwu
+[21:56:01] Hans Weiß: // and where do i do that
+[21:56:06] CCA.C14-SCN.49218: // you can have a sotr at 0 lp and be a medic or industrial worker at 5 lp i think
+[21:56:09] CCA.C14-SCN.49218: // :shrug:
+[21:56:11] James Albright: //you can apply IC at the CWU HQ
+[21:56:21] Hans Weiß: // alright time to find that
+[21:56:28] CCA.C14-SCN.49218: // e
+[21:56:32] CCA.C14-SCN.49218: // follow the scanner
+[21:56:56] James Albright<STEAM_0:1:53097688> changed their name to Joseph Kimsler
+[21:57:01] Hans Weiß: Thank you little buddy.
+[21:57:05] CCA.C14-SCN.49218: // <3
+[21:57:18] CCA.C14-SCN.49218: // q you should get on your cwu char for him
+[21:57:21] CCA.C14-SCN.49218: // oh
+[21:57:26] Joseph Kimsler<STEAM_0:1:53097688> spawned NPC npc_vortigaunt
+[21:57:28] CCA.C14-SCN.49218: // im gonna hop on fraiser
+[21:57:31] Joseph Kimsler: /me would take out his combat knife and cut the individual's ties.
+[21:57:34] Joseph Kimsler: .//void that
+[21:57:36] CCA.C14-SCN.49218<STEAM_0:0:193599766> changed their name to Janet Fraiser
+[21:57:36] Hans Weiß: Hello there.
+[21:57:46] Joseph Kimsler: Hi, how can I help you?
+[21:57:48] Janet Fraiser<STEAM_0:0:193599766> changed their name to CCA.C14-GRID.i4.36307
+[21:57:54] Hans Weiß: I'd like to apply for the CWU
+[21:58:00] Joseph Kimsler: //how do the epsideo one vortigaunts have blue eyes
+[21:58:04] Joseph Kimsler: Great, which branch?
+[21:58:14] Joseph Kimsler: //how do you reproduce it in garry's mod i don't fuckingget it
+[21:58:20] CCA.C14-GRID.i4.36307: // uh
+[21:58:28] CCA.C14-GRID.i4.36307: // maybe make a blue eyed vortigaunt yourself
+[21:58:33] Hans Weiß: What can i apply for with 5 loyalist points?
+[21:58:35] CCA.C14-GRID.i4.36307: // there has to eb a way to... uh
+[21:58:39] CCA.C14-GRID.i4.36307: // fuck with its textures
+[21:58:50] Hans Weiß: /looc just asking for IC stuff
+[21:58:52] CCA.C14-GRID.i4.36307: // oh yeah
+[21:58:52] Joseph Kimsler: //i tried
+[21:58:55] Joseph Kimsler: //i found the material
+[21:58:57] CCA.C14-GRID.i4.36307: // my ammo got wiped
+[21:59:02] Joseph Kimsler: //gun out
+[21:59:05] CCA.C14-GRID.i4.36307: // yep
+[21:59:07] Joseph Kimsler gave CCA.C14-GRID.i4.36307 75 rounds
+[21:59:09] Client "PhilipIsBored" connected.
+[21:59:13] Joseph Kimsler: Commerce, Medical, and Factory.
+[21:59:19] Joseph Kimsler: Medical always needs people.
+[21:59:25] Hans Weiß: I'll apply for medical in that case
+[22:00:02] Joseph Kimsler: Wonderful, come with me please.
+[22:00:09] Client "PhilipIsBored" spawned in server <STEAM_0:0:38537787> (took 60 seconds).
+[22:00:29] Joseph Kimsler: .//it seems i forgot to permaprop my desk
+[22:00:33] Hans Weiß: /looc bruh
+[22:00:37] PhilipIsBored<STEAM_0:0:38537787> changed their name to Ronald "Ron" Broadbet
+[22:00:38] Ronald "Ron" Broadbet: // y
+[22:00:40] Joseph Kimsler: Oh, I almost forgot.
+[22:00:41] Ronald "Ron" Broadbet: // yo im gonna
+[22:00:44] Joseph Kimsler: Officer.
+[22:00:49] Ronald "Ron" Broadbet: // switch to emily if i crash then thats why i leave
+[22:00:55] CCA.C14-GRID.i4.36307: yes?
+[22:01:11] Joseph Kimsler: Can you please verify this man's civil status?
+[22:01:13] Dropped "Ronald "Ron" Broadbet" from server<STEAM_0:0:38537787>
+[22:01:15] CCA.C14-GRID.i4.36307: apply
+[22:01:18] Hans Weiß: /apply
+[22:01:20] CCA.C14-GRID.i4.36307: // i have an idea
+[22:01:28] CCA.C14-GRID.i4.36307: // reproduce phillips char
+[22:01:39] CCA.C14-GRID.i4.36307: // have him take a screenshot of the stats and inventory stuff
+[22:01:44] CCA.C14-GRID.i4.36307: right
+[22:01:47] CCA.C14-GRID.i4.36307: /oldviewdata hans
+[22:01:53] Client "PhilipIsBored" connected.
+[22:01:59] CCA.C14-GRID.i4.36307: /me nonds
+[22:02:04] Joseph Kimsler: Awesome, thank you officer.
+[22:02:04] CCA.C14-GRID.i4.36307: .// NONDS
+[22:02:10] Joseph Kimsler: .//NONDS
+[22:02:17] CCA.C14-GRID.i4.36307: .// MAMES NOND
+[22:02:24] CCA.C14-GRID.i4.36307: // THE NAMES NOND
+[22:02:31] CCA.C14-GRID.i4.36307: // MAMES NOND
+[22:02:32] Hans Weiß: // contrabang, and nonding
+[22:02:52] Client "PhilipIsBored" spawned in server <STEAM_0:0:38537787> (took 59 seconds).
+[22:02:59] Joseph Kimsler: //nonds mames the jamed
+[22:03:14] CCA.C14-GRID.i4.36307: // q you should give phillip a new char with the exact same stats and stuff since emily is broken
+[22:03:16] Joseph Kimsler: //mames nond is having a stronk, call a nodulance
+[22:03:19] PhilipIsBored<STEAM_0:0:38537787> changed their name to Emily Brown
+[22:03:25] Emily Brown: // it doesnt work for me still
+[22:03:33] CCA.C14-GRID.i4.36307: // ih
+[22:03:34] Joseph Kimsler: //tf?
+[22:03:34] Emily Brown: // i have to restart gmod to go on emily
+[22:03:36] CCA.C14-GRID.i4.36307: // phillip
+[22:03:39] Joseph Kimsler: //you're running on 32 bit?
+[22:03:49] Emily Brown: // its on 32 bit and i cant switch from any character to emily
+[22:03:52] Joseph Kimsler: So, tell me about yourself.
+[22:03:52] CCA.C14-GRID.i4.36307: // target sighted
+[22:03:53] Joseph Kimsler: //wtf
+[22:03:55] CCA.C14-GRID.i4.36307: // scanner time
+[22:03:57] Emily Brown: // my screen goes pitch black
+[22:04:02] CCA.C14-GRID.i4.36307<STEAM_0:0:193599766> changed their name to CCA.C14-SCN.49218
+[22:04:07] CCA.C14-SCN.49218: // why the fuck am i in the nexus
+[22:04:13] Hans Weiß: Well I come from City-36, previously known as Berlin.
+[22:04:13] CCA.C14-SCN.49218: // eeee 
+[22:04:20] CCA.C14-SCN.49218: // someone open these doors
+[22:04:25] Emily Brown: /chardesc
+[22:04:46] Hans Weiß: It's a lovely place, to say the least, and I used to work at their metal work factories for a bit.
+[22:04:56] Hans Weiß: But I've always been interested in the medical field.
+[22:05:15] Emily Brown: Joseph?
+[22:05:24] CCA.C14-SCN.49218: // q sis
+[22:05:26] CCA.C14-SCN.49218: // sos
+[22:05:35] Joseph Kimsler: //shit uhhhhhh
+[22:05:43] Hans Weiß: I bought a few books on anatomy, and other medical material.
+[22:05:50] CCA.C14-SCN.49218: // you can close the doors with a command can you open them with one
+[22:05:59] Joseph Kimsler: //yeah
+[22:06:08] Emily Brown: // tfw i cant find kimsler
+[22:06:09] Joseph Kimsler: So.
+[22:06:24] Joseph Kimsler: Tell me what the CWU is,.
+[22:06:26] Joseph Kimsler: .//is.*
+[22:06:31] CCA.C14-SCN.49218: .// almost
+[22:06:41] CCA.C14-SCN.49218: .// there we go
+[22:06:47] Hans Weiß: The civil workers union is an organization made to provide work to the citizens within each city.
+[22:06:50] CCA.C14-SCN.49218: /me takes a picture of the woman, with a bright flash
+[22:06:58] Emily Brown: /me covers her eyes
+[22:07:00] Emily Brown: The hell
+[22:07:07] Joseph Kimsler: Wonderful. And what is the Universal Union?
+[22:08:09] Hans Weiß: /looc i completely forgot who they were other than the people who approve out water bottles
+[22:08:24] Hans Weiß: /looc aight i looked it up
+[22:08:26] Joseph Kimsler: .//bruh
+[22:08:31] CCA.C14-SCN.49218<STEAM_0:0:193599766> changed their name to Janet Fraiser
+[22:08:53] Janet Fraiser: // do i just bring in the sales tax or is it collected
+[22:09:01] Hans Weiß: The universal union are the people who are, correct me if I'm wrong, in charge of essentially everything.
+[22:09:05] Emily Brown: // give him the tax
+[22:09:15] Emily Brown: // you earned
+[22:09:23] Joseph Kimsler: //you bring it in
+[22:09:27] Joseph Kimsler: Yes, that's right.
+[22:09:37] Joseph Kimsler: And why do you wish to join the CWU?
+[22:09:50] Emily Brown: You in here, Joseph???
+[22:10:06] Hans Weiß: To help provide the city with hard working people, and to help those in need of the CWU.
+[22:10:22] Joseph Kimsler<STEAM_0:1:53097688> spawned NPC npc_vortigaunt
+[22:10:35] Joseph Kimsler: Great, and what makes you feel you are qualified for the job?
+[22:10:38] Emily Brown: He's not here
+[22:10:44] Janet Fraiser: darn
+[22:11:31] Hans Weiß: I am a hard working man who seeks simply to make his city just a little brighter, and I want to make sure everyone has the services they need when they need it.
+[22:11:58] Joseph Kimsler: Great, and what are your feelings about the Universal Union?
+[22:12:41] Hans Weiß: They have done wonderfully with the cities, and have kept the world fairly peaceful from what I've seen.
+[22:12:58] Joseph Kimsler: Great, and is there anything that you wish to tell me?
+[22:13:01] Joseph Kimsler: No is a valid answer here.
+[22:13:18] Hans Weiß: Not really.
+[22:13:45] Joseph Kimsler: Great, welcome to the Civil Medical Bureau.
+[22:13:52] Hans Weiß: Thank you.
+[22:14:00] Joseph Kimsler: Right this way.
+[22:14:26] Joseph Kimsler: You can wait in the lobby, I need to grab your uniform.
+[22:14:27] Emily Brown: Fuck
+[22:14:30] Emily Brown: Oh
+[22:14:30] Hans Weiß: Alright.
+[22:14:37] Joseph Kimsler<STEAM_0:1:53097688> spawned NPC npc_breen
+[22:14:40] Joseph Kimsler<STEAM_0:1:53097688> spawned NPC npc_vortigaunt
+[22:15:07] Joseph Kimsler set the scale for Themself to 2
+[22:15:18] Hans Weiß: // weird, after i disabled the mod, both of y'all in the lobby are wearing like blue denim, or sports jackets
+[22:15:18] Joseph Kimsler set the scale for Themself to 0
+[22:15:29] Joseph Kimsler set the scale for Themself to 0
+[22:15:31] Janet Fraiser: // tf
+[22:15:43] Janet Fraiser: // screenshot?
+[22:15:52] Joseph Kimsler set the scale for Themself to 0
+[22:16:16] Emily Brown: // why is there a tiny joseph
+[22:16:18] Janet Fraiser: .// what the fuck
+[22:16:19] Emily Brown: // on my screen
+[22:16:24] Janet Fraiser: .// a child
+[22:16:29] Janet Fraiser: .// /me punts the child
+[22:16:33] Hans Weiß: Sir, you seem a bit smaller than i remember you.
+[22:16:38] Joseph Kimsler: /toggleraise
+[22:16:39] Joseph Kimsler: /toggleraise
+[22:16:40] Joseph Kimsler: /toggleraise
+[22:16:41] Emily Brown: What the hell?
+[22:16:55] Joseph Kimsler: I need to go fuck a cumtoad, I'll be back.
+[22:17:01] Joseph Kimsler: /toggleraise
+[22:17:06] Joseph Kimsler set the scale for Themself to 1
+[22:17:06] Janet Fraiser: how did he open that door
+[22:17:08] Emily Brown: Oh
+[22:17:11] Hans Weiß: /looc so what is your model on your screen?
+[22:17:17] Janet Fraiser: .// me?
+[22:17:18] Emily Brown: .// cwu outfirt
+[22:17:21] Joseph Kimsler: Alright, I've got your model
+[22:17:22] Emily Brown: .// white shirt
+[22:17:28] Joseph Kimsler: .//wait ufmc
+[22:17:29] Hans Weiß: /looc i need to reinstall the mod i uninstalled
+[22:17:30] Joseph Kimsler: .//uniform*
+[22:17:33] Joseph Kimsler: /admin
+[22:17:35] Joseph Kimsler: /adminspawnmenu
+[22:17:44] Joseph Kimsler: /me hands the man a shirt and some gray pants.
+[22:17:44] Hans Weiß: // ill do it in a bit
+[22:17:48] Joseph Kimsler: Go put these on in the meeting room.
+[22:17:51] Hans Weiß: /me takes outfit
+[22:17:53] Joseph Kimsler: I'll let you in.
+[22:18:07] Hans Weiß: /me puts on CWU outfit
+[22:18:13] Joseph Kimsler: /charsetbodygroup hans torso 14
+[22:18:15] Janet Fraiser: /droptokens 32
+[22:18:16] Joseph Kimsler: /charsetbodygroup hans legs 1
+[22:18:31] Joseph Kimsler: //done, bodygorups changed
+[22:18:37] Joseph Kimsler set the scale for Themself to 2
+[22:18:44] Janet Fraiser: dear lord
+[22:18:50] Janet Fraiser: i uh
+[22:18:52] Joseph Kimsler set the scale for Themself to 1
+[22:18:53] Janet Fraiser: got my sales tax
+[22:18:55] Janet Fraiser: OH MY GOD
+[22:19:10] Joseph Kimsler set the scale for Themself to 1
+[22:19:22] Emily Brown: /me drops a box of tokens onto the table, with "CWU" scribbled on it in black marker
+[22:19:24] Joseph Kimsler: Looks like it  fits great. I'll introduce you to where you're working in a second.
+[22:19:31] Emily Brown: /me also puts down a list of receipts
+[22:19:36] Emily Brown: /droptokens 112
+[22:19:43] Hans Weiß: // i now have a tracksuit with the DDR symbol
+[22:19:45] Joseph Kimsler: /me takes the list of receipts, then the box of tokens, counts the tokens, and says, "Thank you."
+[22:19:51] Joseph Kimsler: //what the fuck pack do you have installed
+[22:19:54] Joseph Kimsler<STEAM_0:1:53097688> spawned/gave himself swep tfa_hl2r_shotgun
+[22:19:55] Hans Weiß: // no idea
+[22:20:00] Janet Fraiser: // DDR?
+[22:20:05] Joseph Kimsler: //dance dance revolution i tihnk
+[22:20:06] Hans Weiß: // east germany
+[22:20:10] Joseph Kimsler: //oh
+[22:20:11] Janet Fraiser: // naturally
+[22:20:12] Hans Weiß: // when it was split
+[22:20:13] Joseph Kimsler: //not dance dance revolution
+[22:20:15] Hans Weiß: // when it was split
+[22:20:18] Hans Weiß: // no*
+[22:20:31] Joseph Kimsler: And then do you have your receipts?
+[22:20:32] Hans Weiß: // im gonna uninstall a bunch of mods later
+[22:20:42] Emily Brown: I already put them down
+[22:20:42] Janet Fraiser: .// she was the one that gave you the receipts
+[22:20:45] Emily Brown: She didnt
+[22:20:52] Janet Fraiser: .// dumb fuck
+[22:20:57] Janet Fraiser: mine are in the box
+[22:21:01] Joseph Kimsler: .//i'm talking to janet motherfucker
+[22:21:03] Joseph Kimsler: .//<3
+[22:21:03] Janet Fraiser: .// you want the actual thing
+[22:21:05] Emily Brown: .// oh ok
+[22:21:07] Janet Fraiser: .// your looking at her
+[22:21:11] Joseph Kimsler: .//so i am
+[22:21:24] Joseph Kimsler: Ah, alright, great.
+[22:21:26] Janet Fraiser: .// you want the actual spreadsheet link
+[22:21:31] Joseph Kimsler: .//yes please, dm it to me
+[22:21:36] Hans Weiß: // k i found it, its a mod called eastern bloc citizens thats reskinning me i think
+[22:21:51] Hans Weiß: Anyways, do i need a new card, or what's the deal?
+[22:22:02] Joseph Kimsler: //This is a pack of retextured Enhanced Citizens V4 ragdolls, with most textures changed to reflect 1970s/1980s Eastern Bloc fashion. Addon is ready to use on any Soviet/DDR server.
+[22:22:02] Joseph Kimsler: //yep
+[22:22:17] Joseph Kimsler: Oh, yes, we need to get you to a civil protection officer to print you an ID.
+[22:22:19] Emily Brown: .// emily has made 460 tokens for the CWU lol
+[22:22:22] Joseph Kimsler: So you can open the Union Locks.
+[22:22:27] Emily Brown<STEAM_0:0:38537787> changed their name to CCA.C14-UNION.i5.39867
+[22:22:28] Joseph Kimsler: //who wants toflag up
+[22:22:29] Joseph Kimsler: //oh
+[22:22:58] CCA.C14-UNION.i5.39867: /radio Unit is on-duty, 10-8. Current sociostatus is green, updating 10-20 to Plaza. Will be on standby.
+[22:22:58] Joseph Kimsler set the scale for Themself to 1
+[22:23:07] Joseph Kimsler set the scale for Themself to 1
+[22:23:16] Joseph Kimsler: Officer.
+[22:23:18] CCA.C14-UNION.i5.39867: Yes?
+[22:23:36] Joseph Kimsler: .//imagine waering a piruple loyalipsitk nanndmorbnad whern cvivil protec tion programbuig
+[22:23:44] CCA.C14-UNION.i5.39867: .// wait wtf
+[22:23:48] Joseph Kimsler: .//bug in the code
+[22:23:48] CCA.C14-UNION.i5.39867: .// i have it on emily lol
+[22:23:50] Hans Weiß: /looc did you have a stroke
+[22:23:51] CCA.C14-UNION.i5.39867: .// yea
+[22:23:52] Joseph Kimsler: .//it's a cheap pluigin i got
+[22:24:17] Joseph Kimsler: Can you please print this fine citizen a CWU ID?
+[22:24:27] CCA.C14-UNION.i5.39867: Right
+[22:24:29] CCA.C14-UNION.i5.39867: The one to your left?
+[22:24:32] Dropped "Janet Fraiser" from server<STEAM_0:0:193599766>
+[22:24:34] CCA.C14-UNION.i5.39867: You?
+[22:24:40] Joseph Kimsler: Yes.
+[22:24:41] CCA.C14-UNION.i5.39867: Comew ith me
+[22:25:49] CCA.C14-UNION.i5.39867: Your ID, plase
+[22:25:51] CCA.C14-UNION.i5.39867: .// please*
+[22:26:04] Hans Weiß: /looc sorry thought i was stuck on it
+[22:26:09] CCA.C14-UNION.i5.39867: /me picks up the ID.
+[22:26:12] CCA.C14-UNION.i5.39867: Alright, wait here
+[22:26:23] Hans Weiß: /looc glad to see some of the cams work
+[22:26:31] Joseph Kimsler: .//they don't ;-;
+[22:26:40] Joseph Kimsler: .//i need to port that polugin to helix or remake it 
+[22:26:50] Hans Weiß: // well at least it made a sound
+[22:26:53] Joseph Kimsler: //tru
+[22:27:16] CCA.C14-UNION.i5.39867: /me steps out of the door, closing it behind him hastily. He then steps towards the citizen, holding both his CID and CWU ID stacked ontop of each other.
+[22:27:31] Hans Weiß: /me picks up new CWU ID and puts it in pocket
+[22:27:44] Hans Weiß: /me picks up civilian ID
+[22:28:05] CCA.C14-UNION.i5.39867: Is that all?
+[22:28:12] Joseph Kimsler: Yes, officerf.
+[22:28:13] Joseph Kimsler: Thank you.
+[22:28:16] CCA.C14-UNION.i5.39867: Alright, have a nice day.
+[22:28:29] Joseph Kimsler: Let me show you to your new workplace.
+[22:28:58] Joseph Kimsler: .//oh this ist he one
+[22:29:36] CCA.C14-UNION.i5.39867: // wait what?
+[22:29:38] Joseph Kimsler: //?
+[22:29:45] CCA.C14-UNION.i5.39867: // why did janet leave?
+[22:29:49] Joseph Kimsler: //timed out
+[22:30:10] Joseph Kimsler: So here's the lobby as you can imagine. Normally someone could crawl through that window, but we've got a door back there we keep locked at all times.
+[22:30:31] Joseph Kimsler: Now as a CMB member, you will be in charge of a lot of possible contraband.
+[22:31:05] Joseph Kimsler: If your fellow citizens aren't as careful, ensure you pick up the pace for them.
+[22:31:21] Joseph Kimsler: Some of the things in here would be very dangerous if they were to ever get out.
+[22:31:27] Joseph Kimsler: .//m
+[22:31:28] Joseph Kimsler: .//yes
+[22:31:30] Joseph Kimsler: .//an unowned
+[22:31:31] Joseph Kimsler: .//wtf
+[22:31:39] Joseph Kimsler: .//wtf
+[22:31:41] Joseph Kimsler: /doorsettitle "Recovery Room"
+[22:31:46] Joseph Kimsler: .//lock is gone too
+[22:31:48] Joseph Kimsler<STEAM_0:1:53097688> spawned sent ix_unionlock
+[22:32:03] Hans Weiß: /looc mm yes no texture bed
+[22:32:04] Joseph Kimsler: This is the recovery room.
+[22:32:13] Joseph Kimsler: .//do you have episode 1
+[22:32:27] Hans Weiß: /looc no i don't have any of the hl games
+[22:32:30] Joseph Kimsler: .//oh shit
+[22:32:34] Joseph Kimsler: .//that'll do it
+[22:32:44] Joseph Kimsler: //there's a way to get the textures very easy, if you want i can show you how to do it after this
+[22:32:46] Joseph Kimsler: //shit
+[22:32:49] Joseph Kimsler: .//and legal
+[22:32:59] Hans Weiß: /looc i know i used it for CSS once
+[22:33:19] CCA.C14-UNION.i5.39867: // hey, Q, i think my chumtoad model is broken and i am stuck in the place
+[22:33:22] Joseph Kimsler: Try not to mind the lack of storage, we haven't had many people in the medical field, so the Civil Hospital has been rather...
+[22:33:25] Joseph Kimsler: ...Barren.
+[22:33:26] Joseph Kimsler: //?
+[22:33:34] CCA.C14-UNION.i5.39867<STEAM_0:0:38537787> changed their name to Kermit
+[22:33:41] Joseph Kimsler: Ah.
+[22:33:45] Joseph Kimsler: Magnifique.
+[22:33:49] Joseph Kimsler: /me says something angrily in french.
+[22:33:59] Kermit: // yep
+[22:34:02] Joseph Kimsler: //one sec
+[22:34:08] Joseph Kimsler: This is the operating room.
+[22:34:11] Joseph Kimsler: Give me a second.
+[22:34:20] Client "FB|| light ROOM" connected.
+[22:34:35] Kermit: .// i cant hear
+[22:34:41] Kermit: .// oh
+[22:34:46] Joseph Kimsler: .//you never saw this
+[22:34:49] Kermit: .// no
+[22:35:00] Kermit: .// my models is broken i dont have anims on my screen
+[22:35:02] Joseph Kimsler brought Kermit
+[22:35:20] Joseph Kimsler: Now in here...
+[22:35:22] Kermit: // my model is broken i dont have animations on my screen
+[22:35:25] Joseph Kimsler: Is the- oh goodness.
+[22:35:30] Joseph Kimsler: //me nieher, fuck
+[22:35:30] Kermit: ribbit
+[22:35:38] Joseph Kimsler: .//imagine not using voicelines
+[22:35:41] Joseph Kimsler: .//not veryp ogchamp of you
+[22:35:44] Hans Weiß: What in  the name of...
+[22:35:45] Kermit: ribbit1
+[22:35:49] Joseph Kimsler: .//Ribbit 1
+[22:35:50] Kermit: ribbit 1
+[22:35:53] Client "FB|| light ROOM" spawned in server <STEAM_0:1:17219621> (took 93 seconds).
+[22:35:56] Kermit: ribbit 1
+[22:36:08] Kermit: /me hops over
+[22:36:08] Hans Weiß: Should I kill it?
+[22:36:10] Joseph Kimsler: It's a new type of... frog. That's shown up.
+[22:36:11] Kermit: /me chews on your shoe
+[22:36:16] Joseph Kimsler: No, it should be harmless. I'd like to re-release it.
+[22:36:20] FB|| light ROOM<STEAM_0:1:17219621> changed their name to CCA.C14-UNION.EpU.72633
+[22:36:23] CCA.C14-UNION.EpU.72633: // Hello gamers
+[22:36:25] Joseph Kimsler: //hello gamer
+[22:36:29] Hans Weiß: /me pushes away with other shoe
+[22:36:41] Joseph Kimsler: /charsetmodel kermit models/half-life/chumtoad.mdl
+[22:36:52] CCA.C14-UNION.EpU.72633: // FUCK, Q when you switched us to TFA it deleted all of my ammo I think
+[22:36:52] Kermit: .// are you spanish??
+[22:36:59] Joseph Kimsler: //dafuq? alright i fix
+[22:37:03] CCA.C14-UNION.EpU.72633: // Bet
+[22:37:15] Joseph Kimsler: //dime un segundo.
+[22:37:21] Kermit: mlem 
+[22:37:22] Joseph Kimsler: Here frog.
+[22:37:23] Kermit: mlem 1
+[22:37:26] CCA.C14-UNION.EpU.72633: // Words
+[22:37:29] Hans Weiß: /ge I'm going to put you in a deep fryer i swear
+[22:37:33] Kermit: mlem 1
+[22:37:34] Joseph Kimsler: .//LMAO
+[22:37:39] Joseph Kimsler: .//I LOOKED IN THE LOGS FUCKING LOL
+[22:37:57] Kermit: ribbit 1
+[22:38:05] Joseph Kimsler: There.
+[22:38:09] Kermit: // noooo!
+[22:38:18] Hans Weiß: // get pranked
+[22:38:21] Kermit: // frog is stuck because of forcefield!!!!
+[22:38:29] CCA.C14-UNION.EpU.72633: // F
+[22:38:31] Joseph Kimsler: //a froggy bith a small bestie with four leggys
+[22:38:36] Joseph Kimsler: //it can broun or grene
+[22:38:39] Joseph Kimsler: //or, be it tropical
+[22:38:44] Joseph Kimsler: //it can even be dyeres colors
+[22:38:52] Kermit<STEAM_0:0:38537787> changed their name to Eriqas
+[22:38:53] Joseph Kimsler: This is a door to the quarantine zonwe.
+[22:38:55] Joseph Kimsler: .//zone.*
+[22:39:00] Joseph Kimsler: You can't open it, nor should you ever try.
+[22:39:03] Hans Weiß: /looc zonuwu
+[22:39:09] Joseph Kimsler: .//fuck you i resign
+[22:39:13] CCA.C14-UNION.EpU.72633: // My ammo went poof and now I am unable to fire verdicts at people ;-;
+[22:39:14] Hans Weiß: /looc bet
+[22:39:17] Joseph Kimsler: /doorsethidden true
+[22:39:34] Joseph Kimsler: Out there is a bunch of strange aliens that want nothing but your blood.
+[22:39:39] Joseph Kimsler: I'd recommend you steer clear.
+[22:39:42] CCA.C14-UNION.EpU.72633: // Also we should totally start calling ammo "Verdicts"
+[22:39:45] Joseph Kimsler: Won't even open.
+[22:39:46] Eriqas<STEAM_0:0:38537787> changed their name to CCA.C14-UNION.i5.39867
+[22:39:55] Joseph Kimsler: //in the guide i have them as daggers because of hl:a
+[22:39:58] Joseph Kimsler: //and imo it sounds super cool
+[22:39:59] CCA.C14-UNION.EpU.72633: // Bruh
+[22:40:05] CCA.C14-UNION.EpU.72633: // I like verdicts better
+[22:40:12] CCA.C14-UNION.EpU.72633: // Seems more like a CCA thing to say
+[22:40:13] Hans Weiß: // damn bro out of ammo now i can, "imprison" people
+[22:40:25] CCA.C14-UNION.i5.39867: /radio EpU, unit is on-duty, 10-8. 10-91 requested CWU ID, responded. Current 10-20 is Plaza, sociostability status is green. Will be on standby.
+[22:40:27] Joseph Kimsler: //imagine being prosecuted
+[22:40:32] Joseph Kimsler: //this post was made by dead gang
+[22:40:43] CCA.C14-UNION.i5.39867: respond
+[22:40:47] Hans Weiß: // imahine "cranial matter relocation"
+[22:40:53] Joseph Kimsler: Back here you'll talk to citizens before they go in. You'll spend most of your time here most likely.
+[22:41:00] CCA.C14-UNION.EpU.72633: /radio 10-4, report any situations
+[22:41:10] Joseph Kimsler: We'll work on getting you some supplies in the near future.
+[22:41:16] Hans Weiß: Sounds great.
+[22:41:17] CCA.C14-UNION.i5.39867: /radio Copy.
+[22:41:28] Joseph Kimsler: Wonderful, that should be everything. Do you have any questions.
+[22:41:33] Hans Weiß: Nope.
+[22:41:43] Joseph Kimsler: Great! Welcome aboard, it's great to have you.
+[22:41:45] Joseph Kimsler: //i need to go potty
+[22:41:54] Hans Weiß: // and i need to uninstall and reinstall mods
+[22:42:15] CCA.C14-UNION.i5.39867: // uninstall all mods and reinstall content
+[22:42:23] CCA.C14-UNION.i5.39867: // worked for me and another person
+[22:43:45] CCA.C14-UNION.EpU.72633: /radio Unit going 10-7
+[22:43:55] CCA.C14-UNION.EpU.72633<STEAM_0:1:17219621> changed their name to Journey Robertson
+[22:43:58] CCA.C14-UNION.i5.39867: /radio 10-4.
+[22:46:41] CCA.C14-UNION.i5.39867: /raido Unit going on 10-50.
+[22:46:47] CCA.C14-UNION.i5.39867: /radio Unit going on 10-50.
+[22:47:04] Hans Weiß: // alright imma reload gmod in a sec
+[22:47:16] CCA.C14-UNION.i5.39867: // alright
+[22:47:23] CCA.C14-UNION.i5.39867: // cya soon
+[22:48:06] Client "Madeline Wuntch" connected.
+[22:49:29] Dropped "Hans Weiß" from server<STEAM_0:1:127409364>
+[22:49:45] CCA.C14-UNION.i5.39867: w
+[22:50:00] CCA.C14-UNION.i5.39867: // i need to tryhard around chief lol
+[22:51:49] Joseph Kimsler<STEAM_0:1:53097688> spawned NPC npc_antlion
+[22:51:57] Joseph Kimsler<STEAM_0:1:53097688> spawned NPC npc_antlion
+[22:52:03] CCA.C14-UNION.i5.39867: Something wrong?
+[22:52:31] Client "Madeline Wuntch" spawned in server <STEAM_0:0:193599766> (took 265 seconds).
+[22:52:33] Joseph Kimsler<STEAM_0:1:53097688> spawned/gave himself swep weapon_pistol
+[22:52:33] Joseph Kimsler: /toggleraise
+[22:52:58] CCA.C14-UNION.i5.39867: You ok?
+[22:53:05] Journey Robertson: No officer, simply enjoying the silence of the city today
+[22:53:10] CCA.C14-UNION.i5.39867: Ah, I see
+[22:53:19] CCA.C14-UNION.i5.39867: Looked quiet, lonely. Thought I'd check on you.
+[22:53:21] CCA.C14-UNION.i5.39867: Anyway, have a nice day.
+[22:53:24] Journey Robertson: You to
+[22:53:59] Client "Doughnut" connected.
+[22:54:02] Madeline Wuntch<STEAM_0:0:193599766> changed their name to CCA.C14-GRID.i4.36307
+[22:54:13] Joseph Kimsler: /createcustomitem "Chicken Nugget" models/grub_nugget_medium.mdl "A moist, brown, room temperature chicken nugget."
+[22:54:17] CCA.C14-GRID.i4.36307<STEAM_0:0:193599766> changed their name to CCA.C14-SCN.49218
+[22:54:21] CCA.C14-SCN.49218: // why
+[22:54:23] CCA.C14-SCN.49218: // am
+[22:54:29] CCA.C14-SCN.49218: // i in the barracks
+[22:54:33] Journey Robertson: // Bruh
+[22:54:35] CCA.C14-UNION.i5.39867: // fucks sake, im coming
+[22:54:35] Joseph Kimsler: //becuase it is a spawn
+[22:54:38] Joseph Kimsler: //your spawn clearly doesn't save
+[22:54:43] CCA.C14-SCN.49218: // it never saves
+[22:54:51] Joseph Kimsler<STEAM_0:1:53097688> spawned/gave himself swep weapon_physcannon
+[22:54:51] Joseph Kimsler: /toggleraise
+[22:54:53] CCA.C14-UNION.i5.39867: // get out
+[22:54:58] Joseph Kimsler: //correct
+[22:55:10] CCA.C14-UNION.i5.39867: // wtf
+[22:55:21] CCA.C14-UNION.i5.39867: // his thing is stuck joseph
+[22:55:23] CCA.C14-UNION.i5.39867: // you broke it
+[22:55:25] CCA.C14-SCN.49218: // no its not
+[22:55:29] CCA.C14-UNION.i5.39867: // its not over his head
+[22:55:33] CCA.C14-SCN.49218: // what isnt
+[22:55:36] CCA.C14-UNION.i5.39867: // the GPS thing
+[22:55:37] Joseph Kimsler: //no, it's wroking
+[22:55:39] CCA.C14-UNION.i5.39867: // that says your name
+[22:55:41] CCA.C14-UNION.i5.39867: // it gets stuck
+[22:55:43] Joseph Kimsler: //oh, yeah that's natural
+[22:55:46] Joseph Kimsler: //that's not jsut with the canner
+[22:55:48] CCA.C14-SCN.49218: // its lag
+[22:55:48] CCA.C14-UNION.i5.39867: // oooh
+[22:55:49] Joseph Kimsler: //it's b ecause he goes so fast
+[22:55:55] Joseph Kimsler: //same things happens ion observer
+[22:55:56] CCA.C14-UNION.i5.39867: // alright
+[22:56:26] CCA.C14-SCN.49218: // i bluescreened again
+[22:56:31] Journey Robertson: // F
+[22:56:34] CCA.C14-SCN.49218: // my computer needs last rites
+[22:56:38] CCA.C14-UNION.i5.39867: // you  should
+[22:56:43] Joseph Kimsler: ?/hold on
+[22:56:44] CCA.C14-UNION.i5.39867: // check with a technician
+[22:56:47] Joseph Kimsler: //hold on keyboard brekaing
+[22:56:54] Joseph Kimsler: //doesn't nmeed a technician. his hard drive is fucked.
+[22:56:55] CCA.C14-UNION.i5.39867: // or something in your family thats a bit tech savvy
+[22:57:00] CCA.C14-UNION.i5.39867: // oh
+[22:57:05] CCA.C14-UNION.i5.39867: // someone*
+[22:57:22] Joseph Kimsler: //it's inevitably going to die, most he sohudl do now is buy a new hard drive
+[22:57:24] Joseph Kimsler: //from a trust brand
+[22:57:26] CCA.C14-UNION.i5.39867: // thats bad
+[22:57:26] Joseph Kimsler: //trusted*
+[22:57:28] CCA.C14-UNION.i5.39867: // yea
+[22:57:30] Joseph Kimsler: //and get an external hard adrive
+[22:57:31] CCA.C14-SCN.49218: // :(
+[22:57:40] Client "Doughnut" spawned in server <STEAM_0:1:127409364> (took 221 seconds).
+[22:57:50] CCA.C14-SCN.49218: // ah wonderful
+[22:57:54] CCA.C14-UNION.i5.39867: // whats the most amount of hard drives that you can have on your computer?
+[22:58:01] CCA.C14-UNION.i5.39867: // how many like drives?
+[22:58:01] Joseph Kimsler: //fuck if i know
+[22:58:09] CCA.C14-UNION.i5.39867: // doesnt it break if you have too much space?
+[22:58:11] Joseph Kimsler: //as many as your mobo can hold
+[22:58:13] Joseph Kimsler: //no?
+[22:58:23] Joseph Kimsler: //almsot postivie that's not a thing
+[22:58:25] CCA.C14-UNION.i5.39867: // because if you buy like tons of terrabyte
+[22:58:29] CCA.C14-UNION.i5.39867: // hard drives
+[22:58:31] CCA.C14-UNION.i5.39867: // wont that break it?
+[22:58:33] Joseph Kimsler: //no?
+[22:58:36] CCA.C14-UNION.i5.39867: // oh
+[22:58:40] Doughnut<STEAM_0:1:127409364> changed their name to Hans Weiß
+[22:58:42] CCA.C14-UNION.i5.39867: // yeah idk anything about pcs lol
+[22:58:44] CCA.C14-SCN.49218: // can i pour milk in my pc
+[22:58:45] Joseph Kimsler: //also my keyboard keeps hitting v for no reason
+[22:58:49] Hans Weiß: // found the mod that was messing with my models
+[22:58:49] Joseph Kimsler: //only 2%
+[22:58:56] Joseph Kimsler: //it doesn't like the taste of skim or whole
+[22:58:59] Hans Weiß: // tf
+[22:59:01] CCA.C14-SCN.49218: // ah
+[22:59:06] CCA.C14-SCN.49218: // i have 3%
+[22:59:13] Joseph Kimsler: //whole shit
+[22:59:13] Joseph Kimsler: /doorsethidden true
+[22:59:15] Hans Weiß: // i have 100% milk
+[22:59:18] CCA.C14-SCN.49218: // oh q
+[22:59:19] Joseph Kimsler: //you fucking wizard
+[22:59:22] CCA.C14-SCN.49218: // can you do me a favour
+[22:59:28] Hans Weiß: // 101% milk
+[22:59:35] CCA.C14-SCN.49218: // spawn a ota on this roof i wanna see if the rifle is still broke af
+[22:59:40] Journey Robertson: // Why is the sun fish the same size as a car?
+[22:59:45] Journey Robertson: // Explain
+[22:59:48] CCA.C14-SCN.49218: // what
+[22:59:58] Journey Robertson: // A fish exist thats the size of a car.
+[23:00:10] Journey Robertson: // It's called the Sun fish
+[23:00:22] CCA.C14-SCN.49218: // omg i want one
+[23:00:22] Journey Robertson: // It's a species of fish that is fucking massive
+[23:00:23] CCA.C14-SCN.49218: // wait
+[23:00:26] Hans Weiß: // theres a much bigger fish that has no natural predators
+[23:00:36] Hans Weiß: // wait no that is the fish fuck
+[23:00:37] CCA.C14-SCN.49218: // can you tie a bunch of city scanners and manhacks to a car
+[23:00:38] Journey Robertson: // The sun fish is the largest bony fish in the world
+[23:00:56] Hans Weiß: // yeah it has no natural predators and tastes like shit
+[23:01:09] Journey Robertson: // I love it
+[23:01:14] Hans Weiß: // ew
+[23:01:24] CCA.C14-SCN.49218: // it looks like it lacks thought
+[23:01:32] Hans Weiß: // it prolly does
+[23:01:40] Journey Robertson: // I fucking love anything that isn't a massive insect and I know WAYYYY too much about large insects ;-;
+[23:01:54] Journey Robertson: // In terms of animals of course
+[23:01:57] CCA.C14-SCN.49218: // when will we continue the scanner kidnap rp
+[23:02:07] Hans Weiß: // ooh did you know there's a bug that's exoskeleton is so tough you need a drill to get through it
+[23:02:43] Journey Robertson: // No? thats pretty neato. But I was mostly talking about large insects ;-; have you seen the Giant weta?
+[23:03:09] Hans Weiß: // no but i am concerned
+[23:03:11] CCA.C14-UNION.i5.39867: // can you eat a sun fish?
+[23:03:12] CCA.C14-SCN.49218: /me bangs into a wall
+[23:03:21] Hans Weiß: // yes but they don't taste good
+[23:03:38] Journey Robertson: // The Giant Weta is a grasshopper that is pretty much the size of your hand
+[23:03:43] Hans Weiß: // oh fun
+[23:03:44] CCA.C14-UNION.i5.39867: // and cant you get a giant weta as a pet?
+[23:03:44] CCA.C14-SCN.49218: // no!
+[23:03:46] CCA.C14-SCN.49218: // why
+[23:03:46] Journey Robertson: // No it's the size of a rat
+[23:03:47] CCA.C14-UNION.i5.39867: // doesnt it eat like carrot?
+[23:03:49] Journey Robertson: // Sorry
+[23:04:00] Journey Robertson: // It's passive so yes you could get one
+[23:04:12] Journey Robertson: // I mean if it bit you that would be fucked but it doesn't try to
+[23:04:13] CCA.C14-SCN.49218: /me bangs into the unit
+[23:04:29] CCA.C14-UNION.i5.39867: /radio The hell was that?
+[23:04:37] CCA.C14-UNION.i5.39867: /radio GRID, you piloting this thing?
+[23:04:46] CCA.C14-UNION.i5.39867: /radio Holy hell
+[23:05:44] CCA.C14-UNION.i5.39867: // i dont think it can do much damage if it bites
+[23:05:50] CCA.C14-UNION.i5.39867: // i saw a video of it trying to bite a finger
+[23:06:07] CCA.C14-UNION.i5.39867: // and chewing on it and nothing happened
+[23:06:08] Joseph Kimsler<STEAM_0:1:53097688> spawned/gave himself swep weapon_357
+[23:06:09] Joseph Kimsler: /toggleraise
+[23:06:21] Journey Robertson: // I have been proven atleast a little wrong, neato
+[23:06:29] Journey Robertson: // Have you seen the bull ant?
+[23:06:52] Hans Weiß: // in pictures yeah
+[23:06:53] CCA.C14-UNION.i5.39867: // i think i have on brave wilderness
+[23:07:06] Journey Robertson: // Not Bullet ant just Bull ant
+[23:07:07] CCA.C14-UNION.i5.39867: // i think the video was called "CRAZY ANT BITE"
+[23:07:19] CCA.C14-UNION.i5.39867: // but idk if it was bull ant
+[23:07:27] CCA.C14-UNION.i5.39867: // ill check rn
+[23:07:57] CCA.C14-UNION.i5.39867: // apparently it was the leafcuttera nt
+[23:07:59] CCA.C14-UNION.i5.39867: // ant*
+[23:08:22] CCA.C14-UNION.i5.39867: // i like banana slugs lol
+[23:08:28] Journey Robertson: // Well lets list off the bullshit about it. It's one of the largest ant species, one of the most agressive, it has good eyesight so it WILL chase you down, and it will latch onto you by biting into your skin and repeatedly stinging you.
+[23:09:19] CCA.C14-UNION.i5.39867: // whats dinoponera
+[23:09:21] Journey Robertson: // And again unlike other ant species that kinda just let you go near them, it WILL chase you down and bite you
+[23:09:39] CCA.C14-SCN.49218: .// IT WONT STOP
+[23:09:43] Journey Robertson: .// Bruh
+[23:09:44] CCA.C14-SCN.49218: .// RUN
+[23:09:54] Journey Robertson: .// It actually blinded me ;-;
+[23:10:06] CCA.C14-SCN.49218: .// FINALLY
+[23:10:13] Journey Robertson: .// Hello bitch boi i5
+[23:10:16] CCA.C14-UNION.i5.39867: hm
+[23:10:18] Journey Robertson: .// it is good to see you
+[23:10:22] CCA.C14-UNION.i5.39867: .// weeeeeeeeaaaa
+[23:10:29] Journey Robertson: .// Fuck
+[23:10:33] Journey Robertson: .// SCN
+[23:10:39] Journey Robertson: .// Get onto the ground
+[23:10:56] Journey Robertson: .// As low as possible
+[23:10:57] CCA.C14-SCN.49218: .// the helix scanner doesnt like touching the ground
+[23:11:02] CCA.C14-UNION.i5.39867: .// did we glitch him into the wal
+[23:11:04] Journey Robertson: .// Bruh
+[23:11:07] Journey Robertson: .// I hope lmoa
+[23:11:10] Journey Robertson: .// lmao
+[23:11:28] CCA.C14-SCN.49218: .// it spazzes out
+[23:11:37] Journey Robertson: .// SCN do be a dumby head
+[23:11:44] CCA.C14-UNION.i5.39867: .// SCNs are stupid
+[23:11:44] CCA.C14-SCN.49218: // watch it go sideways
+[23:11:48] CCA.C14-UNION.i5.39867: .// stalker better
+[23:11:51] Joseph Kimsler cleared decals
+[23:11:51] Joseph Kimsler cleared decals
+[23:11:51] Joseph Kimsler cleared decals
+[23:11:51] Joseph Kimsler cleared decals
+[23:11:52] Joseph Kimsler cleared decals
+[23:11:52] Joseph Kimsler cleared decals
+[23:11:52] Joseph Kimsler cleared decals
+[23:11:52] Joseph Kimsler cleared decals
+[23:11:52] Joseph Kimsler cleared decals
+[23:11:52] Joseph Kimsler cleared decals
+[23:11:55] Journey Robertson: .// Stalker do be better
+[23:12:02] Joseph Kimsler: //OH SHIT WASSU PHANS
+[23:12:19] Hans Weiß: // what?
+[23:12:25] CCA.C14-SCN.49218: /me violently photographs the nugget
+[23:12:29] Joseph Kimsler: //nothing
+[23:12:29] Journey Robertson: .// Dumbass
+[23:12:36] Joseph Kimsler: /pm scn it's a chicken nugget
+[23:12:48] CCA.C14-SCN.49218: /pm kimsler that dropped from the sky
+[23:12:54] Joseph Kimsler: /pm scn :)
+[23:13:04] CCA.C14-UNION.i5.39867: // make the nugget level 3 contraband
+[23:13:06] CCA.C14-SCN.49218: /pm kimsler is that ouh from heaven
+[23:13:07] Joseph Kimsler<STEAM_0:1:53097688> spawned NPC npc_chumtoad
+[23:13:09] Joseph Kimsler<STEAM_0:1:53097688> spawned NPC npc_chumtoad
+[23:13:10] Joseph Kimsler<STEAM_0:1:53097688> spawned NPC npc_chumtoad
+[23:13:11] CCA.C14-SCN.49218: // LEVEL 4
+[23:13:11] Joseph Kimsler<STEAM_0:1:53097688> spawned NPC npc_chumtoad
+[23:13:11] CCA.C14-UNION.i5.39867: // no level 4
+[23:13:12] Joseph Kimsler<STEAM_0:1:53097688> spawned NPC npc_chumtoad
+[23:13:13] Journey Robertson: // HOLY SHIT
+[23:13:14] Joseph Kimsler<STEAM_0:1:53097688> spawned NPC npc_chumtoad
+[23:13:15] Joseph Kimsler<STEAM_0:1:53097688> spawned NPC npc_chumtoad
+[23:13:16] Journey Robertson: // WHAT THE FUCK
+[23:13:17] Joseph Kimsler<STEAM_0:1:53097688> spawned NPC npc_chumtoad
+[23:13:18] Joseph Kimsler<STEAM_0:1:53097688> spawned NPC npc_chumtoad
+[23:13:19] Hans Weiß: // level 12
+[23:13:19] Joseph Kimsler<STEAM_0:1:53097688> spawned NPC npc_chumtoad
+[23:13:20] CCA.C14-UNION.i5.39867: // level 4 contraband, immidiate amputation
+[23:13:21] Joseph Kimsler<STEAM_0:1:53097688> spawned NPC npc_chumtoad
+[23:13:22] Joseph Kimsler<STEAM_0:1:53097688> spawned NPC npc_chumtoad
+[23:13:24] Joseph Kimsler<STEAM_0:1:53097688> spawned NPC npc_chumtoad
+[23:13:24] CCA.C14-UNION.i5.39867: // add one 
+[23:13:25] Joseph Kimsler<STEAM_0:1:53097688> spawned NPC npc_chumtoad
+[23:13:26] CCA.C14-UNION.i5.39867: // level
+[23:13:27] CCA.C14-UNION.i5.39867: // lol
+[23:13:27] CCA.C14-SCN.49218: // OPEN MOSCOWE
+[23:13:27] Journey Robertson: // A ant species exist that explodes on command
+[23:13:32] Joseph Kimsler<STEAM_0:1:53097688> spawned NPC npc_chumtoad
+[23:13:33] CCA.C14-SCN.49218: // OPEN MOSCOW QUJICK
+[23:13:33] Joseph Kimsler<STEAM_0:1:53097688> spawned NPC npc_chumtoad
+[23:13:35] Joseph Kimsler<STEAM_0:1:53097688> spawned NPC npc_chumtoad
+[23:13:43] Joseph Kimsler: //they will ifyou tell them IC
+[23:13:43] Journey Robertson: // It explodes and sprays acid at it's prey
+[23:13:52] Joseph Kimsler: //wait is that an ant that really does that
+[23:13:53] Journey Robertson: Uh...
+[23:13:55] Hans Weiß: // kinky
+[23:13:56] CCA.C14-SCN.49218: // i think moscow has been frogged
+[23:13:58] Journey Robertson: // Ye
+[23:14:08] CCA.C14-UNION.i5.39867: // yeah it busts its yellow juices on its attackers
+[23:14:09] Journey Robertson: // It's called "The yellow goo ant"
+[23:14:20] Journey Robertson: Uh.....it sounds like a nightmare in here
+[23:14:41] Journey Robertson: Uh...
+[23:14:46] Journey Robertson: Are you able to get a unit?
+[23:14:47] CCA.C14-SCN.49218: /radiowhisper Xenien infestation in Apartment block "Moscow"
+[23:15:04] CCA.C14-UNION.i5.39867: /radio Copy that, responding
+[23:15:07] CCA.C14-UNION.i5.39867: /toggleraise
+[23:15:10] CCA.C14-SCN.49218: // q the frogs are blocking the door
+[23:15:14] CCA.C14-UNION.i5.39867: /toggleraise
+[23:15:17] Joseph Kimsler: //shit
+[23:15:30] Joseph Kimsler: //te aman
+[23:15:31] Journey Robertson: .// You better not waste ammo bitch boi
+[23:15:42] CCA.C14-UNION.i5.39867: .// wasnt told what xenian it is
+[23:15:45] CCA.C14-SCN.49218: // strap a grenade to the scanner
+[23:15:45] CCA.C14-UNION.i5.39867: /toggleraise
+[23:15:58] CCA.C14-SCN.49218: .// you can hear them dipshit
+[23:16:20] CCA.C14-UNION.i5.39867: .// ok could be more than just frogs
+[23:16:23] CCA.C14-UNION.i5.39867: /me steps back
+[23:16:33] CCA.C14-UNION.i5.39867: /me runs into the door, shoulder bashing it
+[23:16:41] CCA.C14-UNION.i5.39867: /toggleraise
+[23:16:45] CCA.C14-UNION.i5.39867: What the hell?
+[23:16:46] CCA.C14-UNION.i5.39867: hm
+[23:16:46] Journey Robertson: What the fuck......
+[23:16:50] CCA.C14-SCN.49218: /me photographs the frog
+[23:16:51] CCA.C14-UNION.i5.39867: Stand back
+[23:16:56] CCA.C14-UNION.i5.39867: /toggleraise
+[23:16:59] CCA.C14-SCN.49218: /pm kimsler make the frogs take down the scanner
+[23:17:01] Joseph Kimsler<STEAM_0:1:53097688> spawned sent pfx2_00
+[23:17:08] Joseph Kimsler: /pm scn no that' stupider than nomral
+[23:17:14] Joseph Kimsler<STEAM_0:1:53097688> spawned NPC npc_devilsquid
+[23:17:19] CCA.C14-SCN.49218: /radiowhisper Anomoly-
+[23:17:21] CCA.C14-UNION.i5.39867: // HWAT THE FUCK
+[23:17:28] Journey Robertson: // COMMAND TIME
+[23:17:32] Journey Robertson<STEAM_0:1:17219621> changed their name to CCA.C14-UNION.EpU.72633
+[23:17:41] CCA.C14-UNION.EpU.72633: /radio Unit is 10-8, status is green. Units report
+[23:17:44] CCA.C14-UNION.EpU.72633: // Also ammo ;-;
+[23:17:45] CCA.C14-UNION.i5.39867: /RADIO Fire xenian spotted, 10-2000.
+[23:17:50] Joseph Kimsler: //gu nout epu
+[23:17:53] CCA.C14-UNION.i5.39867: /toggleraise
+[23:17:58] CCA.C14-UNION.EpU.72633: /radio Copy, 10-76 once resupplied
+[23:18:01] Joseph Kimsler gave CCA.C14-UNION.EpU.72633 140 rounds
+[23:18:01] Joseph Kimsler: !giveammo epu 140
+[23:18:13] Joseph Kimsler<STEAM_0:1:53097688> spawned NPC npc_devilsquid
+[23:18:15] CCA.C14-UNION.EpU.72633: // Pistol ammo to please ;-;
+[23:18:16] CCA.C14-UNION.i5.39867: /radio Amputated, disregard. Checking for miscount.
+[23:18:24] CCA.C14-UNION.i5.39867: /radio Fire in moscow, large and spreading
+[23:18:29] Joseph Kimsler<STEAM_0:1:53097688> spawned NPC npc_chumtoad
+[23:18:33] CCA.C14-UNION.i5.39867: /radio Sweeping, frog xenians all over the area. Infestation.
+[23:18:35] CCA.C14-UNION.i5.39867: /toggleraise
+[23:18:40] Joseph Kimsler<STEAM_0:1:53097688> spawned NPC npc_chumtoad
+[23:18:43] CCA.C14-UNION.EpU.72633: /radio 10-4, 10-76 either way, just in case
+[23:18:44] Joseph Kimsler<STEAM_0:1:53097688> spawned NPC npc_headcrab
+[23:18:46] Joseph Kimsler<STEAM_0:1:53097688> spawned NPC npc_headcrab
+[23:18:49] CCA.C14-UNION.i5.39867: /radio Copy
+[23:18:51] CCA.C14-UNION.i5.39867: /toggleraise
+[23:19:14] CCA.C14-UNION.EpU.72633: /radio 11-6, report?
+[23:19:18] CCA.C14-UNION.i5.39867: /radio Miscount
+[23:19:24] CCA.C14-UNION.i5.39867: /radio One more, second first floor
+[23:19:35] CCA.C14-UNION.i5.39867: Amputated
+[23:19:37] CCA.C14-UNION.i5.39867: Could be some more
+[23:19:39] CCA.C14-UNION.i5.39867: Out of ammo
+[23:19:44] CCA.C14-UNION.i5.39867: /toggleraise
+[23:19:45] CCA.C14-UNION.i5.39867: /toggleraise
+[23:20:06] CCA.C14-UNION.i5.39867: /radio Sweeping all apartments
+[23:20:10] CCA.C14-UNION.i5.39867: /toggleraise
+[23:20:28] CCA.C14-UNION.i5.39867: // wtf the tfa smg is a missing texture
+[23:20:30] CCA.C14-UNION.i5.39867: // do i need mmod?
+[23:20:32] CCA.C14-UNION.EpU.72633: // F
+[23:20:37] CCA.C14-UNION.i5.39867: /y locked
+[23:20:42] CCA.C14-SCN.49218: /radiowhisper Anomoly detected in Apartment Block "Moscow" Code: Isolate, Amputate
+[23:20:44] CCA.C14-UNION.i5.39867: /toggleraise
+[23:20:45] CCA.C14-UNION.i5.39867: /toggleraise
+[23:20:49] CCA.C14-SCN.49218: // e
+[23:20:52] CCA.C14-UNION.i5.39867: Breach?
+[23:20:53] CCA.C14-SCN.49218: // i lagged and they died
+[23:20:55] CCA.C14-UNION.EpU.72633: Alright
+[23:20:57] CCA.C14-SCN.49218: // oh
+[23:20:58] CCA.C14-UNION.EpU.72633: Stack
+[23:21:05] Hans Weiß: // tried to go to my apartment, immediately met with an army of kermits
+[23:21:06] CCA.C14-UNION.i5.39867: You're breacher, I don't have ammo
+[23:21:22] CCA.C14-UNION.EpU.72633: I was already gonna be breacher, your pointman due to your rank
+[23:21:28] CCA.C14-UNION.EpU.72633: Lock
+[23:21:30] CCA.C14-UNION.i5.39867: .// wrong side
+[23:21:31] CCA.C14-UNION.EpU.72633: Inject
+[23:21:32] CCA.C14-UNION.i5.39867: /toggleraise
+[23:21:37] CCA.C14-UNION.i5.39867: cleaned
+[23:21:38] CCA.C14-UNION.i5.39867: /toggleraise
+[23:21:49] CCA.C14-UNION.i5.39867: // breacher was on the side where the lock is
+[23:21:54] CCA.C14-UNION.EpU.72633: .// Both sides work, your just on the other side of pointman
+[23:21:54] CCA.C14-UNION.i5.39867: /toggleraise
+[23:22:02] CCA.C14-UNION.i5.39867: /radio Open apartments are clean
+[23:22:08] CCA.C14-UNION.i5.39867: /y locked
+[23:22:09] CCA.C14-UNION.EpU.72633: // It doesn't matter, pointman has to be on the other side either way
+[23:22:14] CCA.C14-UNION.i5.39867: stack
+[23:22:15] CCA.C14-UNION.EpU.72633: Lock
+[23:22:18] CCA.C14-UNION.i5.39867: inject
+[23:22:18] CCA.C14-UNION.EpU.72633: Inject
+[23:22:21] CCA.C14-SCN.49218: // breacher is on the opposite side of the lock
+[23:22:26] CCA.C14-UNION.i5.39867: // tfw breacher said lock
+[23:22:35] CCA.C14-UNION.i5.39867: // i was told otherwise in training
+[23:22:48] CCA.C14-UNION.i5.39867: /toggleraise
+[23:22:50] CCA.C14-UNION.EpU.72633: Civvie
+[23:22:53] CCA.C14-UNION.i5.39867: cleaned
+[23:23:01] CCA.C14-UNION.i5.39867: cleaned
+[23:23:12] CCA.C14-UNION.i5.39867: /toggleraise
+[23:23:16] CCA.C14-UNION.i5.39867: cleaned
+[23:23:18] CCA.C14-UNION.i5.39867: /toggleraise
+[23:23:25] CCA.C14-SCN.49218: /pm kimsler can we continue that rp we were doing
+[23:23:34] CCA.C14-UNION.i5.39867: /radio Moscow looks clean for now
+[23:24:11] CCA.C14-UNION.i5.39867: /toggleraise
+[23:24:32] CCA.C14-UNION.i5.39867: /toggleraise
+[23:25:07] CCA.C14-UNION.EpU.72633: // Breacher: The person responsible for breaking down the door and throwing the flash. This is typically the Command (EpU, i1. Etc.)Pointman: The first person into the room after the Breacher has tossed the flash. Typically a ranked number unit. (i5-i1.)Re
+[23:25:11] CCA.C14-UNION.EpU.72633: // Neato
+[23:25:32] CCA.C14-UNION.i5.39867: // yeah but you said lock
+[23:25:43] CCA.C14-UNION.i5.39867: // and i was told in training
+[23:25:54] CCA.C14-UNION.i5.39867: // that breacher was on the side where the lock is
+[23:25:58] CCA.C14-UNION.i5.39867: // and everyone was arguing about it
+[23:26:02] CCA.C14-UNION.i5.39867: // so i am now confused
+[23:26:19] CCA.C14-UNION.EpU.72633: // Step 1: A unit of any rank will say “Stack” This signifies units they are preparing to breach the room. When this is said, units will line up on the wall parallel to the door.
+[23:27:01] CCA.C14-UNION.EpU.72633: // And remember that it's never said who gets to say the words, it's assumed to be the highest ranking officer
+[23:27:15] CCA.C14-SCN.49218: // we should do a ration cycle
+[23:27:18] CCA.C14-UNION.i5.39867: // i was told pointman
+[23:27:21] CCA.C14-UNION.i5.39867: // says stack lock inject
+[23:27:22] CCA.C14-UNION.i5.39867: // but ok
+[23:27:35] CCA.C14-UNION.i5.39867: // guess i was trained wrong
+[23:27:36] CCA.C14-UNION.EpU.72633: // Our training was very different from each other
+[23:27:43] CCA.C14-SCN.49218: // we should do a ration cycle and stop bickering
+[23:29:42] CCA.C14-UNION.EpU.72633: // This actually should be addressed....
+[23:29:44] CCA.C14-UNION.i5.39867: // i was trained by Q and chief with them arguing about positions
+[23:29:50] CCA.C14-UNION.i5.39867: // in the breaching section
+[23:29:55] CCA.C14-UNION.i5.39867: // and i was never told what exactly was right
+[23:29:57] CCA.C14-SCN.49218: // all they did was argue
+[23:29:59] CCA.C14-UNION.i5.39867: // when we were being trained
+[23:30:12] CCA.C14-UNION.i5.39867: // when i was pointman, i always said "stack lock inject" and was told it was right
+[23:30:15] CCA.C14-SCN.49218: // also ration cycle
+[23:30:33] CCA.C14-UNION.i5.39867: // id go on emily to get my rations but im scared ill crash again, since its on 32 bit and i happed
+[23:30:37] CCA.C14-UNION.i5.39867: // it happened still*
+[23:30:47] CCA.C14-UNION.EpU.72633: // Fine i'll start one.
+[23:30:56] CCA.C14-SCN.49218: // e
+[23:31:02] CCA.C14-UNION.EpU.72633: /radio Officers, move to 10-20 Ration distribution.
+[23:31:06] CCA.C14-SCN.49218: // q can i use /dispatch for it
+[23:31:08] CCA.C14-UNION.i5.39867: /radio Copy that, 10-76.
+[23:31:11] CCA.C14-UNION.EpU.72633: // I can just do it
+[23:31:15] CCA.C14-SCN.49218: // oh
+[23:31:16] CCA.C14-UNION.EpU.72633: // Since I have that right
+[23:31:55] CCA.C14-UNION.EpU.72633: // Anybody who wants to fix ratio go for it please ;-;
+[23:32:00] CCA.C14-UNION.i5.39867: // not it
+[23:32:08] CCA.C14-UNION.EpU.72633: // Bruh
+[23:32:30] CCA.C14-UNION.i5.39867: // need more hours, cant go on the character i want 
+[23:32:43] CCA.C14-UNION.i5.39867: // for god knows what reason
+[23:32:51] CCA.C14-UNION.EpU.72633: // Alrighty......I don't know if this'll work so void it if dispatch just says "rations"
+[23:33:02] CCA.C14-UNION.EpU.72633: /dispatch rations
+[23:33:04] CCA.C14-UNION.EpU.72633: // Fuck
+[23:33:10] CCA.C14-UNION.i5.39867: // i dont think it has a voice line my man
+[23:33:11] CCA.C14-UNION.EpU.72633: // Uh......I don't know the command
+[23:33:14] CCA.C14-SCN.49218: // you need the actual rations
+[23:33:19] CCA.C14-SCN.49218: // wait no
+[23:33:23] CCA.C14-SCN.49218: // its a copy and paste
+[23:33:27] CCA.C14-UNION.EpU.72633: // Where?
+[23:33:31] CCA.C14-SCN.49218: // somewhere
+[23:33:34] CCA.C14-SCN.49218: // q has it
+[23:33:34] CCA.C14-UNION.i5.39867: // it doesnt have a voice line, you have to write it yourself
+[23:33:49] CCA.C14-UNION.EpU.72633: // Welp nevermind void it until Q gets back and can send me it
+[23:33:50] CCA.C14-UNION.i5.39867: // just say ration distrubution is now in affect at train station, 1 hour to collect ration, cwu are subject to priorty distrubution
+[23:34:02] CCA.C14-UNION.i5.39867: // thats all the info you need to add
+[23:34:15] CCA.C14-SCN.49218: // Attention citizens, rations are being distrubuted at the trainstation. Reminder: CWU has priority line access
+[23:34:32] CCA.C14-UNION.i5.39867: // ollie has a different message than Q 
+[23:34:37] CCA.C14-UNION.EpU.72633: // Ehhhhhhhhhhhhhhhhhhhhhhh I swear Dispatch has a ration voice line
+[23:34:39] CCA.C14-UNION.i5.39867: // that he posts for rations
+[23:34:51] CCA.C14-UNION.EpU.72633: // I swear I've heard it before ;-;
+[23:34:58] CCA.C14-UNION.i5.39867: // you dont need a voice line, whenever Q and ollie do it there isnt a voice line
+[23:35:00] Hans Weiß: // there should be a button (at least i've seen it on most maps/servers) that does it
+[23:35:06] CCA.C14-SCN.49218: // nope
+[23:35:07] CCA.C14-UNION.i5.39867: // yeah not on this map
+[23:35:10] CCA.C14-UNION.i5.39867: // they do it manually usually
+[23:35:12] CCA.C14-UNION.EpU.72633: // Sadly ;-;
+[23:35:23] CCA.C14-UNION.i5.39867: // epu just make your own message lol
+[23:35:25] CCA.C14-SCN.49218: // want me to do it
+[23:35:31] CCA.C14-UNION.i5.39867: // yes pls
+[23:35:39] CCA.C14-SCN.49218: /dispatch Attention citizens, rations are being distrubuted at the trainstation. Reminder: CWU has priority line access
+[23:35:47] CCA.C14-UNION.EpU.72633: // Thank you ;-;
+[23:35:56] CCA.C14-UNION.i5.39867: // epu why are you scared to dispatch
+[23:35:58] CCA.C14-UNION.i5.39867: // rations
+[23:35:59] CCA.C14-UNION.i5.39867: // lol
+[23:36:09] CCA.C14-UNION.i5.39867: Evening
+[23:36:10] CCA.C14-UNION.i5.39867: apply
+[23:36:11] CCA.C14-SCN.49218: // it broadcats to the whole server its scary
+[23:36:11] CCA.C14-UNION.EpU.72633: // because I'm a worrying little bitch
+[23:36:13] Hans Weiß: /apply
+[23:36:21] CCA.C14-UNION.i5.39867: // worrying about waht, you can just void it
+[23:36:30] CCA.C14-SCN.49218<STEAM_0:0:193599766> changed their name to CCA.C14-GRID.i4.36307
+[23:36:35] CCA.C14-UNION.i5.39867: /me taps into his pda, before placing down one standard, blue coloured packet.
+[23:36:39] CCA.C14-GRID.i4.36307<STEAM_0:0:193599766> changed their name to Janet Fraiser
+[23:36:40] CCA.C14-UNION.i5.39867: Here you go
+[23:36:43] CCA.C14-UNION.EpU.72633: // And if I fuck up on spelling or something on dispatch it's pretty fucked ;-;
+[23:36:44] CCA.C14-UNION.i5.39867: Move along
+[23:36:45] Janet Fraiser<STEAM_0:0:193599766> changed their name to CCA.C14-GRID.i4.36307
+[23:36:46] Hans Weiß: Thank you officer.
+[23:36:53] CCA.C14-UNION.EpU.72633: /viewcamera
+[23:37:01] CCA.C14-UNION.EpU.72633: /viewcamera
+[23:37:02] CCA.C14-UNION.i5.39867: // who cares about spelling everyone will know what you mean
+[23:37:04] CCA.C14-GRID.i4.36307<STEAM_0:0:193599766> changed their name to Janet Fraiser
+[23:37:08] CCA.C14-UNION.EpU.72633: // ;-; 
+[23:37:10] Janet Fraiser: // im coming on fraiser
+[23:37:14] CCA.C14-UNION.EpU.72633: // BET
+[23:37:15] CCA.C14-UNION.i5.39867: // not every human has perfect spelling
+[23:38:03] CCA.C14-UNION.i5.39867: // epu you can get your ration on a different character
+[23:38:10] CCA.C14-UNION.EpU.72633: // sure
+[23:38:15] CCA.C14-UNION.EpU.72633<STEAM_0:1:17219621> changed their name to Journey Robertson
+[23:38:17] CCA.C14-UNION.i5.39867: // ill be here 
+[23:38:29] CCA.C14-UNION.i5.39867: Evening
+[23:38:30] CCA.C14-UNION.i5.39867: apply
+[23:38:31] Janet Fraiser: /apply
+[23:38:47] Journey Robertson: // That moment when the EpU is scared to fucking death to use any of his rights because he's a little bitch
+[23:38:55] CCA.C14-UNION.i5.39867: /me taps onto his PDA, before sliding a blue coloured packet through the window
+[23:39:01] CCA.C14-UNION.i5.39867: Enjoy
+[23:39:01] Journey Robertson: // And thinks he's gonna fuck it up somehow
+[23:39:02] Janet Fraiser: // make the scanner do it
+[23:39:04] Hans Weiß: // damn shots fired aight
+[23:39:05] Journey Robertson: // Ye
+[23:39:14] CCA.C14-UNION.i5.39867: Good evening, apply
+[23:39:15] Janet Fraiser<STEAM_0:0:193599766> changed their name to CCA.C14-GRID.i4.36307
+[23:39:16] Journey Robertson: Ahh, hello sir
+[23:39:18] Journey Robertson: /apply
+[23:39:21] Journey Robertson: .// The fuck?
+[23:39:25] Journey Robertson: .// One sec
+[23:39:33] Journey Robertson: /apply
+[23:39:43] Journey Robertson: .// uh...............it's says that I don't have a CID
+[23:39:50] Journey Robertson: .// When I try to apply
+[23:39:58] Journey Robertson: /name
+[23:39:59] CCA.C14-UNION.i5.39867: I have one
+[23:40:07] CCA.C14-UNION.i5.39867: Alright
+[23:40:16] Journey Robertson: .// I have to do /name instead ;-;
+[23:40:31] CCA.C14-UNION.i5.39867: /me checks something on his PDA, before sliding a blue coloured ration packet through the window.
+[23:40:35] CCA.C14-GRID.i4.36307: // MY PING
+[23:40:36] CCA.C14-UNION.i5.39867: Enjoy, sir
+[23:40:39] Journey Robertson: .// FUCK
+[23:40:57] Journey Robertson: // All of that rations in the cabinets are from me ;-;
+[23:41:03] Journey Robertson: // My char will go hungry
+[23:41:04] CCA.C14-UNION.i5.39867: .// this one might not be
+[23:41:08] Journey Robertson: .// Nope
+[23:41:23] Journey Robertson: // My char has been cursed with it's master who plays QrM
+[23:41:24] Hans Weiß: // too bad so sad
+[23:41:33] Journey Robertson: .// FUCK
+[23:41:45] CCA.C14-UNION.i5.39867: .// hold up
+[23:41:54] CCA.C14-UNION.i5.39867: .// void the
+[23:42:02] CCA.C14-UNION.i5.39867: .// bunch of ration pakcets on the ground
+[23:42:11] Hans Weiß: // actually, hmmm i could sell you some rations
+[23:42:17] CCA.C14-UNION.i5.39867: // i have an idea
+[23:42:19] Hans Weiß: // might be illegal possibly
+[23:42:24] Journey Robertson: // All of the rations are mine
+[23:42:32] Journey Robertson: // Since I resupply them as QrM
+[23:42:33] CCA.C14-UNION.i5.39867: .// just pretend its a packet
+[23:42:38] CCA.C14-UNION.i5.39867: .// i gave you the contents
+[23:42:39] Hans Weiß: // damn aight
+[23:42:55] Journey Robertson: // So the units have to open them in their inventory and give them to me that way ;-;
+[23:43:01] CCA.C14-UNION.i5.39867: // we figured it out, i just gave him the contents of the packet lol
+[23:43:02] CCA.C14-GRID.i4.36307: I don't miss standard rations
+[23:43:07] CCA.C14-UNION.i5.39867: Yeah
+[23:43:12] CCA.C14-UNION.i5.39867: Neither
+[23:43:15] Journey Robertson<STEAM_0:1:17219621> changed their name to CCA.C14-UNION.EpU.72633
+[23:43:26] CCA.C14-GRID.i4.36307: so,
+[23:43:29] CCA.C14-UNION.EpU.72633: Hm?
+[23:43:30] CCA.C14-GRID.i4.36307: where are you from?
+[23:43:34] CCA.C14-UNION.i5.39867: Huh?
+[23:43:39] CCA.C14-UNION.EpU.72633: Hm...why do you ask?
+[23:43:47] CCA.C14-UNION.i5.39867: Me?
+[23:43:49] CCA.C14-GRID.i4.36307: just trying to strike up conversation
+[23:44:04] CCA.C14-GRID.i4.36307: .// e i thought i was talking to the i5 
+[23:44:11] CCA.C14-UNION.i5.39867: Yorkshire
+[23:44:16] CCA.C14-UNION.i5.39867: Originally
+[23:44:21] CCA.C14-UNION.i5.39867: Was a history teacher
+[23:44:29] CCA.C14-UNION.i5.39867: First city was 45.
+[23:44:47] CCA.C14-UNION.EpU.72633: Hm....pre-war I come from boston....but after the war I came from city08 and joined up with the CCA
+[23:44:57] CCA.C14-UNION.i5.39867: Got passed through into 14, then here.
+[23:45:04] CCA.C14-GRID.i4.36307: huh
+[23:45:06] CCA.C14-UNION.i5.39867: .// no
+[23:45:09] CCA.C14-UNION.i5.39867: .// 18***
+[23:45:12] CCA.C14-UNION.EpU.72633: Then was ex-filled to city 08
+[23:45:17] CCA.C14-UNION.i5.39867: I meant 18, not 14.
+[23:45:21] CCA.C14-UNION.EpU.72633: .// 014 sorry
+[23:45:28] Joseph Kimsler<STEAM_0:1:53097688> spawned sent pfx2_00
+[23:45:31] Joseph Kimsler<STEAM_0:1:53097688> spawned sent pfx2_00
+[23:45:32] CCA.C14-UNION.EpU.72633: Since it was....well gonna fucking blo-
+[23:45:39] Joseph Kimsler<STEAM_0:1:53097688> spawned NPC npc_chumtoad
+[23:45:41] CCA.C14-UNION.i5.39867: // the smg is fucking
+[23:45:44] CCA.C14-UNION.i5.39867: /toggleraise
+[23:45:45] Joseph Kimsler: //,issing texture yes
+[23:45:46] Hans Weiß: // kinky
+[23:45:47] Joseph Kimsler: //y ose
+[23:45:52] Joseph Kimsler: /me would take out his combat knife and cut the individual's ties.
+[23:45:55] CCA.C14-UNION.i5.39867: What the fuck?
+[23:45:57] CCA.C14-UNION.i5.39867: /toggleraise
+[23:46:05] CCA.C14-UNION.EpU.72633: /radio Reporting sparkles in the ration distribution center.
+[23:46:12] CCA.C14-GRID.i4.36307: /toggleraise
+[23:46:17] Joseph Kimsler<STEAM_0:1:53097688> spawned sent pfx2_00
+[23:46:19] Joseph Kimsler<STEAM_0:1:53097688> spawned sent pfx2_00
+[23:46:20] CCA.C14-UNION.EpU.72633: // I LOVE THE TFA WEAPONS 
+[23:46:21] Joseph Kimsler<STEAM_0:1:53097688> spawned sent pfx2_00
+[23:46:22] CCA.C14-UNION.i5.39867: /radio What do these mean?
+[23:46:23] Joseph Kimsler<STEAM_0:1:53097688> spawned sent pfx2_00
+[23:46:27] Joseph Kimsler: //yo tambien
+[23:46:30] CCA.C14-UNION.i5.39867: // i dont, the SMG is a missing texture
+[23:46:44] CCA.C14-GRID.i4.36307: as i was going to say before... this
+[23:46:52] CCA.C14-UNION.i5.39867: /toggleraise
+[23:46:53] CCA.C14-UNION.i5.39867: /toggleraise
+[23:46:54] CCA.C14-UNION.i5.39867: /toggleraise
+[23:46:57] CCA.C14-UNION.i5.39867: /toggleraise
+[23:46:57] CCA.C14-GRID.i4.36307: I'm from Quebec, pre-war at least
+[23:47:09] CCA.C14-UNION.EpU.72633: Hm.....units move up. Gun up
+[23:47:10] CCA.C14-UNION.i5.39867: Can we walk through them?
+[23:47:14] CCA.C14-UNION.i5.39867: No ammo
+[23:47:14] CCA.C14-UNION.i5.39867: /toggleraise
+[23:47:23] Joseph Kimsler cleared decals
+[23:47:23] Joseph Kimsler cleared decals
+[23:47:33] Joseph Kimsler<STEAM_0:1:53097688> spawned NPC npc_chumtoad
+[23:47:33] Joseph Kimsler<STEAM_0:1:53097688> spawned NPC npc_frostsquid
+[23:47:38] CCA.C14-UNION.i5.39867: /toggleraise
+[23:47:39] CCA.C14-GRID.i4.36307: AH SHIT
+[23:47:44] CCA.C14-UNION.i5.39867: /radio Ice xenian squid
+[23:47:47] CCA.C14-UNION.i5.39867: /radio Amputated
+[23:47:49] Hans Weiß: /ge What the fuck
+[23:47:52] CCA.C14-UNION.i5.39867: /radio Checking for miscount
+[23:47:55] CCA.C14-UNION.i5.39867: /toggleraise
+[23:47:57] Joseph Kimsler: //ice cephalocows
+[23:48:10] CCA.C14-GRID.i4.36307: /toggleraise
+[23:48:14] CCA.C14-GRID.i4.36307: inside
+[23:48:17] Joseph Kimsler<STEAM_0:1:53097688> changed their name to Eric Brown
+[23:48:18] CCA.C14-UNION.EpU.72633: // BURST FIRE MP7
+[23:48:20] CCA.C14-UNION.EpU.72633: // YES
+[23:48:21] Eric Brown: /doorsethidden true
+[23:48:52] CCA.C14-UNION.EpU.72633: /radio No misscounts detected, returning to standard duties
+[23:49:00] CCA.C14-UNION.EpU.72633: Alirght
+[23:49:10] CCA.C14-GRID.i4.36307: /me picks up the broken scanner
+[23:49:14] CCA.C14-UNION.EpU.72633: Ugh.....if you see anymore report and amputate
+[23:49:15] Eric Brown<STEAM_0:1:53097688> spawned sent pfx2_00
+[23:49:19] CCA.C14-UNION.i5.39867: Need resupply
+[23:49:23] CCA.C14-UNION.i5.39867: Moving to storm
+[23:49:25] Eric Brown<STEAM_0:1:53097688> spawned sent pfx2_00
+[23:49:26] CCA.C14-UNION.EpU.72633: Copy, i'll get a Qrm
+[23:49:35] CCA.C14-UNION.i5.39867: /radio Unit is updating 10-20 to outpost storm, requesting QrM for resupply.
+[23:49:37] Hans Weiß: What the hell?
+[23:49:38] CCA.C14-UNION.EpU.72633<STEAM_0:1:17219621> changed their name to CCA.C14-QrM.98240
+[23:49:38] Eric Brown<STEAM_0:1:53097688> spawned NPC npc_chumtoad
+[23:49:41] CCA.C14-QrM.98240: /radio Copy that
+[23:49:45] CCA.C14-GRID.i4.36307: /me tosses it towards the dumpster
+[23:49:47] CCA.C14-GRID.i4.36307: /roll str
+[23:49:50] CCA.C14-GRID.i4.36307: .// idc
+[23:50:20] CCA.C14-QrM.98240: Do you see my pain?
+[23:50:29] CCA.C14-UNION.i5.39867: All of my ammo was depleted on amputating a flaming cephalocow-
+[23:50:32] CCA.C14-UNION.i5.39867: What?
+[23:50:40] CCA.C14-UNION.i5.39867: .// i dont think they're icly in a pile
+[23:50:40] Hans Weiß: Officer
+[23:50:43] CCA.C14-GRID.i4.36307: it's fine now
+[23:50:48] Hans Weiß: There is something in my apartment/
+[23:50:52] CCA.C14-GRID.i4.36307: oh?
+[23:50:56] CCA.C14-QrM.98240: /me Points to the Bio-locks (with no where to put them so he has to make room for them.
+[23:50:57] Hans Weiß: Weird sparkly things.
+[23:51:01] Hans Weiß: And a frog.
+[23:51:09] CCA.C14-GRID.i4.36307: /radio 10-91 reports sparkles in their apartment, as well as a chumtoad
+[23:51:09] CCA.C14-QrM.98240: I don't have anywhere to put them
+[23:51:16] CCA.C14-GRID.i4.36307: stay out of the apartment
+[23:51:18] CCA.C14-QrM.98240: /radio 10-4
+[23:51:25] Hans Weiß: Alright, it's 2b by the way
+[23:51:35] CCA.C14-GRID.i4.36307: /radio 2B, requesting backup
+[23:51:39] CCA.C14-UNION.i5.39867: Hm
+[23:51:40] CCA.C14-UNION.i5.39867: Thank you
+[23:51:47] CCA.C14-QrM.98240: Go help your friend
+[23:51:48] CCA.C14-UNION.i5.39867: /radio Unit responding, 10-76.
+[23:51:52] CCA.C14-QrM.98240<STEAM_0:1:17219621> changed their name to CCA.C14-UNION.EpU.72633
+[23:51:56] CCA.C14-UNION.EpU.72633: Alright
+[23:52:05] CCA.C14-UNION.EpU.72633: Lets wait for the i5
+[23:52:14] CCA.C14-GRID.i4.36307: i wonder if the other cities have sparkles
+[23:52:18] CCA.C14-UNION.EpU.72633: They do
+[23:52:36] CCA.C14-GRID.i4.36307: /toggleraise
+[23:52:39] CCA.C14-UNION.i5.39867: /toggleraise
+[23:52:44] CCA.C14-UNION.EpU.72633: move it
+[23:52:47] CCA.C14-GRID.i4.36307: leave them
+[23:52:49] CCA.C14-UNION.EpU.72633: i5
+[23:52:50] CCA.C14-UNION.EpU.72633: Stop it
+[23:53:02] CCA.C14-GRID.i4.36307: /toggleraise
+[23:53:11] CCA.C14-UNION.i5.39867: // was that ic
+[23:53:14] CCA.C14-GRID.i4.36307: /toggleraise
+[23:53:15] Eric Brown: //no and yes
+[23:53:21] Eric Brown<STEAM_0:1:53097688> spawned model models/props_c17/furnituretable001a.mdl
+[23:53:23] CCA.C14-UNION.i5.39867: // what does that mean
+[23:53:23] CCA.C14-GRID.i4.36307: /y HEY
+[23:53:25] CCA.C14-UNION.EpU.72633: Ugh....
+[23:53:32] CCA.C14-UNION.i5.39867: /y What the fuck?
+[23:53:35] CCA.C14-UNION.EpU.72633: UNION, stand back
+[23:53:41] CCA.C14-UNION.EpU.72633: Stack
+[23:53:41] CCA.C14-UNION.i5.39867: copy
+[23:53:45] CCA.C14-UNION.EpU.72633: Lock
+[23:53:47] CCA.C14-GRID.i4.36307: /toggleraise
+[23:53:47] CCA.C14-GRID.i4.36307: /toggleraise
+[23:53:52] CCA.C14-UNION.EpU.72633: Uh....
+[23:53:56] Eric Brown<STEAM_0:1:53097688> used the tool material on models/props_c17/furnituretable001a.mdl
+[23:53:59] CCA.C14-GRID.i4.36307: that's a nice-
+[23:54:03] CCA.C14-GRID.i4.36307: did that table just
+[23:54:06] CCA.C14-UNION.EpU.72633: I.....
+[23:54:09] CCA.C14-UNION.EpU.72633: report it after
+[23:54:10] CCA.C14-UNION.i5.39867: I saw the alien
+[23:54:20] CCA.C14-GRID.i4.36307: /fr dear lord
+[23:54:20] CCA.C14-UNION.i5.39867: /toggleraise
+[23:54:26] CCA.C14-UNION.i5.39867: /toggleraise
+[23:54:32] Eric Brown<STEAM_0:1:53097688> spawned NPC npc_chumtoad
+[23:54:34] Eric Brown<STEAM_0:1:53097688> spawned NPC npc_chumtoad
+[23:54:35] CCA.C14-UNION.i5.39867: /toggleraise
+[23:54:36] Eric Brown<STEAM_0:1:53097688> spawned NPC npc_chumtoad
+[23:54:36] CCA.C14-UNION.EpU.72633: Looks clean
+[23:54:37] CCA.C14-UNION.i5.39867: /toggleraise
+[23:54:40] Eric Brown<STEAM_0:1:53097688> spawned NPC npc_chumtoad
+[23:54:41] Eric Brown<STEAM_0:1:53097688> spawned NPC npc_chumtoad
+[23:54:44] Eric Brown<STEAM_0:1:53097688> spawned NPC npc_chumtoad
+[23:54:48] Eric Brown<STEAM_0:1:53097688> spawned NPC npc_chumtoad
+[23:54:49] CCA.C14-GRID.i4.36307: // i wish the smg wasn't a missing texture
+[23:54:52] Eric Brown: //same :(
+[23:54:57] Eric Brown<STEAM_0:1:53097688> spawned NPC npc_chumtoad
+[23:54:57] CCA.C14-UNION.i5.39867: // i think you need mmod
+[23:54:59] Eric Brown<STEAM_0:1:53097688> spawned NPC npc_chumtoad
+[23:55:00] Eric Brown<STEAM_0:1:53097688> spawned NPC npc_chumtoad
+[23:55:01] CCA.C14-UNION.EpU.72633: /radio Unit reporting.....a table....teleported away right in front of us.
+[23:55:05] CCA.C14-UNION.i5.39867: // to see it normally
+[23:55:11] Eric Brown: //no you it didn't used to be oen
+[23:55:17] CCA.C14-GRID.i4.36307: /toggleraise
+[23:55:21] Eric Brown: /y GO! HIDE!
+[23:55:22] CCA.C14-UNION.EpU.72633: /y Let us out
+[23:55:22] Hans Weiß: /yell What the fuck!
+[23:55:29] CCA.C14-UNION.i5.39867: /y I saw thea lien before
+[23:55:30] CCA.C14-UNION.EpU.72633: .// bruh
+[23:55:34] CCA.C14-GRID.i4.36307: // its a wood doir
+[23:55:35] Eric Brown: .//you can't see me through the door
+[23:55:45] CCA.C14-GRID.i4.36307: /toggleraise
+[23:55:49] CCA.C14-UNION.EpU.72633: .// I wasn't shooting at you
+[23:55:51] CCA.C14-GRID.i4.36307: /toggleraise
+[23:55:52] Eric Brown: /it Upon shooting the door, you see it's not locked.
+[23:55:53] CCA.C14-UNION.EpU.72633: .// But okay
+[23:55:53] Eric Brown: .//ah
+[23:55:53] CCA.C14-GRID.i4.36307: /toggleraise
+[23:55:58] CCA.C14-UNION.EpU.72633: Ugh....
+[23:55:58] Eric Brown: /it But it's being held shot.
+[23:56:03] CCA.C14-UNION.i5.39867: /y Could possibly be the unknown species, SeC says leave it alone
+[23:56:15] CCA.C14-UNION.i5.39867: /y Apparently something with that crystal can run free
+[23:56:16] Eric Brown<STEAM_0:1:53097688> spawned NPC npc_devilsquid
+[23:56:19] CCA.C14-UNION.EpU.72633: /y XENOBE, LET US OUT AND ALLOW US TO TALK-
+[23:56:20] CCA.C14-UNION.i5.39867: /y shit
+[23:56:22] CCA.C14-UNION.i5.39867: /toggleraise
+[23:56:24] CCA.C14-UNION.i5.39867: /toggleraise
+[23:56:30] CCA.C14-GRID.i4.36307: /toggleraise
+[23:56:31] CCA.C14-UNION.i5.39867: /y HELP
+[23:56:31] CCA.C14-UNION.i5.39867 killed CCA.C14-UNION.i5.39867
+[23:56:33] Eric Brown<STEAM_0:1:53097688> spawned NPC npc_devilsquid
+[23:56:40] CCA.C14-UNION.i5.39867: // tfw
+[23:56:41] CCA.C14-GRID.i4.36307 was killed by npc_devilsquid
+[23:56:48] CCA.C14-UNION.i5.39867: // does too much damage
+[23:56:53] Hans Weiß: // mfw my apartment is being set on fire
+[23:56:54] CCA.C14-UNION.EpU.72633: // Burst fire is bad ;-;
+[23:56:55] Eric Brown: //tfw yeah i need ot nerf some shit
+[23:56:55] CCA.C14-UNION.i5.39867: // 1 bullsquid just melted all my armor and health
+[23:57:01] CCA.C14-UNION.i5.39867: // lost all my ammo
+[23:57:04] CCA.C14-GRID.i4.36307: // we need the ammos
+[23:57:05] Hans Weiß: Help
+[23:57:06] CCA.C14-UNION.EpU.72633: /radio I NEED A UNIT DOWN TO APARTMENT 2A
+[23:57:13] CCA.C14-UNION.i5.39867: /toggleraise
+[23:57:16] CCA.C14-UNION.i5.39867: /radio Copy, 10-76.
+[23:57:18] CCA.C14-UNION.EpU.72633: /radioyell RIGHT NOW, IT'S ON FIRE
+[23:57:21] Hans Weiß: /yell Help!
+[23:57:26] Eric Brown: /it The monster is gone.
+[23:57:29] CCA.C14-GRID.i4.36307: // we should have a fire brigade
+[23:57:30] Eric Brown: //you guys will get ammo back
+[23:57:31] Eric Brown: //becuase
+[23:57:32] Eric Brown: //yeah
+[23:57:35] Eric Brown: //mini evnet thing
+[23:57:40] Hans Weiß: /yell Help me!
+[23:57:41] CCA.C14-UNION.i5.39867:  // cremator
+[23:57:43] CCA.C14-UNION.i5.39867: // cremator
+[23:57:47] CCA.C14-UNION.i5.39867: // extinguishes
+[23:57:48] Hans Weiß: // bruh
+[23:57:54] CCA.C14-UNION.i5.39867: /toggleraise
+[23:57:55] CCA.C14-UNION.EpU.72633: /radioyell UNKOWN XENOBE HAS VANISHED
+[23:58:06] CCA.C14-UNION.i5.39867: /radio We're at your 10-20, EpU
+[23:58:06] Eric Brown: /charsetmodel eric models/gman_high.mdl
+[23:58:20] Hans Weiß: /yell Help me!
+[23:58:20] CCA.C14-UNION.i5.39867: /radio DISPATCH, 10-55D.
+[23:58:29] CCA.C14-UNION.i5.39867: /y CITIZEN
+[23:58:30] CCA.C14-UNION.EpU.72633: Yeah....
+[23:58:35] Eric Brown: .//hold on i gotta do a /it
+[23:58:39] Eric Brown: /event hold up, /it time
+[23:58:43] Eric Brown: //or /event
+[23:58:54] CCA.C14-UNION.EpU.72633: .// If I run into it to save him is it suicide?
+[23:59:03] CCA.C14-UNION.i5.39867: // epu trying to be a hero XDDD
+[23:59:05] CCA.C14-GRID.i4.36307: .// why would you run in to save him
+[23:59:10] Eric Brown: /event Without any explanation, you a bright orange light shining into the room.
+[23:59:12] CCA.C14-UNION.i5.39867: // he can crawl under the smoke
+[23:59:16] CCA.C14-UNION.i5.39867: // avoid the fire
+[23:59:16] Eric Brown: /event All at once, the fire goes out.
+[23:59:22] Eric Brown extinguished 0 fires.
+[23:59:24] CCA.C14-GRID.i4.36307: the fuck
+[23:59:26] Eric Brown extinguished 3 fires.
+[23:59:28] Eric Brown extinguished 0 fires.
+[23:59:30] Eric Brown extinguished 0 fires.
+[23:59:32] CCA.C14-UNION.EpU.72633: Ugh......i fucking hate this magic shit
+[23:59:32] CCA.C14-UNION.i5.39867: /me covers his eyes, blinded by the orange light
+[23:59:33] CCA.C14-UNION.i5.39867: Fuck!
+[23:59:36] CCA.C14-UNION.i5.39867: What is that!
+[23:59:42] Eric Brown extinguished all 11 fires.
+[23:59:44] CCA.C14-UNION.EpU.72633: Civvie, get out of here
+[23:59:45] CCA.C14-UNION.i5.39867: Hm
+[23:59:47] CCA.C14-GRID.i4.36307: i think we need a damn priest
+[23:59:47] CCA.C14-UNION.i5.39867: vacate
+[23:59:49] Hans Weiß: I...I'm not gonna question that.
+[23:59:56] CCA.C14-GRID.i4.36307: /toggleraise
+[23:59:56] Eric Brown: //God cannot help you now
+<Logging continued in "data/ulx_logs/07-21-20.txt">

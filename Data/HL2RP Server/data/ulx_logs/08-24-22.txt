@@ -1,0 +1,1281 @@
+[03:23:13] New map: rp_industrial17_v1
+[11:04:08] Client "Nums" connected.
+[11:06:46] Client "Nums" spawned in server <STEAM_0:1:196547442> (took 158 seconds).
+[11:07:46] Nums<STEAM_0:1:196547442> changed their name to Finan O'Conall
+[11:10:08] Finan O'Conall was killed by npc_zombine
+[11:13:43] Finan O'Conall was killed by npc_zombie
+[11:14:50] Finan O'Conall<STEAM_0:1:196547442> changed their name to CCA.C17-RCT.77460
+[11:17:17] CCA.C17-RCT.77460<STEAM_0:1:196547442> changed their name to Finan O'Conall
+[11:19:23] Finan O'Conall was killed by npc_headcrab
+[12:09:50] Client "matt saton" connected.
+[12:12:48] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 178 seconds).
+[12:19:03] Client "DRD" connected.
+[12:20:00] matt saton<STEAM_0:1:53097688> changed their name to Andrew Cloverman
+[12:20:28] Client "DRD" spawned in server <STEAM_0:0:193599766> (took 85 seconds).
+[12:21:24] DRD<STEAM_0:0:193599766> changed their name to CCA.C17-GRID.i1.23710
+[12:21:49] CCA.C17-GRID.i1.23710<STEAM_0:0:193599766> changed their name to Paul-Henri Cartier
+[12:22:17] Paul-Henri Cartier: /charsetmodel paul models/police_nemez.mdl
+[12:22:25] Paul-Henri Cartier: /chareditbodygroup paul
+[12:24:07] Paul-Henri Cartier: /toggleraise
+[12:25:50] Paul-Henri Cartier set the hp for Themself to 100
+[12:27:39] Paul-Henri Cartier<STEAM_0:0:193599766> spawned model models/xeon133/slider/slider_stand_12x12x24.mdl
+[12:27:51] Paul-Henri Cartier<STEAM_0:0:193599766> spawned model models/props_c17/briefcase001a.mdl
+[12:30:06] Dropped "Paul-Henri Cartier" from server<STEAM_0:0:193599766>
+[12:30:23] Client "FB|| light ROOM" connected.
+[12:31:52] Client "FB|| light ROOM" spawned in server <STEAM_0:1:17219621> (took 89 seconds).
+[12:33:02] FB|| light ROOM<STEAM_0:1:17219621> changed their name to CCA.C17-QrM.98240
+[12:33:04] CCA.C17-QrM.98240: // yo 
+[12:33:38] Andrew Cloverman to admins: oh drd would you mind uhhh
+[12:33:41] Andrew Cloverman to admins: training nums today
+[12:33:46] Andrew Cloverman to admins: i did the rank overview with him
+[12:34:51] Andrew Cloverman: //where did DRd go
+[12:34:54] CCA.C17-QrM.98240: // No clue 
+[12:35:01] CCA.C17-QrM.98240: // Q did you look at my addons I suggested ;-;
+[12:35:11] Andrew Cloverman: //i'm listening to my lecture and propping while i'm doing it now
+[12:35:12] Andrew Cloverman: //no*
+[12:35:17] CCA.C17-QrM.98240: // sad 
+[12:35:26] Andrew Cloverman: //that said i am unable to GM for now
+[12:36:01] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/combinefortification/personalbarricade.mdl
+[12:36:22] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_combine/combine_barricade_short02a.mdl
+[12:36:26] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_combine/combine_barricade_short02a.mdl
+[12:36:34] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/combinefortification/personalbarricade.mdl
+[12:36:34] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/combine_barricade_short02a.mdl
+[12:37:11] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_combine/combine_barricade_short02a.mdl
+[12:37:13] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_combine/combine_barricade_short03a.mdl
+[12:37:15] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_combine/combine_barricade_short01a.mdl
+[12:37:34] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/combine_barricade_short01a.mdl
+[12:37:36] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_combine/combine_binocular01.mdl
+[12:37:38] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_combine/combine_barricade_short01a.mdl
+[12:37:46] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/combine_barricade_short01a.mdl
+[12:37:47] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on maps/rp_industrial17_v1.bsp
+[12:37:50] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_combine/combine_barricade_short01a.mdl
+[12:38:08] Andrew Cloverman: //this guy sounds like sargon of akkad in that he's talking for way too long about some bullshit not at all related to the topic at hand
+[12:38:19] Andrew Cloverman: //unlike sargon of akkad my professor is not a sexist 
+[12:38:21] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/combine_barricade_short01a.mdl
+[12:38:30] Andrew Cloverman: //at least to my knowledge
+[12:38:31] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on maps/rp_industrial17_v1.bsp
+[12:38:34] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_combine/combine_light002a.mdl
+[12:38:36] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_combine/combine_light001b.mdl
+[12:38:38] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_combine/combine_light001a.mdl
+[12:38:38] CCA.C17-QrM.98240: // Ah, I see 
+[12:38:48] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/combine_light001a.mdl
+[12:38:50] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_combine/combine_barricade_short01a.mdl
+[12:38:55] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_combine/combine_barricade_short01a.mdl
+[12:39:12] CCA.C17-QrM.98240: // I love my doc I made for KILO because it's basically just saying. "Yeah these guys are fucking stupid and weird, but they do their job well so we let it slide"
+[12:39:18] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/combine_barricade_short01a.mdl
+[12:39:20] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/combine_barricade_short01a.mdl
+[12:39:21] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/combine_barricade_short01a.mdl
+[12:39:32] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/combine_barricade_short01a.mdl
+[12:39:33] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/combine_barricade_short01a.mdl
+[12:39:37] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_combine/combine_barricade_short01a.mdl
+[12:39:39] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_combine/combine_barricade_short03a.mdl
+[12:39:49] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_combine/combine_barricade_short03a.mdl
+[12:39:51] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_combine/combine_barricade_short03a.mdl
+[12:39:57] CCA.C17-QrM.98240<STEAM_0:1:17219621> changed their name to OTA.C17-KILO.OSS.66124
+[12:39:58] OTA.C17-KILO.OSS.66124 was killed by func_door
+[12:40:00] Andrew Cloverman<STEAM_0:1:53097688> used the tool nocollide on models/props_combine/combine_barricade_short03a.mdl
+[12:40:03] Andrew Cloverman<STEAM_0:1:53097688> used the tool nocollide on models/props_combine/combine_barricade_short03a.mdl
+[12:40:04] OTA.C17-KILO.OSS.66124: // making a PAC, ignore my existence 
+[12:40:13] Andrew Cloverman: //i'm like
+[12:40:19] Andrew Cloverman: //questioning if this is my astronomy class and not my busienss class
+[12:40:25] Andrew Cloverman: //but nope
+[12:40:27] Andrew Cloverman: //i just lookat it
+[12:40:28] OTA.C17-KILO.OSS.66124: // I can't equip my HMG 
+[12:40:29] OTA.C17-KILO.OSS.66124: // Hmmmm
+[12:40:30] Andrew Cloverman: //this is in fact my astronomy lecture
+[12:40:32] OTA.C17-KILO.OSS.66124: // Odd 
+[12:40:34] Andrew Cloverman: //yeah TFA fucked
+[12:40:40] OTA.C17-KILO.OSS.66124: // Uh, that's interesting 
+[12:40:45] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_combine/combine_barricade_short01a.mdl
+[12:40:53] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_combine/combine_barricade_short02a.mdl
+[12:40:54] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_combine/combine_barricade_short02a.mdl
+[12:40:56] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_combine/combine_barricade_short03a.mdl
+[12:40:57] OTA.C17-KILO.OSS.66124: // I think 7 feet in PAC is 1.124?
+[12:40:58] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_combine/combine_barricade_short01a.mdl
+[12:40:59] OTA.C17-KILO.OSS.66124: // lemme check 
+[12:41:06] Andrew Cloverman: //don't scale yourself 
+[12:41:10] Andrew Cloverman: //just adjust your bones
+[12:41:16] Andrew Cloverman: //move your spine2 up
+[12:41:20] Andrew Cloverman: //move your clavicles outward
+[12:41:23] OTA.C17-KILO.OSS.66124: // Why, I can get the exact heights via PAC 3 height 
+[12:41:25] Andrew Cloverman: //move your upper legs up just a little bit
+[12:41:34] Andrew Cloverman: //because moving your bones looks way fucking better
+[12:41:40] OTA.C17-KILO.OSS.66124: // That's a lot more work and bones, which can fuck with TP 
+[12:41:46] OTA.C17-KILO.OSS.66124: // If you have too many that is 
+[12:41:48] Andrew Cloverman teleported to OTA.C17-KILO.OSS.66124
+[12:41:53] Andrew Cloverman: .//lookat me
+[12:41:57] Andrew Cloverman: .//so this is me normally right
+[12:42:00] OTA.C17-KILO.OSS.66124: /looc ahuh 
+[12:42:06] Andrew Cloverman: .//now watch what happens when i put on my grid i3 pac
+[12:42:13] Andrew Cloverman: .//see that
+[12:42:16] Andrew Cloverman: .//i look stronker 
+[12:42:17] Andrew Cloverman: .//and taller
+[12:42:21] OTA.C17-KILO.OSS.66124: /looc you're still a worker for me 
+[12:42:27] OTA.C17-KILO.OSS.66124: /looc PAC is fucked on my end or something, unsure why 
+[12:42:27] Andrew Cloverman: .//right, focus on my height
+[12:42:33] OTA.C17-KILO.OSS.66124: /looc you're normal entirely 
+[12:42:34] Andrew Cloverman: .//strange, other people have been seeing it
+[12:42:50] OTA.C17-KILO.OSS.66124: /looc my problem with doing that 
+[12:42:54] Andrew Cloverman: .//do i look like a giraffe right now
+[12:42:59] OTA.C17-KILO.OSS.66124: /looc having too many bones can fuck with TP 
+[12:43:03] OTA.C17-KILO.OSS.66124: /looc alos you look normal 
+[12:43:07] Andrew Cloverman: .//oh yeah oyur pac is fucked then
+[12:43:14] Andrew Cloverman: ./because let me send you a screenshot
+[12:43:18] OTA.C17-KILO.OSS.66124: /looc It literally works on every server but this one 
+[12:43:22] OTA.C17-KILO.OSS.66124: Bitch cock 
+[12:43:35] Andrew Cloverman: .//still nothing?
+[12:43:37] OTA.C17-KILO.OSS.66124: /looc nothing 
+[12:43:40] Andrew Cloverman: .//weird
+[12:43:50] OTA.C17-KILO.OSS.66124: /looc no idea why, it works on every server 
+[12:43:53] OTA.C17-KILO.OSS.66124: /looc am I bigger on your end?
+[12:43:54] Andrew Cloverman: .//alright the real lecture is starting be back later
+[12:43:59] Andrew Cloverman: .//hodl still
+[12:44:03] OTA.C17-KILO.OSS.66124: /looc It should be very noticable 
+[12:44:06] Andrew Cloverman: .//then no
+[12:44:09] Andrew Cloverman returned Themself to their original position
+[12:44:09] Andrew Cloverman: !return
+[12:44:14] OTA.C17-KILO.OSS.66124: /looc I'll show you my actual height IC 
+[12:45:10] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/hlvr/combine_hazardprops/combinehazardprops_warningsign.mdl
+[12:45:39] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/hlvr/combine_hazardprops/combinehazardprops_container.mdl
+[12:45:52] Andrew Cloverman: /chargiveitem andrew "ota filteR"
+[12:46:27] OTA.C17-KILO.OSS.66124: // be back 
+[12:46:31] Dropped "OTA.C17-KILO.OSS.66124" from server<STEAM_0:1:17219621>
+[12:47:26] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/hlvr/combine_hazardprops/combinehazardprops_barrel.mdl
+[12:48:03] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/hlvr/combine_hazardprops/combinehazardprops_clothe.mdl
+[12:48:12] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/hlvr/combine_hazardprops/combinehazardprops_barrel.mdl
+[12:48:13] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/hlvr/combine_hazardprops/combinehazardprops_barrel_lock.mdl
+[12:48:18] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/hlvr/combine_hazardprops/combinehazardprops_crate.mdl
+[12:48:43] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/hlvr/combine_hazardprops/combinehazardprops_barrel_lock.mdl
+[12:48:54] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/hunter/blocks/cube075x075x075.mdl
+[12:49:10] Andrew Cloverman<STEAM_0:1:53097688> used the tool material on models/hunter/blocks/cube075x075x075.mdl
+[12:49:23] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/hunter/plates/plate075x075.mdl
+[12:49:34] Andrew Cloverman<STEAM_0:1:53097688> used the tool material on models/hunter/plates/plate075x075.mdl
+[12:49:40] Andrew Cloverman<STEAM_0:1:53097688> used the tool nocollide on models/hunter/plates/plate075x075.mdl
+[12:49:40] Andrew Cloverman<STEAM_0:1:53097688> used the tool nocollide on models/hunter/blocks/cube075x075x075.mdl
+[12:50:31] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/combinefortification/combinegatelittle.mdl
+[12:51:41] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_combine/combine_intwallunit.mdl
+[12:52:11] Andrew Cloverman<STEAM_0:1:53097688> spawned effect models/combinecannon/debris.mdl
+[12:52:25] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/combinecannon/remnants.mdl
+[12:52:26] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/combinecannon/remnants.mdl
+[12:52:31] Andrew Cloverman<STEAM_0:1:53097688> spawned effect models/combinecannon/debris.mdl
+[12:53:12] Andrew Cloverman: /chargiveflag andrew ncrC
+[12:53:13] Andrew Cloverman<STEAM_0:1:53097688> spawned ragdoll models/combine_advisor_pod/combine_advisor_pod.mdl
+[12:53:18] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/combine_turrets/floor_turret_gib1.mdl
+[12:53:24] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/combine_turrets/floor_turret_gib3.mdl
+[12:53:26] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/combine_turrets/floor_turret_gib2.mdl
+[12:53:28] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/combine_turrets/combine_cannon.mdl
+[12:53:30] Andrew Cloverman<STEAM_0:1:53097688> spawned ragdoll models/combine_turrets/combine_cannon_gun.mdl
+[12:53:35] Andrew Cloverman<STEAM_0:1:53097688> spawned ragdoll models/combine_turrets/combine_cannon_powergen.mdl
+[12:53:47] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/combine_turrets/combine_cannon_stand.mdl
+[12:54:11] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_combine/combine_generator01.mdl
+[12:55:16] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_combine/combine_generator01.mdl
+[12:55:19] Andrew Cloverman<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_combine/combine_generator01.mdl
+[12:55:56] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_combine/combineinnerwallcluster1024_001a.mdl
+[12:56:11] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/industrial17/combinewallprefab3.mdl
+[12:56:14] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/industrial17/combinewallprefab2.mdl
+[12:56:16] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/industrial17/combinewallprefab1.mdl
+[12:56:18] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/industrial17/combinewallprefab3.mdl
+[12:56:19] Andrew Cloverman<STEAM_0:1:53097688> used the tool nocollideeverything on models/props/industrial17/combinewallprefab3.mdl
+[12:56:44] Andrew Cloverman<STEAM_0:1:53097688> used the tool nocollideeverything on models/props/industrial17/combinewallprefab3.mdl
+[12:56:46] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/industrial17/lettersbox.mdl
+[12:56:51] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/industrial17/detainmentpod.mdl
+[12:57:02] Andrew Cloverman<STEAM_0:1:53097688> used the tool nocollideeverything on models/props/industrial17/combinewallprefab3.mdl
+[12:57:33] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props/industrial17/combinewallprefab3.mdl
+[12:57:39] Andrew Cloverman<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_combine/combine_generator01.mdl
+[12:57:41] Andrew Cloverman<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_combine/combine_generator01.mdl
+[12:57:44] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/combine_generator01.mdl
+[12:57:46] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/combine_generator01.mdl
+[12:57:48] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on maps/rp_industrial17_v1.bsp
+[12:57:49] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on maps/rp_industrial17_v1.bsp
+[12:57:57] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/combinefortification/combinescreen1.mdl
+[12:58:05] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/combine_room/combine_wire002.mdl
+[12:59:16] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/combine_room/combine_wire002.mdl
+[12:59:39] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/combine_room/combine_wire001.mdl
+[12:59:41] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/combine_room/combine_wire001.mdl
+[13:00:56] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/advisorpod_crash/advisor_pod_crash.mdl
+[13:01:20] Andrew Cloverman<STEAM_0:1:53097688> spawned effect models/props_combine/sphere.mdl
+[13:01:25] Client "agentgollem" connected.
+[13:01:33] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_lab/tpplugholder_light.mdl
+[13:01:51] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_silo/silo_server_d.mdl
+[13:01:53] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_silo/silo_server_d.mdl
+[13:01:54] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_silo/silo_server_a.mdl
+[13:01:56] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_silo/silo_server_d.mdl
+[13:02:33] Client "agentgollem" spawned in server <STEAM_0:0:236606906> (took 68 seconds).
+[13:02:41] Andrew Cloverman<STEAM_0:1:53097688> spawned effect models/props_combine/combine_lightning001b.mdl
+[13:02:43] Andrew Cloverman<STEAM_0:1:53097688> spawned effect models/props_combine/combine_citadelcloud002a.mdl
+[13:02:45] Andrew Cloverman<STEAM_0:1:53097688> spawned effect models/props_combine/combine_citadelcloudlight001a.mdl
+[13:02:46] Andrew Cloverman<STEAM_0:1:53097688> spawned effect models/props_combine/advisorpod_docked.mdl
+[13:02:51] Andrew Cloverman<STEAM_0:1:53097688> spawned effect models/props_combine/combine_lightning001b.mdl
+[13:02:52] Andrew Cloverman<STEAM_0:1:53097688> spawned effect models/props_combine/combine_lightning001b.mdl
+[13:02:54] agentgollem<STEAM_0:0:236606906> changed their name to George Wach
+[13:03:02] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_combine/combine_ballsocket.mdl
+[13:03:09] Andrew Cloverman<STEAM_0:1:53097688> spawned effect models/props_combine/corecontrolmonitor.mdl
+[13:03:10] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_combine/corecontrol_set001.mdl
+[13:03:23] Andrew Cloverman<STEAM_0:1:53097688> spawned effect models/effects/intro_vortshield.mdl
+[13:03:25] Andrew Cloverman<STEAM_0:1:53097688> spawned effect models/effects/introtear.mdl
+[13:04:04] Andrew Cloverman<STEAM_0:1:53097688> spawned effect models/props_combine/combine_citadelburst.mdl
+[13:04:08] Andrew Cloverman<STEAM_0:1:53097688> spawned effect models/props_combine/combine_lightning001b.mdl
+[13:04:26] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/combinecannon/cironwall.mdl
+[13:05:04] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_silo/silo_hatch.mdl
+[13:05:16] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_silo/eli_weapon.mdl
+[13:05:18] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_silo/eli_weapon_phys.mdl
+[13:05:28] Andrew Cloverman<STEAM_0:1:53097688> spawned effect models/props_combine/combine_citadelcloud001b.mdl
+[13:05:29] Andrew Cloverman<STEAM_0:1:53097688> spawned effect models/props_combine/sphere.mdl
+[13:05:37] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/combine_turrets/combine_cannon_stand02.mdl
+[13:06:17] Andrew Cloverman<STEAM_0:1:53097688> spawned ragdoll models/combine_turrets/combine_cannon_powergen.mdl
+[13:06:35] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/combinecannon/remnants.mdl
+[13:06:40] Andrew Cloverman<STEAM_0:1:53097688> spawned effect models/combinecannon/debris.mdl
+[13:07:37] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_combine/combine_intwallunit.mdl
+[13:07:57] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[13:08:07] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[13:08:12] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[13:08:16] Andrew Cloverman<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_building_details/storefront_template001a_bars.mdl
+[13:08:25] Andrew Cloverman<STEAM_0:1:53097688> spawned/gave himself swep weapon_crowbar
+[13:08:25] Andrew Cloverman: /toggleraise
+[13:08:52] Client "Painevan" connected.
+[13:08:55] Andrew Cloverman<STEAM_0:1:53097688> used the tool stacker_improved on maps/rp_industrial17_v1.bsp
+[13:08:56] Andrew Cloverman<STEAM_0:1:53097688> used the tool stacker_improved on models/props_building_details/storefront_template001a_bars.mdl
+[13:08:56] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[13:09:02] Andrew Cloverman<STEAM_0:1:53097688> used the tool stacker_improved on models/props_building_details/storefront_template001a_bars.mdl
+[13:09:02] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[13:09:08] Client "Apex" connected.
+[13:09:11] Andrew Cloverman<STEAM_0:1:53097688> used the tool stacker_improved on maps/rp_industrial17_v1.bsp
+[13:09:15] Andrew Cloverman<STEAM_0:1:53097688> used the tool stacker_improved on models/props_building_details/storefront_template001a_bars.mdl
+[13:09:15] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[13:09:30] Andrew Cloverman<STEAM_0:1:53097688> used the tool stacker_improved on models/props_building_details/storefront_template001a_bars.mdl
+[13:09:30] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[13:09:34] Andrew Cloverman<STEAM_0:1:53097688> used the tool stacker_improved on models/props_building_details/storefront_template001a_bars.mdl
+[13:09:34] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[13:09:36] Andrew Cloverman<STEAM_0:1:53097688> used the tool stacker_improved on models/props_building_details/storefront_template001a_bars.mdl
+[13:09:36] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[13:09:37] Andrew Cloverman<STEAM_0:1:53097688> used the tool stacker_improved on models/props_building_details/storefront_template001a_bars.mdl
+[13:09:37] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[13:09:42] Andrew Cloverman<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_building_details/storefront_template001a_bars.mdl
+[13:09:44] Andrew Cloverman<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_building_details/storefront_template001a_bars.mdl
+[13:09:44] Andrew Cloverman<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_building_details/storefront_template001a_bars.mdl
+[13:09:47] Andrew Cloverman<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_building_details/storefront_template001a_bars.mdl
+[13:09:48] Andrew Cloverman<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_building_details/storefront_template001a_bars.mdl
+[13:09:50] Andrew Cloverman<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_building_details/storefront_template001a_bars.mdl
+[13:09:51] Andrew Cloverman<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_building_details/storefront_template001a_bars.mdl
+[13:09:52] Andrew Cloverman<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_building_details/storefront_template001a_bars.mdl
+[13:09:59] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props_building_details/storefront_template001a_bars.mdl
+[13:09:59] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props_building_details/storefront_template001a_bars.mdl
+[13:10:01] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props_building_details/storefront_template001a_bars.mdl
+[13:10:32] Client "Apex" spawned in server <STEAM_0:0:170921441> (took 84 seconds).
+[13:10:38] George Wach suicided!
+[13:10:56] Andrew Cloverman: //sup agentgollem. i can't GM right now bucasei 'm just propping while i listen to my lectures
+[13:11:06] George Wach suicided!
+[13:11:07] Apex<STEAM_0:0:170921441> changed their name to Denford F. MacMillian
+[13:11:07] George Wach: /ooc i just died for some reason wtf
+[13:11:09] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_building_details/storefront_template001a_bars.mdl
+[13:11:17] George Wach: /ooc happend again
+[13:11:19] Andrew Cloverman: //did you starve to death
+[13:11:21] Client "Painevan" spawned in server <STEAM_0:0:68118061> (took 149 seconds).
+[13:11:26] George Wach: /ooc i doubt
+[13:11:29] Andrew Cloverman: //dehydrate?
+[13:11:32] Denford F. MacMillian: // POV: death
+[13:11:36] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_c17/fence02b.mdl
+[13:11:37] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_c17/fence01a.mdl
+[13:11:37] George Wach: /ooc idk
+[13:11:42] Andrew Cloverman: //sup apex
+[13:11:44] Denford F. MacMillian: // Did you run out of air?
+[13:11:46] Denford F. MacMillian: // Sup.
+[13:11:53] George Wach: /ooc nah i have 10 min left
+[13:11:55] Andrew Cloverman: //i cannot GM right now because i am just propping while listen to my lecture
+[13:12:07] Denford F. MacMillian: // I'm gonna be writing my CCA app.
+[13:12:11] Andrew Cloverman: //tight
+[13:12:30] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_combine/combine_barricade_bracket01a.mdl
+[13:12:33] Client "Wario" connected.
+[13:12:41] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_combine/combine_mortar01b.mdl
+[13:12:44] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_combine/combine_mortar01b.mdl
+[13:12:45] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_combine/combine_mortar01a.mdl
+[13:12:47] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_combine/combine_mortar01b.mdl
+[13:12:50] George Wach: /ooc btw how do you see your thirst and hunger ?
+[13:13:00] Denford F. MacMillian: // Me?
+[13:13:03] Andrew Cloverman: //go into your tab menu settings and turn on "always show bars"
+[13:13:07] Denford F. MacMillian: // Oh, you mean.
+[13:13:20] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_combine/combinebuttress.mdl
+[13:13:34] George Wach: /ooc oh thanks and what is the green bar ?
+[13:13:38] Andrew Cloverman: //hunger
+[13:13:50] Andrew Cloverman: //the symbols for it are fucked up for some reason so they're just showign up as ones
+[13:13:56] Denford F. MacMillian: // Hunger is green, Blue is thrist.
+[13:14:02] George Wach: /ooc the yellow one then ?
+[13:14:06] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_combine/combine_generator01.mdl
+[13:14:06] Denford F. MacMillian: // Stamina.
+[13:14:10] Andrew Cloverman<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_combine/combine_generator01.mdl
+[13:14:10] Denford F. MacMillian: // Like when you spirnt.
+[13:14:27] George Wach: fucking gas mask
+[13:14:30] Denford F. MacMillian: /me Nods.
+[13:14:40] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/combine_generator01.mdl
+[13:14:42] George Wach: /ooc alright thanks
+[13:14:43] Andrew Cloverman<STEAM_0:1:53097688> spawned ragdoll models/props_combine/combine_door01.mdl
+[13:14:46] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_combine/combineinnerwallcluster1024_003a.mdl
+[13:14:48] Andrew Cloverman<STEAM_0:1:53097688> spawned effect models/props_combine/combine_tptrack.mdl
+[13:14:53] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_combine/combineinnerwall001a.mdl
+[13:14:55] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_combine/pipes01_cluster02b.mdl
+[13:14:58] Andrew Cloverman<STEAM_0:1:53097688> spawned ragdoll models/props_combine/pod_extractor.mdl
+[13:15:00] Andrew Cloverman<STEAM_0:1:53097688> spawned effect models/props_combine/portalball.mdl
+[13:15:02] Andrew Cloverman<STEAM_0:1:53097688> spawned effect models/props_combine/portalskydome.mdl
+[13:15:05] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_combine/strut_array_01.mdl
+[13:15:28] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/cs_assault/handtruck.mdl
+[13:15:43] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_junk/wood_pallet001a.mdl
+[13:15:55] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props_junk/wood_pallet001a.mdl
+[13:15:55] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props/cs_assault/handtruck.mdl
+[13:16:09] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/cs_militia/sawhorse.mdl
+[13:16:24] Andrew Cloverman<STEAM_0:1:53097688> used the tool stacker_improved on models\props/cs_militia/sawhorse.mdl
+[13:16:24] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/cs_militia/sawhorse.mdl
+[13:16:48] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/cs_militia/sawhorse.mdl
+[13:17:14] Andrew Cloverman<STEAM_0:1:53097688> used the tool stacker_improved on models\props/cs_militia/sawhorse.mdl
+[13:17:14] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/cs_militia/sawhorse.mdl
+[13:17:22] Andrew Cloverman<STEAM_0:1:53097688> used the tool stacker_improved on models\props/cs_militia/sawhorse.mdl
+[13:17:22] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/cs_militia/sawhorse.mdl
+[13:17:40] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_lab/tpswitch.mdl
+[13:17:45] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_lab/tpswitch.mdl
+[13:18:21] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_combine/combine_intwallunit.mdl
+[13:18:23] Andrew Cloverman<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_combine/combine_intwallunit.mdl
+[13:18:25] Andrew Cloverman<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_combine/combine_intwallunit.mdl
+[13:18:33] Andrew Cloverman<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_lab/tpswitch.mdl
+[13:18:37] Andrew Cloverman<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_lab/tpswitch.mdl
+[13:18:39] Andrew Cloverman<STEAM_0:1:53097688> used the tool nocollide on models/props_lab/tpswitch.mdl
+[13:18:39] Andrew Cloverman<STEAM_0:1:53097688> used the tool nocollide on models/props_combine/combine_intwallunit.mdl
+[13:19:22] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/combine_intwallunit.mdl
+[13:19:23] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props_lab/tpswitch.mdl
+[13:19:36] Andrew Cloverman<STEAM_0:1:53097688> spawned effect models/props_combine/combine_citadel_animated.mdl
+[13:19:38] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_combine/combine_teleport_2.mdl
+[13:19:40] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_combine/combineinnerwall001a.mdl
+[13:23:44] George Wach: /me sit on the bench and wait for the time to pass.
+[13:24:28] Painevan<STEAM_0:0:68118061> changed their name to Jonathan Jackson
+[13:28:52] George Wach: /ooc uhh i'am stuck in the loading screen of the terminal of the messages
+[13:29:38] George Wach: /ooc it loads to infinity for some reason
+[13:30:26] Dropped "George Wach" from server<STEAM_0:0:236606906>
+[13:30:34] Client "agentgollem" connected.
+[13:31:19] Client "agentgollem" spawned in server <STEAM_0:0:236606906> (took 45 seconds).
+[13:32:03] agentgollem<STEAM_0:0:236606906> changed their name to George Wach
+[13:32:36] George Wach: holly
+[13:32:44] George Wach: you scared me lol
+[13:33:09] George Wach: are you the other roomate ?
+[13:33:58] George Wach: I will just go and wash my hands alright....
+[13:35:22] George Wach: /me wash his hands and whisper to hisself "if only i was relocated to that other city everyone is talking about"
+[13:37:28] George Wach: why his there a AA battery in the fridge pretty sure they could go kaboom
+[13:39:16] George Wach: you still sleeping
+[13:39:19] George Wach: yep
+[13:41:20] George Wach: guess i will go
+[13:41:27] George Wach: bye
+[13:42:28] Jonathan Jackson: // Who is talking about my batteries in the fridge, it is proven by Bill Nye that it makes them last longer
+[13:42:42] George Wach: /ooc i will note that
+[13:43:21] Jonathan Jackson: // He is a science guy after all
+[13:43:59] Jonathan Jackson: // when rATION
+[13:44:01] Jonathan Jackson: // I need
+[13:44:23] George Wach: hey
+[13:44:25] George Wach: umh
+[13:44:27] George Wach: your suit
+[13:44:30] Jonathan Jackson: Hello there
+[13:44:33] Jonathan Jackson: What suit?
+[13:44:35] George Wach: you kinda need it 
+[13:44:42] George Wach: the respirator thingy
+[13:44:46] George Wach: like me
+[13:44:50] Jonathan Jackson: I don't, I have a respirator. Do you see me choking?
+[13:45:06] George Wach: no... but like it's bad air you know right
+[13:45:19] Jonathan Jackson: I'm wearing a respirator?
+[13:45:25] George Wach: no
+[13:45:27] Jonathan Jackson: /looc Do you not see the thing on my face?
+[13:45:31] Jonathan Jackson: I quite clearly am.
+[13:45:33] George Wach: /ooc nop
+[13:45:45] Jonathan Jackson: /looc It's a pac thing
+[13:45:50] George Wach: /looc ooh yea pac
+[13:46:02] Jonathan Jackson: /looc But it is on there so maybe you don't have some content or something
+[13:46:15] George Wach: must have been an halucination or something sorry to bother you
+[13:46:20] Jonathan Jackson: Uhh right.
+[13:46:25] Jonathan Jackson: No worries.
+[13:46:54] Jonathan Jackson: // Do the flavored drinks fill the thirst meter more?
+[13:47:02] Jonathan Jackson: // More than the regular ones I mean
+[13:49:00] George Wach: /me drink a can of water while sitting on the couch
+[13:52:36] Jonathan Jackson: // man the cz is so cool
+[13:54:01] Dropped "George Wach" from server<STEAM_0:0:236606906>
+[13:56:54] Jonathan Jackson: // we need more construction zone rp
+[13:57:13] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/cs_militia/refrigerator01.mdl
+[13:57:14] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/cs_militia/paintbucket01.mdl
+[13:59:41] Jonathan Jackson: uhh
+[13:59:43] Jonathan Jackson: hey
+[14:00:11] Jonathan Jackson: Right then you uhh, have a pleasant day.
+[14:07:02] Andrew Cloverman: /adminspawnmenu
+[14:07:11] Client "DRD" connected.
+[14:07:26] Client "FB|| light ROOM" connected.
+[14:07:45] Jonathan Jackson: uhh
+[14:07:47] Jonathan Jackson: hi
+[14:07:50] Andrew Cloverman: /chargiveitem andrew "resin" 2
+[14:07:50] Denford F. MacMillian: /me Nods.
+[14:08:25] Client "DRD" spawned in server <STEAM_0:0:193599766> (took 74 seconds).
+[14:08:27] Jonathan Jackson: Hey, could I get two standard UU bandages?
+[14:08:40] Denford F. MacMillian: /looc Did I scare the fuck out of you btw lmao.
+[14:08:41] Jonathan Jackson: And that will be all.
+[14:08:49] Jonathan Jackson: /looc Not scared just kinda startled lol
+[14:08:55] Denford F. MacMillian: /looc He watches.
+[14:09:02] Client "FB|| light ROOM" spawned in server <STEAM_0:1:17219621> (took 96 seconds).
+[14:09:09] Andrew Cloverman: /chargiveitem andrew "wires"
+[14:09:17] Andrew Cloverman: /adminspawnmenu
+[14:09:20] Jonathan Jackson: /me places eighteen tokens down on the table, looking back a bit to see that person still standing there.
+[14:09:22] DRD<STEAM_0:0:193599766> changed their name to Hollie Reynolds
+[14:09:31] Jonathan Jackson: Uhh, thanks and have a good one.
+[14:09:33] Andrew Cloverman: /adminspawnmenu
+[14:09:41] FB|| light ROOM<STEAM_0:1:17219621> changed their name to Ethan King
+[14:09:42] Ethan King: // yo 
+[14:09:47] Andrew Cloverman: /chargiveitem andrew "conscript filter"
+[14:09:47] Jonathan Jackson: // yO
+[14:09:55] Ethan King: // ALL CITIZENS 
+[14:09:57] Ethan King: // HOLY FUK 
+[14:10:02] Ethan King<STEAM_0:1:17219621> changed their name to CCA.C17-QrM.98240
+[14:10:04] Jonathan Jackson: // I want a ration cycle I am fucking starving constantly
+[14:10:05] Hollie Reynolds<STEAM_0:0:193599766> changed their name to Paul-Henri Cartier
+[14:10:12] Jonathan Jackson: // Ahh Citizen RP
+[14:10:15] Andrew Cloverman: /chargiveitem andrew "health pen"
+[14:10:15] CCA.C17-QrM.98240: // bet 
+[14:10:20] Andrew Cloverman: /chargiveitem andrew "stimshot"
+[14:10:29] Paul-Henri Cartier<STEAM_0:0:193599766> changed their name to CCA.C17.QrM.58234
+[14:10:29] Denford F. MacMillian: // Welp, time to annoy the QrM.
+[14:10:35] Denford F. MacMillian: // There's two.
+[14:10:36] Jonathan Jackson: // RATIONNN
+[14:10:38] Denford F. MacMillian: // Shit.
+[14:10:54] Jonathan Jackson: // ew CP
+[14:10:55] Denford F. MacMillian: You may go first.
+[14:10:59] Jonathan Jackson: Thanks
+[14:11:00] CCA.C17-QrM.98240: // 98240 is based fuck you 
+[14:11:07] CCA.C17-QrM.98240: Apply for me, yeah?
+[14:11:08] Jonathan Jackson: Good evening.
+[14:11:10] CCA.C17.QrM.58234<STEAM_0:0:193599766> changed their name to Major-General Sir Issac Brock KB
+[14:11:11] Jonathan Jackson: Of course
+[14:11:15] Jonathan Jackson: /apply.
+[14:11:20] Major-General Sir Issac Brock KB set the hp for Themself to 999
+[14:11:38] CCA.C17-QrM.98240: /me nods, unlatching his PDA from the utility belt he wore, typing onto it. "Jonathan.... Jonathan... Jackson!"
+[14:11:42] CCA.C17-QrM.98240: /viewdata Jonathan
+[14:11:49] CCA.C17-QrM.98240: 8 LP, 2 standard.
+[14:11:51] Denford F. MacMillian: Guys.
+[14:11:52] Denford F. MacMillian: /y Guys
+[14:11:57] CCA.C17-QrM.98240: /y What!
+[14:11:58] Denford F. MacMillian: /me points at the frog.
+[14:12:00] Jonathan Jackson: What
+[14:12:04] Major-General Sir Issac Brock KB: /me ribbits
+[14:12:07] Denford F. MacMillian: Damn Xeno.
+[14:12:10] Jonathan Jackson: Okay..
+[14:12:15] CCA.C17-QrM.98240: /me looked over the desk, sniffling. "It's just a frog, coward."
+[14:12:18] Major-General Sir Issac Brock KB<STEAM_0:0:193599766> spawned sent pfx8_06
+[14:12:26] Denford F. MacMillian: That just teleported away.
+[14:12:27] CCA.C17-QrM.98240: /me tossed two rations over to the civvie, nodding. "Good day, yeah?"
+[14:12:41] Denford F. MacMillian: // He used sv_cheats 1 to escape.
+[14:12:47] CCA.C17-QrM.98240: // chad 
+[14:12:57] Jonathan Jackson: /me slips both rations into his arms before thanking the CP and walking away.
+[14:13:01] Denford F. MacMillian: /looc Long day, huh?
+[14:13:07] CCA.C17-QrM.98240: Apply for me
+[14:13:08] Jonathan Jackson: // FoooODD
+[14:13:09] Denford F. MacMillian: /apply
+[14:13:13] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models\props/cs_militia/paintbucket01.mdl
+[14:13:14] Jonathan Jackson: // It's been years
+[14:13:15] Denford F. MacMillian: // The frog's waiting in line.
+[14:13:21] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_junk/garbage_plasticbottle001a.mdl
+[14:13:24] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props_junk/garbage_plasticbottle001a.mdl
+[14:13:29] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_junk/garbage_plasticbottle001a.mdl
+[14:13:31] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props_junk/garbage_plasticbottle001a.mdl
+[14:13:36] Andrew Cloverman: /chargiveitem andrew "bleach"
+[14:13:37] CCA.C17-QrM.98240: /me nods, typing onto his PDA once more. Consistently repeating the name as his mask was slightly covered in a pale blue hue. "Righty...."
+[14:13:42] CCA.C17-QrM.98240: /viewdata Den
+[14:13:52] CCA.C17-QrM.98240: 11 LP, one loyalist.
+[14:13:53] Andrew Cloverman: /chargiveitem andrew "lcd screen"
+[14:13:56] Andrew Cloverman: /chargiveitem andrew "lcd"
+[14:13:58] Denford F. MacMillian: Nice.
+[14:14:11] Jonathan Jackson: // Is anyone in the CWU administration?
+[14:14:13] CCA.C17-QrM.98240: hm
+[14:14:14] Denford F. MacMillian: /me Would grab the loyalist ration, inpsecting it for a good bit before nodding.
+[14:14:22] Denford F. MacMillian: Hm...
+[14:14:24] Andrew Cloverman: /chargiveitem andrew "hazmat worker suit"
+[14:14:25] Denford F. MacMillian: Glory.
+[14:14:32] Andrew Cloverman: /chargiveitem andrew "infestation contro"
+[14:14:37] CCA.C17-QrM.98240: Want food?
+[14:14:42] Major-General Sir Issac Brock KB: /me ribbits
+[14:14:45] Andrew Cloverman: /chargiveitem andrew "battery"
+[14:14:55] Major-General Sir Issac Brock KB: .// capitalism
+[14:14:57] CCA.C17-QrM.98240: /me tossed a Xenian ration over, landing on top of the frog. "There, now go."
+[14:14:59] Jonathan Jackson: // 69 tokens lets go
+[14:15:05] Andrew Cloverman: /chargiveitem andrew "nails"
+[14:15:09] Andrew Cloverman: /chargiveitem andrew "pack of nails"
+[14:15:09] Jonathan Jackson: Finally a meal...
+[14:15:15] Denford F. MacMillian: Do officers just give food to Xenain wildlife like that?
+[14:15:16] Andrew Cloverman: /chargiveitem andrew "pack of screws"
+[14:15:19] CCA.C17-QrM.98240: No
+[14:15:19] Major-General Sir Issac Brock KB: /me grips the ration pack in it's mouth, blinking out of existance along with the ration
+[14:15:32] Major-General Sir Issac Brock KB<STEAM_0:0:193599766> spawned sent pfx9_00
+[14:15:54] Denford F. MacMillian: /me Looks at the frog that just teleported away, he questioned what he just saw and didn't know what to do...He just turned around, and walked off.
+[14:16:07] Denford F. MacMillian: // You know shit's weird when the frog gets rights.
+[14:16:18] Jonathan Jackson: // strange times ain't it
+[14:16:18] CCA.C17-QrM.98240: // That's just 982 being 982 
+[14:16:26] CCA.C17-QrM.98240: // I should have given him a priority 
+[14:16:31] Denford F. MacMillian: // You should've.
+[14:16:38] Denford F. MacMillian: /pm qrm No.
+[14:16:44] CCA.C17-QrM.98240: /reply Fuck y-
+[14:16:52] Denford F. MacMillian: /looc I am trying to fill out a CCA app.
+[14:16:59] Denford F. MacMillian: What the...
+[14:17:02] CCA.C17-QrM.98240: /me sniffles 
+[14:17:03] Major-General Sir Issac Brock KB: .// thi9s wasnt me
+[14:17:17] CCA.C17-QrM.98240: I want water 
+[14:17:18] Denford F. MacMillian: // 240 just gave up.
+[14:17:26] CCA.C17-QrM.98240: // he gave up a long time ago 
+[14:17:30] Denford F. MacMillian: // Lmao.
+[14:17:54] CCA.C17-QrM.98240: You
+[14:17:59] CCA.C17-QrM.98240: Want a drink?
+[14:18:00] Denford F. MacMillian: Yes, Officer?
+[14:18:07] Denford F. MacMillian: I am not thristy but I might need it for later, I suppose.
+[14:18:10] Denford F. MacMillian: /looc I saw the cans.
+[14:18:16] Denford F. MacMillian: /looc What acts have you just committed.
+[14:18:18] CCA.C17-QrM.98240: /me nods, grabbing the Citizen and walking him along.
+[14:18:25] CCA.C17-QrM.98240: Have a drink 
+[14:18:29] Major-General Sir Issac Brock KB<STEAM_0:0:193599766> used the tool sparks on models/props_interiors/vendingmachinesoda01a.mdl
+[14:18:32] Denford F. MacMillian: Why...I...
+[14:18:33] Denford F. MacMillian: Sure.
+[14:18:36] Jonathan Jackson<STEAM_0:0:68118061> used the tool ledscreen on maps/rp_industrial17_v1.bsp
+[14:18:40] Jonathan Jackson<STEAM_0:0:68118061> used the tool ledscreen on maps/rp_industrial17_v1.bsp
+[14:18:43] Jonathan Jackson<STEAM_0:0:68118061> used the tool ledscreen on maps/rp_industrial17_v1.bsp
+[14:18:44] Jonathan Jackson<STEAM_0:0:68118061> used the tool ledscreen on maps/rp_industrial17_v1.bsp
+[14:18:45] Jonathan Jackson<STEAM_0:0:68118061> used the tool ledscreen on maps/rp_industrial17_v1.bsp
+[14:18:46] Jonathan Jackson<STEAM_0:0:68118061> used the tool ledscreen on maps/rp_industrial17_v1.bsp
+[14:18:55] CCA.C17-QrM.98240: /me sniffles, looking over the sparking Vending machine. "Ever seen a machine go rogue?"
+[14:18:56] Denford F. MacMillian: /me Crouches down and grabs one of the yellow cans, he inspects it for a moment before placing it far from his face. He would open it, thinking it would spray all over the place.
+[14:19:06] Denford F. MacMillian: I have not.
+[14:19:12] Denford F. MacMillian: I could probably fix it if you want.
+[14:19:26] Denford F. MacMillian: I just need the right tools.
+[14:19:27] CCA.C17-QrM.98240: /looc PERFECT LINE 
+[14:19:32] Jonathan Jackson: // I have a place now but I don't have the crap to supply it with food
+[14:19:38] CCA.C17-QrM.98240: Cool, come with me 
+[14:19:46] CCA.C17-QrM.98240: The fuck is this?
+[14:19:59] CCA.C17-QrM.98240: /me grabs his Stunstick, flicking it on and scorching the note. "Damn CWU."
+[14:20:04] Denford F. MacMillian: Amen.
+[14:20:14] CCA.C17-QrM.98240: Stay
+[14:20:36] Major-General Sir Issac Brock KB: /chargiveitem brock tools
+[14:20:51] CCA.C17-QrM.98240: // I have *consumed* the cans 
+[14:21:13] Jonathan Jackson: // that's now how it was written in the bible
+[14:22:06] Major-General Sir Issac Brock KB<STEAM_0:0:193599766> changed their name to CCA.C17-GRID.i1.23710
+[14:22:15] CCA.C17-QrM.98240: /me straight up underhand tosses a tool kit of CCA grade tools over to the citizen. Yawning he would look over him, an orange hue being seen over the citizens suit. "Fix, you'll get LP for it."
+[14:22:43] Denford F. MacMillian: /me Extended his hands to grab the tools and swiftly applied it around his belt, the man nodding to the CP and turning towards the door.
+[14:22:44] Jonathan Jackson: // Does anyone happen to run a business
+[14:22:46] Denford F. MacMillian: Understood.
+[14:22:49] Jonathan Jackson: // That sells notepads or paper
+[14:23:00] CCA.C17-GRID.i1.23710: // general store
+[14:23:03] CCA.C17-QrM.98240: // Yeha 
+[14:23:08] Denford F. MacMillian: // So is anyone GMing the machine?
+[14:23:10] Jonathan Jackson: // They sell it there? Didn't know
+[14:23:12] CCA.C17-QrM.98240: // DRD is 
+[14:23:41] Denford F. MacMillian: /me Pulls out a key from the tool set and inserts it into the machine key slot, he opens it up and turns off the machine. He then looked over the damages to see what the issue was.
+[14:23:44] Jonathan Jackson: That free?
+[14:23:48] CCA.C17-QrM.98240: Sure
+[14:23:48] Jonathan Jackson: I could use a drink
+[14:23:50] CCA.C17-QrM.98240: In fact 
+[14:23:55] CCA.C17-QrM.98240: No no no no no 
+[14:23:56] CCA.C17-QrM.98240: Here
+[14:24:11] CCA.C17-GRID.i1.23710: // its occured to me
+[14:24:19] CCA.C17-GRID.i1.23710: // that i dont know how vending machines work
+[14:24:21] CCA.C17-QrM.98240: /me grabs at a bag in his utility belt, opening it and dumping a fuck ton of cans onto the ground. "Drink."
+[14:24:27] Denford F. MacMillian: // I can do the RP for it.
+[14:24:29] Denford F. MacMillian: // I know a good bit.
+[14:24:31] CCA.C17-GRID.i1.23710: // sure, lmao
+[14:24:32] CCA.C17-QrM.98240: Drink
+[14:24:34] Jonathan Jackson: Damn that's awesome
+[14:24:39] Denford F. MacMillian: // Alright, I'll just do some RP for it.
+[14:24:40] CCA.C17-QrM.98240: Have fun 
+[14:24:51] CCA.C17-QrM.98240: // This is amazing 
+[14:25:02] CCA.C17-QrM.98240: // best RP 
+[14:25:31] Denford F. MacMillian: /me After inspecting the damages, the man sighed and figured out the wires were damaged and messed up, the man opened up the hatch to expose the wires and looked back to the QrM unit. - "It'll take a bit but wire damages, vending machine's off so I don't think anyone will be hurt."
+[14:25:32] CCA.C17-GRID.i1.23710<STEAM_0:0:193599766> used the tool dynamite on models/props_interiors/vendingmachinesoda01a.mdl
+[14:25:33] Jonathan Jackson: Thanks for the drinks man!
+[14:25:34] CCA.C17-QrM.98240: /me sighs, holstering his Stunstick and moving over to the wall, leaning against it in an awkward manner due to his gear getting in the way. "Have fun fixing it."
+[14:25:38] CCA.C17-QrM.98240: /actlean
+[14:25:42] CCA.C17-GRID.i1.23710<STEAM_0:0:193599766> used the tool dynamite on models/props_interiors/vendingmachinesoda01a.mdl
+[14:25:44] Jonathan Jackson: /me is carring a fuck load of drinks on him
+[14:25:45] CCA.C17-QrM.98240: Yeah, sure, whatever
+[14:25:57] Jonathan Jackson: // Wooo
+[14:26:02] Jonathan Jackson: // Drinks for days
+[14:26:49] CCA.C17-GRID.i1.23710: .// i forgot to undo the sparks
+[14:27:01] Denford F. MacMillian: /me Grabs some wire cutters from the set of tools and begins to cut out the exposed wires that were damaged, the man placing the damaged wires into a small pouch.
+[14:27:52] CCA.C17-QrM.98240: /actlean
+[14:28:26] Denford F. MacMillian: /me signs "The man would then go to the other pouch to pull out some new wires and begins to re-apply them onto the machine. After doing so, he did some inspections over the machine to see if there are no other damages, and so he noticed that the coin slot was jammed. He saw a token improperly stuck and he would remove said token, walking away and grabbing a can from the floor.
+[14:28:48] Denford F. MacMillian: /me Places a can into the correct slot and turns on the machine, he would then close it.
+[14:28:57] Denford F. MacMillian: /looc If you could, can you add one to regular?
+[14:29:31] Jonathan Jackson: // I just saved so much money on that
+[14:29:40] Jonathan Jackson: // I have been draining my tokens on drinks for so long
+[14:29:48] CCA.C17-QrM.98240: /me sniffles, surveying the man and his work as he kept a close eye on him. The citizen could hear him humming lightly as he nodded, grabbing his PDA and unlatching it from his PDA. "Righty....."
+[14:29:50] Denford F. MacMillian: /me Looks back to the QrM and nodded to him, removing the tool belt from his waist.
+[14:30:12] CCA.C17-QrM.98240: /me took the tools, latching the bag onto his utility belt. "Righty, your name was?"
+[14:30:27] CCA.C17-QrM.98240: // I have ruined the economy 
+[14:30:27] Denford F. MacMillian: Denford F. MacMillian.
+[14:30:33] Denford F. MacMillian: // D:
+[14:30:40] CCA.C17-QrM.98240: /me nods, switching on his PDA and typing at it. "Den..."
+[14:30:42] CCA.C17-QrM.98240: /viewdata Den
+[14:30:47] Jonathan Jackson: // No more shall we rely on vending machines and rations for drinks the common man will no longer suffer
+[14:30:57] Denford F. MacMillian: Question, should I try join the CCA?
+[14:31:13] Denford F. MacMillian: /looc OH FUCK.
+[14:31:15] Denford F. MacMillian: /looc VOID.
+[14:31:16] CCA.C17-QrM.98240: /looc LMAO 
+[14:31:36] Denford F. MacMillian: /looc "Oh yeah should I join the CCA?" *Clocks him in the fucking face by accident.*
+[14:31:39] CCA.C17-QrM.98240: /me looked up from his PDA, tilting his head lightly. "Joining CCA? well all you civvies want it."
+[14:31:41] CCA.C17-QrM.98240: /looc HAHAHAHAHA 
+[14:31:57] Denford F. MacMillian: I have different intentions from others.
+[14:32:02] CCA.C17-QrM.98240: Well..... put it this way, if you like working with psychopaths, then it's cool.
+[14:32:07] CCA.C17-GRID.i1.23710<STEAM_0:0:193599766> changed their name to Dispatch
+[14:32:28] Jonathan Jackson: // huh
+[14:32:36] CCA.C17-QrM.98240: /me sniffles, latching his PDA onto his utility belt. "But, it has a lot of benefits. Trust me.... I'm a bit of a veteran."
+[14:32:40] Denford F. MacMillian: /me Looks up as he heard the announcement.
+[14:32:41] CCA.C17-QrM.98240: // *Huh*
+[14:32:46] CCA.C17-QrM.98240: /me sighs 
+[14:32:47] CCA.C17-QrM.98240: Once second 
+[14:32:55] Dispatch: /chargiveflag disp C
+[14:32:56] Dispatch<STEAM_0:0:193599766> spawned vehicle models/combine_apc.mdl
+[14:32:59] Denford F. MacMillian: // Hey DrD.
+[14:33:01] Denford F. MacMillian: // More like.
+[14:33:03] Denford F. MacMillian: // DnD.
+[14:33:29] Denford F. MacMillian: Doesn't that lead to an exclusion zone?
+[14:33:39] Dispatch: // most situationally aware quartermaster
+[14:33:39] CCA.C17-QrM.98240: I sure hope that's them going to get my supply of absin-
+[14:33:40] CCA.C17-QrM.98240: Huh?
+[14:33:44] CCA.C17-QrM.98240: Sure
+[14:33:46] CCA.C17-QrM.98240: // Fuck you 
+[14:33:52] CCA.C17-QrM.98240: Uh, yeah, it is.
+[14:34:01] CCA.C17-QrM.98240: // CCA.C17-QrM.98240 says "<:: I sure hope that's them going to get my supply of absin- ::>"
+[14:34:07] Denford F. MacMillian: Hm, heard some stories.
+[14:34:13] CCA.C17-QrM.98240: Yeah,  it's great.
+[14:34:16] Jonathan Jackson: /me is seen writing down on a notepad.
+[14:34:28] Denford F. MacMillian: /looc short.
+[14:34:33] CCA.C17-QrM.98240: /looc mean 
+[14:34:47] Dispatch<STEAM_0:0:193599766> spawned model models/combinefortification/combinebunkernosheild.mdl
+[14:34:52] Dispatch<STEAM_0:0:193599766> spawned model models/combinefortification/combinebunkerpillard1.mdl
+[14:34:54] Dispatch<STEAM_0:0:193599766> spawned model models/props_combine/combine_bunker01.mdl
+[14:36:04] Dispatch<STEAM_0:0:193599766> spawned model models/combinefortification/combineguardcontrol.mdl
+[14:36:22] Dispatch<STEAM_0:0:193599766> spawned model models/combinefortification/combinescreen1.mdl
+[14:36:25] Dispatch<STEAM_0:0:193599766> spawned model models/combinefortification/combinevehiculegate.mdl
+[14:36:30] Dispatch<STEAM_0:0:193599766> spawned model models/combinefortification/combineguardcontrol.mdl
+[14:36:32] Dispatch<STEAM_0:0:193599766> spawned model models/combinefortification/combineguardtower.mdl
+[14:37:00] CCA.C17-QrM.98240: // Dispatch toilet 
+[14:37:04] CCA.C17-QrM.98240: // Dispatch toilet 
+[14:37:04] CCA.C17-QrM.98240: // Dispatch toilet 
+[14:37:05] CCA.C17-QrM.98240: // Dispatch toilet 
+[14:37:05] CCA.C17-QrM.98240: // Dispatch toilet 
+[14:37:15] Denford F. MacMillian: // When the Dispatch toilet
+[14:37:44] Dispatch<STEAM_0:0:193599766> spawned effect models/combine_camera/combine_camera.mdl
+[14:37:53] Dispatch: /charsetmodel disp models/combine_camera/combine_camera.mdl
+[14:37:57] Denford F. MacMillian: // Would I explain the FULL protocol or just explain how said protocol or strcuture occurs.
+[14:38:21] Dispatch<STEAM_0:0:193599766> used the tool ladder on maps/rp_industrial17_v1.bsp
+[14:38:23] Dispatch<STEAM_0:0:193599766> used the tool ladder on maps/rp_industrial17_v1.bsp
+[14:38:26] Dispatch<STEAM_0:0:193599766> used the tool ladder on models/combinefortification/combineguardcontrol.mdl
+[14:38:27] Dispatch<STEAM_0:0:193599766> used the tool ladder on maps/rp_industrial17_v1.bsp
+[14:38:32] Dispatch<STEAM_0:0:193599766> used the tool ladder on models/combinefortification/combineguardcontrol.mdl
+[14:38:33] Dispatch<STEAM_0:0:193599766> used the tool ladder on maps/rp_industrial17_v1.bsp
+[14:38:36] Dispatch<STEAM_0:0:193599766> used the tool ladder on models/combinefortification/combineguardtower.mdl
+[14:38:37] Dispatch<STEAM_0:0:193599766> used the tool ladder on models/combinefortification/combineguardcontrol.mdl
+[14:38:59] Dispatch<STEAM_0:0:193599766> spawned model models/props_combine/cell_01_pod.mdl
+[14:39:05] Dispatch<STEAM_0:0:193599766> spawned model models/props_combine/breenpod.mdl
+[14:39:11] Dispatch<STEAM_0:0:193599766> spawned model models/props_combine/cell_01_pod.mdl
+[14:39:17] Dispatch<STEAM_0:0:193599766> spawned model models/props_combine/cell_01_pod_cheap.mdl
+[14:39:21] Dispatch<STEAM_0:0:193599766> spawned model models/props_combine/breenpod.mdl
+[14:39:32] Dispatch<STEAM_0:0:193599766> spawned ragdoll models/props_combine/eli_pod.mdl
+[14:39:43] Jonathan Jackson: // dispatnch
+[14:39:50] Dispatch<STEAM_0:0:193599766> spawned model models/props_combine/breenpod.mdl
+[14:39:56] Denford F. MacMillian: // Teh dispat
+[14:40:02] Dispatch<STEAM_0:0:193599766> spawned model models/props_combine/breenpod.mdl
+[14:40:42] Dispatch<STEAM_0:0:193599766> spawned model models/props_combine/breenpod.mdl
+[14:40:47] Dispatch<STEAM_0:0:193599766> spawned model models/props_combine/cell_01_pod_cheap.mdl
+[14:41:20] Dispatch<STEAM_0:0:193599766> spawned model models/props_combine/breenconsole.mdl
+[14:41:27] Jonathan Jackson: // Is anyone a CWU administrator?
+[14:41:36] Dispatch: // just q
+[14:41:40] Jonathan Jackson: // hek
+[14:41:44] CCA.C17-QrM.98240: // kek 
+[14:41:47] Denford F. MacMillian: // ke
+[14:41:50] CCA.C17-QrM.98240<STEAM_0:1:17219621> changed their name to Ethan King
+[14:41:50] Jonathan Jackson: // k
+[14:41:51] Dispatch<STEAM_0:0:193599766> spawned sent ix_testent4
+[14:41:56] Ethan King: // nuts 
+[14:42:55] Dispatch<STEAM_0:0:193599766> spawned model models/combinefortification/combinescreen1.mdl
+[14:43:21] Dispatch<STEAM_0:0:193599766> spawned model models/props_combine/combine_monitorbay.mdl
+[14:43:26] Dispatch<STEAM_0:0:193599766> spawned model models/props_combine/combine_intmonitor003.mdl
+[14:43:46] Jonathan Jackson: Hey, sorry if I am bothering you but could I ask a question?
+[14:44:06] Jonathan Jackson: Uh hello? You there in the head?
+[14:44:18] Denford F. MacMillian: My apologies.
+[14:44:21] Denford F. MacMillian: What do you need?
+[14:44:53] Ethan King: /pm dispatch models/props_combine/combine_interface001.mdl
+[14:45:01] Dispatch<STEAM_0:0:193599766> spawned model models/props_combine/combine_interface001.mdl
+[14:45:03] Jonathan Jackson: Just a question, do you happen to know of a location to buy furnishings?
+[14:45:16] Jonathan Jackson: Like tables, chairs, fridges, etc.
+[14:45:27] Dispatch<STEAM_0:0:193599766> spawned model models/props_wasteland/kitchen_shelf001a.mdl
+[14:45:29] Denford F. MacMillian: Sadly, no, I can try ask Civil Protection but...I assume they're doing something.
+[14:45:41] Jonathan Jackson: Ah I wouldn't bother them with it
+[14:45:49] Dispatch<STEAM_0:0:193599766> spawned model models/props_junk/wood_crate001a_damagedmax.mdl
+[14:45:51] Dispatch<STEAM_0:0:193599766> spawned model models/props_junk/wood_crate002a.mdl
+[14:45:51] Jonathan Jackson: Thanks though anyways.
+[14:45:55] Dispatch<STEAM_0:0:193599766> spawned model models/props_junk/wood_crate001a.mdl
+[14:46:05] Dispatch<STEAM_0:0:193599766> spawned model models/props_junk/wood_crate002a.mdl
+[14:46:05] Denford F. MacMillian: No problem, have a good one my friend.
+[14:46:09] Dispatch<STEAM_0:0:193599766> spawned model models/props_junk/wood_crate001a_damagedmax.mdl
+[14:46:11] Jonathan Jackson: /me waves to the man before moving on.
+[14:46:13] Dispatch<STEAM_0:0:193599766> spawned model models/props_junk/wood_crate002a.mdl
+[14:46:37] Dispatch<STEAM_0:0:193599766> spawned model models/props_junk/wood_crate002a.mdl
+[14:46:58] Dispatch<STEAM_0:0:193599766> spawned model models/props_junk/wood_crate001a.mdl
+[14:47:00] Finan O'Conall<STEAM_0:1:196547442> changed their name to CCA.C17-RCT.77460
+[14:47:11] Jonathan Jackson: // how is your ping so high
+[14:47:15] Jonathan Jackson: // drd
+[14:47:23] Dispatch: // im just built different
+[14:47:26] Jonathan Jackson: // chad
+[14:47:30] Dispatch<STEAM_0:0:193599766> used the tool permaprops on models/props_junk/wood_crate002a.mdl
+[14:47:31] Dispatch<STEAM_0:0:193599766> used the tool permaprops on models/props_junk/wood_crate002a.mdl
+[14:47:32] Dispatch<STEAM_0:0:193599766> used the tool permaprops on models/props_junk/wood_crate001a_damagedmax.mdl
+[14:47:33] Dispatch<STEAM_0:0:193599766> used the tool permaprops on models/combinefortification/combineguardcontrol.mdl
+[14:47:33] Denford F. MacMillian: /pm 77490 He'll arrive one day :hollow:
+[14:47:34] Dispatch<STEAM_0:0:193599766> used the tool permaprops on models/props_combine/combine_interface001.mdl
+[14:47:35] Dispatch<STEAM_0:0:193599766> used the tool permaprops on models/props_combine/combine_intmonitor003.mdl
+[14:47:36] Dispatch<STEAM_0:0:193599766> used the tool permaprops on models/props_wasteland/kitchen_shelf001a.mdl
+[14:47:37] Dispatch<STEAM_0:0:193599766> used the tool permaprops on models/props_combine/breenpod.mdl
+[14:47:37] Dispatch<STEAM_0:0:193599766> used the tool permaprops on models/props_combine/breenpod.mdl
+[14:47:38] Denford F. MacMillian: /pm 77460 He'll arrive one day :hollow:
+[14:47:38] Dispatch<STEAM_0:0:193599766> used the tool permaprops on models/props_combine/cell_01_pod_cheap.mdl
+[14:47:44] Jonathan Jackson: A nice stroll is always... ehh nice?
+[14:48:23] Jonathan Jackson: Free toilet paper, solid.
+[14:48:34] Jonathan Jackson: My statue!
+[14:48:37] Jonathan Jackson: Ah I missed you.
+[14:49:08] Jonathan Jackson: People do not respect the no littering thing huh?
+[14:49:36] Jonathan Jackson: // I see someone is trying to make a furniture store.
+[14:49:42] Dispatch teleported to Jonathan Jackson
+[14:50:22] Dispatch<STEAM_0:0:193599766> changed their name to Hollie Reynolds
+[14:50:35] Hollie Reynolds<STEAM_0:0:193599766> changed their name to CCA.C17-GRID.i1.23710
+[14:50:45] Ethan King: // Hmmmm
+[14:50:55] Jonathan Jackson: // What is it that Ethan King thinks of
+[14:51:00] CCA.C17-GRID.i1.23710<STEAM_0:0:193599766> changed their name to Paul-Henri Cartier
+[14:51:42] Jonathan Jackson: // Someone had stolen my horse statue and now I have stolen it back
+[14:51:58] Paul-Henri Cartier: /charsetskin paul 1
+[14:51:59] Paul-Henri Cartier: /charsetskin paul 2
+[14:52:00] Paul-Henri Cartier: /charsetskin paul 3
+[14:52:05] Denford F. MacMillian: // Are you gonna start a war?
+[14:52:09] Denford F. MacMillian: // Over the statue?
+[14:52:16] Jonathan Jackson: // I might have to, it is a priceless artifact.
+[14:52:20] Paul-Henri Cartier: /toggleraise
+[14:52:20] Denford F. MacMillian: // Lmaooo.
+[14:52:22] Paul-Henri Cartier: /toggleraise
+[14:52:36] Jonathan Jackson: // I will find whoever has done the stolening, and they will pay dearly
+[14:52:56] Paul-Henri Cartier: Hey
+[14:53:05] Ethan King: // And also, Ethan just thinks about the anomalous horrors he's seen every day 
+[14:53:06] Ethan King: Yo
+[14:53:15] Paul-Henri Cartier: find anything useful?
+[14:53:20] Ethan King: Your mother 
+[14:53:23] Ethan King: And also 
+[14:53:27] Ethan King: You know that Arcade? 
+[14:53:31] Paul-Henri Cartier: yeah?
+[14:53:43] Paul-Henri Cartier: /chargiveitem paul tool
+[14:53:44] Jonathan Jackson: // There are no horrors in the world, only those of which sane people think make them less sane
+[14:53:46] Ethan King: Seems the Combine have taken it over or some shit, see it as a quaratine zone 
+[14:54:01] Ethan King: That...
+[14:54:03] Ethan King: Is a train 
+[14:54:04] Paul-Henri Cartier: anything useful in it?
+[14:54:08] Paul-Henri Cartier: that is indeed
+[14:54:11] Ethan King: Some terminals and shit
+[14:54:14] Jonathan Jackson: // Therefor Ethan King is an insane lunatic and must be killed
+[14:54:18] Paul-Henri Cartier: mm
+[14:55:32] Ethan King: // He is in fact insane 
+[14:55:36] Ethan King: // That is true 
+[14:55:42] Jonathan Jackson: // I do not doubt such a thing
+[14:55:42] Paul-Henri Cartier: let's check it out?
+[14:55:47] Ethan King: Sure, I guess?
+[14:55:48] Client "Bean" connected.
+[14:55:54] Ethan King: Doubtful we'll find much other than bullshit 
+[14:56:50] Client "Bean" spawned in server <STEAM_0:1:591779303> (took 62 seconds).
+[14:56:56] Jonathan Jackson: // beAN
+[14:57:03] Paul-Henri Cartier: // afk
+[14:57:08] Jonathan Jackson: // gotcha
+[14:57:15] Bean<STEAM_0:1:591779303> changed their name to Alex Palovichov
+[14:57:57] Jonathan Jackson: // lagspike and I fall off a cliff, nice
+[14:59:36] Alex Palovichov: Hm
+[14:59:38] Alex Palovichov: Strange
+[14:59:41] Jonathan Jackson: Hmm, I should do some stolening from this at a point in time
+[14:59:44] Alex Palovichov: Did someone else break in?
+[15:01:34] Jonathan Jackson: // Citizen RP
+[15:03:19] Denford F. MacMillian: // Ethan King vs. Gonome.
+[15:03:27] Jonathan Jackson: // There are Gonomes?
+[15:03:46] Denford F. MacMillian: // No, but imagine.
+[15:03:47] Alex Palovichov<STEAM_0:1:591779303> changed their name to James McKay
+[15:04:34] Paul-Henri Cartier<STEAM_0:0:193599766> used the tool permaprops on maps/rp_industrial17_v1.bsp
+[15:04:34] Paul-Henri Cartier<STEAM_0:0:193599766> used the tool permaprops on maps/rp_industrial17_v1.bsp
+[15:04:50] Dropped "Ethan King" from server<STEAM_0:1:17219621>
+[15:05:49] Paul-Henri Cartier: /charkick rct
+[15:05:50] CCA.C17-RCT.77460<STEAM_0:1:196547442> changed their name to Nums
+[15:06:50] Dropped "Paul-Henri Cartier" from server<STEAM_0:0:193599766>
+[15:07:13] Nums<STEAM_0:1:196547442> changed their name to Finan O'Conall
+[15:07:50] James McKay: Yeah
+[15:07:52] James McKay: Eat shit!
+[15:13:11] James McKay: /y Ah hello friend!
+[15:13:17] James McKay: You do well?
+[15:13:20] Finan O'Conall: Hello there friendly.
+[15:13:31] Finan O'Conall: Yes, just doing some scavenging work.
+[15:13:39] James McKay: Ah, Making a livin' eh?
+[15:13:44] Finan O'Conall: That's a beautiful looking knife you have.
+[15:13:54] James McKay: it ain't mine! It was a gift...
+[15:14:07] James McKay: By...I think his name was king!
+[15:14:09] Finan O'Conall: Ah- I was going to ask if you are selling.
+[15:14:27] James McKay: No...no I don't sell gifts! 
+[15:14:32] James McKay: I keep them!
+[15:14:42] Finan O'Conall: What's your name stranger?
+[15:14:49] James McKay: Whats yours?
+[15:14:58] Finan O'Conall: Serviceman.
+[15:15:07] James McKay: Well...Ain't that a name...
+[15:15:13] Finan O'Conall: Indeed
+[15:15:34] James McKay: Well Now I gotta think of a fancy name! Hah!
+[15:16:01] Finan O'Conall: Right.. I'll call you Edinburgh after my home country.
+[15:16:13] Finan O'Conall: And what I assume is yours as well.
+[15:16:17] James McKay: Well...Thats good enough...
+[15:16:34] James McKay: No no! I wasn't born there....I was born...ehh...
+[15:16:38] James McKay: Where was I born?
+[15:16:56] James McKay: I forget this stuff...
+[15:17:18] Finan O'Conall: /me shrugs. "Well it was nice running into you friend I've got some stuff to work on.
+[15:17:31] James McKay: Yes...Good to see you too...Serviceman!
+[15:17:32] Finan O'Conall: Need anything, don't be afraid to holler.
+[15:17:39] Finan O'Conall: /me nods.
+[15:17:42] James McKay: Will do friend!
+[15:17:51] James McKay: /me Waves before walking away "Good bye now!"
+[15:18:55] Finan O'Conall: /chardesc | Short Brown Hair | Brown Beard | Green Eyes | Tall: 6'4 | Large, Burly Build | Irish Accent | Malnourished | Axe on back (Or in hand) |
+[15:19:31] James McKay: Ohh...whats this?
+[15:19:40] James McKay: Oh my...
+[15:21:06] James McKay: /y Hah! I find jackpot!
+[15:22:04] James McKay: /chardesc
+[15:23:43] James McKay: /chardesc
+[15:24:40] Finan O'Conall: Need anything, don't be afraid to holler.
+[15:24:45] James McKay: /chardesc
+[15:25:25] Finan O'Conall to admins: I'd like to attempt to craft a crossbow
+[15:26:30] James McKay: /chardesc
+[15:27:40] James McKay: /chardesc
+[15:27:54] Denford F. MacMillian: // Jackson, you're short.
+[15:27:58] James McKay: Man...This suit feels so good!
+[15:28:08] James McKay: So much better than my last one!
+[15:28:16] James McKay: /y Eat that combine! Your shit is mine now! Haha!
+[15:32:17] James McKay: /y Hah
+[15:32:24] James McKay: /y I win again!
+[15:32:42] Jonathan Jackson: // you are overly tall
+[15:32:50] Denford F. MacMillian: // True...........Fear me nerd........
+[15:33:16] Client "cass" connected.
+[15:33:17] James McKay: Ah a poor soul...
+[15:33:20] Finan O'Conall: /chardesc | Short Brown Hair | Brown Beard | Green Eyes | Tall: 6'2 | Large, Burly Build | Irish Accent | Malnourished | Axe on back (Or in hand) |
+[15:33:35] James McKay: May you rest...Poor soul
+[15:35:14] Client "cass" spawned in server <STEAM_0:0:57118159> (took 118 seconds).
+[15:35:46] cass<STEAM_0:0:57118159> changed their name to Selene Akehurst
+[15:35:52] Selene Akehurst: //ah. roleplay.
+[15:36:05] Denford F. MacMillian: // Yes.
+[15:36:20] Finan O'Conall: // what happened to Q
+[15:36:28] Denford F. MacMillian: // I think fell asleep or went AFK.
+[15:37:19] Dropped "Selene Akehurst" from server<STEAM_0:0:57118159>
+[15:38:09] James McKay to admins: I think my perks n shit is messed up
+[15:38:47] Jonathan Jackson: // He is definitely afk
+[15:38:54] Jonathan Jackson: // I have been waiting for him
+[15:38:57] James McKay: /ooc Bruh moment, the one time I need to reset my char
+[15:39:09] Jonathan Jackson: // I need hekkin stuff for my store
+[15:39:11] Denford F. MacMillian: // What does the little thing next to your name?
+[15:39:13] Jonathan Jackson: // So I can RP as CWU
+[15:39:28] Jonathan Jackson: // Idk its just an icon, its donator I think
+[15:39:42] James McKay: /ooc You need to RP as CWU?
+[15:40:06] Jonathan Jackson: // I want to make dosh I run have a business I literally can't run until I get supplies
+[15:42:21] Jonathan Jackson: Uhh?
+[15:42:36] James McKay: /y Good evening sir!
+[15:42:42] Jonathan Jackson: Uhh, hello?
+[15:42:46] James McKay: /y Do you need something?
+[15:42:57] Jonathan Jackson: I was just wondering what you were doing.
+[15:43:09] James McKay: /looc void that
+[15:43:15] James McKay: /y Sir?
+[15:43:25] Jonathan Jackson: /y You should get closer so I don't have to yell.
+[15:43:42] James McKay: /y Why should I! I have work to do! So if you need to speak with me! Speak to me now!
+[15:43:56] James McKay: /y If not then I will be on my way!
+[15:44:03] Jonathan Jackson: /y I was just wondering what you were doing.
+[15:44:22] James McKay: /y Cleaning! Or at least thats what I was told to do by Alex!
+[15:44:37] Jonathan Jackson: /y Whatever.
+[15:45:06] James McKay: Chump
+[15:51:14] Denford F. MacMillian: // Hey Finan, question.
+[15:53:18] Jonathan Jackson: //no question
+[15:53:29] Denford F. MacMillian: // The question........
+[15:53:33] Jonathan Jackson: // I feel like he is always afk
+[15:53:43] Denford F. MacMillian: // Probably is.
+[15:56:02] Denford F. MacMillian: // Me when the Citizen.
+[15:56:05] Denford F. MacMillian: /charfallover
+[15:57:15] Client "Boxcar Joe" connected.
+[15:58:06] James McKay: /chardesc
+[15:58:42] James McKay: /chardesc
+[16:00:25] Client "DRD" connected.
+[16:01:33] Client "DRD" spawned in server <STEAM_0:0:193599766> (took 68 seconds).
+[16:01:42] Jonathan Jackson: // he hath returned
+[16:01:48] Denford F. MacMillian: // hathh
+[16:02:03] Jonathan Jackson: // I will fucking rob this place and take everything
+[16:02:12] Jonathan Jackson: // give me my supplies 
+[16:02:15] Jonathan Jackson: // q return now
+[16:02:36] James McKay: /chardesc
+[16:02:48] DRD<STEAM_0:0:193599766> changed their name to Hollie Reynolds
+[16:03:13] James McKay: /chardesc
+[16:04:35] James McKay to admins: Would it be possible for my Char to be reset since my perks are broken for some reason?
+[16:04:47] Hollie Reynolds: /PLYSEARCH JAMES
+[16:05:08] Hollie Reynolds<STEAM_0:0:193599766> changed their name to Major-General Sir Issac Brock KB
+[16:05:18] Major-General Sir Issac Brock KB: /PM JAMES stand by for tp
+[16:05:18] Denford F. MacMillian: // SIr Issac, the final boss.
+[16:05:35] Major-General Sir Issac Brock KB brought Andrew Cloverman,Denford F. MacMillian,James McKay
+[16:05:37] Major-General Sir Issac Brock KB: .// ACK
+[16:05:49] Denford F. MacMillian: /looc we're gonna throw hands.
+[16:05:49] Major-General Sir Issac Brock KB returned Denford F. MacMillian to their original position
+[16:05:50] James McKay: /looc So, yeah I need my char reset
+[16:05:57] Denford F. MacMillian: // TP me back, Andrew.
+[16:05:58] Major-General Sir Issac Brock KB returned Andrew Cloverman to their original position
+[16:06:01] Denford F. MacMillian: // We're gonna throw hands.
+[16:06:05] James McKay: /ooc Why tho
+[16:06:11] Major-General Sir Issac Brock KB: .// okay so
+[16:06:14] James McKay: /looc Yeah all my skills are 0 for some reason
+[16:06:16] Jonathan Jackson: // attack
+[16:06:20] Major-General Sir Issac Brock KB: .// to do that i have to clone all of your stuff
+[16:06:24] Major-General Sir Issac Brock KB: .// empty your inventory
+[16:06:26] James McKay: /looc Yeah thats fine
+[16:06:36] Major-General Sir Issac Brock KB<STEAM_0:0:193599766> spawned sent ix_antlionnest
+[16:06:38] Major-General Sir Issac Brock KB<STEAM_0:0:193599766> spawned sent ix_airvent
+[16:06:51] James McKay: Something went flying over there
+[16:06:58] Major-General Sir Issac Brock KB<STEAM_0:0:193599766> used the tool duplicator on models/weapons/w_suitcase_passenger.mdl
+[16:07:00] Major-General Sir Issac Brock KB<STEAM_0:0:193599766> used the tool duplicator on maps/rp_industrial17_v1.bsp
+[16:07:06] James McKay: I think at least
+[16:07:07] Major-General Sir Issac Brock KB<STEAM_0:0:193599766> used the tool duplicator on models/weapons/w_knife_ct.mdl
+[16:07:09] Major-General Sir Issac Brock KB<STEAM_0:0:193599766> used the tool duplicator on maps/rp_industrial17_v1.bsp
+[16:07:12] Major-General Sir Issac Brock KB<STEAM_0:0:193599766> used the tool duplicator on maps/rp_industrial17_v1.bsp
+[16:07:14] Major-General Sir Issac Brock KB<STEAM_0:0:193599766> used the tool duplicator on models/illusion/eftcontainers/paracord.mdl
+[16:07:16] Major-General Sir Issac Brock KB<STEAM_0:0:193599766> used the tool duplicator on maps/rp_industrial17_v1.bsp
+[16:07:31] Major-General Sir Issac Brock KB<STEAM_0:0:193599766> used the tool duplicator on models/illusion/eftcontainers/plexiglass.mdl
+[16:07:32] Major-General Sir Issac Brock KB<STEAM_0:0:193599766> used the tool duplicator on maps/rp_industrial17_v1.bsp
+[16:07:33] Major-General Sir Issac Brock KB<STEAM_0:0:193599766> used the tool duplicator on models/props_c17/briefcase001a.mdl
+[16:07:34] Major-General Sir Issac Brock KB<STEAM_0:0:193599766> used the tool duplicator on maps/rp_industrial17_v1.bsp
+[16:07:36] Major-General Sir Issac Brock KB<STEAM_0:0:193599766> used the tool duplicator on models/tnb/items/facewrap.mdl
+[16:07:37] Major-General Sir Issac Brock KB<STEAM_0:0:193599766> used the tool duplicator on maps/rp_industrial17_v1.bsp
+[16:07:39] Major-General Sir Issac Brock KB<STEAM_0:0:193599766> used the tool duplicator on models/illusion/eftcontainers/insulatingtape.mdl
+[16:07:41] Major-General Sir Issac Brock KB<STEAM_0:0:193599766> used the tool duplicator on maps/rp_industrial17_v1.bsp
+[16:07:42] Major-General Sir Issac Brock KB<STEAM_0:0:193599766> used the tool duplicator on models/props_canal/mattpipe.mdl
+[16:07:44] Major-General Sir Issac Brock KB<STEAM_0:0:193599766> used the tool duplicator on maps/rp_industrial17_v1.bsp
+[16:07:46] Major-General Sir Issac Brock KB<STEAM_0:0:193599766> used the tool duplicator on models/illusion/eftcontainers/aquamari.mdl
+[16:07:47] Major-General Sir Issac Brock KB<STEAM_0:0:193599766> used the tool duplicator on maps/rp_industrial17_v1.bsp
+[16:07:48] Major-General Sir Issac Brock KB<STEAM_0:0:193599766> used the tool duplicator on models/gibs/scanner_gib02.mdl
+[16:07:49] Major-General Sir Issac Brock KB<STEAM_0:0:193599766> used the tool duplicator on maps/rp_industrial17_v1.bsp
+[16:07:50] Major-General Sir Issac Brock KB<STEAM_0:0:193599766> used the tool duplicator on models/gibs/antlion_gib_large_1.mdl
+[16:07:52] Major-General Sir Issac Brock KB<STEAM_0:0:193599766> used the tool duplicator on maps/rp_industrial17_v1.bsp
+[16:07:54] Major-General Sir Issac Brock KB<STEAM_0:0:193599766> used the tool duplicator on models/props_c17/briefcase001a.mdl
+[16:07:56] Major-General Sir Issac Brock KB<STEAM_0:0:193599766> used the tool duplicator on maps/rp_industrial17_v1.bsp
+[16:08:10] James McKay: Does that include the stuff in my suitcase too?
+[16:08:16] Major-General Sir Issac Brock KB: .// idk
+[16:08:18] James McKay: Oh
+[16:08:24] Major-General Sir Issac Brock KB<STEAM_0:0:193599766> spawned/gave himself swep weapon_egon
+[16:08:27] Major-General Sir Issac Brock KB: /toggleraise
+[16:08:40] James McKay: Hopefully it does...lol
+[16:08:47] James McKay: Alright, lemme make my new char
+[16:08:57] Major-General Sir Issac Brock KB: /plysearch james
+[16:09:04] Major-General Sir Issac Brock KB: go ahead and remake
+[16:09:57] Jonathan Jackson: // I must create more existant people
+[16:10:01] James McKay<STEAM_0:1:591779303> changed their name to James C. Mckay
+[16:10:05] Jonathan Jackson<STEAM_0:0:68118061> changed their name to Zombie
+[16:10:07] Denford F. MacMillian: // Fight me.
+[16:10:14] James C. Mckay: /ooc K made the new one
+[16:10:25] Denford F. MacMillian: // zombie :0
+[16:10:44] Zombie: // and then he said it's zombin time
+[16:10:47] Major-General Sir Issac Brock KB: drop coupon
+[16:10:52] Denford F. MacMillian: // zom
+[16:11:25] Major-General Sir Issac Brock KB brought James C. Mckay
+[16:11:29] Zombie: // give me pillz
+[16:11:40] James C. Mckay: /looc Shit I forgor to capitalize McKay
+[16:11:43] James C. Mckay: /looc Shucks
+[16:11:54] Major-General Sir Issac Brock KB: /charsetname james "James C. McKay"
+[16:11:55] James C. Mckay<STEAM_0:1:591779303> changed their name to James C. McKay
+[16:11:59] James C. McKay: /looc Thx 
+[16:12:04] Major-General Sir Issac Brock KB: /charsetname james "James McKay"
+[16:12:04] James C. McKay<STEAM_0:1:591779303> changed their name to James McKay
+[16:12:12] James McKay: /looc I own that....on a different character...
+[16:12:23] Major-General Sir Issac Brock KB teleported to Zombie
+[16:12:25] Zombie to admins: I need a pill for the zombie
+[16:12:38] Major-General Sir Issac Brock KB: /toggleraise
+[16:12:56] Zombie: /looc
+[16:13:00] Zombie: /looc oh that button does that
+[16:13:04] James McKay: /looc Yeah I cant pick up anything
+[16:13:42] Major-General Sir Issac Brock KB: .// pick your shit up
+[16:13:46] James McKay: /looc I cant
+[16:13:54] James McKay: /looc Owned by different character
+[16:14:27] Denford F. MacMillian: // FUCK.
+[16:14:30] Denford F. MacMillian: // THAT FUCKING SCARED ME.
+[16:14:33] Zombie: // lol
+[16:14:34] Denford F. MacMillian: // IT TOOK ALL MY HP!
+[16:14:39] Zombie: // lmAO
+[16:14:44] Denford F. MacMillian: // You fucking rat!
+[16:14:46] James McKay: /ooc I legit cant pick up any of that stuff
+[16:15:04] Major-General Sir Issac Brock KB: // i
+[16:15:08] Denford F. MacMillian: // He won.
+[16:15:14] Zombie: // woo baby lets go
+[16:15:19] Major-General Sir Issac Brock KB: /chargiveitem james "Infestation Control Suit"
+[16:15:19] Denford F. MacMillian: // I can't respawn.
+[16:15:23] Zombie: // oh
+[16:15:30] Major-General Sir Issac Brock KB: /chargiveitem james "Green Citizen Suit"
+[16:15:35] Zombie: // try switching chars and then respawning that way
+[16:15:37] Major-General Sir Issac Brock KB: /chargiveitem james "Antlion Carapace"
+[16:15:46] Major-General Sir Issac Brock KB: /chargiveitem james "Sewn Cloth"
+[16:15:47] Zombie: // Like going back to the original after switching
+[16:15:50] Major-General Sir Issac Brock KB: /chargiveitem james "Combat Knife"
+[16:15:50] Zombie: // It might work
+[16:15:59] Major-General Sir Issac Brock KB: .// YOU had conscript filters?
+[16:16:02] Major-General Sir Issac Brock KB: .// how many?
+[16:16:07] James McKay: 2 within my suits
+[16:16:11] Major-General Sir Issac Brock KB: /chargiveitem james "Conscript Filter" 2
+[16:16:31] Major-General Sir Issac Brock KB brought James McKay
+[16:16:37] Major-General Sir Issac Brock KB: /toggleraise
+[16:16:48] Dropped "Major-General Sir Issac Brock KB" from server<STEAM_0:0:193599766>
+[16:17:02] Zombie: // F
+[16:17:11] Zombie: // Should've gone on CP
+[16:17:12] James McKay: /ooc btw void me on the surface
+[16:17:14] Denford F. MacMillian<STEAM_0:0:170921441> changed their name to aaaaaaaadddddaaa
+[16:17:25] aaaaaaaadddddaaa<STEAM_0:0:170921441> changed their name to Denford F. MacMillian
+[16:17:29] James McKay: /looc void me
+[16:17:33] Zombie: /looc oh ok
+[16:17:34] James McKay: /looc I was in a sit
+[16:17:48] James McKay: /ooc God damn thats loud
+[16:17:51] Denford F. MacMillian: // LMAO.
+[16:17:56] Denford F. MacMillian: // Average Australian male's day.
+[16:18:09] James McKay<STEAM_0:1:591779303> changed their name to Alex Palovichov
+[16:18:25] Alex Palovichov: /y even odds
+[16:18:27] Denford F. MacMillian killed Zombie using ix_hands
+[16:18:30] Alex Palovichov: Oh
+[16:18:33] Alex Palovichov: Damn
+[16:18:34] Alex Palovichov: I was gonna
+[16:18:35] Alex Palovichov: Like
+[16:18:38] Alex Palovichov: Do a...
+[16:18:39] Alex Palovichov: Huh
+[16:18:43] Zombie: // and there goes my pill :(
+[16:18:50] Alex Palovichov: /me Sniffles
+[16:18:54] Alex Palovichov: You good?
+[16:19:09] Denford F. MacMillian: /me Walks over to the dead corpse and stomps onto the head, the man stepping back as he panted. The man appeared to be scratched, but appeared mostly stable.
+[16:19:10] Zombie<STEAM_0:0:68118061> changed their name to Jonathan Jackson
+[16:19:13] Denford F. MacMillian: I'm...I'm fine...
+[16:19:18] Finan O'Conall: // I just found a stimshot in the trash
+[16:19:20] Alex Palovichov: You sure? I got medical in my office...
+[16:19:21] Denford F. MacMillian: // You tried to fight an Aussie Chracter.
+[16:19:38] Jonathan Jackson: // did you search for it? or was it in a container
+[16:19:38] Alex Palovichov: But if you say you are alright...Thats good
+[16:19:44] Alex Palovichov: Here for doing my job for me
+[16:19:44] Denford F. MacMillian: I...
+[16:19:50] Denford F. MacMillian: Yeah...
+[16:19:57] Alex Palovichov: /me Reaches into a small pocket, taking out 20 Tokens
+[16:19:59] Alex Palovichov: /droptokens 20
+[16:20:06] Alex Palovichov: There ya go pal...
+[16:20:17] Denford F. MacMillian: /me would seem hesitant to take the tokens, but eventually took them, nodding.
+[16:20:22] Jonathan Jackson: /looc dang
+[16:20:23] Alex Palovichov: Oh hello there
+[16:20:28] Jonathan Jackson: Hello
+[16:20:39] Denford F. MacMillian: That was...
+[16:20:41] Denford F. MacMillian: Jesus Christ..
+[16:20:51] Alex Palovichov: /me Takes out his PDA checking it "Odd...My catalogs are missing a ICT Suit"
+[16:20:59] Alex Palovichov: Any of you see a ICT suit laying around?
+[16:21:10] Denford F. MacMillian: No I have not..
+[16:21:14] Jonathan Jackson: Not really
+[16:21:15] Alex Palovichov: Hm...Strange
+[16:21:15] Denford F. MacMillian: I can look around if you want.
+[16:21:24] Alex Palovichov: If you do find it...It will be quite helpful
+[16:21:35] Denford F. MacMillian: Understood.
+[16:21:35] Alex Palovichov: Don't really want ANOTHER person stealing one...
+[16:21:45] Alex Palovichov: Well...If you do find It...You will be rewarded
+[16:21:48] Jonathan Jackson: It it perhaps yellow?
+[16:21:55] Alex Palovichov: Correct, Standard ICT uniform
+[16:22:03] Jonathan Jackson: Did you have anyone working today?
+[16:22:03] Alex Palovichov: I have plenty of Tokens to go around
+[16:22:08] Denford F. MacMillian: WAit...
+[16:22:12] Denford F. MacMillian: Yeah...
+[16:22:12] Alex Palovichov: Working? uhh...Can't say I do...
+[16:22:13] Denford F. MacMillian: I saw one.
+[16:22:17] Alex Palovichov: Oh where?
+[16:22:23] Denford F. MacMillian: Someone was wearing it and ran to the CZ.
+[16:22:23] Jonathan Jackson: Yeah I saw some guy go into the CZ with one on earlier
+[16:22:34] Alex Palovichov: I...See....
+[16:22:36] Denford F. MacMillian: The zombie diverted his attention to me, so I had to fight him.
+[16:22:37] Jonathan Jackson: I asked him about it and he said he was doing ICT stuff for an "Alex"
+[16:22:55] Alex Palovichov: What kind of ICT stuff?
+[16:23:04] Alex Palovichov: Cause I haven't given any work...
+[16:23:13] Alex Palovichov: And I would also never allow any workers in the CZ...
+[16:23:17] Jonathan Jackson: I don't know, he was carrying a headcrab.
+[16:23:27] Alex Palovichov: Hm...
+[16:23:35] Alex Palovichov: Catch his name?
+[16:23:40] Jonathan Jackson: Nope
+[16:23:54] Alex Palovichov: Damn...Well thank you I guess...I'll make sure to keep an eye out for em...
+[16:24:07] Jonathan Jackson: Alright, no worries.
+[16:24:16] Alex Palovichov: If you see em again...Don't try speak to em...I'd hate to see any of you guys get hurt...
+[16:24:21] Alex Palovichov: Just report it to a CP or myself....
+[16:24:28] Jonathan Jackson: Sure thing.
+[16:24:32] Denford F. MacMillian: /me Nods.
+[16:24:35] Alex Palovichov: Right...Thank you very much you two
+[16:24:39] Alex Palovichov: You two stay safe now...
+[16:24:43] Jonathan Jackson: You as well
+[16:25:29] Client "cass" connected.
+[16:25:29] Alex Palovichov<STEAM_0:1:591779303> changed their name to James McKay
+[16:25:33] Jonathan Jackson: // now I want more funny pill haha :(
+[16:25:45] Jonathan Jackson: // It beats doing jack
+[16:25:52] Denford F. MacMillian: // Lmao.d
+[16:25:59] Denford F. MacMillian: // It was fun fighting a zombie with my bare hands.
+[16:26:11] Jonathan Jackson: // I couldn't fekin hit you
+[16:26:32] Denford F. MacMillian: // You hit me once.
+[16:26:33] Client "cass" spawned in server <STEAM_0:0:57118159> (took 64 seconds).
+[16:26:39] Jonathan Jackson: // I know
+[16:26:41] Jonathan Jackson: // ONCE
+[16:26:44] Denford F. MacMillian: // And now Denford's knuckles are hurting.
+[16:26:51] Jonathan Jackson: // geee
+[16:26:54] Jonathan Jackson: // epick
+[16:26:59] Denford F. MacMillian: // I'm being realistic.
+[16:27:33] cass<STEAM_0:0:57118159> changed their name to Selene Akehurst
+[16:28:21] Dropped "Selene Akehurst" from server<STEAM_0:0:57118159>
+[16:28:42] James McKay: /ooc I want to ask yall a question...What do yall want to see change in Alex
+[16:28:42] Jonathan Jackson: // This is the second time they conntected and disconnected f
+[16:28:47] Jonathan Jackson: // Alex?
+[16:28:57] Jonathan Jackson: // Stop being a moron combine suck up
+[16:29:01] James McKay: /ooc Alex Palovichov, Rich, Black Tier Loyalist
+[16:29:09] James McKay: /ooc Besides that...
+[16:29:09] Jonathan Jackson: // Have a mind outside of man becoming racist
+[16:29:11] Denford F. MacMillian: // What is Black Tier loyalist again?
+[16:29:16] James McKay: /ooc 100+ LP
+[16:29:22] Denford F. MacMillian: // :bruh:
+[16:29:29] James McKay: /ooc I'm a racist cause my model is a racist
+[16:29:30] Jonathan Jackson: // No Life + L
+[16:29:41] Jonathan Jackson: // Exactly just don't have a role model
+[16:29:49] James McKay: /ooc Legally required to be racist now
+[16:29:57] James McKay: /ooc I can't just NOT have one
+[16:30:47] Jonathan Jackson: // I need QQ
+[16:30:58] James McKay: /ooc Didn't Q say skills level up over time?
+[16:32:36] Denford F. MacMillian: // Who remembers Leonid Jukov?
+[16:32:55] Jonathan Jackson: // I do not
+[16:33:00] James McKay: /ooc he do not
+[16:33:23] Jonathan Jackson<STEAM_0:0:68118061> changed their name to Otto Von Habsburg
+[16:33:30] Denford F. MacMillian: // Alright, he's the guy that screams out a certain line, in 2011
+[16:33:32] Denford F. MacMillian: // In DarkRP.
+[16:33:35] Denford F. MacMillian: // With a Kliener model.
+[16:33:42] James McKay: /ooc RDM?
+[16:33:45] Denford F. MacMillian: // No.
+[16:33:56] Denford F. MacMillian: // "YOU'RE GONNA SUCK THIS" I'm not gonna say the rest lmao.
+[16:33:59] James McKay: /ooc Oh wait maybe
+[16:34:00] James McKay: /ooc YEP
+[16:34:06] Otto Von Habsburg: // RIGHT NOW
+[16:34:08] Otto Von Habsburg: // YESSS
+[16:34:09] Denford F. MacMillian: // YES!
+[16:34:12] Denford F. MacMillian: // YESSSSSSSSS!
+[16:34:12] Otto Von Habsburg: // YEEEEEEEEEEEEEEESSS
+[16:34:17] Otto Von Habsburg: // OORURUGG
+[16:34:20] Otto Von Habsburg: // OUURAGG
+[16:34:29] Otto Von Habsburg: // STOP LOOKING ST-
+[16:34:38] Denford F. MacMillian: // Man got arrested for public indecency.
+[16:34:55] James McKay: /ooc mfw ping makes me casually walk off a building
+[16:34:58] Otto Von Habsburg: // A man of the people
+[16:35:05] Denford F. MacMillian: // Ping moment.
+[16:35:24] Otto Von Habsburg: // I had that happen earlier
+[16:36:05] Otto Von Habsburg: // someone help me break out of this joint
+[16:36:22] Denford F. MacMillian: // Where are you?
+[16:36:29] Otto Von Habsburg: // train statilon
+[16:36:32] James McKay: /ooc MEtA GaMInG
+[16:36:47] Denford F. MacMillian: // Today I will meta game.
+[16:36:50] Otto Von Habsburg: // I want you to come to the train station
+[16:36:54] Otto Von Habsburg: // turn around
+[16:36:56] Otto Von Habsburg: // and look up
+[16:37:30] Otto Von Habsburg: /y LISTEN TO ME MY FOLLOWERS
+[16:37:34] Denford F. MacMillian: // HE WATCHES.
+[16:37:44] Otto Von Habsburg: /y I SEE THROUGH THE DECIET AND LIES OF THOSE IN CHARGE
+[16:38:00] Otto Von Habsburg: /y THOSE WHO DARE CLAIM THEY ARE OUR SAVOIRS
+[16:38:14] Denford F. MacMillian: /y You mean the Union?
+[16:38:15] Otto Von Habsburg: /y YET THEY DO NOT CONSIDER THE ONE WHO IS ELEVATED
+[16:38:29] Otto Von Habsburg: /y ONLY GOD MAY SAVE US NOW
+[16:38:39] Denford F. MacMillian: /y Then go to God.
+[16:38:42] Denford F. MacMillian: /y Jump, pussy.
+[16:38:45] Otto Von Habsburg: /y DO NOT LISTEN TO THEIR LIES
+[16:39:15] Otto Von Habsburg: You fool
+[16:39:18] Otto Von Habsburg: You insolent fool
+[16:39:24] Otto Von Habsburg: Thinking that I had no power here
+[16:39:29] Otto Von Habsburg: I am the elevated one
+[16:39:47] Otto Von Habsburg: And nobody can stop me, if the oppressors dare try they shall be met by fire and smite
+[16:40:33] Denford F. MacMillian: // NOOO
+[16:40:38] Otto Von Habsburg: // you fucked up
+[16:41:06] Denford F. MacMillian: There can be only one.
+[16:41:58] Otto Von Habsburg killed Denford F. MacMillian using ix_hands
+[16:42:04] Otto Von Habsburg: Never send a boy to do a mans job
+[16:42:15] Otto Von Habsburg: // The elevated one never loses
+[16:42:25] Denford F. MacMillian: // THERE'S ALWAYS ROUND TWO
+[16:43:07] Denford F. MacMillian: /looc WAIT.
+[16:43:08] Denford F. MacMillian: /looc WAIT.
+[16:43:09] Denford F. MacMillian: /looc WAIT.
+[16:43:13] Denford F. MacMillian: /me RKOs the fucker.
+[16:43:14] Denford F. MacMillian: /roll
+[16:43:19] Otto Von Habsburg: /me eats him
+[16:43:21] Otto Von Habsburg: /roll
+[16:43:30] Denford F. MacMillian: /me counters by ratioing him on twitter.
+[16:43:30] Denford F. MacMillian: /roll
+[16:43:36] Otto Von Habsburg: /me ratios back
+[16:43:40] Otto Von Habsburg: /roll
+[16:43:40] Denford F. MacMillian killed Otto Von Habsburg using ix_hands
+[16:43:45] Otto Von Habsburg: // NOOOOOO
+[16:43:50] Denford F. MacMillian: // YESSSSSSSSSSSSS!
+[16:44:00] Otto Von Habsburg<STEAM_0:0:68118061> changed their name to Zombie
+[16:44:08] Zombie: // better call paul
+[16:44:32] James McKay: /ooc Thank god that zombie can't beat me
+[16:44:51] Zombie: // You wish
+[16:44:59] Denford F. MacMillian: // Are we gonna have a round two/
+[16:45:14] Zombie: // You will trie
+[16:45:17] Zombie: // Try
+[16:45:21] Denford F. MacMillian: // Let's do this.
+[16:46:21] James McKay killed Zombie using player
+[16:46:26] James McKay: HAHA!
+[16:46:28] Zombie: // crowbar op nerf
+[16:46:36] James McKay: /ooc #1 Bozo
+[16:46:53] James McKay: /ooc Why you so damn fast tho
+[16:47:03] Zombie: // quicc
+[16:47:11] Denford F. MacMillian: // fest
+[16:47:22] James McKay: /y Hello there!
+[16:47:27] Denford F. MacMillian: /y Wha?
+[16:47:31] James McKay: /y How goes it!
+[16:47:31] Denford F. MacMillian: /y Hello!
+[16:47:38] James McKay: /y Watch it
+[16:47:40] Denford F. MacMillian: /y I'm trying to look for something, how does it-
+[16:47:42] James McKay: /Y Zombie!
+[16:48:04] James McKay: /y run for your life
+[16:48:08] Denford F. MacMillian: /y Give me your belt!
+[16:48:08] Zombie: rar
+[16:48:56] Denford F. MacMillian: /looc Hold.
+[16:49:09] Denford F. MacMillian: /looc Actual RP or just S2K.
+[16:49:22] Zombie: /looc bro I don't even have a pill
+[16:49:27] Denford F. MacMillian: /looc ;-;
+[16:49:36] Zombie: /looc sadge
+[16:49:44] Zombie: /looc I am fast as fuck boy
+[16:49:58] Denford F. MacMillian: /me Charges at the zombie, attempting to tackle it to the floor.
+[16:50:03] Denford F. MacMillian: /looc What's the strength thing again?
+[16:50:07] Denford F. MacMillian: /rollattribute strength
+[16:50:17] Zombie: /me slashes at him before he can do so.
+[16:50:26] Zombie: /rollattribute strength
+[16:50:55] Denford F. MacMillian: /looc Do you have a headcrab on or...
+[16:51:10] Zombie: /looc I wasn't even thinking this was gonna be IC
+[16:51:14] Denford F. MacMillian: /looc Ah.
+[16:51:27] Denford F. MacMillian: /looc It does give us something to do so.
+[16:51:31] Zombie: /looc I was just gonna run around town and do cool things like eat someone
+[16:51:36] Denford F. MacMillian: /looc LMAO.
+[16:51:55] Zombie: /me gets out from under and does a full fucking sprint like the corpse just ran a damn marathon
+[16:52:04] Zombie: /rollattribute agility
+[16:52:14] Denford F. MacMillian: /me Attempts to grab the corpse by the leg, trying to stop him from running./
+[16:52:18] Denford F. MacMillian: /rollattribute agility
+[16:52:24] Zombie: /me is sad
+[16:52:31] Zombie: /me attempts to slash at him.
+[16:52:36] Denford F. MacMillian: /Y You're not going any-where mother fucker!
+[16:52:43] Zombie: /rollattribute strength
+[16:52:50] Denford F. MacMillian: /looc I can't beat that.
+[16:52:53] Denford F. MacMillian: /looc So auto hit.
+[16:52:56] Zombie: /looc Its also a crit
+[16:53:07] Zombie: /me hits them so hard they fall off of the zombie
+[16:53:21] Denford F. MacMillian: /me Falls off of the zombie, the man groaning before getting up.
+[16:53:30] Zombie: // evasive
+[16:54:22] Zombie: // You'll never catch me coppers
+[16:54:52] James McKay: /ooc Bruh my CID name is different from my IC name...
+[16:54:59] Zombie: // based
+[16:55:00] Denford F. MacMillian: // Gonna get off for today, got classes today.
+[16:55:03] Denford F. MacMillian: // Cya guys!
+[16:55:08] Dropped "Denford F. MacMillian" from server<STEAM_0:0:170921441>
+[16:55:10] Zombie: // Alright, cya
+[16:55:23] Zombie<STEAM_0:0:68118061> changed their name to Jonathan Jackson
+[16:59:40] James McKay: /y .hold it
+[16:59:53] James McKay: /ooc Well thats enough sewer ratting for today, Cya yall
+[17:00:01] Dropped "James McKay" from server<STEAM_0:1:591779303>
+[17:03:01] Finan O'Conall: // SHUT UP
+[17:12:13] Dropped "Jonathan Jackson" from server<STEAM_0:0:68118061>
+[17:58:20] Dropped "Finan O'Conall" from server<STEAM_0:1:196547442>
+[18:12:43] Client "mrscbuff" connected.
+[22:49:41] Andrew Cloverman: /charsetthirst andrew 100
+[22:49:44] Andrew Cloverman: /charsethunger andrew 100
+<Logging continued in "data/ulx_logs/08-25-22.txt">

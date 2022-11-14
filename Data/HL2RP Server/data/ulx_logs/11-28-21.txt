@@ -1,0 +1,1078 @@
+<Logging continued from "data/ulx_logs/11-27-21.txt">
+[00:01:49] Client "Tundra" spawned in server <STEAM_0:1:526457179> (took 163 seconds).
+[00:02:14] Tundra<STEAM_0:1:526457179> changed their name to Mak 'Braam
+[00:02:23] Client "Enclave" spawned in server <STEAM_0:0:34463192> (took 197 seconds).
+[00:03:03] Enclave<STEAM_0:0:34463192> changed their name to Galargalar'Ralag
+[00:03:41] Client "matt saton" connected.
+[00:04:50] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 69 seconds).
+[00:05:39] matt saton<STEAM_0:1:53097688> changed their name to Freluci
+[00:05:49] Mak 'Braam: /charfallover
+[00:05:54] Freluci: /drawblackscreen
+[00:07:47] Freluci: /setscreentext World: Unknown
+[00:07:52] Freluci: /drawloading
+[00:08:12] Freluci brought Galargalar'Ralag,Mak 'Braam
+[00:08:18] Freluci: /clearscreendraws
+[00:08:51] Freluci: /event Before you know it, you're in an alien world.
+[00:09:11] Freluci: /event You don't recognize it. You feel a bit different, too. You look down and see that you're no longer transcendant.
+[00:09:15] Freluci set the hp for Everyone to 100
+[00:10:02] Freluci: /event Wait, where's Tal'Rukan?
+[00:10:05] Freluci: /event Wait, where's Freluci?
+[00:10:10] Freluci: /event What did he do?
+[00:10:22] Dropped "Galargalar'Ralag" from server<STEAM_0:0:34463192>
+[00:10:31] Client "Enclave" connected.
+[00:11:02] Dropped "Mak 'Braam" from server<STEAM_0:1:526457179>
+[00:11:02] Client "Tundra" connected.
+[00:11:43] Client "Enclave" spawned in server <STEAM_0:0:34463192> (took 72 seconds).
+[00:12:04] Client "Tundra" spawned in server <STEAM_0:1:526457179> (took 62 seconds).
+[00:12:17] Enclave<STEAM_0:0:34463192> changed their name to Galargalar'Ralag
+[00:12:23] Tundra<STEAM_0:1:526457179> changed their name to Mak 'Braam
+[00:12:28] Dropped "Galargalar'Ralag" from server<STEAM_0:0:34463192>
+[00:13:20] Client "Enclave" connected.
+[00:13:24] Dropped "Mak 'Braam" from server<STEAM_0:1:526457179>
+[00:13:54] Client "Tundra" connected.
+[00:14:15] Freluci: /chargiveflag freluci VvCc
+[00:14:15] Freluci<STEAM_0:1:53097688> spawned vehicle models/vehicles/prisoner_pod_inner.mdl
+[00:14:24] Freluci<STEAM_0:1:53097688> used the tool thruster on models/vehicles/prisoner_pod_inner.mdl
+[00:14:48] Freluci<STEAM_0:1:53097688> used the tool witchergate on maps/rp_dim2532.bsp
+[00:14:48] Freluci<STEAM_0:1:53097688> used the tool witchergate on maps/rp_dim2532.bsp
+[00:14:53] Client "Enclave" spawned in server <STEAM_0:0:34463192> (took 93 seconds).
+[00:15:08] Client "Tundra" spawned in server <STEAM_0:1:526457179> (took 74 seconds).
+[00:15:25] Freluci<STEAM_0:1:53097688> spawned model models/xen_props/pushpad/pad_piece1.mdl
+[00:15:26] Tundra<STEAM_0:1:526457179> changed their name to Mak 'Braam
+[00:15:27] Enclave<STEAM_0:0:34463192> changed their name to Galargalar'Ralag
+[00:15:38] Freluci<STEAM_0:1:53097688> spawned model models/xen_props/vort2_elev2.mdl
+[00:16:19] (SILENT) Freluci ran rcon command: sv_gravity 400
+[00:16:25] (SILENT) Freluci ran rcon command: sv_gravity 500
+[00:16:32] (SILENT) Freluci ran rcon command: sv_gravity 550
+[00:16:37] Freluci suicided!
+[00:16:37] Freluci slayed Themself
+[00:16:37] Freluci: !slay ^
+[00:16:48] Freluci: !goto gar
+[00:16:54] Freluci teleported to Galargalar'Ralag
+[00:16:54] Freluci: !goto gal
+[00:17:23] (SILENT) Freluci ran rcon command: sv_gravity 500
+[00:17:26] (SILENT) Freluci ran rcon command: sv_gravity 400
+[00:17:36] Freluci<STEAM_0:1:53097688> spawned effect models/half-life/crystal.mdl
+[00:17:41] Freluci<STEAM_0:1:53097688> spawned effect models/props_lab/crystalholder_claw.mdl
+[00:19:02] Freluci<STEAM_0:1:53097688> spawned model models/weapons/yurie_rustalpha/wm-rock.mdl
+[00:19:04] Freluci<STEAM_0:1:53097688> spawned model models/weapons/yurie_rustalpha/wm-rock.mdl
+[00:19:06] Freluci<STEAM_0:1:53097688> spawned model models/weapons/yurie_rustalpha/wm-rock.mdl
+[00:19:08] Freluci<STEAM_0:1:53097688> spawned model models/weapons/yurie_rustalpha/wm-rock.mdl
+[00:19:14] Freluci<STEAM_0:1:53097688> used the tool material on maps/rp_dim2532.bsp
+[00:19:14] Freluci<STEAM_0:1:53097688> used the tool material on maps/rp_dim2532.bsp
+[00:19:14] Freluci<STEAM_0:1:53097688> used the tool material on models/weapons/yurie_rustalpha/wm-rock.mdl
+[00:19:18] Freluci<STEAM_0:1:53097688> used the tool colour on maps/rp_dim2532.bsp
+[00:19:19] Freluci<STEAM_0:1:53097688> used the tool colour on models/weapons/yurie_rustalpha/wm-rock.mdl
+[00:19:20] Freluci<STEAM_0:1:53097688> used the tool colour on models/weapons/yurie_rustalpha/wm-rock.mdl
+[00:19:21] Freluci<STEAM_0:1:53097688> used the tool colour on models/weapons/yurie_rustalpha/wm-rock.mdl
+[00:19:32] Freluci<STEAM_0:1:53097688> used the tool colour on models/weapons/yurie_rustalpha/wm-rock.mdl
+[00:19:39] Freluci<STEAM_0:1:53097688> used the tool material on models/weapons/yurie_rustalpha/wm-rock.mdl
+[00:19:42] Freluci<STEAM_0:1:53097688> used the tool material on models/weapons/yurie_rustalpha/wm-rock.mdl
+[00:20:08] Freluci: /event Wait, where's Tal'Rukan?
+[00:20:11] Freluci: /event Wait, where's Freluci?
+[00:20:22] Freluci: /event Is that a Combine building?
+[00:20:28] Freluci: /event You must have gotten sucked in.
+[00:20:37] Freluci: /event But how do you get out?
+[00:20:43] Galargalar'Ralag: /VORT We are far from safty.
+[00:21:10] Galargalar'Ralag: /VORT We are far from safty.
+[00:21:33] Freluci<STEAM_0:1:53097688> used the tool duplicator on models/weapons/yurie_rustalpha/wm-rock.mdl
+[00:21:45] Freluci<STEAM_0:1:53097688> spawned NPC npc_headcrab
+[00:21:46] Freluci<STEAM_0:1:53097688> spawned NPC npc_headcrab
+[00:22:09] Freluci gave Everyone weapon_vortswep
+[00:22:14] Freluci<STEAM_0:1:53097688> spawned NPC npc_headcrab
+[00:22:48] Freluci: /event What the hell was that thing?
+[00:22:58] Freluci: /event Must have come from that shed that you saw it walk from. That on.e
+[00:23:03] Mak 'Braam: /vort We must move quickly and find our way home to our kin brother
+[00:23:12] Galargalar'Ralag: /vort Yes.
+[00:23:29] Galargalar'Ralag: /vort A strange object.
+[00:23:32] Freluci<STEAM_0:1:53097688> used the tool witchergate on maps/rp_dim2532.bsp
+[00:23:32] Freluci<STEAM_0:1:53097688> used the tool witchergate on maps/rp_dim2532.bsp
+[00:23:36] Freluci<STEAM_0:1:53097688> used the tool witchergate on maps/rp_dim2532.bsp
+[00:23:37] Freluci<STEAM_0:1:53097688> used the tool witchergate on maps/rp_dim2532.bsp
+[00:23:39] Mak 'Braam: /vort An egg perhaps?
+[00:23:49] Freluci: /event Looks like some kind of crystal.
+[00:24:07] Freluci: /event You feel some kind of energy radiating from it with your vortal powers.
+[00:24:09] Mak 'Braam: /vort Perhaps of some use, perhaps not, this one shall take it with.
+[00:24:15] Freluci: /event It's definitely not just some rock.
+[00:24:28] Mak 'Braam: /me reaches out and grabs ahold of the crystal rock.
+[00:24:31] Freluci: /createcustomitem "Xen Crystal" models/weapons/yurie_rustalpha/wm-rock.mdl "An orange crystal. You feel power pulsing from it."
+[00:24:42] Galargalar'Ralag: /vort We may find use in everything to escape this place of danger.
+[00:25:17] Mak 'Braam: /vort Yes brother, we must move on now to find our way back.
+[00:25:26] Mak 'Braam: /vort and to find a use for this crystal.
+[00:25:34] Freluci: /event You see some kind of indent in that one pod.
+[00:25:40] Freluci: /event Looks crystal shaped, you suppose.
+[00:26:04] Mak 'Braam: /vort Walk far we need not, our answer lies here!
+[00:26:26] Galargalar'Ralag: /vort We shall see.
+[00:26:37] Mak 'Braam: /me brings out the rock and tries to find a spot for it in the pod-thing.
+[00:27:02] Freluci: /event The crystal begins to glow in the pod thing. You feel the pod thing eminating energy with your vortigaunt senses.
+[00:27:16] Freluci<STEAM_0:1:53097688> spawned model models/xen_props/health_reg.mdl
+[00:27:33] Freluci<STEAM_0:1:53097688> used the tool witchergate on maps/rp_dim2532.bsp
+[00:27:39] Freluci teleported to Mak 'Braam
+[00:27:41] Freluci<STEAM_0:1:53097688> used the tool witchergate on maps/rp_dim2532.bsp
+[00:27:42] Mak 'Braam: /vort A portal key perhaps? Our ticket out of this strange world?
+[00:27:55] Galargalar'Ralag: /vort A portal, you are correct.
+[00:28:34] Mak 'Braam: /vort Let us hope for safe passage. We must move forward.
+[00:28:38] Galargalar'Ralag: /vort But an exit? Only through trial may we find out. This one will go first.
+[00:28:49] Freluci teleported to Galargalar'Ralag
+[00:28:59] Galargalar'Ralag: /vort A larger crystal.
+[00:29:10] Mak 'Braam: /vort For a larger portal?
+[00:29:25] Galargalar'Ralag: /vort This one hopes.
+[00:29:30] Freluci: //i fucked up and forgot to add uhh
+[00:29:31] Freluci: //the boss
+[00:29:33] Freluci: //but i'l lmake it work
+[00:31:40] Freluci<STEAM_0:1:53097688> used the tool witchergate on maps/rp_dim2532.bsp
+[00:31:43] Freluci teleported to Mak 'Braam
+[00:31:48] Freluci<STEAM_0:1:53097688> used the tool witchergate on maps/rp_dim2532.bsp
+[00:32:01] Freluci: /event Lots of technology to fiddle with. What do you fiddle with?
+[00:32:21] Galargalar'Ralag: /me examins the crystal with the beam of energy.
+[00:32:36] Freluci: /it Looks like you can switch out that crystal.
+[00:33:05] Mak 'Braam: /vort Different crystal, different effects?
+[00:33:13] Galargalar'Ralag: /vort One way to check.
+[00:33:25] Galargalar'Ralag: /me grabs a different crystal.
+[00:33:28] Freluci: /it You successfully pick it up.
+[00:33:40] Mak 'Braam: /me looks for some kind of off switch before trying to remove the current crystal, is there any?
+[00:33:45] Galargalar'Ralag: /it They lug it over to the contraption.
+[00:33:52] Freluci: /it Good thinking, yes there is.
+[00:34:07] Mak 'Braam: /vort We must power it off first, no telling what the beam shall do to us.
+[00:34:11] Freluci<STEAM_0:1:53097688> spawned model models/props_c17/oildrum001.mdl
+[00:34:30] Mak 'Braam: /me clicks the power button/lever to turn the beam off.
+[00:34:49] Freluci: /it You successfully turn off the machine. The first protal you came through disappears.
+[00:35:09] Galargalar'Ralag: /me sets the new crystal into the machine.
+[00:35:12] Mak 'Braam: /vort Now for the replacement.
+[00:35:27] Galargalar'Ralag: /vort Power it up.
+[00:35:35] Mak 'Braam: /vort Yes brother.
+[00:35:51] Mak 'Braam: /me clicks the power back to the "on" setting.
+[00:35:54] Freluci: /it You hear a portal open.
+[00:36:02] Galargalar'Ralag: /vort A new portal.
+[00:36:05] Freluci<STEAM_0:1:53097688> changed their name to OTA.C08-ECHO:OHZ.05912
+[00:36:19] Mak 'Braam: /vort With a new location, onwards once again.
+[00:36:24] OTA.C08-ECHO:OHZ.05912: charsetname echo OTA.B49-ECHO:OHZ.10549
+[00:36:29] Mak 'Braam: /vort One step closer to reaching our home.
+[00:36:30] OTA.C08-ECHO:OHZ.05912: /charsetname echo OTA.B49-ECHO:OHZ.10549
+[00:36:31] OTA.C08-ECHO:OHZ.05912<STEAM_0:1:53097688> changed their name to OTA.B49-ECHO:OHZ.10549
+[00:36:39] Mak 'Braam: /vort This one shall go first this time.
+[00:36:39] Galargalar'Ralag: /vort What of the big crystal?
+[00:36:57] Mak 'Braam: /vort We cannot bring it with.
+[00:37:30] Galargalar'Ralag: /vort There may be another time to examine it. Onward, brother.
+[00:37:40] OTA.B49-ECHO:OHZ.10549 teleported to Galargalar'Ralag
+[00:37:46] Galargalar'Ralag: /vort Brother...
+[00:37:55] OTA.B49-ECHO:OHZ.10549: /event The first thing you see is a vortigaunt suspended in... jelly?
+[00:38:03] Mak 'Braam: /vort This is...
+[00:38:12] OTA.B49-ECHO:OHZ.10549: /event Its eyes are closed. You see wires hooked up to it all over its body.
+[00:38:15] OTA.B49-ECHO:OHZ.10549: /event The poor soul.
+[00:38:19] Galargalar'Ralag: /me rushed to slam against thye glass, attempting to free it.
+[00:38:31] OTA.B49-ECHO:OHZ.10549: /event The glass is durable. It doesn't break.
+[00:38:46] Mak 'Braam: /me searches for any kind of control panels nearby on or around the container.
+[00:38:48] OTA.B49-ECHO:OHZ.10549: /event This probably isn't glass anyways, some kind of transparent Combine material.
+[00:38:51] OTA.B49-ECHO:OHZ.10549: /event Or super thick plastic.
+[00:39:06] Galargalar'Ralag: /vort There!
+[00:39:15] OTA.B49-ECHO:OHZ.10549: /event You only see a Combine lock, although oyu're not sure what that is given you're from 300 BC in earth times.
+[00:39:16] Galargalar'Ralag: /me points to the crystal above.
+[00:39:28] Mak 'Braam: /vort Yes! That must be connected to something.
+[00:39:30] OTA.B49-ECHO:OHZ.10549: /event Wait, you're in a Combine base, aren't you?
+[00:39:44] Mak 'Braam: /vort Crystals have shown to be important thus far.
+[00:40:29] OTA.B49-ECHO:OHZ.10549<STEAM_0:1:53097688> spawned model models/props_combine/combine_lock01.mdl
+[00:40:32] Galargalar'Ralag: /vort If the crystal powers that one's torment, perhaps breaking the crystal may free them from suffering.
+[00:40:33] Mak 'Braam: /me doesn't really take notice of the appearance of the structures around him, more concerned of the safety of one of his own than himself.
+[00:40:50] OTA.B49-ECHO:OHZ.10549: /it Fair.
+[00:40:54] Galargalar'Ralag: /me shoots at the crystal.
+[00:41:09] Mak 'Braam: /me fires his own beam at it as well.
+[00:41:16] OTA.B49-ECHO:OHZ.10549: /event The beam deflects right off. You hear boots from far away.
+[00:41:26] Galargalar'Ralag: /vort They approach, brother.
+[00:41:38] OTA.B49-ECHO:OHZ.10549: //this time, when you see OTA, they actually are OTA. not synths
+[00:41:54] Mak 'Braam: /vort As much as it saddens me to say it, we must move on. I fear there is nothing we can do at this moment.
+[00:41:59] OTA.B49-ECHO:OHZ.10549<STEAM_0:1:53097688> used the tool animprop on maps/rp_dim2532.bsp
+[00:42:00] OTA.B49-ECHO:OHZ.10549<STEAM_0:1:53097688> used the tool animprop on maps/rp_dim2532.bsp
+[00:42:08] OTA.B49-ECHO:OHZ.10549<STEAM_0:1:53097688> used the tool rope on maps/rp_dim2532.bsp
+[00:42:09] OTA.B49-ECHO:OHZ.10549<STEAM_0:1:53097688> used the tool rope on maps/rp_dim2532.bsp
+[00:42:11] OTA.B49-ECHO:OHZ.10549<STEAM_0:1:53097688> used the tool rope on models/vortigaunt_slave.mdl
+[00:42:12] OTA.B49-ECHO:OHZ.10549<STEAM_0:1:53097688> used the tool rope on maps/rp_dim2532.bsp
+[00:42:21] OTA.B49-ECHO:OHZ.10549: /event The vort is chained to the wall.
+[00:42:26] OTA.B49-ECHO:OHZ.10549: //oh
+[00:42:27] OTA.B49-ECHO:OHZ.10549: //it
+[00:42:28] OTA.B49-ECHO:OHZ.10549: //disppeared
+[00:42:31] OTA.B49-ECHO:OHZ.10549<STEAM_0:1:53097688> used the tool animprop on maps/rp_dim2532.bsp
+[00:42:44] OTA.B49-ECHO:OHZ.10549<STEAM_0:1:53097688> used the tool rope on models/vortigaunt_slave.mdl
+[00:42:45] OTA.B49-ECHO:OHZ.10549<STEAM_0:1:53097688> used the tool rope on maps/rp_dim2532.bsp
+[00:42:51] OTA.B49-ECHO:OHZ.10549<STEAM_0:1:53097688> used the tool animprop on maps/rp_dim2532.bsp
+[00:42:54] Mak 'Braam: /vort Do you wish to come with us brother?
+[00:43:02] OTA.B49-ECHO:OHZ.10549: /it It speaks in some language you've never heard before.
+[00:43:09] Galargalar'Ralag: /vort This one fears if we wait, we will be captured.
+[00:43:12] OTA.B49-ECHO:OHZ.10549: /it It doesn't seem to understand your vortigese.
+[00:43:23] OTA.B49-ECHO:OHZ.10549: /it It recognizes it, but he fails to comprehend it.
+[00:43:40] OTA.B49-ECHO:OHZ.10549: /it Or so you guess.
+[00:44:01] Galargalar'Ralag: /vort This one fears for them, but we are desperate. We can not hope to free all.
+[00:44:20] Mak 'Braam: /vort This one does not understand.
+[00:44:36] OTA.B49-ECHO:OHZ.10549: /it The slave looks confused. Concerned, confused, but also a twinge of relief?
+[00:44:37] Galargalar'Ralag: /vort To escape and survive is better than to stay and be enslaved.
+[00:45:10] Mak 'Braam: /vort We must help free our kin, whether we understand one another or not.
+[00:45:49] Galargalar'Ralag: /vort If these shackles are the same as before, we must find the control point to free that one. Our vortessence was of no use last time to free the other one...
+[00:45:51] Mak 'Braam: /me turns to the chained vortigaunt and points towards it shackles then at the chained one again hoping for some sort of response from it.
+[00:46:39] Client "Myoga The Flea" connected.
+[00:46:43] OTA.B49-ECHO:OHZ.10549: /it The chained vortigaunt would tug on his shackles. You can tell he's not exactly getting out easy.
+[00:46:56] Mak 'Braam: /vort Help me break the chains that bind them to the wall brother.
+[00:47:08] Galargalar'Ralag: /me would assist in the breaking of the chains.
+[00:47:36] Mak 'Braam: /me would be careful to aim closer to the wall away from the chained one to prevent accidentally harming them before trying to blast the chain.
+[00:47:54] OTA.B49-ECHO:OHZ.10549: /event The chain is broken! The vortigaunt is free from the wall.
+[00:48:04] OTA.B49-ECHO:OHZ.10549<STEAM_0:1:53097688> changed their name to Vortigaunt
+[00:48:09] Vortigaunt: /plytransfer vort cac
+[00:48:11] Galargalar'Ralag: /me makes a "follow me" gesture.
+[00:48:30] Vortigaunt: /charsetname vort CAC.B49-VRP.05498
+[00:48:31] Vortigaunt<STEAM_0:1:53097688> changed their name to CAC.B49-VRP.05498
+[00:48:44] Galargalar'Ralag: /vort If they can not understand voice, they may understand movement.
+[00:48:48] Mak 'Braam: /vort We must move quickly now, the issue of comprehension is for later.
+[00:48:58] Galargalar'Ralag: /vort Agreed.
+[00:49:30] CAC.B49-VRP.05498: /me would not at the "follow me" gesture.
+[00:49:47] CAC.B49-VRP.05498: /me would stand against the wall, hiding.
+[00:49:49] CAC.B49-VRP.05498: /me would take out his combat knife and cut the individual's ties.
+[00:49:53] CAC.B49-VRP.05498: .//voi that, bind
+[00:49:59] Mak 'Braam: /vort Maybe this one would know his way around this place.
+[00:50:26] Mak 'Braam: /vort We may not have the time to assist but with more of us we stand a better chance at the unknown.
+[00:50:43] CAC.B49-VRP.05498: /me would look around nervously.
+[00:51:05] Mak 'Braam: /me would examine the terminal
+[00:51:14] CAC.B49-VRP.05498: /me would stand in front of it and shake his head.
+[00:51:33] CAC.B49-VRP.05498: /me makes a throat cutting motion, then points at the door.
+[00:51:57] Mak 'Braam: /vort This one probably knows what lies beyond this door. We should follow their unspoken advice and continue on.
+[00:52:06] Galargalar'Ralag: /me nods his head.
+[00:52:21] Mak 'Braam: /vort As for the other kin, we surely do not have the time to save them sadly.
+[00:52:46] CAC.B49-VRP.05498: /me holds up his arm before the other vortigaunts can walk poast him.
+[00:53:09] CAC.B49-VRP.05498: /it You hear speech, again, in an unfamiliar language. It's vocoded.
+[00:53:25] CAC.B49-VRP.05498: /it It's the same language the slave vortigaunt was speaking in, though. 
+[00:53:50] Mak 'Braam: /me would speak in a quieter voice,
+[00:54:06] Mak 'Braam: /vort What is our next plan?
+[00:54:24] CAC.B49-VRP.05498: /me would point toward the forcefield, then make a zap attack gesture. Then he makes an explosion gesture. Then he makes a run gesture. Then he makes a door opening gesture.
+[00:54:48] Galargalar'Ralag: /vort To find another portal, and to find a safer place.
+[00:55:26] Mak 'Braam: /vort I think we must destroy the barrier, that must be our way forward.
+[00:56:02] Mak 'Braam: /vort Voices are near, when we act, we must act fast and be ready.
+[00:56:02] Client "Myoga The Flea" spawned in server <STEAM_0:0:52946002> (took 563 seconds).
+[00:56:08] Galargalar'Ralag: /me points to the field, then to the side of the field, seeing where exactly.
+[00:56:08] CAC.B49-VRP.05498: .//fuck
+[00:56:35] Mak 'Braam: /looc I recognize the steam name of the person joining from somewhere, cant remember where tho
+[00:56:57] CAC.B49-VRP.05498: /me points to the field, then makes an explosion gesture, then points backwards into the alley from where they came. Then he makes a door opening gestures.
+[00:57:02] CAC.B49-VRP.05498: .//gesture*
+[00:57:19] Myoga The Flea<STEAM_0:0:52946002> changed their name to Paul Krieg
+[00:57:29] Galargalar'Ralag: /me fires a bolt into the forcefield.
+[00:57:45] CAC.B49-VRP.05498: /it The forcefield goes down. The slave vortigaunt takes off down the alley.
+[00:57:49] CAC.B49-VRP.05498: //hey, you caught us at a uh
+[00:57:51] CAC.B49-VRP.05498: //weird time
+[00:58:17] Paul Krieg: /content
+[00:58:20] Mak 'Braam: // during a vortigaunt event
+[00:58:25] CAC.B49-VRP.05498: //^
+[00:58:39] Mak 'Braam: // very awkward time to join
+[00:58:58] Paul Krieg: // im sort of just wandering around hl2 servers haha
+[00:59:11] CAC.B49-VRP.05498: /me would open the door.
+[00:59:30] CAC.B49-VRP.05498: //we're doing a special vortigaunt update event, where everyone gets to play as avorigaunt
+[00:59:40] CAC.B49-VRP.05498: //you wanna join in?
+[00:59:44] Paul Krieg: // i think i noticed that joining. uh, sure?
+[00:59:55] CAC.B49-VRP.05498: //alright, go ahead and make a character in the alien faction
+[00:59:56] Dropped "Paul Krieg" from server<STEAM_0:0:52946002>
+[00:59:58] CAC.B49-VRP.05498: //should be-
+[01:00:01] Mak 'Braam: /vort Hopefully this one knows what they are doing.
+[01:00:02] CAC.B49-VRP.05498: //LMAO
+[01:00:29] CAC.B49-VRP.05498: /me would grab a sharp object off of the table.
+[01:01:09] CAC.B49-VRP.05498: /me would run up to a shackle bearing. He chains himself in, not locking it, and then begins to dig into himself with the xacto knife he picked up.
+[01:01:33] Mak 'Braam: /looc a shackle bearing?
+[01:01:34] CAC.B49-VRP.05498: /me would bite his lip, trying not ot scream in opain. He doesn't screma, but he's whimpering pretty awfully.
+[01:01:46] CAC.B49-VRP.05498: .//like a thing in the wall you can use to chian someone up to
+[01:01:52] CAC.B49-VRP.05498: //like a metal loop in the wall that has a chain on it
+[01:02:03] Galargalar'Ralag: .// self circumcision
+[01:02:28] Mak 'Braam: /me would use some of his power to help relieve the vortigaunts pains with chanting and glowing hands.
+[01:02:39] CAC.B49-VRP.05498: /it He's cutting around some of his shackles. He seems to be fairly inaccurate, but hopefully it's good enough to do whatevef he's trying to od.
+[01:02:53] CAC.B49-VRP.05498: /it After some time of sad whimpering, it's done. The vortigaunt is bleeding, but his shackles are out.
+[01:02:57] CAC.B49-VRP.05498: /it At least, some of them.
+[01:03:04] Galargalar'Ralag: /me stands at the door, ready to protect the group.
+[01:03:07] CAC.B49-VRP.05498: /v I need... a bandage... or biogel... Immediately.
+[01:03:16] CAC.B49-VRP.05498: /plytransfer cac alien
+[01:03:18] CAC.B49-VRP.05498: /v I need... a bandage... or biogel... Immediately.
+[01:03:37] CAC.B49-VRP.05498: /charsetclass cac freevort
+[01:03:39] CAC.B49-VRP.05498: /v I need... a bandage... or biogel... Immediately.
+[01:04:06] Mak 'Braam: /vort We have no supplies with us brother.
+[01:04:31] CAC.B49-VRP.05498: /v I'll find something...
+[01:04:40] Mak 'Braam: /vort We have been dropped here from a different world with nothing but ourselves.
+[01:05:02] CAC.B49-VRP.05498: /me would unchain himself and shamble, which is a strong word for what he's doing, because he's barely able to shample, across the room.
+[01:05:18] Mak 'Braam: /vort This one would hope you know a way out of this world.
+[01:05:50] CAC.B49-VRP.05498: /v If we keep talking, I'll catch a one-way train directly out of this world.
+[01:06:11] CAC.B49-VRP.05498<STEAM_0:1:53097688> spawned model models/props_combine/health_charger001.mdl
+[01:06:16] Mak 'Braam: /me would help the vortigaunt walk
+[01:06:34] CAC.B49-VRP.05498: /me would approach the medical station and rip out the antlion vial.
+[01:06:51] CAC.B49-VRP.05498: /me would unscrew the top and begin rubbing biogel onto his wounds.
+[01:07:26] Mak 'Braam: /vort Is there anything this one can do at this moment in time?
+[01:07:41] CAC.B49-VRP.05498: /v Healing magic would be nice.
+[01:07:45] Client "Myoga The Flea" connected.
+[01:07:47] CAC.B49-VRP.05498: /me would proceed to use some healing magic on himself as well.
+[01:07:49] CAC.B49-VRP.05498 set the hp for Everyone to 5
+[01:08:03] Mak 'Braam: /vort We shall do we can.
+[01:08:07] Mak 'Braam: /vort Brother
+[01:08:28] Mak 'Braam: /vort Would you assist this one in the healing of the injured?
+[01:08:49] Galargalar'Ralag: /vort With haste.
+[01:08:52] CAC.B49-VRP.05498 gave Everyone weapon_vortswep
+[01:09:27] Mak 'Braam: /me raises his hands towards the huddled vortigaunt and begins to hum words in vortigese with glowing hands.
+[01:09:44] Galargalar'Ralag: /me pulls vortessence together to heal the enslaved vortigaunt.
+[01:09:48] Client "Myoga The Flea" spawned in server <STEAM_0:0:52946002> (took 123 seconds).
+[01:10:38] Mak 'Braam: /looc bruh why were we so injured actually?
+[01:10:46] CAC.B49-VRP.05498: .//not sure
+[01:10:49] CAC.B49-VRP.05498: Ugh.
+[01:10:51] CAC.B49-VRP.05498: .//whoops
+[01:10:54] CAC.B49-VRP.05498: /v Ugh. Much better.
+[01:10:59] Myoga The Flea<STEAM_0:0:52946002> changed their name to Gar'Slargh
+[01:11:01] CAC.B49-VRP.05498: /v How did you get free?
+[01:11:23] CAC.B49-VRP.05498: /charsetmodel cac models/vortigaunt_blue_ep2anims.mdl
+[01:11:26] Mak 'Braam: /vort We were simply never not free.
+[01:11:36] CAC.B49-VRP.05498: /v What? How did you get here in the first place?
+[01:11:55] CAC.B49-VRP.05498: /me would proceed to tie the individual. Would they resist?
+[01:12:01] Mak 'Braam: /vort This one does not know exactly.
+[01:12:05] CAC.B49-VRP.05498: .//void that
+[01:12:05] Mak 'Braam: /looc assuming void that?
+[01:12:09] Mak 'Braam: /looc ye lol
+[01:12:09] CAC.B49-VRP.05498: .//yeah
+[01:12:10] CAC.B49-VRP.05498: .//bind
+[01:12:19] Galargalar'Ralag: /vort Our adept, Feluci, in an attempt to close the masked one's portal used three extracts.
+[01:12:40] CAC.B49-VRP.05498: /v A Combine portal?
+[01:12:43] Galargalar'Ralag: /vort Afterwards, we arrived here.
+[01:12:48] CAC.B49-VRP.05498: /v That's..
+[01:12:50] Mak 'Braam: /vort Something must have gone wrong, I fear for our kin's safety as we have no idea of their whereabouts.
+[01:12:51] CAC.B49-VRP.05498: /v A hell of a story.
+[01:12:52] Galargalar'Ralag: /vort Presumably.
+[01:12:56] CAC.B49-VRP.05498: .//sorry
+[01:13:00] CAC.B49-VRP.05498: /v That's quite the story.
+[01:13:11] CAC.B49-VRP.05498: /v So you don't know where you are?
+[01:13:17] Galargalar'Ralag: /vort We lost three of our kin. We are the only two that we know of so far.
+[01:13:17] CAC.B49-VRP.05498: /v Where are you trying to go?
+[01:13:18] Mak 'Braam: /vort We do not.
+[01:13:43] Galargalar'Ralag: /vort We try to escape, somewhere away from the masked ones.
+[01:13:50] Galargalar'Ralag: /vort Anywhere but here.
+[01:13:52] Gar'Slargh: ch1
+[01:14:01] CAC.B49-VRP.05498: /v Easiest place for you to go would be Earth.
+[01:14:15] CAC.B49-VRP.05498: /v But something tells me that's where you came from already.
+[01:14:25] Mak 'Braam: /looc did we?
+[01:14:30] Gar'Slargh: // how popular does this server get? :0
+[01:14:32] Mak 'Braam: /looc jk I know we did
+[01:14:55] CAC.B49-VRP.05498: //well
+[01:14:58] CAC.B49-VRP.05498: //we've kidn of gona under for a bit
+[01:15:07] CAC.B49-VRP.05498: //because i took a lot of time for my full time job and to program but
+[01:15:10] Mak 'Braam: /vort Wherever we shall go, this one prays it will be a safe journey.
+[01:15:18] CAC.B49-VRP.05498: //now that the vort update is out as of today
+[01:15:21] Gar'Slargh: // very cool
+[01:15:24] CAC.B49-VRP.05498: //i should have al ot more time to dedicate to RP
+[01:15:36] CAC.B49-VRP.05498: .//you definitely didn't lmao
+[01:15:41] CAC.B49-VRP.05498: .//you were on xanyths
+[01:15:44] CAC.B49-VRP.05498: .//xanthys
+[01:15:50] CAC.B49-VRP.05498: .//oh wait that was a joke
+[01:15:53] CAC.B49-VRP.05498: .//i'm sleep deprived as shit
+[01:15:57] CAC.B49-VRP.05498: .//let me catch you up gar
+[01:16:01] CAC.B49-VRP.05498: .//first off, welcome of course
+[01:16:05] CAC.B49-VRP.05498: .//great ot have you
+[01:16:32] CAC.B49-VRP.05498: .//so the event started off on a vortigaunt settlement many dimensions away, around the Earth year of 300 BC
+[01:16:54] CAC.B49-VRP.05498: .//race x started to invade, then you three went to quell it and close their portal. They failed, and a combine portal by coincidence opened
+[01:17:07] CAC.B49-VRP.05498: .//a vortigaunt master was like "hey this is fucked up, we need some larval essence"
+[01:17:15] CAC.B49-VRP.05498: .//because the settlement was an antlion farm
+[01:17:25] Mak 'Braam: /looc proceeded to OD on extract basically
+[01:17:26] Gar'Slargh: .// DAMN OK
+[01:17:51] CAC.B49-VRP.05498: .//i mean i'm paraphrasing
+[01:18:01] Mak 'Braam: /looc kaboom, got sucked into the portal and after a bit of shaboodling and wandering, here we are
+[01:18:04] CAC.B49-VRP.05498: .//he gets it, and they imbibe, they're all transcendant, really cool visual effect
+[01:18:05] CAC.B49-VRP.05498: .//yeah
+[01:18:16] CAC.B49-VRP.05498: .//a fvortiguant named freluci took with some extra stuff unsupervised
+[01:18:19] Gar'Slargh: .// did we go forward into time or something?
+[01:18:21] CAC.B49-VRP.05498: .//used way too much
+[01:18:23] CAC.B49-VRP.05498: .//:)
+[01:18:28] CAC.B49-VRP.05498: .//maybe yes, maybe no
+[01:18:32] CAC.B49-VRP.05498: .//who knows the answer
+[01:18:32] Gar'Slargh: .// right
+[01:18:33] CAC.B49-VRP.05498: ///i do
+[01:18:34] CAC.B49-VRP.05498: .//i do
+[01:18:36] CAC.B49-VRP.05498: .//it;s me
+[01:18:38] CAC.B49-VRP.05498: .//i know the asnwer
+[01:19:03] CAC.B49-VRP.05498: .//anyways they ended up here yeah
+[01:19:11] CAC.B49-VRP.05498: .//freluci and the master, tal'rukan are gone
+[01:19:14] CAC.B49-VRP.05498: .//and uhhh
+[01:19:15] CAC.B49-VRP.05498: .//yeah
+[01:19:22] CAC.B49-VRP.05498: .//you threee don't know english, i just got freed, yeah
+[01:19:24] CAC.B49-VRP.05498: .//let's go
+[01:19:28] Gar'Slargh: .// ok
+[01:19:30] CAC.B49-VRP.05498: .//oh also
+[01:19:37] CAC.B49-VRP.05498 gave Gar'Slargh weapon_vortswep
+[01:19:39] CAC.B49-VRP.05498: //have a vort swep
+[01:19:46] CAC.B49-VRP.05498: /toggleraise
+[01:19:50] CAC.B49-VRP.05498: .//hold zoom to access the radial menu
+[01:20:01] CAC.B49-VRP.05498: .///v is the vortigese command by the way
+[01:20:12] Gar'Slargh: .// would a vort talk in third person in it's own language or would they talk normally with each other?
+[01:20:36] CAC.B49-VRP.05498: .//i don't really do the third person thing, i'm not a huge fan of it, but do it how you like. when i use the vortigese command, i try ot tlak like they would in english
+[01:20:41] CAC.B49-VRP.05498: .//but that's a personal preference kind of thing 
+[01:20:45] Gar'Slargh: .// ok
+[01:20:51] CAC.B49-VRP.05498: .//this vortigaunt i'm playing as isn't super mature and is fairly assimilated into human culture
+[01:20:53] CAC.B49-VRP.05498: .//and also has been
+[01:20:54] CAC.B49-VRP.05498: .//yknow
+[01:20:56] CAC.B49-VRP.05498: //brutally beaten
+[01:20:58] CAC.B49-VRP.05498: .//so
+[01:21:02] CAC.B49-VRP.05498: .//he's not as uhhh
+[01:21:03] CAC.B49-VRP.05498: .//well spoken
+[01:21:22] Gar'Slargh: /v We are unaware of the situation or cause. What are we doing, Brothers?
+[01:21:37] Mak 'Braam: /vort This one does not know yet.
+[01:21:53] Galargalar'Ralag: /vort We escape this place. That is the first step of freedom.
+[01:21:59] CAC.B49-VRP.05498: /v We're trying to get to Earth.
+[01:22:09] CAC.B49-VRP.05498: /v If you've never been, it's not great, but it beats this place by a lot.
+[01:22:17] CAC.B49-VRP.05498: /v I know how this place works fairly well, hough.
+[01:22:19] CAC.B49-VRP.05498: .//though(
+[01:22:30] Mak 'Braam: /vort What of the barrier we attacked?
+[01:22:32] Gar'Slargh: We have been enslaved for so long, freedom is all we desire. We will help best we can in this quest.
+[01:22:36] Gar'Slargh: .// WOPOS
+[01:22:42] Gar'Slargh: /v We have been enslaved for so long, freedom is all we desire. We will help best we can in this quest.
+[01:22:45] CAC.B49-VRP.05498: /v That place is swarming with soldiers.
+[01:23:01] CAC.B49-VRP.05498: //oh btw you guys were free when the whole race x and combine thing happened
+[01:23:16] CAC.B49-VRP.05498: /v There's a main portal that they control from here. It's a one way portal into a location on Earth. The person in command here opens it.
+[01:23:35] CAC.B49-VRP.05498: /v I know where the find that person, thouh.
+[01:23:48] CAC.B49-VRP.05498: /v If we can get to them, we can get out of here.
+[01:23:52] Mak 'Braam: /vort What of our other kin still trapped?
+[01:23:54] Galargalar'Ralag: /vort Is that person going to open the gate?
+[01:24:25] CAC.B49-VRP.05498: /v Great point. We can try to release the vortigaunt binding systems.
+[01:24:32] Gar'Slargh: We do not wish to hurt someone of innocence. Will said person agree to our demands?
+[01:24:34] CAC.B49-VRP.05498: /v The control point is all the same people, thankfully.
+[01:24:37] Gar'Slargh: .// omg im dumb
+[01:24:41] Gar'Slargh: /v We do not wish to hurt someone of innocence. Will said person agree to our demands?
+[01:24:43] CAC.B49-VRP.05498: .//you're fine dw
+[01:24:46] CAC.B49-VRP.05498: /v These people are not innocent.
+[01:24:53] CAC.B49-VRP.05498: /v This is the Combine.
+[01:25:04] Gar'Slargh: /v I did not understand this...
+[01:25:05] CAC.B49-VRP.05498: /v They will not agree. We will make them agree, or we will agree for them.
+[01:25:18] Gar'Slargh: /v As you wish, Brother. We will help in this cause best we can.
+[01:25:33] CAC.B49-VRP.05498: /v Let us go, then. Are you all ready to fight?
+[01:25:40] Gar'Slargh: /me nodded his head.
+[01:25:41] Galargalar'Ralag: /v The masked ones will try to stop our advances. We will advance anyway.
+[01:25:43] Mak 'Braam: /vort This one is prepared.
+[01:25:48] Gar'Slargh: /v For freedom!
+[01:26:16] CAC.B49-VRP.05498: /v Let us take our freedom back!
+[01:26:29] CAC.B49-VRP.05498: .//i gotta spawn NPCs
+[01:26:31] CAC.B49-VRP.05498: .//so you all go ahead
+[01:26:34] Gar'Slargh: .// ok
+[01:26:46] CAC.B49-VRP.05498<STEAM_0:1:53097688> spawned NPC npc_combine_s
+[01:27:01] CAC.B49-VRP.05498<STEAM_0:1:53097688> spawned NPC npc_combine_s
+[01:27:05] CAC.B49-VRP.05498: .//there
+[01:27:21] CAC.B49-VRP.05498<STEAM_0:1:53097688> spawned NPC npc_combine_s
+[01:27:22] CAC.B49-VRP.05498<STEAM_0:1:53097688> spawned NPC npc_combine_s
+[01:27:25] CAC.B49-VRP.05498<STEAM_0:1:53097688> spawned NPC npc_combine_s
+[01:27:25] Gar'Slargh: /me opened the door.
+[01:27:27] Mak 'Braam: /vortfar I found a way
+[01:27:27] CAC.B49-VRP.05498<STEAM_0:1:53097688> spawned NPC npc_combine_s
+[01:27:50] CAC.B49-VRP.05498<STEAM_0:1:53097688> spawned NPC npc_combine_s
+[01:28:00] CAC.B49-VRP.05498<STEAM_0:1:53097688> spawned NPC npc_combine_s
+[01:28:04] CAC.B49-VRP.05498<STEAM_0:1:53097688> spawned NPC npc_combine_s
+[01:28:05] CAC.B49-VRP.05498<STEAM_0:1:53097688> spawned NPC npc_combine_s
+[01:28:06] Mak 'Braam: /vort The way lead nowhere unfortunately
+[01:28:13] CAC.B49-VRP.05498<STEAM_0:1:53097688> spawned NPC npc_manhack
+[01:28:18] CAC.B49-VRP.05498<STEAM_0:1:53097688> spawned NPC npc_clawscanner
+[01:28:18] Galargalar'Ralag: /vort The door leads nowhere.
+[01:28:48] CAC.B49-VRP.05498<STEAM_0:1:53097688> spawned NPC npc_combine_s
+[01:28:49] CAC.B49-VRP.05498<STEAM_0:1:53097688> spawned NPC npc_combine_s
+[01:29:01] CAC.B49-VRP.05498<STEAM_0:1:53097688> spawned NPC npc_combine_s
+[01:29:42] CAC.B49-VRP.05498<STEAM_0:1:53097688> spawned NPC npc_combine_s
+[01:29:42] CAC.B49-VRP.05498<STEAM_0:1:53097688> spawned NPC npc_combine_s
+[01:29:43] Dropped "Gar'Slargh" from server<STEAM_0:0:52946002>
+[01:29:44] CAC.B49-VRP.05498<STEAM_0:1:53097688> spawned NPC npc_manhack
+[01:29:44] CAC.B49-VRP.05498<STEAM_0:1:53097688> spawned NPC npc_manhack
+[01:29:48] CAC.B49-VRP.05498<STEAM_0:1:53097688> spawned NPC npc_synth_e
+[01:29:50] CAC.B49-VRP.05498<STEAM_0:1:53097688> spawned NPC npc_synth_s
+[01:29:50] Mak 'Braam: /vort We must move onwards!
+[01:29:53] CAC.B49-VRP.05498<STEAM_0:1:53097688> spawned NPC npc_synth_s
+[01:29:55] CAC.B49-VRP.05498<STEAM_0:1:53097688> spawned NPC npc_combine_s
+[01:30:02] CAC.B49-VRP.05498<STEAM_0:1:53097688> spawned NPC npc_combine_s
+[01:30:02] CAC.B49-VRP.05498<STEAM_0:1:53097688> spawned NPC npc_combine_s
+[01:30:04] CAC.B49-VRP.05498<STEAM_0:1:53097688> spawned NPC npc_combine_s
+[01:30:05] CAC.B49-VRP.05498<STEAM_0:1:53097688> spawned NPC npc_synth_s
+[01:30:07] Mak 'Braam: /vort Where is the other?
+[01:30:14] CAC.B49-VRP.05498<STEAM_0:1:53097688> spawned NPC npc_cstalker
+[01:30:18] Galargalar'Ralag: /vort Captured is this ones guess.
+[01:30:23] CAC.B49-VRP.05498<STEAM_0:1:53097688> spawned NPC npc_cstalker
+[01:30:27] CAC.B49-VRP.05498<STEAM_0:1:53097688> spawned NPC npc_cstalker
+[01:30:38] CAC.B49-VRP.05498 set the hp for Everyone to 200
+[01:30:41] CAC.B49-VRP.05498 set the hp for Everyone to 100
+[01:31:01] CAC.B49-VRP.05498<STEAM_0:1:53097688> spawned NPC npc_manhack
+[01:31:08] CAC.B49-VRP.05498<STEAM_0:1:53097688> spawned/gave himself swep weapon_frag
+[01:31:08] CAC.B49-VRP.05498: /toggleraise
+[01:31:30] CAC.B49-VRP.05498 set the hp for Everyone to 100
+[01:31:36] Galargalar'Ralag was killed by npc_synth_s
+[01:31:46] Galargalar'Ralag: // That synth aint no joke
+[01:31:52] CAC.B49-VRP.05498 set the hp for Everyone to 100
+[01:31:56] CAC.B49-VRP.05498: //did it kil lyou
+[01:32:01] CAC.B49-VRP.05498 brought Galargalar'Ralag
+[01:32:02] Mak 'Braam: // my beam stopped working when he died
+[01:32:05] CAC.B49-VRP.05498 gave Everyone weapon_vortbeam
+[01:32:08] Galargalar'Ralag: // yea
+[01:33:15] Galargalar'Ralag: // So do I get to continue or is that it for me?>
+[01:33:23] CAC.B49-VRP.05498: //no you're good man
+[01:33:34] Galargalar'Ralag: // Then can I ahve the swep pls
+[01:33:42] CAC.B49-VRP.05498 gave Galargalar'Ralag weapon_vortswep
+[01:33:48] Galargalar'Ralag: // thx
+[01:33:52] CAC.B49-VRP.05498: //yeye
+[01:33:58] CAC.B49-VRP.05498: //WHY IS MY GRAVITY INSANE
+[01:34:00] CAC.B49-VRP.05498: /toggleraise
+[01:34:02] CAC.B49-VRP.05498: /y This is it!
+[01:34:07] CAC.B49-VRP.05498: /y The leader is in here.
+[01:34:19] CAC.B49-VRP.05498 set the hp for Everyone to 300
+[01:34:23] CAC.B49-VRP.05498: /toggleraise
+[01:34:24] CAC.B49-VRP.05498: /toggleraise
+[01:34:28] CAC.B49-VRP.05498: /toggleraise
+[01:34:43] CAC.B49-VRP.05498 was killed by npc_synth_s
+[01:34:44] Mak 'Braam: // my gravity is fine
+[01:34:54] CAC.B49-VRP.05498: //my gravity is so low
+[01:35:03] CAC.B49-VRP.05498 gave Themself weapon_vortswep
+[01:35:14] CAC.B49-VRP.05498: /toggleraise
+[01:35:18] CAC.B49-VRP.05498: He should be in here.
+[01:35:43] Mak 'Braam: /vort Once inside, what is our next action?
+[01:36:06] CAC.B49-VRP.05498: Kill the leader. y'
+[01:36:09] CAC.B49-VRP.05498: .//fuck
+[01:36:14] CAC.B49-VRP.05498: /v Kill the leader. You'll know him when you see him.
+[01:36:21] CAC.B49-VRP.05498<STEAM_0:1:53097688> changed their name to UU-CmD.08
+[01:36:23] UU-CmD.08: /charsetmodel cmd models/combine_guard.mdl
+[01:36:26] Galargalar'Ralag: /vort Then we shall do so.
+[01:36:37] UU-CmD.08: //door is unlocked
+[01:37:03] UU-CmD.08: //that was
+[01:37:04] UU-CmD.08: //hmm
+[01:37:08] UU-CmD.08: //i forgot you guys can't speak neglish
+[01:37:09] UU-CmD.08: //fuck
+[01:37:11] UU-CmD.08: //let me redo that
+[01:37:14] Mak 'Braam: // vort beam hurts
+[01:37:25] Mak 'Braam: // plus all we know is "kill the leader"
+[01:37:34] UU-CmD.08<STEAM_0:1:53097688> spawned NPC npc_combineguard
+[01:37:39] UU-CmD.08 set the hp for Everyone to 20000
+[01:37:47] UU-CmD.08 set the hp for Everyone to 300
+[01:38:02] UU-CmD.08<STEAM_0:1:53097688> spawned NPC npc_combineguard
+[01:38:03] UU-CmD.08<STEAM_0:1:53097688> spawned NPC npc_combineguard
+[01:38:12] UU-CmD.08<STEAM_0:1:53097688> spawned NPC npc_combineguard
+[01:38:14] UU-CmD.08<STEAM_0:1:53097688> spawned NPC npc_combineguard
+[01:38:18] UU-CmD.08<STEAM_0:1:53097688> spawned NPC npc_manhack
+[01:38:19] UU-CmD.08<STEAM_0:1:53097688> spawned NPC npc_manhack
+[01:38:20] UU-CmD.08<STEAM_0:1:53097688> spawned NPC npc_combine_s
+[01:38:21] UU-CmD.08<STEAM_0:1:53097688> spawned NPC npc_combine_s
+[01:38:37] UU-CmD.08<STEAM_0:1:53097688> changed their name to CAC.B49-VRP.05498
+[01:38:48] CAC.B49-VRP.05498 set the hp for Everyone to 300
+[01:38:54] CAC.B49-VRP.05498 gave Everyone weapon_vortswep
+[01:38:55] CAC.B49-VRP.05498: /toggleraise
+[01:39:15] CAC.B49-VRP.05498<STEAM_0:1:53097688> spawned NPC npc_combine_s
+[01:39:16] CAC.B49-VRP.05498<STEAM_0:1:53097688> spawned NPC npc_combine_s
+[01:39:18] CAC.B49-VRP.05498<STEAM_0:1:53097688> spawned NPC npc_combine_s
+[01:39:35] CAC.B49-VRP.05498: /toggleraise
+[01:39:39] CAC.B49-VRP.05498: /toggleraise
+[01:39:41] CAC.B49-VRP.05498 was killed by npc_combineguard
+[01:39:44] CAC.B49-VRP.05498 gave Everyone weapon_vortswep
+[01:39:45] CAC.B49-VRP.05498 set the hp for Everyone to 300
+[01:39:52] CAC.B49-VRP.05498 gave Everyone weapon_vortswep
+[01:39:55] CAC.B49-VRP.05498: /toggleraise
+[01:39:56] CAC.B49-VRP.05498: /toggleraise
+[01:39:57] CAC.B49-VRP.05498: /toggleraise
+[01:39:58] CAC.B49-VRP.05498: /toggleraise
+[01:39:59] CAC.B49-VRP.05498: /toggleraise
+[01:40:02] CAC.B49-VRP.05498 gave Everyone weapon_vortswep
+[01:40:03] CAC.B49-VRP.05498 set the hp for Everyone to 300
+[01:40:09] CAC.B49-VRP.05498: /toggleraise
+[01:40:14] CAC.B49-VRP.05498: /toggleraise
+[01:40:19] CAC.B49-VRP.05498: /toggleraise
+[01:40:24] CAC.B49-VRP.05498: /toggleraise
+[01:40:26] CAC.B49-VRP.05498 set the hp for Everyone to 300
+[01:40:29] CAC.B49-VRP.05498 set the hp for Everyone to 300
+[01:40:37] CAC.B49-VRP.05498: /v IT'S ALMOST DEAD! IT HAS TO BE!
+[01:40:45] CAC.B49-VRP.05498 set the hp for Everyone to 300
+[01:41:08] CAC.B49-VRP.05498: /toggleraise
+[01:41:10] CAC.B49-VRP.05498 set the hp for Everyone to 300
+[01:41:15] CAC.B49-VRP.05498: /toggleraise
+[01:41:43] Mak 'Braam: // vfire can grow really really big btw
+[01:41:44] CAC.B49-VRP.05498<STEAM_0:1:53097688> spawned NPC npc_manhack
+[01:41:45] CAC.B49-VRP.05498<STEAM_0:1:53097688> spawned NPC npc_manhack
+[01:41:47] CAC.B49-VRP.05498<STEAM_0:1:53097688> spawned NPC npc_leetator
+[01:41:48] CAC.B49-VRP.05498<STEAM_0:1:53097688> spawned NPC npc_manhack
+[01:41:49] CAC.B49-VRP.05498<STEAM_0:1:53097688> spawned NPC npc_manhack
+[01:41:53] CAC.B49-VRP.05498 set the hp for Everyone to 300
+[01:42:32] CAC.B49-VRP.05498 was killed by npc_combineguard
+[01:42:34] CAC.B49-VRP.05498 set the hp for Everyone to 300
+[01:42:42] CAC.B49-VRP.05498 teleported to Galargalar'Ralag
+[01:42:47] CAC.B49-VRP.05498 gave Everyone weapon_vortswep
+[01:42:48] CAC.B49-VRP.05498 teleported to Galargalar'Ralag
+[01:42:50] CAC.B49-VRP.05498 gave Everyone weapon_vortswep
+[01:42:52] CAC.B49-VRP.05498 set the hp for Everyone to 300
+[01:42:54] CAC.B49-VRP.05498: /toggleraise
+[01:43:27] CAC.B49-VRP.05498: //UHH
+[01:43:33] CAC.B49-VRP.05498: //i jhacked up the damage to 999999
+[01:43:34] CAC.B49-VRP.05498 was killed by npc_combineguard
+[01:43:35] CAC.B49-VRP.05498: //and it's still not dead
+[01:43:36] CAC.B49-VRP.05498: //wtf
+[01:43:39] CAC.B49-VRP.05498 set the hp for Everyone to 20000
+[01:44:02] Mak 'Braam: // seems to be dying in some way
+[01:44:30] Galargalar'Ralag: // idk thje other one died much much earlier
+[01:45:09] CAC.B49-VRP.05498 set the hp for Everyone to 300
+[01:45:21] CAC.B49-VRP.05498 gave Everyone weapon_vortswep
+[01:45:22] CAC.B49-VRP.05498: /toggleraise
+[01:45:29] CAC.B49-VRP.05498: /toggleraise
+[01:45:30] CAC.B49-VRP.05498: /toggleraise
+[01:45:31] CAC.B49-VRP.05498: /toggleraise
+[01:45:33] CAC.B49-VRP.05498: /toggleraise
+[01:45:38] CAC.B49-VRP.05498: //I MADE IT LITERALLY EST THE THING AS DEAD
+[01:45:39] CAC.B49-VRP.05498: //DOESN'T DIE
+[01:46:02] CAC.B49-VRP.05498 was killed by npc_combineguard
+[01:46:05] Galargalar'Ralag: // lest say we did
+[01:46:45] Galargalar'Ralag: // we've been fighting for like 10 minutes
+[01:46:47] CAC.B49-VRP.05498 gave Themself weapon_vortswep
+[01:46:49] CAC.B49-VRP.05498: //yeah waht hte fuck
+[01:46:50] CAC.B49-VRP.05498: /toggleraise
+[01:46:51] CAC.B49-VRP.05498: /toggleraise
+[01:46:52] CAC.B49-VRP.05498: /toggleraise
+[01:46:53] CAC.B49-VRP.05498: /toggleraise
+[01:46:54] CAC.B49-VRP.05498: /toggleraise
+[01:46:56] Galargalar'Ralag: // im tired
+[01:47:09] CAC.B49-VRP.05498: //God awful NPC
+[01:47:52] CAC.B49-VRP.05498<STEAM_0:1:53097688> spawned ragdoll models/combine_guard.mdl
+[01:48:08] CAC.B49-VRP.05498: /v It's dead.
+[01:48:20] CAC.B49-VRP.05498: /v Never seen a metrocop in a sentinel's body, huh?
+[01:48:33] CAC.B49-VRP.05498: /v Let's get this guy to the control apnel
+[01:48:36] Galargalar'Ralag: /v This one does not know what you said.
+[01:48:56] Mak 'Braam: /looc crotch gun
+[01:49:07] Mak 'Braam: /looc vort with the gun
+[01:49:25] CAC.B49-VRP.05498: .//hm
+[01:50:19] CAC.B49-VRP.05498: //wtf
+[01:50:41] CAC.B49-VRP.05498: ///what is the deal with tihs map
+[01:51:20] Galargalar'Ralag: // I might have found the way to go?
+[01:51:52] CAC.B49-VRP.05498: /toggleraise
+[01:51:59] CAC.B49-VRP.05498: /toggleraise
+[01:52:03] CAC.B49-VRP.05498<STEAM_0:1:53097688> used the tool animprop on models/combine_guard.mdl
+[01:52:05] Galargalar'Ralag: // Come to where we were shooting at the crystal and te vort in the jelly
+[01:52:14] CAC.B49-VRP.05498: //we foundi t
+[01:52:17] Galargalar'Ralag: // oh
+[01:52:25] CAC.B49-VRP.05498 set the hp for Everyone to 100
+[01:52:47] CAC.B49-VRP.05498: /me would place the synth's face over the terminal.
+[01:52:48] Mak 'Braam: // I found one last lone OTA and he didnt shoot at me for some reason
+[01:53:01] CAC.B49-VRP.05498: /it The terminal unlocks. He begins to type on the terminal.
+[01:53:05] Mak 'Braam: /vort What would become of the kin who do not follow us?
+[01:53:07] CAC.B49-VRP.05498: /v The vortigaunt are now free.
+[01:53:18] CAC.B49-VRP.05498: /v That is up to them. But their shackles are now disabled.
+[01:53:26] CAC.B49-VRP.05498: /v They could follow.
+[01:53:30] CAC.B49-VRP.05498: /v Maybe they won't.
+[01:53:42] Mak 'Braam: /vort It is for the fates to decide.
+[01:53:53] CAC.B49-VRP.05498: /vfar Vortigaunt, you all have been freed.
+[01:54:07] CAC.B49-VRP.05498: /vfar We are opening a portal to Earth. While not total freedom, it is far safer than being here.
+[01:54:12] CAC.B49-VRP.05498: /vfar Come with us if you wish.
+[01:54:23] CAC.B49-VRP.05498: /vfar If not, best of luck to you.
+[01:54:32] CAC.B49-VRP.05498: Alright...
+[01:54:34] Mak 'Braam: /looc its hella cold in my kitchen rn
+[01:54:35] CAC.B49-VRP.05498: /me would press a few buttons.
+[01:54:57] CAC.B49-VRP.05498: /it The portal should be starting up now.
+[01:54:59] CAC.B49-VRP.05498: .//shit
+[01:55:03] CAC.B49-VRP.05498: /v The portal should be starting up now.
+[01:55:26] Mak 'Braam: /vort Do we know where this portal shall lead exactly?
+[01:55:45] CAC.B49-VRP.05498: /v Earth, outside of a Combine outpost.
+[01:55:53] CAC.B49-VRP.05498: /v We can run away easily.
+[01:56:04] CAC.B49-VRP.05498: /v From there, we're free.
+[01:56:16] CAC.B49-VRP.05498: /v We'll be near City eight, near their outlands.
+[01:56:22] Mak 'Braam: /vort This one feels uneasy.
+[01:56:32] CAC.B49-VRP.05498: /v Why? Are you worried about being so close to a Combine outpost?
+[01:57:10] Mak 'Braam: /vort This one is worried for the other kin who travel through the portal and where they are dropped at.
+[01:57:27] CAC.B49-VRP.05498: /v They will dropped at the same place as us. We can aid their escape.
+[01:57:36] CAC.B49-VRP.05498: /v Does this make you feel better?
+[01:58:07] Mak 'Braam: /vort Perhaps we can disable the outpost eventually to make passage safer, at a later time with enough resources.
+[01:58:21] CAC.B49-VRP.05498: /v That's suicide. We'll be outside of it, not inside.
+[01:58:37] CAC.B49-VRP.05498: /v They'll leave at the same time as us, just about. We can help them.
+[01:58:49] Mak 'Braam: /vort At the very least mark a safe path to follow in our shadow if they aren't with us.
+[01:59:08] CAC.B49-VRP.05498: /v Agreed.
+[01:59:11] Mak 'Braam: /vort For now, we have stayed too long. We must move forward away from this place.
+[01:59:13] CAC.B49-VRP.05498: /v Let us move, I want to leave.
+[01:59:16] CAC.B49-VRP.05498: /v Indeed.
+[01:59:22] CAC.B49-VRP.05498: /v Before reinforcements are sent.
+[01:59:43] CAC.B49-VRP.05498: Are you readY?
+[01:59:44] CAC.B49-VRP.05498: .//void
+[01:59:52] CAC.B49-VRP.05498: .//ho
+[02:00:41] CAC.B49-VRP.05498<STEAM_0:1:53097688> spawned effect models/effects/splodearc.mdl
+[02:00:55] CAC.B49-VRP.05498<STEAM_0:1:53097688> spawned effect models/effects/portalfunnel.mdl
+[02:01:02] CAC.B49-VRP.05498<STEAM_0:1:53097688> spawned effect models/effects/portalrift.mdl
+[02:01:06] Mak 'Braam: /looc bruh that gravity difference
+[02:01:16] CAC.B49-VRP.05498<STEAM_0:1:53097688> spawned effect models/effects/teleporttrail_alyx.mdl
+[02:01:17] CAC.B49-VRP.05498<STEAM_0:1:53097688> spawned effect models/effects/splodeglass.mdl
+[02:01:18] CAC.B49-VRP.05498<STEAM_0:1:53097688> spawned effect models/effects/splode.mdl
+[02:01:23] CAC.B49-VRP.05498<STEAM_0:1:53097688> spawned effect models/effects/combineball.mdl
+[02:01:25] CAC.B49-VRP.05498<STEAM_0:1:53097688> spawned effect models/effects/splodearc.mdl
+[02:01:27] CAC.B49-VRP.05498<STEAM_0:1:53097688> spawned effect models/effects/splodeglass.mdl
+[02:01:32] CAC.B49-VRP.05498<STEAM_0:1:53097688> spawned effect models/effects/portalfunnel.mdl
+[02:01:37] CAC.B49-VRP.05498: //sorry, triyn got get eh effects down
+[02:01:39] CAC.B49-VRP.05498<STEAM_0:1:53097688> spawned effect models/effects/portalrift.mdl
+[02:01:42] CAC.B49-VRP.05498<STEAM_0:1:53097688> spawned effect models/effects/portalfunnel.mdl
+[02:01:54] Mak 'Braam: // I did find a gun, could I get the item when we get back or nah?
+[02:02:02] CAC.B49-VRP.05498: //how did you
+[02:02:05] CAC.B49-VRP.05498: //fiond a guin
+[02:02:11] Mak 'Braam: // I have my ways
+[02:02:23] CAC.B49-VRP.05498<STEAM_0:1:53097688> spawned effect models/effects/intro_vortshield.mdl
+[02:02:24] Mak 'Braam: // I found it on the ground
+[02:02:27] CAC.B49-VRP.05498<STEAM_0:1:53097688> spawned effect models/effects/introtear.mdl
+[02:02:30] CAC.B49-VRP.05498<STEAM_0:1:53097688> spawned effect models/effects/intro_vortshield.mdl
+[02:02:36] Mak 'Braam: // pressed E, shaboom, hl2 smg
+[02:02:40] CAC.B49-VRP.05498<STEAM_0:1:53097688> used the tool effectresizer on models/props_junk/watermelon01.mdl
+[02:02:44] CAC.B49-VRP.05498<STEAM_0:1:53097688> used the tool effectresizer on maps/rp_dim2532.bsp
+[02:02:44] CAC.B49-VRP.05498<STEAM_0:1:53097688> used the tool effectresizer on models/props_junk/watermelon01.mdl
+[02:02:46] Mak 'Braam: // 24 bullets still in it
+[02:02:50] Mak 'Braam: // I shot one already
+[02:02:58] CAC.B49-VRP.05498<STEAM_0:1:53097688> used the tool effectresizer on maps/rp_dim2532.bsp
+[02:02:58] CAC.B49-VRP.05498<STEAM_0:1:53097688> used the tool effectresizer on models/props_junk/watermelon01.mdl
+[02:03:19] CAC.B49-VRP.05498<STEAM_0:1:53097688> spawned effect models/effects/portalfunnel.mdl
+[02:04:10] CAC.B49-VRP.05498: /v This...
+[02:04:14] CAC.B49-VRP.05498: /v This isn't normal.
+[02:04:18] CAC.B49-VRP.05498: /transcend
+[02:04:29] CAC.B49-VRP.05498: /v Erm..
+[02:04:39] CAC.B49-VRP.05498<STEAM_0:1:53097688> changed their name to Freluci
+[02:04:43] Freluci: /transcend freluci
+[02:04:47] Mak 'Braam: /vort It maybe is the best we shall get in these circumstances
+[02:05:03] Galargalar'Ralag: /v One way to find out.
+[02:05:21] Mak 'Braam: /looc should wait for him before we go
+[02:05:45] Freluci: //hold on why is this not workingf
+[02:06:43] Freluci set the scale for Themself to 3
+[02:07:05] Freluci set the scale for Themself to 1
+[02:07:17] Freluci: /me would also have a blue eye.
+[02:07:17] Mak 'Braam: /vort Brother! We meet again!
+[02:07:24] Freluci: /v Brother...
+[02:07:33] Galargalar'Ralag: /v What happened?
+[02:07:35] Freluci: /v Are we brothers?
+[02:07:45] Freluci: /v How can one be a brother of the self?
+[02:07:50] Freluci: /v We are one, the vortigaunt.
+[02:07:59] Freluci: /v But we act otherwise. We act as if we're different.
+[02:08:19] Mak 'Braam: /vort We are all different but are each other.
+[02:08:33] Freluci: /v A contradiction, to be sure.
+[02:08:43] Mak 'Braam: /vort Such is the way that is.
+[02:09:00] Freluci: /v But why?
+[02:09:11] Mak 'Braam: /vort That is not for this one to decided.
+[02:09:15] Mak 'Braam: /looc decide*
+[02:09:23] Freluci: /v But why?
+[02:09:24] Galargalar'Ralag: /v It has been decided long before us.
+[02:09:30] Freluci: /v Why can't we, ourselves, decide, for ourselves?
+[02:09:37] Freluci: /v We act as a whole, but we don't act it.
+[02:09:43] Freluci: /v In our language, we say the opposite.
+[02:09:47] Freluci: /v But we're somehow one?
+[02:09:57] Freluci: /v Nonsensical at best.
+[02:10:21] Mak 'Braam: /vort How is it our paths cross again brother?
+[02:10:41] Freluci: /v Our paths do not cross. Our paths have crossed, and continue to be crossed.
+[02:10:52] Mak 'Braam: /vort Our paths are one in the same.
+[02:11:05] Freluci: /v Our paths are tightly woven.
+[02:11:18] Freluci: /v Vortal cords.
+[02:11:27] Freluci: /v The vortessence has taken me here. It has made you follow.
+[02:11:44] Freluci: /v The purpose of larval essence is to dissolve the false veils of space and time.
+[02:11:58] Freluci: /v Remove the "here". Only leave us.
+[02:12:23] Mak 'Braam: /vort We must leave here. It is too dangerous for us.
+[02:12:24] Freluci: /v I have seen far, far more than that.
+[02:12:28] Freluci: /v I have seen no veil.
+[02:12:35] Freluci: /v I can assure you, we are safe.
+[02:13:11] Freluci stripped weapons from Galargalar'Ralag,Mak 'Braam
+[02:13:20] Freluci: Watch.
+[02:13:43] Freluci: //one quick sec
+[02:14:01] Freluci: /toggleraise
+[02:14:06] Freluci<STEAM_0:1:53097688> spawned/gave himself swep weapon_vortswep
+[02:14:08] Freluci: /toggleraise
+[02:14:23] Mak 'Braam: // been sitting in the same spot for like 4 hours straight
+[02:14:36] Freluci was killed by trigger_hurt
+[02:14:45] Freluci teleported to Mak 'Braam
+[02:14:50] Mak 'Braam: // I dont have a proper gaming chair either
+[02:15:21] Freluci<STEAM_0:1:53097688> spawned NPC npc_kleiner
+[02:15:22] Freluci: /toggleraise
+[02:15:26] Freluci<STEAM_0:1:53097688> spawned/gave himself swep weapon_vortswep
+[02:15:26] Freluci: /toggleraise
+[02:15:27] Freluci: /toggleraise
+[02:15:28] Freluci: /toggleraise
+[02:16:01] Freluci<STEAM_0:1:53097688> spawned NPC npc_vortigaunt
+[02:16:02] Freluci<STEAM_0:1:53097688> spawned NPC npc_kleiner
+[02:16:03] Freluci: /toggleraise
+[02:16:05] Freluci: /toggleraise
+[02:16:21] Freluci: /toggleraise
+[02:16:24] Freluci: /toggleraise
+[02:16:46] Freluci: Watch.
+[02:16:57] Freluci<STEAM_0:1:53097688> spawned NPC npc_combine_s
+[02:16:58] Freluci<STEAM_0:1:53097688> spawned NPC npc_combine_s
+[02:16:59] Freluci: /toggleraise
+[02:17:27] Freluci: /v We are in no trouble.
+[02:17:29] Freluci: /toggleraise
+[02:17:32] Freluci: /toggleraise
+[02:17:39] Freluci set the hp for Everyone to 100
+[02:17:41] Mak 'Braam: /vort We still must leave, this is not our home.
+[02:17:56] Freluci: /v And earth is?
+[02:18:07] Freluci: /v You all are going to learn quite a bit.
+[02:18:31] Freluci: /v I have always been here, my Vortal Cord has always been tied here. On Earth, on Xanthys, everwhere.
+[02:18:46] Freluci: /v Now I will never stop seeing the false veils.
+[02:19:29] Freluci: /v I have surpassed all forms of awareness that any other vortigaunt has ever touched.
+[02:19:36] Freluci: /v You will hear my name in two years.
+[02:20:03] Freluci: /v Until then, farewell. I will see you soon.
+[02:20:18] Galargalar'Ralag: /v Until then.
+[02:20:23] Mak 'Braam: /vort Farewell brother, until then.
+[02:20:24] Freluci: It was a fight well fought. It was a pleasure to have what I did on Earth.
+[02:20:29] Freluci: .//shit
+[02:20:34] Freluci: /v It was a fight well fought. It was a pleasure to have what I did on Earth.
+[02:20:42] Freluci: /v The vortigaunt are incapable of change.
+[02:20:50] Freluci: /v I have failed.
+[02:21:04] Freluci: /v Farewell.
+[02:21:26] Mak 'Braam: /looc do we follow?
+[02:21:33] Galargalar'Ralag: .// idk
+[02:21:40] Mak 'Braam: /looc probably not yet
+[02:22:33] Freluci<STEAM_0:1:53097688> spawned sent pfx8_02
+[02:22:42] Freluci<STEAM_0:1:53097688> spawned sent pfx5_02
+[02:22:46] Freluci<STEAM_0:1:53097688> spawned sent pfx5_01
+[02:22:48] Freluci<STEAM_0:1:53097688> spawned sent pfx5_00_alt_ss
+[02:22:49] Galargalar'Ralag: /v Now how do we get to Earth?
+[02:22:50] Freluci<STEAM_0:1:53097688> spawned sent pfx5_00_alt
+[02:22:51] Mak 'Braam: /vort This one does not know what to do next.
+[02:22:52] Freluci<STEAM_0:1:53097688> spawned sent pfx5_00_alt_s
+[02:23:03] Mak 'Braam: /vort Other than we must go on.
+[02:23:07] Galargalar'Ralag: /v We are in the same position, brother.
+[02:23:11] Freluci: /charsetname freluci "Tal' Rukan"
+[02:23:11] Freluci<STEAM_0:1:53097688> changed their name to Tal' Rukan
+[02:23:20] Tal' Rukan set the scale for Themself to 1
+[02:23:21] Galargalar'Ralag: /v Onward, for there is no other action to take.
+[02:23:27] Mak 'Braam: /vort Let us go forward then.
+[02:23:28] Tal' Rukan: Indeed.
+[02:23:30] Tal' Rukan: There was not.
+[02:23:53] Galargalar'Ralag: /v Brother, you have also arrived.
+[02:24:13] Mak 'Braam: /vort Have you come to journey with us through the portal?
+[02:24:19] Client "Doom Demon" connected.
+[02:24:23] Tal' Rukan: I already have.
+[02:24:27] Tal' Rukan: Two years ago.
+[02:25:06] Mak 'Braam: /looc that answer confused the hell outta me lol
+[02:25:08] Tal' Rukan: The vortigaunt are resilient.
+[02:25:12] Tal' Rukan: .//shit
+[02:25:16] Tal' Rukan: .//yeah pretend that was vortigese
+[02:25:19] Galargalar'Ralag: /v But we are here in the now, brother.
+[02:25:36] Tal' Rukan: /v Now is only a matter of perspective.
+[02:25:43] Tal' Rukan: /v A product of the false veils.
+[02:26:21] Tal' Rukan: It is time for me to see you.
+[02:26:25] Tal' Rukan: Farewell.
+[02:26:36] Galargalar'Ralag: /v Farewell, brother.
+[02:26:39] Mak 'Braam: /vort Farewell then brother.
+[02:26:40] Tal' Rukan<STEAM_0:1:53097688> spawned sent pfx2_00
+[02:26:55] Galargalar'Ralag: /v To Earth?
+[02:26:58] Tal' Rukan: /V BROTHERS!
+[02:27:02] Tal' Rukan: /V KINSMEN!
+[02:27:13] Mak 'Braam: /vort Brother.
+[02:27:14] Tal' Rukan: /v You will not believe the developments that have come as of yet!
+[02:27:33] Mak 'Braam: /vort What news do you bring to us?
+[02:27:40] Tal' Rukan: /v That larval essence, we are very far in the future compared to where we were before.
+[02:28:02] Mak 'Braam: /vort What does this mean for our kin?
+[02:28:14] Tal' Rukan: /v Our kin are alive, but not well.
+[02:28:19] Galargalar'Ralag: .// guys I gotta go soon, how much longer? i hate to be the party pooper but it is 3;30
+[02:28:20] Tal' Rukan: /v I have much history to update you on.
+[02:28:36] Tal' Rukan: /v I saw it when Freluci pulled me into his vortal mess.
+[02:28:45] Tal' Rukan: /v Let's go to Earth.
+[02:29:01] Mak 'Braam: /vort Then to Earth we shall go.
+[02:29:06] Galargalar'Ralag: /v To Earth.
+[02:29:31] Tal' Rukan: /drawblackscreen
+[02:29:44] Tal' Rukan: /text Thank you for sticking with us.
+[02:29:46] Mak 'Braam: /looc bruh if I lay down, im passing out immediately
+[02:29:55] Tal' Rukan: /setscreentext Thank you for sticking with us.
+[02:30:00] Tal' Rukan: /setscreentext That was a long one.
+[02:30:06] Mak 'Braam: /looc definitely worth staying up for though
+[02:30:10] Tal' Rukan: /setscreentext Kind of a confusing ending, eh?
+[02:30:41] Tal' Rukan: /setscreentext Wanna know what went on at the end?
+[02:30:44] Client "Doom Demon" spawned in server <STEAM_0:0:146983333> (took 385 seconds).
+[02:30:46] Mak 'Braam: /looc ah fuck I shouldve recorded that
+[02:30:49] Tal' Rukan: /setscreentext I swear it makes sense.
+[02:30:59] Tal' Rukan: /text Follow the campign to get it.
+[02:31:02] Galargalar'Ralag: // I'm sure it does, but its too late for me to think aout it
+[02:31:18] Tal' Rukan: /setscreentext Play in the next campaign to get it fully.
+[02:31:31] Tal' Rukan: /setscreentext Make sure to rate the event in #polling, please.
+[02:31:39] Tal' Rukan: /setscreentext Thank you for sticking with us.
+[02:31:47] Tal' Rukan: /setscreentext I love you all.
+[02:31:51] Tal' Rukan: /setscreentext And goodnight.
+[02:31:57] Dropped "Tal' Rukan" from server<STEAM_0:1:53097688>
+[02:32:12] Dropped "Galargalar'Ralag" from server<STEAM_0:0:34463192>
+[02:32:33] Doom Demon<STEAM_0:0:146983333> changed their name to William Nikts
+[02:33:02] William Nikts: // and goodnight
+[02:33:30] Dropped "Mak 'Braam" from server<STEAM_0:1:526457179>
+[02:33:43] William Nikts was killed by trigger_hurt
+[02:35:45] Dropped "William Nikts" from server<STEAM_0:0:146983333>
+
+
+
+[03:08:24] New map: gm_xanthys_v1
+[03:30:51] Client "[SGN] Woof" connected.
+[03:34:02] Client "[SGN] Woof" connected.
+[03:40:57] Client "[SGN] Woof" connected.
+[04:33:16] Client "[SGN] Woof" connected.
+[04:37:31] Client "[SGN] Woof" connected.
+
+
+
+[12:43:11] New map: rp_city8_edit_v4r
+[12:49:26] Client "matt saton" connected.
+[12:52:29] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 183 seconds).
+[12:58:11] matt saton<STEAM_0:1:53097688> changed their name to CCA.C08-UNION.i1.51023
+[13:00:57] CCA.C08-UNION.i1.51023<STEAM_0:1:53097688> changed their name to Lee Maylor
+[13:01:14] Lee Maylor<STEAM_0:1:53097688> changed their name to CCA.C08-UNION.i1.51023
+[13:03:23] Dropped "CCA.C08-UNION.i1.51023" from server<STEAM_0:1:53097688>
+[13:03:24] Client "matt saton" connected.
+[13:04:24] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 60 seconds).
+[13:09:04] matt saton<STEAM_0:1:53097688> changed their name to CCA.C08-GRID.i3.08313
+[13:15:29] CCA.C08-GRID.i3.08313: /text test
+[13:15:32] CCA.C08-GRID.i3.08313: /setscreentext test
+[13:18:43] CCA.C08-GRID.i3.08313: /me would proceed to tie the individual. Would they resist?
+[13:20:21] CCA.C08-GRID.i3.08313: /vortigese test
+[13:20:25] CCA.C08-GRID.i3.08313: vortigese test
+[13:26:16] CCA.C08-GRID.i3.08313: /drawblackscreen
+[13:39:21] CCA.C08-GRID.i3.08313: /clearscreendraws
+[13:39:34] CCA.C08-GRID.i3.08313: /setscreentext Test Text
+[13:39:37] CCA.C08-GRID.i3.08313: /clearscreendraws
+[13:40:02] CCA.C08-GRID.i3.08313: /setscreentext Test Text
+[13:40:04] CCA.C08-GRID.i3.08313: /clearscreendraws
+[13:40:17] CCA.C08-GRID.i3.08313: /clearscreendraws
+[13:40:18] CCA.C08-GRID.i3.08313: /setscreentext Test Text
+[13:40:20] CCA.C08-GRID.i3.08313: /clearscreendraws
+[14:07:52] CCA.C08-GRID.i3.08313: /text test
+[14:07:56] CCA.C08-GRID.i3.08313: /setscreentext test
+[14:08:15] Dropped "CCA.C08-GRID.i3.08313" from server<STEAM_0:1:53097688>
+[14:08:16] Client "matt saton" connected.
+[14:09:16] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 60 seconds).
+[14:10:44] matt saton<STEAM_0:1:53097688> changed their name to Lee Maylor
+[14:10:55] Lee Maylor<STEAM_0:1:53097688> changed their name to CCA.C08-GRID.i3.08313
+[14:13:22] Client "hnbug01" connected.
+[14:15:57] Client "hnbug01" spawned in server <STEAM_0:1:575208276> (took 155 seconds).
+[14:34:05] hnbug01<STEAM_0:1:575208276> changed their name to Feng Yi 'Eric' Hseuh
+[14:41:29] Feng Yi 'Eric' Hseuh: /me doesn't resist being tied, searched or anything. They are completely compliant given that the situation does not escalate.
+[14:49:37] Client "Sirro" connected.
+[14:58:17] Client "Sirro" spawned in server <STEAM_0:1:80008500> (took 520 seconds).
+[15:05:18] Sirro<STEAM_0:1:80008500> changed their name to Vas'Yok Grallung
+[15:06:12] Dropped "Vas'Yok Grallung" from server<STEAM_0:1:80008500>
+[15:52:27] Feng Yi 'Eric' Hseuh: /toggleraise
+[15:54:06] Dropped "Feng Yi 'Eric' Hseuh" from server<STEAM_0:1:575208276>
+[15:56:18] Client "logan.a.carls" connected.
+[16:03:35] Client "Dilly_" connected.
+[16:08:04] Client "Dilly_" spawned in server <STEAM_0:0:52468151> (took 269 seconds).
+[16:12:16] Dilly_<STEAM_0:0:52468151> changed their name to Crimson
+[16:13:27] Crimson: // its pidgeon hours 
+[16:15:04] Crimson<STEAM_0:0:52468151> changed their name to OTA.C08-ECHO:OWS.69173
+[16:17:27] OTA.C08-ECHO:OWS.69173: // aw heck I'm an error now ;w;
+[16:25:33] Dropped "OTA.C08-ECHO:OWS.69173" from server<STEAM_0:0:52468151>
+[17:11:16] Client "Is the Smug Mugging?" connected.
+[17:17:46] Client "Dilly_" connected.
+[17:19:01] Client "Is the Smug Mugging?" spawned in server <STEAM_0:1:196695929> (took 465 seconds).
+[17:20:13] Client "Dilly_" spawned in server <STEAM_0:0:52468151> (took 147 seconds).
+[17:20:52] Is the Smug Mugging?<STEAM_0:1:196695929> changed their name to Wilson Hastings
+[17:21:17] Dropped "Wilson Hastings" from server<STEAM_0:1:196695929>
+[17:21:38] Dilly_<STEAM_0:0:52468151> changed their name to OTA.C08-ECHO:OWS.69173
+[17:21:52] Dropped "OTA.C08-ECHO:OWS.69173" from server<STEAM_0:0:52468151>
+[17:24:34] Client "Jahthedon" connected.
+[17:30:00] Client "Jahthedon" spawned in server <STEAM_0:1:453382432> (took 326 seconds).
+[17:30:15] Client "Dilly_" connected.
+[17:30:31] Jahthedon<STEAM_0:1:453382432> changed their name to Julius Manson
+[17:31:35] Client "Dilly_" spawned in server <STEAM_0:0:52468151> (took 80 seconds).
+[17:32:13] Julius Manson: /Becomeclass Rebel
+[17:32:54] Dropped "Julius Manson" from server<STEAM_0:1:453382432>
+[17:34:45] Client "boner head" connected.
+[17:36:55] Dilly_<STEAM_0:0:52468151> changed their name to Crimson
+[17:41:55] Client "boner head" spawned in server <STEAM_0:1:43270455> (took 430 seconds).
+[17:45:06] Crimson<STEAM_0:0:52468151> changed their name to Carson Copper
+[17:47:05] boner head<STEAM_0:1:43270455> changed their name to edp445
+[17:47:33] Carson Copper: // yikes
+[17:47:49] Dropped "edp445" from server<STEAM_0:1:43270455>
+[17:48:11] Carson Copper: // aw shucks
+[17:52:33] Client "Global Defence Initiative" connected.
+[17:55:18] Dropped "CCA.C08-GRID.i3.08313" from server<STEAM_0:1:53097688>
+[17:56:34] Client "Global Defence Initiative" spawned in server <STEAM_0:0:49504081> (took 241 seconds).
+[17:57:03] Carson Copper: // Aw shucks
+[17:57:27] Carson Copper<STEAM_0:0:52468151> changed their name to Yur'Go
+[17:58:47] Yur'Go: /vortigesefar Your mum 
+[17:59:00] Yur'Go: /vortigesefar Googa 
+[17:59:09] Yur'Go: /vortigesefar Ooga Booga
+[17:59:27] Yur'Go: /vort indeed
+[17:59:31] Yur'Go: /vort indeed
+[17:59:32] Yur'Go: /vort indeed
+[17:59:34] Yur'Go: /vort indeed
+[17:59:35] Yur'Go: /vort indeed
+[17:59:35] Yur'Go: /vort indeed
+[17:59:37] Yur'Go: /vort indeed
+[17:59:37] Yur'Go: /vort indeed
+[17:59:38] Yur'Go: /vort indeed
+[17:59:52] Yur'Go: /vortigesefar Your mum bad
+[18:01:00] Yur'Go: /charfallover 1
+[18:01:02] Yur'Go: /charfallover 1
+[18:01:05] Yur'Go: /charfallover 1
+[18:01:26] Yur'Go: /charfallover
+[18:02:27] Yur'Go: Yep
+[18:03:19] Yur'Go: /radio cp overrun
+[18:03:21] Yur'Go: /radio ripcord
+[18:03:23] Yur'Go: /y all units move
+[18:03:25] Yur'Go: /radio team advance
+[18:03:25] Yur'Go: /radio team holding
+[18:03:49] Yur'Go: /charfallover
+[18:06:55] Global Defence Initiative<STEAM_0:0:49504081> changed their name to Lin'Garung
+[18:08:27] Yur'Go: // wait what
+[18:08:48] Yur'Go: /charfallover 1
+[18:08:52] Yur'Go: /charfallover 1
+[18:08:55] Yur'Go: /charfallover 1
+[18:09:16] Yur'Go: /vortigesefar You hear me good buddy?
+[18:09:23] Lin'Garung: ye
+[18:09:28] Yur'Go: /charfallover 1
+[18:09:36] Yur'Go: /charfallover 1
+[18:09:39] Yur'Go: /charfallover 1
+[18:09:43] Yur'Go: /charfallover 1
+[18:09:47] Yur'Go: /charfallover 1
+[18:09:49] Yur'Go: /charfallover 1
+[18:09:54] Yur'Go: Come hither
+[18:10:04] Yur'Go: .// also suitzoom is the uhh
+[18:10:06] Yur'Go: .// thingy
+[18:10:25] Yur'Go: .// if you have that bind
+[18:10:37] Yur'Go: .// do the do
+[18:10:40] Yur'Go: .// y ou know
+[18:10:42] Yur'Go: .// fallers
+[18:10:43] Yur'Go: .//overs
+[18:11:00] Lin'Garung: .// Dont remember the bind
+[18:11:11] Yur'Go: .// /charfallover
+[18:11:16] Yur'Go: .// put 0.1
+[18:11:21] Yur'Go: .// /charfallover 0.1
+[18:11:29] Lin'Garung: /charfallover 0.1
+[18:11:33] Lin'Garung: /charfallover 0.1
+[18:11:40] Lin'Garung: /charfallover 0.1
+[18:11:46] Lin'Garung: /charfallover 0.1
+[18:11:53] Lin'Garung: /charfallover 0.1
+[18:11:58] Lin'Garung: /charfallover 0.1
+[18:12:00] Yur'Go: /vort yes
+[18:12:05] Lin'Garung: /charfallover 0.1
+[18:12:17] Lin'Garung: /charfallover 0.1
+[18:12:22] Lin'Garung: /charfallover 0.1
+[18:12:50] Yur'Go: .// try on the right corner
+[18:13:00] Lin'Garung: /charfallover 0.1
+[18:13:22] Lin'Garung: /charfallover 0.1
+[18:13:28] Lin'Garung: /charfallover 0.1
+[18:13:34] Yur'Go<STEAM_0:0:52468151> changed their name to CCA.C08-UNION.i1.93347
+[18:14:17] CCA.C08-UNION.i1.93347<STEAM_0:0:52468151> changed their name to Yur'Go
+[18:14:34] Yur'Go: .// commands go brrr
+[18:14:49] Yur'Go: .// for some reason I can't get mine to go
+[18:15:23] Yur'Go: .// should be suitzoom
+[18:15:44] Lin'Garung: ?
+[18:15:54] Yur'Go: /endtranscendance
+[18:15:59] Yur'Go: .// like the bind
+[18:16:06] Yur'Go: .// for whatever the suitzoom is 
+[18:16:09] Yur'Go: .// should be the menu
+[18:16:10] Lin'Garung: .// which is?
+[18:16:12] Yur'Go: .// *should*
+[18:16:15] Yur'Go: .// don't know the default
+[18:16:18] Yur'Go: .// I think it's b
+[18:16:25] Lin'Garung: /charfallover 0.1
+[18:16:28] Lin'Garung: /charfallover 0.1
+[18:16:28] Yur'Go: .// but you gotta go into your menu and figure out what suitzoom is 
+[18:16:50] Yur'Go: /po
+[18:16:52] Yur'Go: /po
+[18:16:56] Yur'Go: /po
+[18:16:57] Yur'Go: /po
+[18:16:58] Yur'Go: /po
+[18:17:10] Yur'Go: /refill
+[18:17:19] Lin'Garung: .// It is b
+[18:17:29] Lin'Garung: .// Dont have flags i think
+[18:17:45] Yur'Go: .// AH
+[18:17:49] Yur'Go: .// that'll do it
+[18:17:51] Yur'Go: .// welp shit
+[18:17:56] Yur'Go: .// neither do I
+[18:17:58] Yur'Go: .// since uhhh
+[18:18:08] Yur'Go: .// joined kinda last minute yesterday
+[18:18:20] Yur'Go: /vort e
+[18:18:20] Dropped "Lin'Garung" from server<STEAM_0:0:49504081>
+[18:18:26] Dropped "Yur'Go" from server<STEAM_0:0:52468151>
+[19:49:19] Client "spacewargaming" connected.
+[19:59:57] Client "spacewargaming" spawned in server <STEAM_0:1:492033784> (took 638 seconds).
+[20:03:59] spacewargaming<STEAM_0:1:492033784> changed their name to Andrew
+[20:04:37] Andrew suicided!
+[20:06:13] Andrew: /content
+[20:07:39] Andrew was killed by trigger_hurt
+[20:07:59] Andrew was killed by trigger_hurt
+[20:09:59] Dropped "Andrew" from server<STEAM_0:1:492033784>
+[22:34:45] Client "Enclave" connected.
+[22:41:48] Client "Enclave" spawned in server <STEAM_0:0:34463192> (took 423 seconds).
+[22:45:01] Enclave<STEAM_0:0:34463192> changed their name to Leopold Spielzer
+[22:46:15] Dropped "Leopold Spielzer" from server<STEAM_0:0:34463192>
+[22:56:45] Client "hereticus11" connected.

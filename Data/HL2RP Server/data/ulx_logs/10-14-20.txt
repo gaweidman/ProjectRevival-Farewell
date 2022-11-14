@@ -1,0 +1,334 @@
+<Logging continued from "data/ulx_logs/10-13-20.txt">
+[00:16:39] Client "matt saton" connected.
+[00:17:50] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 71 seconds).
+[00:21:03] matt saton<STEAM_0:1:53097688> changed their name to Ryan Marnett
+[01:13:15] Dropped "Ryan Marnett" from server<STEAM_0:1:53097688>
+
+
+
+[04:17:39] New map: rp_city14_utopia
+[09:03:43] Client "matt saton" connected.
+[09:05:33] Client "✙HealthAngel✙" connected.
+[09:05:43] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 120 seconds).
+[09:07:26] Client "✙HealthAngel✙" spawned in server <STEAM_0:0:76323233> (took 113 seconds).
+[09:07:51] matt saton<STEAM_0:1:53097688> changed their name to CCA.C14-CAMERA.69420
+[09:08:32] CCA.C14-CAMERA.69420: /toggleraise
+[09:08:45] CCA.C14-CAMERA.69420: /toggleraise
+[09:08:46] ✙HealthAngel✙<STEAM_0:0:76323233> changed their name to Angela Aleinikova
+[09:08:51] CCA.C14-CAMERA.69420: /toggleraise
+[09:08:58] Angela Aleinikova: // heya
+[09:08:59] CCA.C14-CAMERA.69420: /toggleraise
+[09:09:01] CCA.C14-CAMERA.69420: //squawk
+[09:09:04] CCA.C14-CAMERA.69420: //what's good
+[09:09:14] Angela Aleinikova: // just got home from work ;_;
+[09:09:22] CCA.C14-CAMERA.69420: //aww sorry to hear ;-;
+[09:09:24] CCA.C14-CAMERA.69420: /toggleraise
+[09:09:25] CCA.C14-CAMERA.69420: /toggleraise
+[09:09:38] CCA.C14-CAMERA.69420: /toggleraise
+[09:09:39] CCA.C14-CAMERA.69420: /toggleraise
+[09:09:49] Angela Aleinikova: .// what you have been doing alone in server :D
+[09:09:57] CCA.C14-CAMERA.69420: .//i actually just got in
+[09:10:00] CCA.C14-CAMERA.69420: .//i'm testing out this bird plugin
+[09:10:08] Angela Aleinikova: .// Oh :D
+[09:10:43] Angela Aleinikova: .//noice
+[09:10:48] CCA.C14-CAMERA.69420: //shit is the time still at 2 seconds
+[09:10:51] CCA.C14-CAMERA.69420: //it's supposed to be 15
+[09:11:02] Angela Aleinikova: .// cooldown?
+[09:11:19] CCA.C14-CAMERA.69420: .//nah, the cooldown is fine. it's 1.5 days
+[09:11:26] CCA.C14-CAMERA.69420: .//i forgot to make it take 15 seconds to actually take the blood
+[09:11:33] CCA.C14-CAMERA.69420: //like when it's the bar that says "drawing blood..."
+[09:11:43] CCA.C14-CAMERA.69420<STEAM_0:1:53097688> changed their name to James Albright
+[09:11:46] Angela Aleinikova: .// understood
+[09:11:48] James Albright teleported to Angela Aleinikova
+[09:11:48] James Albright: !goto angela
+[09:11:54] James Albright: /adminspawnmenu
+[09:12:36] James Albright: testing out some cigarettes
+[09:12:47] Angela Aleinikova: it works?
+[09:14:18] James Albright: what does
+[09:14:27] Angela Aleinikova: ?
+[09:14:49] James Albright: //lag spike
+[09:15:55] Angela Aleinikova: much errors :o
+[09:17:12] James Albright: .//hold on
+[09:17:15] James Albright: /adminspawnmenu
+[09:19:06] James Albright: //fuck, i got a fix for this
+[09:19:29] Angela Aleinikova: no worries x3
+[09:20:58] Angela Aleinikova: /kickdoor
+[09:21:34] James Albright: //alright lag sike
+[09:24:09] James Albright: //cigarettes might work again
+[09:24:18] Angela Aleinikova: .// oh :o
+[09:24:22] James Albright: Wanna smoke a fag with me
+[09:24:57] Angela Aleinikova: .// You need a UU Brand Cigarette pack to light this! lol
+[09:25:02] James Albright: //OH YEAH FORGOT AOBUT THAT
+[09:25:41] Angela Aleinikova: .// wtf i cant pick up it says this pack is empty x/
+[09:25:46] James Albright: .//wat
+[09:25:54] James Albright: //oh
+[09:25:56] Angela Aleinikova: .// "This pack is empty!"
+[09:25:57] James Albright: //no, hold down e on it
+[09:26:04] James Albright: //"Take" refers to taking out a ciggie
+[09:26:07] Angela Aleinikova: .// oh xd
+[09:26:24] James Albright: /plysearch
+[09:27:45] James Albright: /toggleraise
+[09:27:46] James Albright: /toggleraise
+[09:27:52] Angela Aleinikova: // also the common question when you create the new character you can't rise the points for medical knowledge it supose to be that way or not?
+[09:28:18] James Albright: //no, it's supposed to be that way. you're supposed to earn it IC but rn there's really only one way to do that
+[09:28:24] James Albright: //which is to get a medical textbook item
+[09:28:30] James Albright: //i have a lot i need to work on okay ;-;
+[09:28:56] Angela Aleinikova: // don't worry i just asking things x/, you doing great job
+[09:29:12] James Albright: //thank you
+[09:29:20] James Albright: //one dev can only do so much lmao
+[09:30:11] Angela Aleinikova: // when my piled stuff will disappear ill try to look at helix code, i never inspected it. I only worked with clockwork ;x
+[09:30:25] James Albright: //tbh if you did clockwork you cna do helix
+[09:30:31] James Albright: //at least helix has documentation
+[09:30:50] James Albright: //which is the reason i went with helix actually
+[09:31:13] Angela Aleinikova: // :o, if it will be that easy, i would may help around if needed x3
+[09:31:26] James Albright: /doorsethidden true
+[09:31:51] James Albright: //thanks, i would really appreciate that 
+[09:32:00] James Albright: //no pressure of course
+[09:32:03] James Albright: //check out what i programmed
+[09:32:05] James Albright brought Angela Aleinikova
+[09:32:05] James Albright: !bring angela
+[09:32:13] Angela Aleinikova: Oh noice
+[09:32:17] James Albright: //you hit the button and it starts a ration cycle
+[09:32:36] James Albright: //the code for the time since hte last cycle has been trouble so that's not quite done yet
+[09:32:40] James Albright: //but the basic functgionality is that
+[09:32:41] James Albright: //there*
+[09:33:39] Angela Aleinikova: hmm actually i know how to make conent packs i could make voice over those notifications using the text to speech thingies...ofc i would edit those sounds x3
+[09:34:19] James Albright: my girlfriend actually agreed to be a voice actor for some extra dispatch voices, so i'm hoping we can get on that soon
+[09:34:23] James Albright: .//hella hype for that
+[09:34:30] Angela Aleinikova: OH!
+[09:34:37] Angela Aleinikova: then it is even better
+[09:34:39] James Albright: /toggleraise
+[09:34:40] James Albright: /toggleraise
+[09:34:52] James Albright: yeah. it's crazy how much of a difference a sound makes
+[09:35:05] James Albright: like if you just do a regular dispatch without a sound, people don't even notice
+[09:35:24] James Albright: so we need some voicelines for the ration cycle lmao
+[09:36:42] Angela Aleinikova: tbh you wrote legit script for notfication, but you can add common thngs to it like starting part " Attention City Fourteen, rations are now available ...."
+[09:37:16] James Albright: true, true. i just kinda based it off of city 8's notification ngl
+[09:37:25] Angela Aleinikova: Oh
+[09:37:34] James Albright returned Angela Aleinikova to their original position
+[09:37:34] James Albright: !return angela
+[09:37:58] James Albright: //why is the fucing
+[09:38:00] James Albright: //train station locked
+[09:38:22] Angela Aleinikova: // no clue yesterday i joined i was like with same reaction
+[09:38:30] James Albright: //my absoltue pet peeve
+[09:38:43] James Albright: //just absolute irratonal irration
+[09:38:45] James Albright: //irritation
+[09:38:51] James Albright: //is when people lock things that shouldn't be locked
+[09:38:59] James Albright<STEAM_0:1:53097688> changed their name to CCA.C14-GRID.i3.69192
+[09:39:15] Angela Aleinikova: // cp's these days :D
+[09:40:14] CCA.C14-GRID.i3.69192: //like when people jsut lock random stores
+[09:40:38] Angela Aleinikova: // what you mean?
+[09:40:47] CCA.C14-GRID.i3.69192: //like people will lock unused stores
+[09:40:54] CCA.C14-GRID.i3.69192: //like the one store by the QZ foyer
+[09:40:57] CCA.C14-GRID.i3.69192: //and the laundromat
+[09:41:02] Angela Aleinikova: // oh
+[09:41:09] CCA.C14-GRID.i3.69192: /charsetthirst grid 100
+[09:41:14] CCA.C14-GRID.i3.69192: /charsethunger grid 100
+[09:41:18] CCA.C14-GRID.i3.69192: /plysearch
+[09:41:19] CCA.C14-GRID.i3.69192: /plysearch
+[09:41:23] CCA.C14-GRID.i3.69192: /plysearch
+[09:41:31] CCA.C14-GRID.i3.69192: //hmm
+[09:41:36] CCA.C14-GRID.i3.69192: //what shall i add today before i start homewokr
+[09:41:45] CCA.C14-GRID.i3.69192<STEAM_0:1:53097688> changed their name to James Albright
+[09:42:13] Angela Aleinikova: // oh also there is no way to put cwu locks at clinic?
+[09:42:38] James Albright: //so i can put CWU locks on the clinic, but with how just anyone can open the locks if they have  CWU ID, it gets kinda OP
+[09:42:44] James Albright: //this is the hotfix until i find a solution
+[09:42:55] James Albright: /toggleraise
+[09:42:58] James Albright: /toggleraise
+[09:43:01] James Albright: /toggleraise
+[09:43:02] James Albright: /toggleraise
+[09:43:07] James Albright: /toggleraise
+[09:43:09] James Albright: /toggleraise
+[09:43:30] Angela Aleinikova: // i think there is 3 options different by programing level :D
+[09:44:21] Angela Aleinikova: // 1 is change to simple CWU just put Union Camera, so Icly who will tresspass and yoink will be taged as BOL
+[09:44:23] James Albright: //yeah. i mean i could just make medical specific cards
+[09:44:32] James Albright: //true
+[09:44:56] Angela Aleinikova: 2 is as you said make different card and lock for cmu
+[09:45:02] Angela Aleinikova: //2 is as you said make different card and lock for cmu
+[09:45:34] James Albright: //yeah
+[09:45:37] James Albright: //that'd be the easiest
+[09:46:31] Angela Aleinikova: //3 is Locks with listed citizens Id but it will much SQL thingie to register things Dx
+[09:48:20] James Albright: //not really, it's just my favorite new function
+[09:48:29] James Albright: //Character:SetData()
+[09:48:41] James Albright: //and then add another lock entity
+[09:48:51] James Albright: //but it only works with them being medical
+[09:48:56] James Albright: //except i could just make special cards too
+[09:49:00] James Albright: //and the nspecial locks
+[09:49:05] James Albright: //and not even touch character dat
+[09:49:07] James Albright: /data
+[09:49:08] James Albright: //data
+[09:49:30] Angela Aleinikova: // i think seperate card would work better
+[09:49:52] James Albright: //yeah
+[09:49:56] James Albright: //it owuld make more IC sense
+[09:50:04] James Albright: /toggleraise
+[09:50:05] James Albright: /toggleraise
+[09:50:17] Angela Aleinikova: .// wtf
+[09:50:42] Angela Aleinikova: // why those cams are red on me D:
+[09:50:58] James Albright: /toggleraise
+[09:50:58] James Albright: /toggleraise
+[09:51:01] James Albright: /toggleraise
+[09:51:02] James Albright: /toggleraise
+[09:51:05] James Albright: /toggleraise
+[09:51:06] James Albright: /toggleraise
+[09:54:42] James Albright: /charsetthirst ryan 100
+[09:54:47] James Albright: /charsethunger james 100
+[09:54:52] James Albright: /charsetthirst james 100
+[09:55:34] Angela Aleinikova: // i think you mentioned earlier you wanted content pack..what you meant abou that?
+[09:58:21] James Albright: //?
+[09:58:30] James Albright: //what do you  mean
+[10:00:15] Angela Aleinikova: // i don't know , You mentioned it just bother me to ask x3
+[10:02:24] Angela Aleinikova: // someone said you be nice to have custom content pack :D
+[10:06:02] Angela Aleinikova: // welp, I am going to make myself a dinner xD, wish you the program lines would be friendly for you, and good luck. Bai bai ;3
+[10:06:25] Dropped "Angela Aleinikova" from server<STEAM_0:0:76323233>
+[10:52:08] Client "Regular Bandit nr. 36" connected.
+[11:00:13] Client "Regular Bandit nr. 36" spawned in server <STEAM_0:1:388974968> (took 485 seconds).
+[11:06:14] Client "cumgum" connected.
+[11:07:28] Dropped "James Albright" from server<STEAM_0:1:53097688>
+[11:16:52] Client "cumgum" spawned in server <STEAM_0:0:12285124> (took 638 seconds).
+[11:18:48] Regular Bandit nr. 36<STEAM_0:1:388974968> changed their name to Andrew Stryker
+[11:19:49] Andrew Stryker: /content
+[11:23:05] Dropped "Andrew Stryker" from server<STEAM_0:1:388974968>
+[11:31:23] Client "Regular Bandit nr. 36" connected.
+[11:32:11] cumgum<STEAM_0:0:12285124> changed their name to Kryo Vallhalla
+[11:32:13] Kryo Vallhalla: // hello
+[11:32:28] Kryo Vallhalla: /charfallover 0
+[11:32:32] Kryo Vallhalla: /charfallover 0
+[11:32:39] Kryo Vallhalla: /charfallover 0
+[11:32:43] Kryo Vallhalla: /charfallover 0
+[11:32:49] Kryo Vallhalla: /charfallover 0
+[11:32:52] Kryo Vallhalla: /charfallover 0
+[11:33:03] Kryo Vallhalla: /charfallover 0
+[11:33:04] Kryo Vallhalla: /charfallover 0
+[11:33:22] Kryo Vallhalla: /charfallover 0
+[11:33:24] Kryo Vallhalla: /charfallover 0
+[11:33:27] Kryo Vallhalla: /charfallover 0
+[11:33:29] Kryo Vallhalla: /charfallover 0
+[11:33:30] Kryo Vallhalla: /charfallover 0
+[11:33:33] Kryo Vallhalla: /charfallover 0
+[11:33:36] Kryo Vallhalla: /charfallover 0
+[11:33:38] Kryo Vallhalla: /charfallover 0
+[11:33:46] Kryo Vallhalla: /charfallover 0
+[11:33:48] Kryo Vallhalla: /charfallover 0
+[11:33:53] Kryo Vallhalla: /charfallover 0
+[11:34:10] Client "Regular Bandit nr. 36" spawned in server <STEAM_0:1:388974968> (took 167 seconds).
+[11:35:03] Regular Bandit nr. 36<STEAM_0:1:388974968> changed their name to Andrew Stryker
+[11:35:17] Kryo Vallhalla: // hi
+[11:35:20] Andrew Stryker: // There's no CP and I must scream, also hi
+[11:35:32] Kryo Vallhalla: hi
+[11:35:35] Kryo Vallhalla: do you want rations
+[11:35:50] Andrew Stryker: I would want more to get out from here, also how did you got here?
+[11:35:54] Kryo Vallhalla: Magic
+[11:36:07] Kryo Vallhalla: Also
+[11:36:11] Kryo Vallhalla: Here you go, relocation coupons
+[11:36:26] Andrew Stryker: I would propably get in trouble for carrying those...
+[11:36:30] Kryo Vallhalla: Meh
+[11:36:32] Kryo Vallhalla: Free loyalist points
+[11:36:40] Kryo Vallhalla: /charfallover 0
+[11:36:43] Kryo Vallhalla: /charfallover 0
+[11:36:43] Kryo Vallhalla: /charfallover 0
+[11:36:45] Kryo Vallhalla: /charfallover 0
+[11:36:48] Kryo Vallhalla: wATCH THS
+[11:37:29] Kryo Vallhalla: Pretty fun huh?
+[11:37:42] Andrew Stryker: Yea...
+[11:37:42] Kryo Vallhalla: /charfallover 0
+[11:37:45] Kryo Vallhalla: /charfallover 0
+[11:37:47] Kryo Vallhalla: /charfallover 0
+[11:37:50] Kryo Vallhalla: /charfallover 0
+[11:37:53] Kryo Vallhalla: /charfallover 0
+[11:37:54] Andrew Stryker: /discord
+[11:38:01] Kryo Vallhalla: .// I can pull you through probably
+[11:38:03] Kryo Vallhalla: /charfallover 0
+[11:38:07] Kryo Vallhalla: /charfallover 0
+[11:38:09] Kryo Vallhalla: /charfallover 0
+[11:38:13] Kryo Vallhalla: /charfallover 0
+[11:38:16] Kryo Vallhalla: /charfallover 0
+[11:38:16] Andrew Stryker: /charfallover
+[11:38:32] Kryo Vallhalla: Huh
+[11:38:40] Kryo Vallhalla: Let's find some sh it
+[11:39:10] Kryo Vallhalla: /charfallover 0
+[11:39:13] Kryo Vallhalla: /charfallover 0
+[11:39:15] Kryo Vallhalla: /charfallover 0
+[11:39:18] Kryo Vallhalla: /charfallover 0
+[11:39:28] Kryo Vallhalla: /charfallover 0
+[11:40:12] Kryo Vallhalla: /charfallover 0
+[11:40:15] Kryo Vallhalla: /charfallover 0
+[11:40:20] Kryo Vallhalla: /charfallover 0
+[11:40:50] Kryo Vallhalla: /charfallover 0
+[11:40:52] Kryo Vallhalla: /charfallover 0
+[11:40:56] Kryo Vallhalla: /charfallover 0
+[11:40:57] Kryo Vallhalla: /charfallover 0
+[11:40:58] Kryo Vallhalla: /charfallover 0
+[11:40:59] Kryo Vallhalla: /charfallover 0
+[11:41:00] Kryo Vallhalla: /charfallover 0
+[11:41:01] Kryo Vallhalla: /charfallover 0
+[11:41:03] Kryo Vallhalla: /charfallover 0
+[11:41:04] Kryo Vallhalla: /charfallover 0
+[11:41:04] Kryo Vallhalla: /charfallover 0
+[11:41:05] Kryo Vallhalla: /charfallover 0
+[11:41:06] Kryo Vallhalla: /charfallover 0
+[11:41:07] Kryo Vallhalla: /charfallover 0
+[11:41:08] Kryo Vallhalla: /charfallover 0
+[11:41:45] Dropped "Andrew Stryker" from server<STEAM_0:1:388974968>
+[11:42:28] Kryo Vallhalla: /charfallover 0
+[11:42:30] Kryo Vallhalla: /charfallover 0
+[11:42:33] Kryo Vallhalla: /charfallover 0
+[11:42:36] Kryo Vallhalla: /charfallover 0
+[11:43:52] Kryo Vallhalla: /charfallover 0
+[11:43:54] Kryo Vallhalla: /charfallover 0
+[11:44:06] Kryo Vallhalla: /charfallover 0
+[11:44:52] Kryo Vallhalla: /charfallover 0
+[11:45:23] Kryo Vallhalla: /charfallover 0
+[11:46:02] Kryo Vallhalla was killed by npc_fastzombie
+[11:47:27] Kryo Vallhalla: /charfallover 0
+[11:48:00] Kryo Vallhalla: /charfallover 0
+[11:48:02] Kryo Vallhalla: /charfallover 0
+[11:48:08] Kryo Vallhalla: /charfallover 0
+[11:48:13] Kryo Vallhalla: /charfallover 0
+[11:48:15] Kryo Vallhalla: /charfallover 0
+[11:48:17] Kryo Vallhalla: /charfallover 0
+[11:48:18] Kryo Vallhalla: /charfallover 0
+[11:49:13] Kryo Vallhalla: /charfallover 0
+[11:49:16] Kryo Vallhalla: /charfallover 0
+[11:49:19] Kryo Vallhalla: /charfallover 0
+[11:50:41] Kryo Vallhalla: /charfallover 0
+[11:50:44] Kryo Vallhalla: /charfallover 0
+[11:50:49] Kryo Vallhalla: /charfallover 0
+[11:50:55] Kryo Vallhalla: /charfallover 0
+[11:50:58] Kryo Vallhalla: /charfallover 0
+[11:51:00] Kryo Vallhalla: /charfallover 0
+[11:53:18] Kryo Vallhalla: /charfallover 0
+[11:53:37] Kryo Vallhalla: /charfallover 0
+[11:53:43] Kryo Vallhalla: /charfallover 0
+[11:53:46] Kryo Vallhalla: /charfallover 0
+[11:53:49] Kryo Vallhalla: /charfallover 0
+[11:53:53] Kryo Vallhalla: /charfallover 0
+[11:53:56] Kryo Vallhalla: /charfallover 0
+[11:53:58] Kryo Vallhalla: /charfallover 0
+[11:54:04] Kryo Vallhalla was killed by trigger_hurt
+[11:56:30] Kryo Vallhalla: /charfallover 0
+[11:56:36] Kryo Vallhalla: /charfallover 0
+[11:56:39] Kryo Vallhalla: /charfallover 0
+[11:56:42] Kryo Vallhalla: /charfallover 0
+[11:56:44] Kryo Vallhalla: /charfallover 0
+[11:56:46] Kryo Vallhalla: /charfallover 0
+[11:56:47] Kryo Vallhalla: /charfallover 0
+[11:56:48] Kryo Vallhalla: /charfallover 0
+[11:56:49] Kryo Vallhalla: /charfallover 0
+[11:56:51] Kryo Vallhalla: /charfallover 0
+[11:56:52] Kryo Vallhalla: /charfallover 0
+[11:56:53] Kryo Vallhalla: /charfallover 0
+[11:56:54] Kryo Vallhalla: /charfallover 0
+[11:56:55] Kryo Vallhalla: /charfallover 0
+[11:58:59] Kryo Vallhalla was killed by monster_hound_eye
+[12:06:31] Dropped "Kryo Vallhalla" from server<STEAM_0:0:12285124>
+
+
+
+[12:16:33] New map: rp_city14_utopia
+[22:14:37] Client "matt saton" connected.
+[22:17:11] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 154 seconds).
+[22:21:14] matt saton<STEAM_0:1:53097688> changed their name to James Albright
+[22:57:52] James Albright: /toggleraise
+[23:00:08] James Albright: /charsetthirst james 100
+[23:00:15] James Albright: /charsethunger james 100
+[23:09:16] Dropped "James Albright" from server<STEAM_0:1:53097688>

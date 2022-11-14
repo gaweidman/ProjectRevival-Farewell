@@ -1,0 +1,147 @@
+[00:20:55] New map: rp_city8_edit_v4r
+
+
+
+[00:25:14] New map: gm_flatgrass
+[00:25:29] Client "matt saton" connected.
+[00:29:21] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 232 seconds).
+[00:33:30] matt saton<STEAM_0:1:53097688> changed their name to Joseph Kimsler
+[00:34:04] Joseph Kimsler<STEAM_0:1:53097688> spawned sent ix_rationdispenser
+[00:35:16] Joseph Kimsler<STEAM_0:1:53097688> spawned sent ix_rationdispenser
+[00:35:29] Joseph Kimsler<STEAM_0:1:53097688> spawned sent item_healthcharger
+[00:35:31] Joseph Kimsler<STEAM_0:1:53097688> spawned sent item_healthcharger
+[00:35:33] Joseph Kimsler<STEAM_0:1:53097688> spawned sent item_healthcharger
+[00:35:34] Joseph Kimsler<STEAM_0:1:53097688> spawned sent item_healthcharger
+[00:35:48] Joseph Kimsler<STEAM_0:1:53097688> spawned sent item_suitcharger
+[00:36:05] Joseph Kimsler<STEAM_0:1:53097688> spawned sent item_healthkit
+[00:36:06] Joseph Kimsler<STEAM_0:1:53097688> spawned sent item_healthcharger
+[00:36:17] Joseph Kimsler<STEAM_0:1:53097688> spawned model models/props_combine/combine_interface001.mdl
+[00:36:26] Joseph Kimsler<STEAM_0:1:53097688> spawned model models/props_combine/combine_intmonitor001.mdl
+[00:38:35] Joseph Kimsler<STEAM_0:1:53097688> spawned model models/optica/hlalyx_poster.mdl
+[00:39:00] Joseph Kimsler<STEAM_0:1:53097688> spawned ragdoll models/cultist/hl_a/combine_grunt/combine_grunt.mdl
+[00:39:16] Joseph Kimsler<STEAM_0:1:53097688> used the tool rb655_easy_bodygroup on models/cultist/hl_a/combine_grunt/combine_grunt.mdl
+[00:39:20] Joseph Kimsler<STEAM_0:1:53097688> used the tool rb655_easy_bodygroup on maps/gm_flatgrass.bsp
+[00:39:22] Joseph Kimsler<STEAM_0:1:53097688> used the tool rb655_easy_bodygroup on models/cultist/hl_a/combine_grunt/combine_grunt.mdl
+[00:40:37] Joseph Kimsler<STEAM_0:1:53097688> used the tool rb655_easy_bodygroup on maps/gm_flatgrass.bsp
+[00:40:43] Joseph Kimsler<STEAM_0:1:53097688> used the tool rb655_easy_bodygroup on models/cultist/hl_a/combine_grunt/combine_grunt.mdl
+[00:40:57] Joseph Kimsler<STEAM_0:1:53097688> spawned NPC npc_cremator
+[00:41:05] Joseph Kimsler<STEAM_0:1:53097688> spawned NPC npc_combine_guard
+[00:41:08] Joseph Kimsler<STEAM_0:1:53097688> spawned NPC npc_combine_guard
+[00:41:17] Joseph Kimsler extinguished all 12 fires.
+[00:41:17] Joseph Kimsler: !vextinguishall
+[00:41:20] Joseph Kimsler<STEAM_0:1:53097688> spawned NPC npc_ministrider
+[00:41:29] Joseph Kimsler<STEAM_0:1:53097688> spawned NPC npc_camo_sniper
+[00:41:30] Joseph Kimsler was killed by npc_camo_sniper
+[00:41:43] Joseph Kimsler<STEAM_0:1:53097688> spawned NPC npc_combine_concept
+[00:41:49] Joseph Kimsler<STEAM_0:1:53097688> spawned NPC npc_combine_armored
+[00:41:51] Joseph Kimsler<STEAM_0:1:53097688> spawned NPC npc_combine_concept
+[00:42:10] Joseph Kimsler<STEAM_0:1:53097688> spawned NPC npc_combine_concept
+[00:42:24] Joseph Kimsler<STEAM_0:1:53097688> spawned model models/props_junk/trashdumpster02.mdl
+[00:42:26] Joseph Kimsler<STEAM_0:1:53097688> spawned model models/props_junk/trashdumpster01a.mdl
+[00:43:00] Joseph Kimsler<STEAM_0:1:53097688> spawned/gave himself swep weapon_immo
+[00:43:00] Joseph Kimsler: /toggleraise
+[00:43:14] Joseph Kimsler<STEAM_0:1:53097688> spawned model models/props_junk/trashbin01a.mdl
+[00:43:18] Joseph Kimsler<STEAM_0:1:53097688> spawned/gave himself swep weapon_vfirethrower
+[00:43:19] Joseph Kimsler: /toggleraise
+[00:43:28] Joseph Kimsler<STEAM_0:1:53097688> spawned/gave himself swep weapon_extinguisher
+[00:43:29] Joseph Kimsler: /toggleraise
+[00:43:33] Joseph Kimsler<STEAM_0:1:53097688> spawned/gave himself swep weapon_vfirethrower
+[00:43:33] Joseph Kimsler: /toggleraise
+[00:43:56] Joseph Kimsler<STEAM_0:1:53097688> changed their name to CAC.C08-CRM.69196
+[00:44:02] CAC.C08-CRM.69196: /plytransfer crm anci
+[00:44:16] CAC.C08-CRM.69196: /charsetclass stalker
+[00:44:20] CAC.C08-CRM.69196: /charsetclass crm stalker
+[00:44:21] CAC.C08-CRM.69196<STEAM_0:1:53097688> changed their name to CAC.C08-STK.86335
+[00:44:37] CAC.C08-STK.86335: /charsetclass stk cremator
+[00:44:38] CAC.C08-STK.86335<STEAM_0:1:53097688> changed their name to CAC.C08-CRM.65552
+[00:44:40] CAC.C08-CRM.65552<STEAM_0:1:53097688> spawned/gave himself swep weapon_vfirethrower
+[00:44:41] CAC.C08-CRM.65552: /toggleraise
+[00:45:41] CAC.C08-CRM.65552: /chargiveflag crm
+[00:46:12] CAC.C08-CRM.65552<STEAM_0:1:53097688> spawned/gave himself swep pipegun
+[00:46:13] CAC.C08-CRM.65552: /toggleraise
+[00:53:55] CAC.C08-CRM.65552<STEAM_0:1:53097688> spawned effect models/props/industrial17/consulplatform.mdl
+[00:54:23] CAC.C08-CRM.65552: /chargiveflag crm petncr
+[00:54:24] CAC.C08-CRM.65552<STEAM_0:1:53097688> spawned model models/ldi/basketball.mdl
+[00:54:26] CAC.C08-CRM.65552<STEAM_0:1:53097688> spawned effect models/props/industrial17/crematorfactorywheel.mdl
+[00:54:28] CAC.C08-CRM.65552<STEAM_0:1:53097688> spawned model models/props/industrial17/arcademachine4.mdl
+[00:54:38] CAC.C08-CRM.65552<STEAM_0:1:53097688> spawned model models/props/industrial17/basketballhoop.mdl
+[00:54:46] CAC.C08-CRM.65552<STEAM_0:1:53097688> spawned model models/props/apoc/doortower.mdl
+[00:54:52] CAC.C08-CRM.65552<STEAM_0:1:53097688> spawned effect models/props/industrial17/crematorfactorywheel.mdl
+[00:54:59] CAC.C08-CRM.65552<STEAM_0:1:53097688> spawned model models/props/industrial17/wallprefablarge_nodoor.mdl
+[00:55:00] CAC.C08-CRM.65552<STEAM_0:1:53097688> spawned effect models/props/industrial17/dispensory.mdl
+[00:55:10] CAC.C08-CRM.65552<STEAM_0:1:53097688> spawned model models/props/industrial17/detainmentpod.mdl
+[00:55:14] CAC.C08-CRM.65552<STEAM_0:1:53097688> spawned model models/props/industrial17/detainmentpod.mdl
+[00:55:22] CAC.C08-CRM.65552<STEAM_0:1:53097688> spawned model models/props/industrial17/propagandascreen.mdl
+[00:55:24] CAC.C08-CRM.65552<STEAM_0:1:53097688> spawned model models/props/industrial17/propagandascreen2.mdl
+[00:55:32] CAC.C08-CRM.65552<STEAM_0:1:53097688> spawned effect models/props/industrial17/skyboxplaza.mdl
+[00:55:48] CAC.C08-CRM.65552<STEAM_0:1:53097688> spawned model models/props/apoc/crematorfactory2.mdl
+[00:55:53] CAC.C08-CRM.65552<STEAM_0:1:53097688> spawned model models/props/apoc/crematorfactory.mdl
+[00:56:18] CAC.C08-CRM.65552<STEAM_0:1:53097688> spawned model models/props/industrial17/garbagechute.mdl
+[00:56:29] CAC.C08-CRM.65552<STEAM_0:1:53097688> spawned model models/props/industrial17/booth.mdl
+[00:56:34] CAC.C08-CRM.65552<STEAM_0:1:53097688> spawned model models/props/industrial17/garbagechute.mdl
+[00:56:35] CAC.C08-CRM.65552<STEAM_0:1:53097688> spawned effect models/props/industrial17/dispensory.mdl
+[00:56:37] CAC.C08-CRM.65552<STEAM_0:1:53097688> spawned model models/props/industrial17/wallprefabsmall.mdl
+[00:56:40] CAC.C08-CRM.65552<STEAM_0:1:53097688> spawned effect models/props/industrial17/crematorfactorywheel.mdl
+[00:56:41] CAC.C08-CRM.65552<STEAM_0:1:53097688> spawned model models/props/industrial17/wallprefabsmall.mdl
+[00:56:49] CAC.C08-CRM.65552<STEAM_0:1:53097688> spawned model models/ldi/basketball.mdl
+[00:56:54] CAC.C08-CRM.65552<STEAM_0:1:53097688> spawned model models/props/industrial17/letterstube.mdl
+[00:57:03] CAC.C08-CRM.65552<STEAM_0:1:53097688> spawned model models/props/industrial17/arcademachinerow.mdl
+[00:57:13] CAC.C08-CRM.65552<STEAM_0:1:53097688> spawned model models/props/industrial17/c17mp.mdl
+[00:57:21] CAC.C08-CRM.65552<STEAM_0:1:53097688> spawned model models/props/industrial17/combinewallprefab2.mdl
+[00:57:23] CAC.C08-CRM.65552<STEAM_0:1:53097688> spawned model models/props/industrial17/checkpoint2.mdl
+[00:57:27] CAC.C08-CRM.65552<STEAM_0:1:53097688> spawned effect models/props/industrial17/checkpoint.mdl
+[00:57:33] CAC.C08-CRM.65552<STEAM_0:1:53097688> spawned model models/props/industrial17/checkpoint2.mdl
+[00:57:41] CAC.C08-CRM.65552<STEAM_0:1:53097688> spawned model models/props/industrial17/train.mdl
+[00:57:53] CAC.C08-CRM.65552<STEAM_0:1:53097688> spawned model models/props/industrial17/tracki.mdl
+[00:57:58] CAC.C08-CRM.65552<STEAM_0:1:53097688> spawned effect models/props/industrial17/skyboxplaza2.mdl
+[00:58:02] CAC.C08-CRM.65552<STEAM_0:1:53097688> spawned model models/props/industrial17/constructionsidea.mdl
+[00:58:06] CAC.C08-CRM.65552<STEAM_0:1:53097688> spawned model models/props/apoc/doortower.mdl
+[00:58:09] CAC.C08-CRM.65552<STEAM_0:1:53097688> spawned model models/props/industrial17/tracksupport.mdl
+[00:58:12] CAC.C08-CRM.65552<STEAM_0:1:53097688> spawned model models/props/industrial17/tracki.mdl
+[00:58:15] CAC.C08-CRM.65552<STEAM_0:1:53097688> spawned model models/props/industrial17/table.mdl
+[00:58:17] CAC.C08-CRM.65552<STEAM_0:1:53097688> spawned effect models/props/industrial17/dispensory.mdl
+[00:58:21] CAC.C08-CRM.65552<STEAM_0:1:53097688> spawned model models/props/apoc/crematorfactory.mdl
+[00:58:25] CAC.C08-CRM.65552<STEAM_0:1:53097688> spawned model models/props/apoc/vendingmachine.mdl
+[00:58:26] CAC.C08-CRM.65552<STEAM_0:1:53097688> spawned model models/props/apoc/doortower.mdl
+[00:58:33] CAC.C08-CRM.65552<STEAM_0:1:53097688> spawned model models/props/industrial17/booth.mdl
+[00:58:37] CAC.C08-CRM.65552<STEAM_0:1:53097688> spawned effect models/props/industrial17/rationpillar.mdl
+[00:58:46] CAC.C08-CRM.65552<STEAM_0:1:53097688> spawned model models/props/industrial17/lettersbox.mdl
+[01:00:52] CAC.C08-CRM.65552<STEAM_0:1:53097688> spawned/gave himself swep none
+[01:02:01] CAC.C08-CRM.65552<STEAM_0:1:53097688> spawned model models/ccr/props/health_charger.mdl
+[01:02:06] CAC.C08-CRM.65552 suicided!
+[01:02:06] CAC.C08-CRM.65552 slayed Themself
+[01:02:06] CAC.C08-CRM.65552: !slay ^
+[01:02:14] CAC.C08-CRM.65552<STEAM_0:1:53097688> spawned model models/ccr/props/health_charger.mdl
+[01:02:22] CAC.C08-CRM.65552<STEAM_0:1:53097688> changed their name to Joseph Kimsler
+[01:03:21] Joseph Kimsler<STEAM_0:1:53097688> spawned model models/ccr/props/blood_donator.mdl
+[01:03:48] Joseph Kimsler<STEAM_0:1:53097688> spawned effect models/ccr/props/antlion_grub_small.mdl
+[01:03:52] Joseph Kimsler<STEAM_0:1:53097688> spawned ragdoll models/ccr/props/antlion_grub_small_squashed.mdl
+[01:03:58] Joseph Kimsler<STEAM_0:1:53097688> spawned model models/ccr/props/grub_vial.mdl
+[01:04:03] Joseph Kimsler<STEAM_0:1:53097688> spawned model models/ccr/props/grub_vial_full.mdl
+[01:08:23] Joseph Kimsler<STEAM_0:1:53097688> spawned sent ix_rationdispenser
+[01:08:24] Joseph Kimsler<STEAM_0:1:53097688> spawned sent ix_testent3
+[01:12:02] Joseph Kimsler<STEAM_0:1:53097688> spawned sent ix_testent3
+[01:12:07] Joseph Kimsler<STEAM_0:1:53097688> spawned sent ix_testent3
+[01:12:44] Joseph Kimsler<STEAM_0:1:53097688> spawned sent ix_testent3
+[01:12:50] Joseph Kimsler<STEAM_0:1:53097688> spawned sent ix_testent3
+[01:13:32] Joseph Kimsler<STEAM_0:1:53097688> spawned sent ix_testent3
+[01:13:44] Joseph Kimsler<STEAM_0:1:53097688> spawned sent ix_testent3
+[01:13:50] Joseph Kimsler<STEAM_0:1:53097688> spawned sent ix_testent3
+[01:14:34] Joseph Kimsler<STEAM_0:1:53097688> spawned sent ix_forcefield
+[01:14:36] Joseph Kimsler<STEAM_0:1:53097688> spawned sent ix_testent3
+[01:14:58] Joseph Kimsler<STEAM_0:1:53097688> spawned sent ix_testent3
+[01:15:01] Joseph Kimsler<STEAM_0:1:53097688> spawned sent ix_testent3
+[01:15:03] Joseph Kimsler<STEAM_0:1:53097688> spawned sent ix_testent3
+[01:16:01] Joseph Kimsler<STEAM_0:1:53097688> spawned sent ix_testent3
+[01:16:36] Joseph Kimsler<STEAM_0:1:53097688> spawned sent ix_testent3
+[01:17:49] Joseph Kimsler<STEAM_0:1:53097688> spawned sent ix_testent3
+[01:24:09] Joseph Kimsler extinguished all 0 fires.
+[01:24:09] Joseph Kimsler: !vextinguishall
+[01:27:26] Joseph Kimsler<STEAM_0:1:53097688> spawned sent ix_testent3
+[01:27:55] Joseph Kimsler<STEAM_0:1:53097688> spawned sent ix_testent3
+[01:28:35] Joseph Kimsler<STEAM_0:1:53097688> spawned sent ix_testent3
+[01:28:37] Joseph Kimsler<STEAM_0:1:53097688> spawned sent ix_testent3
+[01:34:00] (SILENT) Joseph Kimsler ran rcon command: sv_cheats 1
+[01:34:51] Joseph Kimsler<STEAM_0:1:53097688> spawned sent ix_testent3
+[01:59:38] Joseph Kimsler<STEAM_0:1:53097688> spawned sent ix_testent3
+[02:00:04] Joseph Kimsler<STEAM_0:1:53097688> spawned sent ix_testent3

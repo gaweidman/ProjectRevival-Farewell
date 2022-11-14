@@ -1,0 +1,138 @@
+L 10/30/2022 - 03:43:27: Log file started (file "logs\L1030005.log") (game "c:\servers\revivalhl2rp\garrysmod") (version "8607")
+L 10/30/2022 - 03:43:28: Connection to Steam servers successful.
+L 10/30/2022 - 03:43:28:    Public IP is 192.223.26.159.
+L 10/30/2022 - 03:43:28: Assigned persistent gameserver Steam ID [G-1:3334754].
+L 10/30/2022 - 03:43:28: VAC secure mode is activated.
+L 10/30/2022 - 06:07:12: "Weaponized Turtles<2><STEAM_0:0:69165544><>" connected, address "73.17.224.161:27005"
+L 10/30/2022 - 06:07:12: "Weaponized Turtles<2><STEAM_0:0:69165544><>" STEAM USERID validated
+L 10/30/2022 - 06:07:17: Lua Error: 
+[lfs_ground_vehicle_base] gamemodes/ixhl2rp/entities/entities/ix_stove.lua:25: attempt to index global 'trace' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/entities/entities/ix_stove.lua:25
+   2. Spawn - [C]:-1
+    3. PPEntityFromTable - addons/lfs_ground_vehicle_base/lua/permaprops/sv_lib.lua:120
+     4. ReloadPermaProps - addons/lfs_ground_vehicle_base/lua/permaprops/sv_lib.lua:233
+      5. unknown - addons/lfs_ground_vehicle_base/lua/permaprops/sv_lib.lua:241
+
+
+L 10/30/2022 - 06:07:18: Lua Error: 
+[lfs_ground_vehicle_base] gamemodes/ixhl2rp/entities/entities/ix_stove.lua:25: attempt to index global 'trace' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/entities/entities/ix_stove.lua:25
+   2. Spawn - [C]:-1
+    3. PPEntityFromTable - addons/lfs_ground_vehicle_base/lua/permaprops/sv_lib.lua:120
+     4. ReloadPermaProps - addons/lfs_ground_vehicle_base/lua/permaprops/sv_lib.lua:233
+      5. unknown - addons/lfs_ground_vehicle_base/lua/permaprops/sv_lib.lua:241
+
+
+L 10/30/2022 - 06:08:40: "Weaponized Turtles<2><STEAM_0:0:69165544><>" entered the game
+L 10/30/2022 - 06:08:40: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 10/30/2022 - 06:09:01: Lua Error: NetStream: Undefined hook for 'PlayerFinishChat'
+
+L 10/30/2022 - 06:09:35: "Weaponized Turtles<2><STEAM_0:0:69165544><>" disconnected (reason "Disconnect by user.")
+L 10/30/2022 - 08:46:37: "Lildirtyharry04<3><STEAM_0:0:247487472><>" connected, address "152.37.143.67:27005"
+L 10/30/2022 - 08:46:37: "Lildirtyharry04<3><STEAM_0:0:247487472><>" STEAM USERID validated
+L 10/30/2022 - 08:48:10: "Lildirtyharry04<3><STEAM_0:0:247487472><>" entered the game
+L 10/30/2022 - 08:48:10: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 10/30/2022 - 08:48:30: Lua Error: NetStream: Undefined hook for 'PlayerFinishChat'
+
+L 10/30/2022 - 08:50:30: Lua Error: NetStream: Undefined hook for 'SetVortWeaponMode'
+
+L 10/30/2022 - 08:50:31: Lua Error: NetStream: Undefined hook for 'SetVortWeaponMode'
+
+L 10/30/2022 - 08:50:31: Lua Error: NetStream: Undefined hook for 'SetVortWeaponMode'
+
+L 10/30/2022 - 08:51:36: Lua Error: NetStream: Undefined hook for 'SetVortWeaponMode'
+
+L 10/30/2022 - 08:51:36: Lua Error: NetStream: Undefined hook for 'SetVortWeaponMode'
+
+L 10/30/2022 - 08:52:47: Lua Error: NetStream: Undefined hook for 'SetVortWeaponMode'
+
+L 10/30/2022 - 08:52:57: Lua Error: NetStream: Undefined hook for 'SetVortWeaponMode'
+
+L 10/30/2022 - 08:53:09: Lua Error: NetStream: Undefined hook for 'SetVortWeaponMode'
+
+L 10/30/2022 - 09:07:17: "Lildirtyharry04<3><STEAM_0:0:247487472><>" disconnected (reason "Lildirtyharry04 timed out")
+L 10/30/2022 - 10:12:04: "Lildirtyharry04<4><STEAM_0:0:247487472><>" connected, address "152.37.143.67:27005"
+L 10/30/2022 - 10:12:04: "Lildirtyharry04<4><STEAM_0:0:247487472><>" STEAM USERID validated
+L 10/30/2022 - 10:13:43: "Lildirtyharry04<4><STEAM_0:0:247487472><>" entered the game
+L 10/30/2022 - 10:13:43: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 10/30/2022 - 10:14:04: Lua Error: NetStream: Undefined hook for 'PlayerFinishChat'
+
+L 10/30/2022 - 10:14:44: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:608: attempt to call method 'IsVortigaunt' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:608
+
+
+L 10/30/2022 - 10:14:46: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:608: attempt to call method 'IsVortigaunt' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:608
+
+
+L 10/30/2022 - 10:14:53: Lua Error: NetStream: Undefined hook for 'SetVortWeaponMode'
+
+L 10/30/2022 - 10:15:19: Lua Error: NetStream: Undefined hook for 'SetVortWeaponMode'
+
+L 10/30/2022 - 10:15:19: Lua Error: NetStream: Undefined hook for 'SetVortWeaponMode'
+
+L 10/30/2022 - 10:15:19: Lua Error: NetStream: Undefined hook for 'SetVortWeaponMode'
+
+L 10/30/2022 - 10:15:21: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:608: attempt to call method 'IsVortigaunt' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:608
+
+
+L 10/30/2022 - 10:15:24: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:608: attempt to call method 'IsVortigaunt' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:608
+
+
+L 10/30/2022 - 10:15:27: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:608: attempt to call method 'IsVortigaunt' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/entities/weapons/weapon_vortswep.lua:608
+
+
+L 10/30/2022 - 10:15:47: Lua Error: NetStream: Undefined hook for 'SetVortWeaponMode'
+
+L 10/30/2022 - 10:15:56: Lua Error: NetStream: Undefined hook for 'SetVortWeaponMode'
+
+L 10/30/2022 - 10:15:56: Lua Error: NetStream: Undefined hook for 'SetVortWeaponMode'
+
+L 10/30/2022 - 10:15:57: Lua Error: NetStream: Undefined hook for 'SetVortWeaponMode'
+
+L 10/30/2022 - 10:16:06: Lua Error: NetStream: Undefined hook for 'SetVortWeaponMode'
+
+L 10/30/2022 - 10:18:46: Lua Error: NetStream: Undefined hook for 'PlayerFinishChat'
+
+L 10/30/2022 - 10:18:48: "Lildirtyharry04<4><STEAM_0:0:247487472><>" disconnected (reason "Disconnect by user.")
+L 10/30/2022 - 10:25:22: "Nums<5><STEAM_0:1:196547442><>" connected, address "71.79.98.104:27005"
+L 10/30/2022 - 10:25:22: "Nums<5><STEAM_0:1:196547442><>" STEAM USERID validated
+L 10/30/2022 - 10:28:40: "Nums<5><STEAM_0:1:196547442><>" entered the game
+L 10/30/2022 - 10:28:40: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 10/30/2022 - 10:29:13: Lua Error: NetStream: Undefined hook for 'PlayerFinishChat'
+
+L 10/30/2022 - 10:29:54: "Dilly_<6><STEAM_0:0:52468151><>" connected, address "45.88.190.92:27005"
+L 10/30/2022 - 10:29:54: "Dilly_<6><STEAM_0:0:52468151><>" STEAM USERID validated
+L 10/30/2022 - 10:30:58: Engine error: Model models/m_gst.mdl not found and models/error.mdl couldn't be loaded

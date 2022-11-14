@@ -1,0 +1,1123 @@
+<Logging continued from "data/ulx_logs/09-21-22.txt">
+[00:03:04] Client "Bean" connected.
+[00:04:03] Client "Bean" spawned in server <STEAM_0:1:591779303> (took 59 seconds).
+[00:04:23] Bean<STEAM_0:1:591779303> changed their name to CCA.C17-UNION.i5.83253
+[00:04:40] CCA.C17-UNION.i5.83253<STEAM_0:1:591779303> spawned NPC npc_zombine
+[00:05:44] CCA.C17-UNION.i5.83253<STEAM_0:1:591779303> changed their name to Daniel J. Cutter
+[00:06:23] Daniel J. Cutter<STEAM_0:1:591779303> spawned NPC npc_headcrab
+[00:19:12] Dropped "Daniel J. Cutter" from server<STEAM_0:1:591779303>
+[00:31:04] Client "Bean" connected.
+[00:32:04] Client "Bean" spawned in server <STEAM_0:1:591779303> (took 60 seconds).
+[00:32:25] Bean<STEAM_0:1:591779303> changed their name to Daniel J. Cutter
+[00:33:13] Daniel J. Cutter<STEAM_0:1:591779303> spawned NPC npc_zombine
+[00:33:50] Daniel J. Cutter<STEAM_0:1:591779303> spawned NPC npc_zombine
+[00:36:16] Daniel J. Cutter<STEAM_0:1:591779303> spawned NPC npc_zombine
+[00:36:38] Daniel J. Cutter<STEAM_0:1:591779303> changed their name to CCA.C17-UNION.i5.83253
+[00:36:53] CCA.C17-UNION.i5.83253: 10-8
+[00:37:04] CCA.C17-UNION.i5.83253: 63
+[00:37:13] CCA.C17-UNION.i5.83253: Hey
+[00:41:01] CCA.C17-UNION.i5.83253: /actlean
+[00:41:04] CCA.C17-UNION.i5.83253: /actlean
+[00:41:10] CCA.C17-UNION.i5.83253: /actlean
+[00:41:20] CCA.C17-UNION.i5.83253: /actmotion
+[00:41:26] CCA.C17-UNION.i5.83253: /actstand
+[00:41:36] CCA.C17-UNION.i5.83253: /actthreat
+[00:42:38] CCA.C17-UNION.i5.83253: /viewdata Alex palovichov
+[00:43:08] CCA.C17-UNION.i5.83253: hold
+[00:43:10] CCA.C17-UNION.i5.83253: hold it
+[00:43:18] CCA.C17-UNION.i5.83253: 11-99
+[00:44:01] CCA.C17-UNION.i5.83253<STEAM_0:1:591779303> changed their name to Daniel J. Cutter
+[00:46:51] Dropped "Daniel J. Cutter" from server<STEAM_0:1:591779303>
+
+
+
+[01:43:56] New map: rp_industrial17_v1
+[01:44:05] Client "matt saton" connected.
+[01:45:56] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 111 seconds).
+[01:51:46] matt saton<STEAM_0:1:53097688> changed their name to Andrew Cloverman
+[01:53:49] Andrew Cloverman<STEAM_0:1:53097688> used the tool camera on maps/rp_industrial17_v1.bsp
+[01:53:57] Andrew Cloverman<STEAM_0:1:53097688> used the tool camera on maps/rp_industrial17_v1.bsp
+[01:54:02] Andrew Cloverman<STEAM_0:1:53097688> used the tool camera on maps/rp_industrial17_v1.bsp
+[01:54:08] Andrew Cloverman<STEAM_0:1:53097688> used the tool camera on maps/rp_industrial17_v1.bsp
+[01:54:13] Andrew Cloverman<STEAM_0:1:53097688> used the tool camera on maps/rp_industrial17_v1.bsp
+[01:54:20] Andrew Cloverman: /toggleraise
+[01:54:39] Andrew Cloverman<STEAM_0:1:53097688> spawned/gave himself swep weapon_pistol
+[01:54:39] Andrew Cloverman: /toggleraise
+[01:54:52] Andrew Cloverman: /toggleraise
+[02:27:53] Andrew Cloverman<STEAM_0:1:53097688> spawned effect models/props/de_dust/du_antenna_a.mdl
+[02:27:55] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/de_dust/door01a.mdl
+[02:28:03] Andrew Cloverman<STEAM_0:1:53097688> spawned effect models/props/de_dust/du_door_slim.mdl
+[02:28:05] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/de_dust/du_crate_128x128.mdl
+[02:28:09] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/de_dust/du_crate_64x80.mdl
+[02:28:10] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/de_dust/du_crate_96x96.mdl
+[02:29:43] Andrew Cloverman<STEAM_0:1:53097688> spawned effect models/props/de_inferno/archroofb.mdl
+[02:29:45] Andrew Cloverman<STEAM_0:1:53097688> spawned effect models/props/de_inferno/archroofb.mdl
+[02:29:50] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props/de_inferno/bench_wood.mdl
+[02:30:34] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/hunter/blocks/cube2x6x025.mdl
+[02:30:37] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/hunter/blocks/cube2x4x025.mdl
+[02:30:39] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/hunter/blocks/cube2x4x05.mdl
+[02:30:47] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/hunter/blocks/cube2x4x05.mdl
+[02:31:12] Andrew Cloverman<STEAM_0:1:53097688> used the tool material on models/hunter/blocks/cube2x4x05.mdl
+[02:31:14] Andrew Cloverman<STEAM_0:1:53097688> used the tool material on models/hunter/blocks/cube2x4x05.mdl
+[02:31:19] Andrew Cloverman<STEAM_0:1:53097688> used the tool material on models/hunter/blocks/cube2x4x05.mdl
+[02:31:22] Andrew Cloverman<STEAM_0:1:53097688> used the tool material on models/hunter/blocks/cube2x4x05.mdl
+[02:31:24] Andrew Cloverman<STEAM_0:1:53097688> used the tool material on models/hunter/blocks/cube2x4x05.mdl
+[02:31:31] Andrew Cloverman<STEAM_0:1:53097688> used the tool material on models/hunter/blocks/cube2x4x05.mdl
+[02:31:40] Andrew Cloverman<STEAM_0:1:53097688> used the tool material on models/hunter/blocks/cube2x4x05.mdl
+[02:31:42] Andrew Cloverman<STEAM_0:1:53097688> used the tool material on models/hunter/blocks/cube2x4x05.mdl
+[02:31:54] Andrew Cloverman<STEAM_0:1:53097688> used the tool material on models/hunter/blocks/cube2x4x05.mdl
+[02:31:56] Andrew Cloverman<STEAM_0:1:53097688> used the tool material on models/hunter/blocks/cube2x4x05.mdl
+[02:32:17] Andrew Cloverman<STEAM_0:1:53097688> used the tool material on models/hunter/blocks/cube2x4x05.mdl
+[02:32:19] Andrew Cloverman<STEAM_0:1:53097688> used the tool material on models/hunter/blocks/cube2x4x05.mdl
+[02:32:26] Andrew Cloverman<STEAM_0:1:53097688> used the tool material on models/hunter/blocks/cube2x4x05.mdl
+[02:32:29] Andrew Cloverman<STEAM_0:1:53097688> used the tool material on models/hunter/blocks/cube2x4x05.mdl
+[02:32:33] Andrew Cloverman<STEAM_0:1:53097688> used the tool material on models/hunter/blocks/cube2x4x05.mdl
+[02:32:37] Andrew Cloverman<STEAM_0:1:53097688> used the tool material on models/hunter/blocks/cube2x4x05.mdl
+[02:32:50] Andrew Cloverman<STEAM_0:1:53097688> used the tool material on models/hunter/blocks/cube2x4x05.mdl
+[02:32:58] Andrew Cloverman<STEAM_0:1:53097688> used the tool material on models/hunter/blocks/cube2x4x05.mdl
+[02:32:59] Andrew Cloverman<STEAM_0:1:53097688> used the tool material on models/hunter/blocks/cube2x4x05.mdl
+[02:33:01] Andrew Cloverman<STEAM_0:1:53097688> used the tool material on models/hunter/blocks/cube2x4x05.mdl
+[02:33:04] Andrew Cloverman<STEAM_0:1:53097688> used the tool material on models/hunter/blocks/cube2x4x05.mdl
+[02:33:05] Andrew Cloverman<STEAM_0:1:53097688> used the tool material on models/hunter/blocks/cube2x4x05.mdl
+[02:33:38] Andrew Cloverman<STEAM_0:1:53097688> used the tool material on models/hunter/blocks/cube2x4x05.mdl
+[02:33:50] Andrew Cloverman<STEAM_0:1:53097688> used the tool material on models/hunter/blocks/cube2x4x05.mdl
+[02:33:56] Andrew Cloverman<STEAM_0:1:53097688> used the tool material on models/hunter/blocks/cube2x4x05.mdl
+[02:34:01] Andrew Cloverman<STEAM_0:1:53097688> used the tool material on models/hunter/blocks/cube2x4x05.mdl
+[02:34:18] Andrew Cloverman<STEAM_0:1:53097688> used the tool material on models/hunter/blocks/cube2x4x05.mdl
+[02:34:37] Andrew Cloverman<STEAM_0:1:53097688> used the tool material on models/hunter/blocks/cube2x4x05.mdl
+[02:34:40] Andrew Cloverman<STEAM_0:1:53097688> used the tool material on models/hunter/blocks/cube2x4x05.mdl
+[02:34:44] Andrew Cloverman<STEAM_0:1:53097688> used the tool material on models/hunter/blocks/cube2x4x05.mdl
+[02:34:46] Andrew Cloverman<STEAM_0:1:53097688> used the tool material on models/hunter/blocks/cube2x4x05.mdl
+[02:35:03] Andrew Cloverman<STEAM_0:1:53097688> used the tool material on models/hunter/blocks/cube2x4x05.mdl
+[02:35:05] Andrew Cloverman<STEAM_0:1:53097688> used the tool material on models/hunter/blocks/cube2x4x05.mdl
+[02:35:08] Andrew Cloverman<STEAM_0:1:53097688> used the tool material on models/hunter/blocks/cube2x4x05.mdl
+[02:35:15] Andrew Cloverman<STEAM_0:1:53097688> used the tool material on models/hunter/blocks/cube2x4x05.mdl
+[02:35:44] Andrew Cloverman<STEAM_0:1:53097688> used the tool material on models/hunter/blocks/cube2x4x05.mdl
+[02:36:05] Andrew Cloverman<STEAM_0:1:53097688> used the tool material on models/hunter/blocks/cube2x4x05.mdl
+[02:36:08] Andrew Cloverman<STEAM_0:1:53097688> used the tool material on models/hunter/blocks/cube2x4x05.mdl
+[02:36:13] Andrew Cloverman<STEAM_0:1:53097688> used the tool material on models/hunter/blocks/cube2x4x05.mdl
+[02:36:18] Andrew Cloverman<STEAM_0:1:53097688> used the tool material on models/hunter/blocks/cube2x4x05.mdl
+[02:36:21] Andrew Cloverman<STEAM_0:1:53097688> used the tool material on models/hunter/blocks/cube2x4x05.mdl
+[02:36:29] Andrew Cloverman<STEAM_0:1:53097688> used the tool material on models/hunter/blocks/cube2x4x05.mdl
+[02:36:34] Andrew Cloverman<STEAM_0:1:53097688> used the tool material on models/hunter/blocks/cube2x4x05.mdl
+[02:36:38] Andrew Cloverman<STEAM_0:1:53097688> used the tool material on models/hunter/blocks/cube2x4x05.mdl
+[02:36:39] Andrew Cloverman<STEAM_0:1:53097688> used the tool material on models/hunter/blocks/cube2x4x05.mdl
+[02:36:49] Andrew Cloverman<STEAM_0:1:53097688> used the tool material on models/hunter/blocks/cube2x4x05.mdl
+[02:36:55] Andrew Cloverman<STEAM_0:1:53097688> used the tool material on models/hunter/blocks/cube2x4x05.mdl
+[02:36:57] Andrew Cloverman<STEAM_0:1:53097688> used the tool material on models/hunter/blocks/cube2x4x05.mdl
+[02:37:35] Andrew Cloverman<STEAM_0:1:53097688> used the tool material on models/hunter/blocks/cube2x4x05.mdl
+[02:37:38] Andrew Cloverman<STEAM_0:1:53097688> used the tool material on models/hunter/blocks/cube2x4x05.mdl
+[02:37:39] Andrew Cloverman<STEAM_0:1:53097688> used the tool material on models/hunter/blocks/cube2x4x05.mdl
+[02:39:11] Andrew Cloverman<STEAM_0:1:53097688> used the tool material on maps/rp_industrial17_v1.bsp
+[02:40:18] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_c17/gravestone001a.mdl
+[02:41:55] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/hunter/misc/sphere025x025.mdl
+[02:41:59] Andrew Cloverman<STEAM_0:1:53097688> used the tool nocollideeverything on models/hunter/blocks/cube2x4x05.mdl
+[02:42:12] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/hunter/misc/sphere075x075.mdl
+[02:42:14] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/hunter/misc/shell2x2.mdl
+[02:42:24] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/hunter/tubes/tube4x4x2to2x2.mdl
+[02:42:41] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/hunter/tubes/tube1x1x1.mdl
+[02:42:43] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/hunter/tubes/tube1x1x2.mdl
+[02:42:59] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/xeon133/slider/slider_12x12x24.mdl
+[02:43:31] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/hunter/misc/sphere075x075.mdl
+[02:43:32] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/hunter/misc/sphere375x375.mdl
+[02:43:35] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/hunter/misc/sphere075x075.mdl
+[02:44:29] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/maxofs2d/hover_basic.mdl
+[02:44:31] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/maxofs2d/hover_classic.mdl
+[02:45:57] Andrew Cloverman<STEAM_0:1:53097688> used the tool stacker_improved on models/maxofs2d/hover_classic.mdl
+[02:45:57] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/maxofs2d/hover_classic.mdl
+[02:46:03] Andrew Cloverman<STEAM_0:1:53097688> used the tool stacker_improved on models/maxofs2d/hover_classic.mdl
+[02:46:03] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/maxofs2d/hover_classic.mdl
+[02:46:06] Andrew Cloverman<STEAM_0:1:53097688> used the tool stacker_improved on models/maxofs2d/hover_classic.mdl
+[02:46:06] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/maxofs2d/hover_classic.mdl
+[02:46:10] Andrew Cloverman<STEAM_0:1:53097688> used the tool stacker_improved on models/maxofs2d/hover_classic.mdl
+[02:46:10] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/maxofs2d/hover_classic.mdl
+[02:46:20] Andrew Cloverman<STEAM_0:1:53097688> used the tool stacker_improved on models/maxofs2d/hover_classic.mdl
+[02:46:20] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/maxofs2d/hover_classic.mdl
+[02:46:31] Andrew Cloverman<STEAM_0:1:53097688> used the tool stacker_improved on models/maxofs2d/hover_classic.mdl
+[02:46:31] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/maxofs2d/hover_classic.mdl
+[02:46:38] Andrew Cloverman<STEAM_0:1:53097688> used the tool stacker_improved on models/maxofs2d/hover_classic.mdl
+[02:46:38] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/maxofs2d/hover_classic.mdl
+[02:46:54] Andrew Cloverman<STEAM_0:1:53097688> used the tool remover on models/hunter/misc/sphere075x075.mdl
+[02:46:55] Andrew Cloverman<STEAM_0:1:53097688> used the tool remover on models/hunter/misc/sphere025x025.mdl
+[02:46:55] Andrew Cloverman<STEAM_0:1:53097688> used the tool remover on models/xeon133/slider/slider_12x12x24.mdl
+[02:47:09] Andrew Cloverman<STEAM_0:1:53097688> used the tool material on models/maxofs2d/hover_classic.mdl
+[02:47:15] Andrew Cloverman<STEAM_0:1:53097688> used the tool material on models/maxofs2d/hover_classic.mdl
+[02:47:17] Andrew Cloverman<STEAM_0:1:53097688> used the tool material on models/maxofs2d/hover_classic.mdl
+[02:47:19] Andrew Cloverman<STEAM_0:1:53097688> used the tool material on models/maxofs2d/hover_classic.mdl
+[02:47:24] Andrew Cloverman<STEAM_0:1:53097688> used the tool nocollideeverything on models/maxofs2d/hover_classic.mdl
+[02:47:25] Andrew Cloverman<STEAM_0:1:53097688> used the tool nocollideeverything on models/maxofs2d/hover_classic.mdl
+[02:47:25] Andrew Cloverman<STEAM_0:1:53097688> used the tool nocollideeverything on models/hunter/blocks/cube2x4x05.mdl
+[02:47:38] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_c17/gravestone001a.mdl
+[02:47:51] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_c17/gravestone004a.mdl
+[02:47:58] Andrew Cloverman<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_c17/gravestone004a.mdl
+[02:48:28] Andrew Cloverman<STEAM_0:1:53097688> used the tool material on models/hunter/blocks/cube2x4x05.mdl
+[02:48:29] Andrew Cloverman<STEAM_0:1:53097688> used the tool material on models/props_c17/gravestone004a.mdl
+[02:48:31] Andrew Cloverman<STEAM_0:1:53097688> used the tool material on models/maxofs2d/hover_classic.mdl
+[02:48:31] Andrew Cloverman<STEAM_0:1:53097688> used the tool material on models/props_c17/gravestone004a.mdl
+[02:48:36] Andrew Cloverman<STEAM_0:1:53097688> used the tool material on models/hunter/blocks/cube2x4x05.mdl
+[02:48:36] Andrew Cloverman<STEAM_0:1:53097688> used the tool material on models/props_c17/gravestone004a.mdl
+[02:48:38] Andrew Cloverman<STEAM_0:1:53097688> used the tool material on models/maxofs2d/hover_classic.mdl
+[02:48:39] Andrew Cloverman<STEAM_0:1:53097688> used the tool material on models/props_c17/gravestone004a.mdl
+[02:48:42] Andrew Cloverman<STEAM_0:1:53097688> used the tool material on models/hunter/blocks/cube2x4x05.mdl
+[02:48:42] Andrew Cloverman<STEAM_0:1:53097688> used the tool material on models/props_c17/gravestone004a.mdl
+[02:48:47] Andrew Cloverman<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_c17/gravestone004a.mdl
+[02:48:47] Andrew Cloverman<STEAM_0:1:53097688> used the tool nocollideeverything on models/hunter/blocks/cube2x4x05.mdl
+[02:48:48] Andrew Cloverman<STEAM_0:1:53097688> used the tool nocollideeverything on models/maxofs2d/hover_classic.mdl
+[02:48:48] Andrew Cloverman<STEAM_0:1:53097688> used the tool nocollideeverything on models/maxofs2d/hover_classic.mdl
+[02:48:52] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/maxofs2d/hover_classic.mdl
+[02:48:53] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/hunter/blocks/cube2x4x05.mdl
+[02:48:55] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/maxofs2d/hover_classic.mdl
+[02:48:58] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props_c17/gravestone004a.mdl
+[02:49:19] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_c17/gravestone002a.mdl
+[02:49:25] Andrew Cloverman<STEAM_0:1:53097688> used the tool material on models/props_c17/gravestone002a.mdl
+[02:49:27] Andrew Cloverman<STEAM_0:1:53097688> used the tool material on models/props_c17/gravestone002a.mdl
+[02:49:28] Andrew Cloverman<STEAM_0:1:53097688> used the tool material on models/props_c17/gravestone002a.mdl
+[02:49:31] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_c17/gravestone003a.mdl
+[02:49:31] Andrew Cloverman<STEAM_0:1:53097688> used the tool material on models/props_c17/gravestone003a.mdl
+[02:49:45] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_c17/gravestone001a.mdl
+[02:49:46] Andrew Cloverman<STEAM_0:1:53097688> used the tool material on models/props_c17/gravestone001a.mdl
+[02:49:49] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_c17/gravestone004a.mdl
+[02:49:59] Andrew Cloverman<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_c17/gravestone003a.mdl
+[02:50:06] Andrew Cloverman<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_c17/gravestone003a.mdl
+[02:51:02] Andrew Cloverman<STEAM_0:1:53097688> used the tool stacker_improved on models/props_c17/gravestone003a.mdl
+[02:51:02] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_c17/gravestone003a.mdl
+[02:51:06] Andrew Cloverman<STEAM_0:1:53097688> used the tool stacker_improved on models/props_c17/gravestone003a.mdl
+[02:51:06] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_c17/gravestone003a.mdl
+[02:51:15] Andrew Cloverman<STEAM_0:1:53097688> used the tool stacker_improved on models/props_c17/gravestone003a.mdl
+[02:51:15] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_c17/gravestone003a.mdl
+[02:51:20] Andrew Cloverman<STEAM_0:1:53097688> used the tool stacker_improved on models/props_c17/gravestone003a.mdl
+[02:51:20] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_c17/gravestone003a.mdl
+[02:51:35] Andrew Cloverman<STEAM_0:1:53097688> used the tool stacker_improved on models/props_c17/gravestone003a.mdl
+[02:51:35] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_c17/gravestone003a.mdl
+[02:52:07] Andrew Cloverman<STEAM_0:1:53097688> used the tool stacker_improved on models/props_c17/gravestone003a.mdl
+[02:52:07] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_c17/gravestone003a.mdl
+[02:52:15] Andrew Cloverman<STEAM_0:1:53097688> used the tool stacker_improved on maps/rp_industrial17_v1.bsp
+[02:53:03] Andrew Cloverman<STEAM_0:1:53097688> used the tool stacker_improved on models/props_c17/gravestone003a.mdl
+[02:53:03] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/props_c17/gravestone003a.mdl
+[02:53:09] Andrew Cloverman<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_c17/gravestone003a.mdl
+[02:53:10] Andrew Cloverman<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_c17/gravestone003a.mdl
+[02:53:18] Andrew Cloverman<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_c17/gravestone003a.mdl
+[02:53:20] Andrew Cloverman<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_c17/gravestone003a.mdl
+[02:53:21] Andrew Cloverman<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_c17/gravestone003a.mdl
+[02:53:26] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props_c17/gravestone003a.mdl
+[02:53:28] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/props_c17/gravestone003a.mdl
+[03:04:02] Andrew Cloverman: /chargiveitem andrew notepad
+[03:04:31] Andrew Cloverman: /toggleraise
+[03:04:46] Andrew Cloverman<STEAM_0:1:53097688> spawned/gave himself swep weapon_pistol
+[03:04:46] Andrew Cloverman: /toggleraise
+[03:07:37] Andrew Cloverman: /textadd "<font=HUDTextGlow>Bulletin Board</font>" 2
+[03:07:43] Andrew Cloverman: /textadd "<font=HUDText>Bulletin Board</font>" 2
+[03:07:52] Andrew Cloverman: /textremove 
+[03:13:53] Andrew Cloverman: /textadd "<font=HUDNumbers>@    H<color=2>A</colorLF-LIFE '</font>" 1.8
+[03:13:57] Andrew Cloverman: /textremove
+[03:14:43] Andrew Cloverman: /textadd "<font=HUDNumbers>@    H<color=255,90,0>A</color>LF-LIFE '</font>" 1.8
+[03:14:47] Andrew Cloverman: /textremove
+[03:15:55] Andrew Cloverman: /textremove
+[03:15:57] Andrew Cloverman: /textadd "<font=HUDNumbers>@    H<color=255,90,0>A</color>LF-LIFE '</font>" 1.8
+[03:16:04] Andrew Cloverman: /textremov
+[03:16:05] Andrew Cloverman: /textremove
+[03:16:24] Andrew Cloverman: /textadd "<font=HUDNumbers>@    H<color=255,90,0>A</color>LF-LIFE '</font>" 1.8
+[03:16:28] Andrew Cloverman: /textremove
+[03:16:32] Andrew Cloverman: /textadd "<font=HUDNumbers>@    H<color=255,90,0>A</color>LF-LIFE '</font>" 1.8
+[03:18:04] Andrew Cloverman: /textremove
+[03:24:09] Dropped "Andrew Cloverman" from server<STEAM_0:1:53097688>
+
+
+
+[03:28:15] New map: rp_industrial17_v1
+[03:30:08] Client "matt saton" connected.
+[03:31:16] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 68 seconds).
+[03:32:35] matt saton<STEAM_0:1:53097688> changed their name to Andrew Cloverman
+[03:33:27] Andrew Cloverman: /textadd "<color=255, 255,255><font=ixPrinted>Bulletin Board</font></color>" 2.5
+[03:41:46] Client "Hello" connected.
+[03:45:41] Andrew Cloverman: /chargiveitem andrew "consul poster"
+[03:49:13] Client "Hello" spawned in server <STEAM_0:0:42840820> (took 447 seconds).
+[03:49:38] Andrew Cloverman: /chargiveitem andrew "return of the king"
+[03:49:53] Dropped "Andrew Cloverman" from server<STEAM_0:1:53097688>
+[03:57:40] Hello<STEAM_0:0:42840820> changed their name to Kennedy Bill
+[03:59:57] Dropped "Kennedy Bill" from server<STEAM_0:0:42840820>
+[04:11:08] Client "Mr.Ganar" connected.
+[04:15:50] Client "Mr.Ganar" spawned in server <STEAM_0:0:80909581> (took 282 seconds).
+[04:16:22] Dropped "Mr.Ganar" from server<STEAM_0:0:80909581>
+[05:43:56] Client "Lynch" connected.
+[05:46:26] Client "Lynch" spawned in server <STEAM_0:1:626926779> (took 150 seconds).
+[05:47:11] Lynch<STEAM_0:1:626926779> changed their name to Henry Blackwoods
+[05:47:48] Dropped "Henry Blackwoods" from server<STEAM_0:1:626926779>
+[05:52:02] Client "Lynch" connected.
+[05:54:05] Client "Lynch" spawned in server <STEAM_0:1:626926779> (took 123 seconds).
+[05:54:54] Lynch<STEAM_0:1:626926779> changed their name to Henry Blackwoods
+[05:55:52] Dropped "Henry Blackwoods" from server<STEAM_0:1:626926779>
+[06:17:22] Client "Lynch" connected.
+[06:19:22] Client "Lynch" spawned in server <STEAM_0:1:626926779> (took 120 seconds).
+[06:20:32] Lynch<STEAM_0:1:626926779> changed their name to Henry Blackwoods
+[06:21:09] Dropped "Henry Blackwoods" from server<STEAM_0:1:626926779>
+[06:25:04] Client "Lynch" connected.
+[06:27:04] Client "Lynch" spawned in server <STEAM_0:1:626926779> (took 120 seconds).
+[06:27:42] Lynch<STEAM_0:1:626926779> changed their name to Henry Blackwoods
+[06:28:21] Dropped "Henry Blackwoods" from server<STEAM_0:1:626926779>
+[08:10:33] Client "Lynch" connected.
+[08:12:47] Client "Lynch" spawned in server <STEAM_0:1:626926779> (took 134 seconds).
+[08:14:02] Lynch<STEAM_0:1:626926779> changed their name to Henry Blackwoods
+[08:37:24] Dropped "Henry Blackwoods" from server<STEAM_0:1:626926779>
+[09:08:33] Client "Lynch" connected.
+[09:09:38] Client "Lynch" spawned in server <STEAM_0:1:626926779> (took 65 seconds).
+[09:10:34] Lynch<STEAM_0:1:626926779> changed their name to Henry Blackwoods
+[09:14:40] Dropped "Henry Blackwoods" from server<STEAM_0:1:626926779>
+[09:15:57] Client "7 Days" connected.
+[09:18:04] Client "7 Days" spawned in server <STEAM_0:1:17454649> (took 127 seconds).
+[09:18:46] 7 Days<STEAM_0:1:17454649> changed their name to Raul Fernandez
+[09:25:04] Client "Lynch" connected.
+[09:27:01] Client "Lynch" spawned in server <STEAM_0:1:626926779> (took 117 seconds).
+[09:27:42] Lynch<STEAM_0:1:626926779> changed their name to Henry Blackwoods
+[09:27:55] Dropped "Raul Fernandez" from server<STEAM_0:1:17454649>
+[09:28:20] Henry Blackwoods: /chardesc
+[09:28:55] Client "7 Days" connected.
+[09:29:53] Client "7 Days" spawned in server <STEAM_0:1:17454649> (took 58 seconds).
+[09:33:20] 7 Days<STEAM_0:1:17454649> changed their name to Andrea Garcia
+[09:43:00] Dropped "Henry Blackwoods" from server<STEAM_0:1:626926779>
+[10:00:13] Dropped "Andrea Garcia" from server<STEAM_0:1:17454649>
+[13:27:28] Client "Lynch" connected.
+[13:27:32] Client "Lynch" connected.
+[14:08:53] Client "DRD" connected.
+[14:10:14] Client "DRD" spawned in server <STEAM_0:0:193599766> (took 81 seconds).
+[14:11:18] DRD<STEAM_0:0:193599766> changed their name to OTA.S17-ECHO.OWS.85171
+[14:13:59] OTA.S17-ECHO.OWS.85171<STEAM_0:0:193599766> spawned NPC npc_binocularlooking_combinesoldier
+[14:14:18] OTA.S17-ECHO.OWS.85171<STEAM_0:0:193599766> spawned NPC npc_walking_unarmed_combine_soldier
+[14:14:22] OTA.S17-ECHO.OWS.85171<STEAM_0:0:193599766> spawned NPC npc_combine_s
+[14:14:31] OTA.S17-ECHO.OWS.85171<STEAM_0:0:193599766> spawned NPC npc_binocularlooking_combinesoldier
+[14:14:38] OTA.S17-ECHO.OWS.85171<STEAM_0:0:193599766> spawned ragdoll models/ninja/combine/combine_super_soldier.mdl
+[14:16:18] Dropped "OTA.S17-ECHO.OWS.85171" from server<STEAM_0:0:193599766>
+[15:06:58] Client "Nums" connected.
+[15:10:01] Client "Nums" spawned in server <STEAM_0:1:196547442> (took 183 seconds).
+[15:19:24] Client "NamRm" connected.
+[15:20:29] Client "NamRm" spawned in server <STEAM_0:0:69476140> (took 65 seconds).
+[15:21:27] NamRm<STEAM_0:0:69476140> changed their name to Aurelio Grau
+[15:21:42] Aurelio Grau<STEAM_0:0:69476140> changed their name to CCA.C17-UNION.i5.60555
+[15:26:40] Nums<STEAM_0:1:196547442> changed their name to CCA.C17-JUDGE.i4.77460
+[15:27:33] CCA.C17-JUDGE.i4.77460: // i dont think I have ever seen u bfore
+[15:27:56] CCA.C17-UNION.i5.60555: // like ever on the server?
+[15:28:08] CCA.C17-JUDGE.i4.77460: // no just here in this server
+[15:28:39] CCA.C17-UNION.i5.60555: // probably haven't. i have not been playing for a while
+[15:29:04] CCA.C17-JUDGE.i4.77460: // oh well welcome, during the week populated hours are very random so I normally just hang around and wait
+[15:29:43] CCA.C17-UNION.i5.60555: // oh i think you misunderstand. ive been playing with this community for like 2 years. just been a while since ive been on
+[15:30:21] CCA.C17-JUDGE.i4.77460: // oh fuck ur older here than myself
+[15:30:55] CCA.C17-UNION.i5.60555: // ye i have a union i2 from when i did play but i am going to play this i5 for a little bit to see how it feels before i hop back in
+[15:34:45] CCA.C17-JUDGE.i4.77460: // well welcome back the more the merrier
+[15:41:15] CCA.C17-UNION.i5.60555: // thanks
+[16:07:10] CCA.C17-JUDGE.i4.77460 suicided!
+[16:18:01] CCA.C17-UNION.i5.60555: // will go for now but may be on later
+[16:18:25] Dropped "CCA.C17-UNION.i5.60555" from server<STEAM_0:0:69476140>
+[16:22:27] Dropped "CCA.C17-JUDGE.i4.77460" from server<STEAM_0:1:196547442>
+[16:41:21] Client "Megatron405" connected.
+[16:43:03] Client "Megatron405" spawned in server <STEAM_0:1:511439154> (took 102 seconds).
+[16:46:14] Megatron405<STEAM_0:1:511439154> changed their name to Elizabeth Anderson
+[16:52:22] Elizabeth Anderson<STEAM_0:1:511439154> changed their name to Megatron405
+[16:52:24] Megatron405<STEAM_0:1:511439154> changed their name to Elizabeth Johnson.
+[16:59:33] Elizabeth Johnson.: Excuse me
+[17:00:00] Elizabeth Johnson.: /gasmask
+[17:00:11] Elizabeth Johnson.: /Gasmask
+[17:00:23] Elizabeth Johnson.: /gasmask
+[17:01:14] Elizabeth Johnson.: /Gasmask 
+[17:02:28] Elizabeth Johnson.: /Gasmask
+[17:02:37] Elizabeth Johnson.: /gasmask
+[17:04:12] Elizabeth Johnson.: /apply
+[17:05:21] Dropped "Elizabeth Johnson." from server<STEAM_0:1:511439154>
+[17:16:30] Client "NamRm" connected.
+[17:17:32] Client "NamRm" spawned in server <STEAM_0:0:69476140> (took 62 seconds).
+[17:24:12] Client "Bean" connected.
+[17:24:59] NamRm<STEAM_0:0:69476140> changed their name to Aurelio Grau
+[17:25:06] Aurelio Grau<STEAM_0:0:69476140> changed their name to CCA.C17-UNION.i5.60555
+[17:25:13] Client "Bean" spawned in server <STEAM_0:1:591779303> (took 61 seconds).
+[17:25:35] Bean<STEAM_0:1:591779303> changed their name to Alex Palovichov
+[17:25:48] CCA.C17-UNION.i5.60555: // hey bean i need you to unstuck my other guy
+[17:25:52] CCA.C17-UNION.i5.60555<STEAM_0:0:69476140> changed their name to Aurelio Grau
+[17:25:54] Aurelio Grau: // this guy
+[17:26:07] Alex Palovichov teleported Aurelio Grau
+[17:26:10] Aurelio Grau: // thank you
+[17:26:12] Alex Palovichov: /ooc there ya go
+[17:26:56] Alex Palovichov<STEAM_0:1:591779303> changed their name to Daniel J. Cutter
+[17:29:38] Client "wendigo" connected.
+[17:31:26] Client "wendigo" spawned in server <STEAM_0:1:429480781> (took 108 seconds).
+[17:32:22] wendigo<STEAM_0:1:429480781> changed their name to Stewie Lou
+[17:33:01] Daniel J. Cutter<STEAM_0:1:591779303> changed their name to CCA.C17-UNION.i5.83253
+[17:33:12] CCA.C17-UNION.i5.83253: /w 10-8
+[17:34:29] CCA.C17-UNION.i5.83253: /viewdata Aurelio Grau
+[17:36:21] Stewie Lou to admins: BEAN I FOUND ANOTHER BOX I WANT IN MY APARTMENT!
+[17:36:40] CCA.C17-UNION.i5.83253: /looc Uhh...
+[17:36:51] CCA.C17-UNION.i5.83253: /looc Im trying to see how you would even get this out
+[17:37:00] Stewie Lou: /looc i could throw it
+[17:37:08] CCA.C17-UNION.i5.83253: /looc Can't just throw a heavy ass crate
+[17:37:09] Stewie Lou: /looc over that fence right there
+[17:37:15] CCA.C17-UNION.i5.83253: /looc 100% not that
+[17:37:17] Stewie Lou: /looc YOU COULD
+[17:37:22] CCA.C17-UNION.i5.83253: /looc No...
+[17:37:44] CCA.C17-UNION.i5.83253: /looc Unless you can get a ramp throw that window, I doubt you can get it out
+[17:37:55] CCA.C17-UNION.i5.83253: /looc through*
+[17:38:05] CCA.C17-UNION.i5.83253: /looc but lemme see...
+[17:38:18] CCA.C17-UNION.i5.83253: /looc Doesnt fit though
+[17:38:25] Stewie Lou: /looc FUCK IWANTED VBOX!
+[17:38:35] Stewie Lou: /LOOC stupid window being too small
+[17:38:38] CCA.C17-UNION.i5.83253: /looc Lol
+[17:38:45] CCA.C17-UNION.i5.83253: /looc Try stealing from other people
+[17:38:51] Stewie Lou: /looc later
+[17:40:03] CCA.C17-UNION.i5.83253<STEAM_0:1:591779303> changed their name to Daniel J. Cutter
+[17:40:24] Daniel J. Cutter<STEAM_0:1:591779303> spawned NPC npc_zombie
+[17:40:31] Daniel J. Cutter<STEAM_0:1:591779303> spawned NPC npc_headcrab
+[17:40:34] Client "Megatron405" connected.
+[17:40:57] Daniel J. Cutter<STEAM_0:1:591779303> spawned NPC npc_zombie
+[17:41:11] Daniel J. Cutter<STEAM_0:1:591779303> spawned NPC npc_headcrab
+[17:41:27] Daniel J. Cutter<STEAM_0:1:591779303> spawned NPC npc_zombie
+[17:41:38] Client "Megatron405" spawned in server <STEAM_0:1:511439154> (took 64 seconds).
+[17:41:58] Megatron405<STEAM_0:1:511439154> changed their name to Elizabeth Johnson.
+[17:42:00] Daniel J. Cutter<STEAM_0:1:591779303> spawned NPC npc_zombie
+[17:42:12] Daniel J. Cutter<STEAM_0:1:591779303> spawned NPC npc_headcrab
+[17:42:18] Daniel J. Cutter<STEAM_0:1:591779303> spawned NPC npc_zombie
+[17:42:44] Daniel J. Cutter: /ooc Welcome! I'll be right with you! Don't forget to put your suit on and insert its filter!
+[17:42:55] Daniel J. Cutter<STEAM_0:1:591779303> changed their name to CCA.C17-UNION.i5.83253
+[17:43:03] Stewie Lou was killed by npc_headcrab
+[17:43:05] CCA.C17-UNION.i5.83253: /ooc huh...my icon is wrong
+[17:43:14] Elizabeth Johnson.: /ooc Huh
+[17:43:24] CCA.C17-UNION.i5.83253: /ooc Oh nothing, just have to speak with Q bout something
+[17:43:51] Stewie Lou: You new here?
+[17:43:57] Elizabeth Johnson.: Yeah..
+[17:44:17] CCA.C17-UNION.i5.83253: Come over here!
+[17:44:22] CCA.C17-UNION.i5.83253: Move it
+[17:44:23] Stewie Lou: go up to him and ask for whatever
+[17:44:35] CCA.C17-UNION.i5.83253: hold
+[17:44:46] CCA.C17-UNION.i5.83253: You got a CID?
+[17:44:47] Stewie Lou: alright mr CP
+[17:45:12] CCA.C17-UNION.i5.83253: /viewdata Stewie Lou
+[17:45:24] CCA.C17-UNION.i5.83253: hm
+[17:45:28] CCA.C17-UNION.i5.83253: get out
+[17:45:33] CCA.C17-UNION.i5.83253: Take your CID...
+[17:45:54] CCA.C17-UNION.i5.83253: Relocation Coupon?
+[17:46:03] Elizabeth Johnson.: Oh yes, give me just a second..
+[17:46:22] CCA.C17-UNION.i5.83253: /me Would grab the coupon, inspecting it
+[17:46:29] CCA.C17-UNION.i5.83253: /looc mfw ping
+[17:46:32] CCA.C17-UNION.i5.83253: hm
+[17:46:38] Elizabeth Johnson.: /looc Lmao, happens
+[17:47:08] CCA.C17-UNION.i5.83253: Alright...I'll be asking you a few questions, you answer to them truthfully...Got it?
+[17:47:14] Elizabeth Johnson.: Got it.
+[17:47:19] CCA.C17-UNION.i5.83253: Good...
+[17:47:25] CCA.C17-UNION.i5.83253: /viewdata
+[17:47:46] CCA.C17-UNION.i5.83253: /me Would reach into his vest, taking out his PDA, pressing a button the screen lights up with a harsh blue
+[17:47:52] CCA.C17-UNION.i5.83253: /viewdata Elizabeth Johnson
+[17:48:01] CCA.C17-UNION.i5.83253: Date of Birth?
+[17:48:14] CCA.C17-UNION.i5.83253: /looc Takes place in 2006, minimum is 1986
+[17:48:45] Elizabeth Johnson.: 28th of April, 1986..
+[17:48:50] CCA.C17-UNION.i5.83253: /viewdata Elizabeth Johnson
+[17:48:55] Elizabeth Johnson.: /looc Was gonna use a random but eh, lazy for that aswell lol
+[17:49:09] CCA.C17-UNION.i5.83253: Female?
+[17:49:13] Elizabeth Johnson.: Yes.
+[17:49:16] CCA.C17-UNION.i5.83253: /viewdata Elizabeth Johnson
+[17:49:24] CCA.C17-UNION.i5.83253: Blood Type?
+[17:49:35] Elizabeth Johnson.: A.
+[17:49:40] CCA.C17-UNION.i5.83253: A...what
+[17:49:48] CCA.C17-UNION.i5.83253: A positive? A Negative?
+[17:49:54] Elizabeth Johnson.: Positive..
+[17:49:57] CCA.C17-UNION.i5.83253: hm
+[17:50:05] Elizabeth Johnson.: /looc I look like a clown smh
+[17:50:08] CCA.C17-UNION.i5.83253: /me Would look at his PDA, pressing a few more buttons
+[17:50:12] CCA.C17-UNION.i5.83253: /viewdata Elizabeth Johnson
+[17:50:29] CCA.C17-UNION.i5.83253: Any medical or physical issues I should be informed about?
+[17:50:39] Elizabeth Johnson.: No sir.
+[17:50:44] CCA.C17-UNION.i5.83253: CWU?
+[17:51:15] Elizabeth Johnson.: /looc As in like if I work in CWU-?
+[17:51:23] CCA.C17-UNION.i5.83253: /looc Correct
+[17:51:26] Stewie Lou to admins: bean i wanna steal this cabinet
+[17:51:28] Elizabeth Johnson.: Nope..
+[17:51:35] CCA.C17-UNION.i5.83253: Alright...
+[17:51:47] CCA.C17-UNION.i5.83253: /me Would reach into his pocket, tossing her CID to her
+[17:51:53] CCA.C17-UNION.i5.83253: you can go
+[17:51:57] Elizabeth Johnson.: Thanks..
+[17:52:04] CCA.C17-UNION.i5.83253: /viewdata Elizabeth Johnson
+[17:52:16] CCA.C17-UNION.i5.83253 teleported to Stewie Lou
+[17:52:33] CCA.C17-UNION.i5.83253: /looc You really think...you can carry a metal cabinet...
+[17:52:40] Stewie Lou: /looc maybe
+[17:52:42] CCA.C17-UNION.i5.83253: /looc Down stairs...Then up them, across the city...
+[17:52:45] CCA.C17-UNION.i5.83253: /looc Yeah...No
+[17:52:50] CCA.C17-UNION.i5.83253: /looc Not alone you won't
+[17:52:58] Stewie Lou: /looc what if i roll really high in strength
+[17:53:02] Elizabeth Johnson.: /ooc I can walk to any spot...right?
+[17:53:14] CCA.C17-UNION.i5.83253: /looc No, you can't carry a cabinet up a flight of stairs alone
+[17:53:21] CCA.C17-UNION.i5.83253: /ooc Elaborate on that?
+[17:53:33] Stewie Lou: /looc well FUCK
+[17:53:40] CCA.C17-UNION.i5.83253: Watch it
+[17:53:47] Elizabeth Johnson.: /ooc As of, you know, going to the other sector, like near the Nexus for example.
+[17:54:13] CCA.C17-UNION.i5.83253: /ooc If you are saying you can only walk, yes, if you are saying you can go anywhere, yesish
+[17:54:35] Elizabeth Johnson.: /ooc No I do not want to suicide like other people do to try and get in Nexus.
+[17:54:45] Aurelio Grau: // try going anywhere and see what happens
+[17:54:59] CCA.C17-UNION.i5.83253: /ooc There is the nexus lobby that is acessable
+[17:55:32] Aurelio Grau: Hey. Was wondering if there's a way I can get an apartment in the Terminal?
+[17:55:48] CCA.C17-UNION.i5.83253: /looc Wait...Dont tell me, you can see me?
+[17:55:51] CCA.C17-UNION.i5.83253: /looc AH FUCK
+[17:55:58] Aurelio Grau: .// yes
+[17:56:05] CCA.C17-UNION.i5.83253: /looc Thought i was in noclip! 
+[17:56:05] Elizabeth Johnson.: /ooc Can't own an apartment :skull:
+[17:56:09] CCA.C17-UNION.i5.83253: /looc My bad lmaooo
+[17:56:12] Aurelio Grau: .// oh nice
+[17:56:15] CCA.C17-UNION.i5.83253: /ooc You'd need to speak with a cp about that
+[17:56:21] Elizabeth Johnson.: /ooc Huh.
+[17:56:23] CCA.C17-UNION.i5.83253: /looc My bad, was speaking with Q bout something
+[17:56:28] Aurelio Grau: .// all good
+[17:56:36] Aurelio Grau: .// yup
+[17:56:40] Stewie Lou: /looc ghost cp SCARY!!
+[17:56:45] Aurelio Grau: .// terrifying
+[17:57:23] Stewie Lou: Yo
+[17:57:26] Aurelio Grau: Hm?
+[17:57:31] Stewie Lou: /w wanna buy some stuff?
+[17:57:38] CCA.C17-UNION.i5.83253: /ooc You would need to speak with a CP about getting a room
+[17:57:40] Aurelio Grau: /w What... 'stuff'?
+[17:57:45] CCA.C17-UNION.i5.83253<STEAM_0:1:591779303> changed their name to Daniel J. Cutter
+[17:57:51] Elizabeth Johnson.: /ooc I already saw it.
+[17:57:55] Daniel J. Cutter: /ooc Oh
+[17:58:11] Daniel J. Cutter<STEAM_0:1:591779303> changed their name to Alex Palovichov
+[17:58:13] Stewie Lou: /w like scrap, scrap eletronics, tools, graphics cars, and more
+[17:58:25] Stewie Lou: /looc cards*
+[17:58:36] Alex Palovichov: Hey...
+[17:58:46] Alex Palovichov: Either of you see someone come out of Diordna?
+[17:58:53] Aurelio Grau: Not recently, no.
+[17:58:57] Alex Palovichov: Hm...
+[17:58:57] Stewie Lou: No?
+[17:59:07] Alex Palovichov: Guess someone was in my room...
+[17:59:17] Alex Palovichov: Alright, well if you see anyone in it...Lemme know
+[17:59:24] Aurelio Grau: Anyways...
+[17:59:38] Aurelio Grau: /w Not interested.
+[17:59:53] Stewie Lou: /w ya sure? got some real good stuff
+[17:59:58] Elizabeth Johnson.: /ooc You can't take your mask off anywhere, huh..
+[18:00:09] Alex Palovichov: /ooc Nope, you can take it off when you are around a filter
+[18:00:30] Elizabeth Johnson.: /ooc I see.
+[18:00:55] Aurelio Grau: /w I think I'm alright. You also realize you are advertising right in front of the nexus?
+[18:01:14] Stewie Lou: /w i am aware, that's the fun of it
+[18:01:35] Stewie Lou: /w anyways if you want to buy some materials try to find me
+[18:02:02] Alex Palovichov: Hey
+[18:02:07] Stewie Lou: wassup
+[18:02:09] Alex Palovichov: The fuck you runnin' for
+[18:02:18] Alex Palovichov: And why are you running into the CWU HQ...
+[18:02:29] Stewie Lou: because i wanted to see if anyone was here
+[18:02:35] Stewie Lou: i wanted to ask questions
+[18:02:37] Alex Palovichov: You know you can't run...right
+[18:02:54] Stewie Lou: running is good for you
+[18:03:05] Alex Palovichov: And a stunstick to the back of your head is too?
+[18:03:16] Stewie Lou: maybe
+[18:03:27] Alex Palovichov: Just a tip, I'd stop if I were you...
+[18:03:38] Stewie Lou: whatever
+[18:03:48] Alex Palovichov: And don't run around in the HQ...Its rude...
+[18:03:53] Stewie Lou: anyways where are the cp? wanted to get some work done
+[18:04:04] Alex Palovichov: Why would I know...Do I look like a CP?
+[18:04:10] Stewie Lou: you could be
+[18:04:16] Alex Palovichov: I ain't...
+[18:04:53] Alex Palovichov: /y Hey!
+[18:04:55] Client "Nums" connected.
+[18:04:57] Alex Palovichov: /y You can't be back here!
+[18:05:02] Alex Palovichov: /y Its trespassing!
+[18:05:07] Alex Palovichov: /y Get out! Now!
+[18:05:08] Stewie Lou: /looc how tf are you finding me lol
+[18:05:15] Stewie Lou: /Y OK OK!
+[18:05:16] Alex Palovichov: /looc you are legit in my area of operations...
+[18:05:25] Alex Palovichov: Well?!
+[18:05:26] Stewie Lou: /looc nerd
+[18:05:26] Alex Palovichov: Scram!
+[18:05:38] Elizabeth Johnson.: /ooc trying to become a CP is gonna be more harder than I though..
+[18:05:50] Alex Palovichov: /ooc Meh, not too hard
+[18:06:01] Alex Palovichov: /ooc Its a forums application, you require 10+ LP to join
+[18:06:08] Alex Palovichov<STEAM_0:1:591779303> changed their name to Daniel J. Cutter
+[18:06:12] Elizabeth Johnson.: /ooc Yep, 0 LP, great..
+[18:07:33] Stewie Lou: you need some materials?
+[18:07:33] Client "Nums" spawned in server <STEAM_0:1:196547442> (took 158 seconds).
+[18:07:42] Elizabeth Johnson.: Um, no I'm fine.
+[18:07:52] Stewie Lou: ugh no one here wants my shit
+[18:08:00] Elizabeth Johnson.: Rude..
+[18:08:13] Nums<STEAM_0:1:196547442> changed their name to CCA.C17-JUDGE.i4.77460
+[18:08:28] Elizabeth Johnson.: /ooc Judge!?!?1
+[18:08:31] Daniel J. Cutter: /ooc For some unknown reason, by symbol isn't showing up...But for any new people, I am a Mod, so if you need help, lemme know
+[18:08:54] Daniel J. Cutter: /looc Ey!
+[18:09:07] CCA.C17-JUDGE.i4.77460: .// hello
+[18:09:23] Daniel J. Cutter: /looc Just a question since your the only CP i've seen yet
+[18:09:29] Daniel J. Cutter: /looc how do the trainings work...
+[18:09:48] Daniel J. Cutter: /looc If you remember of course
+[18:09:51] CCA.C17-JUDGE.i4.77460: // they're doen by a higher up
+[18:09:53] Aurelio Grau: /ratio
+[18:09:55] CCA.C17-JUDGE.i4.77460: .// wrong chat
+[18:10:01] CCA.C17-JUDGE.i4.77460: .// but yea done by a higher up
+[18:10:07] Daniel J. Cutter: /looc What sorta "higher up"?
+[18:10:18] CCA.C17-JUDGE.i4.77460: .// officer of the MPF like Q or DRD
+[18:10:25] Daniel J. Cutter: /looc Ah alr
+[18:10:29] CCA.C17-JUDGE.i4.77460: .// why?
+[18:10:40] Daniel J. Cutter: /looc Oh I got my app accepted and was wondering
+[18:10:49] CCA.C17-JUDGE.i4.77460: .// oh ok yea just ask one of them
+[18:10:54] Daniel J. Cutter: /looc alrighty then
+[18:10:57] Daniel J. Cutter: /looc thx
+[18:11:19] Stewie Lou: yo
+[18:11:32] Stewie Lou: ms red can you give me some work?
+[18:11:37] Daniel J. Cutter<STEAM_0:1:591779303> changed their name to Alex Palovichov
+[18:11:40] Stewie Lou: or orange
+[18:11:43] Stewie Lou: maybe both
+[18:11:48] CCA.C17-JUDGE.i4.77460: Give it some time until I get behind the desk alright?
+[18:11:58] Stewie Lou: alright
+[18:12:35] Alex Palovichov: /w That dude...Been runnin' around alot and jumpin' a fuck ton...Caught em doin' it inside the CWU...also seen em whisperin' to others bout something...
+[18:12:47] Alex Palovichov: /w //cwu hq***
+[18:12:48] CCA.C17-JUDGE.i4.77460: /w Something to keep in mind.
+[18:14:06] Elizabeth Johnson.: /ooc I'm gonna go now, prob come back tomorrow
+[18:14:10] Alex Palovichov: Also caught them trespassing in the back of that store over there... The "Kiosk"
+[18:14:12] CCA.C17-JUDGE.i4.77460: // booo
+[18:14:14] Alex Palovichov: /ooc Alrighty! Cya
+[18:14:19] Elizabeth Johnson.: /ooc Cya.
+[18:14:20] CCA.C17-JUDGE.i4.77460: Alright
+[18:14:26] Dropped "Elizabeth Johnson." from server<STEAM_0:1:511439154>
+[18:14:29] Alex Palovichov: Just thought I'd let ya know
+[18:14:39] Stewie Lou: // yo their name MEGATRON!??!?!?!
+[18:14:44] Stewie Lou: // you know they srs
+[18:16:19] Alex Palovichov<STEAM_0:1:591779303> changed their name to Daniel J. Cutter
+[18:17:42] Stewie Lou: // why is the max time for gasmask suits or whatever 60 mins now
+[18:18:03] Stewie Lou: // just wasted 3 filters because i thought it was bugged or smth
+[18:18:09] Daniel J. Cutter: /ooc lmao
+[18:19:03] Stewie Lou: // great... now i have to go to the sewers later or smth to find more
+[18:19:19] Aurelio Grau: // time to raid sewers thanks for heads up
+[18:19:26] Stewie Lou: // np sexy
+[18:19:46] Aurelio Grau: // ;)
+[18:19:48] CCA.C17-JUDGE.i4.77460: // more ppl coming in 10
+[18:19:52] CCA.C17-JUDGE.i4.77460<STEAM_0:1:196547442> changed their name to Finan O'Conall
+[18:20:02] Aurelio Grau<STEAM_0:0:69476140> changed their name to CCA.C17-UNION.i5.60555
+[18:20:09] CCA.C17-UNION.i5.60555: /r 10-8
+[18:20:57] CCA.C17-UNION.i5.60555: /chardesc 5'9 | Clean CCA Uniform | UNION I5 Armband | Stunstick clipped to his belt | Pistol holstered on his right hip
+[18:21:18] Stewie Lou: Finally
+[18:21:26] Stewie Lou: someone is at the work desk
+[18:21:33] CCA.C17-UNION.i5.60555: Oh, uh... Yeah.
+[18:21:44] Stewie Lou: can you give me some work
+[18:21:48] Stewie Lou: i need money
+[18:22:04] CCA.C17-UNION.i5.60555: Money? Don't you mean loyalist points?
+[18:22:09] Stewie Lou: both
+[18:22:19] CCA.C17-UNION.i5.60555: Naturally.
+[18:22:26] CCA.C17-UNION.i5.60555: Alrighty...
+[18:22:29] Daniel J. Cutter: Who the hell are you?
+[18:22:37] Finan O'Conall: Serviceman.
+[18:22:45] Daniel J. Cutter: What kinda name is "Serviceman"
+[18:22:51] CCA.C17-UNION.i5.60555: /me looks down to his left, then right, scanning the ground for something. He looks to the left again, saying, "Ah, there we go."
+[18:22:52] Finan O'Conall: My name.
+[18:22:58] Daniel J. Cutter: Who the fuck names their kid "Serviceman
+[18:23:15] Finan O'Conall: Obviously it isn't a real name son. More like a nickname.
+[18:23:29] Daniel J. Cutter: I wouldn't call me your son...Buddy
+[18:23:33] CCA.C17-UNION.i5.60555: /me rummages through a box. He takes some posters out, setting them on a table. He slides them torward the man.
+[18:23:48] Client "Painevan" connected.
+[18:23:48] CCA.C17-UNION.i5.60555: Just put these on the walls around.
+[18:23:50] Stewie Lou: more posters?
+[18:23:51] Finan O'Conall: No need to be aggressive then laddy.
+[18:23:53] Stewie Lou: alright
+[18:24:14] Daniel J. Cutter: And you have no need to burst into my place unannounced
+[18:24:39] Finan O'Conall: You've got a dead man hanging out of your window. It's a pretty good warrant to check the place out.
+[18:25:00] Finan O'Conall: What's with the resistance uniform?
+[18:25:04] Daniel J. Cutter: Wouldn't that be a reason to NOT check this place out...
+[18:25:12] Daniel J. Cutter: Thats not for you to know...is it
+[18:25:41] Stewie Lou: done!
+[18:25:47] Finan O'Conall: Well considering you're kinda an asshole, I'd be shocked if you really were resistance. Unless of course you just murdered a fellow friend.
+[18:25:57] CCA.C17-UNION.i5.60555: /me flicks his head up torward the exclamation, obviously not paying attention.
+[18:26:00] CCA.C17-UNION.i5.60555: Oh!
+[18:26:06] Daniel J. Cutter: You think all resistance members are nice? Think again...
+[18:26:08] CCA.C17-UNION.i5.60555: Alright and uh...
+[18:26:13] CCA.C17-UNION.i5.60555: Apply
+[18:26:16] Daniel J. Cutter: And I only kill people who deserve it...
+[18:26:17] Stewie Lou: /apply
+[18:26:24] Finan O'Conall: Well considering you have a lot more than most people I'd hope so.
+[18:26:49] Daniel J. Cutter: Anyway, what are you doin' here in the first place.
+[18:27:10] Client "Painevan" spawned in server <STEAM_0:0:68118061> (took 202 seconds).
+[18:27:20] CCA.C17-UNION.i5.60555: /me grabs at his right hip at nothing, trying to find his PDA. He switches to the left, finding it after a few loose grasps. He pulls it close to his chest, just so he could see it. He types in it with several pauses.
+[18:27:20] Finan O'Conall: Exploring. Checking the beach, clearing a path for fellow passer byers.
+[18:27:24] CCA.C17-UNION.i5.60555: .// quality
+[18:27:33] CCA.C17-UNION.i5.60555: /viewdata Stewie
+[18:27:34] Daniel J. Cutter: /me Chuckles "Who would want to pass by here?"
+[18:27:38] Stewie Lou: /looc ofc
+[18:27:45] Daniel J. Cutter: There ain't a reason to come here...
+[18:27:59] Finan O'Conall: People need food. They get that from dead antilions.
+[18:28:11] Finan O'Conall: I am doing my part for our community. Hence the name, Serviceman.
+[18:28:12] Daniel J. Cutter: There is such thing as a headcrab ya know...
+[18:28:25] Daniel J. Cutter: Your "part" in the community ain't doin' much
+[18:28:29] CCA.C17-UNION.i5.60555: /me looks up at him. Then back down at his PDA. He powers it off and clips it back onto his left side.
+[18:28:35] Daniel J. Cutter: But I congratulate your effort...
+[18:28:42] CCA.C17-UNION.i5.60555: You should be... good to... go. Yeah.
+[18:28:48] Daniel J. Cutter: /me Would open the locker, taking out a small sealed letter before shutting it
+[18:28:55] Stewie Lou: how abt SOME MORE WORK
+[18:28:58] Daniel J. Cutter: You stay safe now...
+[18:29:02] CCA.C17-UNION.i5.60555: Uh, hm.
+[18:29:10] CCA.C17-UNION.i5.60555: /viewdata Stewie
+[18:29:30] Painevan<STEAM_0:0:68118061> changed their name to Jonathan Jackson
+[18:29:41] CCA.C17-UNION.i5.60555: Maybe... sweeping the ground.
+[18:29:43] Jonathan Jackson: // ayy
+[18:29:45] CCA.C17-UNION.i5.60555: Yes.
+[18:29:54] Stewie Lou: ... fine
+[18:30:23] Jonathan Jackson: // And then he said it's fooding time
+[18:30:25] CCA.C17-UNION.i5.60555: /me leans down below the desk. He grabs a broom and a bin, setting it onto the table in front of them.
+[18:30:38] Daniel J. Cutter<STEAM_0:1:591779303> spawned NPC npc_zombie
+[18:30:40] CCA.C17-UNION.i5.60555: Go clean around and... make sure there's no garbage on the ground.
+[18:30:42] Daniel J. Cutter<STEAM_0:1:591779303> spawned NPC npc_zombine
+[18:30:47] CCA.C17-UNION.i5.60555: This plaza area.
+[18:30:49] Stewie Lou: Alright!
+[18:31:01] Finan O'Conall<STEAM_0:1:196547442> changed their name to CCA.C17-JUDGE.i4.77460
+[18:31:04] Stewie Lou: /me grabs the broom and bin and starts to go collect trash
+[18:31:34] Jonathan Jackson<STEAM_0:0:68118061> used the tool ledscreen on maps/rp_industrial17_v1.bsp
+[18:31:35] Jonathan Jackson<STEAM_0:0:68118061> used the tool ledscreen on maps/rp_industrial17_v1.bsp
+[18:31:36] Jonathan Jackson<STEAM_0:0:68118061> used the tool ledscreen on maps/rp_industrial17_v1.bsp
+[18:31:55] CCA.C17-UNION.i5.60555: /me starts lightly tapping his foot on the ground and his fingers on the table in an alternating pattern. Seems to possibly be nervous.
+[18:32:40] CCA.C17-UNION.i5.60555: /viewdata ste
+[18:34:52] Stewie Lou: i could only find this much trash
+[18:35:04] Stewie Lou: to be honest the plaza is really clean
+[18:35:20] CCA.C17-UNION.i5.60555: /me slowly shifts the alternate tapping of the ground and table into various rhythms or beats to a song playing in his head. He immedietly stops when he gets approached.
+[18:35:25] CCA.C17-UNION.i5.60555: Oh.
+[18:35:37] CCA.C17-UNION.i5.60555: Alrighty just hand me the broom and bin back.
+[18:35:49] Stewie Lou: /me hands the broom and bin back
+[18:36:04] CCA.C17-UNION.i5.60555: /me takes the broom and bin. He lowers them down below the desk.
+[18:36:13] Stewie Lou: /looc do i just drop the trash on the desk or what'
+[18:36:20] CCA.C17-UNION.i5.60555: .// Sure
+[18:36:43] CCA.C17-UNION.i5.60555: I have your ID so you may go now. I don't have anything else for you.
+[18:37:41] CCA.C17-UNION.i5.60555: /me glances at the JUDGE, then back at his left side. He unclips the PDA, powering it on. He holds it close to his chest once again, so only he may see it.
+[18:37:41] Daniel J. Cutter: /chargiveitem Cutter "Citizen shirt" 1
+[18:38:06] CCA.C17-UNION.i5.60555: /me begins typing on it, occasionally glancing up and around to ensure know one is peeking.
+[18:38:15] CCA.C17-UNION.i5.60555: /viewdata ste
+[18:38:23] Jonathan Jackson: /pm Judge Tell me whenever you want to do that raid
+[18:39:16] CCA.C17-UNION.i5.60555: /viewdata ste
+[18:40:37] Jonathan Jackson: Hey, mind if I get some work?
+[18:40:51] CCA.C17-UNION.i5.60555: Hm? Yeah, sure.
+[18:41:09] CCA.C17-UNION.i5.60555: I'll give ya' some posters. One moment.
+[18:41:14] Daniel J. Cutter<STEAM_0:1:591779303> spawned NPC npc_headcrab
+[18:41:17] Jonathan Jackson: Sure.
+[18:41:42] CCA.C17-UNION.i5.60555: /me takes a few posters out of a box. He walks back over to the table and slides the posters over torward the man.
+[18:41:57] Daniel J. Cutter<STEAM_0:1:591779303> spawned NPC npc_zombie
+[18:42:20] Jonathan Jackson: /me takes the handful of posters in one arm.
+[18:42:31] Jonathan Jackson: Anywhere specific?
+[18:42:47] Daniel J. Cutter: /chargiveitem cutter grenade 1
+[18:43:06] CCA.C17-UNION.i5.60555: No... Just around.
+[18:43:12] Jonathan Jackson: Ok
+[18:43:56] Daniel J. Cutter<STEAM_0:1:591779303> spawned NPC npc_poisonzombie
+[18:44:18] Daniel J. Cutter<STEAM_0:1:591779303> spawned NPC npc_zombie
+[18:44:25] Daniel J. Cutter<STEAM_0:1:591779303> spawned NPC npc_headcrab_black
+[18:44:29] Dropped "CCA.C17-JUDGE.i4.77460" from server<STEAM_0:1:196547442>
+[18:45:14] Daniel J. Cutter<STEAM_0:1:591779303> spawned NPC npc_headcrab_fast
+[18:45:36] CCA.C17-UNION.i5.60555: // rip nums
+[18:45:41] Daniel J. Cutter: /ooc Crashed?
+[18:45:43] CCA.C17-UNION.i5.60555: // would of had the coolest passive rp
+[18:45:44] CCA.C17-UNION.i5.60555: // idk
+[18:45:50] Jonathan Jackson: // Prob just left
+[18:46:46] Client "Apex" connected.
+[18:46:52] Daniel J. Cutter<STEAM_0:1:591779303> spawned NPC npc_zombine
+[18:47:50] Daniel J. Cutter: /me Would swing his crowbar towards the persons head while they aren't looking
+[18:47:57] Daniel J. Cutter: /rollattribute Strength
+[18:47:58] Stewie Lou: /looc scary
+[18:48:01] Jonathan Jackson: Alright, done.
+[18:48:12] Stewie Lou: /looc ok i know you cheating with that roll lmao
+[18:48:14] Client "Apex" spawned in server <STEAM_0:0:170921441> (took 88 seconds).
+[18:48:17] Daniel J. Cutter: /it The crowbar would bash them over the head, them quickly becoming unconcious
+[18:48:24] CCA.C17-UNION.i5.60555: Alright. Give me your na- no... Apply
+[18:48:29] Daniel J. Cutter: /looc really hope you're joking bout that
+[18:48:32] Jonathan Jackson: /apply
+[18:48:32] Stewie Lou: /me would fall on the ground
+[18:48:39] CCA.C17-UNION.i5.60555: Hm... alright.
+[18:48:39] Daniel J. Cutter: /looc /charfallover
+[18:48:46] Stewie Lou: /charfallover
+[18:48:50] Jonathan Jackson: Something wrong?
+[18:48:56] CCA.C17-UNION.i5.60555: /me unclips his PDA from his left side. He powers it on.
+[18:49:03] Stewie Lou: /looc man i was just trying to put some shit for people ;-;
+[18:49:12] CCA.C17-UNION.i5.60555: Uh... no.
+[18:49:12] Daniel J. Cutter: /looc and im taking your shit
+[18:49:18] Jonathan Jackson: Right..
+[18:49:21] Apex<STEAM_0:0:170921441> changed their name to CCA.C17-HELIX.i5.00344
+[18:49:26] Stewie Lou: /looc wow so mean!!!! jk i luv u
+[18:49:35] Daniel J. Cutter: /me Would take out zipties, tying the persons hands behind their back
+[18:49:42] CCA.C17-HELIX.i5.00344: /radio 10-8
+[18:49:46] Daniel J. Cutter: /looc stand up for a sec
+[18:49:47] CCA.C17-UNION.i5.60555: /me pulls the PDA close to his chest to ensure no one else can take a peak. He taps on it with a few brief pauses.
+[18:49:53] CCA.C17-UNION.i5.60555: /viewdata jon
+[18:49:57] Stewie Lou: /looc how lol
+[18:50:02] Daniel J. Cutter: /looc press space
+[18:50:20] Daniel J. Cutter: /looc alr fall back down
+[18:50:21] Stewie Lou: /looc craziest rp ever
+[18:50:30] Stewie Lou: /charfallover
+[18:50:36] Jonathan Jackson: /me puts his hands in his pocket, just waiting around.
+[18:50:37] Daniel J. Cutter: Sucker...
+[18:50:41] CCA.C17-UNION.i5.60555: /me glances up at the man and back down to the PDA. He powers the PDA off, then clips it back onto his side.
+[18:50:47] CCA.C17-UNION.i5.60555: Okay so...
+[18:51:02] CCA.C17-UNION.i5.60555: 3 points from the assignment.
+[18:51:07] CCA.C17-UNION.i5.60555: Should be good now.
+[18:51:15] Jonathan Jackson: Right, thanks again officer.
+[18:51:18] Daniel J. Cutter: /me Would sling the person over his shoulder, having them rest on it
+[18:51:22] CCA.C17-UNION.i5.60555: Of course.
+[18:51:26] Jonathan Jackson: /me waves him goodbye, then starts walking away.
+[18:51:32] CCA.C17-UNION.i5.60555: /me waves.
+[18:51:45] CCA.C17-HELIX.i5.00344: Hm
+[18:52:11] Daniel J. Cutter: /me Would begin to search the person
+[18:52:19] CCA.C17-UNION.i5.60555: Hey, I'm goin' to come up there.
+[18:52:23] CCA.C17-HELIX.i5.00344: Copy
+[18:52:25] Daniel J. Cutter: /looc stand up and drop everything, note you won't be losing that much I promise you
+[18:52:38] Stewie Lou: /looc last time you just stole a battery lol
+[18:52:50] Daniel J. Cutter: /looc I stole from you before? Huh
+[18:52:53] Daniel J. Cutter: /looc alr drop everything
+[18:52:57] Stewie Lou: /looc i cant
+[18:53:03] Stewie Lou: /looc im still zip tied
+[18:53:06] Daniel J. Cutter: /looc wait I can just charsearch lmao
+[18:53:08] Daniel J. Cutter: /charsearch
+[18:53:13] Stewie Lou: /looc smh!
+[18:53:33] CCA.C17-UNION.i5.60555: Hey.
+[18:53:44] CCA.C17-HELIX.i5.00344: Yeah, hi.
+[18:53:49] Daniel J. Cutter: /looc alr fall back over
+[18:53:56] CCA.C17-UNION.i5.60555: .// why dont i see you typing in the chat?
+[18:54:00] Stewie Lou: /looc bruh not my shovel ;-;
+[18:54:06] CCA.C17-HELIX.i5.00344: /looc It's a bug, I asked Q about it.
+[18:54:07] Daniel J. Cutter: /looc Its MY shovel now...
+[18:54:10] Stewie Lou: /charfallover
+[18:54:11] Daniel J. Cutter: /looc Always needed one
+[18:54:19] CCA.C17-UNION.i5.60555: .// literally just seems to be you. weird
+[18:54:27] CCA.C17-HELIX.i5.00344: /looc odd
+[18:54:30] Daniel J. Cutter: /looc btw you can't see nor remember anything you see here since you're knocked out
+[18:54:34] Jonathan Jackson: // Yall should do a work cycle
+[18:54:50] Daniel J. Cutter: /me Would take out a peice of sharp metal, cutting the zipties
+[18:54:55] CCA.C17-UNION.i5.60555: Been here long?
+[18:54:55] Daniel J. Cutter: /looc stand up
+[18:55:01] CCA.C17-HELIX.i5.00344: // I think we need CIU for that.
+[18:55:05] Jonathan Jackson: // pshh
+[18:55:10] CCA.C17-HELIX.i5.00344: Too long.
+[18:55:12] Jonathan Jackson: // Who need approval?
+[18:55:17] Stewie Lou: /charfallover
+[18:55:27] CCA.C17-UNION.i5.60555: Yeah?
+[18:55:31] CCA.C17-HELIX.i5.00344: Yes.
+[18:55:47] Stewie Lou: /me would start to wake up
+[18:55:48] Daniel J. Cutter: /looc alr wake up whenever...make sure to react
+[18:55:58] CCA.C17-UNION.i5.60555: Yeah, I just got here.
+[18:56:03] Stewie Lou: WHAT THE HELL
+[18:56:07] CCA.C17-UNION.i5.60555: I mean as an officer. Not the city.
+[18:56:11] Stewie Lou: What the fuck is this place?
+[18:56:14] Jonathan Jackson: Busy
+[18:56:20] Jonathan Jackson: Out of your way
+[18:56:23] Stewie Lou: is this the exit?
+[18:56:33] CCA.C17-HELIX.i5.00344: /looc I can't even see your chat, LMAO.
+[18:56:39] CCA.C17-UNION.i5.60555: .// oh what
+[18:56:39] Stewie Lou: /y HEY IS ANYBODY THERE?
+[18:56:45] CCA.C17-UNION.i5.60555: .// damn
+[18:56:46] CCA.C17-HELIX.i5.00344: /looc yeah
+[18:56:52] CCA.C17-HELIX.i5.00344: Patrol?
+[18:56:54] Stewie Lou: hmph
+[18:56:57] Daniel J. Cutter: /it The room would remain silent...
+[18:56:59] CCA.C17-UNION.i5.60555: Uh... sure.
+[18:57:16] Daniel J. Cutter: Sucker...
+[18:57:16] CCA.C17-UNION.i5.60555: You ought to call it and everything. I'm still figuring this out.
+[18:57:53] CCA.C17-HELIX.i5.00344: Use your squad device.
+[18:58:08] CCA.C17-UNION.i5.60555: Oh, right.
+[18:58:26] CCA.C17-UNION.i5.60555: There we go.
+[18:58:40] Jonathan Jackson: Hmm
+[18:58:52] CCA.C17-HELIX.i5.00344: /radio PT-Foxtrot. 10-50. SS: Green. Code-100.
+[18:59:04] CCA.C17-HELIX.i5.00344: Someone in there.
+[18:59:06] CCA.C17-HELIX.i5.00344: Attach
+[18:59:09] CCA.C17-UNION.i5.60555: Okay.
+[19:00:07] Daniel J. Cutter: /it The sound of running can be heard...The sound of someone running across...Catwalks
+[19:00:13] CCA.C17-UNION.i5.60555: Found a motor contro-
+[19:00:18] CCA.C17-HELIX.i5.00344: Move
+[19:00:24] Jonathan Jackson: Uh
+[19:00:26] Jonathan Jackson: What?
+[19:00:26] CCA.C17-HELIX.i5.00344: /radio On me.
+[19:00:40] CCA.C17-HELIX.i5.00344: /radio Split off, find him.
+[19:00:56] Jonathan Jackson: // Actually locked the side door
+[19:00:58] Jonathan Jackson: // Kinda cringe
+[19:01:25] Daniel J. Cutter: /y Cps
+[19:01:31] Stewie Lou: // well imma go for now cya
+[19:01:31] Jonathan Jackson: What the
+[19:01:35] Jonathan Jackson: // Cya
+[19:01:36] CCA.C17-HELIX.i5.00344: // Cya.
+[19:01:39] Dropped "Stewie Lou" from server<STEAM_0:1:429480781>
+[19:01:43] Daniel J. Cutter: /y run for your life
+[19:02:01] Jonathan Jackson: little corner
+[19:02:33] Daniel J. Cutter<STEAM_0:1:591779303> spawned NPC npc_headcrab
+[19:02:52] Daniel J. Cutter: /y civil protection
+[19:03:54] CCA.C17-HELIX.i5.00344: other side.
+[19:04:06] Daniel J. Cutter<STEAM_0:1:591779303> spawned NPC npc_zombie
+[19:04:09] Daniel J. Cutter<STEAM_0:1:591779303> spawned NPC npc_zombie
+[19:04:22] CCA.C17-HELIX.i5.00344: Hear that?
+[19:04:25] CCA.C17-UNION.i5.60555: Yup
+[19:04:26] CCA.C17-HELIX.i5.00344: /me signs "On me."
+[19:04:31] CCA.C17-HELIX.i5.00344: /me signs "Code Midnight."
+[19:04:38] Daniel J. Cutter<STEAM_0:1:591779303> spawned NPC npc_zombie
+[19:04:51] Daniel J. Cutter: /y here they come
+[19:05:13] Daniel J. Cutter<STEAM_0:1:591779303> spawned NPC npc_poisonzombie
+[19:05:45] CCA.C17-HELIX.i5.00344: Unlock the door and step out.
+[19:05:47] CCA.C17-HELIX.i5.00344: Last warning.
+[19:05:58] Daniel J. Cutter<STEAM_0:1:591779303> spawned model models/props_c17/furnituretable002a.mdl
+[19:05:58] CCA.C17-UNION.i5.60555: .// they probably cant see your text
+[19:06:17] Daniel J. Cutter<STEAM_0:1:591779303> spawned NPC npc_zombie
+[19:06:19] Daniel J. Cutter<STEAM_0:1:591779303> spawned NPC npc_headcrab
+[19:06:40] CCA.C17-HELIX.i5.00344: /looc type out this /me then:
+[19:06:43] CCA.C17-HELIX.i5.00344: /looc For me.
+[19:06:45] CCA.C17-HELIX.i5.00344: /looc Wait.
+[19:06:47] Daniel J. Cutter: /it The sound of walking can be heard on the other side...
+[19:07:03] CCA.C17-HELIX.i5.00344: /me aims his pistol at the door lock and fired two shots into it.
+[19:07:12] Daniel J. Cutter<STEAM_0:1:591779303> spawned ragdoll models/industrial_uniforms/industrial_uniform.mdl
+[19:07:37] Daniel J. Cutter: /it The door's lock seemingly remaining intact...
+[19:07:46] CCA.C17-HELIX.i5.00344: /me walks over to the front, and attempts to kick down the door.
+[19:07:57] Client "Spaghetti" connected.
+[19:08:00] CCA.C17-UNION.i5.60555: Uh...
+[19:08:07] Daniel J. Cutter: /it The metal door seems to be kept shut by a reinforced lock...
+[19:08:12] Daniel J. Cutter: /looc Roll 90+ strength
+[19:08:19] CCA.C17-HELIX.i5.00344: /rollattribute strength
+[19:08:30] Daniel J. Cutter: /it The kick would strike the door, barely budging...
+[19:08:41] CCA.C17-HELIX.i5.00344: /looc brb
+[19:09:12] CCA.C17-HELIX.i5.00344: /looc back.
+[19:09:25] CCA.C17-HELIX.i5.00344: /me reaided himself once more, the man would kick the door once again.
+[19:09:26] Daniel J. Cutter<STEAM_0:1:591779303> changed their name to Alex Palovichov
+[19:09:30] CCA.C17-HELIX.i5.00344: /rollattribute strength
+[19:09:50] Alex Palovichov: /it The door would only barely move...The lock remaining intact
+[19:10:02] CCA.C17-HELIX.i5.00344: /me looks at the lock, attempting to see what type of lock it is.
+[19:10:18] Alex Palovichov: /it The lock would seem to be a reinforced metal lock, quite hard to break through
+[19:10:31] CCA.C17-HELIX.i5.00344: /looc any pins?
+[19:10:35] CCA.C17-UNION.i5.60555: Is there another way in?
+[19:10:36] CCA.C17-HELIX.i5.00344: /looc or key inserts?
+[19:10:50] Jonathan Jackson: y
+[19:10:52] Alex Palovichov: /looc The padlock itself would have a key, though it would be difficult to break into
+[19:11:04] CCA.C17-HELIX.i5.00344: /looc can I try to pick the lock?
+[19:11:12] Alex Palovichov: /looc You can, it'd be hard
+[19:11:27] Alex Palovichov<STEAM_0:1:591779303> spawned NPC npc_headcrab
+[19:11:37] CCA.C17-UNION.i5.60555: .// could roll sleight of hand too
+[19:12:03] CCA.C17-HELIX.i5.00344: /me begins to go through his tools, the man would pull out a pin and another tool for picking the lock. He inserted them both into the lock, attempting to pick it.
+[19:12:07] CCA.C17-HELIX.i5.00344: /looc what do I roll?
+[19:12:32] Alex Palovichov: /looc Hmm...
+[19:12:38] Alex Palovichov: /looc Slight of hand...80
+[19:12:48] CCA.C17-HELIX.i5.00344: /looc I just put it as that in stats ot attribute.
+[19:13:01] CCA.C17-UNION.i5.60555: .// /rollskill
+[19:13:01] Alex Palovichov: /looc Its a attribute
+[19:13:05] Alex Palovichov: /looc skill****
+[19:13:07] CCA.C17-HELIX.i5.00344: /rollskill slightofhand
+[19:13:11] CCA.C17-HELIX.i5.00344: /rollskill soh
+[19:13:15] CCA.C17-UNION.i5.60555: .// probably rollskill sleight or something like that
+[19:13:16] CCA.C17-HELIX.i5.00344: /looc what do I put after that?
+[19:13:24] Alex Palovichov: /looc /rollskill sleight?
+[19:13:28] CCA.C17-HELIX.i5.00344: /rollskill sleight
+[19:13:31] CCA.C17-HELIX.i5.00344: /looc nope.
+[19:13:35] CCA.C17-UNION.i5.60555: /rollskil sleight
+[19:13:39] CCA.C17-UNION.i5.60555: /rollskill sleightofhand
+[19:13:42] CCA.C17-UNION.i5.60555: .// sleightofhand
+[19:13:45] Alex Palovichov: /looc ah
+[19:13:47] Alex Palovichov: /looc alr
+[19:13:49] CCA.C17-HELIX.i5.00344: /rollskill sleightofhand
+[19:14:00] CCA.C17-HELIX.i5.00344: There we go.
+[19:14:07] Alex Palovichov: /it The doors lock would be picked open, the sound of it clicking would be heard
+[19:14:21] CCA.C17-HELIX.i5.00344: inject
+[19:14:28] Jonathan Jackson<STEAM_0:0:68118061> changed their name to CCA.C17-HELIX.i3.08874
+[19:14:37] CCA.C17-HELIX.i3.08874: /radio is 10-8
+[19:14:43] Alex Palovichov: /it The sound of the door clicking, it locked behind you
+[19:15:11] CCA.C17-UNION.i5.60555: Fuck.
+[19:15:17] CCA.C17-HELIX.i5.00344: Fucking necrotics.
+[19:15:25] CCA.C17-HELIX.i5.00344: Go to the next room.
+[19:15:28] CCA.C17-HELIX.i5.00344: Possible trap.
+[19:15:35] CCA.C17-HELIX.i5.00344: Go into the next room.
+[19:15:42] CCA.C17-UNION.i5.60555: .// dude what
+[19:15:44] CCA.C17-HELIX.i5.00344: /me crouches down, the man checking the corpse.
+[19:15:52] CCA.C17-UNION.i5.60555: .// i keep loading ammo into my gun but it just doesnt care
+[19:15:55] CCA.C17-HELIX.i3.08874: /radio Report status
+[19:15:59] CCA.C17-UNION.i5.60555: .// legit just lost like 4 mags
+[19:16:01] Alex Palovichov: /looc what sort of ammo are you using?
+[19:16:05] Alex Palovichov: /looc Might be the bugged one
+[19:16:06] CCA.C17-UNION.i5.60555: .// pistol
+[19:16:08] CCA.C17-UNION.i5.60555: .// idk
+[19:16:22] Alex Palovichov: /chargiveitem 60555 "9mm pistol magazine" 3
+[19:16:25] Alex Palovichov: /looc try that
+[19:16:37] CCA.C17-UNION.i5.60555: .// good
+[19:16:39] Alex Palovichov: /looc knew it
+[19:16:45] CCA.C17-HELIX.i5.00344: /looc The fucking ammo we get is SAD.
+[19:16:45] Alex Palovichov: /looc used those hallow point rounds
+[19:17:08] Alex Palovichov: /it The body would seemingly be almost empty, though something....shines in the mask under the flashlight
+[19:17:24] CCA.C17-HELIX.i5.00344: /me looks over to the mask, the man would look up at his buddy.
+[19:17:27] CCA.C17-HELIX.i5.00344: Get into the next room.
+[19:17:30] CCA.C17-HELIX.i5.00344: This could be a trap.
+[19:17:35] CCA.C17-UNION.i5.60555: Yeah?
+[19:17:36] CCA.C17-HELIX.i5.00344: Into the next room you go.
+[19:17:38] Client "Spaghetti" spawned in server <STEAM_0:1:186685962> (took 581 seconds).
+[19:17:40] CCA.C17-UNION.i5.60555: Right
+[19:17:42] CCA.C17-HELIX.i5.00344: We need a survivour.
+[19:17:55] CCA.C17-HELIX.i5.00344: /me would slowly places his hand onto the mask, attempting to take it off.
+[19:18:11] Alex Palovichov: /it The mask would remove quite easily...Revealing a small silver key
+[19:18:25] CCA.C17-HELIX.i5.00344: /me grabs the silver key.
+[19:18:29] CCA.C17-HELIX.i5.00344: /y Clear.
+[19:18:44] CCA.C17-HELIX.i5.00344: /me walks over to the door and attempts to insert the key into it.
+[19:18:56] Alex Palovichov: /it The key would fit in the door easily
+[19:18:59] Dropped "Spaghetti" from server<STEAM_0:1:186685962>
+[19:19:02] CCA.C17-HELIX.i5.00344: /me turns the key.
+[19:19:11] Client "Spaghetti" connected.
+[19:19:16] Alex Palovichov: /it The door would unlock with a loud   *Click*  
+[19:19:25] CCA.C17-HELIX.i5.00344: /me picks up the body from the floor.
+[19:19:30] CCA.C17-HELIX.i5.00344: Autopsy.
+[19:19:34] Alex Palovichov: /looc wait
+[19:19:38] CCA.C17-HELIX.i5.00344: //looc Yeah?
+[19:19:38] Alex Palovichov: /looc go back
+[19:19:47] CCA.C17-HELIX.i3.08874: // Nice one
+[19:19:52] CCA.C17-HELIX.i5.00344: // Thanks.
+[19:20:09] Alex Palovichov: /it The body would move easily, though a small piece of string would suddenly rip off from the ground....A quick glance reveals something
+[19:20:18] Alex Palovichov: /chargiveitem Palovichov grenade 1
+[19:20:22] Alex Palovichov: /it A grenade...
+[19:20:25] CCA.C17-HELIX.i5.00344: /y GET BACK!
+[19:20:33] CCA.C17-HELIX.i5.00344: /me would let go of the body, the man running back.
+[19:20:36] Alex Palovichov: /it You have a few seconds to react...
+[19:20:40] CCA.C17-UNION.i5.60555: /me dives back and behind.
+[19:20:41] CCA.C17-HELIX.i5.00344: /radio BOUNCER!
+[19:20:58] Client "Spaghetti" spawned in server <STEAM_0:1:186685962> (took 107 seconds).
+[19:20:58] CCA.C17-HELIX.i5.00344: /me walks back into the room after the explosion went off.
+[19:21:10] CCA.C17-HELIX.i5.00344: /looc I assume the body's just nothing now?
+[19:21:12] Alex Palovichov: /looc yeah
+[19:21:19] CCA.C17-HELIX.i5.00344: On me...
+[19:21:20] CCA.C17-HELIX.i5.00344: We're going back.
+[19:21:37] Alex Palovichov: /ooc Hope yall liked that
+[19:21:41] CCA.C17-HELIX.i5.00344: // It was good.
+[19:21:43] CCA.C17-UNION.i5.60555: // yes
+[19:21:55] Alex Palovichov: /ooc Somethin' quick I brewed up
+[19:21:58] CCA.C17-HELIX.i3.08874: /radio Repeat, report status.
+[19:22:04] CCA.C17-HELIX.i5.00344: /radio PT-Foxtrot. 10-19.
+[19:22:25] Alex Palovichov: /ooc void that, cam is cringe when coming out of no clip
+[19:22:34] CCA.C17-HELIX.i3.08874: You two
+[19:22:37] CCA.C17-HELIX.i5.00344: Copy.
+[19:22:43] Dropped "Spaghetti" from server<STEAM_0:1:186685962>
+[19:22:47] CCA.C17-HELIX.i3.08874: I asked for your status three times, not once did you respond.
+[19:23:04] CCA.C17-HELIX.i5.00344: Get your comms fixed.
+[19:23:08] CCA.C17-UNION.i5.60555: /me shakily brings his gun into his holster. He seems jittery.
+[19:23:13] CCA.C17-HELIX.i5.00344: Because I radioed multiple times about our status.
+[19:23:17] CCA.C17-HELIX.i5.00344: And yelled about a grenade.
+[19:23:19] CCA.C17-HELIX.i5.00344: We're fine.
+[19:23:27] CCA.C17-HELIX.i3.08874: You aren't on the right frequency then.
+[19:23:35] CCA.C17-HELIX.i5.00344: /viewobjectives
+[19:23:52] CCA.C17-HELIX.i5.00344: Double check our objectives.
+[19:23:54] CCA.C17-HELIX.i5.00344: We're on the right one.
+[19:23:59] CCA.C17-HELIX.i3.08874: /looc It's 201.4
+[19:24:00] CCA.C17-UNION.i5.60555: /viewobjectives
+[19:24:05] CCA.C17-HELIX.i5.00344: /looc I have it set to that.
+[19:24:06] CCA.C17-UNION.i5.60555: .// yup
+[19:24:20] CCA.C17-HELIX.i3.08874: /looc Wtf then
+[19:24:34] CCA.C17-HELIX.i3.08874: /looc Testing this real fast
+[19:24:37] CCA.C17-HELIX.i3.08874: /radio test
+[19:24:39] Alex Palovichov<STEAM_0:1:591779303> spawned ragdoll models/industrial_uniforms/industrial_uniform2.mdl
+[19:24:42] CCA.C17-HELIX.i5.00344: /looc Chat is bugged.
+[19:24:45] CCA.C17-HELIX.i5.00344: /looc That's why.
+[19:24:47] CCA.C17-UNION.i5.60555: .// only shows up above your head
+[19:24:53] Alex Palovichov: /chargiveitem Palovichov grenade 1
+[19:25:00] CCA.C17-HELIX.i3.08874: /looc Bruh, how did q screw that up
+[19:25:06] CCA.C17-HELIX.i5.00344: /looc idfk.
+[19:25:21] CCA.C17-HELIX.i3.08874: Whatever, communications are bugged. Next time inform dispatch that you are moving into CZ.
+[19:25:40] CCA.C17-HELIX.i5.00344: Repeat last?
+[19:25:49] Alex Palovichov: /request Yeah...I found some strange body on the top of metrop- WHAT THE FU- *BOOM*
+[19:25:55] CCA.C17-HELIX.i3.08874: Inform dispatch before moving in.
+[19:26:01] CCA.C17-HELIX.i3.08874: Ah christ
+[19:26:09] CCA.C17-HELIX.i3.08874: Move it
+[19:26:28] CCA.C17-HELIX.i3.08874: // Just use combine IC channel for now
+[19:26:32] CCA.C17-HELIX.i3.08874: // In the discord
+[19:26:38] Alex Palovichov: /charfallover
+[19:26:57] Alex Palovichov: /charfallover
+[19:26:59] CCA.C17-UNION.i5.60555: The fuck
+[19:27:27] CCA.C17-UNION.i5.60555: Here
+[19:27:31] CCA.C17-HELIX.i5.00344: Shit..
+[19:27:32] Alex Palovichov: /it The ground seems to be charred...A large amount of citizen uniform scraps are littered across the area...
+[19:27:41] Alex Palovichov: /it No blood at all...
+[19:27:43] CCA.C17-HELIX.i5.00344: /me walks over to Alex, the man inspecting his wounds.
+[19:28:22] Alex Palovichov: /it The man would have a few pieces of concrete stuck within him, though seemingly not too injured
+[19:28:34] CCA.C17-HELIX.i5.00344: /me picks up Alex, the man would walk away from the body.
+[19:29:10] CCA.C17-HELIX.i5.00344: Do not touch the body.
+[19:29:13] CCA.C17-HELIX.i5.00344: It's a possible trap.
+[19:29:15] CCA.C17-HELIX.i3.08874: Any of you two investigate the problem?
+[19:29:18] CCA.C17-HELIX.i5.00344: YEs.
+[19:29:20] CCA.C17-HELIX.i5.00344: Explosion.
+[19:29:22] CCA.C17-HELIX.i5.00344: I said it over comms.
+[19:29:25] CCA.C17-HELIX.i5.00344: Fives.
+[19:29:26] Alex Palovichov: Ah...fuck...
+[19:29:29] CCA.C17-HELIX.i5.00344: Go with the HELIX.
+[19:29:29] Alex Palovichov: My head...
+[19:29:29] CCA.C17-HELIX.i3.08874: I heard, I said if you moved in to check.
+[19:29:44] Alex Palovichov: /me Would seem to slowly wake up...
+[19:29:45] CCA.C17-HELIX.i3.08874: i5, move them to the CMU Hospital and treat them.
+[19:29:50] CCA.C17-HELIX.i3.08874: Union
+[19:29:52] Alex Palovichov: Wh-What happened...
+[19:29:52] CCA.C17-HELIX.i3.08874: On me.
+[19:29:59] CCA.C17-HELIX.i5.00344: Rest, child/.
+[19:30:01] Alex Palovichov: I have...biogel in my...my office...
+[19:30:05] CCA.C17-HELIX.i3.08874: You know this guy?
+[19:30:13] CCA.C17-UNION.i5.60555: N-no.
+[19:30:15] CCA.C17-HELIX.i3.08874: /me looks for an ID card on the individual.
+[19:30:20] CCA.C17-HELIX.i5.00344: Bio-gel isn't needed, I'll fix you up *my* way.
+[19:30:27] CCA.C17-HELIX.i3.08874 to admins: I am looking for an ID on this dead guy
+[19:30:31] Alex Palovichov: Alright...Wha-whatever you say
+[19:30:33] CCA.C17-HELIX.i3.08874 to admins: Do they have one?
+[19:30:58] CCA.C17-HELIX.i3.08874: /looc Messaging bean to see if they have a CID
+[19:31:21] CCA.C17-HELIX.i3.08874: /looc Ah whatever they are taking too long
+[19:31:32] Alex Palovichov to admins: Most of it was...exploded...Though it isn't exactly a body either, its more of a trap body, made of plastic n scrap
+[19:31:40] CCA.C17-HELIX.i3.08874: /me pulls a CID card off the guy, but it seems badly damaged.
+[19:31:45] CCA.C17-HELIX.i3.08874: Not getting anything from this.
+[19:31:46] CCA.C17-HELIX.i5.00344: /me places Alex onto the bed, the man would then remove the part of the uniform with the bits and pieces of shrapnel and concrete.
+[19:32:02] CCA.C17-HELIX.i3.08874: Don't fall on your way down.
+[19:32:08] CCA.C17-UNION.i5.60555: Yeah...
+[19:32:08] Alex Palovichov: I sh-should get my...apartment moved, to the terminal after this shit...
+[19:32:09] CCA.C17-HELIX.i3.08874: /me grabs the pole and slides down.
+[19:32:21] Alex Palovichov: I guess so-some people REALLY don't like me...
+[19:32:28] CCA.C17-HELIX.i5.00344: Hm.
+[19:32:32] CCA.C17-HELIX.i3.08874: Not seeing anything.
+[19:32:44] Alex Palovichov: First I'm attacked outside my...office now this!
+[19:33:08] CCA.C17-HELIX.i3.08874: Might be a suicide bomber.
+[19:33:58] CCA.C17-HELIX.i3.08874: Get inside, I need to make a report.
+[19:34:20] CCA.C17-HELIX.i3.08874: /me takes a small PDA off of their holster, switching it on. It illuminates green.
+[19:35:19] CCA.C17-HELIX.i5.00344: /me pulls out medical disinfectant and begins to spray it onto and aroudn the wound, the man then pulled out some morphine. He injected him with the right amount to numb the pain, he then placed on medical  gloves before grabbing some pliers and removing the concrete and shrapnel from the body. After doing so, he placed them to the side and began to cauterize the wounds to prevent internal bleeding, then sewed up the wounds closed with padded gauze.
+[19:35:41] Alex Palovichov: My...Fuck...My head is killing me...
+[19:35:59] CCA.C17-HELIX.i5.00344: /me gently places Alex onto the bench
+[19:36:06] CCA.C17-HELIX.i5.00344: Let's go.
+[19:36:13] Alex Palovichov: /me Would slowly begin to wake up
+[19:36:20] CCA.C17-HELIX.i3.08874: Status?
+[19:36:23] CCA.C17-HELIX.i5.00344: Green
+[19:36:27] Alex Palovichov: Gah...My fucking head...
+[19:36:30] CCA.C17-HELIX.i3.08874: /me looks up from their PDA.
+[19:36:30] CCA.C17-HELIX.i5.00344: Minor shrapnel inside of him...Then I removed it.
+[19:36:33] CCA.C17-HELIX.i5.00344: I didn't use bio-gel.
+[19:36:36] CCA.C17-HELIX.i5.00344: I used old ways.
+[19:36:49] CCA.C17-HELIX.i5.00344: Because I'm not using bio-gel on everything.
+[19:37:07] CCA.C17-HELIX.i3.08874: The hospital has it's own supplies.
+[19:37:11] CCA.C17-HELIX.i5.00344: I know.
+[19:37:12] Alex Palovichov: /me Would grunt, slowly standing up from the bench
+[19:37:18] CCA.C17-HELIX.i5.00344: But it's stupid to use bio-gel on everything.
+[19:37:20] CCA.C17-UNION.i5.60555: I... I think I need to go inside.
+[19:37:23] CCA.C17-HELIX.i5.00344: Excessive use of it isn't wise.
+[19:37:25] CCA.C17-HELIX.i5.00344: Alright.
+[19:37:26] CCA.C17-HELIX.i5.00344: Gonna 10-7.
+[19:37:45] CCA.C17-HELIX.i5.00344: // Cya gamers.
+[19:37:47] Alex Palovichov: Excuse me
+[19:37:49] CCA.C17-HELIX.i3.08874: // Adios
+[19:37:52] Dropped "CCA.C17-HELIX.i5.00344" from server<STEAM_0:0:170921441>
+[19:37:59] Alex Palovichov: Could I...get my apartment moved to the terminal hotel...
+[19:38:12] Alex Palovichov: I don't really want to be outside the plaza's area as much...
+[19:38:24] CCA.C17-HELIX.i3.08874: I'll see if I can get a request in, you'll have to wait a day.
+[19:38:42] Alex Palovichov: Alright...Thats fine, I just can't...stand sleeping in that place anymore...
+[19:38:52] Alex Palovichov: I'd rather not get my head beaten in by another crowbar...
+[19:39:01] Alex Palovichov: /me Would slightly nod at the officer "Thanks..."
+[19:39:07] CCA.C17-HELIX.i3.08874: Mhm
+[19:39:12] CCA.C17-UNION.i5.60555<STEAM_0:0:69476140> changed their name to Aurelio Grau
+[19:39:37] Aurelio Grau: // wish chat wasnt broke
+[19:39:40] Alex Palovichov: /ooc The crazed body bomber strikes again
+[19:39:41] Aurelio Grau: // would be nice
+[19:39:45] CCA.C17-HELIX.i3.08874: // It's extremely annoying
+[19:40:32] CCA.C17-HELIX.i3.08874<STEAM_0:0:68118061> changed their name to Harold George
+[19:40:44] Aurelio Grau: // i am sleep
+[19:40:47] Aurelio Grau: // see you guys later
+[19:40:51] Harold George: // See ya
+[19:40:58] Aurelio Grau: // was real fun btw bean i like that shit
+[19:41:13] Dropped "Aurelio Grau" from server<STEAM_0:0:69476140>
+[19:41:33] Harold George: // I'll probably head off for the night too, I'll be on again Friday
+[19:41:44] Harold George: // I really want a work cycle :(
+[19:41:48] Dropped "Harold George" from server<STEAM_0:0:68118061>
+[19:42:27] Dropped "Alex Palovichov" from server<STEAM_0:1:591779303>
+[22:42:28] Client "Bean" connected.
+[22:43:39] Client "Bean" spawned in server <STEAM_0:1:591779303> (took 71 seconds).
+[22:44:00] Bean<STEAM_0:1:591779303> changed their name to Daniel J. Cutter
+[22:44:55] Daniel J. Cutter<STEAM_0:1:591779303> spawned NPC npc_zombine
+[22:45:08] Daniel J. Cutter<STEAM_0:1:591779303> spawned NPC npc_zombine
+[22:45:19] Daniel J. Cutter<STEAM_0:1:591779303> spawned NPC npc_zombine
+[22:45:37] Daniel J. Cutter<STEAM_0:1:591779303> spawned NPC npc_poisonzombie
+[22:45:49] Daniel J. Cutter<STEAM_0:1:591779303> spawned NPC npc_zombine
+[22:46:04] Daniel J. Cutter<STEAM_0:1:591779303> spawned NPC npc_fastzombie
+[22:46:09] Daniel J. Cutter<STEAM_0:1:591779303> spawned NPC npc_zombine
+[22:46:24] Daniel J. Cutter<STEAM_0:1:591779303> spawned NPC npc_zombine
+[22:46:57] Daniel J. Cutter<STEAM_0:1:591779303> spawned NPC npc_zombine
+[22:47:06] Daniel J. Cutter<STEAM_0:1:591779303> spawned NPC npc_zombie
+[22:47:15] Daniel J. Cutter<STEAM_0:1:591779303> spawned NPC npc_fastzombie
+[22:47:21] Daniel J. Cutter<STEAM_0:1:591779303> spawned NPC npc_zombine
+[22:48:39] Daniel J. Cutter: /CHARGIVEITEM cutter cloth 4
+[22:48:58] Daniel J. Cutter: /CHARGIVEITEM cutter cloth 4
+[22:49:31] Daniel J. Cutter: /CHARGIVEITEM cutter cloth 4
+[22:50:20] Daniel J. Cutter<STEAM_0:1:591779303> spawned model models/props_junk/wood_crate001a.mdl
+[22:51:34] Daniel J. Cutter: /chargiveitem cutter die 1
+[23:00:49] Dropped "Daniel J. Cutter" from server<STEAM_0:1:591779303>

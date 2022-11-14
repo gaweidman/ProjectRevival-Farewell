@@ -1,0 +1,821 @@
+<Logging continued from "data/ulx_logs/11-14-20.txt">
+[02:30:18] Client "Greyman" connected.
+[02:36:05] Client "Greyman" spawned in server <STEAM_0:0:72693407> (took 347 seconds).
+[02:37:45] Dropped "Greyman" from server<STEAM_0:0:72693407>
+
+
+
+[03:07:41] New map: rp_city14_utopia
+
+
+
+[04:29:28] New map: rp_scp_county_v3
+[04:30:42] Client "matt saton" connected.
+[04:32:02] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 80 seconds).
+[04:33:26] matt saton<STEAM_0:1:53097688> changed their name to James Albright
+[04:33:33] James Albright<STEAM_0:1:53097688> spawned/gave himself swep weapon_eagle
+[04:33:34] James Albright: /toggleraise
+[04:33:37] James Albright<STEAM_0:1:53097688> spawned/gave himself swep ix_stunstick
+[04:33:38] James Albright<STEAM_0:1:53097688> spawned/gave himself swep weapon_hl2m_axe
+[04:33:39] James Albright: /toggleraise
+[04:33:42] James Albright<STEAM_0:1:53097688> spawned/gave himself swep weapon_extinguisher
+[04:33:42] James Albright: /toggleraise
+[04:34:17] James Albright<STEAM_0:1:53097688> spawned/gave himself swep weapon_extinguisher_infinite
+[04:34:18] James Albright: /toggleraise
+[04:43:01] James Albright<STEAM_0:1:53097688> spawned effect models/props_lab/teleportring.mdl
+[04:43:23] James Albright<STEAM_0:1:53097688> spawned model models/props_lab/workspace001.mdl
+[04:43:24] James Albright<STEAM_0:1:53097688> spawned model models/props_lab/teleplatform.mdl
+[04:43:26] James Albright<STEAM_0:1:53097688> spawned model models/props_lab/teleportbulkeli.mdl
+[04:43:35] James Albright<STEAM_0:1:53097688> spawned model models/props_lab/teleportbulk.mdl
+[04:43:37] James Albright<STEAM_0:1:53097688> spawned model models/props_lab/teleportbulk.mdl
+[04:43:41] James Albright<STEAM_0:1:53097688> spawned model models/props_lab/teleportbulkeli.mdl
+[04:43:54] James Albright<STEAM_0:1:53097688> spawned ragdoll models/props_lab/labturret.mdl
+[04:44:01] James Albright<STEAM_0:1:53097688> spawned model models/props_lab/hev_case.mdl
+[04:44:05] James Albright<STEAM_0:1:53097688> spawned model models/props_lab/teleportframe.mdl
+[04:44:12] James Albright<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_lab/teleportframe.mdl
+[04:44:13] James Albright<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_lab/teleportframe.mdl
+[04:44:13] James Albright<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_lab/teleportframe.mdl
+[04:44:37] James Albright<STEAM_0:1:53097688> spawned model models/props_lab/teleplatform.mdl
+[04:44:54] James Albright<STEAM_0:1:53097688> spawned model models/props_lab/teleportframe.mdl
+[04:45:05] James Albright<STEAM_0:1:53097688> spawned model models/props_lab/teleportgate.mdl
+[04:45:16] James Albright<STEAM_0:1:53097688> spawned model models/props_lab/teleportbulkeli.mdl
+[04:45:18] James Albright<STEAM_0:1:53097688> spawned model models/props_lab/teleportgate.mdl
+[04:45:34] James Albright<STEAM_0:1:53097688> used the tool stacker_improved on models/props_lab/teleportgate.mdl
+[04:45:34] James Albright<STEAM_0:1:53097688> spawned model models/props_lab/teleportgate.mdl
+[04:45:39] James Albright<STEAM_0:1:53097688> used the tool stacker_improved on models/props_lab/teleportgate.mdl
+[04:45:39] James Albright<STEAM_0:1:53097688> spawned model models/props_lab/teleportgate.mdl
+[04:45:47] James Albright<STEAM_0:1:53097688> used the tool stacker_improved on models/props_lab/teleportgate.mdl
+[04:45:47] James Albright<STEAM_0:1:53097688> spawned model models/props_lab/teleportgate.mdl
+[04:45:51] James Albright<STEAM_0:1:53097688> used the tool stacker_improved on models/props_lab/teleportframe.mdl
+[04:45:51] James Albright<STEAM_0:1:53097688> spawned model models/props_lab/teleportframe.mdl
+[04:45:53] James Albright<STEAM_0:1:53097688> used the tool stacker_improved on models/props_lab/teleportgate.mdl
+[04:45:53] James Albright<STEAM_0:1:53097688> spawned model models/props_lab/teleportgate.mdl
+[04:45:55] James Albright<STEAM_0:1:53097688> used the tool stacker_improved on models/props_lab/teleportgate.mdl
+[04:45:55] James Albright<STEAM_0:1:53097688> spawned model models/props_lab/teleportgate.mdl
+[04:46:05] James Albright<STEAM_0:1:53097688> used the tool precision on models/props_lab/teleportgate.mdl
+[04:46:06] James Albright<STEAM_0:1:53097688> used the tool precision on models/props_lab/teleportgate.mdl
+[04:46:06] James Albright<STEAM_0:1:53097688> used the tool precision on models/props_lab/teleportgate.mdl
+[04:46:08] James Albright<STEAM_0:1:53097688> used the tool precision on models/props_lab/teleportgate.mdl
+[04:46:08] James Albright<STEAM_0:1:53097688> used the tool precision on models/props_lab/teleportgate.mdl
+[04:46:08] James Albright<STEAM_0:1:53097688> used the tool precision on models/props_lab/teleportgate.mdl
+[04:46:09] James Albright<STEAM_0:1:53097688> used the tool precision on models/props_lab/teleportgate.mdl
+[04:46:09] James Albright<STEAM_0:1:53097688> used the tool precision on models/props_lab/teleportgate.mdl
+[04:46:10] James Albright<STEAM_0:1:53097688> used the tool precision on models/props_lab/teleportgate.mdl
+[04:46:12] James Albright<STEAM_0:1:53097688> used the tool precision on models/props_lab/teleportgate.mdl
+[04:46:21] James Albright<STEAM_0:1:53097688> spawned model models/props_lab/teleportframe.mdl
+[04:46:27] James Albright<STEAM_0:1:53097688> spawned model models/props_lab/teleportbulkeli.mdl
+[04:46:29] James Albright<STEAM_0:1:53097688> spawned model models/props_lab/teleportbulk.mdl
+[04:46:38] James Albright<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_lab/teleportbulk.mdl
+[04:47:25] James Albright<STEAM_0:1:53097688> spawned effect models/props_lab/teleportring.mdl
+[04:47:30] James Albright<STEAM_0:1:53097688> spawned effect models/props_lab/scanner3_scrapyard.mdl
+[04:47:31] James Albright<STEAM_0:1:53097688> spawned effect models/props_lab/teleportring.mdl
+[04:47:32] James Albright<STEAM_0:1:53097688> spawned effect models/props_lab/scanner1_scrapyard.mdl
+[04:47:38] James Albright<STEAM_0:1:53097688> spawned effect models/props_lab/scanner2_scrapyard.mdl
+[04:47:41] James Albright<STEAM_0:1:53097688> spawned effect models/props_lab/scanner3_scrapyard.mdl
+[04:47:42] James Albright<STEAM_0:1:53097688> spawned effect models/props_lab/scanner4_scrapyard.mdl
+[04:47:47] James Albright<STEAM_0:1:53097688> spawned model models/props_lab/generatortube.mdl
+[04:47:49] James Albright<STEAM_0:1:53097688> spawned model models/props_lab/generator.mdl
+[04:47:52] James Albright<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_lab/generator.mdl
+[04:48:12] James Albright<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_lab/generator.mdl
+[04:48:17] James Albright<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_lab/generator.mdl
+[04:48:24] James Albright<STEAM_0:1:53097688> spawned model models/props_lab/generatortube.mdl
+[04:48:31] James Albright<STEAM_0:1:53097688> used the tool material on models/props_lab/generatortube.mdl
+[04:48:33] James Albright<STEAM_0:1:53097688> used the tool material on models/props_lab/generatortube.mdl
+[04:48:37] James Albright<STEAM_0:1:53097688> used the tool material on models/props_lab/generatortube.mdl
+[04:48:38] James Albright<STEAM_0:1:53097688> used the tool material on models/props_lab/generatortube.mdl
+[04:48:41] James Albright<STEAM_0:1:53097688> used the tool material on models/props_lab/generatortube.mdl
+[04:48:43] James Albright<STEAM_0:1:53097688> used the tool material on models/props_lab/generatortube.mdl
+[04:48:45] James Albright<STEAM_0:1:53097688> used the tool material on models/props_lab/generatortube.mdl
+[04:48:47] James Albright<STEAM_0:1:53097688> used the tool material on models/props_lab/generatortube.mdl
+[04:48:54] James Albright<STEAM_0:1:53097688> used the tool material on models/props_lab/generatortube.mdl
+[04:49:14] James Albright<STEAM_0:1:53097688> spawned model models/props_lab/crystalbulk.mdl
+[04:49:17] James Albright<STEAM_0:1:53097688> spawned model models/props_lab/cornerunit2.mdl
+[04:49:23] James Albright<STEAM_0:1:53097688> spawned model models/props_lab/cornerunit.mdl
+[04:49:30] James Albright<STEAM_0:1:53097688> spawned ragdoll models/props_lab/labturret.mdl
+[04:49:32] James Albright<STEAM_0:1:53097688> spawned effect models/props_lab/labpart.mdl
+[04:49:33] James Albright<STEAM_0:1:53097688> spawned model models/props_lab/hev_machine.mdl
+[04:49:55] James Albright<STEAM_0:1:53097688> spawned model models/props_lab/generator.mdl
+[04:50:03] James Albright<STEAM_0:1:53097688> spawned model models/props_lab/cornerunit.mdl
+[04:50:05] James Albright<STEAM_0:1:53097688> spawned model models/props_lab/teleplatform.mdl
+[04:50:07] James Albright<STEAM_0:1:53097688> spawned effect models/props_lab/soupprep.mdl
+[04:50:08] James Albright<STEAM_0:1:53097688> spawned effect models/props_lab/soupprep.mdl
+[04:50:10] James Albright<STEAM_0:1:53097688> spawned effect models/props_lab/teleportring.mdl
+[04:50:11] James Albright<STEAM_0:1:53097688> spawned effect models/props_lab/scanner4_scrapyard.mdl
+[04:50:16] James Albright<STEAM_0:1:53097688> spawned effect models/props_lab/hl1teleport.mdl
+[04:50:21] James Albright<STEAM_0:1:53097688> spawned effect models/props_lab/hl1teleport.mdl
+[04:50:39] James Albright<STEAM_0:1:53097688> spawned model models/props_lab/handrail01_long_stairwell01.mdl
+[04:50:41] James Albright<STEAM_0:1:53097688> spawned effect models/props_lab/crystalholder_crystal.mdl
+[04:50:42] James Albright<STEAM_0:1:53097688> spawned model models/props_lab/crystalbulk.mdl
+[04:50:45] James Albright<STEAM_0:1:53097688> spawned model models/props_lab/cornerunit2.mdl
+[04:51:10] James Albright<STEAM_0:1:53097688> used the tool material on models/props_lab/generator.mdl
+[04:51:11] James Albright<STEAM_0:1:53097688> used the tool material on models/props_lab/cornerunit2.mdl
+[04:53:04] James Albright<STEAM_0:1:53097688> spawned model models/props_lab/ladderset.mdl
+[04:53:07] James Albright<STEAM_0:1:53097688> spawned model models/props_lab/ladderset.mdl
+[04:53:10] James Albright<STEAM_0:1:53097688> spawned effect models/props_lab/ladel.mdl
+[04:53:10] James Albright<STEAM_0:1:53097688> spawned model models/props_lab/ladderset.mdl
+[04:53:13] James Albright<STEAM_0:1:53097688> spawned model models/props_lab/ladderset.mdl
+[04:53:19] James Albright<STEAM_0:1:53097688> spawned model models/props_lab/workspace001.mdl
+[04:53:22] James Albright<STEAM_0:1:53097688> spawned model models/props_lab/workspace002.mdl
+[04:53:37] James Albright<STEAM_0:1:53097688> spawned model models/props_lab/workspace003.mdl
+[04:53:41] James Albright<STEAM_0:1:53097688> spawned model models/props_lab/workspace001.mdl
+[04:53:54] James Albright<STEAM_0:1:53097688> spawned model models/props_lab/workspace002.mdl
+[04:55:10] James Albright<STEAM_0:1:53097688> used the tool permaprops on maps/rp_scp_county_v3.bsp
+[04:55:18] James Albright<STEAM_0:1:53097688> spawned model models/props_lab/tpswitch.mdl
+[04:55:24] James Albright<STEAM_0:1:53097688> spawned model models/props_lab/generator.mdl
+[04:55:28] James Albright<STEAM_0:1:53097688> spawned model models/props_lab/generatorconsole.mdl
+[04:55:29] James Albright<STEAM_0:1:53097688> spawned model models/props_lab/generator.mdl
+[04:55:30] James Albright<STEAM_0:1:53097688> spawned model models/props_lab/generatorconsole.mdl
+[04:55:31] James Albright<STEAM_0:1:53097688> spawned model models/props_lab/generatorconsole.mdl
+[04:55:34] James Albright<STEAM_0:1:53097688> spawned model models/props_lab/generator.mdl
+[04:55:38] James Albright<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_lab/generator.mdl
+[04:55:59] James Albright<STEAM_0:1:53097688> spawned model models/props_lab/miniteleport.mdl
+[04:56:01] James Albright<STEAM_0:1:53097688> spawned model models/props_lab/miniteleport.mdl
+[04:56:07] James Albright<STEAM_0:1:53097688> spawned model models/props_lab/ravendoor.mdl
+[04:56:18] James Albright<STEAM_0:1:53097688> spawned model models/props_lab/hev_machine.mdl
+[04:56:42] James Albright<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_lab/hev_machine.mdl
+[04:56:55] James Albright<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_lab/hev_machine.mdl
+[04:57:22] James Albright<STEAM_0:1:53097688> spawned model models/props_lab/hev_case.mdl
+[04:57:26] James Albright<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_lab/hev_case.mdl
+[04:58:08] James Albright<STEAM_0:1:53097688> spawned model models/props_lab/generatorconsole.mdl
+[04:58:26] James Albright<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_lab/generatorconsole.mdl
+[04:58:43] James Albright<STEAM_0:1:53097688> spawned model models/props_lab/securitybank.mdl
+[04:58:45] James Albright<STEAM_0:1:53097688> spawned model models/props_lab/servers.mdl
+[04:58:51] James Albright<STEAM_0:1:53097688> spawned model models/props_lab/workspace003.mdl
+[04:59:11] James Albright<STEAM_0:1:53097688> spawned model models/props_lab/generatortube.mdl
+[04:59:15] James Albright<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_lab/generatortube.mdl
+[04:59:35] James Albright<STEAM_0:1:53097688> used the tool submaterial on models/props_lab/hev_case.mdl
+[04:59:38] James Albright<STEAM_0:1:53097688> used the tool submaterial on models/props_lab/hev_case.mdl
+[04:59:39] James Albright<STEAM_0:1:53097688> used the tool submaterial on models/props_lab/hev_case.mdl
+[04:59:40] James Albright<STEAM_0:1:53097688> used the tool submaterial on models/props_lab/hev_case.mdl
+[04:59:43] James Albright<STEAM_0:1:53097688> used the tool submaterial on models/props_lab/hev_case.mdl
+[04:59:44] James Albright<STEAM_0:1:53097688> used the tool submaterial on models/props_lab/hev_case.mdl
+[04:59:46] James Albright<STEAM_0:1:53097688> used the tool submaterial on models/props_lab/hev_case.mdl
+[04:59:48] James Albright<STEAM_0:1:53097688> used the tool submaterial on models/props_lab/hev_case.mdl
+[04:59:49] James Albright<STEAM_0:1:53097688> used the tool submaterial on models/props_lab/hev_case.mdl
+[04:59:52] James Albright<STEAM_0:1:53097688> used the tool submaterial on models/props_lab/hev_case.mdl
+[04:59:56] James Albright<STEAM_0:1:53097688> used the tool submaterial on models/props_lab/hev_case.mdl
+[04:59:58] James Albright<STEAM_0:1:53097688> used the tool submaterial on models/props_lab/hev_case.mdl
+[05:00:00] James Albright<STEAM_0:1:53097688> used the tool submaterial on models/props_lab/hev_case.mdl
+[05:00:02] James Albright<STEAM_0:1:53097688> used the tool submaterial on models/props_lab/hev_case.mdl
+[05:00:05] James Albright<STEAM_0:1:53097688> used the tool submaterial on models/props_lab/hev_case.mdl
+[05:00:08] James Albright<STEAM_0:1:53097688> used the tool submaterial on models/props_lab/hev_case.mdl
+[05:00:09] James Albright<STEAM_0:1:53097688> used the tool submaterial on models/props_lab/hev_case.mdl
+[05:00:11] James Albright<STEAM_0:1:53097688> used the tool submaterial on models/props_lab/hev_case.mdl
+[05:00:14] James Albright<STEAM_0:1:53097688> used the tool submaterial on models/props_lab/hev_case.mdl
+[05:00:17] James Albright<STEAM_0:1:53097688> used the tool submaterial on models/props_lab/hev_case.mdl
+[05:00:20] James Albright<STEAM_0:1:53097688> used the tool submaterial on models/props_lab/hev_case.mdl
+[05:00:24] James Albright<STEAM_0:1:53097688> used the tool submaterial on models/props_lab/hev_case.mdl
+[05:00:24] James Albright<STEAM_0:1:53097688> used the tool submaterial on models/props_lab/hev_case.mdl
+[05:00:25] James Albright<STEAM_0:1:53097688> used the tool submaterial on models/props_lab/hev_case.mdl
+[05:00:27] James Albright<STEAM_0:1:53097688> used the tool submaterial on models/props_lab/hev_case.mdl
+[05:00:58] James Albright<STEAM_0:1:53097688> spawned effect models/props_lab/airlockscanner.mdl
+[05:01:00] James Albright<STEAM_0:1:53097688> spawned effect models/props_lab/airlockscanner.mdl
+[05:01:09] James Albright<STEAM_0:1:53097688> spawned effect models/props_lab/labpart.mdl
+[05:01:16] James Albright<STEAM_0:1:53097688> spawned effect models/props_lab/hl1teleport.mdl
+[05:01:18] James Albright<STEAM_0:1:53097688> spawned effect models/props_lab/generatorhose.mdl
+[05:01:21] James Albright<STEAM_0:1:53097688> spawned model models/props_lab/lab_flourescentlight001b.mdl
+[05:01:24] James Albright<STEAM_0:1:53097688> spawned model models/props_lab/walllight001a.mdl
+[05:01:31] James Albright<STEAM_0:1:53097688> spawned model models/props_lab/dogobject_wood_crate001a_damagedmax.mdl
+[05:01:46] James Albright<STEAM_0:1:53097688> spawned effect models/props_lab/hl1teleport.mdl
+[05:01:54] James Albright<STEAM_0:1:53097688> spawned model models/props_lab/handrail01_long_stairwell01.mdl
+[05:01:57] James Albright<STEAM_0:1:53097688> spawned model models/props_lab/pipesystem02a.mdl
+[05:02:02] James Albright<STEAM_0:1:53097688> spawned effect models/props_lab/scanner4_scrapyard.mdl
+[05:02:19] James Albright<STEAM_0:1:53097688> spawned model models/props_lab/monitor02.mdl
+[05:02:37] James Albright<STEAM_0:1:53097688> spawned model models/props_lab/harddrive02.mdl
+[05:03:11] James Albright<STEAM_0:1:53097688> spawned model models/props_c17/computer01_keyboard.mdl
+[05:03:46] James Albright<STEAM_0:1:53097688> spawned model models/props_lab/plotter.mdl
+[05:04:27] James Albright<STEAM_0:1:53097688> spawned effect models/props_lab/corkboard001.mdl
+[05:04:28] James Albright<STEAM_0:1:53097688> spawned effect models/props_lab/corkboard001.mdl
+[05:04:42] James Albright<STEAM_0:1:53097688> spawned effect models/props_lab/corkboard002.mdl
+[05:05:11] James Albright<STEAM_0:1:53097688> spawned model models/props_interiors/furniture_chair03a.mdl
+[05:05:50] James Albright<STEAM_0:1:53097688> spawned model models/props_lab/partsbin01.mdl
+[05:05:53] James Albright<STEAM_0:1:53097688> spawned model models/props_lab/partsbin01.mdl
+[05:06:07] James Albright<STEAM_0:1:53097688> spawned model models/props_lab/desklamp01.mdl
+[05:06:43] James Albright<STEAM_0:1:53097688> spawned model models/props_lab/clipboard.mdl
+[05:07:05] James Albright<STEAM_0:1:53097688> used the tool permaprops on models/props_lab/clipboard.mdl
+[05:07:05] James Albright<STEAM_0:1:53097688> used the tool permaprops on models/props_lab/desklamp01.mdl
+[05:07:07] James Albright<STEAM_0:1:53097688> used the tool permaprops on models/props_lab/partsbin01.mdl
+[05:07:08] James Albright<STEAM_0:1:53097688> used the tool permaprops on models/props_lab/harddrive02.mdl
+[05:07:09] James Albright<STEAM_0:1:53097688> used the tool permaprops on models/props_c17/computer01_keyboard.mdl
+[05:07:09] James Albright<STEAM_0:1:53097688> used the tool permaprops on models/props_lab/monitor02.mdl
+[05:07:10] James Albright<STEAM_0:1:53097688> used the tool permaprops on models/props_interiors/furniture_chair03a.mdl
+[05:07:11] James Albright<STEAM_0:1:53097688> used the tool permaprops on models/props_lab/hev_machine.mdl
+[05:07:11] James Albright<STEAM_0:1:53097688> used the tool permaprops on models/props_lab/hev_case.mdl
+[05:12:42] Dropped "James Albright" from server<STEAM_0:1:53097688>
+
+
+
+[14:15:41] New map: rp_scp_county_v3
+[14:21:57] Client "matt saton" connected.
+[14:22:52] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 55 seconds).
+
+
+
+[14:24:47] New map: rp_scp_county_v3
+[14:24:59] Client "matt saton" connected.
+[14:25:44] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 45 seconds).
+
+
+
+[14:28:49] New map: rp_scp_county_v3
+[14:29:49] Client "matt saton" connected.
+[14:31:06] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 77 seconds).
+[14:31:53] matt saton<STEAM_0:1:53097688> changed their name to Joseph Kimsler
+[14:32:03] Joseph Kimsler<STEAM_0:1:53097688> changed their name to UU-SeC.14
+[14:32:08] UU-SeC.14: /charsetname sec UU-SeC.17
+[14:32:09] UU-SeC.14<STEAM_0:1:53097688> changed their name to UU-SeC.17
+[14:32:17] UU-SeC.17<STEAM_0:1:53097688> changed their name to Joseph Kimsler
+[14:37:01] Joseph Kimsler<STEAM_0:1:53097688> spawned NPC npc_metropolice
+[14:37:08] Joseph Kimsler<STEAM_0:1:53097688> spawned NPC npc_metropolice
+[14:47:34] Client "Ollie Garner" connected.
+
+
+
+[14:49:10] New map: rp_scp_county_v3
+[14:51:42] Client "matt saton" connected.
+[14:52:06] Client "Ollie Garner" connected.
+[14:52:49] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 67 seconds).
+[14:53:34] matt saton<STEAM_0:1:53097688> changed their name to Joseph Kimsler
+[14:53:42] Joseph Kimsler<STEAM_0:1:53097688> changed their name to Bett Benneck
+[14:53:50] Bett Benneck<STEAM_0:1:53097688> spawned NPC npc_turret_floor
+[14:53:56] Bett Benneck<STEAM_0:1:53097688> spawned NPC npc_turret_floor
+[14:54:10] Bett Benneck<STEAM_0:1:53097688> spawned NPC npc_turret_floor
+[14:58:46] Client "Ollie Garner" spawned in server <STEAM_0:1:52892973> (took 400 seconds).
+[14:59:34] Ollie Garner<STEAM_0:1:52892973> changed their name to Marc 'Watcher 1' Temple
+[14:59:38] Marc 'Watcher 1' Temple: // Yuh
+[14:59:45] Bett Benneck: //ninjas iffy uh
+[14:59:50] Bett Benneck: //blicky got the stiffy uh
+[15:00:00] Marc 'Watcher 1' Temple: // damn this is a shitton bigger than what the pictures make you think
+[15:00:12] Marc 'Watcher 1' Temple: // brb gotta check pie
+[15:01:47] Marc 'Watcher 1' Temple: // Back. Gonna check on it every five mins
+[15:02:06] Marc 'Watcher 1' Temple: /adminspawnmenu
+[15:02:10] Bett Benneck: //fuck
+[15:02:14] Bett Benneck: //why is the lighting all fuky
+[15:02:22] Marc 'Watcher 1' Temple: // It looks like its shutoff
+[15:02:23] Marc 'Watcher 1' Temple: /adminspawnmenu
+[15:02:25] Bett Benneck: //oh
+[15:02:25] Bett Benneck: /doorsethidden true
+[15:02:27] Bett Benneck: //yep
+[15:02:51] Bett Benneck: //i love how the cubemap is a missing texture here but it wasn't in singelpalyer
+[15:02:53] Marc 'Watcher 1' Temple: // I say we keep it off for when OTA enter because spooky
+[15:03:02] Bett Benneck: //cubemap = the thing that is reflected on surfaces
+[15:03:05] Marc 'Watcher 1' Temple: // I ain't seen a missing texture
+[15:03:09] Bett Benneck: //no? oh
+[15:03:53] Marc 'Watcher 1' Temple: // Clientside prob
+[15:04:16] Marc 'Watcher 1' Temple: // ngl, map is gucci as FUCK
+[15:04:48] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/props_office/copy_machine.mdl
+[15:04:50] Bett Benneck: //yeah
+[15:04:54] Bett Benneck: //the site 86 roleplay got so egood maps
+[15:04:58] Bett Benneck: //scp urban is great too
+[15:05:07] Marc 'Watcher 1' Temple: // Did we get the BM Lab props?
+[15:05:09] Bett Benneck: //yes
+[15:05:24] Bett Benneck: //black mesa lab models and it'snot mounted what hte fuck
+[15:05:29] Marc 'Watcher 1' Temple: // bruh
+[15:05:35] Marc 'Watcher 1' Temple: // also pie check time
+[15:06:16] Bett Benneck: //oh fuck i added the office mdoesl on accident
+
+
+
+[15:08:16] New map: rp_scp_county_v3
+[15:08:25] Client "Ollie Garner" connected.
+[15:08:42] Client "matt saton" connected.
+[15:09:49] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 67 seconds).
+[15:09:53] Client "Ollie Garner" spawned in server <STEAM_0:1:52892973> (took 88 seconds).
+[15:10:42] Ollie Garner<STEAM_0:1:52892973> changed their name to Marc 'Watcher 1' Temple
+[15:12:17] Dropped "Marc 'Watcher 1' Temple" from server<STEAM_0:1:52892973>
+[15:12:26] matt saton<STEAM_0:1:53097688> changed their name to Joseph Kimsler
+[15:14:51] Client "Ollie Garner" connected.
+[15:16:56] Client "Ollie Garner" spawned in server <STEAM_0:1:52892973> (took 125 seconds).
+[15:17:41] Ollie Garner<STEAM_0:1:52892973> changed their name to Marc 'Watcher 1' Temple
+[15:17:54] Marc 'Watcher 1' Temple: // yuh
+[15:18:08] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/props_lab/sterilizer.mdl
+[15:18:21] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/props_lab/wallunit_metres.mdl
+[15:18:22] Joseph Kimsler: /charsethunger beck 100
+[15:18:26] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/props_lab/wallunit_vents.mdl
+[15:18:26] Joseph Kimsler: /charsetthirst beck 100
+[15:18:32] Joseph Kimsler: /charsetthirst joseph 100
+[15:18:42] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/props_lab/substance_tray.mdl
+[15:18:49] Joseph Kimsler<STEAM_0:1:53097688> changed their name to Bett Benneck
+[15:19:01] Marc 'Watcher 1' Temple: /looc truly
+[15:19:06] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/props_lab/petridish01a.mdl
+[15:19:29] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/props_lab/macmonitor01.mdl
+[15:19:49] Marc 'Watcher 1' Temple: // Should prob remove Dispatch for this event
+[15:19:52] Bett Benneck: //yes
+[15:19:52] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/props_lab/surgical_laser.mdl
+[15:20:08] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/props_lab/beaker01b.mdl
+[15:20:21] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/props_lab/server_rack.mdl
+[15:20:40] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/props_lab/terminal_right.mdl
+[15:20:48] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/props_lab/server_rack.mdl
+[15:20:53] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/props_lab/wallunit_control.mdl
+[15:21:03] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/props_lab/rollup_cabinet.mdl
+[15:21:05] Bett Benneck: //lag spike
+[15:21:43] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/props_lab/console01c.mdl
+[15:21:52] Marc 'Watcher 1' Temple: /looc can't hear shit ngl
+[15:21:57] Marc 'Watcher 1' Temple: /looc music is blaring and voice chat
+[15:22:00] Bett Benneck: i'm playing beat it via bluetooth speaker lmao
+[15:22:03] Marc 'Watcher 1' Temple: /looc bruh
+[15:22:16] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/props_lab/dna_bust_stand.mdl
+[15:22:20] Marc 'Watcher 1' Temple: // what the fuck is this
+[15:22:23] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/props_lab/dna_bust.mdl
+[15:22:26] Marc 'Watcher 1' Temple: // OH
+[15:22:30] Bett Benneck: double heix
+[15:22:39] Marc 'Watcher 1' Temple: // should totally add that to a HELIX lab
+[15:22:45] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/props_lab/hev_container.mdl
+[15:22:50] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/props_lab/chemjar01.mdl
+[15:22:57] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/props_lab/beaker01a.mdl
+[15:23:05] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/props_lab/beaker01b.mdl
+[15:23:16] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/props_lab/tuberack01.mdl
+[15:23:25] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/props_lab/labcupboard_wall01b_door.mdl
+[15:23:30] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/props_lab/labcupboard_wall01b.mdl
+[15:23:39] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/props_lab/labcupboard_wall01b_door.mdl
+[15:23:50] Bett Benneck: //dw this is supposed to be an error for you
+[15:24:27] Bett Benneck: /charsetmodel bett nemez/temp/nemez_police.mdl
+[15:24:32] Marc 'Watcher 1' Temple: // Hm, think I should keep the tables relatively clear? I assume Aperture quickly closed up once the Combine arrived
+[15:24:36] Bett Benneck: /charsetmodel bett nemez/temp/models/nemez_police.mdl
+[15:24:42] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/props_lab/panel_safe.mdl
+[15:24:57] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/props_lab/wallunit_power.mdl
+[15:25:02] Bett Benneck: //seee my idea was that it was maintained by robots
+[15:25:16] Bett Benneck: //i was gonna add the sligwolf robot mdoel
+[15:25:18] Marc 'Watcher 1' Temple: // Yeah. I assume they wouldn't 100% expeirment on their own.
+[15:25:19] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/props_lab/wallunit_power.mdl
+[15:25:25] Bett Benneck: //nah, they're not like glados robots
+[15:25:34] Bett Benneck: //they're literally just maintenance robots without self awareness
+[15:25:45] Marc 'Watcher 1' Temple: // Yeah. And since power is prob a thing, they probably don't fuck too much with the labs.
+[15:25:54] Bett Benneck: //yeah
+[15:25:59] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/props_lab/robot_arm_claw.mdl
+[15:26:06] Bett Benneck: //keep in mind you can add shit like
+[15:26:12] Bett Benneck: //miscellaneous
+[15:26:15] Bett Benneck: //like items if you want
+[15:26:21] Marc 'Watcher 1' Temple: // yee
+[15:26:26] Marc 'Watcher 1' Temple: // Ah, yeah. I should
+[15:26:27] Marc 'Watcher 1' Temple: /adminspawnmenu
+[15:27:02] Bett Benneck<STEAM_0:1:53097688> used the tool lamp on maps/rp_scp_county_v3.bsp
+[15:27:17] Bett Benneck: //i have scp lamps
+[15:27:25] Marc 'Watcher 1' Temple: // neato
+[15:27:36] Bett Benneck<STEAM_0:1:53097688> used the tool lamp on models/lamps/torch.mdl
+[15:27:40] Bett Benneck<STEAM_0:1:53097688> used the tool lamp on models/lamps/torch.mdl
+[15:27:43] Marc 'Watcher 1' Temple: // why the fuck does aperture have a spark plug? fuck if I know, they just do
+[15:27:46] Bett Benneck: //shame we ca'nt use this
+[15:27:56] Bett Benneck<STEAM_0:1:53097688> used the tool lamp on models/lamps/torch.mdl
+[15:27:59] Bett Benneck: //or this
+[15:28:00] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> used the tool permaprops on models/props_lab/labcupboard_wall01b_door.mdl
+[15:28:01] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> used the tool permaprops on models/props_lab/labcupboard_wall01b.mdl
+[15:28:03] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> used the tool permaprops on models/props_lab/beaker01b.mdl
+[15:28:05] Bett Benneck<STEAM_0:1:53097688> used the tool lamp on models/lamps/torch.mdl
+[15:28:05] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> used the tool permaprops on models/props_lab/beaker01a.mdl
+[15:28:06] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> used the tool permaprops on models/props_lab/robot_arm_claw.mdl
+[15:28:07] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> used the tool permaprops on models/props_lab/chemjar01.mdl
+[15:28:09] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> used the tool permaprops on models/props_lab/console01c.mdl
+[15:28:10] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> used the tool permaprops on models/props_lab/server_rack.mdl
+[15:28:11] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> used the tool permaprops on models/props_lab/wallunit_control.mdl
+[15:28:15] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> used the tool permaprops on models/props_lab/macmonitor01.mdl
+[15:28:17] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> used the tool permaprops on models/props_lab/beaker01b.mdl
+[15:28:22] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> used the tool permaprops on models/props_lab/sterilizer.mdl
+[15:28:24] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> used the tool permaprops on models/props_lab/petridish01a.mdl
+[15:28:24] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> used the tool permaprops on models/props_lab/substance_tray.mdl
+[15:28:27] Bett Benneck: //this is hella cool
+[15:28:33] Bett Benneck: //how it goes on the glass
+[15:28:33] Marc 'Watcher 1' Temple: // niceee
+[15:28:38] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> used the tool permaprops on maps/rp_scp_county_v3.bsp
+[15:28:40] Bett Benneck: //doesn't look godo
+[15:28:42] Bett Benneck: //but it's pretty gamer
+[15:28:46] Marc 'Watcher 1' Temple: /adminspawnmenu
+[15:29:02] Marc 'Watcher 1' Temple: /adminspawnmenu
+[15:29:06] Bett Benneck<STEAM_0:1:53097688> used the tool lamp on maps/rp_scp_county_v3.bsp
+[15:29:22] Marc 'Watcher 1' Temple: // adding in a medical skillbook
+[15:29:25] Bett Benneck<STEAM_0:1:53097688> used the tool lamp on models/lamps/torch.mdl
+[15:29:27] Bett Benneck: //be
+[15:29:30] Bett Benneck: //bet
+[15:29:32] Marc 'Watcher 1' Temple: /adminspawnmenu
+[15:29:45] Marc 'Watcher 1' Temple: /adminspawnmenu
+[15:29:47] Bett Benneck: //dare you to put engineering for dummies in cave's room
+[15:29:53] Marc 'Watcher 1' Temple: // bet
+[15:29:57] Marc 'Watcher 1' Temple: /adminspawnmenu
+[15:30:30] Bett Benneck<STEAM_0:1:53097688> used the tool lamp on models/lamps/torch.mdl
+[15:30:32] Bett Benneck<STEAM_0:1:53097688> used the tool lamp on maps/rp_scp_county_v3.bsp
+[15:30:37] Marc 'Watcher 1' Temple: // fuck it, adding in take out chinese food because why not
+[15:30:41] Bett Benneck<STEAM_0:1:53097688> used the tool lamp on models/lamps/torch.mdl
+[15:30:48] Bett Benneck<STEAM_0:1:53097688> used the tool lamp on models/lamps/torch.mdl
+[15:30:52] Bett Benneck<STEAM_0:1:53097688> used the tool lamp on models/lamps/torch.mdl
+[15:30:59] Marc 'Watcher 1' Temple: // intern was eating in the lab like a idiot
+[15:31:09] Marc 'Watcher 1' Temple: /adminspawnmenu
+[15:31:15] Bett Benneck: //lmao
+[15:31:20] Bett Benneck<STEAM_0:1:53097688> used the tool lamp on models/lamps/torch.mdl
+[15:31:22] Marc 'Watcher 1' Temple: // brb dish put away time
+[15:31:54] Bett Benneck<STEAM_0:1:53097688> used the tool lamp on models/lamps/torch.mdl
+[15:31:56] Bett Benneck<STEAM_0:1:53097688> used the tool lamp on models/lamps/torch.mdl
+[15:31:58] Bett Benneck<STEAM_0:1:53097688> used the tool lamp on models/lamps/torch.mdl
+[15:31:59] Bett Benneck<STEAM_0:1:53097688> used the tool lamp on models/lamps/torch.mdl
+[15:32:01] Bett Benneck<STEAM_0:1:53097688> used the tool lamp on models/lamps/torch.mdl
+[15:32:07] Bett Benneck<STEAM_0:1:53097688> used the tool colour on models/lamps/torch.mdl
+[15:32:47] Bett Benneck: //yo check this out
+[15:35:29] Bett Benneck: //chief is looking at hte map
+[15:35:45] Bett Benneck<STEAM_0:1:53097688> used the tool permaprops on maps/rp_scp_county_v3.bsp
+[15:35:46] Bett Benneck<STEAM_0:1:53097688> used the tool permaprops on maps/rp_scp_county_v3.bsp
+[15:35:46] Bett Benneck<STEAM_0:1:53097688> used the tool permaprops on maps/rp_scp_county_v3.bsp
+[15:35:46] Bett Benneck<STEAM_0:1:53097688> used the tool permaprops on maps/rp_scp_county_v3.bsp
+[15:35:46] Bett Benneck<STEAM_0:1:53097688> used the tool permaprops on models/lamps/torch.mdl
+[15:38:22] Marc 'Watcher 1' Temple: // Back
+[15:38:24] Marc 'Watcher 1' Temple: /adminspawnmenu
+[15:38:49] Marc 'Watcher 1' Temple: /adminspawnmenu
+[15:39:32] Marc 'Watcher 1' Temple: /adminspawnmenu
+[15:39:52] Marc 'Watcher 1' Temple: /adminspawnmenu
+[15:40:22] Marc 'Watcher 1' Temple: /adminspawnmenu
+[15:40:28] Bett Benneck: //cmmere
+[15:40:36] Marc 'Watcher 1' Temple: // Huh
+[15:40:45] Bett Benneck: //i added a little something
+[15:40:57] Marc 'Watcher 1' Temple: // NICE
+[15:40:58] Bett Benneck: //so you have the ap logo
+[15:41:00] Bett Benneck: //and then you open the dor
+[15:41:02] Bett Benneck: //boom
+[15:41:04] Bett Benneck: //ap logo is gone
+[15:41:07] Marc 'Watcher 1' Temple: // niceee
+[15:41:35] Marc 'Watcher 1' Temple: /adminspawnmenu
+[15:42:10] Marc 'Watcher 1' Temple: /adminspawnmenu
+[15:43:26] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/props_lab/console01a.mdl
+[15:43:31] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/props_lab/console01b.mdl
+[15:43:40] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/props_lab/console03c.mdl
+[15:43:48] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/props_lab/console03b.mdl
+[15:43:56] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> used the tool permaprops on models/props_lab/console03b.mdl
+[15:43:57] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> used the tool permaprops on models/props_lab/console03c.mdl
+[15:43:57] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> used the tool permaprops on models/props_lab/console01b.mdl
+[15:44:06] Marc 'Watcher 1' Temple: /adminspawnmenu
+[15:44:14] Marc 'Watcher 1' Temple: /adminspawnmenu
+[15:44:36] Marc 'Watcher 1' Temple: // ngl, tried placing some tripple As.
+[15:44:44] Marc 'Watcher 1' Temple: // they just rolled underneathe the shelves
+[15:44:57] Marc 'Watcher 1' Temple: // like real triple As
+[15:45:15] Marc 'Watcher 1' Temple: // Bruh moment, Office shit unmounted
+[15:45:30] Bett Benneck: //no, office shit wasn't meant to be here
+[15:45:33] Bett Benneck: //just use HL2 shit for that
+[15:45:40] Marc 'Watcher 1' Temple: // Ah.
+[15:45:48] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/props_lab/wallunit_control.mdl
+[15:46:05] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> used the tool permaprops on models/props_lab/wallunit_control.mdl
+[15:46:10] Marc 'Watcher 1' Temple: // Opinions on the lab?
+[15:46:16] Bett Benneck: //sexy
+[15:46:24] Marc 'Watcher 1' Temple: // Nice. Gonna focus on diff roms now
+[15:46:32] Marc 'Watcher 1' Temple: // FUCK THERE'S ANOTHER LAB
+[15:47:02] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/props_lab/chemjar01.mdl
+[15:47:19] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/props_lab/mobiletable01_static.mdl
+[15:47:28] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/props_lab/panel_safe.mdl
+[15:47:33] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/props_lab/lab_stool.mdl
+[15:47:40] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/props_lab/lab_stool.mdl
+[15:47:59] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/props_lab/lab_stool.mdl
+[15:47:59] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/props_lab/lab_stool.mdl
+[15:48:00] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/props_lab/lab_stool.mdl
+[15:48:07] Bett Benneck: //very smart
+[15:48:23] Marc 'Watcher 1' Temple: // i just had a flashback to when teachers made me do this shit
+[15:48:35] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/props_lab/lab_stool.mdl
+[15:48:36] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/props_lab/lab_stool.mdl
+[15:48:38] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/props_lab/lab_stool.mdl
+[15:48:40] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/props_lab/lab_stool.mdl
+[15:49:10] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> used the tool permaprops on models/props_lab/lab_stool.mdl
+[15:49:11] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> used the tool permaprops on models/props_lab/lab_stool.mdl
+[15:49:12] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> used the tool permaprops on maps/rp_scp_county_v3.bsp
+[15:49:13] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> used the tool permaprops on models/props_lab/lab_stool.mdl
+[15:49:13] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> used the tool permaprops on models/props_lab/lab_stool.mdl
+[15:49:15] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> used the tool permaprops on models/props_lab/lab_stool.mdl
+[15:49:16] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> used the tool permaprops on models/props_lab/chemjar01.mdl
+[15:49:17] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> used the tool permaprops on models/props_lab/lab_stool.mdl
+[15:49:18] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> used the tool permaprops on maps/rp_scp_county_v3.bsp
+[15:49:19] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> used the tool permaprops on models/props_lab/lab_stool.mdl
+[15:49:20] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> used the tool permaprops on models/props_lab/lab_stool.mdl
+[15:49:21] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> used the tool permaprops on maps/rp_scp_county_v3.bsp
+[15:49:22] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> used the tool permaprops on models/props_lab/lab_stool.mdl
+[15:49:28] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/props_lab/console03c.mdl
+[15:49:35] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> used the tool permaprops on models/props_lab/console03c.mdl
+[15:49:40] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/props_lab/console02c.mdl
+[15:49:49] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> used the tool permaprops on models/props_lab/console02c.mdl
+[15:49:54] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/props_lab/terminal_left.mdl
+[15:50:06] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> used the tool permaprops on models/props_lab/terminal_left.mdl
+[15:50:21] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/props_lab/tv_ceiling.mdl
+[15:50:47] Marc 'Watcher 1' Temple: // if only the TV wasn't fucking big
+[15:51:17] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/props_lab/retinalscanner.mdl
+[15:51:27] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/props_lab/beaker01a.mdl
+[15:51:38] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> used the tool permaprops on models/props_lab/beaker01a.mdl
+[15:51:49] Marc 'Watcher 1' Temple: // hold on, big brain idea
+[15:51:49] Marc 'Watcher 1' Temple: /adminspawnmenu
+[15:53:03] Marc 'Watcher 1' Temple: // I ain't gonna add more supplies in the other lab, so here's my excuse notepad. Opinions?
+[15:53:35] Bett Benneck: //alright
+[15:53:42] Bett Benneck: //i like it
+[15:54:09] Marc 'Watcher 1' Temple: /adminspawnmenu
+[15:54:24] Marc 'Watcher 1' Temple: // If we had drug models, I totally would hide some under the bunk beds in the map
+[15:54:37] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/props_lab/terminal_middle.mdl
+[15:54:44] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/props_lab/terminal_right.mdl
+[15:54:49] Bett Benneck: //lmao
+[15:54:59] Marc 'Watcher 1' Temple: // instead, I'll hide painkillers
+[15:55:00] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> used the tool permaprops on models/props_lab/terminal_right.mdl
+[15:55:49] Bett Benneck: //wonderful
+[15:55:54] Marc 'Watcher 1' Temple: // damn, offices mostly propped by the map itself ngl;
+[15:56:14] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned effect models/props_lab/corkboard001.mdl
+[15:57:12] Marc 'Watcher 1' Temple: // Damn, now we gotta call employees d-class
+[15:57:21] Bett Benneck: //pffff
+[15:57:40] Bett Benneck: //hobos are less legal d class
+[15:58:05] Marc 'Watcher 1' Temple: // Truly
+[15:58:35] Marc 'Watcher 1' Temple: // Hm... Do you think that Aperture would have some Xen already under study after the Black Mesa incident?
+[15:58:44] Bett Benneck: /doorsethidden true
+[15:58:46] Bett Benneck: //eh
+[15:58:52] Marc 'Watcher 1' Temple: // because some of these containments could possibly work like that
+[15:58:53] Bett Benneck: //i don't think aperture lived through the BMI
+[15:58:57] Marc 'Watcher 1' Temple: // Ah.
+[15:59:00] Bett Benneck: //imo
+[15:59:07] Bett Benneck: //i think only glados did because glados
+[15:59:18] Marc 'Watcher 1' Temple: // YO THIS IS ACTUALLY KINDA COOL
+[15:59:21] Bett Benneck teleported to Marc 'Watcher 1' Temple
+[15:59:21] Bett Benneck: !goto marc
+[15:59:41] Bett Benneck: /charsetmodel bett models/player.mdl
+[15:59:47] Bett Benneck: //this is cool sa fuck
+[15:59:49] Marc 'Watcher 1' Temple: // one way mirror are cool
+[15:59:58] Bett Benneck: //true bt in source they hrt my brain
+[16:00:27] Marc 'Watcher 1' Temple: // But we should totally try to figure out some form of danger to be in here.
+[16:00:47] Bett Benneck: //i added in sligwolf robot npcs
+[16:00:53] Marc 'Watcher 1' Temple: // now get this
+[16:00:57] Marc 'Watcher 1' Temple: // colonizing antlions
+[16:01:02] Marc 'Watcher 1' Temple: // jk jk
+[16:01:04] Marc 'Watcher 1' Temple: // unlesss
+[16:01:09] Bett Benneck<STEAM_0:1:53097688> spawned NPC npc_turret_floor
+[16:01:12] Bett Benneck<STEAM_0:1:53097688> spawned NPC npc_turret_floor
+[16:01:16] Bett Benneck<STEAM_0:1:53097688> spawned NPC npc_turret_floor
+[16:01:23] Marc 'Watcher 1' Temple: // ah yes, orange box of admin abuse
+[16:01:31] Bett Benneck: //cmere
+[16:01:35] Bett Benneck<STEAM_0:1:53097688> spawned NPC npc_turret_floor
+[16:01:38] Bett Benneck<STEAM_0:1:53097688> spawned NPC npc_turret_floor
+[16:01:45] Bett Benneck<STEAM_0:1:53097688> spawned NPC npc_turret_floor
+[16:01:49] Marc 'Watcher 1' Temple: // Nice
+[16:02:16] Marc 'Watcher 1' Temple: // Should we make some refrences to Glados in this bunker in forms of notes n shit?
+[16:02:19] Bett Benneck: //bruh what if aperture invented the gravity gun and eli ripped it off
+[16:02:27] Bett Benneck: //define references we can't have it be too hamfisted
+[16:02:57] Marc 'Watcher 1' Temple: // Just mostly mentions of some project Cave Johnson was working on before he started having panic about preserving his health for science
+[16:03:06] Bett Benneck: //yep i like it
+[16:03:13] Bett Benneck: //about the eggheads pouring him into a computer
+[16:03:34] Marc 'Watcher 1' Temple: // Yeah, maybe  even a letter in Cave Johnson room from his... wife? Or whatever. Forgot her name.
+[16:03:41] Bett Benneck: //his assistant caroline?
+[16:03:48] Marc 'Watcher 1' Temple: // Yeah. Weren't they in a relationship?
+[16:03:56] Bett Benneck: //not to my knowledge but it wwouldn't surprise me
+[16:04:00] Marc 'Watcher 1' Temple: // Lemme check
+[16:04:10] Bett Benneck: //sorry fellas, she's married
+[16:04:12] Bett Benneck: //to science!
+[16:05:29] Marc 'Watcher 1' Temple: // Yeah, I dunno. They're def friends at the fuckin least.
+[16:05:57] Bett Benneck: //oh yeah
+[16:06:02] Marc 'Watcher 1' Temple: // ooh, actually, reading some trivia. Apparently there is unused voice lines from Caroline suggesting she was against shoving her mind into a AI
+[16:06:03] Bett Benneck: //caroline was very much inspired by cave
+[16:06:14] Bett Benneck: //yeah, those voicelines scare me
+[16:06:35] Bett Benneck: //Mister Johnson, I don't want this!
+[16:06:52] Bett Benneck: //Mister Johnson, I *don't want this!*
+[16:07:23] Marc 'Watcher 1' Temple: // Yeah. Maybe the letter could be to whoever actually finds him. Maybe something saying like "Caroline is my succesor, and in the case of my unfortuanate death due to science related reasons, contact her!"
+[16:08:04] Marc 'Watcher 1' Temple: /adminspawnmenu
+[16:08:35] Marc 'Watcher 1' Temple: /adminspawnmenu
+[16:08:37] Bett Benneck: //or it's like a note like
+[16:08:52] Bett Benneck: //"if you're reading this they found a cure, i can't wait to see you again" Yadda yadda
+[16:08:59] Marc 'Watcher 1' Temple: // Yeah.
+[16:08:59] Marc 'Watcher 1' Temple: /adminspawnmenu
+[16:09:05] Bett Benneck: //but also they poured her into a computer postmortem
+[16:09:10] Bett Benneck: //after cave's death that is
+[16:09:36] Marc 'Watcher 1' Temple: // True. If we REALLY wanted to get FUCKED UP, he could've faked her death to inspire her to go through with Glados
+[16:09:42] Marc 'Watcher 1' Temple: // *his death
+[16:09:44] Marc 'Watcher 1' Temple: /adminspawnmenu
+[16:10:08] Bett Benneck: //i don't think cave is that manipulative
+[16:10:13] Bett Benneck: //he's a bad person
+[16:10:15] Bett Benneck: //he's a maniac
+[16:10:19] Bett Benneck: //but i don't think he's manipulative like that
+[16:10:33] Marc 'Watcher 1' Temple: // Yeah. But just a thought that crossed my mind
+[16:10:51] Bett Benneck: //a cool thought for sure
+[16:11:22] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/props_junk/wood_crate002a.mdl
+[16:11:29] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/props_junk/wood_crate002a.mdl
+[16:11:43] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/props_junk/wood_crate001a_damaged.mdl
+[16:11:49] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/props_junk/wood_crate002a.mdl
+[16:11:53] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/props_junk/wood_pallet001a.mdl
+[16:11:58] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/props_junk/wood_pallet001a.mdl
+[16:12:03] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/props_junk/wood_pallet001a.mdl
+[16:12:08] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> used the tool permaprops on models/props_junk/wood_pallet001a.mdl
+[16:12:09] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> used the tool permaprops on models/props_junk/wood_pallet001a.mdl
+[16:12:09] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> used the tool permaprops on models/props_junk/wood_pallet001a.mdl
+[16:12:10] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> used the tool permaprops on models/props_junk/wood_crate002a.mdl
+[16:12:10] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> used the tool permaprops on models/props_junk/wood_crate001a_damaged.mdl
+[16:12:11] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> used the tool permaprops on models/props_junk/wood_crate002a.mdl
+[16:12:11] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> used the tool permaprops on models/props_junk/wood_crate002a.mdl
+[16:12:20] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/gibs/wood_gib01a.mdl
+[16:12:30] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/gibs/wood_gib01b.mdl
+[16:12:32] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/gibs/wood_gib01d.mdl
+[16:12:35] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/gibs/wood_gib01c.mdl
+[16:12:37] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/gibs/wood_gib01e.mdl
+[16:12:44] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/gibs/wood_gib01e.mdl
+[16:12:48] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/gibs/wood_gib01d.mdl
+[16:13:03] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> used the tool permaprops on models/gibs/wood_gib01a.mdl
+[16:13:04] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> used the tool permaprops on models/gibs/wood_gib01d.mdl
+[16:13:04] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> used the tool permaprops on models/gibs/wood_gib01d.mdl
+[16:13:05] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> used the tool permaprops on maps/rp_scp_county_v3.bsp
+[16:13:06] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> used the tool permaprops on models/gibs/wood_gib01e.mdl
+[16:13:07] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> used the tool permaprops on models/gibs/wood_gib01e.mdl
+[16:13:08] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> used the tool permaprops on models/gibs/wood_gib01c.mdl
+[16:13:09] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> used the tool permaprops on models/gibs/wood_gib01b.mdl
+[16:13:24] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/props_lab/monitor01a.mdl
+[16:13:26] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/props_lab/monitor01a.mdl
+[16:13:27] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/props_lab/monitor01a.mdl
+[16:13:42] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> used the tool permaprops on models/props_lab/monitor01a.mdl
+[16:13:43] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> used the tool permaprops on models/props_lab/monitor01a.mdl
+[16:13:43] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> used the tool permaprops on models/props_lab/monitor01a.mdl
+[16:13:47] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/props_lab/monitor01b.mdl
+[16:13:47] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/props_lab/monitor01b.mdl
+[16:13:49] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/props_lab/monitor02.mdl
+[16:13:50] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/props_lab/monitor02.mdl
+[16:13:51] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/props_lab/monitor02.mdl
+[16:13:52] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/props_lab/monitor02.mdl
+[16:14:12] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> used the tool permaprops on models/props_lab/monitor02.mdl
+[16:14:12] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> used the tool permaprops on models/props_lab/monitor02.mdl
+[16:14:13] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> used the tool permaprops on models/props_lab/monitor02.mdl
+[16:14:13] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> used the tool permaprops on models/props_lab/monitor02.mdl
+[16:14:15] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> used the tool permaprops on maps/rp_scp_county_v3.bsp
+[16:16:10] Marc 'Watcher 1' Temple: // What is the pack with the turrets?
+[16:16:21] Marc 'Watcher 1' Temple: // There's a armory in the map. I want to place deactivated turrets in it
+[16:17:13] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/props/turret_01.mdl
+[16:17:16] Marc 'Watcher 1' Temple: // found em
+[16:17:29] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/props/turret_01.mdl
+[16:17:30] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/props/turret_01.mdl
+[16:17:31] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/props/turret_01.mdl
+[16:17:32] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/props/turret_01.mdl
+[16:17:35] Bett Benneck: //sorry, here
+[16:17:40] Bett Benneck: //doing teaser shit
+[16:17:43] Marc 'Watcher 1' Temple: // Nice
+[16:18:37] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> used the tool permaprops on models/props/turret_01.mdl
+[16:18:37] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> used the tool permaprops on models/props/turret_01.mdl
+[16:18:38] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> used the tool permaprops on models/props/turret_01.mdl
+[16:18:39] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> used the tool permaprops on models/props/turret_01.mdl
+[16:18:39] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> used the tool permaprops on models/props/turret_01.mdl
+[16:18:42] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/npcs/turret/turret_debris_sml.mdl
+[16:18:47] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/npcs/turret/turret_debris_lrg.mdl
+[16:18:58] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/npcs/turret/turretwife.mdl
+[16:19:01] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/npcs/turret/turret_boxed.mdl
+[16:19:06] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/npcs/turret/turret_debris_med.mdl
+[16:19:11] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> used the tool permaprops on models/npcs/turret/turret_debris_sml.mdl
+[16:19:12] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> used the tool permaprops on models/npcs/turret/turret_debris_med.mdl
+[16:19:13] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> used the tool permaprops on models/npcs/turret/turret_debris_lrg.mdl
+[16:19:21] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/npcs/turret/turret_debris_sml.mdl
+[16:19:53] Marc 'Watcher 1' Temple: // bruh this fucking gas station
+[16:21:07] Marc 'Watcher 1' Temple: // Btw. might wanna lock the door near the elevator
+[16:21:14] Marc 'Watcher 1' Temple: // so they can see cool ass Aperture symbol
+[16:21:41] Marc 'Watcher 1' Temple: // Since there is a stairwell that leads into the building without the elevator
+[16:22:15] Marc 'Watcher 1' Temple: // Honestly, I think the secret bunker is gucci. We just gotta do Cave's room
+[16:23:02] Bett Benneck: //i inda did cave's room
+[16:23:27] Bett Benneck: //oh shit i found class d storage
+[16:23:29] Marc 'Watcher 1' Temple: // Alright nice
+[16:23:36] Marc 'Watcher 1' Temple: // OH YEAH
+[16:23:41] Marc 'Watcher 1' Temple: // PILLS UNDER BED
+[16:23:41] Bett Benneck: //server room
+[16:23:42] Marc 'Watcher 1' Temple: /adminspawnmenu
+[16:23:50] Bett Benneck: ///interview/interrogaiton room
+[16:24:21] Marc 'Watcher 1' Temple: // tfw not too terrified of putting too much items because if rebels get ahold of these, then there's a big problem with the server already
+[16:24:24] Marc 'Watcher 1' Temple: /adminspawnmenu
+[16:24:35] Bett Benneck: //considering its an OTA only event that would make sense
+[16:24:40] Marc 'Watcher 1' Temple: // Yeah
+[16:24:40] Marc 'Watcher 1' Temple: /adminspawnmenu
+[16:25:40] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/items/crafting_metal/resin_puck01.mdl
+[16:26:00] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/hlvr/combine_hazardprops/combinehazardprops_trashbag.mdl
+[16:26:07] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> spawned model models/hlvr/distillery_gunk/distillerygunk_gunk.mdl
+[16:26:31] Marc 'Watcher 1' Temple: // tfw shit corner right next to toilet
+[16:27:13] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> used the tool permaprops on models/hlvr/distillery_gunk/distillerygunk_gunk.mdl
+[16:27:23] Marc 'Watcher 1' Temple: /adminspawnmenu
+[16:27:54] Marc 'Watcher 1' Temple: // Idea. They fed the employees melons because melons "cut down costs" on water AND food
+[16:28:14] Marc 'Watcher 1' Temple: // even though that makes no fucking sense
+[16:28:27] Bett Benneck: that's fucking genius and i love it
+[16:28:33] Bett Benneck: //that's fucking genius and i love it
+[16:28:42] Marc 'Watcher 1' Temple: /adminspawnmenu
+[16:29:00] Marc 'Watcher 1' Temple: // ngl, i just want a excuse  for there to be a shitton of melons in the employee bunk area
+[16:30:25] Marc 'Watcher 1' Temple: // I'm gonna work on some notepads for general employee interactions.
+[16:30:26] Marc 'Watcher 1' Temple: /adminspawnmenu
+[16:32:54] Marc 'Watcher 1' Temple: // awww
+[16:33:09] Marc 'Watcher 1' Temple: // can't scroll using notepad
+[16:33:18] Marc 'Watcher 1' Temple: /adminspawnmenu
+[16:33:25] Marc 'Watcher 1' Temple: /adminspawnmenu
+[16:35:59] Marc 'Watcher 1' Temple: // added in some notepads about whoever works in the cafeteria complaining and thinking about going Black Mesa after this melon shit
+[16:36:35] Bett Benneck: //dropepd thge link
+[16:36:47] Bett Benneck: also nice
+[16:36:51] Bett Benneck: //also nice
+[16:37:02] Marc 'Watcher 1' Temple: // I saw
+[16:37:27] Marc 'Watcher 1' Temple: /adminspawnmenu
+[16:38:25] Marc 'Watcher 1' Temple: /adminspawnmenu
+[16:39:10] Marc 'Watcher 1' Temple: /adminspawnmenu
+[16:41:01] Marc 'Watcher 1' Temple: // Did the base go defunct due to Aperture going defunct?
+[16:41:22] Marc 'Watcher 1' Temple: // Or was there a diff reason?
+[16:41:39] Marc 'Watcher 1' Temple: // Asking for note shit, since I would like to leave a reason why the base is so empty now
+[16:44:53] Dropped "Bett Benneck" from server<STEAM_0:1:53097688>
+[16:44:57] Marc 'Watcher 1' Temple: // oof
+[16:47:14] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> used the tool permaprops on models/props_lab/wallunit_power.mdl
+[16:47:17] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> used the tool permaprops on models/props_lab/tuberack01.mdl
+[16:47:22] Marc 'Watcher 1' Temple<STEAM_0:1:52892973> used the tool permaprops on models/props_lab/surgical_laser.mdl
+[16:48:21] Dropped "Marc 'Watcher 1' Temple" from server<STEAM_0:1:52892973>
+[20:16:25] Client "matt saton" connected.
+[20:19:03] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 158 seconds).
+[20:21:33] matt saton<STEAM_0:1:53097688> changed their name to Ryan Marnett
+[20:31:25] Ryan Marnett<STEAM_0:1:53097688> spawned model models/props_c17/chair02a.mdl
+[20:31:39] Ryan Marnett<STEAM_0:1:53097688> spawned model models/props_c17/chair02a.mdl
+[20:31:48] Ryan Marnett<STEAM_0:1:53097688> used the tool permaprops on models/props_c17/chair02a.mdl
+[20:31:56] Ryan Marnett<STEAM_0:1:53097688> used the tool permaprops on models/props_c17/chair02a.mdl
+[20:32:09] Ryan Marnett<STEAM_0:1:53097688> spawned effect models/props_lab/eyescanner.mdl
+[20:32:10] Ryan Marnett<STEAM_0:1:53097688> spawned model models/props_lab/desklamp01.mdl
+[20:32:41] Ryan Marnett: /adminspawnmenu
+[20:37:02] Ryan Marnett<STEAM_0:1:53097688> spawned NPC npc_turret_floor
+[20:37:13] Ryan Marnett<STEAM_0:1:53097688> spawned NPC npc_turret_floor
+[20:37:26] Ryan Marnett<STEAM_0:1:53097688> spawned NPC npc_turret_floor
+[20:37:47] Ryan Marnett<STEAM_0:1:53097688> spawned NPC npc_turret_floor
+[20:37:52] Ryan Marnett<STEAM_0:1:53097688> spawned NPC npc_turret_floor
+[20:37:55] Ryan Marnett<STEAM_0:1:53097688> spawned NPC npc_turret_floor
+[20:37:58] Ryan Marnett<STEAM_0:1:53097688> spawned NPC npc_turret_floor
+[20:38:01] Ryan Marnett<STEAM_0:1:53097688> spawned NPC npc_turret_floor
+[20:38:03] Ryan Marnett<STEAM_0:1:53097688> spawned NPC npc_turret_floor
+[20:38:04] Ryan Marnett<STEAM_0:1:53097688> spawned NPC npc_turret_floor
+[20:38:25] Ryan Marnett<STEAM_0:1:53097688> spawned NPC npc_turret_floor
+[20:39:34] Ryan Marnett<STEAM_0:1:53097688> spawned NPC npc_turret_floor
+[20:39:37] Ryan Marnett<STEAM_0:1:53097688> spawned NPC npc_turret_floor
+[20:39:39] Ryan Marnett<STEAM_0:1:53097688> spawned NPC npc_turret_floor
+[20:39:42] Ryan Marnett<STEAM_0:1:53097688> spawned NPC npc_turret_floor
+[20:39:47] Ryan Marnett<STEAM_0:1:53097688> spawned NPC npc_turret_floor
+[20:40:06] Ryan Marnett<STEAM_0:1:53097688> used the tool permaprops on models/npcs/turret/turret.mdl
+[20:40:07] Ryan Marnett<STEAM_0:1:53097688> used the tool permaprops on models/npcs/turret/turret.mdl
+[20:40:44] Ryan Marnett<STEAM_0:1:53097688> used the tool remover on models/npcs/turret/turret_skeleton.mdl
+[20:40:44] Ryan Marnett<STEAM_0:1:53097688> used the tool remover on models/npcs/turret/turret_backwards.mdl
+[20:40:45] Ryan Marnett<STEAM_0:1:53097688> used the tool remover on models/npcs/turret/turret.mdl
+[20:41:40] Ryan Marnett<STEAM_0:1:53097688> spawned ragdoll models/police.mdl
+[21:15:42] Ryan Marnett suicided!
+
+
+
+[21:23:44] New map: rp_scp_county_v3
+[21:25:37] Client "matt saton" connected.
+[21:26:49] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 72 seconds).
+[21:28:31] matt saton<STEAM_0:1:53097688> changed their name to Ryan Marnett
+[21:29:26] Ryan Marnett<STEAM_0:1:53097688> used the tool nocollideeverything on *39
+[21:29:37] Ryan Marnett<STEAM_0:1:53097688> used the tool permaprops on *39
+[21:29:42] Ryan Marnett<STEAM_0:1:53097688> used the tool nocollideeverything on *39
+[21:29:43] Ryan Marnett<STEAM_0:1:53097688> used the tool nocollideeverything on *39
+[21:29:43] Ryan Marnett<STEAM_0:1:53097688> used the tool nocollideeverything on *39
+[21:29:43] Ryan Marnett<STEAM_0:1:53097688> used the tool nocollideeverything on *39
+[21:30:05] Ryan Marnett<STEAM_0:1:53097688> spawned NPC npc_combine_s
+[21:30:07] Ryan Marnett<STEAM_0:1:53097688> spawned NPC npc_combine_s
+[21:30:11] Ryan Marnett<STEAM_0:1:53097688> spawned NPC npc_citizen
+[21:30:12] Ryan Marnett<STEAM_0:1:53097688> spawned NPC npc_citizen
+[21:30:13] Ryan Marnett<STEAM_0:1:53097688> spawned NPC npc_citizen
+[21:30:15] Ryan Marnett<STEAM_0:1:53097688> spawned NPC npc_combine_s
+[21:30:20] Ryan Marnett<STEAM_0:1:53097688> spawned NPC npc_citizen
+[21:30:24] Ryan Marnett<STEAM_0:1:53097688> spawned NPC npc_combine_s
+[21:30:26] Ryan Marnett<STEAM_0:1:53097688> spawned NPC npc_combine_s
+[21:30:28] Ryan Marnett<STEAM_0:1:53097688> spawned NPC npc_combine_s
+[21:30:34] Ryan Marnett<STEAM_0:1:53097688> spawned NPC npc_combine_s
+[21:30:38] Ryan Marnett<STEAM_0:1:53097688> used the tool colour on models/humans/group03/bot_combine.mdl
+[21:30:39] Ryan Marnett<STEAM_0:1:53097688> used the tool colour on models/humans/group03/bot_combine.mdl
+[21:30:41] Ryan Marnett<STEAM_0:1:53097688> used the tool colour on maps/rp_scp_county_v3.bsp
+[21:30:42] Ryan Marnett<STEAM_0:1:53097688> used the tool colour on maps/rp_scp_county_v3.bsp
+[21:30:42] Ryan Marnett<STEAM_0:1:53097688> used the tool colour on models/humans/group03/bot_combine.mdl
+[21:30:43] Ryan Marnett<STEAM_0:1:53097688> used the tool colour on models/humans/group03/bot_combine.mdl
+[22:16:16] Client "Doughnut" connected.
+[22:17:55] Client "Doughnut" spawned in server <STEAM_0:1:127409364> (took 99 seconds).
+[22:19:48] Doughnut<STEAM_0:1:127409364> changed their name to CCA.C14-JUDGE.i4.22767
+[22:20:29] CCA.C14-JUDGE.i4.22767: // cheems
+[22:20:35] Ryan Marnett: //cheemsburbger
+[22:20:40] CCA.C14-JUDGE.i4.22767: // sooo many errors!
+[22:22:35] Ryan Marnett: //where at
+[22:22:46] CCA.C14-JUDGE.i4.22767: // tp
+[22:23:06] Ryan Marnett: this thing here?
+[22:23:15] Ryan Marnett: //did you download the content
+[22:23:19] CCA.C14-JUDGE.i4.22767: // ye
+[22:23:24] Ryan Marnett: //did you restart your game
+[22:23:27] CCA.C14-JUDGE.i4.22767: // ye
+[22:23:38] Ryan Marnett: //is the content enabled in your addons
+[22:23:52] CCA.C14-JUDGE.i4.22767: // lemme check
+[22:24:30] CCA.C14-JUDGE.i4.22767: // all enabled
+[22:24:36] Ryan Marnett: //can you send me a screenshot
+[22:29:30] CCA.C14-JUDGE.i4.22767: // imma just head out and vibe in a call with a muy close frondo
+[22:29:36] Ryan Marnett: //ALRIGHT
+[22:29:37] CCA.C14-JUDGE.i4.22767: // gn chieften
+[22:29:38] Ryan Marnett: //alrigt
+[22:29:40] Ryan Marnett: //gn
+[22:29:41] Dropped "CCA.C14-JUDGE.i4.22767" from server<STEAM_0:1:127409364>
+[23:06:07] Ryan Marnett: /charsetthirst ryan 100
+[23:19:43] Ryan Marnett<STEAM_0:1:53097688> spawned/gave himself swep weapon_357
+[23:19:44] Ryan Marnett: /toggleraise
+[23:19:46] Ryan Marnett<STEAM_0:1:53097688> spawned/gave himself swep weapon_pistol
+[23:19:47] Ryan Marnett: /toggleraise
+[23:19:49] Ryan Marnett<STEAM_0:1:53097688> spawned/gave himself swep weapon_crowbar
+[23:19:49] Ryan Marnett: /toggleraise
+[23:19:50] Ryan Marnett<STEAM_0:1:53097688> spawned/gave himself swep weapon_shotgun
+[23:19:51] Ryan Marnett: /toggleraise
+[23:19:59] Ryan Marnett<STEAM_0:1:53097688> spawned/gave himself swep weapon_smg1
+[23:19:59] Ryan Marnett: /toggleraise
+[23:20:02] Ryan Marnett<STEAM_0:1:53097688> spawned/gave himself swep weapon_stunstick
+[23:20:03] Ryan Marnett: /toggleraise
+[23:20:30] Ryan Marnett cleared decals
+[23:20:30] Ryan Marnett: !cleardecals
+[23:21:34] Ryan Marnett cleared decals
+[23:21:34] Ryan Marnett: !cleardecals
+[23:21:44] Ryan Marnett<STEAM_0:1:53097688> spawned/gave himself swep weapon_rpg
+[23:21:45] Ryan Marnett: /toggleraise
+[23:21:49] Ryan Marnett<STEAM_0:1:53097688> spawned/gave himself swep weapon_shotgun
+[23:21:50] Ryan Marnett: /toggleraise
+[23:21:59] Ryan Marnett<STEAM_0:1:53097688> spawned/gave himself swep weapon_pistol
+[23:22:00] Ryan Marnett<STEAM_0:1:53097688> spawned/gave himself swep weapon_crowbar
+[23:22:00] Ryan Marnett<STEAM_0:1:53097688> spawned/gave himself swep weapon_crossbow
+[23:22:00] Ryan Marnett: /toggleraise
+[23:22:30] Ryan Marnett cleared decals
+[23:22:30] Ryan Marnett: !cleardecals
+[23:23:16] Ryan Marnett cleared decals
+[23:23:16] Ryan Marnett: !cleardecals
+<Logging continued in "data/ulx_logs/11-16-20.txt">

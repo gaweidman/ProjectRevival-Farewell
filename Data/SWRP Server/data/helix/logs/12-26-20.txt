@@ -1,0 +1,514 @@
+[11:34:45]	matt saton has connected.
+[11:37:13]	matt saton loaded the character 'Lieutenant Ezyn Linmer'
+[11:37:15]	Lieutenant Ezyn Linmer entered observer.
+[11:38:44]	Lieutenant Ezyn Linmer used command '/SelectReader'.
+[11:51:06]	Lieutenant Ezyn Linmer has spawned a 'Entity [63][lunasflightschool_eta5]'.
+[11:51:08]	Lieutenant Ezyn Linmer exited observer at their location.
+[11:52:00]	Lieutenant Ezyn Linmer entered observer.
+[11:52:06]	Lieutenant Ezyn Linmer has spawned a 'Entity [63][lunasflightschool_wwing]'.
+[11:52:07]	Lieutenant Ezyn Linmer exited observer at their location.
+[11:52:41]	Lieutenant Ezyn Linmer entered observer.
+[11:52:47]	Lieutenant Ezyn Linmer has spawned a 'Entity [63][lunasflightschool_wwing]'.
+[11:52:48]	Lieutenant Ezyn Linmer exited observer at their location.
+[11:52:59]	Lieutenant Ezyn Linmer entered observer.
+[11:53:11]	Lieutenant Ezyn Linmer has spawned a 'Entity [63][lunasflightschool_skipray]'.
+[11:53:15]	Lieutenant Ezyn Linmer has spawned a 'Entity [63][tkaro_lfs_tx225]'.
+[11:53:17]	Lieutenant Ezyn Linmer exited observer at their location.
+[11:53:46]	Lieutenant Ezyn Linmer has taken 45 damage from worldspawn.
+[11:53:46]	Lieutenant Ezyn Linmer entered observer.
+[11:54:02]	Lieutenant Ezyn Linmer has spawned a 'Entity [63][obj_vj_flareround]'.
+[11:54:09]	Lieutenant Ezyn Linmer exited observer at their location.
+[11:54:10]	Lieutenant Ezyn Linmer used command '/ToggleRaise'.
+[11:54:17]	Lieutenant Ezyn Linmer entered observer.
+[11:54:45]	Lieutenant Ezyn Linmer has spawned a 'Entity [63][sent_vj_ply_spawnpoint]'.
+[11:54:46]	Lieutenant Ezyn Linmer exited observer at their location.
+[11:54:49]	Lieutenant Ezyn Linmer has spawned a 'Entity [963][sent_vj_fireplace]'.
+[11:54:49]	Lieutenant Ezyn Linmer used command '/ToggleRaise'.
+[11:54:49]	Lieutenant Ezyn Linmer entered observer.
+[11:54:50]	Lieutenant Ezyn Linmer exited observer at their location.
+[11:54:52]	Lieutenant Ezyn Linmer has spawned a 'Entity [63][obj_vj_grenade]'.
+[11:54:55]	Lieutenant Ezyn Linmer has taken 80 damage from obj_vj_grenade.
+[11:54:56]	Lieutenant Ezyn Linmer has spawned a 'Entity [63][obj_vj_grenade]'.
+[11:55:01]	Lieutenant Ezyn Linmer has spawned a 'Entity [63][npc_grenade_frag]'.
+[11:55:03]	Lieutenant Ezyn Linmer has taken 60 damage from Lieutenant Ezyn Linmer.
+[11:55:03]	Lieutenant Ezyn Linmer has killed Lieutenant Ezyn Linmer.
+[11:55:10]	Lieutenant Ezyn Linmer has spawned a 'Entity [965][sent_vj_adminhealthkit]'.
+[11:55:13]	Lieutenant Ezyn Linmer used command '/ToggleRaise'.
+[11:55:16]	Lieutenant Ezyn Linmer has spawned a 'Entity [965][sent_vj_adminhealthkit]'.
+[11:55:17]	Lieutenant Ezyn Linmer has spawned a 'Entity [973][sent_vj_adminhealthkit]'.
+[11:55:17]	Lieutenant Ezyn Linmer has spawned a 'Entity [974][sent_vj_adminhealthkit]'.
+[11:55:18]	Lieutenant Ezyn Linmer has spawned a 'Entity [965][sent_vj_adminhealthkit]'.
+[11:55:18]	Lieutenant Ezyn Linmer has spawned a 'Entity [976][sent_vj_adminhealthkit]'.
+[11:55:18]	Lieutenant Ezyn Linmer has spawned a 'Entity [977][sent_vj_adminhealthkit]'.
+[11:55:18]	Lieutenant Ezyn Linmer has spawned a 'Entity [978][sent_vj_adminhealthkit]'.
+[11:55:19]	Lieutenant Ezyn Linmer has spawned a 'Entity [965][sent_vj_adminhealthkit]'.
+[11:55:19]	Lieutenant Ezyn Linmer has spawned a 'Entity [973][sent_vj_adminhealthkit]'.
+[11:55:20]	Lieutenant Ezyn Linmer has spawned a 'Entity [974][sent_vj_adminhealthkit]'.
+[11:55:20]	Lieutenant Ezyn Linmer has spawned a 'Entity [976][sent_vj_adminhealthkit]'.
+[11:55:20]	Lieutenant Ezyn Linmer has spawned a 'Entity [977][sent_vj_adminhealthkit]'.
+[11:55:22]	Lieutenant Ezyn Linmer has spawned a 'Entity [965][sent_vj_adminhealthkit]'.
+[11:55:23]	Lieutenant Ezyn Linmer has spawned a 'Entity [973][sent_vj_adminhealthkit]'.
+[11:55:23]	Lieutenant Ezyn Linmer has spawned a 'Entity [974][sent_vj_adminhealthkit]'.
+[11:55:23]	Lieutenant Ezyn Linmer has spawned a 'Entity [976][sent_vj_adminhealthkit]'.
+[11:55:23]	Lieutenant Ezyn Linmer has spawned a 'Entity [965][sent_vj_adminhealthkit]'.
+[11:55:23]	Lieutenant Ezyn Linmer has spawned a 'Entity [977][sent_vj_adminhealthkit]'.
+[11:55:23]	Lieutenant Ezyn Linmer has spawned a 'Entity [978][sent_vj_adminhealthkit]'.
+[11:55:24]	Lieutenant Ezyn Linmer has spawned a 'Entity [979][sent_vj_adminhealthkit]'.
+[11:55:24]	Lieutenant Ezyn Linmer has spawned a 'Entity [980][sent_vj_adminhealthkit]'.
+[11:55:24]	Lieutenant Ezyn Linmer has spawned a 'Entity [973][sent_vj_adminhealthkit]'.
+[11:55:24]	Lieutenant Ezyn Linmer has spawned a 'Entity [974][sent_vj_adminhealthkit]'.
+[11:55:24]	Lieutenant Ezyn Linmer has spawned a 'Entity [965][sent_vj_adminhealthkit]'.
+[11:55:24]	Lieutenant Ezyn Linmer has spawned a 'Entity [976][sent_vj_adminhealthkit]'.
+[11:55:25]	Lieutenant Ezyn Linmer has spawned a 'Entity [977][sent_vj_adminhealthkit]'.
+[11:55:25]	Lieutenant Ezyn Linmer has spawned a 'Entity [979][sent_vj_adminhealthkit]'.
+[11:55:25]	Lieutenant Ezyn Linmer has spawned a 'Entity [980][sent_vj_adminhealthkit]'.
+[11:55:25]	Lieutenant Ezyn Linmer has spawned a 'Entity [973][sent_vj_adminhealthkit]'.
+[11:55:25]	Lieutenant Ezyn Linmer has spawned a 'Entity [974][sent_vj_adminhealthkit]'.
+[11:55:26]	Lieutenant Ezyn Linmer has spawned a 'Entity [965][sent_vj_adminhealthkit]'.
+[11:55:26]	Lieutenant Ezyn Linmer has spawned a 'Entity [976][sent_vj_adminhealthkit]'.
+[11:55:26]	Lieutenant Ezyn Linmer has spawned a 'Entity [977][sent_vj_adminhealthkit]'.
+[11:55:26]	Lieutenant Ezyn Linmer has spawned a 'Entity [981][sent_vj_adminhealthkit]'.
+[11:55:26]	Lieutenant Ezyn Linmer has spawned a 'Entity [979][sent_vj_adminhealthkit]'.
+[11:55:26]	Lieutenant Ezyn Linmer has spawned a 'Entity [980][sent_vj_adminhealthkit]'.
+[11:55:27]	Lieutenant Ezyn Linmer has spawned a 'Entity [973][sent_vj_adminhealthkit]'.
+[11:55:27]	Lieutenant Ezyn Linmer has spawned a 'Entity [974][sent_vj_adminhealthkit]'.
+[11:55:27]	Lieutenant Ezyn Linmer has spawned a 'Entity [976][sent_vj_adminhealthkit]'.
+[11:55:27]	Lieutenant Ezyn Linmer has spawned a 'Entity [977][sent_vj_adminhealthkit]'.
+[11:55:27]	Lieutenant Ezyn Linmer has spawned a 'Entity [981][sent_vj_adminhealthkit]'.
+[11:55:27]	Lieutenant Ezyn Linmer has spawned a 'Entity [979][sent_vj_adminhealthkit]'.
+[11:55:28]	Lieutenant Ezyn Linmer has spawned a 'Entity [980][sent_vj_adminhealthkit]'.
+[11:55:28]	Lieutenant Ezyn Linmer has spawned a 'Entity [973][sent_vj_adminhealthkit]'.
+[11:55:28]	Lieutenant Ezyn Linmer has spawned a 'Entity [974][sent_vj_adminhealthkit]'.
+[11:55:28]	Lieutenant Ezyn Linmer has spawned a 'Entity [982][sent_vj_adminhealthkit]'.
+[11:55:28]	Lieutenant Ezyn Linmer has spawned a 'Entity [976][sent_vj_adminhealthkit]'.
+[11:55:29]	Lieutenant Ezyn Linmer has spawned a 'Entity [981][sent_vj_adminhealthkit]'.
+[11:55:29]	Lieutenant Ezyn Linmer has spawned a 'Entity [979][sent_vj_adminhealthkit]'.
+[11:55:29]	Lieutenant Ezyn Linmer has spawned a 'Entity [980][sent_vj_adminhealthkit]'.
+[11:55:29]	Lieutenant Ezyn Linmer has spawned a 'Entity [973][sent_vj_adminhealthkit]'.
+[11:55:31]	Lieutenant Ezyn Linmer has spawned a 'Entity [965][sent_vj_board]'.
+[11:55:37]	Lieutenant Ezyn Linmer used command '/ToggleRaise'.
+[11:55:44]	Lieutenant Ezyn Linmer has spawned a 'Entity [965][obj_vj_plasmanade]'.
+[11:55:47]	Lieutenant Ezyn Linmer used command '/ToggleRaise'.
+[11:55:48]	Lieutenant Ezyn Linmer has taken 150 damage from obj_vj_plasmanade.
+[11:55:49]	Lieutenant Ezyn Linmer has spawned a 'Entity [965][obj_vj_spikenade]'.
+[11:55:50]	Lieutenant Ezyn Linmer has taken 100 damage from obj_vj_spikenade.
+[11:55:52]	Lieutenant Ezyn Linmer has spawned a 'Entity [965][obj_vj_eatdrep]'.
+[11:55:56]	Lieutenant Ezyn Linmer has spawned a 'Entity [965][obj_vj_eatdcis]'.
+[11:55:58]	Lieutenant Ezyn Linmer has spawned a 'Entity [965][obj_vj_eatdcis]'.
+[11:56:02]	Lieutenant Ezyn Linmer entered observer.
+[11:56:06]	Lieutenant Ezyn Linmer exited observer at their location.
+[11:56:06]	Lieutenant Ezyn Linmer has spawned a 'Entity [965][obj_vj_eatdrep]'.
+[11:56:07]	Lieutenant Ezyn Linmer entered observer.
+[11:56:10]	Lieutenant Ezyn Linmer exited observer at their location.
+[11:56:13]	Lieutenant Ezyn Linmer has spawned a 'Entity [965][obj_vj_plasmanade]'.
+[11:56:22]	Lieutenant Ezyn Linmer has spawned a 'Entity [965][obj_vj_spikenade]'.
+[11:56:26]	Lieutenant Ezyn Linmer entered observer.
+[11:56:27]	Lieutenant Ezyn Linmer exited observer at their location.
+[11:56:27]	Lieutenant Ezyn Linmer entered observer.
+[11:56:31]	Lieutenant Ezyn Linmer has spawned a 'Entity [965][prop_vj_flag]'.
+[11:56:36]	Lieutenant Ezyn Linmer has spawned a 'Entity [974][sent_vj_board]'.
+[11:56:37]	Lieutenant Ezyn Linmer exited observer at their location.
+[11:56:39]	Lieutenant Ezyn Linmer has spawned a 'Entity [965][sent_vj_adminhealthkit]'.
+[11:56:43]	Lieutenant Ezyn Linmer has spawned a 'Entity [965][ix_reader]'.
+[11:56:44]	Lieutenant Ezyn Linmer has spawned a 'Entity [974][ix_idprinter]'.
+[11:56:46]	Lieutenant Ezyn Linmer has spawned a 'Entity [965][ix_idmanager]'.
+[11:56:50]	Lieutenant Ezyn Linmer has spawned a 'Entity [965][aura_ai_turret_dc17m_sn]'.
+[11:56:54]	Lieutenant Ezyn Linmer has spawned a 'Vehicle [965][prop_vehicle_prisoner_pod]'.
+[11:56:57]	Lieutenant Ezyn Linmer has spawned a 'Vehicle [974][prop_vehicle_prisoner_pod]'.
+[11:57:07]	Lieutenant Ezyn Linmer has spawned a 'NPC [965][npc_vjks_blackholeheavyf]'.
+[11:57:10]	Lieutenant Ezyn Linmer has spawned a 'NPC [965][npc_vjks_blackholeheavyf]'.
+[11:57:16]	Lieutenant Ezyn Linmer has spawned a 'NPC [965][npc_vjks_blackholetrpf]'.
+[11:57:17]	Lieutenant Ezyn Linmer has spawned a 'NPC [974][npc_vjks_strooper_jumpf_shadow]'.
+[11:57:19]	Lieutenant Ezyn Linmer has spawned a 'NPC [965][npc_vjks_stroyalf]'.
+[12:07:48]	FB|| light ROOM has connected.
+[12:08:18]	FB|| light ROOM loaded the character 'Sergeant RT-9824'
+[12:08:22]	[OOC] Sergeant RT-9824: yo
+[12:13:05]	Lieutenant Ezyn Linmer has taken 23 damage from Sergeant RT-9824.
+[12:13:05]	Lieutenant Ezyn Linmer has taken 30 damage from Sergeant RT-9824.
+[12:13:06]	Lieutenant Ezyn Linmer has taken 3 damage from Sergeant RT-9824.
+[12:13:06]	Lieutenant Ezyn Linmer has taken 24 damage from Sergeant RT-9824.
+[12:13:08]	Lieutenant Ezyn Linmer has taken 173 damage from Sergeant RT-9824.
+[12:13:09]	Lieutenant Ezyn Linmer has taken 30 damage from Sergeant RT-9824.
+[12:13:09]	Lieutenant Ezyn Linmer has taken 189 damage from Sergeant RT-9824.
+[12:13:10]	Lieutenant Ezyn Linmer has taken 31 damage from Sergeant RT-9824.
+[12:13:10]	Lieutenant Ezyn Linmer has taken 25 damage from Sergeant RT-9824.
+[12:13:11]	Lieutenant Ezyn Linmer has taken 175 damage from Sergeant RT-9824.
+[12:13:11]	Lieutenant Ezyn Linmer has taken 3 damage from Sergeant RT-9824.
+[12:13:12]	Lieutenant Ezyn Linmer has taken 4 damage from Sergeant RT-9824.
+[12:13:12]	Lieutenant Ezyn Linmer has taken 3 damage from Sergeant RT-9824.
+[12:13:13]	Lieutenant Ezyn Linmer has taken 176 damage from Sergeant RT-9824.
+[12:13:13]	Lieutenant Ezyn Linmer has taken 4 damage from Sergeant RT-9824.
+[12:13:14]	Lieutenant Ezyn Linmer has taken 3 damage from Sergeant RT-9824.
+[12:13:14]	Lieutenant Ezyn Linmer has taken 3 damage from Sergeant RT-9824.
+[12:13:15]	Lieutenant Ezyn Linmer has taken 185 damage from Sergeant RT-9824.
+[12:13:15]	Lieutenant Ezyn Linmer has taken 4 damage from Sergeant RT-9824.
+[12:13:18]	Lieutenant Ezyn Linmer has taken 178 damage from Sergeant RT-9824.
+[12:13:18]	Lieutenant Ezyn Linmer has taken 3 damage from Sergeant RT-9824.
+[12:13:20]	Lieutenant Ezyn Linmer has taken 23 damage from Sergeant RT-9824.
+[12:13:20]	Lieutenant Ezyn Linmer has taken 23 damage from Sergeant RT-9824.
+[12:13:20]	Lieutenant Ezyn Linmer has taken 182 damage from Sergeant RT-9824.
+[12:13:21]	Lieutenant Ezyn Linmer has taken 4 damage from Sergeant RT-9824.
+[12:13:26]	Lieutenant Ezyn Linmer has taken 29 damage from Sergeant RT-9824.
+[12:13:26]	Lieutenant Ezyn Linmer has taken 3 damage from Sergeant RT-9824.
+[12:13:26]	Lieutenant Ezyn Linmer has taken 29 damage from Sergeant RT-9824.
+[12:13:27]	Lieutenant Ezyn Linmer has taken 31 damage from Sergeant RT-9824.
+[12:13:27]	Lieutenant Ezyn Linmer has taken 31 damage from Sergeant RT-9824.
+[12:13:27]	Lieutenant Ezyn Linmer has taken 3 damage from Sergeant RT-9824.
+[12:13:28]	Lieutenant Ezyn Linmer has taken 181 damage from Sergeant RT-9824.
+[12:13:28]	Lieutenant Ezyn Linmer has taken 4 damage from Sergeant RT-9824.
+[12:13:29]	Lieutenant Ezyn Linmer has taken 4 damage from Sergeant RT-9824.
+[12:13:29]	Lieutenant Ezyn Linmer has taken 29 damage from Sergeant RT-9824.
+[12:13:29]	Lieutenant Ezyn Linmer has taken 30 damage from Sergeant RT-9824.
+[12:13:30]	Lieutenant Ezyn Linmer has taken 186 damage from Sergeant RT-9824.
+[12:16:05]	FB|| light ROOM (STEAM_0:1:17219621) has disconnected.
+[12:34:55]	✙HealthAngel✙ has connected.
+[12:36:40]	✙HealthAngel✙ (STEAM_0:0:76323233) has disconnected.
+[12:54:52]	Lieutenant Ezyn Linmer entered observer.
+[12:56:28]	Lieutenant Ezyn Linmer exited observer at their location.
+[12:56:29]	Lieutenant Ezyn Linmer entered observer.
+[12:56:29]	Lieutenant Ezyn Linmer exited observer at their location.
+[12:56:29]	Lieutenant Ezyn Linmer entered observer.
+[13:00:11]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:00:11]	Lieutenant Ezyn Linmer entered observer.
+[13:00:12]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:00:14]	Lieutenant Ezyn Linmer entered observer.
+[13:00:25]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:00:25]	Lieutenant Ezyn Linmer entered observer.
+[13:00:33]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:00:33]	Lieutenant Ezyn Linmer entered observer.
+[13:00:34]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:00:34]	Lieutenant Ezyn Linmer entered observer.
+[13:01:23]	FB|| light ROOM has connected.
+[13:01:52]	FB|| light ROOM loaded the character 'Sergeant RT-9824'
+[13:02:00]	[OOC] Sergeant RT-9824: Gamer
+[13:02:01]	Sergeant RT-9824 has taken 142 damage from worldspawn.
+[13:02:01]	worldspawn has killed Sergeant RT-9824.
+[13:02:09]	[OOC] Lieutenant Ezyn Linmer: gamerrrr
+[13:02:11]	[OOC] Sergeant RT-9824: that was rude
+[13:02:18]	[OOC] Lieutenant Ezyn Linmer: what was
+[13:02:21]	[OOC] Sergeant RT-9824: Aren't we on Vader's ship?
+[13:02:22]	Sergeant RT-9824 used the 'Armory' vendor.
+[13:02:23]	[OOC] Lieutenant Ezyn Linmer: not yet
+[13:02:25]	Sergeant RT-9824 has gained 0 credits.
+[13:02:25]	Sergeant RT-9824 has gained a 'Tibanna Cartridge' #1145.
+[13:02:25]	Sergeant RT-9824 has gained 0 credits.
+[13:02:25]	Sergeant RT-9824 has gained a 'Tibanna Cartridge' #1146.
+[13:02:26]	Sergeant RT-9824 has gained 0 credits.
+[13:02:26]	Sergeant RT-9824 has gained a 'Tibanna Cartridge' #1147.
+[13:02:26]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:02:27]	Lieutenant Ezyn Linmer entered observer.
+[13:02:27]	Sergeant RT-9824 has gained 0 credits.
+[13:02:27]	Sergeant RT-9824 has gained a 'Tibanna Cartridge' #1148.
+[13:02:28]	Sergeant RT-9824 has gained 0 credits.
+[13:02:28]	Sergeant RT-9824 has gained a 'Tibanna Cartridge' #1149.
+[13:02:41]	[OOC] Sergeant RT-9824: Okay, then I imagine you'll be repropping the map when we do.
+[13:02:44]	Sergeant RT-9824 ran 'Equip' on item 'E-22 Blaster' (#536)
+[13:02:44]	Sergeant RT-9824 ran 'use' on item 'Tibanna Cartridge' (#1145)
+[13:02:45]	Sergeant RT-9824 ran 'use' on item 'Tibanna Cartridge' (#1146)
+[13:02:45]	Sergeant RT-9824 ran 'use' on item 'Tibanna Cartridge' (#1147)
+[13:02:46]	Sergeant RT-9824 ran 'use' on item 'Tibanna Cartridge' (#1148)
+[13:02:46]	Sergeant RT-9824 ran 'use' on item 'Tibanna Cartridge' (#1149)
+[13:03:12]	[OOC] Lieutenant Ezyn Linmer: ;-;
+[13:03:14]	[OOC] Lieutenant Ezyn Linmer: i don't wanna
+[13:03:22]	[OOC] Sergeant RT-9824: But also....be smart and do it.
+[13:03:33]	[OOC] Lieutenant Ezyn Linmer: :(
+[13:03:35]	[OOC] Sergeant RT-9824: by the way, are my bodygroups still fucked?
+[13:03:40]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:04:00]	[OOC] Lieutenant Ezyn Linmer: yes
+[13:04:01]	Lieutenant Ezyn Linmer entered observer.
+[13:04:08]	[OOC] Sergeant RT-9824: Fuck
+[13:04:15]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:04:17]	Lieutenant Ezyn Linmer entered observer.
+[13:04:20]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:04:21]	Lieutenant Ezyn Linmer entered observer.
+[13:04:22]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:04:23]	Lieutenant Ezyn Linmer entered observer.
+[13:04:24]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:04:29]	[OOC] Sergeant RT-9824: Should join VC if you're not busy.
+[13:04:30]	[OOC] Lieutenant Ezyn Linmer: hacve you seen the admin sit room
+[13:04:31]	Lieutenant Ezyn Linmer entered observer.
+[13:04:33]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:04:35]	Lieutenant Ezyn Linmer entered observer.
+[13:04:38]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:04:41]	[OOC] Sergeant RT-9824: nope
+[13:05:18]	[OOC] Lieutenant Ezyn Linmer: my therapist's office is nothing like thi,s fuck
+[13:05:24]	[OOC] Sergeant RT-9824: bruh
+[13:05:25]	Lieutenant Ezyn Linmer has spawned 'models/props_c17/door01_left.mdl'.
+[13:05:30]	[OOC] Lieutenant Ezyn Linmer: this has been here for months now
+[13:05:31]	Lieutenant Ezyn Linmer entered observer.
+[13:05:36]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:05:39]	[OOC] Sergeant RT-9824: why do we have this?
+[13:05:44]	[OOC] Lieutenant Ezyn Linmer: i got obred
+[13:05:46]	[OOC] Lieutenant Ezyn Linmer: months ago
+[13:05:49]	[OOC] Lieutenant Ezyn Linmer: and amde it
+[13:05:49]	[OOC] Sergeant RT-9824: lmao
+[13:05:54]	Lieutenant Ezyn Linmer entered observer.
+[13:05:56]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:06:06]	Lieutenant Ezyn Linmer entered observer.
+[13:06:14]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:06:16]	Lieutenant Ezyn Linmer entered observer.
+[13:06:17]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:06:19]	Lieutenant Ezyn Linmer entered observer.
+[13:06:21]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:06:21]	Lieutenant Ezyn Linmer entered observer.
+[13:06:23]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:06:34]	Lieutenant Ezyn Linmer entered observer.
+[13:06:37]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:06:40]	[OOC] Sergeant RT-9824: I have told Chicken to donate if he wants me to apply for staff.
+[13:06:47]	Lieutenant Ezyn Linmer entered observer.
+[13:06:48]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:06:49]	[OOC] Lieutenant Ezyn Linmer: lmao
+[13:07:08]	[OOC] Lieutenant Ezyn Linmer: FUCK
+[13:07:09]	Lieutenant Ezyn Linmer entered observer.
+[13:07:12]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:07:12]	Lieutenant Ezyn Linmer entered observer.
+[13:07:13]	[OOC] Sergeant RT-9824: nice
+[13:07:21]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:07:25]	Lieutenant Ezyn Linmer entered observer.
+[13:07:26]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:07:26]	Lieutenant Ezyn Linmer entered observer.
+[13:07:27]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:07:35]	Lieutenant Ezyn Linmer entered observer.
+[13:07:36]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:07:36]	Lieutenant Ezyn Linmer entered observer.
+[13:07:39]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:07:41]	Lieutenant Ezyn Linmer entered observer.
+[13:07:44]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:07:44]	Lieutenant Ezyn Linmer entered observer.
+[13:07:44]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:07:45]	Lieutenant Ezyn Linmer entered observer.
+[13:07:46]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:07:48]	Lieutenant Ezyn Linmer entered observer.
+[13:07:49]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:08:09]	Lieutenant Ezyn Linmer entered observer.
+[13:08:12]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:08:13]	Lieutenant Ezyn Linmer entered observer.
+[13:08:13]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:08:14]	Lieutenant Ezyn Linmer entered observer.
+[13:08:15]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:08:19]	[OOC] Sergeant RT-9824: Rebel uniforms are bad change my mind
+[13:08:24]	[OOC] Lieutenant Ezyn Linmer: not as good as imperial
+[13:08:28]	[OOC] Sergeant RT-9824: Truly
+[13:08:30]	Lieutenant Ezyn Linmer entered observer.
+[13:08:31]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:09:44]	Lieutenant Ezyn Linmer has killed Lieutenant Ezyn Linmer.
+[13:09:49]	[OOC] Sergeant RT-9824: lmao
+[13:10:02]	Lieutenant Ezyn Linmer entered observer.
+[13:10:05]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:10:05]	Lieutenant Ezyn Linmer entered observer.
+[13:10:08]	[OOC] Sergeant RT-9824: cringe
+[13:10:09]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:10:13]	Lieutenant Ezyn Linmer entered observer.
+[13:10:18]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:10:18]	Lieutenant Ezyn Linmer entered observer.
+[13:10:21]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:10:21]	Lieutenant Ezyn Linmer entered observer.
+[13:10:21]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:10:22]	Lieutenant Ezyn Linmer entered observer.
+[13:10:23]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:10:26]	[OOC] Sergeant RT-9824: Life day event when?
+[13:10:49]	[OOC] Lieutenant Ezyn Linmer: when ur mom
+[13:10:51]	[OOC] Lieutenant Ezyn Linmer: probs today ngl
+[13:10:51]	Lieutenant Ezyn Linmer entered observer.
+[13:10:57]	[OOC] Lieutenant Ezyn Linmer: maybe around 5
+[13:10:57]	[OOC] Sergeant RT-9824: Neato
+[13:11:06]	[OOC] Sergeant RT-9824: Also Dead Space is fucking spooky
+[13:11:27]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:11:28]	Lieutenant Ezyn Linmer entered observer.
+[13:11:29]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:11:30]	Lieutenant Ezyn Linmer entered observer.
+[13:11:31]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:11:33]	Lieutenant Ezyn Linmer entered observer.
+[13:11:34]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:11:38]	Lieutenant Ezyn Linmer entered observer.
+[13:11:39]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:11:42]	Lieutenant Ezyn Linmer entered observer.
+[13:11:46]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:11:46]	Lieutenant Ezyn Linmer entered observer.
+[13:12:24]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:12:25]	Lieutenant Ezyn Linmer entered observer.
+[13:12:27]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:12:27]	Lieutenant Ezyn Linmer entered observer.
+[13:12:28]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:12:34]	[OOC] Lieutenant Ezyn Linmer: fuck it we're gonna reprop
+[13:12:49]	Lieutenant Ezyn Linmer entered observer.
+[13:12:54]	[OOC] Sergeant RT-9824: now?
+[13:12:56]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:12:57]	Lieutenant Ezyn Linmer entered observer.
+[13:12:57]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:12:58]	[OOC] Lieutenant Ezyn Linmer: well
+[13:12:59]	[OOC] Lieutenant Ezyn Linmer: yes and no
+[13:13:06]	[OOC] Sergeant RT-9824: thank you for answering jackshit
+[13:14:47]	[OOC] Sergeant RT-9824: Check general lmao
+[13:15:02]	Lieutenant Ezyn Linmer entered observer.
+[13:16:56]	[OOC] Sergeant RT-9824: Chicken is speaking some form of spider language.
+[13:19:41]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:19:43]	Lieutenant Ezyn Linmer entered observer.
+[13:19:48]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:19:51]	Lieutenant Ezyn Linmer entered observer.
+[13:19:53]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:19:53]	Lieutenant Ezyn Linmer entered observer.
+[13:19:53]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:19:59]	Lieutenant Ezyn Linmer used command '/ToggleRaise'.
+[13:20:02]	Lieutenant Ezyn Linmer used command '/ToggleRaise'.
+[13:20:03]	Lieutenant Ezyn Linmer used command '/ToggleRaise'.
+[13:20:42]	Lieutenant Ezyn Linmer used command '/ToggleRaise'.
+[13:21:04]	Lieutenant Ezyn Linmer used command '/ToggleRaise'.
+[13:21:13]	Lieutenant Ezyn Linmer used command '/ToggleRaise'.
+[13:25:12]	Sergeant RT-9824 ran 'Equip' on item 'Thermal Detonator' (#55)
+[13:29:37]	Lieutenant Ezyn Linmer has taken 176 damage from Sergeant RT-9824.
+[13:29:37]	Sergeant RT-9824 has killed Lieutenant Ezyn Linmer with rw_sw_e22.
+[13:31:08]	Lieutenant Ezyn Linmer has taken 172 damage from Sergeant RT-9824.
+[13:31:08]	Sergeant RT-9824 has killed Lieutenant Ezyn Linmer with rw_sw_e22.
+[13:31:14]	Sergeant RT-9824 used the 'Armory' vendor.
+[13:31:18]	Lieutenant Ezyn Linmer entered observer.
+[13:31:21]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:31:21]	Lieutenant Ezyn Linmer entered observer.
+[13:31:22]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:31:24]	Lieutenant Ezyn Linmer used command '/ToggleRaise'.
+[13:31:28]	Sergeant RT-9824 has taken 118 damage from Lieutenant Ezyn Linmer.
+[13:31:28]	Lieutenant Ezyn Linmer has killed Sergeant RT-9824 with rw_sw_iqa11.
+[13:31:31]	Lieutenant Ezyn Linmer entered observer.
+[13:31:31]	[OOC] Sergeant RT-9824: fucking ow
+[13:31:46]	Sergeant RT-9824 ran 'Equip' on item 'E-22 Blaster' (#536)
+[13:31:57]	[OOC] Sergeant RT-9824: thank
+[13:31:58]	Lieutenant Ezyn Linmer used command '/ToggleRaise'.
+[13:32:03]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:32:03]	Lieutenant Ezyn Linmer entered observer.
+[13:32:05]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:32:05]	Lieutenant Ezyn Linmer entered observer.
+[13:32:06]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:32:14]	Lieutenant Ezyn Linmer entered observer.
+[13:32:16]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:32:17]	Lieutenant Ezyn Linmer used command '/ToggleRaise'.
+[13:32:21]	Lieutenant Ezyn Linmer used command '/ToggleRaise'.
+[13:32:22]	[OOC] Sergeant RT-9824: Should give me the CJ-9 blaster.
+[13:32:24]	Lieutenant Ezyn Linmer used command '/ToggleRaise'.
+[13:32:29]	[OOC] Sergeant RT-9824: brb, fuck
+[13:32:31]	Lieutenant Ezyn Linmer entered observer.
+[13:32:32]	Lieutenant Ezyn Linmer used command '/ToggleRaise'.
+[13:32:34]	Lieutenant Ezyn Linmer used command '/ToggleRaise'.
+[13:32:43]	Lieutenant Ezyn Linmer used command '/ToggleRaise'.
+[13:32:48]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:32:49]	Lieutenant Ezyn Linmer entered observer.
+[13:32:50]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:32:50]	Lieutenant Ezyn Linmer entered observer.
+[13:32:52]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:32:52]	Lieutenant Ezyn Linmer entered observer.
+[13:33:20]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:33:27]	Lieutenant Ezyn Linmer entered observer.
+[13:33:29]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:33:30]	Lieutenant Ezyn Linmer entered observer.
+[13:33:51]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:33:53]	Lieutenant Ezyn Linmer entered observer.
+[13:33:58]	[OOC] Sergeant RT-9824: back
+[13:34:08]	Lieutenant Ezyn Linmer used command '/ToggleRaise'.
+[13:34:10]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:34:10]	Lieutenant Ezyn Linmer entered observer.
+[13:34:11]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:34:12]	Lieutenant Ezyn Linmer entered observer.
+[13:34:18]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:34:18]	Lieutenant Ezyn Linmer entered observer.
+[13:34:19]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:34:22]	Lieutenant Ezyn Linmer entered observer.
+[13:34:26]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:34:26]	Lieutenant Ezyn Linmer used command '/ToggleRaise'.
+[13:34:31]	Lieutenant Ezyn Linmer entered observer.
+[13:34:34]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:34:34]	Lieutenant Ezyn Linmer entered observer.
+[13:34:35]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:34:35]	[OOC] Sergeant RT-9824: I will say again, should totally give me the CJ-9 blaster.
+[13:34:35]	Lieutenant Ezyn Linmer entered observer.
+[13:34:39]	[OOC] Lieutenant Ezyn Linmer: eh
+[13:34:39]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:34:40]	Lieutenant Ezyn Linmer entered observer.
+[13:34:40]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:34:40]	Lieutenant Ezyn Linmer entered observer.
+[13:34:45]	[OOC] Sergeant RT-9824: Fucking nerd
+[13:34:54]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:34:54]	Lieutenant Ezyn Linmer entered observer.
+[13:34:55]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:35:01]	[OOC] Lieutenant Ezyn Linmer: chief should fucking respond to me
+[13:35:01]	Lieutenant Ezyn Linmer entered observer.
+[13:35:02]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:35:03]	Lieutenant Ezyn Linmer entered observer.
+[13:35:03]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:35:03]	Lieutenant Ezyn Linmer entered observer.
+[13:35:04]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:35:04]	Lieutenant Ezyn Linmer entered observer.
+[13:35:04]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:35:05]	Lieutenant Ezyn Linmer entered observer.
+[13:35:05]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:35:06]	Lieutenant Ezyn Linmer entered observer.
+[13:35:06]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:35:07]	Lieutenant Ezyn Linmer entered observer.
+[13:35:09]	[OOC] Sergeant RT-9824: What are you asking him?
+[13:35:17]	[OOC] Lieutenant Ezyn Linmer: ur mom
+[13:35:21]	Lieutenant Ezyn Linmer used command '/ToggleRaise'.
+[13:35:21]	[OOC] Sergeant RT-9824: Fucking rude
+[13:35:28]	[OOC] Lieutenant Ezyn Linmer: sometihng aobut the rprop
+[13:35:33]	[OOC] Sergeant RT-9824: Ah
+[13:35:38]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:35:39]	Lieutenant Ezyn Linmer entered observer.
+[13:35:39]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:35:40]	Lieutenant Ezyn Linmer entered observer.
+[13:35:42]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:35:43]	Lieutenant Ezyn Linmer entered observer.
+[13:35:44]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:35:44]	Lieutenant Ezyn Linmer entered observer.
+[13:35:45]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:35:46]	Lieutenant Ezyn Linmer entered observer.
+[13:35:47]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:35:48]	Lieutenant Ezyn Linmer entered observer.
+[13:35:51]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:35:52]	Lieutenant Ezyn Linmer entered observer.
+[13:35:53]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:35:53]	Lieutenant Ezyn Linmer entered observer.
+[13:35:54]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:35:54]	Lieutenant Ezyn Linmer entered observer.
+[13:35:55]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:36:00]	Lieutenant Ezyn Linmer entered observer.
+[13:36:00]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:36:06]	[OOC] Sergeant RT-9824: "I fucked your mom shitlips"
+[13:36:10]	Lieutenant Ezyn Linmer entered observer.
+[13:36:10]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:36:11]	Lieutenant Ezyn Linmer entered observer.
+[13:36:34]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:36:36]	Lieutenant Ezyn Linmer entered observer.
+[13:36:46]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:36:47]	Lieutenant Ezyn Linmer entered observer.
+[13:36:47]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:36:48]	Lieutenant Ezyn Linmer entered observer.
+[13:36:48]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:36:50]	Lieutenant Ezyn Linmer entered observer.
+[13:37:17]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:37:17]	Lieutenant Ezyn Linmer entered observer.
+[13:37:19]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:37:20]	Lieutenant Ezyn Linmer entered observer.
+[13:37:21]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:37:21]	Lieutenant Ezyn Linmer entered observer.
+[13:37:59]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:37:59]	Lieutenant Ezyn Linmer entered observer.
+[13:38:03]	Lieutenant Ezyn Linmer exited observer at their location.
+[13:38:03]	Lieutenant Ezyn Linmer entered observer.
+[13:40:35]	[OOC] Lieutenant Ezyn Linmer: be bakc
+[13:40:39]	matt saton (STEAM_0:1:53097688) has disconnected.
+[14:05:05]	FB|| light ROOM (STEAM_0:1:17219621) has disconnected.
+[14:20:29]	matt saton has connected.
+[14:22:20]	matt saton (STEAM_0:1:53097688) has disconnected.
+[17:04:39]	FB|| light ROOM has connected.
+[17:06:23]	FB|| light ROOM loaded the character 'Sergeant RT-9824'
+[17:06:31]	Sergeant RT-9824 used the 'Armory' vendor.
+[17:06:32]	Sergeant RT-9824 has gained 0 credits.
+[17:06:32]	Sergeant RT-9824 has gained a 'Tibanna Cartridge' #1145.
+[17:06:33]	Sergeant RT-9824 has gained 0 credits.
+[17:06:33]	Sergeant RT-9824 has gained a 'Tibanna Cartridge' #1146.
+[17:06:33]	Sergeant RT-9824 has gained 0 credits.
+[17:06:33]	Sergeant RT-9824 has gained a 'Tibanna Cartridge' #1147.
+[17:06:34]	Sergeant RT-9824 has gained 0 credits.
+[17:06:34]	Sergeant RT-9824 has gained a 'Tibanna Cartridge' #1148.
+[17:06:36]	Sergeant RT-9824 ran 'use' on item 'Tibanna Cartridge' (#1145)
+[17:06:36]	Sergeant RT-9824 ran 'use' on item 'Tibanna Cartridge' (#1146)
+[17:06:37]	Sergeant RT-9824 ran 'use' on item 'Tibanna Cartridge' (#1147)
+[17:06:37]	Sergeant RT-9824 ran 'use' on item 'Tibanna Cartridge' (#1148)
+[17:12:37]	FB|| light ROOM (STEAM_0:1:17219621) has disconnected.

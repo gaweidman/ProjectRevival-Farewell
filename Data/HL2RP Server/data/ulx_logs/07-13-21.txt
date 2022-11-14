@@ -1,0 +1,2034 @@
+[02:35:01] New map: rp_city8_edit_v4r
+
+
+
+[05:46:46] New map: rp_city8_edit_v4r
+[11:39:56] Client "LynxQueen" connected.
+[11:54:16] Client "LynxQueen" spawned in server <STEAM_0:1:70540942> (took 860 seconds).
+[11:56:55] LynxQueen<STEAM_0:1:70540942> changed their name to Merissa Myers
+[11:57:34] Merissa Myers: /content
+[11:57:47] Merissa Myers: /disco
+[11:57:52] Merissa Myers: /discord
+[12:02:47] Dropped "Merissa Myers" from server<STEAM_0:1:70540942>
+[12:15:48] Client "LynxQueen" connected.
+[12:24:53] Client "LynxQueen" connected.
+[12:25:00] Client "matt saton" connected.
+[12:27:49] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 169 seconds).
+[12:27:51] Client "LynxQueen" spawned in server <STEAM_0:1:70540942> (took 178 seconds).
+[12:28:41] LynxQueen<STEAM_0:1:70540942> changed their name to Merissa Myers
+[12:29:45] matt saton<STEAM_0:1:53097688> changed their name to CCA.C08-UNION.i1.51023
+[12:30:09] Merissa Myers: /ooc oh hi
+[12:30:13] CCA.C08-UNION.i1.51023: //howdy-hey
+[12:30:32] Merissa Myers: /ooc I'm missing a lot of textures still and the shininess is off the charts..
+[12:30:41] CCA.C08-UNION.i1.51023: //ah, the shininess fix, do mat_specular 1 in the console
+[12:31:02] Merissa Myers: /ooc didnt do anything
+[12:31:02] CCA.C08-UNION.i1.51023: wait no
+[12:31:04] CCA.C08-UNION.i1.51023: .//wait no
+[12:31:08] CCA.C08-UNION.i1.51023: .//mat_specular 0
+[12:31:10] CCA.C08-UNION.i1.51023: .//i'm an idiot
+[12:31:22] Merissa Myers: // forgot the quick command for looc
+[12:31:27] CCA.C08-UNION.i1.51023: //.// or [[
+[12:31:44] CCA.C08-UNION.i1.51023: //missing textures, make sure you hve CSS, EP1, EP2, and then the city 8 v3b content that's in the content pack. it should download automatically when you join, but the addon is accessible from /content
+[12:32:36] Merissa Myers: /content
+[12:32:45] Merissa Myers: .// everything should be here...
+[12:33:04] CCA.C08-UNION.i1.51023: .//what specifically is a missing texture?
+[12:33:11] Merissa Myers: .// road
+[12:33:17] Merissa Myers: .// that's all I've seen so far
+[12:33:21] CCA.C08-UNION.i1.51023: .//thonk
+[12:33:34] CCA.C08-UNION.i1.51023: .//if they're installed, are they mounted properly?
+[12:33:34] Merissa Myers: .// AHA
+[12:33:38] CCA.C08-UNION.i1.51023: .//you gottem?
+[12:33:39] Merissa Myers: .// They weren't mounted
+[12:33:43] Merissa Myers: .// ep 1 and 2
+[12:33:52] Merissa Myers: .// I'll reload later
+[12:33:54] Merissa Myers: .// FOR NOW
+[12:33:56] Merissa Myers: .// CARDIE
+[12:34:16] CCA.C08-UNION.i1.51023: .//epic
+[12:34:27] CCA.C08-UNION.i1.51023: /me speaks flatly to the citizen in front of him.
+[12:34:30] CCA.C08-UNION.i1.51023: Relocation coupon.
+[12:34:43] Merissa Myers: .// btw if you want a very active CCA I'll pick up if you need an extra. I dont think I'm leaving anytime soon.
+[12:34:49] Merissa Myers: "Right, here..."
+[12:35:10] CCA.C08-UNION.i1.51023: .//alrighty! i'll keep you in mind! i've got a lot of IRL stuff going on tdoy by complete coincidence ;-; but i'll make sure i remember
+[12:35:25] Merissa Myers: .// I like being a villain so
+[12:35:31] CCA.C08-UNION.i1.51023: /me takes the relocation coupn and turns around, inspecting it in the light.
+[12:35:45] CCA.C08-UNION.i1.51023: /me turns back toward the citizen, seemingly satisfied.
+[12:35:46] Merissa Myers: "Should be valid, got it last week."
+[12:35:59] CCA.C08-UNION.i1.51023: Wait here.
+[12:36:04] CCA.C08-UNION.i1.51023: Who the fuck..
+[12:36:24] CCA.C08-UNION.i1.51023: /r 10-68 to my 10-20, train station.
+[12:36:26] Merissa Myers: "...is there a problem?"
+[12:36:34] CCA.C08-UNION.i1.51023: No, not with you.
+[12:37:00] CCA.C08-UNION.i1.51023: /r Contents... sensitive, yellow grade contraband.
+[12:37:11] CCA.C08-UNION.i1.51023: Alright.
+[12:37:17] CCA.C08-UNION.i1.51023: I need to ask you a few questions.
+[12:37:34] Merissa Myers: "Go ahead!"
+[12:37:34] CCA.C08-UNION.i1.51023: I need your sex and date of birth.
+[12:37:39] CCA.C08-UNION.i1.51023: .//current year is 2006, war was in 2003
+[12:37:45] Merissa Myers: ((got it))
+[12:37:52] Merissa Myers: .// 21 year old limit or nah?
+[12:38:10] CCA.C08-UNION.i1.51023: .//under 18 in 2003 means you'd be in a labor camp
+[12:38:24] CCA.C08-UNION.i1.51023: .//nowadays 21+ year
+[12:38:26] CCA.C08-UNION.i1.51023: .//yeah*
+[12:38:36] Merissa Myers: "Female, I was born September 23, 1985."
+[12:38:42] CCA.C08-UNION.i1.51023: /me takes out their datapad and types a couple things in.
+[12:38:44] CCA.C08-UNION.i1.51023: /viewdata meriss
+[12:38:44] Merissa Myers: .// I REMEMBER MOST OF BETA LORE HAHAHAHAHA
+[12:39:33] CCA.C08-UNION.i1.51023: And... do you know your blood type?
+[12:39:43] CCA.C08-UNION.i1.51023: It's okay if you don't, I can mark it as unknown.
+[12:39:49] Merissa Myers: "Red and not yellow or green."
+[12:40:28] CCA.C08-UNION.i1.51023: I would hope. You don't know the letter and rhesus factor?
+[12:40:49] Merissa Myers: Nope, I do not. Never had to visit a medical center so far. 
+[12:40:55] CCA.C08-UNION.i1.51023: Alright...
+[12:40:57] CCA.C08-UNION.i1.51023: /viewdata meriss
+[12:41:12] CCA.C08-UNION.i1.51023: And do you have any medical conditions? Eczema, IBS, lazy eye, anything?
+[12:41:55] Merissa Myers: "I am deaf in my right ear."
+[12:42:03] CCA.C08-UNION.i1.51023: Alright...
+[12:42:05] CCA.C08-UNION.i1.51023: /viewdata meriss
+[12:43:24] CCA.C08-UNION.i1.51023: Mental conditions? Autism, OCD, generalized anxiety?
+[12:44:01] CCA.C08-UNION.i1.51023: Anything like that?
+[12:44:04] Merissa Myers: "Combat PTSD."
+[12:44:14] CCA.C08-UNION.i1.51023: /viewdata meriss
+[12:44:18] Merissa Myers: "Specifically. War related."
+[12:44:38] CCA.C08-UNION.i1.51023: You'd be surprised how many people admit that.,
+[12:44:45] CCA.C08-UNION.i1.51023: Alright.
+[12:45:02] CCA.C08-UNION.i1.51023: That should be it. I've got a lot of information for you.
+[12:45:15] Merissa Myers: "Afghan war but that was ended a bit early."
+[12:46:08] CCA.C08-UNION.i1.51023: .//are you afghani IC, red cross staff, a veteran, just curious
+[12:46:23] Merissa Myers: .// Oh no not at all. I like playing combat vets though.
+[12:46:27] CCA.C08-UNION.i1.51023: .//alrighty
+[12:46:31] Merissa Myers: .// sorry asdjkfhgagsfj
+[12:46:43] CCA.C08-UNION.i1.51023: .//nah you're good! i just want to know if i have to give you the veteran schpiel
+[12:46:47] Merissa Myers: .// I was *almost* in the military last week
+[12:46:55] Merissa Myers: .// if that counts.
+[12:47:09] CCA.C08-UNION.i1.51023: .//i need to ask, feel free to tell while i type all this stuff out for you
+[12:47:25] CCA.C08-UNION.i1.51023: We've got air vents all aroound the city, in each apartment and in various other places. They look like the device to your left between these two windows.
+[12:47:53] Merissa Myers: .// Oh I just felt worthless and skillless and thought maybe if I joined the military I could turn my life around. Nothing special, pretty typical really.
+[12:48:03] CCA.C08-UNION.i1.51023: .//omg i'm sorry to hear!!!
+[12:48:22] CCA.C08-UNION.i1.51023: They spit out clean air and help preserve your filters. You can remove your suit in their vicinity.
+[12:48:31] Merissa Myers: .// Had a long talk with my girlfriend who was in the navy.
+[12:48:54] CCA.C08-UNION.i1.51023: You'll need to keep getting filters over time, but there are many ways to make tokens.
+[12:49:01] CCA.C08-UNION.i1.51023: .//the air vents always have a tooltip on them when you hover over them
+[12:49:25] CCA.C08-UNION.i1.51023: You can donate blood at machines like the one behind you.
+[12:49:27] Merissa Myers: "Speaking of tokens, I was curious about.. Civil Authority application."
+[12:49:43] CCA.C08-UNION.i1.51023: Yeah, hold on. Questions at the end, I'm trying to get this out from memory.
+[12:49:53] CCA.C08-UNION.i1.51023: 10 tokens for your blood, you can donate once every 36 hours.
+[12:50:43] CCA.C08-UNION.i1.51023: We're in the middle of a resin buyback, so if you find any pucks of blueish black metal, you can turn it in to a machine at the ration distrbiution terminal in exchange for tokens.
+[12:50:53] CCA.C08-UNION.i1.51023: I'm missing something.
+[12:51:16] CCA.C08-UNION.i1.51023: Anyways. 
+[12:51:31] CCA.C08-UNION.i1.51023: Combine Civil Authority, you need 10 LP, you can get more LP by doing various loyalist tasks, as you can imagine.
+[12:52:01] CCA.C08-UNION.i1.51023: Work desk tasks are worth 1 each, but giving medical aid to a CCA unit, saving a life, reporting in progress crimes, turning in contraband, all get you more.
+[12:52:08] CCA.C08-UNION.i1.51023: Saving the life of a CCA unit, that is./
+[12:52:27] Merissa Myers: Most of the lifesaving I know is with a firearm, but we'll see what I can do.
+[12:52:42] CCA.C08-UNION.i1.51023: You'd be surprised how many stories we have of a citizen taking a bullet for someone.
+[12:52:48] CCA.C08-UNION.i1.51023: .//me when lying IC
+[12:52:57] CCA.C08-UNION.i1.51023: Let me clarify you only receive LP for reporting crimes you are not the victim of. You don't get LP for telling a CCA unit that someone attempted to murder you.
+[12:53:05] Merissa Myers: Already had a few bullets.
+[12:53:51] CCA.C08-UNION.i1.51023: different CWU branches require different amounts of LP. you don't have to be in the CWU to make tokens.
+[12:54:11] CCA.C08-UNION.i1.51023: So if you want to sell non-contraband to fellow citizens, that won't be restricted.
+[12:54:36] CCA.C08-UNION.i1.51023: Any questions?
+[12:54:53] Merissa Myers: None yet.
+[12:55:00] CCA.C08-UNION.i1.51023: That's all I have for you at the moment.
+[12:55:07] CCA.C08-UNION.i1.51023: .//void the jump, i have fat fingers
+[12:55:09] Merissa Myers: Awesome sauce
+[12:55:13] Merissa Myers: I am not saying that again.
+[12:55:32] CCA.C08-UNION.i1.51023: /me places the now room temperature CID card on the counter and slides it forward.
+[12:55:59] CCA.C08-UNION.i1.51023: Despite what people would say, you can ask us questions at any time given we aren't busy.
+[12:56:06] Merissa Myers: Mhm.
+[12:56:13] CCA.C08-UNION.i1.51023: You're free to go if you like. Stay out of trouble.
+[12:56:55] Merissa Myers: .// now I need to reload lmao
+[12:57:05] Merissa Myers: .// brb in a tick!
+[12:57:12] Dropped "Merissa Myers" from server<STEAM_0:1:70540942>
+[12:57:13] Client "LynxQueen" connected.
+[13:00:03] Client "LynxQueen" spawned in server <STEAM_0:1:70540942> (took 170 seconds).
+[13:01:11] LynxQueen<STEAM_0:1:70540942> changed their name to Merissa Myers
+[13:01:20] Merissa Myers: // still a few errors, weird
+[13:25:08] CCA.C08-UNION.i1.51023: /chargiveflag merissa pet
+[13:25:17] CCA.C08-UNION.i1.51023: /plytransfer merissa alien
+[13:25:20] CCA.C08-UNION.i1.51023: /plytransfer merissa cac
+[13:25:23] CCA.C08-UNION.i1.51023: /plytransfer merissa osa
+[13:25:29] CCA.C08-UNION.i1.51023: /plytransfer merissa bird
+[13:25:38] CCA.C08-UNION.i1.51023: /plywhitelits merissa alien
+[13:25:44] CCA.C08-UNION.i1.51023: /plywhitelist merissa alien
+[13:25:59] CCA.C08-UNION.i1.51023: /plywhitelist merissa bird
+[13:26:00] CCA.C08-UNION.i1.51023: /plywhitelist merissa cac
+[13:26:01] CCA.C08-UNION.i1.51023: /plywhitelist merissa osa
+[13:26:18] CCA.C08-UNION.i1.51023: //that *should* be it, let me double check
+[13:26:38] CCA.C08-UNION.i1.51023: //yepyep
+[13:26:41] CCA.C08-UNION.i1.51023: //gto it
+[13:26:55] CCA.C08-UNION.i1.51023: //so the CAC is your cremator and stalker
+[13:27:00] CCA.C08-UNION.i1.51023: .//OSA is your hunter
+[13:27:01] Merissa Myers<STEAM_0:1:70540942> changed their name to AWAITING ASSIGNMENT
+[13:27:09] CCA.C08-UNION.i1.51023: //is that your cremator or your stalker?
+[13:27:15] CCA.C08-UNION.i1.51023: /me would proceed to tie the individual. Would they resist?
+[13:27:17] AWAITING ASSIGNMENT: // cremator for this one
+[13:27:18] CCA.C08-UNION.i1.51023: .//vid hte bind 
+[13:27:25] CCA.C08-UNION.i1.51023: /plytransfer assignment cremator
+[13:27:32] CCA.C08-UNION.i1.51023: /charsetclass assignment cremator
+[13:27:33] AWAITING ASSIGNMENT<STEAM_0:1:70540942> changed their name to CAC.C17-CRM.10287
+[13:27:35] CAC.C17-CRM.10287: OOP)
+[13:27:40] CAC.C17-CRM.10287 suicided!
+[13:27:40] CCA.C08-UNION.i1.51023 slayed CAC.C17-CRM.10287
+[13:27:40] CCA.C08-UNION.i1.51023: !slay crm
+[13:27:41] CAC.C17-CRM.10287: .// FUCK YES
+[13:27:44] CCA.C08-UNION.i1.51023: //i need to respawn you, sorry
+[13:27:44] CAC.C17-CRM.10287: .// OOF
+[13:27:59] CAC.C17-CRM.10287: // too abd I dont have the footsteps
+[13:28:09] CCA.C08-UNION.i1.51023: .//i tried to add them but how footsteps are handled is very uhhh
+[13:28:13] CAC.C17-CRM.10287: // uh hm
+[13:28:14] CCA.C08-UNION.i1.51023: .//annoying in source
+[13:28:21] CCA.C08-UNION.i1.51023: .//right mouse for fire extinguisher
+[13:28:22] CAC.C17-CRM.10287: // cleaning
+[13:28:38] CCA.C08-UNION.i1.51023: !vextinguishlal
+[13:28:41] CCA.C08-UNION.i1.51023 extinguished all 1 fires.
+[13:28:41] CCA.C08-UNION.i1.51023: !vextinguishall
+[13:28:55] CCA.C08-UNION.i1.51023: //but yeah, source handles footsteps weird. that fix is on my list
+[13:29:13] CAC.C17-CRM.10287: // Cremators dont have access to combine tech
+[13:29:19] CCA.C08-UNION.i1.51023: //we're in the middle of a re-release right now so things are kinda uhhhhh, unpolioshed
+[13:29:30] CCA.C08-UNION.i1.51023: //fuck, is it not letting cremators through the forcefield still?
+[13:29:38] CCA.C08-UNION.i1.51023: //i thought i fixed it???? hold on
+[13:31:13] CCA.C08-UNION.i1.51023: //alright, just put a fix in the code, should work now. maybe.
+[13:31:15] CCA.C08-UNION.i1.51023: //ro not.
+[13:31:32] CAC.C17-CRM.10287: // bzzzzzzzzzzzzzzz
+[13:32:02] CAC.C17-CRM.10287: // question
+[13:32:05] CCA.C08-UNION.i1.51023: //go ahead
+[13:32:08] CAC.C17-CRM.10287: // wouldn't a cremator be on the synthetic arm?
+[13:32:10] CCA.C08-UNION.i1.51023<STEAM_0:1:53097688> changed their name to CAC.C17-CRM.28454
+[13:32:25] CAC.C17-CRM.28454: /charsetNAME crm CAC.C08-CRM.10287
+[13:32:26] CAC.C17-CRM.10287<STEAM_0:1:70540942> changed their name to CAC.C08-CRM.10287
+[13:33:26] CAC.C17-CRM.28454: //i say no because i interpret them as being more mechanical than living
+[13:33:56] CAC.C08-CRM.10287: // Found a zombie with no model
+[13:33:58] CAC.C17-CRM.28454: //given that the heads are manufactured, i interpret that they should qualify as-
+[13:34:08] CAC.C17-CRM.28454 teleported to CAC.C08-CRM.10287
+[13:34:14] CAC.C17-CRM.28454: them there's a zombine
+[13:34:16] CAC.C17-CRM.28454: well
+[13:34:19] CAC.C17-CRM.28454: was a zombine
+[13:34:26] CAC.C08-CRM.10287: *Clean*
+[13:34:51] CAC.C08-CRM.10287 killed CAC.C08-CRM.10287
+[13:34:55] CAC.C08-CRM.10287: // HAHA
+[13:35:00] CAC.C08-CRM.10287: // Killed myself with my own fire
+[13:35:38] CAC.C08-CRM.10287: // So what's the Synthetic Arm, then? What do I have access from it?
+[13:36:02] CAC.C17-CRM.28454: //it's a pretty wide umbrella but you specifically get hunter out of it
+[13:36:12] CAC.C08-CRM.10287: // ahh hunter
+[13:36:24] CAC.C08-CRM.10287: // I'll go ahead and make one
+[13:36:58] CAC.C08-CRM.10287<STEAM_0:1:70540942> changed their name to AWAITING ASSIGNMENT
+[13:37:00] AWAITING ASSIGNMENT: // weh
+[13:37:08] CAC.C17-CRM.28454: /charsetclass assignment hunter
+[13:37:09] AWAITING ASSIGNMENT<STEAM_0:1:70540942> changed their name to OSA.S17-HNT.20123
+[13:37:10] OSA.S17-HNT.20123 suicided!
+[13:37:10] CAC.C17-CRM.28454 slayed OSA.S17-HNT.20123
+[13:37:10] CAC.C17-CRM.28454: !slay hnt
+[13:37:15] OSA.S17-HNT.20123: // yeehaw
+[13:37:26] OSA.S17-HNT.20123: // I need to restart the game
+[13:37:34] Dropped "OSA.S17-HNT.20123" from server<STEAM_0:1:70540942>
+[13:38:30] Client "LynxQueen" connected.
+[13:42:22] Client "LynxQueen" spawned in server <STEAM_0:1:70540942> (took 232 seconds).
+[13:43:22] LynxQueen<STEAM_0:1:70540942> changed their name to OSA.S17-HNT.20123
+[13:43:30] OSA.S17-HNT.20123: // I CASNT BREATH
+[13:44:21] OSA.S17-HNT.20123<STEAM_0:1:70540942> changed their name to Merissa Myers
+[13:49:03] Client "dank" connected.
+[13:49:22] CAC.C17-CRM.28454: .//I am everywhere, Merissa.
+[13:49:37] Merissa Myers: // ah
+[13:49:46] Merissa Myers: // i was gunna sign up for cwu membership
+[13:50:17] CAC.C17-CRM.28454: //shit! right! i need to make the OOC app for that! CWU commerce doesn't require any LP so give me like
+[13:50:21] CAC.C17-CRM.28454: //eh, 20 minutes?
+[13:50:31] Merissa Myers: // right. It came with my donator perks too, btw
+[13:50:48] CAC.C17-CRM.28454: //that perk only counts before you get your ID. once you get your ID and leave the train station, you don't qualify anymore
+[13:50:57] Merissa Myers: // shi-
+[13:51:04] CAC.C17-CRM.28454: //so unfortunately merissa does not qualify anymore
+[13:51:09] CAC.C17-CRM.28454: //a new char doe sthough!
+[13:51:22] Merissa Myers: brb making a new character
+[13:51:24] Merissa Myers: // fuck
+[13:51:26] CAC.C17-CRM.28454<STEAM_0:1:53097688> changed their name to CCA.C08-UNION.i1.51023
+[13:51:32] Merissa Myers: // gunna make a new character then since that'll be easier I suppose
+[13:51:36] CCA.C08-UNION.i1.51023: //yeye
+[13:51:45] Merissa Myers: // what about my t h i n g s\
+[13:52:02] CCA.C08-UNION.i1.51023: //what t h i n g s specifically
+[13:52:12] Merissa Myers: // all the scrap I've spent the last hour collecitng
+[13:52:15] CCA.C08-UNION.i1.51023: /pm echo SWIM
+[13:52:17] CCA.C08-UNION.i1.51023: /plysearch
+[13:52:36] CCA.C08-UNION.i1.51023: //you can still sell that out of a store, you just won't get access to the locks on it or a door title on them
+[13:53:00] Merissa Myers: // huh?
+[13:53:18] CCA.C08-UNION.i1.51023: //so if you want to sell all your scrap, you can totally do all that
+[13:53:25] CCA.C08-UNION.i1.51023: //and you can sell it out of a store
+[13:53:50] Merissa Myers: r
+[13:53:53] Merissa Myers: // right
+[13:53:58] CCA.C08-UNION.i1.51023: //you just won't get the name of your store on the door as  tooltip
+[13:54:01] CCA.C08-UNION.i1.51023: //as a*
+[13:55:02] CCA.C08-UNION.i1.51023: //and you won't be able to use the locks on the doors inthe store
+[13:55:28] Merissa Myers<STEAM_0:1:70540942> changed their name to Chloe Cullen
+[13:55:41] Chloe Cullen: // i gotta go for the moment
+[13:55:44] CCA.C08-UNION.i1.51023: //alrightY!
+[13:55:51] CCA.C08-UNION.i1.51023: /charsetclass cullen union
+[13:55:56] CCA.C08-UNION.i1.51023: /charsetclass cullen workers
+[13:55:58] CCA.C08-UNION.i1.51023: /charsetclass cullen civil
+[13:56:04] CCA.C08-UNION.i1.51023: //i will be here!!
+[14:00:49] Client "Death Razor" connected.
+[14:01:44] CCA.C08-UNION.i1.51023: /pm echo DRINK
+[14:02:00] Client "FB|| light ROOM" connected.
+[14:02:58] Client "Death Razor" spawned in server <STEAM_0:1:66880501> (took 129 seconds).
+[14:03:34] Death Razor<STEAM_0:1:66880501> changed their name to Andrew 'Razor' Gonzalez
+[14:06:06] Client "dank" spawned in server <STEAM_0:1:92343185> (took 1023 seconds).
+[14:07:23] CCA.C08-UNION.i1.51023: //wb death
+[14:07:25] CCA.C08-UNION.i1.51023: //how's it oging
+[14:07:46] Andrew 'Razor' Gonzalez: // Heyy, going alright I have some free time this week, you?
+[14:07:58] CCA.C08-UNION.i1.51023: //thank you for asking but i'm afraid i'll have to skip that question
+[14:08:00] dank<STEAM_0:1:92343185> changed their name to John Donovan
+[14:08:07] Andrew 'Razor' Gonzalez: // How come lmao
+[14:08:18] CCA.C08-UNION.i1.51023: //i'm doing badly but i'll be alright lmao
+[14:08:25] CCA.C08-UNION.i1.51023: //wb john!
+[14:08:49] Andrew 'Razor' Gonzalez: // Well you have my steam just message me since I receive it on my phone every once in a while
+[14:09:00] CCA.C08-UNION.i1.51023: //thankyouthankyou
+[14:09:04] CCA.C08-UNION.i1.51023: //i have $11 in my checking so that's
+[14:09:05] CCA.C08-UNION.i1.51023: //fun
+[14:09:22] CCA.C08-UNION.i1.51023: //i have enough in cash to pay for what i need but it's still not a fun thing to see when i look at my bank
+[14:09:35] Andrew 'Razor' Gonzalez: // Don't you work or like, get paid soon?
+[14:10:27] CCA.C08-UNION.i1.51023: //i'm getting a job august first. i was going to get one in may but my family is doing a lot of vacationing and stuff now that we're vaxxed, so trying to get a full time job with so little time at home would be
+[14:10:30] CCA.C08-UNION.i1.51023: //pretty difficult
+[14:10:41] Dropped "John Donovan" from server<STEAM_0:1:92343185>
+[14:10:56] Andrew 'Razor' Gonzalez: // Let alone the server not having you on
+[14:11:06] CCA.C08-UNION.i1.51023: //that too
+[14:11:18] CCA.C08-UNION.i1.51023: //it'll work out though
+[14:11:23] CCA.C08-UNION.i1.51023: //i'm not worried
+[14:11:41] Andrew 'Razor' Gonzalez: // Well remember, you have to be the role model
+[14:11:46] Andrew 'Razor' Gonzalez: // For your own server
+[14:12:17] CCA.C08-UNION.i1.51023: //very true
+[14:12:43] Andrew 'Razor' Gonzalez: // Also bear in mind walking aimlessly for more than 3 minutes gets people like John off the game
+[14:12:56] Client "FB|| light ROOM" connected.
+[14:13:10] CCA.C08-UNION.i1.51023: //in between writing a fuckton of guides, shit for citizens to do is on my to do list
+[14:13:29] CCA.C08-UNION.i1.51023: //for the whole rerelease shit
+[14:13:53] Andrew 'Razor' Gonzalez: // If the important guides are up I think you should prioritze getting shit for citizens IMO
+[14:14:01] CCA.C08-UNION.i1.51023: //i'm doing both at the same time
+[14:14:01] Andrew 'Razor' Gonzalez: // Instead of trying to do all the guides
+[14:14:09] CCA.C08-UNION.i1.51023: /doorsethidden true
+[14:14:22] CCA.C08-UNION.i1.51023: //i make [x] amount of guide progress, i write code and then alternate that
+[14:14:29] CCA.C08-UNION.i1.51023: //so i use my time effectively
+[14:14:52] Client "FB|| light ROOM" spawned in server <STEAM_0:1:17219621> (took 116 seconds).
+[14:15:07] Andrew 'Razor' Gonzalez: // But what about getting proper staff and leadership?
+[14:15:23] Andrew 'Razor' Gonzalez: // The guides are paper but it can't be used without the proper people for it
+[14:15:26] FB|| light ROOM<STEAM_0:1:17219621> changed their name to CCA.C08-QrM.98240
+[14:15:30] CCA.C08-QrM.98240: // Yo
+[14:15:34] CCA.C08-UNION.i1.51023: //howdy light
+[14:15:41] CCA.C08-QrM.98240<STEAM_0:1:17219621> changed their name to Ethan King
+[14:16:02] CCA.C08-UNION.i1.51023: //we've got people in most leading roles. CA, SeC, GRID DvL, JUDGE DvL, HELIX DvL, I've got a roster on my google drive
+[14:16:08] CCA.C08-UNION.i1.51023: //and our staff team is 5 people excl. me
+[14:16:19] CCA.C08-UNION.i1.51023: //i mean including me
+[14:16:44] Andrew 'Razor' Gonzalez: So you have all staff covered, and CCA leadership covered then?
+[14:16:51] Andrew 'Razor' Gonzalez: // So you have all staff covered, and CCA leadership covered then?
+[14:17:20] CCA.C08-UNION.i1.51023: //mostly, yeah
+[14:17:27] CCA.C08-UNION.i1.51023: //all we need is a UNION DvL
+[14:17:34] CCA.C08-UNION.i1.51023: //and then a CWU director
+[14:17:52] Andrew 'Razor' Gonzalez: // Onion DvL, still a great meme back in the day
+[14:18:09] CCA.C08-UNION.i1.51023: //fact
+[14:18:29] Andrew 'Razor' Gonzalez: // I loved being Onion DvL especially on servers where Blade was under onion jurisdiction
+[14:18:34] Client "higherstandard" connected.
+[14:18:47] CCA.C08-UNION.i1.51023: //i'm just a huge fucking grid nerd so i can't quite relate
+[14:19:05] Andrew 'Razor' Gonzalez: // I remember you rpin'g half the time in the garage on the og map lmao
+[14:19:10] Ethan King: // Is blade one of those "elite" divisions?
+[14:19:13] Andrew 'Razor' Gonzalez: // rping*
+[14:19:23] Andrew 'Razor' Gonzalez: // Yeah, they were elite Union units
+[14:19:27] Andrew 'Razor' Gonzalez: // SWAT equivalent
+[14:19:36] Ethan King: // I see
+[14:19:36] Andrew 'Razor' Gonzalez: // Most servers didn't use them though
+[14:19:47] Andrew 'Razor' Gonzalez: // But the small and good ones did and oh boy was it fun
+[14:19:58] Andrew 'Razor' Gonzalez: // We actually used breach codes!
+[14:20:23] CCA.C08-UNION.i1.51023: //really specialized divisions would be epic to have in the future but right now with our playerbase size we just have the big 4
+[14:20:37] Andrew 'Razor' Gonzalez: // When I was a Union DvL I always had to fucking make sure the units used the damn codes
+[14:20:48] Ethan King: // And our CCA use similar tactics to normal CCA from HL2.
+[14:21:07] Andrew 'Razor' Gonzalez: // But since no one likes being union, I get people leaving to Judge or Helix
+[14:21:10] CCA.C08-UNION.i1.51023: //i try not to be code hitler but i make sure they at the very least know easy shit like 10-76, 10-4, 10-20, 10-8, all that shit
+[14:21:20] Andrew 'Razor' Gonzalez: // I know right? It's not fucking hard
+[14:21:24] CCA.C08-UNION.i1.51023: //10-68 etc etc
+[14:21:24] Andrew 'Razor' Gonzalez: // And then they bitch and moan
+[14:21:39] Andrew 'Razor' Gonzalez: // Like dude, it's not hard to type 4 fucking numbers
+[14:21:45] Andrew 'Razor' Gonzalez: // With a hyphen
+[14:21:49] CCA.C08-UNION.i1.51023: //we actually have had quite a few union lovers in our history
+[14:21:52] CCA.C08-UNION.i1.51023: //including ethan king here
+[14:22:04] Andrew 'Razor' Gonzalez: // You would've loved me as your Union DvL then lmao
+[14:22:05] Ethan King: // UNION is my favorite CCA division by a shit ton.
+[14:22:14] CCA.C08-UNION.i1.51023: //because you're a fucking nerd
+[14:22:19] Andrew 'Razor' Gonzalez: // I was a hardass but I was understanding
+[14:23:04] Andrew 'Razor' Gonzalez: // I did get scolded once or twice by the SeC I'll admit but they didn't like I had units leaving to other divisions
+[14:23:19] Andrew 'Razor' Gonzalez: // So luke decided to bar people from leaving union until i3
+[14:23:32] CCA.C08-UNION.i1.51023: //understandable
+[14:23:44] Andrew 'Razor' Gonzalez: // Since most of the CCA enlisted was i5-4 with a couple of 3's
+[14:24:13] Andrew 'Razor' Gonzalez: // Man I wish I could redo those days, shit was fun
+[14:24:23] CCA.C08-UNION.i1.51023: //dude you are literally on an HL2RP server right now
+[14:24:36] Andrew 'Razor' Gonzalez: // Yeah but not as a DvL investigator lmao
+[14:24:41] CCA.C08-UNION.i1.51023: //*yet*
+[14:24:50] CCA.C08-UNION.i1.51023: //DRD is getting on, poggies
+[14:24:53] Ethan King: // Pog
+[14:24:54] Andrew 'Razor' Gonzalez: // I used to do some of Judge's investigations out of courtesy
+[14:25:15] Andrew 'Razor' Gonzalez: // The DvL's liked me but the high command thought I was being soft
+[14:25:27] Andrew 'Razor' Gonzalez: // In reality I wasn't I would smoke my units
+[14:25:49] Andrew 'Razor' Gonzalez: // Luke told me to not constantly train them even though they were bored
+[14:26:06] CCA.C08-UNION.i1.51023: //what was luke's username again? sorry, it's been a while
+[14:26:14] Andrew 'Razor' Gonzalez: // Luke the Damn Brit
+[14:26:25] CCA.C08-UNION.i1.51023: //ah alright
+[14:26:26] CCA.C08-UNION.i1.51023: //that
+[14:26:28] CCA.C08-UNION.i1.51023: //that makes sense
+[14:26:33] Andrew 'Razor' Gonzalez: // Also by *yet* I hope you mean what you're meaning lmao
+[14:26:56] CCA.C08-UNION.i1.51023: //what i mean is you better stay on here you ignorant slut
+[14:27:00] Andrew 'Razor' Gonzalez: // Paper and hearsay I have learned can get you a bullet in the spine or a markup
+[14:27:01] Ethan King: // Lmao
+[14:27:20] Andrew 'Razor' Gonzalez: // Well if you're on then yea since I only know you on here you cunt
+[14:27:37] Andrew 'Razor' Gonzalez: // Been trying to aimlessly walk finding someone for the past 10 minutes
+[14:27:37] Ethan King: // QrM is still the best CCA role.
+[14:27:38] CCA.C08-UNION.i1.51023: //maybe you shouldget on more then you bitch
+[14:27:45] CCA.C08-UNION.i1.51023: //and meet everyone
+[14:27:46] CCA.C08-UNION.i1.51023: //whore
+[14:27:59] CCA.C08-UNION.i1.51023: //QrM is chill as shit
+[14:28:05] Andrew 'Razor' Gonzalez: // I mean I can get on a bit more now that they demolished the building in Surfside so ye
+[14:28:16] CCA.C08-UNION.i1.51023: //are you in the dicksworD?
+[14:28:43] Andrew 'Razor' Gonzalez: // PD?
+[14:28:51] CCA.C08-UNION.i1.51023: //are you in the discord
+[14:28:53] Andrew 'Razor' Gonzalez: // no
+[14:29:01] CCA.C08-UNION.i1.51023: //join it then, /discord
+[14:29:05] Andrew 'Razor' Gonzalez: /discord
+[14:29:37] Andrew 'Razor' Gonzalez: // Done
+[14:30:40] Ethan King to admins: I will throw this blood sample at somebody.
+[14:30:57] Andrew 'Razor' Gonzalez: // Didn
+[14:30:57] Andrew 'Razor' Gonzalez: /setpersist
+[14:31:06] Andrew 'Razor' Gonzalez: // Didn't even know QrM was a thing
+[14:31:06] CCA.C08-UNION.i1.51023: //you what mate
+[14:31:08] CCA.C08-UNION.i1.51023: //yeah
+[14:31:16] CCA.C08-UNION.i1.51023: //it's just our version of armory operator with some more shit added
+[14:31:24] Andrew 'Razor' Gonzalez: // Since a vendor was always used
+[14:31:29] Client "DRD" connected.
+[14:31:34] Andrew 'Razor' Gonzalez: // also what
+[14:31:37] CCA.C08-UNION.i1.51023: //it's like if you mixed an ammo chief and an armory operator
+[14:31:44] Ethan King: // QrM is just a way to stop rogue units going "haha AR2 go brrtttt" from the vendor.
+[14:32:00] Andrew 'Razor' Gonzalez: // Fair enough, I can see that
+[14:32:01] Ethan King: // Well....that was the original concept.
+[14:32:02] CCA.C08-UNION.i1.51023: //they manage the barracks, authorize [x] amounts of supplies going to [y] operations, and give people stuff from the armory
+[14:32:16] Client "Jorgen_Skog" connected.
+[14:32:25] Andrew 'Razor' Gonzalez: // I'd love having gun talk with the QrM then lmao
+[14:32:27] Ethan King: // Although I do about 2 of those things considering the operation shit doesn't happen often.
+[14:32:39] Andrew 'Razor' Gonzalez: // Because there's nothing to shoot at really rn
+[14:32:43] Ethan King: // True
+[14:32:54] CCA.C08-UNION.i1.51023: //ethan, our resident QrM, absolutely loves guns so that's very much possible
+[14:33:24] Ethan King: // Gun go brrttt
+[14:33:25] Andrew 'Razor' Gonzalez: // I used to fucking constantly talk about how to kill someone with a range of guns
+[14:33:27] CCA.C08-UNION.i1.51023: //meanwhile i DM him pictures of cursed guns to make him breathe fire
+[14:33:42] Andrew 'Razor' Gonzalez: // And then complain we don't have .338
+[14:34:06] CCA.C08-UNION.i1.51023: //you'll fit in with ethan, who complains we don't have .45 ACP
+[14:34:19] Ethan King: // The USP is literally able to fire .45 ACP.
+[14:34:29] Ethan King: // I see no reason why we wouldn't use it.
+[14:34:30] CCA.C08-UNION.i1.51023: //for that reason
+[14:34:44] Andrew 'Razor' Gonzalez: // I'd want .338 blackout
+[14:34:52] CCA.C08-UNION.i1.51023: //*because i am but one programmer and i hate wroking with hardcoded C++ items through lua*
+[14:34:59] Client "higherstandard" spawned in server <STEAM_0:1:175198131> (took 985 seconds).
+[14:34:59] Ethan King: // Why? Subsonic rounds are useless with what the CCA do.
+[14:35:27] Ethan King: // No offense but Subsonic rounds are kind of pointless.
+[14:35:28] CCA.C08-UNION.i1.51023: //*which is also the reason we dont have alyx style health stations yet*
+[14:35:31] Andrew 'Razor' Gonzalez: // As a lolwebul you'd be surprised but as CCA it's not necessary but still an open option
+[14:35:53] Ethan King: // If you think for a moment that our rebels use stealth you would be wrong.
+[14:36:01] CCA.C08-UNION.i1.51023: //says the biggest rebel
+[14:36:04] Ethan King: // We are either anarchist or dumbasses.
+[14:36:11] CCA.C08-UNION.i1.51023: //typically both
+[14:36:13] Andrew 'Razor' Gonzalez: // So payday 2 bank heist
+[14:36:18] Andrew 'Razor' Gonzalez: // Razormind style
+[14:36:22] Ethan King: // People have tried.
+[14:36:22] Client "Jorgen_Skog" spawned in server <STEAM_0:1:115897813> (took 246 seconds).
+[14:36:32] Ethan King: // Only one success by the Guardians.
+[14:36:38] Andrew 'Razor' Gonzalez: // I loved playing Razormind while kicking a door down
+[14:36:49] Andrew 'Razor' Gonzalez: // Guardians? Is that the rebel group on here?
+[14:36:55] Ethan King: // Used to be.
+[14:37:02] Andrew 'Razor' Gonzalez: // Bro you named that shit from Destiny no way it wasn't
+[14:37:27] Ethan King: // Negative, it was named that due to their moral standards.
+[14:37:28] higherstandard<STEAM_0:1:175198131> changed their name to Michael Smooth
+[14:37:35] Jorgen_Skog<STEAM_0:1:115897813> changed their name to PVT Jorgen Marventsky
+[14:37:41] Andrew 'Razor' Gonzalez: // Really? I'm surprised
+[14:37:47] Client "verexcy" connected.
+[14:37:55] Ethan King: // The Guardians tried to kill as little people as possible and let Combine go if they deemed them worth saving.
+[14:38:01] CCA.C08-UNION.i1.51023: //howdy jorgen
+[14:38:07] PVT Jorgen Marventsky: /ooc Aye
+[14:38:08] Ethan King: // It backfired usually, but they still did it.
+[14:38:11] Dropped "Michael Smooth" from server<STEAM_0:1:175198131>
+[14:38:13] Ethan King: // Yo Jorgen.
+[14:38:14] Andrew 'Razor' Gonzalez: // So since you say *used* to be
+[14:38:26] Ethan King: // They weren't wiped out.
+[14:38:28] PVT Jorgen Marventsky: /ooc Yeah Ethan
+[14:38:31] CCA.C08-UNION.i1.51023: /plysearch
+[14:38:32] CCA.C08-UNION.i1.51023: /plysearch
+[14:38:33] Ethan King: // But are not nearly as powerful as they used to be.
+[14:38:43] Andrew 'Razor' Gonzalez: // Ah, makes sense
+[14:38:43] Ethan King: // The current "Legion" are just a bunch of expendable soldiers.
+[14:38:48] Andrew 'Razor' Gonzalez: // Former shell
+[14:38:51] Ethan King: // Truly
+[14:39:27] PVT Jorgen Marventsky: /ooc where's everyone else at for citizens
+[14:39:32] CCA.C08-UNION.i1.51023: //metaville, USA babey
+[14:39:41] Andrew 'Razor' Gonzalez: // I'm aimlessly walking around
+[14:39:45] Andrew 'Razor' Gonzalez: // have fun
+[14:39:47] Ethan King to admins: Is the sewer door supposed to be locked?
+[14:39:50] CCA.C08-UNION.i1.51023 to admins: no
+[14:39:53] Ethan King to admins: Aight
+[14:40:03] Andrew 'Razor' Gonzalez: // Also for conscripts, what're you planning to use them for here? For the outskirts?
+[14:40:17] PVT Jorgen Marventsky: /actstand 2
+[14:40:25] Client "DRD" spawned in server <STEAM_0:0:193599766> (took 536 seconds).
+[14:40:34] CCA.C08-UNION.i1.51023: //the whole idea is that they're just more expendable OTA, the first responders for problems, and guards for lower-priority but still important locations
+[14:40:34] PVT Jorgen Marventsky: /actstand 2
+[14:40:47] Ethan King: // AFK for just a moment.
+[14:40:50] Andrew 'Razor' Gonzalez: // But they're mainly deployed in the outskirts right?
+[14:41:05] Andrew 'Razor' Gonzalez: // Like most conscripts anyways
+[14:41:09] PVT Jorgen Marventsky: /actstand 2
+[14:41:20] CCA.C08-UNION.i1.51023: //that's part of it but we still have ones who guard in-city locations
+[14:41:48] Andrew 'Razor' Gonzalez: // You're really not trying to use OTA I can see lol
+[14:41:48] Ethan King: /pm Jorgen Please go guard the Nexus.
+[14:41:54] Ethan King: // OTA are last resort.
+[14:41:54] PVT Jorgen Marventsky: /pm Ethan Yeah sure
+[14:41:55] CCA.C08-UNION.i1.51023: //playerbase small ;-;
+[14:41:55] Andrew 'Razor' Gonzalez: // Smart move
+[14:42:07] CCA.C08-UNION.i1.51023: //i'm a huge OTA nerd, i just know that people like conscripts and i'm making room for them
+[14:42:08] Andrew 'Razor' Gonzalez: // That's actually a really good idea to have them tbh
+[14:42:13] Andrew 'Razor' Gonzalez: // Yeah fair point
+[14:42:18] PVT Jorgen Marventsky: /r PVT. Jorgen Marventsky, On-Duty and guarding the Nexus.
+[14:42:22] CCA.C08-UNION.i1.51023: /r Copy that.
+[14:42:38] CCA.C08-UNION.i1.51023: /chargiveitem union.i1 mp5k
+[14:42:49] PVT Jorgen Marventsky: /ooc Time for the Mat Specular 0 again
+[14:42:50] Andrew 'Razor' Gonzalez: [[ bruh my newspaper
+[14:42:55] Ethan King: // have fun
+[14:42:56] CCA.C08-UNION.i1.51023<STEAM_0:1:53097688> spawned/gave himself swep weapon_egon
+[14:42:57] CCA.C08-UNION.i1.51023: /toggleraise
+[14:43:00] CCA.C08-UNION.i1.51023: //void laser sounds
+[14:43:02] PVT Jorgen Marventsky: /ooc Painful lagspike
+[14:43:39] Ethan King: Yo, you happen to have any food or water?
+[14:43:51] Andrew 'Razor' Gonzalez: /me would look over to the man as he sets the tokens down
+[14:44:03] Andrew 'Razor' Gonzalez: Uh, I have some water.
+[14:44:30] Ethan King: /me Holds out his hand to the civvie. "Are you willing to donate it?"
+[14:44:33] DRD<STEAM_0:0:193599766> changed their name to Laoghaire Fraser
+[14:44:43] Andrew 'Razor' Gonzalez: /me would dig into his dirty coat and take out a yellow carbonated can, handing it over to the man
+[14:44:48] Client "Ollie Garner" connected.
+[14:44:48] CCA.C08-UNION.i1.51023: //what's good DRD
+[14:44:53] Ethan King: Thanks man.
+[14:44:57] Andrew 'Razor' Gonzalez: Anytime.
+[14:45:01] Ethan King: /me Places it into a small pouch on his suit.
+[14:45:06] Ethan King: Good day to you.
+[14:45:11] Andrew 'Razor' Gonzalez: You too.
+[14:45:12] PVT Jorgen Marventsky: /r Found some unwanted CID's to turn in.
+[14:45:16] Laoghaire Fraser: // hey
+[14:45:19] Andrew 'Razor' Gonzalez: /me would look back as he grabs his items
+[14:45:19] CCA.C08-UNION.i1.51023: /r What's your location?
+[14:45:29] PVT Jorgen Marventsky: /r On my way to the workdesk.
+[14:45:55] Ethan King: // I have consumed the water can.
+[14:46:04] Andrew 'Razor' Gonzalez: // Nice
+[14:46:14] Andrew 'Razor' Gonzalez: /me would walk up to the desk, clearing his throat
+[14:46:19] PVT Jorgen Marventsky: Found couple of similar duplicate CID's on the side of the path, might be an issue on the printer or was given two CID's
+[14:46:20] CCA.C08-UNION.i1.51023: //we lace the water with soy :)
+[14:46:31] CCA.C08-UNION.i1.51023: Let me see, thank you Marv.
+[14:46:35] Laoghaire Fraser to admins: h
+[14:46:35] Ethan King: // Does Helix know about this?
+[14:46:38] Laoghaire Fraser to admins: holy shit
+[14:46:40] Andrew 'Razor' Gonzalez: [[ heh, marv
+[14:46:52] Laoghaire Fraser to admins: there's a big mess in the train station jesus mary and joseph
+[14:46:54] CCA.C08-UNION.i1.51023: Looking for work, I assume?
+[14:46:55] CCA.C08-UNION.i1.51023 to admins: yes
+[14:46:57] Andrew 'Razor' Gonzalez: Uh, hi..yeah..
+[14:46:59] PVT Jorgen Marventsky: /ooc Does the word "Marv" reference to a film
+[14:47:05] Laoghaire Fraser to admins: why
+[14:47:06] Andrew 'Razor' Gonzalez: Guessing you know the drill on that.
+[14:47:14] CCA.C08-UNION.i1.51023: Yep. Give me one second.
+[14:47:20] CCA.C08-UNION.i1.51023: Need to get these off of my person.
+[14:47:26] Andrew 'Razor' Gonzalez: [[ sadly can't give blood
+[14:47:29] Ethan King: // When are we gonna start calling OTA, "clankers"?
+[14:47:38] Andrew 'Razor' Gonzalez: // When the rebels become clones
+[14:47:41] Ethan King: // Bet
+[14:47:47] Andrew 'Razor' Gonzalez: // Get Kleiner to clone a rebel army
+[14:47:50] CCA.C08-UNION.i1.51023: //*when*?
+[14:47:53] Ethan King: // Next event?
+[14:47:59] Laoghaire Fraser: // when.
+[14:48:06] CCA.C08-UNION.i1.51023: Alright.
+[14:48:11] Andrew 'Razor' Gonzalez: // Did someone say, *EVENT*?
+[14:48:15] Laoghaire Fraser: // no
+[14:48:23] CCA.C08-UNION.i1.51023: /me removes his datapad from his utility belt and types on it, reading off of the screen.
+[14:48:27] Andrew 'Razor' Gonzalez: // Sad
+[14:48:29] CCA.C08-UNION.i1.51023: Let me check for some openings..
+[14:48:33] Ethan King: // Events will never happen now.
+[14:48:38] Ethan King: // Have fun walking around for eternity.
+[14:48:41] Andrew 'Razor' Gonzalez: Yeah..sadly can't give blood right now.
+[14:48:58] Andrew 'Razor' Gonzalez: // All around me are familiar faces
+[14:49:07] Ethan King: // Yes
+[14:49:09] PVT Jorgen Marventsky: /ooc Will have to hop off again unfortunately, gotta do some staff work on another rp community incase of minges.
+[14:49:10] Ethan King: // We all look the same
+[14:49:15] Ethan King: // Alright man
+[14:49:19] CCA.C08-UNION.i1.51023: //well, thanks for hopping on
+[14:49:21] Ethan King: // Have a good one
+[14:49:24] CCA.C08-UNION.i1.51023: //take care
+[14:49:25] Andrew 'Razor' Gonzalez: // Ew dual staff work
+[14:49:27] PVT Jorgen Marventsky: /r PVT. Jorgen Marventsky, heading Off-Duty.
+[14:49:27] Andrew 'Razor' Gonzalez: // cheater
+[14:49:29] Andrew 'Razor' Gonzalez: // Jk
+[14:49:31] Andrew 'Razor' Gonzalez: // Take care
+[14:49:53] Laoghaire Fraser: /toggleraise
+[14:49:57] PVT Jorgen Marventsky: /ooc Jorgensky Skoggington, popping off and at least this server has some activity going on.
+[14:50:10] Ethan King: .// Can you not?
+[14:50:14] Client "Ollie Garner" spawned in server <STEAM_0:1:52892973> (took 326 seconds).
+[14:50:15] Andrew 'Razor' Gonzalez: // Smitty Werbenjenger
+[14:50:15] CCA.C08-UNION.i1.51023: Alright. You can do a bit of... window washing.
+[14:50:24] Laoghaire Fraser: /toggleraise
+[14:50:26] CCA.C08-UNION.i1.51023: Give me one moment.
+[14:50:32] Andrew 'Razor' Gonzalez: Hope we have windex..
+[14:50:32] Laoghaire Fraser: // oh god
+[14:50:39] Ethan King to admins: We should totally do an event though.
+[14:50:43] Ethan King to admins: Wanna get into a VC?
+[14:50:46] CCA.C08-UNION.i1.51023 to admins: negative
+[14:50:51] Ethan King to admins: Fuck shit
+[14:50:56] Andrew 'Razor' Gonzalez: // I can't fucking spell the last part or I'll have a stroke trying to without looking it up
+[14:51:08] Dropped "PVT Jorgen Marventsky" from server<STEAM_0:1:115897813>
+[14:51:12] CCA.C08-UNION.i1.51023: //shmitty werbermanjegermanjensen?
+[14:51:25] CCA.C08-UNION.i1.51023: //shmitty werberjegermanjensen?
+[14:51:27] Andrew 'Razor' Gonzalez: // Shitty werbenjermangensen
+[14:51:35] CCA.C08-UNION.i1.51023: //i'll take a double triple bossy deluxe on a raft
+[14:51:39] CCA.C08-UNION.i1.51023: //four by a four, animal style
+[14:51:44] Ethan King: // Crungle
+[14:51:45] CCA.C08-UNION.i1.51023: //extra shingles with a shimmy and a squeeze
+[14:51:54] CCA.C08-UNION.i1.51023: //light axel grease, make it cry, burn it, and let it swim
+[14:52:00] Andrew 'Razor' Gonzalez: // Would you like the *family* meal?
+[14:52:05] CCA.C08-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_junk/metalbucket01a.mdl
+[14:52:11] CCA.C08-UNION.i1.51023: /chargiveitem i1 "cloth scrap"
+[14:52:36] CCA.C08-UNION.i1.51023: /me places a bucket of soapy water on the desk with a rag inside of it.
+[14:52:45] CCA.C08-UNION.i1.51023: Take these and follow me.
+[14:52:47] Ethan King to admins: Why do I have an infinite soda.
+[14:52:53] CCA.C08-UNION.i1.51023 to admins: pardon?
+[14:52:54] Andrew 'Razor' Gonzalez: /me looks over into the bucket, then grabbing it
+[14:52:56] Laoghaire Fraser: /toggleraise
+[14:52:58] Laoghaire Fraser: /toggleraise
+[14:53:07] Laoghaire Fraser to admins: wha
+[14:53:09] Ethan King to admins: It doesn't go away.
+[14:53:11] Laoghaire Fraser to admins: it is indeed infinite
+[14:53:12] Ethan King to admins: What the ufck
+[14:53:14] Ollie Garner<STEAM_0:1:52892973> changed their name to Morgan Beck
+[14:53:21] Andrew 'Razor' Gonzalez: /me sets the bucket down, looking at the window.
+[14:53:26] Morgan Beck: // Heyo.
+[14:53:30] Laoghaire Fraser to admins: all pop is broken
+[14:53:31] Laoghaire Fraser: /toggleraise
+[14:53:34] Ethan King to admins: wonderful
+[14:53:37] Laoghaire Fraser: /toggleraise
+[14:53:40] CCA.C08-UNION.i1.51023: You'll be washing these windows. Don't worry about the top one, nobody puts their greasy hands there anyways, so they don't need to be cleaned at the moment.
+[14:53:43] Ethan King: // Yo
+[14:53:47] Ethan King: // Its the cafe man
+[14:53:51] Morgan Beck: // Si
+[14:53:56] Andrew 'Razor' Gonzalez: Copy that, will do.
+[14:54:02] CCA.C08-UNION.i1.51023: Yep. I'll be here.
+[14:54:08] Ethan King: // Bitch
+[14:54:28] Laoghaire Fraser<STEAM_0:0:193599766> changed their name to CCA.C08-GRID.i1.23710
+[14:54:51] CCA.C08-GRID.i1.23710 gave Themself 20 rounds
+[14:54:57] CCA.C08-GRID.i1.23710 gave Themself 20 rounds
+[14:54:58] CCA.C08-GRID.i1.23710 gave Themself 20 rounds
+[14:54:59] CCA.C08-GRID.i1.23710 gave Themself 20 rounds
+[14:55:02] CCA.C08-GRID.i1.23710 gave Themself 20 rounds
+[14:55:36] Andrew 'Razor' Gonzalez: /me bends down and grabs the rag, twisting a bit so it's not too drenched, then proceeding to the window and beginning to clean from the left side, moving the soapy wet rag up and down so it's consistent
+[14:56:08] CCA.C08-UNION.i1.51023: //fuck's sake
+[14:56:16] CCA.C08-UNION.i1.51023: //DRD can you remind me what the capital of nova scotia is
+[14:56:31] CCA.C08-GRID.i1.23710: // im going to rdm the players if you dont
+[14:56:38] CCA.C08-GRID.i1.23710: // shut
+[14:56:44] CCA.C08-GRID.i1.23710: // up the shut fuck
+[14:57:03] Andrew 'Razor' Gonzalez: /me would go back to the bucket and dip the rag back inside, proceeding with the previous action and going back to the window, cleaning in up and down strokes
+[14:57:28] Dropped "Morgan Beck" from server<STEAM_0:1:52892973>
+[14:57:33] CCA.C08-UNION.i1.51023: .//wax on, wax off
+[14:57:34] CCA.C08-GRID.i1.23710: // he crashed
+[14:57:35] Client "Ollie Garner" connected.
+[14:57:54] Andrew 'Razor' Gonzalez: [[ doing it so it's not messy cleaned
+[14:57:59] Andrew 'Razor' Gonzalez: /me would go back to the bucket and dip the rag back inside, proceeding with the previous action and going back to the window, cleaning in up and down strokes
+[14:58:11] Andrew 'Razor' Gonzalez: Damn this window is dirty..
+[14:58:45] Andrew 'Razor' Gonzalez: /me would go back to the bucket and dip the rag back inside, twisting it with a bit more pressure, then proceeding with the previous action and going back to the window, cleaning in up and down strokes
+[14:59:06] Andrew 'Razor' Gonzalez: [[ Going from cleaning Bearcats to windows
+[14:59:51] Andrew 'Razor' Gonzalez: /me would go back to the bucket and dip the rag back inside, twisting it with a bit more pressure, then proceeding with the previous action and going back to the window, cleaning in up and down strokes, finishing it all the way to the other side
+[14:59:58] Client "Ollie Garner" spawned in server <STEAM_0:1:52892973> (took 143 seconds).
+[15:00:19] Andrew 'Razor' Gonzalez: /me goes back to the bucket, stepping back and looking at the window
+[15:00:33] Andrew 'Razor' Gonzalez: Well, looks better than last time now.
+[15:01:02] Ethan King: // Imagine being Grid.
+[15:01:03] CCA.C08-UNION.i1.51023: yep
+[15:01:14] Andrew 'Razor' Gonzalez: Need the other one wiped too I assume?
+[15:01:14] Ethan King: // Fucking Grease monkey.
+[15:01:24] CCA.C08-UNION.i1.51023: //imagine being a rebel
+[15:01:29] CCA.C08-UNION.i1.51023: //fuckin smelly outdoor guy
+[15:01:31] CCA.C08-UNION.i1.51023: //doesn't even shower
+[15:01:39] Andrew 'Razor' Gonzalez: // Imagine not being Union
+[15:01:46] Andrew 'Razor' Gonzalez: // Because you're a beta male
+[15:01:54] Ethan King: // Imagine not being a QrM.
+[15:01:57] CCA.C08-UNION.i1.51023: yep
+[15:02:00] Ethan King: // gun go brrttt
+[15:02:01] CCA.C08-UNION.i1.51023: //imagine not being a shrigma male
+[15:02:03] Andrew 'Razor' Gonzalez: Alright.
+[15:02:06] Ollie Garner<STEAM_0:1:52892973> changed their name to Morgan Beck
+[15:02:12] Morgan Beck: // ok back.
+[15:02:16] Andrew 'Razor' Gonzalez: /me would grab the bucket, heading over to the other window
+[15:02:17] CCA.C08-GRID.i1.23710: // PLEASE NO
+[15:02:30] Ethan King: // Cafe man is back
+[15:02:33] Morgan Beck: // :)
+[15:03:25] Andrew 'Razor' Gonzalez: /me would dip the rag into the bucket, twisting it with a bit of pressure, then heading over to the dirty window, beginning to clean it from the left side in up and down strokes
+[15:03:53] Andrew 'Razor' Gonzalez: /me would go back to the bucket and dip the rag back inside, twisting it with a bit more pressure, then proceeding with the previous action and going back to the window, cleaning in up and down strokes
+[15:03:58] Ethan King: // WHY ARE THERE HUNTERS
+[15:04:04] Ethan King: // AHH
+[15:04:17] CCA.C08-UNION.i1.51023: //i didn't put any hunters down
+[15:04:23] CCA.C08-GRID.i1.23710: // yes you did lol
+[15:04:25] CCA.C08-UNION.i1.51023: //at least not to my memory
+[15:04:28] CCA.C08-UNION.i1.51023: //ah fuck i did then
+[15:04:34] CCA.C08-GRID.i1.23710: // im trying to find them
+[15:04:34] Andrew 'Razor' Gonzalez: /me would go back to the bucket and dip the rag back inside, twisting it with a bit more pressure, then proceeding with the previous action and going back to the window, cleaning in up and down strokes
+[15:04:38] CCA.C08-GRID.i1.23710: // to unplace them
+[15:04:48] CCA.C08-UNION.i1.51023: //just reload the permaprops
+[15:04:52] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> used the tool permaprops on maps/rp_city8_edit_v4r.bsp
+[15:04:58] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> used the tool permaprops on maps/rp_city8_edit_v4r.bsp
+[15:04:59] CCA.C08-UNION.i1.51023: //and then unpermaprop them
+[15:05:00] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> used the tool permaprops on maps/rp_city8_edit_v4r.bsp
+[15:05:00] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> used the tool permaprops on maps/rp_city8_edit_v4r.bsp
+[15:05:00] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> used the tool permaprops on maps/rp_city8_edit_v4r.bsp
+[15:05:00] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> used the tool permaprops on maps/rp_city8_edit_v4r.bsp
+[15:05:00] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> used the tool permaprops on maps/rp_city8_edit_v4r.bsp
+[15:05:01] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> used the tool permaprops on maps/rp_city8_edit_v4r.bsp
+[15:05:01] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> used the tool permaprops on maps/rp_city8_edit_v4r.bsp
+[15:05:01] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> used the tool permaprops on maps/rp_city8_edit_v4r.bsp
+[15:05:01] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> used the tool permaprops on maps/rp_city8_edit_v4r.bsp
+[15:05:01] CCA.C08-UNION.i1.51023: //or you could not do that
+[15:05:01] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> used the tool permaprops on maps/rp_city8_edit_v4r.bsp
+[15:05:02] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> used the tool permaprops on maps/rp_city8_edit_v4r.bsp
+[15:05:02] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> used the tool permaprops on maps/rp_city8_edit_v4r.bsp
+[15:05:03] CCA.C08-UNION.i1.51023: //either works
+[15:05:05] Morgan Beck<STEAM_0:1:52892973> changed their name to Ollie Garner
+[15:05:06] CCA.C08-GRID.i1.23710: // deleted
+[15:05:08] Ollie Garner<STEAM_0:1:52892973> changed their name to Morgan Beck
+[15:05:08] CCA.C08-UNION.i1.51023: //find thme at their spawn
+[15:05:14] CCA.C08-GRID.i1.23710: // exterminated
+[15:05:17] Andrew 'Razor' Gonzalez: /me would go back to the bucket and dip the rag back inside, twisting it with a bit more pressure, then proceeding with the previous action and going back to the window, cleaning in up and down strokes, finishing it all the way to the other side
+[15:05:35] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> used the tool permaprops on maps/rp_city8_edit_v4r.bsp
+[15:06:03] Andrew 'Razor' Gonzalez: /me goes back to the bucket, grabbing it and stepping back, looking at the window intently
+[15:06:25] Andrew 'Razor' Gonzalez: Well, I think the windows are way more clearer than last time
+[15:06:34] CCA.C08-UNION.i1.51023: agreed
+[15:06:45] CCA.C08-UNION.i1.51023: You can just dump out that bucket on the street and come with me.
+[15:06:57] CCA.C08-GRID.i1.23710: /toggleraise
+[15:06:59] CCA.C08-GRID.i1.23710: /toggleraise
+[15:07:08] Andrew 'Razor' Gonzalez: /me would dump the bucket water into the street, heading over to the desk afterwards
+[15:07:17] Ethan King: // I'm going to use VX-4301's blood on you.
+[15:07:34] Morgan Beck: // i'm being fucking haunted
+[15:07:37] Ethan King: // Good
+[15:07:39] Andrew 'Razor' Gonzalez: /me sets the bucket on top of the desk where he first received it, stepping back.
+[15:08:52] CCA.C08-UNION.i1.51023: alright
+[15:08:52] CCA.C08-UNION.i1.51023: apply
+[15:08:55] Morgan Beck to admins: Q you exist?
+[15:08:56] Andrew 'Razor' Gonzalez: /apply
+[15:09:13] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> changed their name to Charlie
+[15:09:22] CCA.C08-UNION.i1.51023 to admins: i exist
+[15:09:25] CCA.C08-UNION.i1.51023: /viewdata razor
+[15:09:32] Morgan Beck to admins: Am I good for takin the Kato Cafe?
+[15:09:45] CCA.C08-UNION.i1.51023 to admins: yep
+[15:09:46] CCA.C08-UNION.i1.51023: /viewdata razor
+[15:09:48] Morgan Beck to admins: Bet.
+[15:09:51] CCA.C08-UNION.i1.51023: You now have 1 total LP.
+[15:10:08] Andrew 'Razor' Gonzalez: Alright, sounds good.
+[15:10:21] Charlie: /adminspawnmenu
+[15:10:24] CCA.C08-UNION.i1.51023: /me takes the bucket and walks away, climbing up the ladder behind him.
+[15:10:35] Andrew 'Razor' Gonzalez: /me would put his hands in his coat, walking off
+[15:10:51] CCA.C08-UNION.i1.51023<STEAM_0:1:53097688> spawned sent ix_testent8
+[15:11:05] CCA.C08-UNION.i1.51023<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_combine/combine_interface003.mdl
+[15:11:11] Client "[C5] Chicken" connected.
+[15:11:13] Morgan Beck: Howdy.
+[15:11:14] Client "[C5] Chicken" connected.
+[15:11:16] Client "[C5] Chicken" connected.
+[15:11:26] Andrew 'Razor' Gonzalez: Oh, hi, didn't think anyone was here.
+[15:11:38] Morgan Beck: Yeah, sorry. I'm currently preparing to open this  cafe up.
+[15:11:45] Andrew 'Razor' Gonzalez: Oh, bad time?
+[15:11:50] Morgan Beck: Yeah. Also rations.
+[15:12:01] Morgan Beck: /me would wave, before quickly rushing off.
+[15:12:01] Client "[C5] Chicken" connected.
+[15:12:03] Andrew 'Razor' Gonzalez: Yeah.
+[15:12:07] Ethan King: // Chicken is getting on
+[15:12:07] Client "[C5] Chicken" connected.
+[15:12:08] Andrew 'Razor' Gonzalez: /me would head out as well.
+[15:12:10] Ethan King: // Oh god oh fuck
+[15:12:13] CCA.C08-UNION.i1.51023: //he's banned
+[15:12:17] Morgan Beck: // Isn-
+[15:12:21] Morgan Beck: Uh...?
+[15:12:24] Andrew 'Razor' Gonzalez: Uh...
+[15:12:26] Morgan Beck: What the fuck.
+[15:12:28] CCA.C08-UNION.i1.51023: //or he *should* be
+[15:12:29] Ethan King: // Player [C5] Chicken has joined the game
+[15:12:33] Ethan King: // hmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+[15:12:33] Andrew 'Razor' Gonzalez: Did a bird get the glass?
+[15:12:34] Charlie: Caw
+[15:12:35] CCA.C08-UNION.i1.51023: //it says that 5 times
+[15:12:37] Morgan Beck: I uh...
+[15:13:10] Morgan Beck: /looc hello?
+[15:13:12] Client "[C5] Chicken" connected.
+[15:13:16] Charlie: .// hello
+[15:13:18] CCA.C08-UNION.i1.51023 banned steamid STEAM_0:0:143523274 permanently (Chicken.)
+[15:13:27] CCA.C08-UNION.i1.51023: .//hello, sorry, was making sure chicken is banned
+[15:13:28] Andrew 'Razor' Gonzalez: [[ curb stomp for damages
+[15:13:32] Morgan Beck: /looc got it
+[15:13:36] CCA.C08-UNION.i1.51023: apply
+[15:13:39] Morgan Beck: /apply
+[15:13:48] CCA.C08-UNION.i1.51023: /me takes out their datapad and types a couple things in.
+[15:13:50] CCA.C08-UNION.i1.51023: /viewdata morgan
+[15:13:54] CCA.C08-UNION.i1.51023: 1 standard.
+[15:13:55] CCA.C08-UNION.i1.51023: /viewdata morgan
+[15:13:58] Morgan Beck: Got it, thanks.
+[15:13:59] CCA.C08-UNION.i1.51023: /viewdata morgan
+[15:14:14] Ethan King: // Fun fact: rocket launchers have no recoil.
+[15:14:15] CCA.C08-UNION.i1.51023: next.
+[15:14:21] Charlie: /createcid "Charlie (Bird)" 384923
+[15:14:23] Andrew 'Razor' Gonzalez: /me would step up to the window
+[15:14:30] CCA.C08-UNION.i1.51023: apply
+[15:14:31] Andrew 'Razor' Gonzalez: /apply
+[15:14:36] CCA.C08-UNION.i1.51023: /viewdata razor
+[15:14:38] CCA.C08-UNION.i1.51023: 1 standard.
+[15:14:47] Andrew 'Razor' Gonzalez: /me nods.
+[15:14:50] Morgan Beck: Well, this is a fuckin problem.
+[15:14:56] CCA.C08-UNION.i1.51023: /chargiveitem albright nugget
+[15:14:57] Andrew 'Razor' Gonzalez: Thank you
+[15:14:57] CCA.C08-UNION.i1.51023: /plysearch
+[15:15:02] Andrew 'Razor' Gonzalez: /me would step out, walking off
+[15:15:07] Andrew 'Razor' Gonzalez: [[ mf
+[15:15:18] CCA.C08-UNION.i1.51023: .//<:: Apply. ::>
+[15:15:23] Charlie: .// Charlie, 38472
+[15:15:32] CCA.C08-UNION.i1.51023: .//5 priority.
+[15:15:46] Charlie: .// fuck off you wanker
+[15:15:47] Morgan Beck: This is bullshit
+[15:16:02] Morgan Beck: Ugh...
+[15:16:07] CCA.C08-UNION.i1.51023: //which btw i checked and he is 100% banned
+[15:16:11] Morgan Beck: // Good.
+[15:16:17] Andrew 'Razor' Gonzalez: /me would look at the broken window on the top
+[15:16:18] Ethan King: // Wonderful
+[15:16:24] CCA.C08-UNION.i1.51023: //but i'll make sure i have the ban reason up to date
+[15:16:27] Andrew 'Razor' Gonzalez: Damn crows..
+[15:16:37] Morgan Beck: /me would groan, trying to think about how much tokens this would cost him to fix.
+[15:16:40] Charlie: /w :)
+[15:16:40] Ethan King: // I will now use the back blast of an AT4 to annihilate you.
+[15:16:57] Andrew 'Razor' Gonzalez: // Backblast *not* clear
+[15:17:11] Morgan Beck: /me lets out a damn yelp from the sudden fucking bird behind him.
+[15:17:12] CCA.C08-UNION.i1.51023: //yep, the ban reason is "It's Chicken."
+[15:17:17] Ethan King: // Good
+[15:17:20] Ethan King: // He deserves it.
+[15:17:24] Andrew 'Razor' Gonzalez: // Chicken Little?
+[15:17:37] CCA.C08-UNION.i1.51023: //nah, mrchicken, this long time mingy player who got permanently banned
+[15:17:38] Morgan Beck: /me would grab his pan, opening the door and trying to push the creature out.
+[15:17:41] CCA.C08-UNION.i1.51023: //did i ever tell you that drpepper10 got on the server death
+[15:17:41] Andrew 'Razor' Gonzalez: // Hm
+[15:17:49] Andrew 'Razor' Gonzalez: // What??
+[15:17:57] CCA.C08-UNION.i1.51023: //yeah
+[15:17:58] Charlie: /toggleraise
+[15:17:59] Andrew 'Razor' Gonzalez: // Damn what did he do on here?
+[15:18:02] Charlie: /toggleraise
+[15:18:03] CCA.C08-UNION.i1.51023: //banned permanently as soon as i realized that's who it was
+[15:18:12] Andrew 'Razor' Gonzalez: // Ah, good idea
+[15:18:15] CCA.C08-UNION.i1.51023: //nothing because i banned them within 2 minutes of them making a char
+[15:18:20] Charlie: // brb
+[15:18:33] Andrew 'Razor' Gonzalez: // I always have a list of steam ID's to ban when I made a rp server
+[15:18:43] CCA.C08-UNION.i1.51023: //is biotech one of them death
+[15:19:17] Andrew 'Razor' Gonzalez: // Honestly he was and then he actually listened for once in his life despite him trying to have pictures of me
+[15:19:32] CCA.C08-UNION.i1.51023: //see chicken was our closest biotech equivalent
+[15:19:48] CCA.C08-UNION.i1.51023: //drew a picture of a player as a femboy without their consent then wrote a fanfic about several community members, again without their consent
+[15:20:07] Andrew 'Razor' Gonzalez: // Ew really? Fuck dude that's creepy shit
+[15:20:11] CCA.C08-UNION.i1.51023: //yeah
+[15:20:12] CCA.C08-UNION.i1.51023: //he's 13
+[15:20:13] Morgan Beck: // didn't help that for a time, we were suspicious that he was underage
+[15:20:14] CCA.C08-UNION.i1.51023: //but acts 10
+[15:20:18] Andrew 'Razor' Gonzalez: // 13?
+[15:20:24] CCA.C08-UNION.i1.51023: //that's what he says
+[15:20:26] Andrew 'Razor' Gonzalez: // Fucking kids now
+[15:20:26] Morgan Beck: // yeah.
+[15:20:34] Morgan Beck: // I hate very few people.
+[15:20:38] Morgan Beck: // Chicken is one of those people.
+[15:20:45] Charlie: // a fanfic was written about him in response
+[15:20:54] Andrew 'Razor' Gonzalez: // I swear I hate a lot of kids under 16 nowdays
+[15:21:09] Morgan Beck: // Yeah, same honestly.
+[15:21:18] Charlie: // yeah
+[15:21:18] Andrew 'Razor' Gonzalez: // Especially those that I need to give a ticket too
+[15:21:25] Ethan King: // Imma just stand clear of this conversation.
+[15:21:27] Andrew 'Razor' Gonzalez: // Because of their shitty Honda Civics
+[15:21:33] CCA.C08-UNION.i1.51023: //LMAO i was about to say light
+[15:21:45] Andrew 'Razor' Gonzalez: // I don't hate kids that actually follow the law
+[15:22:15] Ethan King: // Good to know ;-;
+[15:22:15] Andrew 'Razor' Gonzalez: // But if you're doing street races or bursting loud fucking music at 3am in a suburban neighborhood, you're getting the ticket
+[15:22:24] CCA.C08-UNION.i1.51023: //as well you should
+[15:22:32] Morgan Beck: // oh shit if orgot the kato can play music :)
+[15:22:35] Charlie: // kids are fucky where i am, my school was on the news canada-wide and i think evejn in fucking malaysia
+[15:22:45] CCA.C08-UNION.i1.51023: //pardon?
+[15:22:54] Client "FilmsActionCZ" connected.
+[15:22:56] Charlie: // one of my buddies got forced to lay in a creek by other students
+[15:23:01] Ethan King: // Thankfully I just fucking research guns on my off time so cool.
+[15:23:06] Andrew 'Razor' Gonzalez: // 80 percent of my speeding tickets I give out to are 16-18
+[15:23:30] Morgan Beck: // that sounds very questionable out of context light
+[15:23:31] Andrew 'Razor' Gonzalez: // That was before I got put into SWAT and I was basic traffic asshole cop
+[15:23:36] Ethan King: // How?
+[15:23:53] Charlie: // normal people dont study guns with their free time
+[15:24:00] Andrew 'Razor' Gonzalez: // If you're researching guns, as long as you're not planning to do the uh, you know what..
+[15:24:17] Ethan King: // I'm not, I just like learning about guns.
+[15:24:20] Andrew 'Razor' Gonzalez: // We had a few calls like that in the previous few months this year in my city
+[15:24:42] Andrew 'Razor' Gonzalez: // Someone threatening to bomb a high school, a kid threatening to knife another student
+[15:24:53] Morgan Beck: // Jesus,
+[15:24:55] CCA.C08-UNION.i1.51023: //fuck's saje
+[15:24:57] CCA.C08-UNION.i1.51023: //sake*
+[15:24:58] Andrew 'Razor' Gonzalez: // First one was basically a hoax but the other one..
+[15:24:58] Ethan King: // Jesus
+[15:25:02] Charlie: // why the fuck would you threaten to bomb a high school
+[15:25:07] Andrew 'Razor' Gonzalez: // It happens
+[15:25:12] Andrew 'Razor' Gonzalez: // End of the school year
+[15:25:20] Andrew 'Razor' Gonzalez: // People like to make joke calls
+[15:25:26] Andrew 'Razor' Gonzalez: // We find them, tell the parents
+[15:25:31] Andrew 'Razor' Gonzalez: // Blah blah blah
+[15:25:35] Charlie: // then you gotta go stand in the cold for an hour 
+[15:25:41] Charlie: // fuckin dumbasses
+[15:25:43] Morgan Beck: // Yeah. I swear I heard a few Seniors talk about their "big prank right before their graduation" before.
+[15:25:44] Andrew 'Razor' Gonzalez: // Well here in Florida it's hot so
+[15:25:59] Andrew 'Razor' Gonzalez: // But the student with a knife..yeah.
+[15:26:00] Charlie: // ah im in canada so 3/4 seasons are cold
+[15:26:01] Ethan King: // Louisiana weather is just "D A M P"
+[15:26:08] Charlie: // sometimes it's wet
+[15:26:12] Charlie: // because coast
+[15:26:15] CCA.C08-UNION.i1.51023: //when a local school in my state had a shooting, a student at a local high school called in a bomb threat on top of it just.. because
+[15:26:27] CCA.C08-UNION.i1.51023: //don't worry, nobody was killed
+[15:26:32] Andrew 'Razor' Gonzalez: // We had a stabbing situation here in my city
+[15:26:36] Andrew 'Razor' Gonzalez: // High school, too
+[15:26:46] CCA.C08-UNION.i1.51023: damn
+[15:26:52] CCA.C08-UNION.i1.51023: //damn
+[15:26:53] CCA.C08-UNION.i1.51023: .//void
+[15:26:55] Ethan King: // holy hell
+[15:26:58] Charlie: // 3 schools in my municipality had a shooting threat called in at the same time, then a guy pulled a knife on a kid with autism
+[15:27:03] Andrew 'Razor' Gonzalez: // Boy stabbed another boy because his gf broke up with him to get with the victim
+[15:27:19] CCA.C08-UNION.i1.51023: //back at my old high school there wasn't much violence
+[15:27:20] Charlie: // ???? do people lack critical thinking
+[15:27:21] CCA.C08-UNION.i1.51023: //at least
+[15:27:23] CCA.C08-UNION.i1.51023: //not with objects
+[15:27:29] CCA.C08-UNION.i1.51023: //but holy shit there were a lot of fistfights
+[15:27:30] Charlie: // what would stabbing the dude do to help
+[15:27:40] Andrew 'Razor' Gonzalez: // This was before the Surfside collapse in my city too, btw. It happened like, two weeks before we got the call of a building collapsing there
+[15:27:44] CCA.C08-UNION.i1.51023: //i remember a local high school made the news because of a fight that was super bad
+[15:28:02] Andrew 'Razor' Gonzalez: // My high school is were the stabbing happened
+[15:28:06] CCA.C08-UNION.i1.51023: //fuck
+[15:28:10] Morgan Beck: // High school is def a emotional time for some people, so I can see how *some* people might loose their cool
+[15:28:19] Morgan Beck: // But fucking christ
+[15:28:19] Andrew 'Razor' Gonzalez: // But a fucking knife??
+[15:28:28] CCA.C08-UNION.i1.51023: //me when i lose my cool and stab someone
+[15:28:29] Andrew 'Razor' Gonzalez: // I had to talk the kid down.
+[15:29:00] Andrew 'Razor' Gonzalez: // The stabbing was my first call as a SWAT operator
+[15:29:02] CCA.C08-UNION.i1.51023: //american high schoolers after calling in a bomb threat and stabbing 3 students: "almost lost my cool there"
+[15:29:11] Ethan King: // Lmao
+[15:29:11] Client "FilmsActionCZ" spawned in server <STEAM_0:1:56987960> (took 377 seconds).
+[15:29:18] Charlie: // one of the weirdest things was a few conservation officers coming into my school for god knows what
+[15:29:40] Andrew 'Razor' Gonzalez: // Oh and believe me, if SWAT comes at your door, you're highly likely to get injured somehow perhaps
+[15:30:04] Andrew 'Razor' Gonzalez: // Because we're trained for intense situations where the gun most likely, will need to come first
+[15:30:14] Andrew 'Razor' Gonzalez: // And that's what people hate about us.
+[15:30:30] Ethan King: // When are SWAT teams gonna get issued the old fashioned M1911? or maybe the M45A1?
+[15:30:42] Ethan King: // If only.
+[15:31:00] Andrew 'Razor' Gonzalez: // Like the shooting in Valencia, 2 cops shot 2 kids because they had an AK-47 and a Beretta M92
+[15:31:09] Andrew 'Razor' Gonzalez: // They won't most likely
+[15:31:16] Ethan King: // I know, but I can dream.
+[15:31:17] Andrew 'Razor' Gonzalez: // We won't get issued that
+[15:31:34] Ethan King: // Single stack pistols just aren't good enough now.
+[15:31:46] Andrew 'Razor' Gonzalez: // Our shit is now "top tier equipment"
+[15:31:55] Andrew 'Razor' Gonzalez: // Despite the maitenance
+[15:32:09] Andrew 'Razor' Gonzalez: // I call bs but whatever
+[15:32:11] Charlie: // issue swat teams flintlocks 
+[15:32:14] Ethan King: // Yes
+[15:32:38] Andrew 'Razor' Gonzalez: // Give us a grapeshot cannon too while you're at it lmao
+[15:32:54] Charlie: // cavalry sabres!
+[15:32:58] Charlie: // not infantry
+[15:33:00] Charlie: // cavalry
+[15:33:09] Morgan Beck: // fuck it, let's just go back to the stone age
+[15:33:15] Andrew 'Razor' Gonzalez: // I loved being a cav scout though
+[15:33:23] Andrew 'Razor' Gonzalez: // Good times
+[15:33:24] Ethan King: // Also give new SWAT members fuckin M72 LAW rocket launchers.
+[15:33:24] CCA.C08-UNION.i1.51023: //anarchoprimitivism gang
+[15:33:27] CCA.C08-UNION.i1.51023: //return to monke
+[15:33:38] Andrew 'Razor' Gonzalez: // Honestly just let us use our fists
+[15:33:38] Charlie: // loved being a what?
+[15:33:48] Andrew 'Razor' Gonzalez: // Cav scout
+[15:33:53] Charlie: // explain
+[15:33:58] CCA.C08-UNION.i1.51023: //thinking about how my grandpa was issues nunchuks at one point as a polcie officer
+[15:34:05] Andrew 'Razor' Gonzalez: /setpersist
+[15:34:09] Andrew 'Razor' Gonzalez: // 19 Delta
+[15:34:09] CCA.C08-UNION.i1.51023: //nunchucks? nunchuks?
+[15:34:19] Andrew 'Razor' Gonzalez: // MOS in the Army for a Cav scout was 19D
+[15:34:26] Andrew 'Razor' Gonzalez: // I managed to get in it
+[15:35:01] Andrew 'Razor' Gonzalez: // Before I became a PO I was in the Army and I was a 19 Delta, Armored Recon Specialist.
+[15:35:14] Charlie: // oh cool
+[15:35:21] Andrew 'Razor' Gonzalez: // Long story as to why but me and my friend wanted to so our dumbasses were desperate.
+[15:35:26] CCA.C08-UNION.i1.51023: //did you just do the 4 year enlistment, longer, what'd you do?
+[15:35:29] CCA.C08-UNION.i1.51023: //but also cool
+[15:36:15] Andrew 'Razor' Gonzalez: // Standard 4 year contract but I got up to Corporal
+[15:36:23] CCA.C08-UNION.i1.51023: //nice
+[15:36:25] Charlie: // im thinking about joining the armed forces once i go to university, and try to be a social work officer
+[15:36:31] CCA.C08-UNION.i1.51023: //my dad served 20 years and retired as a gunnery sergeant in the marines
+[15:36:44] CCA.C08-UNION.i1.51023<STEAM_0:1:53097688> changed their name to CCA.C17-GRID.EpU.06912
+[15:36:51] Andrew 'Razor' Gonzalez: // I couldn't do marine crayon, I was a fucking stick when I enlisted
+[15:37:04] Andrew 'Razor' Gonzalez: // I got into shape after BCT though
+[15:37:14] CCA.C17-GRID.EpU.06912: //my dad used to be a stick and look like prince
+[15:37:14] Andrew 'Razor' Gonzalez: // I was a double rat in BCT because of my weight
+[15:37:20] CCA.C17-GRID.EpU.06912: //not in a cool way but in a "
+[15:37:24] CCA.C17-GRID.EpU.06912: //"hide your kids" kinda way
+[15:37:37] Andrew 'Razor' Gonzalez: // I looked like a skeleton in BCT
+[15:37:44] Ethan King: // I have returned.
+[15:37:45] Andrew 'Razor' Gonzalez: // But no one made fun of me surprisingly
+[15:37:54] Andrew 'Razor' Gonzalez: // They just felt bad for me sort of
+[15:38:11] Andrew 'Razor' Gonzalez: // Cav scout was my favorite time though
+[15:38:17] Ethan King: // Gotta hop off for a bit
+[15:38:20] CCA.C17-GRID.EpU.06912: /dispatch Attention, citizens. Mandatory labor repayment is beginning at Industrial Complex 3. Report for a work cycle immediately.
+[15:38:27] Ethan King: // You guys have a good one.
+[15:38:27] Andrew 'Razor' Gonzalez: // Shot a lot of shit, drove a lot, ran.
+[15:38:30] Andrew 'Razor' Gonzalez: // You too.
+[15:38:30] Ethan King: // I'll be back later
+[15:38:36] CCA.C17-GRID.EpU.06912: //thanks for hopping on ,see your later
+[15:38:38] Dropped "Ethan King" from server<STEAM_0:1:17219621>
+[15:39:10] CCA.C17-GRID.EpU.06912: Alright, that should be everyone.
+[15:39:16] Andrew 'Razor' Gonzalez: Oh damn my filter is about to run out, can I come back in a minute?
+[15:39:21] CCA.C17-GRID.EpU.06912: /y Both of you, line up on the wall to my left, facing it. You know the drill by now I'm sure.
+[15:39:22] Morgan Beck: I have a spare.
+[15:39:28] Morgan Beck: /me pulls out a filter from his bag.
+[15:39:32] Morgan Beck: You need it?
+[15:39:37] Andrew 'Razor' Gonzalez: Yeah, please.
+[15:39:53] Andrew 'Razor' Gonzalez: Thanks man
+[15:39:56] Morgan Beck: Yup.
+[15:39:57] Andrew 'Razor' Gonzalez: /me would face the wall.
+[15:40:13] CCA.C17-GRID.EpU.06912: This wall was to my right, but it works.
+[15:40:15] CCA.C17-GRID.EpU.06912: /me would proceed to tie the individual. Would they resist?
+[15:40:19] CCA.C17-GRID.EpU.06912: .//that's you death
+[15:40:19] Morgan Beck: Ah, sorry.
+[15:40:23] Andrew 'Razor' Gonzalez: /me would not resist
+[15:40:36] Andrew 'Razor' Gonzalez: [[ It's fine
+[15:40:50] Morgan Beck: /me would prepare, putting his hands behind his back. (not going to resist so just go ahead and do it)
+[15:41:00] Andrew 'Razor' Gonzalez: /me would not resist
+[15:41:08] CCA.C17-GRID.EpU.06912: .//i literally ahve this bind, void it of course
+[15:41:09] CCA.C17-GRID.EpU.06912: /me doesn't resist being tied, searched or anything. They are completely compliant given that the situation does not escalate.
+[15:41:13] CCA.C17-GRID.EpU.06912: /me would proceed to tie the individual. Would they resist?
+[15:41:22] CCA.C17-GRID.EpU.06912: .//now it's your ollie
+[15:41:24] Morgan Beck: /it Nope, they don't.
+[15:41:38] CCA.C17-GRID.EpU.06912: /charsearch
+[15:41:42] CCA.C17-GRID.EpU.06912: /charsearch
+[15:41:48] CCA.C17-GRID.EpU.06912: /plysearch
+[15:41:53] CCA.C17-GRID.EpU.06912: /charsearch
+[15:41:58] CCA.C17-GRID.EpU.06912: /pm echo SWIM
+[15:42:00] CCA.C17-GRID.EpU.06912: /plysearch
+[15:42:08] CCA.C17-GRID.EpU.06912: /pm echo SWIM
+[15:42:09] CCA.C17-GRID.EpU.06912: /chargiveitem albright nugget
+[15:42:10] CCA.C17-GRID.EpU.06912: /plysearch
+[15:42:16] CCA.C17-GRID.EpU.06912: alright
+[15:42:20] CCA.C17-GRID.EpU.06912: /me would take out his combat knife and cut the individual's ties.
+[15:42:27] CCA.C17-GRID.EpU.06912: /me would take out his combat knife and cut the individual's ties.
+[15:42:53] CCA.C17-GRID.EpU.06912: Both of you come with me.
+[15:43:00] Andrew 'Razor' Gonzalez: /me would turn around, facing the unit
+[15:43:25] CCA.C17-GRID.EpU.06912: Both of you put down your storage items now.
+[15:43:32] CCA.C17-GRID.EpU.06912: .//if you don't it'll break the item so
+[15:43:34] CCA.C17-GRID.EpU.06912: .//make sure you dfo that
+[15:43:46] Andrew 'Razor' Gonzalez: /me would put down the items on the ground
+[15:44:01] CCA.C17-GRID.EpU.06912: .//holy shit ben shapiro has a weird voice
+[15:44:07] Morgan Beck: /looc lmao
+[15:44:10] CCA.C17-GRID.EpU.06912: .//not to get political but what the sweet fuck is up with his voice
+[15:44:13] FilmsActionCZ<STEAM_0:1:56987960> changed their name to James Diamond
+[15:44:18] CCA.C17-GRID.EpU.06912: //Welcome!
+[15:44:27] CCA.C17-GRID.EpU.06912: There are two options for both of you.
+[15:44:30] Andrew 'Razor' Gonzalez: [[ Sometimes annoying but I'm not one to get into much politics
+[15:44:46] CCA.C17-GRID.EpU.06912: .//i'm very political but i keep it away from the serer
+[15:44:49] CCA.C17-GRID.EpU.06912: .//server&
+[15:44:58] CCA.C17-GRID.EpU.06912: .//you can probably guess my skew based on the server's icon right now
+[15:45:03] Charlie<STEAM_0:0:193599766> changed their name to CCA.C08-GRID.i1.23710
+[15:45:05] CCA.C17-GRID.EpU.06912: //i'll be right down to print you an ID, give me a hot second
+[15:45:07] Andrew 'Razor' Gonzalez: [[ Yeah
+[15:45:10] CCA.C08-GRID.i1.23710: // no fuck off
+[15:45:11] CCA.C17-GRID.EpU.06912: Metal refining and technology refining.
+[15:45:13] James Diamond: // it has been a second good sir!
+[15:45:15] CCA.C17-GRID.EpU.06912: //oh right, grid is here
+[15:45:15] CCA.C08-GRID.i1.23710: // i'll do it
+[15:45:18] CCA.C17-GRID.EpU.06912: //thank you grid
+[15:45:24] CCA.C08-GRID.i1.23710: // you're welcome grid
+[15:45:34] Andrew 'Razor' Gonzalez: // Ew grid talk
+[15:45:38] Andrew 'Razor' Gonzalez: // Grease talk
+[15:45:55] CCA.C17-GRID.EpU.06912: Metal refining, you take charred metal, melt it down, and take out the better quality metal and keep doing this refining process until you get refined metal.
+[15:45:59] CCA.C08-GRID.i1.23710: Relocation coupon?
+[15:46:02] James Diamond: /me would place down his relocation coupon.
+[15:46:11] James Diamond: .// how does it feel to be a collaborator
+[15:46:13] CCA.C17-GRID.EpU.06912: Electronic refining, you take scrap electronics and take away the broken parts and keep the functional parts.]
+[15:46:15] CCA.C08-GRID.i1.23710: /me would take his coupon. "Wait here."
+[15:46:17] CCA.C08-GRID.i1.23710: .// horrible
+[15:46:22] James Diamond: .// go rogue
+[15:46:25] CCA.C17-GRID.EpU.06912: Electronic refining is faster but pays less, metal refining is slower but pays more.
+[15:46:26] James Diamond: .// HAH YOU CANT
+[15:46:28] CCA.C08-GRID.i1.23710: .// already did on another char
+[15:46:31] James Diamond: .// oh i see
+[15:46:33] CCA.C08-GRID.i1.23710: .// holy shit this mess
+[15:46:34] James Diamond: .// :D
+[15:46:43] James Diamond: .// how many ids r those
+[15:46:44] CCA.C08-GRID.i1.23710 to admins: WHATS THE PASSWORDS
+[15:46:49] CCA.C08-GRID.i1.23710: .// 2
+[15:46:50] CCA.C17-GRID.EpU.06912 to admins: fuck if i know
+[15:46:54] Morgan Beck: I'm fine with either. I'll take the opposite of whatever the other guy chooses.
+[15:46:56] James Diamond: // how to make everything not glow? whats the console command
+[15:46:57] CCA.C08-GRID.i1.23710 to admins: im just removing it
+[15:47:02] CCA.C08-GRID.i1.23710 to admins: we have door locks
+[15:47:06] CCA.C17-GRID.EpU.06912: //mat_specular 0
+[15:47:14] Andrew 'Razor' Gonzalez: I mean, I'll take the metal
+[15:47:38] CCA.C17-GRID.EpU.06912: .//electronic refining increases your engineering, metal refining increases your fabrication
+[15:47:46] CCA.C17-GRID.EpU.06912: .//both are done through your crafting menu in the tab menu
+[15:47:59] CCA.C08-GRID.i1.23710: Alright, blood type, sex, date of birth, medical or mental conditions?
+[15:48:02] CCA.C17-GRID.EpU.06912: You can find the supplies for each in the green supply cabinets to my right.
+[15:48:12] CCA.C17-GRID.EpU.06912: Any questions?
+[15:48:18] Morgan Beck: Negative.
+[15:48:19] Andrew 'Razor' Gonzalez: Nope.
+[15:48:24] Dropped "James Diamond" from server<STEAM_0:1:56987960>
+[15:48:29] CCA.C08-GRID.i1.23710: // :/
+[15:48:32] CCA.C17-GRID.EpU.06912: The forge behind me you need to do the metal refining, and you turn them in to the combine terminal further behind me.
+[15:48:41] CCA.C17-GRID.EpU.06912: You need blacksmith tongs for metal refining.
+[15:48:48] CCA.C08-GRID.i1.23710: /viewobjectives
+[15:48:50] CCA.C17-GRID.EpU.06912: Your time begins....
+[15:48:54] CCA.C17-GRID.EpU.06912: /me types in to his datapad.
+[15:49:01] CCA.C17-GRID.EpU.06912: Hold on...
+[15:49:05] CCA.C17-GRID.EpU.06912: ....Now.
+[15:49:19] Andrew 'Razor' Gonzalez: /me would head over to the closet, picking up the supplies needed.
+[15:49:34] Morgan Beck: // uhhh where's the tech shit
+[15:49:46] Andrew 'Razor' Gonzalez: Metal..ah, here we go.
+[15:49:56] Andrew 'Razor' Gonzalez: /me would close the door, heading over to find the tongs
+[15:49:59] Client "FilmsActionCZ" connected.
+[15:50:02] CCA.C17-GRID.EpU.06912: /y Tongs are in the cabinet.
+[15:51:04] CCA.C17-GRID.EpU.06912: //not to get political but how many glasses of water should you drink a day
+[15:51:10] Andrew 'Razor' Gonzalez: // A gallon
+[15:51:13] CCA.C08-GRID.i1.23710: // no
+[15:51:17] CCA.C08-GRID.i1.23710: // no set amount
+[15:51:20] Morgan Beck: // 3-4 I feel like.
+[15:51:23] CCA.C08-GRID.i1.23710: // drink when your thirsty
+[15:51:27] CCA.C08-GRID.i1.23710: // thats it
+[15:51:30] Andrew 'Razor' Gonzalez: /me would begin to use the forge, using the tongs and metal to make scrap metal.
+[15:52:46] CCA.C17-GRID.EpU.06912: //i had like
+[15:52:53] CCA.C17-GRID.EpU.06912: //one glass of water from friday to monday
+[15:52:56] CCA.C17-GRID.EpU.06912: //should i be dead
+[15:53:01] Morgan Beck: // bruh
+[15:53:06] Client "FilmsActionCZ" connected.
+[15:53:09] Morgan Beck: // do you drink anything else?
+[15:53:16] CCA.C17-GRID.EpU.06912: //i had a root beer float
+[15:53:23] CCA.C17-GRID.EpU.06912: //and some sprite
+[15:53:25] CCA.C17-GRID.EpU.06912: //and a reign
+[15:53:31] CCA.C17-GRID.EpU.06912: //some milk
+[15:53:33] CCA.C17-GRID.EpU.06912: //and some iced tea
+[15:54:21] CCA.C17-GRID.EpU.06912: //jerma would slap me i think
+[15:54:34] CCA.C17-GRID.EpU.06912: /chargiveitem epu "armor repair"
+[15:55:59] Client "FilmsActionCZ" spawned in server <STEAM_0:1:56987960> (took 173 seconds).
+[15:56:15] CCA.C08-GRID.i1.23710: // welcolen vback
+[15:56:18] CCA.C08-GRID.i1.23710: // welcom jhback
+[15:56:22] CCA.C08-GRID.i1.23710: // welvo me cabkl
+[15:56:29] CCA.C17-GRID.EpU.06912: //take a breath
+[15:56:30] CCA.C08-GRID.i1.23710: // weclome wabk
+[15:56:43] CCA.C08-GRID.i1.23710: // welcome bcack
+[15:56:44] FilmsActionCZ<STEAM_0:1:56987960> changed their name to James Diamond
+[15:56:47] CCA.C08-GRID.i1.23710: // close enough
+[15:56:47] CCA.C17-GRID.EpU.06912: /charsetname epu "CCA.C08-GRID.EpU.06912
+[15:56:48] CCA.C17-GRID.EpU.06912<STEAM_0:1:53097688> changed their name to "CCA.C08-GRID.EpU.06912
+[15:56:49] James Diamond: // GRID I AM BACK
+[15:56:52] "CCA.C08-GRID.EpU.06912: /charsetname epu "CCA.C08-GRID.EpU.06912"
+[15:56:52] "CCA.C08-GRID.EpU.06912<STEAM_0:1:53097688> changed their name to CCA.C08-GRID.EpU.06912
+[15:57:00] CCA.C08-GRID.i1.23710: // you are back!
+[15:57:05] James Diamond: // my game crashed
+[15:57:11] Morgan Beck: // oof
+[15:57:12] CCA.C08-GRID.i1.23710: // uncool
+[15:57:24] CCA.C08-GRID.i1.23710: w
+[15:57:44] CCA.C08-GRID.EpU.06912: //so who did you all vote for in the most recent russian election
+[15:57:49] CCA.C08-GRID.i1.23710: Alright, blood type, sex, medical conditions, mental conditions, and date of birth?
+[15:57:49] CCA.C08-GRID.EpU.06912: //did you vote for putin or putin
+[15:57:56] CCA.C08-GRID.i1.23710: // i voted for putin
+[15:58:01] Andrew 'Razor' Gonzalez: // Putin'
+[15:58:02] CCA.C08-GRID.EpU.06912: //see i was gonna vote for putin
+[15:58:16] CCA.C08-GRID.EpU.06912: //but then putin made some really good points and i kinda switched to his side
+[15:58:18] James Diamond: Oh Negative, Male, None known, None known...
+[15:58:20] CCA.C08-GRID.EpU.06912: //so i voted for putin instead
+[15:58:48] James Diamond: 20.02.1974.
+[15:59:01] CCA.C08-GRID.i1.23710: /viewdata diamond
+[15:59:46] James Diamond: // this server feels american
+[15:59:55] James Diamond: cheers
+[15:59:57] CCA.C08-GRID.i1.23710: // what is america
+[16:00:06] CCA.C08-GRID.EpU.06912: //grid i1 is canadian so not quite???
+[16:00:21] Andrew 'Razor' Gonzalez: // This is america
+[16:00:26] CCA.C08-GRID.i1.23710: .// movement violation
+[16:00:31] James Diamond: .// never happened
+[16:00:31] CCA.C08-GRID.i1.23710: .// prepare to be amputated
+[16:00:34] Morgan Beck: // no this is patrick
+[16:00:44] CCA.C08-GRID.EpU.06912: //i thought this was warehouse 3
+[16:00:57] CCA.C08-GRID.i1.23710: // this is the citadel
+[16:01:02] CCA.C08-GRID.i1.23710: // the halifax citadel
+[16:01:12] CCA.C08-GRID.EpU.06912: //what is halifax the capital of again grid
+[16:01:17] Morgan Beck: // this is the world if the french won
+[16:01:24] CCA.C08-GRID.i1.23710: // we're in quebec
+[16:01:27] CCA.C08-GRID.i1.23710: // : (
+[16:01:31] James Diamond: // not wearing my suit and i feel fine
+[16:01:40] CCA.C08-GRID.EpU.06912: //you're probably near an air vent
+[16:01:47] CCA.C08-GRID.EpU.06912: //air vents make you not have to wear a suit in their vicinity
+[16:01:54] Morgan Beck: // how long until workshift is over?
+[16:02:04] CCA.C08-GRID.EpU.06912: //2 minsd
+[16:02:10] Morgan Beck: // thank fuck
+[16:02:49] CCA.C08-GRID.EpU.06912: //hey death what are your thoughts on beets, just curious
+[16:02:59] Andrew 'Razor' Gonzalez: // Eh..
+[16:03:12] CCA.C08-GRID.EpU.06912: /toggleraise
+[16:03:14] CCA.C08-GRID.EpU.06912: /charfallover 0.1
+[16:03:17] CCA.C08-GRID.EpU.06912: /r Grid.
+[16:03:20] CCA.C08-GRID.EpU.06912: .//ignore that, wrong bind
+[16:03:21] Andrew 'Razor' Gonzalez: // It's okay
+[16:03:28] CCA.C08-GRID.EpU.06912: //that's passable
+[16:03:34] CCA.C08-GRID.EpU.06912: /r GRID i1.
+[16:03:41] CCA.C08-GRID.EpU.06912: /r Do you read?
+[16:03:59] CCA.C08-GRID.EpU.06912: Fuck's sake.
+[16:04:04] CCA.C08-GRID.EpU.06912: /y Behave yourselves while I'm gone.
+[16:04:11] CCA.C08-GRID.EpU.06912: /toggleraise
+[16:04:11] Morgan Beck: Fun.
+[16:04:13] Andrew 'Razor' Gonzalez: I guess..more time?
+[16:04:21] Morgan Beck: Yeah. Looked like it's storming out there though
+[16:04:33] Andrew 'Razor' Gonzalez: // Yeah I don't eat them much though
+[16:04:41] CCA.C08-GRID.EpU.06912: /visornotify GRID i1, respond with visor notifications.
+[16:04:42] Andrew 'Razor' Gonzalez: Rather not get this thing wet either
+[16:04:49] Morgan Beck: Yeah.
+[16:04:50] CCA.C08-GRID.EpU.06912: /toggleraise
+[16:04:58] CCA.C08-GRID.EpU.06912: /toggleraise
+[16:04:58] James Diamond: // lol noob epu
+[16:05:04] CCA.C08-GRID.EpU.06912: /toggleraise
+[16:05:19] CCA.C08-GRID.EpU.06912: /toggleraise
+[16:05:26] CCA.C08-GRID.EpU.06912: /y Time's up!
+[16:05:34] Morgan Beck: /y Got it. Lemme turn in these real quick.
+[16:05:45] CCA.C08-GRID.EpU.06912 to admins: is your radio on guy
+[16:05:50] Andrew 'Razor' Gonzalez: Damn I just was about to forge
+[16:06:02] CCA.C08-GRID.EpU.06912: Take your cases and face the wall.
+[16:06:23] Morgan Beck: /me puts his hands behind his back.
+[16:06:24] Andrew 'Razor' Gonzalez: /me would face the wall, putting his hands up against it.
+[16:06:37] Andrew 'Razor' Gonzalez: [[ and I do not resist
+[16:06:42] Morgan Beck: /looc same
+[16:06:42] CCA.C08-GRID.EpU.06912: /chargiveitem epu zip 4
+[16:06:46] CCA.C08-GRID.EpU.06912: /me would proceed to tie the individual. Would they resist?
+[16:06:53] CCA.C08-GRID.EpU.06912: /me would proceed to tie the individual. Would they resist?
+[16:06:59] CCA.C08-GRID.EpU.06912: /plysearch
+[16:07:11] CCA.C08-GRID.i1.23710 to admins: my mum's friend just gave me 2 chicks
+[16:07:14] Andrew 'Razor' Gonzalez: [[ My case!
+[16:07:14] CCA.C08-GRID.EpU.06912: /plysearch
+[16:07:20] CCA.C08-GRID.EpU.06912: cleaned
+[16:07:20] Andrew 'Razor' Gonzalez: [[ My sodas
+[16:07:20] CCA.C08-GRID.EpU.06912: /plysearch
+[16:07:28] CCA.C08-GRID.EpU.06912: /plysearch
+[16:07:33] CCA.C08-GRID.i1.23710: // afk
+[16:07:35] CCA.C08-GRID.EpU.06912: /plysearch
+[16:07:37] CCA.C08-GRID.EpU.06912: /plysearch
+[16:07:41] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> changed their name to Hollie Reynolds
+[16:07:43] CCA.C08-GRID.EpU.06912: You're clean.
+[16:07:48] CCA.C08-GRID.EpU.06912: Follow me.
+[16:08:03] CCA.C08-GRID.EpU.06912: Face the wall.
+[16:08:05] CCA.C08-GRID.EpU.06912: Let me cut your ties.
+[16:08:07] CCA.C08-GRID.EpU.06912: /me would take out his combat knife and cut the individual's ties.
+[16:08:14] CCA.C08-GRID.EpU.06912: /me would take out his combat knife and cut the individual's ties.
+[16:08:20] CCA.C08-GRID.EpU.06912: You're free to go.
+[16:08:36] CCA.C08-GRID.EpU.06912<STEAM_0:1:53097688> changed their name to CCA.C08-UNION.i1.51023
+[16:09:09] James Diamond: // NO COPS ON
+[16:09:25] Andrew 'Razor' Gonzalez: // 5v1
+[16:10:33] CCA.C08-UNION.i1.51023: /r No 10-64s at my 10-20, status green, reporting.
+[16:11:16] Andrew 'Razor' Gonzalez: Hm..
+[16:11:23] James Diamond: hey
+[16:11:27] James Diamond: /y how you doin
+[16:11:35] CCA.C08-UNION.i1.51023: /toggleraise
+[16:11:38] CCA.C08-UNION.i1.51023: /y Get down, right now.
+[16:11:47] Andrew 'Razor' Gonzalez: /me would look down to see this
+[16:12:07] Morgan Beck: /y Officer?
+[16:12:12] Morgan Beck: /y Guy ran to alleyway
+[16:12:17] CCA.C08-UNION.i1.51023: fuck's sake
+[16:12:19] CCA.C08-UNION.i1.51023: thanks
+[16:12:20] CCA.C08-UNION.i1.51023: /toggleraise
+[16:12:24] CCA.C08-UNION.i1.51023: /toggleraise
+[16:12:35] Andrew 'Razor' Gonzalez: So a guy punched a window..
+[16:12:46] Morgan Beck: Fuckin great. Saw them run down the alleyway.
+[16:12:53] Andrew 'Razor' Gonzalez: Huh, no wonder I heard the sound
+[16:13:10] Morgan Beck: Fun times
+[16:13:15] Andrew 'Razor' Gonzalez: Yeah..
+[16:13:28] CCA.C08-UNION.i1.51023: /r Malcompliant 10-91 not present.
+[16:13:46] CCA.C08-UNION.i1.51023: /r Returning to 17th street towers.
+[16:14:06] CCA.C08-UNION.i1.51023: /toggleraise
+[16:14:20] CCA.C08-UNION.i1.51023: /r I've got two 10-91s at my 10-20, status green.
+[16:14:28] CCA.C08-UNION.i1.51023 blinded Andrew 'Razor' Gonzalez,Chloe Cullen,Hollie Reynolds,James Diamond,Morgan Beck by amount 255
+[16:14:31] CCA.C08-UNION.i1.51023: //fuck
+[16:14:32] Andrew 'Razor' Gonzalez: /setpersist
+[16:14:32] CCA.C08-UNION.i1.51023: //wrong bind
+[16:14:32] CCA.C08-UNION.i1.51023 unblinded Everyone
+[16:14:35] Andrew 'Razor' Gonzalez: // nice
+[16:14:40] James Diamond: // ah ok :D
+[16:14:41] CCA.C08-UNION.i1.51023: //i have it for events
+[16:14:45] James Diamond: // aaaaaaaaaaaaaaaaaa i cant move
+[16:14:47] CCA.C08-UNION.i1.51023 unblinded Everyone
+[16:14:47] CCA.C08-UNION.i1.51023 unblinded Everyone
+[16:14:48] CCA.C08-UNION.i1.51023 unblinded Everyone
+[16:14:49] Andrew 'Razor' Gonzalez: Hey uh, a guy punched a window out.
+[16:14:54] Andrew 'Razor' Gonzalez: Up there.
+[16:14:57] CCA.C08-UNION.i1.51023: Fuck's sake.
+[16:15:01] Hollie Reynolds<STEAM_0:0:193599766> changed their name to CCA.C08-GRID.i1.23710
+[16:15:04] CCA.C08-UNION.i1.51023: Wait in the lobby for me, will you?
+[16:15:07] Andrew 'Razor' Gonzalez: Alright
+[16:15:09] CCA.C08-UNION.i1.51023: /toggleraise
+[16:15:11] James Diamond: // look at my ping
+[16:15:17] CCA.C08-UNION.i1.51023: //holy shit
+[16:15:19] Andrew 'Razor' Gonzalez: /setpersist
+[16:15:27] Andrew 'Razor' Gonzalez: // 700 yikes
+[16:15:34] CCA.C08-UNION.i1.51023: Get over here, now.
+[16:15:44] James Diamond: /me shakes his head.
+[16:15:45] CCA.C08-GRID.i1.23710: /r Unit is 10-8.
+[16:15:58] James Diamond: .// fuck
+[16:15:58] CCA.C08-UNION.i1.51023: /r Need backup at my 10-20, flat 3C, 17th street towers.
+[16:15:59] CCA.C08-UNION.i1.51023: /charfallover 0.1
+[16:16:31] James Diamond: /me would begin choking on the toxic air visibly, before slowly stepping backwards and allowing the empty air behind and under him to pull him down towards the cold, wet, ground.
+[16:16:31] CCA.C08-UNION.i1.51023: /r Malcompliant 10-91, suspect is suspected of 198. 
+[16:16:43] CCA.C08-UNION.i1.51023: /charban james
+[16:16:43] James Diamond<STEAM_0:1:56987960> changed their name to FilmsActionCZ
+[16:16:43] CCA.C08-GRID.i1.23710: .// oh my
+[16:16:46] CCA.C08-UNION.i1.51023: //me when suicide is a pk
+[16:16:55] Andrew 'Razor' Gonzalez: Holy-
+[16:17:02] CCA.C08-UNION.i1.51023<STEAM_0:1:53097688> spawned ragdoll models/humans/group01/male_06.mdl
+[16:17:05] Dropped "FilmsActionCZ" from server<STEAM_0:1:56987960>
+[16:17:07] CCA.C08-UNION.i1.51023<STEAM_0:1:53097688> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[16:17:17] CCA.C08-UNION.i1.51023<STEAM_0:1:53097688> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[16:17:17] CCA.C08-UNION.i1.51023<STEAM_0:1:53097688> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[16:17:21] Andrew 'Razor' Gonzalez: /me would see the dead body fallen onto the concrete
+[16:17:23] CCA.C08-UNION.i1.51023<STEAM_0:1:53097688> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[16:17:23] CCA.C08-UNION.i1.51023<STEAM_0:1:53097688> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[16:17:36] Andrew 'Razor' Gonzalez: What the hell happeneed?
+[16:17:39] Andrew 'Razor' Gonzalez: [[ happened*
+[16:17:53] Morgan Beck: F-Fuckin hell.
+[16:17:55] Andrew 'Razor' Gonzalez: This guy jumped off!
+[16:18:06] CCA.C08-UNION.i1.51023: Just a suicide, nothing to see here.
+[16:18:11] CCA.C08-GRID.i1.23710: .// mmmm free food
+[16:18:14] CCA.C08-GRID.i1.23710: .// eat up, boys
+[16:18:21] CCA.C08-UNION.i1.51023: fuck's sake
+[16:18:22] Andrew 'Razor' Gonzalez: [[ cannibal time
+[16:18:28] Morgan Beck: Was it... the guy who was running?
+[16:18:29] CCA.C08-UNION.i1.51023: Wanna flip a token to see who takes him in?
+[16:18:32] CCA.C08-UNION.i1.51023: Yeah.
+[16:18:39] Andrew 'Razor' Gonzalez: I'll uh..wait in the lobby like you said..
+[16:18:45] CCA.C08-UNION.i1.51023: Please do. You'll get LP.
+[16:18:51] Andrew 'Razor' Gonzalez: Gotcha.
+[16:19:00] Andrew 'Razor' Gonzalez: /me would head inside the lobby, standing there.
+[16:19:09] CCA.C08-UNION.i1.51023<STEAM_0:1:53097688> used the tool nocollideeverything on models/humans/group01/male_06.mdl
+[16:19:09] CCA.C08-GRID.i1.23710: I have uh... paperwork to do for uh... part requests.
+[16:19:18] CCA.C08-UNION.i1.51023: You can do it after. Heads or tails?
+[16:19:20] Andrew 'Razor' Gonzalez: [[ Grease talk
+[16:19:30] CCA.C08-GRID.i1.23710: Heads.
+[16:19:34] CCA.C08-UNION.i1.51023: .//0 is tails, 1 is heads
+[16:19:36] CCA.C08-UNION.i1.51023: /roll 1
+[16:19:51] CCA.C08-UNION.i1.51023: Alright, take the body to waste disposal.
+[16:19:53] Andrew 'Razor' Gonzalez: [[ Beta male if you don't take it
+[16:20:04] CCA.C08-UNION.i1.51023: apply
+[16:20:06] Andrew 'Razor' Gonzalez: /apply
+[16:20:07] CCA.C08-GRID.i1.23710: .// we have a waste disposal?
+[16:20:15] CCA.C08-UNION.i1.51023: .//yeah, it's at the building across from the trains tation
+[16:20:18] CCA.C08-UNION.i1.51023: //two doors ehind the one fence
+[16:20:32] CCA.C08-UNION.i1.51023: /me takes out their datapad and types a couple things in.
+[16:20:34] CCA.C08-UNION.i1.51023: /viewdata razor
+[16:20:50] Andrew 'Razor' Gonzalez: Yeah..I heard a window break and I went to check and I saw a guy on a ledge.
+[16:21:12] Andrew 'Razor' Gonzalez: Then I see him fall infront of me.
+[16:21:49] Andrew 'Razor' Gonzalez: [[ "Just a suicide, nothing to see." CCA equivalent of, "He was depressed."
+[16:22:03] CCA.C08-UNION.i1.51023: /viewdata razor
+[16:22:18] CCA.C08-UNION.i1.51023: You have 4 LP.
+[16:22:27] Andrew 'Razor' Gonzalez: Neat.
+[16:22:29] CCA.C08-UNION.i1.51023: Thank you for your loyalty.
+[16:22:39] Andrew 'Razor' Gonzalez: Well uh, anytime officer.
+[16:22:41] CCA.C08-UNION.i1.51023: 3 granted for reporting 198, intentional damage of Universal Union property.
+[16:22:45] CCA.C08-UNION.i1.51023: Keep up the good work.
+[16:22:48] CCA.C08-UNION.i1.51023: 6 more and you can apply for the CCA.
+[16:22:54] CCA.C08-UNION.i1.51023: 1 more and you get a yellow armband.
+[16:23:00] CCA.C08-UNION.i1.51023: you're free to go if you like.
+[16:23:11] CCA.C08-UNION.i1.51023: you can make it an even 5 if you clean up the blood.
+[16:23:22] Andrew 'Razor' Gonzalez: Eh sure, why not.
+[16:23:29] Andrew 'Razor' Gonzalez: Not the first time I've cleaned now.
+[16:23:32] CCA.C08-UNION.i1.51023: Alright, wait by the stain. I'll get the supplies.
+[16:23:46] CCA.C08-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_junk/metalbucket01a.mdl
+[16:24:07] CCA.C08-UNION.i1.51023<STEAM_0:1:53097688> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[16:24:09] CCA.C08-UNION.i1.51023<STEAM_0:1:53097688> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[16:24:11] CCA.C08-UNION.i1.51023<STEAM_0:1:53097688> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[16:24:17] CCA.C08-UNION.i1.51023<STEAM_0:1:53097688> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[16:24:27] CCA.C08-UNION.i1.51023<STEAM_0:1:53097688> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[16:24:28] CCA.C08-UNION.i1.51023<STEAM_0:1:53097688> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[16:24:29] CCA.C08-UNION.i1.51023<STEAM_0:1:53097688> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[16:24:32] CCA.C08-UNION.i1.51023<STEAM_0:1:53097688> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[16:24:37] CCA.C08-UNION.i1.51023 blinded Andrew 'Razor' Gonzalez,CCA.C08-GRID.i1.23710,Chloe Cullen,Morgan Beck by amount 255
+[16:24:37] CCA.C08-UNION.i1.51023<STEAM_0:1:53097688> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[16:24:38] CCA.C08-UNION.i1.51023 unblinded Everyone
+[16:24:39] CCA.C08-UNION.i1.51023 unblinded Everyone
+[16:24:39] CCA.C08-UNION.i1.51023 unblinded Everyone
+[16:24:39] CCA.C08-UNION.i1.51023 unblinded Everyone
+[16:24:40] CCA.C08-UNION.i1.51023 unblinded Everyone
+[16:24:40] CCA.C08-UNION.i1.51023 unblinded Everyone
+[16:24:44] CCA.C08-UNION.i1.51023 unblinded Everyone
+[16:24:44] CCA.C08-UNION.i1.51023 unblinded Everyone
+[16:24:44] CCA.C08-UNION.i1.51023 unblinded Everyone
+[16:24:44] CCA.C08-UNION.i1.51023 unblinded Everyone
+[16:24:44] CCA.C08-UNION.i1.51023 unblinded Everyone
+[16:25:45] CCA.C08-UNION.i1.51023: /me places down a bucket and hands the man a floor scrubber.
+[16:25:57] CCA.C08-UNION.i1.51023: .//the big kind, that looks like a rectangular mop.
+[16:26:04] Andrew 'Razor' Gonzalez: /me would take the floor scrubber, looking at the bucket
+[16:26:05] CCA.C08-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_junk/garbage_plasticbottle002a.mdl
+[16:26:06] Andrew 'Razor' Gonzalez: [[ Alright
+[16:26:07] CCA.C08-UNION.i1.51023<STEAM_0:1:53097688> spawned model models/props_junk/metalbucket02a.mdl
+[16:26:23] Andrew 'Razor' Gonzalez: Alright, this'll only take a minute due to the rain.
+[16:26:39] Morgan Beck: /toggleraise
+[16:26:40] Morgan Beck: /toggleraise
+[16:26:42] CCA.C08-UNION.i1.51023: Part of it is cleaning up the biohazard too, so make sure you scrub it.
+[16:26:43] CCA.C08-GRID.i1.23710: /toggleraise
+[16:26:45] Morgan Beck: /toggleraise
+[16:26:46] CCA.C08-GRID.i1.23710: /toggleraise
+[16:26:46] Morgan Beck: /toggleraise
+[16:26:48] CCA.C08-GRID.i1.23710: /me salutes
+[16:26:49] CCA.C08-GRID.i1.23710: /me attempts to tie the subject (resist?)
+[16:26:51] CCA.C08-GRID.i1.23710: /me strips of weapons and comms
+[16:26:52] CCA.C08-GRID.i1.23710: /me cuts the induviduals ties with his combat knife
+[16:26:53] CCA.C08-GRID.i1.23710: /me cuts the induviduals ties with his combat knife
+[16:26:57] Andrew 'Razor' Gonzalez: /me would dip the scrubber into the bucket, then heading over to the blood and biohazard, beginning to scrub it.
+[16:26:58] CCA.C08-GRID.i1.23710: /me salutes
+[16:26:59] CCA.C08-GRID.i1.23710: /me cuts the induviduals ties with his combat knife
+[16:27:00] CCA.C08-GRID.i1.23710: /me cuts the induviduals ties with his combat knife
+[16:27:02] CCA.C08-GRID.i1.23710: /me attempts to tie the subject (resist?)
+[16:27:02] CCA.C08-GRID.i1.23710: /me attempts to tie the subject (resist?)
+[16:27:04] CCA.C08-GRID.i1.23710: /me strips of weapons and comms
+[16:27:05] CCA.C08-GRID.i1.23710: /me strips of weapons and comms
+[16:27:09] CCA.C08-GRID.i1.23710: /me takes a photograph of the citizen, with a bright flash
+[16:27:19] Morgan Beck: /looc cringe comp
+[16:27:30] Morgan Beck suicided!
+[16:27:39] Morgan Beck to admins: wtf just happened
+[16:27:40] Andrew 'Razor' Gonzalez: /me heads back to the bucket, dipping it in again and coming back to the scene, scrubbing it again with more force.
+[16:27:45] CCA.C08-UNION.i1.51023 to admins: what do you mean specifically
+[16:28:02] Morgan Beck to admins: nvm
+[16:28:06] Andrew 'Razor' Gonzalez: Alright..I think two more scrubs and it'll all come off.
+[16:28:17] Andrew 'Razor' Gonzalez: /me heads back to the bucket, dipping it in again and coming back to the scene, scrubbing it again with more force.
+[16:28:45] CCA.C08-GRID.i1.23710: [SERVER] Morgan Beck has killed Morgan Beck.
+[16:29:04] Morgan Beck to admins: [SERVER] Morgan Beck has killed Morgan Beck
+[16:29:07] Morgan Beck to admins: lmao
+[16:29:10] Andrew 'Razor' Gonzalez: /me heads back to the bucket, dipping it in again and coming back to the scene one more time, scrubbing it again as the last of the biohazard and blood traces are finally eliminated.
+[16:29:10] CCA.C08-UNION.i1.51023 to admins: what
+[16:29:25] CCA.C08-GRID.i1.23710 to admins: we were experimenting
+[16:29:30] CCA.C08-GRID.i1.23710 to admins: that happened
+[16:29:32] CCA.C08-GRID.i1.23710 to admins: suicide
+[16:29:40] Andrew 'Razor' Gonzalez: Alright, cleaned up and looks like nothing happened.
+[16:29:43] CCA.C08-UNION.i1.51023: //hey would anyone flip shit if we had a quick lag spike
+[16:29:46] CCA.C08-UNION.i1.51023: //no longer than 25 seconds
+[16:29:48] CCA.C08-GRID.i1.23710: // yeah
+[16:29:52] CCA.C08-GRID.i1.23710: // i would
+[16:29:56] Morgan Beck: // Nah, prob gonna head off actually
+[16:30:03] Morgan Beck: // Talk to ya later
+[16:30:07] Dropped "Morgan Beck" from server<STEAM_0:1:52892973>
+[16:30:21] CCA.C08-GRID.i1.23710: // my mum requires me
+[16:30:26] CCA.C08-GRID.i1.23710: // farewell, mortals
+[16:30:29] Dropped "CCA.C08-GRID.i1.23710" from server<STEAM_0:0:193599766>
+[16:30:46] Andrew 'Razor' Gonzalez: // Heh, mum.
+[16:30:54] CCA.C08-UNION.i1.51023 cleared decals
+[16:30:55] CCA.C08-UNION.i1.51023: .//sorry
+[16:30:57] CCA.C08-UNION.i1.51023: alright
+[16:30:59] Andrew 'Razor' Gonzalez: [[ it's cool
+[16:31:01] CCA.C08-UNION.i1.51023: /viewdata andrew
+[16:32:06] Client "Doughnut" connected.
+[16:32:12] CCA.C08-UNION.i1.51023: you now have 5 LP. Wait here for a second.
+[16:32:17] CCA.C08-UNION.i1.51023: Give me the scrubber.
+[16:32:29] Andrew 'Razor' Gonzalez: /me would hand over the scrubber, stepping back.
+[16:33:11] CCA.C08-UNION.i1.51023: alright, wait here.
+[16:33:15] Andrew 'Razor' Gonzalez: Gotcha,
+[16:33:27] CCA.C08-UNION.i1.51023: /me picks up the bucket and carries it away with both hands.
+[16:33:44] CCA.C08-UNION.i1.51023: //>mom needs me
+[16:33:47] CCA.C08-UNION.i1.51023: //>gets on elder scrolls online
+[16:34:38] CCA.C08-UNION.i1.51023: Alright, come with me.
+[16:34:47] Andrew 'Razor' Gonzalez: /me nods
+[16:35:21] Client "Doughnut" spawned in server <STEAM_0:1:127409364> (took 195 seconds).
+[16:35:37] CCA.C08-UNION.i1.51023: Wait here.
+[16:35:52] CCA.C08-UNION.i1.51023<STEAM_0:1:53097688> changed their name to CCA.C17-QrM.49154
+[16:36:01] CCA.C17-QrM.49154: /charsetname qrm CCA.C08-QrM.95283
+[16:36:02] CCA.C17-QrM.49154<STEAM_0:1:53097688> changed their name to CCA.C08-QrM.95283
+[16:36:10] CCA.C08-QrM.95283: /chargiveitem qrm "yellow armband"
+[16:36:13] CCA.C08-QrM.95283: /chargiveitem qrm "yellow loyalist armband"
+[16:36:52] CCA.C08-QrM.95283: /me would hand the man a yellow loyalist armband.
+[16:36:57] CCA.C08-QrM.95283: put this on.
+[16:37:09] Andrew 'Razor' Gonzalez: /me would take it, wrapping it around his right arm
+[16:37:39] Andrew 'Razor' Gonzalez: Oh, it's the armband he was talking about!
+[16:37:58] Andrew 'Razor' Gonzalez: Neat, any perks that come with this?
+[16:38:15] CCA.C08-QrM.95283: .//sorry, chewing someone out
+[16:38:20] Andrew 'Razor' Gonzalez: [[ who
+[16:38:29] Andrew 'Razor' Gonzalez: [[ family?
+[16:38:34] CCA.C08-QrM.95283: .//nah, staff
+[16:38:43] Andrew 'Razor' Gonzalez: [[ ew what did the bad boy do
+[16:38:45] CCA.C08-QrM.95283: .//said they were gonna help their mom then hopped on ESO
+[16:38:53] Andrew 'Razor' Gonzalez: [[ Ooooh a liar
+[16:38:59] Andrew 'Razor' Gonzalez: [[ Man I hate those tbh
+[16:39:16] CCA.C08-QrM.95283: .//i wouldn't have as much of a problem if they were just honest
+[16:39:23] CCA.C08-QrM.95283: .//and said "hey i'm gionna do an ESO raid, be back later"
+[16:39:27] CCA.C08-QrM.95283: .//that i can at least get my head around
+[16:39:28] Andrew 'Razor' Gonzalez: [[ That's why I never allowed dual staffing in my servers people kept lying
+[16:39:30] CCA.C08-QrM.95283: //it's not great and i don't appreciate it
+[16:39:33] CCA.C08-QrM.95283: //wrong chatr
+[16:39:35] CCA.C08-QrM.95283: .//it's not great and i don't appreciate it
+[16:39:37] Doughnut<STEAM_0:1:127409364> changed their name to Preobrazhensky Bogolepov
+[16:39:38] CCA.C08-QrM.95283: .//but at least it's honets
+[16:39:42] Preobrazhensky Bogolepov: // buenos dias dumb dumbs
+[16:39:49] Andrew 'Razor' Gonzalez: [[ Because people try to hide it
+[16:39:55] CCA.C08-QrM.95283: //heya
+[16:40:04] CCA.C08-QrM.95283: //we had 5 people but then 2 staff members left to go play ESO
+[16:40:07] Preobrazhensky Bogolepov: // it is I, the russian with a name you can't pronounce
+[16:40:08] CCA.C08-QrM.95283: //i swear i didn't lie lmao
+[16:40:14] Andrew 'Razor' Gonzalez: [[ Even when I was Union DvL I hated people that tried to do 2 different units sometimes
+[16:40:18] Preobrazhensky Bogolepov: // wack
+[16:40:32] CCA.C08-QrM.95283: You get 2 standard rationds, you can apply for various CWU organizations now, and you can apply for the conscripts.
+[16:40:35] CCA.C08-QrM.95283: That is, the human earth military.
+[16:40:39] Andrew 'Razor' Gonzalez: [[ So you're down to three
+[16:40:46] Andrew 'Razor' Gonzalez: Oh, military?
+[16:40:55] CCA.C08-QrM.95283: Yeah, the guys in the green armor.
+[16:40:58] Andrew 'Razor' Gonzalez: Hm, I'll think on it.
+[16:41:04] CCA.C08-QrM.95283: at 10 you can apply for the CCA.
+[16:41:11] Andrew 'Razor' Gonzalez: Yeah I might do that one
+[16:41:20] Andrew 'Razor' Gonzalez: [[ or just try to get onion but who knows
+[16:41:31] Andrew 'Razor' Gonzalez: Well more food for me then.
+[16:41:41] Andrew 'Razor' Gonzalez: Well thanks for the armband.
+[16:42:14] CCA.C08-QrM.95283: Yep.
+[16:42:24] CCA.C08-QrM.95283: You're free to go, that's all the other unit wanted you here for.
+[16:42:36] Andrew 'Razor' Gonzalez: Alright, thank you again.
+[16:42:42] Andrew 'Razor' Gonzalez: /me would turn around and walk off.
+[16:42:44] Preobrazhensky Bogolepov: // so how is everyone
+[16:42:53] CCA.C08-QrM.95283: //annoyed but here
+[16:43:07] Preobrazhensky Bogolepov: // best combo
+[16:43:10] Andrew 'Razor' Gonzalez: // Going alright
+[16:43:17] Preobrazhensky Bogolepov: // very poggers
+[16:43:28] CCA.C08-QrM.95283<STEAM_0:1:53097688> changed their name to CCA.C08-UNION.i1.51023
+[16:45:30] Preobrazhensky Bogolepov: // if you see me standing still im doing the munch munch not being afk
+[16:46:18] CCA.C08-UNION.i1.51023: //if you don't see me moving i'm 1. having an anxiety or panic attack, 2. disassociating, 3. chewing out my staff
+[16:46:25] CCA.C08-UNION.i1.51023: //or 4. just dicking around on discord
+[16:46:55] Preobrazhensky Bogolepov: Hello
+[16:47:02] Preobrazhensky Bogolepov: Would you have a job for me?
+[16:47:10] CCA.C08-UNION.i1.51023: Let me see.
+[16:47:18] CCA.C08-UNION.i1.51023: /me would take out his datapad and type on it, then read off of the screen.
+[16:47:54] Preobrazhensky Bogolepov: /looc don't mind the unequipping noises ._.
+[16:48:06] CCA.C08-UNION.i1.51023: /pm echo SWIM
+[16:48:08] CCA.C08-UNION.i1.51023: /plysearch
+[16:48:17] CCA.C08-UNION.i1.51023: alright...
+[16:48:35] CCA.C08-UNION.i1.51023: Sweeping duty. Wait here.
+[16:48:50] Andrew 'Razor' Gonzalez: // I know which one is which
+[16:49:03] Preobrazhensky Bogolepov: // ?
+[16:49:12] Andrew 'Razor' Gonzalez: // For the options
+[16:49:25] Preobrazhensky Bogolepov: // mmk
+[16:49:42] CCA.C08-UNION.i1.51023: /me hands the man a broom.
+[16:49:44] CCA.C08-UNION.i1.51023: Come with me.
+[16:49:49] Preobrazhensky Bogolepov: /me takes le broom
+[16:50:27] Chloe Cullen: // the hell
+[16:50:39] Chloe Cullen: // how did I not get disconnected
+[16:50:44] CCA.C08-UNION.i1.51023: //it be like that
+[16:50:54] CCA.C08-UNION.i1.51023: Sweep this area here. This dining area.
+[16:51:07] CCA.C08-UNION.i1.51023: /me hands the man a dustpan.
+[16:51:15] Preobrazhensky Bogolepov: /me takes the dustpan from the unit
+[16:51:17] Chloe Cullen: // think you can process me, buddy ol pal?
+[16:51:24] CCA.C08-UNION.i1.51023: //yes i can, standby
+[16:51:29] Chloe Cullen: // it'll be awhile til I'm around again so might as well have a bit of fun
+[16:51:42] Preobrazhensky Bogolepov: /me begins to sweep the nasty ass dining area
+[16:52:24] CCA.C08-UNION.i1.51023: Relocation coupon.
+[16:52:25] Preobrazhensky Bogolepov: /me sweeps the trash from the side area into the main pile
+[16:52:50] Preobrazhensky Bogolepov: /me kicks back the sleeping bags to sweep under them
+[16:53:04] Preobrazhensky Bogolepov: /me sweeps the pile into the dustpan
+[16:53:16] Preobrazhensky Bogolepov: /me empties out the dustpan
+[16:53:23] CCA.C08-UNION.i1.51023: Alright.
+[16:53:24] CCA.C08-UNION.i1.51023: /me takes out their datapad and types a couple things in.
+[16:53:33] CCA.C08-UNION.i1.51023: I need your sex and your blood type if you know it.
+[16:53:36] Preobrazhensky Bogolepov: /me continues to sweep up trash
+[16:53:56] Preobrazhensky Bogolepov: /me sweeps the rest into the dustpan
+[16:54:03] Preobrazhensky Bogolepov: /me empties out the dustpan
+[16:54:18] Chloe Cullen: "Female, Chloe Cullen, O+. Transferred here by the CWU for business creation."
+[16:54:28] Andrew 'Razor' Gonzalez: // This dude does not shut up in my steam messages
+[16:54:50] CCA.C08-UNION.i1.51023: Alright.
+[16:54:56] CCA.C08-UNION.i1.51023: /viewdata chloe
+[16:55:14] Preobrazhensky Bogolepov: // yuvk
+[16:55:18] Andrew 'Razor' Gonzalez: // And this is why I sometimes appear offline
+[16:55:19] Preobrazhensky Bogolepov: // yuck*
+[16:55:20] Chloe Cullen: "Engineer. Electronics. Mechanical. That shit. Scrap business. Repair. Shit like that."
+[16:55:58] Chloe Cullen: // I am moderately concerned about the fact we have zerg and dead space aliens.
+[16:56:08] CCA.C08-UNION.i1.51023: //they were for an event and are still in the content
+[16:56:20] CCA.C08-UNION.i1.51023: //we needed interesting outlands aliens and infected xenians
+[16:56:20] CCA.C08-UNION.i1.51023: //so
+[16:56:25] CCA.C08-UNION.i1.51023: //those were what we came to
+[16:56:28] Chloe Cullen: // ahhhhhhh
+[16:56:31] Chloe Cullen: // good choice
+[16:56:34] CCA.C08-UNION.i1.51023: Date of birth?
+[16:56:38] CCA.C08-UNION.i1.51023: /viewdata chloe
+[16:56:54] Andrew 'Razor' Gonzalez: // Alright I'm mildly annoyed this kid will not shut up in my messages
+[16:56:54] Chloe Cullen: "Six, Twelve, Eighty."
+[16:57:08] CCA.C08-UNION.i1.51023: //who's that
+[16:57:13] CCA.C08-UNION.i1.51023: /viewdata chloe
+[16:57:26] CCA.C08-UNION.i1.51023: Any medical or mental conditions?
+[16:57:45] Chloe Cullen: "Perfect health besides the fact I'm basically missing half my face."
+[16:57:45] Andrew 'Razor' Gonzalez: // This kid who runs an hl2rp server I was temp dvl on
+[16:57:56] Andrew 'Razor' Gonzalez: // I literally only asked as a joke to do an investigation
+[16:57:56] CCA.C08-UNION.i1.51023: //ah
+[16:57:59] CCA.C08-UNION.i1.51023: /viewdata chloe
+[16:58:04] Andrew 'Razor' Gonzalez: // And he took it serious
+[16:58:24] Andrew 'Razor' Gonzalez: // I mean I had fun with it but I made clear to him I wasn't going to stay on his server
+[16:58:26] Chloe Cullen: // gunna RP as a snark in a jar.
+[16:58:36] Andrew 'Razor' Gonzalez: // So now he's mad and shit like that
+[16:58:52] CCA.C08-UNION.i1.51023: alright..
+[16:58:59] CCA.C08-UNION.i1.51023: /me places the citizen's ID card on the counter and slides it forward.
+[16:59:01] CCA.C08-UNION.i1.51023: Stay out of trouble.
+[16:59:14] Chloe Cullen: "Right-o."
+[16:59:18] Andrew 'Razor' Gonzalez: /setpersist
+[17:00:33] Chloe Cullen: // Map needs more smog, methinks
+[17:00:41] CCA.C08-UNION.i1.51023: /charfallover 0.1
+[17:00:44] CCA.C08-UNION.i1.51023: //i17 vibes
+[17:01:10] Andrew 'Razor' Gonzalez: // Make it pitch black no flashlights, easy
+[17:01:17] CCA.C08-UNION.i1.51023: //!blind *
+[17:01:35] CCA.C08-UNION.i1.51023: //nah, too harse
+[17:01:38] CCA.C08-UNION.i1.51023: //!blind * 254
+[17:01:40] Andrew 'Razor' Gonzalez: /chardesc
+[17:01:49] Preobrazhensky Bogolepov: // map needs trash bags that you can pick up and open for random junk
+[17:01:50] CCA.C08-UNION.i1.51023: //harsh*
+[17:01:51] Chloe Cullen: // I JUST MEANT A LITTLE MORE SMOG NOT SILENT HILL
+[17:02:00] Preobrazhensky Bogolepov: Hello there
+[17:02:03] CCA.C08-UNION.i1.51023: Great, you got the sweeping done.
+[17:02:06] CCA.C08-UNION.i1.51023: Hand me the broom.
+[17:02:10] Preobrazhensky Bogolepov: /me hands back the broom
+[17:02:27] CCA.C08-UNION.i1.51023: Apply.
+[17:02:35] Preobrazhensky Bogolepov: /apply
+[17:03:03] CCA.C08-UNION.i1.51023: /me takes out their datapad and types a couple things in.
+[17:03:04] CCA.C08-UNION.i1.51023: /viewdata preo
+[17:03:13] Andrew 'Razor' Gonzalez: // Find a tampon in the trash bag
+[17:03:21] Andrew 'Razor' Gonzalez: // *Oh wait*
+[17:03:29] Chloe Cullen: // so wait uh... how do we get rations
+[17:03:38] Andrew 'Razor' Gonzalez: // Ration call
+[17:03:41] Chloe Cullen: // ah 
+[17:03:46] CCA.C08-UNION.i1.51023: You now have 1 LP.
+[17:03:52] Preobrazhensky Bogolepov: Very nice
+[17:03:52] CCA.C08-UNION.i1.51023: //i need to eat dinner, i'll be back
+[17:04:10] Chloe Cullen<STEAM_0:1:70540942> changed their name to CAC.C08-CRM.10287
+[17:04:21] Client "Rex" connected.
+[17:04:21] CCA.C08-UNION.i1.51023<STEAM_0:1:53097688> changed their name to Lee Maylor
+[17:05:01] CAC.C08-CRM.10287: // there a way to toggle walkmode?
+[17:05:17] Andrew 'Razor' Gonzalez: // Left Alt
+[17:05:25] Andrew 'Razor' Gonzalez: // But not toggle though
+[17:05:26] CAC.C08-CRM.10287: // that's a hold, not a toggle
+[17:05:38] Andrew 'Razor' Gonzalez: // Yeah I was gonna mention that
+[17:06:06] Andrew 'Razor' Gonzalez: // I don't think there is a way last time I remember
+[17:10:04] CAC.C08-CRM.10287: // whre tf did everyone go
+[17:10:18] Andrew 'Razor' Gonzalez: // Walking aimlessly
+[17:11:05] CAC.C08-CRM.10287: /me stands and stares at the human, checking to see if it requires disposal.
+[17:11:16] Andrew 'Razor' Gonzalez: /me would try to not look at the big bertha cremator, slowly walking off.
+[17:11:54] Andrew 'Razor' Gonzalez: // No CCA, anarchy
+[17:12:05] Client "Rex" spawned in server <STEAM_0:1:87963885> (took 464 seconds).
+[17:12:18] CAC.C08-CRM.10287: // pardon?
+[17:12:38] CAC.C08-CRM.10287: // Insurgents are on the list of disposables.
+[17:13:01] Andrew 'Razor' Gonzalez: // At turtle pace you can dispose them
+[17:13:09] CAC.C08-CRM.10287: // this flamethrower got range, boi.
+[17:13:28] Andrew 'Razor' Gonzalez: // I mean they can just avoid you from 10 feet
+[17:13:41] CAC.C08-CRM.10287: // this is mean
+[17:13:46] CAC.C08-CRM.10287: // let the nice cremator burn you
+[17:14:18] Andrew 'Razor' Gonzalez: // Yes let a mobile crematorium burn someone
+[17:15:31] CAC.C08-CRM.10287: // I have more than just flame
+[17:15:52] CAC.C08-CRM.10287: // honestly I'm jsut going to call the extinguisher the coom launcher
+[17:16:00] Andrew 'Razor' Gonzalez: // A dump truck
+[17:16:20] Rex<STEAM_0:1:87963885> changed their name to Anthony Scott
+[17:16:24] Client "DRD" connected.
+[17:18:29] Andrew 'Razor' Gonzalez: [[ Buenos dias
+[17:18:37] Anthony Scott: /looc Hola 
+[17:18:37] Andrew 'Razor' Gonzalez: /afk
+[17:18:41] CAC.C08-CRM.10287 was killed by monster_bullsquid
+[17:18:46] Andrew 'Razor' Gonzalez: [[ You downloading the content?
+[17:18:49] CAC.C08-CRM.10287: // I feel like I don't have a lot of health
+[17:18:56] Anthony Scott: /looc pretty sure it auto downloaded 
+[17:19:07] Andrew 'Razor' Gonzalez: [[ Most likely
+[17:19:10] Anthony Scott: /looc just looking to see how to put on the filter, didnt work 
+[17:19:20] Andrew 'Razor' Gonzalez: [[ You put on the suit first
+[17:19:32] Andrew 'Razor' Gonzalez: [[ filter on afterwards
+[17:19:44] Anthony Scott: /looc New Server?
+[17:19:49] Andrew 'Razor' Gonzalez: [[ Fairly
+[17:20:06] Anthony Scott: /looc Still looking for a playerbase I Imagine
+[17:20:15] Andrew 'Razor' Gonzalez: [[ It's finding it's way, yes
+[17:20:21] Andrew 'Razor' Gonzalez: [[its*
+[17:20:31] Andrew 'Razor' Gonzalez: [[ Baby steps I suppose
+[17:20:59] Anthony Scott: /looc I see, A sudden urge to relive the glory days took over when I opened gmod so I decided to take a peak at the HL2RP section
+[17:21:06] Andrew 'Razor' Gonzalez: [[ You too?
+[17:21:09] Andrew 'Razor' Gonzalez: [[ Same bro
+[17:21:10] Anthony Scott: /looc I miss the old days of proper HL2RP
+[17:21:17] Anthony Scott: /looc Yea I played this for years
+[17:21:18] Andrew 'Razor' Gonzalez: [[ It was actually fun back in the day
+[17:21:34] Andrew 'Razor' Gonzalez: [[ Loved all the good people on it
+[17:21:49] Client "Kilszot" connected.
+[17:21:50] Andrew 'Razor' Gonzalez: [[ Fun times those years were
+[17:21:59] Client "DRD" spawned in server <STEAM_0:0:193599766> (took 335 seconds).
+[17:21:59] Anthony Scott: /looc I was a part of a community back then, ParticularlyMe. A very very fun family of players
+[17:22:07] Anthony Scott: /looc made me feel at home 
+[17:22:25] Andrew 'Razor' Gonzalez: [[ Ah, I remember Cosmic
+[17:22:34] Andrew 'Razor' Gonzalez: [[ Ran by a brit named Luk
+[17:22:36] Andrew 'Razor' Gonzalez: [[ Luke*
+[17:22:42] Anthony Scott: /looc I think I remember that as well
+[17:22:49] Andrew 'Razor' Gonzalez: [[ Good times
+[17:22:55] Anthony Scott: /looc PM was led by a duo, Felix and Apoona 
+[17:23:04] Andrew 'Razor' Gonzalez: [[ The shit days of Lemonpunch
+[17:23:10] Andrew 'Razor' Gonzalez: [[ TnB was still heading on
+[17:23:19] Anthony Scott: /looc true 
+[17:23:35] Andrew 'Razor' Gonzalez: [[ Outlands wasn't so boring back then either
+[17:23:51] Anthony Scott: /looc I tried to compensate for the feeling I had when I was SeC by playing on CWRP, MRP, IRP, JVS and a bunch more. Reaching high command in all of them over 6 years 
+[17:24:05] Anthony Scott: /looc Just was not the same, It was missing the crucial aspect of HL2RP
+[17:24:25] Andrew 'Razor' Gonzalez: [[ Those darkrp servers aren't the true rp servers
+[17:24:26] Anthony Scott: /looc the RP, the Discipline, the order, the family
+[17:24:40] Andrew 'Razor' Gonzalez: [[ HL2RP was more niche and serious
+[17:24:41] Client "Kilszot" connected.
+[17:24:44] Anthony Scott: /looc Well CWRP and IRP are not necessarily DarkRP, MRP is close to DarkRP
+[17:24:50] Anthony Scott: /looc depends on the server you play on tbh
+[17:24:53] Andrew 'Razor' Gonzalez: [[ They run off of the darkrp framework
+[17:25:02] Andrew 'Razor' Gonzalez: [[ most anyways
+[17:25:02] Anthony Scott: /looc The ones I playedd on were very serious, No Bs allowed
+[17:25:12] Anthony Scott: /looc I played on IFN, Icefuse Networks
+[17:25:17] Andrew 'Razor' Gonzalez: [[ Oh god
+[17:25:17] Anthony Scott: /looc huge ass community
+[17:25:24] Andrew 'Razor' Gonzalez: [[ Yeah I never liked them
+[17:25:30] Anthony Scott: /looc IFN has become a shit hole now, they used to be very good
+[17:25:33] DRD<STEAM_0:0:193599766> changed their name to Hollie Reynolds
+[17:25:37] Andrew 'Razor' Gonzalez: [[ Used to, mind you
+[17:25:44] Andrew 'Razor' Gonzalez: [[ Before money and lack of order
+[17:26:02] Anthony Scott: /looc Well it is no longer my problem. I did what I could and fixed as much as I could
+[17:26:22] Anthony Scott: /looc but the general population of IFN falls to idiots so 
+[17:26:32] Andrew 'Razor' Gonzalez: [[ and money
+[17:26:53] Anthony Scott: /looc Rank used to mean something on those RP servers. It meant respect and status
+[17:26:59] Anthony Scott: /looc now its just a bunch of letters 
+[17:27:08] Andrew 'Razor' Gonzalez: [[ Now it's how much money or dick you sucked
+[17:27:26] Anthony Scott: /looc Such a sad thing to see. Money is more for the owner the High Command of each server dont see that 
+[17:27:46] Anthony Scott: /looc but how much you were on your knees to appease those High Command is what determined you getting noticed
+[17:27:55] Anthony Scott: /looc not the hard work, the hours spent trying to be creative 
+[17:28:04] Andrew 'Razor' Gonzalez: [[ And if you did you'd get rewarded for appeasing them
+[17:28:07] Anthony Scott: /looc those showing initiative in the right sections pushed aside 
+[17:28:33] Andrew 'Razor' Gonzalez: [[ Like I always say, if the owner doesn't like it you'll be casted aside
+[17:28:34] Anthony Scott: /looc I have commanded hundreds of people on their servers. Reached such high ranks and made things disciplined, but when I left it just fell
+[17:28:44] Andrew 'Razor' Gonzalez: [[ Lack of order
+[17:29:02] Anthony Scott: /looc Lack of Initiative and the people with the guts to say something about it 
+[17:29:25] Andrew 'Razor' Gonzalez: [[ Because they're kids playing those shits now
+[17:29:29] Andrew 'Razor' Gonzalez: [[ They don't care
+[17:29:32] Anthony Scott: /looc I do hope this server becomes something popular. I tend to enjoy using the years of high command experience I have amassed to lead things 
+[17:29:41] Anthony Scott: /looc of course I am Bias to the CCA 
+[17:29:48] CAC.C08-CRM.10287: .// You two need help with anything?
+[17:29:57] Andrew 'Razor' Gonzalez: [[ Everyone's used their leadership to something
+[17:29:57] Anthony Scott: /looc Nah just talking 
+[17:30:07] CAC.C08-CRM.10287: .// ah cool, cool.
+[17:30:34] Anthony Scott: /looc Well, It depends on the person too. Experience is good and all but it's up to the person on how to wield it
+[17:30:55] Anthony Scott: /looc Some just go with the norm, accepting what is and not what could be 
+[17:31:07] Anthony Scott: /looc That is how most people fail 
+[17:31:26] Andrew 'Razor' Gonzalez: [[ if the community goes with the norm, the owner won't change it
+[17:31:42] Preobrazhensky Bogolepov: // e
+[17:31:44] Anthony Scott: /looc It is the owners responsibility to challenge that at times 
+[17:31:47] CAC.C08-CRM.10287: // eeeeeee
+[17:31:54] Andrew 'Razor' Gonzalez: [[ That's where the problem lies
+[17:31:54] Anthony Scott: /looc sometimes things need to go in a better direction
+[17:32:13] Andrew 'Razor' Gonzalez: [[ Risk population for change or keep the norm for the population
+[17:32:13] Anthony Scott: /looc Public opinion may not agree. That is the issue
+[17:32:19] CAC.C08-CRM.10287: // the sewers is fun to go through. I'm glad it's dangerous with NPC respawns.
+[17:32:34] Anthony Scott: /looc That is why it is mostly beneficial to take it as you said, baby steps 
+[17:32:44] Anthony Scott: /looc implement changes little by little in trial phases to test the waters
+[17:33:02] Anthony Scott: /looc if the population agrees move forward. But always keep the opinions of that population in mind 
+[17:33:02] Andrew 'Razor' Gonzalez: [[ Yeah I used to do that in my community back in the day
+[17:33:14] Andrew 'Razor' Gonzalez: [[ I just hated my playerbase though
+[17:33:23] Andrew 'Razor' Gonzalez: [[ Everyone cared about their characters
+[17:33:27] Anthony Scott: /looc It's how I always lead my divisions, servers, communities whatever it may be 
+[17:33:33] Anthony Scott: /looc Well in what way
+[17:33:54] Andrew 'Razor' Gonzalez: [[ Like they'll fight tooth and nail to justify that they didn't get shot or are dead
+[17:33:58] Andrew 'Razor' Gonzalez: [[ Or they killed someone
+[17:34:01] Andrew 'Razor' Gonzalez: [[ etc etc
+[17:34:07] Andrew 'Razor' Gonzalez: [[ And threaten to leave
+[17:34:14] Andrew 'Razor' Gonzalez: [[ Over a character death
+[17:34:21] Anthony Scott: /looc Ahhh that sort of way. See it is not bad to care about a character. helps bring the emotion to the RP, But you need to be ready to PK it 
+[17:34:54] Andrew 'Razor' Gonzalez: [[ That's what I can't support, when someone is that passionate about a character
+[17:35:03] Hollie Reynolds<STEAM_0:0:193599766> spawned/gave himself swep weapon_extinguisher_infinite
+[17:35:04] Hollie Reynolds: /toggleraise
+[17:35:13] Andrew 'Razor' Gonzalez: [[ Like it's what the person they wanted to be, doesn't want to be dead
+[17:35:16] Anthony Scott: /looc That is not passion, that is greed. The Greed for wanting all of what they had and not willing to work for it back
+[17:35:24] Anthony Scott: /looc Sloth and Greed
+[17:35:41] Andrew 'Razor' Gonzalez: [[ If you fight to the end to keep a single character, you got a problem
+[17:35:49] Anthony Scott: /looc Haha agreed
+[17:35:50] Andrew 'Razor' Gonzalez: [[ CCA, rebel, CWU, whatever
+[17:35:58] Andrew 'Razor' Gonzalez: [[ You died, you died
+[17:36:02] Andrew 'Razor' Gonzalez: [[ Take it and move on
+[17:36:20] Anthony Scott: /looc This gamemode is not an easy one, you need to be ready to take shit seriously and accept loss when it comes
+[17:36:31] Andrew 'Razor' Gonzalez: [[ Which most don't accept loss
+[17:36:38] Anthony Scott: /looc Be ready to work your way back up to the top if you get knocked down
+[17:36:53] Anthony Scott: /looc that is what defines humans. That moment when you face an obstacle
+[17:37:12] Anthony Scott: /looc will that person give in when they fall or are they going to get back up on their two feet and push forward
+[17:37:12] Andrew 'Razor' Gonzalez: [[ It just doesn't get accepted into the fucking brain
+[17:37:40] Andrew 'Razor' Gonzalez: [[ Like why do you care so much about a character that has no meaning when the server is dead or closes
+[17:37:55] Anthony Scott: /looc the Character is an avatar, you are the player 
+[17:38:01] Anthony Scott: /looc you can carry that char name to any server
+[17:38:06] Anthony Scott: /looc and work your way back up
+[17:38:20] Andrew 'Razor' Gonzalez: [[ Yeah
+[17:38:42] Andrew 'Razor' Gonzalez: [[ And they will never see that
+[17:39:01] Anthony Scott: /looc Hopefully one day they do
+[17:39:25] Anthony Scott: /looc You help make this server or just a player?
+[17:39:57] Andrew 'Razor' Gonzalez: [[ I did not sadly, but I am a longtime friend of the owner
+[17:40:03] Andrew 'Razor' Gonzalez: [[ So I am a mere player
+[17:40:17] Anthony Scott: /looc Ahh, Well all of us are equal it is just the title of what we do that makes us diff
+[17:40:30] Anthony Scott: /looc So tell me about the owner, What made them make this 
+[17:41:04] Andrew 'Razor' Gonzalez: // Honestly, I haven't talked to him in over like, 2 years and I was starting to catch up with him as of last week
+[17:41:08] Andrew 'Razor' Gonzalez: // wrong chat
+[17:41:15] Andrew 'Razor' Gonzalez: [[ Honestly, I haven't talked to him in over like, 2 years and I was starting to catch up with him as of last week
+[17:41:30] Andrew 'Razor' Gonzalez: [[ I know he's done this several times
+[17:41:35] Andrew 'Razor' Gonzalez: [[ Tried to, at least
+[17:41:48] Andrew 'Razor' Gonzalez: [[ I think this server's been up about a month or so
+[17:41:51] Anthony Scott: /looc I see, well I am always willing to extend a helping hand in whatever department it is needed. 
+[17:42:09] Anthony Scott: /looc I have experience in staff and RP leadership. I also just love the gamemode itself
+[17:42:15] Dropped "Hollie Reynolds" from server<STEAM_0:0:193599766>
+[17:42:27] Andrew 'Razor' Gonzalez: [[ He has someone for almost everything when I asked, I think he only needs a CWU director
+[17:42:59] Andrew 'Razor' Gonzalez: [[ But he's not one that'll give you the leap of faith I'm afraid
+[17:43:13] Anthony Scott: /looc Oh I would hope not 
+[17:43:23] Andrew 'Razor' Gonzalez: [[ You have to be consistently on, interact with the community
+[17:43:31] Andrew 'Razor' Gonzalez: [[ etc etc
+[17:43:36] Anthony Scott: /looc The usual yea
+[17:43:57] Andrew 'Razor' Gonzalez: [[ I'd say if you play this server for a month active, you might get the chance
+[17:43:57] Anthony Scott: /looc Saw a Cremator, What age of the HL2 universe are we in?
+[17:44:08] Andrew 'Razor' Gonzalez: [[ 2006
+[17:44:16] Andrew 'Razor' Gonzalez: [[ Didn't find out which ep though
+[17:44:22] Anthony Scott: /looc ahhh ok
+[17:44:52] Andrew 'Razor' Gonzalez: [[ All I know is the war ended not too long ago, like 4 years ago or so
+[17:45:01] Andrew 'Razor' Gonzalez: [[ If I remember correctly
+[17:45:10] Anthony Scott: /looc Ah ok, The synths still around?
+[17:45:19] Andrew 'Razor' Gonzalez: [[ hunters and such, yea
+[17:45:34] Anthony Scott: /looc Ok cool, Just was curious cuz I saw the loading screen
+[17:45:46] Andrew 'Razor' Gonzalez: [[ Yea they are
+[17:46:16] Anthony Scott: /looc Rebel faction alive on this server?
+[17:46:34] Andrew 'Razor' Gonzalez: [[ Eh..somewhat. Alive, yes, but not as much of a presence
+[17:46:59] Anthony Scott: /looc Oh ok, man the more I talk about this the more memories I have coming back to me XD
+[17:47:11] Andrew 'Razor' Gonzalez: [[ Hey it's cool man I understand lmao
+[17:47:23] Andrew 'Razor' Gonzalez: [[ I reminisced too
+[17:47:26] Lee Maylor: //fuck, sorry
+[17:47:28] Lee Maylor: //was eating dinner
+[17:47:37] Anthony Scott: /looc I played on City 45, it was a really fun map to play on and I was just like having these memory flashes
+[17:47:55] Lee Maylor: //are you there, anthony?
+[17:48:04] Anthony Scott: /ooc I am yes
+[17:48:04] Andrew 'Razor' Gonzalez: // He is
+[17:48:11] Lee Maylor: //epic, i'll hop on a unit and process you
+[17:48:16] Lee Maylor<STEAM_0:1:53097688> changed their name to CCA.C08-UNION.i1.51023
+[17:48:19] Andrew 'Razor' Gonzalez: [[ I loved it
+[17:48:23] CCA.C08-UNION.i1.51023: //sorry about the wait
+[17:48:26] Andrew 'Razor' Gonzalez: // I'm talking to him while you were gone
+[17:48:30] Anthony Scott: /ooc Do not worry
+[17:48:33] CCA.C08-UNION.i1.51023: //thank you death
+[17:48:38] Andrew 'Razor' Gonzalez: // Anytime
+[17:48:52] Anthony Scott: /looc Im really gonna cry the more I talk about C45 XD
+[17:49:08] CCA.C08-UNION.i1.51023: .//city 45 is disliked nowadays and it makes me so sad, i love c45
+[17:49:12] CCA.C08-UNION.i1.51023: /me speaks flatly to the new citizen, asking him for his relocation coupon.
+[17:49:14] CCA.C08-UNION.i1.51023: Relocation coupon.
+[17:49:23] Andrew 'Razor' Gonzalez: [[C45 best og
+[17:49:30] Anthony Scott: /looc PFtt never, I love it 
+[17:49:57] Anthony Scott: /me Looks at the Unit standing infront of him and nods reaching into my right pocket pulling out the relocation coupon before placing it onto the ledge
+[17:50:17] CCA.C08-UNION.i1.51023: /me takes the relocation coupon and turns around, examining it in the light.
+[17:50:30] CCA.C08-UNION.i1.51023: /me , seemingly satisfied, approaches the machine behind him and inserts the coupon.
+[17:51:02] Anthony Scott: /looc Honestly I would do anything to relive the C45 days 
+[17:52:00] CCA.C08-UNION.i1.51023: alright.
+[17:52:08] CCA.C08-UNION.i1.51023: I've got a few questions for you.
+[17:52:11] CCA.C08-UNION.i1.51023: I need your sex and date of birth.
+[17:52:21] CCA.C08-UNION.i1.51023: .//current year is 2006, the war was in 2003
+[17:52:49] Anthony Scott: Male, Born June 6th of the year 1976 sir
+[17:53:00] CCA.C08-UNION.i1.51023: /me takes out their datapad and types a couple things in.
+[17:53:04] CCA.C08-UNION.i1.51023: /viewdata anthonyt
+[17:53:06] CCA.C08-UNION.i1.51023: /viewdata anthony
+[17:53:28] CCA.C08-UNION.i1.51023: And do you know your blood type?
+[17:53:34] CCA.C08-UNION.i1.51023: If not, I can mark it as unknown.
+[17:53:38] Anthony Scott: B- Sir
+[17:53:42] CCA.C08-UNION.i1.51023: /viewdata anthony
+[17:54:08] CCA.C08-UNION.i1.51023: And do you have any medical conditions? Eczema, IBS, seasonal allergies, anything of that nature?
+[17:54:18] Anthony Scott: No Sir 
+[17:54:21] CCA.C08-UNION.i1.51023: /viewdata anthony
+[17:54:37] CCA.C08-UNION.i1.51023: Mental conditions? OCD, Generalized Anxiety, Autism, anythinG?
+[17:54:41] Andrew 'Razor' Gonzalez: // Brb gonna go take a big piss
+[17:55:04] Anthony Scott: So Sir, As far as physical conditions that may relate to medical, Just scars and some burn wounds 
+[17:55:17] Anthony Scott: No Sir, Apologies
+[17:55:30] CCA.C08-UNION.i1.51023: Got it, I'll just put down various scarring.
+[17:55:31] CCA.C08-UNION.i1.51023: /viewdata anthony
+[17:56:03] CCA.C08-UNION.i1.51023: And have you been within 4 feet of a constrictor within the last 40 days?
+[17:56:17] Anthony Scott: /looc No Sir
+[17:56:21] Anthony Scott: /looc lol XD
+[17:56:23] Anthony Scott: No Sir 
+[17:56:23] CCA.C08-UNION.i1.51023: .//lmao
+[17:56:31] CCA.C08-UNION.i1.51023: Alright, that will be it.
+[17:56:46] Andrew 'Razor' Gonzalez: // Back
+[17:56:50] CCA.C08-UNION.i1.51023: I see you have a citizen friend back there. Do I need to give you the schpiel about making tokens and such, or do they have you covered?
+[17:57:33] Andrew 'Razor' Gonzalez: [[ /me stroke
+[17:57:37] Anthony Scott: Just a passing stranger sir, They are no friend yet I reserve that title for a very specific group of individuals 
+[17:57:46] Andrew 'Razor' Gonzalez: [[ Damnnn
+[17:57:47] Anthony Scott: I would appreciate the knowledge of how to obtain tokens 
+[17:58:00] CCA.C08-UNION.i1.51023: alright, let me give you the full rundown.
+[17:58:07] Andrew 'Razor' Gonzalez: [[ I got rejected
+[17:58:11] Anthony Scott: /looc lol basically just said you ain't shit XD
+[17:58:27] Andrew 'Razor' Gonzalez: [[ Mf told me I'm worthless that's sad
+[17:58:28] CCA.C08-UNION.i1.51023: You can get tokens by donating blood at machines like the one located behind you. You can donate once every 36 hours.
+[17:59:12] CCA.C08-UNION.i1.51023: We're in the middle of a resin buyback, so if you find any pucks of shiny, blueish-black metal, you can turn them in to a machine at the ration distribution terminal to pay for filters or other things.
+[17:59:18] Andrew 'Razor' Gonzalez: // Fog, nice
+[17:59:55] CCA.C08-UNION.i1.51023: There's a vendor by the 17th Street Towers that sells filters, but you can also preserve your filters by staying around air vents like the one between these two windows.
+[18:00:10] Andrew 'Razor' Gonzalez: /pm union Good thing I talked to him until you were back because I think he was going to leave not seeing a CCA on
+[18:00:37] CCA.C08-UNION.i1.51023: You can remove your suit in their vicinity, or if you stay near them, the filter's integrity will not be compromised.
+[18:00:41] CCA.C08-UNION.i1.51023: Do you have any questions?
+[18:00:53] Anthony Scott: No Sir, Thank you for the Information
+[18:01:00] CCA.C08-UNION.i1.51023: Yep. Stay out of trouble.
+[18:01:07] Anthony Scott: Yes Sir 
+[18:01:10] CCA.C08-UNION.i1.51023: /me places the citizen's newly printed CID card on the counter and slides it forward.
+[18:01:38] Anthony Scott: /me Nods at the Unit and lifts my right arm placing my hand on the CID Card. I slide it off the counter and place it back into my pocket 
+[18:01:51] Anthony Scott: /looc #HasNoFriends
+[18:01:52] CCA.C08-UNION.i1.51023: You may proceed to the city through the stairs behind you.
+[18:01:57] Anthony Scott: Thank you sir
+[18:02:01] CCA.C08-UNION.i1.51023: Mhm.
+[18:02:11] CCA.C08-UNION.i1.51023: //brb, but i'll be back asap
+[18:02:17] CCA.C08-UNION.i1.51023: //not gone long at all
+[18:02:22] CCA.C08-UNION.i1.51023 set the hp for Preobrazhensky Bogolepov to 100
+[18:02:35] CCA.C08-UNION.i1.51023: //btw, if you have any questions for me, anthony, feel free to shoot them to me in a DM.
+[18:02:47] Anthony Scott: /looc I think I will be all set, Thanks
+[18:02:48] CCA.C08-UNION.i1.51023: //or in the server but like i said i'll be right back to do something real quick
+[18:02:53] Andrew 'Razor' Gonzalez: [[ Alright sweet
+[18:02:57] Anthony Scott: /looc you aint special,
+[18:02:59] CCA.C08-UNION.i1.51023: //i'll still have my phone though so i'll be able to answer discord
+[18:03:01] Anthony Scott: /looc Not my friend XD
+[18:03:05] Andrew 'Razor' Gonzalez: [[ You'll be walking aimlessly bitchh
+[18:03:17] CCA.C08-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city8_edit_v4r.bsp
+[18:03:26] Anthony Scott: /looc I know this city, I can walk aimlessly around it :)
+[18:03:28] CCA.C08-UNION.i1.51023: //i won't be gone even 20 minutes, i'm hurrying 
+[18:03:51] Andrew 'Razor' Gonzalez: [[ I've done already 20 laps in the past hour
+[18:03:57] Andrew 'Razor' Gonzalez: [[ Kinda bored already
+[18:04:01] Anthony Scott: /looc Getting that Cardio in
+[18:04:31] Andrew 'Razor' Gonzalez: [[ Yeah
+[18:04:44] Andrew 'Razor' Gonzalez: [[ I could speedrun endurance
+[18:05:04] Anthony Scott: /looc totally am not on tinder rn XD
+[18:05:18] Andrew 'Razor' Gonzalez: [[ I knew you wouldn't be walking around long lmao
+[18:05:28] Anthony Scott: /looc stfu lol
+[18:06:00] Andrew 'Razor' Gonzalez: [[ It's so easy to know
+[18:06:03] Client "Kilszot" spawned in server <STEAM_0:1:148774529> (took 2482 seconds).
+[18:06:22] Anthony Scott: /looc Listen I just wanted to look at Tinder leave me alone 
+[18:06:56] Andrew 'Razor' Gonzalez: [[ Yeah to get some women
+[18:07:11] Anthony Scott: /looc I just moved, I need some people to chill with XD
+[18:07:15] Dropped "CAC.C08-CRM.10287" from server<STEAM_0:1:70540942>
+[18:07:30] Andrew 'Razor' Gonzalez: [[ "chill"
+[18:07:40] Anthony Scott: /looc I am not a man whore XD
+[18:07:46] Andrew 'Razor' Gonzalez: [[ Chill and fuck more like
+[18:07:53] Andrew 'Razor' Gonzalez: [[ It's understandable man no worries
+[18:08:14] Anthony Scott: /looc Surpisingly I am actually not that typa guy. Fuckin ain't a priority it's a luxury... for them
+[18:08:33] Andrew 'Razor' Gonzalez: [[ Sounding like an Emirates flight
+[18:08:51] Anthony Scott: /looc that just made me spit out water, asshat
+[18:09:14] Andrew 'Razor' Gonzalez: [[ Lmao
+[18:09:28] Andrew 'Razor' Gonzalez: [[ Mile high club lets goo
+[18:09:37] Anthony Scott: /looc been there, done that
+[18:09:52] Andrew 'Razor' Gonzalez: [[ You're in the mile high club too?
+[18:10:05] Anthony Scott: /looc fuck yea, if you ain't then you clearly a vanilla typa mofo
+[18:10:17] Andrew 'Razor' Gonzalez: [[ Was it someone you knew or an attendant?
+[18:10:36] Anthony Scott: /looc Someone I knew and the second time was the attendant XD
+[18:10:43] Andrew 'Razor' Gonzalez: [[ DAAAMN
+[18:10:56] Andrew 'Razor' Gonzalez: [[ How'd you get the attendant?
+[18:10:58] Anthony Scott: /looc First Class was well worth it 
+[18:11:06] Kilszot<STEAM_0:1:148774529> changed their name to Dimitri Makarovicz
+[18:11:25] Andrew 'Razor' Gonzalez: [[ What did you sauce the attendant with?
+[18:11:43] Anthony Scott: /looc She was some baddie of a girl. Like she was in her twenties I wanna say. I just showed her my type First Class experience
+[18:12:06] Anthony Scott: /looc it also helped that it was a double decker plane and so the top deck was pretty empty :)
+[18:12:10] Andrew 'Razor' Gonzalez: [[ Flight attendant in her 20's? Damn
+[18:12:24] Anthony Scott: /looc well she looked in her twenties. late though
+[18:12:31] Anthony Scott: /looc but she could be in the thirties and lookin nice af
+[18:12:46] Andrew 'Razor' Gonzalez: [[ She was definitely single or her husband wasn't giving it to her
+[18:12:54] Anthony Scott: /looc Like the saying I live by
+[18:13:06] Anthony Scott: /looc Ain't my problem if you can't stop your girl from being taken by me 
+[18:13:10] Andrew 'Razor' Gonzalez: [[ I got my mile high club pass on an Emirates flight
+[18:13:18] Anthony Scott: /looc OH WORD? wit who
+[18:13:43] Andrew 'Razor' Gonzalez: [[ Attendant with get this, a milf.
+[18:13:56] Anthony Scott: /looc lord have mercy
+[18:13:58] Andrew 'Razor' Gonzalez: [[ Mother of two kids
+[18:14:03] Anthony Scott: /looc how bad we talkin
+[18:14:09] Andrew 'Razor' Gonzalez: [[ RECENTLY divorced
+[18:14:13] Andrew 'Razor' Gonzalez: [[ At the time
+[18:14:19] Andrew 'Razor' Gonzalez: [[ Like probably 40's
+[18:14:22] Anthony Scott: /looc AYE YO. Was she fine?
+[18:14:31] Andrew 'Razor' Gonzalez: [[ Dude she fucking looked so young
+[18:14:43] Andrew 'Razor' Gonzalez: [[ Like in her early 30's or late 20's
+[18:14:50] Andrew 'Razor' Gonzalez: [[ Fucking D cup tits
+[18:14:58] Anthony Scott: /looc Bro tbh mine coulda been the same idk 
+[18:15:05] Anthony Scott: /looc I didn't ask for the age 
+[18:15:11] Andrew 'Razor' Gonzalez: [[ Neither did I
+[18:15:11] Anthony Scott: /looc only the name and number
+[18:15:19] Andrew 'Razor' Gonzalez: [[ But I knew she was a mom after the fact
+[18:15:27] Anthony Scott: /looc XD
+[18:15:45] Andrew 'Razor' Gonzalez: [[ I asked her how is she working as an attendant and she was recently divorced
+[18:15:58] Andrew 'Razor' Gonzalez: [[ Since her kids weren't home, she could travel
+[18:16:07] Andrew 'Razor' Gonzalez: [[ Dude she gave me a free night at a hotel
+[18:16:14] Andrew 'Razor' Gonzalez: [[ Fucking amazing
+[18:16:19] Anthony Scott: /looc at her room?
+[18:16:34] Andrew 'Razor' Gonzalez: [[ No like my own room
+[18:16:36] Andrew 'Razor' Gonzalez: [[ Free night
+[18:16:43] Anthony Scott: /looc damn tf
+[18:16:57] Anthony Scott: /looc ight so lemme hear it, watchu give to her 
+[18:17:04] Andrew 'Razor' Gonzalez: [[ Idk how she got it, but I have her number and I still talk to her nowadays
+[18:17:12] Andrew 'Razor' Gonzalez: [[ Wdym gave her
+[18:17:20] Anthony Scott: /looc Did you represent is the question
+[18:17:35] Anthony Scott: /looc and did you represent to the best of your damn ability
+[18:17:45] Andrew 'Razor' Gonzalez: [[ I mean, I wasn't a showoff
+[18:17:54] Andrew 'Razor' Gonzalez: [[ But I represented pretty good
+[18:17:57] Anthony Scott: /looc Good man 
+[18:18:07] Anthony Scott: /looc I am going on a trip at the end of the month
+[18:18:10] Andrew 'Razor' Gonzalez: [[ She made the move too
+[18:18:18] Anthony Scott: /looc so like I am hoping round 3 happens
+[18:18:21] Andrew 'Razor' Gonzalez: [[ Sauce up a flight attendant
+[18:18:37] Anthony Scott: /looc damn she made the first move?
+[18:18:53] Andrew 'Razor' Gonzalez: [[ Yeah she did and I didn't even know until her fucking hand went there
+[18:19:03] Anthony Scott: /looc XD boy 
+[18:19:04] Andrew 'Razor' Gonzalez: [[ But then I knew what was going to happen, obviously
+[18:19:20] Anthony Scott: /looc I mean aye listen, Ain't no complaints
+[18:19:21] Client "Vein" connected.
+[18:19:22] Andrew 'Razor' Gonzalez: [[ Look man I was fucking 21 when it happened
+[18:19:36] Andrew 'Razor' Gonzalez: [[ I recently turned 21 at that time
+[18:19:38] Dimitri Makarovicz: /looc lovely and im going to poland
+[18:19:43] Dimitri Makarovicz: /looc in 4 days
+[18:19:47] Dimitri Makarovicz: /looc wish me luck
+[18:19:51] Andrew 'Razor' Gonzalez: [[ Sauce up a polish attendant
+[18:19:58] Anthony Scott: /looc Yo Polish girls 
+[18:20:01] Dimitri Makarovicz: /looc i will sauce up a polish 15 year old
+[18:20:03] Dimitri Makarovicz: /looc for sure
+[18:20:09] Anthony Scott: /looc ......
+[18:20:09] Andrew 'Razor' Gonzalez: [[ Polish women are so good
+[18:20:12] Andrew 'Razor' Gonzalez: [[ Uh
+[18:20:14] Andrew 'Razor' Gonzalez: [[ 15?
+[18:20:21] Anthony Scott: /looc /me reaches for the phone
+[18:20:21] Dimitri Makarovicz: /looc what im 19 age of consent is 15 in poland
+[18:20:34] Andrew 'Razor' Gonzalez: [[ Ok but like
+[18:20:36] Andrew 'Razor' Gonzalez: [[ here
+[18:20:43] Dimitri Makarovicz: /looc so why we locked ?
+[18:20:47] Dimitri Makarovicz: /looc strapped
+[18:21:06] Andrew 'Razor' Gonzalez: [[ oh you dont have your ID
+[18:21:17] Andrew 'Razor' Gonzalez: [[ You need to be processed
+[18:21:25] Dimitri Makarovicz: /looc fuck im going on IRA rp
+[18:21:39] Dimitri Makarovicz: /looc im an Event manager on this bullshit server wait is this project revival
+[18:21:42] Dimitri Makarovicz: // ohh fuck forgot im em
+[18:21:49] Anthony Scott: /looc huh
+[18:21:58] Andrew 'Razor' Gonzalez: [[ This is project revival what
+[18:22:10] Dimitri Makarovicz: /looc well fuck it im going on IRA rp
+[18:22:17] Andrew 'Razor' Gonzalez: [[ Why
+[18:22:23] Dimitri Makarovicz: /looc cuz no one here
+[18:22:35] Andrew 'Razor' Gonzalez: [[ I mean the owner went to do something really quick
+[18:22:39] Andrew 'Razor' Gonzalez: [[ I messaged him already
+[18:23:02] Dimitri Makarovicz: /looc well ira rp has 15 players
+[18:23:09] Dimitri Makarovicz: /looc and i bet there is more to laugh about there
+[18:23:23] Andrew 'Razor' Gonzalez: [[ You dont like laughing about mile high club?
+[18:23:30] Andrew 'Razor' Gonzalez: [[ It's golden
+[18:23:32] Client "Dr. Cranberry" connected.
+[18:24:14] Dimitri Makarovicz: /looc sorri i live in germany and fell in love with a hoe in canada and got depressive from looking at scenery from Americas and got depressive for like 3 days becuse europe is doo doo
+[18:24:38] Andrew 'Razor' Gonzalez: [[ I had a stroke reading that
+[18:24:43] Dimitri Makarovicz: /looc but 4 more days and im going to polan
+[18:24:47] Dimitri Makarovicz: /looc to my girlfriends
+[18:24:54] Andrew 'Razor' Gonzalez: [[ She's in poland?
+[18:24:59] Dimitri Makarovicz: /looc they in poland
+[18:25:13] Anthony Scott: /looc well Ima step away, Ima go grab a bite. Ill catch yall later
+[18:25:16] Dropped "Anthony Scott" from server<STEAM_0:1:87963885>
+[18:25:19] Andrew 'Razor' Gonzalez: [[ Alright take care
+[18:26:49] Client "Vein" spawned in server <STEAM_0:1:115933392> (took 448 seconds).
+[18:27:22] Vein<STEAM_0:1:115933392> changed their name to Test test test
+[18:27:38] Test test test: // Dab me up with the discord
+[18:27:40] Test test test: /content
+[18:27:46] Andrew 'Razor' Gonzalez: // type /discord
+[18:27:52] Dimitri Makarovicz: // any female chars up to erp ?
+[18:27:53] Test test test: /discord
+[18:28:10] Andrew 'Razor' Gonzalez: // Ew
+[18:28:43] Dropped "Test test test" from server<STEAM_0:1:115933392>
+[18:29:14] Dimitri Makarovicz was killed by trigger_hurt
+[18:29:26] Dimitri Makarovicz: // good to know the train tracks are under electricity
+[18:29:37] Andrew 'Razor' Gonzalez: // Yep
+[18:29:39] Dimitri Makarovicz: // never heard of train tracks under electricity but sure
+[18:29:48] Dimitri Makarovicz: // Americans and their weird things
+[18:29:55] Dimitri Makarovicz was killed by trigger_hurt
+[18:31:56] Client "Vein" connected.
+[18:34:35] Client "Vein" spawned in server <STEAM_0:1:115933392> (took 159 seconds).
+[18:36:21] Vein<STEAM_0:1:115933392> changed their name to Richard Marston
+[18:39:00] Dropped "Andrew 'Razor' Gonzalez" from server<STEAM_0:1:66880501>
+[18:39:20] Dropped "Richard Marston" from server<STEAM_0:1:115933392>
+[18:39:54] Client "Beedle" connected.
+[18:42:45] Dropped "Dimitri Makarovicz" from server<STEAM_0:1:148774529>
+[18:45:08] Client "Beedle" spawned in server <STEAM_0:1:31603520> (took 314 seconds).
+[18:45:45] Beedle<STEAM_0:1:31603520> changed their name to Kane Davis
+[18:48:36] Dropped "Kane Davis" from server<STEAM_0:1:31603520>
+[18:54:38] CCA.C08-UNION.i1.51023: //well fuck
+[18:58:53] Preobrazhensky Bogolepov: // goodbye famther
+[18:58:57] Preobrazhensky Bogolepov: // i sowwy
+[18:59:00] Dropped "Preobrazhensky Bogolepov" from server<STEAM_0:1:127409364>
+[19:25:51] Client "letsblowupawalmart" connected.
+[19:25:57] Client "letsblowupawalmart" connected.
+[20:09:18] CCA.C08-UNION.i1.51023: /toggleraise
+[20:09:20] CCA.C08-UNION.i1.51023: /toggleraise
+[21:00:38] Client "Nightle" connected.
+[22:15:45] Dropped "CCA.C08-UNION.i1.51023" from server<STEAM_0:1:53097688>

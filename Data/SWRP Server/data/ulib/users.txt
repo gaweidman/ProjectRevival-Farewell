@@ -1,0 +1,44 @@
+"STEAM_0:0:193599766"	
+{
+	"name"	"DRD"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"superadmin"
+}
+"STEAM_0:1:52892973"	
+{
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"name"	"Ollie Garner"
+	"group"	"superadmin"
+}
+"STEAM_0:1:88228734"	
+{
+	"name"	"High Colonel Alexis Alexandria"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"epicgamer"
+}
+"STEAM_0:1:53097688"	
+{
+	"name"	"matt saton"
+	"deny"	
+	{
+	}
+	"allow"	
+	{
+	}
+	"group"	"superadmin"
+}

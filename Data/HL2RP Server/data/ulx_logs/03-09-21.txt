@@ -1,0 +1,225 @@
+<Logging continued from "data/ulx_logs/03-08-21.txt">
+[02:01:36] Dropped "Odell Cubbage" from server<STEAM_0:1:53097688>
+
+
+
+[03:28:48] New map: rp_i17_variation_v0
+[10:24:21] Client "matt saton" connected.
+[10:25:36] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 75 seconds).
+[10:26:18] Client "Apollo7771FO3" connected.
+[10:28:48] matt saton<STEAM_0:1:53097688> changed their name to Lee Maylor
+[10:29:09] Client "Apollo7771FO3" spawned in server <STEAM_0:1:40787669> (took 171 seconds).
+[10:30:20] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_interiors/table_cafeteria.mdl
+[10:30:30] Lee Maylor<STEAM_0:1:53097688> used the tool stacker_improved on models/props_interiors/table_cafeteria.mdl
+[10:30:30] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_interiors/table_cafeteria.mdl
+[10:35:27] Apollo7771FO3<STEAM_0:1:40787669> changed their name to Todd Muller
+[10:35:29] Lee Maylor: //yo
+[10:35:36] Todd Muller: /ooc Hello.
+[10:35:44] Todd Muller<STEAM_0:1:40787669> changed their name to CAC.C17-CRM.23470
+[10:35:55] CAC.C17-CRM.23470<STEAM_0:1:40787669> changed their name to Crab.
+[10:36:32] Crab.<STEAM_0:1:40787669> changed their name to CAC.C17-CRM.23470
+[10:36:35] Lee Maylor: //how goes it
+[10:50:35] CAC.C17-CRM.23470: /ooc Back from unspoken AFK (Didn't have time to say anything) And to answer your question, alright. You?
+[10:51:11] Lee Maylor: //i'm doing alright. not bad, not awesome
+[10:51:19] Lee Maylor: //i'm remembering the full scope of everything i need to do
+[10:51:21] Lee Maylor: //so that's cool
+[10:51:24] Lee Maylor: /toggleraise
+[10:51:27] Lee Maylor: /toggleraise
+[10:51:32] Lee Maylor: //today's a hella busy week
+[10:51:37] Lee Maylor: //i've got two projects and two midterms
+[10:51:49] Lee Maylor: //one of the midterms being for literally the hardest class in the school
+[10:52:12] CAC.C17-CRM.23470: /ooc Holy cow, good luck.
+[10:52:24] Lee Maylor: //thank you, i will need it
+[10:59:24] CAC.C17-CRM.23470: /ooc Alright, imma go build some dupes for a thingy. See ya.
+[10:59:38] Dropped "CAC.C17-CRM.23470" from server<STEAM_0:1:40787669>
+[10:59:39] Lee Maylor: //alrigh,t tkae care
+[11:14:20] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_interiors/table_cafeteria.mdl
+[11:14:20] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_interiors/table_cafeteria.mdl
+[11:15:05] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_junk/garbage256_composite002a.mdl
+[11:15:22] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_junk/garbage256_composite002b.mdl
+[11:15:32] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_junk/garbage256_composite001a.mdl
+[11:15:33] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_junk/garbage128_composite001a.mdl
+[11:15:36] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_junk/garbage128_composite001a.mdl
+[11:15:42] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_junk/garbage128_composite001a.mdl
+[11:15:44] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_junk/garbage256_composite001a.mdl
+[11:15:46] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_junk/garbage256_composite002b.mdl
+[11:16:27] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_junk/garbage256_composite002b.mdl
+[11:16:29] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_junk/garbage256_composite001a.mdl
+[11:16:30] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_junk/garbage128_composite001b.mdl
+[11:16:42] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_junk/garbage128_composite001c.mdl
+[11:16:43] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_junk/garbage256_composite001a.mdl
+[11:16:44] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_junk/garbage128_composite001d.mdl
+[11:16:48] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_junk/garbage128_composite001d.mdl
+[11:16:52] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_junk/garbage_carboard002a.mdl
+[11:18:13] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/interior_fence002d.mdl
+[11:18:15] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/interior_fence002e.mdl
+[11:22:24] Lee Maylor set the hp for Themself to 1
+[11:22:24] Lee Maylor: !hp ^ 1
+[11:22:25] Lee Maylor killed Lee Maylor
+[11:22:30] Lee Maylor set the hp for Themself to 100
+[11:22:30] Lee Maylor: !hp ^ 100
+[11:23:01] Lee Maylor set the hp for Themself to 100
+[11:23:01] Lee Maylor: !hp ^ 100
+[11:23:06] Lee Maylor set the hp for Themself to 50
+[11:23:06] Lee Maylor: !hp ^ 50
+[11:23:11] Lee Maylor set the hp for Themself to 5
+[11:23:11] Lee Maylor: !hp ^ 5
+[11:23:12] Lee Maylor killed Lee Maylor
+[11:24:04] Lee Maylor killed Lee Maylor
+[11:25:37] Lee Maylor killed Lee Maylor
+[11:33:11] Lee Maylor<STEAM_0:1:53097688> used the tool mapret on *288
+[11:40:52] Lee Maylor<STEAM_0:1:53097688> spawned ragdoll models/romka/romka_combine_soldier.mdl
+[11:41:12] Lee Maylor<STEAM_0:1:53097688> used the tool rb655_easy_bodygroup on models/romka/romka_combine_soldier.mdl
+[11:42:12] Lee Maylor: /paneladd "https://combineoverwiki.net/images/c/c5/Overwatch_Soldier_triangle_arm.svg" 500 500 1
+[11:42:15] Lee Maylor: /panelremove 1
+[11:42:34] Lee Maylor: /paneladd https://combineoverwiki.net/images/thumb/c/c5/Overwatch_Soldier_triangle_arm.svg/405px-Overwatch_Soldier_triangle_arm.svg.png "500" "500" "1"
+[11:42:43] Lee Maylor: /panelremove 100 1
+[11:42:59] Lee Maylor: /paneladd https://combineoverwiki.net/images/thumb/c/c5/Overwatch_Soldier_triangle_arm.svg/405px-Overwatch_Soldier_triangle_arm.svg.png "355" "328" "1"
+[11:46:26] Lee Maylor: /panelremove 500
+[11:47:21] Lee Maylor: /paneladd "projectrevival.xyz/rpfiles/Overwatch_Soldier_triangle_arm.png" 387 356 1
+[11:47:27] Lee Maylor: /panelremove 50
+[11:47:47] Lee Maylor: /paneladd "projectrevival.xyz/rpfiles/Overwatch_Soldier_triangle_arm.png" 387 356 1
+[11:47:52] Lee Maylor: /panelremove 50
+[11:48:12] Lee Maylor: /paneladd "projectrevival.xyz/rpfiles/Overwatch_Soldier_triangle_arm.png" 387 356 0.5
+[11:48:17] Lee Maylor: /panelremove 50
+[11:48:33] Lee Maylor: /paneladd "projectrevival.xyz/rpfiles/Overwatch_Soldier_triangle_arm.png" "387" "356" 1
+[11:48:59] Lee Maylor: /paneladd "projectrevival.xyz/rpfiles/Overwatch_Soldier_triangle_arm.png" "387" "356" 1
+[11:49:02] Lee Maylor: /panelremove 50
+[11:49:28] Lee Maylor: https://projectrevival.xyz/rpfiles/logo.png
+[11:49:34] Lee Maylor: /paneladd "projectrevival.xyz/rpfiles/logo.png" "387" "356" 1
+[11:49:39] Lee Maylor: /panelremove 50
+[11:50:45] Lee Maylor: /paneladd "projectrevival.xyz/rpfiles/logo.png" "387" "356" 1
+[11:50:49] Lee Maylor: /panelremove 50
+[11:51:13] Lee Maylor: /paneladd "projectrevival.xyz/rpfiles/logo.png" "387" "356" "1"
+[11:51:18] Lee Maylor: /panelremove 50
+[11:52:15] Lee Maylor: /mapsceneadd
+[11:54:19] Lee Maylor: /mapsceneadd
+[11:55:04] Lee Maylor<STEAM_0:1:53097688> used the tool ledscreen on maps/rp_i17_variation_v0.bsp
+[11:55:21] Lee Maylor<STEAM_0:1:53097688> used the tool ledscreen on maps/rp_i17_variation_v0.bsp
+[11:55:24] Lee Maylor<STEAM_0:1:53097688> used the tool ledscreen on maps/rp_i17_variation_v0.bsp
+[11:55:25] Lee Maylor<STEAM_0:1:53097688> used the tool ledscreen on maps/rp_i17_variation_v0.bsp
+[11:55:26] Lee Maylor<STEAM_0:1:53097688> used the tool ledscreen on maps/rp_i17_variation_v0.bsp
+[11:55:30] Lee Maylor<STEAM_0:1:53097688> used the tool ledscreen on maps/rp_i17_variation_v0.bsp
+[11:55:35] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/squad/sf_plates/sf_plate1x7.mdl
+[11:55:36] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/squad/sf_plates/sf_plate1x7.mdl
+[11:56:57] Lee Maylor<STEAM_0:1:53097688> used the tool textscreen on maps/rp_i17_variation_v0.bsp
+[11:57:13] Lee Maylor<STEAM_0:1:53097688> used the tool textscreen on maps/rp_i17_variation_v0.bsp
+[11:57:15] Lee Maylor<STEAM_0:1:53097688> used the tool textscreen on maps/rp_i17_variation_v0.bsp
+[11:57:26] Lee Maylor<STEAM_0:1:53097688> used the tool textscreen on maps/rp_i17_variation_v0.bsp
+[11:57:29] Lee Maylor<STEAM_0:1:53097688> used the tool textscreen on maps/rp_i17_variation_v0.bsp
+[11:57:51] Lee Maylor<STEAM_0:1:53097688> used the tool textscreen on maps/rp_i17_variation_v0.bsp
+[11:57:55] Lee Maylor<STEAM_0:1:53097688> used the tool textscreen on maps/rp_i17_variation_v0.bsp
+[11:58:27] Lee Maylor<STEAM_0:1:53097688> used the tool textscreen on maps/rp_i17_variation_v0.bsp
+[11:58:41] Lee Maylor<STEAM_0:1:53097688> used the tool textscreen on maps/rp_i17_variation_v0.bsp
+[11:58:44] Lee Maylor<STEAM_0:1:53097688> used the tool textscreen on maps/rp_i17_variation_v0.bsp
+[11:59:01] Lee Maylor<STEAM_0:1:53097688> used the tool textscreen on models/hunter/plates/plate1x1.mdl
+[12:05:50] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_interiors/printer.mdl
+[12:07:58] Lee Maylor: /doorsettitle Warehouse 3
+[12:07:58] Lee Maylor: /doorsethidden false
+[12:40:22] Client "cornyy" connected.
+[13:50:10] Lee Maylor<STEAM_0:1:53097688> changed their name to CCA.C17-UNION.i1.51023
+[13:51:58] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool ledscreen on maps/rp_i17_variation_v0.bsp
+[13:51:59] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool ledscreen on maps/rp_i17_variation_v0.bsp
+[13:52:02] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool ledscreen on maps/rp_i17_variation_v0.bsp
+[13:52:02] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool ledscreen on maps/rp_i17_variation_v0.bsp
+[13:52:05] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool ledscreen on maps/rp_i17_variation_v0.bsp
+[13:52:16] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool ledscreen on maps/rp_i17_variation_v0.bsp
+[13:52:19] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool ledscreen on maps/rp_i17_variation_v0.bsp
+[13:52:20] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool ledscreen on maps/rp_i17_variation_v0.bsp
+[13:52:49] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on models/squad/sf_plates/sf_plate1x7.mdl
+[13:52:52] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on models/squad/sf_plates/sf_plate1x7.mdl
+[13:53:41] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool textscreen on maps/rp_i17_variation_v0.bsp
+[13:53:44] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool ledscreen on maps/rp_i17_variation_v0.bsp
+[13:53:51] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool ledscreen on *225
+[13:53:52] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool ledscreen on maps/rp_i17_variation_v0.bsp
+[13:53:53] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool ledscreen on maps/rp_i17_variation_v0.bsp
+[13:53:54] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool ledscreen on maps/rp_i17_variation_v0.bsp
+[13:53:55] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool ledscreen on maps/rp_i17_variation_v0.bsp
+[13:53:56] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool ledscreen on maps/rp_i17_variation_v0.bsp
+[13:54:02] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool ledscreen on maps/rp_i17_variation_v0.bsp
+[13:54:12] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned sent ix_airvent
+[13:54:58] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/combine_emitter01.mdl
+[13:59:39] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned sent ix_printer
+[14:02:55] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned/gave himself swep chess_admin_tool
+[14:03:16] CCA.C17-UNION.i1.51023: /toggleraise
+[14:04:37] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned/gave himself swep weapon_crowbar
+[14:04:38] CCA.C17-UNION.i1.51023: /toggleraise
+[14:05:58] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned/gave himself swep weapon_ar2
+[14:05:58] CCA.C17-UNION.i1.51023: /toggleraise
+[14:06:08] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned sent item_ammo_ar2_altfire
+[14:06:09] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned sent item_ammo_ar2_altfire
+[14:06:56] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned sent item_ammo_smg1_grenade
+[14:07:00] CCA.C17-UNION.i1.51023: /toggleraise
+[14:08:10] CCA.C17-UNION.i1.51023: /paneladd https://projectrevival.xyz/rpfiles/Overwatch_Soldier_triangle_arm.png 387 356 1
+[14:08:16] CCA.C17-UNION.i1.51023: /panelremove 1
+[14:12:16] CCA.C17-UNION.i1.51023: /paneladd https://projectrevival.xyz/rpfiles/Overwatch_Soldier_triangle_arm.png 387 356 0.5
+[14:12:20] CCA.C17-UNION.i1.51023: /panelremove 2
+[14:12:25] CCA.C17-UNION.i1.51023: /paneladd https://projectrevival.xyz/rpfiles/Overwatch_Soldier_triangle_arm.png 387 356 1.414
+[14:12:34] CCA.C17-UNION.i1.51023: /panelremove 5
+[14:12:38] CCA.C17-UNION.i1.51023: /panelremove 50
+[14:14:34] CCA.C17-UNION.i1.51023: /paneladd "https://projectrevival.xyz/rpfiles/403px-Concept_overwatch_soldier_logo_35_yellow.svg.png" 403 393 1
+[14:14:36] CCA.C17-UNION.i1.51023: /panelremove 1
+[14:14:47] CCA.C17-UNION.i1.51023: /paneladd "https://projectrevival.xyz/rpfiles/403px-Concept_overwatch_soldier_logo_35_yellow.svg.png" 403 393 0.5
+[14:15:21] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned ragdoll models/romka/rtb_elite.mdl
+[14:18:21] CCA.C17-UNION.i1.51023: /paneladd "https://projectrevival.xyz/rpfiles/403px-Concept_overwatch_soldier_logo_35_yellow.svg.png" 403 393 0.5
+[14:18:26] CCA.C17-UNION.i1.51023: /panelremove 500
+[14:18:35] CCA.C17-UNION.i1.51023: /paneladd "https://projectrevival.xyz/rpfiles/403px-Concept_overwatch_soldier_logo_35_yellow.svg.png" 403 393 0.5
+[14:18:39] CCA.C17-UNION.i1.51023: /panelremove 500
+[14:18:41] CCA.C17-UNION.i1.51023: /paneladd "https://projectrevival.xyz/rpfiles/403px-Concept_overwatch_soldier_logo_35_yellow.svg.png" 403 393 0.5
+[14:18:48] CCA.C17-UNION.i1.51023: /panelremove 500
+[14:18:56] CCA.C17-UNION.i1.51023: /paneladd "https://projectrevival.xyz/rpfiles/403px-Concept_overwatch_soldier_logo_35_yellow.svg.png" 403 393 0.5
+[14:19:35] CCA.C17-UNION.i1.51023: /panelremove 500
+[14:19:39] CCA.C17-UNION.i1.51023: /paneladd "https://projectrevival.xyz/rpfiles/403px-Concept_overwatch_soldier_logo_35_yellow.svg.png" 403 393 0.5
+[14:19:41] CCA.C17-UNION.i1.51023: /panelremove 500
+[14:19:44] CCA.C17-UNION.i1.51023: /paneladd "https://projectrevival.xyz/rpfiles/403px-Concept_overwatch_soldier_logo_35_yellow.svg.png" 403 393 0.5
+[14:19:47] CCA.C17-UNION.i1.51023: /panelremove 500
+[14:19:49] CCA.C17-UNION.i1.51023: /paneladd "https://projectrevival.xyz/rpfiles/403px-Concept_overwatch_soldier_logo_35_yellow.svg.png" 403 393 0.5
+[14:19:51] CCA.C17-UNION.i1.51023: /panelremove 500
+[14:19:54] CCA.C17-UNION.i1.51023: /paneladd "https://projectrevival.xyz/rpfiles/403px-Concept_overwatch_soldier_logo_35_yellow.svg.png" 403 393 0.5\
+[14:19:56] CCA.C17-UNION.i1.51023: /panelremove 500
+[14:20:00] CCA.C17-UNION.i1.51023: /paneladd "https://projectrevival.xyz/rpfiles/403px-Concept_overwatch_soldier_logo_35_yellow.svg.png" 403 393 0.5
+[14:20:05] CCA.C17-UNION.i1.51023: /paneladd "https://projectrevival.xyz/rpfiles/403px-Concept_overwatch_soldier_logo_35_yellow.svg.png" 403 393 0.5
+[14:20:10] CCA.C17-UNION.i1.51023: /panelremove 1
+[14:20:13] CCA.C17-UNION.i1.51023: /panelremove 1
+[14:39:36] CCA.C17-UNION.i1.51023: /me would take out his combat knife and cut the individual's ties.
+[14:41:29] CCA.C17-UNION.i1.51023: /toggleraise
+[14:41:30] CCA.C17-UNION.i1.51023: /toggleraise
+[14:42:06] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned ragdoll models/romka/romka_combine_super_soldier.mdl
+[14:42:16] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned ragdoll models/romka/rtb_elite.mdl
+[14:42:21] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool rb655_easy_bodygroup on models/romka/rtb_elite.mdl
+[14:42:29] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> used the tool rb655_easy_bodygroup on maps/rp_i17_variation_v0.bsp
+[15:01:35] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned ragdoll models/romka/romka_combine_soldier.mdl
+[15:01:38] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned ragdoll models/romka/romka_combine_soldier.mdl
+[15:01:53] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned ragdoll models/romka/romka_combine_soldier.mdl
+[15:17:04] CCA.C17-UNION.i1.51023: /me would take out his combat knife and cut the individual's ties.
+[15:17:05] CCA.C17-UNION.i1.51023: /toggleraise
+[17:58:20] Client "Apollo7771FO3" connected.
+[18:01:26] Client "Apollo7771FO3" spawned in server <STEAM_0:1:40787669> (took 186 seconds).
+[18:04:44] Apollo7771FO3<STEAM_0:1:40787669> changed their name to Crab.
+[18:04:54] Crab.<STEAM_0:1:40787669> changed their name to Todd Muller
+[18:05:01] Todd Muller: /ooc Hello.
+[18:05:51] Todd Muller<STEAM_0:1:40787669> spawned model models/hunter/plates/plate1x3.mdl
+[18:06:06] Todd Muller<STEAM_0:1:40787669> used the tool stacker_improved on models/hunter/plates/plate1x3.mdl
+[18:06:06] Todd Muller<STEAM_0:1:40787669> spawned model models/hunter/plates/plate1x3.mdl
+[18:06:10] Todd Muller<STEAM_0:1:40787669> used the tool stacker_improved on models/hunter/plates/plate1x3.mdl
+[18:06:10] Todd Muller<STEAM_0:1:40787669> used the tool stacker_improved on models/hunter/plates/plate1x3.mdl
+[18:06:11] Todd Muller<STEAM_0:1:40787669> used the tool stacker_improved on models/hunter/plates/plate1x3.mdl
+[18:06:11] Todd Muller<STEAM_0:1:40787669> used the tool stacker_improved on models/hunter/plates/plate1x3.mdl
+[18:06:13] Todd Muller<STEAM_0:1:40787669> used the tool stacker_improved on models/hunter/plates/plate1x3.mdl
+[18:06:14] Todd Muller<STEAM_0:1:40787669> used the tool stacker_improved on models/hunter/plates/plate1x3.mdl
+[18:06:14] Todd Muller<STEAM_0:1:40787669> spawned model models/hunter/plates/plate1x3.mdl
+[18:06:28] Todd Muller<STEAM_0:1:40787669> spawned model models/hunter/plates/plate1x3.mdl
+[18:06:42] Todd Muller<STEAM_0:1:40787669> spawned model models/props_c17/furniturecouch001a.mdl
+[18:06:44] Todd Muller<STEAM_0:1:40787669> spawned model models/props_c17/furniturecouch001a.mdl
+[18:06:50] Todd Muller<STEAM_0:1:40787669> spawned model models/props_c17/furnituredrawer001a.mdl
+[18:06:56] Todd Muller<STEAM_0:1:40787669> spawned model models/props_c17/oildrum001.mdl
+[18:06:58] Todd Muller<STEAM_0:1:40787669> spawned model models/props_c17/oildrum001.mdl
+[18:07:02] Todd Muller<STEAM_0:1:40787669> spawned model models/props_c17/shelfunit01a.mdl
+[18:07:08] Todd Muller<STEAM_0:1:40787669> spawned model models/props_debris/metal_panel01a.mdl
+[18:07:09] Todd Muller<STEAM_0:1:40787669> spawned model models/props_interiors/vendingmachinesoda01a.mdl
+[18:07:16] Todd Muller<STEAM_0:1:40787669> spawned model models/props_c17/furniturebed001a.mdl
+[18:07:23] Todd Muller<STEAM_0:1:40787669> spawned model models/props_junk/wood_pallet001a.mdl
+[18:07:28] Todd Muller<STEAM_0:1:40787669> spawned model models/props_doors/door03_slotted_left.mdl
+[18:07:45] Todd Muller<STEAM_0:1:40787669> spawned model models/props_wasteland/interior_fence001g.mdl
+[18:08:44] Dropped "Todd Muller" from server<STEAM_0:1:40787669>
+<Logging continued in "data/ulx_logs/03-10-21.txt">

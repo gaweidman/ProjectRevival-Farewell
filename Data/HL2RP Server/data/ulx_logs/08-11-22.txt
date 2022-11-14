@@ -1,0 +1,1424 @@
+<Logging continued from "data/ulx_logs/08-10-22.txt">
+[00:00:12] CCA.C17-GRID.i3.08313<STEAM_0:1:53097688> used the tool material on models/hunter/plates/plate.mdl
+[00:00:12] CCA.C17-GRID.i3.08313<STEAM_0:1:53097688> used the tool material on models/hunter/plates/plate1.mdl
+[00:00:13] CCA.C17-GRID.i3.08313<STEAM_0:1:53097688> used the tool material on models/hunter/plates/plate2.mdl
+[00:00:14] CCA.C17-GRID.i3.08313<STEAM_0:1:53097688> used the tool material on models/hunter/plates/plate2.mdl
+[00:00:15] CCA.C17-GRID.i3.08313<STEAM_0:1:53097688> used the tool material on models/hunter/plates/plate.mdl
+[00:00:17] CCA.C17-GRID.i3.08313<STEAM_0:1:53097688> used the tool material on models/hunter/plates/plate.mdl
+[00:00:17] CCA.C17-GRID.i3.08313<STEAM_0:1:53097688> used the tool material on models/hunter/plates/plate1.mdl
+[00:00:20] CCA.C17-GRID.i3.08313<STEAM_0:1:53097688> used the tool material on models/hunter/plates/plate.mdl
+[00:00:31] CCA.C17-GRID.i3.08313<STEAM_0:1:53097688> used the tool permaprops on models/hunter/plates/plate1x2.mdl
+[00:00:34] CCA.C17-GRID.i3.08313<STEAM_0:1:53097688> used the tool nocollideeverything on models/hunter/plates/plate1.mdl
+[00:00:35] CCA.C17-GRID.i3.08313<STEAM_0:1:53097688> used the tool nocollideeverything on models/hunter/plates/plate.mdl
+[00:00:36] CCA.C17-GRID.i3.08313<STEAM_0:1:53097688> used the tool nocollideeverything on models/hunter/plates/plate2.mdl
+[00:00:37] CCA.C17-GRID.i3.08313<STEAM_0:1:53097688> used the tool nocollideeverything on models/hunter/plates/plate.mdl
+[00:00:38] CCA.C17-GRID.i3.08313<STEAM_0:1:53097688> used the tool nocollideeverything on models/hunter/plates/plate2.mdl
+[00:00:43] CCA.C17-GRID.i3.08313<STEAM_0:1:53097688> used the tool nocollideeverything on models/hunter/plates/plate.mdl
+[00:00:43] CCA.C17-GRID.i3.08313<STEAM_0:1:53097688> used the tool nocollideeverything on models/hunter/plates/plate1.mdl
+[00:00:44] CCA.C17-GRID.i3.08313<STEAM_0:1:53097688> used the tool nocollideeverything on models/hunter/plates/plate.mdl
+[00:00:48] CCA.C17-GRID.i3.08313<STEAM_0:1:53097688> used the tool permaprops on models/hunter/plates/plate2.mdl
+[00:00:50] CCA.C17-GRID.i3.08313<STEAM_0:1:53097688> used the tool permaprops on models/hunter/plates/plate2.mdl
+[00:00:51] CCA.C17-GRID.i3.08313<STEAM_0:1:53097688> used the tool permaprops on models/hunter/plates/plate.mdl
+[00:00:51] CCA.C17-GRID.i3.08313<STEAM_0:1:53097688> used the tool permaprops on models/hunter/plates/plate1.mdl
+[00:00:52] CCA.C17-GRID.i3.08313<STEAM_0:1:53097688> used the tool permaprops on models/hunter/plates/plate.mdl
+[00:00:53] CCA.C17-GRID.i3.08313<STEAM_0:1:53097688> used the tool permaprops on models/hunter/plates/plate2.mdl
+[00:00:54] CCA.C17-GRID.i3.08313<STEAM_0:1:53097688> used the tool permaprops on models/hunter/plates/plate1.mdl
+[00:00:55] CCA.C17-GRID.i3.08313<STEAM_0:1:53097688> used the tool permaprops on models/hunter/plates/plate.mdl
+[00:00:57] CCA.C17-GRID.i3.08313<STEAM_0:1:53097688> used the tool permaprops on models/hunter/plates/plate.mdl
+[00:01:08] CCA.C17-GRID.i3.08313: shadow
+[00:01:11] CCA.C17-GRID.i3.08313: grid
+[00:01:13] CCA.C17-GRID.i3.08313: union
+[00:01:14] CCA.C17-GRID.i3.08313: judge
+[00:01:43] CCA.C17-GRID.i3.08313<STEAM_0:1:53097688> spawned model models/props/cs_office/file_cabinet1_group.mdl
+[00:01:48] CCA.C17-GRID.i3.08313<STEAM_0:1:53097688> spawned model models/props/cs_office/file_cabinet1.mdl
+[00:02:21] CCA.C17-GRID.i3.08313<STEAM_0:1:53097688> used the tool nocollideeverything on maps/rp_industrial17_v1.bsp
+[00:03:01] CCA.C17-GRID.i3.08313<STEAM_0:1:53097688> spawned model models/props/cs_office/trash_can_p.mdl
+[00:03:11] CCA.C17-GRID.i3.08313<STEAM_0:1:53097688> spawned sent ix_printer
+[00:05:07] CCA.C17-GRID.i3.08313<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_desk001b.mdl
+[00:05:08] CCA.C17-GRID.i3.08313<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_desk001a.mdl
+[00:05:48] CCA.C17-GRID.i3.08313<STEAM_0:1:53097688> spawned model models/props/cs_office/offcorkboarda.mdl
+[00:24:30] Dropped "CCA.C17-GRID.i3.08313" from server<STEAM_0:1:53097688>
+
+
+
+[02:43:11] New map: rp_industrial17_v1
+[16:08:10] Client "Chicken" connected.
+[16:08:20] Client "matt saton" connected.
+[16:11:10] Client "Chicken" spawned in server <STEAM_0:0:143523274> (took 180 seconds).
+[16:11:12] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 172 seconds).
+[16:12:41] Chicken<STEAM_0:0:143523274> changed their name to CCA.C17-UNION.i5.03672
+[16:13:17] Client "Painevan" connected.
+[16:14:35] matt saton<STEAM_0:1:53097688> changed their name to CCA.C17-GRID.i3.08313
+[16:15:14] CCA.C17-UNION.i5.03672: // Q
+[16:15:22] CCA.C17-UNION.i5.03672: // remmeber when i was your
+[16:15:28] CCA.C17-UNION.i5.03672: // clothing designer
+[16:15:35] CCA.C17-UNION.i5.03672: // for your city adminstrator
+[16:15:40] Client "Painevan" spawned in server <STEAM_0:0:68118061> (took 143 seconds).
+[16:15:42] CCA.C17-GRID.i3.08313: //sorry finally updated my 
+[16:15:44] CCA.C17-GRID.i3.08313: /.OH SHIT 
+[16:15:46] CCA.C17-GRID.i3.08313: //OH SHIT OH SHIT OHS HIT
+[16:15:51] CCA.C17-UNION.i5.03672: // OH FUCK
+[16:15:52] CCA.C17-UNION.i5.03672: // FUCK
+[16:15:53] CCA.C17-UNION.i5.03672: // FUCK
+[16:15:53] CCA.C17-UNION.i5.03672: // FUCK
+[16:15:59] CCA.C17-UNION.i5.03672: // Q IM SCARED
+[16:16:27] CCA.C17-GRID.i3.08313: //check out the new judge
+[16:16:34] CCA.C17-GRID.i3.08313: //room
+[16:16:39] CCA.C17-GRID.i3.08313: //with the new evidence lobsters
+[16:16:39] CCA.C17-UNION.i5.03672: // TP ME
+[16:16:42] CCA.C17-UNION.i5.03672: // IDIOT
+[16:16:44] CCA.C17-GRID.i3.08313: //fuck you find it IC
+[16:16:47] CCA.C17-GRID.i3.08313: //it's by the armory
+[16:16:53] CCA.C17-UNION.i5.03672: // like i know were that is
+[16:17:03] CCA.C17-GRID.i3.08313: /doorsettitle "JUDGE Operations"
+[16:17:10] CCA.C17-GRID.i3.08313: //warmer
+[16:17:13] CCA.C17-GRID.i3.08313: //warmer
+[16:17:14] CCA.C17-GRID.i3.08313: //warmer
+[16:17:18] CCA.C17-GRID.i3.08313: //even warmer
+[16:17:25] CCA.C17-GRID.i3.08313: //warm
+[16:17:32] CCA.C17-GRID.i3.08313: //warmer
+[16:17:37] CCA.C17-GRID.i3.08313: //WARMER
+[16:17:40] CCA.C17-GRID.i3.08313: //YOU'RE BURNING
+[16:17:44] CCA.C17-GRID.i3.08313: //RED HOT RED HOT colder
+[16:17:48] CCA.C17-GRID.i3.08313: //RED HOT YOU'RE ON FIRE
+[16:17:54] CCA.C17-UNION.i5.03672: // wow
+[16:17:57] CCA.C17-UNION.i5.03672: // took you this long
+[16:17:58] CCA.C17-UNION.i5.03672: // to make this
+[16:18:06] CCA.C17-UNION.i5.03672: // im gonna become a judge
+[16:18:07] CCA.C17-GRID.i3.08313: //i did this last night whiel half asleep
+[16:18:11] CCA.C17-GRID.i3.08313: .//cork board
+[16:18:15] CCA.C17-UNION.i5.03672: .// im gonan become a judge
+[16:18:17] CCA.C17-UNION.i5.03672: .// because
+[16:18:18] CCA.C17-GRID.i3.08313: /toggleraise
+[16:18:19] CCA.C17-UNION.i5.03672: .// there so cool
+[16:18:24] CCA.C17-GRID.i3.08313: .//judge is dope
+[16:18:32] CCA.C17-UNION.i5.03672: .// and im really good at fucking with peoples minds example
+[16:18:38] CCA.C17-UNION.i5.03672: .// when i fuck with you all the time
+[16:18:48] CCA.C17-GRID.i3.08313: .//chicekn i'm well aware of how good you are of tearing people apart psychologically
+[16:18:55] CCA.C17-UNION.i5.03672: .// the printer is out of paper idiot
+[16:19:07] CCA.C17-GRID.i3.08313: .//it doesn't need paper idot
+[16:19:13] Painevan<STEAM_0:0:68118061> changed their name to Jonathan Jackson
+[16:19:16] CCA.C17-UNION.i5.03672: ./ /hes here
+[16:19:17] CCA.C17-GRID.i3.08313: //HE BAKC
+[16:19:25] CCA.C17-UNION.i5.03672: .// you go process him im scared
+[16:19:37] CCA.C17-UNION.i5.03672: .// does he still have his rank you think?
+[16:19:57] CCA.C17-GRID.i3.08313: //it be the boy
+[16:20:01] CCA.C17-UNION.i5.03672: // Q is hacking
+[16:21:46] CCA.C17-GRID.i3.08313: //trying to configure zira for something
+[16:22:01] CCA.C17-GRID.i3.08313: //wher ehte hell is the dashboard
+[16:22:20] CCA.C17-UNION.i5.03672: // up your ass and to the left
+[16:22:31] CCA.C17-GRID.i3.08313: //excuse you
+[16:25:50] Jonathan Jackson: Knock knock, anybody there in the head?
+[16:25:54] CCA.C17-GRID.i3.08313: .//sorry
+[16:26:03] CCA.C17-UNION.i5.03672: Funny...
+[16:26:04] CCA.C17-GRID.i3.08313: Step forward and give me your relocation coupon.
+[16:26:08] Jonathan Jackson: Sure
+[16:26:23] Jonathan Jackson: /looc How do I open inventory again I forgot
+[16:26:36] Jonathan Jackson: /looc Nvm got it
+[16:26:40] CCA.C17-UNION.i5.03672: .// tab
+[16:26:56] CCA.C17-GRID.i3.08313: /me would take the coupon and look it over front and back carefully, making sure to hold it up to the light.
+[16:27:00] CCA.C17-GRID.i3.08313: One second.
+[16:27:08] Jonathan Jackson: I got a standard relocation coupon just like everyone else.
+[16:27:21] CCA.C17-UNION.i5.03672: I've heard that one before
+[16:27:35] Jonathan Jackson: I wouldn't doubt it.
+[16:27:43] CCA.C17-GRID.i3.08313: Alright, I've got a few questions for you.
+[16:27:48] CCA.C17-GRID.i3.08313: First off, what is your date of birth?
+[16:27:55] CCA.C17-GRID.i3.08313: .//war was 2003, current year is 2006
+[16:28:01] CCA.C17-UNION.i5.03672: .// brb
+[16:28:01] CCA.C17-GRID.i3.08313: .//so minimum year to be born is 1985
+[16:28:11] Jonathan Jackson: 10/10 1983
+[16:28:15] CCA.C17-GRID.i3.08313: Alright..
+[16:28:19] CCA.C17-GRID.i3.08313: /me would take out his PDA and type a few things in.
+[16:28:21] CCA.C17-GRID.i3.08313: You're a male?
+[16:28:26] CCA.C17-GRID.i3.08313: /viewdata jonathan
+[16:28:27] Jonathan Jackson: You guessed right
+[16:28:45] CCA.C17-GRID.i3.08313: Do you know your blood type?
+[16:29:01] Jonathan Jackson: Not off the top of my head.
+[16:29:05] CCA.C17-GRID.i3.08313: Alright..
+[16:29:07] CCA.C17-GRID.i3.08313: /viewdata jonathan
+[16:29:20] CCA.C17-GRID.i3.08313: Do you have any mental or medical conditions or disorders?
+[16:29:37] Jonathan Jackson: I wouldn't say so.
+[16:29:46] CCA.C17-GRID.i3.08313: This doesn't have to be anything major, it could be something minor like eczema, OCD, crohn's, a bad knee, things like that.
+[16:29:57] CCA.C17-GRID.i3.08313: Still no?
+[16:30:26] Jonathan Jackson: I keep myself as healthy as possible with the healthcare provided by our benefactors
+[16:30:38] Jonathan Jackson: So I'd say I'm doing fine.
+[16:30:51] CCA.C17-GRID.i3.08313: Alright.
+[16:31:01] CCA.C17-GRID.i3.08313: Do you have any questions for me?
+[16:31:15] Jonathan Jackson: Sure, where are the housing blocks?
+[16:31:51] CCA.C17-GRID.i3.08313: There's one in the plaza, and two to the left end of the plaza. Would you like an apartment assigned to you?
+[16:32:00] Jonathan Jackson: That would be great.
+[16:32:06] CCA.C17-GRID.i3.08313: Come this way.
+[16:32:13] Jonathan Jackson: Uh
+[16:32:13] CCA.C17-GRID.i3.08313: .//i am
+[16:32:15] CCA.C17-GRID.i3.08313: .//fucking dumb
+[16:32:20] CCA.C17-GRID.i3.08313: .//dont' judge me you stupid onion
+[16:32:22] Jonathan Jackson: Can I get the ID first possibly?
+[16:32:25] CCA.C17-GRID.i3.08313: /me would hand the man his CID card.
+[16:32:32] CCA.C17-GRID.i3.08313: Don't sass me.
+[16:32:33] Jonathan Jackson: Thanks
+[16:34:29] CCA.C17-GRID.i3.08313: /textremove 10
+[16:34:30] CCA.C17-GRID.i3.08313: /textremove 50
+[16:34:50] CCA.C17-GRID.i3.08313: aLRIGHT.
+[16:34:51] CCA.C17-GRID.i3.08313: .//shit
+[16:34:53] CCA.C17-GRID.i3.08313: .//no caps
+[16:34:55] CCA.C17-GRID.i3.08313: Alright.
+[16:34:59] CCA.C17-GRID.i3.08313: /viewdata jon
+[16:35:06] Jonathan Jackson: This the place?
+[16:35:26] CCA.C17-GRID.i3.08313: /me would take out his PDA and begin typing on it. He responds to the citizen while still typing.
+[16:35:27] CCA.C17-GRID.i3.08313: Mhm.
+[16:35:30] CCA.C17-GRID.i3.08313: I'll get you key.
+[16:35:33] CCA.C17-GRID.i3.08313: .//YOUR
+[16:35:38] Jonathan Jackson: Alright, no rush.
+[16:35:41] CCA.C17-GRID.i3.08313: you're free to enter
+[16:35:51] Jonathan Jackson: Thanjs
+[16:35:56] Jonathan Jackson: Thanks I mean.
+[16:37:03] Jonathan Jackson: // Where exactly is a gas mask required and where is it not?
+[16:37:14] CCA.C17-GRID.i3.08313: //any time you see an air vent entity, you're free to take off your mask
+[16:37:22] Jonathan Jackson: // Alright
+[16:37:24] CCA.C17-GRID.i3.08313: /addtenant jonathan
+[16:37:35] CCA.C17-GRID.i3.08313<STEAM_0:1:53097688> spawned sent ix_airvent
+[16:37:56] CCA.C17-GRID.i3.08313: /me would come in holding a key in his right hand. He raises it, to drop the key in the man's hand.
+[16:37:57] Client "Tinky Winky" connected.
+[16:38:33] Jonathan Jackson: Oh sorry, zoned out.
+[16:38:35] CCA.C17-GRID.i3.08313: Hold out your hand.
+[16:38:41] Jonathan Jackson: /me grabs the keys from him.
+[16:39:00] CCA.C17-GRID.i3.08313: If you need filters, you can buy them from the CHANGE store, it's open 24 hours a day.
+[16:39:09] CCA.C17-GRID.i3.08313: Other stores sell filters, but they're not always open.
+[16:39:14] Jonathan Jackson: Got it
+[16:39:23] CCA.C17-GRID.i3.08313: Any questions before I go?
+[16:39:33] Jonathan Jackson: None, I appreciate your help.
+[16:39:35] CCA.C17-GRID.i3.08313: fantastic
+[16:39:41] CCA.C17-UNION.i5.03672: // wish we had more people on
+[16:39:41] CCA.C17-GRID.i3.08313: /r Union.
+[16:39:46] CCA.C17-UNION.i5.03672: /radio Yes?
+[16:39:46] CCA.C17-GRID.i3.08313: //invite them
+[16:40:01] CCA.C17-GRID.i3.08313: /r Man the diordna, I have GRID business to attend to
+[16:40:09] CCA.C17-UNION.i5.03672: // the fucking what?
+[16:40:11] CCA.C17-GRID.i3.08313: /r Patrol if you see fit.
+[16:40:15] CCA.C17-GRID.i3.08313: //the building we were just in
+[16:40:19] CCA.C17-GRID.i3.08313: //this here
+[16:40:22] CCA.C17-GRID.i3.08313: //this is what /rooc is for
+[16:40:25] CCA.C17-GRID.i3.08313: /rooc banch
+[16:40:29] CCA.C17-UNION.i5.03672: /rooc what building
+[16:40:33] CCA.C17-UNION.i5.03672: /rooc the apartment?
+[16:40:34] CCA.C17-GRID.i3.08313: /rooc the one we were just in
+[16:40:41] CCA.C17-GRID.i3.08313: /rooc yeah the apartment buildin
+[16:41:05] CCA.C17-UNION.i5.03672: /rooc why would i man it
+[16:41:14] CCA.C17-GRID.i3.08313: /rooc make sure no tomfoolery goes down
+[16:41:19] CCA.C17-GRID.i3.08313: /r Patrol if you like too. Up to you.
+[16:41:26] CCA.C17-UNION.i5.03672: /rooc 10-4
+[16:41:30] CCA.C17-GRID.i3.08313<STEAM_0:1:53097688> changed their name to Ryan Maley
+[16:42:41] Client "DRD" connected.
+[16:43:04] CCA.C17-UNION.i5.03672: // i yelled at drd he is getting on
+[16:43:10] Ryan Maley: //vvell done
+[16:43:18] CCA.C17-UNION.i5.03672: // nice @everyone
+[16:43:21] Ryan Maley: //i called lightroom a whore
+[16:43:27] CCA.C17-UNION.i5.03672: // good
+[16:43:41] CCA.C17-UNION.i5.03672: // drd is joining W
+[16:43:47] CCA.C17-UNION.i5.03672: // im so good at yelling at people
+[16:44:14] Client "Bean" connected.
+[16:44:19] Ryan Maley: //BENA IS GETTING OOOOON
+[16:44:23] CCA.C17-UNION.i5.03672: // W
+[16:44:24] Client "DRD" spawned in server <STEAM_0:0:193599766> (took 103 seconds).
+[16:44:49] CCA.C17-UNION.i5.03672: // I swear I told you to make a ping role a while ago
+[16:45:19] Client "Bean" spawned in server <STEAM_0:1:591779303> (took 65 seconds).
+[16:45:23] DRD<STEAM_0:0:193599766> changed their name to Hollie Reynolds
+[16:45:39] Hollie Reynolds: // kurwa
+[16:45:40] Bean<STEAM_0:1:591779303> changed their name to Alex Palovichov
+[16:45:46] Ryan Maley: //suka blyat idi nahui
+[16:45:46] CCA.C17-UNION.i5.03672: // someone else get on cp
+[16:45:52] Alex Palovichov: /ooc I have returned
+[16:45:54] Ryan Maley: //did somebody say CP
+[16:45:58] Ryan Maley<STEAM_0:1:53097688> changed their name to CCA.C17-GRID.i3.08313
+[16:46:02] Hollie Reynolds<STEAM_0:0:193599766> changed their name to CCA.C17-GRID.i1.23710
+[16:46:05] CCA.C17-GRID.i3.08313: //oh alex congratulations
+[16:46:09] Jonathan Jackson: Do you know where you can find a trash can that isn't full around here?
+[16:46:10] CCA.C17-UNION.i5.03672: // we dont need 3 cps
+[16:46:10] CCA.C17-GRID.i1.23710: // we got on at the same time
+[16:46:13] Alex Palovichov: /ooc On what...
+[16:46:20] CCA.C17-GRID.i3.08313: /viewdata alex
+[16:46:21] CCA.C17-UNION.i5.03672: Just cram it in there
+[16:46:26] CCA.C17-GRID.i3.08313: /plysearch alex
+[16:46:30] Alex Palovichov: /ooc What are you congratulating me on...
+[16:46:37] CCA.C17-UNION.i5.03672: // someone get off
+[16:46:38] CCA.C17-GRID.i1.23710<STEAM_0:0:193599766> changed their name to Mikhael Gorbachev
+[16:46:38] CCA.C17-UNION.i5.03672: / /cp
+[16:46:42] CCA.C17-UNION.i5.03672: // coolio
+[16:46:45] Jonathan Jackson: /looc how pick up
+[16:46:53] CCA.C17-UNION.i5.03672: .// look at it and hold e
+[16:47:00] Mikhael Gorbachev<STEAM_0:0:193599766> changed their name to Hollie Reynolds
+[16:47:21] Alex Palovichov: /me Sniffles
+[16:47:37] CCA.C17-UNION.i5.03672: // consul speakin facts ong
+[16:47:49] CCA.C17-GRID.i3.08313: /plysearch alex
+[16:47:53] CCA.C17-UNION.i5.03672: /rooc ration cycle?
+[16:47:55] Hollie Reynolds: // you wanna know who else conserves valuable oxygen?
+[16:47:56] CCA.C17-GRID.i3.08313 to admins: sure
+[16:47:56] Jonathan Jackson: Respirators are 30 tokens? What a rip off...
+[16:47:59] CCA.C17-GRID.i3.08313: /rooc sure
+[16:48:00] Hollie Reynolds: // your mom!!!
+[16:48:00] CCA.C17-UNION.i5.03672: // my mom
+[16:48:01] CCA.C17-GRID.i3.08313: /rooc approved
+[16:48:07] CCA.C17-UNION.i5.03672: /rooc thanks home dog
+[16:48:20] CCA.C17-GRID.i3.08313: //i sent you a message
+[16:48:22] CCA.C17-GRID.i3.08313: //hoemdog
+[16:48:28] CCA.C17-GRID.i3.08313: //you best check your nearest citizen terminal
+[16:48:29] CCA.C17-UNION.i5.03672: //stole my word
+[16:48:42] CCA.C17-GRID.i3.08313: //you hit the wrong button
+[16:48:44] CCA.C17-GRID.i3.08313: //TOP
+[16:48:45] CCA.C17-GRID.i3.08313: //button
+[16:48:50] CCA.C17-GRID.i3.08313<STEAM_0:1:53097688> spawned sent ix_testent3
+[16:48:51] Alex Palovichov: Was it online?
+[16:48:58] CCA.C17-GRID.i3.08313<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/breenconsole.mdl
+[16:49:01] CCA.C17-UNION.i5.03672: // i did it
+[16:49:09] CCA.C17-GRID.i3.08313: //bad job
+[16:49:17] Alex Palovichov: Oh...
+[16:49:43] CCA.C17-UNION.i5.03672: apply
+[16:49:44] Alex Palovichov: Evenin;
+[16:49:45] Alex Palovichov: /apply
+[16:49:49] Alex Palovichov: /looc void ;
+[16:49:50] Hollie Reynolds to admins: i wish we had
+[16:49:53] CCA.C17-GRID.i3.08313: /r Union, I'm coming to supervise you.
+[16:49:56] Hollie Reynolds to admins: a local broadcast
+[16:49:58] Alex Palovichov: Should be 1 standard, 1 loyalist, 1 priority
+[16:50:08] Hollie Reynolds to admins: like only those around could hear it
+[16:50:15] CCA.C17-GRID.i3.08313 to admins: that's a good idea
+[16:50:25] CCA.C17-GRID.i3.08313 to admins: what's the application though
+[16:50:28] Alex Palovichov: Thanks
+[16:50:29] CCA.C17-GRID.i3.08313 to admins: what would it be used for
+[16:50:32] Hollie Reynolds to admins: okay
+[16:50:34] Hollie Reynolds to admins: in alyx
+[16:50:37] CCA.C17-UNION.i5.03672: .// why dont we use that window
+[16:50:39] CCA.C17-UNION.i5.03672: .// its nice
+[16:50:45] CCA.C17-UNION.i5.03672: apply
+[16:50:46] Hollie Reynolds to admins: dispatch can talk in only 1 block to give messages
+[16:50:46] CCA.C17-GRID.i3.08313: .//we only have one line
+[16:50:52] Hollie Reynolds to admins: basically to tell you to leave
+[16:50:54] Jonathan Jackson: /looc how
+[16:50:59] CCA.C17-GRID.i3.08313 to admins: i like this idea
+[16:51:00] CCA.C17-UNION.i5.03672: .// do /apply
+[16:51:00] Jonathan Jackson: /apply
+[16:51:01] Hollie Reynolds to admins: or that you're in civil code violation by hearing that message
+[16:51:02] CCA.C17-GRID.i3.08313: .//we have 3 citizens
+[16:51:14] CCA.C17-GRID.i3.08313 to admins: and so we can call autonomous judgement on the sewers
+[16:51:17] CCA.C17-UNION.i5.03672: /viewdata jonathan
+[16:51:20] Hollie Reynolds to admins: yes
+[16:51:20] CCA.C17-GRID.i3.08313: //or judgement waiver specifically on the CZ
+[16:51:24] Jonathan Jackson: Hey I also have some junk I found on me as well, any care for it or should I just throw it out
+[16:51:26] Hollie Reynolds: // goof
+[16:51:27] CCA.C17-GRID.i3.08313: //GET OUT OF MY HEAD GET OUT OF MY HEAD GET OUT OF MY HEAD
+[16:51:29] Hollie Reynolds to admins: also
+[16:51:36] Hollie Reynolds to admins: adding on
+[16:51:38] Hollie Reynolds to admins: alarms
+[16:51:41] CCA.C17-UNION.i5.03672: you can go
+[16:51:48] Hollie Reynolds to admins: like playable alarms, the ones they use in alyx
+[16:51:52] Hollie Reynolds to admins: i love alyx dispatch
+[16:51:54] CCA.C17-UNION.i5.03672: .// this is so depressing
+[16:52:05] CCA.C17-GRID.i3.08313 to admins: yes
+[16:52:13] Alex Palovichov: /ooc Uh oh...
+[16:52:18] Hollie Reynolds: // there's a fucking mp7 in the ceiling
+[16:52:22] Alex Palovichov: Hm...
+[16:52:23] CCA.C17-UNION.i5.03672: // bro?
+[16:52:36] Hollie Reynolds: // it's stuck in the map lol
+[16:52:39] Hollie Reynolds: // come look at this, q
+[16:52:42] Alex Palovichov: /ooc I've ran out of storage to fit all the fucking food I have
+[16:52:53] Hollie Reynolds: up
+[16:53:05] CCA.C17-GRID.i3.08313 to admins: what ht efck
+[16:53:12] Hollie Reynolds to admins: i cant even delete it
+[16:53:14] CCA.C17-UNION.i5.03672: /rooc I forgot how do you become other things beside union
+[16:53:15] Hollie Reynolds to admins: or pick it up
+[16:53:15] CCA.C17-GRID.i3.08313 to admins: how the fuck
+[16:53:19] Hollie Reynolds to admins: lets keep it there
+[16:53:22] CCA.C17-GRID.i3.08313 to admins: read hte guide
+[16:53:22] Hollie Reynolds to admins: it's cursed
+[16:53:24] CCA.C17-GRID.i3.08313 to admins: wrong chat
+[16:53:27] CCA.C17-GRID.i3.08313: /rooc read the guide
+[16:53:32] CCA.C17-GRID.i3.08313: .//FUCK
+[16:53:37] CCA.C17-GRID.i3.08313: .//whatever it's not gone permanently
+[16:53:48] Alex Palovichov: /ooc My office is legit a fucking goldmine of everything
+[16:53:51] CCA.C17-GRID.i3.08313: .//bro didn't read his fuckin uhhh
+[16:53:55] CCA.C17-GRID.i3.08313: .//messages
+[16:53:56] CCA.C17-UNION.i5.03672: // im gonna set it on fire
+[16:54:03] Alex Palovichov: /looc You sent me a message/
+[16:54:05] CCA.C17-GRID.i3.08313: .//yes
+[16:54:07] Hollie Reynolds: .// holy shit
+[16:54:14] Alex Palovichov: Huh
+[16:54:28] Alex Palovichov: Well...Imma outta storage for food...and supplements...
+[16:54:33] Alex Palovichov: Hm
+[16:54:33] Alex Palovichov: Welp
+[16:55:01] Alex Palovichov: /ooc I also found  a baby doll...which description legit just says "Bab"
+[16:55:07] Hollie Reynolds: // bab
+[16:55:10] CCA.C17-GRID.i3.08313: //bab
+[16:55:16] CCA.C17-GRID.i3.08313 teleported to Alex Palovichov
+[16:55:29] Hollie Reynolds: // you're so lucky you joined after the fuck you boot was a thing
+[16:55:31] Alex Palovichov: New Roomate?
+[16:55:36] CCA.C17-GRID.i3.08313 to admins: btw dilly's char htat owns the XSSG (ХССГ) is dead so i unlocekd it
+[16:55:36] Hollie Reynolds: // or stopped being a thing
+[16:55:50] Alex Palovichov: Huh
+[16:55:50] Hollie Reynolds to admins: q what the fuck
+[16:55:53] Jonathan Jackson: ouch
+[16:55:53] CCA.C17-UNION.i5.03672: // drd
+[16:56:01] CCA.C17-GRID.i3.08313 to admins: cyrillic doesn't paly nice with this font
+[16:56:27] CCA.C17-GRID.i3.08313 to admins: сука блйат
+[16:56:32] Hollie Reynolds: // chicken
+[16:56:36] CCA.C17-UNION.i5.03672: // i hate you
+[16:56:41] Hollie Reynolds: // perish
+[16:56:56] Jonathan Jackson: Hey can you do me a solid and point me in the direction of a place that sells containers?
+[16:57:00] CCA.C17-GRID.i3.08313: /r I'm manning the work desk.
+[16:57:13] CCA.C17-UNION.i5.03672: Down the stairs its called change
+[16:57:15] CCA.C17-GRID.i3.08313 to admins: дроог
+[16:57:32] CCA.C17-GRID.i3.08313 to admins: друг
+[16:57:50] Hollie Reynolds to admins: SPEAK
+[16:57:52] Hollie Reynolds to admins: ENGLISH
+[16:57:57] Jonathan Jackson: Uhh
+[16:58:02] Hollie Reynolds to admins: we are xenophobic!!!
+[16:58:02] CCA.C17-GRID.i3.08313 to admins: cyka
+[16:58:23] Jonathan Jackson: Excuse me, do you know a place that sells containers?
+[16:58:27] Jonathan Jackson: Like crates and stuff
+[16:58:46] CCA.C17-GRID.i3.08313: Not off the top of my head, but if you find anything on the side of the road, it's legal to take.
+[16:58:48] CCA.C17-UNION.i5.03672: /radio Uhhh grid?
+[16:58:53] CCA.C17-GRID.i3.08313: .//in other terms, let a staff member know and i'll move it for you.
+[16:58:54] CCA.C17-GRID.i3.08313: /r Copy.
+[16:58:55] Hollie Reynolds: .// dont you dare
+[16:59:00] Alex Palovichov: /ooc Can you even level up your crafting level?
+[16:59:01] Jonathan Jackson: Alright sounds good
+[16:59:05] CCA.C17-UNION.i5.03672: /radio I just saw a body fall infront of me twice then dissapear
+[16:59:10] CCA.C17-GRID.i3.08313: //yes
+[16:59:15] Alex Palovichov: /ooc Mmm
+[16:59:18] Alex Palovichov: Ey!
+[16:59:23] CCA.C17-UNION.i5.03672: /pm hollie your actions have consquences
+[16:59:42] Hollie Reynolds: /pm i5 schizo moment
+[16:59:44] CCA.C17-GRID.i3.08313: /rooc void it
+[16:59:53] CCA.C17-UNION.i5.03672: /rooc I hate drd sometimes
+[17:00:26] CCA.C17-UNION.i5.03672: /rooc Should do something like a event since we actually have players
+[17:00:33] CCA.C17-GRID.i3.08313: /rooc i was gonna say work cycle soon
+[17:00:43] CCA.C17-UNION.i5.03672: /rooc How do you pick the most boring thing ever
+[17:00:46] CCA.C17-GRID.i3.08313: /r I'm thinking a work cycle if I can get field command authorization.
+[17:00:50] CCA.C17-GRID.i3.08313: /rooc people enjoy work cycles
+[17:00:58] CCA.C17-UNION.i5.03672: /rooc Yeah teachers pets do
+[17:01:02] CCA.C17-GRID.i3.08313: /rooc dummkopf
+[17:01:09] CCA.C17-GRID.i3.08313: /r I have a laundry list of things that needs to be done.
+[17:01:11] CCA.C17-UNION.i5.03672: /radio 10-4
+[17:01:16] Jonathan Jackson to admins: I would like to liberate this box if you don't mind
+[17:01:20] Hollie Reynolds: .// why is your stick on your back
+[17:01:23] Hollie Reynolds to admins: on it
+[17:01:23] CCA.C17-GRID.i3.08313 to admins: got it
+[17:01:34] CCA.C17-GRID.i3.08313 to admins: you responded first
+[17:01:47] CCA.C17-GRID.i3.08313 to admins: btw i'm probably gonna call a work cycle soon
+[17:02:03] CCA.C17-GRID.i3.08313: /rooc fucking a i deleted my to do list
+[17:02:09] CCA.C17-UNION.i5.03672: /rooc Damn
+[17:02:13] CCA.C17-UNION.i5.03672: /rooc I have a new idea
+[17:02:20] CCA.C17-UNION.i5.03672: /rooc For a work cycle
+[17:02:26] CCA.C17-GRID.i3.08313<STEAM_0:1:53097688> spawned model models/props_c17/oildrum001.mdl
+[17:02:29] Hollie Reynolds: /pm john just tell me where its going
+[17:02:35] Hollie Reynolds: /pm joh just tell me where its going
+[17:02:43] Jonathan Jackson: /looc There should be an easier way to do this
+[17:02:44] Hollie Reynolds: /pm jona just tell me where its going
+[17:02:48] CCA.C17-UNION.i5.03672: /rooc Make them go unload things out of the trains down to the factorys
+[17:02:54] Hollie Reynolds: .// do you want the box and its contents?
+[17:02:55] CCA.C17-GRID.i3.08313: /rooc well we do have alex on
+[17:02:55] Jonathan Jackson to Hollie Reynolds: To my apparment or whatever
+[17:03:02] CCA.C17-UNION.i5.03672: /rooc thats what im sayin
+[17:03:03] Hollie Reynolds: .// oh its empty
+[17:03:03] Jonathan Jackson: /looc I just need the box
+[17:03:13] Hollie Reynolds: /pm jon what apartment
+[17:03:21] CCA.C17-GRID.i3.08313 to admins: i was thinking something sewer based
+[17:03:25] CCA.C17-GRID.i3.08313 to admins: FUCKING SHIT
+[17:03:26] Jonathan Jackson: 1st one in the thing, idk what it's called
+[17:03:27] CCA.C17-GRID.i3.08313 to admins: BIRD
+[17:03:31] CCA.C17-GRID.i3.08313: /rooc i was thinking something sewer based
+[17:03:33] Alex Palovichov: Huh?
+[17:03:34] Jonathan Jackson: /looc misinput
+[17:03:41] Alex Palovichov: Ey, Buddy
+[17:03:42] Hollie Reynolds to admins: bird
+[17:03:43] CCA.C17-UNION.i5.03672: /rooc oh boy  i know were that leads
+[17:03:47] Alex Palovichov: I would stop running If I were you
+[17:03:49] Jonathan Jackson: /pm hollie I'll just let you know when I'm there
+[17:03:52] Alex Palovichov: CPs don't like that
+[17:03:57] Jonathan Jackson: I am fully aware
+[17:04:02] Alex Palovichov: And you do it anyway?
+[17:04:03] Hollie Reynolds to admins: i hear
+[17:04:11] Hollie Reynolds to admins: cremator breathing down here?
+[17:04:11] CCA.C17-GRID.i3.08313 to admins: shitbird
+[17:04:18] CCA.C17-GRID.i3.08313 to admins: strange
+[17:04:22] CCA.C17-GRID.i3.08313 to admins: are you hearing the poison zombie
+[17:04:25] Hollie Reynolds to admins: yes
+[17:04:31] Hollie Reynolds to admins: but creamtor breathing coming from it
+[17:04:37] CCA.C17-GRID.i3.08313 to admins: strange
+[17:04:38] Hollie Reynolds to admins: shitbird?
+[17:04:39] CCA.C17-GRID.i3.08313 to admins: must have a sound replacement
+[17:04:43] CCA.C17-GRID.i3.08313 to admins: yeah i just like the word shitbird
+[17:04:57] Hollie Reynolds to admins: that's a slur for a species in ss13, pretty nice
+[17:05:02] CCA.C17-GRID.i3.08313 to admins: based
+[17:05:07] CCA.C17-GRID.i3.08313 to admins: beats broom jockey
+[17:05:08] Jonathan Jackson to Hollie Reynolds: right here
+[17:05:18] Hollie Reynolds<STEAM_0:0:193599766> spawned model models/props_junk/wood_crate001a.mdl
+[17:05:20] Alex Palovichov: /y What!
+[17:05:27] CCA.C17-GRID.i3.08313: /rooc oh i know
+[17:05:28] CCA.C17-GRID.i3.08313 to admins: oh
+[17:05:31] Alex Palovichov: /y A fucking Room mate??
+[17:05:32] Jonathan Jackson: There is fine
+[17:05:41] CCA.C17-GRID.i3.08313 to admins: assembling arcade cabinets in the cybercafe to prepare for an upcoming event
+[17:05:43] Alex Palovichov: /y fuck that!
+[17:05:52] CCA.C17-UNION.i5.03672: /rooc So you gonna do it?
+[17:06:00] CCA.C17-GRID.i3.08313: /rooc i'm running it by DRD
+[17:06:07] CCA.C17-UNION.i5.03672: /rooc your the owner
+[17:06:09] CCA.C17-GRID.i3.08313 to admins: a bit of a combine tech spin
+[17:06:10] Alex Palovichov: /ooc ROOM MATE????
+[17:06:15] CCA.C17-UNION.i5.03672: // L
+[17:06:17] Alex Palovichov: /ooc I have my office...
+[17:06:18] CCA.C17-GRID.i3.08313: /rooc yes but i'm prone to having bad ideas
+[17:06:22] Jonathan Jackson: // I don't know I was assigned to this
+[17:06:24] CCA.C17-UNION.i5.03672: /rooc true1!!!!!
+[17:06:29] CCA.C17-GRID.i3.08313: /rooc peer review is a good part of making sure you don't have shit ideas
+[17:06:29] Alex Palovichov: /ooc I practically never use that room anyway
+[17:06:31] Hollie Reynolds: // why not simply sleep in your office
+[17:06:35] Alex Palovichov: /ooc I do lol
+[17:06:42] CCA.C17-UNION.i5.03672: // go sleep with some hoes damn!
+[17:06:43] CCA.C17-GRID.i3.08313: //stardew valley style
+[17:06:48] CCA.C17-GRID.i3.08313 to admins: thoughts?
+[17:06:52] CCA.C17-GRID.i3.08313 to admins: that for a work cycle
+[17:06:55] Hollie Reynolds to admins: what
+[17:06:58] Hollie Reynolds to admins: gaming?
+[17:07:06] Alex Palovichov: /ooc Also, I have yet to see like any shops ever open
+[17:07:08] CCA.C17-GRID.i3.08313 to admins: assembling arcade cabinets in the cybercafe to prepare for an upcoming event
+[17:07:10] Alex Palovichov: /ooc At most one clothing store
+[17:07:12] CCA.C17-GRID.i3.08313 to admins: bit of a combine tech spin on it
+[17:07:12] Hollie Reynolds to admins: yeees
+[17:07:18] CCA.C17-GRID.i3.08313 to admins: alright i'm gonna do the notification
+[17:07:32] CCA.C17-GRID.i3.08313: /r Union.
+[17:07:34] Hollie Reynolds to admins: im gonna have to go soon, i think
+[17:07:37] CCA.C17-UNION.i5.03672: /radio Yes?
+[17:08:17] CCA.C17-GRID.i3.08313: /r Disregard.
+[17:08:22] CCA.C17-UNION.i5.03672: /rooc zamn
+[17:08:22] CCA.C17-GRID.i3.08313 to admins: it'll have to be when i get back form dinner
+[17:08:30] CCA.C17-GRID.i3.08313: /rooc it'll have to be when i get back form dinner
+[17:08:34] CCA.C17-UNION.i5.03672: /rooc omg
+[17:08:37] Hollie Reynolds: // it sounds like everyone who speaks welsh has a speech impediment when they speak it
+[17:08:39] CCA.C17-UNION.i5.03672: /rooc alr
+[17:08:40] Alex Palovichov: The fuck?
+[17:08:51] CCA.C17-UNION.i5.03672: // tf is welsh
+[17:09:00] Jonathan Jackson: // bruh
+[17:09:03] CCA.C17-GRID.i3.08313: //a bad language
+[17:09:07] Hollie Reynolds: // yuh
+[17:09:23] Hollie Reynolds: // Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch
+[17:09:31] Alex Palovichov: /ooc Thats a town name...
+[17:09:33] CCA.C17-GRID.i3.08313: //hey that's the name of that ton
+[17:09:34] CCA.C17-GRID.i3.08313: //FUCK YOU
+[17:09:35] Hollie Reynolds: // in welshg
+[17:09:43] Alex Palovichov: /ooc lmao
+[17:10:22] CCA.C17-UNION.i5.03672: // i am a very bored man
+[17:10:28] Alex Palovichov: /ooc then RP...
+[17:10:28] Hollie Reynolds: // simply kill
+[17:10:29] CCA.C17-GRID.i3.08313: //my brother in christ
+[17:10:31] CCA.C17-GRID.i3.08313: //you are the unit
+[17:10:35] CCA.C17-GRID.i3.08313: //you can make rolepaly for people
+[17:10:52] CCA.C17-UNION.i5.03672: // bro im a i5 i cant make people do shit
+[17:10:57] Hollie Reynolds: // yes you can
+[17:11:01] CCA.C17-GRID.i3.08313: //you literally can
+[17:11:02] Alex Palovichov: /ooc You can make...me do shit...
+[17:11:16] Alex Palovichov: /ooc And that says something cause I bet I have the most LP in the server rn
+[17:11:18] Jonathan Jackson to admins: Can I liberate another box to my appartment?
+[17:11:19] CCA.C17-GRID.i3.08313: //"hey citizen pick up that can" "lmao no way i5 little bitch boy"
+[17:11:21] CCA.C17-UNION.i5.03672: /pm hollie can I have flags
+[17:11:23] CCA.C17-GRID.i3.08313 to admins: on it
+[17:11:27] Hollie Reynolds: /pm i5 no
+[17:11:27] CCA.C17-GRID.i3.08313: .//hell yes
+[17:11:30] CCA.C17-GRID.i3.08313: .//hello yes*
+[17:11:32] Hollie Reynolds: /chargiveflag i5 pet
+[17:11:32] CCA.C17-GRID.i3.08313<STEAM_0:1:53097688> spawned model models/props_junk/wood_crate001a_damaged.mdl
+[17:11:34] Jonathan Jackson: /looc woo
+[17:11:35] CCA.C17-GRID.i3.08313: .//use this for now
+[17:11:41] CCA.C17-UNION.i5.03672: /pm hollie damn shawty why you always trippin ft
+[17:11:43] Jonathan Jackson: /looc how pick up
+[17:11:43] CCA.C17-GRID.i3.08313: .//i'll repalce it when you get to your apt
+[17:11:46] CCA.C17-GRID.i3.08313: .//hands, right click
+[17:11:54] CCA.C17-GRID.i3.08313: .//hold r to rotate
+[17:11:57] Hollie Reynolds: // [PM] CCA.C17-UNION.i5.03672 -> Hollie Reynolds: damn shawty why you always trippin ft
+[17:12:01] CCA.C17-GRID.i3.08313<STEAM_0:1:53097688> spawned model models/props_junk/gascan001a.mdl
+[17:12:08] CCA.C17-UNION.i5.03672: /pm hollie let me spawn models real quick
+[17:12:10] Hollie Reynolds: // what does this mean
+[17:12:13] CCA.C17-GRID.i3.08313: /pm jon sorry, hold right mouse to rotate it
+[17:12:16] CCA.C17-UNION.i5.03672: // you trippin fr fr
+[17:12:16] Hollie Reynolds: /pm i5 ragdolls?
+[17:12:18] Alex Palovichov: /ooc What doesn't it mean...
+[17:12:23] CCA.C17-GRID.i3.08313<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_junk/wood_crate001a_damaged.mdl
+[17:12:25] CCA.C17-GRID.i3.08313: .//here
+[17:12:27] CCA.C17-UNION.i5.03672: /pm hollie yeah im just gonna place some headcrabs
+[17:12:28] CCA.C17-GRID.i3.08313: .//i nocollided it with everything
+[17:12:33] CCA.C17-GRID.i3.08313: .//everytihng but the world
+[17:12:35] CCA.C17-GRID.i3.08313<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_junk/wood_crate001a_damaged.mdl
+[17:12:43] CCA.C17-GRID.i3.08313: .//or i tried
+[17:12:49] Hollie Reynolds: /chargiveflag i5 t
+[17:12:51] Jonathan Jackson: /looc It works
+[17:12:55] Alex Palovichov: /ooc Almost 1000T...
+[17:13:00] Hollie Reynolds<STEAM_0:0:193599766> spawned model models/props_combine/combine_barricade_short02a.mdl
+[17:13:01] CCA.C17-UNION.i5.03672: /pm hollie wrong flag
+[17:13:08] CCA.C17-GRID.i3.08313: //impromptu tax time
+[17:13:11] Hollie Reynolds: /chargiveflag i5 r
+[17:13:13] CCA.C17-UNION.i5.03672<STEAM_0:0:143523274> spawned ragdoll models/lamarr.mdl
+[17:13:16] CCA.C17-UNION.i5.03672<STEAM_0:0:143523274> spawned ragdoll models/lamarr.mdl
+[17:13:18] Alex Palovichov: /ooc I'll simply...evade
+[17:13:19] CCA.C17-UNION.i5.03672<STEAM_0:0:143523274> spawned ragdoll models/lamarr.mdl
+[17:13:25] CCA.C17-UNION.i5.03672<STEAM_0:0:143523274> spawned ragdoll models/headcrab.mdl
+[17:13:31] Hollie Reynolds: // are you near a window, alyx?
+[17:13:34] Hollie Reynolds: // alex
+[17:13:39] CCA.C17-UNION.i5.03672<STEAM_0:0:143523274> used the tool paint on maps/rp_industrial17_v1.bsp
+[17:13:39] CCA.C17-UNION.i5.03672<STEAM_0:0:143523274> used the tool paint on maps/rp_industrial17_v1.bsp
+[17:13:40] CCA.C17-UNION.i5.03672<STEAM_0:0:143523274> used the tool paint on maps/rp_industrial17_v1.bsp
+[17:13:40] CCA.C17-UNION.i5.03672<STEAM_0:0:143523274> used the tool paint on maps/rp_industrial17_v1.bsp
+[17:13:40] CCA.C17-UNION.i5.03672<STEAM_0:0:143523274> used the tool paint on maps/rp_industrial17_v1.bsp
+[17:13:40] Alex Palovichov: /ooc No...Do you want me to be?
+[17:13:42] CCA.C17-UNION.i5.03672<STEAM_0:0:143523274> used the tool paint on maps/rp_industrial17_v1.bsp
+[17:13:42] CCA.C17-UNION.i5.03672<STEAM_0:0:143523274> used the tool paint on maps/rp_industrial17_v1.bsp
+[17:13:42] CCA.C17-UNION.i5.03672<STEAM_0:0:143523274> used the tool paint on maps/rp_industrial17_v1.bsp
+[17:13:42] CCA.C17-UNION.i5.03672<STEAM_0:0:143523274> used the tool paint on maps/rp_industrial17_v1.bsp
+[17:13:42] CCA.C17-UNION.i5.03672<STEAM_0:0:143523274> used the tool paint on maps/rp_industrial17_v1.bsp
+[17:13:42] CCA.C17-UNION.i5.03672<STEAM_0:0:143523274> used the tool paint on maps/rp_industrial17_v1.bsp
+[17:13:42] CCA.C17-UNION.i5.03672<STEAM_0:0:143523274> used the tool paint on maps/rp_industrial17_v1.bsp
+[17:13:42] CCA.C17-UNION.i5.03672<STEAM_0:0:143523274> used the tool paint on maps/rp_industrial17_v1.bsp
+[17:13:42] CCA.C17-UNION.i5.03672<STEAM_0:0:143523274> used the tool paint on maps/rp_industrial17_v1.bsp
+[17:13:43] CCA.C17-UNION.i5.03672<STEAM_0:0:143523274> used the tool paint on maps/rp_industrial17_v1.bsp
+[17:13:43] CCA.C17-UNION.i5.03672<STEAM_0:0:143523274> used the tool paint on maps/rp_industrial17_v1.bsp
+[17:13:44] CCA.C17-UNION.i5.03672<STEAM_0:0:143523274> used the tool paint on maps/rp_industrial17_v1.bsp
+[17:13:44] CCA.C17-UNION.i5.03672<STEAM_0:0:143523274> used the tool paint on maps/rp_industrial17_v1.bsp
+[17:13:44] CCA.C17-UNION.i5.03672<STEAM_0:0:143523274> used the tool paint on maps/rp_industrial17_v1.bsp
+[17:13:44] CCA.C17-UNION.i5.03672<STEAM_0:0:143523274> used the tool paint on maps/rp_industrial17_v1.bsp
+[17:13:49] Hollie Reynolds<STEAM_0:0:193599766> spawned/gave himself swep grub_combine_sniper
+[17:13:50] Alex Palovichov: /me Sniffles
+[17:13:51] Hollie Reynolds: /toggleraise
+[17:13:53] Alex Palovichov: Hm?
+[17:14:01] Alex Palovichov: Ohh
+[17:14:02] Alex Palovichov: Light
+[17:14:04] Jonathan Jackson: Hello
+[17:14:04] Hollie Reynolds: // evading taxes, are we?
+[17:14:07] CCA.C17-UNION.i5.03672: What are you doing
+[17:14:14] Alex Palovichov: Is that a laser pointer?
+[17:14:14] Jonathan Jackson: Moving a box for storage into my appartment
+[17:14:17] Alex Palovichov: Huh
+[17:14:17] CCA.C17-UNION.i5.03672: Hm
+[17:14:21] Jonathan Jackson: It's empty feel free to check
+[17:14:24] Alex Palovichov: WHAT THE FUCks
+[17:14:31] Hollie Reynolds set the hp for Alex Palovichov to 100
+[17:14:31] Alex Palovichov: FUCK THAT
+[17:14:38] Alex Palovichov: Uhh
+[17:14:39] Alex Palovichov: Yeah
+[17:14:40] CCA.C17-UNION.i5.03672: // alex did i just catch you running?
+[17:14:42] Alex Palovichov: I got shot at I think...
+[17:14:45] CCA.C17-UNION.i5.03672: What?
+[17:14:48] Jonathan Jackson: what
+[17:14:51] CCA.C17-GRID.i3.08313: //don't be a running nazi
+[17:14:56] Alex Palovichov: Yeah...some blue laser pointed right at me....and shot...something
+[17:15:01] Alex Palovichov: It missed and it the fucking stair case
+[17:15:01] CCA.C17-UNION.i5.03672: // bro alex reports everyone running
+[17:15:09] CCA.C17-GRID.i3.08313: //just say "thanks bro
+[17:15:11] CCA.C17-GRID.i3.08313: //and then
+[17:15:12] Alex Palovichov: Want me to show you!
+[17:15:13] CCA.C17-UNION.i5.03672: Alright stay out of the apartment
+[17:15:13] CCA.C17-GRID.i3.08313: //forget about it
+[17:15:17] Alex Palovichov: Yeah...Will do
+[17:15:37] CCA.C17-UNION.i5.03672: /radio A citizen reported a blue beam being shot at him in the apartment
+[17:15:40] Hollie Reynolds: /pm alex it was supposed to be the IRS, not ic :((((
+[17:15:44] Hollie Reynolds: /pm alex but hmmm
+[17:15:45] Alex Palovichov: /ooc Its simply called....skill...When everyone else gets murdered I will make...the...city...mine
+[17:15:49] Alex Palovichov: /reply BRUH
+[17:15:50] CCA.C17-UNION.i5.03672: /radio In UHB
+[17:16:00] Alex Palovichov: /reply I thought there was gonna be some IC assassination attempt on me
+[17:16:11] Hollie Reynolds: /pm alex noooo it was a combine sniper
+[17:16:17] Hollie Reynolds: /pm alex the gun was
+[17:16:21] Hollie Reynolds: /pm it wasnt ic
+[17:16:26] Alex Palovichov: /reply Well...Still...Who knows, maybe someone stole on
+[17:16:27] Hollie Reynolds: /pm alex it wasnt ic
+[17:16:27] Jonathan Jackson to admins: Right here
+[17:16:30] CCA.C17-GRID.i3.08313 teleported to Jonathan Jackson
+[17:16:36] Alex Palovichov: /reply ...Could've...told...me...before...
+[17:16:36] Hollie Reynolds: /pm alex they're biolocked
+[17:16:36] CCA.C17-GRID.i3.08313<STEAM_0:1:53097688> spawned model models/props_junk/wood_crate001a.mdl
+[17:16:41] Hollie Reynolds: /pm alex yeah, thats on me
+[17:16:41] CCA.C17-UNION.i5.03672: I didn't see anything
+[17:16:44] CCA.C17-GRID.i3.08313: .//this location fine?
+[17:16:44] Hollie Reynolds: /pm alex sorry
+[17:16:46] Alex Palovichov: /reply WHO KNOWS someone could've shot it
+[17:16:49] Jonathan Jackson: /looc Yep thanks
+[17:16:52] CCA.C17-GRID.i3.08313: .//yep!
+[17:16:52] Alex Palovichov: /looc Bruhhh it was I guess OOC now IC
+[17:16:54] Alex Palovichov: /looc Well shit
+[17:16:58] Alex Palovichov: /looc not*
+[17:17:00] CCA.C17-UNION.i5.03672: .// oh my morbious
+[17:17:06] Hollie Reynolds: /pm alex honestly, stealing a combine sniper and disabling the biolock would be amazing rebel play
+[17:17:15] CCA.C17-GRID.i3.08313: //btw we're gonna do a work cycle later
+[17:17:18] Alex Palovichov: /reply Well...If HL2 told me anything, its possible
+[17:17:24] CCA.C17-GRID.i3.08313: //a fun one
+[17:17:24] CCA.C17-UNION.i5.03672<STEAM_0:0:143523274> spawned ragdoll models/lamarr.mdl
+[17:17:26] CCA.C17-UNION.i5.03672<STEAM_0:0:143523274> spawned ragdoll models/lamarr.mdl
+[17:17:27] Jonathan Jackson: // cool beans
+[17:17:29] CCA.C17-UNION.i5.03672<STEAM_0:0:143523274> spawned ragdoll models/lamarr.mdl
+[17:17:34] Hollie Reynolds: /pm alex we've had people remove biolocks before, I think
+[17:17:36] CCA.C17-UNION.i5.03672<STEAM_0:0:143523274> used the tool paint on maps/rp_industrial17_v1.bsp
+[17:17:36] CCA.C17-UNION.i5.03672<STEAM_0:0:143523274> used the tool paint on maps/rp_industrial17_v1.bsp
+[17:17:40] Alex Palovichov: /reply Well there ya go
+[17:18:02] Hollie Reynolds: // dispatch do be spitting facts, though
+[17:18:07] CCA.C17-UNION.i5.03672: // on my momma
+[17:18:13] Alex Palovichov: Whats...with the crates...
+[17:18:16] Jonathan Jackson: Oh hey
+[17:18:20] Jonathan Jackson: I got them off the street
+[17:18:27] CCA.C17-GRID.i3.08313: /r Union, anything to report?
+[17:18:28] Jonathan Jackson: I figured I could store them
+[17:18:33] Jonathan Jackson: Say are you my roommate?
+[17:18:35] Alex Palovichov: And you are stuffing our apartment with them...why?
+[17:18:37] Alex Palovichov: Yes...
+[17:18:48] Jonathan Jackson: Where else would I put them?
+[17:18:52] CCA.C17-UNION.i5.03672: /radio Nothing so far found some dead headcrabs im gonna make a citizen clean up.
+[17:18:52] Alex Palovichov: Not...here
+[17:19:04] Jonathan Jackson: I am unaware of any other place to put containers
+[17:19:05] CCA.C17-GRID.i3.08313: /r Copy that, make sure to give them either LP or tokens, their choice.
+[17:19:12] CCA.C17-UNION.i5.03672: /radio 10-4
+[17:19:14] CCA.C17-GRID.i3.08313: /r 10-20 on those tagged parasitics?
+[17:19:19] Jonathan Jackson: I don't exactly have CWU membership yet.
+[17:19:20] Alex Palovichov: I don't fucking know, just I don't want em here! They take up the damn room
+[17:19:22] CCA.C17-UNION.i5.03672: /radio Infront of the theater
+[17:19:29] Alex Palovichov: What...does that have to do with anything?
+[17:19:31] CCA.C17-GRID.i3.08313: /r Copy, I'll keep that in mind.
+[17:19:58] Jonathan Jackson: Because I could store them in a different area, but the point is that I would love to be out of your hair too but I don't have anywhere else to go.
+[17:19:59] CCA.C17-GRID.i3.08313: /charaddattribute grid agility 1
+[17:20:02] CCA.C17-GRID.i3.08313: /charaddattribute grid strength 1
+[17:20:05] Jonathan Jackson: I can ask a CP to be moved down
+[17:20:06] CCA.C17-GRID.i3.08313: /charaddattribute grid intelligence 1
+[17:20:12] Alex Palovichov: Right...
+[17:20:19] Alex Palovichov: Just...move them not in this room then...
+[17:20:30] Alex Palovichov: Bathroom second bedroom I don't care, just not here
+[17:20:35] CCA.C17-UNION.i5.03672: // i think im blind
+[17:20:41] CCA.C17-GRID.i3.08313: //pardon
+[17:20:43] Hollie Reynolds<STEAM_0:0:193599766> changed their name to Major-General Sir Issac Brock KB
+[17:20:49] Jonathan Jackson: Give me a day to figure out a spot.
+[17:20:50] Major-General Sir Issac Brock KB: /plytransfer brock alien
+[17:20:53] CCA.C17-UNION.i5.03672: // i cannot find any citizens  and i feel dumb
+[17:20:57] Jonathan Jackson: I'll first ask if I can get my own appartment
+[17:21:02] Alex Palovichov: Right...
+[17:21:06] CCA.C17-GRID.i3.08313: //you have units to ask
+[17:21:07] Major-General Sir Issac Brock KB: /charsetclass brock chum
+[17:21:20] Alex Palovichov: /me Sniffles
+[17:21:27] CCA.C17-UNION.i5.03672: /radio Cant find any citizens you have 10-20 on any?
+[17:21:33] Major-General Sir Issac Brock KB: /charsetmodel brock models/half-life/chumtoad.mdl
+[17:21:38] CCA.C17-UNION.i5.03672: /radio disregard that
+[17:21:39] Jonathan Jackson: Excuse
+[17:21:41] Jonathan Jackson: Me
+[17:21:41] CCA.C17-UNION.i5.03672: yes?
+[17:21:43] CCA.C17-GRID.i3.08313: /r 10-4.
+[17:21:45] Major-General Sir Issac Brock KB suicided!
+[17:21:45] Major-General Sir Issac Brock KB slayed Themself
+[17:21:46] CCA.C17-UNION.i5.03672: alex
+[17:21:49] Alex Palovichov: Hm?
+[17:21:56] CCA.C17-UNION.i5.03672: stay here for a second I need to talk to you after
+[17:22:01] Alex Palovichov: Uh...Okay...
+[17:22:10] Jonathan Jackson: I want to have my appartment transfered if possible. I'm aware there are open appartments and I don't want to bother Alex being his roommate
+[17:22:20] Alex Palovichov: Is that...a fucking frog...
+[17:22:23] Jonathan Jackson: Ones without someone occupying them
+[17:22:26] CCA.C17-UNION.i5.03672: I can sort that later
+[17:22:42] CCA.C17-GRID.i3.08313: /r My 10-20 is diordna rooftop. Remember, if you have anything that might be bad, call in backup first.
+[17:22:47] Jonathan Jackson: Are you busy right now? Or at least when can you do that.
+[17:22:51] Major-General Sir Issac Brock KB<STEAM_0:0:193599766> spawned sent pfx8_02
+[17:22:53] CCA.C17-UNION.i5.03672: /radio 10-4
+[17:23:02] CCA.C17-UNION.i5.03672: Alright ill ask
+[17:23:05] Jonathan Jackson: Thanks
+[17:23:15] CCA.C17-UNION.i5.03672: /radio A citizen is requesting a apartment transfer
+[17:23:21] Major-General Sir Issac Brock KB<STEAM_0:0:193599766> spawned sent pfx8_06
+[17:23:35] Major-General Sir Issac Brock KB<STEAM_0:0:193599766> spawned sent pfx8_06
+[17:23:46] CCA.C17-GRID.i3.08313: /r Who?
+[17:23:51] CCA.C17-UNION.i5.03672: Whats your name
+[17:23:59] Major-General Sir Issac Brock KB<STEAM_0:0:193599766> spawned sent pfx8_06
+[17:23:59] Jonathan Jackson: /apply
+[17:24:05] Alex Palovichov: /looc "A Fairly Small Crow"
+[17:24:09] Major-General Sir Issac Brock KB: .// fuck
+[17:24:11] CCA.C17-UNION.i5.03672: /radio One Johnathan Jackson
+[17:24:16] CCA.C17-UNION.i5.03672: .// drd is being quite trolly
+[17:24:16] Jonathan Jackson: No worries.
+[17:24:19] CCA.C17-GRID.i3.08313: /r Already?
+[17:24:28] CCA.C17-GRID.i3.08313: /r What's his reason?
+[17:24:39] CCA.C17-UNION.i5.03672: /radio Does not want to disturb his room mate
+[17:24:44] Alex Palovichov: /me Sniffles
+[17:24:54] CCA.C17-GRID.i3.08313: /r Mhm. I'll make a note in his file that he didn't want to room with a loyalist. Standby.
+[17:24:57] CCA.C17-GRID.i3.08313: /viewdata jonathan
+[17:25:06] CCA.C17-UNION.i5.03672: /radio 10-4 What do I tell him?
+[17:25:16] Major-General Sir Issac Brock KB: /chardesc
+[17:25:34] Jonathan Jackson: /me believes he realizes where this is going.
+[17:25:34] CCA.C17-GRID.i3.08313: /r Request approved, move him to Diordna 1B. One apartment down.
+[17:25:36] Major-General Sir Issac Brock KB: // there
+[17:25:39] Major-General Sir Issac Brock KB: // desc fixed
+[17:25:44] CCA.C17-UNION.i5.03672: Alright
+[17:25:46] CCA.C17-UNION.i5.03672: follow me
+[17:25:50] Jonathan Jackson: Alright
+[17:25:54] Major-General Sir Issac Brock KB<STEAM_0:0:193599766> spawned sent pfx8_06
+[17:25:57] CCA.C17-GRID.i3.08313: /r One apartment to the right rather.
+[17:26:03] CCA.C17-UNION.i5.03672: /me would step on the chum toad
+[17:26:03] Jonathan Jackson: Is that a frog?
+[17:26:09] CCA.C17-UNION.i5.03672: /roll
+[17:26:12] Major-General Sir Issac Brock KB: /rollskill agi
+[17:26:17] Major-General Sir Issac Brock KB: /roll 100
+[17:26:20] Major-General Sir Issac Brock KB<STEAM_0:0:193599766> spawned sent pfx8_06
+[17:26:23] CCA.C17-UNION.i5.03672: .// lucky bastard
+[17:26:47] CCA.C17-UNION.i5.03672: Here is your new apartment
+[17:26:53] Jonathan Jackson: Upstairs I believe has open ones right?
+[17:26:54] Major-General Sir Issac Brock KB: .// throw him off
+[17:27:10] CCA.C17-UNION.i5.03672: I was ordered to give you this one
+[17:27:14] Jonathan Jackson: Alright sure
+[17:27:31] CCA.C17-UNION.i5.03672: Alright
+[17:27:39] CCA.C17-UNION.i5.03672: So
+[17:27:47] CCA.C17-UNION.i5.03672: You wanna make some quick tokens or loyalty points?
+[17:27:50] Jonathan Jackson to admins: I want to have these crates moved to A2 now since I have a new appartment
+[17:27:53] Alex Palovichov: Uhh...Sure?
+[17:27:56] CCA.C17-GRID.i3.08313 to admins: copy that
+[17:27:57] CCA.C17-GRID.i3.08313 to admins: on it
+[17:28:02] CCA.C17-GRID.i3.08313: /pm jonathan on it
+[17:28:07] CCA.C17-UNION.i5.03672: I need you to clean up a gang of dead headcrabs at the theater
+[17:28:08] CCA.C17-GRID.i3.08313: .//magic time
+[17:28:14] CCA.C17-GRID.i3.08313<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_junk/wood_crate001a.mdl
+[17:28:19] Alex Palovichov: Alrighty...
+[17:28:19] CCA.C17-UNION.i5.03672: Also get the blood off the side walk
+[17:28:21] CCA.C17-GRID.i3.08313<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_junk/wood_crate001a.mdl
+[17:28:26] CCA.C17-GRID.i3.08313<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_junk/wood_crate001a.mdl
+[17:28:26] CCA.C17-GRID.i3.08313<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_junk/wood_crate001a.mdl
+[17:28:29] Alex Palovichov: Uh...Okay...
+[17:28:30] CCA.C17-UNION.i5.03672: Follow me
+[17:28:50] Jonathan Jackson: /looc Looks good, thanks.
+[17:29:04] CCA.C17-GRID.i3.08313: .//yep. if you need thme adjusted let oen of us know
+[17:29:10] Alex Palovichov: Huh
+[17:29:11] CCA.C17-GRID.i3.08313: .//i know how to type
+[17:29:11] Jonathan Jackson: /looc Okay got it
+[17:29:14] CCA.C17-UNION.i5.03672: /me would point at the three dead headcrabs
+[17:29:16] Alex Palovichov: Alright...
+[17:29:21] Alex Palovichov: Hmm...
+[17:29:30] Alex Palovichov: Alright...I can deal with this
+[17:29:39] CCA.C17-UNION.i5.03672: Nice
+[17:29:42] CCA.C17-GRID.i3.08313: /r Did you update his file showing that he lives in 1B now?
+[17:29:42] CCA.C17-UNION.i5.03672: Come find me when your done
+[17:29:46] Alex Palovichov: Yeah
+[17:29:51] CCA.C17-UNION.i5.03672: /radio About to
+[17:29:59] Alex Palovichov: /me Grabs one of the headcrabs, picking it up
+[17:30:00] CCA.C17-UNION.i5.03672: /viewdata jona
+[17:30:04] CCA.C17-GRID.i3.08313: /r So, no. Got it.
+[17:30:10] CCA.C17-UNION.i5.03672: /radio I changed it
+[17:30:24] CCA.C17-UNION.i5.03672: // im quick with it as the kids say
+[17:30:25] CCA.C17-GRID.i3.08313: /r 10-4.
+[17:30:28] CCA.C17-GRID.i3.08313: /viewdata jonathan
+[17:31:06] CCA.C17-GRID.i3.08313<STEAM_0:1:53097688> changed their name to Ryan Maley
+[17:31:39] Ryan Maley: /pm i5 next time make sure to do /removetenant 2 on 1A and /addtenant jonathan on 1B
+[17:31:43] Ryan Maley: /pm i5 like ointhe doors
+[17:31:54] CCA.C17-UNION.i5.03672: /pm ryan Okay im sorry didnt know
+[17:31:58] Ryan Maley: /pm i5 no worries!
+[17:32:05] Ryan Maley: /pm i5 just a friendly reminder.i shoudl ahve told you about that
+[17:32:07] Ryan Maley: ...Hello.
+[17:32:45] Jonathan Jackson: Ah hello there, I noticed this was an occupied space but the CP insisted I recieve this appartment, something about orders.
+[17:32:55] Jonathan Jackson: Name is Jonathan Jackson, you?
+[17:33:06] Jonathan Jackson: /looc How do I do the recognize thing
+[17:33:06] Ryan Maley: Oh, welcome to the apartment, then. They try to put multiple people in one apartment as far as I understnad.
+[17:33:08] Ryan Maley: Ryan Maley.
+[17:33:08] Ryan Maley: .//F3
+[17:33:19] Ryan Maley: I'm gonna hit the sack, I'll talk to you more later.
+[17:33:22] Jonathan Jackson: Ah  alrigh
+[17:33:28] Jonathan Jackson: /looc Ah alright*
+[17:33:37] Ryan Maley: //alright. i'm gonna eat dinner. when i get back, fun work cycle
+[17:33:44] Jonathan Jackson: // K
+[17:33:48] CCA.C17-UNION.i5.03672: // the first man to call a work cycle fun
+[17:33:54] Ryan Maley: //alex your presence would be apprecaited
+[17:33:56] Alex Palovichov: /ooc They are tho...
+[17:34:02] Alex Palovichov: /ooc Yeah sure
+[17:35:37] Alex Palovichov: Now...I just need cleaning supplies...
+[17:35:57] Alex Palovichov: Meh this'll do
+[17:36:57] Dropped "Major-General Sir Issac Brock KB" from server<STEAM_0:0:193599766>
+[17:37:18] Alex Palovichov: /ooc Wets the ground with a layer of bleach before wiping it down with a towel
+[17:37:21] Alex Palovichov: /ooc WHA
+[17:37:25] Alex Palovichov: /ooC HOW DID I
+[17:37:29] Alex Palovichov: /ooc WHAT THE FUCK???
+[17:37:30] CCA.C17-UNION.i5.03672: // bro?
+[17:37:36] Alex Palovichov: /ooc I...tried...to...do.../me
+[17:37:41] Alex Palovichov: /ooc Im too used to /occ
+[17:37:44] Alex Palovichov: /ooc /ooc*
+[17:37:45] CCA.C17-UNION.i5.03672: // lol
+[17:37:49] Alex Palovichov: /ooc ffs
+[17:37:56] Alex Palovichov: /me Wets the ground with a layer of bleach before wiping it down with a towel
+[17:38:10] Alex Palovichov: /ooc It aint the first time I did something like that...
+[17:39:05] CCA.C17-UNION.i5.03672: Hows it coming?
+[17:39:17] Alex Palovichov: Hm? Oh almost done...just finishing up right now...
+[17:39:38] Alex Palovichov: /me Finishes scrubbing the blood of the pavement, before putting the cap back onto the bleach
+[17:39:40] Alex Palovichov: And...Done
+[17:39:47] CCA.C17-UNION.i5.03672: Nice
+[17:39:53] CCA.C17-UNION.i5.03672: You want tokens or loyalty points?
+[17:40:01] Alex Palovichov: Mmm...Loyalist Points
+[17:40:06] CCA.C17-UNION.i5.03672: Alright apply
+[17:40:09] Alex Palovichov: /apply
+[17:40:15] CCA.C17-UNION.i5.03672: /viewdata alex
+[17:41:01] CCA.C17-UNION.i5.03672: Alright
+[17:41:06] CCA.C17-UNION.i5.03672: Your at 126 now
+[17:41:14] Alex Palovichov: Ah...Wonderful!
+[17:42:58] CCA.C17-UNION.i5.03672: /viewcamera
+[17:46:02] Jonathan Jackson: Hm
+[17:46:10] Jonathan Jackson: Something tells me this place was blocked off for a reason
+[17:47:08] Jonathan Jackson: ohh
+[17:47:17] Jonathan Jackson: That doesn't look very, uhh...
+[17:47:19] Jonathan Jackson: swell
+[17:47:37] Jonathan Jackson: I could hop the fence... but why would I?
+[17:48:18] Jonathan Jackson: Hm, good to know this exists
+[17:49:50] Jonathan Jackson: I feel, REALLY uncomfortable being this high up
+[17:50:36] Jonathan Jackson: Nice place
+[17:50:44] CCA.C17-UNION.i5.03672: // goober
+[17:50:54] Jonathan Jackson: // no
+[17:51:38] Jonathan Jackson: Someone definitely would not appreciate me being in here
+[17:51:59] Jonathan Jackson: Hey that's where I live!
+[17:52:17] Jonathan Jackson: I guess it's legal to be up here then'
+[17:52:23] Jonathan Jackson: Good to know
+[17:52:53] Jonathan Jackson: hm
+[17:53:13] Jonathan Jackson: Yeah this is a CP gate
+[17:53:34] Jonathan Jackson: I would not want to be stuck on that pipe
+[17:53:51] Jonathan Jackson: Oh quite big in here
+[17:54:18] Jonathan Jackson: Someone really likes making it easy to hide from police
+[17:54:20] Dropped "CCA.C17-UNION.i5.03672" from server<STEAM_0:0:143523274>
+[17:54:38] Jonathan Jackson: Even higher? fun.
+[17:55:07] Jonathan Jackson: I assume I'm doing no wrong being here
+[17:55:36] Jonathan Jackson: I was not aware there was a way to get down
+[17:56:07] Jonathan Jackson: I swear with doors.
+[17:56:59] Jonathan Jackson: Solid
+[17:57:05] Jonathan Jackson: Good to know the layout
+[17:57:58] Jonathan Jackson: I hate these suits
+[17:58:11] Jonathan Jackson: Privacy at least
+[17:59:01] Jonathan Jackson: I need to find a place with some good air supply around here...
+[17:59:12] Jonathan Jackson: Ah solid
+[18:01:54] Jonathan Jackson: My guess? This is where the good citizens go
+[18:02:07] Jonathan Jackson: Looks nice in here
+[18:03:06] Jonathan Jackson: 3 people one appartment, and I thought this was the luxury place...
+[18:04:07] Jonathan Jackson: This is what happens when you leave doors unlocked.
+[18:04:37] Jonathan Jackson: Inconsistent breathability
+[18:04:53] Jonathan Jackson: mine
+[18:05:04] Jonathan Jackson: Dang, score
+[18:05:28] Jonathan Jackson: I actually don't need any of this but it's funny
+[18:05:41] Jonathan Jackson: oh
+[18:05:41] Client "elijah" connected.
+[18:05:42] Jonathan Jackson: wow
+[18:05:46] Jonathan Jackson: now this
+[18:05:48] Jonathan Jackson: is a jackpot
+[18:06:02] Jonathan Jackson: Should've gotten a locked container
+[18:06:28] Dropped "Alex Palovichov" from server<STEAM_0:1:591779303>
+[18:06:39] Ryan Maley: //NOOOOOOOOOOOOO
+[18:06:40] Jonathan Jackson: Nice
+[18:06:47] Ryan Maley: //jesus
+[18:06:51] Jonathan Jackson: // unfortunate
+[18:07:05] Client "elijah" spawned in server <STEAM_0:0:220797226> (took 84 seconds).
+[18:07:15] Jonathan Jackson: sucker
+[18:07:34] elijah<STEAM_0:0:220797226> changed their name to bobe
+[18:07:46] Ryan Maley: //welcome
+[18:07:46] bobe: hello yall
+[18:07:51] Ryan Maley: //welcome back rather
+[18:08:08] Jonathan Jackson: // Is there a place where locks can be bought?
+[18:08:30] Ryan Maley: //they should be for sale in the change store. if not, you can forage them from dumpsters and the sewers
+[18:08:39] Jonathan Jackson: // Alright
+[18:08:39] Ryan Maley<STEAM_0:1:53097688> changed their name to CCA.C17-GRID.i3.08313
+[18:08:43] bobe: hay ryan
+[18:09:04] bobe: how do i get out of the train place
+[18:09:05] CCA.C17-GRID.i3.08313: Relocation coupon.
+[18:09:15] Jonathan Jackson: Is there some unwritten rule about not stealing because I don't know of any
+[18:09:19] bobe: hello
+[18:09:27] CCA.C17-GRID.i3.08313: .//hi, are you new to seriousRP?
+[18:09:33] bobe: yep
+[18:09:45] CCA.C17-GRID.i3.08313: .//ah, welcome. i'm not the best teacher but i'll try to get you somewhat up to speed
+[18:09:55] bobe: ok
+[18:10:09] CCA.C17-GRID.i3.08313: .//first thing's first, regular chat is IC chat, it's what your character says, vs LOOC and OOC which are what you, Elijah says.
+[18:10:21] CCA.C17-GRID.i3.08313: .//to talk in local OOC chat put .// before your messages
+[18:10:29] CCA.C17-GRID.i3.08313: .//and // before your messages for regular global OOC chat
+[18:10:32] Jonathan Jackson: This run has been great
+[18:10:38] bobe: ok
+[18:10:49] CCA.C17-GRID.i3.08313: .//like that response would go in LOOC because i'm talking to you in LOOC
+[18:10:55] CCA.C17-GRID.i3.08313: .//to get into the city i need to process you
+[18:10:59] CCA.C17-GRID.i3.08313: Give me your relocation coupon.
+[18:11:10] CCA.C17-GRID.i3.08313: .//hit TAB to open your inventory, your relocation coupon looks like a metal card sort of thing. Right click on it and hit drop.
+[18:11:44] bobe:  it right here
+[18:12:00] CCA.C17-GRID.i3.08313: /me would pick up the man's relocation coupon and look it over, front and back, making sure to hold it up to the light to get a better look at it.
+[18:12:05] CCA.C17-GRID.i3.08313: Alright. This'll only take one second.
+[18:12:15] bobe: also
+[18:12:16] CCA.C17-GRID.i3.08313: .//you'll need to pick a full name for your character, a first and last name
+[18:12:27] bobe: how do i put on my gas mask???
+[18:12:45] CCA.C17-GRID.i3.08313: .//there's a suit in your inventory, it takes up 1 square. right click on it and hit equip
+[18:12:56] CCA.C17-GRID.i3.08313: .//that message, by the way, belongs in LOOC chat
+[18:13:38] CCA.C17-GRID.i3.08313: .//were you able to find it?
+[18:13:41] bobe: no
+[18:13:47] CCA.C17-GRID.i3.08313: .//please, respond in LOOC chat
+[18:13:52] CCA.C17-GRID.i3.08313<STEAM_0:1:53097688> spawned model models/props_c17/briefcase001a.mdl
+[18:13:56] CCA.C17-GRID.i3.08313: .//it looks like this
+[18:14:16] bobe: oh i know what it looks like i just dont know where the slot is
+[18:14:23] CCA.C17-GRID.i3.08313: .//please. please talk in LOOC
+[18:14:34] CCA.C17-GRID.i3.08313: .//oh, it's in your inventory. hit TAB to access it
+[18:15:06] CCA.C17-GRID.i3.08313: .//make sure to equip your filter
+[18:15:14] bobe: i put the flter on and the gas mask
+[18:15:16] Jonathan Jackson: Where did that nice crate go?
+[18:15:32] CCA.C17-GRID.i3.08313: .//awesome. please, please, talk in looc. put .// before your messages
+[18:15:47] CCA.C17-GRID.i3.08313: .//what do you want your character's full name to be? you need a first name and a lsat name
+[18:15:52] bobe: //thanks for your help
+[18:16:28] bobe: // oh i,m boby russo
+[18:16:42] Jonathan Jackson: Trash
+[18:16:47] CCA.C17-GRID.i3.08313: /charsetname bobe "Bobby Russo"
+[18:16:47] bobe<STEAM_0:0:220797226> changed their name to Bobby Russo
+[18:17:14] CCA.C17-GRID.i3.08313: /createcid "Bobby Russo" 12500
+[18:17:15] Jonathan Jackson: Welp
+[18:17:21] Jonathan Jackson: There is no time like the present
+[18:17:29] CCA.C17-GRID.i3.08313: Alright, I've got a few questions for you.
+[18:17:34] CCA.C17-GRID.i3.08313: First off, I need your date of birth.
+[18:17:37] Bobby Russo: //ok
+[18:17:42] CCA.C17-GRID.i3.08313: .//the date of birth is your character's date of birth, not your real life one
+[18:17:51] CCA.C17-GRID.i3.08313: .//the current year is 2006 and the war was in 2003
+[18:17:59] CCA.C17-GRID.i3.08313: .//so you have to be born in 1985 or before
+[18:18:10] Bobby Russo: //i,m 1/3/7
+[18:18:10] Jonathan Jackson: Lets do it
+[18:18:20] CCA.C17-GRID.i3.08313: .//tell me that in IC chat
+[18:18:35] Jonathan Jackson: phew
+[18:18:41] Bobby Russo: 1/3/7
+[18:18:41] Jonathan Jackson: Tis but a scratch
+[18:18:49] CCA.C17-GRID.i3.08313: .//7 as in 2007?
+[18:18:50] Jonathan Jackson: Uh oh
+[18:18:55] Jonathan Jackson: I've got a bad feeling about this
+[18:18:56] Bobby Russo: yes
+[18:19:05] CCA.C17-GRID.i3.08313: .//that woudl make you -1 years old
+[18:19:11] Jonathan Jackson: oh.
+[18:19:12] CCA.C17-GRID.i3.08313: .//the year has to be 1985 or earlier
+[18:19:22] Bobby Russo: XD SORY
+[18:19:23] Jonathan Jackson: Swim fucker swim
+[18:19:34] Bobby Russo: 1984
+[18:19:43] CCA.C17-GRID.i3.08313: January 3rd, 1984?
+[18:19:44] CCA.C17-GRID.i3.08313: Gotcha.
+[18:19:47] CCA.C17-GRID.i3.08313: /viewdata bobby
+[18:19:52] Bobby Russo: yep
+[18:20:09] CCA.C17-GRID.i3.08313: And you're a male?
+[18:20:15] Bobby Russo: //yes
+[18:20:25] Jonathan Jackson: This place is not fun
+[18:20:35] Bobby Russo: //i,m male
+[18:20:41] CCA.C17-GRID.i3.08313: .//tell me that in IC chat
+[18:20:52] Bobby Russo: i,m male
+[18:21:02] CCA.C17-GRID.i3.08313: Alright..
+[18:21:05] CCA.C17-GRID.i3.08313: Do you know your blood type?
+[18:21:06] Jonathan Jackson: I don't need this pests around
+[18:21:10] CCA.C17-GRID.i3.08313: If not, no problem, I can mark it as unknown.
+[18:21:20] Bobby Russo: i think it type A
+[18:21:30] Bobby Russo: *its
+[18:22:03] Jonathan Jackson: phew
+[18:22:07] CCA.C17-GRID.i3.08313: You think?
+[18:22:13] CCA.C17-GRID.i3.08313: If you're not sure, I'll just put down unknown.
+[18:22:17] CCA.C17-GRID.i3.08313: It's just dangerous to be given the wrong blood.
+[18:22:21] CCA.C17-GRID.i3.08313: /viewdata russo
+[18:22:23] Bobby Russo: yes its A
+[18:22:27] Jonathan Jackson: Uhh I don't know this
+[18:22:33] CCA.C17-GRID.i3.08313: A what? Negative or positive?
+[18:22:42] Jonathan Jackson: Woah
+[18:22:44] Jonathan Jackson: That's neart
+[18:23:01] Bobby Russo: oh wait you mean like if i,m given the wrong blook in game or in rp?
+[18:23:09] Bobby Russo: *blood
+[18:23:13] Jonathan Jackson: Best not to be loud.
+[18:23:13] CCA.C17-GRID.i3.08313: .//in roleplay
+[18:23:21] CCA.C17-GRID.i3.08313: .//but in real life it is also dangerous to be given the wrong blood
+[18:23:24] Bobby Russo: ok in than tes A+
+[18:23:31] CCA.C17-GRID.i3.08313: Alright.
+[18:23:34] CCA.C17-GRID.i3.08313: /viewdata bobby
+[18:23:53] CCA.C17-GRID.i3.08313: Do you have any mental or physical disabilities or disorders?
+[18:24:08] Bobby Russo: no
+[18:24:09] CCA.C17-GRID.i3.08313: This isn't anything major, it can be small things like Eczema, OCD, a bad knee, anything like that.
+[18:24:11] CCA.C17-GRID.i3.08313: Still no?
+[18:24:24] Bobby Russo: no i dont have eny
+[18:24:29] CCA.C17-GRID.i3.08313: Alright.
+[18:24:31] CCA.C17-GRID.i3.08313: /viewdata russo
+[18:24:41] CCA.C17-GRID.i3.08313: That'll do it. Do you have any questions for me?
+[18:24:54] CCA.C17-GRID.i3.08313: /pm jonathan sorry i haven't been abel to make RP with you yet. this guy is.
+[18:24:56] Bobby Russo: no i dont
+[18:24:57] CCA.C17-GRID.i3.08313: /pm jonathan a specimen
+[18:24:59] CCA.C17-GRID.i3.08313: /me takes out their datapad and types a couple things in.
+[18:25:01] CCA.C17-GRID.i3.08313: .//void that
+[18:25:03] CCA.C17-GRID.i3.08313: Alright.
+[18:25:04] Jonathan Jackson: /pm grid I'm sure
+[18:25:26] CCA.C17-GRID.i3.08313: If you need filters, you can buy them in the CHANGE store in the plaza. Other local stores also sell them, but the CHANGE store is always open, 24 hours a day.
+[18:25:32] Jonathan Jackson: That.. thing doesn't look good
+[18:25:43] Bobby Russo: ok!
+[18:25:45] CCA.C17-GRID.i3.08313: They also sell snacks and other miscellaneous goods, including a respirator, which can be used to replace your suit if you dislike the suit.
+[18:25:52] CCA.C17-GRID.i3.08313: Stay civil.
+[18:25:55] CCA.C17-GRID.i3.08313: /me would hand the man his ID card.
+[18:26:02] Bobby Russo: //yes sir
+[18:26:08] Jonathan Jackson: fuck...
+[18:26:30] Jonathan Jackson: I have no need for a new locker
+[18:26:40] Bobby Russo: //i,m i free to go?
+[18:26:45] CCA.C17-GRID.i3.08313: .//ask me IC
+[18:26:58] Bobby Russo: i,m i free to go
+[18:27:09] CCA.C17-GRID.i3.08313: Yes.
+[18:27:10] CCA.C17-GRID.i3.08313: .//by the way
+[18:27:29] CCA.C17-GRID.i3.08313: /pm bobby Make sure to change your description. It should describe your character's appearance, not his personality. Use /chardesc to change it.
+[18:27:37] Jonathan Jackson: fun
+[18:28:03] Jonathan Jackson: I don't need to kill all of them
+[18:28:25] Jonathan Jackson: That's how it works huh..
+[18:28:36] Jonathan Jackson: what
+[18:28:57] Jonathan Jackson: The hell is this place...
+[18:29:45] Bobby Russo: //combine can you show me how to get a home?
+[18:29:47] Jonathan Jackson: Well I'll certainly always have some toilet paper
+[18:29:51] CCA.C17-GRID.i3.08313: //ask me IC
+[18:30:02] Jonathan Jackson: fucking hell
+[18:30:06] Jonathan Jackson: this is a motherlode
+[18:30:08] Bobby Russo: combine do can you show me how to get a home
+[18:30:18] Jonathan Jackson: I need thse
+[18:30:21] Jonathan Jackson: These
+[18:30:31] CCA.C17-GRID.i3.08313: Yes, absolutely. Wait there, I'll be out in a moment.
+[18:30:36] Jonathan Jackson: Air tanks
+[18:30:52] Jonathan Jackson: Hm gun stuff
+[18:31:01] CCA.C17-GRID.i3.08313: follow me
+[18:31:55] Jonathan Jackson: I love everything about this place
+[18:32:02] CCA.C17-GRID.i3.08313: /removetenant 2
+[18:32:21] CCA.C17-GRID.i3.08313: Alright. You now live in Apartment 1A. Your apartment is Alex Palovichov, the manager of this city's branch of the infestation control.
+[18:32:22] Jonathan Jackson: I've got some tangible stuff here.
+[18:32:30] Jonathan Jackson: Just need a good plan to store this
+[18:32:35] CCA.C17-GRID.i3.08313: Be on your best behavior, he's a loyalist. Although I've never seen him enter his apartment.
+[18:32:36] CCA.C17-GRID.i3.08313: /toggleraise
+[18:32:37] CCA.C17-GRID.i3.08313: /toggleraise
+[18:32:39] CCA.C17-GRID.i3.08313: /toggleraise
+[18:32:44] CCA.C17-GRID.i3.08313: /me would take out his PDA and type on it.
+[18:32:56] CCA.C17-GRID.i3.08313: I still need to get your key. I'll be back soon.
+[18:33:55] CCA.C17-GRID.i3.08313: /viewdata bobby
+[18:34:08] Bobby Russo: //this is nice
+[18:34:08] Jonathan Jackson: Hm, other side of a combine lock..
+[18:34:17] CCA.C17-GRID.i3.08313: //the diordna apartments are cozyh
+[18:34:48] CCA.C17-GRID.i3.08313: /addtenant boby
+[18:34:50] CCA.C17-GRID.i3.08313: /addtenant bobby
+[18:34:57] CCA.C17-GRID.i3.08313: Bobby?
+[18:34:58] Jonathan Jackson: // If only I got my own appartment lol
+[18:35:04] CCA.C17-GRID.i3.08313: //imagine
+[18:35:09] CCA.C17-GRID.i3.08313: //i will force roommateRP upon you
+[18:35:19] CCA.C17-GRID.i3.08313: /me would hold out his hand with the key in it.
+[18:35:26] Jonathan Jackson: I can come back here another time
+[18:35:45] CCA.C17-GRID.i3.08313: Take it.
+[18:35:46] Bobby Russo: **hed take it
+[18:35:51] CCA.C17-GRID.i3.08313: .//do /me for actions
+[18:35:55] CCA.C17-GRID.i3.08313: .//nicely done though
+[18:36:10] Bobby Russo: /me hed take the key
+[18:36:13] Jonathan Jackson: skill issue
+[18:36:21] CCA.C17-GRID.i3.08313: .//please make sure to update your description using /chardesc
+[18:36:30] CCA.C17-GRID.i3.08313: .//it should describe your character's appearance
+[18:36:50] Client "Chicken" connected.
+[18:37:02] Bobby Russo: how do you place props
+[18:38:24] CCA.C17-GRID.i3.08313: Alright...
+[18:38:28] CCA.C17-GRID.i3.08313: hm
+[18:39:29] Client "Chicken" spawned in server <STEAM_0:0:143523274> (took 159 seconds).
+[18:39:33] CCA.C17-GRID.i3.08313: //HE BACK
+[18:39:37] Jonathan Jackson: // yes
+[18:40:21] Jonathan Jackson: // afk for a bit
+[18:40:23] Chicken<STEAM_0:0:143523274> changed their name to CCA.C17-UNION.i5.03672
+[18:40:26] CCA.C17-GRID.i3.08313: //heard that
+[18:40:31] CCA.C17-UNION.i5.03672: // heard yo mama
+[18:40:52] CCA.C17-GRID.i3.08313<STEAM_0:1:53097688> changed their name to Ryan Maley
+[18:41:10] Bobby Russo: i,m almost ready to join the combine to get a better meal
+[18:41:31] Ryan Maley: SHIT
+[18:43:01] Bobby Russo: combine.
+[18:43:21] Bobby Russo: how wold i join you
+[18:43:26] Ryan Maley: /me would unscrew his current filter and hold it in his left hand, being careful not to drop it on the ground.
+[18:43:34] CCA.C17-UNION.i5.03672: They hold out interviews every so often
+[18:43:42] CCA.C17-UNION.i5.03672: Or apply on the combine forums
+[18:43:45] Ryan Maley: /me would toss it onto the bench for only a moment as he deftly pulls another filter out of his bag and screws it back into place.
+[18:43:57] Ryan Maley: Lord..
+[18:44:05] Bobby Russo: in a discord?
+[18:44:14] CCA.C17-UNION.i5.03672: .// yes
+[18:44:20] CCA.C17-UNION.i5.03672: .// do /discord
+[18:44:22] CCA.C17-UNION.i5.03672: /discord
+[18:44:39] Bobby Russo: /discord
+[18:45:08] Ryan Maley<STEAM_0:1:53097688> used the tool permaprops on maps/rp_industrial17_v1.bsp
+[18:45:48] CCA.C17-UNION.i5.03672: // so
+[18:45:51] CCA.C17-UNION.i5.03672: // tf goin on
+[18:45:51] Ryan Maley: //yo
+[18:46:05] Ryan Maley: //i was hoping more people would get on but i'm not sure it's gonna happen. let me message dilly
+[18:46:12] CCA.C17-UNION.i5.03672: // dally
+[18:47:02] CCA.C17-UNION.i5.03672: // man
+[18:47:08] CCA.C17-UNION.i5.03672: // looks like project revival
+[18:47:12] CCA.C17-UNION.i5.03672: // needs to be revived
+[18:47:18] Ryan Maley: //it's almost like the name was intentional
+[18:47:31] CCA.C17-UNION.i5.03672: // why cause you knew your server was dead?
+[18:47:55] Ryan Maley: //i mean i woudl have to be blind to not
+[18:48:38] CCA.C17-UNION.i5.03672: // so
+[18:48:42] CCA.C17-UNION.i5.03672: // see any good movies lately
+[18:49:10] Bobby Russo: /discord
+[18:52:16] Bobby Russo: /discord
+[18:55:48] Bobby Russo: ae suse
+[18:55:54] Bobby Russo: *dude
+[18:56:34] Bobby Russo: hay combie i joined the discord whats the next step
+[18:58:00] Ryan Maley<STEAM_0:1:53097688> changed their name to CCA.C17-GRID.EpU.06912
+[18:58:55] Bobby Russo: hello?\
+[18:59:16] Bobby Russo: hay
+[18:59:27] CCA.C17-GRID.EpU.06912: What?
+[18:59:38] Bobby Russo: i joined the discord whats the next step to becoming a combine
+[18:59:49] CCA.C17-GRID.EpU.06912: .//this is the kind of thing you would ask me in LOOC
+[19:00:02] CCA.C17-GRID.EpU.06912: .//you need to get 10 LP, and then you can apply on the forums
+[19:00:16] Bobby Russo: whats lp
+[19:00:33] CCA.C17-UNION.i5.03672: // mmmm
+[19:00:41] CCA.C17-UNION.i5.03672: // just got chief a 50 dollar steam gift card
+[19:00:43] CCA.C17-GRID.EpU.06912: .//Loyalist points. You get them by reporting crimes, turning in contraband, assisting metrocops
+[19:00:44] CCA.C17-GRID.EpU.06912: //why
+[19:00:49] CCA.C17-UNION.i5.03672: // its his birthday
+[19:00:52] CCA.C17-GRID.EpU.06912: .//and you lose them when you commit crimes
+[19:00:54] CCA.C17-GRID.EpU.06912: //IT'S FUCKING WHAT
+[19:00:56] CCA.C17-UNION.i5.03672: // and hes afk so he will just come back to it
+[19:01:05] CCA.C17-UNION.i5.03672: // so i thought i could suprise him
+[19:01:10] CCA.C17-UNION.i5.03672: // what?
+[19:01:17] CCA.C17-GRID.EpU.06912: //I NEED TO TEL LHI MHAPPY BIRTHDAY
+[19:01:18] Bobby Russo: ok thanks
+[19:01:21] CCA.C17-UNION.i5.03672: // bad friend alert
+[19:01:27] CCA.C17-UNION.i5.03672: // you didnt tell me happy birthday
+[19:01:28] CCA.C17-GRID.EpU.06912: .//yeah. please respond to that in LOOC but yeah no problem
+[19:01:29] CCA.C17-UNION.i5.03672: // mine was like
+[19:01:32] CCA.C17-UNION.i5.03672: // 2 weeks ago
+[19:01:34] CCA.C17-GRID.EpU.06912: //okay and
+[19:01:41] CCA.C17-UNION.i5.03672: // damn bad friend alert
+[19:01:41] CCA.C17-GRID.EpU.06912: //no but in all seriousness happy birthday
+[19:01:44] CCA.C17-UNION.i5.03672: // thank you
+[19:01:45] CCA.C17-GRID.EpU.06912: //sorry, i had no idea
+[19:01:48] CCA.C17-UNION.i5.03672: // go tell chief
+[19:01:51] CCA.C17-UNION.i5.03672: // its on the 30th
+[19:01:52] CCA.C17-UNION.i5.03672: // his is well
+[19:01:54] CCA.C17-UNION.i5.03672: // today
+[19:02:02] CCA.C17-GRID.EpU.06912: //oh it's IN 2 weeks
+[19:02:05] CCA.C17-UNION.i5.03672: // no
+[19:02:10] CCA.C17-UNION.i5.03672: // it was 2 weeks ago
+[19:02:15] CCA.C17-GRID.EpU.06912: //oh
+[19:02:16] CCA.C17-GRID.EpU.06912: //i'm dumb
+[19:02:21] CCA.C17-UNION.i5.03672: // na you good shawty
+[19:02:47] CCA.C17-GRID.EpU.06912<STEAM_0:1:53097688> changed their name to OTA.C17-ECHO.OHZ.19343
+[19:02:48] OTA.C17-ECHO.OHZ.19343: testing soemthing
+[19:02:49] OTA.C17-ECHO.OHZ.19343: HAHAHA
+[19:02:50] OTA.C17-ECHO.OHZ.19343: FUCK
+[19:02:57] OTA.C17-ECHO.OHZ.19343<STEAM_0:1:53097688> changed their name to CCA.C17-GRID.i3.08313
+[19:03:09] CCA.C17-GRID.i3.08313: //alright we have fewer peopel so time for a better work cycle idea
+[19:03:27] CCA.C17-GRID.i3.08313: //oh i knovv
+[19:03:34] CCA.C17-GRID.i3.08313<STEAM_0:1:53097688> changed their name to CCA.C17-GRID.EpU.06912
+[19:03:34] CCA.C17-GRID.EpU.06912: /r Union.
+[19:03:38] CCA.C17-UNION.i5.03672: yes?
+[19:03:38] CCA.C17-GRID.EpU.06912: .//hello
+[19:03:40] CCA.C17-GRID.EpU.06912: .//LMAO
+[19:03:45] CCA.C17-UNION.i5.03672: .// caught yo ass lackin
+[19:03:46] CCA.C17-GRID.EpU.06912: We're doing a work cycle soon, come with me.
+[19:03:55] CCA.C17-GRID.EpU.06912: I need to give you the rundown
+[19:04:14] CCA.C17-UNION.i5.03672: Wh-
+[19:04:36] CCA.C17-GRID.EpU.06912: alright
+[19:04:49] CCA.C17-GRID.EpU.06912: We're going to be doing a work cycle shortly, the first one in your career as far as I'm aware.
+[19:04:56] CCA.C17-UNION.i5.03672: Yes sir
+[19:05:39] CCA.C17-GRID.EpU.06912: When the announcement goes off, you'll have the citizens line up and you'll search them for contraband.
+[19:05:52] Bobby Russo: combine how do i get more filtersa
+[19:05:57] CCA.C17-GRID.EpU.06912: The work cycle will be in the sewers, so you won't be coming with, you'll just be searching them.
+[19:06:13] CCA.C17-GRID.EpU.06912: Then an OTA, specifically a hazmat unit, will be escorting them into the sewer.
+[19:06:25] CCA.C17-GRID.EpU.06912: They'll be dismantling old arcade cabinets for parts.
+[19:06:30] CCA.C17-GRID.EpU.06912: Any questions for me?
+[19:06:30] Bobby Russo: I NEED A FILTER D:
+[19:06:44] CCA.C17-UNION.i5.03672: So ill just follow them all down and watch over them?
+[19:07:01] CCA.C17-GRID.EpU.06912: I'm going to tell you this again.
+[19:07:13] CCA.C17-GRID.EpU.06912: This time I want you to actually listen to me.
+[19:07:28] CCA.C17-GRID.EpU.06912: The work cycle will be done in the sewers, so you will *not* be going with.
+[19:07:42] CCA.C17-GRID.EpU.06912: You will just be searching the citizens in front of warehouse 3 when the announcement goes off.
+[19:07:45] CCA.C17-GRID.EpU.06912: Do I make myself clearer?
+[19:07:49] CCA.C17-UNION.i5.03672: Yes sir
+[19:08:14] CCA.C17-GRID.EpU.06912: After they're all searched, you'll lead them behind the CHANGE and FOTO stores.
+[19:08:30] Dropped "Bobby Russo" from server<STEAM_0:0:220797226>
+[19:08:34] CCA.C17-GRID.EpU.06912: There's a sewer entrance there. Once the citizens go in with the OTA and the door is locked behind, you'll be dismissed.
+[19:08:36] CCA.C17-GRID.EpU.06912: Understood?
+[19:08:39] CCA.C17-UNION.i5.03672: // this is gonna be a sad work cycle
+[19:08:41] CCA.C17-UNION.i5.03672: Yes sir
+[19:08:43] CCA.C17-GRID.EpU.06912: //i promised a work cycle
+[19:08:50] CCA.C17-GRID.EpU.06912: //you best get on a citizen for it
+[19:08:57] CCA.C17-GRID.EpU.06912: Fantastic. Wait by warehouse 3.
+[19:09:01] CCA.C17-UNION.i5.03672: // i remember when you did a event just with me
+[19:09:02] CCA.C17-UNION.i5.03672: Copy
+[19:09:06] CCA.C17-UNION.i5.03672: // pretty giga chad of you
+[19:09:51] CCA.C17-UNION.i5.03672: /rooc i dont have zip ties
+[19:09:58] CCA.C17-GRID.EpU.06912: /rooc you don't need zip ties to search people anymore
+[19:10:04] CCA.C17-UNION.i5.03672: /rooc understood
+[19:10:14] CCA.C17-GRID.EpU.06912: /pm i5 just do /charsearch on them
+[19:10:30] CCA.C17-GRID.EpU.06912<STEAM_0:1:53097688> changed their name to OTA.C17-ECHO.OHZ.19343
+[19:10:42] OTA.C17-ECHO.OHZ.19343: //pain may be AFK
+[19:10:47] CCA.C17-UNION.i5.03672: // shoot
+[19:11:03] OTA.C17-ECHO.OHZ.19343: /r OHZ unit 19343 leaving the nexus and reporting to warehouse three. I've already been given my orders.
+[19:11:07] OTA.C17-ECHO.OHZ.19343: /chargiveitem ohz radio
+[19:11:14] OTA.C17-ECHO.OHZ.19343: /viewobjectives
+[19:11:19] OTA.C17-ECHO.OHZ.19343: /r OHZ unit 19343 leaving the nexus and reporting to warehouse three. I've already been given my orders.
+[19:11:31] OTA.C17-ECHO.OHZ.19343: /chargiveitem ohz "pulse smg"
+[19:11:38] OTA.C17-ECHO.OHZ.19343: /r OHZ unit 19343 leaving the nexus and reporting to warehouse three. I've already been given my orders.
+[19:11:41] OTA.C17-ECHO.OHZ.19343: /r OHZ unit 19343 leaving the nexus and reporting to warehouse three. I've already been given my orders.
+[19:11:46] OTA.C17-ECHO.OHZ.19343: /rooc void those
+[19:11:49] OTA.C17-ECHO.OHZ.19343: /chargiveitem ohz "pulse smg"
+[19:12:02] OTA.C17-ECHO.OHZ.19343: /chargiveitem ohz mp7
+[19:12:09] OTA.C17-ECHO.OHZ.19343 gave Themself 145 rounds
+[19:12:33] OTA.C17-ECHO.OHZ.19343: I've been told to wait by the warehouse door.
+[19:12:40] CCA.C17-UNION.i5.03672: 10-4
+[19:13:32] OTA.C17-ECHO.OHZ.19343: I do know how to make conversation, you know.
+[19:13:34] OTA.C17-ECHO.OHZ.19343: I'm not a robot.
+[19:13:55] CCA.C17-UNION.i5.03672: Not a whole lot to talk about
+[19:14:15] CCA.C17-UNION.i5.03672: Its like 5am no one is awake right now
+[19:14:22] OTA.C17-ECHO.OHZ.19343: You're the least conversative one I've met.
+[19:14:33] CCA.C17-UNION.i5.03672: Im new I like to keep my head down
+[19:14:38] CCA.C17-UNION.i5.03672: Not get in trouble
+[19:14:43] OTA.C17-ECHO.OHZ.19343: A lot of low rankers will see a hazmat unit and have nothing but questions to ask.
+[19:15:00] CCA.C17-UNION.i5.03672: Iv already seen you guys in action as a citizen
+[19:15:11] CCA.C17-UNION.i5.03672: You guys do some pretty good stuff
+[19:15:42] OTA.C17-ECHO.OHZ.19343: Yeah. It's pulse-pumping stuff.
+[19:15:56] CCA.C17-UNION.i5.03672: So you guys still get scared and stuff?
+[19:16:58] OTA.C17-ECHO.OHZ.19343: Oh yeah, but we don't let it get in our way.
+[19:17:07] OTA.C17-ECHO.OHZ.19343: Back when I was in the force there was hesistancy to get in a fight.
+[19:17:12] OTA.C17-ECHO.OHZ.19343: Now? Not even a little.
+[19:17:36] CCA.C17-UNION.i5.03672: Guess after enough training it will do that to you
+[19:17:43] OTA.C17-ECHO.OHZ.19343: Well, that and the memory replacement.
+[19:18:04] OTA.C17-ECHO.OHZ.19343: I don't know too much of the science of it, but it does a lot with how your brain responds to danger and death.
+[19:18:37] OTA.C17-ECHO.OHZ.19343: 10-4 copy
+[19:18:37] CCA.C17-UNION.i5.03672: Hm
+[19:18:39] OTA.C17-ECHO.OHZ.19343: .//void this
+[19:18:44] OTA.C17-ECHO.OHZ.19343: .//i'm gonna test stuff out
+[19:18:45] OTA.C17-ECHO.OHZ.19343: 10-4
+[19:18:45] OTA.C17-ECHO.OHZ.19343: copy
+[19:19:12] OTA.C17-ECHO.OHZ.19343: anyone else catch
+[19:19:16] OTA.C17-ECHO.OHZ.19343: 647e
+[19:19:19] OTA.C17-ECHO.OHZ.19343: 647e reading
+[19:19:29] CCA.C17-UNION.i5.03672: 10-78
+[19:19:32] OTA.C17-ECHO.OHZ.19343: 10-8 standing by
+[19:19:39] CCA.C17-UNION.i5.03672: 10-30
+[19:19:45] CCA.C17-UNION.i5.03672: 10-80
+[19:19:48] OTA.C17-ECHO.OHZ.19343: so weird how it matches it
+[19:19:55] CCA.C17-UNION.i5.03672: 10-99
+[19:19:55] OTA.C17-ECHO.OHZ.19343: .//oh i see why
+[19:20:11] CCA.C17-UNION.i5.03672: bleeding
+[19:20:28] CCA.C17-UNION.i5.03672: vice
+[19:20:29] CCA.C17-UNION.i5.03672: vice
+[19:20:30] CCA.C17-UNION.i5.03672: 80
+[19:20:49] OTA.C17-ECHO.OHZ.19343: vice
+[19:20:51] OTA.C17-ECHO.OHZ.19343: vice
+[19:20:52] OTA.C17-ECHO.OHZ.19343: sword
+[19:20:56] CCA.C17-UNION.i5.03672: .// ice ice baby
+[19:20:56] OTA.C17-ECHO.OHZ.19343: .//vice is said so weird
+[19:21:04] CCA.C17-UNION.i5.03672: can1
+[19:21:05] OTA.C17-ECHO.OHZ.19343: .//like he says it so weird
+[19:21:05] CCA.C17-UNION.i5.03672: can2
+[19:21:07] CCA.C17-UNION.i5.03672: can3
+[19:21:09] CCA.C17-UNION.i5.03672: can4
+[19:21:09] OTA.C17-ECHO.OHZ.19343: .//vEIGHs
+[19:21:12] CCA.C17-UNION.i5.03672: can5
+[19:21:14] CCA.C17-UNION.i5.03672: can6
+[19:21:17] CCA.C17-UNION.i5.03672: can7
+[19:21:19] CCA.C17-UNION.i5.03672: fick
+[19:21:23] OTA.C17-ECHO.OHZ.19343: shit
+[19:21:25] OTA.C17-ECHO.OHZ.19343: haha
+[19:21:29] CCA.C17-UNION.i5.03672: boomer
+[19:21:32] CCA.C17-UNION.i5.03672: // well
+[19:21:40] CCA.C17-UNION.i5.03672: // call this a failure
+[19:21:44] OTA.C17-ECHO.OHZ.19343: //no he back
+[19:21:48] OTA.C17-ECHO.OHZ.19343: //whether or not he comes is up to him
+[19:21:55] CCA.C17-UNION.i5.03672: citizen summoned
+[19:22:09] Jonathan Jackson: // I just checked on my pc still doin stuff rip
+[19:22:15] OTA.C17-ECHO.OHZ.19343: //lmao
+[19:22:20] OTA.C17-ECHO.OHZ.19343: //alright
+[19:22:24] OTA.C17-ECHO.OHZ.19343: //we'llbe here vibing
+[19:22:43] CCA.C17-UNION.i5.03672: first warning
+[19:22:45] CCA.C17-UNION.i5.03672: // downtime?
+[19:22:49] CCA.C17-UNION.i5.03672: second wanring
+[19:22:52] CCA.C17-UNION.i5.03672: second warning
+[19:22:53] OTA.C17-ECHO.OHZ.19343: //ur mom is downtime
+[19:22:57] OTA.C17-ECHO.OHZ.19343: vice
+[19:22:58] CCA.C17-UNION.i5.03672: third warning
+[19:23:03] CCA.C17-UNION.i5.03672: // i fucked your mom shit lips
+[19:23:17] CCA.C17-UNION.i5.03672<STEAM_0:0:143523274> spawned ragdoll models/player/t_leet.mdl
+[19:23:44] CCA.C17-UNION.i5.03672: .// alright hes here
+[19:24:02] OTA.C17-ECHO.OHZ.19343: /chartakeflag i5 r
+[19:24:11] CCA.C17-UNION.i5.03672: .// meany head
+[19:24:16] OTA.C17-ECHO.OHZ.19343: .//ididn't evne know you had r flags
+[19:24:24] CCA.C17-UNION.i5.03672: .// drd gave me them
+[19:24:27] OTA.C17-ECHO.OHZ.19343: .//what for
+[19:24:39] CCA.C17-UNION.i5.03672: .// headcrab thing
+[19:25:37] OTA.C17-ECHO.OHZ.19343: //wanna hear something cool i adde inot the vcpntent a wihle ago
+[19:25:43] OTA.C17-ECHO.OHZ.19343: //listen
+[19:25:45] CCA.C17-UNION.i5.03672: // sure
+[19:25:52] OTA.C17-ECHO.OHZ.19343: //is it playing for you
+[19:25:58] CCA.C17-UNION.i5.03672: //no
+[19:26:00] OTA.C17-ECHO.OHZ.19343: .//fuck
+[19:26:03] OTA.C17-ECHO.OHZ.19343: !playsound
+[19:26:42] OTA.C17-ECHO.OHZ.19343 played sound npc/combine_soldier/vo/off1_episodic.wav
+[19:26:49] OTA.C17-ECHO.OHZ.19343: .//did you hear that?
+[19:26:51] OTA.C17-ECHO.OHZ.19343 played sound npc/combine_soldier/vo/off1_episodic.wav
+[19:26:54] CCA.C17-UNION.i5.03672: //no
+[19:27:05] OTA.C17-ECHO.OHZ.19343 played sound npc/combine_soldier/vo/off1_episodic.wav
+[19:27:11] CCA.C17-UNION.i5.03672: // yes
+[19:27:16] OTA.C17-ECHO.OHZ.19343: .//wait you heard it that time
+[19:27:18] OTA.C17-ECHO.OHZ.19343 played sound npc/combine_soldier/vo/off1_episodic.wav
+[19:27:22] CCA.C17-UNION.i5.03672: // y
+[19:27:22] OTA.C17-ECHO.OHZ.19343 played sound npc/combine_soldier/vo/off2_episodic.wav
+[19:27:30] OTA.C17-ECHO.OHZ.19343 played sound npc/combine_soldier/vo/off3_episodic.wav
+[19:27:35] CCA.C17-UNION.i5.03672: // yes
+[19:27:40] OTA.C17-ECHO.OHZ.19343: .//cool right
+[19:27:44] OTA.C17-ECHO.OHZ.19343: .//i wantto amke that the sound for all OTA
+[19:27:49] CCA.C17-UNION.i5.03672: .// mhm
+[19:27:55] CCA.C17-UNION.i5.03672: .// i am so bored
+[19:28:05] CCA.C17-UNION.i5.03672: .// i could of made a new hl2rp server by now
+[19:29:15] OTA.C17-ECHO.OHZ.19343: .//i'm programmingatm
+[19:29:19] OTA.C17-ECHO.OHZ.19343: .//i'm making it so voicelines play over hte raidoy
+[19:29:22] OTA.C17-ECHO.OHZ.19343: /r 10-4
+[19:29:26] OTA.C17-ECHO.OHZ.19343: /r grid
+[19:29:33] OTA.C17-ECHO.OHZ.19343: .//didn't hear it right
+[19:29:36] CCA.C17-UNION.i5.03672: ./ /nope
+[19:29:41] OTA.C17-ECHO.OHZ.19343: .//exactly
+[19:29:44] OTA.C17-ECHO.OHZ.19343: .//i'm fixing that as we speak
+[19:29:51] CCA.C17-UNION.i5.03672: .// 10-4 works though
+[19:29:55] CCA.C17-UNION.i5.03672: /radio 10-4
+[19:32:56] Dropped "CCA.C17-UNION.i5.03672" from server<STEAM_0:0:143523274>
+[19:34:00] OTA.C17-ECHO.OHZ.19343: .//fuck
+[19:38:30] OTA.C17-ECHO.OHZ.19343: /r test
+[19:38:33] OTA.C17-ECHO.OHZ.19343: /r copy that
+[19:40:15] OTA.C17-ECHO.OHZ.19343: /r copy that
+[19:40:38] OTA.C17-ECHO.OHZ.19343<STEAM_0:1:53097688> spawned sent ix_transrecradio
+[19:40:48] OTA.C17-ECHO.OHZ.19343: .//bro
+[19:41:31] OTA.C17-ECHO.OHZ.19343<STEAM_0:1:53097688> spawned sent ix_transrecradio
+
+
+
+[19:47:20] New map: rp_industrial17_v1
+[19:47:52] Client "matt saton" connected.
+[19:48:59] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 67 seconds).
+[19:50:29] matt saton<STEAM_0:1:53097688> changed their name to CCA.C17-GRID.i3.08313
+[19:50:31] CCA.C17-GRID.i3.08313: /r copy that
+[19:50:37] CCA.C17-GRID.i3.08313: /r copy that
+[19:50:38] CCA.C17-GRID.i3.08313: /r copy that
+[19:50:40] CCA.C17-GRID.i3.08313: /r copy that
+[19:50:42] CCA.C17-GRID.i3.08313: /r copy that
+[19:50:55] CCA.C17-GRID.i3.08313<STEAM_0:1:53097688> spawned sent ix_testent10
+[19:50:57] CCA.C17-GRID.i3.08313<STEAM_0:1:53097688> spawned sent ix_transrecradio
+[20:06:21] CCA.C17-GRID.i3.08313: /r test
+[20:11:23] CCA.C17-GRID.i3.08313: /r copy that
+[20:11:28] CCA.C17-GRID.i3.08313: /r copy that
+[20:12:57] CCA.C17-GRID.i3.08313: /r copy that
+[20:16:43] CCA.C17-GRID.i3.08313: /r copy that
+[20:16:57] CCA.C17-GRID.i3.08313: /r copy that
+[20:20:54] CCA.C17-GRID.i3.08313: /r copy that
+[20:21:07] CCA.C17-GRID.i3.08313: /r copy that
+[20:21:18] CCA.C17-GRID.i3.08313: /r copy that
+[20:22:23] CCA.C17-GRID.i3.08313: /r copy that
+[20:22:27] CCA.C17-GRID.i3.08313: /r copy.
+[20:23:55] CCA.C17-GRID.i3.08313: /r copy.
+[20:23:58] CCA.C17-GRID.i3.08313: /r copy that
+[20:32:39] CCA.C17-GRID.i3.08313: /r copy that
+[20:34:57] CCA.C17-GRID.i3.08313: /r copy that
+[20:43:27] CCA.C17-GRID.i3.08313: /r copy that
+[20:43:30] CCA.C17-GRID.i3.08313: /r copy that
+[20:43:39] CCA.C17-GRID.i3.08313: /r copy that
+[20:43:45] CCA.C17-GRID.i3.08313: /r 10-4
+[20:45:43] CCA.C17-GRID.i3.08313: /r 10-4
+[20:45:44] CCA.C17-GRID.i3.08313: /r 10-4
+[20:45:46] CCA.C17-GRID.i3.08313: /r 10-4
+[20:45:47] CCA.C17-GRID.i3.08313: /r 10-4
+[20:45:48] CCA.C17-GRID.i3.08313: /r 10-4
+[20:45:49] CCA.C17-GRID.i3.08313: /r 10-4
+[20:47:24] CCA.C17-GRID.i3.08313: /r 10-4
+[20:50:05] CCA.C17-GRID.i3.08313: /r 10-4
+[20:50:08] CCA.C17-GRID.i3.08313: /r 10-4
+[20:51:08] CCA.C17-GRID.i3.08313<STEAM_0:1:53097688> changed their name to CCA.C17-GRID.EpU.06912
+[20:52:31] CCA.C17-GRID.EpU.06912<STEAM_0:1:53097688> changed their name to OTA.C17-ECHO.OHZ.19343
+[20:52:33] OTA.C17-ECHO.OHZ.19343: tdsfdsafa
+[20:52:34] OTA.C17-ECHO.OHZ.19343: dsaf
+[20:55:45] OTA.C17-ECHO.OHZ.19343: fdsafd
+[20:55:46] OTA.C17-ECHO.OHZ.19343: dsfdsfdsa
+[21:52:04] Dropped "OTA.C17-ECHO.OHZ.19343" from server<STEAM_0:1:53097688>
+[22:01:01] Client "stevenwu0714" connected.
+[22:49:37] Client "nforce" connected.
+[22:54:07] Client "nforce" spawned in server <STEAM_0:1:27629877> (took 270 seconds).
+[22:54:51] nforce<STEAM_0:1:27629877> changed their name to John Croogey
+[23:01:43] John Croogey: busy
+[23:01:45] John Croogey: behind you
+[23:01:49] John Croogey: interesting
+[23:09:48] Dropped "John Croogey" from server<STEAM_0:1:27629877>

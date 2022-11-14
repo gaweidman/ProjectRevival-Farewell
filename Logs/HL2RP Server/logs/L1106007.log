@@ -1,0 +1,1010 @@
+L 11/06/2022 - 13:53:14: Log file started (file "logs\L1106007.log") (game "c:\servers\revivalhl2rp\garrysmod") (version "8607")
+L 11/06/2022 - 13:53:14: "Bay$tateGoon<17><STEAM_0:0:83473595><>" disconnected (reason "Disconnect by user.")
+L 11/06/2022 - 13:53:14: "Sigmund_Valkrich<16><STEAM_0:1:115897813><>" disconnected (reason "Disconnect by user.")
+L 11/06/2022 - 13:53:14: "FB|| light ROOM<3><STEAM_0:1:17219621><>" disconnected (reason "Disconnect by user.")
+L 11/06/2022 - 13:53:14: "wendigo<5><STEAM_0:1:429480781><>" disconnected (reason "Disconnect by user.")
+L 11/06/2022 - 13:53:14: "Enclave<2><STEAM_0:0:34463192><>" disconnected (reason "Disconnect by user.")
+L 11/06/2022 - 13:53:14: "wendigo<19><STEAM_0:1:429480781><>" connected, address "107.128.116.69:27005"
+L 11/06/2022 - 13:53:14: "wendigo<19><STEAM_0:1:429480781><>" disconnected (reason "Connection closing")
+L 11/06/2022 - 13:53:14: "wendigo<20><STEAM_0:1:429480781><>" connected, address "107.128.116.69:27005"
+L 11/06/2022 - 13:53:14: "FB|| light ROOM<21><STEAM_0:1:17219621><>" connected, address "72.219.9.241:27005"
+L 11/06/2022 - 13:53:14: "FB|| light ROOM<21><STEAM_0:1:17219621><>" disconnected (reason "Connection closing")
+L 11/06/2022 - 13:53:14: "FB|| light ROOM<22><STEAM_0:1:17219621><>" connected, address "72.219.9.241:27005"
+L 11/06/2022 - 13:53:15: "wendigo<20><STEAM_0:1:429480781><>" STEAM USERID validated
+L 11/06/2022 - 13:53:15: "FB|| light ROOM<22><STEAM_0:1:17219621><>" STEAM USERID validated
+L 11/06/2022 - 13:54:26: "fuckus<12><STEAM_0:1:54861900><>" entered the game
+L 11/06/2022 - 13:54:27: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/06/2022 - 13:54:31: Lua Error: [Helix] Attempt to index unknown item 'union_chips'
+
+L 11/06/2022 - 13:54:31: Lua Error: [Helix] Attempt to index unknown item 'union_chips'
+
+L 11/06/2022 - 13:54:31: Lua Error: [Helix] Attempt to index unknown item 'battered_scrap'
+
+L 11/06/2022 - 13:54:31: Lua Error: [Helix] Attempt to index unknown item 'morphine'
+
+L 11/06/2022 - 13:54:31: "Dilly_<14><STEAM_0:0:52468151><>" entered the game
+L 11/06/2022 - 13:54:32: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/06/2022 - 13:54:39: Lua Error: [Helix] Attempt to index unknown item 'handheld_radio'
+
+L 11/06/2022 - 13:54:39: Lua Error: [Helix] Attempt to index unknown item 'handheld_radio'
+
+L 11/06/2022 - 13:54:39: Lua Error: [Helix] Attempt to index unknown item 'band_blue'
+
+L 11/06/2022 - 13:54:39: Lua Error: [Helix] Attempt to index unknown item 'band_green'
+
+L 11/06/2022 - 13:54:39: Lua Error: [Helix] Attempt to index unknown item 'morphine'
+
+L 11/06/2022 - 13:54:39: Lua Error: [Helix] Attempt to index unknown item 'burned_metal'
+
+L 11/06/2022 - 13:54:39: Lua Error: [Helix] Attempt to index unknown item 'cmbfood'
+
+L 11/06/2022 - 13:54:40: "matt saton<6><STEAM_0:1:53097688><>" entered the game
+L 11/06/2022 - 13:54:40: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/06/2022 - 13:54:43: Lua Error: [Helix] Attempt to index unknown item 'duplexradio'
+
+L 11/06/2022 - 13:54:43: Lua Error: [Helix] Attempt to index unknown item 'band_gold'
+
+L 11/06/2022 - 13:54:43: Lua Error: [Helix] Attempt to index unknown item 'duplexradio'
+
+L 11/06/2022 - 13:54:43: Lua Error: [Helix] Attempt to index unknown item 'coppercoil'
+
+L 11/06/2022 - 13:54:43: "FB|| light ROOM<22><STEAM_0:1:17219621><>" entered the game
+L 11/06/2022 - 13:54:43: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/06/2022 - 13:54:48: "Bean<7><STEAM_0:1:591779303><>" entered the game
+L 11/06/2022 - 13:54:48: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/06/2022 - 13:54:56: "fuckus<12><STEAM_0:1:54861900><>" disconnected (reason "Disconnect by user.")
+L 11/06/2022 - 13:55:04: "fuckus<23><STEAM_0:1:54861900><>" connected, address "65.25.50.46:27005"
+L 11/06/2022 - 13:55:04: "fuckus<23><STEAM_0:1:54861900><>" STEAM USERID validated
+L 11/06/2022 - 13:55:10: "Enclave<24><STEAM_0:0:34463192><>" connected, address "75.248.18.54:27005"
+L 11/06/2022 - 13:55:10: "Enclave<24><STEAM_0:0:34463192><>" STEAM USERID validated
+L 11/06/2022 - 13:55:23: "Weaponized Turtles<4><STEAM_0:0:69165544><>" entered the game
+L 11/06/2022 - 13:55:23: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/06/2022 - 13:55:32: "Nums<15><STEAM_0:1:196547442><>" entered the game
+L 11/06/2022 - 13:55:32: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/06/2022 - 13:55:46: "Bubba<11><STEAM_0:0:178302901><>" entered the game
+L 11/06/2022 - 13:55:46: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/06/2022 - 13:55:50: [ULX] Alex Palovichov to admins: Btw would I be able to yank Cutter out somewhere?
+L 11/06/2022 - 13:55:57: [ULX] CCA.C17-JUDGE.OfC.01993 to admins: sure, you guys find a way thorugh
+L 11/06/2022 - 13:56:01: [ULX] Ethan King<STEAM_0:1:17219621> used the tool item_item_crate on maps/rp_stateline_011c.bsp
+L 11/06/2022 - 13:56:04: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned vehicle models/ctvehicles/hla/prisoner_transport.mdl
+L 11/06/2022 - 13:56:05: "fuckus<23><STEAM_0:1:54861900><>" entered the game
+L 11/06/2022 - 13:56:06: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/06/2022 - 13:56:09: [ULX] Ethan King<STEAM_0:1:17219621> used the tool item_item_crate on maps/rp_stateline_011c.bsp
+L 11/06/2022 - 13:56:13: [ULX] Ethan King<STEAM_0:1:17219621> used the tool item_item_crate on maps/rp_stateline_011c.bsp
+L 11/06/2022 - 13:56:16: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned vehicle models/props_vehicles/apc001.mdl
+L 11/06/2022 - 13:56:16: [ULX] Daniel J. Cutter to admins: With the other rebels?
+L 11/06/2022 - 13:56:19: [ULX] CCA.C17-JUDGE.OfC.01993 to admins: yeah
+L 11/06/2022 - 13:56:21: [ULX] Ethan King<STEAM_0:1:17219621> used the tool item_ammo_crate on maps/rp_stateline_011c.bsp
+L 11/06/2022 - 13:56:23: [ULX] CCA.C17-JUDGE.OfC.01993 teleported to Daniel J. Cutter
+L 11/06/2022 - 13:56:30: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned vehicle models/blu/van/pw_van.mdl
+L 11/06/2022 - 13:56:34: "Sigmund_Valkrich<25><STEAM_0:1:115897813><>" connected, address "86.7.0.55:27005"
+L 11/06/2022 - 13:56:34: "Sigmund_Valkrich<25><STEAM_0:1:115897813><>" STEAM USERID validated
+L 11/06/2022 - 13:57:00: "Lynch<9><STEAM_0:1:626926779><>" entered the game
+L 11/06/2022 - 13:57:01: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/06/2022 - 13:57:08: "wendigo<20><STEAM_0:1:429480781><>" entered the game
+L 11/06/2022 - 13:57:09: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/06/2022 - 13:57:13: "Painevan<13><STEAM_0:0:68118061><>" entered the game
+L 11/06/2022 - 13:57:13: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/06/2022 - 13:57:17: "hendsonct<18><STEAM_0:0:533407499><>" entered the game
+L 11/06/2022 - 13:57:17: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/06/2022 - 13:57:20: [ULX] Ethan King<STEAM_0:1:17219621> used the tool item_ammo_crate on maps/rp_stateline_011c.bsp
+L 11/06/2022 - 13:57:21: [ULX] CCA.C17-JUDGE.OfC.01993 brought Tony Ricci
+L 11/06/2022 - 13:57:43: [ULX] Daniel J. Cutter to admins: Should I split between both cutter and alex in spots?
+L 11/06/2022 - 13:58:23: [ULX] CCA.C17-JUDGE.OfC.01993 transported Nathan Pierce to Daniel J. Cutter
+L 11/06/2022 - 13:58:29: [ULX] CCA.C17-JUDGE.OfC.01993 transported Ava Carter to Daniel J. Cutter
+L 11/06/2022 - 13:58:35: "Enclave<24><STEAM_0:0:34463192><>" entered the game
+L 11/06/2022 - 13:58:36: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/06/2022 - 13:58:49: Lua Error: [Helix] Attempt to index unknown item 'emptywatercan'
+
+L 11/06/2022 - 13:58:49: "Sigmund_Valkrich<25><STEAM_0:1:115897813><>" entered the game
+L 11/06/2022 - 13:58:49: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/06/2022 - 13:59:29: [ULX] CCA.C17-JUDGE.OfC.01993 brought CAC.C17-VORTIPODE.79316
+L 11/06/2022 - 14:00:05: [ULX] Daniel J. Cutter brought Alex V. Thamiel
+L 11/06/2022 - 14:00:23: [ULX] CCA.C17-JUDGE.OfC.01993 brought Alex V. Thamiel
+L 11/06/2022 - 14:00:33: [ULX] Daniel J. Cutter<STEAM_0:1:591779303> spawned vehicle models/blu/van/pw_van.mdl
+L 11/06/2022 - 14:00:38: [ULX] Daniel J. Cutter<STEAM_0:1:591779303> spawned vehicle models/blu/van/pw_van.mdl
+L 11/06/2022 - 14:01:02: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/schema/sv_hooks.lua:758: bad argument #1 to 'pairs' (table expected, got nil)
+  1. pairs - [C]:-1
+   2. unknown - gamemodes/ixhl2rp/schema/sv_hooks.lua:758
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:354
+     4. TakeDamageInfo - [C]:-1
+      5. unknown - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:235
+
+
+L 11/06/2022 - 14:01:03: Lua Error: 
+[ulib] gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212: table index is nil
+  1. GetBaseDT - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212
+   2. CalcDamage - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:300
+    3. fn - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:26
+     4. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+
+
+L 11/06/2022 - 14:01:03: Lua Error: 
+[ulib] gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212: table index is nil
+  1. GetBaseDT - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212
+   2. CalcDamage - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:300
+    3. fn - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:26
+     4. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+
+
+L 11/06/2022 - 14:01:03: Lua Error: 
+[ulib] gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212: table index is nil
+  1. GetBaseDT - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212
+   2. CalcDamage - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:300
+    3. fn - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:26
+     4. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+
+
+L 11/06/2022 - 14:01:03: Lua Error: 
+[ulib] gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212: table index is nil
+  1. GetBaseDT - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212
+   2. CalcDamage - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:300
+    3. fn - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:26
+     4. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+
+
+L 11/06/2022 - 14:01:03: Lua Error: 
+[ulib] gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212: table index is nil
+  1. GetBaseDT - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212
+   2. CalcDamage - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:300
+    3. fn - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:26
+     4. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+
+
+L 11/06/2022 - 14:01:03: Lua Error: 
+[ulib] gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212: table index is nil
+  1. GetBaseDT - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212
+   2. CalcDamage - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:300
+    3. fn - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:26
+     4. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+
+
+L 11/06/2022 - 14:01:06: Lua Error: 
+[ulib] gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212: table index is nil
+  1. GetBaseDT - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212
+   2. CalcDamage - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:300
+    3. fn - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:26
+     4. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+
+
+L 11/06/2022 - 14:01:15: [ULX] CCA.C17-JUDGE.OfC.01993 transported Alex V. Thamiel to Ava Carter
+L 11/06/2022 - 14:01:27: "Enclave<24><STEAM_0:0:34463192><>" disconnected (reason "Disconnect by user.")
+L 11/06/2022 - 14:01:41: "Sigmund_Valkrich<25><STEAM_0:1:115897813><>" disconnected (reason "Disconnect by user.")
+L 11/06/2022 - 14:01:52: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned vehicle models/ctvehicles/hla/prisoner_transport.mdl
+L 11/06/2022 - 14:02:01: [ULX] CCA.C17-JUDGE.OfC.01993 set the hp for Everyone to 100
+L 11/06/2022 - 14:02:15: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/schema/meta/sv_player.lua:142: attempt to index a nil value
+  1. unknown - gamemodes/ixhl2rp/schema/meta/sv_player.lua:142
+
+
+L 11/06/2022 - 14:03:10: "Enclave<26><STEAM_0:0:34463192><>" connected, address "75.248.18.54:27005"
+L 11/06/2022 - 14:03:10: "Enclave<26><STEAM_0:0:34463192><>" STEAM USERID validated
+L 11/06/2022 - 14:03:10: [ULX] Daniel J. Cutter<STEAM_0:1:591779303> spawned vehicle models/blu/van/pw_van.mdl
+L 11/06/2022 - 14:03:11: [ULX] Ava Carter<STEAM_0:1:429480781> spawned model models/props_junk/plasticcrate01a.mdl
+L 11/06/2022 - 14:03:12: [ULX] CCA.C17-JUDGE.OfC.01993 brought Nathan Pierce
+L 11/06/2022 - 14:03:29: [ULX] Daniel J. Cutter to admins: Sooo
+L 11/06/2022 - 14:03:31: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned vehicle models/props_vehicles/apc001.mdl
+L 11/06/2022 - 14:03:32: [ULX] Daniel J. Cutter to admins: how we gonna do this
+L 11/06/2022 - 14:03:36: [ULX] CCA.C17-JUDGE.OfC.01993 to admins: how do you mean
+L 11/06/2022 - 14:03:44: [ULX] Daniel J. Cutter to admins: Well how are we starting this
+L 11/06/2022 - 14:04:04: "hendsonct<18><STEAM_0:0:533407499><>" disconnected (reason "Disconnect by user.")
+L 11/06/2022 - 14:04:07: [ULX] CCA.C17-JUDGE.OfC.01993 to admins: we get into the city, i'll give orders ICly, but the cobmine si going to establish a home base
+L 11/06/2022 - 14:04:30: [ULX] CCA.C17-JUDGE.OfC.01993 to admins: we're not starting yet
+L 11/06/2022 - 14:04:33: [ULX] Daniel J. Cutter to admins: oh
+L 11/06/2022 - 14:04:39: [ULX] Daniel J. Cutter to admins: I was gonna start like scavenging
+L 11/06/2022 - 14:04:40: "Enclave<26><STEAM_0:0:34463192><>" entered the game
+L 11/06/2022 - 14:04:40: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/06/2022 - 14:04:46: [ULX] Daniel J. Cutter to admins: Bringing people around sorta searching
+L 11/06/2022 - 14:04:48: [ULX] Daniel J. Cutter to admins: but alrighty
+L 11/06/2022 - 14:05:31: [ULX] Daniel J. Cutter to admins: alrighty
+L 11/06/2022 - 14:05:34: [ULX] Daniel J. Cutter to admins: We're waiting here
+L 11/06/2022 - 14:06:03: [ULX] Daniel J. Cutter to admins: Do we just drive?
+L 11/06/2022 - 14:06:37: [ULX] CCA.C17-JUDGE.OfC.01993 to admins: yeah go, do what you would do in this kind of place
+L 11/06/2022 - 14:09:00: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned/gave himself swep weapon_simrepair
+L 11/06/2022 - 14:11:36: "mtlivo<27><STEAM_0:0:129032618><>" connected, address "76.167.74.180:27005"
+L 11/06/2022 - 14:11:36: "mtlivo<27><STEAM_0:0:129032618><>" STEAM USERID validated
+L 11/06/2022 - 14:11:37: "mtlivo<27><STEAM_0:0:129032618><>" disconnected (reason "Disconnect by user.")
+L 11/06/2022 - 14:12:08: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned model models/props_industrial/warehouse_shelf003.mdl
+L 11/06/2022 - 14:12:12: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned model models/props_industrial/warehouse_shelf004.mdl
+L 11/06/2022 - 14:12:18: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned model models/props_industrial/warehouse_shelf002.mdl
+L 11/06/2022 - 14:12:20: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned model models/props_industrial/warehouse_shelf001.mdl
+L 11/06/2022 - 14:12:26: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned model models/props_industrial/warehouse_shelf004.mdl
+L 11/06/2022 - 14:12:36: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned model models/props/cs_assault/forklift.mdl
+L 11/06/2022 - 14:12:39: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned model models/props/cs_assault/handtruck.mdl
+L 11/06/2022 - 14:12:48: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned model models/props/cs_assault/moneypallete.mdl
+L 11/06/2022 - 14:12:49: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned model models/props/cs_assault/moneypallete.mdl
+L 11/06/2022 - 14:12:50: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned model models/props/cs_assault/moneypallete.mdl
+L 11/06/2022 - 14:12:53: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned model models/props/cs_office/cardboard_box03.mdl
+L 11/06/2022 - 14:13:42: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned model models/props_vehicles/generatortrailer01.mdl
+L 11/06/2022 - 14:15:01: "Nums<15><STEAM_0:1:196547442><>" disconnected (reason "Disconnect by user.")
+L 11/06/2022 - 14:15:10: [ULX] CCA.C17-JUDGE.OfC.01993 set the hp for CAC.C17-VORTIPODE.79316 to 100
+L 11/06/2022 - 14:15:14: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/schema/meta/sv_player.lua:142: attempt to index a nil value
+  1. unknown - gamemodes/ixhl2rp/schema/meta/sv_player.lua:142
+
+
+L 11/06/2022 - 14:15:24: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned model models/props_wasteland/cargo_container01.mdl
+L 11/06/2022 - 14:15:25: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned model models/props_wasteland/cargo_container01b.mdl
+L 11/06/2022 - 14:15:46: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned model models/props_c17/oildrum001.mdl
+L 11/06/2022 - 14:15:48: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned model models/props_c17/oildrum001.mdl
+L 11/06/2022 - 14:15:49: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned model models/props_c17/oildrum001.mdl
+L 11/06/2022 - 14:15:56: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned model models/props_junk/wood_crate001a_damaged.mdl
+L 11/06/2022 - 14:15:57: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned model models/props_junk/wood_crate002a.mdl
+L 11/06/2022 - 14:16:02: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned model models/props_junk/wood_crate001a.mdl
+L 11/06/2022 - 14:16:27: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned model models/props_vehicles/car001a_hatchback.mdl
+L 11/06/2022 - 14:16:40: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned vehicle models/props_vehicles/apc001.mdl
+L 11/06/2022 - 14:16:48: [ULX] CCA.C17-JUDGE.OfC.01993 to admins: yeah that's totally fine
+L 11/06/2022 - 14:17:09: [ULX] CCA.C17-JUDGE.OfC.01993 brought CCA.C17-HELIX.i3.08874
+L 11/06/2022 - 14:17:36: [ULX] Ethan King<STEAM_0:1:17219621> used the tool item_item_crate on maps/rp_stateline_011c.bsp
+L 11/06/2022 - 14:17:41: [ULX] Ethan King<STEAM_0:1:17219621> used the tool item_item_crate on maps/rp_stateline_011c.bsp
+L 11/06/2022 - 14:17:52: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_storagecloset001a.mdl
+L 11/06/2022 - 14:17:53: [ULX] Ethan King<STEAM_0:1:17219621> used the tool item_item_crate on maps/rp_stateline_011c.bsp
+L 11/06/2022 - 14:18:01: [ULX] CCA.C17-JUDGE.OfC.01993 transported Ava Carter to Ethan King
+L 11/06/2022 - 14:18:06: [ULX] CCA.C17-JUDGE.OfC.01993 transported Alex V. Thamiel to Ethan King
+L 11/06/2022 - 14:18:19: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned sent ix_station_forge
+L 11/06/2022 - 14:18:25: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned sent ix_station_forge
+L 11/06/2022 - 14:18:27: [ULX] CCA.C17-GRID.i5.94233 to admins: Do I find anything in the APC to use for fortfications or is it empty
+L 11/06/2022 - 14:18:42: [ULX] CCA.C17-JUDGE.OfC.01993 to admins: you find an emplacement, some barricades and various other fortificationsd
+L 11/06/2022 - 14:20:09: "Highly Robust Clown<28><STEAM_0:1:45133768><>" connected, address "155.4.67.112:27005"
+L 11/06/2022 - 14:20:09: "Highly Robust Clown<28><STEAM_0:1:45133768><>" STEAM USERID validated
+L 11/06/2022 - 14:21:42: "[AU] wellallhell<29><STEAM_0:0:588595372><>" connected, address "38.103.200.187:27005"
+L 11/06/2022 - 14:21:42: "[AU] wellallhell<29><STEAM_0:0:588595372><>" STEAM USERID validated
+L 11/06/2022 - 14:21:47: "Highly Robust Clown<28><STEAM_0:1:45133768><>" entered the game
+L 11/06/2022 - 14:21:48: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/06/2022 - 14:22:36: [ULX] Jason Anders to admins: Am I meant to be here?
+L 11/06/2022 - 14:23:21: [ULX] Daniel J. Cutter to admins: can I steal this APC Lol?
+L 11/06/2022 - 14:23:29: [ULX] CCA.C17-JUDGE.OfC.01993 teleported to Daniel J. Cutter
+L 11/06/2022 - 14:23:36: [ULX] CCA.C17-JUDGE.OfC.01993 returned Themself to their original position
+L 11/06/2022 - 14:24:00: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned sent prop_physics
+L 11/06/2022 - 14:24:26: [ULX] CCA.C17-JUDGE.OfC.01993 brought Jason Anders
+L 11/06/2022 - 14:24:42: [ULX] CCA.C17-JUDGE.OfC.01993 teleported to Alex V. Thamiel
+L 11/06/2022 - 14:28:30: [ULX] CCA.C17-JUDGE.OfC.01993<STEAM_0:1:53097688> spawned sent ix_airvent
+L 11/06/2022 - 14:29:22: "Weaponized Turtles<4><STEAM_0:0:69165544><>" disconnected (reason "Weaponized Turtles timed out")
+L 11/06/2022 - 14:29:37: "Redux.<30><STEAM_0:1:631721350><>" connected, address "70.92.238.93:27005"
+L 11/06/2022 - 14:29:37: "Redux.<30><STEAM_0:1:631721350><>" STEAM USERID validated
+L 11/06/2022 - 14:29:42: [ULX] CCA.C17-GRID.i3.10945 teleported to CCA.C17-HELIX.i3.08874
+L 11/06/2022 - 14:30:00: "Weaponized Turtles<31><STEAM_0:0:69165544><>" connected, address "73.17.224.161:27005"
+L 11/06/2022 - 14:30:16: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/schema/meta/sv_player.lua:142: attempt to index a nil value
+  1. unknown - gamemodes/ixhl2rp/schema/meta/sv_player.lua:142
+
+
+L 11/06/2022 - 14:30:33: "Redux.<30><STEAM_0:1:631721350><>" disconnected (reason "Disconnect by user.")
+L 11/06/2022 - 14:31:14: "Weaponized Turtles<31><STEAM_0:0:69165544><>" STEAM USERID validated
+L 11/06/2022 - 14:31:41: "Redux.<32><STEAM_0:1:631721350><>" connected, address "70.92.238.93:27005"
+L 11/06/2022 - 14:31:41: "Redux.<32><STEAM_0:1:631721350><>" STEAM USERID validated
+L 11/06/2022 - 14:31:51: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/schema/sv_hooks.lua:771: bad argument #2 to 'sub' (number expected, got nil)
+  1. sub - [C]:-1
+   2. unknown - gamemodes/ixhl2rp/schema/sv_hooks.lua:771
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:354
+
+
+L 11/06/2022 - 14:32:02: "Weaponized Turtles<31><STEAM_0:0:69165544><>" entered the game
+L 11/06/2022 - 14:32:03: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/06/2022 - 14:32:43: [ULX] CCA.C17-GRID.i3.10945 gave Themself 145 rounds
+L 11/06/2022 - 14:32:49: [ULX] CCA.C17-GRID.i3.10945 gave PVT Nathan Pierce 230 rounds
+L 11/06/2022 - 14:33:47: [ULX] Jason Anders to admins: Going afk, please feel free to move me anywhere
+L 11/06/2022 - 14:34:13: [ULX] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool stacker_improved on models/props/cs_assault/forklift.mdl
+L 11/06/2022 - 14:34:13: [ULX] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned model models/props/cs_assault/forklift.mdl
+L 11/06/2022 - 14:34:14: [ULX] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool stacker_improved on models/props/cs_assault/forklift.mdl
+L 11/06/2022 - 14:35:28: [ULX] Kiff Sankase to admins: could someone help me please, I spawned under the map
+L 11/06/2022 - 14:35:34: [ULX] CCA.C17-GRID.i3.10945 teleported to Kiff Sankase
+L 11/06/2022 - 14:35:43: [ULX] CCA.C17-GRID.i3.10945 transported Kiff Sankase to Ava Carter
+L 11/06/2022 - 14:35:46: [ULX] CCA.C17-GRID.i3.10945 returned Themself to their original position
+L 11/06/2022 - 14:37:05: "astouffer085<33><STEAM_0:0:639614637><>" connected, address "50.234.109.231:27005"
+L 11/06/2022 - 14:37:06: "astouffer085<33><STEAM_0:0:639614637><>" STEAM USERID validated
+L 11/06/2022 - 14:39:35: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/schema/sv_hooks.lua:771: bad argument #2 to 'sub' (number expected, got nil)
+  1. sub - [C]:-1
+   2. unknown - gamemodes/ixhl2rp/schema/sv_hooks.lua:771
+    3. unknown - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:354
+
+
+L 11/06/2022 - 14:40:56: [ULX] CCA.C17-GRID.i3.10945 brought PVT Nathan Pierce
+L 11/06/2022 - 14:41:53: "Myoga The Flea<34><STEAM_0:0:52946002><>" connected, address "76.149.199.158:27005"
+L 11/06/2022 - 14:41:53: "Myoga The Flea<34><STEAM_0:0:52946002><>" STEAM USERID validated
+L 11/06/2022 - 14:46:51: "Myoga The Flea<34><STEAM_0:0:52946002><>" entered the game
+L 11/06/2022 - 14:46:51: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/06/2022 - 14:47:20: Lua Error: 
+[ulib] gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212: table index is nil
+  1. GetBaseDT - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212
+   2. CalcDamage - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:300
+    3. fn - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:26
+     4. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+
+
+L 11/06/2022 - 14:47:21: Lua Error: 
+[ulib] gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212: table index is nil
+  1. GetBaseDT - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212
+   2. CalcDamage - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:300
+    3. fn - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:26
+     4. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+
+
+L 11/06/2022 - 14:47:22: Lua Error: 
+[ulib] gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212: table index is nil
+  1. GetBaseDT - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212
+   2. CalcDamage - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:300
+    3. fn - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:26
+     4. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+
+
+L 11/06/2022 - 14:47:22: Lua Error: 
+[ulib] gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212: table index is nil
+  1. GetBaseDT - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212
+   2. CalcDamage - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:300
+    3. fn - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:26
+     4. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+
+
+L 11/06/2022 - 14:47:23: Lua Error: 
+[ulib] gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212: table index is nil
+  1. GetBaseDT - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212
+   2. CalcDamage - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:300
+    3. fn - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:26
+     4. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+
+
+L 11/06/2022 - 14:47:23: Lua Error: 
+[ulib] gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212: table index is nil
+  1. GetBaseDT - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212
+   2. CalcDamage - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:300
+    3. fn - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:26
+     4. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+
+
+L 11/06/2022 - 14:47:44: [ULX] Ethan King<STEAM_0:1:17219621> used the tool item_item_crate on maps/rp_stateline_011c.bsp
+L 11/06/2022 - 14:47:50: [ULX] Daniel J. Cutter<STEAM_0:1:591779303> spawned vehicle models/ctvehicles/hla/prisoner_transport.mdl
+L 11/06/2022 - 14:48:08: [ULX] Daniel J. Cutter<STEAM_0:1:591779303> spawned vehicle models/ctvehicles/hla/prisoner_transport.mdl
+L 11/06/2022 - 14:48:23: [ULX] CCA.C17-GRID.i3.10945 brought CCA.C17-GRID.i5.94233,CCA.C17-HELIX.i3.08874
+L 11/06/2022 - 14:48:29: [ULX] CCA.C17-GRID.i3.10945 brought PVT Nathan Pierce
+L 11/06/2022 - 14:48:39: "[AU] wellallhell<29><STEAM_0:0:588595372><>" entered the game
+L 11/06/2022 - 14:48:39: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/06/2022 - 14:49:30: [ULX] Ethan King<STEAM_0:1:17219621> used the tool item_item_crate on maps/rp_stateline_011c.bsp
+L 11/06/2022 - 14:49:32: [ULX] CCA.C17-GRID.i3.10945 transported Paul Krieg to Ava Carter
+L 11/06/2022 - 14:49:35: [ULX] CCA.C17-GRID.i3.10945 set the hp for Paul Krieg to 100
+L 11/06/2022 - 14:50:06: "Myoga The Flea<34><STEAM_0:0:52946002><>" disconnected (reason "Disconnect by user.")
+L 11/06/2022 - 14:50:23: "Redux.<32><STEAM_0:1:631721350><>" entered the game
+L 11/06/2022 - 14:50:23: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/06/2022 - 14:51:13: [ULX] CCA.C17-GRID.i3.10945 gave CCA.C17-HELIX.i3.08874 215 rounds
+L 11/06/2022 - 14:51:18: [ULX] CCA.C17-GRID.i3.10945 gave PVT Nathan Pierce 215 rounds
+L 11/06/2022 - 14:51:25: [ULX] CCA.C17-GRID.i3.10945 gave CCA.C17-GRID.i5.94233 72 rounds
+L 11/06/2022 - 14:51:46: [ULX] Jason Anders to admins: I'm back but stuck in here without any filter.
+L 11/06/2022 - 14:51:54: [ULX] CCA.C17-GRID.i3.10945 gave Themself,CCA.C17-HELIX.i3.08874 72 rounds
+L 11/06/2022 - 14:52:15: [ULX] CCA.C17-GRID.i3.10945 set the hp for Jason Anders to 100
+L 11/06/2022 - 14:52:31: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/schema/sv_hooks.lua:993: attempt to index a nil value
+  1. unknown - gamemodes/ixhl2rp/schema/sv_hooks.lua:993
+   2. Run - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:354
+    3. Send - gamemodes/helix/gamemode/core/libs/sh_chatbox.lua:344
+     4. OnRun - gamemodes/ixhl2rp/schema/sh_commands.lua:254
+      5. Run - gamemodes/helix/gamemode/core/libs/sh_command.lua:499
+       6. Parse - gamemodes/helix/gamemode/core/libs/sh_command.lua:561
+        7. Run - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:324
+         8. func - gamemodes/ixhl2rp/plugins/chatbox/sh_plugin.lua:235
+          9. unknown - lua/includes/extensions/net.lua:33
+
+
+L 11/06/2022 - 14:52:43: [ULX] CCA.C17-GRID.i3.10945 transported Jason Anders to CAC.C17-VORTIPODE.79316
+L 11/06/2022 - 14:53:24: [ULX] CCA.C17-GRID.i3.10945 to admins: bean can you please handle the new guy
+L 11/06/2022 - 14:55:03: [ULX] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned sent edit_fog
+L 11/06/2022 - 14:55:59: "NamRm<35><STEAM_0:0:69476140><>" connected, address "98.208.241.102:27005"
+L 11/06/2022 - 14:55:59: "NamRm<35><STEAM_0:0:69476140><>" STEAM USERID validated
+L 11/06/2022 - 14:56:51: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/schema/sv_hooks.lua:993: attempt to index a nil value
+  1. unknown - gamemodes/ixhl2rp/schema/sv_hooks.lua:993
+   2. Run - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:354
+    3. Send - gamemodes/helix/gamemode/core/libs/sh_chatbox.lua:344
+     4. OnRun - gamemodes/ixhl2rp/schema/sh_commands.lua:254
+      5. Run - gamemodes/helix/gamemode/core/libs/sh_command.lua:499
+       6. Parse - gamemodes/helix/gamemode/core/libs/sh_command.lua:561
+        7. Run - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:324
+         8. func - gamemodes/ixhl2rp/plugins/chatbox/sh_plugin.lua:235
+          9. unknown - lua/includes/extensions/net.lua:33
+
+
+L 11/06/2022 - 14:57:07: Lua Error: [Helix] Attempt to index unknown item 'ration'
+
+L 11/06/2022 - 14:57:07: "NamRm<35><STEAM_0:0:69476140><>" entered the game
+L 11/06/2022 - 14:57:07: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/06/2022 - 14:58:05: [ULX] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned sent edit_fog
+L 11/06/2022 - 14:58:05: [ULX] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> spawned sent edit_sky
+L 11/06/2022 - 14:58:07: [ULX] Daniel J. Cutter to admins: should I tp them to combine? Or leave em to search?
+L 11/06/2022 - 14:58:49: [ULX] CCA.C17-GRID.i3.10945 to admins: i'll birnmg em
+L 11/06/2022 - 14:59:00: [ULX] CCA.C17-GRID.i3.10945 brought CCA.C17-UNION.i2.07979
+L 11/06/2022 - 14:59:35: [ULX] CCA.C17-GRID.i3.10945<STEAM_0:1:53097688> used the tool mapret on maps/rp_stateline_011c.bsp
+L 11/06/2022 - 14:59:43: "Painevan<13><STEAM_0:0:68118061><>" disconnected (reason "Painevan timed out")
+L 11/06/2022 - 15:00:00: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/schema/meta/sv_player.lua:142: attempt to index a nil value
+  1. unknown - gamemodes/ixhl2rp/schema/meta/sv_player.lua:142
+
+
+L 11/06/2022 - 15:00:46: [ULX] Ethan King to admins: pretty sure the bunker doors are broken
+L 11/06/2022 - 15:01:21: [ULX] Ben Hedquist<STEAM_0:1:631721350> spawned/gave himself swep weapon_crowbarr
+L 11/06/2022 - 15:01:32: [ULX] Ben Hedquist<STEAM_0:1:631721350> spawned/gave himself swep weapon_9mmhandgun
+L 11/06/2022 - 15:04:02: [ULX] Ben Hedquist<STEAM_0:1:631721350> spawned/gave himself swep weapon_penguin
+L 11/06/2022 - 15:04:48: [ULX] CCA.C17-GRID.i3.10945 revoked access "ulx blind" to group trialmod
+L 11/06/2022 - 15:04:49: [ULX] CCA.C17-GRID.i3.10945 granted access "ulx hp" to group trialmod
+L 11/06/2022 - 15:04:57: [ULX] CCA.C17-GRID.i3.10945 granted access "ulx giveammo" to group trialmod
+L 11/06/2022 - 15:04:59: [ULX] CCA.C17-GRID.i3.10945 granted access "ulx armor" to group trialmod
+L 11/06/2022 - 15:05:06: [ULX] CCA.C17-GRID.i3.10945 to admins: done
+L 11/06/2022 - 15:05:14: [ULX] Daniel J. Cutter set the armor for Themself to 50
+L 11/06/2022 - 15:05:39: [ULX] Daniel J. Cutter set the armor for Themself to 50
+L 11/06/2022 - 15:06:13: [ULX] Ben Hedquist<STEAM_0:1:631721350> spawned/gave himself swep weapon_shotgun_hl
+L 11/06/2022 - 15:06:16: [ULX] Daniel J. Cutter set the armor for Themself to 100
+L 11/06/2022 - 15:06:27: [ULX] Daniel J. Cutter to admins: Idk if it worked...
+L 11/06/2022 - 15:06:37: "Painevan<36><STEAM_0:0:68118061><>" connected, address "174.206.233.39:4570"
+L 11/06/2022 - 15:06:37: "Painevan<36><STEAM_0:0:68118061><>" STEAM USERID validated
+L 11/06/2022 - 15:06:49: [ULX] CCA.C17-GRID.i3.10945 to admins: go into nocliop, it sohuld show
+L 11/06/2022 - 15:06:59: [ULX] Daniel J. Cutter to admins: I cant see myself
+L 11/06/2022 - 15:07:41: [ULX] CCA.C17-GRID.i3.10945 transported Alex V. Thamiel to Daniel J. Cutter
+L 11/06/2022 - 15:07:57: [ULX] Daniel J. Cutter to admins: So its ulx armor Daniel 100?
+L 11/06/2022 - 15:08:01: [ULX] Daniel J. Cutter to admins: I did 50
+L 11/06/2022 - 15:08:02: [ULX] CCA.C17-GRID.i3.10945 to admins: in the console
+L 11/06/2022 - 15:08:04: [ULX] CCA.C17-GRID.i3.10945 to admins: yes
+L 11/06/2022 - 15:08:09: [ULX] Daniel J. Cutter to admins: Strange
+L 11/06/2022 - 15:08:19: [ULX] Daniel J. Cutter set the armor for Themself to 100
+L 11/06/2022 - 15:08:26: "Redux.<32><STEAM_0:1:631721350><>" disconnected (reason "Disconnect by user.")
+L 11/06/2022 - 15:08:29: [ULX] Daniel J. Cutter to admins: did it work?
+L 11/06/2022 - 15:08:39: [ULX] CCA.C17-GRID.i3.10945 to admins: yeah
+L 11/06/2022 - 15:08:42: [ULX] Daniel J. Cutter to admins: Coolio
+L 11/06/2022 - 15:08:49: [ULX] Jason Anders to admins: Could I be lightly armored, I've just given myself a strange helmet. But I don't mind if its a no.
+L 11/06/2022 - 15:09:00: [ULX] CCA.C17-GRID.i3.10945 to admins: he can be armored, he's in a military base
+L 11/06/2022 - 15:10:22: [ULX] CCA.C17-GRID.i3.10945 added Alex V. Thamiel to group truegamer
+L 11/06/2022 - 15:11:28: "fuckus<23><STEAM_0:1:54861900><>" disconnected (reason "Disconnect by user.")
+L 11/06/2022 - 15:11:28: [ULX] Ethan King to admins: delete this guard thing, it's dumb
+L 11/06/2022 - 15:11:45: [ULX] CCA.C17-GRID.i3.10945 to admins: i'm not able to
+L 11/06/2022 - 15:11:54: [ULX] PVT Nathan Pierce to admins: Can I get my ammo back?
+L 11/06/2022 - 15:12:28: [ULX] CCA.C17-GRID.i3.10945 brought PVT Nathan Pierce
+L 11/06/2022 - 15:12:29: "Painevan<36><STEAM_0:0:68118061><>" entered the game
+L 11/06/2022 - 15:12:29: [ULX] CCA.C17-GRID.i3.10945 brought CCA.C17-UNION.i2.07979
+L 11/06/2022 - 15:12:29: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/06/2022 - 15:12:42: [ULX] Daniel J. Cutter to admins: We swapping maps?
+L 11/06/2022 - 15:12:47: [ULX] CCA.C17-GRID.i3.10945 to admins: i didn't expect this
+L 11/06/2022 - 15:12:47: [ULX] Daniel J. Cutter to admins: Rebels left to the city
+L 11/06/2022 - 15:13:06: [ULX] CCA.C17-GRID.i3.10945 to admins: they're going into the city? the city that's now autonomous
+L 11/06/2022 - 15:13:11: [ULX] CCA.C17-GRID.i3.10945 to admins: that city?
+L 11/06/2022 - 15:13:59: [ULX] Daniel J. Cutter to admins: We have to removed the barricades to pass through, thats the chance that the Combine have to attack
+L 11/06/2022 - 15:14:05: "Kerpele<37><STEAM_0:1:25647579><>" connected, address "89.27.58.25:27005"
+L 11/06/2022 - 15:14:05: "Kerpele<37><STEAM_0:1:25647579><>" STEAM USERID validated
+L 11/06/2022 - 15:14:20: [ULX] Jason Anders to admins: Someone, remove the barricade
+L 11/06/2022 - 15:14:24: [ULX] Jason Anders to admins: So we could push it out
+L 11/06/2022 - 15:14:42: [ULX] Jason Anders to admins: Just physc gun us over it
+L 11/06/2022 - 15:14:45: [ULX] CCA.C17-GRID.i3.10945 teleported to Jason Anders
+L 11/06/2022 - 15:14:57: [ULX] Daniel J. Cutter to admins: Alright, we'll go bkac on plan
+L 11/06/2022 - 15:15:02: [ULX] Daniel J. Cutter to admins: Since we realize there is no city
+L 11/06/2022 - 15:15:06: [ULX] CCA.C17-GRID.i3.10945 to admins: no worries
+L 11/06/2022 - 15:15:09: [ULX] Daniel J. Cutter to admins: oh
+L 11/06/2022 - 15:15:29: "[AU] wellallhell<29><STEAM_0:0:588595372><>" disconnected (reason "Disconnect by user.")
+L 11/06/2022 - 15:16:07: [ULX] CCA.C17-GRID.i3.10945 to admins: what's the plan behind going bakc to the city
+L 11/06/2022 - 15:16:32: [ULX] Daniel J. Cutter to admins: We are basically returning to the city in order to avoid and possible OTA coming here
+L 11/06/2022 - 15:16:35: [ULX] Ava Carter<STEAM_0:1:429480781> spawned model models/props_c17/oildrum001.mdl
+L 11/06/2022 - 15:16:46: [ULX] Ava Carter<STEAM_0:1:429480781> spawned model models/props_c17/oildrum001.mdl
+L 11/06/2022 - 15:16:51: [ULX] CCA.C17-GRID.i3.10945 to admins: the city is under autonomous judgement
+L 11/06/2022 - 15:16:55: [ULX] CCA.C17-GRID.i3.10945 to admins: it's swarming with OTA
+L 11/06/2022 - 15:19:41: [ULX] Ava Carter<STEAM_0:1:429480781> spawned model models/props_c17/oildrum001.mdl
+L 11/06/2022 - 15:20:06: "CpT. German Jew<38><STEAM_0:0:178492343><>" connected, address "5.59.171.65:36388"
+L 11/06/2022 - 15:20:06: "CpT. German Jew<38><STEAM_0:0:178492343><>" STEAM USERID validated
+L 11/06/2022 - 15:21:11: "Kerpele<37><STEAM_0:1:25647579><>" entered the game
+L 11/06/2022 - 15:21:11: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/06/2022 - 15:21:48: [ULX] CCA.C17-GRID.i3.10945 to admins: thank you please keep thme busy
+L 11/06/2022 - 15:21:53: [ULX] Daniel J. Cutter to admins: yep yep
+L 11/06/2022 - 15:22:00: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/plugins/bird/sh_hooks.lua:42: stack overflow
+  1. v - gamemodes/ixhl2rp/plugins/bird/sh_hooks.lua:42
+   2. Run - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+    3. Send - gamemodes/helix/gamemode/core/libs/sh_chatbox.lua:311
+     4. v - gamemodes/ixhl2rp/plugins/bird/sh_hooks.lua:53
+      5. Run - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+       6. Send - gamemodes/helix/gamemode/core/libs/sh_chatbox.lua:311
+        7. v - gamemodes/ixhl2rp/plugins/bird/sh_hooks.lua:53
+         8. Run - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+          9. Send - gamemodes/helix/gamemode/core/libs/sh_chatbox.lua:311
+           10. v - gamemodes/ixhl2rp/plugins/bird/sh_hooks.lua:53
+            11. Run - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+             12. Send - gamemodes/helix/gamemode/core/libs/sh_chatbox.lua:311
+              13. v - gamemodes/ixhl2rp/plugins/bird/sh_hooks.lua:53
+               14. Run - gamemodes/helix/gamemode/core/libs/sh_plugin.lua:345
+                15. Send - gameL 11/06/2022 - 15:22:19: "astouffer085<33><STEAM_0:0:639614637><>" disconnected (reason "Disconnect by user.")
+L 11/06/2022 - 15:23:06: "Global Defence Initiative<39><STEAM_0:0:49504081><>" connected, address "174.114.216.104:27005"
+L 11/06/2022 - 15:23:07: "Global Defence Initiative<39><STEAM_0:0:49504081><>" STEAM USERID validated
+L 11/06/2022 - 15:24:14: [ULX] CCA.C17-GRID.i3.10945 to admins: alright
+L 11/06/2022 - 15:24:20: [ULX] Ava Carter to admins: rolled 92 for container
+L 11/06/2022 - 15:24:25: [ULX] Ava Carter to admins: what do i get
+L 11/06/2022 - 15:24:27: [ULX] CCA.C17-GRID.i3.10945 to admins: we're gonna temporarily stay on outlands RP
+L 11/06/2022 - 15:24:32: [ULX] Daniel J. Cutter to admins: Sure
+L 11/06/2022 - 15:24:37: [ULX] CCA.C17-GRID.i3.10945 to admins: not forever but
+L 11/06/2022 - 15:24:42: [ULX] CCA.C17-GRID.i3.10945 to admins: for a little
+L 11/06/2022 - 15:24:45: [ULX] CCA.C17-GRID.i3.10945 to admins: you guys ready
+L 11/06/2022 - 15:24:52: [ULX] CCA.C17-GRID.i3.10945 to admins: i'm gonna make hte announcement
+L 11/06/2022 - 15:24:58: [ULX] Daniel J. Cutter to admins: Sure
+L 11/06/2022 - 15:25:18: [ULX] Ethan King to admins: 64 on rolling crates
+L 11/06/2022 - 15:25:43: "CpT. German Jew<38><STEAM_0:0:178492343><>" disconnected (reason "CpT. German Jew timed out")
+L 11/06/2022 - 15:25:51: Lua Error: [Helix] Attempt to index unknown item 'reclaimed_metal'
+
+L 11/06/2022 - 15:25:51: "Global Defence Initiative<39><STEAM_0:0:49504081><>" entered the game
+L 11/06/2022 - 15:25:52: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/06/2022 - 15:26:49: "Lildirtyharry04<40><STEAM_0:0:247487472><>" connected, address "152.37.143.67:27005"
+L 11/06/2022 - 15:26:49: "Lildirtyharry04<40><STEAM_0:0:247487472><>" STEAM USERID validated
+L 11/06/2022 - 15:28:10: "Lildirtyharry04<40><STEAM_0:0:247487472><>" entered the game
+L 11/06/2022 - 15:28:11: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/06/2022 - 15:28:29: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/entities/weapons/weapon_broom.lua:79: attempt to call method 'DrawViewModel' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/entities/weapons/weapon_broom.lua:79
+   2. ixGive - [C]:-1
+    3. Give - gamemodes/helix/gamemode/core/libs/sv_player.lua:106
+     4. Run - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:543
+      5. unknown - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:352
+       6. Spawn - [C]:-1
+        7. func - gamemodes/helix/gamemode/core/libs/sh_character.lua:921
+         8. unknown - lua/includes/extensions/net.lua:33
+
+
+L 11/06/2022 - 15:28:29: Lua Error: 
+[ERROR] gamemodes/ixhl2rp/entities/weapons/weapon_broom.lua:79: attempt to call method 'DrawViewModel' (a nil value)
+  1. unknown - gamemodes/ixhl2rp/entities/weapons/weapon_broom.lua:79
+   2. ixGive - [C]:-1
+    3. Give - gamemodes/helix/gamemode/core/libs/sv_player.lua:106
+     4. Run - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:543
+      5. Run - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:301
+       6. func - gamemodes/helix/gamemode/core/libs/sh_character.lua:923
+        7. unknown - lua/includes/extensions/net.lua:33
+
+
+L 11/06/2022 - 15:28:47: Lua Error: 
+[ulib] gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212: table index is nil
+  1. GetBaseDT - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212
+   2. CalcDamage - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:300
+    3. fn - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:26
+     4. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+      5. TakeDamageInfo - [C]:-1
+       6. unknown - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:235
+
+
+L 11/06/2022 - 15:29:01: [ULX] CAC.C17-CREMATOR.03313<STEAM_0:0:178302901> spawned/gave himself swep weapon_vfirethrower
+L 11/06/2022 - 15:29:01: [ULX] Lin'Garung to admins: Anyone got a second to give me that nice good ol'vortessence
+L 11/06/2022 - 15:29:21: [ULX] Ethan King<STEAM_0:1:17219621> used the tool item_item_crate on maps/rp_stateline_011c.bsp
+L 11/06/2022 - 15:29:26: [ULX] Ethan King<STEAM_0:1:17219621> used the tool item_ammo_crate on maps/rp_stateline_011c.bsp
+L 11/06/2022 - 15:29:27: [ULX] Ethan King<STEAM_0:1:17219621> used the tool item_ammo_crate on maps/rp_stateline_011c.bsp
+L 11/06/2022 - 15:29:31: [ULX] Ethan King<STEAM_0:1:17219621> used the tool item_ammo_crate on maps/rp_stateline_011c.bsp
+L 11/06/2022 - 15:29:31: [ULX] Ethan King<STEAM_0:1:17219621> used the tool item_ammo_crate on maps/rp_stateline_011c.bsp
+L 11/06/2022 - 15:29:36: Lua Error: 
+[ulib] gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212: table index is nil
+  1. GetBaseDT - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212
+   2. CalcDamage - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:300
+    3. fn - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:26
+     4. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+      5. TakeDamageInfo - [C]:-1
+       6. unknown - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:235
+
+
+L 11/06/2022 - 15:29:36: Lua Error: 
+[ulib] gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212: table index is nil
+  1. GetBaseDT - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212
+   2. CalcDamage - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:300
+    3. fn - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:26
+     4. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+      5. TakeDamageInfo - [C]:-1
+       6. unknown - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:235
+
+
+L 11/06/2022 - 15:29:39: [ULX] Ava Carter<STEAM_0:1:429480781> spawned model models/props_c17/oildrum001.mdl
+L 11/06/2022 - 15:29:59: [ULX] CAC.C17-CREMATOR.03313<STEAM_0:0:178302901> spawned/gave himself swep weapon_vfirethrower
+L 11/06/2022 - 15:30:00: [ULX] CAC.C17-CREMATOR.03313<STEAM_0:0:178302901> spawned/gave himself swep weapon_vfiretimmolator
+L 11/06/2022 - 15:30:16: [ULX] Jason Anders to admins: Who is ava carter and why did they just throw a barrel at a vehicle with a physc gun
+L 11/06/2022 - 15:30:32: Lua Error: 
+[ulib] gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212: table index is nil
+  1. GetBaseDT - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212
+   2. CalcDamage - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:300
+    3. fn - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:26
+     4. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+
+
+L 11/06/2022 - 15:30:48: Lua Error: 
+[ulib] gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212: table index is nil
+  1. GetBaseDT - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212
+   2. CalcDamage - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:300
+    3. fn - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:26
+     4. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+
+
+L 11/06/2022 - 15:30:57: "Lildirtyharry04<40><STEAM_0:0:247487472><>" disconnected (reason "Disconnect by user.")
+L 11/06/2022 - 15:31:01: Lua Error: 
+[ulib] gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212: table index is nil
+  1. GetBaseDT - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212
+   2. CalcDamage - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:300
+    3. fn - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:26
+     4. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+
+
+L 11/06/2022 - 15:31:10: Lua Error: 
+[ulib] gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212: table index is nil
+  1. GetBaseDT - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212
+   2. CalcDamage - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:300
+    3. fn - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:26
+     4. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+
+
+L 11/06/2022 - 15:31:41: Lua Error: 
+[ulib] gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212: table index is nil
+  1. GetBaseDT - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212
+   2. CalcDamage - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:300
+    3. fn - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:26
+     4. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+      5. TakeDamageInfo - [C]:-1
+       6. unknown - gamemodes/helix/gamemode/core/hooks/sv_hooks.lua:235
+
+
+L 11/06/2022 - 15:32:20: Lua Error: 
+[ulib] gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212: table index is nil
+  1. GetBaseDT - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212
+   2. CalcDamage - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:300
+    3. fn - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:26
+     4. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+
+
+L 11/06/2022 - 15:32:20: Lua Error: 
+[ulib] gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212: table index is nil
+  1. GetBaseDT - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212
+   2. CalcDamage - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:300
+    3. fn - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:26
+     4. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+
+
+L 11/06/2022 - 15:32:45: Lua Error: 
+[ulib] gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212: table index is nil
+  1. GetBaseDT - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212
+   2. CalcDamage - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:300
+    3. fn - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:26
+     4. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+      5. DispatchTraceAttack - [C]:-1
+       6. unknown - gamemodes/helix/entities/weapons/ix_hands.lua:433
+
+
+L 11/06/2022 - 15:32:46: Lua Error: 
+[ulib] gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212: table index is nil
+  1. GetBaseDT - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212
+   2. CalcDamage - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:300
+    3. fn - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:26
+     4. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+      5. DispatchTraceAttack - [C]:-1
+       6. unknown - gamemodes/helix/entities/weapons/ix_hands.lua:433
+
+
+L 11/06/2022 - 15:32:47: Lua Error: 
+[ulib] gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212: table index is nil
+  1. GetBaseDT - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212
+   2. CalcDamage - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:300
+    3. fn - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:26
+     4. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+      5. DispatchTraceAttack - [C]:-1
+       6. unknown - gamemodes/helix/entities/weapons/ix_hands.lua:433
+
+
+L 11/06/2022 - 15:32:48: Lua Error: 
+[ulib] gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212: table index is nil
+  1. GetBaseDT - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212
+   2. CalcDamage - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:300
+    3. fn - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:26
+     4. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+      5. DispatchTraceAttack - [C]:-1
+       6. unknown - gamemodes/helix/entities/weapons/ix_hands.lua:433
+
+
+L 11/06/2022 - 15:32:48: Lua Error: 
+[ulib] gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212: table index is nil
+  1. GetBaseDT - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212
+   2. CalcDamage - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:300
+    3. fn - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:26
+     4. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+      5. DispatchTraceAttack - [C]:-1
+       6. unknown - gamemodes/helix/entities/weapons/ix_hands.lua:433
+
+
+L 11/06/2022 - 15:32:49: Lua Error: 
+[ulib] gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212: table index is nil
+  1. GetBaseDT - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212
+   2. CalcDamage - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:300
+    3. fn - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:26
+     4. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+      5. DispatchTraceAttack - [C]:-1
+       6. unknown - gamemodes/helix/entities/weapons/ix_hands.lua:433
+
+
+L 11/06/2022 - 15:32:50: Lua Error: 
+[ulib] gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212: table index is nil
+  1. GetBaseDT - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212
+   2. CalcDamage - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:300
+    3. fn - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:26
+     4. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+      5. DispatchTraceAttack - [C]:-1
+       6. unknown - gamemodes/helix/entities/weapons/ix_hands.lua:433
+
+
+L 11/06/2022 - 15:32:51: Lua Error: 
+[ulib] gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212: table index is nil
+  1. GetBaseDT - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212
+   2. CalcDamage - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:300
+    3. fn - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:26
+     4. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+      5. DispatchTraceAttack - [C]:-1
+       6. unknown - gamemodes/helix/entities/weapons/ix_hands.lua:433
+
+
+L 11/06/2022 - 15:32:52: Lua Error: 
+[ulib] gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212: table index is nil
+  1. GetBaseDT - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212
+   2. CalcDamage - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:300
+    3. fn - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:26
+     4. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+      5. DispatchTraceAttack - [C]:-1
+       6. unknown - gamemodes/helix/entities/weapons/ix_hands.lua:433
+
+
+L 11/06/2022 - 15:32:53: Lua Error: 
+[ulib] gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212: table index is nil
+  1. GetBaseDT - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212
+   2. CalcDamage - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:300
+    3. fn - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:26
+     4. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+      5. DispatchTraceAttack - [C]:-1
+       6. unknown - gamemodes/helix/entities/weapons/ix_hands.lua:433
+
+
+L 11/06/2022 - 15:32:54: Lua Error: 
+[ulib] gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212: table index is nil
+  1. GetBaseDT - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212
+   2. CalcDamage - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:300
+    3. fn - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:26
+     4. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+      5. DispatchTraceAttack - [C]:-1
+       6. unknown - gamemodes/helix/entities/weapons/ix_hands.lua:433
+
+
+L 11/06/2022 - 15:32:54: Lua Error: 
+[ulib] gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212: table index is nil
+  1. GetBaseDT - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212
+   2. CalcDamage - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:300
+    3. fn - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:26
+     4. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+      5. DispatchTraceAttack - [C]:-1
+       6. unknown - gamemodes/helix/entities/weapons/ix_hands.lua:433
+
+
+L 11/06/2022 - 15:32:55: Lua Error: 
+[ulib] gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212: table index is nil
+  1. GetBaseDT - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212
+   2. CalcDamage - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:300
+    3. fn - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:26
+     4. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+      5. DispatchTraceAttack - [C]:-1
+       6. unknown - gamemodes/helix/entities/weapons/ix_hands.lua:433
+
+
+L 11/06/2022 - 15:32:56: Lua Error: 
+[ulib] gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212: table index is nil
+  1. GetBaseDT - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212
+   2. CalcDamage - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:300
+    3. fn - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:26
+     4. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+      5. DispatchTraceAttack - [C]:-1
+       6. unknown - gamemodes/helix/entities/weapons/ix_hands.lua:433
+
+
+L 11/06/2022 - 15:32:57: Lua Error: 
+[ulib] gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212: table index is nil
+  1. GetBaseDT - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212
+   2. CalcDamage - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:300
+    3. fn - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:26
+     4. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+      5. DispatchTraceAttack - [C]:-1
+       6. unknown - gamemodes/helix/entities/weapons/ix_hands.lua:433
+
+
+L 11/06/2022 - 15:32:58: Lua Error: 
+[ulib] gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212: table index is nil
+  1. GetBaseDT - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212
+   2. CalcDamage - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:300
+    3. fn - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:26
+     4. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+      5. DispatchTraceAttack - [C]:-1
+       6. unknown - gamemodes/helix/entities/weapons/ix_hands.lua:433
+
+
+L 11/06/2022 - 15:32:58: Lua Error: 
+[ulib] gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212: table index is nil
+  1. GetBaseDT - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212
+   2. CalcDamage - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:300
+    3. fn - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:26
+     4. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+      5. DispatchTraceAttack - [C]:-1
+       6. unknown - gamemodes/helix/entities/weapons/ix_hands.lua:433
+
+
+L 11/06/2022 - 15:32:59: Lua Error: 
+[ulib] gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212: table index is nil
+  1. GetBaseDT - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212
+   2. CalcDamage - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:300
+    3. fn - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:26
+     4. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+      5. DispatchTraceAttack - [C]:-1
+       6. unknown - gamemodes/helix/entities/weapons/ix_hands.lua:433
+
+
+L 11/06/2022 - 15:34:13: "Kerpele<37><STEAM_0:1:25647579><>" disconnected (reason "Disconnect by user.")
+L 11/06/2022 - 15:34:17: Lua Error: 
+[ulib] gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212: table index is nil
+  1. GetBaseDT - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212
+   2. CalcDamage - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:300
+    3. fn - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:26
+     4. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+
+
+L 11/06/2022 - 15:35:54: "wendigo<20><STEAM_0:1:429480781><>" disconnected (reason "Disconnect by user.")
+L 11/06/2022 - 15:36:18: Lua Error: 
+[ulib] gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212: table index is nil
+  1. GetBaseDT - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:212
+   2. CalcDamage - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:300
+    3. fn - gamemodes/ixhl2rp/schema/libs/sh_rpdamage.lua:26
+     4. unknown - addons/ulib/lua/ulib/shared/hook.lua:109
+
+
+L 11/06/2022 - 15:36:31: Log file closed.

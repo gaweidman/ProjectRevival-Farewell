@@ -1,0 +1,1254 @@
+[02:33:37] New map: rp_city17_build210
+[10:42:51] Client "matt saton" connected.
+[10:46:01] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 190 seconds).
+[10:47:50] matt saton<STEAM_0:1:53097688> changed their name to Ryan Marnett
+[10:49:28] Ryan Marnett<STEAM_0:1:53097688> used the tool textscreen on maps/rp_city17_build210.bsp
+[10:49:30] Ryan Marnett<STEAM_0:1:53097688> used the tool textscreen on maps/rp_city17_build210.bsp
+[10:49:36] Ryan Marnett<STEAM_0:1:53097688> used the tool textscreen on maps/rp_city17_build210.bsp
+[10:49:39] Ryan Marnett<STEAM_0:1:53097688> used the tool textscreen on maps/rp_city17_build210.bsp
+[10:50:08] Ryan Marnett<STEAM_0:1:53097688> used the tool textscreen on maps/rp_city17_build210.bsp
+[10:50:37] Ryan Marnett<STEAM_0:1:53097688> used the tool textscreen on maps/rp_city17_build210.bsp
+[10:51:29] Ryan Marnett<STEAM_0:1:53097688> used the tool textscreen on maps/rp_city17_build210.bsp
+[10:52:10] Ryan Marnett<STEAM_0:1:53097688> used the tool textscreen on maps/rp_city17_build210.bsp
+[10:52:12] Ryan Marnett<STEAM_0:1:53097688> used the tool textscreen on maps/rp_city17_build210.bsp
+[10:53:15] Ryan Marnett<STEAM_0:1:53097688> changed their name to CCA.C17-GRID.i3.69192
+[10:54:33] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortification/combinegatelittle.mdl
+[10:54:37] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortification/combinecheckpointlittle.mdl
+[10:54:39] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortification/combinevehiculegate.mdl
+[10:54:47] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortification/combinewallv2.mdl
+[10:54:53] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortification/combinebunkerroof1.mdl
+[10:54:57] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortifictaionpack/camerabase.mdl
+[10:54:58] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortifictaionpack/cbgate02a.mdl
+[10:54:59] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortifictaionpack/cbwallplate.mdl
+[10:55:03] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combineinteriorpack/cmbcheckpoint.mdl
+[10:55:14] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortifictaionpack/pillard01a.mdl
+[10:55:15] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortifictaionpack/combineweaponrack01a.mdl
+[10:55:39] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortification/combinehouse.mdl
+[10:55:42] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortifictaionpack/cbgate01a.mdl
+[10:55:46] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortifictaionpack/camerabase.mdl
+[10:55:47] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combineinteriorpack/cmbarmory02a.mdl
+[10:55:53] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortifictaionpack/combinelocker01a.mdl
+[10:56:01] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortification/personalbarricade.mdl
+[10:56:09] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortifictaionpack/cbwallplate.mdl
+[10:56:12] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortifictaionpack/combinelocker01a.mdl
+[10:56:13] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortifictaionpack/cbwallplate02b.mdl
+[10:56:17] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortifictaionpack/combinelocker01a.mdl
+[10:56:26] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool nocollideeverything on maps/rp_city17_build210.bsp
+[10:56:26] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool nocollideeverything on models/combinefortifictaionpack/combinelocker01a.mdl
+[10:56:36] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool stacker_improved on models/combinefortifictaionpack/combinelocker01a.mdl
+[10:56:36] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortifictaionpack/combinelocker01a.mdl
+[10:56:40] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool stacker_improved on models/combinefortifictaionpack/combinelocker01a.mdl
+[10:56:40] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortifictaionpack/combinelocker01a.mdl
+[10:57:09] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortifictaionpack/cbwallplate.mdl
+[10:57:13] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool nocollideeverything on models/combinefortifictaionpack/cbwallplate.mdl
+[10:57:35] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_combine/combine_barricade_short02a.mdl
+[10:57:46] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_combine/combine_barricade_short02a.mdl
+[10:58:07] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_combine/combine_barricade_short02a.mdl
+[10:58:10] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_combine/combine_barricade_short01a.mdl
+[10:58:15] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_combine/combine_barricade_short01a.mdl
+[10:58:22] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_combine/combine_barricade_short01a.mdl
+[10:58:24] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_combine/combine_barricade_short03a.mdl
+[11:00:21] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city17_build210.bsp
+[11:00:21] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/combine_barricade_short01a.mdl
+[11:00:22] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/combine_barricade_short01a.mdl
+[11:00:49] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortification/combinescreen1.mdl
+[11:00:51] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortification/combinewallv2.mdl
+[11:00:52] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortification/personalbarricade.mdl
+[11:01:14] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combine_apc.mdl
+[11:02:20] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on models/combine_apc.mdl
+[11:02:23] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/combine_barricade_short03a.mdl
+[11:02:23] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city17_build210.bsp
+[11:02:25] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on models/combinefortification/personalbarricade.mdl
+[11:03:51] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/cmb-bio-computer/cmb-bio-computer.mdl
+[11:03:56] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on models/cmb-bio-computer/cmb-bio-computer.mdl
+[11:04:03] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortification/personalbarricade.mdl
+[11:04:38] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on models/combinefortification/personalbarricade.mdl
+[11:04:49] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortification/personalbarricade.mdl
+[11:06:03] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on models/combinefortification/personalbarricade.mdl
+[11:06:11] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortifictaionpack/cbwallplate01b.mdl
+[11:06:15] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortifictaionpack/cbwallplate01b.mdl
+[11:06:18] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortifictaionpack/pillard01a.mdl
+[11:06:25] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city17_build210.bsp
+[11:06:39] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned/gave himself swep weapon_smg1
+[11:06:39] CCA.C17-GRID.i3.69192: /toggleraise
+[11:07:04] CCA.C17-GRID.i3.69192 gave Themself 9999 rounds
+[11:07:04] CCA.C17-GRID.i3.69192: !giveammo ^ 9999
+[11:08:44] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on models/combinefortification/personalbarricade.mdl
+[11:09:29] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortification/combinebunkerpillard1.mdl
+[11:09:31] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortification/combinebunkerpillard1.mdl
+[11:10:11] CCA.C17-GRID.i3.69192 extinguished all 6 fires.
+[11:10:11] CCA.C17-GRID.i3.69192: !vextinguishall
+[11:10:53] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combineinteriorpack/cmbcheckpoint.mdl
+[11:11:06] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool nocollideeverything on models/combineinteriorpack/cmbcheckpoint.mdl
+[11:11:24] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combineinteriorpack/cmbcheckpoint.mdl
+[11:11:29] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combineinteriorpack/cmbcheckpoint.mdl
+[11:11:29] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combineinteriorpack/cmbcheckpoint.mdl
+[11:11:29] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combineinteriorpack/cmbcheckpoint.mdl
+[11:11:29] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combineinteriorpack/cmbcheckpoint.mdl
+[11:11:30] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combineinteriorpack/cmbcheckpoint.mdl
+[11:11:30] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combineinteriorpack/cmbcheckpoint.mdl
+[11:11:30] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combineinteriorpack/cmbcheckpoint.mdl
+[11:11:30] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combineinteriorpack/cmbcheckpoint.mdl
+[11:11:30] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combineinteriorpack/cmbcheckpoint.mdl
+[11:11:31] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combineinteriorpack/cmbcheckpoint.mdl
+[11:11:31] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combineinteriorpack/cmbcheckpoint.mdl
+[11:11:31] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combineinteriorpack/cmbcheckpoint.mdl
+[11:11:31] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combineinteriorpack/cmbcheckpoint.mdl
+[11:11:32] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combineinteriorpack/cmbcheckpoint.mdl
+[11:11:32] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combineinteriorpack/cmbcheckpoint.mdl
+[11:11:32] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combineinteriorpack/cmbcheckpoint.mdl
+[11:11:32] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combineinteriorpack/cmbcheckpoint.mdl
+[11:11:33] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combineinteriorpack/cmbcheckpoint.mdl
+[11:11:33] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combineinteriorpack/cmbcheckpoint.mdl
+[11:11:33] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combineinteriorpack/cmbcheckpoint.mdl
+[11:11:33] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combineinteriorpack/cmbcheckpoint.mdl
+[11:11:33] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combineinteriorpack/cmbcheckpoint.mdl
+[11:11:34] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combineinteriorpack/cmbcheckpoint.mdl
+[11:11:35] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combineinteriorpack/cmbcheckpoint.mdl
+[11:11:35] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combineinteriorpack/cmbcheckpoint.mdl
+[11:11:35] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combineinteriorpack/cmbcheckpoint.mdl
+[11:11:35] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combineinteriorpack/cmbcheckpoint.mdl
+[11:11:36] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combineinteriorpack/cmbcheckpoint.mdl
+[11:11:36] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combineinteriorpack/cmbcheckpoint.mdl
+[11:11:36] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combineinteriorpack/cmbcheckpoint.mdl
+[11:11:36] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combineinteriorpack/cmbcheckpoint.mdl
+[11:11:36] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combineinteriorpack/cmbcheckpoint.mdl
+[11:11:36] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combineinteriorpack/cmbcheckpoint.mdl
+[11:11:37] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combineinteriorpack/cmbcheckpoint.mdl
+[11:11:37] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combineinteriorpack/cmbcheckpoint.mdl
+[11:11:37] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combineinteriorpack/cmbcheckpoint.mdl
+[11:11:37] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combineinteriorpack/cmbcheckpoint.mdl
+[11:11:37] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combineinteriorpack/cmbcheckpoint.mdl
+[11:11:38] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combineinteriorpack/cmbcheckpoint.mdl
+[11:11:38] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combineinteriorpack/cmbcheckpoint.mdl
+[11:11:38] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combineinteriorpack/cmbcheckpoint.mdl
+[11:11:38] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combineinteriorpack/cmbcheckpoint.mdl
+[11:11:39] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combineinteriorpack/cmbcheckpoint.mdl
+[11:11:39] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combineinteriorpack/cmbcheckpoint.mdl
+[11:11:39] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combineinteriorpack/cmbcheckpoint.mdl
+[11:11:40] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combineinteriorpack/cmbcheckpoint.mdl
+[11:11:40] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combineinteriorpack/cmbcheckpoint.mdl
+[11:11:41] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combineinteriorpack/cmbcheckpoint.mdl
+[11:11:42] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combineinteriorpack/cmbcheckpoint.mdl
+[11:11:59] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combineinteriorpack/cmbcheckpoint.mdl
+[11:12:05] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combineinteriorpack/cmbcheckpoint.mdl
+[11:12:06] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combineinteriorpack/cmbcheckpoint.mdl
+[11:12:06] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combineinteriorpack/cmbcheckpoint.mdl
+[11:12:06] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combineinteriorpack/cmbcheckpoint.mdl
+[11:12:07] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combineinteriorpack/cmbcheckpoint.mdl
+[11:12:47] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combineinteriorpack/cmbcheckpoint.mdl
+[11:12:47] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combineinteriorpack/cmbcheckpoint.mdl
+[11:12:47] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combineinteriorpack/cmbcheckpoint.mdl
+[11:12:47] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combineinteriorpack/cmbcheckpoint.mdl
+[11:12:48] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combineinteriorpack/cmbcheckpoint.mdl
+[11:12:48] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combineinteriorpack/cmbcheckpoint.mdl
+[11:12:48] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combineinteriorpack/cmbcheckpoint.mdl
+[11:12:48] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combineinteriorpack/cmbcheckpoint.mdl
+[11:12:48] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combineinteriorpack/cmbcheckpoint.mdl
+[11:12:48] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combineinteriorpack/cmbcheckpoint.mdl
+[11:12:49] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combineinteriorpack/cmbcheckpoint.mdl
+[11:12:49] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combineinteriorpack/cmbcheckpoint.mdl
+[11:12:49] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on models/combineinteriorpack/cmbcheckpoint.mdl
+[11:12:49] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool precision on maps/rp_city17_build210.bsp
+[11:13:14] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combineinteriorpack/cmbarmory02a.mdl
+[11:13:16] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortification/combinewallv2.mdl
+[11:13:33] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortification/combinebunkerfront1.mdl
+[11:13:34] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortification/combinebunkerbothside1.mdl
+[11:15:31] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combineinteriorpack/ctrlrm_north_field.mdl
+[11:15:35] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combineinteriorpack/ctrlrm_north_field.mdl
+[11:15:38] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combineinteriorpack/pillard03a.mdl
+[11:15:42] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combineinteriorpack/pillard04a.mdl
+[11:15:46] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortifictaionpack/combineheavygate01a.mdl
+[11:15:52] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortification/combinebunkerroof1.mdl
+[11:15:54] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortification/combinebunkerbothside1.mdl
+[11:15:55] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortification/combinebunkerfront1.mdl
+[11:16:13] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortification/combinebunkerpillard1.mdl
+[11:16:26] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortifictaionpack/combinelocker01a.mdl
+[11:16:28] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortification/combinecheckpointlittle.mdl
+[11:16:30] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortification/combinecheckpointlittle.mdl
+[11:16:34] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool nocollideeverything on models/combinefortification/combinecheckpointlittle.mdl
+[11:17:36] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortifictaionpack/shield01.mdl
+[11:17:38] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortifictaionpack/shield01b.mdl
+[11:17:40] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortifictaionpack/shield02b.mdl
+[11:28:41] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortification/combinebunkergate1.mdl
+[11:28:45] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortification/combineguardcontrol.mdl
+[11:28:46] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/combinefortification/combinebunkerbothside1.mdl
+[11:29:21] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/gibs/helicopter_brokenpiece_05_tailfan.mdl
+[11:29:29] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned ragdoll models/combine_scanner.mdl
+[11:30:14] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/roller_vehicledriver.mdl
+[11:30:15] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/roller.mdl
+[11:30:17] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/roller_vehicledriver.mdl
+[11:30:22] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/roller_vehicledriver.mdl
+[11:30:27] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned ragdoll models/gunship.mdl
+[11:30:30] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned effect models/ichthyosaur.mdl
+[11:31:10] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned effect models/airboatgun.mdl
+[11:31:20] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned ragdoll models/breen.mdl
+[11:31:23] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned effect models/breen_monitor.mdl
+[11:31:33] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned ragdoll models/eli.mdl
+[11:31:35] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned ragdoll models/gman_high.mdl
+[11:31:41] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned ragdoll models/gman.mdl
+[11:31:43] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned ragdoll models/gman_high.mdl
+[11:32:18] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned ragdoll models/gman.mdl
+[11:32:19] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned ragdoll models/gman_high.mdl
+[11:32:56] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on models/combine_scanner.mdl
+[11:33:08] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city17_build210.bsp
+[11:33:16] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned/gave himself swep weapon_frag
+[11:33:17] CCA.C17-GRID.i3.69192: /toggleraise
+[11:33:21] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned/gave himself swep weapon_frag
+[11:33:22] CCA.C17-GRID.i3.69192: /toggleraise
+[11:33:28] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned/gave himself swep weapon_frag
+[11:33:28] CCA.C17-GRID.i3.69192: /toggleraise
+[11:34:24] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city17_build210.bsp
+[11:35:02] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned ragdoll models/humans/charple03.mdl
+[11:35:03] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned ragdoll models/humans/charple02.mdl
+[11:35:04] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on models/humans/charple02.mdl
+[11:35:06] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned ragdoll models/humans/charple02.mdl
+[11:35:19] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned ragdoll models/humans/charple01.mdl
+[11:35:26] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned ragdoll models/humans/charple04.mdl
+[11:35:27] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned ragdoll models/humans/charple04.mdl
+[11:35:38] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned ragdoll models/humans/charple02.mdl
+[11:36:01] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned ragdoll models/humans/charple04.mdl
+[11:36:07] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned ragdoll models/humans/charple03.mdl
+[11:36:53] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned ragdoll models/humans/charple03.mdl
+[11:37:06] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned ragdoll models/humans/charple01.mdl
+[11:37:16] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on models/humans/charple03.mdl
+[11:37:17] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on models/humans/charple01.mdl
+[11:37:18] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on models/humans/charple04.mdl
+[11:37:19] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on models/humans/charple03.mdl
+[11:37:20] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city17_build210.bsp
+[11:37:22] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on models/humans/charple01.mdl
+[11:37:22] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on models/humans/charple02.mdl
+[11:37:23] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on models/humans/charple02.mdl
+[11:37:27] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city17_build210.bsp
+[11:37:35] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city17_build210.bsp
+[11:39:13] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned ragdoll models/humans/group01/female_06.mdl
+[11:39:35] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_c17/oildrum001.mdl
+[11:39:38] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_junk/plasticcrate01a.mdl
+[11:39:46] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_junk/plasticcrate01a.mdl
+[11:40:01] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_junk/watermelon01.mdl
+[11:40:06] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_junk/watermelon01.mdl
+[11:40:15] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_junk/garbage_takeoutcarton001a.mdl
+[11:40:18] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_junk/garbage_glassbottle003a.mdl
+[11:40:21] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_junk/garbage_milkcarton001a.mdl
+[11:40:24] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_interiors/pot01a.mdl
+[11:40:27] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_junk/metalbucket01a.mdl
+[11:40:30] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_junk/trafficcone001a.mdl
+[11:40:31] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_junk/trafficcone001a.mdl
+[11:40:32] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_junk/terracotta01.mdl
+[11:40:40] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_junk/terracotta01.mdl
+[11:40:47] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_junk/terracotta01.mdl
+[11:40:51] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_junk/metal_paintcan001b.mdl
+[11:40:53] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_c17/trappropeller_lever.mdl
+[11:40:57] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_c17/doll01.mdl
+[11:41:01] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/gibs/antlion_gib_large_2.mdl
+[11:41:03] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/gibs/hgibs_spine.mdl
+[11:41:05] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/gibs/hgibs.mdl
+[11:41:08] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_lab/desklamp01.mdl
+[11:41:16] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_junk/trafficcone001a.mdl
+[11:41:17] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_junk/metalbucket01a.mdl
+[11:41:18] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_junk/garbage_newspaper001a.mdl
+[11:41:21] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_junk/garbage_plasticbottle001a.mdl
+[11:41:23] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_junk/garbage_plasticbottle001a.mdl
+[11:41:28] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_c17/metalpot002a.mdl
+[11:41:32] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_c17/clock01.mdl
+[11:41:34] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_c17/computer01_keyboard.mdl
+[11:41:38] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_junk/popcan01a.mdl
+[11:42:11] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_lab/clipboard.mdl
+[11:42:14] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_junk/shoe001a.mdl
+[11:42:48] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_c17/tools_wrench01a.mdl
+[11:42:50] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_c17/metalpot002a.mdl
+[11:42:51] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_c17/frame002a.mdl
+[11:42:55] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_c17/computer01_keyboard.mdl
+[11:42:57] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/gibs/hgibs_spine.mdl
+[11:43:00] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_junk/glassbottle01a.mdl
+[11:43:02] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_junk/garbage_metalcan001a.mdl
+[11:43:06] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_junk/popcan01a.mdl
+[11:43:18] CCA.C17-GRID.i3.69192: /charsethunger grid 100
+[11:43:21] CCA.C17-GRID.i3.69192: /charsetthirst grid 100
+[11:43:26] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_c17/metalpot001a.mdl
+[11:43:32] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_c17/streetsign004f.mdl
+[11:44:08] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_junk/plasticcrate01a.mdl
+[11:44:10] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_junk/metalbucket02a.mdl
+[11:44:34] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_doors/door03_slotted_left.mdl
+[11:44:47] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_c17/door01_left.mdl
+[11:45:00] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool rb655_easy_bodygroup on models/props_c17/door01_left.mdl
+[11:45:57] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_c17/door01_left.mdl
+[11:45:59] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool rb655_easy_bodygroup on models/props_c17/door01_left.mdl
+[11:46:01] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool rb655_easy_bodygroup on maps/rp_city17_build210.bsp
+[11:46:40] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on models/props_c17/door01_left.mdl
+[11:56:17] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city17_build210.bsp
+[11:56:17] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city17_build210.bsp
+[11:56:17] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city17_build210.bsp
+[11:56:18] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city17_build210.bsp
+[11:56:18] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city17_build210.bsp
+[11:56:18] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city17_build210.bsp
+[11:56:18] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city17_build210.bsp
+[11:56:19] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city17_build210.bsp
+[11:56:19] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city17_build210.bsp
+[11:56:20] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city17_build210.bsp
+[11:56:20] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city17_build210.bsp
+[11:56:20] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city17_build210.bsp
+[11:56:20] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city17_build210.bsp
+[11:58:09] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_c17/oildrum001_explosive.mdl
+[11:58:26] CCA.C17-GRID.i3.69192 extinguished all 7 fires.
+[11:58:26] CCA.C17-GRID.i3.69192: !vextinguishall
+[11:58:27] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city17_build210.bsp
+[11:58:35] CCA.C17-GRID.i3.69192 cleared decals
+[11:58:35] CCA.C17-GRID.i3.69192: !cleardecals
+[11:59:54] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned/gave himself swep tfa_ordinalrifle
+[11:59:56] CCA.C17-GRID.i3.69192: /toggleraise
+[12:00:25] CCA.C17-GRID.i3.69192: /toggleraise
+[12:00:27] CCA.C17-GRID.i3.69192: /toggleraise
+[12:00:59] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned/gave himself swep tfa_ordinalrifle
+[12:01:00] CCA.C17-GRID.i3.69192: /toggleraise
+[12:01:43] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned/gave himself swep tfa_heavyshotgun
+[12:01:44] CCA.C17-GRID.i3.69192: /toggleraise
+[12:01:47] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned/gave himself swep tfa_psmg
+[12:01:48] CCA.C17-GRID.i3.69192: /toggleraise
+[12:01:53] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned/gave himself swep tfa_heavyshotgun
+[12:01:54] CCA.C17-GRID.i3.69192: /toggleraise
+[12:03:32] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_unique/hospital/iv_pole.mdl
+[12:04:11] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_unique/hospital/hospital_bed.mdl
+[12:04:17] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/de_vegas/card_table.mdl
+[12:04:19] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_downtown/pooltable.mdl
+[12:04:30] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/scenery/structural/vesuvius/bartap.mdl
+[12:04:40] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_equipment/fountain_drinks.mdl
+[12:05:29] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_equipment/security_desk1.mdl
+[12:05:50] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_interiors/magazine_rack.mdl
+[12:05:55] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/maxib123/pooltable.mdl
+[12:06:00] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_downtown/bar_long.mdl
+[12:06:43] CCA.C17-GRID.i3.69192: /deleteerrormodels
+[12:42:27] CCA.C17-GRID.i3.69192: /toggleraise
+[12:42:28] CCA.C17-GRID.i3.69192: /toggleraise
+[12:42:29] CCA.C17-GRID.i3.69192: /toggleraise
+[12:42:35] CCA.C17-GRID.i3.69192: /toggleraise
+[12:44:04] CCA.C17-GRID.i3.69192: /toggleraise
+[12:44:05] CCA.C17-GRID.i3.69192: /toggleraise
+[12:48:15] Dropped "CCA.C17-GRID.i3.69192" from server<STEAM_0:1:53097688>
+[13:00:14] Client "Dilly_" connected.
+[13:03:10] Client "Dilly_" spawned in server <STEAM_0:0:52468151> (took 176 seconds).
+[13:08:36] Dilly_<STEAM_0:0:52468151> changed their name to CCA.C17-UNION.i5.37117
+[13:09:27] CCA.C17-UNION.i5.37117: /becomeclass Ground
+[13:09:32] CCA.C17-UNION.i5.37117: /becomeclass Unit
+[13:12:45] CCA.C17-UNION.i5.37117<STEAM_0:0:52468151> changed their name to Aldre Dorve
+[13:34:36] Client "Ozzy" connected.
+[13:37:22] Client "Methfred" connected.
+[13:42:10] Client "Methfred" spawned in server <STEAM_0:1:48276840> (took 288 seconds).
+[13:43:05] Methfred<STEAM_0:1:48276840> changed their name to Alfred Langenberg
+[13:43:14] Alfred Langenberg: // hnnng
+[13:46:51] Alfred Langenberg<STEAM_0:1:48276840> changed their name to Viktor Dimitriyev
+[13:47:58] Client "Ozzy" spawned in server <STEAM_0:0:35061363> (took 802 seconds).
+[13:48:04] Aldre Dorve: // hngggggg
+[13:48:09] Viktor Dimitriyev: // guh
+[13:48:14] Aldre Dorve: // gre
+[13:48:19] Viktor Dimitriyev: // galunga
+[13:48:24] Aldre Dorve: // dew'it
+[13:48:34] Viktor Dimitriyev: // do you want some crab meat
+[13:48:39] Aldre Dorve: // all of it
+[13:48:46] Viktor Dimitriyev: // if it ever cooks you can have some
+[13:48:54] Dropped "Ozzy" from server<STEAM_0:0:35061363>
+[13:49:02] Viktor Dimitriyev: // also they locked the crates without telling me the password so i cant get access to any of our stuff ):
+[13:49:04] Aldre Dorve: // You'll have to find a stove that actually works smh
+[13:49:12] Viktor Dimitriyev: // i have one in front of me
+[13:49:17] Viktor Dimitriyev: // but it glitches
+[13:49:24] Aldre Dorve<STEAM_0:0:52468151> changed their name to Douglas Hudson
+[13:50:22] Douglas Hudson<STEAM_0:0:52468151> changed their name to Aldre Dorve
+[13:51:56] Viktor Dimitriyev: // its working 
+[13:51:57] Viktor Dimitriyev: // woo
+[13:52:01] Aldre Dorve: // e
+[13:55:38] Viktor Dimitriyev: // wya
+[13:56:07] Viktor Dimitriyev: .// crab
+[14:02:25] Viktor Dimitriyev<STEAM_0:1:48276840> changed their name to Alfred Langenberg
+[14:04:46] Aldre Dorve: // A
+[14:05:03] Dropped "Aldre Dorve" from server<STEAM_0:0:52468151>
+[14:26:12] Dropped "Alfred Langenberg" from server<STEAM_0:1:48276840>
+[18:20:12] Client "matt saton" connected.
+[18:23:55] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 223 seconds).
+[18:25:41] matt saton<STEAM_0:1:53097688> changed their name to Ryan Marnett
+[18:28:35] Ryan Marnett<STEAM_0:1:53097688> used the tool textscreen on maps/rp_city17_build210.bsp
+[18:28:50] Ryan Marnett<STEAM_0:1:53097688> used the tool textscreen on maps/rp_city17_build210.bsp
+[18:29:02] Ryan Marnett<STEAM_0:1:53097688> used the tool textscreen on models/hunter/plates/plate1x1.mdl
+[18:29:04] Ryan Marnett<STEAM_0:1:53097688> used the tool textscreen on models/hunter/plates/plate1x1.mdl
+[18:29:30] Dropped "Ryan Marnett" from server<STEAM_0:1:53097688>
+[18:30:56] Client "matt saton" connected.
+[18:34:01] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 185 seconds).
+[18:35:40] matt saton<STEAM_0:1:53097688> changed their name to Ryan Marnett
+[18:38:15] Ryan Marnett<STEAM_0:1:53097688> spawned model models/props_c17/furniturefridge001a.mdl
+[18:38:18] Ryan Marnett<STEAM_0:1:53097688> spawned model models/props_c17/furniturefridge001a.mdl
+[18:39:24] Ryan Marnett<STEAM_0:1:53097688> spawned model models/props_junk/wood_crate001a_damaged.mdl
+[18:39:27] Ryan Marnett<STEAM_0:1:53097688> spawned model models/props_junk/wood_crate001a.mdl
+[18:39:28] Ryan Marnett<STEAM_0:1:53097688> spawned model models/props_junk/wood_crate001a.mdl
+[18:39:30] Ryan Marnett<STEAM_0:1:53097688> spawned model models/props_junk/wood_crate001a.mdl
+[18:39:34] Ryan Marnett<STEAM_0:1:53097688> spawned model models/props_junk/wood_crate002a.mdl
+[18:39:37] Ryan Marnett<STEAM_0:1:53097688> spawned model models/props_junk/wood_crate001a.mdl
+[18:39:39] Ryan Marnett<STEAM_0:1:53097688> spawned model models/props_junk/wood_crate001a.mdl
+[18:39:42] Ryan Marnett<STEAM_0:1:53097688> spawned model models/props_junk/wood_crate001a_damaged.mdl
+[18:39:50] Ryan Marnett<STEAM_0:1:53097688> spawned model models/props_junk/wood_crate002a.mdl
+[18:40:01] Ryan Marnett<STEAM_0:1:53097688> spawned model models/props_junk/wood_crate001a_damaged.mdl
+[18:40:07] Ryan Marnett<STEAM_0:1:53097688> spawned model models/props_junk/wood_crate002a.mdl
+[18:40:10] Ryan Marnett<STEAM_0:1:53097688> spawned model models/props_junk/wood_crate001a_damaged.mdl
+[18:40:12] Ryan Marnett<STEAM_0:1:53097688> spawned model models/props_junk/wood_crate001a_damaged.mdl
+[18:40:14] Ryan Marnett<STEAM_0:1:53097688> spawned model models/props_junk/wood_crate001a_damaged.mdl
+[18:40:17] Ryan Marnett<STEAM_0:1:53097688> spawned model models/props_junk/wood_crate001a_damaged.mdl
+[18:40:19] Ryan Marnett<STEAM_0:1:53097688> spawned model models/props_junk/wood_crate002a.mdl
+[18:40:24] Ryan Marnett<STEAM_0:1:53097688> used the tool permaprops on models/props_junk/wood_crate002a.mdl
+[18:40:27] Ryan Marnett<STEAM_0:1:53097688> used the tool permaprops on models/props_junk/wood_crate001a_damaged.mdl
+[18:40:29] Ryan Marnett<STEAM_0:1:53097688> used the tool permaprops on models/props_junk/wood_crate001a_damaged.mdl
+[18:40:30] Ryan Marnett<STEAM_0:1:53097688> used the tool permaprops on models/props_junk/wood_crate001a_damaged.mdl
+[18:40:32] Ryan Marnett<STEAM_0:1:53097688> used the tool permaprops on models/props_junk/wood_crate001a_damaged.mdl
+[18:40:33] Ryan Marnett<STEAM_0:1:53097688> used the tool permaprops on models/props_junk/wood_crate001a_damaged.mdl
+[18:40:35] Ryan Marnett<STEAM_0:1:53097688> used the tool permaprops on models/props_junk/wood_crate002a.mdl
+[18:40:39] Ryan Marnett<STEAM_0:1:53097688> spawned model models/props_junk/wood_crate002a.mdl
+[18:40:40] Ryan Marnett<STEAM_0:1:53097688> spawned model models/props_junk/wood_crate001a_damaged.mdl
+[18:40:46] Ryan Marnett<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city17_build210.bsp
+[18:41:26] Ryan Marnett: /mapentremove
+[18:41:27] Ryan Marnett: /mapentremove
+[18:41:29] Ryan Marnett<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_storagecloset001a.mdl
+[18:41:34] Ryan Marnett<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_storagecloset001b.mdl
+[18:42:01] Ryan Marnett<STEAM_0:1:53097688> spawned sent ix_vendingmachine
+[18:42:10] Ryan Marnett<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_interiors/vendingmachinesoda01a.mdl
+[18:42:15] Ryan Marnett<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_interiors/vendingmachinesoda01a.mdl
+[18:42:25] Ryan Marnett<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_interiors/vendingmachinesoda01a.mdl
+[18:42:33] Ryan Marnett<STEAM_0:1:53097688> spawned sent ix_vendingmachine
+[18:42:36] Ryan Marnett<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_interiors/vendingmachinesoda01a.mdl
+[18:42:57] Ryan Marnett<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_interiors/vendingmachinesoda01a.mdl
+[18:42:57] Ryan Marnett<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_interiors/vendingmachinesoda01a.mdl
+[18:43:09] Ryan Marnett<STEAM_0:1:53097688> spawned sent ix_vendingmachine
+[18:43:12] Ryan Marnett<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_interiors/vendingmachinesoda01a.mdl
+[18:43:16] Ryan Marnett<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_interiors/vendingmachinesoda01a.mdl
+[18:43:24] Ryan Marnett<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_interiors/vendingmachinesoda01a.mdl
+[18:43:41] Ryan Marnett<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_interiors/vendingmachinesoda01a.mdl
+[18:43:41] Ryan Marnett<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_interiors/vendingmachinesoda01a.mdl
+[18:43:45] Ryan Marnett<STEAM_0:1:53097688> spawned model models/props_junk/propane_tank001a.mdl
+[18:43:51] Ryan Marnett extinguished all 1 fires.
+[18:43:51] Ryan Marnett: !Vextinguishall
+[19:16:56] Ryan Marnett<STEAM_0:1:53097688> spawned model models/props_warehouse/office_furniture_desk_corner.mdl
+[19:16:57] Ryan Marnett<STEAM_0:1:53097688> spawned model models/props_office/desk_01.mdl
+[19:17:02] Ryan Marnett<STEAM_0:1:53097688> spawned model models/props_office/desk_01.mdl
+[19:17:05] Ryan Marnett<STEAM_0:1:53097688> spawned model models/props_office/desk_01.mdl
+[19:17:23] Ryan Marnett<STEAM_0:1:53097688> used the tool stacker_improved on models/props_office/desk_01.mdl
+[19:17:23] Ryan Marnett<STEAM_0:1:53097688> spawned model models/props_office/desk_01.mdl
+[19:17:28] Ryan Marnett<STEAM_0:1:53097688> used the tool stacker_improved on models/props_office/desk_01.mdl
+[19:17:28] Ryan Marnett<STEAM_0:1:53097688> spawned model models/props_office/desk_01.mdl
+[19:17:33] Ryan Marnett<STEAM_0:1:53097688> used the tool stacker_improved on models/props_office/desk_01.mdl
+[19:17:33] Ryan Marnett<STEAM_0:1:53097688> spawned model models/props_office/desk_01.mdl
+[19:17:37] Ryan Marnett<STEAM_0:1:53097688> spawned model models/props/cs_office/file_box.mdl
+[19:17:40] Ryan Marnett<STEAM_0:1:53097688> spawned model models/props_office/file_cabinet_03.mdl
+[19:17:43] Ryan Marnett<STEAM_0:1:53097688> spawned model models/props_interiors/copymachine01.mdl
+[19:18:09] Ryan Marnett<STEAM_0:1:53097688> spawned model models/props/cs_office/offcorkboarda.mdl
+[19:18:32] Ryan Marnett<STEAM_0:1:53097688> used the tool stacker_improved on models/props_office/desk_01.mdl
+[19:18:32] Ryan Marnett<STEAM_0:1:53097688> spawned model models/props_office/desk_01.mdl
+[19:18:35] Ryan Marnett<STEAM_0:1:53097688> spawned model models/props_office/file_cabinet_03.mdl
+[19:18:41] Ryan Marnett<STEAM_0:1:53097688> spawned model models/props_office/file_cabinet_03.mdl
+[19:18:46] Ryan Marnett<STEAM_0:1:53097688> spawned model models/props_interiors/copymachine01.mdl
+[19:18:58] Ryan Marnett<STEAM_0:1:53097688> spawned model models/props/cs_office/file_box.mdl
+[19:19:01] Ryan Marnett<STEAM_0:1:53097688> spawned model models/props/cs_office/table_meeting.mdl
+[19:19:08] Ryan Marnett<STEAM_0:1:53097688> spawned model models/props/cs_office/table_meeting.mdl
+[19:19:31] Ryan Marnett<STEAM_0:1:53097688> spawned model models/props/cs_office/offcorkboarda.mdl
+[19:19:57] Ryan Marnett<STEAM_0:1:53097688> spawned model models/props_interiors/water_cooler.mdl
+[19:20:08] Ryan Marnett<STEAM_0:1:53097688> spawned model models/props/cs_office/offpaintingo.mdl
+[19:20:09] Ryan Marnett<STEAM_0:1:53097688> spawned model models/props/cs_office/offpaintingo.mdl
+[19:20:10] Ryan Marnett<STEAM_0:1:53097688> spawned model models/props/cs_office/shelves_metal1.mdl
+[19:20:14] Ryan Marnett<STEAM_0:1:53097688> spawned model models/props/cs_office/shelves_metal2.mdl
+[19:20:19] Ryan Marnett<STEAM_0:1:53097688> spawned model models/props/cs_office/shelves_metal.mdl
+[19:20:51] Ryan Marnett<STEAM_0:1:53097688> spawned model models/props/cs_office/bookshelf1.mdl
+[19:20:54] Ryan Marnett<STEAM_0:1:53097688> spawned model models/props/cs_office/bookshelf2.mdl
+[19:20:56] Ryan Marnett<STEAM_0:1:53097688> spawned model models/props/cs_office/bookshelf2.mdl
+[19:20:57] Ryan Marnett<STEAM_0:1:53097688> spawned model models/props/cs_office/bookshelf3.mdl
+[19:21:02] Ryan Marnett<STEAM_0:1:53097688> spawned model models/props/cs_office/bookshelf2.mdl
+[19:21:04] Ryan Marnett<STEAM_0:1:53097688> spawned model models/props/cs_office/bookshelf1.mdl
+[19:21:16] Ryan Marnett<STEAM_0:1:53097688> used the tool permaprops on models/props_office/desk_01.mdl
+[19:21:16] Ryan Marnett<STEAM_0:1:53097688> used the tool permaprops on models/props_office/desk_01.mdl
+[19:21:16] Ryan Marnett<STEAM_0:1:53097688> used the tool permaprops on models/props_office/desk_01.mdl
+[19:21:16] Ryan Marnett<STEAM_0:1:53097688> used the tool permaprops on models/props_office/desk_01.mdl
+[19:21:19] Ryan Marnett<STEAM_0:1:53097688> used the tool permaprops on models/props/cs_office/offcorkboarda.mdl
+[19:21:20] Ryan Marnett<STEAM_0:1:53097688> used the tool permaprops on models\props/cs_office/shelves_metal1.mdl
+[19:21:20] Ryan Marnett<STEAM_0:1:53097688> used the tool permaprops on models\props/cs_office/shelves_metal2.mdl
+[19:21:21] Ryan Marnett<STEAM_0:1:53097688> used the tool permaprops on models\props/cs_office/shelves_metal.mdl
+[19:21:22] Ryan Marnett<STEAM_0:1:53097688> used the tool permaprops on models\props/cs_office/bookshelf1.mdl
+[19:21:22] Ryan Marnett<STEAM_0:1:53097688> used the tool permaprops on models\props/cs_office/bookshelf2.mdl
+[19:21:22] Ryan Marnett<STEAM_0:1:53097688> used the tool permaprops on models\props/cs_office/bookshelf3.mdl
+[19:21:23] Ryan Marnett<STEAM_0:1:53097688> used the tool permaprops on models\props/cs_office/bookshelf1.mdl
+[19:21:24] Ryan Marnett<STEAM_0:1:53097688> used the tool permaprops on models/props_office/file_cabinet_03.mdl
+[19:21:24] Ryan Marnett<STEAM_0:1:53097688> used the tool permaprops on models/props_interiors/copymachine01.mdl
+[19:21:46] Ryan Marnett<STEAM_0:1:53097688> spawned model models/props/cs_office/exit_wall.mdl
+[19:22:02] Ryan Marnett<STEAM_0:1:53097688> spawned model models/props/cs_office/chair_office.mdl
+[19:22:09] Ryan Marnett<STEAM_0:1:53097688> spawned model models/props/cs_office/chair_office.mdl
+[19:22:15] Ryan Marnett<STEAM_0:1:53097688> spawned model models/props/cs_office/chair_office.mdl
+[19:22:23] Ryan Marnett<STEAM_0:1:53097688> spawned model models/props/cs_office/exit_ceiling.mdl
+[19:22:24] Ryan Marnett<STEAM_0:1:53097688> spawned model models/props/cs_office/chair_office.mdl
+[19:22:33] Ryan Marnett<STEAM_0:1:53097688> spawned model models/props_lab/monitor01a.mdl
+[19:22:38] Ryan Marnett<STEAM_0:1:53097688> spawned model models/props_lab/monitor01a.mdl
+[19:22:48] Ryan Marnett<STEAM_0:1:53097688> spawned model models/props_c17/computer01_keyboard.mdl
+[19:23:15] Ryan Marnett<STEAM_0:1:53097688> spawned model models/props_lab/harddrive02.mdl
+[19:23:20] Ryan Marnett<STEAM_0:1:53097688> spawned model models/props_lab/harddrive02.mdl
+[19:23:26] Ryan Marnett<STEAM_0:1:53097688> spawned model models/props_c17/computer01_keyboard.mdl
+[19:23:41] Ryan Marnett<STEAM_0:1:53097688> spawned model models/props_lab/monitor01a.mdl
+[19:23:52] Ryan Marnett<STEAM_0:1:53097688> spawned model models/props_c17/computer01_keyboard.mdl
+[19:24:03] Ryan Marnett<STEAM_0:1:53097688> spawned model models/props_lab/harddrive02.mdl
+[19:24:27] Ryan Marnett<STEAM_0:1:53097688> spawned model models/props_lab/monitor01a.mdl
+[19:24:35] Ryan Marnett<STEAM_0:1:53097688> spawned model models/props_c17/computer01_keyboard.mdl
+[19:24:43] Ryan Marnett<STEAM_0:1:53097688> spawned model models/props_lab/harddrive02.mdl
+[19:25:02] Ryan Marnett<STEAM_0:1:53097688> spawned model models/rt screens/tv_monitor01.mdl
+[19:25:03] Ryan Marnett<STEAM_0:1:53097688> spawned model models/rt screens/monitor01b.mdl
+[19:25:31] Ryan Marnett<STEAM_0:1:53097688> spawned model models/rt screens/tv_monitor01.mdl
+[19:25:34] Ryan Marnett<STEAM_0:1:53097688> spawned model models/rt screens/monitor01b.mdl
+[19:25:37] Ryan Marnett<STEAM_0:1:53097688> spawned model models/rt screens/tv_monitor01.mdl
+[19:25:55] Ryan Marnett<STEAM_0:1:53097688> spawned model models/military/platform1.mdl
+[19:25:56] Ryan Marnett<STEAM_0:1:53097688> spawned model models/military/metalcover.mdl
+[19:26:03] Ryan Marnett<STEAM_0:1:53097688> spawned model models/rt screens/monitor01b.mdl
+[19:26:12] Ryan Marnett<STEAM_0:1:53097688> used the tool permaprops on models/rt screens/monitor01b.mdl
+[19:26:15] Ryan Marnett<STEAM_0:1:53097688> spawned model models/rt screens/monitor01b.mdl
+[19:26:21] Ryan Marnett<STEAM_0:1:53097688> used the tool permaprops on models/rt screens/monitor01b.mdl
+[19:26:56] Ryan Marnett<STEAM_0:1:53097688> spawned model models/rt screens/tv_monitor01.mdl
+[19:27:00] Ryan Marnett<STEAM_0:1:53097688> spawned model models/rt screens/monitor01b.mdl
+[19:27:17] Ryan Marnett<STEAM_0:1:53097688> used the tool permaprops on models/rt screens/monitor01b.mdl
+[19:27:29] Ryan Marnett<STEAM_0:1:53097688> used the tool permaprops on models/props_lab/monitor01a.mdl
+[19:27:30] Ryan Marnett<STEAM_0:1:53097688> used the tool permaprops on models/props_c17/computer01_keyboard.mdl
+[19:27:30] Ryan Marnett<STEAM_0:1:53097688> used the tool permaprops on models/props_lab/harddrive02.mdl
+[19:27:33] Ryan Marnett<STEAM_0:1:53097688> used the tool permaprops on models\props/cs_office/chair_office.mdl
+[19:27:34] Ryan Marnett<STEAM_0:1:53097688> used the tool permaprops on models\props/cs_office/chair_office.mdl
+[19:27:34] Ryan Marnett<STEAM_0:1:53097688> used the tool permaprops on models/props_lab/harddrive02.mdl
+[19:27:35] Ryan Marnett<STEAM_0:1:53097688> used the tool permaprops on models/props_lab/monitor01a.mdl
+[19:27:36] Ryan Marnett<STEAM_0:1:53097688> used the tool permaprops on models/props_c17/computer01_keyboard.mdl
+[19:27:37] Ryan Marnett<STEAM_0:1:53097688> used the tool permaprops on models\props/cs_office/chair_office.mdl
+[19:27:37] Ryan Marnett<STEAM_0:1:53097688> used the tool permaprops on models/props_c17/computer01_keyboard.mdl
+[19:27:38] Ryan Marnett<STEAM_0:1:53097688> used the tool permaprops on models/props_lab/monitor01a.mdl
+[19:27:38] Ryan Marnett<STEAM_0:1:53097688> used the tool permaprops on models/props_lab/harddrive02.mdl
+[19:27:46] Ryan Marnett<STEAM_0:1:53097688> used the tool permaprops on models/props_lab/monitor01a.mdl
+[19:27:47] Ryan Marnett<STEAM_0:1:53097688> used the tool permaprops on models/props_c17/computer01_keyboard.mdl
+[19:27:47] Ryan Marnett<STEAM_0:1:53097688> used the tool permaprops on models/props_lab/harddrive02.mdl
+[19:27:48] Ryan Marnett<STEAM_0:1:53097688> used the tool permaprops on models\props/cs_office/chair_office.mdl
+[19:28:18] Ryan Marnett<STEAM_0:1:53097688> spawned model models/rt screens/tv_monitor01.mdl
+[19:28:55] Ryan Marnett<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_filecabinet002a.mdl
+[19:29:10] Ryan Marnett<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_filecabinet002a.mdl
+[19:29:38] Ryan Marnett<STEAM_0:1:53097688> spawned model models/props_c17/furnituretable003a.mdl
+[19:34:15] Ryan Marnett: /toggleraise
+[19:34:16] Ryan Marnett: /toggleraise
+[19:34:36] Client "Methfred" connected.
+[19:38:14] Client "Methfred" spawned in server <STEAM_0:1:48276840> (took 218 seconds).
+[19:39:39] Methfred<STEAM_0:1:48276840> changed their name to Alfred Langenberg
+[19:39:47] Alfred Langenberg: // Where is my strider whitelist, Matt.
+[19:43:23] Ryan Marnett: //yo
+[19:43:47] Ryan Marnett<STEAM_0:1:53097688> spawned NPC npc_combine_camera
+[19:44:11] Ryan Marnett<STEAM_0:1:53097688> spawned/gave himself swep weapon_pistol
+[19:45:05] Ryan Marnett: //lag spike
+[19:46:03] Ryan Marnett<STEAM_0:1:53097688> spawned NPC npc_turret_ceiling
+[19:46:05] Ryan Marnett<STEAM_0:1:53097688> spawned NPC npc_combine_camera
+[19:46:59] Ryan Marnett<STEAM_0:1:53097688> spawned NPC npc_combine_camera
+[19:47:33] Ryan Marnett<STEAM_0:1:53097688> spawned/gave himself swep weapon_pistol
+[19:47:34] Ryan Marnett: /toggleraise
+[19:47:46] Ryan Marnett: /visornotify test
+[19:48:13] Ryan Marnett<STEAM_0:1:53097688> spawned/gave himself swep weapon_pistol
+[19:48:54] Client "lueyjayden" connected.
+[19:50:07] Ryan Marnett: //wanna see magic
+[19:50:07] Ryan Marnett: /doorsethidden true
+[19:50:27] Ryan Marnett: /infectplayer
+[19:50:34] Ryan Marnett teleported to Alfred Langenberg
+[19:50:34] Ryan Marnett: !goto alf
+[19:50:35] Ryan Marnett: /infectplayer alfred coughing
+[19:51:39] Ryan Marnett: you now have a cough
+[19:51:40] Alfred Langenberg: .// thats a pretty cool magic trick
+[19:52:10] Alfred Langenberg: // btw i gotta be tabbed out to do some work, if you need me dm me on discord until im back
+[19:52:19] Ryan Marnett: //alright
+[19:57:35] Ryan Marnett<STEAM_0:1:53097688> spawned NPC npc_combine_camera
+[20:00:14] Client "FB|| light ROOM" connected.
+[20:00:15] Ryan Marnett<STEAM_0:1:53097688> spawned/gave himself swep weapon_pistol
+[20:00:16] Ryan Marnett: /toggleraise
+[20:02:46] Client "FB|| light ROOM" spawned in server <STEAM_0:1:17219621> (took 152 seconds).
+[20:03:08] Alfred Langenberg: // im back
+[20:03:38] Alfred Langenberg: // now where is my whitelist you sunuva
+[20:03:42] FB|| light ROOM<STEAM_0:1:17219621> changed their name to Theban 'Simmons' Revolt
+[20:03:52] Theban 'Simmons' Revolt: // yo
+[20:04:19] Alfred Langenberg: // guh
+[20:04:30] Ryan Marnett: //suh
+[20:04:43] Alfred Langenberg<STEAM_0:1:48276840> changed their name to Viktor Dimitriyev
+[20:04:47] Theban 'Simmons' Revolt: // This vent isn't working ;-;
+[20:04:53] Viktor Dimitriyev: // matt whitelist now
+[20:04:57] Viktor Dimitriyev: // I DEMAND OF IT
+[20:05:02] Viktor Dimitriyev: // pwease
+[20:05:06] Theban 'Simmons' Revolt: // Also I have over a 1,000 pistol rounds because of the last event, want to explain what I can keep and what I can't?
+[20:05:16] Viktor Dimitriyev: // i lost my pistol ):
+[20:05:20] Theban 'Simmons' Revolt: // Bruh
+[20:05:21] Theban 'Simmons' Revolt: // How?
+[20:05:29] Viktor Dimitriyev: // it was an entity not an item
+[20:05:34] Viktor Dimitriyev: // it despawns when you dc
+[20:05:37] Theban 'Simmons' Revolt: // Then you should get it back
+[20:05:48] Viktor Dimitriyev: // yeah i should but i dont need it yet
+[20:06:24] Theban 'Simmons' Revolt: // Also please note that I placed some of my magazines into a ammo box for safe keeping.
+[20:06:24] Theban 'Simmons' Revolt: // And when I say "some" I mean a fuck ton.
+[20:06:34] Viktor Dimitriyev: // I don't even have the combo
+[20:06:44] Viktor Dimitriyev: // all my meat is in one so ive lost my meat!
+[20:06:44] Theban 'Simmons' Revolt: // F
+[20:06:53] Viktor Dimitriyev: // i still got a suitcase though
+[20:06:55] Ryan Marnett: //yo light check tis out
+[20:06:57] Viktor Dimitriyev: // suicase full of met
+[20:06:59] Theban 'Simmons' Revolt: // I placed the meat into something that isn't a fucking Ammo crate
+[20:07:00] Ryan Marnett brought Theban 'Simmons' Revolt
+[20:07:00] Ryan Marnett: !bring theb
+[20:07:04] Ryan Marnett: .//look
+[20:07:08] Ryan Marnett: .//it gets mad at you if you're holding ap sitol
+[20:07:10] Ryan Marnett: .//or any weapon
+[20:07:12] Theban 'Simmons' Revolt: .// neat
+[20:07:12] Ryan Marnett: .//or if you run in front of it
+[20:07:15] Ryan Marnett: .//put aaway your gun
+[20:07:25] Theban 'Simmons' Revolt: .// cool
+[20:07:39] Ryan Marnett returned Theban 'Simmons' Revolt to their original position
+[20:07:39] Ryan Marnett: !return theb
+[20:07:46] Theban 'Simmons' Revolt: // I am now glitched
+[20:07:48] Theban 'Simmons' Revolt: // cool
+[20:07:49] Ryan Marnett: //what
+[20:07:50] Ryan Marnett: //how so
+[20:07:51] Viktor Dimitriyev: / how
+[20:07:52] Ryan Marnett: !goto theb
+[20:07:52] Viktor Dimitriyev: // how
+[20:07:53] Ryan Marnett teleported to Theban 'Simmons' Revolt
+[20:07:53] Ryan Marnett: !goto theb
+[20:07:56] Theban 'Simmons' Revolt: // I am inside of a wall
+[20:07:57] Ryan Marnett: //oh tha'ts how
+[20:08:01] Ryan Marnett brought Theban 'Simmons' Revolt
+[20:08:01] Ryan Marnett: !Bring theb
+[20:08:08] Ryan Marnett<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city17_build210.bsp
+[20:08:08] Ryan Marnett<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city17_build210.bsp
+[20:08:08] Ryan Marnett<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city17_build210.bsp
+[20:08:09] Ryan Marnett<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city17_build210.bsp
+[20:08:09] Ryan Marnett<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city17_build210.bsp
+[20:08:09] Viktor Dimitriyev: // where you guys at
+[20:08:09] Ryan Marnett<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city17_build210.bsp
+[20:08:14] Ryan Marnett: //metagameville
+[20:08:15] Ryan Marnett returned Themself to their original position
+[20:08:15] Ryan Marnett: !return
+[20:08:15] Theban 'Simmons' Revolt: // Okay, I have 1,222 rounds in my pistol.
+[20:08:17] Theban 'Simmons' Revolt: // neat
+[20:08:25] Theban 'Simmons' Revolt: // As in reserve.
+[20:08:26] Viktor Dimitriyev: // you're in the base? bruh I just left
+[20:08:28] Theban 'Simmons' Revolt: // Not in one mag.
+[20:09:06] Viktor Dimitriyev: // im playing CS:GO
+[20:09:09] Theban 'Simmons' Revolt: // neat
+[20:09:31] Theban 'Simmons' Revolt: // Gonna just assume I can keep this ammo, if indeed I can imma bout to spread this shit for all of our members.
+[20:10:52] Theban 'Simmons' Revolt: Really?
+[20:11:01] Viktor Dimitriyev: I guess.
+[20:11:04] Theban 'Simmons' Revolt: Fuck it, whatever.
+[20:11:14] Theban 'Simmons' Revolt: Get to the kitchen or anywhere away from here
+[20:11:47] Viktor Dimitriyev: Want food?
+[20:11:51] Theban 'Simmons' Revolt: Sure
+[20:12:07] Theban 'Simmons' Revolt: I moved your cooked meat to a better area
+[20:12:12] Theban 'Simmons' Revolt: Come here
+[20:12:26] Theban 'Simmons' Revolt: This contains your food
+[20:12:35] Theban 'Simmons' Revolt: This contains raw materials
+[20:12:43] Theban 'Simmons' Revolt: This contains medical supplies
+[20:12:45] Viktor Dimitriyev: convenient
+[20:13:47] Theban 'Simmons' Revolt: This will be for me and any other engineer we ever get.
+[20:14:39] Viktor Dimitriyev: I guess anyone but me then. I was never one for tinker.
+[20:14:45] Theban 'Simmons' Revolt: Noted
+[20:15:08] Theban 'Simmons' Revolt: You are some type of doctor right?
+[20:15:14] Viktor Dimitriyev: Yes, that is right.
+[20:15:36] Theban 'Simmons' Revolt: Congrats, you will be the least likely to go into combat.
+[20:15:39] Viktor Dimitriyev: .// just reminded me I need a vest back too. could prolly get a medic one too.
+[20:15:44] Viktor Dimitriyev: Woohoo?
+[20:15:55] Theban 'Simmons' Revolt: It will get funner.
+[20:15:59] Theban 'Simmons' Revolt: I can promise you that
+[20:16:11] Viktor Dimitriyev: // <:: Copy. ::>
+[20:16:14] Theban 'Simmons' Revolt: Speaking of combat, i'll need to get a few of us to go and mug some CP's.
+[20:16:27] Theban 'Simmons' Revolt: We're running low on armor and radios.
+[20:16:33] Viktor Dimitriyev: /me nods, pretending he knows what "mugging" means.
+[20:17:31] Theban 'Simmons' Revolt: Dismissed for now I guess, I have no more reason to talk with you until later.
+[20:17:47] Ryan Marnett: //hey can someone hlep;l me stest some stuff
+[20:17:50] Theban 'Simmons' Revolt: // bet
+[20:17:51] Viktor Dimitriyev: // ig
+[20:17:53] Ryan Marnett<STEAM_0:1:53097688> changed their name to CCA.C17-GRID.i3.69192
+[20:18:08] CCA.C17-GRID.i3.69192 brought Theban 'Simmons' Revolt
+[20:18:08] CCA.C17-GRID.i3.69192: !bring theb
+[20:18:16] Client "Corey" connected.
+[20:18:16] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned NPC npc_combine_camera
+[20:18:25] Theban 'Simmons' Revolt: .// neat
+[20:18:26] CCA.C17-GRID.i3.69192: .//alright can you run for me please
+[20:18:33] CCA.C17-GRID.i3.69192: .//holy shit
+[20:18:37] CCA.C17-GRID.i3.69192: .//keep running cirlces around it please
+[20:18:50] Theban 'Simmons' Revolt: .// LMAO
+[20:18:51] CCA.C17-GRID.i3.69192: .//sweet fuck
+[20:18:55] Theban 'Simmons' Revolt: .// It has a seizure
+[20:18:56] CCA.C17-GRID.i3.69192: .//okay can you take your gun out
+[20:19:04] CCA.C17-GRID.i3.69192: .//don't run
+[20:19:06] CCA.C17-GRID.i3.69192: .//just ugun out
+[20:19:12] CCA.C17-GRID.i3.69192: .//alright
+[20:19:15] CCA.C17-GRID.i3.69192: .//let me fix tihs rq
+[20:19:39] Viktor Dimitriyev: // tell me when you're done I require your staffing services
+[20:21:08] CCA.C17-GRID.i3.69192: .//alright can you put away the gun and run for me
+[20:21:15] CCA.C17-GRID.i3.69192: .//perfect
+[20:21:24] CCA.C17-GRID.i3.69192: .//and then can you Bhop while running for me please
+[20:21:29] CCA.C17-GRID.i3.69192: .//alright
+[20:21:31] CCA.C17-GRID.i3.69192: .//now can you fuckin uh
+[20:21:37] CCA.C17-GRID.i3.69192: .//take out the gun and run
+[20:21:53] Client "Corey" connected.
+[20:21:54] CCA.C17-GRID.i3.69192: .//alright we good,.t hank yoyu
+[20:21:54] CCA.C17-GRID.i3.69192: /me would proceed to tie the individual. Would they resist?
+[20:21:56] CCA.C17-GRID.i3.69192: !return therb
+[20:21:58] CCA.C17-GRID.i3.69192 returned Theban 'Simmons' Revolt to their original position
+[20:21:58] CCA.C17-GRID.i3.69192: !return theb
+[20:22:02] CCA.C17-GRID.i3.69192 teleported to Viktor Dimitriyev
+[20:22:02] CCA.C17-GRID.i3.69192: !goto viktor
+[20:22:06] CCA.C17-GRID.i3.69192: .//yuh
+[20:22:07] CCA.C17-GRID.i3.69192: /toggleraise
+[20:22:08] CCA.C17-GRID.i3.69192: /toggleraise
+[20:22:15] Viktor Dimitriyev: .// i need a medic vest and a pistol broh
+[20:22:22] CCA.C17-GRID.i3.69192: /plysearch
+[20:22:29] CCA.C17-GRID.i3.69192: .//those were temp for the event broh
+[20:22:30] CCA.C17-GRID.i3.69192: /doorsethidden true
+[20:22:35] Viktor Dimitriyev: .// aw cringe broh
+[20:22:38] CCA.C17-GRID.i3.69192: .//sorry broh
+[20:22:41] CCA.C17-GRID.i3.69192 returned Themself to their original position
+[20:22:41] CCA.C17-GRID.i3.69192: !Return
+[20:22:50] Theban 'Simmons' Revolt: // Me with over a thousand rounds be like
+[20:22:52] Viktor Dimitriyev: // can I at least get a medic shirt
+[20:22:57] CCA.C17-GRID.i3.69192: //you with over a thousand what
+[20:23:03] CCA.C17-GRID.i3.69192: //no :(
+[20:23:07] Viktor Dimitriyev: // y
+[20:23:08] Theban 'Simmons' Revolt: // I TALKED ABOUT THIS SO MUCH
+[20:23:09] CCA.C17-GRID.i3.69192: //bcuz
+[20:23:13] Theban 'Simmons' Revolt: // I have over a thousand pistol round
+[20:23:15] CCA.C17-GRID.i3.69192: //sorry i must have missed it
+[20:23:16] CCA.C17-GRID.i3.69192: //but liek
+[20:23:17] Theban 'Simmons' Revolt: // rounds*
+[20:23:17] CCA.C17-GRID.i3.69192: //why
+[20:23:26] Viktor Dimitriyev: // I mean I can just paint a red cross on my shirt and bam i got a medic shirt
+[20:23:35] Viktor Dimitriyev: // isnt that an item? a medic shirt without a vest?
+[20:23:43] CCA.C17-GRID.i3.69192: //yuh, but get some red paint
+[20:23:49] Theban 'Simmons' Revolt: // Event where you gave us shitty ammo crates that give a fuck ton of ammo every use.
+[20:23:51] Viktor Dimitriyev: Simmons, do you have red paint?
+[20:24:02] Theban 'Simmons' Revolt: Uhhhhhhhhhhhh, unsure.
+[20:24:02] CCA.C17-GRID.i3.69192: //i put that down for the units...
+[20:24:05] Theban 'Simmons' Revolt: Probably not
+[20:24:06] CCA.C17-GRID.i3.69192: //oh wait
+[20:24:07] CCA.C17-GRID.i3.69192: //wait
+[20:24:07] CCA.C17-GRID.i3.69192: //yep
+[20:24:08] CCA.C17-GRID.i3.69192: //yeah
+[20:24:09] CCA.C17-GRID.i3.69192: //i remember
+[20:24:13] CCA.C17-GRID.i3.69192: //fuck
+[20:24:16] Theban 'Simmons' Revolt: // Can I keep some of it?
+[20:24:17] Viktor Dimitriyev: Substitute?
+[20:24:29] CCA.C17-GRID.i3.69192: //you can keep 75 rounds
+[20:24:34] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned NPC npc_combine_camera
+[20:24:37] Theban 'Simmons' Revolt: Uh......at most blood but that is about it.
+[20:24:40] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned NPC npc_combine_camera
+[20:24:42] Theban 'Simmons' Revolt: // One issue.
+[20:24:47] CCA.C17-GRID.i3.69192: //yuh
+[20:24:51] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned NPC npc_combine_camera
+[20:24:59] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned NPC npc_combine_camera
+[20:25:05] Theban 'Simmons' Revolt: // I was expecting more so I unloaded some mags and placed them in the ammo box, can I keep a few of those as well?
+[20:25:05] Viktor Dimitriyev: Blood might turn brown, not sure if it will work as well. Then again, it is *alien* blood.
+[20:25:11] CCA.C17-GRID.i3.69192 teleported to Theban 'Simmons' Revolt
+[20:25:11] CCA.C17-GRID.i3.69192: !Goto theb
+[20:25:13] Theban 'Simmons' Revolt: Hmph...
+[20:25:17] Theban 'Simmons' Revolt: // I'll grab them
+[20:25:24] Viktor Dimitriyev: // matt random question
+[20:25:28] CCA.C17-GRID.i3.69192: //keep 75 rounds, destroy everytihng else
+[20:25:29] CCA.C17-GRID.i3.69192: //yes viktor
+[20:25:34] Theban 'Simmons' Revolt: // bet
+[20:25:43] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned NPC npc_combine_camera
+[20:25:46] Viktor Dimitriyev: // does xen blood turn brown like human blood or does it stay red
+[20:25:57] CCA.C17-GRID.i3.69192: //xen blood is yellow green
+[20:26:12] Theban 'Simmons' Revolt: // You'll have to get rid of my ammo in reserve.
+[20:26:21] CCA.C17-GRID.i3.69192: //okay, slay incoming
+[20:26:22] CCA.C17-GRID.i3.69192: //so
+[20:26:26] Viktor Dimitriyev: // hnnng you think zombie blood would work as paint?
+[20:26:27] CCA.C17-GRID.i3.69192: //unload your SMGs or whatever else
+[20:26:41] CCA.C17-GRID.i3.69192: //i guess?
+[20:26:55] CCA.C17-GRID.i3.69192: //idk about red paint but
+[20:26:57] Theban 'Simmons' Revolt: // I have no ammo in my SMG because of shitty fucking Zombine taking a whole fucking magazine and a half and also I have some handgun ammo so let me find one of those
+[20:27:00] CCA.C17-GRID.i3.69192: //alright
+[20:27:02] CCA.C17-GRID.i3.69192 teleported to Theban 'Simmons' Revolt
+[20:27:02] CCA.C17-GRID.i3.69192: !goto theb
+[20:27:07] Theban 'Simmons' Revolt suicided!
+[20:27:07] CCA.C17-GRID.i3.69192 slayed Theban 'Simmons' Revolt
+[20:27:07] CCA.C17-GRID.i3.69192: !slay theb
+[20:27:09] Theban 'Simmons' Revolt: // ouch
+[20:27:10] CCA.C17-GRID.i3.69192 brought Theban 'Simmons' Revolt
+[20:27:10] CCA.C17-GRID.i3.69192: !bring theb
+[20:27:13] CCA.C17-GRID.i3.69192: .//pistol out
+[20:27:13] CCA.C17-GRID.i3.69192: /me would take out his combat knife and cut the individual's ties.
+[20:27:17] Theban 'Simmons' Revolt: // I had two rounds for handcannons
+[20:27:20] CCA.C17-GRID.i3.69192 gave Theban 'Simmons' Revolt 75 rounds
+[20:27:20] CCA.C17-GRID.i3.69192: !giveammo theb 75
+[20:27:23] CCA.C17-GRID.i3.69192: .//handcannon out
+[20:27:31] CCA.C17-GRID.i3.69192: .//wait no
+[20:27:32] CCA.C17-GRID.i3.69192: /adminspawnmenu
+[20:27:32] Theban 'Simmons' Revolt: // I gave it away to one of our new members,
+[20:27:41] Viktor Dimitriyev: /me grabs corpse.
+[20:27:49] Theban 'Simmons' Revolt: // thank
+[20:27:52] CCA.C17-GRID.i3.69192: //si
+[20:27:59] Viktor Dimitriyev: /me carries the corpse of a zombie over his shoulder.
+[20:28:02] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned NPC npc_combine_camera
+[20:28:14] Theban 'Simmons' Revolt: The fuck?
+[20:28:14] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned NPC npc_combine_camera
+[20:28:21] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned NPC npc_combine_camera
+[20:28:28] Viktor Dimitriyev: /me dumps the corpse on the workbench.
+[20:28:38] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned NPC npc_cdpmator
+[20:28:40] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned NPC npc_combine_camera
+[20:28:57] Viktor Dimitriyev: /me takes out his knife, slicing open the gut of the zombie and dipping his fingers into it, smearing blood on his hand.
+[20:29:06] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned NPC npc_combine_camera
+[20:29:13] Theban 'Simmons' Revolt: What in the fuck have I allowed into the Guardians?
+[20:29:17] Viktor Dimitriyev: /me undoes his shirt with his other hand, pulling it off so that he can easily apply multiple red crosses upon it.
+[20:29:20] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned NPC npc_combine_camera
+[20:29:22] Viktor Dimitriyev: // I did the thing
+[20:29:35] CCA.C17-GRID.i3.69192 teleported to Viktor Dimitriyev
+[20:29:35] CCA.C17-GRID.i3.69192: !goto viktor
+[20:29:42] CCA.C17-GRID.i3.69192: .//give me your shirt
+[20:29:43] Theban 'Simmons' Revolt: // I like how Q has a depressed rebel.
+[20:29:43] CCA.C17-GRID.i3.69192: /adminspawnmenu
+[20:29:54] Theban 'Simmons' Revolt: // I need to do some things with him but Q do be busy.
+[20:30:17] Viktor Dimitriyev: // he's not busy it's all a scheme
+[20:30:51] CCA.C17-GRID.i3.69192: /adminspawnmenu
+[20:31:07] Theban 'Simmons' Revolt: // This was lovely but I do have some shit to do outside of the server.
+[20:31:09] Client "Corey" connected.
+[20:31:14] Viktor Dimitriyev: // later neeerrrd
+[20:31:15] Theban 'Simmons' Revolt: // Good night both of you.
+[20:31:25] Dropped "Theban 'Simmons' Revolt" from server<STEAM_0:1:17219621>
+[20:31:28] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool rb655_easy_bodygroup on models/player/zelpa/male_04_extended.mdl
+[20:31:39] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool rb655_easy_bodygroup on maps/rp_city17_build210.bsp
+[20:32:44] CCA.C17-GRID.i3.69192: /adminspawnmenu
+[20:32:48] Client "Corey" spawned in server <STEAM_0:1:94743258> (took 99 seconds).
+[20:33:19] CCA.C17-GRID.i3.69192: //holy shit corey is back
+[20:33:21] CCA.C17-GRID.i3.69192: /adminspawnmenu
+[20:33:33] Viktor Dimitriyev: .// big lag
+[20:33:34] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool rb655_easy_bodygroup on models/player/zelpa/male_04_extended.mdl
+[20:33:34] Corey<STEAM_0:1:94743258> changed their name to Corey Russel
+[20:33:35] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool rb655_easy_bodygroup on maps/rp_city17_build210.bsp
+[20:33:39] CCA.C17-GRID.i3.69192: //yoooo corey wb
+[20:33:41] Corey Russel: /content
+[20:33:50] Viktor Dimitriyev: .// hey
+[20:34:00] Viktor Dimitriyev: // matt i think you messed it up
+[20:34:03] CCA.C17-GRID.i3.69192 teleported to Viktor Dimitriyev
+[20:34:03] CCA.C17-GRID.i3.69192: !goto viktor
+[20:34:11] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool rb655_easy_bodygroup on models/player/zelpa/male_04_extended.mdl
+[20:34:13] Viktor Dimitriyev: .// its the green sweater for me
+[20:34:16] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool rb655_easy_bodygroup on maps/rp_city17_build210.bsp
+[20:34:18] CCA.C17-GRID.i3.69192 returned Themself to their original position
+[20:34:18] CCA.C17-GRID.i3.69192: !return
+[20:34:28] CCA.C17-GRID.i3.69192: /plysearch
+[20:34:33] Corey Russel: // I'm trying to fix my citizen models, my character is just an error, and I have all the content downloaded. I'll brb
+[20:34:35] Dropped "Corey Russel" from server<STEAM_0:1:94743258>
+[20:34:36] CCA.C17-GRID.i3.69192: //nononon
+[20:34:37] CCA.C17-GRID.i3.69192: //235rQWFESGDBCV
+[20:34:39] CCA.C17-GRID.i3.69192: //FUCKING
+[20:34:43] Viktor Dimitriyev: // jej
+[20:35:21] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned NPC npc_combine_camera
+[20:35:58] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned NPC npc_combine_camera
+[20:36:04] Viktor Dimitriyev: // alright i gtg I'll see you matt. Give me my strider whitelist.
+[20:36:06] Dropped "Viktor Dimitriyev" from server<STEAM_0:1:48276840>
+[20:36:08] CCA.C17-GRID.i3.69192: //alright man-
+[20:36:12] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned NPC npc_combine_camera
+[20:36:20] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned NPC npc_combine_camera
+[20:36:27] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned NPC npc_combine_camera
+[20:36:36] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned NPC npc_combine_camera
+[20:38:12] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned NPC npc_combine_camera
+[20:38:21] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned NPC npc_combine_camera
+[20:42:14] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned NPC npc_combine_camera
+[20:42:31] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned NPC npc_combine_camera
+[20:42:44] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned NPC npc_combine_camera
+[20:42:59] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned NPC npc_combine_camera
+[20:44:06] Client "Corey" connected.
+[20:45:24] Client "Corey" spawned in server <STEAM_0:1:94743258> (took 78 seconds).
+[20:46:05] Corey<STEAM_0:1:94743258> changed their name to Corey Russel
+[20:46:08] Corey Russel: /content
+[20:46:11] CCA.C17-GRID.i3.69192: //yo, it's not a problem on oyur end. the beanie is bugged and it makes you an error
+[20:46:15] CCA.C17-GRID.i3.69192: //i need to fix it
+[20:46:23] Corey Russel: // omg for real?
+[20:46:23] CCA.C17-GRID.i3.69192: //only black and green beanies work
+[20:46:26] CCA.C17-GRID.i3.69192: /doorsethidden true
+[20:46:31] CCA.C17-GRID.i3.69192: //yeah, it's something wrong when i programmed it
+[20:46:33] Corey Russel: // Thats why then
+[20:46:35] CCA.C17-GRID.i3.69192: //i've gotta fix it
+[20:46:37] CCA.C17-GRID.i3.69192: //yeah you're all good
+[20:46:39] Corey Russel: // Thank you for telling me
+[20:46:42] CCA.C17-GRID.i3.69192: //yep np
+[20:46:51] CCA.C17-GRID.i3.69192: //i'll refund you the beanie when i get back, but i'm gonna run to the bathroom rq
+[20:47:01] CCA.C17-GRID.i3.69192: //also if you're not already in the discord go ahead and hop in, the command is /discord
+[20:47:18] CCA.C17-GRID.i3.69192: a//rlgiht btr
+[20:47:21] CCA.C17-GRID.i3.69192: //alrigh tbrb
+[20:57:06] Corey Russel: /id
+[20:57:09] Corey Russel: /apply
+[20:57:50] Corey Russel: /craftrecipe
+[20:57:56] Corey Russel: /charfallover
+[20:58:02] Corey Russel: /chargetup
+[21:00:19] Corey Russel: /it
+[21:00:23] Corey Russel: /apply
+[21:03:02] Corey Russel: /becomeclass
+[21:03:11] Corey Russel: /becomeclass CWU
+[21:15:37] CCA.C17-GRID.i3.69192: //hey, i'm back
+[21:15:42] CCA.C17-GRID.i3.69192: /plysearch
+[21:15:43] CCA.C17-GRID.i3.69192: /plysearch
+[21:15:51] CCA.C17-GRID.i3.69192: /plysearch
+[21:16:08] CCA.C17-GRID.i3.69192: //how goes it
+[21:16:40] CCA.C17-GRID.i3.69192: //i can refund that beanie for you now
+[21:16:59] Corey Russel: // Yeah sure. I've just been trying to find things to do. I'm confused 
+[21:17:16] CCA.C17-GRID.i3.69192: //totally, gimme a sec. can you drop the beanie for me?
+[21:17:29] CCA.C17-GRID.i3.69192: /droptokens 5
+[21:17:33] CCA.C17-GRID.i3.69192: .//i can't hear, sorry
+[21:17:42] Corey Russel: I had to sneak through the sewers to get here
+[21:17:45] CCA.C17-GRID.i3.69192: .//lmao
+[21:17:47] Corey Russel: I can't go through the gates
+[21:17:47] CCA.C17-GRID.i3.69192: .//i saw
+[21:17:49] CCA.C17-GRID.i3.69192: .//wait wha
+[21:17:50] CCA.C17-GRID.i3.69192: .//oh
+[21:17:51] CCA.C17-GRID.i3.69192: .//yeah
+[21:18:01] CCA.C17-GRID.i3.69192: .//we alternate betwene locking off D2 and D4
+[21:18:07] CCA.C17-GRID.i3.69192: .//just because it keeps our small playerbase together
+[21:18:12] Corey Russel: oh
+[21:18:14] Corey Russel: makes sense
+[21:18:19] CCA.C17-GRID.i3.69192: //too much open space means it's way harder for people to ineract
+[21:18:22] CCA.C17-GRID.i3.69192: //yuh*
+[21:18:23] Corey Russel: true
+[21:18:26] Corey Russel: So what now
+[21:18:36] CCA.C17-GRID.i3.69192: .//yeah, what were you confused about? 
+[21:18:38] Corey Russel: I'm trying to find something to do
+[21:18:48] Corey Russel: But I can't find any jobs
+[21:18:55] Corey Russel: I don't know how this works on this server
+[21:19:11] CCA.C17-GRID.i3.69192: .//so we've got a couple things going on for citizens, give me a sec to think about what it is because
+[21:19:18] CCA.C17-GRID.i3.69192: .//now that i'm on the spot brian no worky
+[21:19:23] Corey Russel: Lmao
+[21:19:45] CCA.C17-GRID.i3.69192: .//so we're working on making citizenRP better, obligatory to say please give us your recommendations
+[21:19:51] CCA.C17-GRID.i3.69192: .//but right now we've got a couple things for it
+[21:20:13] CCA.C17-GRID.i3.69192: .//so we have resin hunting, we've got resin hidden around the map and you can exchange it into the vendor at the train station for 2 tokens
+[21:20:33] Corey Russel: Yeah I found 2 pieces so far. But it seems like its super rare
+[21:20:34] CCA.C17-GRID.i3.69192: .//we've got a fledgeling crafting system, working on expanding it ATM. right now we've got some stuff involving gunsmithing and sewing in
+[21:20:38] CCA.C17-GRID.i3.69192: .//yeah, i need to hide more
+[21:21:12] CCA.C17-GRID.i3.69192: .//you can also carve and cook headcrabs, if that's your thing. we've got working stoves, you should be able to tap e on the stovetop and you'll hear the gas kick on
+[21:21:20] CCA.C17-GRID.i3.69192: .//if not i'll be right over to make sure there's a stovetop ent there
+[21:21:27] CCA.C17-GRID.i3.69192: .//alright uhhhh what else what else
+[21:21:51] CCA.C17-GRID.i3.69192: .//rebelRP is a thing, we've got lootRP, so you can roll and an admin (really just me because yknow 2 playres) will give you loot depending on what you roll
+[21:22:00] Corey Russel: I usually don't play on servers with like no players, but the quality of the server is too good, everything looks nice and the immersion is top tier
+[21:22:00] CCA.C17-GRID.i3.69192: .//it applies to dumpsters that aren't storage props
+[21:22:17] CCA.C17-GRID.i3.69192: .//thank you, i try. i've got some ideas, but i'm one dev, so they don't really get in as fast as i'd like
+[21:22:27] Corey Russel: Are you the only Dev?
+[21:22:52] CCA.C17-GRID.i3.69192: .//yeah. i'm really hesitant to get other devs because of an experience on a really old server and even current experiences like with aurora andstuff
+[21:22:59] Corey Russel: Ohhh
+[21:23:01] Corey Russel: gotcha
+[21:23:06] CCA.C17-GRID.i3.69192: .//i've got a stuff member interested in learning, but otherwise, yeah
+[21:23:14] CCA.C17-GRID.i3.69192: .//we're a three member staff team, including myself
+[21:23:25] Corey Russel: Yeah I almost joined aurorah but I figured the chances of it being as well made probably werent as likely
+[21:23:36] Corey Russel: even tho theres more players on it
+[21:23:38] CCA.C17-GRID.i3.69192: .//the old dev behind it, i don't know if he's still a part of it, i don't think he is
+[21:23:40] CCA.C17-GRID.i3.69192: .//liquid 
+[21:23:46] CCA.C17-GRID.i3.69192: .//he's a cool guy, he gave us some help, he is a great dev
+[21:23:49] CCA.C17-GRID.i3.69192: .//not sure what hes doing now
+[21:23:54] CCA.C17-GRID.i3.69192: .//after the big code leak he kinda went silent
+[21:24:01] Corey Russel: Yeah I came from Impulse, So anything new is exciting for me
+[21:24:15] CCA.C17-GRID.i3.69192: .//ah nice, nice. i don't really go on other servers much, ngl. i stay away from the community
+[21:24:32] CCA.C17-GRID.i3.69192: .//mainly becuase i've burnt some bridges with alex grist and the other guy
+[21:24:36] CCA.C17-GRID.i3.69192: .//what's his name, 
+[21:24:37] CCA.C17-GRID.i3.69192: .//aspect
+[21:24:38] CCA.C17-GRID.i3.69192: .//him
+[21:24:43] Corey Russel: I understand
+[21:24:44] CCA.C17-GRID.i3.69192: .//but yeah it's all a lot of drama so i tend to stay out of it
+[21:24:50] Corey Russel: Well the server looks great
+[21:25:01] CCA.C17-GRID.i3.69192: .//thank you, that means a lot. this stuff really is my passion, and i enjoy doing it
+[21:25:13] Corey Russel: I may just invest into playing it more
+[21:25:16] Corey Russel: oh my
+[21:25:19] Corey Russel: thank you <3
+[21:25:23] CCA.C17-GRID.i3.69192: .//yep ,refund for the beanie
+[21:25:28] Corey Russel: oh yah lmao
+[21:25:33] CCA.C17-GRID.i3.69192: .//we'd appreciate that. on a regular day we get around 7-8 players
+[21:25:37] CCA.C17-GRID.i3.69192: .//we're not big, but we're tight knit
+[21:25:40] Corey Russel: But yeah the server looks like it has great potential
+[21:25:44] CCA.C17-GRID.i3.69192: .//thank you thank you
+[21:25:46] Corey Russel: I'm go try crafting stuff
+[21:25:54] Corey Russel: Where do I get material to build stuff?
+[21:26:05] Corey Russel: Also, where can I get a flashlight, I can't see anything
+[21:26:05] CCA.C17-GRID.i3.69192: .//lootRP mainly for now. i need to put more items around the map
+[21:26:11] CCA.C17-GRID.i3.69192: .//flashlights should be at the general store
+[21:26:15] CCA.C17-GRID.i3.69192: .//10 tokens i believe
+[21:26:18] Corey Russel: alright
+[21:26:26] CCA.C17-GRID.i3.69192: .//also, are you in the discord?
+[21:26:29] Corey Russel: I'ma go buy a flashlight
+[21:26:31] Corey Russel: no not yet
+[21:26:49] Corey Russel: Im hesitant when I join new servers, until I know I'm gonna play a bunch
+[21:26:51] Corey Russel: no offense
+[21:26:55] CCA.C17-GRID.i3.69192: .//nah, i feel you
+[21:27:02] Corey Russel: //discrod
+[21:27:04] Corey Russel: /discord
+[21:27:07] CCA.C17-GRID.i3.69192: //:thonk:
+[21:27:18] CCA.C17-GRID.i3.69192: .//alright i'll let you do your stuff. need anything, have any questions, let me know
+[21:27:38] Corey Russel: /discord
+[21:27:42] Corey Russel: // Thanks!
+[21:27:58] CCA.C17-GRID.i3.69192: /toggleraise
+[21:27:59] CCA.C17-GRID.i3.69192: /toggleraise
+[21:28:03] CCA.C17-GRID.i3.69192: /toggleraise
+[21:28:04] CCA.C17-GRID.i3.69192: /toggleraise
+[21:28:07] CCA.C17-GRID.i3.69192: /toggleraise
+[21:28:33] CCA.C17-GRID.i3.69192: /toggleraise
+[21:29:01] Corey Russel: // Is the suggested HL2 RP content pack in the discord active on the server?
+[21:29:09] CCA.C17-GRID.i3.69192: //it is not, it's just replacements and stuff like that
+[21:29:10] CCA.C17-GRID.i3.69192: //HD replacements
+[21:29:25] Corey Russel: // Like, they're client sid?
+[21:29:29] CCA.C17-GRID.i3.69192: //yep!
+[21:30:01] Corey Russel: // So they just replace models and stuff already in my game? 
+[21:30:04] CCA.C17-GRID.i3.69192: //yep
+[21:30:11] Corey Russel: // I've never been on a server that does this
+[21:30:22] CCA.C17-GRID.i3.69192: //eh we like doing stuff a bit different
+[21:30:29] Corey Russel: // I assume it helps with performance since you're not adding more addons
+[21:30:32] Corey Russel: // right?
+[21:30:43] CCA.C17-GRID.i3.69192: //that and i oppose the idea of putting replacements into the server content
+[21:33:42] CCA.C17-GRID.i3.69192: /adminspawnmenu
+[21:34:10] CCA.C17-GRID.i3.69192: /toggleraise
+[21:34:10] CCA.C17-GRID.i3.69192: /toggleraise
+[21:34:14] CCA.C17-GRID.i3.69192: /toggleraise
+[21:34:16] CCA.C17-GRID.i3.69192: /toggleraise
+[21:34:42] CCA.C17-GRID.i3.69192: /toggleraise
+[21:34:43] CCA.C17-GRID.i3.69192: /toggleraise
+[21:35:05] CCA.C17-GRID.i3.69192: /toggleraise
+[21:35:06] CCA.C17-GRID.i3.69192: /toggleraise
+[21:35:16] CCA.C17-GRID.i3.69192: /toggleraise
+[21:35:18] CCA.C17-GRID.i3.69192: /toggleraise
+[21:35:48] CCA.C17-GRID.i3.69192: /adminspawnmenu
+[21:36:39] CCA.C17-GRID.i3.69192: /adminspawnmenu
+[21:36:51] CCA.C17-GRID.i3.69192: /adminspawnmenu
+[21:37:08] CCA.C17-GRID.i3.69192: /chargiveitem grid cables
+[21:37:11] CCA.C17-GRID.i3.69192: /chargiveitem grid cables
+[21:37:25] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city17_build210.bsp
+[21:37:25] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city17_build210.bsp
+[21:37:25] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city17_build210.bsp
+[21:37:25] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city17_build210.bsp
+[21:37:25] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city17_build210.bsp
+[21:37:26] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city17_build210.bsp
+[21:37:26] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city17_build210.bsp
+[21:37:26] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city17_build210.bsp
+[21:37:26] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city17_build210.bsp
+[21:37:27] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city17_build210.bsp
+[21:37:27] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city17_build210.bsp
+[21:37:27] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city17_build210.bsp
+[21:37:27] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city17_build210.bsp
+[21:37:27] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city17_build210.bsp
+[21:37:27] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city17_build210.bsp
+[21:37:28] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city17_build210.bsp
+[21:37:28] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city17_build210.bsp
+[21:37:28] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city17_build210.bsp
+[21:37:28] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city17_build210.bsp
+[21:37:30] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city17_build210.bsp
+[21:37:30] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city17_build210.bsp
+[21:37:30] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city17_build210.bsp
+[21:37:31] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city17_build210.bsp
+[21:37:31] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city17_build210.bsp
+[21:37:31] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city17_build210.bsp
+[21:37:31] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city17_build210.bsp
+[21:37:31] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city17_build210.bsp
+[21:38:18] CCA.C17-GRID.i3.69192: /adminspawnmenu
+[21:38:25] CCA.C17-GRID.i3.69192: /adminspawnmenu
+[21:39:05] CCA.C17-GRID.i3.69192: //tfw in the process of hiding many item
+[21:39:15] CCA.C17-GRID.i3.69192: /adminspawnmenu
+[21:39:42] CCA.C17-GRID.i3.69192: /adminspawnmenuq
+[21:40:14] CCA.C17-GRID.i3.69192: /adminspawnmenu
+[21:41:25] CCA.C17-GRID.i3.69192: /adminspawnmenu
+[21:42:09] CCA.C17-GRID.i3.69192: /adminspawnmenu
+[21:43:38] CCA.C17-GRID.i3.69192: /adminspawnmenu
+[21:43:48] CCA.C17-GRID.i3.69192: //also we have a system for zombie looting, zombies drop loot
+[21:43:50] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city17_build210.bsp
+[21:44:09] Corey Russel: // theres an invisible zombie
+[21:44:14] CCA.C17-GRID.i3.69192: //wher eat
+[21:44:23] Corey Russel: in that roon
+[21:44:32] CCA.C17-GRID.i3.69192: //it's a torso zombie, you don't see it?
+[21:44:37] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned/gave himself swep weapon_crossbow
+[21:44:37] CCA.C17-GRID.i3.69192: /toggleraise
+[21:44:38] Corey Russel: no
+[21:45:48] CCA.C17-GRID.i3.69192: /adminspawnmenu
+[21:46:47] CCA.C17-GRID.i3.69192 brought Corey Russel
+[21:46:47] CCA.C17-GRID.i3.69192: !bring corey
+[21:46:49] CCA.C17-GRID.i3.69192: //no
+[21:46:51] Corey Russel was killed by npc_fastzombie
+[21:47:03] Corey Russel: // damn that respaawn is quick
+[21:47:07] Corey Russel: // I like that lmao
+[21:47:51] CCA.C17-GRID.i3.69192: /toggleraise
+[21:47:51] CCA.C17-GRID.i3.69192: /toggleraise
+[21:48:33] CCA.C17-GRID.i3.69192: /adminspawnmenu
+[21:49:13] CCA.C17-GRID.i3.69192: /adminspawnmenu
+[21:49:52] CCA.C17-GRID.i3.69192: /adminspawnmenu
+[21:50:21] CCA.C17-GRID.i3.69192: /adminspawnmenu
+[21:51:01] CCA.C17-GRID.i3.69192: /adminspawnmenu
+[21:51:43] CCA.C17-GRID.i3.69192: /adminspawnmenu
+[21:52:07] CCA.C17-GRID.i3.69192: /adminq
+[21:52:09] CCA.C17-GRID.i3.69192: /adminspawnmenu
+[21:53:58] CCA.C17-GRID.i3.69192: /adminspawnmenu
+[21:54:17] CCA.C17-GRID.i3.69192: /adminspawnmenu
+[21:54:58] CCA.C17-GRID.i3.69192: //seeing you search gives me good ideas to hide places holy shit
+[21:55:09] Corey Russel: // I figured you might be watching me
+[21:55:12] CCA.C17-GRID.i3.69192: //off and on
+[21:55:15] CCA.C17-GRID.i3.69192: //i'm trying to hide items mainly
+[21:55:23] Corey Russel: // Resin?
+[21:55:24] CCA.C17-GRID.i3.69192: /adminspawnmenu
+[21:55:27] Corey Russel: // or other stuff?
+[21:55:30] CCA.C17-GRID.i3.69192: //that and other stuff
+[21:55:30] CCA.C17-GRID.i3.69192: /adminspawnmenu
+[21:55:46] CCA.C17-GRID.i3.69192: /chargiveitem grid resin 6
+[21:56:31] CCA.C17-GRID.i3.69192: /chargiveitem grid resin 1
+[21:59:24] CCA.C17-GRID.i3.69192: /doorsethidden true
+[21:59:34] CCA.C17-GRID.i3.69192: //did i mention wq're working on a 48 page long CCA guide?
+[21:59:46] Corey Russel: // what does CCA stand for?
+[21:59:53] CCA.C17-GRID.i3.69192: //combine civil authority
+[21:59:53] CCA.C17-GRID.i3.69192: /doorsethidden true
+[21:59:57] CCA.C17-GRID.i3.69192: //civil protection, MPF
+[22:00:02] Corey Russel: // Damn
+[22:00:17] CCA.C17-GRID.i3.69192: //it's not even done
+[22:00:20] CCA.C17-GRID.i3.69192: //getting there
+[22:00:26] CCA.C17-GRID.i3.69192: //i aminly bring it up because i'm proud
+[22:00:33] CCA.C17-GRID.i3.69192: //mainly*
+[22:00:35] Corey Russel: // Is it strict?
+[22:00:44] CCA.C17-GRID.i3.69192: //not really, less than you'd thinka
+[22:00:50] CCA.C17-GRID.i3.69192: //we're not radio code nazis or anything like that
+[22:01:16] CCA.C17-GRID.i3.69192: //it's meant to be looked back at, it's not like we expect units to memorize the whole thing
+[22:01:39] Corey Russel: // yeah
+[22:02:11] CCA.C17-GRID.i3.69192: /adminspawnmenu
+[22:03:08] CCA.C17-GRID.i3.69192: /toggleraise
+[22:03:09] CCA.C17-GRID.i3.69192: /toggleraise
+[22:03:12] CCA.C17-GRID.i3.69192: /toggleraise
+[22:03:13] CCA.C17-GRID.i3.69192: /toggleraise
+[22:03:37] CCA.C17-GRID.i3.69192: /doorsethidden true
+[22:03:38] CCA.C17-GRID.i3.69192: /mapentremove
+[22:03:43] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_junk/trashbin01a.mdl
+[22:05:39] CCA.C17-GRID.i3.69192: /toggleraise
+[22:05:40] CCA.C17-GRID.i3.69192: /toggleraise
+[22:05:42] CCA.C17-GRID.i3.69192: /toggleraise
+[22:05:43] CCA.C17-GRID.i3.69192: /toggleraise
+[22:05:51] CCA.C17-GRID.i3.69192: /mapentremove
+[22:05:54] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_junk/trashbin01a.mdl
+[22:05:56] CCA.C17-GRID.i3.69192: /toggleraise
+[22:05:56] CCA.C17-GRID.i3.69192: /toggleraise
+[22:06:40] CCA.C17-GRID.i3.69192: //void hte explosion
+[22:06:43] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_c17/oildrum001_explosive.mdl
+[22:06:45] CCA.C17-GRID.i3.69192: /toggleraise
+[22:06:52] CCA.C17-GRID.i3.69192: //nvm no explosion
+[22:07:02] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_c17/pulleyhook01.mdl
+[22:07:03] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_c17/oildrum001_explosive.mdl
+[22:07:06] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_c17/oildrum001.mdl
+[22:07:09] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_c17/pulleyhook01.mdl
+[22:07:10] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_c17/oildrum001_explosive.mdl
+[22:07:13] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_c17/oildrum001_explosive.mdl
+[22:07:16] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_c17/oildrum001.mdl
+[22:07:23] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on models/props_c17/oildrum001.mdl
+[22:07:23] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on models/props_c17/oildrum001_explosive.mdl
+[22:07:23] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on models/props_c17/oildrum001_explosive.mdl
+[22:07:24] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on models/props_c17/oildrum001.mdl
+[22:07:29] Dropped "Corey Russel" from server<STEAM_0:1:94743258>
+[22:07:46] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_junk/propane_tank001a.mdl
+[22:07:47] CCA.C17-GRID.i3.69192: /toggleraise
+[22:07:54] CCA.C17-GRID.i3.69192: /toggleraise
+[22:07:59] CCA.C17-GRID.i3.69192 extinguished all 2 fires.
+[22:07:59] CCA.C17-GRID.i3.69192: !vextinguishall
+[22:08:10] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_desk001a.mdl
+[22:08:11] Client "Corey" connected.
+[22:08:27] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned sent ix_station_airpressurizer
+[22:08:29] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned sent ix_station_airpressurizer
+[22:08:32] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned sent ix_station_poweroutlet
+[22:08:38] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned sent ix_station_airpressurizer
+[22:08:47] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on models/props_lab/reciever_cart.mdl
+[22:08:49] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned sent ix_station_diecaster
+[22:08:55] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned sent ix_station_forge
+[22:09:01] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_filecabinet001a.mdl
+[22:09:08] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_desk001a.mdl
+[22:09:22] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props/cs_militia/table_kitchen.mdl
+[22:09:24] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props/cs_italy/it_mkt_table3.mdl
+[22:09:41] Client "Corey" spawned in server <STEAM_0:1:94743258> (took 90 seconds).
+[22:09:49] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_junk/trashcluster01a_corner.mdl
+[22:10:09] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props/de_nuke/nucleartestcabinet.mdl
+[22:10:20] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props/de_nuke/powerplanttank.mdl
+[22:10:22] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props/de_nuke/nuclearcontrolbox.mdl
+[22:10:28] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on models/props/de_nuke/nuclearcontrolbox.mdl
+[22:10:29] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on models/props_wasteland/controlroom_desk001a.mdl
+[22:10:30] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on models/props/de_nuke/nucleartestcabinet.mdl
+[22:10:47] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props/cs_militia/wood_table.mdl
+[22:10:53] CCA.C17-GRID.i3.69192: /toggleraise
+[22:10:53] CCA.C17-GRID.i3.69192: /toggleraise
+[22:10:54] CCA.C17-GRID.i3.69192: /toggleraise
+[22:11:06] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_junk/wood_crate001a_damaged.mdl
+[22:11:11] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_junk/wood_crate002a.mdl
+[22:11:20] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_junk/wood_crate001a.mdl
+[22:11:23] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on models/props_junk/wood_crate001a_damaged.mdl
+[22:11:24] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on models/props_junk/wood_crate002a.mdl
+[22:11:44] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_wasteland/laundry_cart001.mdl
+[22:11:47] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_wasteland/laundry_cart002.mdl
+[22:11:48] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_wasteland/laundry_cart001.mdl
+[22:11:57] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_wasteland/laundry_cart001.mdl
+[22:12:04] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on models/props_wasteland/laundry_cart001.mdl
+[22:12:13] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_wasteland/laundry_cart002.mdl
+[22:12:24] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on models/props_wasteland/laundry_cart002.mdl
+[22:12:29] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_trainstation/trainstation_ornament001.mdl
+[22:12:31] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_wasteland/kitchen_shelf001a.mdl
+[22:12:39] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_wasteland/kitchen_shelf001a.mdl
+[22:12:59] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_junk/metalbucket02a.mdl
+[22:13:14] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_junk/propane_tank001a.mdl
+[22:13:21] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_junk/propanecanister001a.mdl
+[22:13:22] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_junk/propane_tank001a.mdl
+[22:13:24] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_junk/propane_tank001a.mdl
+[22:13:27] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_junk/propane_tank001a.mdl
+[22:13:30] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on models/props_junk/propane_tank001a.mdl
+[22:13:31] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city17_build210.bsp
+[22:13:31] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on models/props_junk/propane_tank001a.mdl
+[22:13:56] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on models/props_wasteland/kitchen_shelf001a.mdl
+[22:13:57] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city17_build210.bsp
+[22:13:57] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city17_build210.bsp
+[22:13:58] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on models/props_wasteland/kitchen_shelf001a.mdl
+[22:13:58] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on models/props_junk/metalbucket02a.mdl
+[22:14:04] Corey<STEAM_0:1:94743258> changed their name to Corey Russel
+[22:14:23] Corey Russel: // dude that explosion crashed my game lmao
+[22:14:27] CCA.C17-GRID.i3.69192: //my bad, sory
+[22:14:58] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_lab/partsbin01.mdl
+[22:15:05] Corey Russel: // I'm just surprised because my game almost never crashes
+[22:15:05] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on models/props_lab/partsbin01.mdl
+[22:15:09] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city17_build210.bsp
+[22:15:11] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city17_build210.bsp
+[22:15:12] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city17_build210.bsp
+[22:15:20] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_warehouse/toolbox.mdl
+[22:15:37] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on models/props_warehouse/toolbox.mdl
+[22:15:40] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props/cs_assault/handtruck.mdl
+[22:15:43] Corey Russel: // so what does this gas I turned on do?
+[22:15:51] CCA.C17-GRID.i3.69192: //starts the fire and conveyor belt
+[22:15:55] Corey Russel: // oh okay
+[22:16:00] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on models/props/cs_assault/handtruck.mdl
+[22:16:29] Corey Russel: // Omg I turned the gas on and right as I did the explosion crashed my game so I thought I caused it lol
+[22:16:49] CCA.C17-GRID.i3.69192: //lmao
+[22:17:36] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_chair001a.mdl
+[22:17:49] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on models/props_wasteland/controlroom_chair001a.mdl
+[22:17:51] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_junk/propanecanister001a.mdl
+[22:17:53] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_junk/harpoon002a.mdl
+[22:18:47] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_storagecloset001a.mdl
+[22:18:54] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_wasteland/cafeteria_table001a.mdl
+[22:19:01] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_junk/metal_paintcan001a.mdl
+[22:19:23] CCA.C17-GRID.i3.69192: /adminspawnmenu
+[22:20:00] Corey Russel: // The electricity on the conveyor belt will ignite barrels but the fire wont lmao
+[22:20:26] CCA.C17-GRID.i3.69192: /adminspawnmenu
+[22:21:12] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city17_build210.bsp
+[22:21:13] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city17_build210.bsp
+[22:21:16] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city17_build210.bsp
+[22:21:18] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city17_build210.bsp
+[22:21:25] CCA.C17-GRID.i3.69192: /adminspawnmenu
+[22:21:45] CCA.C17-GRID.i3.69192: //ignore explosino
+[22:21:50] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned/gave himself swep weapon_egon
+[22:21:50] CCA.C17-GRID.i3.69192: /toggleraise
+[22:21:54] CCA.C17-GRID.i3.69192: //nvm ignore gluongun
+[22:21:58] CCA.C17-GRID.i3.69192: /toggleraise
+[22:22:07] CCA.C17-GRID.i3.69192: /adminspawnmenu
+[22:23:44] CCA.C17-GRID.i3.69192: /adminspawnmenu
+[22:24:13] CCA.C17-GRID.i3.69192: /adminspawnmenu
+[22:24:34] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city17_build210.bsp
+[22:25:53] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_filecabinet002a.mdl
+[22:25:57] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_storagecloset001a.mdl
+[22:26:10] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city17_build210.bsp
+[22:26:11] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city17_build210.bsp
+[22:27:14] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_vtmb/turntable.mdl
+[22:27:20] CCA.C17-GRID.i3.69192<STEAM_0:1:53097688> spawned model models/props_interiors/medicalcabinet02.mdl
+[22:29:24] Corey Russel: // So can I actually do anything with the sewing kit?
+[22:29:51] CCA.C17-GRID.i3.69192: //yeah, you can sew together cloth, and when your fabrication is high enough, you can sew clothing and stuff
+[22:30:19] Corey Russel: // Would I be able to do that on the server now? Or is the system not done yet
+[22:31:13] CCA.C17-GRID.i3.69192: //it's partially done. not all of the sewing recipes are in but some of them are
+[22:31:21] CCA.C17-GRID.i3.69192: //you can also sew bandages wtih high enough fab
+[22:32:48] Corey Russel: // Where would I find cloth scrap?
+[22:35:44] CCA.C17-GRID.i3.69192: //soirry hey
+[22:35:48] CCA.C17-GRID.i3.69192: //half watching yt atm
+[22:35:57] Corey Russel: // you're fine lol
+[22:36:16] CCA.C17-GRID.i3.69192: //find it, or RP breaking down clothes with something sharp and a staff member will come and give you cloth scrap
+[22:40:56] CCA.C17-GRID.i3.69192: //alright man, thanks for being on. i'm gonna head to bed, hoping to see you on tomorrow
+[22:40:59] CCA.C17-GRID.i3.69192: //take care man
+[22:41:01] Corey Russel: // alright
+[22:41:02] Corey Russel: // night
+[22:41:03] CCA.C17-GRID.i3.69192: //goodnight
+[22:41:04] Dropped "CCA.C17-GRID.i3.69192" from server<STEAM_0:1:53097688>
+[22:54:06] Dropped "Corey Russel" from server<STEAM_0:1:94743258>

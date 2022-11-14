@@ -1,0 +1,2288 @@
+[03:34:40] New map: rp_city8_edit_v4r
+[10:54:27] Client "matt saton" connected.
+[10:56:44] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 137 seconds).
+[10:57:56] matt saton<STEAM_0:1:53097688> changed their name to Lee Maylor
+[11:24:25] Lee Maylor<STEAM_0:1:53097688> changed their name to The Consul
+[11:28:00] The Consul: /chargiveitem consul resin
+[11:28:02] The Consul: /chargiveitem consul resin 9999
+[11:28:09] The Consul: /toggleraise
+[11:28:10] The Consul: /toggleraise
+[11:32:40] The Consul<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city8_edit_v4r.bsp
+[11:34:45] The Consul: /chargiveitem consul resin 9999
+[11:38:17] The Consul: /chargiveitem consul resin 12
+[11:45:52] The Consul: /adminspawnmenu
+[11:45:56] The Consul: /chargiveitem consul padlock 12
+[11:52:55] Client "man" connected.
+[12:04:01] The Consul: /chargiveitem consul padlock 2
+[12:04:06] The Consul: /chargiveitem consul resin 8
+[12:06:07] The Consul<STEAM_0:1:53097688> spawned model models/props_c17/furnituredresser001a.mdl
+[12:06:21] The Consul<STEAM_0:1:53097688> spawned model models/props_canal/canal_cap001.mdl
+[12:06:25] The Consul<STEAM_0:1:53097688> spawned model models/props_canal/canal_cap001.mdl
+[12:06:50] The Consul<STEAM_0:1:53097688> spawned model models/props_c17/pipe_cap003.mdl
+[12:07:06] The Consul<STEAM_0:1:53097688> spawned model models/props_c17/substation_transformer01d.mdl
+[12:07:38] The Consul<STEAM_0:1:53097688> spawned model models/props_canal/winch02b.mdl
+[12:07:39] The Consul<STEAM_0:1:53097688> spawned effect models/props_canal/refinery_05_skybox.mdl
+[12:07:43] The Consul<STEAM_0:1:53097688> spawned effect models/props_canal/boxcar_door.mdl
+[12:07:52] The Consul<STEAM_0:1:53097688> spawned model models/props_canal/winch02b.mdl
+[12:07:54] The Consul<STEAM_0:1:53097688> spawned model models/props_canal/winch02c.mdl
+[12:08:05] The Consul<STEAM_0:1:53097688> spawned model models/props_debris/wall001a_base.mdl
+[12:08:15] The Consul<STEAM_0:1:53097688> spawned effect models/props_doors/door03_slot.mdl
+[12:08:28] The Consul<STEAM_0:1:53097688> spawned model models/props_pipes/concrete_pipe001b.mdl
+[12:08:31] The Consul<STEAM_0:1:53097688> spawned model models/props_pipes/concrete_pipe001a.mdl
+[12:08:35] The Consul<STEAM_0:1:53097688> spawned model models/props_pipes/concrete_pipe001d.mdl
+[12:08:52] The Consul<STEAM_0:1:53097688> spawned model models/props_canal/pipe_bracket001.mdl
+[12:08:54] The Consul<STEAM_0:1:53097688> spawned model models/props_canal/rock_riverbed01a.mdl
+[12:09:08] The Consul<STEAM_0:1:53097688> spawned effect models/props_canal/refinery_05_skybox.mdl
+[12:09:10] The Consul<STEAM_0:1:53097688> spawned model models/props_canal/boat001a_chunk04.mdl
+[12:09:11] The Consul<STEAM_0:1:53097688> spawned model models/props_canal/boat001b_chunk04.mdl
+[12:09:13] The Consul<STEAM_0:1:53097688> spawned model models/props_canal/winch01b.mdl
+[12:09:14] The Consul<STEAM_0:1:53097688> spawned model models/props_canal/winch02d.mdl
+[12:09:21] The Consul<STEAM_0:1:53097688> spawned model models/props_c17/trappropeller_blade.mdl
+[12:09:22] The Consul<STEAM_0:1:53097688> spawned model models/props_c17/substation_transformer01a.mdl
+[12:09:41] The Consul<STEAM_0:1:53097688> spawned model models/props_junk/wood_crate002a.mdl
+[12:09:45] The Consul<STEAM_0:1:53097688> spawned model models/props_junk/wood_crate001a_damaged.mdl
+[12:09:59] The Consul<STEAM_0:1:53097688> spawned model models/props_junk/wood_crate001a_damaged.mdl
+[12:10:12] The Consul<STEAM_0:1:53097688> spawned model models/props_wasteland/kitchen_shelf001a.mdl
+[12:10:18] The Consul<STEAM_0:1:53097688> spawned model models/props_wasteland/wheel01.mdl
+[12:10:28] The Consul<STEAM_0:1:53097688> spawned model models/props_c17/pulleywheels_large01.mdl
+[12:11:14] The Consul<STEAM_0:1:53097688> used the tool permaprops on models/props_junk/wood_crate002a.mdl
+[12:11:14] The Consul<STEAM_0:1:53097688> used the tool permaprops on models/props_junk/wood_crate001a_damaged.mdl
+[12:11:15] The Consul<STEAM_0:1:53097688> used the tool permaprops on models/props_junk/wood_crate001a_damaged.mdl
+[12:11:30] The Consul<STEAM_0:1:53097688> spawned model models/props_borealis/bluebarrel001.mdl
+[12:11:44] The Consul<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city8_edit_v4r.bsp
+[12:12:01] The Consul<STEAM_0:1:53097688> spawned model models/props_borealis/bluebarrel001.mdl
+[12:12:10] The Consul<STEAM_0:1:53097688> spawned model models/props_borealis/bluebarrel001.mdl
+[12:12:27] The Consul<STEAM_0:1:53097688> used the tool permaprops on models/props_borealis/bluebarrel001.mdl
+[12:12:27] The Consul<STEAM_0:1:53097688> used the tool permaprops on models/props_borealis/bluebarrel001.mdl
+[12:12:31] The Consul<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city8_edit_v4r.bsp
+[12:13:02] The Consul<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city8_edit_v4r.bsp
+[12:13:07] The Consul<STEAM_0:1:53097688> spawned model models/props_c17/oildrum001.mdl
+[12:13:08] The Consul<STEAM_0:1:53097688> spawned model models/props_c17/oildrum001.mdl
+[12:13:33] The Consul<STEAM_0:1:53097688> spawned model models/props_junk/wood_crate001a_damaged.mdl
+[12:13:36] The Consul<STEAM_0:1:53097688> used the tool permaprops on models/props_junk/wood_crate001a_damaged.mdl
+[12:14:26] The Consul<STEAM_0:1:53097688> spawned model models/props_junk/wood_crate002a.mdl
+[12:14:29] The Consul<STEAM_0:1:53097688> used the tool permaprops on models/props_junk/wood_crate002a.mdl
+[12:14:30] The Consul<STEAM_0:1:53097688> used the tool permaprops on models/props_c17/oildrum001.mdl
+[12:14:30] The Consul<STEAM_0:1:53097688> used the tool permaprops on models/props_c17/oildrum001.mdl
+[12:14:37] The Consul<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city8_edit_v4r.bsp
+[12:15:44] The Consul<STEAM_0:1:53097688> spawned model models/props_wasteland/laundry_cart001.mdl
+[12:15:54] The Consul<STEAM_0:1:53097688> spawned model models/props_c17/oildrum001.mdl
+[12:15:55] The Consul<STEAM_0:1:53097688> spawned model models/props_c17/oildrum001.mdl
+[12:16:44] The Consul<STEAM_0:1:53097688> used the tool permaprops on models/props_c17/oildrum001.mdl
+[12:16:47] The Consul<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city8_edit_v4r.bsp
+[12:16:54] The Consul<STEAM_0:1:53097688> spawned model models/props_c17/oildrum001.mdl
+[12:16:56] The Consul<STEAM_0:1:53097688> spawned model models/props_c17/oildrum001.mdl
+[12:17:03] The Consul<STEAM_0:1:53097688> used the tool permaprops on models/props_c17/oildrum001.mdl
+[12:17:04] The Consul<STEAM_0:1:53097688> used the tool permaprops on models/props_c17/oildrum001.mdl
+[12:17:06] The Consul<STEAM_0:1:53097688> used the tool permaprops on models/props_c17/oildrum001.mdl
+[12:17:06] The Consul<STEAM_0:1:53097688> used the tool permaprops on models/props_c17/oildrum001.mdl
+[12:17:10] The Consul<STEAM_0:1:53097688> spawned model models/props_junk/wood_crate001a_damaged.mdl
+[12:17:10] The Consul<STEAM_0:1:53097688> used the tool permaprops on models/props_junk/wood_crate001a_damaged.mdl
+[12:17:11] The Consul<STEAM_0:1:53097688> spawned model models/props_junk/wood_crate001a_damaged.mdl
+[12:17:11] The Consul<STEAM_0:1:53097688> used the tool permaprops on models/props_junk/wood_crate001a_damaged.mdl
+[12:17:27] The Consul<STEAM_0:1:53097688> spawned model models/props_junk/wood_crate001a_damaged.mdl
+[12:17:37] The Consul<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city8_edit_v4r.bsp
+[12:17:45] The Consul<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city8_edit_v4r.bsp
+[12:18:08] The Consul<STEAM_0:1:53097688> spawned model models/props_trainstation/ceiling_arch001a.mdl
+[12:18:09] The Consul<STEAM_0:1:53097688> spawned model models/props_junk/wood_crate001a_damaged.mdl
+[12:18:10] The Consul<STEAM_0:1:53097688> used the tool permaprops on models/props_junk/wood_crate001a_damaged.mdl
+[12:18:23] The Consul extinguished all 3 fires.
+[12:18:44] The Consul: /me takes out their datapad and types a couple things in.
+[12:18:49] The Consul<STEAM_0:1:53097688> spawned model models/hlvr/combine_hazardprops/combinehazardprops_trashbag.mdl
+[12:18:52] The Consul<STEAM_0:1:53097688> spawned model models/hlvr/combine_hazardprops/combinehazardprops_trashbag.mdl
+[12:19:13] The Consul<STEAM_0:1:53097688> spawned model models/hlvr/combine_hazardprops/combinehazardprops_crate.mdl
+[12:19:16] The Consul<STEAM_0:1:53097688> spawned model models/hlvr/combine_hazardprops/combinehazardprops_crate.mdl
+[12:19:18] The Consul<STEAM_0:1:53097688> spawned model models/hlvr/combine_hazardprops/combinehazardprops_crate.mdl
+[12:19:30] The Consul<STEAM_0:1:53097688> spawned model models/hlvr/combine_hazardprops/combinehazardprops_container.mdl
+[12:19:44] The Consul<STEAM_0:1:53097688> spawned model models/hlvr/combine_hazardprops/combinehazardprops_warningsign.mdl
+[12:20:14] The Consul set the hp for Themself to 999999
+[12:20:20] The Consul set the hp for Themself to 999999999
+[12:20:22] The Consul<STEAM_0:1:53097688> spawned model models/hlvr/combine_hazardprops/combinehazardprops_forcefield_right.mdl
+[12:20:36] The Consul<STEAM_0:1:53097688> spawned model models/hlvr/combine_hazardprops/combinehazardprops_forcefield_left.mdl
+[12:20:51] The Consul<STEAM_0:1:53097688> used the tool nocollideeverything on maps/rp_city8_edit_v4r.bsp
+[12:20:52] The Consul<STEAM_0:1:53097688> used the tool nocollideeverything on models/hlvr/combine_hazardprops/combinehazardprops_forcefield_left.mdl
+[12:20:54] The Consul<STEAM_0:1:53097688> spawned model models/hlvr/combine_hazardprops/combinehazardprops_forcefield_right.mdl
+[12:23:34] The Consul<STEAM_0:1:53097688> used the tool nocollideeverything on models/hlvr/combine_hazardprops/combinehazardprops_forcefield_right.mdl
+[12:24:23] The Consul<STEAM_0:1:53097688> used the tool stacker_improved on models/hlvr/combine_hazardprops/combinehazardprops_forcefield_right.mdl
+[12:24:23] The Consul<STEAM_0:1:53097688> spawned model models/hlvr/combine_hazardprops/combinehazardprops_forcefield_right.mdl
+[12:24:26] The Consul<STEAM_0:1:53097688> used the tool stacker_improved on models/hlvr/combine_hazardprops/combinehazardprops_forcefield_left.mdl
+[12:24:26] The Consul<STEAM_0:1:53097688> spawned model models/hlvr/combine_hazardprops/combinehazardprops_forcefield_left.mdl
+[12:25:17] The Consul<STEAM_0:1:53097688> spawned model models/hlvr/distillery_gunk/distillerygunk_gunk.mdl
+[12:25:18] The Consul<STEAM_0:1:53097688> spawned model models/hlvr/combine_hazardprops/combinehazardprops_warningsign.mdl
+[12:25:29] The Consul<STEAM_0:1:53097688> used the tool stacker_improved on models/hlvr/combine_hazardprops/combinehazardprops_forcefield_right.mdl
+[12:25:31] The Consul<STEAM_0:1:53097688> used the tool nocollideeverything on models/hlvr/combine_hazardprops/combinehazardprops_forcefield_right.mdl
+[12:25:31] The Consul<STEAM_0:1:53097688> used the tool nocollideeverything on models/hlvr/combine_hazardprops/combinehazardprops_forcefield_right.mdl
+[12:25:31] The Consul<STEAM_0:1:53097688> used the tool nocollideeverything on maps/rp_city8_edit_v4r.bsp
+[12:25:31] The Consul<STEAM_0:1:53097688> used the tool nocollideeverything on maps/rp_city8_edit_v4r.bsp
+[12:25:32] The Consul<STEAM_0:1:53097688> used the tool nocollideeverything on models/hlvr/combine_hazardprops/combinehazardprops_forcefield_left.mdl
+[12:25:32] The Consul<STEAM_0:1:53097688> used the tool nocollideeverything on models/hlvr/combine_hazardprops/combinehazardprops_forcefield_left.mdl
+[12:25:32] The Consul<STEAM_0:1:53097688> used the tool nocollideeverything on models/hlvr/combine_hazardprops/combinehazardprops_forcefield_left.mdl
+[12:25:32] The Consul<STEAM_0:1:53097688> used the tool nocollideeverything on models/hlvr/combine_hazardprops/combinehazardprops_forcefield_left.mdl
+[12:25:32] The Consul<STEAM_0:1:53097688> used the tool nocollideeverything on models/hlvr/combine_hazardprops/combinehazardprops_forcefield_left.mdl
+[12:25:32] The Consul<STEAM_0:1:53097688> used the tool nocollideeverything on models/hlvr/combine_hazardprops/combinehazardprops_forcefield_left.mdl
+[12:25:33] The Consul<STEAM_0:1:53097688> used the tool nocollideeverything on maps/rp_city8_edit_v4r.bsp
+[12:25:33] The Consul<STEAM_0:1:53097688> used the tool nocollideeverything on models/hlvr/combine_hazardprops/combinehazardprops_forcefield_right.mdl
+[12:25:33] The Consul<STEAM_0:1:53097688> used the tool nocollideeverything on models/hlvr/combine_hazardprops/combinehazardprops_forcefield_right.mdl
+[12:25:33] The Consul<STEAM_0:1:53097688> used the tool nocollideeverything on models/hlvr/combine_hazardprops/combinehazardprops_forcefield_right.mdl
+[12:25:34] The Consul<STEAM_0:1:53097688> used the tool nocollideeverything on maps/rp_city8_edit_v4r.bsp
+[12:25:34] The Consul<STEAM_0:1:53097688> used the tool nocollideeverything on maps/rp_city8_edit_v4r.bsp
+[12:25:34] The Consul<STEAM_0:1:53097688> used the tool nocollideeverything on maps/rp_city8_edit_v4r.bsp
+[12:25:34] The Consul<STEAM_0:1:53097688> used the tool nocollideeverything on models/hlvr/combine_hazardprops/combinehazardprops_forcefield_left.mdl
+[12:25:34] The Consul<STEAM_0:1:53097688> used the tool nocollideeverything on models/hlvr/combine_hazardprops/combinehazardprops_forcefield_left.mdl
+[12:25:48] The Consul<STEAM_0:1:53097688> used the tool nocollideeverything on maps/rp_city8_edit_v4r.bsp
+[12:26:12] The Consul<STEAM_0:1:53097688> used the tool stacker_improved on models/hlvr/combine_hazardprops/combinehazardprops_forcefield_right.mdl
+[12:26:12] The Consul<STEAM_0:1:53097688> spawned model models/hlvr/combine_hazardprops/combinehazardprops_forcefield_right.mdl
+[12:26:23] The Consul<STEAM_0:1:53097688> used the tool stacker_improved on models/hlvr/combine_hazardprops/combinehazardprops_forcefield_left.mdl
+[12:26:23] The Consul<STEAM_0:1:53097688> spawned model models/hlvr/combine_hazardprops/combinehazardprops_forcefield_left.mdl
+[12:26:28] The Consul<STEAM_0:1:53097688> used the tool nocollideeverything on models/hlvr/combine_hazardprops/combinehazardprops_forcefield_left.mdl
+[12:26:28] The Consul<STEAM_0:1:53097688> used the tool nocollideeverything on models/hlvr/combine_hazardprops/combinehazardprops_forcefield_left.mdl
+[12:26:28] The Consul<STEAM_0:1:53097688> used the tool nocollideeverything on models/hlvr/combine_hazardprops/combinehazardprops_forcefield_left.mdl
+[12:26:28] The Consul<STEAM_0:1:53097688> used the tool nocollideeverything on models/hlvr/combine_hazardprops/combinehazardprops_forcefield_left.mdl
+[12:26:29] The Consul<STEAM_0:1:53097688> used the tool nocollideeverything on maps/rp_city8_edit_v4r.bsp
+[12:26:29] The Consul<STEAM_0:1:53097688> used the tool nocollideeverything on models/hlvr/combine_hazardprops/combinehazardprops_forcefield_right.mdl
+[12:26:29] The Consul<STEAM_0:1:53097688> used the tool nocollideeverything on maps/rp_city8_edit_v4r.bsp
+[12:26:30] The Consul<STEAM_0:1:53097688> used the tool nocollideeverything on maps/rp_city8_edit_v4r.bsp
+[12:26:30] The Consul<STEAM_0:1:53097688> used the tool nocollideeverything on models/hlvr/combine_hazardprops/combinehazardprops_forcefield_right.mdl
+[12:26:30] The Consul<STEAM_0:1:53097688> used the tool nocollideeverything on models/hlvr/combine_hazardprops/combinehazardprops_forcefield_right.mdl
+[12:26:30] The Consul<STEAM_0:1:53097688> used the tool nocollideeverything on models/hlvr/combine_hazardprops/combinehazardprops_forcefield_right.mdl
+[12:26:30] The Consul<STEAM_0:1:53097688> used the tool nocollideeverything on models/hlvr/combine_hazardprops/combinehazardprops_forcefield_right.mdl
+[12:26:30] The Consul<STEAM_0:1:53097688> used the tool nocollideeverything on models/hlvr/combine_hazardprops/combinehazardprops_forcefield_right.mdl
+[12:26:31] The Consul<STEAM_0:1:53097688> used the tool nocollideeverything on models/hlvr/combine_hazardprops/combinehazardprops_forcefield_right.mdl
+[12:26:31] The Consul<STEAM_0:1:53097688> used the tool nocollideeverything on models/hlvr/combine_hazardprops/combinehazardprops_forcefield_right.mdl
+[12:26:31] The Consul<STEAM_0:1:53097688> used the tool nocollideeverything on models/hlvr/combine_hazardprops/combinehazardprops_forcefield_right.mdl
+[12:26:31] The Consul<STEAM_0:1:53097688> used the tool nocollideeverything on maps/rp_city8_edit_v4r.bsp
+[12:26:31] The Consul<STEAM_0:1:53097688> used the tool nocollideeverything on models/hlvr/combine_hazardprops/combinehazardprops_forcefield_right.mdl
+[12:26:31] The Consul<STEAM_0:1:53097688> used the tool nocollideeverything on models/hlvr/combine_hazardprops/combinehazardprops_forcefield_right.mdl
+[12:26:32] The Consul<STEAM_0:1:53097688> used the tool nocollideeverything on models/hlvr/combine_hazardprops/combinehazardprops_forcefield_right.mdl
+[12:26:32] The Consul<STEAM_0:1:53097688> used the tool nocollideeverything on maps/rp_city8_edit_v4r.bsp
+[12:26:32] The Consul<STEAM_0:1:53097688> used the tool nocollideeverything on models/hlvr/combine_hazardprops/combinehazardprops_forcefield_left.mdl
+[12:26:32] The Consul<STEAM_0:1:53097688> used the tool nocollideeverything on models/hlvr/combine_hazardprops/combinehazardprops_forcefield_left.mdl
+[12:26:33] The Consul<STEAM_0:1:53097688> used the tool nocollideeverything on models/hlvr/combine_hazardprops/combinehazardprops_forcefield_left.mdl
+[12:26:33] The Consul<STEAM_0:1:53097688> used the tool nocollideeverything on models/hlvr/combine_hazardprops/combinehazardprops_forcefield_left.mdl
+[12:26:36] The Consul<STEAM_0:1:53097688> used the tool permaprops on models/hlvr/combine_hazardprops/combinehazardprops_forcefield_left.mdl
+[12:26:36] The Consul<STEAM_0:1:53097688> used the tool permaprops on models/hlvr/combine_hazardprops/combinehazardprops_forcefield_left.mdl
+[12:26:37] The Consul<STEAM_0:1:53097688> used the tool permaprops on models/hlvr/combine_hazardprops/combinehazardprops_forcefield_right.mdl
+[12:26:39] The Consul<STEAM_0:1:53097688> used the tool permaprops on models/hlvr/combine_hazardprops/combinehazardprops_forcefield_right.mdl
+[12:27:17] The Consul<STEAM_0:1:53097688> used the tool permaprops on models/hlvr/combine_hazardprops/combinehazardprops_warningsign.mdl
+[12:28:01] The Consul<STEAM_0:1:53097688> spawned model models/hlvr/combine_hazardprops/combinehazardprops_warningsign.mdl
+[12:28:15] The Consul<STEAM_0:1:53097688> spawned model models/props_c17/fence04a.mdl
+[12:28:36] The Consul<STEAM_0:1:53097688> spawned model models/props_wasteland/interior_fence004b.mdl
+[12:28:37] The Consul<STEAM_0:1:53097688> spawned model models/props_wasteland/interior_fence004a.mdl
+[12:28:48] The Consul<STEAM_0:1:53097688> spawned model models/props_wasteland/interior_fence004b.mdl
+[12:29:01] The Consul<STEAM_0:1:53097688> used the tool permaprops on models/props_wasteland/interior_fence004b.mdl
+[12:29:04] The Consul<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/interior_fence004b.mdl
+[12:29:13] The Consul<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_wasteland/interior_fence004b.mdl
+[12:29:32] The Consul<STEAM_0:1:53097688> used the tool permaprops on models/props_wasteland/interior_fence004b.mdl
+[12:29:42] The Consul<STEAM_0:1:53097688> spawned model models/hlvr/combine_hazardprops/combinehazardprops_warningsign.mdl
+[12:30:10] The Consul<STEAM_0:1:53097688> used the tool permaprops on models/hlvr/combine_hazardprops/combinehazardprops_warningsign.mdl
+[12:30:18] The Consul<STEAM_0:1:53097688> spawned model models/hlvr/distillery_gunk/distillerygunk_gunk.mdl
+[12:30:35] The Consul<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city8_edit_v4r.bsp
+[12:30:48] The Consul<STEAM_0:1:53097688> spawned model models/hlvr/combine_hazardprops/combinehazardprops_hoover.mdl
+[12:31:10] The Consul<STEAM_0:1:53097688> spawned model models/hlvr/combine_hazardprops/combinehazardprops_clothe.mdl
+[12:31:14] The Consul<STEAM_0:1:53097688> spawned model models/hlvr/combine_hazardprops/combinehazardprops_clothe.mdl
+[12:31:18] The Consul<STEAM_0:1:53097688> spawned model models/hlvr/combine_hazardprops/combinehazardprops_trashbag.mdl
+[12:31:24] The Consul<STEAM_0:1:53097688> spawned model models/hlvr/combine_hazardprops/combinehazardprops_lamp.mdl
+[12:31:46] The Consul<STEAM_0:1:53097688> spawned model models/hlvr/combine_hazardprops/combinehazardprops_lamp.mdl
+[12:31:48] The Consul<STEAM_0:1:53097688> used the tool permaprops on models/hlvr/combine_hazardprops/combinehazardprops_lamp.mdl
+[12:31:55] The Consul<STEAM_0:1:53097688> spawned model models/hlvr/combine_hazardprops/combinehazardprops_container.mdl
+[12:31:57] The Consul<STEAM_0:1:53097688> spawned model models/hlvr/combine_hazardprops/combinehazardprops_crate.mdl
+[12:32:03] The Consul<STEAM_0:1:53097688> spawned model models/hlvr/combine_hazardprops/combinehazardprops_barrel_lock.mdl
+[12:32:06] The Consul<STEAM_0:1:53097688> spawned model models/hlvr/combine_hazardprops/combinehazardprops_barrel.mdl
+[12:32:11] The Consul<STEAM_0:1:53097688> spawned model models/hlvr/combine_hazardprops/combinehazardprops_detector.mdl
+[12:32:13] The Consul<STEAM_0:1:53097688> spawned model models/hlvr/distillery_gunk/distillerygunk_gunk.mdl
+[12:32:21] The Consul: /toggleraise
+[12:32:26] The Consul<STEAM_0:1:53097688> spawned model models/hlvr/combine_hazardprops/combinehazardprops_lamp.mdl
+[12:33:24] The Consul<STEAM_0:1:53097688> spawned model models/props_c17/lockers001a.mdl
+[12:33:47] The Consul<STEAM_0:1:53097688> spawned model models/props_wasteland/kitchen_shelf001a.mdl
+[12:34:18] The Consul<STEAM_0:1:53097688> spawned model models/props/de_nuke/nuclearcontrolbox.mdl
+[12:34:32] The Consul<STEAM_0:1:53097688> used the tool permaprops on models/props/de_nuke/nuclearcontrolbox.mdl
+[12:34:43] The Consul<STEAM_0:1:53097688> spawned model models/props/de_nuke/industriallight01.mdl
+[12:35:03] The Consul<STEAM_0:1:53097688> spawned model models/props/cs_militia/bathroomwallhole01_wood_broken.mdl
+[12:35:22] The Consul<STEAM_0:1:53097688> spawned model models/props_combine/combine_interface003.mdl
+[12:35:24] The Consul<STEAM_0:1:53097688> spawned model models/props_combine/combine_interface002.mdl
+[12:35:27] The Consul<STEAM_0:1:53097688> spawned model models/props_combine/combine_interface001.mdl
+[12:35:31] The Consul<STEAM_0:1:53097688> spawned model models/props_combine/combine_interface001.mdl
+[12:35:35] The Consul<STEAM_0:1:53097688> spawned model models/props_combine/combine_intmonitor001.mdl
+[12:35:49] The Consul<STEAM_0:1:53097688> spawned model models/props_combine/combine_intwallunit.mdl
+[12:36:09] The Consul<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/combine_intmonitor001.mdl
+[12:36:10] The Consul<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/combine_interface001.mdl
+[12:36:17] The Consul<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/combine_intwallunit.mdl
+[12:37:01] The Consul<STEAM_0:1:53097688> spawned model models/props_warehouse/toolbox.mdl
+[12:38:31] The Consul<STEAM_0:1:53097688> spawned model models/ccr/props/health_charger.mdl
+[12:38:41] The Consul: /chargiveitem consul "empty antlion" 3
+[12:39:37] The Consul: /createcustomitem "Blood Sample" models/illusion/eftcontainers/bloodsample.mdl "A blood sample in a vial with a label that reads 'VX-4301'"
+[12:39:41] The Consul: /createcustomitem "Blood Sample" models/illusion/eftcontainers/bloodsample.mdl "A blood sample in a vial with a label that reads 'VX-4301',"
+[12:39:44] The Consul: /createcustomitem "Blood Sample" models/illusion/eftcontainers/bloodsample.mdl "A blood sample in a vial with a label that reads 'VX-4301'."
+[12:40:01] The Consul<STEAM_0:1:53097688> spawned/gave himself swep weapon_ar2
+[12:40:01] The Consul: /toggleraise
+[12:40:20] The Consul<STEAM_0:1:53097688> used the tool permaprops on models/hlvr/combine_hazardprops/combinehazardprops_lamp.mdl
+[12:40:21] The Consul<STEAM_0:1:53097688> used the tool permaprops on models/hlvr/combine_hazardprops/combinehazardprops_barrel_lock.mdl
+[12:40:22] The Consul<STEAM_0:1:53097688> used the tool permaprops on models/hlvr/combine_hazardprops/combinehazardprops_barrel.mdl
+[12:40:24] The Consul<STEAM_0:1:53097688> used the tool permaprops on models/hlvr/combine_hazardprops/combinehazardprops_container.mdl
+[12:40:24] The Consul<STEAM_0:1:53097688> used the tool permaprops on models/hlvr/combine_hazardprops/combinehazardprops_crate.mdl
+[12:40:24] The Consul<STEAM_0:1:53097688> used the tool permaprops on models/hlvr/combine_hazardprops/combinehazardprops_crate.mdl
+[12:40:24] The Consul<STEAM_0:1:53097688> used the tool permaprops on models/hlvr/combine_hazardprops/combinehazardprops_crate.mdl
+[12:40:27] The Consul<STEAM_0:1:53097688> used the tool permaprops on models/hlvr/combine_hazardprops/combinehazardprops_lamp.mdl
+[12:40:27] The Consul<STEAM_0:1:53097688> used the tool permaprops on models/hlvr/combine_hazardprops/combinehazardprops_clothe.mdl
+[12:40:28] The Consul<STEAM_0:1:53097688> used the tool permaprops on models/hlvr/distillery_gunk/distillerygunk_gunk.mdl
+[12:40:31] The Consul<STEAM_0:1:53097688> used the tool permaprops on models/hlvr/combine_hazardprops/combinehazardprops_trashbag.mdl
+[12:40:31] The Consul<STEAM_0:1:53097688> used the tool permaprops on models/props_wasteland/kitchen_shelf001a.mdl
+[12:40:33] The Consul<STEAM_0:1:53097688> used the tool permaprops on models/hlvr/combine_hazardprops/combinehazardprops_clothe.mdl
+[12:40:35] The Consul<STEAM_0:1:53097688> used the tool permaprops on models/props_c17/lockers001a.mdl
+[12:40:35] The Consul<STEAM_0:1:53097688> used the tool permaprops on models/props_c17/lockers001a.mdl
+[12:40:38] The Consul<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city8_edit_v4r.bsp
+[12:40:39] The Consul<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city8_edit_v4r.bsp
+[12:40:39] The Consul<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city8_edit_v4r.bsp
+[12:40:39] The Consul<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city8_edit_v4r.bsp
+[12:40:49] The Consul<STEAM_0:1:53097688> used the tool permaprops on models/hlvr/distillery_gunk/distillerygunk_gunk.mdl
+[12:40:53] The Consul<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city8_edit_v4r.bsp
+[12:42:27] The Consul: /adminspawnmenu
+[12:42:51] The Consul: /chargiveitem consul "reclaimed metal" 2
+[12:44:08] The Consul: /adminspawnmenu
+[12:44:34] The Consul: /chargiveitem consul "duct tape" 4
+[12:44:37] The Consul: /chargiveitem consul "duct tape" 8
+[12:48:05] Client "¢higgy ¢higgy" connected.
+[12:49:56] The Consul: /chargiveitem consul "cables" 5
+[12:52:13] The Consul: /toggleraise
+[12:52:14] The Consul: /toggleraise
+[12:52:24] Client "FB|| light ROOM" connected.
+[12:52:51] The Consul: /chargiveitem consul "lcd screen" 5
+[12:52:56] The Consul: /chargiveitem consul "lcd display"
+[12:52:59] The Consul: /chargiveitem consul "lcd"
+[12:53:39] The Consul: /chargiveitem consul "minimal grade ration" 7
+[12:53:57] Client "¢higgy ¢higgy" spawned in server <STEAM_0:0:69154315> (took 352 seconds).
+[12:54:28] Client "FB|| light ROOM" spawned in server <STEAM_0:1:17219621> (took 124 seconds).
+[12:54:48] The Consul<STEAM_0:1:53097688> spawned model models/props_downtown/booth_table.mdl
+[12:55:12] The Consul<STEAM_0:1:53097688> used the tool permaprops on models/props_downtown/booth_table.mdl
+[12:55:30] The Consul<STEAM_0:1:53097688> spawned model models/props_interiors/table_cafeteria.mdl
+[12:55:35] The Consul<STEAM_0:1:53097688> spawned model models/props_interiors/table_cafeteria.mdl
+[12:55:52] The Consul<STEAM_0:1:53097688> used the tool stacker_improved on models/props_interiors/table_cafeteria.mdl
+[12:55:52] The Consul<STEAM_0:1:53097688> spawned model models/props_interiors/table_cafeteria.mdl
+[12:55:52] The Consul<STEAM_0:1:53097688> spawned model models/props_interiors/table_cafeteria.mdl
+[12:55:52] The Consul<STEAM_0:1:53097688> spawned model models/props_interiors/table_cafeteria.mdl
+[12:55:52] The Consul<STEAM_0:1:53097688> spawned model models/props_interiors/table_cafeteria.mdl
+[12:55:52] The Consul<STEAM_0:1:53097688> spawned model models/props_interiors/table_cafeteria.mdl
+[12:55:52] The Consul<STEAM_0:1:53097688> spawned model models/props_interiors/table_cafeteria.mdl
+[12:55:52] The Consul<STEAM_0:1:53097688> spawned model models/props_interiors/table_cafeteria.mdl
+[12:55:52] The Consul<STEAM_0:1:53097688> spawned model models/props_interiors/table_cafeteria.mdl
+[12:55:52] The Consul<STEAM_0:1:53097688> spawned model models/props_interiors/table_cafeteria.mdl
+[12:55:52] The Consul<STEAM_0:1:53097688> spawned model models/props_interiors/table_cafeteria.mdl
+[12:55:52] The Consul<STEAM_0:1:53097688> spawned model models/props_interiors/table_cafeteria.mdl
+[12:55:58] The Consul<STEAM_0:1:53097688> used the tool stacker_improved on models/props_interiors/table_cafeteria.mdl
+[12:55:58] The Consul<STEAM_0:1:53097688> spawned model models/props_interiors/table_cafeteria.mdl
+[12:55:58] The Consul<STEAM_0:1:53097688> spawned model models/props_interiors/table_cafeteria.mdl
+[12:55:58] The Consul<STEAM_0:1:53097688> spawned model models/props_interiors/table_cafeteria.mdl
+[12:55:58] The Consul<STEAM_0:1:53097688> spawned model models/props_interiors/table_cafeteria.mdl
+[12:55:58] The Consul<STEAM_0:1:53097688> spawned model models/props_interiors/table_cafeteria.mdl
+[12:55:58] The Consul<STEAM_0:1:53097688> spawned model models/props_interiors/table_cafeteria.mdl
+[12:55:58] The Consul<STEAM_0:1:53097688> spawned model models/props_interiors/table_cafeteria.mdl
+[12:55:58] The Consul<STEAM_0:1:53097688> spawned model models/props_interiors/table_cafeteria.mdl
+[12:55:58] The Consul<STEAM_0:1:53097688> spawned model models/props_interiors/table_cafeteria.mdl
+[12:55:58] The Consul<STEAM_0:1:53097688> spawned model models/props_interiors/table_cafeteria.mdl
+[12:55:58] The Consul<STEAM_0:1:53097688> spawned model models/props_interiors/table_cafeteria.mdl
+[12:56:01] The Consul<STEAM_0:1:53097688> used the tool permaprops on models/props_interiors/table_cafeteria.mdl
+[12:56:01] The Consul<STEAM_0:1:53097688> used the tool permaprops on models/props_interiors/table_cafeteria.mdl
+[12:56:26] FB|| light ROOM<STEAM_0:1:17219621> changed their name to CCA.C08-QrM.98240
+[12:56:27] Client "man" spawned in server <STEAM_0:1:191784883> (took 3812 seconds).
+[12:56:31] CCA.C08-QrM.98240: // Yo
+[12:56:33] The Consul: //what's good
+[12:56:44] The Consul: //hiding loot
+[12:56:46] CCA.C08-QrM.98240: // 4 players, neato
+[12:56:48] The Consul: //also check out what i propped in the sewers
+[12:56:52] CCA.C08-QrM.98240: // Aight
+[12:57:21] CCA.C08-QrM.98240: // Neato
+[12:57:28] The Consul: //wat
+[12:57:33] The Consul: //come to me
+[12:57:41] CCA.C08-QrM.98240: // Oh this
+[12:57:44] The Consul: //yeah
+[12:57:49] CCA.C08-QrM.98240: // I was looking at some other shit
+[12:57:56] CCA.C08-QrM.98240: // This is also cool
+[12:58:24] CCA.C08-QrM.98240: // Why do I have over 700 pistol rounds.
+[12:58:24] The Consul set the hp for CCA.C08-QrM.98240 to 1090
+[12:58:25] The Consul set the hp for CCA.C08-QrM.98240 to 100
+[12:58:28] CCA.C08-QrM.98240 suicided!
+[12:58:29] The Consul slayed CCA.C08-QrM.98240
+[12:58:30] The Consul: //you don't anymore
+[12:58:33] CCA.C08-QrM.98240: // rude
+[12:58:40] The Consul: /toggleraise
+[12:58:41] The Consul: /toggleraise
+[12:58:45] CCA.C08-QrM.98240: // Uh
+[12:58:56] The Consul: //?
+[12:58:58] CCA.C08-QrM.98240: // Pretty sure I wasn't supposed to spawn here lmao
+[12:59:02] The Consul teleported to CCA.C08-QrM.98240
+[12:59:07] The Consul: //definitely wasn't
+[12:59:10] CCA.C08-QrM.98240 suicided!
+[12:59:10] The Consul slayed CCA.C08-QrM.98240
+[12:59:12] CCA.C08-QrM.98240: // ow
+[12:59:18] The Consul: //wtf
+[12:59:21] CCA.C08-QrM.98240: // hm
+[12:59:22] CCA.C08-QrM.98240 suicided!
+[12:59:22] The Consul slayed CCA.C08-QrM.98240
+[12:59:25] The Consul: //did spawnpoints ide
+[12:59:27] The Consul: /die*
+[12:59:39] The Consul<STEAM_0:1:53097688> changed their name to CCA.C08-UNION.i1.51023
+[12:59:40] CCA.C08-UNION.i1.51023 suicided!
+[12:59:40] CCA.C08-UNION.i1.51023 slayed Themself
+[12:59:52] CCA.C08-UNION.i1.51023: //worksfor me
+[13:00:13] CCA.C08-QrM.98240: // Maybe QrM specifically is fucked?
+[13:00:17] CCA.C08-UNION.i1.51023: //maybe
+[13:00:35] CCA.C08-UNION.i1.51023<STEAM_0:1:53097688> spawned/gave himself swep weapon_shotgun
+[13:00:36] CCA.C08-UNION.i1.51023: /toggleraise
+[13:00:57] CCA.C08-UNION.i1.51023: /chargiveitem union "consulate water "3
+[13:00:59] CCA.C08-UNION.i1.51023: /chargiveitem union "consulate water" 3
+[13:01:06] CCA.C08-UNION.i1.51023: /chargiveitem union "flavored consulate water" 3
+[13:01:10] CCA.C08-UNION.i1.51023: /chargiveitem union "sparkling consulate water" 3
+[13:01:30] CCA.C08-UNION.i1.51023: /chargiveitem union "biotic grade bev" 3
+[13:02:36] CCA.C08-UNION.i1.51023: /chargiveitem union "uu brand pickle"
+[13:02:38] CCA.C08-UNION.i1.51023: /chargiveitem union "uu brand pickle"
+[13:03:15] CCA.C08-QrM.98240: // S Q U I D
+[13:03:17] CCA.C08-UNION.i1.51023: /adminspawnmenu
+[13:03:32] CCA.C08-UNION.i1.51023: /chargiveitem union "bandage" 5
+[13:03:36] CCA.C08-UNION.i1.51023: /chargiveitem union "health vial"
+[13:03:44] CCA.C08-QrM.98240: // When is the Necromorph hivemind showing up?
+[13:03:50] CCA.C08-UNION.i1.51023: //when the
+[13:03:53] CCA.C08-UNION.i1.51023: //the
+[13:03:54] CCA.C08-QrM.98240: // I see
+[13:03:56] CCA.C08-UNION.i1.51023: //when
+[13:04:04] CCA.C08-UNION.i1.51023: //wait it's 2:03 and it's just you and me
+[13:04:30] CCA.C08-QrM.98240: // It says we have 4 players.
+[13:04:31] CCA.C08-QrM.98240: // Bro
+[13:04:40] CCA.C08-UNION.i1.51023: //yeah two others connected, just not on chars
+[13:04:50] CCA.C08-QrM.98240: // F
+[13:05:47] ¢higgy ¢higgy<STEAM_0:0:69154315> changed their name to Frank Jackson
+[13:06:03] CCA.C08-QrM.98240<STEAM_0:1:17219621> changed their name to Ethan King
+[13:06:08] CCA.C08-UNION.i1.51023: //howdy howdy
+[13:06:14] CCA.C08-UNION.i1.51023: //what's up chiggy
+[13:06:15] Frank Jackson: // hello and hey
+[13:07:18] CCA.C08-UNION.i1.51023: //almost all of the loot is hidden
+[13:07:22] CCA.C08-UNION.i1.51023: //i have two more items to hide
+[13:07:25] Frank Jackson: // did you say LOOT
+[13:08:09] Frank Jackson: /content
+[13:08:15] man<STEAM_0:1:191784883> changed their name to Mal Tresto
+[13:08:28] Mal Tresto: /pm i1 nigga chigga i want my donor whitelists :(
+[13:08:41] Mal Tresto was killed by trigger_hurt
+[13:08:51] Mal Tresto was killed by trigger_hurt
+[13:08:54] Ethan King: // LootRP when
+[13:09:01] Mal Tresto was killed by trigger_hurt
+[13:09:01] CCA.C08-UNION.i1.51023: //howdy davey
+[13:09:07] Mal Tresto: // since when has my ping been so fucking bad
+[13:09:10] Mal Tresto was killed by trigger_hurt
+[13:09:12] CCA.C08-UNION.i1.51023: /pm mal working on it
+[13:09:16] Mal Tresto: /reply kk
+[13:09:29] Mal Tresto: // yall still use the buggy adminspawnmenu?
+[13:09:38] Mal Tresto: // how do i cancel this shit
+[13:09:41] Mal Tresto: // i dont wanna be turned into a flesh bag
+[13:10:02] CCA.C08-UNION.i1.51023: /plywhitelist mal bird
+[13:10:04] CCA.C08-UNION.i1.51023: /plywhitelist mal cac
+[13:10:04] Ethan King to admins: I recommend you transfer him
+[13:10:07] CCA.C08-UNION.i1.51023: /plywhitelist mal alien
+[13:10:12] CCA.C08-UNION.i1.51023 to admins: transfer who
+[13:10:16] Ethan King to admins: Mal
+[13:10:23] Mal Tresto: // you are choking.. you need a gas mask.. cool
+[13:10:25] CCA.C08-UNION.i1.51023 to admins: oh, you mean handle his data
+[13:10:25] Ethan King to admins: He's hitting a camera ;-;
+[13:10:27] CCA.C08-UNION.i1.51023: //look in your inv
+[13:10:33] Mal Tresto: // too bad i am fucking IMMORTAL
+[13:10:46] CCA.C08-UNION.i1.51023: /toggleraise
+[13:10:48] Dropped "Frank Jackson" from server<STEAM_0:0:69154315>
+[13:10:49] Client "¢higgy ¢higgy" connected.
+[13:10:53] CCA.C08-UNION.i1.51023: /y hold it
+[13:10:55] Client "dank" connected.
+[13:10:59] CCA.C08-UNION.i1.51023: get on the wall
+[13:11:00] CCA.C08-UNION.i1.51023: Do it now.
+[13:11:01] Mal Tresto: .// imagine being i1 on your own server smh
+[13:11:20] CCA.C08-UNION.i1.51023: .//imagine not patrolling on a DvL on your own server smh
+[13:11:27] Mal Tresto: .// yea smh smh
+[13:11:30] Mal Tresto: .// gotta be the generic owner
+[13:11:34] Mal Tresto: .// CMD, SeC and DvL chars
+[13:11:44] Mal Tresto: .// also 5 stalker slaves in your office
+[13:11:58] Mal Tresto: .// pac editor..
+[13:12:00] CCA.C08-UNION.i1.51023: .//stalker sex slaves*
+[13:12:02] Mal Tresto: .// my beloved..
+[13:12:25] Mal Tresto: .// you mind if i add some *additions* via pac?
+[13:12:31] CCA.C08-UNION.i1.51023: .//feel free, just don't abuse it
+[13:12:31] Mal Tresto: .// im a fucking god at it afterall
+[13:12:39] CCA.C08-UNION.i1.51023: You are charged with 178, damage of UU property.
+[13:12:41] Mal Tresto: .// dw ill make stuff fair
+[13:12:58] CCA.C08-UNION.i1.51023: Administering sentencing.
+[13:13:01] CCA.C08-UNION.i1.51023: /me flicks his stunstick on medium.
+[13:13:19] CCA.C08-UNION.i1.51023: /me would prepare to strike the citizen on the back. Would the citizen do anything before the swinG?
+[13:13:29] Client "¢higgy ¢higgy" spawned in server <STEAM_0:0:69154315> (took 160 seconds).
+[13:13:32] Client "wheat" connected.
+[13:13:32] Mal Tresto: .// im not really into painrp srry daddy
+[13:13:39] CCA.C08-UNION.i1.51023: .//please don't call me that
+[13:13:45] Mal Tresto: .// you dug your own grave
+[13:14:05] CCA.C08-UNION.i1.51023: /me would deliver a firm blow to the man's back, directly in its vertical middle.
+[13:14:10] ¢higgy ¢higgy<STEAM_0:0:69154315> changed their name to Frank Jackson
+[13:14:24] CCA.C08-UNION.i1.51023: /me would throw his arm back again and deliver a blow to the other side of the citizen's back, as if the hit was mirrored.
+[13:14:25] Mal Tresto: .// you dont wanna break my fucking spine
+[13:14:28] Mal Tresto: .// thats a fucking METAL baton
+[13:14:36] Mal Tresto: .// you dont want to cripple a citizen do ye?
+[13:14:38] CCA.C08-UNION.i1.51023: .//i never saw it as being all metal
+[13:14:43] CCA.C08-UNION.i1.51023: .//if it was all metal it would shock the CPs
+[13:14:46] Client "CHARGER" connected.
+[13:14:48] Mal Tresto: .// it has a rubber handle
+[13:14:49] Frank Jackson: /me noticing the spark of the stick, takes a glance over at the two.
+[13:14:51] Mal Tresto: .// as to not shock said cp's
+[13:14:54] Mal Tresto: .// look at the model lad
+[13:15:00] Frank Jackson: /me shakes his head with a frown.
+[13:15:01] Mal Tresto: .// its fully metal with an industrial rubber handle
+[13:15:11] CCA.C08-UNION.i1.51023: .//i'll take a look at it after this, i must beat you like a dog
+[13:15:18] Mal Tresto: .// ok
+[13:15:20] Client "wheat" spawned in server <STEAM_0:0:460056698> (took 108 seconds).
+[13:15:30] Mal Tresto: .// i like how nobody actually never paid attention to what it is
+[13:15:32] CCA.C08-UNION.i1.51023: /me would then deliver a final strike to the man's upper back, below the shoulder. He would not hit any harder than the last few, only at about the same force.
+[13:15:36] Mal Tresto: .// its a p heavy metal abton with a rubber grip
+[13:15:44] Mal Tresto: .// you can come stand under a light in a sec after this
+[13:15:55] CCA.C08-UNION.i1.51023: /me would flick his stunstick off and put it back on his utility belt.
+[13:15:55] CCA.C08-UNION.i1.51023: /toggleraise
+[13:16:02] CCA.C08-UNION.i1.51023: I let you off easy. Don't let...
+[13:16:05] CCA.C08-UNION.i1.51023: /me gestures toward the camera.
+[13:16:09] CCA.C08-UNION.i1.51023: ...That. Happen again.
+[13:16:16] CCA.C08-UNION.i1.51023: Approach the window behind me.
+[13:16:19] Frank Jackson: /me takes an aluminum can out of his pack.
+[13:16:27] Mal Tresto: // temperature?
+[13:16:34] Mal Tresto: .// when will you integrate temperature 
+[13:16:34] CCA.C08-UNION.i1.51023: //yeah, stormfox
+[13:16:41] Mal Tresto: .// int ohelix
+[13:16:44] CCA.C08-UNION.i1.51023: .//when i have less thingsto do for the rerelease
+[13:16:50] Mal Tresto: .// gay looking ass
+[13:16:54] Mal Tresto: .// my soda
+[13:16:56] wheat<STEAM_0:0:460056698> changed their name to Crabby
+[13:16:59] Frank Jackson: [[ look like you
+[13:17:01] CCA.C08-UNION.i1.51023: alright. Relocation coupon.
+[13:17:02] Mal Tresto: .// yea
+[13:17:04] Mal Tresto: .// thats the thing
+[13:17:06] CCA.C08-UNION.i1.51023: //howdy wheat
+[13:17:15] Crabby was killed by npc_headcrab
+[13:17:16] Crabby<STEAM_0:0:460056698> changed their name to CAC.C08-CRM.34712
+[13:17:17] CCA.C08-UNION.i1.51023: //we're getting ready to start, I just need to process this fuckin guy
+[13:17:19] CAC.C08-CRM.34712: // ello
+[13:17:19] Mal Tresto: // yoo lets form a crab gang
+[13:17:24] CCA.C08-UNION.i1.51023: wait here
+[13:17:24] CAC.C08-CRM.34712: // yesss
+[13:17:26] Mal Tresto: .// wait
+[13:17:29] CCA.C08-UNION.i1.51023: .//?
+[13:17:29] Mal Tresto: .// there's fucking cremators?
+[13:17:32] CCA.C08-UNION.i1.51023: .//yeah bro
+[13:17:36] Mal Tresto: .// lad you aint telling me shit, thats my favorite fucking character
+[13:17:41] CAC.C08-CRM.34712<STEAM_0:0:460056698> changed their name to Tiny Scratchy
+[13:17:45] Mal Tresto: .// good thing i paid $$
+[13:17:45] Tiny Scratchy: // scratchy
+[13:17:48] Tiny Scratchy: // giv pill
+[13:17:53] Mal Tresto: // food
+[13:17:54] CCA.C08-UNION.i1.51023: alright
+[13:17:54] CCA.C08-UNION.i1.51023: /me takes out their datapad and types a couple things in.
+[13:18:01] CCA.C08-UNION.i1.51023: I need some information from you.
+[13:18:07] CCA.C08-UNION.i1.51023: I need your date of birth and your sex.
+[13:18:10] Mal Tresto: .// is the info even relevant
+[13:18:13] CCA.C08-UNION.i1.51023: .//current IC year is 2006, the war was in 2003
+[13:18:19] Ethan King: // Crungle
+[13:18:21] Mal Tresto: .// also why ask me for my sex, you can just look thru them visors at me-
+[13:18:24] CCA.C08-UNION.i1.51023: .//it do be actually
+[13:18:25] Tiny Scratchy: // im going to be a chad and leave sewers :sunglasses:
+[13:18:26] Mal Tresto: .// well
+[13:18:29] Frank Jackson: // i gotta download CSS before i can play I think, i can't see shit
+[13:18:29] Mal Tresto: .// yea fair suit
+[13:18:30] Mal Tresto: .// you win
+[13:18:33] CCA.C08-UNION.i1.51023: .//hmmm it would seem by looking at your suit you're a humanoid
+[13:18:38] Mal Tresto: .// yea im a crab
+[13:18:41] Ethan King: // I would recommend you do so.
+[13:18:44] CCA.C08-UNION.i1.51023: .//answer the question you slut
+[13:18:48] Mal Tresto: .// i gotta fucking do math
+[13:18:50] Mal Tresto: .// i failed math
+[13:18:52] Mal Tresto: .// gimmie 50 mins
+[13:18:54] Dropped "Frank Jackson" from server<STEAM_0:0:69154315>
+[13:19:02] Mal Tresto: .// make up something for me that makes sense
+[13:19:04] Tiny Scratchy<STEAM_0:0:460056698> changed their name to OSA.S17-HNT.71758
+[13:19:04] Mal Tresto: .// i cannot do math
+[13:19:18] CCA.C08-UNION.i1.51023: .//1975 for a year
+[13:19:22] CCA.C08-UNION.i1.51023: .//makes you 31
+[13:19:30] Mal Tresto: Male, and 1975, 5'th of december
+[13:19:38] CCA.C08-UNION.i1.51023: alright.
+[13:19:39] Mal Tresto: // i dont like russians ^
+[13:19:41] CCA.C08-UNION.i1.51023: /viewdata mal
+[13:19:52] CCA.C08-UNION.i1.51023: And your sex?
+[13:19:59] Mal Tresto: i already said it-
+[13:20:00] Mal Tresto: male
+[13:20:03] CCA.C08-UNION.i1.51023: .//oh fuck
+[13:20:05] Mal Tresto: .// good thing i dont have i17 content
+[13:20:07] CCA.C08-UNION.i1.51023: /viewdata mal
+[13:20:14] CCA.C08-UNION.i1.51023: And do you know your blood type?
+[13:20:18] Mal Tresto: .// or else i'd have to deal with hearing the fucking shitlord every 2 minutes
+[13:20:18] Ethan King: // Imagine being an edgy Russian man.
+[13:20:20] OSA.S17-HNT.71758: // ok
+[13:20:26] CCA.C08-UNION.i1.51023: No problem if you don't, I can just mark it as a no.
+[13:20:32] CCA.C08-UNION.i1.51023: .//as an unknown*
+[13:20:33] CCA.C08-UNION.i1.51023: .//brain dead
+[13:20:41] Mal Tresto: if i remember correctly it was... AB
+[13:20:48] CCA.C08-UNION.i1.51023: AB what?
+[13:20:50] CCA.C08-UNION.i1.51023: Positive, negative?
+[13:21:08] Mal Tresto: Uhh... *'the man would trail off for a bit trying to remember'* Positive
+[13:21:12] CCA.C08-UNION.i1.51023: You seem unsure.
+[13:21:15] OSA.S17-HNT.71758: // aiuhufgiug
+[13:21:16] CCA.C08-UNION.i1.51023: I'll just put down unknown
+[13:21:19] Ethan King: // Imagine being a shit Hunter and not a chad Synth Soldier.
+[13:21:21] CCA.C08-UNION.i1.51023: /viewdata mal
+[13:21:22] Mal Tresto: Memory's a bit fuzzy
+[13:21:46] Mal Tresto: // how much do i pay to become cremator
+[13:21:50] OSA.S17-HNT.71758: // forums
+[13:21:51] CCA.C08-UNION.i1.51023: //$15 in total
+[13:21:59] OSA.S17-HNT.71758: // w
+[13:22:08] OSA.S17-HNT.71758: // reminds me
+[13:22:09] CCA.C08-UNION.i1.51023: Do you have any medical conditions? IBS, arthritis, eczema, anything like that?
+[13:22:12] OSA.S17-HNT.71758: // conscripts suck
+[13:22:16] Ethan King: // Fuck you
+[13:22:16] Mal Tresto: Nope
+[13:22:22] OSA.S17-HNT.71758: // anything is better than conscript
+[13:22:25] CCA.C08-UNION.i1.51023: alright
+[13:22:27] Mal Tresto: // conscripts are the most useless fucking faction in the entire history of hl2rp
+[13:22:28] CCA.C08-UNION.i1.51023: /viewdata mal
+[13:22:34] Mal Tresto: // my personal opinion but they fucking SUCK
+[13:22:35] OSA.S17-HNT.71758: // lowest fucking level in the entire of the UU
+[13:22:46] OSA.S17-HNT.71758: // they are known for going rogue
+[13:22:46] Ethan King: // I will now abuse my admin powers to make my opinion mean more.
+[13:22:58] Mal Tresto: // yea
+[13:23:10] Mal Tresto: .// quick question but can you hear the beeps?
+[13:23:36] OSA.S17-HNT.71758<STEAM_0:0:460056698> changed their name to wheat
+[13:23:49] Ethan King: // Okay but, snarks are the fucking worst.
+[13:23:59] Client "CHARGER" spawned in server <STEAM_0:0:117088759> (took 553 seconds).
+[13:23:59] Mal Tresto: // they're the most deadly
+[13:24:04] Ethan King: // Somehow
+[13:24:04] Client "dank" spawned in server <STEAM_0:1:92343185> (took 789 seconds).
+[13:24:25] wheat<STEAM_0:0:460056698> changed their name to AWAITING ASSIGNMENT
+[13:24:34] CCA.C08-UNION.i1.51023: Any mental conditions? OCD, Mental R█t█rda█tion, anything like that?
+[13:24:38] AWAITING ASSIGNMENT: // also
+[13:24:43] Mal Tresto: n█.
+[13:24:44] AWAITING ASSIGNMENT: // had to re-make hunter
+[13:24:52] CCA.C08-UNION.i1.51023: /charsetclass assignment hunter
+[13:24:53] AWAITING ASSIGNMENT<STEAM_0:0:460056698> changed their name to OSA.S17-HNT.91132
+[13:24:54] CCA.C08-UNION.i1.51023: //done
+[13:24:58] OSA.S17-HNT.91132: // thank
+[13:24:58] OSA.S17-HNT.91132 suicided!
+[13:24:58] CCA.C08-UNION.i1.51023 slayed OSA.S17-HNT.91132
+[13:24:58] Mal Tresto: // o█.
+[13:25:09] CCA.C08-UNION.i1.51023: /charfallover 0.1
+[13:25:12] CCA.C08-UNION.i1.51023: .//WRONG BIND
+[13:25:16] CCA.C08-UNION.i1.51023: /VIEWDATA MAL
+[13:25:22] Mal Tresto: .// █████
+[13:25:24] Mal Tresto: .// ███████████████
+[13:25:33] Ethan King: // brb
+[13:25:45] CCA.C08-UNION.i1.51023: .//fuck me BRB
+[13:26:01] dank<STEAM_0:1:92343185> changed their name to John Donovan
+[13:26:12] John Donovan: /content
+[13:26:17] Mal Tresto: // bald egg looking ass
+[13:26:21] Mal Tresto: █
+[13:26:26] John Donovan: ?
+[13:26:29] Mal Tresto: ██
+[13:26:34] John Donovan was killed by trigger_hurt
+[13:26:35] John Donovan: Ow!
+[13:26:45] CHARGER<STEAM_0:0:117088759> changed their name to Jane Magio
+[13:26:45] Mal Tresto: // i murdered a man
+[13:26:55] Mal Tresto: █
+[13:26:55] OSA.S17-HNT.91132: // ok
+[13:26:56] John Donovan: //pussy you should have punched more
+[13:27:04] Mal Tresto: ███ ██?
+[13:27:14] Mal Tresto: man
+[13:27:17] Mal Tresto: get in line
+[13:27:21] John Donovan: /y CHINA!
+[13:27:25] Mal Tresto: /y ████!
+[13:27:29] Jane Magio: /content
+[13:27:43] CCA.C08-UNION.i1.51023: .//fuck me i'm back
+[13:27:44] Mal Tresto: come line up for your cards
+[13:27:52] CCA.C08-UNION.i1.51023 to admins: please hlep with with these guys, the'yre probably minges
+[13:27:55] Mal Tresto: .// wake tf up
+[13:27:56] Mal Tresto: .// u back yet?
+[13:27:56] CCA.C08-UNION.i1.51023 to admins: pleasem onitor them
+[13:28:01] CCA.C08-UNION.i1.51023: .//no i'm dead
+[13:28:04] Mal Tresto: .// ok
+[13:28:06] CCA.C08-UNION.i1.51023: /VIEWDATA MAL
+[13:28:07] Mal Tresto: █
+[13:28:12] Ethan King to admins: Sorry, I was AFK.
+[13:28:17] CCA.C08-UNION.i1.51023 to admins: please get on a unit and help me process these guys
+[13:28:21] Ethan King to admins: aight
+[13:28:24] CCA.C08-UNION.i1.51023 to admins: and by help i mean please do process them because event late
+[13:28:25] CCA.C08-UNION.i1.51023: /charfallover 0.1
+[13:28:27] Ethan King<STEAM_0:1:17219621> changed their name to CCA.C08-QrM.98240
+[13:28:28] CCA.C08-UNION.i1.51023: .//FUCKING
+[13:28:30] CCA.C08-UNION.i1.51023: .//Binds
+[13:28:32] CCA.C08-UNION.i1.51023: .//anyways
+[13:28:46] CCA.C08-UNION.i1.51023: /me would slide the man's newly printed ID card through the window for him to take.
+[13:28:52] CCA.C08-UNION.i1.51023: Stay out of trouble.
+[13:28:53] Mal Tresto: gracias
+[13:29:05] CCA.C08-QrM.98240: Get over here!
+[13:29:07] John Donovan: Hey.
+[13:29:13] John Donovan: Sorry sir.
+[13:29:18] CCA.C08-QrM.98240: No problem
+[13:29:20] CCA.C08-UNION.i1.51023<STEAM_0:1:53097688> changed their name to Arianna Duvette Trilisso III
+[13:29:21] CCA.C08-QrM.98240: Just apply for me.
+[13:29:25] John Donovan: /apply
+[13:29:38] CCA.C08-QrM.98240: /me Takes out a PDA device and begins typing onto it.
+[13:29:40] CCA.C08-QrM.98240: /viewdata John
+[13:29:48] Mal Tresto<STEAM_0:1:191784883> changed their name to Crow
+[13:30:02] CCA.C08-QrM.98240: Alright, DOB and blood type?
+[13:30:03] Arianna Duvette Trilisso III: /broadcast Good afternoon, everyone. This is your minister of culture, Ariana Duvette Trilisso the Third.
+[13:30:19] CCA.C08-QrM.98240: .// Please take note that it is 2006 and you have to be 21 or older.
+[13:30:28] John Donovan: 1st of June 1989, A- Blood type.
+[13:30:32] Crow was killed by trigger_hurt
+[13:30:46] Crow: // oh jesus christ
+[13:30:47] CCA.C08-QrM.98240: Alright, one moment.
+[13:30:53] Crow: // dictatorship
+[13:30:56] Arianna Duvette Trilisso III: /broadcast I have been asked to remind you that today is the third anniversary of the Earth's liberation by the Universal Union. This is a very happy day, and I hope all of you are as gleeful as I.
+[13:31:08] Arianna Duvette Trilisso III: //i hate this character, she's such a hoity-toity bitch
+[13:31:15] CCA.C08-QrM.98240: .// You would be 17 with that DOB.
+[13:31:23] CCA.C08-QrM.98240: .// I'll give you a chance to fix it or I can take it IC>
+[13:31:24] John Donovan: /looc oh i forgot
+[13:31:31] Crow: // then why tf do u got the fucking character
+[13:31:40] Arianna Duvette Trilisso III: //no i mean i think she sucks as a person
+[13:31:40] John Donovan: 1st of June 1972.
+[13:31:44] Arianna Duvette Trilisso III: //she's fun to RP
+[13:31:44] CCA.C08-QrM.98240: I see
+[13:31:50] CCA.C08-QrM.98240: /viewdata John
+[13:31:58] Crow: // you're projecting your irl personality onto said character
+[13:32:02] Crow: // get owned
+[13:32:16] CCA.C08-QrM.98240: Any medical conditions I should know about?
+[13:32:28] John Donovan: Nothin.
+[13:32:30] CCA.C08-QrM.98240: I see
+[13:32:33] CCA.C08-QrM.98240: /viewdata John
+[13:32:42] Arianna Duvette Trilisso III: /broadcast We have a special guest coming to speak to you all soon. In the meantime, enjoy the fesitivities and celebrations I'm confident you all are partaking in.
+[13:32:42] CCA.C08-QrM.98240: Alright
+[13:32:46] CCA.C08-QrM.98240: Give me your Transfer card.
+[13:33:06] John Donovan: /me smirks, giving the transfer card over.
+[13:33:17] CCA.C08-QrM.98240: /me Takes the transfer card and walks away from the window.
+[13:33:41] CCA.C08-QrM.98240: Fucking hell, one moment.
+[13:33:54] CCA.C08-QrM.98240 to admins: What is the transfer card storage password?
+[13:33:59] Arianna Duvette Trilisso III to admins: fuck if i know
+[13:34:02] CCA.C08-QrM.98240 to admins: Fuck shit
+[13:34:05] Arianna Duvette Trilisso III to admins: 2891
+[13:34:08] OSA.S17-HNT.91132: // can i be the special guest :trollface:
+[13:34:11] CCA.C08-QrM.98240 to admins: Ah
+[13:34:15] CCA.C08-QrM.98240: // Yes
+[13:34:21] Arianna Duvette Trilisso III: //yes we'll hook up a mic to you
+[13:34:22] OSA.S17-HNT.91132: // lesss gooooooo
+[13:34:23] John Donovan: Jesus..
+[13:34:27] OSA.S17-HNT.91132: // ahem
+[13:34:27] CCA.C08-QrM.98240: Fucking hell
+[13:34:28] OSA.S17-HNT.91132: // IUAHEGWUIGJBGWUGE
+[13:34:32] Crow: // speaks in alien
+[13:34:34] CCA.C08-QrM.98240: /me Holds out a CID to the civvie.
+[13:34:40] John Donovan: Thanks
+[13:34:41] Crow: .// am i making any noise?
+[13:34:46] CCA.C08-QrM.98240: Put on your suit and go.
+[13:34:47] John Donovan: Have a good..day
+[13:34:57] CCA.C08-QrM.98240: // Check your inventory for a suit.
+[13:34:57] OSA.S17-HNT.91132<STEAM_0:0:460056698> changed their name to CAC.C08-CRM.34712
+[13:35:04] CAC.C08-CRM.34712: // i am now crm
+[13:35:06] CCA.C08-QrM.98240: /y Other transfer, over here!
+[13:35:13] CCA.C08-QrM.98240: Fucking hell
+[13:35:15] Crow: // i like crem
+[13:35:19] Crow: // cream
+[13:35:29] John Donovan: //Copy and pasted from the beta!!
+[13:35:32] CCA.C08-QrM.98240: Which one of you is John?
+[13:35:32] Arianna Duvette Trilisso III: /broadcast Citizens, very shortly, several Overwatch Transhuman Arm units will be coming to inspect the streets of the city. Please do not be alarmed, this is standard procedure for our guest.
+[13:35:41] CCA.C08-QrM.98240: Nevermind, you can go John.
+[13:35:41] Crow suicided!
+[13:35:41] John Donovan: I am
+[13:35:45] CCA.C08-QrM.98240: You
+[13:35:49] Arianna Duvette Trilisso III<STEAM_0:1:53097688> changed their name to OTA.C08-ECHO.OSS.19520
+[13:35:52] OTA.C08-ECHO.OSS.19520<STEAM_0:1:53097688> spawned/gave himself swep weapon_ar2
+[13:35:52] CCA.C08-QrM.98240: You need to be processed.
+[13:35:54] CCA.C08-QrM.98240: Move it!
+[13:36:00] Crow: // a bird can donate blood, but it instantly dies after
+[13:36:01] CCA.C08-QrM.98240: To the window
+[13:36:09] Crow: // which means a civvie can grab a crow and blend it inside the machine
+[13:36:11] Crow: // for 10 tokens
+[13:36:11] OTA.C08-ECHO.OSS.19520: //a bird can donate blood, but only once
+[13:36:12] CCA.C08-QrM.98240: Apply
+[13:36:14] Jane Magio: /apply
+[13:36:18] CCA.C08-QrM.98240: /viewdata Jane
+[13:36:31] Crow: // fucking yoinks it out of hte sky and puts it into the blender
+[13:36:39] OTA.C08-ECHO.OSS.19520: clear
+[13:36:43] OTA.C08-ECHO.OSS.19520: /r Clear.
+[13:36:45] CCA.C08-QrM.98240: Alright, DOB and blood type?
+[13:36:47] Dropped "John Donovan" from server<STEAM_0:1:92343185>
+[13:36:52] OTA.C08-ECHO.OSS.19520: /r Clear.
+[13:36:57] OTA.C08-ECHO.OSS.19520: /toggleraise
+[13:37:02] OTA.C08-ECHO.OSS.19520: /r Bird present.
+[13:37:03] OTA.C08-ECHO.OSS.19520: /toggleraise
+[13:37:03] CCA.C08-QrM.98240: .// Note that it is 2006 and you must be 21 or older.
+[13:37:07] Crow: .// avain
+[13:37:10] OTA.C08-ECHO.OSS.19520: /r Otherwise clear.
+[13:37:10] Crow: .// avian*
+[13:37:15] Jane Magio: September 5th, 1988, A Blood type
+[13:37:16] OTA.C08-ECHO.OSS.19520: .//fuck you, nevermore or whatever
+[13:37:18] Crow: .// funny man
+[13:37:23] OTA.C08-ECHO.OSS.19520: /toggleraise
+[13:37:24] OTA.C08-ECHO.OSS.19520: /r Clear.
+[13:37:24] CCA.C08-QrM.98240: .// You would be 18 with that DOB.
+[13:37:33] OTA.C08-ECHO.OSS.19520: /toggleraise
+[13:37:35] Crow: // i'll drink biotic drink
+[13:37:36] OTA.C08-ECHO.OSS.19520: /r Clear.
+[13:37:46] Crow suicided!
+[13:37:47] CCA.C08-QrM.98240: .// I'll give you a chance to fix it, if not that'll result in amputation.
+[13:37:47] Dropped "Jane Magio" from server<STEAM_0:0:117088759>
+[13:37:50] CCA.C08-QrM.98240: // Wha
+[13:37:50] CAC.C08-CRM.34712: // several overwatch units???
+[13:37:51] Crow: // i drunk it
+[13:37:54] CAC.C08-CRM.34712: // where are the rest?
+[13:38:08] Crow: // spawn me an item to test if ic an still pick stuff up
+[13:38:10] OTA.C08-ECHO.OSS.19520: //ask our 4 player playerbase
+[13:38:12] CCA.C08-QrM.98240<STEAM_0:1:17219621> changed their name to Ethan King
+[13:38:21] OTA.C08-ECHO.OSS.19520: /R Clear.
+[13:38:22] CAC.C08-CRM.34712: // give me OTA and ill help fill it up :trollface:
+[13:38:27] OTA.C08-ECHO.OSS.19520: /toggleraise
+[13:38:33] OTA.C08-ECHO.OSS.19520: /r Bird has entered the nexus.
+[13:38:38] OTA.C08-ECHO.OSS.19520: /r Preparing to tag.
+[13:38:44] Ethan King: // If you want a KILO unit or ECHO:ONE i'm happy to get on.
+[13:38:46] Crow: // infiltration complete, courtesy of OTA
+[13:39:18] CAC.C08-CRM.34712: // sorry ill just be OWC
+[13:39:34] Ethan King: // OWC is a dumb name.
+[13:39:38] Crow: // owca
+[13:39:41] OTA.C08-ECHO.OSS.19520: //you're a dumb name
+[13:39:41] OTA.C08-ECHO.OSS.19520: /toggleraise
+[13:39:42] CAC.C08-CRM.34712: //  how
+[13:39:47] CAC.C08-CRM.34712: // how is OWC dumb
+[13:39:51] Ethan King: // Overwatch Cadet is dumb.
+[13:39:56] Ethan King: // ECHO:ONE is way better.
+[13:39:59] OTA.C08-ECHO.OSS.19520<STEAM_0:1:53097688> changed their name to The Consul
+[13:40:01] CAC.C08-CRM.34712: // its not Overwatch Cadet
+[13:40:11] Ethan King: // Then what are you talking about?
+[13:40:14] The Consul: /broadcast Good day, citizens of City 8.
+[13:40:19] The Consul: /broadcast I am your Consul.
+[13:40:21] CAC.C08-CRM.34712: // OWC: Overwatch Commander
+[13:40:36] Ethan King: // If i'm not mistaken that doesn't exist in our server, sorry.
+[13:40:41] Ethan King: // Other than Ordinal.
+[13:40:42] Crow: // how can this one OTA not find me
+[13:40:48] Crow: // i mean sure this place is hella big but
+[13:40:49] CAC.C08-CRM.34712: // it was a joke you dope
+[13:40:55] Ethan King: // crungle
+[13:40:57] Crow: // and i found a way out of the map
+[13:41:00] The Consul teleported to Crow
+[13:41:04] Crow: // fantastico
+[13:41:08] CAC.C08-CRM.34712<STEAM_0:0:460056698> changed their name to Crow
+[13:41:12] The Consul<STEAM_0:1:53097688> spawned NPC npc_turret_ceiling
+[13:41:24] Crow: // and i also found a really cool AR2
+[13:41:34] The Consul<STEAM_0:1:53097688> spawned NPC npc_turret_ceiling
+[13:41:38] The Consul teleported to Crow
+[13:41:39] Crow: /pm crow i found a cool spot in the nexus, come here
+[13:41:58] The Consul: /broadcast I wish you all a happy Liberation Day.
+[13:42:00] Crow: // crow i found a dope spot in the nexus, get ur ass over here
+[13:42:02] Crow: // jk
+[13:42:03] Crow: // unless?
+[13:42:05] The Consul teleported to Crow
+[13:42:08] Crow: // YES
+[13:42:17] The Consul teleported to Crow
+[13:42:19] Crow: // i already found a way out of the map
+[13:42:38] Ethan King: // That isn't a way out, its a way into another part of the Nexus.
+[13:42:41] Crow: // this map fucking sucks no wonder
+[13:42:49] Crow: // no ya dumb i meant like actually outside the fucking walls
+[13:43:02] The Consul: /broadcast Today, I will be speaking to you about the values of the Universal Union.
+[13:43:14] The Consul: /broadcast But first, I have a special guest to talk with our minister of culture.
+[13:43:34] Ethan King: // Minister of culture? sounds like an asshole.
+[13:44:25] The Consul: /broadcast Please welcome green tier loyalist Matthew Obrevski.
+[13:44:28] Crow: // does my bird keep its position after i change chars
+[13:44:32] The Consul: //yes
+[13:44:33] Client "dank" connected.
+[13:44:34] The Consul: //i think
+[13:44:35] Crow: // good
+[13:44:38] Crow: // you'll never fucking find me
+[13:44:47] Ethan King: // He is the hidden Crow.
+[13:44:48] Crow: // next i'll nest in your office
+[13:45:11] Crow: // crows we must meet up and sneak into the nexsus
+[13:45:43] (tsay from The Consul) Good evening, I am Ariana Duvette Trilisso the Third, here to interview Matthew Obrevski.
+[13:45:56] (tsay from The Consul) Hi, I'm Matthew Obrevski.
+[13:45:56] Crow<STEAM_0:1:191784883> changed their name to Fast Headcrab'ish(?)
+[13:46:01] (tsay from The Consul) I'm a uh, a loyalist.
+[13:46:06] (tsay from The Consul) And it's a pleasure to be here.
+[13:46:14] Fast Headcrab'ish(?): // little do you know its a voice changer from 2006
+[13:46:29] (tsay from The Consul) Wonderful.
+[13:46:39] (tsay from The Consul) So, Matthew, tell us about yourself.
+[13:46:52] (tsay from The Consul) I grew up in the pre-war world, uh, obviously. Heh.
+[13:47:09] Fast Headcrab'ish(?) was killed by npc_fastzombie
+[13:47:14] Fast Headcrab'ish(?)<STEAM_0:1:191784883> changed their name to AWAITING ASSIGNMENT
+[13:47:22] Ethan King: // Stop being a bitch random green loyalist.
+[13:47:22] (tsay from The Consul) I'm a citizen of City 8, and I try to do generally loyal tasks. I want to help the Combine.
+[13:47:44] The Consul: /charsetclass assignment stalker
+[13:47:44] AWAITING ASSIGNMENT<STEAM_0:1:191784883> changed their name to CAC.C17-STK.64610
+[13:47:48] CAC.C17-STK.64610 suicided!
+[13:47:48] The Consul slayed CAC.C17-STK.64610
+[13:47:48] The Consul: !slay stk
+[13:47:48] CAC.C17-STK.64610: // aw
+[13:47:57] CAC.C17-STK.64610: // i'm bones
+[13:47:58] Crow<STEAM_0:0:460056698> changed their name to CAC.C17-STK.52684
+[13:48:22] (tsay from The Consul) I've been here for around a year, and, yeah.
+[13:48:30] CAC.C17-STK.64610: immortal
+[13:48:36] Client "dank" spawned in server <STEAM_0:1:92343185> (took 243 seconds).
+[13:48:36] CAC.C17-STK.52684: ca office!!
+[13:48:51] (tsay from The Consul) Now, tell me about why you're loyal. What does the Universal Union mean to you?
+[13:49:33] dank<STEAM_0:1:92343185> changed their name to John Donovan
+[13:49:42] The Consul: /event If you look to the screens around the city, you notice the interview is being broadcast in some cozy-looking room. The Minister dressed up in an eggplant-colored suit with a dress down to just over her knees. She sits with her legs crossed.
+[13:49:45] The Consul: /charfallover 0.1
+[13:50:03] John Donovan: //i read that as eggplant suit, my life is fucked
+[13:50:08] Ethan King: // Lmao
+[13:50:16] CAC.C17-STK.52684: // eggplant suit :D
+[13:50:26] Ethan King: // Cosplaying as an eggplant.
+[13:50:38] CAC.C17-STK.52684: // also you should really have a thing to disable the random consul broadcasts
+[13:51:03] The Consul: /event Matthew seems just a bit uncomfortable. He's wearing a baby blue dress shirt with a black jacket over it. His tie is black with thin white pinstripes. He fiddles with his collar every so often. He doesn't seem to most comfortable on the camera.
+[13:51:10] The Consul: //seem the most* fuck
+[13:51:15] CAC.C17-STK.52684: // baby dress
+[13:51:20] CAC.C17-STK.64610: // do you hear us, consul
+[13:51:22] CAC.C17-STK.64610: // we're near
+[13:51:35] John Donovan: //What the fuck is this server
+[13:51:45] CAC.C17-STK.64610: // to be honest, i dont fucking know
+[13:51:46] The Consul: /charsetname stk CAC.C08-STK.64610
+[13:51:46] CAC.C17-STK.64610<STEAM_0:1:191784883> changed their name to CAC.C08-STK.64610
+[13:51:47] CAC.C08-STK.64610: // rn its just dead
+[13:52:17] CAC.C17-STK.52684: /looc use the hands tool and go into holding up the fists
+[13:52:21] CAC.C08-STK.64610: /actstand
+[13:52:23] CAC.C17-STK.52684: /looc you stay a posing
+[13:52:23] (tsay from The Consul) Well, it's helped me a lot. With the aliens, or whatever they're officially called. Xenobes. They've protected me, given me housing, uh...
+[13:52:25] CAC.C08-STK.64610: .// oh hey script errors
+[13:52:31] CAC.C08-STK.64610: /actarrest
+[13:52:34] CAC.C08-STK.64610: /actsit
+[13:52:42] (tsay from The Consul) Yeah. They mean safety to me.
+[13:52:49] John Donovan: Oh.
+[13:52:51] John Donovan: Hey
+[13:52:54] CAC.C08-STK.64610: .// i have a devious plan
+[13:52:58] Ethan King: Well then, howdy.
+[13:53:03] Ethan King: You are?
+[13:53:08] John Donovan: John Donovan
+[13:53:10] The Consul to admins: ethan king is absolutely fucking bathshit insane
+[13:53:15] The Consul to admins: batshit*
+[13:53:18] Ethan King: I see, i'm Ethan King.
+[13:53:29] CAC.C08-STK.64610<STEAM_0:1:191784883> changed their name to Crow
+[13:53:30] Ethan King to admins: You bet
+[13:53:32] John Donovan: Fuck this city...
+[13:53:34] John Donovan: Man..
+[13:53:46] Ethan King: It is a shit hole I know.
+[13:53:49] (tsay from The Consul) Yknow. Aside from all the.. disciplining. Heh..
+[13:53:51] Ethan King: But you can't really blame it.
+[13:54:05] Ethan King: It was just taken back by the Combine a few months ago.
+[13:54:10] (tsay from The Consul) Right. Safety. What a great way to phrase it.
+[13:54:12] Ethan King: It was infested you see.
+[13:54:25] (tsay from The Consul) The Union keeps us safe.
+[13:54:33] John Donovan: Yeah i see that, with this assfuck of a building
+[13:54:41] (tsay from The Consul) Yeah, I guess. Except for, yknow. When you run. Jump.
+[13:54:44] Ethan King: Mhm
+[13:54:57] (tsay from The Consul) Well, that's the cost of a civil society, you of all people should know that!
+[13:55:02] Ethan King: You'll find that this entire city is breaking down.
+[13:55:25] The Consul: /EVENT The minister's tone changes from a very prissy, high pitched tone to a more frantic, forced tone of calmness. She's clearly not happy about what Matthew siad.
+[13:55:30] Ethan King: I heard that about a week ago we had some weird new Alien lifeforms killing off people.
+[13:55:41] (tsay from The Consul) Well, yeah. I guess.
+[13:55:44] Ethan King: And the Combine fucking retreated.
+[13:55:48] John Donovan: New lifeforms?
+[13:55:54] Crow: // yall hear this skinny man wanting to come in?
+[13:55:54] Ethan King: Yeah, some new species or some shit.
+[13:55:57] The Consul: /event She quickly moves to change the subject.
+[13:56:05] Ethan King: Not sure
+[13:56:16] (tsay from The Consul) Now, let's talk about the Civil Workers Union. I'm aware you're a member?
+[13:56:25] Ethan King: But the Combine fucking retreated.
+[13:56:30] Ethan King: Right after we got the city back.
+[13:56:35] Ethan King: Frankly embarrassing.
+[13:56:47] (tsay from The Consul) Yeah, it doesn't quite beat my old job. I could come to my family, it was nice. But the CWU is fine.
+[13:56:52] John Donovan: They bett' die off..
+[13:56:56] Crow<STEAM_0:1:191784883> changed their name to Antlion Troop
+[13:57:04] Antlion Troop<STEAM_0:1:191784883> changed their name to Mal Tresto
+[13:57:21] (tsay from The Consul) Yes, I'm very sorry about your family. It must have been a tragedy to lose them in the chaos the Xenobes created.
+[13:57:32] Ethan King: I would recommend you try to stay clear of the Plaza if you say shit like that.
+[13:57:37] Mal Tresto: fantastic
+[13:57:39] Mal Tresto: fantastic
+[13:57:39] Ethan King: Not that I care, frankly I agree.
+[13:57:43] John Donovan: Liss'n mate..
+[13:57:45] Mal Tresto: get the hell out
+[13:57:49] Mal Tresto: get the hell out
+[13:57:51] John Donovan: I don't give a fuck about them
+[13:58:00] John Donovan: I just want to kill one of em right?
+[13:58:05] John Donovan: I fuckin' hate this
+[13:58:05] (tsay from The Consul) No, the Combine killed them. I didn't find out, though, because they split us up into different precincts.
+[13:58:15] Ethan King: Hm.....come with me.
+[13:58:31] The Consul: /event The Minister clears her throat and makes a strained, stern look with her eyes, while her face holds up a very plastered smile.
+[13:58:44] Dropped "CAC.C17-STK.52684" from server<STEAM_0:0:460056698>
+[13:58:49] Ethan King: You want to talk like that? lets see if you can back up that statement.
+[13:58:51] The Consul: /event It's almost like she's staring lasers into Matthew. Figuratively.
+[13:58:58] Ethan King: Come on
+[13:59:09] (tsay from The Consul) I mean come on. Let's be honest. They did. You can't deny that.
+[13:59:27] (tsay from The Consul) Well, it's for the cost of safety, and liberty!
+[13:59:32] Ethan King: Well then, howdy.
+[13:59:49] (tsay from The Consul) Yeah, the liberty is fun. Nothing says I'm free like not being able to own power tools.
+[14:00:03] Ethan King: // Spitting straight facts though
+[14:00:07] John Donovan: [[tf
+[14:00:09] Ethan King: .// uh
+[14:00:15] Mal Tresto: .// just press e or space
+[14:00:17] Ethan King: .// Jump off of it?
+[14:00:19] Mal Tresto: .// to dismount u living vegetable
+[14:00:31] Mal Tresto: .// good job
+[14:00:36] John Donovan: [[yeah it fucked up
+[14:00:40] Ethan King: Well then
+[14:00:49] Mal Tresto: hi
+[14:00:53] Ethan King: Whatever
+[14:01:10] Ethan King: So, you stated you want to kill one of them?
+[14:01:11] Mal Tresto: cheese
+[14:01:15] John Donovan: Yeah.
+[14:01:18] Ethan King: Do you still stand by that?
+[14:01:19] Mal Tresto: dream about cheese
+[14:01:27] John Donovan: Absolutely.
+[14:01:27] The Consul: /event The camera cuts to a different view, pointing toward the rest of the production crew. It's pointed to the right of Matthew, only enough to see him sitting up in the chair. You see a shadow from his left approach him. You can't see who it is.
+[14:01:37] John Donovan: Even if my life's n' danger
+[14:01:39] Mal Tresto: dream about cheese
+[14:01:43] Ethan King: Noted
+[14:01:58] Ethan King: Well then, we should go somewhere a little more private.
+[14:02:08] Mal Tresto<STEAM_0:1:191784883> changed their name to Crow
+[14:02:30] Ethan King: Now then
+[14:02:33] Ethan King: Oh, ignore him.
+[14:02:37] The Consul: /event The sound of 3.5mm audio jacks having their cords ripped out is played through the citywide screens' speakers. Seems like they're cutting the sound.
+[14:02:37] Crow<STEAM_0:1:191784883> changed their name to Mal Tresto
+[14:02:41] Ethan King: .// It do be a vendor though.
+[14:02:50] John Donovan: [[y
+[14:02:52] Mal Tresto: // cant they just turn off the fucking broadcast
+[14:03:06] The Consul: //broadcast ain't over guy
+[14:03:20] Ethan King: I happen to be apart of a group that would love to take in people with your......goals.
+[14:03:24] The Consul: /broadcast Put on the technical difficulties. Are they on?
+[14:03:25] Mal Tresto: dream about cheese
+[14:03:42] John Donovan: Mmh..
+[14:03:43] The Consul: /event You hear no response, but the consul continues speaking.
+[14:03:57] The Consul: /broadcast Good. Production, dismissed.
+[14:03:59] Ethan King: At the moment I won't give away any specific details but we would love to take you in and supply you with gear and weapons if you can prove yourself.
+[14:04:10] John Donovan: How can i prove myself?
+[14:04:22] The Consul: /event Through his microphone you hear footsteps quickly leaving the room.
+[14:04:29] Ethan King: Hello, there.
+[14:04:45] Ethan King: Do you mind? we are all in an illegal area but we might as well keep our privacy.
+[14:04:50] Mal Tresto: dream about cheese
+[14:04:54] Ethan King: Duly noted
+[14:05:07] The Consul: /broadcast I knew this was unwise. We should have brought on a higher-ranked loyalist. This... common man approach was idiotic.
+[14:05:17] The Consul: //shut up consul, the consul is speaking
+[14:05:28] Ethan King: Now then
+[14:05:33] Ethan King: Alright
+[14:05:49] Ethan King: Please stop
+[14:06:10] The Consul: /event You see a strange-looking OTA drag Matthew out of his chair.
+[14:06:22] Ethan King: Alright, all you need to do is eliminate a single CCA officer.
+[14:06:25] The Consul: /event He's further to the right now, thrown onto the floor.
+[14:06:31] Ethan King: Bring me his mask and i'll believe you.
+[14:06:42] John Donovan: Sure
+[14:06:43] Ethan King: You may use outside help as well.
+[14:06:54] John Donovan: Do i need a gun for this?
+[14:07:01] Ethan King: You can use whatever you find.
+[14:07:10] Ethan King: Don't think you'll accomplish this in a single day.
+[14:07:24] Ethan King: I want you to make a plan and use others to your advantage.
+[14:07:33] Ethan King: That is what we do, and that is what you need to do.
+[14:07:44] John Donovan: Noted
+[14:07:51] The Consul: /broadcast Citizen, you are under violation of penal code 647e. You are judged guilty.
+[14:07:55] Ethan King: Stomping on others is required for something like this.
+[14:08:14] John Donovan: You gotta break some skulls to make meat.
+[14:08:20] Ethan King: Yep, yep.
+[14:08:35] Ethan King: I have a good feeling about you.
+[14:08:39] Ethan King: Don't prove me wrong.
+[14:08:53] The Consul: /event Tears go down the man's face. From reading his clips, you can guess he's saying "No" and "Sorry".
+[14:08:55] John Donovan: Listen, i'll get to fuckin work, bloodshed or not.
+[14:09:01] John Donovan: I already know what to do
+[14:09:05] The Consul: //thank you for leaving out the period /event very cool
+[14:09:06] Ethan King: Alright, then I hope to welcome you into the Legion.
+[14:09:17] Ethan King: You may go now.
+[14:09:21] Ethan King: Take your time.
+[14:09:21] The Consul to admins: ethan i swear to sweet mother of fuck
+[14:09:26] Ethan King to admins: What ;-;
+[14:09:35] The Consul to admins: you just meet some dude and take him to the sewers
+[14:09:40] The Consul to admins: none of my damn business but like
+[14:09:42] The Consul teleported to Mal Tresto
+[14:09:45] The Consul to admins: bro
+[14:09:48] The Consul returned Themself to their original position
+[14:09:55] Ethan King to admins: Is it stupid? yes, is it effective for making a large group? also yes.
+[14:10:03] Ethan King: Need anything?
+[14:10:15] Mal Tresto: .// enjoy
+[14:10:25] The Consul: /event The OTA units from before grab him by his legs and drag him to the left. He's no longer on the screen. A minute later, a single gunshot is heard through the Consul's microphone.
+[14:10:33] Ethan King: .// Wha
+[14:10:34] John Donovan: /me taunts at the camera
+[14:10:37] Mal Tresto: .// i healed u dumbass
+[14:10:44] Ethan King: .// Oh, neato.
+[14:10:45] The Consul: /event Four minutes pass.
+[14:10:58] Ethan King: .// I love how in IC you pretty much just injected me with a mysterious liquid.
+[14:11:05] Ethan King: .// Aids syringe? maybe.
+[14:11:06] Mal Tresto: .// it was a bandage
+[14:11:08] Mal Tresto: .// 10 of them
+[14:11:10] Ethan King: .// Ah
+[14:11:15] Ethan King: .// You have mummified me.
+[14:11:15] The Consul: /broadcast Bring in the production team. Put the camera on me, we must finish this broadcast with my speech.
+[14:11:16] Ethan King: .// I see
+[14:11:29] Ethan King: .// Mummy RP pog.
+[14:11:36] The Consul: /broadcast What, Smith?
+[14:11:37] Mal Tresto: i think your intern is dead
+[14:11:44] Ethan King: Intern?
+[14:11:52] Mal Tresto: the lad you we're talking with
+[14:11:58] Ethan King: Ah, probably.
+[14:12:00] The Consul: /broadcast Now is not the time to play games and jokes, Smith.
+[14:12:02] Mal Tresto: let's check
+[14:12:15] The Consul: /broadcast Take off the technical difficulties screen and let me address the City.
+[14:12:15] Ethan King: Eh, i've gotta get out of here.
+[14:12:22] Ethan King: The city is too dangerous to stay in casually.
+[14:12:30] Ethan King: Recruiting is the only reason to stay there.
+[14:12:31] Mal Tresto: .// what do i do if i find a can of soda with infinite drink
+[14:12:36] The Consul: /broadcast You WHAT?
+[14:12:40] Ethan King: .// Uh....
+[14:12:44] Ethan King: .// Yes
+[14:12:47] Mal Tresto: .// cool
+[14:12:55] Mal Tresto: .// and yes i do have a can like that
+[14:13:07] Ethan King: /plysearch
+[14:13:10] The Consul: /event The Consul's microphone picks up the sound of a thump on wood. Likely something dropping or somebody hitting something.
+[14:13:24] The Consul: /broadcast PUT IT ON NOW! PUT-
+[14:13:31] Ethan King: // oh my
+[14:13:33] The Consul: /broadcast The technical difficulties screen shows up, and the micrphones are cut.
+[14:13:41] The Consul: //wait fuck
+[14:13:43] The Consul: //i'm a fucking moron
+[14:13:48] The Consul: /event The technical difficulties screen shows up, and the micrphones are cut.
+[14:14:28] The Consul<STEAM_0:1:53097688> spawned/gave himself swep weapon_pistol
+[14:14:34] The Consul: /event Three gunshots ring out in the city.
+[14:14:35] The Consul: /toggleraise
+[14:14:40] The Consul: /event Specifically this precinct.
+[14:14:48] John Donovan: /y The fuck?
+[14:14:49] Mal Tresto: // how does a city hear 3 gunshots that come from the nexus
+[14:14:57] The Consul: //who said they came from the nexus
+[14:15:03] John Donovan: /y HEY!
+[14:15:03] Mal Tresto: // LOOT RP
+[14:15:49] The Consul: /event A scream, next. More gunshots follow.
+[14:15:57] Ethan King: // Fucked
+[14:16:02] The Consul<STEAM_0:1:53097688> changed their name to Administrative Character
+[14:16:26] Ethan King: // brb real quick
+[14:16:28] Administrative Character: /dispatch Anti-civil evidence
+[14:16:35] John Donovan: //Gordon.mdl
+[14:16:42] Administrative Character: //models/bennett.mdl
+[14:16:44] Mal Tresto: //
+[14:16:49] Mal Tresto: // become williard networks dispatch
+[14:17:08] Administrative Character<STEAM_0:1:53097688> changed their name to CCA.C08-UNION.i1.51023
+[14:17:18] CCA.C08-UNION.i1.51023<STEAM_0:1:53097688> changed their name to Administrative Character
+[14:17:21] Administrative Character: /charfallover 0.1
+[14:17:24] Dropped "John Donovan" from server<STEAM_0:1:92343185>
+[14:17:38] Mal Tresto: // i feel like logging off
+[14:17:51] Administrative Character: /dispatch Protection teams, code ASSEMBLE, LOCK, INOCULATE.
+[14:18:08] Administrative Character<STEAM_0:1:53097688> changed their name to CCA.C08-UNION.i1.51023
+[14:18:22] CCA.C08-UNION.i1.51023<STEAM_0:1:53097688> spawned/gave himself swep weapon_smg1
+[14:18:22] CCA.C08-UNION.i1.51023: /toggleraise
+[14:18:29] CCA.C08-UNION.i1.51023: /y MOVE
+[14:18:29] CCA.C08-UNION.i1.51023: /charfallover 0.1
+[14:18:32] CCA.C08-UNION.i1.51023: .//fuck me
+[14:18:38] CCA.C08-UNION.i1.51023: /y INSIDE. NOW.
+[14:18:41] CCA.C08-UNION.i1.51023: /toggleraise
+[14:18:57] CCA.C08-UNION.i1.51023: /toggleraise
+[14:19:31] CCA.C08-UNION.i1.51023<STEAM_0:1:53097688> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[14:19:32] CCA.C08-UNION.i1.51023<STEAM_0:1:53097688> spawned NPC npc_citizen
+[14:19:46] CCA.C08-UNION.i1.51023<STEAM_0:1:53097688> spawned NPC npc_citizen
+[14:19:47] CCA.C08-UNION.i1.51023<STEAM_0:1:53097688> spawned NPC npc_citizen
+[14:19:52] CCA.C08-UNION.i1.51023<STEAM_0:1:53097688> spawned NPC npc_citizen
+[14:19:53] CCA.C08-UNION.i1.51023<STEAM_0:1:53097688> spawned NPC npc_citizen
+[14:19:54] CCA.C08-UNION.i1.51023<STEAM_0:1:53097688> spawned NPC npc_citizen
+[14:19:56] CCA.C08-UNION.i1.51023<STEAM_0:1:53097688> spawned NPC npc_citizen
+[14:19:57] CCA.C08-UNION.i1.51023<STEAM_0:1:53097688> spawned NPC npc_citizen
+[14:19:58] CCA.C08-UNION.i1.51023<STEAM_0:1:53097688> spawned NPC npc_citizen
+[14:19:59] CCA.C08-UNION.i1.51023<STEAM_0:1:53097688> spawned NPC npc_citizen
+[14:20:01] CCA.C08-UNION.i1.51023<STEAM_0:1:53097688> spawned NPC npc_citizen
+[14:20:15] CCA.C08-UNION.i1.51023<STEAM_0:1:53097688> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[14:20:16] CCA.C08-UNION.i1.51023<STEAM_0:1:53097688> spawned NPC npc_metropolice
+[14:20:17] CCA.C08-UNION.i1.51023<STEAM_0:1:53097688> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[14:20:17] CCA.C08-UNION.i1.51023<STEAM_0:1:53097688> spawned NPC npc_metropolice
+[14:20:17] CCA.C08-UNION.i1.51023<STEAM_0:1:53097688> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[14:20:17] CCA.C08-UNION.i1.51023<STEAM_0:1:53097688> spawned NPC npc_metropolice
+[14:20:35] CCA.C08-UNION.i1.51023<STEAM_0:1:53097688> spawned NPC npc_metropolice
+[14:20:50] CCA.C08-UNION.i1.51023<STEAM_0:1:53097688> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[14:20:50] CCA.C08-UNION.i1.51023<STEAM_0:1:53097688> spawned NPC npc_citizen
+[14:20:50] CCA.C08-UNION.i1.51023<STEAM_0:1:53097688> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[14:20:50] CCA.C08-UNION.i1.51023<STEAM_0:1:53097688> spawned NPC npc_citizen
+[14:20:51] CCA.C08-UNION.i1.51023<STEAM_0:1:53097688> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[14:20:51] CCA.C08-UNION.i1.51023<STEAM_0:1:53097688> spawned NPC npc_citizen
+[14:20:51] CCA.C08-UNION.i1.51023<STEAM_0:1:53097688> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[14:20:51] CCA.C08-UNION.i1.51023<STEAM_0:1:53097688> spawned NPC npc_citizen
+[14:20:52] CCA.C08-UNION.i1.51023<STEAM_0:1:53097688> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[14:20:52] CCA.C08-UNION.i1.51023<STEAM_0:1:53097688> spawned NPC npc_citizen
+[14:20:52] CCA.C08-UNION.i1.51023<STEAM_0:1:53097688> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[14:20:52] CCA.C08-UNION.i1.51023<STEAM_0:1:53097688> spawned NPC npc_citizen
+[14:20:52] CCA.C08-UNION.i1.51023<STEAM_0:1:53097688> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[14:20:53] CCA.C08-UNION.i1.51023<STEAM_0:1:53097688> spawned NPC npc_citizen
+[14:21:12] CCA.C08-UNION.i1.51023<STEAM_0:1:53097688> changed their name to Ryan Maley
+[14:21:26] Ryan Maley: /y EVERYBODY HIT THE DECK! RIOTS IN THE STREET! CPS ARE GETTING ANGRY!
+[14:21:44] Ryan Maley<STEAM_0:1:53097688> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[14:21:44] Ryan Maley<STEAM_0:1:53097688> spawned NPC npc_vortigaunt
+[14:21:44] Ryan Maley<STEAM_0:1:53097688> used the tool creator on maps/rp_city8_edit_v4r.bsp
+[14:21:44] Ryan Maley<STEAM_0:1:53097688> spawned NPC npc_vortigaunt
+[14:21:44] Mal Tresto: // its only 2 ppl u can calm down
+[14:22:05] Ethan King: // Crungle
+[14:22:05] Ryan Maley removed ragdolls
+[14:22:23] Mal Tresto: // i dont trust women
+[14:22:50] Ryan Maley started a fire.
+[14:22:58] Ryan Maley started a fire.
+[14:23:06] Mal Tresto: // oh hey free tokens
+[14:23:07] Ryan Maley started a fire.
+[14:23:09] Ryan Maley started a fire.
+[14:23:12] Ethan King: // free tokens pog
+[14:23:12] Ryan Maley started a fire.
+[14:23:22] Mal Tresto: /pm ethan how much do i pay for recruit
+[14:23:27] Ethan King to admins: What
+[14:23:34] Ethan King to admins: wrong VC
+[14:23:35] Ethan King: /reply What
+[14:23:49] Ryan Maley to admins: wrong what
+[14:23:55] Mal Tresto: dream about cheese
+[14:24:04] Ethan King to admins: Sorry, Mal is PM'ing me for recruit or some shit.
+[14:24:12] Ryan Maley to admins: for conscript recruit? or like
+[14:24:20] Ethan King: Fucking ow
+[14:24:25] Mal Tresto: sorry
+[14:24:31] Ethan King to admins: not sure
+[14:24:38] Mal Tresto: hey you recruit people yes?
+[14:24:39] Ethan King to admins: I think its for Rebel recruiting though.
+[14:24:46] Ethan King: Yeah, but within reason.
+[14:25:01] Mal Tresto: and within what reason
+[14:25:14] Ethan King: Can you pay attention?
+[14:25:20] Mal Tresto: yes
+[14:25:22] Ryan Maley started a fire.
+[14:25:24] Ryan Maley started a fire.
+[14:25:25] Ryan Maley started a fire.
+[14:25:26] Ryan Maley started a fire.
+[14:25:30] Ryan Maley started a fire.
+[14:25:30] Ethan King: A single new Legionary per month.
+[14:25:34] Ryan Maley started a fire.
+[14:25:36] Ryan Maley started a fire.
+[14:25:37] Ryan Maley started a fire.
+[14:25:41] Ryan Maley started a fire.
+[14:25:55] Ryan Maley: /y City is being ransacked! Loot or hide! Only other option is death!
+[14:26:03] Ethan King: Fuckin shit
+[14:27:16] Ryan Maley teleported to Ethan King
+[14:27:31] Mal Tresto: // RADIO GONE
+[14:27:35] Ethan King: // F
+[14:27:47] Ethan King to admins: the funny part is that I have a recruiting quota.
+[14:27:55] Ethan King to admins: So it would be impossible to recruit him.
+[14:28:01] Ryan Maley: /event Seems relatively calm in the outlands.
+[14:28:12] Ryan Maley: /event No sounds of rioting. Maybe some helicopters in the distance, but nothing else.
+[14:29:04] Ryan Maley: /event Slow turnout for the less civil.
+[14:29:17] Ethan King: // This is gonna turn to shit.
+[14:29:21] Ethan King: // I can already tell.
+[14:29:26] Mal Tresto: // 5 hunters
+[14:29:29] Ryan Maley to admins: you are literally wrong
+[14:29:33] Ryan Maley to admins: i was anticipating more people
+[14:29:34] Ethan King: // 20 KING units.
+[14:29:41] Ethan King to admins: I see
+[14:29:47] Mal Tresto: // matt boutta ping his entire server
+[14:29:49] Ryan Maley: //team of combat advisors
+[14:29:57] Ethan King: // Combat advisors lmao.
+[14:30:06] Mal Tresto: // fat worms
+[14:30:09] Ryan Maley: //20 gmen
+[14:30:14] Ethan King: // Armored Advisors sound horrifying.
+[14:30:35] Ryan Maley: //don't worry, it's because they are
+[14:30:41] Mal Tresto: // how much do i pay for pet 
+[14:30:49] Ryan Maley: /chargiveflag mal pet
+[14:30:53] Ryan Maley: //0 addtional dollars
+[14:30:56] Ryan Maley: /chargiveflag tresto pet
+[14:30:58] Mal Tresto: // lit
+[14:31:10] Mal Tresto<STEAM_0:1:191784883> spawned model models/props_wasteland/cafeteria_bench001a.mdl
+[14:31:12] Mal Tresto<STEAM_0:1:191784883> spawned model models/props_trainstation/traincar_rack001.mdl
+[14:31:14] Mal Tresto<STEAM_0:1:191784883> spawned model models/props_wasteland/cafeteria_bench001a.mdl
+[14:31:20] Ethan King: // you pay -5 dollars.
+[14:31:28] Mal Tresto: // aka he pays me
+[14:31:31] Ethan King: // we give YOU 5 dollars for PET flags.
+[14:31:36] Mal Tresto<STEAM_0:1:191784883> spawned model models/props_trainstation/benchoutdoor01a.mdl
+[14:31:40] Mal Tresto: // hand em over then
+[14:31:42] Ethan King: // Q, pay up.
+[14:31:43] Mal Tresto<STEAM_0:1:191784883> spawned model models/props_wasteland/dockplank01b.mdl
+[14:31:46] Mal Tresto<STEAM_0:1:191784883> spawned model models/props_wasteland/dockplank01b.mdl
+[14:31:54] Ryan Maley: //i will give you 4 grand to just take the fucking server for me
+[14:31:57] Ryan Maley: //not relaly though
+[14:32:00] Mal Tresto<STEAM_0:1:191784883> spawned model models/props_wasteland/dockplank01b.mdl
+[14:32:04] Mal Tresto: // i'm down
+[14:32:06] Ethan King: // nah, nah, nah.
+[14:32:10] Ethan King: // You said it
+[14:32:14] Mal Tresto: // im down to take it
+[14:32:24] Mal Tresto: // i'll make ppl pay a subscription to play
+[14:32:26] Mal Tresto<STEAM_0:1:191784883> spawned model models/props_wasteland/dockplank01b.mdl
+[14:32:32] Ryan Maley<STEAM_0:1:53097688> changed their name to Lee Maylor
+[14:32:39] Ethan King: // Dead Space RP when?
+[14:32:41] Lee Maylor teleported to Ethan King
+[14:32:52] Lee Maylor: //when >2K active players in the community. maybe.
+[14:33:02] Ethan King: // Time to get a few bots.
+[14:33:11] Lee Maylor: //me when several thousand bots
+[14:33:11] Mal Tresto<STEAM_0:1:191784883> spawned model models/props_wasteland/dockplank01b.mdl
+[14:33:20] Lee Maylor: //me when garry's mod server blacklisted
+[14:33:20] Ethan King: // Or maybe I'M the bot.
+[14:33:43] Mal Tresto<STEAM_0:1:191784883> spawned model models/props_junk/wood_pallet001a.mdl
+[14:33:47] Ethan King: // That would explain my early days of sitting on the server AFK'ing.
+[14:33:59] Lee Maylor: //we need more people to do that
+[14:34:01] Lee Maylor: //like feng
+[14:34:03] Lee Maylor: //i miss feng
+[14:34:07] Mal Tresto: // i dont
+[14:34:29] Mal Tresto<STEAM_0:1:191784883> spawned model models/props_wasteland/cafeteria_bench001a.mdl
+[14:34:30] Lee Maylor: //game theory time, feng was actually a lure for players
+[14:34:38] Mal Tresto: // e-girl
+[14:34:38] Lee Maylor: //he was a beacon for people to get on a server
+[14:34:49] Mal Tresto<STEAM_0:1:191784883> used the tool nocollideeverything on models/props_wasteland/cafeteria_bench001a.mdl
+[14:34:51] Ethan King: // Server theory time, Q is actually a criminal.
+[14:34:53] Lee Maylor: //when feng left, population declined
+[14:34:57] Lee Maylor: //i am literally a war criminal
+[14:35:03] Lee Maylor: //because i use red crosses in video games
+[14:35:04] Ethan King: // Ah, I see.
+[14:35:13] Lee Maylor: //not supposed to do that
+[14:35:15] Mal Tresto<STEAM_0:1:191784883> spawned model models/props_wasteland/cafeteria_bench001a.mdl
+[14:35:20] Mal Tresto<STEAM_0:1:191784883> used the tool nocollideeverything on models/props_wasteland/cafeteria_bench001a.mdl
+[14:35:23] Lee Maylor: //i am literally a war criminal lightroom, i'm not even memeing
+[14:35:28] Ethan King: // I see
+[14:35:43] Ethan King: // You have earned yourself 40 years in prison for using red crosses.
+[14:35:45] Ethan King: // Congrats
+[14:35:47] Lee Maylor: //lmao
+[14:35:55] Lee Maylor: //i was just doing what i was told!!!11!!!
+[14:36:02] Mal Tresto<STEAM_0:1:191784883> spawned model models/props_lab/lockerdoorleft.mdl
+[14:36:11] Mal Tresto<STEAM_0:1:191784883> spawned model models/props_trainstation/tracksign03.mdl
+[14:36:15] Ethan King: // OTA will now take you away to Brazil so you can server your time.
+[14:36:19] Mal Tresto<STEAM_0:1:191784883> used the tool nocollideeverything on models/props_wasteland/cafeteria_bench001a.mdl
+[14:36:20] Mal Tresto<STEAM_0:1:191784883> used the tool nocollideeverything on models/props_wasteland/cafeteria_bench001a.mdl
+[14:36:25] Mal Tresto<STEAM_0:1:191784883> spawned model models/props_wasteland/dockplank01b.mdl
+[14:36:32] Ethan King: // serve*
+[14:36:33] Mal Tresto<STEAM_0:1:191784883> spawned model models/props_wasteland/kitchen_shelf002a.mdl
+[14:36:34] Ethan King: // I am dumbo
+[14:36:40] Mal Tresto<STEAM_0:1:191784883> spawned model models/props_c17/trappropeller_blade.mdl
+[14:36:41] Mal Tresto<STEAM_0:1:191784883> spawned model models/props_c17/signpole001.mdl
+[14:36:49] Ethan King: // Can we have a high security prison similar to Nova Prospect in Brazil?
+[14:37:01] Lee Maylor: //we do, it's called Brazil
+[14:37:07] Ethan King: // Ah, I see.
+[14:37:10] Mal Tresto<STEAM_0:1:191784883> spawned model models/props_trainstation/pole_448connection002b.mdl
+[14:37:13] Mal Tresto<STEAM_0:1:191784883> spawned model models/props_c17/signpole001.mdl
+[14:37:28] Lee Maylor: //well since server dead i should probably get to writing
+[14:37:29] Mal Tresto<STEAM_0:1:191784883> spawned model models/props_wasteland/cafeteria_bench001a.mdl
+[14:37:38] Ethan King: // Truly
+[14:37:39] Mal Tresto<STEAM_0:1:191784883> used the tool nocollideeverything on models/props_wasteland/cafeteria_bench001a.mdl
+[14:37:50] Ethan King: // Gonna hop off for now.
+[14:37:57] Ethan King: // See you fucks later.
+[14:38:05] Ethan King: // I'll try to hop on more at some point.
+[14:38:14] Dropped "Ethan King" from server<STEAM_0:1:17219621>
+[14:38:16] Mal Tresto<STEAM_0:1:191784883> spawned model models/props_wasteland/cafeteria_bench001a.mdl
+[14:38:21] Mal Tresto<STEAM_0:1:191784883> spawned model models/props_wasteland/cafeteria_bench001a.mdl
+[14:38:25] Dropped "Lee Maylor" from server<STEAM_0:1:53097688>
+[14:38:34] Mal Tresto<STEAM_0:1:191784883> used the tool nocollideeverything on models/props_wasteland/cafeteria_bench001a.mdl
+[14:39:01] Mal Tresto<STEAM_0:1:191784883> spawned model models/props_wasteland/cafeteria_bench001a.mdl
+[14:39:03] Mal Tresto<STEAM_0:1:191784883> spawned model models/props_trainstation/traincar_rack001.mdl
+[14:39:06] Mal Tresto<STEAM_0:1:191784883> spawned model models/props_trainstation/traincar_rack001.mdl
+[14:39:09] Mal Tresto<STEAM_0:1:191784883> used the tool nocollideeverything on models/props_trainstation/traincar_rack001.mdl
+[14:39:31] Client "matt saton" connected.
+[14:39:40] Mal Tresto<STEAM_0:1:191784883> spawned model models/props_junk/trashdumpster02b.mdl
+[14:39:54] Mal Tresto<STEAM_0:1:191784883> spawned model models/props_junk/trashdumpster02b.mdl
+[14:39:57] Mal Tresto<STEAM_0:1:191784883> spawned model models/props_junk/trashdumpster02b.mdl
+[14:39:58] Mal Tresto<STEAM_0:1:191784883> used the tool nocollideeverything on models/props_junk/trashdumpster02b.mdl
+[14:40:26] Mal Tresto<STEAM_0:1:191784883> used the tool ballsocket on maps/rp_city8_edit_v4r.bsp
+[14:40:27] Mal Tresto<STEAM_0:1:191784883> used the tool ballsocket on maps/rp_city8_edit_v4r.bsp
+[14:40:29] Mal Tresto<STEAM_0:1:191784883> used the tool ballsocket on maps/rp_city8_edit_v4r.bsp
+[14:40:30] Mal Tresto<STEAM_0:1:191784883> used the tool ballsocket on maps/rp_city8_edit_v4r.bsp
+[14:40:37] Mal Tresto<STEAM_0:1:191784883> spawned model models/props_junk/wood_pallet001a.mdl
+[14:40:45] Mal Tresto<STEAM_0:1:191784883> spawned model models/props_debris/metal_panel02a.mdl
+[14:40:49] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 78 seconds).
+[14:40:52] Mal Tresto<STEAM_0:1:191784883> spawned model models/props_junk/trashdumpster02b.mdl
+[14:41:04] Mal Tresto<STEAM_0:1:191784883> used the tool ballsocket on maps/rp_city8_edit_v4r.bsp
+[14:41:04] Mal Tresto<STEAM_0:1:191784883> used the tool ballsocket on maps/rp_city8_edit_v4r.bsp
+[14:41:09] Mal Tresto<STEAM_0:1:191784883> spawned model models/props_junk/trashdumpster02b.mdl
+[14:41:16] Mal Tresto<STEAM_0:1:191784883> used the tool ballsocket on maps/rp_city8_edit_v4r.bsp
+[14:41:17] Mal Tresto<STEAM_0:1:191784883> used the tool ballsocket on maps/rp_city8_edit_v4r.bsp
+[14:41:19] Mal Tresto<STEAM_0:1:191784883> used the tool ballsocket on maps/rp_city8_edit_v4r.bsp
+[14:41:20] Mal Tresto<STEAM_0:1:191784883> used the tool ballsocket on maps/rp_city8_edit_v4r.bsp
+[14:41:24] Mal Tresto<STEAM_0:1:191784883> used the tool ballsocket on models/props_junk/trashdumpster02b.mdl
+[14:41:24] Mal Tresto<STEAM_0:1:191784883> used the tool ballsocket on maps/rp_city8_edit_v4r.bsp
+[14:41:24] matt saton<STEAM_0:1:53097688> changed their name to Lee Maylor
+[14:41:26] Mal Tresto<STEAM_0:1:191784883> used the tool ballsocket on models/props_junk/trashdumpster02b.mdl
+[14:41:28] Mal Tresto<STEAM_0:1:191784883> used the tool ballsocket on maps/rp_city8_edit_v4r.bsp
+[14:41:30] Mal Tresto<STEAM_0:1:191784883> spawned model models/props_junk/trashdumpster02b.mdl
+[14:41:30] Mal Tresto<STEAM_0:1:191784883> used the tool ballsocket on models/props_junk/trashdumpster02b.mdl
+[14:41:31] Mal Tresto<STEAM_0:1:191784883> used the tool ballsocket on models/props_junk/trashdumpster02b.mdl
+[14:41:52] Mal Tresto<STEAM_0:1:191784883> used the tool ballsocket on models/props_junk/trashdumpster02b.mdl
+[14:41:53] Mal Tresto<STEAM_0:1:191784883> used the tool ballsocket on maps/rp_city8_edit_v4r.bsp
+[14:42:04] Mal Tresto<STEAM_0:1:191784883> used the tool ballsocket on maps/rp_city8_edit_v4r.bsp
+[14:42:06] Mal Tresto<STEAM_0:1:191784883> used the tool ballsocket on maps/rp_city8_edit_v4r.bsp
+[14:42:07] Mal Tresto<STEAM_0:1:191784883> used the tool ballsocket on maps/rp_city8_edit_v4r.bsp
+[14:42:08] Mal Tresto<STEAM_0:1:191784883> used the tool ballsocket on maps/rp_city8_edit_v4r.bsp
+[14:42:09] Mal Tresto<STEAM_0:1:191784883> used the tool ballsocket on models/props_junk/trashdumpster02b.mdl
+[14:42:10] Mal Tresto<STEAM_0:1:191784883> used the tool ballsocket on maps/rp_city8_edit_v4r.bsp
+[14:42:21] Mal Tresto: // yo 
+[14:42:22] Mal Tresto: // matt
+[14:42:32] Mal Tresto: // you mind if i make some things that can actually open?
+[14:42:45] Mal Tresto: // this thing as a rough example
+[14:42:54] Mal Tresto<STEAM_0:1:191784883> used the tool ballsocket on models/props_junk/trashdumpster02b.mdl
+[14:43:03] Mal Tresto<STEAM_0:1:191784883> spawned model models/props_debris/metal_panel01a.mdl
+[14:43:07] Mal Tresto<STEAM_0:1:191784883> spawned model models/props_debris/metal_panel02a.mdl
+[14:43:10] Mal Tresto<STEAM_0:1:191784883> spawned model models/props_debris/metal_panel01a.mdl
+[14:43:18] Mal Tresto<STEAM_0:1:191784883> spawned model models/props_debris/metal_panel02a.mdl
+[14:43:44] Mal Tresto<STEAM_0:1:191784883> used the tool ballsocket on models/props_debris/metal_panel02a.mdl
+[14:43:45] Mal Tresto<STEAM_0:1:191784883> used the tool ballsocket on maps/rp_city8_edit_v4r.bsp
+[14:43:46] Mal Tresto<STEAM_0:1:191784883> used the tool ballsocket on models/props_debris/metal_panel02a.mdl
+[14:43:46] Mal Tresto<STEAM_0:1:191784883> used the tool ballsocket on maps/rp_city8_edit_v4r.bsp
+[14:44:03] Mal Tresto<STEAM_0:1:191784883> spawned model models/props_junk/trashdumpster02b.mdl
+[14:44:31] Mal Tresto<STEAM_0:1:191784883> spawned model models/props_junk/wood_pallet001a.mdl
+[14:44:40] Mal Tresto: // + i'll make em destructible so it aint fuckin op
+[14:44:42] Mal Tresto<STEAM_0:1:191784883> used the tool ballsocket on models/props_junk/wood_pallet001a.mdl
+[14:44:45] Mal Tresto<STEAM_0:1:191784883> used the tool nocollideeverything on models/props_junk/wood_pallet001a.mdl
+[14:44:58] Mal Tresto<STEAM_0:1:191784883> used the tool nocollideeverything on models/props_junk/wood_pallet001a.mdl
+[14:45:02] Mal Tresto<STEAM_0:1:191784883> used the tool unbreakable on models/props_junk/wood_pallet001a.mdl
+[14:45:04] Mal Tresto<STEAM_0:1:191784883> used the tool unbreakable on models/props_junk/wood_pallet001a.mdl
+[14:45:06] Mal Tresto<STEAM_0:1:191784883> used the tool unbreakable on models/props_junk/trashdumpster02b.mdl
+[14:45:11] Mal Tresto<STEAM_0:1:191784883> used the tool ballsocket on models/props_junk/trashdumpster02b.mdl
+[14:45:12] Mal Tresto<STEAM_0:1:191784883> used the tool ballsocket on models/props_junk/wood_pallet001a.mdl
+[14:45:13] Mal Tresto<STEAM_0:1:191784883> used the tool ballsocket on models/props_junk/trashdumpster02b.mdl
+[14:45:14] Mal Tresto<STEAM_0:1:191784883> used the tool ballsocket on models/props_junk/wood_pallet001a.mdl
+[14:45:15] Mal Tresto<STEAM_0:1:191784883> used the tool ballsocket on models/props_junk/trashdumpster02b.mdl
+[14:45:15] Mal Tresto<STEAM_0:1:191784883> used the tool ballsocket on models/props_junk/wood_pallet001a.mdl
+[14:45:26] Mal Tresto was killed by prop_physics
+[14:45:29] Mal Tresto: // nevermind
+[14:48:38] Mal Tresto<STEAM_0:1:191784883> used the tool sparks on maps/rp_city8_edit_v4r.bsp
+[14:48:42] Mal Tresto<STEAM_0:1:191784883> used the tool tesla on maps/rp_city8_edit_v4r.bsp
+[14:48:44] Mal Tresto<STEAM_0:1:191784883> used the tool steam on maps/rp_city8_edit_v4r.bsp
+[14:48:48] Mal Tresto<STEAM_0:1:191784883> used the tool fire on maps/rp_city8_edit_v4r.bsp
+[14:49:01] Mal Tresto<STEAM_0:1:191784883> used the tool energyball on maps/rp_city8_edit_v4r.bsp
+[14:49:11] Mal Tresto<STEAM_0:1:191784883> used the tool witchergate on maps/rp_city8_edit_v4r.bsp
+[14:49:12] Mal Tresto<STEAM_0:1:191784883> used the tool witchergate on maps/rp_city8_edit_v4r.bsp
+[14:50:07] Client "hnbug01" connected.
+[14:50:22] Mal Tresto: // br
+[14:50:24] Mal Tresto: // b
+[14:50:37] Lee Maylor: //?
+[14:50:38] Mal Tresto: // ok me back
+[14:50:48] Mal Tresto<STEAM_0:1:191784883> used the tool cpoutfit on maps/rp_city8_edit_v4r.bsp
+[14:50:49] Mal Tresto<STEAM_0:1:191784883> used the tool cpoutfit on maps/rp_city8_edit_v4r.bsp
+[14:51:01] Mal Tresto<STEAM_0:1:191784883> used the tool map_builder on maps/rp_city8_edit_v4r.bsp
+[14:51:04] Mal Tresto<STEAM_0:1:191784883> used the tool map_builder on maps/rp_city8_edit_v4r.bsp
+[14:51:15] Mal Tresto<STEAM_0:1:191784883> used the tool map_builder on maps/rp_city8_edit_v4r.bsp
+[14:51:16] Mal Tresto<STEAM_0:1:191784883> used the tool map_builder on maps/rp_city8_edit_v4r.bsp
+[14:51:16] Mal Tresto<STEAM_0:1:191784883> used the tool map_builder on maps/rp_city8_edit_v4r.bsp
+[14:51:18] Mal Tresto<STEAM_0:1:191784883> used the tool map_builder on maps/rp_city8_edit_v4r.bsp
+[14:51:19] Mal Tresto<STEAM_0:1:191784883> used the tool map_builder on maps/rp_city8_edit_v4r.bsp
+[14:51:19] Mal Tresto<STEAM_0:1:191784883> used the tool map_builder on maps/rp_city8_edit_v4r.bsp
+[14:51:20] Mal Tresto<STEAM_0:1:191784883> used the tool map_builder on maps/rp_city8_edit_v4r.bsp
+[14:51:21] Mal Tresto<STEAM_0:1:191784883> used the tool map_builder on maps/rp_city8_edit_v4r.bsp
+[14:51:21] Mal Tresto<STEAM_0:1:191784883> used the tool map_builder on maps/rp_city8_edit_v4r.bsp
+[14:51:23] Mal Tresto<STEAM_0:1:191784883> used the tool map_builder on maps/rp_city8_edit_v4r.bsp
+[14:51:24] Mal Tresto<STEAM_0:1:191784883> used the tool map_builder on maps/rp_city8_edit_v4r.bsp
+[14:51:25] Mal Tresto<STEAM_0:1:191784883> used the tool map_builder on maps/rp_city8_edit_v4r.bsp
+[14:51:26] Mal Tresto<STEAM_0:1:191784883> used the tool map_builder on maps/rp_city8_edit_v4r.bsp
+[14:51:27] Mal Tresto<STEAM_0:1:191784883> used the tool map_builder on maps/rp_city8_edit_v4r.bsp
+[14:51:28] Mal Tresto<STEAM_0:1:191784883> used the tool map_builder on maps/rp_city8_edit_v4r.bsp
+[14:51:28] Mal Tresto<STEAM_0:1:191784883> used the tool map_builder on maps/rp_city8_edit_v4r.bsp
+[14:51:31] Mal Tresto<STEAM_0:1:191784883> used the tool map_builder on maps/rp_city8_edit_v4r.bsp
+[14:51:31] Mal Tresto<STEAM_0:1:191784883> used the tool map_builder on maps/rp_city8_edit_v4r.bsp
+[14:51:33] Mal Tresto<STEAM_0:1:191784883> used the tool map_builder on maps/rp_city8_edit_v4r.bsp
+[14:51:34] Mal Tresto<STEAM_0:1:191784883> used the tool map_builder on maps/rp_city8_edit_v4r.bsp
+[14:51:35] Mal Tresto<STEAM_0:1:191784883> used the tool map_builder on maps/rp_city8_edit_v4r.bsp
+[14:51:36] Mal Tresto<STEAM_0:1:191784883> used the tool map_builder on maps/rp_city8_edit_v4r.bsp
+[14:51:36] Mal Tresto<STEAM_0:1:191784883> used the tool map_builder on maps/rp_city8_edit_v4r.bsp
+[14:51:36] Mal Tresto<STEAM_0:1:191784883> used the tool map_builder on maps/rp_city8_edit_v4r.bsp
+[14:51:37] Mal Tresto<STEAM_0:1:191784883> used the tool map_builder on maps/rp_city8_edit_v4r.bsp
+[14:51:38] Mal Tresto<STEAM_0:1:191784883> used the tool map_builder on maps/rp_city8_edit_v4r.bsp
+[14:51:38] Mal Tresto<STEAM_0:1:191784883> used the tool map_builder on maps/rp_city8_edit_v4r.bsp
+[14:51:40] Mal Tresto<STEAM_0:1:191784883> used the tool map_builder on maps/rp_city8_edit_v4r.bsp
+[14:51:41] Mal Tresto<STEAM_0:1:191784883> used the tool map_builder on maps/rp_city8_edit_v4r.bsp
+[14:51:41] Mal Tresto<STEAM_0:1:191784883> used the tool map_builder on maps/rp_city8_edit_v4r.bsp
+[14:51:42] Mal Tresto<STEAM_0:1:191784883> used the tool map_builder on maps/rp_city8_edit_v4r.bsp
+[14:51:42] Mal Tresto<STEAM_0:1:191784883> used the tool map_builder on maps/rp_city8_edit_v4r.bsp
+[14:51:43] Mal Tresto<STEAM_0:1:191784883> used the tool map_builder on maps/rp_city8_edit_v4r.bsp
+[14:51:44] Mal Tresto<STEAM_0:1:191784883> used the tool map_builder on maps/rp_city8_edit_v4r.bsp
+[14:51:55] Mal Tresto<STEAM_0:1:191784883> used the tool rb655_easy_bodygroup on maps/rp_city8_edit_v4r.bsp
+[14:51:56] Mal Tresto<STEAM_0:1:191784883> used the tool rb655_easy_bodygroup on maps/rp_city8_edit_v4r.bsp
+[14:51:58] Mal Tresto<STEAM_0:1:191784883> used the tool rb655_easy_bodygroup on maps/rp_city8_edit_v4r.bsp
+[14:52:19] Mal Tresto<STEAM_0:1:191784883> used the tool rt_camera on maps/rp_city8_edit_v4r.bsp
+[14:52:58] Mal Tresto: // btw do breencasts get displayed somewherE?
+[14:53:00] Client "hnbug01" spawned in server <STEAM_0:1:575208276> (took 173 seconds).
+[14:53:10] Lee Maylor: //nah, this map doesn't have the RT cameras
+[14:53:14] Mal Tresto: // cool
+[14:53:35] Mal Tresto: // and good
+[14:53:40] Mal Tresto<STEAM_0:1:191784883> used the tool rt_camera on maps/rp_city8_edit_v4r.bsp
+[14:54:17] hnbug01<STEAM_0:1:575208276> changed their name to Feng Yi Hseuh
+[14:54:24] Mal Tresto<STEAM_0:1:191784883> used the tool rt_camera on maps/rp_city8_edit_v4r.bsp
+[14:54:36] Feng Yi Hseuh suicided!
+[14:54:36] Lee Maylor slayed Feng Yi Hseuh
+[14:54:43] Feng Yi Hseuh: //what just killed me
+[14:54:47] Mal Tresto: // tracks
+[14:54:56] Mal Tresto<STEAM_0:1:191784883> spawned model models/props_phx/rt_screen.mdl
+[14:54:58] Mal Tresto<STEAM_0:1:191784883> used the tool rt_camera on models/props_phx/rt_screen.mdl
+[14:55:04] Feng Yi Hseuh: //i didn't jump on them?
+[14:55:07] Mal Tresto<STEAM_0:1:191784883> used the tool rt_camera on maps/rp_city8_edit_v4r.bsp
+[14:55:08] Mal Tresto: // gas then
+[14:55:32] Mal Tresto<STEAM_0:1:191784883> used the tool rt_camera on maps/rp_city8_edit_v4r.bsp
+[14:55:39] Mal Tresto<STEAM_0:1:191784883> spawned model models/props_phx/rt_screen.mdl
+[14:56:21] Mal Tresto<STEAM_0:1:191784883> used the tool mapret on maps/rp_city8_edit_v4r.bsp
+[14:56:35] Mal Tresto<STEAM_0:1:191784883> used the tool adv_bone on maps/rp_city8_edit_v4r.bsp
+[14:57:04] Mal Tresto<STEAM_0:1:191784883> spawned model models/props_combine/breenglobe.mdl
+[14:57:04] Mal Tresto<STEAM_0:1:191784883> used the tool magnetise on models/props_combine/breenglobe.mdl
+[14:57:08] Mal Tresto<STEAM_0:1:191784883> spawned model models/props_combine/breenglobe.mdl
+[14:57:09] Mal Tresto<STEAM_0:1:191784883> used the tool magnetise on models/props_combine/breenglobe.mdl
+[14:57:32] Mal Tresto<STEAM_0:1:191784883> spawned/used tool leafblower -=RESTRICTED=-
+[14:57:32] Mal Tresto<STEAM_0:1:191784883> spawned/used tool leafblower -=RESTRICTED=-
+[14:57:32] Mal Tresto<STEAM_0:1:191784883> spawned/used tool leafblower -=RESTRICTED=-
+[14:57:33] Mal Tresto<STEAM_0:1:191784883> spawned/used tool leafblower -=RESTRICTED=-
+[14:57:33] Mal Tresto<STEAM_0:1:191784883> spawned/used tool leafblower -=RESTRICTED=-
+[14:57:33] Mal Tresto<STEAM_0:1:191784883> spawned/used tool leafblower -=RESTRICTED=-
+[14:57:33] Mal Tresto<STEAM_0:1:191784883> spawned/used tool leafblower -=RESTRICTED=-
+[14:57:33] Mal Tresto<STEAM_0:1:191784883> spawned/used tool leafblower -=RESTRICTED=-
+[14:57:33] Mal Tresto<STEAM_0:1:191784883> spawned/used tool leafblower -=RESTRICTED=-
+[14:57:33] Mal Tresto<STEAM_0:1:191784883> spawned/used tool leafblower -=RESTRICTED=-
+[14:57:33] Mal Tresto<STEAM_0:1:191784883> spawned/used tool leafblower -=RESTRICTED=-
+[14:57:33] Mal Tresto<STEAM_0:1:191784883> spawned/used tool leafblower -=RESTRICTED=-
+[14:57:33] Mal Tresto<STEAM_0:1:191784883> spawned/used tool leafblower -=RESTRICTED=-
+[14:57:33] Mal Tresto<STEAM_0:1:191784883> spawned/used tool leafblower -=RESTRICTED=-
+[14:57:36] Mal Tresto<STEAM_0:1:191784883> spawned/used tool leafblower -=RESTRICTED=-
+[14:57:39] Mal Tresto<STEAM_0:1:191784883> spawned/used tool ladder -=RESTRICTED=-
+[14:57:39] Mal Tresto<STEAM_0:1:191784883> spawned/used tool ladder -=RESTRICTED=-
+[14:57:43] Mal Tresto<STEAM_0:1:191784883> spawned/used tool ladder -=RESTRICTED=-
+[14:57:43] Mal Tresto<STEAM_0:1:191784883> used the tool magnetise on maps/rp_city8_edit_v4r.bsp
+[14:57:43] Mal Tresto<STEAM_0:1:191784883> used the tool magnetise on maps/rp_city8_edit_v4r.bsp
+[14:57:44] Mal Tresto<STEAM_0:1:191784883> used the tool magnetise on maps/rp_city8_edit_v4r.bsp
+[14:57:44] Mal Tresto<STEAM_0:1:191784883> used the tool magnetise on maps/rp_city8_edit_v4r.bsp
+[14:57:46] Mal Tresto<STEAM_0:1:191784883> used the tool magnetise on maps/rp_city8_edit_v4r.bsp
+[14:57:47] Mal Tresto<STEAM_0:1:191784883> used the tool rt_camera on maps/rp_city8_edit_v4r.bsp
+[14:57:50] Mal Tresto<STEAM_0:1:191784883> used the tool rt_camera on maps/rp_city8_edit_v4r.bsp
+[14:57:56] Mal Tresto<STEAM_0:1:191784883> spawned model models/props_phx/rt_screen.mdl
+[14:58:13] Mal Tresto<STEAM_0:1:191784883> used the tool elevator_button on maps/rp_city8_edit_v4r.bsp
+[14:58:13] Mal Tresto<STEAM_0:1:191784883> used the tool elevator_button on maps/rp_city8_edit_v4r.bsp
+[14:58:15] Mal Tresto<STEAM_0:1:191784883> used the tool elevator_button on maps/rp_city8_edit_v4r.bsp
+[14:58:15] Mal Tresto<STEAM_0:1:191784883> used the tool elevator_button on maps/rp_city8_edit_v4r.bsp
+[14:58:15] Mal Tresto<STEAM_0:1:191784883> used the tool elevator_button on maps/rp_city8_edit_v4r.bsp
+[14:58:18] Mal Tresto<STEAM_0:1:191784883> used the tool emitter on maps/rp_city8_edit_v4r.bsp
+[14:58:20] Mal Tresto<STEAM_0:1:191784883> spawned/used tool elevator -=RESTRICTED=-
+[14:58:22] Mal Tresto<STEAM_0:1:191784883> spawned/used tool elevator -=RESTRICTED=-
+[14:58:24] Mal Tresto<STEAM_0:1:191784883> used the tool button on maps/rp_city8_edit_v4r.bsp
+[14:58:30] Mal Tresto<STEAM_0:1:191784883> used the tool textscreen on maps/rp_city8_edit_v4r.bsp
+[14:58:37] Mal Tresto<STEAM_0:1:191784883> used the tool nail on models/props_phx/rt_screen.mdl
+[14:58:40] Mal Tresto<STEAM_0:1:191784883> used the tool nail on models/props_phx/rt_screen.mdl
+[14:58:41] Mal Tresto<STEAM_0:1:191784883> used the tool nail on models/props_phx/rt_screen.mdl
+[14:58:42] Mal Tresto<STEAM_0:1:191784883> used the tool nail on models/props_phx/rt_screen.mdl
+[14:58:43] Mal Tresto<STEAM_0:1:191784883> used the tool nail on models/props_phx/rt_screen.mdl
+[14:58:43] Mal Tresto<STEAM_0:1:191784883> used the tool nail on models/props_phx/rt_screen.mdl
+[14:58:44] Mal Tresto<STEAM_0:1:191784883> used the tool nail on models/props_phx/rt_screen.mdl
+[14:58:45] Mal Tresto<STEAM_0:1:191784883> used the tool nail on models/props_phx/rt_screen.mdl
+[14:58:46] Mal Tresto<STEAM_0:1:191784883> used the tool nail on models/props_phx/rt_screen.mdl
+[14:58:46] Mal Tresto<STEAM_0:1:191784883> used the tool nail on models/props_phx/rt_screen.mdl
+[14:59:18] Mal Tresto: // im vlogging
+[15:01:13] Mal Tresto: // matt
+[15:04:42] Mal Tresto<STEAM_0:1:191784883> used the tool witchergate on maps/rp_city8_edit_v4r.bsp
+[15:04:50] Mal Tresto<STEAM_0:1:191784883> used the tool witchergate on maps/rp_city8_edit_v4r.bsp
+[15:05:45] Lee Maylor teleported to Mal Tresto
+[15:08:30] Lee Maylor<STEAM_0:1:53097688> changed their name to CCA.C08-UNION.i1.51023
+[15:08:34] CCA.C08-UNION.i1.51023: /toggleraise
+[15:10:10] Mal Tresto<STEAM_0:1:191784883> used the tool witchergate on maps/rp_city8_edit_v4r.bsp
+[15:10:35] Mal Tresto: // grey dev texture be like bruuuh
+[15:11:04] Mal Tresto<STEAM_0:1:191784883> used the tool witchergate on maps/rp_city8_edit_v4r.bsp
+[15:11:17] Mal Tresto<STEAM_0:1:191784883> used the tool witchergate on maps/rp_city8_edit_v4r.bsp
+[15:11:37] Mal Tresto: // imagine switching on cp to not deliver a sentence
+[15:12:05] Mal Tresto<STEAM_0:1:191784883> used the tool witchergate on maps/rp_city8_edit_v4r.bsp
+[15:12:54] Mal Tresto<STEAM_0:1:191784883> used the tool witchergate on maps/rp_city8_edit_v4r.bsp
+[15:14:00] CCA.C08-UNION.i1.51023: /toggleraise
+[15:14:55] CCA.C08-UNION.i1.51023: /toggleraise
+[15:15:03] Client "Death Razor" connected.
+[15:20:56] Mal Tresto: dream about cheese
+[15:21:10] Mal Tresto: dream about cheese
+[15:21:29] Mal Tresto: dream about cheese
+[15:21:37] CCA.C08-UNION.i1.51023: /toggleraise
+[15:21:40] CCA.C08-UNION.i1.51023: /y hold it
+[15:21:54] Client "Death Razor" spawned in server <STEAM_0:1:66880501> (took 411 seconds).
+[15:21:58] CCA.C08-UNION.i1.51023<STEAM_0:1:53097688> spawned/gave himself swep weapon_pistol
+[15:21:58] CCA.C08-UNION.i1.51023: /toggleraise
+[15:22:01] CCA.C08-UNION.i1.51023: /toggleraise
+[15:22:02] CCA.C08-UNION.i1.51023: /toggleraise
+[15:22:05] Mal Tresto: // chase me cp man
+[15:23:12] Mal Tresto: dream about cheese
+[15:23:19] CCA.C08-UNION.i1.51023: /toggleraise
+[15:23:33] CCA.C08-UNION.i1.51023: /toggleraise
+[15:24:28] CCA.C08-UNION.i1.51023: /toggleraise
+[15:24:37] Client "dank" connected.
+[15:24:50] Mal Tresto: dream about cheese
+[15:24:50] Death Razor<STEAM_0:1:66880501> changed their name to Andrew 'Razor' Gonzalez
+[15:24:55] CCA.C08-UNION.i1.51023: //holy fuck
+[15:24:59] CCA.C08-UNION.i1.51023: //death razor no way
+[15:25:02] Andrew 'Razor' Gonzalez: /setpersist
+[15:25:06] Andrew 'Razor' Gonzalez: //Lmao
+[15:25:14] CCA.C08-UNION.i1.51023: //i'm absolutely shocked
+[15:25:16] Andrew 'Razor' Gonzalez: // I figured this was yours
+[15:25:25] CCA.C08-UNION.i1.51023: /toggleraise
+[15:25:30] Andrew 'Razor' Gonzalez: // Why are you shocked
+[15:25:37] CCA.C08-UNION.i1.51023: //i didn't realize you were still around.
+[15:25:46] CCA.C08-UNION.i1.51023: //in the HL2RP community
+[15:25:59] Andrew 'Razor' Gonzalez: // I mean, I keep in touch
+[15:26:04] CCA.C08-UNION.i1.51023: //fair
+[15:26:08] CCA.C08-UNION.i1.51023: //what made you think this was mine? low pop?
+[15:26:10] CCA.C08-UNION.i1.51023: //lmao
+[15:26:11] Andrew 'Razor' Gonzalez: // I've been doing irl stuff, no one's done much hl2rp
+[15:26:13] Mal Tresto: // this man good at rp?
+[15:26:23] CCA.C08-UNION.i1.51023: //last i checked yeah
+[15:26:25] CCA.C08-UNION.i1.51023: //i feel that
+[15:26:25] Andrew 'Razor' Gonzalez: // Wanted to say hi and I still liked your projects
+[15:26:31] CCA.C08-UNION.i1.51023: //thanks, i appreciate that
+[15:26:33] CCA.C08-UNION.i1.51023: //great to see you
+[15:26:39] CCA.C08-UNION.i1.51023: New guy, step up to the counter.
+[15:26:57] Andrew 'Razor' Gonzalez: /me would walk up to the counter, keeping his hands in his pockets
+[15:27:06] CCA.C08-UNION.i1.51023: /me speaks flatly to the citizen.
+[15:27:08] CCA.C08-UNION.i1.51023: Relocation coupon.
+[15:27:09] Andrew 'Razor' Gonzalez: // Good to see you too
+[15:27:21] Mal Tresto: .// bias, you didnt rp with me like that
+[15:27:25] Mal Tresto: .// smh smh
+[15:27:33] Andrew 'Razor' Gonzalez: /me would take out the coupon, gently putting it onto the counter
+[15:27:39] Client "dank" spawned in server <STEAM_0:1:92343185> (took 182 seconds).
+[15:27:58] Andrew 'Razor' Gonzalez: [[ oof
+[15:28:10] CCA.C08-UNION.i1.51023: /me takes the relocation coupon and slides it toward himself. He examines it for a moment, turning towards the florescent light behind him and looking it over front and back.
+[15:28:21] Andrew 'Razor' Gonzalez: // I figured to swing by today, I was working in Surfside a few days back
+[15:28:25] CCA.C08-UNION.i1.51023: //ah nice nice
+[15:28:28] CCA.C08-UNION.i1.51023: /me turns back around to the citizen.
+[15:28:29] Mal Tresto: // fnaf irl
+[15:28:30] CCA.C08-UNION.i1.51023: Wait here.
+[15:28:41] Andrew 'Razor' Gonzalez: // I was planning to reinstall last week but my job duties told me otherwise
+[15:28:53] CCA.C08-UNION.i1.51023: //me when college
+[15:29:00] Andrew 'Razor' Gonzalez: // Since we have half a building collapsed in my city
+[15:29:01] dank<STEAM_0:1:92343185> changed their name to John Donovan
+[15:29:01] Mal Tresto: // gay
+[15:29:09] CCA.C08-UNION.i1.51023: //oh holy shit are you alright
+[15:29:15] CCA.C08-UNION.i1.51023: //oh wait do you mean in florida
+[15:29:19] Andrew 'Razor' Gonzalez: // Yeah I was just really fucking tired
+[15:29:21] Andrew 'Razor' Gonzalez: // Yeah
+[15:29:28] Andrew 'Razor' Gonzalez: // I live near Surfside
+[15:29:31] CCA.C08-UNION.i1.51023: //oh yeah, that's absolutely insane
+[15:29:39] CCA.C08-UNION.i1.51023: Alright. Got a few questions for you.
+[15:29:49] Mal Tresto: .// sex
+[15:29:54] Andrew 'Razor' Gonzalez: // I rescued a kid me and other guy, we found him under an AC vent
+[15:29:56] CCA.C08-UNION.i1.51023: /me takes his datapad off of his utility belt and types into it. The blue glow from the screen illuminates his mask ever so slightly.
+[15:29:58] Andrew 'Razor' Gonzalez: Sure.
+[15:30:02] CCA.C08-UNION.i1.51023: //that's fucking awesome
+[15:30:13] CCA.C08-UNION.i1.51023: I need your date of birth, and your sex.
+[15:30:17] CCA.C08-UNION.i1.51023: .//IC year is 2006, war was in 2003
+[15:30:21] Dropped "John Donovan" from server<STEAM_0:1:92343185>
+[15:30:23] Andrew 'Razor' Gonzalez: // Now that they're demolishing the building, it's over now.
+[15:30:26] Andrew 'Razor' Gonzalez: [[ k
+[15:30:37] CCA.C08-UNION.i1.51023: //damn
+[15:30:50] Andrew 'Razor' Gonzalez: I was born in March of twenty-six
+[15:30:58] Andrew 'Razor' Gonzalez: And I got balls so, male.
+[15:31:06] CCA.C08-UNION.i1.51023: /me turns to the citizen next to Gonzalez.
+[15:31:14] CCA.C08-UNION.i1.51023: Can I help you?
+[15:31:18] Mal Tresto: nope
+[15:31:19] Andrew 'Razor' Gonzalez: /me would look over
+[15:31:24] Mal Tresto: just waitin' to show the new guy around
+[15:31:30] CCA.C08-UNION.i1.51023: Wait on the bench, then.
+[15:31:36] Andrew 'Razor' Gonzalez: /me would look back, mumbling in Spanish.
+[15:31:45] CCA.C08-UNION.i1.51023: march of.. nineteen twenty six?
+[15:31:56] Andrew 'Razor' Gonzalez: // Yeah it's crazy but we lost 2 kids in that whole situation
+[15:32:02] Mal Tresto: // damn
+[15:32:06] CCA.C08-UNION.i1.51023: /chargiveflag tresto S
+[15:32:09] CCA.C08-UNION.i1.51023: //fuck
+[15:32:11] Andrew 'Razor' Gonzalez: March of Twenty six
+[15:32:12] Mal Tresto: /sp Hola
+[15:32:16] Mal Tresto: /sp test test
+[15:32:19] Mal Tresto: /sp nvm the previous things
+[15:32:35] Andrew 'Razor' Gonzalez: March was my month, twenty-six was my day
+[15:32:42] CCA.C08-UNION.i1.51023: What year?
+[15:32:50] Andrew 'Razor' Gonzalez: [[fuck math rn lmao
+[15:33:09] Andrew 'Razor' Gonzalez: [[ I need to calculate 26 in this year
+[15:33:13] CCA.C08-UNION.i1.51023: .//minimum year is 1985
+[15:33:19] Andrew 'Razor' Gonzalez: [[ I'm meant to be 26 here
+[15:33:20] CCA.C08-UNION.i1.51023: .//1980
+[15:33:26] Mal Tresto: // SHINY CYLINDER
+[15:33:28] Andrew 'Razor' Gonzalez: [[ Alright cool I failed math
+[15:33:33] Andrew 'Razor' Gonzalez: 1980
+[15:33:33] CCA.C08-UNION.i1.51023: .//you're good
+[15:33:39] CCA.C08-UNION.i1.51023: /viewdata andrew
+[15:33:44] Andrew 'Razor' Gonzalez: One Nine Eight Zero.
+[15:33:59] Andrew 'Razor' Gonzalez: /me would mumble in Spanish to himself
+[15:34:04] Mal Tresto: .// u can ask for spanish flags
+[15:34:06] CCA.C08-UNION.i1.51023: /chargiveflag gonzalez S
+[15:34:06] Mal Tresto: .// just saying
+[15:34:08] CCA.C08-UNION.i1.51023: And.. do you know your blood type?
+[15:34:19] CCA.C08-UNION.i1.51023: You're not in trouble if you don't, I can mark it as unknown.
+[15:34:33] Andrew 'Razor' Gonzalez: Eh..yea it's O positive
+[15:34:41] CCA.C08-UNION.i1.51023: /viewdata andrew
+[15:35:12] CCA.C08-UNION.i1.51023: Got any medical problems? Eczema, lazy eye, IBS, anything like thaT?
+[15:35:37] Andrew 'Razor' Gonzalez: Uh..not really, does insomnia count?
+[15:35:51] Andrew 'Razor' Gonzalez: Or like, sleep paralysis?
+[15:36:05] Andrew 'Razor' Gonzalez: If not then not really.
+[15:36:08] CCA.C08-UNION.i1.51023: I'll mark those as mental.
+[15:36:41] CCA.C08-UNION.i1.51023: That leads me in to my next question, anything mental? OCD, ADD, any addictions?
+[15:37:10] Andrew 'Razor' Gonzalez: Uh..PTSD?
+[15:37:14] CCA.C08-UNION.i1.51023: Alright...
+[15:37:17] CCA.C08-UNION.i1.51023: /viewdata andrew
+[15:37:22] Andrew 'Razor' Gonzalez: Kind of it, really.
+[15:37:43] Andrew 'Razor' Gonzalez: But not anything insane, y'know.
+[15:38:10] CCA.C08-UNION.i1.51023: You're still mentally fit with that, as long as you can function.
+[15:38:25] Andrew 'Razor' Gonzalez: Alright sounds good with me.
+[15:38:26] CCA.C08-UNION.i1.51023: Otherwise we have to send you to a place for other mentally unfit.
+[15:38:36] CCA.C08-UNION.i1.51023: Take care of them and that.
+[15:38:44] CCA.C08-UNION.i1.51023: .//that place is the afterlife :)
+[15:38:45] Andrew 'Razor' Gonzalez: Yeah I can function
+[15:38:51] Andrew 'Razor' Gonzalez: [[ Never changes
+[15:38:54] Mal Tresto: .// just like that one very dramatic breencast
+[15:38:59] Andrew 'Razor' Gonzalez: /setpersist
+[15:39:00] Mal Tresto: .// also matt, the crow lives in the office
+[15:39:05] CCA.C08-UNION.i1.51023: Alright, I've got a bunch of things to tell you, listen closely.
+[15:39:19] Andrew 'Razor' Gonzalez: Ready to listen.
+[15:39:55] CCA.C08-UNION.i1.51023: Filters you will need regularly, you can buy them from local stores or from the local vendor near the 17th street towers, he's a street vendor, you can't miss him. You can get tokens for it by donating blood in that machine behind you, turning in resin-
+[15:40:26] Mal Tresto: .// i just realized i have 0 mins left
+[15:40:28] CCA.C08-UNION.i1.51023: -you find, and through ration cycles. CWU members also earn tokens, and you can get tokens other ways through citizens, just by doing favors or whatever needs done.
+[15:40:37] CCA.C08-UNION.i1.51023: //you wat
+[15:40:46] CCA.C08-UNION.i1.51023: Resin are these little pucks of shiny blueish metal.
+[15:41:10] Andrew 'Razor' Gonzalez: Alright so blood for money for oxygen..got it..
+[15:41:43] Andrew 'Razor' Gonzalez: Not the first time I've had a needle.
+[15:41:52] Andrew 'Razor' Gonzalez: Anything else I should know?
+[15:42:02] CCA.C08-UNION.i1.51023: A lot, but it's not my job to tell you everything. Any specific questions?
+[15:42:09] Andrew 'Razor' Gonzalez: // So uh, what's with the loading screen about an event?
+[15:42:13] Andrew 'Razor' Gonzalez: Eh.. not really.
+[15:42:16] Mal Tresto: // idfk
+[15:42:40] CCA.C08-UNION.i1.51023: Alright.
+[15:42:47] CCA.C08-UNION.i1.51023: //will explain in jsut second
+[15:43:19] Andrew 'Razor' Gonzalez: Well thank you for the help and info.
+[15:43:19] CCA.C08-UNION.i1.51023: /me places down the man's ID card and slides it forward. He lets go and says:
+[15:43:24] CCA.C08-UNION.i1.51023: Yeah. Stay out of trouble.
+[15:43:45] Andrew 'Razor' Gonzalez: /me would take the ID card and place it in his pocket, nodding
+[15:43:52] Andrew 'Razor' Gonzalez: You got it, officer.
+[15:43:53] CCA.C08-UNION.i1.51023: .//btw since your char was speaking spanish I gave you the S flag, so you should be able to use the /sp command to speak spanish
+[15:44:01] Mal Tresto: /sp test
+[15:44:01] Andrew 'Razor' Gonzalez: /sp Yay
+[15:44:03] Andrew 'Razor' Gonzalez: [[ void
+[15:44:09] Andrew 'Razor' Gonzalez: [[ noice
+[15:44:11] Mal Tresto: /sp // void that
+[15:44:12] CCA.C08-UNION.i1.51023: You're free to go when you're ready.
+[15:44:16] Mal Tresto: /sp // he doesnt actually see what we say p sure
+[15:44:21] Andrew 'Razor' Gonzalez: Alright, thank you
+[15:44:29] Andrew 'Razor' Gonzalez: /sp // ye ik
+[15:44:36] CCA.C08-UNION.i1.51023: mhm
+[15:44:38] Andrew 'Razor' Gonzalez: /me would turn around, looking at the stairs
+[15:44:49] Andrew 'Razor' Gonzalez: /sp This is going to be fun..
+[15:45:02] Mal Tresto: /sp you dont say.
+[15:45:15] Mal Tresto: // 0% time cool
+[15:45:24] Mal Tresto: // i'll make it
+[15:45:29] Mal Tresto: well uh..
+[15:45:30] CCA.C08-UNION.i1.51023: /r 10-68 at the train station, I've got duplicate IDs.
+[15:45:54] Andrew 'Razor' Gonzalez: // so the event uh..
+[15:46:04] CCA.C08-UNION.i1.51023: //right gimme a sec to get to the work desk so i have somewhere to reaosnably stand
+[15:46:09] Mal Tresto: /sp here you can buy the air filters and whatnot, the stuff he spoke about
+[15:46:14] CCA.C08-UNION.i1.51023: //alright yeah so
+[15:46:21] Andrew 'Razor' Gonzalez: /sp Oh, neat.
+[15:46:29] CCA.C08-UNION.i1.51023: //we did an event the other day, i used that image as a teaser
+[15:46:34] Mal Tresto: /sp also, before i forget. here's one of them resin things he was talking about
+[15:46:43] Andrew 'Razor' Gonzalez: // Ah, I was wondering cause it said July 18
+[15:46:50] Mal Tresto: /me would fumble around in his pocket, pulling out a small puck of resin and handing it to the man
+[15:47:02] Mal Tresto: .// it went in the garbage fuck
+[15:47:02] CCA.C08-UNION.i1.51023: //it says june but understandable
+[15:47:02] Andrew 'Razor' Gonzalez: /me would look at it and take it into his hand
+[15:47:13] CCA.C08-UNION.i1.51023: //i try to make a big deal of our events. i've been on a bit of cold streak lately but i try to make them memorable and stuff
+[15:47:18] Mal Tresto: .// fiund it here
+[15:47:25] CCA.C08-UNION.i1.51023: //so teasers and stuff are a good way to do that
+[15:47:39] Andrew 'Razor' Gonzalez: // Ah, fair point
+[15:47:44] Mal Tresto: /sp follow me, i'm pretty sure you can actually sell 'em to the combine.
+[15:47:59] Mal Tresto: // if i see a cp appear out of thin air ima shit my pants
+[15:48:00] Andrew 'Razor' Gonzalez: /sp It looks like drugs
+[15:48:08] Mal Tresto: /sp the usual
+[15:48:11] CCA.C08-UNION.i1.51023: //ghost
+[15:48:21] Mal Tresto: /sp 2 tokens per resin
+[15:48:29] Andrew 'Razor' Gonzalez: /me would slide it into the terminal
+[15:48:30] CCA.C08-UNION.i1.51023: //the division GHOST isn't actually any covert ops, it's just for literal ghosts
+[15:48:33] Mal Tresto: // Yellow! Ghost! Shit!
+[15:48:40] Andrew 'Razor' Gonzalez: // Bro I miss GHOST division
+[15:48:42] CCA.C08-UNION.i1.51023: //Administer. Fist. Two. Shit! Canal. Haha.
+[15:48:51] Mal Tresto: // yes
+[15:48:55] Andrew 'Razor' Gonzalez: /me would crouch down to grab the 2 tokens
+[15:49:01] Andrew 'Razor' Gonzalez: /sp Oh, drugs for money.
+[15:49:05] Mal Tresto: /sp i guess so
+[15:49:08] CCA.C08-UNION.i1.51023: //i've actually been in a bit of an OSA mood recently
+[15:49:10] Andrew 'Razor' Gonzalez: /me stands up
+[15:49:13] CCA.C08-UNION.i1.51023: //like beta OSA is pretty dope
+[15:49:19] Mal Tresto: /sp also, one of them blood donation things is here
+[15:49:25] Mal Tresto: /sp it stings a bit
+[15:49:27] CCA.C08-UNION.i1.51023: //OSA is what we call synths. overwatch synthetic arm
+[15:49:33] Mal Tresto: /sp but you'll get used to it i'm sure
+[15:49:42] Andrew 'Razor' Gonzalez: /sp Not the first time I was under the needle.
+[15:50:18] Andrew 'Razor' Gonzalez: /sp This is blood money basically, but more money.
+[15:50:18] Mal Tresto: // why do they want blood anyways
+[15:50:23] Mal Tresto: /sp yep
+[15:50:24] CCA.C08-UNION.i1.51023: //give it to units
+[15:50:26] Mal Tresto: /sp ten tokens
+[15:50:27] Andrew 'Razor' Gonzalez: // So we can die
+[15:50:35] Andrew 'Razor' Gonzalez: /sp Always the blood for a profit..
+[15:50:46] CCA.C08-UNION.i1.51023: /plysearch
+[15:50:47] CCA.C08-UNION.i1.51023: /plysearch
+[15:50:49] Mal Tresto: /sp also, here's a small starter
+[15:51:08] Mal Tresto: /sp bet you're thirsty after that tram ride yeah?
+[15:51:16] Andrew 'Razor' Gonzalez: /me would take the can, looking at it and cracking it open.
+[15:51:23] Andrew 'Razor' Gonzalez: /sp Yeah..long ride.
+[15:51:34] Andrew 'Razor' Gonzalez: /sp Thank you for this.
+[15:51:41] Mal Tresto: /sp no problem
+[15:51:45] Andrew 'Razor' Gonzalez: // I assume you still have OTA
+[15:51:50] Andrew 'Razor' Gonzalez: // Apart from OSA then
+[15:51:51] CCA.C08-UNION.i1.51023: //yep
+[15:51:51] Mal Tresto: .// of course he does
+[15:51:56] CCA.C08-UNION.i1.51023: //double yep
+[15:51:57] Mal Tresto: .// you can also pay for stalker
+[15:52:03] CCA.C08-UNION.i1.51023: //OTA i don't count as synths becuase they're too humanoid
+[15:52:05] Andrew 'Razor' Gonzalez: [[ Donate money for it?
+[15:52:05] Mal Tresto: .// and bird
+[15:52:08] Mal Tresto: .// and xenians
+[15:52:09] Mal Tresto: .// yep
+[15:52:11] Andrew 'Razor' Gonzalez: [[ Ah
+[15:52:12] Mal Tresto: .// 15$ for cremator
+[15:52:26] Andrew 'Razor' Gonzalez: [[ Vort I may do, not too sure
+[15:52:30] CCA.C08-UNION.i1.51023: //but beta stalkers, the big guard dudes, those count as OSA
+[15:52:35] Mal Tresto: .// p sure uc ant buy vort
+[15:52:36] Mal Tresto: .// dunno
+[15:52:39] Andrew 'Razor' Gonzalez: [[ I always liked doing conversations as a vort
+[15:52:45] Andrew 'Razor' Gonzalez: // Figured
+[15:52:50] Mal Tresto: .// tbh i always liked rp'ing as a scanner/dispatch and cremators
+[15:52:53] Mal Tresto: .// p unique
+[15:52:55] Mal Tresto: lead the way
+[15:53:06] Andrew 'Razor' Gonzalez: Alright..where to?
+[15:53:09] CCA.C08-UNION.i1.51023: //but yeah. we have OTA, currently being reworked in approximately whenever i finish the CWU guide
+[15:53:14] Mal Tresto: Where ya want to go
+[15:53:17] Andrew 'Razor' Gonzalez: Dont we uh, have housing units?
+[15:53:21] Mal Tresto: yep
+[15:53:24] Andrew 'Razor' Gonzalez: // Vort?
+[15:53:31] Mal Tresto: // ew cwu
+[15:53:31] CCA.C08-UNION.i1.51023: //yep
+[15:53:36] Mal Tresto: // rp filler
+[15:53:41] Andrew 'Razor' Gonzalez: // Free or enslaved?
+[15:53:47] CCA.C08-UNION.i1.51023: //both
+[15:53:47] Mal Tresto: // enslaved
+[15:53:49] Mal Tresto: // oh
+[15:53:52] Mal Tresto: // bruhb
+[15:54:02] Andrew 'Razor' Gonzalez: // is it a donate thing you can get or no
+[15:54:06] CCA.C08-UNION.i1.51023: //but you start out enslaved for balancing
+[15:54:12] Mal Tresto: well uh
+[15:54:13] CCA.C08-UNION.i1.51023: //purposes
+[15:54:15] Mal Tresto: both housing units here
+[15:54:16] CCA.C08-UNION.i1.51023: //nah, it's an OOC app
+[15:54:35] CCA.C08-UNION.i1.51023: //it used to be a donator perk but then some real smoothbrains got ahold of the whitelist and i decided not anymore
+[15:54:36] Mal Tresto: you can take hte suit off
+[15:54:37] Andrew 'Razor' Gonzalez: Ah..
+[15:54:38] Mal Tresto: .// the*
+[15:54:44] Mal Tresto: fresh air here
+[15:54:53] Andrew 'Razor' Gonzalez: About time
+[15:54:59] Andrew 'Razor' Gonzalez: Hate wearing this thing
+[15:55:04] Andrew 'Razor' Gonzalez: // Aw
+[15:55:04] Mal Tresto: You don't say
+[15:55:06] CCA.C08-UNION.i1.51023: //when the OSA revamp comes i want to add alien assassins as the $20 perk
+[15:55:12] CCA.C08-UNION.i1.51023: //donator stuff is bird for $200
+[15:55:22] Mal Tresto: // 20 fucking dollars for some shitty female combine
+[15:55:33] CCA.C08-UNION.i1.51023: //200 dollars and you can ERP with the sec
+[15:55:40] Andrew 'Razor' Gonzalez: Yeah..the suits are insanely big
+[15:55:44] Andrew 'Razor' Gonzalez: Felt like a butcher
+[15:55:44] CCA.C08-UNION.i1.51023: //not really it's like $5, which gets you pet flags, aliens, stalker, and bird
+[15:55:53] Mal Tresto: baggy too
+[15:55:56] CCA.C08-UNION.i1.51023: //$10 is... cremator i think. and all the previous stuff
+[15:55:58] CCA.C08-UNION.i1.51023: //then $15 is hunter
+[15:56:02] Mal Tresto: // isnt 15$ cremator
+[15:56:02] Andrew 'Razor' Gonzalez: // Bruh 20 dollars for an assassin?
+[15:56:03] CCA.C08-UNION.i1.51023: //yeah it's cremator
+[15:56:09] Andrew 'Razor' Gonzalez: Yeah..
+[15:56:11] CCA.C08-UNION.i1.51023: //it was but we changed the prices
+[15:56:18] CCA.C08-UNION.i1.51023: //and we don't give out assassins as donator perks anymore
+[15:56:18] Mal Tresto: // so i only have to give 5 more
+[15:56:23] Andrew 'Razor' Gonzalez: I mean.. the housing units here don't look different
+[15:56:32] Mal Tresto: They're always the same
+[15:56:32] CCA.C08-UNION.i1.51023: //yeah, my memory was just shit when you asked me earlier
+[15:56:37] Andrew 'Razor' Gonzalez: // Good idea on that
+[15:56:38] CCA.C08-UNION.i1.51023: //because again some real fuckwits got ahold of assassin
+[15:56:55] CCA.C08-UNION.i1.51023: //it was a cool idea on paper until like 2 minutes later
+[15:56:55] Andrew 'Razor' Gonzalez: // First off don't put elite shit as a donate perk, ever.
+[15:56:59] CCA.C08-UNION.i1.51023: //yeah
+[15:57:12] CCA.C08-UNION.i1.51023: //that was like, over a year ago
+[15:57:13] Mal Tresto: anyways, you want to move on with the grand tour?
+[15:57:19] Andrew 'Razor' Gonzalez: Sure, why not?
+[15:57:22] Andrew 'Razor' Gonzalez: // Alright
+[15:57:25] Mal Tresto: not really much to show you here
+[15:57:28] CCA.C08-UNION.i1.51023: 14-15 months or so
+[15:57:34] CCA.C08-UNION.i1.51023: //14-15 months or so
+[15:58:32] Mal Tresto: well uh
+[15:58:36] Mal Tresto: this is the usual bad part of the city
+[15:58:43] Andrew 'Razor' Gonzalez: Slums, figured.
+[15:58:56] CCA.C08-UNION.i1.51023: //also our CCA guide is 53 pages long so do with that information what you will
+[15:59:00] Mal Tresto: // didnt ask
+[15:59:08] Mal Tresto: the usual uh
+[15:59:09] Mal Tresto: sewers
+[15:59:14] Andrew 'Razor' Gonzalez: // Might read it
+[15:59:20] Andrew 'Razor' Gonzalez: That no one can enter
+[15:59:29] Mal Tresto: the guy here sells bandages and some other extras if you're hurt
+[15:59:48] Mal Tresto<STEAM_0:1:191784883> spawned model models/props_junk/plasticcrate01a.mdl
+[16:00:08] Andrew 'Razor' Gonzalez: Huh, definitely not odd.
+[16:00:12] Mal Tresto: yep
+[16:00:25] Mal Tresto: .// btw
+[16:00:30] Mal Tresto: .// when ur holding something with hands you can rotate it
+[16:00:38] Andrew 'Razor' Gonzalez: [[ I noticed, but how?
+[16:00:40] CCA.C08-UNION.i1.51023: //i will be here but if it takes me a second to respond it's becuase i'm writing
+[16:00:46] Mal Tresto: .// hold right click when holding
+[16:01:12] Mal Tresto: .// i  need the fuckin headcrab hold on
+[16:01:19] CCA.C08-UNION.i1.51023: //if you've got any questions though feel free to ask
+[16:01:24] CCA.C08-UNION.i1.51023: //i fuckin love this server
+[16:01:32] Mal Tresto: // i'm a general half-serious guy you can always ask questions
+[16:01:36] Andrew 'Razor' Gonzalez: // For uh, CCA, how many people do you have for it?
+[16:01:50] CCA.C08-UNION.i1.51023: //active? two. inactive? around 20
+[16:02:03] Andrew 'Razor' Gonzalez: // How in the fuck..
+[16:02:06] CCA.C08-UNION.i1.51023: //people will just get whitelisted and dip
+[16:02:14] Andrew 'Razor' Gonzalez: // Dude kick the inactive ones lmao
+[16:02:14] Mal Tresto: caught 'em
+[16:02:24] Andrew 'Razor' Gonzalez: Looks vile
+[16:02:27] CCA.C08-UNION.i1.51023: //very good point
+[16:02:41] Mal Tresto<STEAM_0:1:191784883> spawned model models/props_junk/plasticcrate01a.mdl
+[16:02:50] Andrew 'Razor' Gonzalez: // So who do you have to run the divisions at this time, then?
+[16:02:52] Mal Tresto: .// dont mind the black thing
+[16:03:02] Andrew 'Razor' Gonzalez: // Incase someone joins whichever
+[16:03:06] Andrew 'Razor' Gonzalez: [[ it's cool
+[16:03:22] Mal Tresto: .// i cannot transport the crab
+[16:03:28] Andrew 'Razor' Gonzalez: [[ throw it down
+[16:03:30] Andrew 'Razor' Gonzalez: [[ ez
+[16:03:43] Mal Tresto: .// fair
+[16:03:49] Mal Tresto: .// also
+[16:03:50] CCA.C08-UNION.i1.51023: //at the moment, staff, although i hope eventually we can get some normal people in the ranks
+[16:03:55] Mal Tresto: .// the resistance is run by an admin as always p sure
+[16:04:03] Andrew 'Razor' Gonzalez: // How many staff members you have on hand?
+[16:04:07] Andrew 'Razor' Gonzalez: [[ Figured as much
+[16:04:11] Mal Tresto: .// i dont like to sweeten the stuff so i'm just tellin the truth
+[16:04:12] Andrew 'Razor' Gonzalez: [[ Can't trust a player for it
+[16:04:15] CCA.C08-UNION.i1.51023: //4 not including me
+[16:04:19] Mal Tresto: .// i mean
+[16:04:20] Andrew 'Razor' Gonzalez: [[ Better to be honest
+[16:04:25] Mal Tresto: .// they could if tyhey thought how to do it
+[16:04:36] Mal Tresto: .// have a player ran resistance without item imports from admins
+[16:04:42] Mal Tresto: .// make them scavenge and build themselves
+[16:04:54] Mal Tresto: .// there's a plugin which allows u to use items to spawn props
+[16:04:57] Andrew 'Razor' Gonzalez: [[ Yeah a bit hard, I'm not one for that kind of thing tbh
+[16:05:01] Mal Tresto: .// fair
+[16:05:03] Andrew 'Razor' Gonzalez: // Fair
+[16:05:10] Mal Tresto: you can use .// 
+[16:05:13] Andrew 'Razor' Gonzalez: [[ I like CCA and just being a member in the resistance
+[16:05:13] Mal Tresto: .// void that
+[16:05:31] Mal Tresto: .// before i forget
+[16:05:34] Mal Tresto<STEAM_0:1:191784883> used the tool witchergate on maps/rp_city8_edit_v4r.bsp
+[16:05:36] CCA.C08-UNION.i1.51023: //yeah, decent size
+[16:05:39] Mal Tresto: .// just run here
+[16:05:42] CCA.C08-UNION.i1.51023: //we're futureproofed for a bit
+[16:05:44] Mal Tresto: /pm andrew just run
+[16:06:26] Andrew 'Razor' Gonzalez: // Good, are you still having the same CCA division rules?
+[16:06:41] Mal Tresto: stay away from the sides
+[16:06:46] CCA.C08-UNION.i1.51023: //can you be a little more specific
+[16:06:55] Andrew 'Razor' Gonzalez: Yeah..poison ones..
+[16:07:00] Mal Tresto: nono
+[16:07:05] Mal Tresto: big blue glowy ones or whatever
+[16:07:09] Andrew 'Razor' Gonzalez: // Like you need to be a certain rank to join a division?
+[16:07:13] Mal Tresto: one's stalking us
+[16:07:26] Andrew 'Razor' Gonzalez: Oh..
+[16:07:31] Mal Tresto: .// imo i dont like divisions and ranks
+[16:07:41] Andrew 'Razor' Gonzalez: [[ Like the conform?
+[16:07:43] Mal Tresto: .// atleast the divisions
+[16:07:53] Andrew 'Razor' Gonzalez: [[ Just specializations?
+[16:07:54] Mal Tresto: .// creates edgy cops
+[16:08:05] Mal Tresto: .// p much
+[16:08:06] CCA.C08-UNION.i1.51023: //no, *BUT*
+[16:08:07] Andrew 'Razor' Gonzalez: [[ I used to have a server like that
+[16:08:09] Mal Tresto: .// not even a specialization
+[16:08:11] Andrew 'Razor' Gonzalez: [[ I used to have a server like that
+[16:08:13] Mal Tresto: .// ppl just pick what they want
+[16:08:14] CCA.C08-UNION.i1.51023: //now it's based off of an interview process, so you prove you're able to get in with a test
+[16:08:26] CCA.C08-UNION.i1.51023: //anyone with half a brain wouldn't put an i5 in another division though
+[16:08:33] Mal Tresto: // you
+[16:08:39] Mal Tresto: // DvL char 
+[16:08:42] Mal Tresto: // cool
+[16:08:46] Mal Tresto: // scp
+[16:08:50] Andrew 'Razor' Gonzalez: // When I was judge dvl I would do i4
+[16:09:19] CCA.C08-UNION.i1.51023: //that's like, the borderline for when you'd be transferred anyways
+[16:09:22] Andrew 'Razor' Gonzalez: // Then I got transferred to newly formed ghost
+[16:09:22] Mal Tresto: it's not much but its mine
+[16:09:24] Andrew 'Razor' Gonzalez: // Yeah
+[16:09:28] CCA.C08-UNION.i1.51023: //so while the rule doesn't exist on paper, it's one of those unwritten things
+[16:09:28] Mal Tresto<STEAM_0:1:191784883> used the tool witchergate on maps/rp_city8_edit_v4r.bsp
+[16:09:29] CCA.C08-UNION.i1.51023 blinded Andrew 'Razor' Gonzalez,Feng Yi Hseuh,Mal Tresto by amount 255
+[16:09:36] Andrew 'Razor' Gonzalez: [[ I can't see wtf
+[16:09:41] Mal Tresto: .// neither can i
+[16:09:52] Mal Tresto<STEAM_0:1:191784883> used the tool rt_camera on maps/rp_city8_edit_v4r.bsp
+[16:09:53] Andrew 'Razor' Gonzalez: // Yeah.
+[16:09:57] Mal Tresto: .// i got an rt camera
+[16:10:01] Mal Tresto<STEAM_0:1:191784883> used the tool rt_camera on maps/rp_city8_edit_v4r.bsp
+[16:10:10] Mal Tresto: // we're blind
+[16:10:11] Andrew 'Razor' Gonzalez: [[ I can't move without knowing where to walk lmao
+[16:10:16] CCA.C08-UNION.i1.51023: //fuck
+[16:10:16] CCA.C08-UNION.i1.51023 unblinded Everyone
+[16:10:16] Andrew 'Razor' Gonzalez: // Yeah
+[16:10:16] CCA.C08-UNION.i1.51023 unblinded Everyone
+[16:10:17] CCA.C08-UNION.i1.51023 unblinded Everyone
+[16:10:17] CCA.C08-UNION.i1.51023 unblinded Everyone
+[16:10:17] CCA.C08-UNION.i1.51023 unblinded Everyone
+[16:10:17] CCA.C08-UNION.i1.51023 unblinded Everyone
+[16:10:17] CCA.C08-UNION.i1.51023 unblinded Everyone
+[16:10:18] CCA.C08-UNION.i1.51023 unblinded Everyone
+[16:10:18] CCA.C08-UNION.i1.51023 unblinded Everyone
+[16:10:18] CCA.C08-UNION.i1.51023 unblinded Everyone
+[16:10:18] CCA.C08-UNION.i1.51023 unblinded Everyone
+[16:10:19] CCA.C08-UNION.i1.51023 unblinded Everyone
+[16:10:19] CCA.C08-UNION.i1.51023 unblinded Everyone
+[16:10:19] CCA.C08-UNION.i1.51023 unblinded Everyone
+[16:10:19] CCA.C08-UNION.i1.51023 unblinded Everyone
+[16:10:19] CCA.C08-UNION.i1.51023 unblinded Everyone
+[16:10:19] CCA.C08-UNION.i1.51023 unblinded Everyone
+[16:10:19] CCA.C08-UNION.i1.51023 unblinded Everyone
+[16:10:20] CCA.C08-UNION.i1.51023 unblinded Everyone
+[16:10:22] CCA.C08-UNION.i1.51023: //that's my blind bind
+[16:10:32] Andrew 'Razor' Gonzalez: So uh..
+[16:10:36] Mal Tresto: ?
+[16:10:39] Mal Tresto<STEAM_0:1:191784883> spawned model models/props_c17/chair02a.mdl
+[16:10:40] Andrew 'Razor' Gonzalez: Isn't this whole area illegal?
+[16:10:47] Mal Tresto: pretty much
+[16:11:02] Andrew 'Razor' Gonzalez: Criminal or resistance dude?
+[16:11:12] Andrew 'Razor' Gonzalez: Sounds like you're one or the other
+[16:11:12] Mal Tresto: neither really
+[16:11:18] Andrew 'Razor' Gonzalez: Ah, making it by
+[16:11:26] Mal Tresto: i plan to just set up a small shop here and live a nice life
+[16:11:35] Andrew 'Razor' Gonzalez: Without dying.
+[16:11:38] Mal Tresto: yep
+[16:12:00] Mal Tresto: if i remember correctly there should be some canals around here
+[16:12:33] Mal Tresto: bingo
+[16:12:48] Mal Tresto: how much air ya got left?
+[16:12:54] Mal Tresto: .// hover over the suit item
+[16:12:54] Andrew 'Razor' Gonzalez: 15
+[16:12:57] Mal Tresto: ah
+[16:13:00] Andrew 'Razor' Gonzalez: Decent
+[16:13:18] Mal Tresto: whaddya think of this place?
+[16:13:23] Mal Tresto: maybe fortify it a bit and it's good
+[16:13:27] Andrew 'Razor' Gonzalez: Looks like someone eats the crabs
+[16:13:34] Andrew 'Razor' Gonzalez: It's decent
+[16:13:37] Mal Tresto: yeah
+[16:14:12] Mal Tresto: .// ima just speed this up a bit
+[16:14:25] Mal Tresto<STEAM_0:1:191784883> used the tool witchergate on maps/rp_city8_edit_v4r.bsp
+[16:14:26] Mal Tresto<STEAM_0:1:191784883> used the tool witchergate on maps/rp_city8_edit_v4r.bsp
+[16:14:38] Mal Tresto: .// dont feel like walking
+[16:14:44] Mal Tresto: .// ythat kinda feeing
+[16:14:46] Andrew 'Razor' Gonzalez: [[ fair
+[16:14:47] Mal Tresto: .// feeing*
+[16:14:50] Mal Tresto<STEAM_0:1:191784883> used the tool witchergate on maps/rp_city8_edit_v4r.bsp
+[16:14:51] Mal Tresto<STEAM_0:1:191784883> used the tool witchergate on maps/rp_city8_edit_v4r.bsp
+[16:15:01] Mal Tresto: .// feeLing*
+[16:15:15] Mal Tresto<STEAM_0:1:191784883> used the tool witchergate on maps/rp_city8_edit_v4r.bsp
+[16:15:16] Mal Tresto<STEAM_0:1:191784883> used the tool witchergate on maps/rp_city8_edit_v4r.bsp
+[16:15:30] Mal Tresto: .// the beloved
+[16:15:40] Mal Tresto<STEAM_0:1:191784883> used the tool witchergate on maps/rp_city8_edit_v4r.bsp
+[16:15:41] Mal Tresto<STEAM_0:1:191784883> used the tool witchergate on maps/rp_city8_edit_v4r.bsp
+[16:15:44] Mal Tresto<STEAM_0:1:191784883> used the tool witchergate on maps/rp_city8_edit_v4r.bsp
+[16:15:46] Mal Tresto<STEAM_0:1:191784883> used the tool witchergate on maps/rp_city8_edit_v4r.bsp
+[16:16:00] Mal Tresto<STEAM_0:1:191784883> used the tool witchergate on maps/rp_city8_edit_v4r.bsp
+[16:16:01] Mal Tresto<STEAM_0:1:191784883> used the tool witchergate on maps/rp_city8_edit_v4r.bsp
+[16:16:02] Mal Tresto<STEAM_0:1:191784883> used the tool witchergate on maps/rp_city8_edit_v4r.bsp
+[16:16:22] Mal Tresto<STEAM_0:1:191784883> used the tool witchergate on maps/rp_city8_edit_v4r.bsp
+[16:16:32] Mal Tresto: .// yea just
+[16:16:34] Mal Tresto: .// shhh
+[16:16:40] Andrew 'Razor' Gonzalez: [[ ye
+[16:16:52] Mal Tresto: .// wait add me on steam
+[16:17:10] Mal Tresto: .// ima pm u something
+[16:17:22] Andrew 'Razor' Gonzalez: [[ k done
+[16:18:03] CCA.C08-UNION.i1.51023: /toggleraise
+[16:18:43] CCA.C08-UNION.i1.51023: /y WALL!
+[16:18:52] CCA.C08-UNION.i1.51023: /charsetattribute UNION Str 7
+[16:18:53] Andrew 'Razor' Gonzalez: /me would look at the wall
+[16:18:57] CCA.C08-UNION.i1.51023: /charsetattribute UNION agi 6
+[16:19:03] Andrew 'Razor' Gonzalez: Wait wait, it wasn't me!
+[16:19:05] CCA.C08-UNION.i1.51023: /charsetattribute UNION cons 5
+[16:19:19] CCA.C08-UNION.i1.51023: /charsetattribute UNION Str 9
+[16:19:21] CCA.C08-UNION.i1.51023: /charsetattribute UNION agi 8
+[16:19:23] CCA.C08-UNION.i1.51023: right.
+[16:19:32] CCA.C08-UNION.i1.51023: So who was it?
+[16:19:33] Andrew 'Razor' Gonzalez: I came up here and I saw a guy punching the cams.
+[16:19:54] CCA.C08-UNION.i1.51023: You're lucky I'm inclined to believe you.
+[16:19:58] CCA.C08-UNION.i1.51023: Get out of here, and do it now.
+[16:20:07] Andrew 'Razor' Gonzalez: /me would turn around with his hands up.
+[16:20:29] CCA.C08-UNION.i1.51023: /r He went to the sewers again.
+[16:20:32] CCA.C08-UNION.i1.51023: /r Copy that.
+[16:20:33] CCA.C08-UNION.i1.51023: /toggleraise
+[16:20:38] CCA.C08-UNION.i1.51023: /y COME OUT, NOW!
+[16:20:45] CCA.C08-UNION.i1.51023: /toggleraise
+[16:20:52] CCA.C08-UNION.i1.51023: /toggleraise
+[16:21:00] Dropped "Feng Yi Hseuh" from server<STEAM_0:1:575208276>
+[16:21:06] CCA.C08-UNION.i1.51023: Little fucker.
+[16:21:10] CCA.C08-UNION.i1.51023: /toggleraise
+[16:21:18] CCA.C08-UNION.i1.51023: /me would proceed to tie the individual. Would they resist?
+[16:21:20] CCA.C08-UNION.i1.51023: .//void
+[16:22:26] CCA.C08-UNION.i1.51023: /toggleraise
+[16:22:54] CCA.C08-UNION.i1.51023: /toggleraise
+[16:22:55] Mal Tresto: .// evening governor
+[16:22:56] CCA.C08-UNION.i1.51023: /y FREEZE
+[16:23:01] CCA.C08-UNION.i1.51023: //UM
+[16:23:05] CCA.C08-UNION.i1.51023: //what the sweet fuck do you think you're doing
+[16:23:11] CCA.C08-UNION.i1.51023: /chartakeflag treso pet
+[16:23:15] CCA.C08-UNION.i1.51023: /chartakeflag tresto pet
+[16:23:22] CCA.C08-UNION.i1.51023: //yeah, no more pet flags for you
+[16:23:39] CCA.C08-UNION.i1.51023: //and since you minged your way out, i'm just gonna
+[16:23:42] Andrew 'Razor' Gonzalez: // Well you got gotted.
+[16:23:43] CCA.C08-UNION.i1.51023 brought Andrew 'Razor' Gonzalez,Mal Tresto
+[16:23:44] CCA.C08-UNION.i1.51023: //redo that
+[16:23:46] CCA.C08-UNION.i1.51023: /toggleraise
+[16:23:49] CCA.C08-UNION.i1.51023: /y FREEZE!
+[16:23:50] Mal Tresto: .// yea governor how about
+[16:24:01] CCA.C08-UNION.i1.51023: //do it and you're banned for 3 days
+[16:24:09] Mal Tresto: // we weren't even here ic funny man
+[16:24:13] CCA.C08-UNION.i1.51023: /y FACE THE WALL!
+[16:24:30] Andrew 'Razor' Gonzalez: /me would turn and face the wall
+[16:24:40] CCA.C08-UNION.i1.51023: /chargiveitem union zip 3
+[16:24:41] Andrew 'Razor' Gonzalez: This is what I get for investigating..
+[16:24:51] CCA.C08-UNION.i1.51023: You, the new guy. You can go.
+[16:24:59] Andrew 'Razor' Gonzalez: /me would turn around
+[16:25:08] Andrew 'Razor' Gonzalez: /me walks off quickly
+[16:25:12] CCA.C08-UNION.i1.51023: Come back here again and it's a violation.
+[16:25:18] CCA.C08-UNION.i1.51023: You. Hands behind your back.
+[16:25:28] Mal Tresto: .// just ziptie me smh
+[16:25:48] CCA.C08-UNION.i1.51023: .//bruh
+[16:25:51] CCA.C08-UNION.i1.51023: .//fuck it whatever
+[16:25:57] Mal Tresto: .// lets just not drag this on
+[16:26:02] CCA.C08-UNION.i1.51023: /me would turn off his stunstick and clip it to his utility belt.
+[16:26:03] CCA.C08-UNION.i1.51023: /me would take out his combat knife and cut the individual's ties.
+[16:26:05] Mal Tresto: .// you ziptie me, take me to wherever, execute me for black magic
+[16:26:09] Mal Tresto: .// ohok
+[16:26:17] CCA.C08-UNION.i1.51023: .//waiut wrong bind
+[16:26:17] CCA.C08-UNION.i1.51023: /me would proceed to tie the individual. Would they resist?
+[16:26:26] Mal Tresto: .// what if i
+[16:26:31] Mal Tresto: .// resist and run off thru a portal
+[16:26:42] CCA.C08-UNION.i1.51023: .//if you run through a portal you're banned for 3 days
+[16:26:48] Mal Tresto: .// i mean i can take a ban-
+[16:26:56] CCA.C08-UNION.i1.51023: .//cool, let's make it a week.
+[16:27:08] CCA.C08-UNION.i1.51023: .//respond to the /me
+[16:27:19] CCA.C08-UNION.i1.51023: /me would proceed to tie the individual. Would they resist?
+[16:28:05] Mal Tresto: .// im not fucking resisting
+[16:28:07] CCA.C08-UNION.i1.51023: .//alright
+[16:28:28] CCA.C08-UNION.i1.51023: /me would place a blindfold over the man's visor and tie it tightly.
+[16:28:32] CCA.C08-UNION.i1.51023: .//i'm going to guess you're not resisting.
+[16:28:38] CCA.C08-UNION.i1.51023: /me grabs the man's arm with a firm grip.
+[16:28:41] CCA.C08-UNION.i1.51023: Walk where I walk.
+[16:29:18] Mal Tresto: .// am i gonna get amputated for witchcraft
+[16:29:27] CCA.C08-UNION.i1.51023: .//no, that was OOC and mingy. you've lost your pet flags.
+[16:29:32] Mal Tresto: .// f
+[16:29:40] CCA.C08-UNION.i1.51023: .//i'll go over your charges in the nexus.
+[16:29:40] Mal Tresto: .// if it was ooc then why are u taking me to jail
+[16:29:48] CCA.C08-UNION.i1.51023: .//the portals were OOC
+[16:29:52] Mal Tresto: .// is witchcraft a charge
+[16:30:30] Mal Tresto: .// u mad bro?
+[16:30:35] CCA.C08-UNION.i1.51023: .//no, i'm disappointed in you
+[16:30:40] Mal Tresto: .// aka yes
+[16:30:53] Mal Tresto: .// also
+[16:30:59] Mal Tresto: .// Q
+[16:31:01] CCA.C08-UNION.i1.51023: .//yeah
+[16:31:09] Mal Tresto: .// my crow made it all the way to the administrator's office due to the stalker's incompetence
+[16:31:21] Mal Tresto: .// i live there
+[16:31:25] Mal Tresto: .// you need 10 OTA to take me down
+[16:31:30] Mal Tresto: .// ok ima brb
+[16:31:34] Mal Tresto: .// u can rp to me idk
+[16:31:42] CCA.C08-UNION.i1.51023: .//i'll wait until you're back, i have time
+[16:31:51] CCA.C08-UNION.i1.51023: /me takes off the citizen's blindfold and shoves him into a cell.
+[16:31:58] CCA.C08-UNION.i1.51023: //laundry list of charges, let's go
+[16:32:21] Andrew 'Razor' Gonzalez: // Like a shit mechanic, never changes
+[16:32:50] Mal Tresto: // i do witchcraft
+[16:33:56] CCA.C08-UNION.i1.51023: //tbf i would go easier if he wasn't a multiple offender and also didn't run several times
+[16:34:18] CCA.C08-UNION.i1.51023: //prosecution feels different when they've very much okay with reoffending and not even coming close to submitting
+[16:34:30] CCA.C08-UNION.i1.51023: //and also running into the sewers, which i saw him do
+[16:34:42] CCA.C08-UNION.i1.51023: Citizen, I've prepared a list of your charges.
+[16:34:55] Mal Tresto: // i do witchcraft
+[16:35:10] Andrew 'Razor' Gonzalez: // You mean it feels more pleasing to prosecute?
+[16:35:50] Mal Tresto: .// gimmie it
+[16:35:52] Mal Tresto: .// lemme hear
+[16:36:00] CCA.C08-UNION.i1.51023: You face 2 counts of 403, Sewer Trespassing.
+[16:36:17] Mal Tresto: ok
+[16:36:18] CCA.C08-UNION.i1.51023: Two counts of 148, resisting arrest, and 2 counts of 398, damage of UU property.
+[16:36:33] CCA.C08-UNION.i1.51023: That's two minor violations and four major violation.
+[16:36:36] CCA.C08-UNION.i1.51023: .//violations.*
+[16:36:43] CCA.C08-UNION.i1.51023: I'll have a JUDGE unit go over the rest with you.
+[16:36:48] CCA.C08-UNION.i1.51023: //brb, ronnecting
+[16:36:50] CCA.C08-UNION.i1.51023: //reconnecting
+[16:36:57] CCA.C08-UNION.i1.51023: //no more than like 5 mins
+[16:37:00] Dropped "CCA.C08-UNION.i1.51023" from server<STEAM_0:1:53097688>
+[16:37:26] Mal Tresto: // 2 minor and 4 major violations lit
+[16:38:58] Client "jaime_serna_22" connected.
+[16:40:24] Andrew 'Razor' Gonzalez: // are you in jail
+[16:42:13] Mal Tresto: // yes
+[16:42:23] Mal Tresto: // gotta love hl2rp
+[16:42:27] Client "matt saton" connected.
+[16:42:28] Mal Tresto: // 5 hours of sitting in Fucking jail
+[16:42:31] Andrew 'Razor' Gonzalez: // Got sent to badman jail
+[16:42:36] Mal Tresto: // yes
+[16:42:38] Mal Tresto: // witch jail
+[16:43:17] Mal Tresto: // ima brb
+[16:43:37] Dropped "Andrew 'Razor' Gonzalez" from server<STEAM_0:1:66880501>
+[16:44:58] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 151 seconds).
+[16:46:19] matt saton<STEAM_0:1:53097688> changed their name to CCA.C17-JUDGE.i2.23645
+[16:46:29] CCA.C17-JUDGE.i2.23645: /charsetname judge CCA.C08-JUDGE.i2.61020
+[16:46:29] CCA.C17-JUDGE.i2.23645<STEAM_0:1:53097688> changed their name to CCA.C08-JUDGE.i2.61020
+[16:46:40] CCA.C08-JUDGE.i2.61020: citizen
+[16:46:46] CCA.C08-JUDGE.i2.61020: /y citizen
+[16:49:40] CCA.C08-JUDGE.i2.61020: administer
+[16:49:40] CCA.C08-JUDGE.i2.61020: fist
+[16:49:42] CCA.C08-JUDGE.i2.61020: 2
+[16:49:43] CCA.C08-JUDGE.i2.61020: shit
+[16:49:44] CCA.C08-JUDGE.i2.61020: canal
+[16:49:45] CCA.C08-JUDGE.i2.61020: haha
+[16:49:47] CCA.C08-JUDGE.i2.61020: administer
+[16:49:48] CCA.C08-JUDGE.i2.61020: antiseptic
+[16:49:51] CCA.C08-JUDGE.i2.61020: boomer
+[16:49:57] CCA.C08-JUDGE.i2.61020: reaper
+[16:50:22] CCA.C08-JUDGE.i2.61020: phantom
+[16:50:23] CCA.C08-JUDGE.i2.61020: canal
+[16:50:24] CCA.C08-JUDGE.i2.61020: haha
+[16:50:25] CCA.C08-JUDGE.i2.61020: reaper
+[16:50:29] CCA.C08-JUDGE.i2.61020: canal
+[16:50:30] CCA.C08-JUDGE.i2.61020: canal
+[16:50:31] CCA.C08-JUDGE.i2.61020: 404
+[16:50:33] CCA.C08-JUDGE.i2.61020: 10-0
+[16:50:37] CCA.C08-JUDGE.i2.61020: 10-0 hunting
+[16:50:42] CCA.C08-JUDGE.i2.61020: 10-8
+[16:50:45] CCA.C08-JUDGE.i2.61020: 10-8 standing by
+[16:50:53] CCA.C08-JUDGE.i2.61020: 647e reading
+[16:50:56] CCA.C08-JUDGE.i2.61020: 647e
+[16:51:11] CCA.C08-JUDGE.i2.61020: haha
+[16:51:13] CCA.C08-JUDGE.i2.61020: apex
+[16:51:14] CCA.C08-JUDGE.i2.61020: grid
+[16:51:16] CCA.C08-JUDGE.i2.61020: uniform
+[16:51:19] CCA.C08-JUDGE.i2.61020: union
+[16:51:20] CCA.C08-JUDGE.i2.61020: judge
+[16:51:22] CCA.C08-JUDGE.i2.61020: jury
+[16:51:25] CCA.C08-JUDGE.i2.61020: uniform
+[16:51:26] CCA.C08-JUDGE.i2.61020: apex
+[16:51:28] CCA.C08-JUDGE.i2.61020: grid
+[16:51:28] CCA.C08-JUDGE.i2.61020: union
+[16:51:29] CCA.C08-JUDGE.i2.61020: sword
+[16:51:31] CCA.C08-JUDGE.i2.61020: mace
+[16:51:32] CCA.C08-JUDGE.i2.61020: hammer
+[16:51:33] CCA.C08-JUDGE.i2.61020: king
+[16:51:37] CCA.C08-JUDGE.i2.61020: echo
+[16:51:40] CCA.C08-JUDGE.i2.61020: reaper
+[16:51:42] CCA.C08-JUDGE.i2.61020: ghost
+[16:51:43] CCA.C08-JUDGE.i2.61020: hero
+[16:51:48] CCA.C08-JUDGE.i2.61020: victor
+[16:51:49] CCA.C08-JUDGE.i2.61020: vice
+[16:51:51] CCA.C08-JUDGE.i2.61020: yellow
+[16:51:53] CCA.C08-JUDGE.i2.61020: xray
+[16:52:06] CCA.C08-JUDGE.i2.61020: helix
+[16:52:07] CCA.C08-JUDGE.i2.61020: nomad
+[16:52:08] CCA.C08-JUDGE.i2.61020: fist
+[16:52:16] CCA.C08-JUDGE.i2.61020: nova
+[16:52:24] CCA.C08-JUDGE.i2.61020: ranger
+[16:52:57] CCA.C08-JUDGE.i2.61020: foxtrot
+[16:52:59] CCA.C08-JUDGE.i2.61020: FUCK
+[16:53:06] CCA.C08-JUDGE.i2.61020: kilo
+[16:53:09] CCA.C08-JUDGE.i2.61020: phantom
+[16:53:43] CCA.C08-JUDGE.i2.61020: what else
+[16:54:40] CCA.C08-JUDGE.i2.61020: storm
+[16:54:41] CCA.C08-JUDGE.i2.61020: spear
+[16:54:57] CCA.C08-JUDGE.i2.61020: blade
+[16:55:07] CCA.C08-JUDGE.i2.61020: razor
+[16:55:23] CCA.C08-JUDGE.i2.61020: pressure
+[16:55:25] CCA.C08-JUDGE.i2.61020: reaper
+[16:55:27] CCA.C08-JUDGE.i2.61020: roller
+[16:55:36] CCA.C08-JUDGE.i2.61020: jet
+[16:55:46] CCA.C08-JUDGE.i2.61020: ice
+[16:55:54] CCA.C08-JUDGE.i2.61020: dagger
+[16:55:55] CCA.C08-JUDGE.i2.61020: dash
+[16:55:56] CCA.C08-JUDGE.i2.61020: defender
+[16:56:12] CCA.C08-JUDGE.i2.61020: document
+[16:56:51] CCA.C08-JUDGE.i2.61020: ion
+[16:56:52] CCA.C08-JUDGE.i2.61020: leader
+[16:56:54] CCA.C08-JUDGE.i2.61020: quick
+[16:56:56] CCA.C08-JUDGE.i2.61020: savage
+[16:56:57] CCA.C08-JUDGE.i2.61020: scar
+[16:57:56] CCA.C08-JUDGE.i2.61020: citizen
+[16:58:05] CCA.C08-JUDGE.i2.61020: /y citizen
+[16:58:19] CCA.C08-JUDGE.i2.61020: .//i know you're here guy
+[16:59:01] CCA.C08-JUDGE.i2.61020: .//if you just ignore it we'll classify it as a guilty plea and there's no chance of your sentence getting better
+[16:59:20] CCA.C08-JUDGE.i2.61020: .//i saw you move guy
+[16:59:31] Mal Tresto: .// im back
+[16:59:34] CCA.C08-JUDGE.i2.61020: .//epic
+[16:59:36] CCA.C08-JUDGE.i2.61020: citizen
+[16:59:38] Mal Tresto: .// cant i fucking get food
+[16:59:44] Mal Tresto: .// am i NOT allowed to eat funny man
+[16:59:56] CCA.C08-JUDGE.i2.61020: I'm your JUDGE unit, here to do your sentencing.
+[17:00:00] Mal Tresto: .// bc ik all im gonna do is sit here and fucking have to listen to your shitty virtual speech
+[17:00:09] CCA.C08-JUDGE.i2.61020: As you know you have 4 major violations and 2 minor violations. 
+[17:00:31] CCA.C08-JUDGE.i2.61020: Most prosecutions will ignore lower violations if there are much higher ones on the table, so consider it 4 major violations.
+[17:00:43] CCA.C08-JUDGE.i2.61020: If you had hit the camera once, you would have been able to possibly get away with this.
+[17:01:09] CCA.C08-JUDGE.i2.61020: Going back after running and hitting it two more times doesn't help your case.
+[17:01:19] Mal Tresto: // ima go eat, carry on with your inspiring speech to my civvie
+[17:01:30] Mal Tresto: .// i eat at my pc btw
+[17:01:34] Mal Tresto: .// got some cool pierogi's
+[17:01:42] CCA.C08-JUDGE.i2.61020: .//i really want to like pierogis
+[17:01:45] CCA.C08-JUDGE.i2.61020: .//but i'm just not a huge fan
+[17:01:54] Mal Tresto: .// mine got bolognese sauce inside
+[17:02:06] CCA.C08-JUDGE.i2.61020: .//i forgot what that is but i've heard the word
+[17:02:16] Client "Monke Gaming" connected.
+[17:02:27] CCA.C08-JUDGE.i2.61020: You're going to be put on trial to discuss whether or not you deserve to live and whether or not you'll reoffend.
+[17:02:31] Mal Tresto: .// spaghetti sauce, mostly meat
+[17:02:36] Mal Tresto: .// with herbs 
+[17:02:39] CCA.C08-JUDGE.i2.61020: Chance to reoffend affects the case greatly. You defend yourself, no lawyer.
+[17:02:42] CCA.C08-JUDGE.i2.61020: .//oh hell yeah
+[17:02:52] Mal Tresto: .// actually tastes like spaghetti in each bite
+[17:02:56] Mal Tresto: .// i also fry it on some oil y know
+[17:03:04] CCA.C08-JUDGE.i2.61020: Trials are held in this room or in the solitary confinement cell, and are not your typical pre-war trial.
+[17:03:06] Mal Tresto: .// adds some of that cool taste alongside the spaghetti
+[17:03:13] CCA.C08-JUDGE.i2.61020: It's you and a grid unit.
+[17:03:14] Mal Tresto: .// also please
+[17:03:19] Mal Tresto: .// cut your fucking ic bullshit
+[17:03:29] Mal Tresto: .// i dont wanna sit here for 90 fucking days listening to you fucking tell a story
+[17:03:42] CCA.C08-JUDGE.i2.61020: The sewer will likely be your biggest charge, do you have any questions?
+[17:03:44] Mal Tresto: .// its like being forced to read the whole fucking bible
+[17:04:01] CCA.C08-JUDGE.i2.61020: Gonna take that as a no.
+[17:04:58] CCA.C08-JUDGE.i2.61020: Your trial begins now. How do you plead? Contest or no contest?
+[17:05:23] CCA.C08-JUDGE.i2.61020: Contest means you  want to defend yourself, no contest means you take the charges like a man and don't defend yourself. You take what the trial gives you.
+[17:05:32] CCA.C08-JUDGE.i2.61020: Which is it?
+[17:05:58] Mal Tresto: no contest
+[17:06:01] Mal Tresto: i have the balls
+[17:06:04] CCA.C08-JUDGE.i2.61020: Alright, that makes this much easier.
+[17:06:05] CCA.C08-JUDGE.i2.61020: apply
+[17:06:11] Mal Tresto: /apply
+[17:06:22] CCA.C08-JUDGE.i2.61020: /viewdata mal
+[17:06:39] CCA.C08-JUDGE.i2.61020: I find you guilty of all charges and sentence you to amputation. Face the wall.
+[17:06:45] Mal Tresto: .// lol
+[17:07:06] Mal Tresto: .// you cannot kill a witch
+[17:07:08] CCA.C08-JUDGE.i2.61020: .//prosecution doesn't like it when you have zero remorse and go back and do it several times
+[17:07:19] CCA.C08-JUDGE.i2.61020: Suit off.
+[17:07:41] CCA.C08-JUDGE.i2.61020: Right, ties.
+[17:07:43] CCA.C08-JUDGE.i2.61020: This will work.
+[17:07:58] CCA.C08-JUDGE.i2.61020: /me would unholster his pistol and put it to the citizen's head.
+[17:08:02] CCA.C08-JUDGE.i2.61020: /it Do you do anything?
+[17:08:16] CCA.C08-JUDGE.i2.61020: /toggleraise
+[17:08:26] CCA.C08-JUDGE.i2.61020: .//yes, no, maybe?
+[17:08:51] CCA.C08-JUDGE.i2.61020: .//MISCLICK SORRY
+[17:08:53] CCA.C08-JUDGE.i2.61020: .//i'm on a trackpad
+[17:08:54] Mal Tresto: .// you sack of shit im typing
+[17:08:55] CCA.C08-JUDGE.i2.61020 set the hp for Mal Tresto to 100
+[17:09:01] CCA.C08-JUDGE.i2.61020: .//i'm on a trackpad, it was a misclick
+[17:09:05] CCA.C08-JUDGE.i2.61020 gave Themself 1 rounds
+[17:09:07] Mal Tresto: /me would attempt to duck to avoid the pistol fire
+[17:09:11] Mal Tresto: /roll
+[17:09:15] Mal Tresto: .// suck it cuck boy
+[17:09:17] CCA.C08-JUDGE.i2.61020: .//you would be rolling agility
+[17:09:19] CCA.C08-JUDGE.i2.61020: .///rollstat agi
+[17:09:24] Mal Tresto: .// i still rolled 100
+[17:09:29] Mal Tresto: .// you cannot deny it
+[17:09:30] CCA.C08-JUDGE.i2.61020: .//doesn't matter, you didn't roll agility
+[17:09:34] Mal Tresto: /rollstat agi
+[17:09:49] CCA.C08-JUDGE.i2.61020: /me just aims the gun lower at the man's head now that he's down.
+[17:10:03] Mal Tresto: .// shoot me
+[17:10:06] Mal Tresto: .// no balls
+[17:10:18] CCA.C08-JUDGE.i2.61020: .//dude you don't RP moving, get back in front
+[17:10:30] Mal Tresto: .// jesus yer a hardass, you can just shot me and end it
+[17:10:36] Mal Tresto: .// maybe have some target practice aswell
+[17:10:37] CCA.C08-JUDGE.i2.61020: .//if you're just going to let me shoot you, RP it, if you have some resisting to do, go ahead and do it
+[17:10:56] CCA.C08-JUDGE.i2.61020: .//this is a seriousRP server, i'm not quite sure what you expected
+[17:11:02] Mal Tresto: .// fair
+[17:11:06] Mal Tresto: .// red eye edgycop
+[17:12:03] Mal Tresto: /me would throw his head back and attempt to reach for the cop's pistol as he was now lower than it
+[17:12:08] Mal Tresto: .// im shit at combat rp
+[17:12:11] Mal Tresto: /rollstat agi
+[17:12:13] Mal Tresto: /rollstat str
+[17:12:18] Mal Tresto: .// strength and agi
+[17:12:21] Mal Tresto: .// or do we just do agi
+[17:12:38] CCA.C08-JUDGE.i2.61020: .//don't roll before somebody tells you what to roll
+[17:12:46] Mal Tresto: .// ok
+[17:13:10] CCA.C08-JUDGE.i2.61020: .//when people don't do that they get a good roll but it doesn't count because an admin didn't tell them what to roll and they get all pissy and shit
+[17:13:23] Mal Tresto: .// ok mr owner stop with the lecture and move on
+[17:13:24] CCA.C08-JUDGE.i2.61020: /it You seem to not be able to reach, considering you're ducked down and your hands are tied, your hands are more on level with the unit's calf.
+[17:13:44] Mal Tresto: .// just shoot me i lost the roll
+[17:13:51] CCA.C08-JUDGE.i2.61020: .//so no further resisting?
+[17:14:04] CCA.C08-JUDGE.i2.61020: /toggleraise
+[17:14:05] CCA.C08-JUDGE.i2.61020: /toggleraise
+[17:14:35] Mal Tresto: .// blin dmf
+[17:14:35] CCA.C08-JUDGE.i2.61020: .//so are you saying you're not gonna resist anymore orrrr
+[17:14:50] CCA.C08-JUDGE.i2.61020: .//alright, RP it then
+[17:14:59] Mal Tresto: .// im not resisting
+[17:15:05] CCA.C08-JUDGE.i2.61020: .//that's great, so RP it
+[17:15:15] Mal Tresto: .// just fucking shoot me
+[17:15:20] CCA.C08-JUDGE.i2.61020: .//RP not resisting guy
+[17:15:32] Mal Tresto: /me dies
+[17:15:35] CCA.C08-JUDGE.i2.61020 set the hp for Mal Tresto to 1
+[17:15:36] CCA.C08-JUDGE.i2.61020 killed Mal Tresto using player
+[17:15:38] CCA.C08-JUDGE.i2.61020: /charban mal
+[17:15:38] Mal Tresto<STEAM_0:1:191784883> changed their name to man
+[17:15:50] CCA.C08-JUDGE.i2.61020<STEAM_0:1:53097688> changed their name to Lee Maylor
+[17:16:08] Dropped "man" from server<STEAM_0:1:191784883>
+[19:04:11] Client "Chill Racoon" connected.
+[19:14:03] Client "Chill Racoon" spawned in server <STEAM_0:0:560148150> (took 592 seconds).
+[19:17:49] Chill Racoon<STEAM_0:0:560148150> changed their name to Gabe Newman
+[19:20:32] Dropped "Gabe Newman" from server<STEAM_0:0:560148150>
+[23:17:19] Dropped "Lee Maylor" from server<STEAM_0:1:53097688>
+[23:51:42] Client "medicmemes" connected.
+<Logging continued in "data/ulx_logs/07-05-21.txt">

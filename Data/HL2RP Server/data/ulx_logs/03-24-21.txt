@@ -1,0 +1,1348 @@
+[13:14:48] New map: gm_construct
+[13:16:02] Client "matt saton" connected.
+[13:17:51] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 109 seconds).
+
+
+
+[13:25:14] New map: rp_i17_variation_v0
+[13:25:48] Client "matt saton" connected.
+[13:27:18] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 90 seconds).
+[13:28:47] matt saton<STEAM_0:1:53097688> changed their name to UU-ADT:17.35100
+[13:29:53] UU-ADT:17.35100: /charsetmodel adt models/ccr/auditor/conceptsoldier.mdl
+[13:29:58] UU-ADT:17.35100: /toggleraise
+[13:30:02] UU-ADT:17.35100<STEAM_0:1:53097688> spawned/gave himself swep weapon_357
+[13:30:03] UU-ADT:17.35100<STEAM_0:1:53097688> spawned/gave himself swep weapon_smg1
+[13:30:03] UU-ADT:17.35100: /toggleraise
+[13:32:44] UU-ADT:17.35100 suicided!
+[13:32:44] UU-ADT:17.35100 slayed Themself
+[13:32:44] UU-ADT:17.35100: !slay ^
+[13:32:57] UU-ADT:17.35100<STEAM_0:1:53097688> spawned/gave himself swep weapon_crowbar
+[13:32:58] UU-ADT:17.35100: /toggleraise
+[13:32:59] UU-ADT:17.35100<STEAM_0:1:53097688> spawned/gave himself swep weapon_stunstick
+[13:33:00] UU-ADT:17.35100: /toggleraise
+[13:34:40] UU-ADT:17.35100 suicided!
+[13:34:41] UU-ADT:17.35100 slayed Themself
+[13:34:41] UU-ADT:17.35100: !slay ^
+[13:34:44] UU-ADT:17.35100<STEAM_0:1:53097688> spawned/gave himself swep weapon_shotgun
+[13:34:45] UU-ADT:17.35100: /toggleraise
+[13:36:42] UU-ADT:17.35100 suicided!
+[13:36:43] UU-ADT:17.35100 slayed Themself
+[13:36:43] UU-ADT:17.35100: !slay ^
+[13:36:49] UU-ADT:17.35100 suicided!
+[13:36:49] UU-ADT:17.35100 slayed Themself
+[13:36:49] UU-ADT:17.35100: !slay ^
+[13:36:54] UU-ADT:17.35100: /toggleraise
+[13:36:59] UU-ADT:17.35100<STEAM_0:1:53097688> spawned/gave himself swep weapon_smg1
+[13:37:00] UU-ADT:17.35100: /toggleraise
+[14:41:09] UU-ADT:17.35100<STEAM_0:1:53097688> spawned/gave himself swep weapon_pistol
+[14:41:09] UU-ADT:17.35100: /toggleraise
+[14:42:46] UU-ADT:17.35100: /toggleraise
+[14:42:47] UU-ADT:17.35100: /toggleraise
+[14:48:20] UU-ADT:17.35100: t
+[14:48:24] UU-ADT:17.35100: /chargiveflag adt petncr
+[14:48:31] UU-ADT:17.35100<STEAM_0:1:53097688> spawned model models/props_wasteland/cargo_container01c.mdl
+[14:48:32] UU-ADT:17.35100<STEAM_0:1:53097688> spawned model models/props_wasteland/cargo_container01.mdl
+[14:48:37] UU-ADT:17.35100<STEAM_0:1:53097688> spawned model models/props_wasteland/cargo_container01b.mdl
+[14:50:13] UU-ADT:17.35100: /pm echo SWIM
+[14:51:37] UU-ADT:17.35100<STEAM_0:1:53097688> used the tool permaprops on models/props_wasteland/cargo_container01b.mdl
+[14:52:47] UU-ADT:17.35100<STEAM_0:1:53097688> spawned model models/props_lab/blastdoor001c.mdl
+[14:52:49] UU-ADT:17.35100<STEAM_0:1:53097688> spawned model models/props_lab/blastdoor001b.mdl
+[14:52:59] UU-ADT:17.35100<STEAM_0:1:53097688> spawned model models/props_lab/blastdoor001a.mdl
+[14:53:04] UU-ADT:17.35100<STEAM_0:1:53097688> spawned model models/props_lab/blastdoor001c.mdl
+[14:53:11] UU-ADT:17.35100<STEAM_0:1:53097688> spawned model models/props_lab/blastdoor001c.mdl
+[14:53:12] UU-ADT:17.35100<STEAM_0:1:53097688> spawned model models/props_lab/blastdoor001b.mdl
+[14:53:14] UU-ADT:17.35100<STEAM_0:1:53097688> spawned model models/props_lab/blastdoor001a.mdl
+[14:54:10] UU-ADT:17.35100: /chargiveitem adt "empty antlion"
+[14:54:12] UU-ADT:17.35100: /chargiveitem adt "empty antlion" 2
+[15:00:28] UU-ADT:17.35100<STEAM_0:1:53097688> used the tool permaprops on maps/rp_i17_variation_v0.bsp
+[15:00:55] UU-ADT:17.35100<STEAM_0:1:53097688> used the tool permaprops on maps/rp_i17_variation_v0.bsp
+[15:01:19] UU-ADT:17.35100<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_desk001b.mdl
+[15:01:31] UU-ADT:17.35100<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_desk001b.mdl
+[15:01:32] UU-ADT:17.35100 was killed by prop_physics
+[15:01:50] UU-ADT:17.35100<STEAM_0:1:53097688> spawned model models/props_wasteland/kitchen_counter001c.mdl
+[15:02:00] UU-ADT:17.35100<STEAM_0:1:53097688> spawned model models/props_wasteland/kitchen_shelf001a.mdl
+[15:02:04] UU-ADT:17.35100<STEAM_0:1:53097688> spawned model models/props_interiors/furniture_couch02a.mdl
+[15:03:46] UU-ADT:17.35100<STEAM_0:1:53097688> spawned model models/props_pipes/pipecluster32d_001a.mdl
+[15:03:49] UU-ADT:17.35100<STEAM_0:1:53097688> spawned model models/props_pipes/pipe02_connector01.mdl
+[15:03:57] UU-ADT:17.35100<STEAM_0:1:53097688> spawned model models/props_pipes/concrete_pipe001d.mdl
+[15:04:01] UU-ADT:17.35100<STEAM_0:1:53097688> spawned model models/props_pipes/concrete_pipe001c.mdl
+[15:04:30] UU-ADT:17.35100<STEAM_0:1:53097688> spawned model models/props_c17/gasmeter002a.mdl
+[15:04:34] UU-ADT:17.35100<STEAM_0:1:53097688> spawned model models/props_c17/gasmeterpipes002a.mdl
+[15:04:36] UU-ADT:17.35100<STEAM_0:1:53097688> spawned model models/props_c17/gaspipes003a.mdl
+[15:04:37] UU-ADT:17.35100<STEAM_0:1:53097688> spawned model models/props_c17/gaspipes002a.mdl
+[15:04:39] UU-ADT:17.35100<STEAM_0:1:53097688> spawned model models/props_c17/furniturepipecluster001a.mdl
+[15:04:41] UU-ADT:17.35100<STEAM_0:1:53097688> spawned model models/props_c17/gaspipes001a.mdl
+[15:04:45] UU-ADT:17.35100<STEAM_0:1:53097688> spawned model models/props_c17/gasmeter002a.mdl
+[15:04:48] UU-ADT:17.35100<STEAM_0:1:53097688> spawned model models/props_c17/gasmeter003a.mdl
+[15:05:57] UU-ADT:17.35100<STEAM_0:1:53097688> spawned model models/props_c17/furniturearmchair001a.mdl
+[15:05:59] UU-ADT:17.35100<STEAM_0:1:53097688> spawned model models/props_c17/furnituredrawer002a.mdl
+[15:06:29] UU-ADT:17.35100<STEAM_0:1:53097688> spawned model models/props_c17/furnituredresser001a.mdl
+[15:06:32] UU-ADT:17.35100<STEAM_0:1:53097688> spawned model models/props_c17/furniturestove001a.mdl
+[15:06:47] UU-ADT:17.35100<STEAM_0:1:53097688> spawned model models/props_c17/playgroundtick-tack-toe_block01a.mdl
+[15:06:49] UU-ADT:17.35100<STEAM_0:1:53097688> spawned model models/props_c17/playgroundtick-tack-toe_block01a.mdl
+[15:06:58] Client "DRD" connected.
+[15:07:26] UU-ADT:17.35100<STEAM_0:1:53097688> spawned model models/props_c17/substation_stripebox01a.mdl
+[15:07:56] UU-ADT:17.35100<STEAM_0:1:53097688> spawned model models/props_c17/streetsign001c.mdl
+[15:07:57] UU-ADT:17.35100<STEAM_0:1:53097688> spawned model models/props_c17/substation_transformer01b.mdl
+[15:07:59] UU-ADT:17.35100<STEAM_0:1:53097688> spawned model models/props_c17/substation_transformer01a.mdl
+[15:08:09] UU-ADT:17.35100<STEAM_0:1:53097688> spawned model models/props_c17/pillarcluster_001b.mdl
+[15:08:11] UU-ADT:17.35100<STEAM_0:1:53097688> spawned model models/props_c17/playground_teetertoter_seat.mdl
+[15:08:11] UU-ADT:17.35100<STEAM_0:1:53097688> spawned model models/props_c17/pillarcluster_001b.mdl
+[15:08:14] UU-ADT:17.35100<STEAM_0:1:53097688> spawned model models/props_c17/pillarcluster_001b.mdl
+[15:08:17] UU-ADT:17.35100<STEAM_0:1:53097688> spawned model models/props_c17/pillarcluster_001c.mdl
+[15:08:18] UU-ADT:17.35100<STEAM_0:1:53097688> spawned model models/props_c17/pillarcluster_001d.mdl
+[15:08:19] UU-ADT:17.35100<STEAM_0:1:53097688> spawned model models/props_c17/pillarcluster_001f.mdl
+[17:48:16] Client "Mr. House | Smug" connected.
+[18:09:37] UU-ADT:17.35100<STEAM_0:1:53097688> spawned model models/props_c17/playgroundslide01.mdl
+[18:09:42] UU-ADT:17.35100<STEAM_0:1:53097688> spawned model models/props_c17/grinderclamp01a.mdl
+[18:15:25] UU-ADT:17.35100<STEAM_0:1:53097688> changed their name to CCA.C17-GRID.i3.26594
+[18:18:55] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned sent ix_blooddono
+[18:19:09] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on maps/rp_i17_variation_v0.bsp
+[18:19:21] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned sent ix_blooddono
+[18:19:38] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on models/ccr/props/blood_donator.mdl
+[18:19:56] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned sent ix_blooddono
+[18:20:05] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on models/ccr/props/blood_donator.mdl
+[18:20:19] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned sent ix_blooddono
+[18:21:29] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on maps/rp_i17_variation_v0.bsp
+[18:21:57] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned sent ix_blooddono
+[18:22:14] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on models/ccr/props/blood_donator.mdl
+[18:22:25] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned sent ix_blooddono
+[18:22:46] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on models/ccr/props/blood_donator.mdl
+[18:23:23] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on maps/rp_i17_variation_v0.bsp
+[18:27:16] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned sent ix_printer
+[18:27:33] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned sent ix_printer
+[18:31:54] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned sent ix_testent9
+[18:31:57] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned sent ix_airvent
+[18:32:03] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned sent ix_airvent
+[19:13:44] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/hunter/plates/plate1x2.mdl
+[19:13:45] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/hunter/plates/plate1x1.mdl
+[19:14:40] CCA.C17-GRID.i3.26594: /paneladd "https://projectrevival.xyz/rpfiles/mainlogo.png 500 500 1
+[19:14:44] CCA.C17-GRID.i3.26594: /panelremove 50
+[19:15:14] CCA.C17-GRID.i3.26594: /paneladd "https://projectrevival.xyz/rpfiles/logo.png 500 500 1
+[19:15:27] CCA.C17-GRID.i3.26594: /me would take out his combat knife and cut the individual's ties.
+[19:16:31] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/hunter/blocks/cube4x4x4.mdl
+[19:16:50] CCA.C17-GRID.i3.26594: /panelremove 50
+[19:29:52] Client "Frazzy" connected.
+[19:35:10] Client "Frazzy" spawned in server <STEAM_0:0:457261159> (took 318 seconds).
+[19:37:41] Frazzy<STEAM_0:0:457261159> changed their name to Sophie Clermont
+[19:38:09] Sophie Clermont<STEAM_0:0:457261159> changed their name to PVT Miles Anderson
+[19:39:41] CCA.C17-GRID.i3.26594: //howdy
+[19:39:44] CCA.C17-GRID.i3.26594: //welcome back
+[19:39:45] PVT Miles Anderson: /ooc ELLO
+[19:39:50] PVT Miles Anderson: /ooc F caps
+[19:39:52] CCA.C17-GRID.i3.26594: //i am gonna run to earhart to grab dinner, i'll bel ike
+[19:39:55] CCA.C17-GRID.i3.26594: //10 mins max
+[19:39:59] PVT Miles Anderson: /OOC aight
+[19:40:01] CCA.C17-GRID.i3.26594: //and even that's iffy, they're 20 mins from closing so like
+[19:40:02] CCA.C17-GRID.i3.26594: //yeah
+[19:40:04] CCA.C17-GRID.i3.26594: //i'll be fsat
+[19:40:06] CCA.C17-GRID.i3.26594: //brb
+[19:58:19] CCA.C17-GRID.i3.26594: //long line
+[19:58:27] CCA.C17-GRID.i3.26594: //howdy tohugh
+[19:59:39] PVT Miles Anderson: /ooc wb
+[20:00:59] CCA.C17-GRID.i3.26594: //how's your day going
+[20:02:38] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> changed their name to Lee Maylor
+[20:03:11] PVT Miles Anderson: /OOC sorry I was doing something, i've been good honestly been getting caught up on a lot of stuff i've been putting aside
+[20:03:28] Lee Maylor: //all good
+[20:03:32] Lee Maylor: //i feel that tohugh
+[20:03:34] Lee Maylor: //ADHD go brrr
+[20:03:36] Lee Maylor: /y anderson!
+[20:03:41] PVT Miles Anderson: oh hey
+[20:03:57] PVT Miles Anderson: /OOC dunno about ADHD I do have ADD though
+[20:03:59] Lee Maylor: I need to show you something.
+[20:04:04] Lee Maylor: //ayyy, attention gang
+[20:04:08] PVT Miles Anderson: /looc lol
+[20:04:13] PVT Miles Anderson: sure
+[20:04:18] Lee Maylor: .//does this rash look bad to you?
+[20:05:09] Lee Maylor: /r Captain Vance, requesting opening of 7th gate.
+[20:05:16] Lee Maylor: //wait
+[20:05:19] Lee Maylor: //i'm on a ciizen
+[20:05:20] PVT Miles Anderson: you brought me here to show me the gate?
+[20:05:21] Lee Maylor: //what the FUCK
+[20:05:26] PVT Miles Anderson: /looc xd
+[20:05:28] Lee Maylor<STEAM_0:1:53097688> changed their name to CPT Nathan Vance
+[20:05:45] CPT Nathan Vance: /r Captain Vance, requesting opening of 7th gate.
+[20:05:52] CPT Nathan Vance: .//let me stnad behind you so i don't break da immersion
+[20:06:10] CPT Nathan Vance: go ahead
+[20:06:19] PVT Miles Anderson: so...
+[20:06:35] CPT Nathan Vance<STEAM_0:1:53097688> spawned/gave himself swep weapon_smg1
+[20:06:46] CPT Nathan Vance: watch out for antlions
+[20:06:54] CPT Nathan Vance: they sometimes like to jump up onto the boardwalk
+[20:07:04] CPT Nathan Vance: what the-
+[20:07:07] CPT Nathan Vance: hm
+[20:07:07] CPT Nathan Vance: weird
+[20:07:16] PVT Miles Anderson: whats that?
+[20:07:24] CPT Nathan Vance: Something they use for the health chargers.
+[20:07:47] CPT Nathan Vance: They put these little bugs in 'em, something in their body heals us and makes biogel.
+[20:08:04] PVT Miles Anderson: that sounds pretty cool
+[20:08:13] CPT Nathan Vance: yeah, surprised you're not already familiar
+[20:08:14] PVT Miles Anderson: whats it doing out here though?
+[20:08:17] CPT Nathan Vance: not sure
+[20:08:26] CPT Nathan Vance: i'm not too concerned, it's no secret rebels are out here
+[20:09:02] CPT Nathan Vance: probably dropped it when they were running around asking for overwatch to shoot them
+[20:09:04] CPT Nathan Vance: go ahead and grab that for me, will you?
+[20:09:09] PVT Miles Anderson: sure
+[20:09:14] PVT Miles Anderson: so... 
+[20:09:20] PVT Miles Anderson: what is it you wanted to show me?
+[20:09:28] CPT Nathan Vance: attach, you'll see
+[20:09:48] CPT Nathan Vance: .//sssh
+[20:09:58] Client "dystress" connected.
+[20:10:06] CPT Nathan Vance: This here is our joint overwatch-conscript outpost
+[20:10:22] PVT Miles Anderson: joint?
+[20:10:27] CPT Nathan Vance: yeah. As in they work together
+[20:10:35] CPT Nathan Vance: It just got finished, oh, a week ago or so.
+[20:10:46] CPT Nathan Vance: stocked to high hell with ammunition and equipment
+[20:11:05] CPT Nathan Vance: here's the.. armory
+[20:11:11] CPT Nathan Vance: for lack of a beter term
+[20:11:20] PVT Miles Anderson: i'm guessing your planning on stationing more people out here.
+[20:11:39] CPT Nathan Vance: You catch on quick. That'll get you far here.
+[20:11:45] CPT Nathan Vance: the whole point, though
+[20:11:59] CPT Nathan Vance: ...You can't see it from this window
+[20:12:09] CPT Nathan Vance: well, behind the building, there's a massive radio tower
+[20:12:21] CPT Nathan Vance: You may have seen it coming in
+[20:12:46] CPT Nathan Vance: This outpost is tasked with, among other things, making sure this thing stays functional
+[20:12:53] CPT Nathan Vance: it's our main radio array for the entire city
+[20:13:03] CPT Nathan Vance: If it goes out, we're in big trouble.
+[20:13:11] CPT Nathan Vance: that is why..
+[20:13:20] Client "dystress" spawned in server <STEAM_0:0:178506700> (took 202 seconds).
+[20:13:34] CPT Nathan Vance: If you or anybody stationed here throws that switch, you or they will be shot on the spot
+[20:13:42] PVT Miles Anderson: noted
+[20:13:53] CPT Nathan Vance: We've got ammo crates, a backup generator...
+[20:14:13] CPT Nathan Vance: If you get stationed here, you're gonna see some weird-looking OTA.
+[20:14:30] CPT Nathan Vance: Their armor is the normal shape, but they're all orange and yellow
+[20:14:43] PVT Miles Anderson: /looc ah yes carrot squadron
+[20:14:48] CPT Nathan Vance: Those are our coastal defense soldiers. They're the exact same, just a different color
+[20:15:00] CPT Nathan Vance: Like I said, you'll be working with them as equals.
+[20:15:04] CPT Nathan Vance: Well, equals for the most part.
+[20:15:18] PVT Miles Anderson: understood
+[20:15:45] CPT Nathan Vance: Here are their pods. There's actually a lot more OTA than there are pods, but being stationed here, they won't need to go into stasis.
+[20:15:47] CPT Nathan Vance: So, three it is.
+[20:16:18] CPT Nathan Vance: the OTA along highway 17 don't even get pods to begin with, and they're stationed out there for... shit, dayas.
+[20:16:21] CPT Nathan Vance: .//days.*
+[20:16:22] CPT Nathan Vance: Weeks?
+[20:16:35] CPT Nathan Vance: I've spent some time on the highways. On business, of course.
+[20:16:42] CPT Nathan Vance: You all will be staying here
+[20:16:50] CPT Nathan Vance: this is the shower
+[20:16:59] CPT Nathan Vance: Got some soap and a tap in there
+[20:17:26] CPT Nathan Vance: And an APC, armed with enough rockets and pulse rounds to make a KING unit blush
+[20:17:36] PVT Miles Anderson: heh
+[20:17:44] CPT Nathan Vance: Out back are the porta-johns.
+[20:17:57] CPT Nathan Vance: Sink out there, too
+[20:18:00] CPT Nathan Vance: We're not animals
+[20:18:02] CPT Nathan Vance: And this is it.
+[20:18:10] CPT Nathan Vance: One of the most important radio devices in the city
+[20:18:20] CPT Nathan Vance: We are... what day is it?
+[20:18:23] CPT Nathan Vance: Wednesday.
+[20:18:34] CPT Nathan Vance: We're two days from its first startpu.
+[20:18:37] CPT Nathan Vance: .//startup.*
+[20:19:01] PVT Miles Anderson: it's pretty big
+[20:19:23] CPT Nathan Vance: Yeah, but may God help the lunatic crazy enough to try to fuck with it.
+[20:19:37] CPT Nathan Vance: We've got overwatch on standby in the next precinct as well.
+[20:19:51] PVT Miles Anderson: lots of dumbasses in the world, i'm sure atleast one of em will try something.
+[20:19:55] CPT Nathan Vance: No doubt
+[20:20:03] CPT Nathan Vance: That's why the base is here, though
+[20:20:22] CPT Nathan Vance: Alright, you have any questions?
+[20:20:58] PVT Miles Anderson: what about rations?
+[20:21:43] CPT Nathan Vance: We'll have those here, too. GRID units will come by regularly to make sure the tower is working as it should be. They'll be coming with rations for the conscripts and dietary supplements for the OTA.
+[20:21:48] dystress<STEAM_0:0:178506700> changed their name to Leon Wakefield
+[20:21:55] CPT Nathan Vance: don't worry about running out, they'll be coming in excess
+[20:22:02] PVT Miles Anderson: good to know
+[20:22:03] Leon Wakefield: /content
+[20:22:09] CPT Nathan Vance: yep
+[20:22:13] CPT Nathan Vance: Alright, anything else?
+[20:22:27] CPT Nathan Vance: //Hey, welcome to the server! We're closing up a passiveRP, so I'll hop on a unit here in a sec to print you an ID.
+[20:22:34] PVT Miles Anderson: nope
+[20:22:39] CPT Nathan Vance: alright, let's move bak
+[20:22:41] CPT Nathan Vance: .//back
+[20:22:45] Leon Wakefield: // oh neat, i gotta install the content first though
+[20:22:54] CPT Nathan Vance: //alright, that works out great
+[20:23:01] Leon Wakefield: // ill be right back
+[20:23:03] Dropped "Leon Wakefield" from server<STEAM_0:0:178506700>
+[20:23:09] CPT Nathan Vance: /doorsethidden false
+[20:23:12] CPT Nathan Vance: /doorsethidden true
+[20:23:24] CPT Nathan Vance: also, real quick
+[20:23:30] CPT Nathan Vance: This here is the coastal OTA emblem
+[20:23:37] CPT Nathan Vance: just so you know
+[20:23:46] CPT Nathan Vance: If you see that anywhere, expect to find them nearby
+[20:24:42] CPT Nathan Vance: /r Captain vance, requesting passthrough for the Seventh gate.
+[20:25:12] CPT Nathan Vance teleported to PVT Miles Anderson
+[20:25:15] CPT Nathan Vance: alright
+[20:25:23] CPT Nathan Vance: Return to your station, that'll be all for now
+[20:25:27] PVT Miles Anderson: understood
+[20:25:56] CPT Nathan Vance<STEAM_0:1:53097688> changed their name to CCA.C17-GRID.i3.26594
+[20:26:15] Client "dystress" connected.
+[20:26:25] PVT Miles Anderson<STEAM_0:0:457261159> changed their name to Sophie Clermont
+[20:27:42] Client "DRD" connected.
+[20:28:10] CCA.C17-GRID.i3.26594: //yoooo DRd is joining
+[20:28:12] Client "dystress" spawned in server <STEAM_0:0:178506700> (took 117 seconds).
+[20:29:38] dystress<STEAM_0:0:178506700> changed their name to Leon Wakefield
+[20:29:58] Leon Wakefield: // playermodels are still errors oddly
+[20:30:05] CCA.C17-GRID.i3.26594: //did you restart your game after downloading the content?
+[20:30:09] Leon Wakefield: // yeah
+[20:30:14] Leon Wakefield: /content
+[20:30:28] CCA.C17-GRID.i3.26594: //hmmm
+[20:30:46] CCA.C17-GRID.i3.26594: /content
+[20:31:39] Leon Wakefield: // ill try again
+[20:31:41] Dropped "Leon Wakefield" from server<STEAM_0:0:178506700>
+[20:32:12] CCA.C17-GRID.i3.26594: //and he never came back
+[20:32:22] CCA.C17-GRID.i3.26594 teleported to Sophie Clermont
+[20:33:00] Client "dystress" connected.
+[20:33:51] Client "dystress" connected.
+[20:34:07] CCA.C17-GRID.i3.26594 cleared decals
+[20:34:07] CCA.C17-GRID.i3.26594: !cleardecals
+[20:34:53] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned NPC npc_cscanner
+[20:35:11] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned NPC npc_cscanner
+[20:35:27] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned NPC npc_cscanner
+[20:35:47] Client "dystress" spawned in server <STEAM_0:0:178506700> (took 116 seconds).
+[20:36:25] dystress<STEAM_0:0:178506700> changed their name to Leon Wakefield
+[20:36:28] Leon Wakefield: // we good now
+[20:36:45] CCA.C17-GRID.i3.26594: //epische
+[20:37:02] Sophie Clermont: /OOC nice
+[20:37:23] Leon Wakefield: /content
+[20:37:48] CCA.C17-GRID.i3.26594: /content
+[20:38:28] CCA.C17-GRID.i3.26594: step forward
+[20:38:32] CCA.C17-GRID.i3.26594: Face this fence
+[20:38:40] Leon Wakefield: /me turns to the fence without a word.
+[20:38:41] CCA.C17-GRID.i3.26594: /chargiveitem grid zip 3
+[20:38:49] CCA.C17-GRID.i3.26594: Hands behind your back, wrists touching.
+[20:39:08] Leon Wakefield: /me does as he's told, albeit incredibly slowly.
+[20:39:37] CCA.C17-GRID.i3.26594: /me would clip his stunstick with a clicking noise and remove a zip tie from his utility belt.
+[20:39:39] CCA.C17-GRID.i3.26594: /me would proceed to tie the individual. Would they resist?
+[20:39:46] Leon Wakefield: /me doesn't resist.
+[20:40:21] CCA.C17-GRID.i3.26594: You have anything that's gonna poke me or stick me?
+[20:40:30] Leon Wakefield: No.
+[20:40:36] CCA.C17-GRID.i3.26594: alright
+[20:40:38] CCA.C17-GRID.i3.26594: we
+[20:40:41] CCA.C17-GRID.i3.26594: .//fuck
+[20:40:43] CCA.C17-GRID.i3.26594: we'll see
+[20:40:48] CCA.C17-GRID.i3.26594: /me would then proceed to pat the man down.
+[20:40:51] CCA.C17-GRID.i3.26594: /charsearch
+[20:41:10] CCA.C17-GRID.i3.26594: alright
+[20:41:21] CCA.C17-GRID.i3.26594: /me would take out his combat knife and cut the individual's ties.
+[20:41:39] CCA.C17-GRID.i3.26594: Put your suitcase on that table.
+[20:41:57] CCA.C17-GRID.i3.26594: Go to the customs window when you're done
+[20:42:12] Leon Wakefield: /me yet again, at a ridiculously slow but oddly specific way, places down the suitcase and adjusts it so it fits the edge perfectly.
+[20:42:26] CCA.C17-GRID.i3.26594: /chargiveitem grid suitcase
+[20:42:31] CCA.C17-GRID.i3.26594: relocation coupon
+[20:42:54] Leon Wakefield: /me places it down slowly but the edge of the coupon aligning perfectly against the edge of the counter.
+[20:43:31] CCA.C17-GRID.i3.26594: /me would take the coupon and inspect it, reviewing the information on it.
+[20:43:43] CCA.C17-GRID.i3.26594: /me would then turn, letting the light shine on it.
+[20:43:51] CCA.C17-GRID.i3.26594: /me seems to be checking for a counterfeit
+[20:44:08] Client "DRD" connected.
+[20:44:23] Client "DRD" connected.
+[20:44:31] CCA.C17-GRID.i3.26594: alright
+[20:44:36] CCA.C17-GRID.i3.26594: A couple of questions for you.
+[20:44:42] CCA.C17-GRID.i3.26594: /viewdata leon
+[20:45:06] CCA.C17-GRID.i3.26594: What is your date of birth, your sex, and do you have any medical or mental conditions?
+[20:45:16] CCA.C17-GRID.i3.26594: .//year is 2006 for reference for your DOB
+[20:45:21] Leon Wakefield: [[ oh ok i was about to ask
+[20:45:30] CCA.C17-GRID.i3.26594: .//yep, and the war was in 2003 here
+[20:45:48] Leon Wakefield: July 25th, 1975. Male, no medical conditions.
+[20:46:00] CCA.C17-GRID.i3.26594: /viewdata leon
+[20:46:37] CCA.C17-GRID.i3.26594: .//make sure to F3 btw
+[20:46:44] CCA.C17-GRID.i3.26594: Alright, and what's your blood type?
+[20:46:49] CCA.C17-GRID.i3.26594: If you don't know, that's fine
+[20:47:19] Leon Wakefield: /me looks away for a moment, putting his hand on his head. "Er. O-. I... believe. Yes."
+[20:47:41] CCA.C17-GRID.i3.26594: I'll put in that you're unsure. Just in case
+[20:47:43] CCA.C17-GRID.i3.26594: /adminspawnmenu
+[20:47:51] CCA.C17-GRID.i3.26594: /viewdata leon
+[20:48:14] CCA.C17-GRID.i3.26594: Not the kind of thing you want to accidentally goof on in the moment.
+[20:48:23] CCA.C17-GRID.i3.26594: Alright, I've got your suitcase here.
+[20:48:39] Client "DRD" spawned in server <STEAM_0:0:193599766> (took 256 seconds).
+[20:48:47] Leon Wakefield: /me takes it ever so slowly, as per usual from this man.
+[20:48:48] CCA.C17-GRID.i3.26594: /me places the suitcase on the counter and slides it through, without making it fall over.
+[20:49:11] Leon Wakefield: Am I free to go?
+[20:49:23] CCA.C17-GRID.i3.26594: /me would then take the citizen's CID and slide it on the counter towards the citizen
+[20:49:27] Leon Wakefield: Ah.
+[20:49:33] CCA.C17-GRID.i3.26594: /me doesn't let go of it though, saying something first.
+[20:49:55] Leon Wakefield: /me was about to reach the CID but stops himself.
+[20:49:58] CCA.C17-GRID.i3.26594: Stay out of trouble. You would hate to disappoint the Consul.
+[20:50:03] Leon Wakefield: I understand.
+[20:50:04] CCA.C17-GRID.i3.26594: /me then releases the CID.
+[20:50:18] Leon Wakefield: /me now slides it off the counter and puts it into his pocket.
+[20:50:56] CCA.C17-GRID.i3.26594: Proceed to your left. There's a lounge that way too, you can stay in there if you want. If you would like an apartment, talk to a unit.
+[20:51:06] Leon Wakefield: /me nods.
+[20:51:07] CCA.C17-GRID.i3.26594: A store in the plaza sells filters and snacks.
+[20:52:44] Leon Wakefield: // how actives this server usually?
+[20:53:41] Dropped "DRD" from server<STEAM_0:0:193599766>
+[20:53:46] CCA.C17-GRID.i3.26594: //depends on the day. quite honestly speaking, we've been hitting a slight lull recently, but we're trying to grow as much as we can. 5 people tends to be our peak, but it could grow to be higher.
+[20:54:47] CCA.C17-GRID.i3.26594: //i try to be as active as I can. Being a full time student doesn't help that, but I'm able to make time a lot of the time
+[20:54:57] Leon Wakefield: // i tend to like smaller communities, but yeah a peak of 5s preeetty small lol
+[20:55:03] CCA.C17-GRID.i3.26594 set the hp for Themself to 999
+[20:55:12] CCA.C17-GRID.i3.26594: //yeah, we're trying ;-;
+[20:55:26] Leon Wakefield: // though with these kinds of servers there seems to be a lot of love for every individual person which is neat
+[20:55:33] Leon Wakefield: /discord
+[20:55:45] CCA.C17-GRID.i3.26594: //yeah, the people who do stick around we get close with. we're really tightly knit
+[20:56:28] CCA.C17-GRID.i3.26594: //i ran into a bit of a wall with schoolwork, though, and we would peak anywhere from 7 to 13
+[20:56:43] CCA.C17-GRID.i3.26594: //hopefully now that my workload is manageable again, we can get back up there soon
+[20:57:08] CCA.C17-GRID.i3.26594: //midterm seasons kinda.. killed me a lil bit
+[20:57:14] CCA.C17-GRID.i3.26594: //season*
+[20:57:46] Leon Wakefield: // haha yeah ive been struggling a lot aswell but school workloads slowing down aswell to me
+[20:58:15] Leon Wakefield: /me inspects the handmade filters strewn about the area very carefully, and pockets one.
+[20:58:24] CCA.C17-GRID.i3.26594: //yeah. here's hoping
+[20:58:38] CCA.C17-GRID.i3.26594: //our biggest thing here is both the custom stuff i program and our large scale evens
+[20:58:39] CCA.C17-GRID.i3.26594: //events*
+[20:58:52] Leon Wakefield: // oo custom stuff? lovely
+[20:58:53] CCA.C17-GRID.i3.26594: //if you ask one of our regulars, they'll all tell you that our events are pretty large scale
+[20:59:06] CCA.C17-GRID.i3.26594: //yeah. i'm a CS major, so work for the server is basically just practice lmao
+[20:59:15] Leon Wakefield: // thats awesome lol
+[20:59:26] CCA.C17-GRID.i3.26594: //thank you thank you
+[21:01:58] Client "DRD" connected.
+[21:02:33] CCA.C17-GRID.i3.26594: //if you have any other questions, feel free to ask
+[21:02:47] CCA.C17-GRID.i3.26594: //i'll happily answer, this server is my favorite thing to work on
+[21:03:02] CCA.C17-GRID.i3.26594 set the hp for Themself to 5
+[21:03:02] CCA.C17-GRID.i3.26594: !hp ^ 5
+[21:03:04] CCA.C17-GRID.i3.26594 set the hp for Themself to 100
+[21:03:04] CCA.C17-GRID.i3.26594: !hp ^ 100
+[21:03:15] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_lab/crematorcase.mdl
+[21:04:21] Leon Wakefield: // will definitely do when something comes in mind
+[21:04:25] CCA.C17-GRID.i3.26594: //alright
+[21:04:34] CCA.C17-GRID.i3.26594: //also, we've got blood donation stations around the map
+[21:04:54] CCA.C17-GRID.i3.26594: //and air vents, they're the weird looking combine emitter with the red light
+[21:04:59] CCA.C17-GRID.i3.26594: //you'll know if it is if it has a tooltip
+[21:05:54] Client "DRD" spawned in server <STEAM_0:0:193599766> (took 236 seconds).
+[21:06:16] Leon Wakefield: /me inserts his arm into the dispenser, seemingly knowing the drill. He flinches a bit as the machinery does its thing.
+[21:06:41] CCA.C17-GRID.i3.26594: /toggleraise
+[21:06:43] CCA.C17-GRID.i3.26594: /toggleraise
+[21:07:06] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned sent ix_testent8
+[21:07:08] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned sent ix_rationdispenser
+[21:07:27] Leon Wakefield: /me inserts some tokens into the soda machine, and, soon as its dispensed, he gently opens his suitcase on the ground and places the can inside.
+[21:07:53] Leon Wakefield: /me does the same again, placing the two orderly into the bottom leftmost corner of the suitcase.
+[21:08:03] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned sent ix_testent8
+[21:08:06] Client "PhilipIsBored" connected.
+[21:09:19] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned sent ix_testent8
+[21:09:23] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned sent ix_testent8
+[21:09:48] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on models/props_combine/combine_interface003.mdl
+[21:10:53] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool ledscreen on maps/rp_i17_variation_v0.bsp
+[21:10:54] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool ledscreen on maps/rp_i17_variation_v0.bsp
+[21:10:56] Dropped "DRD" from server<STEAM_0:0:193599766>
+[21:11:00] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool ledscreen on maps/rp_i17_variation_v0.bsp
+[21:11:01] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool ledscreen on maps/rp_i17_variation_v0.bsp
+[21:11:02] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool ledscreen on maps/rp_i17_variation_v0.bsp
+[21:11:09] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool ledscreen on maps/rp_i17_variation_v0.bsp
+[21:11:31] CCA.C17-GRID.i3.26594: //oh fuck
+[21:11:35] CCA.C17-GRID.i3.26594: //it says train station still
+[21:11:37] CCA.C17-GRID.i3.26594: //thta's my bad
+[21:11:40] Leon Wakefield: // lol i got confused
+[21:11:44] CCA.C17-GRID.i3.26594: //this is from back when we were on uhhhh
+[21:11:49] CCA.C17-GRID.i3.26594: //c17 build 210
+[21:11:56] Leon Wakefield: // how long has these servers been goin?
+[21:11:57] CCA.C17-GRID.i3.26594: //it's the ration distribution terminal, let me fix that real quick
+[21:12:05] CCA.C17-GRID.i3.26594: //we're coming up on a year if you can believe it
+[21:12:16] Leon Wakefield: // oo neat
+[21:12:25] CCA.C17-GRID.i3.26594: //the HL2RP is April 4th, and the SWRP is December 14th.
+[21:12:47] Leon Wakefield: // i wish i couldve owned an hl2rp server but i dont know how to code n its a bit intimidating
+[21:12:51] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool ledscreen on maps/rp_i17_variation_v0.bsp
+[21:12:52] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool ledscreen on maps/rp_i17_variation_v0.bsp
+[21:12:55] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool ledscreen on maps/rp_i17_variation_v0.bsp
+[21:12:56] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool ledscreen on maps/rp_i17_variation_v0.bsp
+[21:12:57] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool ledscreen on maps/rp_i17_variation_v0.bsp
+[21:12:58] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool ledscreen on maps/rp_i17_variation_v0.bsp
+[21:12:59] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool ledscreen on maps/rp_i17_variation_v0.bsp
+[21:13:00] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool ledscreen on maps/rp_i17_variation_v0.bsp
+[21:13:01] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool ledscreen on maps/rp_i17_variation_v0.bsp
+[21:13:06] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on models/squad/sf_plates/sf_plate1x8.mdl
+[21:13:14] CCA.C17-GRID.i3.26594: //that's fair, i feel that
+[21:13:40] Leon Wakefield: /me walks forward to the officer, standing still and awaiting a command of sorts.
+[21:13:56] CCA.C17-GRID.i3.26594: Give me your CID card.
+[21:13:57] Client "PhilipIsBored" spawned in server <STEAM_0:0:38537787> (took 351 seconds).
+[21:13:59] Leon Wakefield: /me glances around for a moment, noticing its sheer emptiness.
+[21:14:05] CCA.C17-GRID.i3.26594: //holy shit philip is back
+[21:14:09] Leon Wakefield: /me slides down the card onto the counter.
+[21:14:34] CCA.C17-GRID.i3.26594: /me takes the CID and inspects both sides of it.
+[21:14:38] Leon Wakefield: /me looks at the officers band, noticing the same GRID i3 one from before.
+[21:14:45] Leon Wakefield: Are you the only officer on duty right now?
+[21:15:10] Leon Wakefield: This place, its... desolate.
+[21:15:11] CCA.C17-GRID.i3.26594: No, the other units in the precinct are busy. They're on duty, though.
+[21:15:21] CCA.C17-GRID.i3.26594: .//heheh IC excuses go brr
+[21:15:25] Leon Wakefield: [[ lol
+[21:15:30] CCA.C17-GRID.i3.26594: .//also for future reference, precinct refers to the map
+[21:15:35] CCA.C17-GRID.i3.26594: .//the entire map is the precinct
+[21:15:39] Leon Wakefield: [[ gotcha
+[21:15:50] CCA.C17-GRID.i3.26594: Probably people in a work cycle.
+[21:15:52] CCA.C17-GRID.i3.26594: and apply for me
+[21:16:09] Leon Wakefield: Ah. 26577, Leon Wakefield.
+[21:16:30] CCA.C17-GRID.i3.26594: alright
+[21:16:31] CCA.C17-GRID.i3.26594: /me takes out their datapad and types a couple things in.
+[21:16:58] CCA.C17-GRID.i3.26594: /me places a tightly-packed ration packet onto the counter.
+[21:17:05] CCA.C17-GRID.i3.26594: 1 standard grade.
+[21:17:27] Leon Wakefield: /me takes the corner of the bag and slides it to his side of the counter. He clutches it in his arms and carries on.
+[21:17:34] CCA.C17-GRID.i3.26594: /y hety
+[21:17:36] CCA.C17-GRID.i3.26594: .//Hey!
+[21:17:46] CCA.C17-GRID.i3.26594: /me places the man's CID card on the counter and slides it forward.
+[21:17:49] Leon Wakefield: /me walks backward, just realizing his mistake.
+[21:17:53] CCA.C17-GRID.i3.26594: You're gonna want that
+[21:17:53] Leon Wakefield: R-Right.
+[21:18:06] Leon Wakefield: /me again slides it down and pockets it.
+[21:18:48] PhilipIsBored<STEAM_0:0:38537787> changed their name to Emily Brown
+[21:18:56] Emily Brown: // i am choking
+[21:19:03] Leon Wakefield: /me sits down on the chair, neatly placing his suitcase beside him. He opens the ration, probably soon to be disappointed.
+[21:19:15] Emily Brown: // is q here
+[21:19:15] CCA.C17-GRID.i3.26594: //oh, shit, right, old char, let me give you a fuckin uhhhh
+[21:19:18] Sophie Clermont: /OOC look in your inv
+[21:19:18] CCA.C17-GRID.i3.26594: //suit
+[21:19:25] CCA.C17-GRID.i3.26594: /plysearch
+[21:19:26] Sophie Clermont: /ooc o
+[21:19:27] Emily Brown: // is q here
+[21:19:29] CCA.C17-GRID.i3.26594: //oh, no, new char
+[21:19:43] Emily Brown: // no all of my characters are legit gone
+[21:19:45] Emily Brown: // i had to remake her
+[21:19:53] Emily Brown: .// ooc a second
+[21:20:01] Emily Brown: .// can i get my cwu shit back
+[21:20:03] Emily Brown: .// why am i choking
+[21:20:07] CCA.C17-GRID.i3.26594: //oh, yeah, that's until we finish the campaign, then we're going to handle all the old characters
+[21:20:07] Emily Brown: .// i have a suit on
+[21:20:10] CCA.C17-GRID.i3.26594: .//equip your flter
+[21:20:11] CCA.C17-GRID.i3.26594: .//filter
+[21:20:16] Emily Brown: .// this sucks
+[21:20:20] Emily Brown: .// why do i need to wear a suit
+[21:20:23] CCA.C17-GRID.i3.26594: .//beyta
+[21:20:27] Emily Brown: .// this isnt even a female model
+[21:20:33] Emily Brown: .// dumbest shit ive ever seen in my life no offence
+[21:20:50] Emily Brown: .// can i make this character in a cwu whitelist at least
+[21:20:54] Emily Brown: .// and get my loyalist shit back
+[21:20:57] Emily Brown: .// bc i was like a high tier
+[21:21:14] CCA.C17-GRID.i3.26594: .//yeah, let me double check what your char had
+[21:21:17] CCA.C17-GRID.i3.26594: .//in the meantime
+[21:21:21] CCA.C17-GRID.i3.26594: Relocation coupon
+[21:21:25] Emily Brown: .// forgot what i had so if you could check that'd be cool
+[21:21:31] Emily Brown: What?
+[21:21:32] Emily Brown: Oh, yes.
+[21:22:19] Emily Brown: /me digs into her pocket, rummaging through it, before sliding her hand through the window and presenting the officer with her relocation card
+[21:22:32] Emily Brown: /me then retracts her hand, and pockets it once more.
+[21:23:06] CCA.C17-GRID.i3.26594: /me would take the coupon and inspect in closely.
+[21:23:09] CCA.C17-GRID.i3.26594: //it
+[21:23:09] CCA.C17-GRID.i3.26594: /pm echo SWIM
+[21:23:10] Leon Wakefield: /me picks up the peculiar object.
+[21:23:32] Emily Brown: .// this gas mask is so unbelievably ugly LOL
+[21:23:49] CCA.C17-GRID.i3.26594: /me would turn around and inspect the relocation coupon in the light
+[21:23:49] Emily Brown: .// it says q is on the server
+[21:23:53] CCA.C17-GRID.i3.26594: .//yes.
+[21:23:55] CCA.C17-GRID.i3.26594: .//i am q.
+[21:24:02] Emily Brown: .// oh i thought you was
+[21:24:06] Emily Brown: .// the other dude whats he called uhh
+[21:24:14] CCA.C17-GRID.i3.26594: .//DRD
+[21:24:15] Emily Brown: .// i deadass forgot his name 
+[21:24:16] Emily Brown: .// juliet
+[21:24:18] Emily Brown: .// yea
+[21:24:19] Emily Brown: .// drd
+[21:24:36] CCA.C17-GRID.i3.26594: alright
+[21:24:37] Emily Brown: .// do u have records of what loyalty level emily was?
+[21:24:41] Sophie Clermont: you hear that as well?
+[21:24:44] CCA.C17-GRID.i3.26594: .//yes, i'm going through the database as we speak
+[21:24:47] Emily Brown: .// kk
+[21:24:53] CCA.C17-GRID.i3.26594: Sex, date of birth, and do you have any mental or medical conditions?
+[21:24:58] Leon Wakefield: /me takes a moment to listen to the area around him, but he responds with a resounding "No..."
+[21:25:10] Leon Wakefield: [[ probably cause im blasting music in my ears rn
+[21:25:24] Emily Brown: .// lemme check the year
+[21:25:24] Sophie Clermont: huh.. I must be going crazy or something then.
+[21:25:26] Emily Brown: .// 2001 is it?
+[21:25:29] Sophie Clermont: /looc lol
+[21:25:33] Leon Wakefield: hey, wait.
+[21:25:35] Emily Brown: .// 2006 it says 
+[21:25:36] Sophie Clermont: hm?
+[21:25:37] Emily Brown: .// ok
+[21:25:38] Leon Wakefield: Do you know why this place is so... empty?
+[21:25:42] Leon Wakefield: Its a ghost town.
+[21:25:46] CCA.C17-GRID.i3.26594: .//2006 yeah
+[21:25:47] Leon Wakefield: I've only seen one unit here.
+[21:25:48] CCA.C17-GRID.i3.26594: /viewdata emily
+[21:26:00] Leon Wakefield: Youre the only other non-unit I've seen.
+[21:26:22] Sophie Clermont: well, most people are inside. As you can tell the air isn't really clean out here.
+[21:26:35] Leon Wakefield: I've been inside quite a few places already...
+[21:26:39] Leon Wakefield: Still terrifyingly empty.
+[21:27:00] Sophie Clermont: /me shrugs. "Not sure then, your new right?
+[21:27:03] Leon Wakefield: Yes.
+[21:27:14] Leon Wakefield: I arrived... an hour or so ago.
+[21:27:21] Leon Wakefield: No one else was on that train.
+[21:27:35] CCA.C17-GRID.i3.26594: /chargiveflag emily pet
+[21:27:53] Emily Brown: Female. 26th of February, 1982. And no, I don't have any mental or medical conditions. Only thing is a slight allergy to peanuts, but nothing severe. Just rashes.
+[21:27:57] Sophie Clermont: I see, first of all welcome. You can buy some new filters from that there.
+[21:28:05] Sophie Clermont: /me ponts to the general store.
+[21:28:25] Leon Wakefield: Yeah, I bought a few extra from there a couple minutes ago.
+[21:28:30] CCA.C17-GRID.i3.26594: alright
+[21:28:36] CCA.C17-GRID.i3.26594: /viewdata emily
+[21:28:58] Sophie Clermont: great, and also i'd see a unit about getting yourself an apartment. Other than that any questions about the city?
+[21:29:25] Emily Brown: .// how do i bind thirdperson again
+[21:29:38] Leon Wakefield: Well... do you think this place is good? Atleast, in comparison to other cities?
+[21:29:43] CCA.C17-GRID.i3.26594: .//bind [key] stp
+[21:29:47] CCA.C17-GRID.i3.26594: Do you know your blood type?
+[21:29:51] CCA.C17-GRID.i3.26594: //gamer time, population is at 4
+[21:29:52] CCA.C17-GRID.i3.26594: //we grow
+[21:30:05] Emily Brown: .// stp is an unknown command it says
+[21:30:10] Emily Brown: Uhhh...
+[21:30:17] CCA.C17-GRID.i3.26594: .//not for me
+[21:30:19] Emily Brown: /me thinks for a moment
+[21:30:22] Emily Brown: Can't say I do.
+[21:30:26] CCA.C17-GRID.i3.26594: /viewdata emily
+[21:30:51] CCA.C17-GRID.i3.26594: alright. You're a CWU transfer, so you'll be coming with me
+[21:30:57] Emily Brown: It's probably in my records somewhere.
+[21:31:09] CCA.C17-GRID.i3.26594: come on
+[21:31:10] Emily Brown: Course.
+[21:31:15] CCA.C17-GRID.i3.26594: /me sighs
+[21:31:18] CCA.C17-GRID.i3.26594: Did you take your CID?
+[21:31:21] Emily Brown: Nope, sorry.
+[21:31:23] Client "DRD" connected.
+[21:31:24] Sophie Clermont: The city is pretty quiet as you already know, i'd say atleast compared to the previous city I was in it has more of a... Homey kind of feel.
+[21:31:34] Emily Brown: /me swipes the cid from the counter, before stepping over to the officer
+[21:31:36] Emily Brown: Okay, off we go.
+[21:31:36] Sophie Clermont: since it's small you get aquanted with everyone here easily.
+[21:31:53] Leon Wakefield: /me takes a moment to replace the filter he's wearing as she's talking.
+[21:32:09] Leon Wakefield: Yeah... I guess that's pretty g--
+[21:32:15] Leon Wakefield: --Ood.
+[21:32:22] Emily Brown: This city is ...
+[21:32:25] Emily Brown: rather ibg.
+[21:32:28] Emily Brown: .// big*
+[21:32:31] CCA.C17-GRID.i3.26594: yeah
+[21:32:33] Emily Brown: Compared to 14.
+[21:32:41] CCA.C17-GRID.i3.26594: .//no, we're not in that universe
+[21:32:44] Emily Brown: .// tfg
+[21:32:47] Emily Brown: .// tf*
+[21:32:57] CCA.C17-GRID.i3.26594: .//long story, it will be explained in the campaign
+[21:32:58] Emily Brown: .// ok
+[21:33:01] CCA.C17-GRID.i3.26594: cid
+[21:33:02] Leon Wakefield: The last place I was in had also minimal people, but this is even smaller. By a landslide.
+[21:33:07] Emily Brown: /me present her cid to the officer once again
+[21:33:08] CCA.C17-GRID.i3.26594: .//CID.*
+[21:33:16] CCA.C17-GRID.i3.26594: /toggleraise
+[21:33:17] CCA.C17-GRID.i3.26594 cleared decals
+[21:33:18] CCA.C17-GRID.i3.26594: nope
+[21:33:21] CCA.C17-GRID.i3.26594: /toggleraise
+[21:34:12] Sophie Clermont: not sure I transfered a couple of weeks ago, so I don't have a grasp on everything thats happening. Not sure why there's so little people out and about.
+[21:34:15] CCA.C17-GRID.i3.26594: /chargiveitem emily "Gray jeans"
+[21:34:18] CCA.C17-GRID.i3.26594: /chargiveitem emily "commerce"
+[21:34:27] CCA.C17-GRID.i3.26594: /plysearch
+[21:34:30] Sophie Clermont: /me coughs.
+[21:34:41] CCA.C17-GRID.i3.26594: .//drop that, i didn't mean to put it in your inv
+[21:34:53] Leon Wakefield: Well, hope I don't go crazy with the silence.
+[21:34:56] Leon Wakefield: Thank you.
+[21:35:02] Leon Wakefield: I'll probably ask an officer for a place now.
+[21:35:11] Emily Brown: .// is the air inside breathable
+[21:35:13] Emily Brown: .// like in buildings
+[21:35:14] Sophie Clermont: no problem, names Sophie. Good luck.
+[21:35:19] CCA.C17-GRID.i3.26594: .//yes. hold on, let me show you
+[21:35:22] Emily Brown: .// or do you have to wear the suit 24/7
+[21:35:24] Emily Brown: .// ok
+[21:35:25] Leon Wakefield: Ah, names Leon. Appreciate it.
+[21:35:29] CCA.C17-GRID.i3.26594: .//let me show you
+[21:35:32] Sophie Clermont: /me gives a slight nod then walks off.
+[21:35:46] CCA.C17-GRID.i3.26594: .//alright
+[21:35:47] CCA.C17-GRID.i3.26594: .//check it
+[21:35:56] CCA.C17-GRID.i3.26594: .//see this thing up here
+[21:36:01] Emily Brown: .// yes
+[21:36:06] CCA.C17-GRID.i3.26594: .//these things, if they have a tooltip, you can take your suit off near them
+[21:36:15] Emily Brown: .// oh ok 
+[21:36:17] CCA.C17-GRID.i3.26594: .//yep
+[21:36:21] Emily Brown: .// can i get heaed? i lost some health at the train statiojn
+[21:36:25] CCA.C17-GRID.i3.26594: .//they're more frequent than you would think
+[21:36:27] CCA.C17-GRID.i3.26594: .//oh, yep,
+[21:36:31] CCA.C17-GRID.i3.26594 set the hp for Emily Brown to 100
+[21:36:36] CCA.C17-GRID.i3.26594: /y you can go
+[21:36:41] Emily Brown: /y Alright, thank you officer.
+[21:36:46] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> changed their name to The Consul
+[21:36:53] The Consul<STEAM_0:1:53097688> spawned sent ix_testent9
+[21:36:55] The Consul<STEAM_0:1:53097688> spawned sent ix_airvent
+[21:36:58] Leon Wakefield: /me looks around at the place, a bit fearful to move forward.
+[21:37:14] The Consul: /broadcast Attention, ladies and gentlemen.
+[21:37:44] The Consul<STEAM_0:1:53097688> spawned vehicle models/nova/chair_office02.mdl
+[21:37:46] Leon Wakefield: /me stands at the gate, looking to the windows as if awaiting approval of sorts.
+[21:38:07] Leon Wakefield: /me turns his attention to the screen.
+[21:38:15] The Consul: /broadcast This is your Consul speaking.
+[21:38:55] The Consul: /broadcast I have seen it fit to inform you all about the city and its events.
+[21:39:01] The Consul: //gee thank you other consul
+[21:39:05] Leon Wakefield: // lmao
+[21:39:12] Emily Brown: // consul 2
+[21:39:22] The Consul: //which one is the impostor :flushed:
+[21:39:27] Emily Brown: // consul is sus
+[21:39:31] Sophie Clermont: /OOC sus
+[21:39:47] The Consul: /broadcast The most pressing matter of the escaped Xenobe, identifiable by its appearance.
+[21:40:23] Emily Brown: /pm consul you didnt forget about armband right
+[21:40:30] The Consul: /pm emily fug, hold on
+[21:40:33] The Consul: /broadcast It is a large, skin-colored worm, known to appear throughout the city.
+[21:40:49] The Consul: /broadcast It is considered a massive danger to the city. Any information leading to its capture will be rewarded handsomely.
+[21:41:39] The Consul: /broadcast In other news, the Human Earth Military, known as the Conscripts, have been selected to watch over our new radio array, placed within this precinct.
+[21:42:04] The Consul: /broadcast It will be located in an undisclosed location. We should all be proud to be providing such a great service to the city.
+[21:42:41] The Consul: /broadcast For the next several minutes, we will be offering free paper to write letters to me. I will answer them live, on the broadcast.
+[21:42:50] Emily Brown: /pm consul i also need to remake my cp afterwards when you have the time
+[21:42:50] The Consul: /broadcast Papers will be handed out in the Nexus lobby.
+[21:42:58] Client "DRD" connected.
+[21:43:21] The Consul<STEAM_0:1:53097688> changed their name to CCA.C17-GRID.i3.26594
+[21:43:38] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> changed their name to CCA.C17-QrM.49154
+[21:43:43] CCA.C17-QrM.49154: /chareditbodygroup qrm
+[21:44:13] CCA.C17-QrM.49154: /chargiveitem qrm notepad
+[21:44:17] CCA.C17-QrM.49154: /chargiveitem qrm notepad 10
+[21:44:33] Leon Wakefield: /me stands at the gate patiently, awaiting orders.
+[21:44:40] CCA.C17-QrM.49154: /me places a stack of notepads on the floor next to the letter deposit.
+[21:44:42] CCA.C17-QrM.49154: go ahead
+[21:45:11] Leon Wakefield: /me crouches to pick up a notepad. He doesn't really have any writing utensil, though.
+[21:45:30] Emily Brown: Hello.
+[21:45:34] Sophie Clermont: hello
+[21:45:46] CCA.C17-QrM.49154: /me places a ten-pack of ballpoint pens next to the stack of notepads. Bic brand, pre-war.
+[21:45:51] CCA.C17-QrM.49154: /toggleraise
+[21:45:51] CCA.C17-QrM.49154: /toggleraise
+[21:45:53] Leon Wakefield: [[ bic lets fucking gooooo
+[21:45:55] Emily Brown: Excuse me, officer.
+[21:45:58] CCA.C17-QrM.49154: Yes?
+[21:45:59] Sophie Clermont: /looc e
+[21:46:04] Leon Wakefield: /me again crouches to pick up the Bic Brand.
+[21:46:12] Emily Brown: I have a question, but it isnt regarding what the consul said.
+[21:46:17] CCA.C17-QrM.49154: What's that?
+[21:46:21] Sophie Clermont: /me takes a pen from the pack.
+[21:46:21] Client "DRD" spawned in server <STEAM_0:0:193599766> (took 203 seconds).
+[21:46:33] Leon Wakefield: /me backs out to begin writing on the notepad, albeit in a clumsy and slow manner thanks to the heavy-duty gloves.
+[21:46:38] Emily Brown: I seem to have lost my loyalist armband on the way here. Would it be possible for me to get a replacement? My name is Emily Brown, you should probably be able to find my records.
+[21:47:06] CCA.C17-QrM.49154: right. come to the counter
+[21:47:14] CCA.C17-QrM.49154: CID
+[21:47:32] Emily Brown: /me pulls her CID out of the jumpsuit pocket, sliding it through the window
+[21:47:43] Emily Brown: .// i cant find my actual cid
+[21:47:57] CCA.C17-QrM.49154<STEAM_0:1:53097688> changed their name to CCA.C17-GRID.i3.26594
+[21:48:05] Emily Brown: .// do you still have it from before?
+[21:48:19] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> changed their name to CCA.C17-QrM.49154
+[21:48:38] CCA.C17-QrM.49154: and apply
+[21:48:41] Emily Brown: /apply
+[21:48:59] CCA.C17-QrM.49154: /viewdata emily
+[21:49:27] CCA.C17-QrM.49154: wait here
+[21:49:48] CCA.C17-QrM.49154: /viewdata emily
+[21:50:12] CCA.C17-QrM.49154: /viewdata emily blue loyalist
+[21:50:18] CCA.C17-QrM.49154: /chargiveitem emily blue loyalist
+[21:50:26] CCA.C17-QrM.49154: /plysearch
+[21:50:42] Emily Brown: Thank you.
+[21:50:44] Emily Brown: #
+[21:50:58] Emily Brown: /me slips the armband onto her right arm
+[21:50:59] CCA.C17-QrM.49154: /y Any problems with the letters?
+[21:51:02] Client "McGregor" connected.
+[21:51:06] Leon Wakefield: I've submitted it.
+[21:51:10] CCA.C17-QrM.49154: great
+[21:51:13] Emily Brown: /me steps over to the notepad, picking one up on the way out
+[21:51:22] Leon Wakefield: I just need to request an apartment.
+[21:51:24] Dropped "DRD" from server<STEAM_0:0:193599766>
+[21:51:32] CCA.C17-QrM.49154: oh, i can do that
+[21:51:36] CCA.C17-QrM.49154: .//fuck me, brianrot
+[21:51:38] CCA.C17-QrM.49154: .//trh6y
+[21:52:20] Emily Brown: // children work camps exist right
+[21:52:22] Emily Brown: // if its beta
+[21:52:24] CCA.C17-QrM.49154: //yes
+[21:52:29] Emily Brown: // do we know about them
+[21:52:33] CCA.C17-QrM.49154: //we will not have child chars because that's asking for trouble
+[21:52:34] CCA.C17-QrM.49154: //yes
+[21:52:37] Emily Brown: // ok
+[21:53:04] CCA.C17-QrM.49154: apply
+[21:53:14] Leon Wakefield: 26577, Leon Wakefield.
+[21:53:28] CCA.C17-QrM.49154: /addtenant leon
+[21:53:35] CCA.C17-QrM.49154: /me hands leon a key.
+[21:53:38] CCA.C17-QrM.49154: /viewdata leon
+[21:53:47] Client "SonNy." connected.
+[21:54:02] CCA.C17-QrM.49154: .//that apartment system was written by yours truly
+[21:54:05] CCA.C17-QrM.49154: .//i fucking love it
+[21:54:06] Leon Wakefield: /me gently takes the key. "I assume to the right of you is the apartment?"
+[21:54:12] CCA.C17-QrM.49154: yep
+[21:54:13] CCA.C17-QrM.49154: 1A
+[21:54:17] CCA.C17-QrM.49154: enjoy
+[21:54:20] Leon Wakefield: Thank you, officer.
+[21:54:28] Leon Wakefield: /me plugs the key and walks inside.
+[21:54:30] CCA.C17-QrM.49154: /viewdata leon
+[21:54:32] Leon Wakefield: [[ oops void
+[21:54:38] Client "McGregor" spawned in server <STEAM_0:0:108251287> (took 216 seconds).
+[21:54:42] CCA.C17-QrM.49154: //i know that name
+[21:54:45] CCA.C17-QrM.49154: //why do i know that name
+[21:54:51] CCA.C17-QrM.49154: //i don't like that i know that name
+[21:56:17] Emily Brown: // connor mcgregor
+[21:56:19] Emily Brown: // irish boxer
+[21:56:23] Emily Brown: // mma 
+[21:56:32] Emily Brown: // maybe
+[21:56:37] McGregor<STEAM_0:0:108251287> changed their name to Elias Bartholomew
+[21:56:47] Emily Brown: // why cant i scroll down on the notepad?
+[21:56:53] Elias Bartholomew: /content
+[21:56:55] CCA.C17-QrM.49154: //Hey, welcome to the server!
+[21:57:03] CCA.C17-QrM.49154: //has it alreay been written on
+[21:57:22] Emily Brown: // Yes I pressed save and i cant scroll down on the finished page
+[21:57:29] Emily Brown: // its like greyed out
+[21:57:31] CCA.C17-QrM.49154: //hit "Edit", not view
+[21:57:36] Emily Brown: // ooooh
+[21:57:45] Dropped "Elias Bartholomew" from server<STEAM_0:0:108251287>
+[21:57:46] CCA.C17-QrM.49154: //that's a bug i need to fix
+[21:57:47] Emily Brown: // how do i submit it?
+[21:57:54] Leon Wakefield: // rip
+[21:58:06] Emily Brown: // he might be getting content
+[21:58:06] CCA.C17-QrM.49154: //hit save bud
+[21:58:13] CCA.C17-QrM.49154: //that was my first guess
+[21:58:16] CCA.C17-QrM.49154: //and hope
+[21:58:26] Emily Brown: // i did hit save 
+[21:58:29] Emily Brown: // dont i have to give it to you
+[21:58:36] CCA.C17-QrM.49154: //put it in the box for the letters
+[21:58:47] CCA.C17-QrM.49154<STEAM_0:1:53097688> changed their name to The Consul
+[21:58:48] Emily Brown: // oh yes i found it
+[21:59:03] The Consul: /adminspawnmenu Ladies and gentlemen, this is your consul speaking.
+[21:59:09] The Consul: /broadcast Ladies and gentlemen, this is your consul speaking.
+[21:59:33] The Consul: /broadcast I have received several letters. Allow me to read them and respond.
+[21:59:58] Client "DRD" connected.
+[22:00:49] The Consul: /broadcast Dear Consul, I am writing this letter to you to ask about my younger sister, who is currently in one of the Union's
+[22:01:02] The Consul: //ah cool
+[22:01:13] The Consul: /broadcast Dear Consul, I am writing this letter to you to ask about my younger sister, who is currently in one of the Union's
+[22:01:16] The Consul: //cool
+[22:01:25] The Consul: /broadcast Dear Consul, I am writing this letter to you to ask about my younger sister, who is currently in one of the Union's
+[22:01:27] The Consul: /23trshgy
+[22:01:37] Leon Wakefield: // very cool consul
+[22:02:13] The Consul: /broadcast Dear Consul, I am writing this letter to you to ask about my younger sister, who is currently in one of the Union's labour facilities."
+[22:02:50] The Consul: /broadcast?"I am concerned as I have not heard from her in a long time. How are the conditions in these facilities?
+[22:03:03] The Consul: //consul sus
+[22:03:21] Client "McGregor" connected.
+[22:03:32] The Consul: /broadcast The letter proceeds emotionally, concerned for this individual's sister.
+[22:03:48] Client "DRD" spawned in server <STEAM_0:0:193599766> (took 230 seconds).
+[22:04:11] Leon Wakefield: /me opens his suitcase and pops open a regular can as he listens to the Consul.
+[22:04:19] The Consul: /broadcast Rest assured, your sister is safe. Labour facility is a very strong word for what we put the children in."
+[22:04:44] Client "McGregor" spawned in server <STEAM_0:0:108251287> (took 83 seconds).
+[22:04:49] The Consul: /broadcast The term I would prefer to use is age-level inhabitance.
+[22:05:08] The Consul: /broadcast Are you familiar with the Russian Badger scouts
+[22:05:11] The Consul: //scouts?*
+[22:05:12] The Consul: //brain rot
+[22:05:26] The Consul: /broadcast In America they were called...Eagle Scouts, or boy scouts.
+[22:06:23] The Consul: /broadcast The boys of the family would be taken to a camp to learn about the value of hard work and how to do basic life tasks."
+[22:06:32] Sophie Clermont: /OOC back
+[22:06:41] McGregor<STEAM_0:0:108251287> changed their name to Elias Bartholomew
+[22:06:46] The Consul: /broadcast This involved some labor. Starting fires, tying knots, whittling, and the like.
+[22:07:42] The Consul: /broadcast These Eagle Scouts, Boy Scouts, Badger Scouts... they are not dissimilar to where we take children from our time.
+[22:07:55] The Consul: /broadcast The only difference is the environment.
+[22:08:11] The Consul: /broadcast Instead of taking them to a forest, we take them to an industrial area.
+[22:08:38] Elias Bartholomew: /yell Hello? Anyone there?
+[22:08:51] Dropped "DRD" from server<STEAM_0:0:193599766>
+[22:09:18] The Consul: /broadcast The children of our day are no different than us now. We give our contribution to the world and society with labor." 
+[22:09:55] The Consul: /broadcast The children of our day are no different, but in a separate environment, in a place where evil men and women cannot taint their minds with the seeds of dissent.
+[22:10:30] The Consul: /broadcast Again, your sister is safe. She is living alongside children her age, learning and paying her debt to society along side the rest of humanity.
+[22:10:33] The Consul: /broadcast Thank you.
+[22:10:46] The Consul: /broadcast I must now break for water. When I return, we will read the other letter.
+[22:10:54] The Consul: //i really like giving consul speeches
+[22:11:01] The Consul<STEAM_0:1:53097688> changed their name to CCA.C17-GRID.i3.26594
+[22:11:18] CCA.C17-GRID.i3.26594: .//sorry about the wait
+[22:11:18] Elias Bartholomew: About time...
+[22:11:25] Elias Bartholomew: /looc no problem
+[22:11:29] CCA.C17-GRID.i3.26594: Relocation coupon. Watch the mouth.
+[22:11:40] Elias Bartholomew: /me dispenes their coupon.
+[22:11:48] Elias Bartholomew: /looc *dispenses
+[22:12:03] CCA.C17-GRID.i3.26594: Alright.
+[22:12:12] CCA.C17-GRID.i3.26594: Date of birth, sex, and do you have any medical or mental conditions?
+[22:12:19] CCA.C17-GRID.i3.26594: .//IC year is 2006, BMI was 2003.
+[22:12:25] Leon Wakefield: /me finishes his can, mumbling under his breath "May God have mercy on that child..." He gets up and puts his suit on again.
+[22:13:02] Elias Bartholomew: 1974 February Fifteenth, Male. No medical or mental issues.
+[22:13:16] CCA.C17-GRID.i3.26594: Alright.
+[22:13:18] CCA.C17-GRID.i3.26594: /me takes out their datapad and types a couple things in.
+[22:13:22] CCA.C17-GRID.i3.26594: /viewdata elias
+[22:13:56] Elias Bartholomew: /me looks around the gloomy metro station, glancing back towards the unit.
+[22:13:58] CCA.C17-GRID.i3.26594: And do you know your blood type?
+[22:14:31] Elias Bartholomew: Eh.. I believe I'm AB+.
+[22:14:42] CCA.C17-GRID.i3.26594: I'll put Unsure, just in case.
+[22:14:47] CCA.C17-GRID.i3.26594: Be bad to get that wrong
+[22:14:49] CCA.C17-GRID.i3.26594: /adminspawnmenu
+[22:14:51] Elias Bartholomew: /ne nods.
+[22:14:53] CCA.C17-GRID.i3.26594: /viewdata elias
+[22:14:54] Elias Bartholomew: /me nods.
+[22:15:27] CCA.C17-GRID.i3.26594: /me places the CID on the counter, puts his hand over it, and slides it forward. He does not raise his hand to let the citizen grab it, though.
+[22:15:40] CCA.C17-GRID.i3.26594: Stay out of trouble. You're in the same precinct as the Consul.
+[22:15:45] CCA.C17-GRID.i3.26594: You don't want to disappoint him.
+[22:16:22] Elias Bartholomew: /me nods slowly whilst raising their right hand, replying "Yeah, for sure, I don't like getting my ass beat anyways."
+[22:16:45] Elias Bartholomew: /me rests their right hand on the little ledge on the counter, awaiting to receive his card.
+[22:16:51] CCA.C17-GRID.i3.26594: /me lifts his hand.
+[22:17:10] Elias Bartholomew: /me swipes the card from the table, examining it and looking back up towards the unit.
+[22:17:27] Elias Bartholomew: Alright. Uh- thanks for the help.
+[22:17:36] CCA.C17-GRID.i3.26594: There's a lounge and the exit to your left. You can go into the lounge if you want, but you don't have to.
+[22:17:59] Elias Bartholomew: /me nods.
+[22:18:07] CCA.C17-GRID.i3.26594: Filters are sold in the plaza, you can donate blood at specific blood donation appliances in major buildings.
+[22:18:16] CCA.C17-GRID.i3.26594: There are air vents around the city that pump out fresh Oh-Two.
+[22:18:38] CCA.C17-GRID.i3.26594: They're of Combine design, you'll know them when you see them.
+[22:18:44] Elias Bartholomew: Ah alright, sounds luxurious.
+[22:18:55] CCA.C17-GRID.i3.26594: you can go
+[22:19:01] Elias Bartholomew: /me nods before making his way.
+[22:19:14] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> changed their name to The Consul
+[22:19:30] The Consul: /broadcast Attention, citizens. This is your Consul.
+[22:20:13] The Consul: /broadcast This next letter is from another concerned citizen.
+[22:20:31] The Consul: /broadcast "Consul, Why does this precinct seem so empty?"
+[22:20:55] The Consul: /broadcast "I have seen very few people here. I believe its both a blessing and a curse, but it's very curious." 
+[22:21:08] The Consul: /broadcast "Would there be more people on their way to this city?"
+[22:21:20] The Consul: /broadcast "Thank you for your time to read this."
+[22:21:39] The Consul: /broadcast The most direct answer I have for you is this:
+[22:21:53] The Consul: /broadcast City 17 is very large, and so is the Combine's presence.
+[22:22:36] The Consul: /broadcast With the number of people tragically lost in the alien attacks wrought by mad scientists, the number of people on Earth is significantly lower than in 2003.
+[22:23:02] The Consul: /broadcast As a result, in being spread out to these safe havens our Benefactors have provided for us, we have, to some extent, become more distant.
+[22:23:31] The Consul: /broadcast Even within City 17, with its massive size, citizens are, at some times, spread thin.
+[22:24:20] The Consul: /broadcast The reason this precinct seems so empty is because, yes, it is not as populous as some other cities you may have the privilege of coming to.
+[22:25:38] The Consul: /broadcast And in addition to this, City 17 is the planet's leading industrial hubs. Much of the population is working at any given time.
+[22:25:55] The Consul: /broadcast Our title of industrial hub did not come without work.
+[22:26:05] Sophie Clermont: /charfallover
+[22:26:06] The Consul: /broadcast To answer your second question, yes, we plan on bringing more citizens in.
+[22:26:40] The Consul: /broadcast Still, there are many cities with many important jobs. Different, although equally as important as City 17's job.
+[22:26:52] The Consul: /broadcast As resources are reallocated, more citizens will come.
+[22:27:12] The Consul: /broadcast In short, yes. We would like to bring many new citizens into the precinct.
+[22:27:14] Emily Brown: // i will be back soon
+[22:27:16] Dropped "Emily Brown" from server<STEAM_0:0:38537787>
+[22:27:20] The Consul: //alright, thanks for-
+[22:27:23] The Consul: //..being on
+[22:27:53] The Consul: /broadcast For now, busy yourself with your work. The Combine is your friend, as are your fellow citizens
+[22:27:57] The Consul: /broadcast Do not forget this.
+[22:28:06] The Consul: /broadcast That concludes our letters for this broadcast.
+[22:28:19] The Consul: /broadcast Thank you for writing.
+[22:28:27] The Consul: /broadcast Have a productive day.
+[22:28:41] The Consul: //gonna try osmethin out
+[22:28:48] The Consul: //to make it seem less barren
+[22:28:49] Client "DRD" connected.
+[22:30:28] Sophie Clermont to admins: help a chess table teleported me to the 7th dimension
+[22:32:05] The Consul: /pm sophie be right htere
+[22:32:09] Leon Wakefield: Hmm..
+[22:32:17] The Consul<STEAM_0:1:53097688> changed their name to CCA.C17-GRID.i3.26594
+[22:32:24] Leon Wakefield: /me looks around before hopping over the counter.
+[22:32:27] CCA.C17-GRID.i3.26594 brought Sophie Clermont
+[22:32:27] CCA.C17-GRID.i3.26594: !bring sophie
+[22:32:30] Sophie Clermont: /reply ty
+[22:32:36] CCA.C17-GRID.i3.26594: /pm sophie ypeyep
+[22:32:45] CCA.C17-GRID.i3.26594: //but yeah, McGregor, welcome, if you have any questions, feel free to ask
+[22:32:55] CCA.C17-GRID.i3.26594: //i will be hre doing CP stuff and administrative stuff
+[22:33:29] Elias Bartholomew: // cool im just chilling
+[22:34:38] Leon Wakefield: /me looks around the massive piles of garbage laid infront of him. He'd be ever so disgusted by the feint traces of the smell of trash wafting through his mask. He'd carry onward eventually.
+[22:35:00] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> changed their name to CAC.C17-CRM.28454
+[22:35:02] CAC.C17-CRM.28454: //hmm today i will stare
+[22:35:17] CAC.C17-CRM.28454 suicided!
+[22:35:17] CAC.C17-CRM.28454 slayed Themself
+[22:35:17] CAC.C17-CRM.28454: !slay ^
+[22:35:20] Leon Wakefield: // oh dear lord
+[22:35:35] Leon Wakefield: /content
+[22:35:48] CAC.C17-CRM.28454: /toggleraise
+[22:35:50] CAC.C17-CRM.28454: /toggleraise
+[22:35:53] CAC.C17-CRM.28454: /toggleraise
+[22:36:33] CAC.C17-CRM.28454: /me stares at the man, making breathing noises that sound more similar to the sound of a broken A/C unit.
+[22:36:37] Sophie Clermont: /me looks up at the cremator towering before them.
+[22:36:41] CAC.C17-CRM.28454: .//woman actually*
+[22:36:48] Sophie Clermont: /looc smh its 2021
+[22:37:12] Elias Bartholomew: /me leans against the cold wall looking at the freakish being.
+[22:37:25] Elias Bartholomew: How terrifying is that...
+[22:37:34] Sophie Clermont: /me looks at the man then back at the cremator.
+[22:37:50] Sophie Clermont: ok then
+[22:38:15] CAC.C17-CRM.28454: //hm
+[22:38:21] Elias Bartholomew: Freaky creatures those things are... Never get used to them, even in my old precinct.
+[22:38:24] Client "DRD" connected.
+[22:38:44] Sophie Clermont: yeah I guess, not sure what it's doing though.
+[22:39:08] Leon Wakefield: /me hops back over.
+[22:39:20] Elias Bartholomew: Yeah.. These streets are barren, even in these times there's no corpses to burn.
+[22:39:24] CAC.C17-CRM.28454 extinguished all 0 fires.
+[22:39:32] CAC.C17-CRM.28454 extinguished all 0 fires.
+[22:39:33] CAC.C17-CRM.28454: /toggleraise
+[22:39:33] Sophie Clermont: you get used to it.
+[22:39:41] Elias Bartholomew: Unfortunately..
+[22:39:54] Elias Bartholomew: /me looks towards the cremator, backing up out of it's way.
+[22:40:16] Sophie Clermont: freakish and weird.
+[22:40:23] Elias Bartholomew: One thing I can't get used to is those things. So unpredictable.
+[22:40:42] Elias Bartholomew: I never seen them kill a living person but I ain't going to be the one to test that.
+[22:41:12] CAC.C17-CRM.28454<STEAM_0:1:53097688> changed their name to CCA.C17-GRID.i3.26594
+[22:41:23] Leon Wakefield: Hm?
+[22:41:44] Client "DRD" spawned in server <STEAM_0:0:193599766> (took 200 seconds).
+[22:41:45] Sophie Clermont: I mean even if they're just glorified janitors, I still kinda fear them more then the cps.
+[22:42:12] CCA.C17-GRID.i3.26594: //2 new players, today is a good day
+[22:42:19] Sophie Clermont: /OOC indeed
+[22:42:48] CCA.C17-GRID.i3.26594: /y what the
+[22:42:49] Elias Bartholomew: I'll have to agree.
+[22:42:54] Leon Wakefield: Err..
+[22:43:16] Elias Bartholomew: // did this server go by another name before? cuz i think i played before but idk
+[22:43:28] CCA.C17-GRID.i3.26594: //our SWRP went by Project TIE, but otherwise, no
+[22:43:38] CCA.C17-GRID.i3.26594: //we've gone through different maps
+[22:43:41] CCA.C17-GRID.i3.26594: //but not names
+[22:44:27] Elias Bartholomew: // bruh i know you
+[22:44:36] CCA.C17-GRID.i3.26594: //yeah, your name sounded familiar to me too
+[22:44:58] Elias Bartholomew: // yeah i played tie
+[22:45:22] CCA.C17-GRID.i3.26594: //YES, it's coming back to me
+[22:45:25] CCA.C17-GRID.i3.26594: //HOLY SHIT
+[22:45:27] CCA.C17-GRID.i3.26594: //YES
+[22:45:28] Elias Bartholomew: // i was in the navy and all that jazz, i dont remember it all
+[22:45:30] Elias Bartholomew: // LOL
+[22:45:39] CCA.C17-GRID.i3.26594: //you were the navy guy who was really good at RP
+[22:45:48] CCA.C17-GRID.i3.26594: //you wrote us that guide
+[22:45:51] Elias Bartholomew: // yeah i had a job back then so i was barely able to play
+[22:45:58] CCA.C17-GRID.i3.26594: //holy shit, welcome back
+[22:46:05] CCA.C17-GRID.i3.26594: //it was killing me, i knew i recognized that username
+[22:46:27] Elias Bartholomew: // doin half life now huh
+[22:46:36] CCA.C17-GRID.i3.26594: //we're doing both, we alternate
+[22:46:48] Dropped "DRD" from server<STEAM_0:0:193599766>
+[22:46:52] Elias Bartholomew: Looks like the CPs finally woke up.
+[22:46:59] CCA.C17-GRID.i3.26594: //half-life 2 is the best way of growth, though. way easier to make players there when there's like, 2 other active servers, aurora and neb
+[22:47:04] CCA.C17-GRID.i3.26594: //at least on helix
+[22:47:33] Leon Wakefield: // theres also reunited kind of
+[22:47:36] Sophie Clermont: you barely see any except for maybe a few out on patrol here and there.
+[22:47:50] Elias Bartholomew: I would expect so with this kind of population.
+[22:48:09] CCA.C17-GRID.i3.26594: //yeah, but neb and aurora tend to fuck the most
+[22:48:13] Elias Bartholomew: But I bet one day or another there'll be some sort of incident and next thing you know we're fighting for air.
+[22:48:45] Elias Bartholomew: // i tried aurora and its just a big friend circle, and i get bad ping on neb
+[22:49:19] CCA.C17-GRID.i3.26594: //yeah. i haven't really played on either, so i can't really say good or bad things about either. I knew Aurora's old dev, though. Liquid. Cool guy.
+[22:49:58] CCA.C17-GRID.i3.26594: //very talented too
+[22:52:20] Elias Bartholomew: /me equips a new gas filter, inhaling.
+[22:53:05] CCA.C17-GRID.i3.26594: //but yeah, we've done a lot of growing since you were last on. other than the new name, I've gotten more familiar with lua in the context of garry's mod, I've gotten better with writing guides, I've been doing some graphic design for the server, it's been
+[22:53:09] CCA.C17-GRID.i3.26594: //good, developmentwise.
+[22:53:13] CCA.C17-GRID.i3.26594: //schoolwork aside
+[22:53:21] CCA.C17-GRID.i3.26594: //Purdue university go brrr
+[22:54:17] CCA.C17-GRID.i3.26594: You waiting on someone?
+[22:54:17] Elias Bartholomew: // thats great, hardest part is actually getting some players to notice the server
+[22:54:28] Leon Wakefield: Oh, no, I'm just...
+[22:54:32] Leon Wakefield: /me blanks out for a moment.
+[22:54:37] CCA.C17-GRID.i3.26594: //yep! it's weird, the playerbase is cyclical, i swear. We'll spike, get a new "regular" for like, 2-3 days.
+[22:54:49] CCA.C17-GRID.i3.26594: //Then we'll go back down to our norm of me, the staff, and a fcouple other people
+[22:54:51] CCA.C17-GRID.i3.26594: //it's crazy
+[22:54:55] Leon Wakefield: I don't know.
+[22:55:03] CCA.C17-GRID.i3.26594: alright
+[22:55:05] CCA.C17-GRID.i3.26594: You good?
+[22:55:20] Leon Wakefield: Yeah, I am. Would there be a work cycle of any kind soon?
+[22:55:51] CCA.C17-GRID.i3.26594: I can check the schedule, standby.
+[22:56:01] CCA.C17-GRID.i3.26594: /r 26594, requesting the time of the next work cycle.
+[22:56:11] CCA.C17-GRID.i3.26594: /chargiveitem grid.i3 hybrid radio
+[22:56:40] CCA.C17-GRID.i3.26594: /r 26594, requesting the time of the next work cycle.
+[22:56:49] CCA.C17-GRID.i3.26594: /me taps his foot, waiting.
+[22:57:26] Elias Bartholomew: // yeah sounds tough
+[22:57:31] CCA.C17-GRID.i3.26594: /r Alright, thanks.
+[22:57:40] CCA.C17-GRID.i3.26594: //It's not great, i'll admit. I'm trying to stay hopeful.
+[22:57:52] CCA.C17-GRID.i3.26594: //i worry the map is a problem, just because it's an unfamiliar name, despite being i17.
+[22:58:01] CCA.C17-GRID.i3.26594: //When we were on i17 v1, we peaked at like, 17 once
+[22:58:08] CCA.C17-GRID.i3.26594: //we were 14-17 for like 3 days
+[22:58:27] CCA.C17-GRID.i3.26594: Unsure, there's not one scheduled. One may come out soon, but so far, that's all I know.
+[22:58:36] Leon Wakefield: Alright..
+[22:59:52] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> changed their name to The Consul
+[23:00:10] The Consul: /broadcast "Attention. Working class citizens report to Warehouse 3 immediately."
+[23:00:15] Leon Wakefield: Oh.
+[23:00:18] Leon Wakefield: Timing...
+[23:00:18] Elias Bartholomew: // i could maybe see that being a problem but all i read was half life rp and joined
+[23:00:21] The Consul<STEAM_0:1:53097688> changed their name to CCA.C17-GRID.i3.26594
+[23:00:31] CCA.C17-GRID.i3.26594: //fair
+[23:00:42] CCA.C17-GRID.i3.26594: //it's a weird problem, to say the least.
+[23:00:51] CCA.C17-GRID.i3.26594: //i think it's pretty obvious that we're just not keeping them, somehow.
+[23:00:54] Elias Bartholomew: // the biggest issue which may sound dumb but its true, is the fact that people wont join cuz low players
+[23:01:00] CCA.C17-GRID.i3.26594: //no, you're spot on
+[23:01:09] CCA.C17-GRID.i3.26594: //low players means little roleplay, little roleplay means low players
+[23:01:20] CCA.C17-GRID.i3.26594: /chargiveitem grid.i3 zip 4
+[23:01:26] Elias Bartholomew: // and its a deep hole to get out of for new developers and everyone really, which is very unfortunate
+[23:01:41] CCA.C17-GRID.i3.26594: /y hy
+[23:01:43] CCA.C17-GRID.i3.26594: /y hey
+[23:01:45] CCA.C17-GRID.i3.26594: /y get back here
+[23:02:05] CCA.C17-GRID.i3.26594: /r 26594, waiting on one more citizens.
+[23:02:19] CCA.C17-GRID.i3.26594: //yeah. my biggest concern is that people say they like the server, and then they just kinda... don't come back
+[23:02:30] CCA.C17-GRID.i3.26594: //whether it's that, or we're lacking something that makes players stay
+[23:02:41] CCA.C17-GRID.i3.26594: //or a bit of both
+[23:03:09] CCA.C17-GRID.i3.26594: .//void the jump, my bad
+[23:03:15] CCA.C17-GRID.i3.26594: wait here. don't move
+[23:03:34] Elias Bartholomew: /looc didnt read lmfao i thought he said follow
+[23:03:38] Leon Wakefield: [[ lol
+[23:03:38] CCA.C17-GRID.i3.26594: /toggleraise
+[23:03:39] CCA.C17-GRID.i3.26594: /toggleraise
+[23:03:48] CCA.C17-GRID.i3.26594: /toggleraise
+[23:03:51] CCA.C17-GRID.i3.26594: /toggleraise
+[23:03:57] CCA.C17-GRID.i3.26594: /toggleraise
+[23:03:58] CCA.C17-GRID.i3.26594: /toggleraise
+[23:04:20] Elias Bartholomew: // comin from a player's point of view, usually if i see a low number i dont click on the server, have you tried some sort of advertising?
+[23:04:42] CCA.C17-GRID.i3.26594: //i've put out stuff in the garry's mod discord, but i kinda burnt my bridge with HL2RP Hub
+[23:04:54] CCA.C17-GRID.i3.26594: //i've got personal issues with the server as a whole
+[23:05:02] Leon Wakefield: // oh lol i was about to recommend doing that
+[23:05:08] CCA.C17-GRID.i3.26594: //yeah...
+[23:05:09] Elias Bartholomew: // damn that sucks, i was too
+[23:05:10] Leon Wakefield: // i dont know much about the hub i just kind of scour for servers there lmao
+[23:05:30] CCA.C17-GRID.i3.26594: //i won't preach to you about why i'm not a fan, but myself and aspect don't get along
+[23:05:38] CCA.C17-GRID.i3.26594: //i'll leave it at that
+[23:05:41] CCA.C17-GRID.i3.26594: //but yeah
+[23:05:44] CCA.C17-GRID.i3.26594: //bridge burnt
+[23:05:55] CCA.C17-GRID.i3.26594: .//you there bro
+[23:06:00] CCA.C17-GRID.i3.26594: .//oh shit oyu are
+[23:06:05] Leon Wakefield: // rip
+[23:06:06] Sophie Clermont: /looc I am now, scared the hell outa me
+[23:06:09] CCA.C17-GRID.i3.26594: .//LMAO
+[23:06:15] CCA.C17-GRID.i3.26594: .//work cycle
+[23:06:38] CCA.C17-GRID.i3.26594: //if i find another place to advertise, though, I'd happily do that
+[23:07:03] CCA.C17-GRID.i3.26594: //i remember for the SWRP we moved to vader's ship for storyline reassons
+[23:07:05] CCA.C17-GRID.i3.26594: //reasons*
+[23:07:52] CCA.C17-GRID.i3.26594: //so, boom. free 501st. it has no real effect, but it helps bring players. maybe not the best players, but it'll get us up long enough to be able to attract a good playerbase
+[23:08:26] CCA.C17-GRID.i3.26594: alright, everyone line up on...
+[23:08:29] CCA.C17-GRID.i3.26594: this wall here
+[23:09:17] CCA.C17-GRID.i3.26594: face the wall
+[23:09:35] Elias Bartholomew: /me turns towards the wall.
+[23:09:44] Leon Wakefield: [[ back, sorry
+[23:09:47] CCA.C17-GRID.i3.26594: .//all good
+[23:09:58] CCA.C17-GRID.i3.26594: /me would proceed to tie the individual. Would they resist?
+[23:10:00] CCA.C17-GRID.i3.26594: .//leon
+[23:10:05] Leon Wakefield: /me doesn't resist.
+[23:10:12] Sophie Clermont: /looc srry back
+[23:10:25] CCA.C17-GRID.i3.26594: .//no problem, wb
+[23:10:28] CCA.C17-GRID.i3.26594: /me would proceed to tie the individual. Would they resist?
+[23:10:29] CCA.C17-GRID.i3.26594: .//sophie
+[23:10:38] Sophie Clermont: /me woudn't.
+[23:11:12] CCA.C17-GRID.i3.26594: /me doesn't resist being tied, searched or anything. They are completely compliant given that the situation does not escalate.
+[23:11:14] CCA.C17-GRID.i3.26594: .//wait wrong bind
+[23:11:15] CCA.C17-GRID.i3.26594: /me would proceed to tie the individual. Would they resist?
+[23:11:18] CCA.C17-GRID.i3.26594: .//last dude here
+[23:11:30] Elias Bartholomew: /looc /me turns around and roundhouse kicks the cp
+[23:11:33] Elias Bartholomew: /looc jk lol
+[23:11:37] Elias Bartholomew: /me does not resist.
+[23:11:43] CCA.C17-GRID.i3.26594: .//you laugh but someone tried to do a, quote, "Japaense Frontflip"
+[23:11:49] CCA.C17-GRID.i3.26594: .//Japanese&
+[23:11:52] Elias Bartholomew: /looc wtf lmao
+[23:12:19] CCA.C17-GRID.i3.26594: .//i made them roll with a, like, -75 or -60 or some shit modifier because
+[23:12:22] CCA.C17-GRID.i3.26594: .//yeah no
+[23:12:30] CCA.C17-GRID.i3.26594: .//nobody's doing a frontflip in a fucking mugging
+[23:12:37] Sophie Clermont: /looc lol
+[23:12:42] Elias Bartholomew: /looc man was built different
+[23:12:44] CCA.C17-GRID.i3.26594: /me would pat Leon down.
+[23:12:48] CCA.C17-GRID.i3.26594: .//he do be
+[23:12:48] CCA.C17-GRID.i3.26594: /plysearch
+[23:12:54] CCA.C17-GRID.i3.26594: hm
+[23:13:04] CCA.C17-GRID.i3.26594: You've got resin. You can trade that in for tokens, if you like.
+[23:13:09] CCA.C17-GRID.i3.26594: Not illegal to have or keep, though.
+[23:13:10] CCA.C17-GRID.i3.26594: /plysearch
+[23:13:17] CCA.C17-GRID.i3.26594: /plysearch
+[23:13:24] CCA.C17-GRID.i3.26594: You too
+[23:14:04] Elias Bartholomew: /me exhales, replying "Yeah I just found it on the ground, was tossing it around."
+[23:14:23] Client "DRD" connected.
+[23:14:57] CCA.C17-GRID.i3.26594: alright
+[23:15:06] CCA.C17-GRID.i3.26594: you all will put all of your storage objects in a bin
+[23:15:21] CCA.C17-GRID.i3.26594: .//the crafting plugin is a little fucky, storage items breka if you craft with items inside of them
+[23:15:55] CCA.C17-GRID.i3.26594: Face me
+[23:16:16] Elias Bartholomew: /me turns around.
+[23:16:30] Leon Wakefield: /me slowly turns around, looking toward his cohorts for a moment before fully facing the officer.
+[23:16:38] CCA.C17-GRID.i3.26594: You, pick a color.
+[23:16:54] Leon Wakefield: Er, blue.
+[23:17:01] CCA.C17-GRID.i3.26594: you, don't pick blue
+[23:17:06] Sophie Clermont: Orange
+[23:17:06] CCA.C17-GRID.i3.26594: pick another color
+[23:17:10] Client "DRD" spawned in server <STEAM_0:0:193599766> (took 167 seconds).
+[23:17:11] CCA.C17-GRID.i3.26594: Got it, yellow is close enough
+[23:17:14] CCA.C17-GRID.i3.26594: You get red
+[23:17:19] CCA.C17-GRID.i3.26594: turn around again
+[23:17:23] CCA.C17-GRID.i3.26594: /me takes out their datapad and types a couple things in.
+[23:17:24] CCA.C17-GRID.i3.26594: /me would take out his combat knife and cut the individual's ties.
+[23:17:26] CCA.C17-GRID.i3.26594: .//wrong bind
+[23:17:33] CCA.C17-GRID.i3.26594: /me would take out his combat knife and cut the individual's ties.
+[23:17:40] CCA.C17-GRID.i3.26594: /me would take out his combat knife and cut the individual's ties.
+[23:17:52] CCA.C17-GRID.i3.26594: wait here, you can turn around and talk, and move
+[23:18:03] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_desk001b.mdl
+[23:18:05] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_desk001a.mdl
+[23:18:09] Elias Bartholomew: /me clears his throat before promptly turning around and leaning against the hard wall.
+[23:18:41] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props/cs_assault/handtruck.mdl
+[23:18:52] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_desk001b.mdl
+[23:18:54] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_desk001a.mdl
+[23:19:17] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_junk/plasticcrate01a.mdl
+[23:19:25] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_junk/plasticcrate01a.mdl
+[23:19:33] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_junk/plasticcrate01a.mdl
+[23:19:52] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_storagecloset001a.mdl
+[23:20:06] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_wasteland/kitchen_shelf001a.mdl
+[23:20:22] CCA.C17-GRID.i3.26594: come in, and put your storage objects in your respective bins
+[23:20:30] CCA.C17-GRID.i3.26594: //i have a reskin so i'm praying they're not all the same color
+[23:20:32] CCA.C17-GRID.i3.26594: //if they are let me knoew
+[23:20:37] Elias Bartholomew: /me steps forward into the warehouse.
+[23:21:00] Elias Bartholomew: /me places their chunk of resin into the red container.
+[23:21:08] Leon Wakefield: [[ theyre all the same color to me
+[23:21:13] Sophie Clermont: /looc same for me
+[23:21:33] CCA.C17-GRID.i3.26594: /y If you need a bigger bin, tell me.
+[23:21:36] Elias Bartholomew: /looc they are all different colors for me B)
+[23:21:39] Sophie Clermont: /me places the few items on them into the container.
+[23:21:47] Leon Wakefield: [[ 20/20 vision
+[23:21:50] CCA.C17-GRID.i3.26594: /plysearch
+[23:21:52] CCA.C17-GRID.i3.26594: /plysearch
+[23:21:52] Elias Bartholomew: /me turns towards the CP Unit after doing so.
+[23:21:55] Elias Bartholomew: Alright.
+[23:22:02] Leon Wakefield: /me plops down a small kit into the bin.
+[23:22:12] Dropped "DRD" from server<STEAM_0:0:193599766>
+[23:22:20] CCA.C17-GRID.i3.26594: /y That includes your suitcases! Put them in the bin!
+[23:22:21] CCA.C17-GRID.i3.26594: /plysearch
+[23:22:23] CCA.C17-GRID.i3.26594: /plysearch
+[23:22:25] CCA.C17-GRID.i3.26594: /plysearch
+[23:22:26] Elias Bartholomew: Right..
+[23:22:38] Elias Bartholomew: /me lazily throws everything into the red container.
+[23:23:03] CCA.C17-GRID.i3.26594: //Sorry, it's Alt + Rightmouse
+[23:23:16] CCA.C17-GRID.i3.26594: //or, it's just right mouse
+[23:23:20] CCA.C17-GRID.i3.26594: //i have brain rot
+[23:23:32] Elias Bartholomew: /looc hl2rp tetris edition
+[23:23:34] CCA.C17-GRID.i3.26594: /chargiveitem grid "citizen filter" 6
+[23:23:37] CCA.C17-GRID.i3.26594: /y alright
+[23:23:44] CCA.C17-GRID.i3.26594: /y Line up at that table, let me tell you what you'll be doing
+[23:24:10] CCA.C17-GRID.i3.26594: /y Alright, you have two tasks!
+[23:24:28] CCA.C17-GRID.i3.26594 blinded Everyone by amount 255
+[23:24:31] CCA.C17-GRID.i3.26594 blinded Everyone by amount 255
+[23:24:33] CCA.C17-GRID.i3.26594 unblinded Themself
+[23:24:37] Leon Wakefield: [[ why did everything just go black
+[23:24:37] Elias Bartholomew: /looc who turned out the lights
+[23:24:43] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned sent ix_station_forge
+[23:24:45] Leon Wakefield: [[ aaaaaa
+[23:24:55] CCA.C17-GRID.i3.26594 unblinded Everyone
+[23:25:10] CCA.C17-GRID.i3.26594: /y You may choose which one, and you may change your task at any time without asking.
+[23:25:17] CCA.C17-GRID.i3.26594: /y You may refine metal.
+[23:25:45] CCA.C17-GRID.i3.26594: /y Refining metal, you will be required to take charred metal from storage, and refining it into good metal.
+[23:26:13] CCA.C17-GRID.i3.26594: /y If you choose this task, you will take a pair of blacksmith tongs from storage, some charred metal, and come here.
+[23:26:22] CCA.C17-GRID.i3.26594: /y c'mon
+[23:26:51] CCA.C17-GRID.i3.26594: /y You will insert the metal into the forge, and refine it down so the unsuable, bad parts of the metal are left behind, and you will have scrap metal left behind.
+[23:27:01] CCA.C17-GRID.i3.26594: /y From there, you will have scrap metal, then reclaimed metal, and finally refined metal.
+[23:27:21] CCA.C17-GRID.i3.26594: /y When you get your refined metal, you will take it to the terminal behind you.
+[23:27:39] CCA.C17-GRID.i3.26594: /y You will insert the metal and be given 4 tokens per piece of metal.
+[23:28:03] CCA.C17-GRID.i3.26594: .//So, OOC, you'll get the charred metal, come over here, hit tab for the crafting menu, and work upwards from Charred Metal to Refined Metal
+[23:28:21] CCA.C17-GRID.i3.26594: .//the combine terminal is a vendor, so you just sell the refined metal to it once you're done
+[23:28:23] CCA.C17-GRID.i3.26594: .//make sense?
+[23:28:28] Leon Wakefield: [[yup
+[23:28:30] Elias Bartholomew: /looc yessir
+[23:28:31] Sophie Clermont: /me salutes
+[23:28:35] Sophie Clermont: /looc void 
+[23:28:37] Sophie Clermont: /looc ye
+[23:28:38] CCA.C17-GRID.i3.26594: .//say "Fuck the Combine" IC if you understand
+[23:28:44] CCA.C17-GRID.i3.26594: .//not really though lmao
+[23:28:45] CCA.C17-GRID.i3.26594: .//okay
+[23:28:54] CCA.C17-GRID.i3.26594: /y Next up, refining electronics!
+[23:29:02] Elias Bartholomew: /looc a nice start to a rebellion trio
+[23:29:08] CCA.C17-GRID.i3.26594: .//>locked in a factory
+[23:29:10] CCA.C17-GRID.i3.26594: .//yes
+[23:29:21] Leon Wakefield: [[ mugging time boys
+[23:29:40] CCA.C17-GRID.i3.26594: /y You will take scrap electronics from the supply closet and pick out the pieces of electronics that haven't been lost to water damage, crushing damage, all that.
+[23:30:09] CCA.C17-GRID.i3.26594: /y Then, when you have your functioning, refined electronics, you will put them in the deposit for the Combine terminal.
+[23:30:24] CCA.C17-GRID.i3.26594: /y That will give you 1 token, but it takes far less time than scrapping metal.
+[23:30:49] CCA.C17-GRID.i3.26594: .//So, that's literally just, get scrap electronics, go into the crafting menu, make refined electronics, sell it to the vendor
+[23:30:54] CCA.C17-GRID.i3.26594: .//There's another bonus
+[23:31:06] CCA.C17-GRID.i3.26594: .//if you refine metal, you'll increase your fabrication.
+[23:31:12] CCA.C17-GRID.i3.26594: .//but if you refine electronics, you'll increase your engineering
+[23:31:21] Leon Wakefield: [[ what do those stats do?
+[23:31:27] CCA.C17-GRID.i3.26594: .//those different attributes let you craft different things, both useful for different types of items
+[23:31:35] Leon Wakefield: [[ oh neat
+[23:31:38] CCA.C17-GRID.i3.26594: .//yepyep
+[23:31:44] Elias Bartholomew: /looc lets you craft a cp killer 
+[23:31:45] CCA.C17-GRID.i3.26594: .//yours truly made that addition
+[23:31:57] Leon Wakefield: [[ time to craft an elephant gun
+[23:32:08] Elias Bartholomew: /looc time to craft black ops zombies ray gun
+[23:32:16] CCA.C17-GRID.i3.26594: .//"why won't you let me use a soda can and a flashlight to make a pocket advisor??!1?!?!!"
+[23:32:23] CCA.C17-GRID.i3.26594: .//alright, are we all good, any questions?
+[23:32:32] Leon Wakefield: [[ gonna make that one admin red deagle thing from like 2011
+[23:32:35] Elias Bartholomew: /looc no sir
+[23:32:38] CCA.C17-GRID.i3.26594: .//holy shit i remember that
+[23:32:47] CCA.C17-GRID.i3.26594: .//alright, i'm not getting any yesses
+[23:32:53] Leon Wakefield: [[ YES
+[23:32:58] CCA.C17-GRID.i3.26594: /y You may begin...... nnnnnnnnnnn...
+[23:33:08] CCA.C17-GRID.i3.26594: /y Now.
+[23:33:10] Elias Bartholomew: /looc nnn?? hol up what he bout to say
+[23:33:17] CCA.C17-GRID.i3.26594: //hol up who was in paris again
+[23:33:21] Elias Bartholomew: // LOL
+[23:34:43] Leon Wakefield: /me opens the cabinet and snags the scrapped electronics, picking out what seems least damaged. He bundles them up in his arms and proceeds to the table.
+[23:35:28] Elias Bartholomew: /me reaches into the storage container, grabbing a pair of tongs and a few pieces of charred metal.
+[23:35:46] CCA.C17-GRID.i3.26594: /y Free filters, too.
+[23:36:02] CCA.C17-GRID.i3.26594: /chargiveitem grid wrapper
+[23:36:07] CCA.C17-GRID.i3.26594: /chargiveitem grid wrapper 7
+[23:36:09] CCA.C17-GRID.i3.26594: /chargiveitem grid wrapper 7
+[23:36:46] Leon Wakefield: /me places down all the scrap metal, and proceeds to pick them out even further, to an almost nitpicky degree. He sets aside all the electronics that have the slightest amount of damage to them, and orders all the almost perfect bits into a neat area.
+[23:36:55] Elias Bartholomew: /me slides the charred pieces of  metal into the forge, melting it down and reducing it to scrap metal.
+[23:37:06] CCA.C17-GRID.i3.26594: /chargiveitem grid "biotic grade bev"
+[23:37:23] Elias Bartholomew: /me uses the blacksmithing tongs to carefully retrieve the charred, now scrapped metal.
+[23:37:54] Leon Wakefield: /me does the same process yet again. He obtains the scrap electronics, picks it out, and stacks the perfect electronics in a neat order.
+[23:37:59] CCA.C17-GRID.i3.26594: C-corn?
+[23:38:06] Sophie Clermont: /me grabs an armful of scrap electronics moving on to the table and plopping them down.
+[23:38:07] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned/gave himself swep tfa_rustalpha_flare
+[23:38:20] Elias Bartholomew: /me returns to the storage container, hauling some more charred metal pieces towards the forge.
+[23:38:24] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_lab/crematorcase.mdl
+[23:39:06] Elias Bartholomew: /me repeats the process with the other chunks of charred metal, reducing it down to scrap metal and sorting it into a metallic container so it can be processed further.
+[23:39:11] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned ragdoll models/cdpmator.mdl
+[23:39:14] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned ragdoll models/cremator.mdl
+[23:39:17] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned ragdoll models/cremator.mdl
+[23:39:19] Leon Wakefield: /me walks over to the panel. He submits the now-refined electronics.
+[23:39:21] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned ragdoll models/leetator.mdl
+[23:39:27] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned ragdoll models/purmator.mdl
+[23:39:32] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned ragdoll models/bromator.mdl
+[23:39:36] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned ragdoll models/cdpmator.mdl
+[23:39:39] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned ragdoll models/bromator.mdl
+[23:39:43] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool nocollideeverything on models/bromator.mdl
+[23:40:19] Elias Bartholomew: /me heats up the now scrapped metal pieces, melting them down and reducing it to reclaimed metal pieces.
+[23:40:51] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned ragdoll models/purmator.mdl
+[23:40:53] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool nocollideeverything on models/purmator.mdl
+[23:41:33] Elias Bartholomew: /me brings around his wheel barrow to store more chunks of charred metal, wheeling it back over towards the forging area.
+[23:41:36] CCA.C17-GRID.i3.26594: /r I've got CRM subject of class XRAY, moving them to the cremator line.
+[23:41:55] CCA.C17-GRID.i3.26594: /r Requesting orders for standard class Cremator.
+[23:42:05] CCA.C17-GRID.i3.26594: copy that
+[23:42:16] CCA.C17-GRID.i3.26594: /me proceeds to remove the cremator's head, not so carefully, for some reason.
+[23:42:40] CCA.C17-GRID.i3.26594: /me would put the cremator's head in the empty jar on the counter.
+[23:42:42] Elias Bartholomew: /looc bruh
+[23:42:49] CCA.C17-GRID.i3.26594: /y Feel free to take one of these filters on the table.
+[23:42:55] Leon Wakefield: Ah.
+[23:43:05] Leon Wakefield: /me snags a single filter.
+[23:43:25] Elias Bartholomew: /me retrieves the remains of the charred metal that fell off his wheel barrow.
+[23:43:32] Sophie Clermont: /me grabs a filter plopping it in their pocket or something.
+[23:43:37] CCA.C17-GRID.i3.26594: /r XRAY class CRM is on the assembly line, requesting further orders.
+[23:43:46] CCA.C17-GRID.i3.26594: affirmative
+[23:43:52] Leon Wakefield: [[ the thinguses are errors so its so hard to pick them up
+[23:44:16] Leon Wakefield: [[ yeah ok i give up
+[23:44:31] CCA.C17-GRID.i3.26594: .//oh, fuck
+[23:44:33] CCA.C17-GRID.i3.26594: .//what thingses
+[23:44:34] Elias Bartholomew: /me transitions the now refined metal pieces to a metallic cart, pushing it towards the machine.
+[23:44:39] Leon Wakefield: [[ filters
+[23:44:58] CCA.C17-GRID.i3.26594: //those are from the tarkov pack, they're in the content, i just checked
+[23:44:59] CCA.C17-GRID.i3.26594: //hmmm
+[23:45:42] Elias Bartholomew: /me deposits the three metal pieces into the machine, and retrieves his credits.
+[23:46:21] Elias Bartholomew: /me once again repeats the process of grabbing charred metal and pushing it to the forging area.
+[23:46:37] Leon Wakefield: [[ swag
+[23:47:04] Client "DRD" connected.
+[23:47:09] CCA.C17-GRID.i3.26594: copy that
+[23:47:15] CCA.C17-GRID.i3.26594: hm
+[23:47:32] CCA.C17-GRID.i3.26594: /me proceeds to slowly feed the cremator's body into the large machine.
+[23:47:53] Elias Bartholomew: /looc its an error for me too except when i equip it its all good,
+[23:48:01] CCA.C17-GRID.i3.26594: .//hmmm
+[23:48:11] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool nocollideeverything on models/bromator.mdl
+[23:48:21] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned ragdoll models/purmator.mdl
+[23:48:41] CCA.C17-GRID.i3.26594: /y Time's up, finish your task.
+[23:48:49] Sophie Clermont: got it
+[23:49:01] CCA.C17-GRID.i3.26594: /y Finish your task and line up at the front tables.
+[23:49:19] Elias Bartholomew: /me deposits his last batch of refined metal, returning the tongs to the storage container.
+[23:49:22] Sophie Clermont: /me plops the refined electronics into the machine grabbing the tokens that dispense afterwards.
+[23:49:30] Leon Wakefield: /me finishes up a last batch of refined electronics. His careful assortment decisions perservered throughout the work session.
+[23:49:38] CCA.C17-GRID.i3.26594: /r Subject is ready for repair.
+[23:49:45] CCA.C17-GRID.i3.26594: /r Copy that.
+[23:50:08] CCA.C17-GRID.i3.26594: are you done?
+[23:50:13] Sophie Clermont: yeah
+[23:50:19] CCA.C17-GRID.i3.26594: .//favorite female voice
+[23:50:28] Sophie Clermont: /me clears their throat.
+[23:50:28] CCA.C17-GRID.i3.26594: Ah, so I take it you have a hearing problem?
+[23:50:33] Leon Wakefield: /me turns in the last batch.
+[23:50:36] Sophie Clermont: apologies.
+[23:50:43] Leon Wakefield: It's done.
+[23:50:48] CCA.C17-GRID.i3.26594: great
+[23:50:58] Leon Wakefield: /me lines up beside his cohort.
+[23:50:59] Elias Bartholomew: /looc woops
+[23:51:03] CCA.C17-GRID.i3.26594: All of you turn around, I'm going to make this as painless as possible
+[23:51:07] CCA.C17-GRID.i3.26594: .//pulls out rpg
+[23:51:08] CCA.C17-GRID.i3.26594: .//*whoops*
+[23:51:16] CCA.C17-GRID.i3.26594: Sorry, quick I mean.
+[23:51:18] CCA.C17-GRID.i3.26594: It's just searching.
+[23:51:26] Leon Wakefield: /me turns around.
+[23:51:34] Sophie Clermont: /me turns around.
+[23:51:42] Elias Bartholomew: /me skiddishly turns around, facing the wall.
+[23:51:58] CCA.C17-GRID.i3.26594: /me would attempt to tie all of the citizens in a row, as well as search them, would any of them resist, or can I speed this up?
+[23:52:12] Elias Bartholomew: /me wouldn't resist.
+[23:52:16] Leon Wakefield: /me doesn't do anything during the entire process.
+[23:52:20] Sophie Clermont: /me doesn't.
+[23:52:39] Elias Bartholomew: /looc /do the trio would do an anime ultimate team combo on the cp unit, stealing all his shit in the process
+[23:53:13] CCA.C17-GRID.i3.26594: .///me would get the pipe minigun he secretly made during the work cycle
+[23:53:34] CCA.C17-GRID.i3.26594: /plysearch
+[23:53:39] CCA.C17-GRID.i3.26594: /plysearch
+[23:53:39] Elias Bartholomew: /looc /me kiesters the homemade pipe bomb he was working on
+[23:53:42] CCA.C17-GRID.i3.26594: /pm echo SWIM
+[23:53:43] CCA.C17-GRID.i3.26594: /plysearch
+[23:53:47] CCA.C17-GRID.i3.26594: /plysearch
+[23:53:50] CCA.C17-GRID.i3.26594: /plysearch
+[23:53:56] Client "DRD" spawned in server <STEAM_0:0:193599766> (took 412 seconds).
+[23:54:24] CCA.C17-GRID.i3.26594: /y Get your things, you're all set.
+[23:54:27] CCA.C17-GRID.i3.26594: .//wait
+[23:54:28] CCA.C17-GRID.i3.26594: /me would take out his combat knife and cut the individual's ties.
+[23:54:29] Sophie Clermont: /OOC think drds having some trouble getting on
+[23:54:33] CCA.C17-GRID.i3.26594: //he always does :(
+[23:54:37] CCA.C17-GRID.i3.26594: /me would take out his combat knife and cut the individual's ties.
+[23:54:41] CCA.C17-GRID.i3.26594: /me would take out his combat knife and cut the individual's ties.
+[23:55:00] Elias Bartholomew: /me feels his wrists, reaching towards his belongings.
+[23:55:02] CCA.C17-GRID.i3.26594: .//alright, NOW get your shit
+[23:55:05] Leon Wakefield: /me walks off to get his things soon as he's freed.
+[23:55:23] Elias Bartholomew: /looc average cp roleplayer
+[23:55:58] Elias Bartholomew: /me retrieves all of his belongings, awaiting further orders.
+[23:56:12] CCA.C17-GRID.i3.26594: this way
+[23:56:33] CCA.C17-GRID.i3.26594: /y you all can go, good work
+[23:58:09] CCA.C17-GRID.i3.26594: //how's everyone doing tonight, funwise
+[23:58:12] DRD<STEAM_0:0:193599766> changed their name to CCA.C17-GRID.i1.59212
+[23:58:29] Leon Wakefield: // p cool
+[23:58:36] Leon Wakefield: // ya got all your passive rp essentials
+[23:58:52] CCA.C17-GRID.i1.59212: // hello
+[23:58:58] CCA.C17-GRID.i1.59212: // it is 2 am
+[23:59:00] CCA.C17-GRID.i1.59212: // why am i on
+[23:59:06] Elias Bartholomew: // now there's two of them, its getting out of hand
+[23:59:07] CCA.C17-GRID.i3.26594: //OH SHIT YOU MADE IT
+[23:59:16] CCA.C17-GRID.i1.59212: // i had to restart my pc!
+[23:59:16] CCA.C17-GRID.i3.26594: //@leon, thank you! I try
+[23:59:41] Sophie Clermont: /OOC oh sic you finally made it
+[23:59:42] Elias Bartholomew: // yeah the rp wasnt half bad, im just chillin rn so it was better than sitting around
+<Logging continued in "data/ulx_logs/03-25-21.txt">

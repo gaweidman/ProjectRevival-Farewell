@@ -1,0 +1,45 @@
+L 11/09/2022 - 05:42:44: Log file started (file "logs\L1109005.log") (game "c:\servers\revivalhl2rp\garrysmod") (version "8607")
+L 11/09/2022 - 05:42:45: Connection to Steam servers successful.
+L 11/09/2022 - 05:42:45:    Public IP is 192.223.26.159.
+L 11/09/2022 - 05:42:45: Assigned persistent gameserver Steam ID [G-1:3334754].
+L 11/09/2022 - 05:42:46: VAC secure mode is activated.
+L 11/09/2022 - 07:24:49: "LuntikSilver<2><STEAM_0:0:99269071><>" connected, address "93.80.85.255:9625"
+L 11/09/2022 - 07:24:49: "LuntikSilver<2><STEAM_0:0:99269071><>" STEAM USERID validated
+L 11/09/2022 - 07:24:49: "LuntikSilver<2><STEAM_0:0:99269071><>" disconnected (reason "Disconnect by user.")
+L 11/09/2022 - 07:24:52: "LuntikSilver<3><STEAM_0:0:99269071><>" connected, address "93.80.85.255:9625"
+L 11/09/2022 - 07:24:52: "LuntikSilver<3><STEAM_0:0:99269071><>" STEAM USERID validated
+L 11/09/2022 - 07:35:06: "LuntikSilver<3><STEAM_0:0:99269071><>" entered the game
+L 11/09/2022 - 07:35:06: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/09/2022 - 07:35:26: "LuntikSilver<3><STEAM_0:0:99269071><>" disconnected (reason "Disconnect by user.")
+L 11/09/2022 - 07:45:48: "Global Defence Initiative<4><STEAM_0:0:49504081><>" connected, address "174.114.216.104:27005"
+L 11/09/2022 - 07:45:48: "Global Defence Initiative<4><STEAM_0:0:49504081><>" STEAM USERID validated
+L 11/09/2022 - 07:47:30: Lua Error: [Helix] Attempt to index unknown item 'reclaimed_metal'
+
+L 11/09/2022 - 07:47:30: "Global Defence Initiative<4><STEAM_0:0:49504081><>" entered the game
+L 11/09/2022 - 07:47:31: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/09/2022 - 08:39:13: "Lynch<5><STEAM_0:1:626926779><>" connected, address "78.61.145.227:27005"
+L 11/09/2022 - 08:39:14: "Lynch<5><STEAM_0:1:626926779><>" STEAM USERID validated
+L 11/09/2022 - 08:41:24: "Lynch<5><STEAM_0:1:626926779><>" entered the game
+L 11/09/2022 - 08:41:24: Lua Error: 
+[ulib-familysharing] addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102: bad argument #1 to 'SteamIDFrom64' (string expected, got nil)
+  1. SteamIDFrom64 - [C]:-1
+   2. onsuccess - addons/ulib-familysharing/lua/ulib/modules/server/sfsm.lua:102
+    3. unknown - lua/includes/modules/http.lua:29
+
+
+L 11/09/2022 - 08:43:54: "Oh Lord forgive me<6><STEAM_0:0:178973662><>" connected, address "213.162.81.243:45705"
+L 11/09/2022 - 08:43:54: "Oh Lord forgive me<6><STEAM_0:0:178973662><>" STEAM USERID validated
+L 11/09/2022 - 08:53:59: rcon from "192.223.25.172:33468": command "logaddress_add 192.223.25.172:10000"
+L 11/09/2022 - 08:54:27: Log file closed.

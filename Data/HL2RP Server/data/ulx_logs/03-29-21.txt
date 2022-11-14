@@ -1,0 +1,2107 @@
+<Logging continued from "data/ulx_logs/03-28-21.txt">
+[00:49:01] Client "matt saton" connected.
+[00:50:49] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 108 seconds).
+[00:54:57] matt saton<STEAM_0:1:53097688> changed their name to Lee Maylor
+[03:13:05] Dropped "Lee Maylor" from server<STEAM_0:1:53097688>
+
+
+
+[03:48:57] New map: rp_i17_variation_v0
+[13:18:38] Client "DRD" connected.
+[13:22:52] Client "DRD" spawned in server <STEAM_0:0:193599766> (took 254 seconds).
+[13:25:55] Client "Kommandant Syntex" connected.
+[13:27:56] Dropped "DRD" from server<STEAM_0:0:193599766>
+[13:28:19] Client "Kommandant Syntex" spawned in server <STEAM_0:1:183837323> (took 144 seconds).
+[13:29:10] Kommandant Syntex<STEAM_0:1:183837323> changed their name to Gideon Pax
+[13:29:17] Gideon Pax: !discord
+[13:30:11] Gideon Pax: !forum
+[13:30:51] Dropped "Gideon Pax" from server<STEAM_0:1:183837323>
+[14:00:09] Client "DRD" connected.
+[14:06:02] Client "DRD" connected.
+[14:07:57] Client "DRD" spawned in server <STEAM_0:0:193599766> (took 115 seconds).
+[14:13:14] DRD<STEAM_0:0:193599766> changed their name to CCA.C17-GRID.i1.59212
+[14:13:21] CCA.C17-GRID.i1.59212: ef
+[14:14:38] Dropped "CCA.C17-GRID.i1.59212" from server<STEAM_0:0:193599766>
+[14:24:47] Client "FB|| light ROOM" connected.
+[14:26:33] Client "FB|| light ROOM" spawned in server <STEAM_0:1:17219621> (took 106 seconds).
+[14:32:54] Client "DRD" connected.
+[14:38:27] FB|| light ROOM<STEAM_0:1:17219621> changed their name to LCPL Mitchell 'Lazzy' Lazarus
+[14:39:14] LCPL Mitchell 'Lazzy' Lazarus<STEAM_0:1:17219621> changed their name to Owen 'Unknown' Clark
+[14:39:36] Dropped "Owen 'Unknown' Clark" from server<STEAM_0:1:17219621>
+[14:39:48] Client "DRD" spawned in server <STEAM_0:0:193599766> (took 414 seconds).
+[14:39:59] Client "FB|| light ROOM" connected.
+[14:41:16] Client "FB|| light ROOM" spawned in server <STEAM_0:1:17219621> (took 77 seconds).
+[14:42:23] FB|| light ROOM<STEAM_0:1:17219621> changed their name to LCPL Mitchell 'Lazzy' Lazarus
+[14:43:57] LCPL Mitchell 'Lazzy' Lazarus<STEAM_0:1:17219621> changed their name to Owen 'Unknown' Clark
+[14:44:06] DRD<STEAM_0:0:193599766> changed their name to CCA.C17-GRID.i1.59212
+[14:45:27] CCA.C17-GRID.i1.59212: /createcid "fucky wucky" uwu
+[14:46:14] CCA.C17-GRID.i1.59212: /toggleraise
+[14:46:15] CCA.C17-GRID.i1.59212: /toggleraise
+[14:46:18] CCA.C17-GRID.i1.59212: /toggleraise
+[14:46:19] CCA.C17-GRID.i1.59212: /toggleraise
+[14:46:22] CCA.C17-GRID.i1.59212: /toggleraise
+[14:46:35] CCA.C17-GRID.i1.59212: /toggleraise
+[14:47:23] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_junk/cardboard_box002b.mdl
+[14:47:57] Owen 'Unknown' Clark: /me Checks to see if the crate is locked (fuck you DRD)
+[14:48:00] Owen 'Unknown' Clark: /roll
+[14:48:04] CCA.C17-GRID.i1.59212: /it cocked
+[14:48:28] Owen 'Unknown' Clark: /me "fuck it" slams his axe into the lock hoping it would break it.
+[14:48:32] Owen 'Unknown' Clark: /rollstat str
+[14:48:39] CCA.C17-GRID.i1.59212: /it uncocked
+[14:48:48] Owen 'Unknown' Clark: /roll
+[14:48:59] CCA.C17-GRID.i1.59212: /it You fall off the edge opening the door
+[14:49:20] CCA.C17-GRID.i1.59212: /adminspawnmenu
+[14:50:15] CCA.C17-GRID.i1.59212: !!GOTO OWN
+[14:50:18] CCA.C17-GRID.i1.59212 teleported to Owen 'Unknown' Clark
+[14:50:18] CCA.C17-GRID.i1.59212: !GOTO OWN
+[14:50:21] Owen 'Unknown' Clark: /me Checks to see if it's locked (crungle)
+[14:50:27] Owen 'Unknown' Clark: /me Checks to see if it's locked (crungle)
+[14:50:29] Owen 'Unknown' Clark: /roll
+[14:50:33] Owen 'Unknown' Clark: /roll
+[14:50:34] CCA.C17-GRID.i1.59212: /it uncocked
+[14:50:41] CCA.C17-GRID.i1.59212: /adminspawnmenu
+[14:51:27] CCA.C17-GRID.i1.59212: /plytransfer
+[14:51:35] CCA.C17-GRID.i1.59212: /plysearch
+[14:53:43] CCA.C17-GRID.i1.59212 brought Owen 'Unknown' Clark
+[14:53:43] CCA.C17-GRID.i1.59212: !bring owen
+[14:54:09] CCA.C17-GRID.i1.59212 returned Owen 'Unknown' Clark to their original position
+[14:54:09] CCA.C17-GRID.i1.59212: !return owen
+[14:56:22] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool permaprops on models/antlion.mdl
+[14:56:23] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool permaprops on models/antlion.mdl
+[14:56:26] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool witchergate on maps/rp_i17_variation_v0.bsp
+[14:56:29] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool witchergate on maps/rp_i17_variation_v0.bsp
+[14:56:36] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool witchergate on maps/rp_i17_variation_v0.bsp
+[14:56:40] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool witchergate on models/industrial_uniforms/pm_industrial_uniform2.mdl
+[14:56:41] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool witchergate on models/industrial_uniforms/pm_industrial_uniform2.mdl
+[14:56:41] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool witchergate on models/industrial_uniforms/pm_industrial_uniform2.mdl
+[14:56:41] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool witchergate on maps/rp_i17_variation_v0.bsp
+[14:56:50] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool magnetise on maps/rp_i17_variation_v0.bsp
+[14:56:52] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool leafblower on models/industrial_uniforms/pm_industrial_uniform2.mdl
+[14:56:52] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool leafblower on models/industrial_uniforms/pm_industrial_uniform2.mdl
+[14:56:52] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool leafblower on models/industrial_uniforms/pm_industrial_uniform2.mdl
+[14:56:52] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool leafblower on models/industrial_uniforms/pm_industrial_uniform2.mdl
+[14:56:52] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool leafblower on models/industrial_uniforms/pm_industrial_uniform2.mdl
+[14:56:52] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool leafblower on models/industrial_uniforms/pm_industrial_uniform2.mdl
+[14:56:52] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool leafblower on models/industrial_uniforms/pm_industrial_uniform2.mdl
+[14:56:52] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool leafblower on models/industrial_uniforms/pm_industrial_uniform2.mdl
+[14:56:52] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool leafblower on models/industrial_uniforms/pm_industrial_uniform2.mdl
+[14:56:52] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool leafblower on models/industrial_uniforms/pm_industrial_uniform2.mdl
+[14:56:52] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool leafblower on models/industrial_uniforms/pm_industrial_uniform2.mdl
+[14:56:52] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool leafblower on models/industrial_uniforms/pm_industrial_uniform2.mdl
+[14:56:52] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool leafblower on models/industrial_uniforms/pm_industrial_uniform2.mdl
+[14:56:52] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool leafblower on models/industrial_uniforms/pm_industrial_uniform2.mdl
+[14:56:52] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool leafblower on models/industrial_uniforms/pm_industrial_uniform2.mdl
+[14:56:52] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool leafblower on models/industrial_uniforms/pm_industrial_uniform2.mdl
+[14:56:52] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool leafblower on models/industrial_uniforms/pm_industrial_uniform2.mdl
+[14:56:52] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool leafblower on models/industrial_uniforms/pm_industrial_uniform2.mdl
+[14:56:52] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool leafblower on models/industrial_uniforms/pm_industrial_uniform2.mdl
+[14:56:52] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool leafblower on models/industrial_uniforms/pm_industrial_uniform2.mdl
+[14:56:52] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool leafblower on models/industrial_uniforms/pm_industrial_uniform2.mdl
+[14:56:53] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool leafblower on models/industrial_uniforms/pm_industrial_uniform2.mdl
+[14:56:53] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool leafblower on models/industrial_uniforms/pm_industrial_uniform2.mdl
+[14:56:53] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool leafblower on models/industrial_uniforms/pm_industrial_uniform2.mdl
+[14:56:53] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool leafblower on models/industrial_uniforms/pm_industrial_uniform2.mdl
+[14:56:53] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool leafblower on models/industrial_uniforms/pm_industrial_uniform2.mdl
+[14:56:53] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool leafblower on models/industrial_uniforms/pm_industrial_uniform2.mdl
+[14:56:53] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool leafblower on models/industrial_uniforms/pm_industrial_uniform2.mdl
+[14:56:53] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool leafblower on models/industrial_uniforms/pm_industrial_uniform2.mdl
+[14:56:53] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool leafblower on models/industrial_uniforms/pm_industrial_uniform2.mdl
+[14:56:53] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool leafblower on models/industrial_uniforms/pm_industrial_uniform2.mdl
+[14:56:53] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool leafblower on models/industrial_uniforms/pm_industrial_uniform2.mdl
+[14:56:53] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool leafblower on models/industrial_uniforms/pm_industrial_uniform2.mdl
+[14:56:53] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool leafblower on models/industrial_uniforms/pm_industrial_uniform2.mdl
+[14:56:53] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool leafblower on models/industrial_uniforms/pm_industrial_uniform2.mdl
+[14:56:53] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool leafblower on models/industrial_uniforms/pm_industrial_uniform2.mdl
+[14:56:53] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool leafblower on models/industrial_uniforms/pm_industrial_uniform2.mdl
+[14:56:53] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool leafblower on models/industrial_uniforms/pm_industrial_uniform2.mdl
+[14:56:53] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool leafblower on models/industrial_uniforms/pm_industrial_uniform2.mdl
+[14:56:53] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool leafblower on models/industrial_uniforms/pm_industrial_uniform2.mdl
+[14:56:53] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool leafblower on models/industrial_uniforms/pm_industrial_uniform2.mdl
+[14:56:53] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool leafblower on models/industrial_uniforms/pm_industrial_uniform2.mdl
+[14:56:53] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool leafblower on models/industrial_uniforms/pm_industrial_uniform2.mdl
+[14:56:53] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool leafblower on models/industrial_uniforms/pm_industrial_uniform2.mdl
+[14:56:53] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool leafblower on models/industrial_uniforms/pm_industrial_uniform2.mdl
+[14:56:53] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool leafblower on models/industrial_uniforms/pm_industrial_uniform2.mdl
+[14:56:55] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool keepupright on models/industrial_uniforms/pm_industrial_uniform2.mdl
+[14:56:56] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool ignite on models/industrial_uniforms/pm_industrial_uniform2.mdl
+[14:56:56] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool ignite on models/industrial_uniforms/pm_industrial_uniform2.mdl
+[14:56:56] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool ignite on models/industrial_uniforms/pm_industrial_uniform2.mdl
+[14:56:58] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool button on models/industrial_uniforms/pm_industrial_uniform2.mdl
+[14:56:58] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool button on models/industrial_uniforms/pm_industrial_uniform2.mdl
+[14:56:58] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool button on models/industrial_uniforms/pm_industrial_uniform2.mdl
+[14:57:03] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool lamp on maps/rp_i17_variation_v0.bsp
+[14:57:11] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool lamp on maps/rp_i17_variation_v0.bsp
+[14:57:22] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool lamp on maps/rp_i17_variation_v0.bsp
+[14:57:29] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool lamp on maps/rp_i17_variation_v0.bsp
+[14:57:37] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool lamp on maps/rp_i17_variation_v0.bsp
+[14:57:38] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool lamp on maps/rp_i17_variation_v0.bsp
+[14:57:50] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool lamp on maps/rp_i17_variation_v0.bsp
+[14:57:59] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool ladder on maps/rp_i17_variation_v0.bsp
+[14:58:00] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool ladder on maps/rp_i17_variation_v0.bsp
+[14:58:04] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool ladder on maps/rp_i17_variation_v0.bsp
+[14:58:05] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool ladder on maps/rp_i17_variation_v0.bsp
+[14:58:17] Client "Exo-Geno" connected.
+[14:58:34] CCA.C17-GRID.i1.59212: ~p 
+[14:58:37] CCA.C17-GRID.i1.59212: !hop
+[14:58:41] CCA.C17-GRID.i1.59212 set the hp for Owen 'Unknown' Clark to 102
+[14:58:41] CCA.C17-GRID.i1.59212: !hp owen 102
+[14:58:42] CCA.C17-GRID.i1.59212 set the hp for Owen 'Unknown' Clark to 102
+[14:58:42] CCA.C17-GRID.i1.59212: !hp owen 102
+[14:58:45] CCA.C17-GRID.i1.59212 set the hp for Owen 'Unknown' Clark to 1024234
+[14:58:45] CCA.C17-GRID.i1.59212: !hp owen 1024234
+[14:58:51] CCA.C17-GRID.i1.59212 set the hp for Owen 'Unknown' Clark to 102
+[14:58:51] CCA.C17-GRID.i1.59212: !hp owen 102
+[14:59:41] Owen 'Unknown' Clark<STEAM_0:1:17219621> spawned model models/props_c17/canister_propane01a.mdl
+[15:00:50] Owen 'Unknown' Clark suicided!
+[15:01:03] CCA.C17-GRID.i1.59212 brought Owen 'Unknown' Clark
+[15:01:03] CCA.C17-GRID.i1.59212: !bring owen
+[15:01:13] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned sent item_ammo_pistol_large
+[15:01:15] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned sent item_box_buckshot
+[15:01:16] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned sent item_box_buckshot
+[15:01:16] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned sent item_box_buckshot
+[15:01:16] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned sent item_box_buckshot
+[15:01:40] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned sent prop_physics
+[15:01:43] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned sent prop_physics
+[15:01:55] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned sent entity_tank_editable
+[15:03:34] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned sent entity_tank_editable
+[15:03:42] CCA.C17-GRID.i1.59212: /toggleraise
+[15:03:44] CCA.C17-GRID.i1.59212: /toggleraise
+[15:03:45] CCA.C17-GRID.i1.59212: /toggleraise
+[15:04:02] Client "Exo-Geno" spawned in server <STEAM_0:0:28338359> (took 345 seconds).
+[15:04:04] Owen 'Unknown' Clark suicided!
+[15:04:04] CCA.C17-GRID.i1.59212 slayed Owen 'Unknown' Clark
+[15:04:04] CCA.C17-GRID.i1.59212: !slay owen
+[15:04:10] CCA.C17-GRID.i1.59212: !bring owen
+[15:04:15] CCA.C17-GRID.i1.59212 brought Owen 'Unknown' Clark
+[15:04:15] CCA.C17-GRID.i1.59212: !bring owen
+[15:04:48] Exo-Geno<STEAM_0:0:28338359> changed their name to Test Character
+[15:04:58] CCA.C17-GRID.i1.59212: // welcome!
+[15:05:07] Test Character: // yo
+[15:05:10] Test Character: /content
+[15:05:13] CCA.C17-GRID.i1.59212: // need the content?
+[15:05:26] Test Character: // already getting it
+[15:05:28] Test Character: /content
+[15:05:30] CCA.C17-GRID.i1.59212: // sweet!
+[15:05:37] CCA.C17-GRID.i1.59212: // there's a discord server, if you want to join
+[15:05:47] Test Character: /discord
+[15:05:54] CCA.C17-GRID.i1.59212: // put your suit on!
+[15:06:12] Test Character: // Nah bruh,*Casually dies*
+[15:06:17] CCA.C17-GRID.i1.59212: // ah
+[15:06:17] Test Character: /discord
+[15:06:21] CCA.C17-GRID.i1.59212: // as one does
+[15:06:33] CCA.C17-GRID.i1.59212: // i'll be back in a sec, gonna grab supper
+[15:06:58] Owen 'Unknown' Clark: // Crungle
+[15:07:05] Owen 'Unknown' Clark: // Do be back though
+[15:07:13] CCA.C17-GRID.i1.59212: /pm owen can you process him while i grab supper
+[15:07:22] CCA.C17-GRID.i1.59212: /pm owen wait nvm
+[15:07:31] CCA.C17-GRID.i1.59212: hold gun
+[15:07:39] CCA.C17-GRID.i1.59212: HOLD GUN
+[15:07:41] CCA.C17-GRID.i1.59212: 503
+[15:07:44] CCA.C17-GRID.i1.59212: 603
+[15:07:45] CCA.C17-GRID.i1.59212: 603
+[15:07:46] CCA.C17-GRID.i1.59212: 603
+[15:07:46] CCA.C17-GRID.i1.59212: 603
+[15:07:48] CCA.C17-GRID.i1.59212: HOLD GUN
+[15:07:55] CCA.C17-GRID.i1.59212 gave Owen 'Unknown' Clark 32 rounds
+[15:07:55] CCA.C17-GRID.i1.59212: !giveammo owen 32
+[15:08:07] CCA.C17-GRID.i1.59212: pistol,
+[15:08:31] Owen 'Unknown' Clark: .// Give me three pistol magazines, I gave away the pistol but had extra ammo.
+[15:08:40] CCA.C17-GRID.i1.59212: /adminspawnmenu
+[15:08:56] CCA.C17-GRID.i1.59212: // i'll brb
+[15:20:53] CCA.C17-GRID.i1.59212 teleported to Owen 'Unknown' Clark
+[15:20:53] CCA.C17-GRID.i1.59212: !goto owen
+[15:20:59] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool remover on *111
+[15:21:40] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> changed their name to Laoghaire Fraser
+[15:21:43] Laoghaire Fraser: // uwu
+[15:21:44] Dropped "Test Character" from server<STEAM_0:0:28338359>
+[15:22:21] Client "Exo-Geno" connected.
+[15:23:45] Client "Exo-Geno" spawned in server <STEAM_0:0:28338359> (took 84 seconds).
+[15:24:05] Exo-Geno<STEAM_0:0:28338359> changed their name to Test Character
+[15:24:08] Laoghaire Fraser<STEAM_0:0:193599766> spawned sent ix_airvent
+[15:24:10] Laoghaire Fraser<STEAM_0:0:193599766> spawned sent ix_testent9
+[15:24:13] Laoghaire Fraser<STEAM_0:0:193599766> spawned sent ix_testent9
+[15:24:17] Laoghaire Fraser<STEAM_0:0:193599766> spawned sent ix_testent9
+[15:24:26] Laoghaire Fraser<STEAM_0:0:193599766> spawned sent ix_citizenairvent
+[15:24:28] Laoghaire Fraser<STEAM_0:0:193599766> spawned sent ix_citizenairvent
+[15:24:33] Laoghaire Fraser<STEAM_0:0:193599766> spawned sent ix_citizenairvent
+[15:24:35] Laoghaire Fraser<STEAM_0:0:193599766> spawned sent ix_citizenairvent
+[15:24:36] Laoghaire Fraser<STEAM_0:0:193599766> spawned sent ix_citizenairvent
+[15:24:39] Laoghaire Fraser<STEAM_0:0:193599766> spawned sent ix_citizenairvent
+[15:24:42] Laoghaire Fraser<STEAM_0:0:193599766> spawned sent ix_citizenairvent
+[15:24:46] Laoghaire Fraser<STEAM_0:0:193599766> spawned sent ix_citizenairvent
+[15:24:57] Owen 'Unknown' Clark<STEAM_0:1:17219621> changed their name to CCA.C17-UNION.i2.51514
+[15:25:20] Laoghaire Fraser<STEAM_0:0:193599766> spawned sent ix_citizenairvent
+[15:26:15] CCA.C17-UNION.i2.51514: Apply
+[15:26:19] Test Character: .// This ma test character
+[15:26:22] Laoghaire Fraser: /PLYSEARCH
+[15:27:14] Test Character<STEAM_0:0:28338359> changed their name to Juan Armando
+[15:27:56] CCA.C17-UNION.i2.51514: Apply
+[15:27:59] Juan Armando: /apply
+[15:28:08] CCA.C17-UNION.i2.51514: /me Begins typing onto a wrist-mounted PDA device.
+[15:28:12] CCA.C17-UNION.i2.51514: /viewdata Juan
+[15:28:39] CCA.C17-UNION.i2.51514: I'll be asking you a series of questions before printing your CID.
+[15:28:48] CCA.C17-UNION.i2.51514: What is your gender?
+[15:28:52] Juan Armando: Male.
+[15:28:57] CCA.C17-UNION.i2.51514: DOB and blood type?
+[15:29:16] CCA.C17-UNION.i2.51514: .// 2/3/1982-
+[15:29:16] Laoghaire Fraser: /toggleraise
+[15:29:18] Laoghaire Fraser: /toggleraise
+[15:29:53] Laoghaire Fraser: /W Slainthe Mhath
+[15:30:00] Juan Armando: 7th of January 1980,Bloodtype O+
+[15:30:14] CCA.C17-UNION.i2.51514: /viewdata Juan
+[15:31:14] CCA.C17-UNION.i2.51514: Any diseases I should know about?
+[15:31:23] Juan Armando: Nope.
+[15:31:28] CCA.C17-UNION.i2.51514: /viewdata Juan
+[15:31:43] CCA.C17-UNION.i2.51514: Drop your coupon.
+[15:31:53] Juan Armando: /me would hand the coupon over
+[15:32:23] Juan Armando: /me would take the ID
+[15:32:58] Laoghaire Fraser<STEAM_0:0:193599766> spawned model models/props_wasteland/controlroom_filecabinet002a.mdl
+[15:32:59] CCA.C17-UNION.i2.51514<STEAM_0:1:17219621> changed their name to Owen 'Unknown' Clark
+[15:33:16] Owen 'Unknown' Clark<STEAM_0:1:17219621> changed their name to CCA.C17-UNION.i2.51514
+[15:33:27] CCA.C17-UNION.i2.51514<STEAM_0:1:17219621> changed their name to Owen 'Unknown' Clark
+[15:33:33] Laoghaire Fraser set the hp for Owen 'Unknown' Clark to 100
+[15:33:33] Laoghaire Fraser: !hp owen 100
+[15:33:51] Laoghaire Fraser<STEAM_0:0:193599766> changed their name to CCA.C17-GRID.i1.59212
+[15:34:00] Owen 'Unknown' Clark: Why is it closed?
+[15:34:07] Owen 'Unknown' Clark: There we go
+[15:34:52] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned ragdoll models/police_nemez.mdl
+[15:35:16] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool rb655_easy_bodygroup on models/police_nemez.mdl
+[15:35:17] Owen 'Unknown' Clark: Uhhh....
+[15:35:40] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool thruster on models/police_nemez.mdl
+[15:36:00] CCA.C17-GRID.i1.59212: apply
+[15:36:03] Juan Armando: /apply
+[15:36:25] Client "Cayde-7" connected.
+[15:36:28] Owen 'Unknown' Clark: /apply
+[15:40:07] Client "Cayde-7" spawned in server <STEAM_0:1:51616733> (took 222 seconds).
+[15:41:44] Cayde-7<STEAM_0:1:51616733> changed their name to Marcus Weller
+[15:41:57] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned/gave himself swep gmod_camera
+[15:41:57] CCA.C17-GRID.i1.59212: /toggleraise
+[15:45:00] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_junk/wood_crate001a.mdl
+[15:45:16] Marcus Weller<STEAM_0:1:51616733> changed their name to Johanne Fük
+[15:45:52] CCA.C17-GRID.i1.59212 set the hp for Johanne Fük to 100
+[15:45:52] CCA.C17-GRID.i1.59212: !hp jo 100
+[15:48:24] Johanne Fük was killed by npc_zombine
+[15:48:52] Juan Armando: /y HELP
+[15:49:24] Owen 'Unknown' Clark: You alright?
+[15:49:31] Juan Armando: Tis but a scratch
+[15:49:37] Owen 'Unknown' Clark: Noted
+[15:50:06] Owen 'Unknown' Clark: Alright, I can get you to a somewhat safe spot.
+[15:50:30] Johanne Fük<STEAM_0:1:51616733> changed their name to Marcus Weller
+[15:50:54] Owen 'Unknown' Clark: This is pretty much the only breathing point you can find.
+[15:51:06] Owen 'Unknown' Clark: Take a breath and shit.
+[15:51:09] Owen 'Unknown' Clark: Not really my issue.
+[15:51:20] Juan Armando: I kind of need some medicals..
+[15:51:28] Juan Armando: *Acid pretty hurt me*
+[15:51:33] Owen 'Unknown' Clark: Yep but also I have no medical supplies on hand.
+[15:51:53] Owen 'Unknown' Clark: So just head to the CMB and say a bullsquid jumped out of a portal and attacked you or something.
+[15:52:11] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool duplicator on models/props_lab/clipboard.mdl
+[15:52:11] Owen 'Unknown' Clark: Pretty believable considering the past incidents.
+[15:52:13] CCA.C17-GRID.i1.59212: /toggleraise
+[15:52:17] CCA.C17-GRID.i1.59212: /toggleraise
+[15:52:29] Owen 'Unknown' Clark: I'll be going now.
+[15:52:33] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool duplicator on maps/rp_i17_variation_v0.bsp
+[15:52:46] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool duplicator on maps/rp_i17_variation_v0.bsp
+[15:52:46] Owen 'Unknown' Clark: Refer to me as "unknown" if you see me again, rather not have anybody listening to me.
+[15:53:03] Owen 'Unknown' Clark: See you later
+[15:53:18] Marcus Weller: I found this.
+[15:53:44] Marcus Weller: It appears to be propaganda for a rebel group of some kind.
+[15:53:51] CCA.C17-GRID.i1.59212: huh
+[15:54:47] CCA.C17-GRID.i1.59212 teleported to Owen 'Unknown' Clark
+[15:54:47] CCA.C17-GRID.i1.59212: !goto ow
+[15:54:52] Juan Armando was killed by npc_zombie
+[15:55:07] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool light on maps/rp_i17_variation_v0.bsp
+[15:55:11] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool light on maps/rp_i17_variation_v0.bsp
+[15:55:14] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool light on maps/rp_i17_variation_v0.bsp
+[15:55:17] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool light on maps/rp_i17_variation_v0.bsp
+[15:55:21] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool light on maps/rp_i17_variation_v0.bsp
+[15:55:37] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool rb655_easy_bodygroup on maps/rp_i17_variation_v0.bsp
+[15:55:38] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool rb655_easy_bodygroup on maps/rp_i17_variation_v0.bsp
+[15:56:34] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> changed their name to Laoghaire Fraser
+[15:57:03] Laoghaire Fraser<STEAM_0:0:193599766> spawned model models/props_wasteland/controlroom_storagecloset001a.mdl
+[15:57:16] Owen 'Unknown' Clark<STEAM_0:1:17219621> changed their name to LCPL Mitchell 'Lazzy' Lazarus
+[15:57:24] LCPL Mitchell 'Lazzy' Lazarus: // Crungle
+[15:57:38] Laoghaire Fraser<STEAM_0:0:193599766> changed their name to Dispatch
+[15:57:54] Dispatch: /toggleraise
+[15:58:03] Dispatch: /charsetmodel disp models/props_trainstation/trashcan_indoor001b.mdl
+[15:58:16] Dispatch: /charsetmodel disp models/props_wasteland/wheel01.mdl
+[15:58:26] Dispatch: /charsetmodel disp models/props_junk/TrafficCone001a.mdl
+[15:58:42] Dispatch: /charsetmodel disp models/Combine_Helicopter/helicopter_bomb01.mdl
+[15:58:47] Dispatch: uwu
+[15:58:58] Dispatch: /charsetmodel disp models/props_c17/FurnitureSink001a.mdl
+[15:59:08] Dispatch<STEAM_0:0:193599766> changed their name to OTA.S17-ECHO.OWS.85171
+[15:59:38] OTA.S17-ECHO.OWS.85171: MOM GET OUT
+[15:59:42] OTA.S17-ECHO.OWS.85171: /Y IM PLAYING MINECRAFT
+[15:59:48] OTA.S17-ECHO.OWS.85171: /toggleraise
+[16:00:06] OTA.S17-ECHO.OWS.85171<STEAM_0:0:193599766> changed their name to CCA.C17-QrM.52934
+[16:00:43] CCA.C17-QrM.52934 teleported to Juan Armando
+[16:00:43] CCA.C17-QrM.52934: !GOTO JUAN
+[16:00:54] Juan Armando: /me would try to strip the Dead Zombine's Kevlar
+[16:02:02] Juan Armando was killed by trigger_hurt
+[16:02:16] CCA.C17-QrM.52934<STEAM_0:0:193599766> spawned model models/props_c17/furniturestove001a.mdl
+[16:02:23] CCA.C17-QrM.52934<STEAM_0:0:193599766> spawned model models/props_c17/furniturefridge001a.mdl
+[16:03:04] CCA.C17-QrM.52934<STEAM_0:0:193599766> spawned model models/props_c17/furniturebed001a.mdl
+[16:03:25] CCA.C17-QrM.52934: /CHARKICK LAZZY
+[16:03:25] LCPL Mitchell 'Lazzy' Lazarus<STEAM_0:1:17219621> changed their name to FB|| light ROOM
+[16:03:30] FB|| light ROOM<STEAM_0:1:17219621> changed their name to LCPL Mitchell 'Lazzy' Lazarus
+[16:03:59] CCA.C17-QrM.52934<STEAM_0:0:193599766> spawned sent ix_stove
+[16:04:03] Dropped "Juan Armando" from server<STEAM_0:0:28338359>
+[16:04:19] CCA.C17-QrM.52934<STEAM_0:0:193599766> used the tool permaprops on models/hunter/plates/plate075x1.mdl
+[16:04:20] CCA.C17-QrM.52934<STEAM_0:0:193599766> used the tool permaprops on models/props_c17/furniturestove001a.mdl
+[16:04:23] CCA.C17-QrM.52934<STEAM_0:0:193599766> used the tool permaprops on models/props_c17/furniturebed001a.mdl
+[16:05:05] CCA.C17-QrM.52934: /ADMINSPAWNMENU
+[16:06:29] CCA.C17-QrM.52934 brought LCPL Mitchell 'Lazzy' Lazarus
+[16:06:29] CCA.C17-QrM.52934: !BRING LAZ
+[16:06:36] CCA.C17-QrM.52934: !giveammo laz 0-1
+[16:06:42] CCA.C17-QrM.52934 gave LCPL Mitchell 'Lazzy' Lazarus 555 rounds
+[16:06:42] CCA.C17-QrM.52934: !giveammo laz 555
+[16:08:04] CCA.C17-QrM.52934: Cornet
+[16:08:09] CCA.C17-QrM.52934: Cornet
+[16:08:10] CCA.C17-QrM.52934: Cornet
+[16:08:11] CCA.C17-QrM.52934: Cornet
+[16:08:11] CCA.C17-QrM.52934: Cornet
+[16:08:12] CCA.C17-QrM.52934: Cornet
+[16:08:13] CCA.C17-QrM.52934: Cornet
+[16:08:16] CCA.C17-QrM.52934: /broadcast
+[16:08:26] CCA.C17-QrM.52934: Colonel Cornelius Cornwall
+[16:08:47] CCA.C17-QrM.52934<STEAM_0:0:193599766> spawned sent entity_tank_editable
+[16:08:59] LCPL Mitchell 'Lazzy' Lazarus killed CCA.C17-QrM.52934 using prop_dynamic
+[16:09:08] CCA.C17-QrM.52934: !launch
+[16:09:11] CCA.C17-QrM.52934 Launched LCPL Mitchell 'Lazzy' Lazarus
+[16:09:11] CCA.C17-QrM.52934: !launch lazz
+[16:09:16] CCA.C17-QrM.52934 Launched LCPL Mitchell 'Lazzy' Lazarus
+[16:09:16] CCA.C17-QrM.52934: !launch lazz
+[16:09:17] CCA.C17-QrM.52934 Launched LCPL Mitchell 'Lazzy' Lazarus
+[16:09:17] CCA.C17-QrM.52934: !launch lazz
+[16:09:18] CCA.C17-QrM.52934 Launched LCPL Mitchell 'Lazzy' Lazarus
+[16:09:18] CCA.C17-QrM.52934: !launch lazz
+[16:09:18] CCA.C17-QrM.52934 Launched LCPL Mitchell 'Lazzy' Lazarus
+[16:09:18] CCA.C17-QrM.52934: !launch lazz
+[16:09:19] CCA.C17-QrM.52934 Launched LCPL Mitchell 'Lazzy' Lazarus
+[16:09:19] CCA.C17-QrM.52934: !launch lazz
+[16:09:28] CCA.C17-QrM.52934 brought LCPL Mitchell 'Lazzy' Lazarus
+[16:09:28] CCA.C17-QrM.52934: !bring laz
+[16:09:36] CCA.C17-QrM.52934: !jail;
+[16:09:37] CCA.C17-QrM.52934: !jail
+[16:09:39] CCA.C17-QrM.52934 jailed LCPL Mitchell 'Lazzy' Lazarus
+[16:09:39] CCA.C17-QrM.52934: !jail laz
+[16:09:45] CCA.C17-QrM.52934 unjailed LCPL Mitchell 'Lazzy' Lazarus
+[16:09:45] CCA.C17-QrM.52934: !unjail laz
+[16:09:48] CCA.C17-QrM.52934: !menu
+[16:10:03] CCA.C17-QrM.52934 slapped LCPL Mitchell 'Lazzy' Lazarus with 0 damage
+[16:10:04] CCA.C17-QrM.52934 slapped LCPL Mitchell 'Lazzy' Lazarus with 0 damage
+[16:10:16] CCA.C17-QrM.52934 whipped LCPL Mitchell 'Lazzy' Lazarus 100 times with 0 damage
+[16:11:31] CCA.C17-QrM.52934 brought LCPL Mitchell 'Lazzy' Lazarus
+[16:11:31] CCA.C17-QrM.52934: !bring lazzy
+[16:12:15] CCA.C17-QrM.52934: !menu
+[16:12:23] CCA.C17-QrM.52934 zombified Themself for 10 seconds
+[16:12:42] CCA.C17-QrM.52934 set the hp for LCPL Mitchell 'Lazzy' Lazarus to 100
+[16:12:42] CCA.C17-QrM.52934: !hp lazzy 100
+[16:12:56] CCA.C17-QrM.52934<STEAM_0:0:193599766> spawned sent item_ammo_smg1_large
+[16:20:31] CCA.C17-QrM.52934: \
+[16:20:47] CCA.C17-QrM.52934: !gopto m
+[16:20:49] CCA.C17-QrM.52934: !goto m
+[16:20:51] CCA.C17-QrM.52934 teleported to Marcus Weller
+[16:20:51] CCA.C17-QrM.52934: !goto mar
+[16:21:58] CCA.C17-QrM.52934: // furry art crashed my phone
+[16:26:28] CCA.C17-QrM.52934 brought Marcus Weller
+[16:26:28] CCA.C17-QrM.52934: !bring marc
+[16:26:59] CCA.C17-QrM.52934: !bring laz
+[16:27:11] CCA.C17-QrM.52934 brought LCPL Mitchell 'Lazzy' Lazarus
+[16:27:11] CCA.C17-QrM.52934: !bring laz
+[16:27:46] LCPL Mitchell 'Lazzy' Lazarus killed CCA.C17-QrM.52934 using player
+[16:27:52] LCPL Mitchell 'Lazzy' Lazarus killed Marcus Weller using player
+[16:28:45] CCA.C17-QrM.52934<STEAM_0:0:193599766> spawned model models/props/de_inferno/tv_monitor01.mdl
+[16:28:50] CCA.C17-QrM.52934<STEAM_0:0:193599766> spawned model models/gmod_tower/suitetv.mdl
+[16:28:54] CCA.C17-QrM.52934<STEAM_0:0:193599766> spawned model models/gmod_tower/suitetv.mdl
+[16:29:10] CCA.C17-QrM.52934<STEAM_0:0:193599766> used the tool submaterial on models/gmod_tower/suitetv.mdl
+[16:29:16] CCA.C17-QrM.52934<STEAM_0:0:193599766> spawned model models/combine_tv_big_1c.mdl
+[16:29:19] CCA.C17-QrM.52934<STEAM_0:0:193599766> used the tool submaterial on models/combine_tv_big_1c.mdl
+[16:29:26] CCA.C17-QrM.52934<STEAM_0:0:193599766> spawned model models/combine_tv_bay_1.mdl
+[16:29:29] CCA.C17-QrM.52934<STEAM_0:0:193599766> spawned model models/combine_small_tv1c.mdl
+[16:29:34] CCA.C17-QrM.52934<STEAM_0:0:193599766> spawned model models/combine_small_tv1c.mdl
+[16:30:02] CCA.C17-QrM.52934<STEAM_0:0:193599766> spawned model models/props/cs_office/tv_plasma.mdl
+[16:30:04] CCA.C17-QrM.52934<STEAM_0:0:193599766> used the tool submaterial on models/props/cs_office/tv_plasma.mdl
+[16:30:14] Dropped "Marcus Weller" from server<STEAM_0:1:51616733>
+[16:30:35] CCA.C17-QrM.52934<STEAM_0:0:193599766> spawned model models/combinefortification/combinescreen1.mdl
+[16:30:44] CCA.C17-QrM.52934<STEAM_0:0:193599766> used the tool submaterial on models/combinefortification/combinescreen1.mdl
+[16:30:58] CCA.C17-QrM.52934 returned LCPL Mitchell 'Lazzy' Lazarus to their original position
+[16:30:58] CCA.C17-QrM.52934: !RETURN LA
+[16:31:01] CCA.C17-QrM.52934: !RETURN LAZ
+[16:31:03] Dropped "LCPL Mitchell 'Lazzy' Lazarus" from server<STEAM_0:1:17219621>
+[16:31:17] CCA.C17-QrM.52934<STEAM_0:0:193599766> spawned model models/rt screens/monitor01a.mdl
+[16:31:26] CCA.C17-QrM.52934<STEAM_0:0:193599766> spawned model models/props_combine/combine_smallmonitor001.mdl
+[16:31:29] CCA.C17-QrM.52934<STEAM_0:0:193599766> spawned effect models/props_combine/corecontrolmonitor.mdl
+[16:32:09] CCA.C17-QrM.52934<STEAM_0:0:193599766> spawned model models/props_wasteland/controlroom_monitor001a.mdl
+[16:32:11] CCA.C17-QrM.52934<STEAM_0:0:193599766> spawned model models/props_wasteland/controlroom_monitor001b.mdl
+[16:32:15] CCA.C17-QrM.52934<STEAM_0:0:193599766> spawned model models/props_wasteland/controlroom_monitor001a.mdl
+[16:32:19] CCA.C17-QrM.52934<STEAM_0:0:193599766> spawned model models/props/cs_office/computer_monitor.mdl
+[16:32:27] CCA.C17-QrM.52934<STEAM_0:0:193599766> spawned model models/rt screens/tv_monitor01.mdl
+[16:32:29] CCA.C17-QrM.52934<STEAM_0:0:193599766> spawned model models/rt screens/monitor01a.mdl
+[16:32:40] CCA.C17-QrM.52934<STEAM_0:0:193599766> spawned model models/props_interiors/side_table_square.mdl
+[16:33:38] CCA.C17-QrM.52934<STEAM_0:0:193599766> used the tool submaterial on models/rt screens/monitor01a.mdl
+[16:33:49] CCA.C17-QrM.52934<STEAM_0:0:193599766> used the tool permaprops on models/rt screens/monitor01a.mdl
+[16:33:50] CCA.C17-QrM.52934<STEAM_0:0:193599766> used the tool permaprops on models/props_interiors/side_table_square.mdl
+[16:34:00] CCA.C17-QrM.52934<STEAM_0:0:193599766> spawned model models/props_lab/huladoll.mdl
+[16:34:05] CCA.C17-QrM.52934<STEAM_0:0:193599766> used the tool permaprops on models/props_lab/huladoll.mdl
+[16:35:05] Client "ThanksDoctor" connected.
+[16:39:19] Client "ThanksDoctor" connected.
+[16:40:55] CCA.C17-QrM.52934: /toggleraise
+[16:42:52] Client "ThanksDoctor" connected.
+[16:43:04] Dropped "CCA.C17-QrM.52934" from server<STEAM_0:0:193599766>
+[16:46:09] Client "ThanksDoctor" spawned in server <STEAM_0:1:539910681> (took 197 seconds).
+[16:48:01] Dropped "ThanksDoctor" from server<STEAM_0:1:539910681>
+[18:53:01] Client "DRD" connected.
+[18:55:55] Client "DRD" spawned in server <STEAM_0:0:193599766> (took 174 seconds).
+[19:00:58] Dropped "DRD" from server<STEAM_0:0:193599766>
+[19:20:56] Client "Cayde-7" connected.
+[19:21:05] Client "DRD" connected.
+[19:23:45] Client "Cayde-7" spawned in server <STEAM_0:1:51616733> (took 169 seconds).
+[19:27:08] Client "DRD" connected.
+[19:27:17] Dropped "Cayde-7" from server<STEAM_0:1:51616733>
+[19:28:30] Client "matt saton" connected.
+[19:29:22] Client "DRD" spawned in server <STEAM_0:0:193599766> (took 134 seconds).
+[19:30:37] Client "Doughnut" connected.
+[19:30:59] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 149 seconds).
+[19:32:39] Client "ralph" connected.
+[19:32:49] matt saton<STEAM_0:1:53097688> changed their name to Lee Maylor
+[19:34:25] Dropped "DRD" from server<STEAM_0:0:193599766>
+[19:34:35] Client "Doughnut" spawned in server <STEAM_0:1:127409364> (took 238 seconds).
+[19:35:18] Doughnut<STEAM_0:1:127409364> changed their name to CCA.C17-JUDGE.i2.69124
+[19:35:26] CCA.C17-JUDGE.i2.69124: // beep beep potato
+[19:35:32] Client "ralph" spawned in server <STEAM_0:1:116497963> (took 173 seconds).
+[19:35:43] Lee Maylor: //oh sdhit it's ralph
+[19:35:45] Lee Maylor: //okey i do hw
+[19:37:20] CCA.C17-JUDGE.i2.69124: /toggleraise
+[19:37:22] CCA.C17-JUDGE.i2.69124: /toggleraise
+[19:37:49] ralph<STEAM_0:1:116497963> changed their name to Chris 'Cyclops' LeVon
+[19:38:02] Chris 'Cyclops' LeVon: // what happened to all my whitelists?
+[19:38:09] Chris 'Cyclops' LeVon: // and whats up guys
+[19:38:09] CCA.C17-JUDGE.i2.69124: // which ones did you have?
+[19:38:21] Chris 'Cyclops' LeVon: // i had CP and all the donator ones
+[19:38:33] Chris 'Cyclops' LeVon: // not all but the ones for i think $5
+[19:38:41] CCA.C17-JUDGE.i2.69124: // wait which one are you on disc just to confirm
+[19:38:56] Chris 'Cyclops' LeVon: // its me XYZ my name is CAPTAINMORGAN on disc now
+[19:39:01] CCA.C17-JUDGE.i2.69124: // oh alrighty
+[19:39:14] CCA.C17-JUDGE.i2.69124: // gimme a sec
+[19:39:52] CCA.C17-JUDGE.i2.69124: /plywhitelist chris xenian
+[19:39:56] CCA.C17-JUDGE.i2.69124: /plywhitelist chris zombie
+[19:40:12] CCA.C17-JUDGE.i2.69124: /plywhitelist chris "combine an"
+[19:40:24] CCA.C17-JUDGE.i2.69124: /plywhitelist chris "civil prot"
+[19:40:33] CCA.C17-JUDGE.i2.69124: /plywhitelist chris "combine civil"
+[19:40:41] CCA.C17-JUDGE.i2.69124: /plywhitelist chris bird
+[19:40:48] CCA.C17-JUDGE.i2.69124: /plywhitelist chris zombie
+[19:41:03] CCA.C17-JUDGE.i2.69124: /plywhitelist chris alien
+[19:41:09] CCA.C17-JUDGE.i2.69124: /plywhitelist chris unkown
+[19:42:05] Client "FB|| light ROOM" connected.
+[19:43:08] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> changed their name to CCA.C17-UNION.i5.01477
+[19:44:13] Client "FB|| light ROOM" spawned in server <STEAM_0:1:17219621> (took 128 seconds).
+[19:45:08] CCA.C17-UNION.i5.01477: // seeing the fog take over the city is kinda wild tbh
+[19:45:12] Client "dystress" connected.
+[19:45:24] FB|| light ROOM<STEAM_0:1:17219621> changed their name to Owen 'Unknown' Clark
+[19:46:03] Owen 'Unknown' Clark: // Crungle
+[19:46:07] CCA.C17-JUDGE.i2.69124: // crange
+[19:46:10] Client "Apollo7771FO3" connected.
+[19:46:14] Owen 'Unknown' Clark: // Cruinge
+[19:46:18] CCA.C17-JUDGE.i2.69124: // Creamge
+[19:46:25] Owen 'Unknown' Clark: // Crimge
+[19:46:26] CCA.C17-JUDGE.i2.69124: // crocks
+[19:47:22] Client "dystress" spawned in server <STEAM_0:0:178506700> (took 130 seconds).
+[19:48:01] CCA.C17-JUDGE.i2.69124<STEAM_0:1:127409364> changed their name to Preobrazhensky Bogolepov
+[19:48:16] Owen 'Unknown' Clark: // UNION please process the new boy
+[19:48:47] Client "Cayde-7" connected.
+[19:49:02] Owen 'Unknown' Clark: // Doughnut might have crashed
+[19:49:44] dystress<STEAM_0:0:178506700> changed their name to Leon Wakefield
+[19:50:10] Client "DRD" connected.
+[19:50:13] Owen 'Unknown' Clark: // Doughnut has to restart
+[19:50:15] CCA.C17-UNION.i5.01477: // oh my bad
+[19:50:20] Client "Cayde-7" spawned in server <STEAM_0:1:51616733> (took 93 seconds).
+[19:50:24] Owen 'Unknown' Clark: // No problem, when he returns process him
+[19:51:17] Leon Wakefield: // did it already start
+[19:51:18] Dropped "Preobrazhensky Bogolepov" from server<STEAM_0:1:127409364>
+[19:51:21] Owen 'Unknown' Clark: // Negative
+[19:51:27] Leon Wakefield: // oh ok
+[19:51:37] Owen 'Unknown' Clark: // DRD is having issues joining due to his PC so give it a moment
+[19:51:51] Leon Wakefield: // ill just be playing isaac till then lol
+[19:51:57] Owen 'Unknown' Clark: // kk
+[19:55:21] Client "Doughnut" connected.
+[19:56:23] Client "DRD" spawned in server <STEAM_0:0:193599766> (took 373 seconds).
+[19:57:42] Owen 'Unknown' Clark: // 7 players pog.
+[19:57:46] Owen 'Unknown' Clark: // A few are connecting as we speak
+[19:57:51] CCA.C17-UNION.i5.01477: // gang 
+[19:57:52] Owen 'Unknown' Clark: // type*
+[19:58:07] Client "Doughnut" spawned in server <STEAM_0:1:127409364> (took 166 seconds).
+[19:58:57] Dropped "Cayde-7" from server<STEAM_0:1:51616733>
+[19:59:19] Doughnut<STEAM_0:1:127409364> changed their name to Preobrazhensky Bogolepov
+[19:59:31] Owen 'Unknown' Clark: // DRD and Cayde need to re-connect ;-;
+[19:59:41] CCA.C17-UNION.i5.01477: // i love standing
+[19:59:44] Owen 'Unknown' Clark: // Also process Doughnut UNION
+[20:00:02] Dropped "DRD" from server<STEAM_0:0:193599766>
+[20:00:09] Preobrazhensky Bogolepov: // preobrazhensky bogolopog
+[20:00:17] CCA.C17-UNION.i5.01477: Apply
+[20:00:19] Preobrazhensky Bogolepov: /apply
+[20:00:30] Preobrazhensky Bogolepov: /chargiveflag preob Rpet
+[20:00:38] Client "Cayde-7" connected.
+[20:01:18] CCA.C17-UNION.i5.01477: .// my computer buggin
+[20:01:20] CCA.C17-UNION.i5.01477: .// my bad
+[20:01:24] Preobrazhensky Bogolepov: /looc dw
+[20:01:37] CCA.C17-UNION.i5.01477: Do you have a coupon?
+[20:01:56] Client "Cayde-7" spawned in server <STEAM_0:1:51616733> (took 78 seconds).
+[20:02:07] Preobrazhensky Bogolepov: /looc did you get it?
+[20:02:08] CCA.C17-UNION.i5.01477: /viewdata preobrazhensky
+[20:02:18] CCA.C17-UNION.i5.01477: .// yes
+[20:02:21] CCA.C17-UNION.i5.01477: Date of birth?
+[20:02:27] Cayde-7<STEAM_0:1:51616733> changed their name to Marcus Weller
+[20:02:29] CCA.C17-UNION.i5.01477: /viewdata preo
+[20:02:41] Preobrazhensky Bogolepov: 01/20/1974
+[20:02:58] CCA.C17-UNION.i5.01477: sex?
+[20:03:02] CCA.C17-UNION.i5.01477: /viewdata preo
+[20:03:03] Preobrazhensky Bogolepov: /looc yes
+[20:03:05] Preobrazhensky Bogolepov: Male
+[20:03:15] Client "Nightmare260K" connected.
+[20:03:15] CCA.C17-UNION.i5.01477: Blood type?
+[20:03:34] Preobrazhensky Bogolepov: O+
+[20:03:45] CCA.C17-UNION.i5.01477: And do you have any medical or mental conditions?
+[20:03:51] CCA.C17-UNION.i5.01477: /view data preo
+[20:03:52] Preobrazhensky Bogolepov: No
+[20:03:59] CCA.C17-UNION.i5.01477: /viewdata Preo
+[20:04:32] CCA.C17-UNION.i5.01477: /viewdata Preo
+[20:04:57] Client "DRD" connected.
+[20:05:06] CCA.C17-UNION.i5.01477: // been too long lmfao
+[20:05:11] Owen 'Unknown' Clark: // Truly
+[20:05:13] Preobrazhensky Bogolepov: // ye
+[20:05:56] CCA.C17-UNION.i5.01477: // 1 cp 5 civilians
+[20:06:02] Owen 'Unknown' Clark: // Poggies 
+[20:06:46] Client "cleric" connected.
+[20:07:10] Marcus Weller<STEAM_0:1:51616733> changed their name to Johanne Fük
+[20:07:32] Client "Nightmare260K" spawned in server <STEAM_0:0:24313417> (took 257 seconds).
+[20:09:12] Client "cleric" spawned in server <STEAM_0:1:45898972> (took 146 seconds).
+[20:09:31] CCA.C17-UNION.i5.01477: // do i need to process cleric
+[20:09:42] Preobrazhensky Bogolepov: // idk
+[20:09:47] Client "DRD" spawned in server <STEAM_0:0:193599766> (took 290 seconds).
+[20:11:30] Dropped "Nightmare260K" from server<STEAM_0:0:24313417>
+[20:11:58] cleric<STEAM_0:1:45898972> changed their name to Jordan Miles
+[20:12:09] Jordan Miles: /content
+[20:12:16] Jordan Miles<STEAM_0:1:45898972> changed their name to Tyrone Black
+[20:12:36] Tyrone Black<STEAM_0:1:45898972> changed their name to Jordan Miles
+[20:13:11] CCA.C17-UNION.i5.01477: // cleric do i need to process you
+[20:13:17] Jordan Miles: // im good, thank you :)
+[20:13:43] CCA.C17-UNION.i5.01477: /viewdata jordan 
+[20:13:51] Dropped "DRD" from server<STEAM_0:0:193599766>
+[20:13:55] CCA.C17-UNION.i5.01477: /viewdata preo
+[20:14:08] CCA.C17-UNION.i5.01477: /viewdata pero
+[20:14:11] CCA.C17-UNION.i5.01477: /viewdata preo
+[20:14:21] CCA.C17-UNION.i5.01477: /viewdata union.
+[20:14:30] CCA.C17-UNION.i5.01477: /viewdata i5
+[20:15:09] Jordan Miles<STEAM_0:1:45898972> changed their name to Tyrone Black
+[20:15:25] Tyrone Black: // Hello, is this real?
+[20:15:28] Johanne Fük: // no
+[20:15:29] Preobrazhensky Bogolepov: // ?
+[20:15:29] Tyrone Black<STEAM_0:1:45898972> changed their name to Jordan Miles
+[20:15:36] Lee Maylor: /plysearch
+[20:15:41] Johanne Fük<STEAM_0:1:51616733> changed their name to Marcus Weller
+[20:15:49] Leon Wakefield: // this is a simulation
+[20:15:53] Leon Wakefield: // welcome to the matrix
+[20:15:54] Jordan Miles: // ;)
+[20:15:56] Owen 'Unknown' Clark: // Exactly
+[20:16:19] CCA.C17-UNION.i5.01477: // how to have a bad trip 101
+[20:16:35] CCA.C17-UNION.i5.01477: Do you need something?
+[20:16:40] Leon Wakefield: // are we still waitign
+[20:16:41] Jordan Miles: I'm good, thank you sir!
+[20:16:44] Jordan Miles: Please, stay safe!
+[20:16:46] Preobrazhensky Bogolepov: // ye
+[20:16:54] Owen 'Unknown' Clark: // Yes because DRD's PC is pretty much a toaster.
+[20:16:58] Leon Wakefield: // rip
+[20:16:59] Dropped "Jordan Miles" from server<STEAM_0:1:45898972>
+[20:17:14] Client "cleric" connected.
+[20:17:19] CCA.C17-UNION.i5.01477: // why did cleric leave
+[20:17:26] Owen 'Unknown' Clark: // He's rejoining
+[20:17:34] Owen 'Unknown' Clark: // Player cleric has joined the game
+[20:17:47] CCA.C17-UNION.i5.01477: Stop running.
+[20:17:58] Marcus Weller: I found some propaganda... again.
+[20:18:02] CCA.C17-UNION.i5.01477: Oh?
+[20:18:30] Client "cleric" spawned in server <STEAM_0:1:45898972> (took 76 seconds).
+[20:18:30] Marcus Weller: It was in the ration place.
+[20:18:47] CCA.C17-UNION.i5.01477: Of course, if you see any suspicious activity please report it.
+[20:19:01] cleric<STEAM_0:1:45898972> changed their name to Tyrone Black
+[20:19:06] Tyrone Black: // I'm glad this is real :)
+[20:19:11] Tyrone Black<STEAM_0:1:45898972> changed their name to Jordan Miles
+[20:19:18] Owen 'Unknown' Clark: // Exactly
+[20:19:20] Leon Wakefield: Oh.
+[20:19:22] Preobrazhensky Bogolepov: /r Hello
+[20:19:25] Leon Wakefield: Hello there! Care to fight zombies?
+[20:19:27] Preobrazhensky Bogolepov: /ru Hello
+[20:19:28] Preobrazhensky Bogolepov: /toggleraise
+[20:19:29] CCA.C17-UNION.i5.01477: // tyrone is the server anomaly
+[20:19:35] Owen 'Unknown' Clark: // Exactly
+[20:19:36] Leon Wakefield: With fists?
+[20:19:40] Leon Wakefield: Hmm..
+[20:19:41] Owen 'Unknown' Clark: // Also crungle
+[20:19:43] Preobrazhensky Bogolepov: I have no other weapon
+[20:20:01] Preobrazhensky Bogolepov: /toggleraise
+[20:20:08] Leon Wakefield: That was way too many hits on us..
+[20:20:11] Leon Wakefield: Err, follow me.
+[20:20:15] Leon Wakefield: I can give you something.
+[20:20:50] Preobrazhensky Bogolepov: Ohhh
+[20:20:56] Leon Wakefield: This is a sort of... camp, in a sense.
+[20:20:58] Leon Wakefield: Lots of junk.
+[20:21:06] Leon Wakefield: Hm, you can take this wrench.
+[20:21:12] Preobrazhensky Bogolepov: /ru Thank you
+[20:21:18] Leon Wakefield: No idea what you're saying.
+[20:21:36] Leon Wakefield: Well, what are you doing in the sewers, man?
+[20:21:39] CCA.C17-UNION.i5.01477: // can i pwease raid the sewers :3
+[20:21:42] Preobrazhensky Bogolepov: Searching for goods
+[20:21:43] Leon Wakefield: Got in trouble with cops?
+[20:21:44] Leon Wakefield: Ah.
+[20:21:48] Leon Wakefield: Yeah, thats fair.
+[20:21:51] Jordan Miles: // Yes, please!
+[20:21:56] Preobrazhensky Bogolepov: Any bandages?
+[20:21:56] Owen 'Unknown' Clark: // Sure, but also leave your armor and weapons because you'll die anyways.
+[20:22:09] Leon Wakefield: You can take a bit of junk, just not the radios I suppose.
+[20:22:12] Leon Wakefield: I don't own the place.
+[20:22:15] CCA.C17-UNION.i5.01477: // i dont knowww mannn
+[20:22:20] CCA.C17-UNION.i5.01477<STEAM_0:1:116497963> changed their name to Chris 'Cyclops' LeVon
+[20:22:29] Leon Wakefield: Theres a couple others that swing by here to store stuff and be in a bit of a safe place.
+[20:22:35] Leon Wakefield: Even though it takes hell to get past the zombies.
+[20:22:47] Owen 'Unknown' Clark: // Ratio is god tier
+[20:22:59] Owen 'Unknown' Clark: // 0 to 7 pog
+[20:23:01] Chris 'Cyclops' LeVon<STEAM_0:1:116497963> changed their name to chezbugor
+[20:23:03] Leon Wakefield: Whats your name, lad?
+[20:23:06] Leon Wakefield: I'm Leon.
+[20:23:10] Preobrazhensky Bogolepov: Preo
+[20:23:24] Leon Wakefield: Nice to meet a kind soul in this circle of the underworld.
+[20:23:31] Preobrazhensky Bogolepov: Indeed
+[20:24:01] Preobrazhensky Bogolepov: /me starts tearing up gloves for scrap cloth
+[20:24:01] Client "DRD" connected.
+[20:24:26] Preobrazhensky Bogolepov: /chargiveitem preo "scrap cloth" 4
+[20:24:32] Preobrazhensky Bogolepov: /chargiveitem preo "cloth" 4
+[20:24:35] chezbugor<STEAM_0:1:116497963> changed their name to grrrrr
+[20:24:51] grrrrr: // <3
+[20:24:56] Owen 'Unknown' Clark: // grrrrr
+[20:24:57] Jordan Miles: // <3
+[20:25:09] Preobrazhensky Bogolepov: /me sews cloth together in sheets
+[20:25:20] Preobrazhensky Bogolepov: /me starts sewing them into bandages
+[20:25:23] Preobrazhensky Bogolepov: /rollstat fab
+[20:25:40] Preobrazhensky Bogolepov: /chargiveitem preo bandage
+[20:25:57] Preobrazhensky Bogolepov: Have a good one
+[20:26:02] Leon Wakefield: You too.
+[20:26:26] Preobrazhensky Bogolepov: /toggleraise
+[20:26:33] Preobrazhensky Bogolepov: /y Who is there
+[20:26:51] Owen 'Unknown' Clark: /y I would say my name but that isn't exactly the best thing to do here.
+[20:27:00] Preobrazhensky Bogolepov: /toggleraise
+[20:27:01] Owen 'Unknown' Clark: /y So I come in peace at the very least.
+[20:27:03] Preobrazhensky Bogolepov: Alright
+[20:27:10] Preobrazhensky Bogolepov: Nice gun
+[20:27:12] Owen 'Unknown' Clark: Yeah
+[20:27:29] Owen 'Unknown' Clark: Nice to see another person down here who hasn't become a corpse or gone crazy.
+[20:27:39] Client "DRD" spawned in server <STEAM_0:0:193599766> (took 218 seconds).
+[20:27:40] Leon Wakefield: /me bundles his arms with scrap metal and wire. He'd dump them over onto the table, and would take a seemingly sharp-edged bit of metal out of the piles of junk. He'd then begin to wrap a wire around the bottom area of said sharp metal chunk, cutting off--
+[20:27:48] Owen 'Unknown' Clark: /me Takes out a note-pad and places it onto the pipe next to him.
+[20:28:09] Leon Wakefield: /me cutting off the excess wire from the roll. He'd now begin to take another seemingly sharp edge and grazing it against the other, as if to sharpen it.
+[20:28:17] Owen 'Unknown' Clark: Alrighty, are you against the combine by chance?
+[20:28:27] Preobrazhensky Bogolepov: Why else would I be down here?
+[20:28:49] Owen 'Unknown' Clark: Fair, then are you currently in a group of your own?
+[20:29:10] Preobrazhensky Bogolepov: The group I was with had met an unfortunate fate to many enemies
+[20:29:17] Owen 'Unknown' Clark: Ah!
+[20:29:29] Owen 'Unknown' Clark: Then would you like to join "Shell Beach United"?
+[20:29:45] Preobrazhensky Bogolepov: Where are you located?
+[20:29:46] Owen 'Unknown' Clark: Our goal is to form the rebellion together so we aren't spread apart anymore.
+[20:29:56] Preobrazhensky Bogolepov: Sounds good to me
+[20:30:06] Dropped "DRD" from server<STEAM_0:0:193599766>
+[20:30:11] grrrrr: // wya
+[20:30:15] Owen 'Unknown' Clark: Sir, would you also like to join? we're happy to get anybody we can into it.
+[20:30:43] Owen 'Unknown' Clark: Our group will bring together the small packs of rebels and become something far beyond what the Combine thought we could become.
+[20:30:46] Preobrazhensky Bogolepov: // narnia
+[20:30:55] grrrrr: // i want to eat 
+[20:31:17] grrrrr: // stop hiding
+[20:31:19] Jordan Miles: Hello, sir! As long as I can use my soap to cleanse the infected souls from within; and expose their inner light - then there shall be no more talk!
+[20:31:36] Owen 'Unknown' Clark: Yes you can! we allow anything as long as it isn't killing each other.
+[20:31:43] Jordan Miles: Amen, brethren!
+[20:32:07] Owen 'Unknown' Clark: We wish to take over the outlands and bring it together.
+[20:32:07] Lee Maylor teleported to Leon Wakefield
+[20:32:22] Leon Wakefield: [[ a
+[20:32:27] Lee Maylor: ow my lungs
+[20:32:35] Lee Maylor set the hp for Themself to 99999999
+[20:32:37] Jordan Miles: I'll make sure to pack a few loads of soap; just in case we encounter any further splinter cells.
+[20:32:39] Lee Maylor: no keep
+[20:32:43] Owen 'Unknown' Clark: Mhm
+[20:32:47] Leon Wakefield: [[ lmao
+[20:32:48] Lee Maylor: /chargiveitem maylor "citizen filter" 5
+[20:32:51] Lee Maylor: alright
+[20:32:57] Owen 'Unknown' Clark: Alright, come with me!
+[20:33:01] Jordan Miles: Here; I recommend skimming through this.
+[20:33:02] Lee Maylor: .//alright so to succeed here, btw don't roll until i tell you to
+[20:33:32] grrrrr<STEAM_0:1:116497963> changed their name to CCA.C17-UNION.i5.01477
+[20:33:38] Lee Maylor: .//but you'll be rolling fabrication, and you'll have to roll above a....
+[20:33:41] Lee Maylor: .//let me think hold on
+[20:33:44] Preobrazhensky Bogolepov<STEAM_0:1:127409364> spawned/gave himself swep weapon_vfirethrower
+[20:33:44] Preobrazhensky Bogolepov: /toggleraise
+[20:34:17] Jordan Miles: /pm 01477 looking sharp today, sir!
+[20:34:36] Jordan Miles: /pm 01477 god bless :)
+[20:34:50] Lee Maylor: .//if your fab is below 5, you'll have to roll above a 30, if your fab is above 5, you'll have to roll over a 20.
+[20:34:59] Leon Wakefield: [[ fab is 0
+[20:35:04] CCA.C17-UNION.i5.01477: /pm jordan wya
+[20:35:08] Leon Wakefield: [[ i have no idea how to increase stats other than starting stats ngl
+[20:35:11] CCA.C17-UNION.i5.01477: apply
+[20:35:12] Leon Wakefield: [[ never delved into that
+[20:35:15] Marcus Weller: /apply
+[20:35:16] Leon Wakefield: /rollstat fab
+[20:35:22] CCA.C17-UNION.i5.01477: hmph
+[20:35:27] Leon Wakefield: [[ win
+[20:35:29] CCA.C17-UNION.i5.01477: /viewdata marcus
+[20:35:29] Lee Maylor: .//hold yup
+[20:35:41] Lee Maylor: .//you did good but give me a quic ksec
+[20:35:45] Lee Maylor: .//i need to test something rq
+[20:35:52] Preobrazhensky Bogolepov: /event Black smoke rises above the city as a fire blazes
+[20:35:57] Lee Maylor: /charsetattribute maylor fab 30
+[20:36:00] Lee Maylor: /rollstat fab
+[20:36:03] Lee Maylor: /rollstat guns
+[20:36:06] Client "DRD" connected.
+[20:36:09] Jordan Miles: I'll figure out a vvay to patch you up; those gashes don't look too cute.
+[20:36:13] Lee Maylor: .//so, you have to roll with /rollstat guns
+[20:36:14] CCA.C17-UNION.i5.01477: // all by myself? GOOD.
+[20:36:14] Lee Maylor: .//beacuse of 
+[20:36:17] Lee Maylor: .//programming bad
+[20:36:21] Lee Maylor: .//long story
+[20:36:30] Owen 'Unknown' Clark: Currently you will be the first to expand our group, these two buildings will be the next step in our take-over.
+[20:36:30] Leon Wakefield: [[ guns?
+[20:36:32] Preobrazhensky Bogolepov: /event As the smoke begins to build up you can tell it's near the Grizzly Grotto
+[20:36:35] Leon Wakefield: /rollstat guns
+[20:36:37] Lee Maylor: .//gamer
+[20:36:38] Leon Wakefield: [[ LETS FUCKING GOOOO
+[20:36:42] Owen 'Unknown' Clark: I will place the other member into it as well.
+[20:36:45] Lee Maylor: .//alright so to increase your crafting based states
+[20:36:49] Lee Maylor: so, eng, fab, and cooking
+[20:36:58] Lee Maylor: .//you have to craft things that use those attributes
+[20:36:58] Owen 'Unknown' Clark: You may place whatever you wish into these two houses.
+[20:36:59] Jordan Miles: Alright; the place will be ready for his arrival.
+[20:37:00] Lee Maylor: .//if that makes sense
+[20:37:05] Preobrazhensky Bogolepov: /toggleraise
+[20:37:09] Lee Maylor: .//so scrapping metal is the most basic form of using fabrication
+[20:37:14] Leon Wakefield: [[ does this specific craft increase such statistic?
+[20:37:15] CCA.C17-UNION.i5.01477: // uhh
+[20:37:17] CCA.C17-UNION.i5.01477: // oh
+[20:37:17] Owen 'Unknown' Clark: .// you can probably use PET flags with admin permission to make it nice.
+[20:37:20] Preobrazhensky Bogolepov: /toggleraise
+[20:37:21] Leon Wakefield: [[ like, roleplayed crafts?
+[20:37:32] Jordan Miles: I go by Miles, adventurer! I hope you return me the favour.
+[20:37:38] Lee Maylor: .//it's normally built in automatically for regular crafting, but since you did craft something, i'll give you an increase yes
+[20:37:46] Leon Wakefield: [[ ooh lovely
+[20:38:00] Lee Maylor: .//but for actually programmed in crafting recipes, it does it automatically
+[20:38:03] Owen 'Unknown' Clark: Mhm, I am Owen Clark but refer to myself as "unknowns" while in the city.
+[20:38:05] Lee Maylor: .//if you need an idea of what falls into which
+[20:38:15] Owen 'Unknown' Clark: Please do so as well when near Police.
+[20:38:22] Jordan Miles: Of course!
+[20:38:27] CCA.C17-UNION.i5.01477: /kickdoor
+[20:38:29] Jordan Miles: /pm owen f3 :)))
+[20:38:37] CCA.C17-UNION.i5.01477: // they need to fix my commands bruh
+[20:38:49] Owen 'Unknown' Clark: I will return to you later, please make these two houses your own.
+[20:38:49] Lee Maylor: .//engineering is things like technology, innovation, complex things
+[20:38:52] CCA.C17-UNION.i5.01477: /kickdoor
+[20:39:07] Owen 'Unknown' Clark: .// You can ask Admins for permission by the way.
+[20:39:07] Lee Maylor: .//so it's a measure of your knowledge to do technological and innovative things
+[20:39:11] Leon Wakefield: [[ oh i see i have that stat up already probably due to a work cycle
+[20:39:12] Jordan Miles: .// cheers :)
+[20:39:14] Lee Maylor: .//yep
+[20:39:15] Jordan Miles: Stay safe, lad!
+[20:39:28] Lee Maylor: .//fabrication is more the kind of thing that blue collar workers do
+[20:39:38] Lee Maylor: .//welding, blacksmithing, repair
+[20:39:40] CCA.C17-UNION.i5.01477: // is there anything more to that or
+[20:39:40] Lee Maylor: .//that kind of stuff
+[20:39:49] Leon Wakefield: [[ yeah i see
+[20:39:51] Owen 'Unknown' Clark: // Probably considering this is just the start apparently.
+[20:39:54] Leon Wakefield: [[ neat system
+[20:39:55] Client "GWAR" connected.
+[20:39:58] Lee Maylor: .//thank you
+[20:39:59] CCA.C17-UNION.i5.01477: Did you see anyone go into the apartments or come out?
+[20:39:59] Lee Maylor: .//it's not pefect
+[20:40:00] Preobrazhensky Bogolepov: /event The fire begins to die a bit as the fire is being suffocated by the smoke
+[20:40:03] Owen 'Unknown' Clark: // Although the Shell Beach United gang is just vibing
+[20:40:03] Lee Maylor: .//i need a better way to define the two
+[20:40:05] Client "DRD" spawned in server <STEAM_0:0:193599766> (took 239 seconds).
+[20:40:05] Marcus Weller: I did not.
+[20:40:07] Preobrazhensky Bogolepov: // DRD needs to do something
+[20:40:09] Lee Maylor: .//and exemplify them
+[20:40:09] CCA.C17-UNION.i5.01477: Hmph.
+[20:40:17] Lee Maylor: .//but that's a pretty basic way to think about it
+[20:40:34] Leon Wakefield: [[ i think its already pretty clear what the two are
+[20:40:39] Lee Maylor: .//epic
+[20:40:52] Lee Maylor: .//if you need to figure something out simply, engineering is things that require knowledge to make
+[20:40:58] Lee Maylor: .//fabrication is things that require skill to make
+[20:41:07] Leon Wakefield: [[ yeah thats a good definition
+[20:41:09] Lee Maylor: .//alright let me add your attribute
+[20:41:17] Lee Maylor: /charaddattribute leon fabrication 0.1
+[20:41:19] Lee Maylor: .//done
+[20:41:27] Lee Maylor: .//let me just...
+[20:41:41] Lee Maylor: .//let me maek the tem
+[20:41:50] Lee Maylor<STEAM_0:1:53097688> spawned model models/weapons/w_knife_ct.mdl
+[20:41:50] Leon Wakefield: [[ on the spot youre just gonna script a shiv?
+[20:41:51] Lee Maylor<STEAM_0:1:53097688> spawned model models/weapons/w_knife_t.mdl
+[20:41:52] Leon Wakefield: [[ oh ok
+[20:41:55] Leon Wakefield: [[ lmao
+[20:41:59] Owen 'Unknown' Clark<STEAM_0:1:17219621> changed their name to CCA.C17-UNION.i2.51514
+[20:42:06] Lee Maylor: .//so i would
+[20:42:06] Jordan Miles: /pm Owen I'll get the perms next time I'm on; I unfortunately need to recover my vessel until tomorrow :)
+[20:42:10] CCA.C17-UNION.i2.51514: /radio UNION.i2 is 10-8, units report on that fire.
+[20:42:11] DRD to admins: pray for me
+[20:42:12] Lee Maylor: .//but adding items onthe fly requires a lag spike
+[20:42:15] Lee Maylor: .//playerbase doesn't like lag spikes
+[20:42:16] Preobrazhensky Bogolepov to admins: no
+[20:42:18] Lee Maylor: .//but
+[20:42:20] CCA.C17-UNION.i5.01477: /radio Already handled.
+[20:42:29] Lee Maylor: .//what i will do for now is just give you a custom item
+[20:42:31] CCA.C17-UNION.i2.51514: /radio Copy that, report if anything else happens.
+[20:42:34] CCA.C17-UNION.i5.01477: /radio I ran in and checked, no civilians. The fire died out.
+[20:42:36] Lee Maylor: .//and then manually give you the combat knife swep
+[20:42:42] Lee Maylor: .//i'll make sure the staff team knows
+[20:42:42] Leon Wakefield: [[ alright
+[20:42:43] CCA.C17-UNION.i2.51514: /radio 10-4
+[20:42:50] CCA.C17-UNION.i5.01477: // is there a clear explanation to why the fire happened?
+[20:42:50] DRD<STEAM_0:0:193599766> changed their name to CCA.C17-GRID.i1.59212
+[20:42:56] CCA.C17-UNION.i2.51514<STEAM_0:1:17219621> changed their name to Owen 'Unknown' Clark
+[20:42:59] Jordan Miles: /pm 51514 Sir, I'll grab my perms tomorrow, as I (un)fortunately need to rest my vessel for a few hours. Buenas noches, amigo!
+[20:43:06] CCA.C17-UNION.i5.01477: // like if you were to walk in and be like "oh that's what caused it"
+[20:43:08] Lee Maylor: /createcustomitem "Shiv" models/weapons/w_knife_t.mdl "A crudely fashioned, fairly sharp weapon made from what seems to be scrap metal."
+[20:43:11] Jordan Miles: /pm owen Sir, I'll grab my perms tomorrow, as I (un)fortunately need to rest my vessel for a few hours. Buenas noches, amigo!
+[20:43:18] Lee Maylor gave Leon Wakefield weapon_knife
+[20:43:18] Lee Maylor: !give leon weapon_knife
+[20:43:21] Jordan Miles: // cya lads =)))
+[20:43:22] Dropped "Jordan Miles" from server<STEAM_0:1:45898972>
+[20:43:24] Leon Wakefield: [[ badasss
+[20:43:31] Owen 'Unknown' Clark: // Had to go to sleep.
+[20:43:31] Leon Wakefield: [[now i dont take 10 hits to kill zombies
+[20:43:32] Owen 'Unknown' Clark: // Big F
+[20:43:51] Lee Maylor: .//yepyep
+[20:44:15] Leon Wakefield: /me takes the result of his crafting, setting aside the shovel he was previously carrying onto the wall.
+[20:44:30] CCA.C17-UNION.i5.01477: // damn, i got to go
+[20:44:35] Owen 'Unknown' Clark: // F u c k
+[20:44:44] Lee Maylor: .//alright i told the staff tema
+[20:44:48] CCA.C17-UNION.i5.01477: // DRD is here though lol
+[20:44:50] Lee Maylor: .//dm me if you need anything else, i'll be here
+[20:45:02] CCA.C17-UNION.i5.01477: // cya lads <3
+[20:45:04] Owen 'Unknown' Clark: // Cya
+[20:45:04] Dropped "CCA.C17-UNION.i5.01477" from server<STEAM_0:1:116497963>
+[20:45:15] CCA.C17-GRID.i1.59212 to admins: my idea kind of had a fucking stroke along with my computer
+[20:45:29] Leon Wakefield: Time to test this out...
+[20:45:50] Lee Maylor: /pm owen which building? idk if doughnut told you my answer
+[20:45:53] Lee Maylor teleported to Owen 'Unknown' Clark
+[20:46:11] Owen 'Unknown' Clark: /reply Know the red and white little buildings near the coast?
+[20:46:21] Lee Maylor: /pm owen oh, yeah, the little ones? you mean those?
+[20:46:29] Owen 'Unknown' Clark: /reply Yep!
+[20:46:43] Lee Maylor: /pm owen alright, so i can't let you directly asspull furniture, but if you can find a reasonable place that you could IC get furniture from, it's yours
+[20:46:54] Lee Maylor: /pm owen i have two places in mind but i'm not going to say because of metacommentary
+[20:47:00] Preobrazhensky Bogolepov: /chargiveitem preo gasoline
+[20:47:11] Preobrazhensky Bogolepov: /chargiveitem preo matches
+[20:47:11] Owen 'Unknown' Clark: /reply well considering the main base is literally inside of a factory with a bunch of crates I would imagine that place would be one of them.
+[20:47:19] Leon Wakefield<STEAM_0:0:178506700> changed their name to Dakota Oswalt
+[20:47:22] Owen 'Unknown' Clark: /reply And or shipping containers.
+[20:47:27] Lee Maylor: /pm owen but what i will do is put the regular props you would expect in buildings like that
+[20:47:34] Owen 'Unknown' Clark: /reply Aight
+[20:47:39] CCA.C17-GRID.i1.59212 to admins: pls remind me to actually draft out a semi-detailed plan before doiung events : (
+[20:47:42] Lee Maylor: /pm owen and yeah, if you can IC get furntiure, it's yours
+[20:47:43] Lee Maylor to admins: okay
+[20:47:47] Lee Maylor to admins: improv difficult
+[20:47:51] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/cs_militia/table_shed.mdl
+[20:47:53] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_c17/bench01a.mdl
+[20:48:01] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_c17/bench01a.mdl
+[20:48:06] Lee Maylor<STEAM_0:1:53097688> used the tool material on models\props/cs_militia/table_shed.mdl
+[20:48:09] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_interiors/furniture_couch01a.mdl
+[20:48:11] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models\props/cs_militia/table_shed.mdl
+[20:48:21] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_interiors/furniture_desk01a.mdl
+[20:48:25] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_junk/wood_crate001a_damaged.mdl
+[20:48:28] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_junk/wood_crate002a.mdl
+[20:48:31] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_junk/wood_crate001a_damaged.mdl
+[20:48:33] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_interiors/furniture_couch02a.mdl
+[20:48:39] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_junk/wood_crate001a.mdl
+[20:48:41] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_junk/wood_crate001a.mdl
+[20:48:42] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_junk/wood_crate001a_damaged.mdl
+[20:48:42] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_junk/cardboard_box003a.mdl
+[20:48:46] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned ragdoll models/props_junk/cardboard_box003a_gib01.mdl
+[20:48:46] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_junk/wood_crate002a.mdl
+[20:49:00] Dakota Oswalt: Did something happen over there?
+[20:49:09] Marcus Weller: That building caught fire.
+[20:49:12] Dakota Oswalt: Oh..
+[20:49:13] Preobrazhensky Bogolepov: /me pours gasoline on the boxes and ground and tosses a lit match
+[20:49:13] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned/gave himself swep weapon_vfirethrower
+[20:49:15] CCA.C17-GRID.i1.59212: /toggleraise
+[20:49:16] Dakota Oswalt: Rough.
+[20:49:26] Dakota Oswalt: I was just relaxing in my apartment while I was seeing some sort of smoke.
+[20:49:34] Marcus Weller: Yeah, that'd be it.
+[20:49:34] Dakota Oswalt: Wack.
+[20:49:35] Preobrazhensky Bogolepov: /me pours gasoline on the ground and lights a match
+[20:49:40] CCA.C17-GRID.i1.59212: /toggleraise
+[20:49:41] Preobrazhensky Bogolepov: /me tosses down the math
+[20:49:41] Dakota Oswalt: Is the building just completely destroyed?
+[20:49:43] Preobrazhensky Bogolepov: /me tosses down the matc*h
+[20:49:51] Marcus Weller: Hard to tell from out here. And they've locked the doors.
+[20:49:59] Dakota Oswalt: Hmm..
+[20:50:02] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_c17/oildrum001.mdl
+[20:50:04] CCA.C17-GRID.i1.59212: /toggleraise
+[20:50:04] Owen 'Unknown' Clark: Whats up?
+[20:50:06] Dakota Oswalt: Hello there.
+[20:50:17] Dakota Oswalt: Some sort of fire just snuffed out that building over there from the inside.
+[20:50:17] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_c17/oildrum001.mdl
+[20:50:22] Owen 'Unknown' Clark: Oh my
+[20:50:25] Dakota Oswalt: Wonder whats the cause...
+[20:50:31] Dakota Oswalt: Someone left the oven on?
+[20:50:34] Owen 'Unknown' Clark: Possibly
+[20:50:45] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_c17/oildrum001.mdl
+[20:50:53] CCA.C17-GRID.i1.59212: /event Anyone near the Plaza could see some smoke rising from a building.
+[20:50:55] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_c17/oildrum001_explosive.mdl
+[20:51:21] Owen 'Unknown' Clark: oh my...
+[20:51:31] Dakota Oswalt: Oh--christ.
+[20:51:42] Dakota Oswalt: Okay--this isnt coincidence.
+[20:51:44] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_c17/oildrum001_explosive.mdl
+[20:51:45] Dakota Oswalt: Someones out here lighting fires.
+[20:51:49] Owen 'Unknown' Clark: Mhm
+[20:51:52] Marcus Weller: We need to find a CP.
+[20:51:53] Dakota Oswalt: Jesus..
+[20:51:55] Dakota Oswalt: Yeah.
+[20:51:56] Marcus Weller: I live there!
+[20:51:56] Owen 'Unknown' Clark: Yeah
+[20:51:57] Dakota Oswalt: No ones here..
+[20:51:59] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool creator on maps/rp_i17_variation_v0.bsp
+[20:51:59] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned/gave himself swep weapon_fireextinguisher
+[20:52:02] Preobrazhensky Bogolepov: What happened here?
+[20:52:07] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_c17/oildrum001.mdl
+[20:52:09] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_c17/oildrum001.mdl
+[20:52:10] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_c17/oildrum001.mdl
+[20:52:19] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool creator on maps/rp_i17_variation_v0.bsp
+[20:52:19] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned/gave himself swep weapon_fireextinguisher
+[20:52:21] Dakota Oswalt: /me unclips the fire extinguisher off the wall, and would turn to the fire.
+[20:52:25] Dakota Oswalt: Uhh...
+[20:52:33] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool creator on maps/rp_i17_variation_v0.bsp
+[20:52:33] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned/gave himself swep weapon_fireextinguisher
+[20:52:36] Dakota Oswalt: /me would, after a bit of configuration, attempt to snuff out the flame with such.
+[20:52:41] Owen 'Unknown' Clark: /y HELLO!
+[20:52:50] Owen 'Unknown' Clark: /y WE HAVE A FIRE GOING ON!
+[20:53:01] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool creator on maps/rp_i17_variation_v0.bsp
+[20:53:01] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned/gave himself swep weapon_fireextinguisher
+[20:53:01] Dakota Oswalt: /me seems to see that the fire extinguisher has run out. "What, already?!"
+[20:53:07] Owen 'Unknown' Clark: /pm GRID we are currently trying to report big fire boy
+[20:53:14] Dakota Oswalt: /me repeatedly mashes the clip, to no avail.
+[20:53:16] CCA.C17-GRID.i1.59212: /pm clark yessir
+[20:53:16] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/kitchen_shelf001a.mdl
+[20:53:23] Dakota Oswalt: The extinguisher ran out...
+[20:53:24] Owen 'Unknown' Clark: Where the hell?
+[20:53:25] Dakota Oswalt: Jesus christ.
+[20:53:29] Owen 'Unknown' Clark: Fucking crhist
+[20:53:31] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_vehicles/truck003a.mdl
+[20:53:34] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_vehicles/trailer002a.mdl
+[20:53:36] Owen 'Unknown' Clark: FIRE
+[20:53:37] Lee Maylor<STEAM_0:1:53097688> spawned ragdoll models/props_vehicles/wagon001a_phy.mdl
+[20:53:38] CCA.C17-GRID.i1.59212: i see it
+[20:53:42] Dakota Oswalt: Oh.
+[20:53:49] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned/gave himself swep weapon_fireextinguisher
+[20:53:53] Dakota Oswalt: It's... going a bit out, anyway?
+[20:53:55] Dakota Oswalt: I'm not sure.
+[20:53:57] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_vehicles/wagon001a_phy.mdl
+[20:54:03] Dakota Oswalt: /me takes a few steps back, feeling the heat through his suit.
+[20:54:07] CCA.C17-GRID.i1.59212: /toggleraise
+[20:54:11] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_canal/boat002b.mdl
+[20:54:11] Owen 'Unknown' Clark: Fuckin christ
+[20:54:26] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_canal/boat002b.mdl
+[20:54:27] CCA.C17-GRID.i1.59212: there's some fire extinguishers in the nexus, if you want to help.
+[20:54:27] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_canal/boat002b.mdl
+[20:54:34] Client "Chicken" connected.
+[20:54:38] CCA.C17-GRID.i1.59212: /toggleraise
+[20:54:53] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool creator on maps/rp_i17_variation_v0.bsp
+[20:54:53] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned/gave himself swep weapon_fireextinguisher
+[20:54:54] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool creator on maps/rp_i17_variation_v0.bsp
+[20:54:54] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned/gave himself swep weapon_fireextinguisher
+[20:54:54] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool creator on maps/rp_i17_variation_v0.bsp
+[20:54:54] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned/gave himself swep weapon_fireextinguisher
+[20:54:54] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool creator on maps/rp_i17_variation_v0.bsp
+[20:54:54] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned/gave himself swep weapon_fireextinguisher
+[20:54:54] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool creator on maps/rp_i17_variation_v0.bsp
+[20:54:54] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned/gave himself swep weapon_fireextinguisher
+[20:54:54] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool creator on maps/rp_i17_variation_v0.bsp
+[20:54:54] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned/gave himself swep weapon_fireextinguisher
+[20:54:55] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool creator on maps/rp_i17_variation_v0.bsp
+[20:54:55] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned/gave himself swep weapon_fireextinguisher
+[20:54:55] Owen 'Unknown' Clark: uh...
+[20:54:55] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool creator on maps/rp_i17_variation_v0.bsp
+[20:54:55] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned/gave himself swep weapon_fireextinguisher
+[20:54:56] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/kitchen_shelf001a.mdl
+[20:55:01] Dakota Oswalt: /me drops the empty extinguisher on the floor.
+[20:55:07] CCA.C17-GRID.i1.59212: /toggleraise
+[20:55:10] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/gaspump001a.mdl
+[20:55:10] Dakota Oswalt: [[ it wont let me dropit,
+[20:55:27] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned/gave himself swep weapon_fireextinguisher
+[20:55:30] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool creator on maps/rp_i17_variation_v0.bsp
+[20:55:30] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned/gave himself swep weapon_fireextinguisher
+[20:55:33] CCA.C17-GRID.i1.59212: /toggleraise
+[20:55:47] Dakota Oswalt: [[ unkillable fire
+[20:55:58] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/cs_militia/shelves.mdl
+[20:55:58] Preobrazhensky Bogolepov<STEAM_0:1:127409364> changed their name to CCA.C17-JUDGE.i2.69124
+[20:56:04] CCA.C17-GRID.i1.59212: /toggleraise
+[20:56:07] Owen 'Unknown' Clark: I think that is all
+[20:56:09] Dakota Oswalt: Is that it..?
+[20:56:10] Dakota Oswalt: Huh.
+[20:56:19] Dakota Oswalt: Someones putting these fires around.
+[20:56:21] Owen 'Unknown' Clark: // brb for a second
+[20:56:28] Dakota Oswalt: No way two buildings just decided to coincidentally catch on fire.
+[20:56:40] CCA.C17-GRID.i1.59212: /Rw There was a large fire in UHB Circulation.
+[20:56:48] CCA.C17-JUDGE.i2.69124: /radio Judge unit 69124 10-8
+[20:56:57] CCA.C17-GRID.i1.59212: /toggleraise
+[20:57:00] CCA.C17-GRID.i1.59212: .// HE HAS A GUN
+[20:57:07] CCA.C17-GRID.i1.59212: .// GET ON THE GROUND
+[20:57:37] Dakota Oswalt: [[ i went afk for a moment sory what hape
+[20:57:40] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/cs_militia/silo_01.mdl
+[20:57:41] Client "Chicken" spawned in server <STEAM_0:0:143523274> (took 187 seconds).
+[20:57:48] Lee Maylor: //:withered:
+[20:57:52] CCA.C17-GRID.i1.59212: // NOOOO
+[20:57:53] CCA.C17-GRID.i1.59212: /toggleraise
+[20:57:58] CCA.C17-JUDGE.i2.69124: hm
+[20:58:08] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on maps/rp_i17_variation_v0.bsp
+[20:58:09] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on maps/rp_i17_variation_v0.bsp
+[20:58:09] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models\props/cs_militia/shelves.mdl
+[20:58:18] CCA.C17-JUDGE.i2.69124: Everyone alive?
+[20:58:25] Dakota Oswalt: Seem so..
+[20:58:31] Chicken<STEAM_0:0:143523274> changed their name to Cooper 'Coop' Barns
+[20:58:32] CCA.C17-JUDGE.i2.69124: Grid
+[20:58:42] CCA.C17-JUDGE.i2.69124: Any other reports of fires recently
+[20:58:46] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_junk/wood_crate001a_damaged.mdl
+[20:58:48] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_junk/wood_crate001a.mdl
+[20:58:48] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_junk/wood_crate001a.mdl
+[20:58:49] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_junk/wood_crate002a.mdl
+[20:58:51] Owen 'Unknown' Clark: // back
+[20:58:53] CCA.C17-GRID.i1.59212: I just got on duty.
+[20:59:02] CCA.C17-JUDGE.i2.69124: So this is the only one?
+[20:59:05] Marcus Weller: There's been two. One down by the Manufacture building, and one here.
+[20:59:11] CCA.C17-GRID.i1.59212: Y- No.
+[20:59:17] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/cs_assault/moneypallet03.mdl
+[20:59:18] CCA.C17-JUDGE.i2.69124: How much time in between
+[20:59:19] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/cs_assault/moneypallete.mdl
+[20:59:22] Dakota Oswalt: A couple minutes...
+[20:59:26] CCA.C17-JUDGE.i2.69124: hm
+[20:59:27] CCA.C17-GRID.i1.59212: .// bbq gone wild
+[20:59:35] Owen 'Unknown' Clark: .// exactly
+[20:59:36] Marcus Weller: Hard to say exactly. A few minutes sounds right, though.
+[20:59:41] CCA.C17-JUDGE.i2.69124: /looc crackhead gone arson
+[20:59:43] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/de_inferno/bench_wood.mdl
+[20:59:45] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_urban/plastic_chair001.mdl
+[20:59:49] CCA.C17-GRID.i1.59212: .// i am racist
+[20:59:53] Dakota Oswalt: [[ man high on whipping cream air goes on arson spree
+[20:59:54] CCA.C17-JUDGE.i2.69124: Grid
+[20:59:56] Marcus Weller: // Crungle
+[21:00:06] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/controlroom_chair001a.mdl
+[21:00:08] CCA.C17-GRID.i1.59212: // no
+[21:00:10] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_wasteland/controlroom_chair001a.mdl
+[21:00:15] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_junk/trafficcone001a.mdl
+[21:00:18] Lee Maylor: /chargiveitem maylor traffic cone
+[21:00:19] CCA.C17-JUDGE.i2.69124: Was anyone spotted in, around, or near the building that seemed any bit suspicious
+[21:00:20] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_junk/trafficcone001a.mdl
+[21:00:22] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_junk/trafficcone001a.mdl
+[21:00:25] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_junk/trafficcone001a.mdl
+[21:00:27] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_junk/trafficcone001a.mdl
+[21:00:28] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_junk/trafficcone001a.mdl
+[21:00:29] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_junk/trafficcone001a.mdl
+[21:00:30] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_junk/trafficcone001a.mdl
+[21:00:43] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_junk/trafficcone001a.mdl
+[21:00:49] CCA.C17-GRID.i1.59212: I only saw the building up in flames,
+[21:00:57] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on maps/rp_i17_variation_v0.bsp
+[21:00:57] CCA.C17-GRID.i1.59212: he reported it
+[21:00:57] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on maps/rp_i17_variation_v0.bsp
+[21:01:04] CCA.C17-JUDGE.i2.69124: Any of you see anyone even slightly suspicious?
+[21:01:12] Owen 'Unknown' Clark: Not from what I saw
+[21:01:13] Dakota Oswalt: No.
+[21:01:35] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/kitchen_shelf002a.mdl
+[21:01:35] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_wasteland/kitchen_shelf002a.mdl
+[21:01:37] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/kitchen_shelf002a.mdl
+[21:01:47] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_wasteland/kitchen_shelf002a.mdl
+[21:01:51] CCA.C17-JUDGE.i2.69124: Grid, I'll file a report of this try and gather any evidence at all while I'm doing so
+[21:01:52] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on maps/rp_i17_variation_v0.bsp
+[21:01:53] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_wasteland/kitchen_shelf001a.mdl
+[21:02:14] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_wasteland/buoy01.mdl
+[21:02:17] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_junk/trafficcone001a.mdl
+[21:02:18] Lee Maylor<STEAM_0:1:53097688> used the tool creator on maps/rp_i17_variation_v0.bsp
+[21:02:18] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_junk/trafficcone001a.mdl
+[21:02:19] Lee Maylor<STEAM_0:1:53097688> used the tool creator on maps/rp_i17_variation_v0.bsp
+[21:02:20] Lee Maylor<STEAM_0:1:53097688> used the tool creator on maps/rp_i17_variation_v0.bsp
+[21:02:20] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_junk/trafficcone001a.mdl
+[21:02:20] Lee Maylor<STEAM_0:1:53097688> used the tool creator on maps/rp_i17_variation_v0.bsp
+[21:02:21] Lee Maylor<STEAM_0:1:53097688> used the tool creator on maps/rp_i17_variation_v0.bsp
+[21:02:21] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_junk/trafficcone001a.mdl
+[21:02:22] Lee Maylor<STEAM_0:1:53097688> used the tool creator on maps/rp_i17_variation_v0.bsp
+[21:02:22] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_junk/trafficcone001a.mdl
+[21:02:22] Lee Maylor<STEAM_0:1:53097688> used the tool creator on maps/rp_i17_variation_v0.bsp
+[21:02:22] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_junk/trafficcone001a.mdl
+[21:02:29] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_junk/trafficcone001a.mdl
+[21:02:29] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_junk/trafficcone001a.mdl
+[21:02:30] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_junk/trafficcone001a.mdl
+[21:02:30] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on maps/rp_i17_variation_v0.bsp
+[21:02:31] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_junk/trafficcone001a.mdl
+[21:02:31] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_junk/trafficcone001a.mdl
+[21:02:31] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on maps/rp_i17_variation_v0.bsp
+[21:02:38] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on maps/rp_i17_variation_v0.bsp
+[21:02:40] CCA.C17-GRID.i1.59212: /kickdoor
+[21:02:43] CCA.C17-GRID.i1.59212: /kickdoor
+[21:02:44] CCA.C17-JUDGE.i2.69124: /chargiveitem judge notepad
+[21:02:45] CCA.C17-GRID.i1.59212: /toggleraise
+[21:02:50] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/cs_militia/table_shed.mdl
+[21:03:39] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/cs_militia/furnace01.mdl
+[21:03:49] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/cs_militia/furniture_shelf01a.mdl
+[21:03:54] Dakota Oswalt: Hey, wait.
+[21:04:00] Dakota Oswalt: You've got a green band...
+[21:04:05] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/cs_militia/microwave01.mdl
+[21:04:09] Dakota Oswalt: Do you know of any way to actually get an... efficient... amount of LP?
+[21:04:16] CCA.C17-GRID.i1.59212 to admins: anyone watching chicken?
+[21:04:20] Lee Maylor: /me would take out his combat knife and cut the individual's ties.
+[21:04:25] Dakota Oswalt: It seems like its a seriously slow grind for getting a sizeable amount.
+[21:04:27] Lee Maylor to admins: propping and then hq
+[21:04:29] Lee Maylor to admins: hw*
+[21:04:31] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/cs_militia/sawhorse.mdl
+[21:04:34] Lee Maylor to admins: so i can't
+[21:04:37] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/cs_militia/wood_table.mdl
+[21:04:39] Marcus Weller: Most of them came from work desk tasks. Though I had a pretty big boost when I reported three citizens beating up a CP.
+[21:04:44] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/cs_militia/rockpileramp01.mdl
+[21:04:51] CCA.C17-JUDGE.i2.69124 to admins: am do watch
+[21:04:54] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_urban/outhouse001.mdl
+[21:04:54] Dakota Oswalt: Oh, yeah, I forgot reporting crimes is a serious boost of LP.
+[21:04:57] Owen 'Unknown' Clark: Hello there Coop
+[21:04:58] Lee Maylor to admins: wamtch*
+[21:05:02] Cooper 'Coop' Barns: Hello
+[21:05:10] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_urban/outhouse001.mdl
+[21:05:13] Owen 'Unknown' Clark: Have you seen the new base and what not? i've made many advancements since you went to sleep.
+[21:05:23] Cooper 'Coop' Barns: I have not
+[21:05:29] Owen 'Unknown' Clark: Then come with me!
+[21:05:30] Dakota Oswalt: What other methods were there?
+[21:05:33] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/de_tides/tides_streetlight.mdl
+[21:05:42] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/cs_militia/refrigerator01.mdl
+[21:05:50] Marcus Weller: I mean, you could turn in propaganda, but the most consistent method is doing work. I'm not sure about other things.
+[21:05:51] Lee Maylor to admins: cs_militia has great props and i love them
+[21:05:54] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/cs_militia/microwave01.mdl
+[21:05:58] Dakota Oswalt: Right.
+[21:06:00] Marcus Weller: .// contraband*
+[21:06:05] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/cs_militia/microwave01.mdl
+[21:06:06] CCA.C17-GRID.i1.59212: /r From what I can tell, the fire originated in the lounge area.
+[21:06:12] Marcus Weller: .// i'm a fucking idiot
+[21:06:14] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/cs_militia/mountedfish01.mdl
+[21:06:14] Dakota Oswalt: Okay then. Guess I'm grinding away at the work desk.
+[21:06:17] CCA.C17-GRID.i1.59212: .// yes you are
+[21:06:19] Dakota Oswalt: Thanks man.
+[21:06:25] Dakota Oswalt: [[ wtfg ghost grid
+[21:06:27] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/cs_militia/mountedfish01.mdl
+[21:06:49] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/cs_militia/couch.mdl
+[21:07:00] CCA.C17-JUDGE.i2.69124: /radio Alright my reports done, returning to 10-50
+[21:07:08] Dakota Oswalt: Oh-- Officer.
+[21:07:13] CCA.C17-JUDGE.i2.69124: Yes?
+[21:07:14] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/cs_office/radio.mdl
+[21:07:19] Dakota Oswalt: I'd like to get some sort of work task.
+[21:07:27] CCA.C17-GRID.i1.59212: // I AM NOT A PENGUIN
+[21:07:28] Dakota Oswalt: Unless you're busy, of course, with the fire stuff.
+[21:07:28] CCA.C17-JUDGE.i2.69124: Go up to the desk
+[21:07:44] CCA.C17-JUDGE.i2.69124: Alright let me grab you something
+[21:07:56] CCA.C17-GRID.i1.59212: Yes?
+[21:07:56] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/cs_office/offcorkboarda.mdl
+[21:08:03] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/cs_militia/reloadingpress01.mdl
+[21:08:05] CCA.C17-JUDGE.i2.69124: Take these and put them up around the city
+[21:08:13] CCA.C17-GRID.i1.59212 to admins: can i make a cwu char that sells like
+[21:08:17] Dakota Oswalt: Are these adhesive? The last time I did this, I needed a roll of tape.
+[21:08:17] Lee Maylor<STEAM_0:1:53097688> spawned model models/props/cs_militia/stove01.mdl
+[21:08:22] CCA.C17-GRID.i1.59212 to admins: naturopathic stuff
+[21:08:25] CCA.C17-JUDGE.i2.69124: I'll get you some tape
+[21:08:28] Dakota Oswalt: Alright.
+[21:08:31] Marcus Weller: Hey, I was wondering about joining the CCA.
+[21:08:36] Dakota Oswalt: /me swipes the posters off the desk.
+[21:08:37] Lee Maylor to admins: you mean like homeopathic shit
+[21:08:38] Owen 'Unknown' Clark: These two houses are the bases for the lower ranking rebels in our group.
+[21:08:39] Lee Maylor to admins: that's super diluted
+[21:08:45] CCA.C17-JUDGE.i2.69124: /chargiveitem judge tape
+[21:08:46] CCA.C17-GRID.i1.59212 to admins: whatever it is
+[21:08:56] Dakota Oswalt: Thank you.
+[21:09:00] Lee Maylor to admins: ieman
+[21:09:02] Lee Maylor to admins: i mean*
+[21:09:10] Dakota Oswalt: Hmm..
+[21:09:14] Lee Maylor to admins: i don't have a reason to say no, but that's what my gut is saying
+[21:09:33] Marcus Weller: // CPs walk like angry penguins
+[21:09:36] Owen 'Unknown' Clark: // Fair
+[21:09:38] Cooper 'Coop' Barns: // true
+[21:09:49] CCA.C17-GRID.i1.59212 to admins: it'd be funky but im sure it'd be somewhat possible to grow plants ic, it'd be hard tho
+[21:09:53] Dakota Oswalt: /me places down most of the posters on the ground, picking up one and holding it up against the wall. He'd simeltaneously try and scroll out the tape from the roll and tape it to the edges.
+[21:09:59] CCA.C17-JUDGE.i2.69124 to admins: drugs!
+[21:10:05] Dakota Oswalt: /me picks up the remaining 4 and carries onward to a different place.
+[21:10:12] CCA.C17-GRID.i1.59212 to admins: nah, oil of lavender and stuff like that
+[21:10:16] CCA.C17-GRID.i1.59212 to admins: ~~laudanum~~
+[21:10:34] CCA.C17-GRID.i1.59212: /r I have a 10-91 here interested in joining the CCA. 
+[21:10:35] Owen 'Unknown' Clark: Now are you aware of our name and what not?
+[21:10:39] Cooper 'Coop' Barns: Uhh
+[21:10:40] Dakota Oswalt: /me does the exact same against the wall. Place the stack, take one, hold it up against the wall and scroll out the tape onto the poster.
+[21:10:41] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_interiors/sinkkitchen01a.mdl
+[21:10:44] CCA.C17-GRID.i1.59212: Apply
+[21:10:46] Marcus Weller: /apply
+[21:10:53] Owen 'Unknown' Clark: We are the "Shell Beach United Rebellion"
+[21:10:54] Lee Maylor to admins: why does lightroom have to team with chicken ;-;
+[21:10:59] CCA.C17-GRID.i1.59212: /r e
+[21:11:00] CCA.C17-GRID.i1.59212: /r e
+[21:11:01] CCA.C17-GRID.i1.59212: /r e
+[21:11:02] CCA.C17-GRID.i1.59212: /r ee
+[21:11:09] Cooper 'Coop' Barns: Now whats your gun policy?
+[21:11:13] Dakota Oswalt: /me still continues the grind with the remaining 3 posters.
+[21:11:13] CCA.C17-GRID.i1.59212: /r ioyug
+[21:11:14] Cooper 'Coop' Barns: Kidding
+[21:11:17] Owen 'Unknown' Clark: haha
+[21:11:24] CCA.C17-GRID.i1.59212: /r w
+[21:11:29] CCA.C17-GRID.i1.59212: /r uwu
+[21:11:32] Owen 'Unknown' Clark: /radio // cringe
+[21:11:39] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_interiors/soap_dispenser.mdl
+[21:11:40] CCA.C17-GRID.i1.59212: /r //okay wtf, you can hear me but he cant
+[21:11:46] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_interiors/soap_dispenser.mdl
+[21:11:50] CCA.C17-JUDGE.i2.69124: /radio i got it now
+[21:11:55] CCA.C17-GRID.i1.59212: /r fucking sweet
+[21:11:56] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_interiors/sinkkitchen01a.mdl
+[21:11:58] CCA.C17-JUDGE.i2.69124: /radio //fuck meant to be ooc
+[21:12:01] Owen 'Unknown' Clark: But seriously, we're a group of several different rebel groups united together to end the Combine.
+[21:12:02] Marcus Weller: // GRID.i1.59212 radios in: "uwu"
+[21:12:02] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_interiors/sinkkitchen01a.mdl
+[21:12:03] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/props_interiors/soap_dispenser.mdl
+[21:12:05] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_interiors/sinkkitchen01a.mdl
+[21:12:06] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_interiors/soap_dispenser.mdl
+[21:12:06] CCA.C17-JUDGE.i2.69124: // NO
+[21:12:07] Dakota Oswalt: /me returns to the entry with only the tape.
+[21:12:08] Lee Maylor: //!ban
+[21:12:13] Dakota Oswalt: /me places it down.
+[21:12:19] CCA.C17-GRID.i1.59212: // dont worry, doughnuts radio fucked up
+[21:12:20] Dakota Oswalt: [[ do iplace down the poster script item aswell
+[21:12:24] CCA.C17-GRID.i1.59212: /r I have a 10-91 here interested in joining the CCA. 
+[21:12:25] CCA.C17-JUDGE.i2.69124: /looc ye
+[21:12:29] Owen 'Unknown' Clark: I can say that you will be one of my top "generals" I guess you could say.
+[21:12:41] CCA.C17-JUDGE.i2.69124: apply
+[21:12:42] Owen 'Unknown' Clark: Coop, from now on we aren't just a duo.
+[21:12:51] Dakota Oswalt: 62128, Dakota Oswalt.
+[21:12:54] CCA.C17-JUDGE.i2.69124: /viewdata Dakota
+[21:12:55] CCA.C17-GRID.i1.59212 to admins: i will find valerian somehow in i17
+[21:12:56] Owen 'Unknown' Clark: We are the saviors of these savage outlands and the destroyers of i17.
+[21:13:03] Cooper 'Coop' Barns: /me nods
+[21:13:15] CCA.C17-JUDGE.i2.69124: Alright
+[21:13:19] Owen 'Unknown' Clark: Good
+[21:13:19] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_c17/furniturefireplace001a.mdl
+[21:13:31] Owen 'Unknown' Clark: Now we'll start by recruiting as many people as possible.
+[21:13:35] CCA.C17-JUDGE.i2.69124: You need anything else?
+[21:13:44] CCA.C17-GRID.i1.59212: apply
+[21:13:47] Dakota Oswalt: Is it fine if I continue on another work task? Or is there a cooldown?
+[21:13:48] Marcus Weller: /apply
+[21:13:50] CCA.C17-JUDGE.i2.69124: /radio Send him to the nexus
+[21:13:52] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_c17/furniturefireplace001a.mdl
+[21:13:52] CCA.C17-GRID.i1.59212: /viewdata marc
+[21:13:53] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models\props/cs_militia/couch.mdl
+[21:13:54] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models\props/cs_militia/refrigerator01.mdl
+[21:13:54] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models\props/cs_militia/microwave01.mdl
+[21:13:55] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models\props/cs_militia/table_shed.mdl
+[21:13:55] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models\props/cs_office/radio.mdl
+[21:14:01] CCA.C17-GRID.i1.59212: alright, 10 LP.
+[21:14:05] CCA.C17-GRID.i1.59212: Go to the Nexus.
+[21:14:07] Lee Maylor: /pm owen done
+[21:14:11] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_urban/outhouse001.mdl
+[21:14:12] CCA.C17-JUDGE.i2.69124: /me hands him more posters and tape
+[21:14:14] Owen 'Unknown' Clark: /reply Bet
+[21:14:16] Dakota Oswalt: Ah, alright.
+[21:14:18] Cooper 'Coop' Barns: Take my crowbar 
+[21:14:21] Owen 'Unknown' Clark: Alrighty.
+[21:14:30] Cooper 'Coop' Barns: /me laughs saying "sir"
+[21:14:35] Owen 'Unknown' Clark: /me Chuckles
+[21:14:42] Owen 'Unknown' Clark: Well we'll have to get formal soon
+[21:14:55] Dakota Oswalt: /me repeats his process of placing the posters on the wall, holding up the poster and taping it up.
+[21:15:00] Owen 'Unknown' Clark: /droptokens 100
+[21:15:06] CCA.C17-JUDGE.i2.69124: This him?
+[21:15:10] CCA.C17-GRID.i1.59212: yeah
+[21:15:14] CCA.C17-JUDGE.i2.69124: Alright then
+[21:15:18] Dakota Oswalt: /me repeats his process of placing the posters on the wall, holding up the poster and taping it up.
+[21:15:23] Owen 'Unknown' Clark: /addtenant Cooper 'Coop' Barns
+[21:15:27] Dakota Oswalt: /me repeats his process of placing the posters on the wall, holding up the poster and taping it up.
+[21:15:34] Owen 'Unknown' Clark: // Come here Q, I need you to add him as a tenant.
+[21:15:43] CCA.C17-GRID.i1.59212: // i got it
+[21:15:46] Owen 'Unknown' Clark: // Bet
+[21:15:47] Dakota Oswalt: /me finishes up the last poster.
+[21:15:56] CCA.C17-GRID.i1.59212 teleported to Owen 'Unknown' Clark
+[21:15:56] CCA.C17-GRID.i1.59212: !goto owen
+[21:16:03] CCA.C17-GRID.i1.59212: /addtenant cooper
+[21:16:06] CCA.C17-GRID.i1.59212: /addtenant cooper
+[21:16:08] CCA.C17-JUDGE.i2.69124 to admins: yo q drd wants to know if we can do an IC app for a boi with sufficient lp
+[21:16:14] CCA.C17-GRID.i1.59212: /addtenant cooper
+[21:16:15] CCA.C17-GRID.i1.59212: /addtenant cooper
+[21:16:23] Dakota Oswalt: [[ awkward
+[21:16:23] CCA.C17-JUDGE.i2.69124: /looc you saw nothing
+[21:16:24] Lee Maylor: /me would take out his combat knife and cut the individual's ties.
+[21:16:28] Lee Maylor to admins: i'd like to do the IC app
+[21:16:29] CCA.C17-GRID.i1.59212: .// that it?
+[21:16:33] Owen 'Unknown' Clark: .// Yep
+[21:16:38] CCA.C17-GRID.i1.59212: .// coolio
+[21:16:40] Lee Maylor to admins: but please tell the boi that i am terribly sorry
+[21:16:40] CCA.C17-JUDGE.i2.69124 to admins: k ill do the training for him
+[21:16:44] Dakota Oswalt: /me returns yet again with just the tape.
+[21:16:50] Dakota Oswalt: /me places it back.
+[21:17:01] CCA.C17-JUDGE.i2.69124: /viewdata osw
+[21:17:07] Lee Maylor to admins: no!!!! i'm not doing it right now!!!! i just mean when i ahve the time
+[21:17:14] CCA.C17-JUDGE.i2.69124 to admins: i am!
+[21:17:20] CCA.C17-JUDGE.i2.69124 to admins: dw famther
+[21:17:29] CCA.C17-JUDGE.i2.69124: Alright I added your points
+[21:17:44] CCA.C17-JUDGE.i2.69124: At this time I have no more items for you to do a task
+[21:17:48] Dakota Oswalt: Alright.
+[21:17:49] Dakota Oswalt: Thanks, officer.
+[21:17:52] Lee Maylor to admins: thank
+[21:17:56] CCA.C17-JUDGE.i2.69124 to admins: bonk
+[21:18:30] CCA.C17-GRID.i1.59212: /toggleraise
+[21:18:38] CCA.C17-GRID.i1.59212 gave Themself 30 rounds
+[21:18:38] CCA.C17-GRID.i1.59212: !giveammo grid 30
+[21:18:56] CCA.C17-GRID.i1.59212: // void biosig lose
+[21:19:04] CCA.C17-GRID.i1.59212 suicided!
+[21:19:04] CCA.C17-JUDGE.i2.69124 slayed CCA.C17-GRID.i1.59212
+[21:19:04] CCA.C17-JUDGE.i2.69124: !slay grid
+[21:19:13] CCA.C17-JUDGE.i2.69124: // i sneezed really hard and he died
+[21:19:26] Owen 'Unknown' Clark: // F
+[21:19:30] CCA.C17-JUDGE.i2.69124: // yeah
+[21:19:49] CCA.C17-GRID.i1.59212: // *loud, booming voice.* h-hewwo?
+[21:19:55] CCA.C17-JUDGE.i2.69124: // NO
+[21:19:55] Owen 'Unknown' Clark: // Crungle
+[21:20:43] CCA.C17-GRID.i1.59212 to admins: why don't cp's need filters?
+[21:21:34] Dakota Oswalt: // speedrun
+[21:21:39] CCA.C17-JUDGE.i2.69124: // fest
+[21:21:46] Cooper 'Coop' Barns: // 1v1 me loser
+[21:21:50] CCA.C17-JUDGE.i2.69124: // yuck
+[21:21:51] Cooper 'Coop' Barns: // winner gets 10 tokens
+[21:21:54] CCA.C17-JUDGE.i2.69124: // bet
+[21:22:02] Dakota Oswalt: // winner gets full ration reward
+[21:22:12] Cooper 'Coop' Barns: // ayo were you at
+[21:22:23] CCA.C17-JUDGE.i2.69124: // hold up gotta beat drd again
+[21:22:50] Dakota Oswalt: // i have not played this in 5 years
+[21:23:54] CCA.C17-GRID.i1.59212: // who is erika and why does she have 100k flowers
+[21:24:02] Owen 'Unknown' Clark: // Wha
+[21:24:14] CCA.C17-GRID.i1.59212: // im going to stuff you with bees
+[21:24:42] Dakota Oswalt: // wow im retarded
+[21:24:47] Owen 'Unknown' Clark: // F
+[21:25:37] Owen 'Unknown' Clark: // GET YOUR FREE TVS
+[21:26:26] CCA.C17-JUDGE.i2.69124: // i have won
+[21:26:27] CCA.C17-GRID.i1.59212: /toggleraise
+[21:26:28] CCA.C17-GRID.i1.59212: /toggleraise
+[21:26:42] CCA.C17-JUDGE.i2.69124: // who dares challange me to checkers
+[21:26:47] Owen 'Unknown' Clark: // Crungle
+[21:26:53] Cooper 'Coop' Barns: // 1v1 me loser hotel
+[21:27:01] Owen 'Unknown' Clark: // Metaville
+[21:27:18] Owen 'Unknown' Clark: /radio // uwu
+[21:27:28] Dakota Oswalt: [[ im fucked:(
+[21:27:31] CCA.C17-JUDGE.i2.69124: /radio // swear on ya yeezies
+[21:27:34] Cooper 'Coop' Barns: /looc surrender loser
+[21:27:49] Dakota Oswalt: [[ not surrendering im dying the dignified way
+[21:27:54] CCA.C17-GRID.i1.59212: /r // who is erika and what is she douing with those bee's NOH MY HGOD ERIKA NO
+[21:28:51] Dakota Oswalt: [[ GOODBYE WORLD<,,,,
+[21:28:57] Dakota Oswalt: [[ my final message
+[21:28:59] Cooper 'Coop' Barns: /looc gg no re
+[21:29:06] CCA.C17-GRID.i1.59212: // WTF
+[21:29:09] Dakota Oswalt: // i have elo??? wtf
+[21:29:10] Cooper 'Coop' Barns: 1v1 me loser
+[21:29:11] Dakota Oswalt: // badass
+[21:30:53] Owen 'Unknown' Clark: // Crungie
+[21:30:55] Owen 'Unknown' Clark: // poggie
+[21:30:57] Owen 'Unknown' Clark: // dumbie
+[21:31:00] Owen 'Unknown' Clark: // Cringie
+[21:31:11] Owen 'Unknown' Clark: // When am I getting banned for this?
+[21:31:16] CCA.C17-GRID.i1.59212: .// RIGHT NOW
+[21:31:19] Owen 'Unknown' Clark: .// FU_
+[21:31:22] CCA.C17-JUDGE.i2.69124: /looc chicken it's still your move
+[21:31:43] Owen 'Unknown' Clark: .// Prop flying but with people
+[21:32:31] Dakota Oswalt: [[ yooo
+[21:32:34] CCA.C17-JUDGE.i2.69124: /looc magic
+[21:33:25] Dakota Oswalt: [[ lmao
+[21:33:27] Cooper 'Coop' Barns: // SBOTAGE
+[21:33:29] Owen 'Unknown' Clark: .// Don't worry about this
+[21:33:33] Owen 'Unknown' Clark: .// just let it happen
+[21:33:36] Cooper 'Coop' Barns: // sabotage
+[21:33:44] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_c17/lampshade001a.mdl
+[21:33:50] Owen 'Unknown' Clark: .// This is one of my generals not doing his fucking task and i'll sabotage him for it
+[21:33:56] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_c17/furniturefridge001a.mdl
+[21:33:59] Marcus Weller: // CP: "Go to the Nexus" 
+[21:34:07] Marcus Weller: // Me: Aight bet
+[21:34:08] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned model models/props_interiors/pot02a.mdl
+[21:34:12] Owen 'Unknown' Clark: // Bet
+[21:34:18] Owen 'Unknown' Clark<STEAM_0:1:17219621> spawned model models/props_borealis/bluebarrel001.mdl
+[21:34:25] CCA.C17-GRID.i1.59212: /PM AMRC REJOIN M
+[21:34:29] CCA.C17-GRID.i1.59212: /pm marc rejoin vc?
+[21:34:30] CCA.C17-JUDGE.i2.69124: /looc could y'all not
+[21:34:30] Cooper 'Coop' Barns: .// BITCH
+[21:34:35] Owen 'Unknown' Clark: .// Fine
+[21:34:40] Marcus Weller: /pm 59212 can't right now
+[21:34:44] Cooper 'Coop' Barns: /looc im trying to kick doughnuts ass
+[21:34:45] CCA.C17-GRID.i1.59212: /pm marcus f
+[21:34:49] Owen 'Unknown' Clark: .// smh my head
+[21:35:00] Marcus Weller: /pm 59212 they're explaining stuff
+[21:35:07] CCA.C17-GRID.i1.59212: /pm marc boring
+[21:35:18] Owen 'Unknown' Clark: .// I told him to spread propoganda and he has yet to do it.
+[21:35:21] Owen 'Unknown' Clark: .// I will kill him
+[21:35:58] Dakota Oswalt: [[ this is fucking hilarious
+[21:36:01] Owen 'Unknown' Clark: .// Good
+[21:36:14] Owen 'Unknown' Clark: .// Welcome to PR
+[21:37:39] CCA.C17-GRID.i1.59212: /toggleraise
+[21:37:42] CCA.C17-GRID.i1.59212: /toggleraise
+[21:37:44] Owen 'Unknown' Clark: .// OW
+[21:37:48] Owen 'Unknown' Clark: .// Heal me fucker
+[21:37:48] CCA.C17-GRID.i1.59212 set the hp for Owen 'Unknown' Clark to 100
+[21:37:48] CCA.C17-GRID.i1.59212: !HP OWEN 100
+[21:38:01] CCA.C17-GRID.i1.59212: /toggleraise
+[21:38:02] Owen 'Unknown' Clark: // BRUh
+[21:38:03] Cooper 'Coop' Barns: // GG LOSER
+[21:38:05] CCA.C17-GRID.i1.59212: /toggleraise
+[21:38:06] Cooper 'Coop' Barns: // DESTROYED
+[21:38:08] CCA.C17-JUDGE.i2.69124: /looc gg to one of two people who beat me
+[21:38:20] CCA.C17-JUDGE.i2.69124: // chicken shush ive beaten you before
+[21:38:25] Cooper 'Coop' Barns: // false
+[21:38:28] CCA.C17-JUDGE.i2.69124: // nah
+[21:39:26] Dakota Oswalt<STEAM_0:0:178506700> changed their name to Leon Wakefield
+[21:39:52] Leon Wakefield: /pm lee should i try on the radio now or you busy ?
+[21:40:04] CCA.C17-JUDGE.i2.69124: /toggleraise
+[21:40:05] CCA.C17-JUDGE.i2.69124: /toggleraise
+[21:40:32] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> changed their name to CCA.C17-QrM.52934
+[21:41:38] CCA.C17-QrM.52934: /me takes a photograph of the citizen, with a bright flash
+[21:41:46] CCA.C17-QrM.52934: /me attempts to tie the subject (resist?)
+[21:41:47] CCA.C17-QrM.52934: /me strips of weapons and comms
+[21:41:48] CCA.C17-QrM.52934: /me strips of weapons and comms
+[21:41:49] CCA.C17-QrM.52934: /me takes a photograph of the citizen, with a bright flash
+[21:43:15] CCA.C17-QrM.52934<STEAM_0:0:193599766> spawned model models/props_wasteland/controlroom_chair001a.mdl
+[21:43:42] CCA.C17-QrM.52934<STEAM_0:0:193599766> used the tool permaprops on models/props_wasteland/controlroom_chair001a.mdl
+[21:43:57] CCA.C17-QrM.52934<STEAM_0:0:193599766> spawned model models/props_wasteland/controlroom_chair001a.mdl
+[21:44:30] CCA.C17-QrM.52934<STEAM_0:0:193599766> used the tool permaprops on models/props_wasteland/controlroom_chair001a.mdl
+[21:45:06] Lee Maylor: /pm leon i could use a breka
+[21:45:11] Lee Maylor<STEAM_0:1:53097688> changed their name to Ryan Maley
+[21:45:33] Ryan Maley: /pm leon if you'yre still dwon you can try the radio
+[21:45:40] CCA.C17-QrM.52934: /toggleraise
+[21:45:43] CCA.C17-QrM.52934: /toggleraise
+[21:45:46] Leon Wakefield: /pm ryan alrighty
+[21:45:50] CCA.C17-JUDGE.i2.69124: /toggleraise
+[21:45:50] CCA.C17-QrM.52934: /toggleraise
+[21:45:56] CCA.C17-QrM.52934: /toggleraise
+[21:46:05] CCA.C17-JUDGE.i2.69124: /toggleraise
+[21:46:08] CCA.C17-QrM.52934: /toggleraise
+[21:46:17] CCA.C17-QrM.52934: /GE DEUSTCH
+[21:46:51] Leon Wakefield: //me presses the crude button on the generator and toggles on the radio, ensuring the microphones off.
+[21:46:58] Leon Wakefield: // OOPS THAT OOC LMA OOO
+[21:47:02] Owen 'Unknown' Clark: // LMAO
+[21:47:05] Leon Wakefield: // FUCK
+[21:47:08] Owen 'Unknown' Clark: // nice
+[21:47:12] Leon Wakefield: /me presses the crude button on the generator and toggles on the radio, ensuring the microphones off.
+[21:48:35] Leon Wakefield: /me would then roll the switch for the frequency to 97.2. He'd then flick the switch on.
+[21:48:45] Leon Wakefield: [[ the mic on* omfg
+[21:48:55] Leon Wakefield: Hello?
+[21:49:22] Ryan Maley: H---h-o-
+[21:49:35] Leon Wakefield: Oh, jeez. You're real static-y.
+[21:49:36] Ryan Maley: --ge, ---r-- ead?
+[21:49:43] Leon Wakefield: Uh... Barely?
+[21:49:44] CCA.C17-QrM.52934: !BRING OWENB
+[21:49:45] CCA.C17-QrM.52934 brought Owen 'Unknown' Clark
+[21:49:45] CCA.C17-QrM.52934: !BRING OWEN
+[21:49:56] Ryan Maley: Ho-d -n, -'m tr---ng to f-x it.
+[21:50:07] Ryan Maley: Ok-y, how's th-s?
+[21:50:13] Ryan Maley: It should be fixed.
+[21:50:17] Leon Wakefield: Much better.
+[21:50:22] CCA.C17-QrM.52934<STEAM_0:0:193599766> spawned model models/props_lab/huladoll.mdl
+[21:50:22] Leon Wakefield: Now my ears aren't being drilled into.
+[21:50:23] CCA.C17-QrM.52934<STEAM_0:0:193599766> spawned model models/props_lab/huladoll.mdl
+[21:50:25] CCA.C17-QrM.52934<STEAM_0:0:193599766> spawned model models/props_lab/huladoll.mdl
+[21:50:27] CCA.C17-QrM.52934<STEAM_0:0:193599766> spawned model models/props_lab/huladoll.mdl
+[21:50:30] Leon Wakefield: Anyway, this is err... Cubbage, right? Or is this someone else?
+[21:50:32] CCA.C17-QrM.52934<STEAM_0:0:193599766> used the tool creator on maps/rp_i17_variation_v0.bsp
+[21:50:32] CCA.C17-QrM.52934<STEAM_0:0:193599766> spawned model models/props_lab/huladoll.mdl
+[21:50:32] CCA.C17-QrM.52934<STEAM_0:0:193599766> used the tool creator on models/police_nemez.mdl
+[21:50:32] CCA.C17-QrM.52934<STEAM_0:0:193599766> used the tool creator on models/police_nemez.mdl
+[21:50:32] CCA.C17-QrM.52934<STEAM_0:0:193599766> spawned model models/props_lab/huladoll.mdl
+[21:50:33] CCA.C17-QrM.52934<STEAM_0:0:193599766> used the tool creator on maps/rp_i17_variation_v0.bsp
+[21:50:33] CCA.C17-QrM.52934<STEAM_0:0:193599766> used the tool creator on maps/rp_i17_variation_v0.bsp
+[21:50:33] CCA.C17-QrM.52934<STEAM_0:0:193599766> used the tool creator on maps/rp_i17_variation_v0.bsp
+[21:50:33] CCA.C17-QrM.52934<STEAM_0:0:193599766> spawned model models/props_lab/huladoll.mdl
+[21:50:33] CCA.C17-QrM.52934<STEAM_0:0:193599766> used the tool creator on maps/rp_i17_variation_v0.bsp
+[21:50:34] CCA.C17-QrM.52934<STEAM_0:0:193599766> used the tool creator on maps/rp_i17_variation_v0.bsp
+[21:50:34] CCA.C17-QrM.52934<STEAM_0:0:193599766> used the tool creator on maps/rp_i17_variation_v0.bsp
+[21:50:34] CCA.C17-QrM.52934<STEAM_0:0:193599766> used the tool creator on maps/rp_i17_variation_v0.bsp
+[21:50:34] CCA.C17-QrM.52934<STEAM_0:0:193599766> spawned model models/props_lab/huladoll.mdl
+[21:50:35] CCA.C17-QrM.52934<STEAM_0:0:193599766> used the tool creator on maps/rp_i17_variation_v0.bsp
+[21:50:35] CCA.C17-QrM.52934<STEAM_0:0:193599766> used the tool creator on maps/rp_i17_variation_v0.bsp
+[21:50:35] CCA.C17-QrM.52934<STEAM_0:0:193599766> used the tool creator on maps/rp_i17_variation_v0.bsp
+[21:50:35] CCA.C17-QrM.52934<STEAM_0:0:193599766> spawned model models/props_lab/huladoll.mdl
+[21:50:35] CCA.C17-QrM.52934<STEAM_0:0:193599766> used the tool creator on models/props_lab/huladoll.mdl
+[21:50:36] CCA.C17-QrM.52934<STEAM_0:0:193599766> used the tool creator on maps/rp_i17_variation_v0.bsp
+[21:50:37] CCA.C17-QrM.52934 suicided!
+[21:50:58] CCA.C17-JUDGE.i2.69124 returned Owen 'Unknown' Clark to their original position
+[21:50:58] CCA.C17-JUDGE.i2.69124: !return owen
+[21:51:00] CCA.C17-QrM.52934: !RETURN OW
+[21:51:00] Ryan Maley: No, this is Cubbage.
+[21:51:09] Ryan Maley: The crew right now is... nonexistant, almost.
+[21:51:15] Leon Wakefield: Did something happen?
+[21:51:24] Ryan Maley: Well, yes and no.
+[21:51:29] Ryan Maley: Something happened before *I* got here.
+[21:51:34] Owen 'Unknown' Clark<STEAM_0:1:17219621> changed their name to CCA.C17-UNION.OfC.56321
+[21:51:40] Ryan Maley: But after I got here, no, nothing's happened.
+[21:51:46] CCA.C17-UNION.OfC.56321<STEAM_0:1:17219621> used the tool creator on maps/rp_i17_variation_v0.bsp
+[21:51:46] CCA.C17-UNION.OfC.56321<STEAM_0:1:17219621> used the tool creator on maps/rp_i17_variation_v0.bsp
+[21:51:51] CCA.C17-UNION.OfC.56321<STEAM_0:1:17219621> used the tool rb655_easy_bodygroup on maps/rp_i17_variation_v0.bsp
+[21:51:52] CCA.C17-UNION.OfC.56321<STEAM_0:1:17219621> used the tool rb655_easy_bodygroup on maps/rp_i17_variation_v0.bsp
+[21:51:55] CCA.C17-QrM.52934: /PLYWHITELIST MARCUS AUTHORITY
+[21:52:10] Leon Wakefield: Oh... Well, that's a shame to hear. But, I came in on an update for the whole X-RAY thing, if you're still looking into that.
+[21:52:19] CCA.C17-QrM.52934: /plytransfer marc author
+[21:52:30] CCA.C17-QrM.52934: /charsetmodel marc models/police_nemez.mdl
+[21:52:45] CCA.C17-QrM.52934: /roll 99999
+[21:52:54] Marcus Weller: /roll 99999
+[21:52:58] Ryan Maley: Yeah, I've gotten a bit on it since we first talked. But go ahead.
+[21:53:03] CCA.C17-JUDGE.i2.69124: /charsetname marcus CCA.C17-RCT.71085
+[21:53:03] Ryan Maley: What did you learn?
+[21:53:03] Marcus Weller<STEAM_0:1:51616733> changed their name to CCA.C17-RCT.71085
+[21:53:07] CCA.C17-JUDGE.i2.69124 set the hp for CCA.C17-UNION.OfC.56321 to 100
+[21:53:07] CCA.C17-JUDGE.i2.69124: !hp ofc 100
+[21:53:09] CCA.C17-QrM.52934 gave Themself 90 rounds
+[21:53:09] CCA.C17-QrM.52934: !giveammo qrm 90
+[21:53:10] Ryan Maley to admins: um what the fuck
+[21:53:11] CCA.C17-QrM.52934: /toggleraise
+[21:53:12] CCA.C17-JUDGE.i2.69124 set the hp for CCA.C17-UNION.OfC.56321 to 102
+[21:53:12] CCA.C17-JUDGE.i2.69124: !hp ofc 102
+[21:53:14] Ryan Maley to admins: why the fuck is he a recruit
+[21:53:16] CCA.C17-QrM.52934 killed CCA.C17-RCT.71085 using player
+[21:53:19] CCA.C17-QrM.52934: /toggleraise
+[21:53:21] CCA.C17-JUDGE.i2.69124 to admins: cause i trained him?
+[21:53:24] CCA.C17-QrM.52934 to admins: doughnut said
+[21:53:25] Ryan Maley to admins: he didn't apply
+[21:53:26] CCA.C17-QrM.52934 to admins: w
+[21:53:28] Ryan Maley to admins: he never applied
+[21:53:36] Ryan Maley to admins: i said he couldn't apply yet
+[21:53:37] CCA.C17-JUDGE.i2.69124 to admins: I thought you said to do IC app?
+[21:53:42] Ryan Maley to admins: i said i would do the app
+[21:53:53] CCA.C17-UNION.OfC.56321: New RCT?
+[21:54:00] Leon Wakefield: Oh, I meant I was asking you for an update, but I guess I did learn something. I did err, I believe, find one of the relay stations. Atleast just a large cell tower. It was on some sort of beach.
+[21:54:15] Ryan Maley: Oh, I misunderstood, my bad.
+[21:54:18] Leon Wakefield: I didn't go really far out into there obviously, but I just glanced at it.
+[21:54:22] CCA.C17-JUDGE.i2.69124 to admins: I said i would do it for you and you said thank you
+[21:54:23] Ryan Maley: Yeah, apparently it's some big radio array.
+[21:54:25] Leon Wakefield: Seems theres antlions out there too where it was.
+[21:54:27] CCA.C17-UNION.OfC.56321<STEAM_0:1:17219621> changed their name to Owen 'Unknown' Clark
+[21:54:30] CCA.C17-JUDGE.i2.69124 to admins: famthner am confused
+[21:54:33] Ryan Maley to admins: i thought you were talking about doing the training for me
+[21:54:40] CCA.C17-JUDGE.i2.69124 to admins: bruh
+[21:54:43] CCA.C17-QrM.52934 to admins: should we uh
+[21:54:46] CCA.C17-QrM.52934 to admins: undo his char
+[21:54:48] Ryan Maley to admins: yes
+[21:54:57] Ryan Maley to admins: i will apologize to him for the mistake
+[21:55:06] Leon Wakefield: So, X-RAY is the big one and not the small connector, eh? Glad thats cleared out of the way.
+[21:55:18] Ryan Maley: Yeah, it doesn't seem like it's a huge deal in the grand scheme of things.
+[21:55:23] CCA.C17-QrM.52934 to admins: ugh
+[21:55:24] Ryan Maley: I was expecting something top secret.
+[21:55:26] CCA.C17-JUDGE.i2.69124: /charsetname RCT Marcus Weller
+[21:55:26] CCA.C17-RCT.71085<STEAM_0:1:51616733> changed their name to Marcus Weller
+[21:55:29] CCA.C17-QrM.52934 to admins: whats the hazmat suit model
+[21:55:37] Leon Wakefield: Then I wonder what the entire city was so riled up about.
+[21:55:38] Ryan Maley to admins: hazmat suit model?
+[21:55:39] Owen 'Unknown' Clark: You fucking scared me
+[21:55:47] Cooper 'Coop' Barns: I did what you asked
+[21:55:49] CCA.C17-QrM.52934: /plytransfer marc citizen
+[21:55:51] Ryan Maley to admins: I couldn't say, but I've got a good guess.
+[21:55:51] Owen 'Unknown' Clark: Good ot know
+[21:55:51] Leon Wakefield: During the whole big event where all the notes were being passed around, all the lights just...
+[21:55:53] Leon Wakefield: Switched off.
+[21:55:54] Ryan Maley to admins: shit wrong chat
+[21:55:55] Owen 'Unknown' Clark: .// to*
+[21:55:59] CCA.C17-JUDGE.i2.69124: /charsetmodel marcus models/player/zelpa/male_07_extended.mdl
+[21:56:00] CCA.C17-QrM.52934 to admins: i mean the citizen suit
+[21:56:08] CCA.C17-QrM.52934 to admins: i mean
+[21:56:10] Ryan Maley to admins: just give him a regular citizen suit model
+[21:56:10] Owen 'Unknown' Clark: I'm glad, now return to the city and act as our smuggler.
+[21:56:12] CCA.C17-QrM.52934 to admins: he does have his training done
+[21:56:13] Leon Wakefield: And then some backup.. generator? Of sorts? Turned everything back on.
+[21:56:15] CCA.C17-QrM.52934 to admins: so
+[21:56:16] Owen 'Unknown' Clark: You will be the city general.
+[21:56:23] Owen 'Unknown' Clark: And have all jurisdiction in that area.
+[21:56:29] Cooper 'Coop' Barns: well
+[21:56:29] CCA.C17-QrM.52934: /toggleraise
+[21:56:29] Marcus Weller suicided!
+[21:56:35] Cooper 'Coop' Barns: how do you want me to get them here
+[21:56:41] Cooper 'Coop' Barns: how do I know they wont rat us out?
+[21:57:06] Ryan Maley: Yeah, I managed to intercept a report on that. It didn't seem like anything too big of a deal. The most important thing about it is that it connects all of City 17's radio communications.
+[21:57:10] Dropped "Marcus Weller" from server<STEAM_0:1:51616733>
+[21:57:14] Ryan Maley: So if that thing goes down, City 17 is cut off from the rest of the world.
+[21:57:17] Owen 'Unknown' Clark: That is up to you, you'll be self-governing within reason and set the people who will assist you in these endeavors.
+[21:57:24] CCA.C17-QrM.52934: // he had to go to bed
+[21:57:28] Leon Wakefield: So what did the notes mean by it being exposed?
+[21:57:35] Cooper 'Coop' Barns: Alright
+[21:57:36] Ryan Maley: /me would take out his combat knife and cut the individual's ties.
+[21:57:38] Ryan Maley: .//void, fuck
+[21:57:45] Ryan Maley: What did the notes say again? Refresh my memory.
+[21:57:46] Leon Wakefield: [[ awesome bind
+[21:57:47] Cooper 'Coop' Barns: Ill tell them to meet you at those smaller houses
+[21:57:51] Cooper 'Coop' Barns: so be expecting
+[21:57:51] CCA.C17-JUDGE.i2.69124<STEAM_0:1:127409364> changed their name to Preobrazhensky Bogolepov
+[21:57:55] Owen 'Unknown' Clark: Good to know
+[21:57:56] Leon Wakefield: "X-RAY is exposed" or something like that, that's all.
+[21:58:08] Leon Wakefield: Or maybe it said vulnerabl--Anyway, same thing.
+[21:58:33] Cooper 'Coop' Barns: Yo
+[21:58:39] Preobrazhensky Bogolepov: /ru Hello?
+[21:58:46] Cooper 'Coop' Barns: Niet
+[21:58:48] Ryan Maley: I'm not sure. My guess is that it was some opportunistic person or group of people who knew what XRAY going down meant.
+[21:58:50] Preobrazhensky Bogolepov: /ru What?
+[21:58:53] Cooper 'Coop' Barns: What?
+[21:58:58] Cooper 'Coop' Barns: I speak english
+[21:58:59] Ryan Maley: Y'know, the whole being cut off from communications thing.
+[21:59:20] Leon Wakefield: Yeah, I agree.
+[21:59:20] Ryan Maley: From the report that I got, it seems like the tower drew way more power than the Combine expected.
+[21:59:34] Preobrazhensky Bogolepov: /me turns on the radio
+[21:59:35] Leon Wakefield: Oh...
+[21:59:42] Owen 'Unknown' Clark: Ah, are you one of my recruits?
+[21:59:42] Leon Wakefield: So thats why all the lights knocked out.
+[21:59:45] Ryan Maley: Yep.
+[21:59:46] Preobrazhensky Bogolepov: Yes
+[21:59:57] Owen 'Unknown' Clark: Good to know, this will be your home from now on.
+[22:00:04] Ryan Maley: But when that went out, the whole system was, no pun intended here, shocked.
+[22:00:09] Preobrazhensky Bogolepov: Better than the city
+[22:00:10] Ryan Maley: So it all came down with it.
+[22:00:29] Leon Wakefield: So it technically WAS vulnerable..?
+[22:00:31] Owen 'Unknown' Clark: Welcome to Shell Beach United.
+[22:00:37] Ryan Maley: It was more than vulnerable.
+[22:00:44] Ryan Maley: The tower was entirely down.
+[22:00:48] Preobrazhensky Bogolepov: /ru oh you again
+[22:00:54] Leon Wakefield: Physically or..
+[22:00:55] Cooper 'Coop' Barns: You know the russian?
+[22:01:02] Ryan Maley: not physically. electricitywise.
+[22:01:04] Ryan Maley: It wasn't running.
+[22:01:04] Leon Wakefield: Yeah.
+[22:01:11] Owen 'Unknown' Clark: Why are you here? I put you in the city if i'm correct.
+[22:01:19] Owen 'Unknown' Clark: Was there an issue?
+[22:01:22] Cooper 'Coop' Barns: I need my crowbar
+[22:01:23] Ryan Maley: I'm not sure if you're misremembering, because the tower being vulnerable doesn't seem to make sense to point out.
+[22:01:24] Owen 'Unknown' Clark: Ah
+[22:01:34] Ryan Maley: Maybe I'm just crazy, or the guy who wrote the note is.
+[22:01:36] Leon Wakefield: No, no, thats definitely what the note said.
+[22:01:40] Ryan Maley: hm
+[22:01:40] Cooper 'Coop' Barns: Ill check in with ya in a week
+[22:01:41] Ryan Maley: weird
+[22:01:43] Cooper 'Coop' Barns: see ya
+[22:01:44] Owen 'Unknown' Clark: Alrighty
+[22:01:45] Ryan Maley: I'm not seeing anything about a backup generator, but I see something about a known pre-war generator.
+[22:01:52] Owen 'Unknown' Clark: That is one of our older members.
+[22:02:04] Leon Wakefield: Know where it is?
+[22:02:04] Preobrazhensky Bogolepov: Mhmmm
+[22:02:07] Ryan Maley: They had to turn it back on so they could kick start other power facilities back on.
+[22:02:13] CCA.C17-QrM.52934 to admins: so uh
+[22:02:15] Ryan Maley: Yes, I do, but not from their documentation.
+[22:02:15] CCA.C17-QrM.52934 to admins: q
+[22:02:17] Ryan Maley to admins: yeah
+[22:02:20] CCA.C17-QrM.52934 to admins: uh
+[22:02:21] Leon Wakefield: What from, then?
+[22:02:30] Owen 'Unknown' Clark: Now as you are one of us you'll be placing any rebels you see into our group, forcefully or peacefully.
+[22:02:31] CCA.C17-QrM.52934 to admins: chickens like right in front of the conscript base lmao
+[22:02:35] Ryan Maley: .//hold on
+[22:02:37] Ryan Maley teleported to CCA.C17-QrM.52934
+[22:02:56] Ryan Maley to admins: if he walks in front of it again hit the alarm and send out light as a conscript and yourself as a coastal OTA
+[22:02:56] Owen 'Unknown' Clark: We are here to take over and rule this outlands as one.
+[22:03:00] Owen 'Unknown' Clark: Not in packs spread out.
+[22:03:05] CCA.C17-QrM.52934 to admins: sure
+[22:03:10] Owen 'Unknown' Clark: Do you understand?
+[22:03:11] Ryan Maley to admins: but he has to walk in front of the window within very clear sight
+[22:03:15] Preobrazhensky Bogolepov: Yup
+[22:03:19] Owen 'Unknown' Clark: Oh and here.
+[22:03:20] Ryan Maley returned Themself to their original position
+[22:03:24] Ryan Maley: .//sorry, admin shit
+[22:03:26] Owen 'Unknown' Clark: /me Holds out a CCA issue Combat knife.
+[22:03:28] Leon Wakefield: [[ no worries
+[22:03:30] CCA.C17-QrM.52934 to admins: yeah
+[22:03:32] Preobrazhensky Bogolepov: Ooh
+[22:03:32] Ryan Maley: I've got some schematics from what the generator was from before.
+[22:03:38] Owen 'Unknown' Clark: Better than no weapon right?
+[22:03:39] CCA.C17-QrM.52934 to admins: im not gonna noclip in weird corners to get a glimpse
+[22:03:46] Ryan Maley to admins: yeah
+[22:03:51] Ryan Maley: It's part of what used to be a large underground power facility.
+[22:03:52] CCA.C17-QrM.52934 to admins: i dislike him but he still deserves somewhat fair stuff
+[22:03:55] Ryan Maley to admins: agree
+[22:03:59] Preobrazhensky Bogolepov: /toggleraise
+[22:04:02] Leon Wakefield: Underground, eh?
+[22:04:03] Preobrazhensky Bogolepov: /toggleraise
+[22:04:04] Preobrazhensky Bogolepov: /toggleraise
+[22:04:07] CCA.C17-QrM.52934 to admins: everyone deserves equal rights, except you
+[22:04:11] Owen 'Unknown' Clark: Alrighty, i'll leave you be for now.
+[22:04:11] Leon Wakefield: What are the odds they're here in the sewers?
+[22:04:12] CCA.C17-QrM.52934 to admins: <3
+[22:04:12] Preobrazhensky Bogolepov to admins: woah there
+[22:04:14] Owen 'Unknown' Clark: Actually one more thing.
+[22:04:14] Ryan Maley to admins: yeah, the generator is underground.
+[22:04:19] Ryan Maley to admins: fuck, wrong chat
+[22:04:24] Ryan Maley: yeah, the generator is underground. 
+[22:04:32] Owen 'Unknown' Clark: I am Owen Clark but officially speaking I am referred to as "unknown" for privacy.
+[22:04:37] Ryan Maley: One hundred perecent, that's exactly where it is.
+[22:04:40] Owen 'Unknown' Clark: And you are?
+[22:04:43] Ryan Maley: It's not a they, it's just one generator.
+[22:04:52] Leon Wakefield: One?
+[22:04:52] Preobrazhensky Bogolepov: Just call me Pre, it's easier
+[22:04:53] Ryan Maley: But from what it seems to say, the generator isn't being used anymore.
+[22:04:57] Owen 'Unknown' Clark: Good to know
+[22:04:59] Ryan Maley: Yeah, but it's a really big one.
+[22:05:01] Preobrazhensky Bogolepov: /toggleraise
+[22:05:29] Leon Wakefield: I did on a journey find some sort of massive blue.. machine, right next to a bunch of soda machines and a horde of zombies, but thats probably not it.
+[22:05:36] Leon Wakefield: It was underground here, in the sewers.
+[22:05:41] Preobrazhensky Bogolepov brought Owen 'Unknown' Clark
+[22:05:41] Preobrazhensky Bogolepov: !bring owen
+[22:05:51] Owen 'Unknown' Clark: Oh and let me show you one other thing
+[22:05:55] Ryan Maley: Yeah, that's it.
+[22:06:02] Ryan Maley: I don't remember it being blue, I thought it was green.
+[22:06:11] Leon Wakefield: Maybe green, maybe blue.
+[22:06:15] Owen 'Unknown' Clark: This will be your storage area.
+[22:06:16] Ryan Maley: But yeah, that's the one.
+[22:06:22] Leon Wakefield: I could literally run over there and check right now, it's not even far from me.
+[22:06:31] Owen 'Unknown' Clark: Keep anything you find within reason.
+[22:06:38] Leon Wakefield: It's not really beefed up by any Combine machinery.
+[22:06:41] Owen 'Unknown' Clark: Large amounts of ammo and guns is always nice to know about.
+[22:06:47] Leon Wakefield: Really odd..
+[22:06:47] Ryan Maley: Yeah, I imagined. Are you in the same precinct as the Consul?
+[22:06:54] Leon Wakefield: I think?
+[22:07:03] Leon Wakefield: Oh, yeah, definitely.
+[22:07:11] Ryan Maley: Yeah, I know where you are.
+[22:07:13] Ryan Maley: Generally speaking.
+[22:07:15] Owen 'Unknown' Clark: I'll be going for now
+[22:07:33] Ryan Maley: But, yeah, the generator isn't a huge Combine asset. From what it's saying here, they just turned it on once to kick start their way more powerful systems.
+[22:07:48] Leon Wakefield: I guess its a start on unravelling this whole thing.
+[22:07:55] CCA.C17-QrM.52934<STEAM_0:0:193599766> spawned ragdoll models/hlvr/characters/hazmat_worker/hazmat_worker_ragdoll.mdl
+[22:07:58] Ryan Maley: What is there to unravel?
+[22:08:09] CCA.C17-QrM.52934<STEAM_0:0:193599766> spawned model models/props_junk/metalgascan.mdl
+[22:08:17] CCA.C17-QrM.52934<STEAM_0:0:193599766> spawned model models/props_junk/plasticbucket001a.mdl
+[22:08:27] Leon Wakefield: Understanding this whole power shebang.
+[22:08:34] Leon Wakefield: But... it's probably all already understood.
+[22:09:07] Leon Wakefield: I swear I thought there'd be something bigger into this. The cop who tried to beat me to shit over the note seemed real distressed.
+[22:09:18] Preobrazhensky Bogolepov: /toggleraise
+[22:09:22] CCA.C17-QrM.52934: // im going to summon laoghaire
+[22:09:51] Ryan Maley: They like to get the cops riled up. I'm surprised you're not brutalized regularly like that.
+[22:10:19] Ryan Maley: City 17 raids are rough.
+[22:10:22] CCA.C17-QrM.52934<STEAM_0:0:193599766> changed their name to Laoghaire Fraser
+[22:10:40] Dropped "Laoghaire Fraser" from server<STEAM_0:0:193599766>
+[22:10:50] Ryan Maley: //crashed probably
+[22:10:53] Ryan Maley: //likely rejoinnig
+[22:11:10] Owen 'Unknown' Clark: // he did
+[22:11:12] Preobrazhensky Bogolepov: // nah he's goin to bed
+[22:11:16] Owen 'Unknown' Clark: // Fuck
+[22:11:26] Leon Wakefield: Yeah, I shouldn't be so surprised. I just dont quite know anymore. Felt like I was driven on this fetch-quest for a purpose.
+[22:11:28] Owen 'Unknown' Clark: // Actually I might as well
+[22:11:30] Owen 'Unknown' Clark: // Big tired
+[22:11:34] Dropped "Cooper 'Coop' Barns" from server<STEAM_0:0:143523274>
+[22:11:36] Leon Wakefield: That Jacob guy who "knew some things" definitely was the driver.
+[22:11:54] Owen 'Unknown' Clark: // Tired from placing propoganda around and recruiting people into my dictatership.
+[22:11:56] Dropped "Owen 'Unknown' Clark" from server<STEAM_0:1:17219621>
+[22:12:12] Ryan Maley: I mean, you haven't done nothing.
+[22:12:21] Ryan Maley: And hey, you met me.
+[22:12:39] Leon Wakefield: How'd he know the radio station? The "frequency" paper? And then told me "You'll figure it out" soon as I fetch those two things? And you're some super top-secret guy on one of the most "important pieces of science" or something...
+[22:13:02] Ryan Maley: Well, there we go. There's more to unravel.
+[22:13:12] Leon Wakefield: I need to find the Jacob dude.
+[22:13:20] Ryan Maley: How he knew about me is.. a mystery.
+[22:13:37] Leon Wakefield: My best bet is he was in contact with your "Jessica."
+[22:13:42] Ryan Maley: Yeah.
+[22:13:47] Ryan Maley: I would only imagine.
+[22:14:01] Ryan Maley: Jessica isn't dumb. There's a reason I gave her what I did.
+[22:14:21] Leon Wakefield: And Jessica is definitely, probably, most likely dead. Or just really concerned over why her radio station isnt in that rooftop anymore.
+[22:14:52] Ryan Maley: That's just the thing.
+[22:15:01] Ryan Maley: I know exactly where this was before, and it's not the rooftop.
+[22:15:08] Ryan Maley: .//she me-- er, something else
+[22:15:18] Preobrazhensky Bogolepov: /toggleraise
+[22:15:22] Ryan Maley: But it was somebody she trusted enough to give the inforamtion
+[22:15:25] Ryan Maley: .//information*
+[22:15:49] Ryan Maley: It seems like the next thing to look into is how Jacob knew about this.
+[22:15:58] Ryan Maley: Seems like he's who you need to find.
+[22:16:03] Ryan Maley: Where'd you see him last?
+[22:16:05] Leon Wakefield: I have no idea where to even start on him.
+[22:16:15] Leon Wakefield: A rooftop, not the rooftop where the radio was, but it was overlooking it.
+[22:16:17] Leon Wakefield: Way higher.
+[22:16:48] Ryan Maley: Did you see any weapons on him?
+[22:16:50] Leon Wakefield: I was up there to try and escape from the cops after running away from the raid, and he just decided to pop up and be cryptic and junk.
+[22:16:51] Leon Wakefield: No.
+[22:17:00] Ryan Maley: So he could be blending into the citizen populus.
+[22:17:06] Leon Wakefield: Yeah, with the suit and all...
+[22:17:14] Leon Wakefield: I'd have to deliberately go around and ask everyone if they're Jacob.
+[22:17:22] Leon Wakefield: And even then, I probably won't be able to go in the city.
+[22:17:33] Ryan Maley: Wait, why can't you go in the-
+[22:17:33] Preobrazhensky Bogolepov: /toggleraise
+[22:17:35] Ryan Maley: Oh, right.
+[22:18:24] Leon Wakefield: Maybe he's a sewer dweller aswell, who knows.
+[22:19:23] Ryan Maley: Did you see where he went after he left?
+[22:19:43] Leon Wakefield: He just kind of jumped on a big pipe to go down.
+[22:19:55] Leon Wakefield: Was in clear sight of the street below, too.
+[22:20:03] Preobrazhensky Bogolepov: /toggleraise
+[22:20:07] Leon Wakefield: From then onward, I have no idea.
+[22:20:19] Ryan Maley: 17's got a lot of catwalks.
+[22:20:24] Leon Wakefield: Yeah.
+[22:20:28] Ryan Maley: A lot of catwalks and roof dwellings.
+[22:20:32] Ryan Maley: He could be living up there.
+[22:20:37] Leon Wakefield: Roof dwellings...
+[22:20:45] Leon Wakefield: Maybe.
+[22:20:58] Leon Wakefield: I'd have to risk my way over there and go on a rooftop adventure.
+[22:21:05] Leon Wakefield: I guess thats the next logical step h ere.
+[22:22:00] Ryan Maley: Well, logical is a strong word.
+[22:22:14] Ryan Maley: I'm as invested in this as you are, trust me. I didn't expect the secret to get out like this.
+[22:22:17] Ryan Maley: Granted, you seem capable.
+[22:22:21] Ryan Maley: But still, it's not exepcted.
+[22:22:23] Ryan Maley: .//expected.*
+[22:22:48] Preobrazhensky Bogolepov: /toggleraise
+[22:22:56] Leon Wakefield: Well, there isn't much else to do from my viewpoint.
+[22:23:33] Ryan Maley: So, we know you saw him in the roofs.
+[22:23:34] Preobrazhensky Bogolepov: /toggleraise
+[22:23:36] Preobrazhensky Bogolepov: /toggleraise
+[22:23:37] Ryan Maley: He knew something in the sewers.
+[22:23:38] Preobrazhensky Bogolepov: /toggleraise
+[22:23:53] Ryan Maley: He knew about the frequency.
+[22:23:58] Ryan Maley: He knew about the setup.
+[22:24:05] Ryan Maley: Hold on..
+[22:24:08] Ryan Maley: I'm getting an idea.
+[22:24:34] Ryan Maley: I uh, I have an idea.
+[22:24:36] Ryan Maley: But it may sound weird.
+[22:25:03] Leon Wakefield: Well I'm open to hear literally anything.
+[22:25:26] Ryan Maley: Do you have any paper?
+[22:25:38] Leon Wakefield: Uh.
+[22:26:07] Leon Wakefield: /me grabs a bundle of scrap cloth from under the table.
+[22:26:17] Leon Wakefield: I mean, it's cloth, but yeah.
+[22:26:26] Ryan Maley: You're gonna need something you can right a note on.
+[22:26:32] Leon Wakefield: I mean, theres toilet paper...
+[22:26:34] Ryan Maley: One that won't make you look batshit insane.
+[22:27:07] Leon Wakefield: It's semi-insane now.
+[22:27:25] Preobrazhensky Bogolepov to admins: q sniff feet
+[22:27:44] Ryan Maley: Get some paper. You have to write a letter to him.
+[22:27:52] Leon Wakefield: To Jacob?
+[22:28:00] Ryan Maley: Yeah.
+[22:28:07] Leon Wakefield: I don't really have normal paper around here...
+[22:28:44] Leon Wakefield: Hold on a second.
+[22:29:23] Leon Wakefield: /me reaches out from under the pipe to grab the paper. He goes prone to even reach it.
+[22:29:40] Leon Wakefield: [[ its genuinely unreachable could you just physgun it out
+[22:30:38] Client "FB|| light ROOM" connected.
+[22:30:40] Leon Wakefield: [[ youthere?
+[22:31:02] Ryan Maley: .//yes
+[22:31:09] Leon Wakefield: [[ can you pull out the paper from under the pipe
+[22:31:12] Leon Wakefield: [[ i cant actually reach it
+[22:31:42] Ryan Maley: .//old u
+[22:31:43] Ryan Maley: .//oh
+[22:31:50] Leon Wakefield: [[ lol thanks
+[22:32:19] Client "FB|| light ROOM" spawned in server <STEAM_0:1:17219621> (took 101 seconds).
+[22:32:46] Leon Wakefield: /me tears out the parts with it actually written on, and pockets it, keeping the bulk on the table.
+[22:32:51] FB|| light ROOM<STEAM_0:1:17219621> changed their name to Owen 'Unknown' Clark
+[22:33:44] Leon Wakefield: Hmph...
+[22:34:29] Leon Wakefield: Okay, I have a normal paper now.
+[22:34:56] Ryan Maley: great
+[22:35:09] Ryan Maley: /chargiveitem maley paper
+[22:35:25] Ryan Maley: Now, you're going to write a meeting place and time for him
+[22:35:35] Ryan Maley: Where and when is up to you.
+[22:35:36] Owen 'Unknown' Clark: // Cringhle
+[22:35:40] Leon Wakefield: // sup
+[22:35:44] Owen 'Unknown' Clark: // Yo
+[22:37:00] Preobrazhensky Bogolepov: /toggleraise
+[22:37:02] Leon Wakefield: [[ sorry my brains farting right now
+[22:37:05] Owen 'Unknown' Clark: Fuckin hell
+[22:37:06] Leon Wakefield: /me writes down accordingly.
+[22:37:07] Preobrazhensky Bogolepov: /toggleraise
+[22:37:22] Leon Wakefield: Just a meeting request?
+[22:38:07] Owen 'Unknown' Clark: Alrighty, hows the settling in been?
+[22:38:07] Ryan Maley: .//you're good
+[22:38:11] Preobrazhensky Bogolepov: Good
+[22:38:14] Ryan Maley: Make sure it has his name, and your name
+[22:38:16] Preobrazhensky Bogolepov: I have found things
+[22:38:20] Ryan Maley: Or something you know each other by
+[22:38:22] Owen 'Unknown' Clark: Wonderful, because soon you'll have to move anyways.
+[22:38:26] Preobrazhensky Bogolepov: /ru Fuck
+[22:38:27] Owen 'Unknown' Clark: You found what exactly?
+[22:38:36] Leon Wakefield: Yeah, he knows my name.
+[22:38:56] Owen 'Unknown' Clark: Wonderful
+[22:39:09] Owen 'Unknown' Clark: You've done well, i'll take my portion and you can keep the rest.
+[22:39:20] Ryan Maley: great
+[22:39:28] Ryan Maley: Maybe say you have some questions. It's up to you.
+[22:39:42] Owen 'Unknown' Clark: Alrighty, and all the food and a few tools you can keep.
+[22:39:50] Preobrazhensky Bogolepov: Alright
+[22:40:23] Leon Wakefield: Okay... its written. Now do I just.. put it in the place we met? That rooftop overlook?
+[22:40:24] Owen 'Unknown' Clark: Now you'll be moving to a seperate location due to this being very obviously in front of the Combine.
+[22:40:39] Owen 'Unknown' Clark: I have a recommendation of course.
+[22:40:51] Owen 'Unknown' Clark: Take everything of value with you and lets go.
+[22:41:25] Ryan Maley: No. You're going to put it in the generator room. It's a common place for rebels to go.
+[22:41:43] Ryan Maley: If he's not there, I would be shocked.
+[22:41:49] Client "JustCallMeDavey" connected.
+[22:41:54] Leon Wakefield: Oh, the generator room..?
+[22:41:56] Owen 'Unknown' Clark: Also take that padlock.
+[22:41:57] Leon Wakefield: Well, alright then.
+[22:42:09] Leon Wakefield: Anything else you wanna say before I go off there?
+[22:42:54] Ryan Maley: Uhh, I will say this.
+[22:42:58] Ryan Maley: You seem really capable.
+[22:43:22] Ryan Maley: I was worried this frequency and setup would fall into the hands of the Combine or someone who doesn't care enough to keep it safe.
+[22:43:26] Ryan Maley: I'm not worried about that.
+[22:43:40] Ryan Maley: I trust you with this secret, and I trust you to figure this out.
+[22:43:54] Leon Wakefield: Well, thats nice to know.
+[22:44:00] Ryan Maley: There's a lot that we don't know from the Combine's standpoint. If you can get this figured out, there's a lot more to figure out.
+[22:44:13] Ryan Maley: I'm not joking when I say that Outpost XRAY is the tip of the iceberg.
+[22:44:22] Ryan Maley: There's a lot that they keep as a secret.
+[22:44:42] Leon Wakefield: Guess they suck at keeping their secrets if you guys know a good bit, eh?
+[22:45:14] Leon Wakefield: [[ i am going to single handedly destroy this city and turn it into an outlands server
+[22:45:18] Ryan Maley: We don't know enough.
+[22:45:25] Ryan Maley: You may be just what we need to figure it out, though.
+[22:45:28] Leon Wakefield: Oh.
+[22:45:30] Leon Wakefield: Someones coming.
+[22:45:32] Ryan Maley: So keep that in mind when you're doing all this.
+[22:45:34] Leon Wakefield: I'll check by you later.
+[22:45:39] Leon Wakefield: /me turns the frequency to something else.
+[22:45:44] Leon Wakefield: Hello there.
+[22:45:45] Owen 'Unknown' Clark: Hello there
+[22:45:48] Owen 'Unknown' Clark: You are?
+[22:45:51] Leon Wakefield: Nice shotgun.
+[22:45:52] Leon Wakefield: I'm Leon.
+[22:45:59] Owen 'Unknown' Clark: Good to know
+[22:46:30] Leon Wakefield: You're the.. leader... or something, I presume?
+[22:46:34] Owen 'Unknown' Clark: You see i'm the leader of a certain group know as "Shellbeach United" and this base is going to be owned by that group.
+[22:46:45] Leon Wakefield: Going to be, or... already is?
+[22:47:03] Client "JustCallMeDavey" spawned in server <STEAM_0:0:27086839> (took 314 seconds).
+[22:47:12] Owen 'Unknown' Clark: Going to be, we're currently advancing our control over the outlands and sewers.
+[22:47:20] Leon Wakefield: So you're taking this by force..?
+[22:47:22] Owen 'Unknown' Clark: Are you the current owner of this base?
+[22:47:32] Leon Wakefield: No. Theres like 4 other guys, I think.
+[22:47:39] Leon Wakefield: I just came here in refuge and somewhere to place this radio.
+[22:47:41] Owen 'Unknown' Clark: Good to know.
+[22:47:53] Owen 'Unknown' Clark: We are NOT taking this by force unless the owners of this group force us to.
+[22:48:16] Leon Wakefield: Well, keep me out of that issue. I just want a safe place.
+[22:48:30] Leon Wakefield: If you guys are in a conflict, well, I'm on neither side, really.
+[22:49:03] Leon Wakefield: /me notices how much static the radio is producing. He toggles off the microphone and the radio, and presses the crude button on the generator.
+[22:49:07] Owen 'Unknown' Clark: Noted, please explain to the owners that we will be taking this by force at a random time unless they themselves submit to the Shellbeach United group.
+[22:49:21] Leon Wakefield: To be honest with ya, I havent even seen the owner.
+[22:49:23] Leon Wakefield: Just one of his guys.
+[22:49:27] Owen 'Unknown' Clark: Oh, good to know.
+[22:49:27] Leon Wakefield: I'll let him now.
+[22:49:29] Leon Wakefield: [[ know*
+[22:49:44] Owen 'Unknown' Clark: Pre please go lock the entrance to this base.
+[22:49:54] Leon Wakefield: Hold on.
+[22:49:58] Owen 'Unknown' Clark: Hn?
+[22:50:00] Leon Wakefield: I gotta leave and return, fine with you guys?
+[22:50:00] Owen 'Unknown' Clark: .// hm*
+[22:50:02] Dropped "JustCallMeDavey" from server<STEAM_0:0:27086839>
+[22:50:05] Leon Wakefield: Like, unlocking the door and all for me?
+[22:50:06] Owen 'Unknown' Clark: Feel free to.
+[22:50:09] Leon Wakefield: Excellent.
+[22:50:23] Leon Wakefield: Wait, don't yet.
+[22:50:31] Leon Wakefield: Unless its keyed, I guess.
+[22:50:38] Leon Wakefield: Have fun with your.. thing.
+[22:50:52] Leon Wakefield to admins: could i have the knife swep?
+[22:51:00] Ryan Maley gave Leon Wakefield weapon_knife
+[22:51:00] Ryan Maley: !Give leon weapon_knife
+[22:51:01] Preobrazhensky Bogolepov to admins: do you approve of us taking over the little rebel storage area down in the sewers and locking it?
+[22:51:03] Leon Wakefield to admins: thx
+[22:51:21] Preobrazhensky Bogolepov to admins: by becoming tenants
+[22:51:56] Owen 'Unknown' Clark: Locked?
+[22:52:00] Leon Wakefield: Huh..
+[22:52:15] Leon Wakefield: /me sticks the paper to the top of the toppled soda machine.
+[22:52:50] Ryan Maley to admins: i fucking hate your rebel group and i hope every one of them gets PKed
+[22:53:00] Preobrazhensky Bogolepov to admins: meannnn
+[22:53:17] Preobrazhensky Bogolepov to admins: so is that a yes?
+[22:53:18] Ryan Maley to admins: i'm not saying that out of a place of bias
+[22:53:19] Leon Wakefield: AH.
+[22:53:21] Leon Wakefield: [[ ah*
+[22:53:23] Leon Wakefield: [[ fuckin
+[22:53:24] Ryan Maley to admins: do whatever you want
+[22:53:26] Leon Wakefield: [[ didnt mean to caps thats what i meant
+[22:53:29] Owen 'Unknown' Clark: .// It's fine
+[22:53:30] Ryan Maley to admins: as long as it's realistic i can't do shit about it
+[22:53:32] Preobrazhensky Bogolepov: /addtenant preo
+[22:53:33] Leon Wakefield: So, whats this whole Shellbeach United thing?
+[22:53:48] Ryan Maley to admins: but know that i hope all of you get PKed because your group is fucking terrible and it's going to destroy good rebelRP
+[22:53:49] Preobrazhensky Bogolepov to admins: fuck gotta get on combine boi to add tenants
+[22:53:56] Preobrazhensky Bogolepov<STEAM_0:1:127409364> changed their name to CCA.C17-JUDGE.i2.69124
+[22:54:10] Owen 'Unknown' Clark: It is a rather large rebel group designed to unite every rebel rogether and form into a true militia.
+[22:54:19] CCA.C17-JUDGE.i2.69124: /addtenant preo
+[22:54:23] CCA.C17-JUDGE.i2.69124: /addtenant owen
+[22:54:27] Leon Wakefield: Anything you guys stand for? Or is it the standard "We hate Combine?"
+[22:54:35] CCA.C17-JUDGE.i2.69124<STEAM_0:1:127409364> changed their name to Preobrazhensky Bogolepov
+[22:55:11] Owen 'Unknown' Clark: We stand for killing the Combine but within reason, not crucifying CP's like certain rebel groups have done before us.
+[22:55:28] Owen 'Unknown' Clark: We don't want to look like anarchist now do we?
+[22:55:51] Leon Wakefield: Ah, well, we wont have a problem.
+[22:56:20] Owen 'Unknown' Clark: Good to hear, but be aware that any who want to stop us will be taken down by force.
+[22:56:34] Leon Wakefield: Mhm.
+[22:56:35] Owen 'Unknown' Clark: We are a large scale group that can't have mercy for every rebel or CP.
+[22:56:57] Owen 'Unknown' Clark: Pre please lay off of the items until the owners have come to an agreement with us.
+[22:57:10] Leon Wakefield: Say, Shellbeach... you guys have a "main base" or something at the err, beach..?
+[22:57:20] Owen 'Unknown' Clark: Technically yes.
+[22:57:30] Leon Wakefield: I've only taken a single step in that area, and I didn't want to continue since I felt like Combine and Antlions would be crawling over the place.
+[22:57:30] Owen 'Unknown' Clark: But I wouldn't say it's exactly in the Shellbeach area.
+[22:57:46] Owen 'Unknown' Clark: It's mostly quiet except for a few antlions.
+[22:57:52] Leon Wakefield: Oh.
+[22:57:56] Leon Wakefield: That's good to hear, honestly.
+[22:58:11] Owen 'Unknown' Clark: mhm, we are always looking for new members if you wish to join us.
+[22:58:20] Owen 'Unknown' Clark: We can provide shelter and security.
+[22:58:30] Leon Wakefield: I'm not much of a fighter.
+[22:58:34] Leon Wakefield: I only got a rusty shank, too.
+[22:58:35] Owen 'Unknown' Clark: That is fine
+[22:58:52] Owen 'Unknown' Clark: Even those who can't fight can be used for other things.
+[22:59:02] Leon Wakefield: I'll consider it, I suppose.
+[22:59:08] Owen 'Unknown' Clark: Good to know
+[22:59:10] Leon Wakefield: I just have some matters I have to go through right now.
+[22:59:17] Owen 'Unknown' Clark: Alright, feel free to.
+[22:59:20] Owen 'Unknown' Clark: Oh and one other thing.
+[22:59:32] Owen 'Unknown' Clark: The Combine frequency is 127.8
+[22:59:42] Leon Wakefield: Wh..You guys just... know?
+[22:59:43] Owen 'Unknown' Clark: Don't spread it around to everyone for me.
+[22:59:51] Owen 'Unknown' Clark: /me Holds out a Combine issue radio.
+[22:59:56] Owen 'Unknown' Clark: You know I do
+[22:59:58] Leon Wakefield: Oh my.
+[23:00:02] Owen 'Unknown' Clark: Mhm
+[23:00:09] Leon Wakefield: That big tank radio over there could be used for listening.
+[23:00:27] Owen 'Unknown' Clark: Then I hope us and the owners of this base can come to an agreement.
+[23:00:41] Owen 'Unknown' Clark: I would rather not have to stomp over any groups.
+[23:01:04] Leon Wakefield: Actually, it's sort of.. well... my radio, in a... sense. But you guys can use it, just please don't break it or take it. It's very, very important to me.
+[23:01:12] Owen 'Unknown' Clark: We won't.
+[23:01:19] Leon Wakefield: I've taken it here in this refuge so its in a safer place.
+[23:01:26] Leon Wakefield: It was in an exposed location prior.
+[23:01:30] Owen 'Unknown' Clark: Got it
+[23:01:54] Owen 'Unknown' Clark: Come with me Pre, we will be gaining semi-control over this base until the owners have come to an agreement with us.
+[23:02:12] Leon Wakefield: Huh...
+[23:02:28] Owen 'Unknown' Clark<STEAM_0:1:17219621> changed their name to CCA.C17-UNION.i2.51514
+[23:02:33] Preobrazhensky Bogolepov: !bring ofc
+[23:02:38] Preobrazhensky Bogolepov brought CCA.C17-UNION.i2.51514
+[23:02:38] Preobrazhensky Bogolepov: !bring i2
+[23:02:50] CCA.C17-UNION.i2.51514: /addtenant pre
+[23:02:57] Preobrazhensky Bogolepov returned CCA.C17-UNION.i2.51514 to their original position
+[23:02:57] Preobrazhensky Bogolepov: !return i2
+[23:03:03] CCA.C17-UNION.i2.51514<STEAM_0:1:17219621> changed their name to Owen 'Unknown' Clark
+[23:03:31] Owen 'Unknown' Clark: Alrighty, this will be your new home as of today.
+[23:03:36] Leon Wakefield: /me looks at the golden watch for a moment.
+[23:03:40] Owen 'Unknown' Clark: Try to be nice of course.
+[23:03:49] Preobrazhensky Bogolepov: No promises heh
+[23:03:54] Owen 'Unknown' Clark: Don't sully the name of our group.
+[23:04:13] Ryan Maley: /pm leon i go bathroom, i'll be back though
+[23:04:23] Ryan Maley: /pm leon i'll be here when i get back for radio if you need to tlak to him
+[23:04:37] Leon Wakefield: /pm ryan yea btw do i use the ic time on the menu for actually meeting jacob
+[23:05:37] Leon Wakefield: Hey.
+[23:05:40] Preobrazhensky Bogolepov: Hey
+[23:05:44] Leon Wakefield: Do you happen to have some sort of drinking water?
+[23:05:52] Preobrazhensky Bogolepov: Should be in that cabinet
+[23:05:56] Leon Wakefield: Oh, thank you.
+[23:06:12] Preobrazhensky Bogolepov: // aight imma hop off for now
+[23:06:14] Dropped "Preobrazhensky Bogolepov" from server<STEAM_0:1:127409364>
+[23:06:15] Owen 'Unknown' Clark: // Same
+[23:06:20] Leon Wakefield: // peace
+[23:06:25] Owen 'Unknown' Clark: // It was fun taking over rebel bases,.
+[23:06:31] Dropped "Owen 'Unknown' Clark" from server<STEAM_0:1:17219621>
+[23:07:34] Ryan Maley: /pm leon back
+[23:11:15] Leon Wakefield: // so do i use the ic time in the menu for jacobtime?
+[23:11:25] Leon Wakefield: // like its 20:32 right now
+[23:11:37] Ryan Maley: //good question
+[23:11:47] Ryan Maley: //i would suppose, IC time, yeah, but IC time is really loosely defined
+[23:12:46] Leon Wakefield: // guess ill see him in 18:00 then lol
+[23:12:56] Leon Wakefield: // wait how slowly does the ic timer go?
+[23:13:10] Ryan Maley: //1 minute per second
+[23:13:16] Ryan Maley: //1 IC minute per OOC second
+[23:13:22] Leon Wakefield: // oh ok
+[23:13:33] Ryan Maley: //that's how stormfox does it
+[23:13:39] Leon Wakefield: // man i am so tempted to metagame and see what the fuck is in that secret door
+[23:13:40] Ryan Maley: //but actual IC time is loosely defined
+[23:13:51] Leon Wakefield: // yeah, im just looking at the thing in the menu
+[23:14:27] Leon Wakefield: // wooow they locked me in
+[23:14:45] Ryan Maley: //hold up
+[23:15:26] Leon Wakefield: // well im not sure what to do right now
+[23:15:35] Ryan Maley: //what od you mean
+[23:15:54] Leon Wakefield: // i mean what i mean,
+[23:16:13] Ryan Maley: //are you having a stroke
+[23:16:28] Leon Wakefield: // am i not allowed to not know
+[23:16:47] Ryan Maley: //*what*
+[23:16:49] Ryan Maley: //are you okay
+[23:16:50] Leon Wakefield: // lmao
+[23:17:38] Leon Wakefield: // I DO NOT KNOW WHAT I AM SUPPOSED  TO BE CURRENTLLY DOING DUE TO THE FACT IT IS ONLY YOU AND ME IN THE SERVER AND I FEEL OBLIGATED TO EITHER LEAVE UNTIL JACOBTIME/OTHER PEOPLE JOIN OR DO SOME SORT OF RP THINGUS WITH YOU there we go thats what i meant
+[23:17:56] Leon Wakefield: // i hope i am no longer having a stroke
+[23:18:07] Ryan Maley: //why are you yelling
+[23:18:15] Ryan Maley: //you were saying incoherent sentences ;-;
+[23:18:25] Ryan Maley: //anyways
+[23:18:35] Ryan Maley: //do whatever it is you want
+[23:18:40] Leon Wakefield: // listen man having a stroke is very stressful:)
+[23:19:26] Leon Wakefield: // oh wow its 11pm actually, i think i do gotta go
+[23:19:30] Ryan Maley: //alright, take care
+[23:19:33] Leon Wakefield: // well was pretty fun today, seeya bro
+[23:19:38] Dropped "Leon Wakefield" from server<STEAM_0:0:178506700>
+[23:24:02] Ryan Maley<STEAM_0:1:53097688> used the tool permaprops on maps/rp_i17_variation_v0.bsp
+[23:36:10] Ryan Maley<STEAM_0:1:53097688> changed their name to CCA.C17-UNION.i1.51023
+[23:58:02] Dropped "CCA.C17-UNION.i1.51023" from server<STEAM_0:1:53097688>
+<Logging continued in "data/ulx_logs/03-30-21.txt">

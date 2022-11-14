@@ -1,0 +1,944 @@
+
+local animationTime = 1
+local matrixZScale = Vector(1, 1, 0.0001)
+
+DEFINE_BASECLASS("ixSubpanelParent")
+local PANEL = {}
+
+AccessorFunc(PANEL, "bCharacterOverview", "CharacterOverview", FORCE_BOOL)
+
+function PANEL:Init()
+	if (IsValid(ix.gui.menu)) then
+		ix.gui.menu:Remove()
+	end
+
+	ix.gui.menu = self
+
+	self.noAnchor = CurTime() + 0.4
+	self.anchorMode = true
+
+	self.projectedTexturePosition = Vector(0, 0, 6)
+	self.projectedTextureRotation = Angle(-45, 60, 0)
+
+	self:SetPadding(ScreenScale(16), true)
+	self:SetSize(ScrW(), ScrH())
+	self:SetLeftOffset(0, true)
+	self:SetPos(0, 0)
+
+	self.currentAlpha = 0
+	self.currentBlur = 0
+	
+	self.manualChildren = {}
+
+	self:SetMouseInputEnabled(true)
+
+	local scrH = ScrH()
+
+	self.topBar = vgui.Create("Panel", self) 
+	self.topBarHeight = scrH/15
+	self.topBar:SetSize(ScrW(), self.topBarHeight)
+	self.topBar.buttons = {}
+
+	self:PopulateTabs()
+	
+	self:MakePopup()
+	self:OnOpened()
+end
+
+function PANEL:OnOpened()
+	self:SetAlpha(0)
+
+	self:CreateAnimation(animationTime, {
+		target = {currentAlpha = 255},
+		easing = "outQuint",
+
+		Think = function(animation, panel)
+			panel:SetAlpha(panel.currentAlpha)
+		end
+	})
+end
+
+function PANEL:GetActiveTab()
+	return (self:GetActiveSubpanel() or {}).subpanelName
+end
+
+function PANEL:TransitionSubpanel(id)
+	local lastSubpanel = self:GetActiveSubpanel()
+
+	-- don't transition to the same panel
+	if (IsValid(lastSubpanel) and lastSubpanel.subpanelID == id) then
+		return
+	end
+
+	local subpanel = self:GetSubpanel(id)
+	
+
+	if (IsValid(subpanel)) then
+		if (!subpanel.bPopulated) then
+			-- we need to set the size of the subpanel if it's a section since it will be 0, 0
+			if (subpanel.sectionParent) then
+				subpanel:SetSize(self:GetStandardSubpanelSize())
+				subpanel:SetPos(0, 0)
+			end
+			local info = subpanel.info
+			subpanel.Paint = nil
+
+			--LocalPlayer():Notify(tostring(subpanel:GetParent()))
+
+			if (istable(info) and info.Create) then
+				info:Create(subpanel)
+			elseif (isfunction(info)) then
+				info(subpanel)
+			end
+
+			hook.Run("MenuSubpanelCreated", subpanel.subpanelName, subpanel)
+			subpanel.bPopulated = true
+		end
+
+		-- only play whoosh sound only when the menu was already open
+		if (IsValid(lastSubpanel)) then
+			LocalPlayer():EmitSound("Helix.Whoosh")
+		end
+
+		self:SetActiveSubpanel(id)
+	end
+
+	subpanel = self:GetActiveSubpanel()
+
+	local info = subpanel.info
+	local bHideBackground = istable(info) and (info.bHideBackground != nil and info.bHideBackground or false) or false
+
+	if (bHideBackground) then
+		self:HideBackground()
+	else
+		self:ShowBackground()
+	end
+
+	-- call hooks if we've changed subpanel
+	if (IsValid(lastSubpanel) and istable(lastSubpanel.info) and lastSubpanel.info.OnDeselected) then
+		lastSubpanel.info:OnDeselected(lastSubpanel)
+	end
+
+	if (IsValid(subpanel) and istable(subpanel.info) and subpanel.info.OnSelected) then
+		subpanel.info:OnSelected(subpanel)
+	end
+
+	ix.gui.lastMenuTab = id
+end
+
+function PANEL:SetCharacterOverview(bValue, length)
+
+end
+
+function PANEL:GetOverviewInfo(origin, angles, fov)
+	
+end
+
+function PANEL:HideBackground()
+	self:CreateAnimation(animationTime, {
+		index = 2,
+		target = {currentBlur = 0},
+		easing = "outQuint"
+	})
+end
+
+function PANEL:ShowBackground()
+	self:CreateAnimation(animationTime, {
+		index = 2,
+		target = {currentBlur = 1},
+		easing = "outQuint"
+	})
+end
+
+function PANEL:GetStandardSubpanelSize()
+	--return ScrW() - 2*ScrW()/40, ScrH() - self.topBarHeight - 2*ScrW()/40
+	return ScrW(), ScrH()
+end
+
+-- This creates the buttons. 
+function PANEL:SetupTab(name, info, sectionParent)
+	local bTable = istable(info)
+	local buttonColor = Color(140, 140, 140, 255)
+	local bDefault = (bTable and info.bDefault) or false
+	local qualifiedName = sectionParent and (sectionParent.name .. "/" .. name) or name
+	local visibleName = (bTable and (info.name or name)) or name
+	local iconStr = (bTable and (info.icon or "l")) or "l"
+
+	local subpanel = self:AddSubpanel(qualifiedName)
+	local id = subpanel.subpanelID
+	subpanel.info = info
+	subpanel.sectionParent = sectionParent and qualifiedName
+	subpanel:SetPaintedManually(true)
+	subpanel:SetTitle("Text")
+
+	if (sectionParent) then
+		-- hide section subpanels if they haven't been populated to seeing more subpanels than necessary
+		-- fly by as you navigate tabs in the menu
+		subpanel:SetSize(0, 0)
+	else
+		subpanel:SetSize(self:GetStandardSubpanelSize())
+		subpanel:SetPos(ScrW()/40, ScrW()/40 + self.topBarHeight)
+
+		-- this is called while the subpanel has not been populated
+		subpanel.Paint = function(panel, width, height)
+			derma.SkinFunc("PaintPlaceholderPanel", panel, width, height)
+		end
+	end
+
+	if sectionParent then
+		button = sectionParent:AddSection(L(name))
+		name = qualifiedName
+	end
+
+	if (sectionParent) then
+		button = sectionParent:AddSection(L(name))
+		name = qualifiedName
+	else
+		button = self.topBar:Add("ixMenuSelectionButton")
+		button:SetText(L(name))
+		button:SizeToContents()
+		button:Dock(LEFT)
+		button:SetButtonList(self.topBar.buttons)
+		button:SetBackgroundColor(buttonColor)
+	end
+
+	button.name = name
+	button.id = id
+	button.OnSelected = function()
+		self:TransitionSubpanel(id)
+	end
+
+	if (bTable and info.PopulateTabButton) then
+		info:PopulateTabButton(button)
+	end
+
+	-- don't allow sections in sections
+	if (sectionParent or !bTable or !info.Sections) then
+		return bDefault, button, subpanel
+	end
+
+	-- create button sections
+	for sectionName, sectionInfo in pairs(info.Sections) do
+		self:SetupTab(sectionName, sectionInfo, button)
+	end
+
+	return bDefault, button, subpanel
+end
+
+function PANEL:PopulateTabs()
+	local default
+	local tabs = {}
+
+	hook.Run("CreateMenuButtons", tabs)
+
+	tabs["character"] = {
+		["name"] = "Character",
+		["icon"] = "l",
+		["Create"] = function(info, container)
+			do
+				LocalPlayer():Notify(tostring(container:GetParent()))
+				container.topBarHeight = ScrH()/15
+				local scrH = ScrH()
+				local padding = ScrW()/40
+			
+				local canvasW = ScrW() - padding*2
+				local canvasH = ScrH() - padding*2 - ScrH()/15
+			
+			
+				container.leftBar = vgui.Create("DImage", container) 
+				container.middleBar = vgui.Create("DPanel", container) 
+				container.rightBar = vgui.Create("DPanel", container) 
+			
+				container.leftBar:SetImage(ix.faction.Get(LocalPlayer():GetCharacter():GetFaction()).bgImage)
+				container.leftBar:SetKeepAspect(true)
+				
+				local bottomBarHeight = scrH/15
+			
+				container.PaintOver = function(panel, w, h)
+					surface.SetDrawColor(153, 73, 36)
+					surface.DrawOutlinedRect(0, 0, w, h, 1)
+				end
+			
+				local barWidth = (ScrW() - padding*2)/3
+			
+				local itemIconSize = math.floor(ScrW()*0.06)
+				local itemGridMargin = 2
+				local barPadding = math.floor(ScreenScale(4))
+				
+				container.leftBar:SetSize(canvasW/5, scrH - container.topBarHeight - padding*2)
+				container.rightBar:SetSize(barPadding*2 + itemIconSize*6 + itemGridMargin*5, scrH - container.topBarHeight - padding*2)
+				container.middleBar:SetSize(canvasW - container.leftBar:GetWide() - container.rightBar:GetWide(), scrH - container.topBarHeight - padding*2)
+			
+				container.rightBar:DockPadding(0, barPadding, barPadding, barPadding)
+				container.middleBar:DockPadding(barPadding, barPadding, barPadding, barPadding)
+			
+				container.leftBar:Dock(LEFT)
+				container.middleBar:Dock(LEFT)
+				container.rightBar:Dock(LEFT)
+			
+				/*
+			
+			
+				container.topBar.Paint = function(self, w, h)
+					surface.SetDrawColor(0, 255, 255)
+					surface.DrawRect(0, 0, w, h)
+			
+					for k, v in ipairs(container:GetChildren()) do
+						v:PaintManual()
+					end
+				end
+			
+				*/
+			
+				
+				local barBgColor = Color(145, 65, 45, 210)
+			
+				container.middleBar.Paint = function(this, w, h)
+					surface.SetDrawColor(barBgColor)
+					surface.DrawRect(0, 0, w, h)
+			
+					for k, v in ipairs(this:GetChildren()) do
+						v:PaintManual()
+					end
+				end
+			
+				container.rightBar.Paint = function(this, w, h)
+					surface.SetDrawColor(barBgColor)
+					surface.DrawRect(0, 0, w, h)
+			
+					for k, v in ipairs(this:GetChildren()) do
+						v:PaintManual()
+					end
+			
+					if (IsValid(ix.gui.inv1) and ix.gui.inv1.childPanels) then
+						for i = 1, #ix.gui.inv1.childPanels do
+							local panel = ix.gui.inv1.childPanels[i]
+				
+							if (IsValid(panel)) then
+								panel:PaintManual()
+							end
+						end
+					end
+				end
+			
+				local ply = LocalPlayer()
+				local char = ply:GetCharacter()
+				-- Middle Bar
+				do
+					local isCitizen = char:GetFaction() == FACTION_CITIZEN
+			
+					local health = ply:Health()
+					local armor = ply:Armor()
+			
+					if (health > 80) then
+						health = "Good"
+					elseif (health > 60) then
+						health = "Hurt"
+					elseif (health > 40) then
+						health = "Wounded"
+					elseif (health > 20) then
+						health = "Heavily Wounded"
+					elseif (health > 0) then
+						health = "Near Death"
+					else
+						health = "Dead"
+					end
+			
+					if armor == 0 then
+						armor = "None"
+					elseif (armor > 0 and armor <= 20) then
+						armor = "Barely Armored"
+					elseif (armor > 20 and armor <= 50) then
+						armor = "Somewhat Armored"
+					elseif (armor > 50 and armor <= 100) then
+						armor = "Armored"
+					elseif (armor > 100 and armor <= 150) then
+						armor = "Heavily Armored"
+					elseif (armor > 150 and armor <= 200) then
+						armor = "Very Heavily Armored"
+					elseif (armor > 200) then
+						armor = "Extremely Heavily Armored"
+					end
+			
+					local fields = {
+						{
+							["title"] = "Faction",
+							["value"] = ix.faction.Get(char:GetFaction()).name,
+							["icon"] = "m"
+						},
+						{
+							["title"] = "Tokens",
+							["value"] = char:GetMoney(),
+							["icon"] = "i"
+						},
+						{
+							["title"] = "Health",
+							["value"] = health,
+							["icon"] = "j"
+						},
+						{
+							["title"] = "Armor",
+							["value"] = armor,
+							["icon"] = "k"
+						}
+					}
+			
+					if isCitizen then 
+						local cid = char:GetData("cid", nil)
+						if cid == nil then cid = "None" else cid = "#"..cid end
+						table.insert(fields, 2, {["title"] = "Citizen ID", ["value"] = cid, ["icon"] = "e"})
+					end
+			
+					
+					container.model = vgui.Create("ixModelPanel", container.leftBar)
+					container.model:Dock(FILL)
+					container.model:SetModel(char:GetModel())
+					container.model:SetFOV(28)
+					local lookAt = container.model:GetLookAt()
+					--container.model:SetCamPos(container.model:GetCamPos() + Vector(0, 0, -10))
+					container.model:SetLookAt(lookAt + Vector(0, 0, -3))
+			
+					container.nameLbl = vgui.Create("ixLabel", container.middleBar)
+					container.nameLbl:SetFont("ixCharNameFont")
+					container.nameLbl:SetText(char:GetName())
+					container.nameLbl:SetContentAlignment(5)
+					container.nameLbl:SetScaleWidth(true)
+					container.nameLbl:SetPadding(container.middleBar:GetWide()/20)
+					container.nameLbl:SetTall(ScrH()/20)
+					container.nameLbl:Dock(TOP)
+					container.nameLbl:DockMargin(0, 0, 0, ScrH()/100)
+					local totalHeight = 0
+					totalHeight = totalHeight + ScrH()/100 + container.nameLbl:GetTall() + barPadding
+			
+					container.shortDescLbl = vgui.Create("ixLabel", container.middleBar)
+					container.shortDescLbl:Dock(TOP)
+					container.shortDescLbl:SetContentAlignment(4)
+					container.shortDescLbl:SetTall(14)
+					container.shortDescLbl:DockMargin(0, 0, 0, 0)
+					container.shortDescLbl:SetFont("ixMenuMiniFont")
+					container.shortDescLbl:SetText("Description")
+					totalHeight = totalHeight + container.shortDescLbl:GetTall()
+			
+					container.shortDescPnl = vgui.Create("DPanel", container.middleBar)
+					container.shortDescPnl:Dock(TOP)
+					container.shortDescPnl:SetTall(19)
+					container.shortDescPnl:SetText("Description")
+					container.shortDescPnl:DockMargin(0, 5, 0, 0)
+					totalHeight = totalHeight + container.shortDescPnl:GetTall() + 5
+			
+					container.shortDesc = vgui.Create("DTextEntry", container.shortDescPnl)
+					container.shortDesc:Dock(FILL)
+					container.shortDesc:SetText(char:GetDescription())
+					container.shortDesc:SetContentAlignment(4)
+					container.shortDesc:SetPaintBackground(false)
+					container.shortDesc:SetTextColor(color_white)
+			
+					container.fullDescLbl = vgui.Create("ixLabel", container.middleBar)
+					container.fullDescLbl:Dock(TOP)
+					container.fullDescLbl:SetContentAlignment(4)
+					container.fullDescLbl:SetTall(14)
+					container.fullDescLbl:DockMargin(0, ScrH()/50, 0, 0)
+					container.fullDescLbl:SetFont("ixMenuMiniFont")
+					container.fullDescLbl:SetText("Extended Description")
+			
+					container.fullDescPnl = vgui.Create("DPanel", container.middleBar)
+					container.fullDescPnl:Dock(TOP)
+					container.fullDescPnl:DockMargin(0, 5, 0, 0)
+					container.fullDescPnl:SetSize(10, ScrH()/7)
+					container.fullDescPnl:DockPadding(5, 5, 5, 5)
+			
+					totalHeight = totalHeight + container.fullDescLbl:GetTall() + 5
+			
+					local desc = vgui.Create("ixTextEntry", container.fullDescPnl)
+					desc:Dock(FILL)
+					desc:SetMultiline(true)
+					desc:SetContentAlignment(7)
+					desc:SetBackgroundColor(Color(255, 255, 255, 0))
+					desc:SetText(char:GetDescription())
+			
+					container.charVars = vgui.Create("Panel", container.middleBar)
+					container.charVars:SetTall((25 + 12)*4 + 12)
+			
+					if isCitizen then
+						container.charVars:SetTall((25 + 12)*5 + 12)
+					end 
+			
+					container.charVars:Dock(TOP)
+					
+					container.charVars:DockMargin(0, container.middleBar:GetWide()/100, 0, 0)
+					container.charVars:DockPadding(0, 0, 0, 0)
+					container.charVars:SetWide(container.middleBar:GetWide() - barPadding*2)
+			
+					-- Character Variable stuff
+					do
+			
+						local iconBarW = 25
+						
+						local varBarW = (container.charVars:GetWide() - iconBarW - container.charVars:GetWide()/75)/2
+			
+						local varIcons = vgui.Create("Panel", container.charVars)
+						varIcons:SetWide(iconBarW)
+						varIcons:Dock(LEFT)
+						varIcons:DockMargin(0, 0, container.charVars:GetWide()/75, 0)
+			
+						local varNames = vgui.Create("Panel", container.charVars)
+						varNames:SetSize(varBarW, container.charVars:GetTall())
+						varNames:Dock(LEFT)
+					
+						local varVals = vgui.Create("Panel", container.charVars)
+						varVals:SetSize(varBarW, container.charVars:GetTall())
+						varVals:Dock(LEFT)
+			
+						for _, data in pairs(fields) do
+							local icon = vgui.Create("ixLabel", varIcons)
+							icon:Dock(TOP)
+							icon:SetFont("ixPRIconsBig")
+							icon:SetText(data.icon)
+							icon:DockMargin(0, 12, 0, 0)
+							icon:SetContentAlignment(5)
+			
+							local lbl = vgui.Create("ixLabel", varNames)
+							lbl:Dock(TOP)
+							lbl:SetFont("ixMediumLightFont")
+							lbl:SetText(data.title)
+							lbl:DockMargin(0, 12, 0, 0)
+							lbl:SetContentAlignment(4)
+			
+							local val = vgui.Create("ixLabel", varVals)
+							val:Dock(TOP)
+							val:SetFont("ixMediumLightFont")
+							val:SetText(data.value)
+							val:DockMargin(0, 12, 0, 0)
+							val:SetContentAlignment(6)
+						end
+					end
+			
+					totalHeight = totalHeight + container.charVars:GetTall() + container.middleBar:GetWide()/100
+			
+					local attribLbl = vgui.Create("ixLabel", container.middleBar)
+					attribLbl:Dock(TOP)
+					attribLbl:SetText("Attributes")
+					attribLbl:SetContentAlignment(4)
+					attribLbl:DockMargin(0, 5, 0, 0)
+					attribLbl:SetFont("ixMenuMiniFont")
+					totalHeight = totalHeight + 5 + attribLbl:GetTall()
+			
+					local attribPnl = vgui.Create("Panel", container.middleBar)
+					attribPnl:Dock(TOP)
+					attribPnl:DockMargin(0, 0, 0, 0)
+					attribPnl:SetSize(container.middleBar:GetWide(), ScrH()/3)
+					attribPnl:DockPadding(0, 0, 0, 0)
+			
+					-- attribute stuff
+					do
+						local attrMargin = barPadding
+			
+						local attrH = container.middleBar:GetTall()/12
+						local attrHeadingH = container.middleBar:GetTall()/35
+			
+						local attrLeft = vgui.Create("Panel", attribPnl)
+						attrLeft:SetSize((attribPnl:GetWide() - barPadding*2)/2 + 1, attribPnl:GetTall())
+						attrLeft:Dock(LEFT)
+						attrLeft:DockPadding(0, 0, barPadding, 0)
+					
+						local attrRight = vgui.Create("Panel", attribPnl)
+						attrRight:SetSize((attribPnl:GetWide() - barPadding*2)/2 + 1, attribPnl:GetTall())
+						attrRight:Dock(RIGHT)
+			
+						local boosts = {}
+						local vals = {}
+						local charBoosts = char:GetBoosts()
+			
+						for k, v in pairs(char:GetAttributes()) do
+							vals[k] = v
+			
+							local attrBoosts = charBoosts[k]
+							if attrBoosts == nil then boosts[k] = 0 else
+								local boostSum = 0
+								for _, value in pairs(attrBoosts) do
+									boostSum = boostSum + value
+								end
+			
+								if boostSum == 0 then
+									boosts[k] = 0
+								else
+									boosts[k] = boostSum/math.abs(boostSum)
+								end
+							end 
+						end
+			
+						local posColor = Color(82, 204, 82)
+						local negColor = Color(204, 82, 82)
+			
+						local attribs = {"agi", "con", "int", "per", "stm", "str"}
+						local attribNames = {"Agility", "Constitution", "Intelligence", "Perception", "Stamina", "Strength"}
+			
+						for k, v in ipairs(attribs) do
+							local pnl = vgui.Create("DPanel")
+							if k%2 == 0 then
+								pnl:SetParent(attrLeft)
+							else
+								pnl:SetParent(attrRight)
+							end
+							pnl:Dock(TOP)
+							pnl:DockMargin(0, 0, 0, attrMargin)
+							
+							pnl:SetSize(pnl:GetParent():GetWide(), attrH)
+			
+							local lbl = vgui.Create("ixLabel", pnl)
+							lbl:Dock(TOP)
+							lbl:SetText(attribNames[k])	
+							lbl:SetTall(attrHeadingH)
+							lbl:SetContentAlignment(5)
+			
+							local val = vgui.Create("ixLabel", pnl)
+							val:Dock(TOP)
+							val:SetText(char:GetAttribute(v, 5))
+							val:SetFont("DermaLarge")
+							val:SetTall(attrH - attrHeadingH)
+						end
+			
+						attribPnl:SetTall(attrH*3 + attrMargin*3)
+			
+					end
+			
+					totalHeight = totalHeight + attribPnl:GetTall() + 7
+			
+					container.fullDescPnl:SetTall(container.middleBar:GetTall() - totalHeight - barPadding)
+				end
+			
+				-- Right Bar
+				do
+					local totalW = container.rightBar:GetWide()
+					local totalH = container.rightBar:GetTall()
+					local slotW = math.floor(ScrW()*0.06)
+					local colMargin = 2
+			
+					local invPanel = container.rightBar:Add("Panel")
+					invPanel:Dock(BOTTOM)
+					invPanel:DockMargin(0, totalW/60, 0, 0)
+					invPanel:SetSize(itemIconSize*6 + colMargin*4, itemIconSize*4 + colMargin*5)
+			
+					local canvas = invPanel:Add("DTileLayout")
+					local canvasLayout = canvas.PerformLayout
+					canvas.PerformLayout = nil -- we'll layout after we add the panels instead of each time one is added
+					canvas:SetBorder(0)
+					canvas:SetSpaceX(2)
+					canvas:SetSpaceY(2)
+					
+					canvas:Dock(FILL)
+			
+					
+			
+					ix.gui.menuInventoryContainer = canvas
+			
+					local panel = canvas:Add("ixInventory")
+					panel:SetPos(0, 0)
+					panel:SetDraggable(false)
+					panel:SetSizable(false)
+					panel:SetTitle("Inventory")
+					panel.bNoBackgroundBlur = true
+					panel.childPanels = {}
+					panel:SetIconSize(slotW)
+			
+					local inventory = LocalPlayer():GetCharacter():GetInventory()
+			
+					if (inventory) then
+						panel:SetInventory(inventory, true)
+					end
+			
+					--panel:DockPadding(colMargin, colMargin, colMargin, colMargin)
+			
+					ix.gui.inv1 = panel
+			
+					if (ix.option.Get("openBags", true)) then
+						for _, v in pairs(inventory:GetItems()) do
+							if (!v.isBag) then
+								continue
+							end
+			
+							v.functions.View.OnClick(v)
+						end
+					end
+			
+					canvas.PerformLayout = canvasLayout
+					canvas:Layout()
+			
+					panel:FitParent(canvas:GetSize())
+			
+					canvas:SetSize(invPanel:GetSize())
+					panel:SetSize(canvas:GetSize())
+		
+			
+					local statusPanel = container.rightBar:Add("Panel")
+					statusPanel:Dock(BOTTOM)
+					statusPanel:SetSize(container.rightBar:GetWide() - totalW/30, totalH - invPanel:GetTall() - barPadding*3)
+					statusPanel:DockMargin(0, 0, 0, 0)
+			
+					local statusLbl = statusPanel:Add("DLabel")
+					statusLbl:SetFont("DermaLarge")
+					statusLbl:Dock(TOP)
+					statusLbl:DockMargin(0, 0, 0, 5	)
+					statusLbl:SetText("Effects")
+					statusLbl:SizeToContents()
+			
+					local statusList = statusPanel:Add("DScrollPanel")
+					statusList:Dock(TOP)
+					statusList:SetTall(statusPanel:GetTall() - statusLbl:GetTall() - totalW/180)
+					statusList.PaintOver = function(panel, w, h)
+						surface.SetDrawColor(0, 0, 0)
+						local cW, cH = panel:GetCanvas():GetSize()
+						surface.DrawOutlinedRect(0, 0, panel:InnerWidth(), panel:GetTall(), 2)
+					end
+			
+					statusList:SetSize(statusPanel:GetWide(), statusPanel:GetTall() - statusLbl:GetTall() - totalW/180)
+			
+					for i=1, 8 do
+						local eff = vgui.Create("ixEffectDisplay")
+						eff:SetName("Test Effect "..i)
+						statusList:AddItem(eff)
+						eff:Dock(TOP)
+						eff:SetTall(totalW/10) 
+						eff:SetSize(statusList:GetWide(), totalW/15)
+						eff:AddEffect("Agility", math.random(-3, -1))
+						eff:AddEffect("Strength", math.random(1, 3))
+						eff:AddEffect("Perception", math.random(-3, 3))
+			
+						if i%2 == 0 then eff:SetBackgroundColor(Color(54, 54, 54, 103)) end
+					end
+			
+				end
+				
+			end
+		end
+	}
+
+
+	for name, info in SortedPairs(tabs) do
+		local bDefault, button = self:SetupTab(name, info)
+
+		if (bDefault) then
+			default = button
+		end
+	end
+	
+end
+
+function PANEL:AddManuallyPaintedChild(panel)
+
+end
+
+function PANEL:OnKeyCodePressed(key)
+	self.noAnchor = CurTime() + 0.5
+
+	if (key == KEY_TAB) then
+
+		if IsValid(self.model) then 
+			self.model:Remove()
+		end
+
+		self:Remove()
+	end
+end
+
+function PANEL:Think()
+	for k, v in pairs(self.subpanels) do
+	end
+	if (IsValid(self.projectedTexture)) then
+		local forward = LocalPlayer():GetForward()
+		forward.z = 0
+
+		local right = LocalPlayer():GetRight()
+		right.z = 0
+
+		self.projectedTexture:SetBrightness(self.overviewFraction * 4)
+		self.projectedTexture:SetPos(LocalPlayer():GetPos() + right * 16 - forward * 8 + self.projectedTexturePosition)
+		self.projectedTexture:SetAngles(forward:Angle() + self.projectedTextureRotation)
+		self.projectedTexture:Update()
+	end
+
+	if (self.bClosing) then
+		return
+	end
+
+	local bTabDown = input.IsKeyDown(KEY_TAB)
+
+	if (bTabDown and (self.noAnchor or CurTime() + 0.4) < CurTime() and self.anchorMode) then
+		self.anchorMode = false
+		surface.PlaySound("buttons/lightswitch2.wav")
+	end
+
+	if ((!self.anchorMode and !bTabDown) or gui.IsGameUIVisible()) then
+		self:Remove()
+	end
+end
+
+function PANEL:Paint(width, height)
+	ix.util.DrawBlur(self, self.currentAlpha/255 * 5, nil, 200)
+
+	local bShouldScale = self.currentAlpha != 255
+
+	if (bShouldScale) then
+		local currentScale = Lerp(self.currentAlpha / 255, 0.9, 1)
+		local matrix = Matrix()
+
+		matrix:Scale(matrixZScale * currentScale)
+		matrix:Translate(Vector(
+			ScrW() * 0.5 - (ScrW() * currentScale * 0.5),
+			ScrH() * 0.5 - (ScrH() * currentScale * 0.5),
+			1
+		))
+
+		cam.PushModelMatrix(matrix)
+	end
+
+	BaseClass.Paint(self, width, height)
+
+		
+
+
+	if (IsValid(ix.gui.inv1) and ix.gui.inv1.childPanels) then
+		for i = 1, #ix.gui.inv1.childPanels do
+			local panel = ix.gui.inv1.childPanels[i]
+
+			if (IsValid(panel)) then
+				panel:PaintManual()
+			end
+		end
+	end
+
+	if (bShouldScale) then
+		cam.PopModelMatrix()
+	end
+
+	surface.SetDrawColor(0, 255, 255, 50)
+		surface.DrawRect(0, 0, width, height)
+end
+
+function PANEL:PerformLayout()
+
+end
+
+function PANEL:Remove()
+	self.bClosing = true
+	self:SetMouseInputEnabled(false)
+	self:SetKeyboardInputEnabled(false)
+	self:SetCharacterOverview(false, animationTime * 0.5)
+
+	-- remove input from opened child panels since they grab focus
+	if (IsValid(ix.gui.inv1) and ix.gui.inv1.childPanels) then
+		for i = 1, #ix.gui.inv1.childPanels do
+			local panel = ix.gui.inv1.childPanels[i]
+
+			if (IsValid(panel)) then
+				panel:SetMouseInputEnabled(false)
+				panel:SetKeyboardInputEnabled(false)
+			end
+		end
+	end
+
+	CloseDermaMenus()
+	gui.EnableScreenClicker(false)
+
+	self:CreateAnimation(animationTime * 0.5, {
+		index = 2,
+		target = {currentBlur = 0},
+		easing = "outQuint"
+	})
+
+	self:CreateAnimation(animationTime * 0.5, {
+		target = {currentAlpha = 0},
+		easing = "outQuint",
+
+		-- we don't animate the blur because blurring doesn't draw things
+		-- with amount < 1 very well, resulting in jarring transition
+		Think = function(animation, panel)
+			panel:SetAlpha(panel.currentAlpha)
+		end,
+
+		OnComplete = function(animation, panel)
+			if (IsValid(panel.projectedTexture)) then
+				panel.projectedTexture:Remove()
+			end
+
+			BaseClass.Remove(panel)
+		end
+	})
+end
+
+vgui.Register("ixMenu", PANEL, "ixSubpanelParent")
+
+if (IsValid(ix.gui.menu)) then
+	ix.gui.menu:Remove()
+end
+
+ix.gui.lastMenuTab = nil
+
+PANEL = {}
+AccessorFunc(PANEL, "name", "Name", FORCE_STRING)
+AccessorFunc(PANEL, "effects", "Effects")
+
+function PANEL:Init()
+	self.nameLbl = self:Add("ixLabel")
+	self.nameLbl:Dock(LEFT)
+	self.nameLbl:SetWide(ScrW()/15)
+	self.nameLbl:SetContentAlignment(5)
+	self.nameLbl:SetFont("ixMenuMiniFont")
+
+	self.effectsPanel = self:Add("Panel")
+	self.effectsPanel:Dock(LEFT)
+	self.effectsPanel:DockMargin(0, 0, 0, 0)
+	
+	self.effects = {}
+	self.effectLabels = {}
+end 
+
+-- @string effect The attribute or skill affected.
+-- @number amount The amount decreased or increased for the attribute or skill.
+function PANEL:AddEffect(effect, amount)
+	self.effects[#self.effects + 1] = {
+		["effect"] = effect,
+		["amount"] = amount
+	}
+	self:SetupEffects()
+end
+
+function PANEL:SetEffects(effects)
+	self.effects = effects 
+	self:SetupEffects()
+end
+
+function PANEL:SetupEffects()
+	self.effectLabels = {}
+
+	for k, v in ipairs(self.effectsPanel:GetChildren()) do
+		v:Remove()
+	end
+
+	local openWidth = self.effectsPanel:GetWide() - (#self.effects - 1)*ScrW()/75
+
+	for k, v in ipairs(self.effects) do
+		local eff = self.effectsPanel:Add("ixLabel")
+		eff:SetContentAlignment(5)
+		eff:Dock(LEFT)
+		eff:SetFont("ixMenuMiniFont")
+		eff:SetText(v.effect.. " "..(v.amount > 0 and "+"..v.amount or v.amount))
+		eff:SetWide(openWidth/#self.effects)
+		if k != #self.effects then
+			eff:DockMargin(0, 0, ScrW()/75, 0)
+		end
+	end
+end
+
+function PANEL:OnSizeChanged(newW, newH)
+	self.effectsPanel:SetWide(newW - self.nameLbl:GetWide())
+end
+
+function PANEL:SetName(name)
+	self.name = name
+	self.nameLbl:SetText(name)
+
+	self.effectsPanel:SetWide(self.nameLbl:GetWide() - ScrW()/100)
+end
+
+vgui.Register("ixEffectDisplay", PANEL, "DPanel")

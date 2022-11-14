@@ -1,0 +1,1372 @@
+<Logging continued from "data/ulx_logs/08-10-21.txt">
+[02:00:03] CCA.C08-QrM.98240 suicided!
+[07:46:12] Client "DRD" connected.
+[07:49:54] Client "DRD" spawned in server <STEAM_0:0:193599766> (took 222 seconds).
+[07:53:36] DRD<STEAM_0:0:193599766> changed their name to Wilm Hosenfeld
+[07:53:50] Wilm Hosenfeld: /charkick qrm
+[07:53:51] CCA.C08-QrM.98240<STEAM_0:1:17219621> changed their name to FB|| light ROOM
+[07:53:57] Wilm Hosenfeld: /changesociostatus green
+[07:54:03] Wilm Hosenfeld: /changesociostatus yellow
+[07:54:06] Wilm Hosenfeld: /changesociostatus red
+[07:54:20] Wilm Hosenfeld<STEAM_0:0:193599766> changed their name to CCA.C08-GRID.i1.23710
+[07:54:25] CCA.C08-GRID.i1.23710: /changesociostatus red
+[07:54:30] CCA.C08-GRID.i1.23710: /changesociostatus jw
+[07:54:38] CCA.C08-GRID.i1.23710: /changesociostatus aj
+[07:54:41] CCA.C08-GRID.i1.23710: /changesociostatus si
+[07:54:47] CCA.C08-GRID.i1.23710: /changesociostatus up
+[07:54:49] CCA.C08-GRID.i1.23710: /changesociostatus us
+[07:54:54] CCA.C08-GRID.i1.23710: /changesociostatus green
+[07:57:45] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> spawned NPC npc_combineguard
+[07:57:58] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> spawned NPC npc_cstalker
+[07:58:20] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> spawned NPC npc_combine_armored
+[07:58:22] CCA.C08-GRID.i1.23710 was killed by npc_combine_armored
+[07:58:26] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> spawned NPC npc_combine_armored
+[07:59:22] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> used the tool permaprops on maps/rp_city8_edit_v4r.bsp
+[07:59:23] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> used the tool permaprops on maps/rp_city8_edit_v4r.bsp
+[07:59:38] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> spawned NPC npc_combine_s
+[07:59:52] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> spawned NPC npc_combine_camera
+[08:01:06] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> spawned NPC npc_combine_s
+[08:03:08] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> spawned NPC npc_combine_s
+[08:16:49] Dropped "CCA.C08-GRID.i1.23710" from server<STEAM_0:0:193599766>
+[08:37:38] Dropped "FB|| light ROOM" from server<STEAM_0:1:17219621>
+
+
+
+[08:44:23] New map: rp_city8_edit_v4r
+[12:03:53] Client "DRD" connected.
+[12:07:11] Client "DRD" spawned in server <STEAM_0:0:193599766> (took 198 seconds).
+[12:10:25] DRD<STEAM_0:0:193599766> changed their name to Grasshopper
+[12:13:22] Grasshopper<STEAM_0:0:193599766> used the tool permaprops on models/props_lab/clipboard.mdl
+[12:13:24] Grasshopper<STEAM_0:0:193599766> used the tool permaprops on maps/rp_city8_edit_v4r.bsp
+[12:13:24] Grasshopper<STEAM_0:0:193599766> used the tool permaprops on models/props_lab/clipboard.mdl
+[12:13:25] Grasshopper<STEAM_0:0:193599766> used the tool permaprops on models/props_lab/clipboard.mdl
+[12:13:25] Grasshopper<STEAM_0:0:193599766> used the tool permaprops on models/props_lab/clipboard.mdl
+[12:13:25] Grasshopper<STEAM_0:0:193599766> used the tool permaprops on models/props_lab/clipboard.mdl
+[12:13:25] Grasshopper<STEAM_0:0:193599766> used the tool permaprops on models/props_lab/clipboard.mdl
+[12:13:26] Grasshopper<STEAM_0:0:193599766> used the tool permaprops on models/props_lab/clipboard.mdl
+[12:13:29] Grasshopper<STEAM_0:0:193599766> used the tool permaprops on models/props_lab/clipboard.mdl
+[12:13:29] Grasshopper<STEAM_0:0:193599766> used the tool permaprops on models/props_lab/clipboard.mdl
+[12:13:31] Grasshopper<STEAM_0:0:193599766> used the tool permaprops on maps/rp_city8_edit_v4r.bsp
+[12:13:34] Grasshopper<STEAM_0:0:193599766> used the tool permaprops on maps/rp_city8_edit_v4r.bsp
+[12:13:34] Grasshopper<STEAM_0:0:193599766> used the tool permaprops on maps/rp_city8_edit_v4r.bsp
+[12:13:34] Grasshopper<STEAM_0:0:193599766> used the tool permaprops on maps/rp_city8_edit_v4r.bsp
+[12:13:34] Grasshopper<STEAM_0:0:193599766> used the tool permaprops on maps/rp_city8_edit_v4r.bsp
+[12:13:35] Grasshopper<STEAM_0:0:193599766> used the tool permaprops on maps/rp_city8_edit_v4r.bsp
+[12:13:35] Grasshopper<STEAM_0:0:193599766> used the tool permaprops on maps/rp_city8_edit_v4r.bsp
+[12:13:36] Grasshopper<STEAM_0:0:193599766> used the tool permaprops on maps/rp_city8_edit_v4r.bsp
+[12:13:36] Grasshopper<STEAM_0:0:193599766> used the tool permaprops on maps/rp_city8_edit_v4r.bsp
+[12:13:36] Grasshopper<STEAM_0:0:193599766> used the tool permaprops on maps/rp_city8_edit_v4r.bsp
+[12:13:36] Grasshopper<STEAM_0:0:193599766> used the tool permaprops on maps/rp_city8_edit_v4r.bsp
+[12:13:37] Grasshopper<STEAM_0:0:193599766> used the tool permaprops on maps/rp_city8_edit_v4r.bsp
+[12:13:37] Grasshopper<STEAM_0:0:193599766> used the tool permaprops on maps/rp_city8_edit_v4r.bsp
+[12:13:37] Grasshopper<STEAM_0:0:193599766> used the tool permaprops on maps/rp_city8_edit_v4r.bsp
+[12:13:38] Grasshopper<STEAM_0:0:193599766> used the tool permaprops on maps/rp_city8_edit_v4r.bsp
+[12:13:39] Grasshopper<STEAM_0:0:193599766> used the tool permaprops on maps/rp_city8_edit_v4r.bsp
+[12:13:40] Grasshopper<STEAM_0:0:193599766> used the tool permaprops on models/props_lab/clipboard.mdl
+[12:13:41] Grasshopper<STEAM_0:0:193599766> used the tool permaprops on models/props_lab/clipboard.mdl
+[12:15:49] Dropped "Grasshopper" from server<STEAM_0:0:193599766>
+[12:21:57] Client "Dilly_" connected.
+[12:24:35] Client "Dilly_" spawned in server <STEAM_0:0:52468151> (took 158 seconds).
+[12:26:44] Dilly_<STEAM_0:0:52468151> changed their name to Carson Copper
+[12:51:52] Dropped "Carson Copper" from server<STEAM_0:0:52468151>
+[12:58:46] Client "AXION" connected.
+[13:02:45] Client "AXION" spawned in server <STEAM_0:1:54101851> (took 239 seconds).
+[13:07:39] Client "matt saton" connected.
+[13:10:21] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 162 seconds).
+[13:11:30] matt saton<STEAM_0:1:53097688> changed their name to CCA.C08-UNION.i1.51023
+[13:12:46] CCA.C08-UNION.i1.51023: /charsethunger union 100
+[13:12:49] CCA.C08-UNION.i1.51023: /charsetthirst union 100
+[13:13:16] AXION<STEAM_0:1:54101851> changed their name to Fred Angerly
+[13:13:21] Fred Angerly: // I cant Qi
+[13:13:28] Fred Angerly: // I cant understand him :(
+[13:15:08] Fred Angerly: // wtf
+[13:15:20] Fred Angerly: // Flying Cigaret
+[13:17:54] Fred Angerly<STEAM_0:1:54101851> spawned model models/props_wasteland/kitchen_counter001c.mdl
+[13:17:57] Fred Angerly<STEAM_0:1:54101851> spawned model models/props_wasteland/kitchen_counter001a.mdl
+[13:18:00] Fred Angerly<STEAM_0:1:54101851> spawned model models/props_wasteland/kitchen_counter001d.mdl
+[13:18:57] Fred Angerly: /ar s
+[13:19:41] Fred Angerly was killed by trigger_hurt
+[13:19:46] Fred Angerly was killed by trigger_hurt
+[13:19:47] Fred Angerly was killed by trigger_hurt
+[13:19:48] Fred Angerly was killed by trigger_hurt
+[13:19:49] Fred Angerly was killed by trigger_hurt
+[13:19:50] Fred Angerly was killed by trigger_hurt
+[13:22:47] Fred Angerly<STEAM_0:1:54101851> changed their name to Emanuel
+[13:28:39] Emanuel: // brb. Bathing time
+[13:36:00] Client "Russle" connected.
+[13:46:21] CCA.C08-UNION.i1.51023<STEAM_0:1:53097688> spawned sent ix_forcefield
+[13:46:23] CCA.C08-UNION.i1.51023<STEAM_0:1:53097688> spawned sent ix_forcefield
+[13:46:25] CCA.C08-UNION.i1.51023<STEAM_0:1:53097688> spawned sent ix_forcefield
+[13:46:27] CCA.C08-UNION.i1.51023<STEAM_0:1:53097688> spawned sent ix_forcefield
+[13:46:29] CCA.C08-UNION.i1.51023<STEAM_0:1:53097688> spawned sent ix_forcefield
+[13:47:00] CCA.C08-UNION.i1.51023<STEAM_0:1:53097688> spawned sent ix_forcefield
+[13:52:39] Client "Dilly_" connected.
+[13:53:49] CCA.C08-UNION.i1.51023: /adminspawnmenu
+[13:55:41] Client "Dilly_" spawned in server <STEAM_0:0:52468151> (took 182 seconds).
+[13:58:48] Dilly_<STEAM_0:0:52468151> changed their name to Carson Copper
+[13:59:02] Carson Copper: // *E* What's new on the agenda folks
+[14:03:12] Client "Honest_Abe" connected.
+[14:09:24] Client "Honest_Abe" spawned in server <STEAM_0:1:92864934> (took 372 seconds).
+[14:16:45] Honest_Abe<STEAM_0:1:92864934> changed their name to honest abe purr
+[14:17:03] honest abe purr was killed by trigger_hurt
+[14:17:12] honest abe purr was killed by trigger_hurt
+[14:17:18] Dropped "honest abe purr" from server<STEAM_0:1:92864934>
+[14:20:32] Emanuel: // back
+[14:20:55] Emanuel: // Just gonna go smoke and i will start Rping :)
+[14:21:07] Carson Copper: // *aight*
+[14:26:00] Emanuel: // back
+[14:26:09] Emanuel<STEAM_0:1:54101851> changed their name to CCA.C08-GRID.i4.81530
+[14:26:14] CCA.C08-GRID.i4.81530: /r 10-8
+[14:27:03] Carson Copper: // wb
+[14:28:44] CCA.C08-GRID.i4.81530: /me would examine the camera
+[14:29:05] CCA.C08-GRID.i4.81530: /it The camera would look alright, Without any damage.
+[14:29:06] CCA.C08-GRID.i4.81530: good
+[14:29:33] CCA.C08-GRID.i4.81530: /me would examine the camera
+[14:29:35] CCA.C08-GRID.i4.81530: /it The camera would look alright, Without any damage.
+[14:29:37] CCA.C08-GRID.i4.81530: good
+[14:29:58] CCA.C08-GRID.i4.81530: /me would check the Bio lock that he setted down yesterday.
+[14:30:07] CCA.C08-GRID.i4.81530: Still here... Good thing
+[14:31:59] CCA.C08-GRID.i4.81530: hm
+[14:33:38] CCA.C08-GRID.i4.81530: /me would examine the area
+[14:34:33] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> changed their name to CAC.C17-CRM.58023
+[14:34:42] CAC.C17-CRM.58023: y
+[14:34:49] CAC.C17-CRM.58023: // Where is my Immolator :(
+[14:35:32] CAC.C17-CRM.58023<STEAM_0:1:54101851> changed their name to CCA.C08-GRID.i4.81530
+[14:36:56] CCA.C08-GRID.i4.81530: /r I got unlocked Bio-Lock at 10-20 St. Tower Lobby Top level.
+[14:38:13] CCA.C08-GRID.i4.81530: /me would stare at the citizen
+[14:38:26] CCA.C08-GRID.i4.81530: /me would lay his hand on his stunstick
+[14:38:29] CCA.C08-GRID.i4.81530: citizen
+[14:38:53] CCA.C08-GRID.i4.81530: Regular Identity Check.
+[14:38:54] CCA.C08-GRID.i4.81530: apply
+[14:38:55] Carson Copper: /me he eyes the officer who aproached him, and gives a little curious look, "Aye Officer."
+[14:38:59] Carson Copper: Oh. 
+[14:39:06] Carson Copper: /me he reaches into his pocket pulling out something...
+[14:39:25] CCA.C08-GRID.i4.81530: /me would take his PDA into his left arm, Typing slowly something
+[14:39:27] Carson Copper: /me he pulls out a metalic card, which he raises to eye level and begins reading out 
+[14:39:31] Carson Copper: /apply 
+[14:39:39] CCA.C08-GRID.i4.81530: /me would search the man in the Database
+[14:39:39] Carson Copper: That's the info- sir.
+[14:39:51] Carson Copper: /me he slides the card back into his pockets
+[14:39:55] CCA.C08-GRID.i4.81530: /viewdata Carson
+[14:40:10] Carson Copper: .// shouldn't have to /me the function of the PDA 
+[14:40:22] CCA.C08-GRID.i4.81530: hm 
+[14:40:31] Carson Copper: .// just gotta show that you're typing n stuffs. otherwise it'd just be meta on my part cuz I wouldn't know
+[14:40:40] Carson Copper: .// *usually* 
+[14:40:42] CCA.C08-GRID.i4.81530: No records so far
+[14:40:51] Carson Copper: Dunno' if that's a good sign or a bad sign.
+[14:40:52] CCA.C08-GRID.i4.81530: Do you want earn some tokes ?
+[14:41:06] CCA.C08-GRID.i4.81530: /me would put his PDA back on his left side
+[14:41:12] CCA.C08-GRID.i4.81530: /looc tokens*
+[14:41:20] Carson Copper: /me he waves his hand, "No no no... I'm fine. I've got plenty o' money as is." 
+[14:41:26] CCA.C08-GRID.i4.81530: hm
+[14:41:37] CCA.C08-GRID.i4.81530: Plenty ? I didnt saw you working...
+[14:41:43] CCA.C08-GRID.i4.81530: No records so far
+[14:41:55] Carson Copper: Eh I helped a few units way' back. 
+[14:42:03] Carson Copper: They didn't record the info is all.
+[14:42:08] Carson Copper: N' a few times with the workers.
+[14:42:17] Carson Copper: Just a few person to person jobs y'know?
+[14:42:41] CCA.C08-GRID.i4.81530: /me would coldly stare at the Citizen
+[14:42:51] CCA.C08-GRID.i4.81530: Person to person jobs ?
+[14:42:57] CCA.C08-GRID.i4.81530: What kind of jobs
+[14:43:16] CCA.C08-GRID.i4.81530: /me would lay his hand on the lower part of the stunstick
+[14:43:22] Carson Copper: Yeah y'know... oh well mostly hard labor. 
+[14:43:41] Carson Copper: I was workin' pretty recently with some other guy' er'... what's his-... oh well I can't remember.
+[14:44:00] Carson Copper: One of yous is all- I was helpin' em install a panel in one of the appartment blocks... 
+[14:44:10] Carson Copper: *Like* one of the really really nice high-end ones y'know?
+[14:44:32] Carson Copper: Best work I'd ever done in weeks lemme' tell ya'.
+[14:44:53] CCA.C08-GRID.i4.81530: nope
+[14:44:58] CCA.C08-GRID.i4.81530: I dont know.
+[14:45:11] Carson Copper: Eh...
+[14:45:14] CCA.C08-GRID.i4.81530: /me would observe the man
+[14:45:22] CCA.C08-GRID.i4.81530: Wher edid you got that cloths ?
+[14:45:27] CCA.C08-GRID.i4.81530: /looc Where did*
+[14:45:38] Carson Copper: /me he eyes his shirt, "Oh this?"
+[14:46:12] Carson Copper: I got it off of somebody. Think I payed em 'bout twenty? or thirty? for it... It was a pretty good deal if you ask me.
+[14:46:25] Carson Copper: It's got a bit of blood on it from my er-...
+[14:46:40] Carson Copper: /me he motions toward his left eye covered in bandages, "This guy."
+[14:46:46] Carson Copper: But I still wear it.
+[14:47:03] CCA.C08-GRID.i4.81530: What happened to your eye ?
+[14:47:29] CCA.C08-GRID.i4.81530: /looc ...
+[14:47:43] Carson Copper: Oh.
+[14:47:47] Carson Copper: Headcrab....
+[14:47:52] Carson Copper: Well actually zombie way back.
+[14:48:02] CCA.C08-GRID.i4.81530: Way back where ?
+[14:48:07] Carson Copper: Been almost about a week now since it happened, I'm still on the med's to fix this bad boy.
+[14:48:11] CCA.C08-GRID.i4.81530: There wasnt been any necrotics
+[14:48:28] Carson Copper: No not recently. This one was outa' nowhere'... Like literally on the street.
+[14:48:44] Carson Copper: /me he points down the road, "Right there to be exact- the guy came from the rooftops n' jumped on me."
+[14:49:04] Carson Copper: Thankfully I had someone else nearby who was able to scare it away.
+[14:49:22] CCA.C08-GRID.i4.81530: Why you didnt requested assistance ?
+[14:49:33] CCA.C08-GRID.i4.81530: You should be having Request device
+[14:49:56] Carson Copper: Oh we did. But uhh- it was a do or die kinda situation. You folks eventually came.
+[14:50:12] Carson Copper: I had no time to talk- it was all *action* at that point.
+[14:50:21] CCA.C08-GRID.i4.81530: hm
+[14:50:27] CCA.C08-GRID.i4.81530: you can go
+[14:50:34] Carson Copper: Coo' Coo'.
+[14:52:17] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> spawned model models/props_wasteland/controlroom_desk001b.mdl
+[14:52:26] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> spawned model models/bioshockinfinite/jin_bottle.mdl
+[14:52:30] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> spawned model models/props_junk/garbage_plasticbottle003a.mdl
+[14:52:32] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> spawned model models/props_junk/glassbottle01a.mdl
+[14:52:34] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> spawned model models/props_junk/glassbottle01a.mdl
+[14:52:37] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> spawned model models/props/cs_militia/bottle03.mdl
+[14:52:38] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> spawned model models/props/cs_militia/bottle03.mdl
+[14:52:40] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> spawned model models/props/cs_militia/bottle03.mdl
+[14:52:42] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> spawned model models/props_junk/glassbottle01a.mdl
+[14:52:43] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> spawned model models/props_junk/glassbottle01a.mdl
+[14:52:44] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> spawned model models/props_junk/glassbottle01a.mdl
+[14:52:45] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> spawned model models/props_junk/glassbottle01a.mdl
+[14:52:46] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> spawned model models/props_junk/glassbottle01a.mdl
+[14:52:47] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> spawned model models/props_junk/glassbottle01a.mdl
+[14:52:49] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> spawned model models/props_junk/garbage_plasticbottle003a.mdl
+[14:52:56] CCA.C08-GRID.i4.81530: /r Range hot
+[14:54:14] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> spawned model models/props_debris/metal_panel02a.mdl
+[14:54:18] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> spawned model models/props_debris/metal_panel01a.mdl
+[14:54:54] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on models/props_debris/metal_panel01a.mdl
+[14:54:54] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on models/props_debris/metal_panel01a.mdl
+[14:54:54] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on models/props_debris/metal_panel01a.mdl
+[14:54:54] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on models/props_debris/metal_panel01a.mdl
+[14:54:54] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on models/props_debris/metal_panel01a.mdl
+[14:54:54] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on models/props_debris/metal_panel01a.mdl
+[14:54:54] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on models/props_debris/metal_panel01a.mdl
+[14:54:54] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on models/props_debris/metal_panel01a.mdl
+[14:54:54] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on models/props_debris/metal_panel01a.mdl
+[14:54:54] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on models/props_debris/metal_panel01a.mdl
+[14:54:54] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on models/props_debris/metal_panel01a.mdl
+[14:54:54] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on models/props_debris/metal_panel01a.mdl
+[14:54:54] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on models/props_debris/metal_panel01a.mdl
+[14:54:54] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on models/props_debris/metal_panel01a.mdl
+[14:54:54] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on models/props_debris/metal_panel01a.mdl
+[14:54:54] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on models/props_debris/metal_panel01a.mdl
+[14:54:55] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on models/props_debris/metal_panel01a.mdl
+[14:54:55] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on models/props_debris/metal_panel01a.mdl
+[14:54:55] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:54:55] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:54:55] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:54:55] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:54:55] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:54:55] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:54:55] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:54:55] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:54:58] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on models/props_debris/metal_panel01a.mdl
+[14:54:59] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on models/props_debris/metal_panel01a.mdl
+[14:54:59] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on models/props_debris/metal_panel01a.mdl
+[14:54:59] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on models/props_debris/metal_panel01a.mdl
+[14:54:59] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on models/props_debris/metal_panel01a.mdl
+[14:54:59] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on models/props_debris/metal_panel01a.mdl
+[14:54:59] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on models/props_debris/metal_panel01a.mdl
+[14:54:59] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on models/props_wasteland/controlroom_desk001b.mdl
+[14:54:59] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on models/props_wasteland/controlroom_desk001b.mdl
+[14:55:00] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on models/props_wasteland/controlroom_desk001b.mdl
+[14:55:00] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:01] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:02] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:02] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:02] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:02] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:02] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:03] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:03] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:03] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:03] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:03] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:03] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:03] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:03] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:03] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:03] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:03] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:04] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:04] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:04] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:04] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:04] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:04] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:04] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:04] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:04] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:04] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:04] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:04] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:04] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:04] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:04] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:05] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:05] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:05] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:05] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:05] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:05] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:05] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:05] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:05] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:05] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:05] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:05] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:05] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:05] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:05] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:05] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:05] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:06] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:06] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:06] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:06] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:06] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:06] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:06] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:06] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:06] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:06] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:06] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:06] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:06] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:06] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:06] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:06] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:06] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:07] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:07] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:07] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:07] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:07] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:07] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:07] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:07] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:07] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:07] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:07] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:07] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:07] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:07] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:07] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:07] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:08] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:08] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:08] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:08] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:08] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:08] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:08] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:08] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:08] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:08] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:08] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:08] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:08] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:08] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:08] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:08] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:08] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:09] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:09] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:09] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:09] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:09] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:09] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:09] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:09] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:09] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:09] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:09] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:09] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:09] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:09] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:09] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:09] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:10] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:10] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:10] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:10] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:10] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:10] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:10] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:10] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:10] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:10] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:10] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:10] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:10] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:10] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:10] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:10] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:11] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:11] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:11] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:11] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:11] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:11] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:11] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:11] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:11] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:11] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:11] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:11] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:11] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:11] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:11] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:11] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:11] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:12] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:12] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:12] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:12] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:12] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:12] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:12] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:12] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:12] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:12] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:12] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:12] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:12] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:12] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:12] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:12] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:12] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:13] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:13] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:13] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:13] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:13] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:13] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:13] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:13] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:13] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:13] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:13] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:13] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:13] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:13] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:13] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:13] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:14] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:14] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:14] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:14] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:14] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:14] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:14] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:14] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:14] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:14] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:14] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:14] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:14] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:14] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:14] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:14] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:15] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:15] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:15] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:15] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:15] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:15] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:15] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:15] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:15] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:15] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:15] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:15] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:15] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:15] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:15] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:15] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:15] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:16] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:16] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:16] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:16] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:16] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:16] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:16] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:16] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:16] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:16] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:16] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:16] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:16] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:16] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:16] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:16] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:17] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:17] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:17] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:17] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:17] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:17] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:17] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:17] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:17] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:17] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:17] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:17] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:17] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:17] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:17] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:17] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:17] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:18] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:18] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:18] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:18] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:18] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:18] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:18] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:18] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:18] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:18] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:19] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:19] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:19] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:19] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:19] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:20] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:20] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:20] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:20] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:20] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:21] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:21] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:21] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:21] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:22] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:22] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:22] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:22] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:22] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:23] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:23] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:23] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:23] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:23] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:24] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:24] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:24] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:55:24] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> used the tool paint on maps/rp_city8_edit_v4r.bsp
+[14:56:52] CCA.C08-GRID.i4.81530: /viewdata Chloe
+[14:56:58] CCA.C08-GRID.i4.81530: /viewdata Cloe
+[14:59:43] Carson Copper<STEAM_0:0:52468151> changed their name to Kazuki Matsuda
+[15:00:13] CCA.C08-GRID.i4.81530: /r Range cold
+[15:01:55] CCA.C08-GRID.i4.81530<STEAM_0:1:54101851> changed their name to Zomboid
+[15:02:19] Zomboid: // this is gay
+[15:02:56] Zomboid<STEAM_0:1:54101851> changed their name to Fred Angerly
+[15:03:18] Kazuki Matsuda: // le what now
+[15:03:21] Fred Angerly: // ?
+[15:03:35] Kazuki Matsuda: // zomboid
+[15:03:40] Fred Angerly: // yes ?
+[15:03:50] Kazuki Matsuda: // what ya said before in ooc :c
+[15:03:59] Fred Angerly: // Zombies attack your Zombie char
+[15:04:03] Fred Angerly: // Pretty gay :(
+[15:04:16] Kazuki Matsuda: // yee hasn't been fixed I don't think
+[15:04:18] Kazuki Matsuda: // o well
+[15:04:29] Fred Angerly: // Well I think I could give out the NPC Relations
+[15:04:47] Fred Angerly: // I have NPC Relations shit done on my server so I could give it to QI
+[15:05:30] Kazuki Matsuda: // think Q is busy with things atm... heh
+[15:05:45] Fred Angerly to admins: need Staff for RP
+[15:06:14] Kazuki Matsuda: // doing application mwahahah
+[15:06:19] Fred Angerly: // For staff ?
+[15:06:23] Kazuki Matsuda: // nah
+[15:06:28] Fred Angerly: // For what
+[15:06:44] Kazuki Matsuda: // I've been staff on many other servers before... I feel like it aint worth it anymore
+[15:06:50] Fred Angerly: // Depends
+[15:06:52] Kazuki Matsuda: // find out soon *mwahahah*
+[15:06:55] Fred Angerly: // But I understand
+[15:07:09] Fred Angerly: // Tell
+[15:07:11] Kazuki Matsuda: // course it depends but these fellers have got things sorted out
+[15:07:45] Kazuki Matsuda: // I'll give you a hint, but the only thing I'll let you in on is that I'm eligible to apply 
+[15:10:03] Fred Angerly: // Thats not a .... hint...
+[15:10:11] Fred Angerly: /me would grab some cinder blocks
+[15:10:16] Kazuki Matsuda: // It is when you look at the requirments for the applications
+[15:10:42] Kazuki Matsuda: // Far as I know only one has an actual 'requirment' 
+[15:10:44] Fred Angerly: /me would drop them on the floor, creating a boost for him to jump on the upper floor
+[15:11:29] Fred Angerly<STEAM_0:1:54101851> spawned model models/props_junk/cinderblock01a.mdl
+[15:11:31] Fred Angerly<STEAM_0:1:54101851> spawned model models/props_junk/cinderblock01a.mdl
+[15:12:19] Fred Angerly<STEAM_0:1:54101851> spawned model models/props_junk/cinderblock01a.mdl
+[15:12:33] Fred Angerly<STEAM_0:1:54101851> spawned model models/props_c17/concrete_barrier001a.mdl
+[15:12:39] Fred Angerly<STEAM_0:1:54101851> spawned model models/props_c17/concrete_barrier001a.mdl
+[15:12:40] Client "electricman" connected.
+[15:12:44] Fred Angerly<STEAM_0:1:54101851> spawned model models/props_c17/concrete_barrier001a.mdl
+[15:12:52] Fred Angerly<STEAM_0:1:54101851> spawned model models/props_c17/furnituredresser001a.mdl
+[15:17:43] Fred Angerly: // I wonder...
+[15:17:45] Fred Angerly<STEAM_0:1:54101851> spawned model models/props_c17/fence01a.mdl
+[15:17:53] Kazuki Matsuda: // What's up?
+[15:18:01] Fred Angerly: // Testing something in OOC
+[15:18:02] Fred Angerly<STEAM_0:1:54101851> spawned model models/props_c17/fence01a.mdl
+[15:18:19] Fred Angerly: // ooooh
+[15:18:31] Fred Angerly: // interesting
+[15:19:19] Fred Angerly: // There is a secret mini vent
+[15:22:52] Fred Angerly: /me would hold his shovel at the ready, Waiting if someone would come inside
+[15:23:55] Dropped "Fred Angerly" from server<STEAM_0:1:54101851>
+[15:24:23] Dropped "Kazuki Matsuda" from server<STEAM_0:0:52468151>
+[15:25:51] Client "electricman" connected.
+[15:30:59] Client "electricman" spawned in server <STEAM_0:0:152014883> (took 308 seconds).
+[15:32:01] Dropped "electricman" from server<STEAM_0:0:152014883>
+[15:50:25] Client "devilsurvivor45" connected.
+[15:53:11] CCA.C08-UNION.i1.51023<STEAM_0:1:53097688> changed their name to Lee Maylor
+[15:53:13] Lee Maylor: /chardesc
+[15:54:58] Lee Maylor<STEAM_0:1:53097688> changed their name to CCA.C08-UNION.i1.51023
+[16:08:35] Client "devilsurvivor45" spawned in server <STEAM_0:1:197160536> (took 1090 seconds).
+[16:17:34] CCA.C08-UNION.i1.51023<STEAM_0:1:53097688> spawned/gave himself swep tfa_ordinalrifle
+[16:17:34] CCA.C08-UNION.i1.51023: /toggleraise
+[16:18:50] CCA.C08-UNION.i1.51023: /toggleraise
+[16:19:17] devilsurvivor45<STEAM_0:1:197160536> changed their name to Nova Wrenrey
+[16:19:27] CCA.C08-UNION.i1.51023: /chargiveitem nova "respirator"
+[16:19:34] CCA.C08-UNION.i1.51023: //alright os some basic stuff
+[16:19:39] CCA.C08-UNION.i1.51023: //OOC is for out of cahracter as you can imagine
+[16:19:55] CCA.C08-UNION.i1.51023: //LOOC is out of character, but it only shows up within a certain radius of you
+[16:19:59] CCA.C08-UNION.i1.51023: //regular chat is for in character
+[16:20:09] CCA.C08-UNION.i1.51023: //ooc you put // before your message
+[16:20:11] CCA.C08-UNION.i1.51023: //chat is y
+[16:20:19] CCA.C08-UNION.i1.51023: //and then for looc you put .// or [[ before your message
+[16:20:26] CCA.C08-UNION.i1.51023: //yee
+[16:20:46] Nova Wrenrey: .ll like this?
+[16:21:15] Nova Wrenrey: .// ooh i see
+[16:21:34] Nova Wrenrey: {{hello
+[16:21:47] Nova Wrenrey: im just trying things ou
+[16:22:08] Nova Wrenrey: [[is this one normal
+[16:22:16] CCA.C08-UNION.i1.51023: //sorry i'm back
+[16:22:22] CCA.C08-UNION.i1.51023: //is everything working out for ya
+[16:22:37] CCA.C08-UNION.i1.51023: alright
+[16:22:41] CCA.C08-UNION.i1.51023: so OOC is out of character
+[16:22:44] Nova Wrenrey: //hello
+[16:22:47] CCA.C08-UNION.i1.51023: //yeye
+[16:22:49] CCA.C08-UNION.i1.51023: //that's like
+[16:22:52] CCA.C08-UNION.i1.51023: //that shows up everywhere
+[16:22:56] CCA.C08-UNION.i1.51023: //LOOC is "local out of characteR"
+[16:23:06] CCA.C08-UNION.i1.51023: //it's the same but it only shows up when you're close enough to the speaker
+[16:23:13] CCA.C08-UNION.i1.51023: //the prefix for that is .// or [[
+[16:23:21] CCA.C08-UNION.i1.51023 set the scale for Themself to 1
+[16:23:33] CCA.C08-UNION.i1.51023: //i'm team .//
+[16:23:36] Nova Wrenrey: [[hello
+[16:23:43] CCA.C08-UNION.i1.51023: //and then regular chat, no prefixes is for regular chat
+[16:23:46] CCA.C08-UNION.i1.51023: .//hold on do it again
+[16:23:55] Nova Wrenrey: [[hello
+[16:23:57] CCA.C08-UNION.i1.51023: .//yeye
+[16:24:01] CCA.C08-UNION.i1.51023: .//that's local OOC
+[16:24:04] CCA.C08-UNION.i1.51023: .//correct
+[16:24:07] Nova Wrenrey: hello
+[16:24:08] CCA.C08-UNION.i1.51023: .//regular chat is for in character speech
+[16:24:12] CCA.C08-UNION.i1.51023: .//it's what your character is saying
+[16:24:36] Nova Wrenrey: {{hello
+[16:24:43] CCA.C08-UNION.i1.51023: .//it's [[ not {{
+[16:24:47] CCA.C08-UNION.i1.51023: .//[[ or .//
+[16:25:03] CCA.C08-UNION.i1.51023: .//yeye
+[16:25:07] CCA.C08-UNION.i1.51023: .//if you have any questions feel free to ask
+[16:25:15] CCA.C08-UNION.i1.51023: .//for that you would do /me
+[16:25:19] CCA.C08-UNION.i1.51023: .//for example
+[16:25:26] CCA.C08-UNION.i1.51023: .///me would pick up the thing in front of him.
+[16:25:35] CCA.C08-UNION.i1.51023: /me would pick up the thing in front of him.
+[16:25:44] Nova Wrenrey: /me picks up
+[16:25:54] CCA.C08-UNION.i1.51023: .///it is the same thing, but it describes stuff around you, it's not a /me
+[16:25:56] CCA.C08-UNION.i1.51023: .//so like
+[16:25:59] CCA.C08-UNION.i1.51023: /it The light grows green.
+[16:26:01] CCA.C08-UNION.i1.51023: .//eh it's fine
+[16:26:20] CCA.C08-UNION.i1.51023: .//yes, you did good, but your age has a comma between the 2 and 1
+[16:26:31] CCA.C08-UNION.i1.51023: .//to change oyur description do /chardesc
+[16:26:32] CCA.C08-UNION.i1.51023: /chardesc
+[16:26:48] Nova Wrenrey: /chardesc
+[16:26:50] CCA.C08-UNION.i1.51023: .//yes
+[16:26:55] CCA.C08-UNION.i1.51023: .//just plain /chardesc
+[16:27:26] CCA.C08-UNION.i1.51023<STEAM_0:1:53097688> spawned/gave himself swep weapon_egon
+[16:27:27] CCA.C08-UNION.i1.51023: /toggleraise
+[16:27:35] CCA.C08-UNION.i1.51023: //right now, put on your respirator
+[16:27:39] CCA.C08-UNION.i1.51023: //so to access your inventory
+[16:27:40] CCA.C08-UNION.i1.51023: //hit TAB
+[16:27:54] CCA.C08-UNION.i1.51023: //and then just click inventory
+[16:27:59] CCA.C08-UNION.i1.51023: //right click on your respirator, hit equip
+[16:28:02] CCA.C08-UNION.i1.51023: /chargiveitem albright nugget
+[16:28:04] CCA.C08-UNION.i1.51023: /plysearch
+[16:28:14] CCA.C08-UNION.i1.51023: //nowhere, just right click on it
+[16:28:16] CCA.C08-UNION.i1.51023: /pm echo SWIM
+[16:28:18] CCA.C08-UNION.i1.51023: /chargiveitem albright nugget
+[16:28:25] CCA.C08-UNION.i1.51023: //and then hit equip
+[16:28:26] CCA.C08-UNION.i1.51023: /plysearch
+[16:28:42] CCA.C08-UNION.i1.51023: //right clcik or left click
+[16:28:42] CCA.C08-UNION.i1.51023: /plysearch
+[16:29:01] CCA.C08-UNION.i1.51023: //now you're set
+[16:29:05] CCA.C08-UNION.i1.51023: //come through when you're ready
+[16:29:07] CCA.C08-UNION.i1.51023: //yeye
+[16:29:13] CCA.C08-UNION.i1.51023: /y This way.
+[16:29:16] CCA.C08-UNION.i1.51023: //oh and yelling is /y
+[16:29:19] CCA.C08-UNION.i1.51023: //and whispering is /w
+[16:31:15] CCA.C08-UNION.i1.51023: /y administer
+[16:31:16] CCA.C08-UNION.i1.51023: /y fist
+[16:31:17] CCA.C08-UNION.i1.51023: /2
+[16:31:17] CCA.C08-UNION.i1.51023: /y 2
+[16:31:19] CCA.C08-UNION.i1.51023: /y shit
+[16:31:21] CCA.C08-UNION.i1.51023: /y canal
+[16:31:22] CCA.C08-UNION.i1.51023: /y haha
+[16:31:29] CCA.C08-UNION.i1.51023: /y fist
+[16:31:31] CCA.C08-UNION.i1.51023: /y sword
+[16:31:45] CCA.C08-UNION.i1.51023: //btw anytime somebody says to "void" something, they mean to ignore it in character
+[16:31:58] CCA.C08-UNION.i1.51023: Relocation coupon.
+[16:32:06] CCA.C08-UNION.i1.51023: .//it me
+[16:32:18] CCA.C08-UNION.i1.51023: .//yeye, drop your relocation coupon for me from your inv
+[16:32:26] CCA.C08-UNION.i1.51023: .//yee, it's right here
+[16:32:32] CCA.C08-UNION.i1.51023: /me takes the relocation coupon and turns around, inspecting it closely in the light.
+[16:32:53] CCA.C08-UNION.i1.51023: /me turns back around for a moment and tells the citizen, "Wait here."
+[16:33:01] Nova Wrenrey: /ME waits patiently
+[16:33:07] CCA.C08-UNION.i1.51023: //watch this machine babe
+[16:33:24] CCA.C08-UNION.i1.51023: //oh and btw
+[16:33:41] CCA.C08-UNION.i1.51023: //the term metagame means using OOC information IC
+[16:33:43] CCA.C08-UNION.i1.51023: //so for example
+[16:33:50] CCA.C08-UNION.i1.51023: //your character having no idea what advisors are, being a citizen
+[16:33:55] CCA.C08-UNION.i1.51023: //but still IC talking about advisors
+[16:33:57] CCA.C08-UNION.i1.51023: //you get what i mean?
+[16:34:14] CCA.C08-UNION.i1.51023: //right, stuff like that
+[16:34:16] CCA.C08-UNION.i1.51023: //that's called metagame
+[16:34:23] CCA.C08-UNION.i1.51023: //right
+[16:34:29] CCA.C08-UNION.i1.51023: //metagame is also going to secret bases without your character knowing about them
+[16:34:36] CCA.C08-UNION.i1.51023: //i won;t baby <3
+[16:34:38] CCA.C08-UNION.i1.51023: //i love you
+[16:34:48] CCA.C08-UNION.i1.51023: //you still have time to be disappointed
+[16:34:53] CCA.C08-UNION.i1.51023: Alright, I need some information from you.
+[16:34:53] CCA.C08-UNION.i1.51023: /me takes out their datapad and types a couple things in.
+[16:35:00] CCA.C08-UNION.i1.51023: First off, I need your date of birth and your sex.
+[16:35:13] CCA.C08-UNION.i1.51023: .//note that i said sex, not gender
+[16:35:29] CCA.C08-UNION.i1.51023: .//one of the 2 sexes
+[16:35:35] CCA.C08-UNION.i1.51023: .//sex as in whatever bits you have
+[16:35:55] CCA.C08-UNION.i1.51023: .//1985 iirc
+[16:36:03] CCA.C08-UNION.i1.51023: .//or 1984 depending on when you were born
+[16:36:30] CCA.C08-UNION.i1.51023: .//shrug
+[16:36:36] CCA.C08-UNION.i1.51023: .//i don't know i'm bad at time math
+[16:36:52] CCA.C08-UNION.i1.51023: .//it's 2006 IC
+[16:36:53] CCA.C08-UNION.i1.51023: .//the date idfk
+[16:37:02] CCA.C08-UNION.i1.51023: .//it varies, tiem oesn't work linearly here
+[16:37:10] Nova Wrenrey: female and october 18th 1885
+[16:37:24] CCA.C08-UNION.i1.51023: EIGHTTEEN eighty five?
+[16:37:28] CCA.C08-UNION.i1.51023: I'm going to assume you mean nineteen.
+[16:37:30] CCA.C08-UNION.i1.51023: /viewdata nova
+[16:37:41] CCA.C08-UNION.i1.51023: .//you're okey baby
+[16:37:44] Nova Wrenrey: yes, i apologize
+[16:38:08] CCA.C08-UNION.i1.51023: And do you know your blood type?
+[16:38:08] Nova Wrenrey: 1985
+[16:38:17] CCA.C08-UNION.i1.51023: If not, I can mark it as unknown.
+[16:38:34] Nova Wrenrey: unknown
+[16:38:37] CCA.C08-UNION.i1.51023: Alright...
+[16:38:39] CCA.C08-UNION.i1.51023: /viewdata nova
+[16:38:59] CCA.C08-UNION.i1.51023: Any medical conditions? Eczema, lazy eye, anything like that?
+[16:39:12] Nova Wrenrey: no, none at all
+[16:39:21] CCA.C08-UNION.i1.51023: Alright. And... mental conditions?
+[16:39:23] CCA.C08-UNION.i1.51023: /viewdata nova
+[16:39:34] Nova Wrenrey: no
+[16:39:36] CCA.C08-UNION.i1.51023: /viewdata nova
+[16:39:47] CCA.C08-UNION.i1.51023: .//yeee it does that automatically and i love it
+[16:39:55] CCA.C08-UNION.i1.51023: /me places the citizen's ID on the counter and slides it forward.
+[16:40:04] CCA.C08-UNION.i1.51023: .//hold e on it
+[16:40:14] CCA.C08-UNION.i1.51023: .//and you can move it around with your hands by right clicking
+[16:40:21] CCA.C08-UNION.i1.51023: .//btw you can punch by holding R
+[16:40:29] CCA.C08-UNION.i1.51023: .//is it an error for you babe
+[16:40:42] CCA.C08-UNION.i1.51023: .//do you have a crosshair?
+[16:40:45] CCA.C08-UNION.i1.51023: //it should be a little white dot
+[16:40:48] CCA.C08-UNION.i1.51023: //whoops wrong chat
+[16:40:52] CCA.C08-UNION.i1.51023: .//hmm
+[16:40:53] CCA.C08-UNION.i1.51023: .//weird
+[16:41:05] CCA.C08-UNION.i1.51023: .//maybe it'sbecuase of your faction? just put the card in the center of your screen
+[16:41:07] CCA.C08-UNION.i1.51023: /toggleraise
+[16:41:19] CCA.C08-UNION.i1.51023: .//keys
+[16:41:26] Client "Dilly_" connected.
+[16:41:34] Nova Wrenrey: thanks
+[16:41:45] CCA.C08-UNION.i1.51023: You're free to go, stay out of trouble. Any questions?
+[16:42:04] CCA.C08-UNION.i1.51023: .//if it's somewhere you shouldn't be, it'll be locked off
+[16:42:13] CCA.C08-UNION.i1.51023: .//when in doubt, stay out of the forest, the sewers, and other stuff
+[16:42:19] CCA.C08-UNION.i1.51023: .//i can on a citizen yee
+[16:42:37] Nova Wrenrey: i believe im all set, thanks no questions
+[16:42:43] CCA.C08-UNION.i1.51023: Proceed through the stairs behind you.
+[16:42:57] CCA.C08-UNION.i1.51023<STEAM_0:1:53097688> changed their name to Anne Wayle
+[16:43:02] Anne Wayle: /chargiveitem wayle "respirator"
+[16:43:03] Nova Wrenrey: /me walks to the stairs and heads up
+[16:43:09] Anne Wayle: /chargiveitem wayle "citizen id"
+[16:43:33] Anne Wayle: //pardon
+[16:43:39] Anne Wayle: //is the road invisible
+[16:43:40] Client "Dilly_" spawned in server <STEAM_0:0:52468151> (took 134 seconds).
+[16:43:45] Anne Wayle: //fuck
+[16:44:20] Anne Wayle: //hmmm
+[16:44:21] Anne Wayle: //that
+[16:44:23] Anne Wayle: //is not good
+[16:44:26] Anne Wayle: //uhhhhhh, go ahead for me
+[16:44:35] Anne Wayle: //pause and click on the little controller icon
+[16:44:41] Anne Wayle: //in your pause menu
+[16:44:48] Anne Wayle: //it's on the bottom right
+[16:44:52] Anne Wayle: //so hit Esc
+[16:45:05] Anne Wayle: //and find the games button on the bottom right of the screen
+[16:45:23] Dilly_<STEAM_0:0:52468151> changed their name to Crimson
+[16:45:46] Anne Wayle: //sup dilly
+[16:45:49] Anne Wayle: //this is my girlfriend
+[16:46:04] Crimson: // ohhh nice nice
+[16:48:21] Anne Wayle: .//alright
+[16:48:38] Crimson: /me pecks in the patch of debris whislt also cooing away
+[16:49:28] Dropped "Nova Wrenrey" from server<STEAM_0:1:197160536>
+[16:49:28] Anne Wayle<STEAM_0:1:53097688> spawned/gave himself swep weapon_sniperrifle
+[16:49:29] Anne Wayle: /toggleraise
+[16:49:31] Anne Wayle<STEAM_0:1:53097688> spawned/gave himself swep weapon_gauss
+[16:49:31] Anne Wayle: /toggleraise
+[16:49:40] Crimson: .// Did I fuck it up
+[16:49:41] Anne Wayle: /chareditbodygroup anne
+[16:49:42] Client "devilsurvivor45" connected.
+[16:49:51] Anne Wayle: .//fuck what up
+[16:49:54] Crimson: .// oh nothing
+[16:49:58] Crimson: .// phew
+[16:50:00] Crimson: /charfallover 1
+[16:50:29] Crimson: /charfallover 1
+[16:50:41] Crimson: /charfallover 1
+[16:50:44] Crimson: /charfallover 1
+[16:50:46] Crimson: /charfallover 1
+[16:50:48] Crimson: /charfallover 1
+[16:50:56] Crimson: /charfallover 1
+[16:51:13] Anne Wayle<STEAM_0:1:53097688> spawned/gave himself swep ix_supersoldiercannon
+[16:51:14] Anne Wayle: /toggleraise
+[16:51:44] Crimson: .// cameras hate me
+[16:51:47] Anne Wayle<STEAM_0:1:53097688> spawned/gave himself swep weapon_pistol
+[16:51:49] Anne Wayle: .//sure do
+[16:51:50] Crimson: .// I'm the real rebel
+[16:51:52] Anne Wayle: .//i need to fix that
+[16:51:53] Anne Wayle: /toggleraise
+[16:51:54] Crimson: .// the CPs hate me 
+[16:52:04] Crimson: .// My bird has atleast 100+ infraction points
+[16:52:12] Crimson: .// just from movement violations lol
+[16:52:22] Anne Wayle: <:: Amputate. ::>
+[16:52:29] Crimson: .// I am the real rebel they should be afraid of 
+[16:52:34] Crimson: .// <:: Amputate. ::>
+[16:52:44] Crimson: SHUSH YOU
+[16:52:48] Anne Wayle<STEAM_0:1:53097688> spawned/gave himself swep weapon_crossbow
+[16:52:48] Anne Wayle: /toggleraise
+[16:52:52] Anne Wayle<STEAM_0:1:53097688> spawned/gave himself swep weapon_shotgun
+[16:52:52] Anne Wayle: /toggleraise
+[16:52:53] Crimson: coo
+[16:52:59] Crimson: /charfallover 1
+[16:53:05] Crimson: /charfallover 1
+[16:53:09] Crimson: /charfallover 1
+[16:53:12] Crimson: /charfallover 1
+[16:54:10] Crimson: .// last night I drove the CPs crazy as my bird
+[16:54:14] Anne Wayle: .//fucking amazing
+[16:54:17] Crimson: .// think they enjoyed it as well
+[16:54:25] Crimson: .// died a lot of times
+[16:54:28] Anne Wayle: .//pfff
+[16:54:29] Anne Wayle: /pm echo DRINK
+[16:54:32] Anne Wayle<STEAM_0:1:53097688> spawned/gave himself swep weapon_manhack
+[16:54:32] Anne Wayle<STEAM_0:1:53097688> spawned/gave himself swep weapon_manhack
+[16:54:33] Anne Wayle: /toggleraise
+[16:54:42] Anne Wayle<STEAM_0:1:53097688> spawned/gave himself swep weapon_manhack
+[16:54:42] Anne Wayle: /toggleraise
+[16:54:44] Anne Wayle: /toggleraise
+[16:54:45] Anne Wayle<STEAM_0:1:53097688> spawned/gave himself swep weapon_manhack
+[16:54:45] Crimson: .// WHAT
+[16:54:45] Anne Wayle: /toggleraise
+[16:54:46] Crimson: .// e
+[16:54:47] Anne Wayle: /toggleraise
+[16:54:57] Crimson: .// have you scripted the manhack thing in, or uh
+[16:55:07] Anne Wayle: .//nah this is what i plan on modifying though
+[16:55:11] Crimson: .// Angry union.i1 noises 
+[16:55:13] Crimson: .// OOO
+[16:55:15] Crimson: .// good shit
+[16:55:31] Anne Wayle<STEAM_0:1:53097688> spawned/gave himself swep weapon_manhack
+[16:55:31] Anne Wayle: /toggleraise
+[16:55:32] Anne Wayle gave Themself 99999 rounds
+[16:55:32] Anne Wayle: !giveammo ^ 99999
+[16:55:35] Client "devilsurvivor45" spawned in server <STEAM_0:1:197160536> (took 353 seconds).
+[16:55:37] Crimson: .// how would it work? I'm guessing it would like
+[16:55:41] Anne Wayle<STEAM_0:1:53097688> used the tool permaprops on maps/rp_city8_edit_v4r.bsp
+[16:55:45] Crimson: .// er
+[16:55:46] Anne Wayle extinguished all 3 fires.
+[16:55:46] Anne Wayle: !vextinguishall
+[16:57:03] Crimson: fewn
+[16:57:06] Crimson: fwen
+[16:57:08] Crimson: aw
+[16:57:11] Anne Wayle: berd
+[16:57:14] Anne Wayle<STEAM_0:1:53097688> spawned/gave himself swep weapon_physcannon
+[16:57:14] Anne Wayle: /toggleraise
+[16:57:14] Crimson: berb
+[16:57:16] Anne Wayle: berd
+[16:57:22] Anne Wayle: birb
+[16:57:28] Crimson: /charfallover 1
+[16:57:31] Crimson: /charfallover 1
+[16:57:32] Crimson: /charfallover 1
+[16:57:36] Crimson: /charfallover 1
+[16:57:37] Crimson: /charfallover 1
+[16:57:39] Crimson: /charfallover 1
+[16:57:41] Crimson was killed by trigger_hurt
+[16:57:46] Anne Wayle<STEAM_0:1:53097688> spawned/gave himself swep weapon_rpg
+[16:57:53] Anne Wayle: /toggleraise
+[16:57:54] Crimson: /charfallover 1
+[16:57:56] Crimson: /charfallover 1
+[16:58:01] Anne Wayle: //btw they are new to HL2RP
+[16:58:02] Anne Wayle: //so
+[16:58:05] Anne Wayle: //yknow be gentle
+[16:58:07] Crimson: // ahhh
+[16:58:10] Crimson: // oh no worries
+[16:58:10] devilsurvivor45<STEAM_0:1:197160536> changed their name to Nova Wrenrey
+[16:58:14] Crimson: /charfallover 1
+[16:58:16] Crimson was killed by trigger_hurt
+[16:58:24] Anne Wayle: Hello.
+[16:58:31] Nova Wrenrey: hello
+[16:58:40] Anne Wayle: heh
+[16:58:44] Anne Wayle: Those cameras still target the birds.
+[16:58:52] Anne Wayle: You look new, I don't think I've seen you before.
+[16:58:55] Anne Wayle: .//as you can guess babe this is me
+[16:59:38] Nova Wrenrey: yea im new, im Nova
+[16:59:45] Anne Wayle: Nice to meet you, name's Anne.
+[16:59:50] Anne Wayle: .//hit f3 to make me recognize you btw
+[16:59:54] Anne Wayle: .//just do "in talking range"
+[17:00:01] Anne Wayle: .//and thne it won't show you as unknown
+[17:00:27] Anne Wayle: .//yeee, and do the talking range one
+[17:00:54] Anne Wayle: .//it still says unknown
+[17:00:57] Anne Wayle: .//did you hit talking
+[17:01:24] Anne Wayle: .//baby?
+[17:01:45] Anne Wayle: .//you're good
+[17:01:46] Anne Wayle: .//nonono
+[17:01:47] Anne Wayle: .//not y
+[17:01:49] Anne Wayle: .//hit F3
+[17:01:53] Anne Wayle: /me takes out their datapad and types a couple things in.
+[17:01:56] Anne Wayle: .//void that
+[17:02:01] Anne Wayle: .//and then hit the talking range button
+[17:02:19] Anne Wayle: .//are you hitting 3 or F3
+[17:02:31] Anne Wayle: .//it would seem not
+[17:02:36] Anne Wayle: .//say something in IC chat
+[17:02:38] Anne Wayle: .//no
+[17:02:40] Anne Wayle: .//just F3
+[17:02:51] Nova Wrenrey: hello
+[17:02:57] Anne Wayle: .//hold FN then hit f3
+[17:03:23] Anne Wayle: .//you got it?
+[17:03:25] Anne Wayle: .//it!*
+[17:03:30] Anne Wayle: Nice to meet you.
+[17:03:43] Anne Wayle: Tip about the cameras, I don't recommend running or jumping around them unless you like beatings.
+[17:03:52] Anne Wayle: Most cops ignore them though.
+[17:03:58] Nova Wrenrey: nice to meet you
+[17:04:11] Anne Wayle: you too.
+[17:04:18] Anne Wayle: Let me show you around.
+[17:04:54] Anne Wayle: These here are the apartments.
+[17:04:59] Anne Wayle: This is where most people live.
+[17:05:05] Anne Wayle: Big button opens the doors.
+[17:05:12] Anne Wayle: This here is a blood donation machine
+[17:05:20] Anne Wayle: If you stick your arm in it, you can get some tokens for your blood.
+[17:05:22] Anne Wayle: .//tokens are the currency
+[17:05:28] Nova Wrenrey: okay
+[17:05:29] Anne Wayle: .//hit e on it to donate blood if you like, it takes 5 HP
+[17:05:43] Anne Wayle: Let's see.
+[17:06:04] Anne Wayle: .//to see how many tokens you have just look in "YOU" in your tab menu
+[17:06:17] Anne Wayle: Up here are the apartments.
+[17:06:48] Nova Wrenrey: okay cool
+[17:07:05] Anne Wayle: They've got little things on the door that show who lives where..
+[17:07:18] Anne Wayle: You don't have one assigned yet, I assume, if you're brand new.
+[17:07:25] Anne Wayle: Let me show you an interior.
+[17:07:26] Nova Wrenrey: yea i dont
+[17:07:58] Anne Wayle: hm
+[17:08:00] Anne Wayle: not these
+[17:08:16] Anne Wayle: hm
+[17:08:18] Anne Wayle: Not locked.
+[17:08:29] Anne Wayle: Most of this is pretty standard. Working stove, fridge, maybe a bed.
+[17:08:34] Anne Wayle: .//hit e on the stoetop to turn it on
+[17:08:37] Anne Wayle: .//i programmed that actually
+[17:08:39] Nova Wrenrey: nice
+[17:08:45] Anne Wayle: This is one of the nicer types.
+[17:08:49] Anne Wayle: .//hm
+[17:08:51] Anne Wayle: .//it would seem
+[17:08:55] Anne Wayle: .//this stove doesn't have a stove entity on it
+[17:08:57] Anne Wayle: .//shit
+[17:09:07] Anne Wayle: .//well nevermind
+[17:09:09] Anne Wayle: Got a balcony.
+[17:09:29] Anne Wayle: View isn't great, but.. Beats being homeless.
+[17:09:40] Anne Wayle: You CAN walk on these ledges, but I don't like horrible falls.
+[17:09:40] Nova Wrenrey: yea i agree with that
+[17:09:43] Anne Wayle: I can't imagine you do either.
+[17:09:54] Anne Wayle: .//i love you babwy
+[17:09:56] Nova Wrenrey: yea not really
+[17:10:10] Anne Wayle: //*no*
+[17:10:12] Anne Wayle: //wrong chat
+[17:10:13] Anne Wayle: .//*no*
+[17:10:25] Anne Wayle: up this way
+[17:10:31] Crimson: // oh now I wanna know lol
+[17:10:47] Anne Wayle: these are the nicer ones, too.
+[17:11:00] Anne Wayle: THESE have working stovetops.
+[17:11:11] Anne Wayle: Bathroom connects to the other room.
+[17:11:21] Nova Wrenrey: very nice
+[17:11:23] Anne Wayle: What else..
+[17:11:36] Anne Wayle: .//ask a metrocop for one
+[17:11:46] Anne Wayle: .//amd they'll assign oyu one
+[17:11:51] Anne Wayle: This here... I'm not sure what it is.
+[17:12:00] Nova Wrenrey: strange
+[17:12:01] Anne Wayle: It used to be a normal apartment, but now I just see metrocops going in and out.
+[17:12:08] Anne Wayle: Not sure if it's closed for an investigation or what.
+[17:12:18] Anne Wayle: That's all for here..
+[17:12:19] Nova Wrenrey: interesting
+[17:12:57] Nova Wrenrey: well thanks for showing me around the apartments
+[17:13:21] Anne Wayle: That's not all if you want to see more.
+[17:13:32] Nova Wrenrey: okay
+[17:14:00] Anne Wayle: .//that would be kewl but i can't assign myself an apatment
+[17:14:06] Anne Wayle: .//we could assign a metrocop for it though hehehe
+[17:14:31] Anne Wayle: These here are the other apartments. It's more of the same stuff.
+[17:14:45] Anne Wayle: This here is a store, uh...
+[17:14:57] Anne Wayle: .//some idiot CCA did this wrong ,bvery fun
+[17:14:59] Anne Wayle: .//anyways
+[17:15:05] Anne Wayle: The guy in it doesn't ocme out much.
+[17:15:25] Anne Wayle: Over here's a vendor, he's got things for you. I recommend a flashlight, and of course food if you need it.
+[17:15:39] Anne Wayle: You've got a respirator, so you don't need a suit or filter
+[17:15:40] Nova Wrenrey: yes a flashlight
+[17:15:48] Anne Wayle: .//hit e on him to trade
+[17:16:18] Nova Wrenrey: thanks
+[17:16:20] Anne Wayle: Yep.
+[17:16:22] Anne Wayle: huh
+[17:16:26] Anne Wayle: alright..
+[17:16:37] Anne Wayle: .//if you got one, F is flashlight, you don't ned to equip it or anything
+[17:16:54] Nova Wrenrey: yep
+[17:17:09] Anne Wayle: .//this... needs renovation
+[17:17:10] Anne Wayle: .//wow
+[17:17:16] Anne Wayle: .//ignopre that i just unlocked it
+[17:17:37] Anne Wayle: this here is the kato, somebody recently bought it
+[17:17:42] Anne Wayle: It's the popular bar.
+[17:17:49] Nova Wrenrey: i see
+[17:17:51] Anne Wayle: Private, eh?
+[17:17:55] Anne Wayle: I'll take my chnaces.
+[17:18:16] Anne Wayle: .//yeee!
+[17:18:24] Anne Wayle: It's... looking good.
+[17:18:29] Anne Wayle: Different than since I last came here.
+[17:18:49] Anne Wayle: We've got a work desk.
+[17:18:58] Anne Wayle: So if you need loyalist points and there's a metrocop here, you can ask him for work.
+[17:19:01] Anne Wayle: And you'll get an LP in return.
+[17:19:08] Anne Wayle: .//loyalist points determine how loyal you are to the combie
+[17:19:09] Nova Wrenrey: okay
+[17:19:15] Anne Wayle: .//at -10 you're wanted and are executed
+[17:19:30] Anne Wayle: .//you gotta ask a cop
+[17:19:32] Anne Wayle: .//you're zero
+[17:19:39] Anne Wayle: .//because you haven't done any crimes or earned any
+[17:19:53] Anne Wayle: This.. I think is unclaimed.
+[17:19:56] Anne Wayle: It.. is.
+[17:19:57] Anne Wayle: It is.
+[17:19:58] Anne Wayle: nevermind
+[17:20:18] Anne Wayle: This here is the nexus and all the Combine things.
+[17:20:29] Anne Wayle: This here is where you get your rations.
+[17:20:42] Anne Wayle: When rations are called, you just wait in line and the cop will get you your food, standard stuff.
+[17:21:11] Anne Wayle: This thing here will buy your resin for uh... Two tokens I think.
+[17:21:14] Anne Wayle: Not much else it really does.
+[17:21:25] Nova Wrenrey: hmm
+[17:21:27] Anne Wayle: Resin are these little pucks of metal, you'll know them if you see them.
+[17:22:01] Anne Wayle: This here is the Civil Workers Union headquarters for the precinct.
+[17:22:06] Anne Wayle: Or the city, I can't remember.
+[17:22:07] Client "FB|| light ROOM" connected.
+[17:22:13] Anne Wayle: It's one of the nicer buildings.
+[17:22:15] Anne Wayle: If not the nicest.
+[17:22:26] Anne Wayle: Much nicer in here.
+[17:22:48] Anne Wayle: .//btw shift+alt makes you crouch persistently
+[17:22:52] Anne Wayle: .//shift+alt again undoes it
+[17:23:01] Anne Wayle: .//sorry, ALT+Shift
+[17:23:15] Anne Wayle: But yeah.
+[17:23:21] Anne Wayle: This is where all the offices for the important people are.
+[17:23:25] Anne Wayle: Sometimes people are manning that desk, not always.
+[17:23:45] Anne Wayle: This here...
+[17:23:52] Anne Wayle: Is the nexus.
+[17:23:53] Crimson was killed by npc_fastzombie
+[17:24:00] Client "FB|| light ROOM" spawned in server <STEAM_0:1:17219621> (took 113 seconds).
+[17:24:01] Anne Wayle: You're ALLOWED to go past these barricades, but I wouldn't.
+[17:24:12] Anne Wayle: Past there you've got nothing but soldiers, conscripts, and cops.
+[17:24:14] Nova Wrenrey: understood
+[17:24:16] Anne Wayle: And whatever else they've got in ther.e
+[17:24:33] Anne Wayle: Don't even think about trying to open the doors, they don't respond to you touching them.
+[17:24:39] FB|| light ROOM<STEAM_0:1:17219621> changed their name to CCA.C08-QrM.98240
+[17:24:42] CCA.C08-QrM.98240: // Yo
+[17:24:48] Anne Wayle: Only to cops and other Combine units.
+[17:24:49] CCA.C08-QrM.98240: // Why have I spawned here?
+[17:24:54] Anne Wayle: //i do not know where you are
+[17:24:58] Anne Wayle: .//babe i gotta get dinner
+[17:24:59] CCA.C08-QrM.98240: // Then check
+[17:25:02] Anne Wayle: .//you can stay on if you like then no pressurew
+[17:25:06] Anne Wayle: .//i love you
+[17:25:09] CCA.C08-QrM.98240: // I am also Lightly Dehydrated.
+[17:25:10] Anne Wayle: .//brb
+[17:25:11] CCA.C08-QrM.98240: // What
+[17:25:11] Anne Wayle teleported to CCA.C08-QrM.98240
+[17:25:11] Anne Wayle: !goto qrm
+[17:25:14] CCA.C08-QrM.98240 suicided!
+[17:25:14] Anne Wayle slayed CCA.C08-QrM.98240
+[17:25:14] Anne Wayle: !slay qrm
+[17:25:15] Anne Wayle returned Themself to their original position
+[17:25:15] Anne Wayle: !return
+[17:25:24] Anne Wayle: //btw nova here is my girlfriend
+[17:25:24] Anne Wayle: //so
+[17:25:25] Anne Wayle: //be nice
+[17:25:28] Anne Wayle: //they are new to RP
+[17:25:28] CCA.C08-QrM.98240: // No
+[17:25:32] Anne Wayle: //i must eat dinner
+[17:25:36] Anne Wayle: //babe QrM is lightroom
+[17:25:38] Anne Wayle: //he's a cool guy
+[17:25:42] Nova Wrenrey: //hii
+[17:25:47] Anne Wayle: /pm nova okey baby i love you
+[17:25:52] Crimson: // what about me Q? am I a cool guy as well
+[17:25:53] Anne Wayle: //you can call a ration cycle if you weant
+[17:25:57] Anne Wayle: //yes you are dilly
+[17:25:59] CCA.C08-QrM.98240: // I am aware.
+[17:26:03] Crimson: // WOoooo
+[17:26:08] Anne Wayle: //btw babe when somebody says to Apply, they mean to do the /apply command
+[17:26:11] Anne Wayle: //try it out, you'll seew hat it does
+[17:26:26] Nova Wrenrey: /apply
+[17:26:37] Nova Wrenrey: //okay
+[17:27:51] CCA.C08-QrM.98240: // I'll be doing a funny Ration cycle soon, just getting my inventory fixed up.
+[17:28:22] Nova Wrenrey: //okay ill head there, im still learning so bare with me
+[17:28:41] CCA.C08-QrM.98240: // No problem, nothing wrong with being new to this shit.
+[17:28:59] CCA.C08-QrM.98240: // Dilly, cease being a bird so you can get some rations.
+[17:29:20] Crimson: // who said I can't get rations as a bird >:) jk I'll switch
+[17:29:28] CCA.C08-QrM.98240: // Aight
+[17:29:35] Crimson<STEAM_0:0:52468151> changed their name to Carson Copper
+[17:29:42] CCA.C08-QrM.98240: /radio QrM.98240 reporting, beginning a ration cycle.
+[17:30:02] CCA.C08-QrM.98240: Apply for me
+[17:30:20] Nova Wrenrey: //apply
+[17:30:24] CCA.C08-QrM.98240: .// /apply
+[17:30:25] Nova Wrenrey: wait
+[17:30:46] Nova Wrenrey: /apply
+[17:30:52] CCA.C08-QrM.98240: Alright, one moment.
+[17:31:29] CCA.C08-QrM.98240: /me Takes out a PDA device and begins to type onto it, muttering to himself: 33947, 33947.
+[17:31:36] CCA.C08-QrM.98240: /viewdata Nova
+[17:31:41] Client "DRD" connected.
+[17:31:47] Nova Wrenrey: /me waits patiently
+[17:31:50] CCA.C08-QrM.98240: Alright, one standard.
+[17:32:07] CCA.C08-QrM.98240: .// Just hold "e" on it.
+[17:32:21] CCA.C08-QrM.98240: Alright, get out of here.
+[17:32:25] Nova Wrenrey: thanks
+[17:32:27] CCA.C08-QrM.98240: Next!
+[17:32:30] Carson Copper: Aye'.
+[17:32:30] CCA.C08-QrM.98240: Apply for me
+[17:32:35] Carson Copper: Will do.
+[17:32:50] Carson Copper: /me he reaches into his pocket and pulls out a card and raises it to eye-level reading it out
+[17:32:50] CCA.C08-QrM.98240: // DRD is getting on pog
+[17:32:51] Carson Copper: /apply
+[17:32:56] CCA.C08-QrM.98240: I see
+[17:32:58] Carson Copper: /me he slides the card back into his pockets
+[17:33:07] CCA.C08-QrM.98240: /viewdata Carson
+[17:33:14] Carson Copper: Nothin' special officer. This one should just be the regular.
+[17:33:29] CCA.C08-QrM.98240: /me Would lower his PDA before stating, "I noticed"
+[17:33:48] Carson Copper: /me he nods with the comment, and reaches out grabing the ration from the window.
+[17:33:54] CCA.C08-QrM.98240: .// uh
+[17:34:01] Carson Copper: .// just drop *E*
+[17:34:05] Carson Copper: .// I'll manually carry this out
+[17:34:08] CCA.C08-QrM.98240: .// Alright
+[17:34:21] CCA.C08-QrM.98240: // DRD is nagging me to get off of QrM.
+[17:34:27] Carson Copper: /me he reaches to one of his suitcases, tossing some junk into the bin
+[17:34:28] CCA.C08-QrM.98240: // In VC that is.
+[17:34:31] Carson Copper: // lol 
+[17:34:45] CCA.C08-QrM.98240: // "Get on a unit that can actually do something"
+[17:34:48] CCA.C08-QrM.98240: // Bro, I am doing something.
+[17:34:49] Nova Wrenrey: //fun
+[17:35:26] Carson Copper: /me he picks back up the ration, and slides it into one of his suitcase, "This'll be dinner later heh-."
+[17:35:29] Client "DRD" spawned in server <STEAM_0:0:193599766> (took 228 seconds).
+[17:36:09] CCA.C08-QrM.98240: /radio QrM.98240 reporting, ending the ration cycle.
+[17:38:11] CCA.C08-QrM.98240: // Hmmmmm
+[17:38:19] Carson Copper: // what's up?
+[17:38:32] CCA.C08-QrM.98240: // Dilly, you know that big room in the Nexus?
+[17:38:39] Carson Copper: // yeah what about it?
+[17:38:50] CCA.C08-QrM.98240: // I wanted to prop it.
+[17:39:00] Carson Copper: // Alright... to what tho?
+[17:39:13] CCA.C08-QrM.98240: // Well, keep it as a training room but make it less of a....big empty room.
+[17:39:15] DRD<STEAM_0:0:193599766> changed their name to CCA.C08-GRID.i1.23710
+[17:39:29] CCA.C08-QrM.98240: // I just can't think of what to place down....
+[17:39:39] CCA.C08-GRID.i1.23710 teleported to CCA.C08-QrM.98240
+[17:40:25] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> spawned model models/props_c17/furnituretable002a.mdl
+[17:40:33] Carson Copper: /me he reaches into one of his bags, and empties it into the trash
+[17:40:41] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> spawned model models/props_c17/furnituretable002a.mdl
+[17:40:53] Carson Copper: Can't get cought with this ol' stuff oh man.
+[17:40:55] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> used the tool prop_door on maps/rp_city8_edit_v4r.bsp
+[17:40:59] Carson Copper: I'd be in big trouble.
+[17:41:41] CCA.C08-QrM.98240<STEAM_0:1:17219621> spawned model models/hlvr/combine_hazardprops/combinehazardprops_container.mdl
+[17:42:01] CCA.C08-GRID.i1.23710 gave Themself 40 rounds
+[17:42:11] CCA.C08-GRID.i1.23710 gave Themself 90 rounds
+[17:42:26] CCA.C08-QrM.98240<STEAM_0:1:17219621> changed their name to CCA.C08-UNION.i2.51514
+[17:42:57] CCA.C08-GRID.i1.23710 gave CCA.C08-UNION.i2.51514 90 rounds
+[17:43:00] CCA.C08-GRID.i1.23710 gave CCA.C08-UNION.i2.51514 180 rounds
+[17:43:18] CCA.C08-GRID.i1.23710: /chareditbodygroup union
+[17:43:34] CCA.C08-GRID.i1.23710: /chareditbodygroup union
+[17:43:44] Carson Copper: // are you guys all in the nexus or
+[17:43:51] CCA.C08-UNION.i2.51514: // Negative
+[17:43:58] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> used the tool rb655_easy_bodygroup on models/police_nemez.mdl
+[17:44:01] Carson Copper: // <:: Affirmative. ::> 
+[17:45:01] Carson Copper: Excuse me- er- officer.
+[17:45:17] Carson Copper: Would you happen to know the housing of this place? I'm kinda looking for a room.
+[17:45:50] CCA.C08-GRID.i1.23710: follow me- And put your mask on.
+[17:46:00] CCA.C08-UNION.i2.51514: /radio Unit testing radio functionality, respond once this transmission is recieved.
+[17:46:14] CCA.C08-GRID.i1.23710: /charsettenant carson
+[17:46:30] CCA.C08-GRID.i1.23710: /addtenant carson
+[17:46:35] CCA.C08-GRID.i1.23710: apply
+[17:46:38] Carson Copper: Thank you- good sir!
+[17:46:39] CCA.C08-GRID.i1.23710: /viewdata carson
+[17:46:45] Carson Copper: /me he pulls out a metalic card, reading it out
+[17:46:47] Carson Copper: /apply
+[17:46:52] Carson Copper: /me he places the card back into his pocket
+[17:47:13] CCA.C08-GRID.i1.23710: /viewdata carson
+[17:47:37] Client "The Sniper" connected.
+[17:47:56] CCA.C08-UNION.i2.51514: // Pog, the Sniper from TF2 has joined the game.
+[17:48:03] CCA.C08-GRID.i1.23710: // MR. KENNEDY GET DOWN
+[17:48:13] CCA.C08-UNION.i2.51514: // HE WAS BEHIND THAT
+[17:48:19] CCA.C08-GRID.i1.23710: Put on your respirator.
+[17:48:32] Carson Copper<STEAM_0:0:52468151> spawned model models/props_c17/furnitureshelf001b.mdl
+[17:48:38] Carson Copper<STEAM_0:0:52468151> spawned model models/props_c17/furnitureshelf002a.mdl
+[17:48:45] Nova Wrenrey: //is it not on
+[17:48:50] CCA.C08-GRID.i1.23710: .// it is not for me
+[17:48:53] CCA.C08-UNION.i2.51514: // Wha?
+[17:48:54] CCA.C08-GRID.i1.23710: .// is my game broke?
+[17:49:05] CCA.C08-GRID.i1.23710: .// huh
+[17:49:08] CCA.C08-GRID.i1.23710: .// odd
+[17:49:08] Nova Wrenrey: // my thing says i have it hmmm
+[17:49:13] CCA.C08-GRID.i1.23710: // h m m m
+[17:49:48] Carson Copper<STEAM_0:0:52468151> spawned model models/props_wasteland/controlroom_storagecloset001a.mdl
+[17:50:02] Carson Copper<STEAM_0:0:52468151> spawned model models/props_c17/doll01.mdl
+[17:50:03] CCA.C08-GRID.i1.23710: /toggleraise
+[17:50:05] CCA.C08-GRID.i1.23710: /toggleraise
+[17:50:25] CCA.C08-UNION.i2.51514: /radio GRID.i1, no offense but why did you feel the need to do that?
+[17:50:31] CCA.C08-GRID.i1.23710: /r Do what?
+[17:50:39] CCA.C08-UNION.i2.51514: /radio You broke a random pot.
+[17:50:45] CCA.C08-UNION.i2.51514: /radio Why?
+[17:50:49] CCA.C08-GRID.i1.23710: /r How? I'm above you.
+[17:52:01] Client "The Sniper" spawned in server <STEAM_0:1:6533079> (took 264 seconds).
+[17:52:45] Carson Copper<STEAM_0:0:52468151> spawned model models/props_c17/shelfunit01a.mdl
+[17:52:57] The Sniper<STEAM_0:1:6533079> changed their name to Laura Vrezic
+[17:53:11] Carson Copper<STEAM_0:0:52468151> spawned model models/props_canal/winch02.mdl
+[17:53:20] CCA.C08-GRID.i1.23710: go process the new guy
+[17:53:38] Carson Copper<STEAM_0:0:52468151> spawned model models/props_pipes/pipe01_45degree01.mdl
+[17:53:40] CCA.C08-UNION.i2.51514: Fine, Grid unit.
+[17:53:41] Carson Copper<STEAM_0:0:52468151> spawned model models/props_pipes/pipe02_tjoint01.mdl
+[17:53:46] Carson Copper<STEAM_0:0:52468151> spawned model models/props_pipes/pipe02_lcurve02_short.mdl
+[17:53:48] Carson Copper<STEAM_0:0:52468151> spawned model models/props_pipes/pipe02_scurve01_long.mdl
+[17:53:50] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> spawned/gave himself swep weapon_chumtoad
+[17:53:52] CCA.C08-GRID.i1.23710: /toggleraise
+[17:54:14] Carson Copper: // hey drd could you delete this cabinet I kinda uhhh messed it up
+[17:54:15] CCA.C08-GRID.i1.23710: // welcome! i think?
+[17:54:42] Carson Copper: .// remover go pew
+[17:54:44] Carson Copper: .// thankie
+[17:54:53] Carson Copper: .// le what
+[17:54:55] Carson Copper: .// oh my
+[17:55:10] CCA.C08-UNION.i2.51514: Civvie, get to the window.
+[17:55:18] Laura Vrezic: I...uh.
+[17:55:27] CCA.C08-GRID.i1.23710: /viewdata h
+[17:55:33] CCA.C08-GRID.i1.23710: /viewdata nova
+[17:55:43] Carson Copper<STEAM_0:0:52468151> spawned model models/hunter/blocks/cube05x1x05.mdl
+[17:55:48] Carson Copper<STEAM_0:0:52468151> spawned model models/hunter/blocks/cube1x2x05.mdl
+[17:55:50] CCA.C08-GRID.i1.23710: /viewdata anne
+[17:55:51] CCA.C08-UNION.i2.51514: You need your data set?
+[17:56:27] Carson Copper<STEAM_0:0:52468151> used the tool material on models/hunter/blocks/cube1x2x05.mdl
+[17:56:31] Laura Vrezic: /me steps through the opening in the fence, she'd tilt her head to the left - over at the Officer. She'd nod, walking over to the counter whilst also presenting him with her relocation coupon.
+[17:56:36] Carson Copper<STEAM_0:0:52468151> used the tool material on models/hunter/blocks/cube1x2x05.mdl
+[17:56:39] Carson Copper<STEAM_0:0:52468151> used the tool material on models/hunter/blocks/cube1x2x05.mdl
+[17:56:50] Carson Copper<STEAM_0:0:52468151> used the tool material on models/hunter/blocks/cube1x2x05.mdl
+[17:56:55] Carson Copper<STEAM_0:0:52468151> used the tool material on models/hunter/blocks/cube1x2x05.mdl
+[17:56:57] Carson Copper<STEAM_0:0:52468151> used the tool material on models/hunter/blocks/cube1x2x05.mdl
+[17:56:58] Carson Copper<STEAM_0:0:52468151> used the tool material on models/hunter/blocks/cube1x2x05.mdl
+[17:57:01] CCA.C08-UNION.i2.51514: /me Would take the relocation coupon and place it into one of his chest bags(?)
+[17:57:15] CCA.C08-UNION.i2.51514: Before that, just give me a simple apply.
+[17:57:37] Laura Vrezic: /Me she'd shrug, beneath the mask a grimace could be made before she'd state her details.
+[17:57:38] Laura Vrezic: /apply
+[17:57:44] CCA.C08-UNION.i2.51514: I see
+[17:57:49] CCA.C08-UNION.i2.51514: /viewdata Laura
+[17:58:09] CCA.C08-UNION.i2.51514: Alrighty, DOB and blood type.
+[17:58:20] CCA.C08-UNION.i2.51514: .// Please note that the Date is 2006 and you must be 21 or older.
+[18:00:15] Laura Vrezic: /me she'd lean closer to the wall making out the 'counter', resting her gloved fingers on it whilst her voice makes it apparent. "Date of birth, July 28th 1979." She'd tap the fingers for a second, thinking. "Blood type?" she'd mumble, tapping faster.
+[18:00:59] CCA.C08-UNION.i2.51514: You don't need to know your blood type, it isn't needed.
+[18:01:10] Laura Vrezic: Mmhmm..
+[18:01:13] CCA.C08-UNION.i2.51514: We'll figure it out regardless if you donate blood.
+[18:01:16] CCA.C08-UNION.i2.51514: /viewdata Laura
+[18:01:40] Laura Vrezic: Shortage of blood in this City?
+[18:02:21] CCA.C08-UNION.i2.51514: Well, if you ever need a blood transfusion we'll need your blood, and or if you just want to do it for tokens.
+[18:02:33] Carson Copper<STEAM_0:0:52468151> spawned model models/props_interiors/elevatorshaft_door01a.mdl
+[18:02:34] CCA.C08-UNION.i2.51514: Lots of reasons actually.
+[18:02:39] CCA.C08-UNION.i2.51514: /viewdata Laura
+[18:02:47] Laura Vrezic: Mmhm. 
+[18:02:50] Carson Copper<STEAM_0:0:52468151> used the tool nocollideeverything on models/props_interiors/elevatorshaft_door01a.mdl
+[18:02:58] Carson Copper<STEAM_0:0:52468151> used the tool nocollideeverything on models/props_interiors/elevatorshaft_door01a.mdl
+[18:02:59] Carson Copper<STEAM_0:0:52468151> used the tool nocollideeverything on maps/rp_city8_edit_v4r.bsp
+[18:02:59] Carson Copper<STEAM_0:0:52468151> used the tool nocollideeverything on models/props_interiors/elevatorshaft_door01a.mdl
+[18:03:00] Carson Copper<STEAM_0:0:52468151> used the tool nocollideeverything on maps/rp_city8_edit_v4r.bsp
+[18:03:00] Carson Copper<STEAM_0:0:52468151> used the tool nocollideeverything on models/props_interiors/elevatorshaft_door01a.mdl
+[18:03:01] Carson Copper<STEAM_0:0:52468151> used the tool nocollideeverything on models/props_interiors/elevatorshaft_door01a.mdl
+[18:03:01] Carson Copper<STEAM_0:0:52468151> used the tool nocollideeverything on models/props_interiors/elevatorshaft_door01a.mdl
+[18:03:01] Carson Copper<STEAM_0:0:52468151> used the tool nocollideeverything on models/props_interiors/elevatorshaft_door01a.mdl
+[18:03:07] Carson Copper<STEAM_0:0:52468151> used the tool nocollideeverything on models/props_interiors/elevatorshaft_door01a.mdl
+[18:03:08] Carson Copper<STEAM_0:0:52468151> used the tool nocollideeverything on maps/rp_city8_edit_v4r.bsp
+[18:03:08] Carson Copper<STEAM_0:0:52468151> used the tool nocollideeverything on maps/rp_city8_edit_v4r.bsp
+[18:03:08] Carson Copper<STEAM_0:0:52468151> used the tool nocollideeverything on maps/rp_city8_edit_v4r.bsp
+[18:03:09] Carson Copper<STEAM_0:0:52468151> used the tool nocollideeverything on models/props_interiors/elevatorshaft_door01a.mdl
+[18:03:09] Carson Copper<STEAM_0:0:52468151> used the tool nocollideeverything on models/props_interiors/elevatorshaft_door01a.mdl
+[18:03:09] Carson Copper<STEAM_0:0:52468151> used the tool nocollideeverything on models/props_interiors/elevatorshaft_door01a.mdl
+[18:03:09] Carson Copper<STEAM_0:0:52468151> used the tool nocollideeverything on models/props_interiors/elevatorshaft_door01a.mdl
+[18:03:09] Carson Copper<STEAM_0:0:52468151> used the tool nocollideeverything on models/props_interiors/elevatorshaft_door01a.mdl
+[18:03:10] Carson Copper<STEAM_0:0:52468151> used the tool nocollideeverything on maps/rp_city8_edit_v4r.bsp
+[18:03:10] Carson Copper<STEAM_0:0:52468151> used the tool nocollideeverything on maps/rp_city8_edit_v4r.bsp
+[18:03:10] Carson Copper<STEAM_0:0:52468151> used the tool nocollideeverything on maps/rp_city8_edit_v4r.bsp
+[18:03:10] Carson Copper<STEAM_0:0:52468151> used the tool nocollideeverything on models/props_interiors/elevatorshaft_door01a.mdl
+[18:03:10] Carson Copper<STEAM_0:0:52468151> used the tool nocollideeverything on maps/rp_city8_edit_v4r.bsp
+[18:03:10] Carson Copper<STEAM_0:0:52468151> used the tool nocollideeverything on models/props_interiors/elevatorshaft_door01a.mdl
+[18:03:11] Carson Copper<STEAM_0:0:52468151> used the tool nocollideeverything on models/props_interiors/elevatorshaft_door01a.mdl
+[18:03:11] Carson Copper<STEAM_0:0:52468151> used the tool nocollideeverything on models/props_interiors/elevatorshaft_door01a.mdl
+[18:03:11] Carson Copper<STEAM_0:0:52468151> used the tool nocollideeverything on maps/rp_city8_edit_v4r.bsp
+[18:03:11] Carson Copper<STEAM_0:0:52468151> used the tool nocollideeverything on maps/rp_city8_edit_v4r.bsp
+[18:03:11] Carson Copper<STEAM_0:0:52468151> used the tool nocollideeverything on maps/rp_city8_edit_v4r.bsp
+[18:03:25] CCA.C08-UNION.i2.51514: Alrighty, any medical conditions I should know about?
+[18:03:38] Laura Vrezic: /Me shakes her head, "Nope...none."
+[18:03:46] CCA.C08-UNION.i2.51514: I see
+[18:03:46] Carson Copper<STEAM_0:0:52468151> spawned model models/props_interiors/pot02a.mdl
+[18:03:51] CCA.C08-UNION.i2.51514: /viewdata Laura
+[18:03:56] CCA.C08-UNION.i2.51514: Give me a moment.
+[18:04:35] CCA.C08-UNION.i2.51514: /me Holds out a fresh new CID to the civvie.
+[18:05:12] Laura Vrezic: /me smirks to herself beneath the mask. She'd move her hand towards the card, sliding it towards her before viewing it in front of her.
+[18:05:39] Laura Vrezic: /me nods, "Thanks." she'd say, tucking it into one of the pockets of the suit.
+[18:05:44] CCA.C08-UNION.i2.51514: Get out of here
+[18:05:54] Carson Copper: // brbbbb folks
+[18:05:57] Dropped "Carson Copper" from server<STEAM_0:0:52468151>
+[18:05:57] CCA.C08-UNION.i2.51514: // Aight
+[18:06:13] Laura Vrezic: I was told I'd be allocated to one of the assigned housing complexes upon my arrival here...
+[18:06:29] CCA.C08-UNION.i2.51514: Fucking hell, sure, sure.
+[18:06:52] Laura Vrezic: /me smirks to herself, she'd turn around and pull the suitcase with her as she follows the Officer.
+[18:08:14] CCA.C08-UNION.i2.51514: This should work
+[18:08:36] Laura Vrezic: /me steps inside and takes a peek inside. She'd mumble to herself before gazing at the Officer through her mask. "Coozy." she'd simply say.
+[18:09:02] Laura Vrezic: /discord
+[18:09:07] CCA.C08-UNION.i2.51514: Alright, let me just get your data set up and I'll be on my way.
+[18:09:09] CCA.C08-UNION.i2.51514: /viewdata Laura
+[18:09:25] Laura Vrezic: Uh-huh..
+[18:09:36] Laura Vrezic: Is it breathable in here?
+[18:09:48] CCA.C08-UNION.i2.51514: Yep
+[18:09:57] CCA.C08-UNION.i2.51514: /me Would point to the Combine air filter to his right.
+[18:10:52] Laura Vrezic: /Me sighs, "Finally.." she'd mumble to herself. Her fingers would clamp around the mask on her head as she struggles to remove it, her face moist by the sweat produced inside it. 
+[18:10:55] Laura Vrezic: There we go...
+[18:11:19] Laura Vrezic: /me places the mask down onto the table, tilting her head upwards to her left - up at the air filter.
+[18:11:30] CCA.C08-UNION.i2.51514: Alright, everything is set up.
+[18:11:40] Laura Vrezic: Thank-
+[18:11:42] Laura Vrezic: Hmm..
+[18:11:43] CCA.C08-UNION.i2.51514: /addtenant Laura
+[18:11:51] Laura Vrezic: Finally - off this damn suit.
+[18:11:53] CCA.C08-UNION.i2.51514: /viewdata Luara
+[18:11:58] CCA.C08-UNION.i2.51514: /viewdata Laura
+[18:12:11] CCA.C08-UNION.i2.51514: /viewdata Laura
+[18:12:30] CCA.C08-GRID.i1.23710<STEAM_0:0:193599766> changed their name to Wilm Hosenfeld
+[18:12:30] Laura Vrezic: /Me pulls herself out of the sticky suit, tossing it over one of the chairs whilst she parades around the apartment.
+[18:12:42] Laura Vrezic: Hmm...empty. Of course..
+[18:12:48] Wilm Hosenfeld<STEAM_0:0:193599766> used the tool textscreen on maps/rp_city8_edit_v4r.bsp
+[18:12:56] Wilm Hosenfeld<STEAM_0:0:193599766> used the tool ledscreen on maps/rp_city8_edit_v4r.bsp
+[18:12:58] Wilm Hosenfeld<STEAM_0:0:193599766> used the tool ledscreen on maps/rp_city8_edit_v4r.bsp
+[18:13:01] Laura Vrezic: You....ugh.
+[18:13:33] CCA.C08-UNION.i2.51514<STEAM_0:1:17219621> changed their name to CCA.C08-QrM.98240
+[18:14:15] Laura Vrezic: /me sets herself down onto the bed. She'd pull out a rugged pack of handrolled cigarettes - placing one between her lips before igniting it. She'd sit there, filling the apartment with the sour-smell from the cigarette.
+[18:14:25] Wilm Hosenfeld: welcome, Officer!
+[18:14:33] Wilm Hosenfeld: absinthe and chips?
+[18:14:36] CCA.C08-QrM.98240: Yep, yep.
+[18:15:16] Dropped "Laura Vrezic" from server<STEAM_0:1:6533079>
+[18:15:46] Wilm Hosenfeld: 11 tokens, please.
+[18:15:47] CCA.C08-QrM.98240: Cool, cool.
+[18:15:58] CCA.C08-QrM.98240: /me Tosses down 15 tokens.
+[18:16:02] CCA.C08-QrM.98240: /droptokens 15
+[18:16:41] CCA.C08-QrM.98240: /me Sits down on the couch and places down his shit.
+[18:17:04] Wilm Hosenfeld<STEAM_0:0:193599766> spawned NPC npc_combine_camera
+[18:18:26] Wilm Hosenfeld<STEAM_0:0:193599766> spawned NPC npc_hunter
+[18:18:42] Wilm Hosenfeld<STEAM_0:0:193599766> spawned NPC npc_assassin
+[18:19:09] Wilm Hosenfeld<STEAM_0:0:193599766> used the tool permaprops on maps/rp_city8_edit_v4r.bsp
+[18:19:10] Wilm Hosenfeld<STEAM_0:0:193599766> used the tool permaprops on maps/rp_city8_edit_v4r.bsp
+[18:20:43] CCA.C08-QrM.98240: /me Takes off his mask and starts downing the Absinthe.
+[18:21:08] CCA.C08-QrM.98240: /rollstat con
+[18:22:22] Wilm Hosenfeld<STEAM_0:0:193599766> used the tool prop_door on maps/rp_city8_edit_v4r.bsp
+[18:22:40] Wilm Hosenfeld<STEAM_0:0:193599766> used the tool prop_door on maps/rp_city8_edit_v4r.bsp
+[18:22:46] Wilm Hosenfeld<STEAM_0:0:193599766> used the tool prop_door on maps/rp_city8_edit_v4r.bsp
+[18:23:03] Wilm Hosenfeld<STEAM_0:0:193599766> used the tool prop_door on maps/rp_city8_edit_v4r.bsp
+[18:23:13] Wilm Hosenfeld<STEAM_0:0:193599766> used the tool prop_door on maps/rp_city8_edit_v4r.bsp
+[18:23:17] Wilm Hosenfeld<STEAM_0:0:193599766> used the tool prop_door on maps/rp_city8_edit_v4r.bsp
+[18:23:40] CCA.C08-QrM.98240: // Imma hop off for a bit.
+[18:23:43] Wilm Hosenfeld<STEAM_0:0:193599766> spawned model models/hunter/blocks/cube025x1x025.mdl
+[18:23:45] Dropped "CCA.C08-QrM.98240" from server<STEAM_0:1:17219621>
+[18:24:00] Dropped "Wilm Hosenfeld" from server<STEAM_0:0:193599766>
+[19:04:47] Dropped "Nova Wrenrey" from server<STEAM_0:1:197160536>
+[19:42:46] Client "dsz" connected.
+[20:06:34] Dropped "Anne Wayle" from server<STEAM_0:1:53097688>

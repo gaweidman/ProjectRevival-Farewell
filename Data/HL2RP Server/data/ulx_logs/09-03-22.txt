@@ -1,0 +1,95 @@
+<Logging continued from "data/ulx_logs/09-02-22.txt">
+[01:31:37] Client "Heisenburger" connected.
+[01:41:18] Client "Heisenburger" spawned in server <STEAM_0:0:221247699> (took 581 seconds).
+[01:45:30] Heisenburger<STEAM_0:0:221247699> changed their name to Jonny Johnson
+[01:47:24] Dropped "Jonny Johnson" from server<STEAM_0:0:221247699>
+[04:32:56] Dropped "matt saton" from server<STEAM_0:1:53097688>
+
+
+
+[04:38:31] New map: rp_industrial17_v1
+[10:44:47] Client "Sepheroid" connected.
+[12:30:29] Client "ost" connected.
+[12:35:33] Client "ost" spawned in server <STEAM_0:1:448155602> (took 304 seconds).
+[12:35:34] Dropped "ost" from server<STEAM_0:1:448155602>
+[13:22:36] Client "matt saton" connected.
+[13:25:26] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 170 seconds).
+[13:51:29] Client "Nums" connected.
+[13:54:18] Client "Nums" spawned in server <STEAM_0:1:196547442> (took 169 seconds).
+[13:57:18] Nums<STEAM_0:1:196547442> changed their name to CCA.C17-UNION.i5.77460
+[14:00:05] Dropped "CCA.C17-UNION.i5.77460" from server<STEAM_0:1:196547442>
+[14:16:55] matt saton<STEAM_0:1:53097688> changed their name to Andrew Cloverman
+[14:17:04] Andrew Cloverman: /charsetthirst andrew 100
+[14:17:07] Andrew Cloverman: /charsethunger andrew 100
+[14:21:05] Andrew Cloverman: /toggleraise
+[14:21:06] Andrew Cloverman: /toggleraise
+[14:21:44] Andrew Cloverman<STEAM_0:1:53097688> spawned/gave himself swep weapon_displacer
+[14:21:46] Andrew Cloverman<STEAM_0:1:53097688> spawned/gave himself swep weapon_egon
+[14:21:46] Andrew Cloverman: /toggleraise
+[14:22:01] Andrew Cloverman: /toggleraise
+[14:22:38] Andrew Cloverman: /toggleraise
+[14:23:04] Andrew Cloverman: /toggleraise
+[14:23:45] Andrew Cloverman: /toggleraise
+[14:25:09] Andrew Cloverman: /chargiveitem andrew padlock
+[14:25:40] Andrew Cloverman: /toggleraise
+[14:26:25] Andrew Cloverman<STEAM_0:1:53097688> spawned ragdoll models/player/zelpa/male_05.mdl
+[14:26:32] Andrew Cloverman<STEAM_0:1:53097688> spawned ragdoll models/player/zelpa/male_03.mdl
+[14:26:33] Andrew Cloverman<STEAM_0:1:53097688> spawned ragdoll models/player/zelpa/male_05.mdl
+[14:27:22] Andrew Cloverman<STEAM_0:1:53097688> used the tool eyeposer on models/player/zelpa/male_05.mdl
+[14:27:23] Andrew Cloverman<STEAM_0:1:53097688> used the tool eyeposer on models/player/zelpa/male_05.mdl
+[14:27:25] Andrew Cloverman<STEAM_0:1:53097688> used the tool faceposer on models/player/zelpa/male_05.mdl
+[14:27:33] Andrew Cloverman<STEAM_0:1:53097688> used the tool faceposer on maps/rp_industrial17_v1.bsp
+[14:27:36] Andrew Cloverman<STEAM_0:1:53097688> used the tool faceposer on models/player/zelpa/male_05.mdl
+[14:27:37] Andrew Cloverman<STEAM_0:1:53097688> used the tool faceposer on maps/rp_industrial17_v1.bsp
+[14:27:38] Andrew Cloverman<STEAM_0:1:53097688> used the tool faceposer on maps/rp_industrial17_v1.bsp
+[14:27:42] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on maps/rp_industrial17_v1.bsp
+[14:27:43] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on models/player/zelpa/male_05.mdl
+[14:28:08] Andrew Cloverman<STEAM_0:1:53097688> used the tool permaprops on maps/rp_industrial17_v1.bsp
+[14:28:22] Andrew Cloverman<STEAM_0:1:53097688> spawned model models/hunter/plates/plate025x025.mdl
+[14:29:00] Andrew Cloverman<STEAM_0:1:53097688> used the tool nocollideeverything on models/hunter/plates/plate025x025.mdl
+[14:29:14] Andrew Cloverman<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate025x025.mdl
+[14:29:16] Andrew Cloverman<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate025x025.mdl
+[14:29:16] Andrew Cloverman<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate025x025.mdl
+[14:29:18] Andrew Cloverman<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate025x025.mdl
+[14:29:20] Andrew Cloverman<STEAM_0:1:53097688> used the tool precision on models/hunter/plates/plate025x025.mdl
+[14:30:06] Andrew Cloverman: /textadd "The body is missing its head, it looks like" 0.35
+[14:30:40] Andrew Cloverman: /textadd "it was destroyed with a heavy force." 0.35
+[14:31:16] Andrew Cloverman: /textadd "There are bone fragments and blood scattered on the wall." 0.35
+[14:33:24] Andrew Cloverman: /textadd "The cement is very cracked, as if it" 0.35
+[14:33:43] Andrew Cloverman: /textadd "was hit with a blunt force." 0.35
+[14:36:27] Andrew Cloverman: /textadd "There's a large hole in the door. It looks like" 0.45
+[14:36:53] Andrew Cloverman: /textadd "someone or something busted in from the" 0.45
+[14:37:16] Andrew Cloverman: /textadd "other side." 0.45
+[14:38:33] Andrew Cloverman: /textadd "The hole is vaguely person shaped in that" 0.45
+[14:38:46] Andrew Cloverman: /textadd "it's much taller than it is wide." 0.45
+[15:56:02] Client "Sepheroid" connected.
+[16:32:10] Client "TrooperMan99" connected.
+[17:09:21] Client "TrooperMan99" spawned in server <STEAM_0:0:79359089> (took 2231 seconds).
+[17:13:37] TrooperMan99<STEAM_0:0:79359089> changed their name to Igof Stell
+[17:20:19] Igof Stell: /ooc im stuck at main gate
+[17:22:26] Dropped "Igof Stell" from server<STEAM_0:0:79359089>
+[18:10:18] Client "Peppermint" connected.
+[18:14:33] Client "Peppermint" spawned in server <STEAM_0:1:115933392> (took 255 seconds).
+[18:15:49] Peppermint<STEAM_0:1:115933392> changed their name to Raven
+[18:15:56] Raven: // hallo
+[18:17:38] Dropped "Raven" from server<STEAM_0:1:115933392>
+[20:04:25] Client "Peppermint" connected.
+[20:07:31] Client "Peppermint" spawned in server <STEAM_0:1:115933392> (took 186 seconds).
+[20:08:26] Peppermint<STEAM_0:1:115933392> changed their name to Raven
+[20:08:46] Raven: // You alive?
+[20:09:50] Dropped "Raven" from server<STEAM_0:1:115933392>
+[20:50:58] Client "Serpant Wheel" connected.
+[21:05:58] Client "shaun.newbauer" connected.
+[21:12:00] Client "shaun.newbauer" spawned in server <STEAM_0:0:31208990> (took 362 seconds).
+[21:12:44] Client "TheBloodMaster" connected.
+[21:15:31] shaun.newbauer<STEAM_0:0:31208990> changed their name to bobby
+[21:16:41] Dropped "bobby" from server<STEAM_0:0:31208990>
+[21:20:20] Client "TheBloodMaster" spawned in server <STEAM_0:1:15155616> (took 456 seconds).
+[21:23:43] TheBloodMaster<STEAM_0:1:15155616> changed their name to Adam Conor
+[21:23:49] Adam Conor: // Woah, this is surprisingly refined, 
+[21:23:51] Adam Conor: /content
+[21:25:02] Adam Conor: // Holy shit this is REALLY refined
+[21:25:20] Adam Conor: /discord
+[21:28:50] Adam Conor: /content
+[21:30:05] Dropped "Adam Conor" from server<STEAM_0:1:15155616>
+<Logging continued in "data/ulx_logs/09-04-22.txt">

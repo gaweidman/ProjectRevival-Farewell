@@ -1,0 +1,150 @@
+[03:34:02] New map: rp_i17_variation_v0
+[14:47:01] Client "matt saton" connected.
+[14:49:27] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 146 seconds).
+[14:57:15] Dropped "matt saton" from server<STEAM_0:1:53097688>
+[14:57:17] Client "matt saton" connected.
+[14:58:50] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 93 seconds).
+[15:01:15] matt saton<STEAM_0:1:53097688> changed their name to Lee Maylor
+[16:00:20] Client "💔ブロンクス💔" connected.
+[17:46:07] Lee Maylor<STEAM_0:1:53097688> changed their name to CCA.C17-UNION.OfC.30401
+[17:46:35] CCA.C17-UNION.OfC.30401<STEAM_0:1:53097688> spawned sent animprop_spawnentrance_blue
+[17:46:41] CCA.C17-UNION.OfC.30401<STEAM_0:1:53097688> spawned sent animprop_spawnentrance_red
+[17:46:48] CCA.C17-UNION.OfC.30401<STEAM_0:1:53097688> spawned sent ix_combinelock
+[17:47:56] CCA.C17-UNION.OfC.30401<STEAM_0:1:53097688> changed their name to Lee Maylor
+[21:58:10] Lee Maylor: /charsetthirst lee 100
+[21:58:16] Lee Maylor: /charsethunger lee 100
+[21:58:25] Lee Maylor<STEAM_0:1:53097688> spawned sent ix_testent3
+[21:58:29] Lee Maylor<STEAM_0:1:53097688> spawned sent ix_testent3
+[21:58:32] Lee Maylor<STEAM_0:1:53097688> spawned sent ix_testent3
+[21:58:51] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/ccr/props/blood_donator.mdl
+[21:58:59] Lee Maylor<STEAM_0:1:53097688> spawned sent ix_testent3
+[21:59:16] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/ccr/props/blood_donator.mdl
+[21:59:25] Lee Maylor<STEAM_0:1:53097688> spawned sent ix_testent3
+[21:59:35] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/ccr/props/blood_donator.mdl
+[22:00:03] Lee Maylor<STEAM_0:1:53097688> spawned sent ix_testent3
+[22:00:16] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/ccr/props/blood_donator.mdl
+[22:00:37] Lee Maylor: /me takes out their datapad and types a couple things in.
+[22:05:54] Lee Maylor: /doorsettitle Warehouse 4
+[22:05:56] Lee Maylor: /doorsethidden false
+[22:06:20] Lee Maylor: /doorsettitle Warehouses 1 & 2
+[22:06:21] Lee Maylor: /doorsethidden false
+[22:09:03] Lee Maylor<STEAM_0:1:53097688> spawned model models/props_c17/furnituredrawer002a.mdl
+[22:09:30] Lee Maylor<STEAM_0:1:53097688> spawned model models/rt screens/tv_monitor01.mdl
+[22:09:38] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/rt screens/tv_monitor01.mdl
+[22:09:38] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/props_c17/furnituredrawer002a.mdl
+[22:11:11] Lee Maylor: /doorsethidden false
+[22:12:14] Lee Maylor: /doorsettitle "UHB 'Circulation'"
+[22:29:21] Lee Maylor: /toggleraise
+[22:29:22] Lee Maylor: /toggleraise
+[23:30:51] Lee Maylor: /paneladd "https://projectrevival.xyz/rpfiles/conscript-emblem.png" 7515 7515 0.25
+[23:30:56] Lee Maylor: /panelremove 10
+[23:31:07] Lee Maylor: /paneladd "https://projectrevival.xyz/rpfiles/conscript-emblem.png" 7515 7515 1
+[23:31:19] Lee Maylor: /panelremove 10
+[23:31:22] Lee Maylor: /panelremove 500
+[23:32:15] Lee Maylor: /paneladd "https://projectrevival.xyz/rpfiles/conscript-emblem.png" 3758 3758 1
+[23:32:45] Lee Maylor: /panelremove 500
+[23:33:59] Lee Maylor: /paneladd "https://projectrevival.xyz/rpfiles/Conscript-Emblem.png" 1804 1804 1s
+[23:34:10] Lee Maylor: /panelremove 50
+[23:34:15] Lee Maylor: /paneladd "https://projectrevival.xyz/rpfiles/Conscript-Emblem.png" 1804 1804 1
+[23:34:45] Lee Maylor: /paneladd "https://projectrevival.xyz/rpfiles/Conscript-Emblem.png" 1804 1804 1
+[23:34:49] Lee Maylor: /panelremove 500
+[23:35:15] Lee Maylor: /paneladd "https://projectrevival.xyz/rpfiles/Conscript-Emblem.png" 1804 1804 0.5
+[23:35:20] Lee Maylor: /panelremove 50
+[23:35:35] Lee Maylor: /panelremove "https://google.com/" 1920 1080 1
+[23:35:41] Lee Maylor: /panelremove 50
+[23:35:46] Lee Maylor: /panelremove 500
+[23:35:49] Lee Maylor: /panelremove "https://google.com/" 1920 1080 1
+[23:35:56] Lee Maylor: /paneladd "https://google.com/" 1920 1080 1
+[23:36:02] Lee Maylor: /paneladd "http://google.com/" 1920 1080 1
+[23:36:08] Lee Maylor: /paneladd "google.com" 1920 1080 1
+[23:36:18] Lee Maylor: /paneladd "www.google.com" 1920 1080 1
+[23:36:22] Lee Maylor: /panelremove 500
+[23:36:46] Lee Maylor: /paneladd "https://projectrevival.xyz/rpfiles/CMB.png" 1804 1804 0.5
+[23:36:53] Lee Maylor: /panelremove 50
+[23:37:02] Lee Maylor: /paneladd "https://projectrevival.xyz/rpfiles/CMB.png" 1804 1804 0.5
+[23:37:03] Lee Maylor: /panelremove 50
+[23:37:13] Lee Maylor: /paneladd "https://projectrevival.xyz/rpfiles/Conscript-Emblem.png" 1804 1804 0.5
+[23:37:17] Lee Maylor: /panelremove 50
+[23:39:14] Lee Maylor: /paneladd https://projectrevival.xyz/rpfiles/Conscript-Emblem.png 1804 1804 1
+[23:39:21] Lee Maylor: /panelremove 1
+[23:40:13] Lee Maylor: /paneladd https://projectrevival.xyz/rpfiles/Conscript-Emblem.png 500 500 1
+[23:40:16] Lee Maylor: /panelremove
+[23:40:35] Lee Maylor: /paneladd https://projectrevival.xyz/rpfiles/Science-31-Emblem.png 500 500 1
+[23:41:05] Lee Maylor: /panelremove 50
+[23:42:25] Lee Maylor: /paneladd https://projectrevival.xyz/rpfiles/Overwatch_Soldier_triangle_arm.png 387 356 1
+[23:42:31] Lee Maylor: /panelremove 50
+[23:42:36] Lee Maylor: /paneladd https://projectrevival.xyz/rpfiles/Overwatch_Soldier_triangle_arm.png 387 356 0.75
+[23:42:39] Lee Maylor: /panelremove 5
+[23:42:44] Lee Maylor: /paneladd https://projectrevival.xyz/rpfiles/Overwatch_Soldier_triangle_arm.png 387 356 0.75
+[23:42:49] Lee Maylor: /panelremove 5
+[23:42:50] Lee Maylor: /panelremove 50
+[23:42:54] Lee Maylor: /paneladd https://projectrevival.xyz/rpfiles/Overwatch_Soldier_triangle_arm.png 387 356 0.75
+[23:43:41] Lee Maylor: /panelremove 100
+[23:43:49] Lee Maylor: /paneladd https://projectrevival.xyz/rpfiles/Overwatch_Soldier_triangle_arm.png 387 356 0.75
+[23:43:52] Lee Maylor: /panelremove 50
+[23:43:59] Lee Maylor: /paneladd https://projectrevival.xyz/rpfiles/Overwatch_Soldier_triangle_arm.png 387 356 1.25
+[23:44:05] Lee Maylor: /panelremove 50
+[23:45:51] Lee Maylor<STEAM_0:1:53097688> spawned model models/combine_small_tv1c.mdl
+[23:46:12] Lee Maylor: /paneladd https://projectrevival.xyz/rpfiles/Conscript-Emblem.png 500 500 1
+[23:46:16] Lee Maylor: /panelremove 50
+[23:46:39] Lee Maylor<STEAM_0:1:53097688> spawned model models/combinefortification/combinehouse.mdl
+[23:46:42] Lee Maylor<STEAM_0:1:53097688> spawned model models/combineinteriorpack/cmbarmory02a.mdl
+[23:46:44] Lee Maylor<STEAM_0:1:53097688> spawned model models/decoration/mason_jar.mdl
+[23:46:46] Lee Maylor<STEAM_0:1:53097688> spawned model models/military/metalwalling.mdl
+[23:46:56] Lee Maylor<STEAM_0:1:53097688> spawned model models/military/platform1.mdl
+[23:47:00] Lee Maylor<STEAM_0:1:53097688> spawned model models/military/glasspane.mdl
+[23:47:03] Lee Maylor<STEAM_0:1:53097688> spawned model models/military/glasspane.mdl
+[23:47:14] Lee Maylor<STEAM_0:1:53097688> spawned model models/combinefortification/combinecheckpointlittle.mdl
+[23:47:21] Lee Maylor<STEAM_0:1:53097688> spawned model models/combinefortification/combinegatelittle.mdl
+[23:47:22] Lee Maylor<STEAM_0:1:53097688> spawned model models/combinefortification/combinecheckpointlittle.mdl
+[23:47:26] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/combinefortification/combinecheckpointlittle.mdl
+[23:47:40] Lee Maylor<STEAM_0:1:53097688> spawned model models/combinefortification/combinemobiledefclosev1.mdl
+[23:47:43] Lee Maylor<STEAM_0:1:53097688> spawned model models/combinefortification/combinemobiledefclosev1.mdl
+[23:47:47] Lee Maylor<STEAM_0:1:53097688> spawned model models/combinefortification/combineguardcontrol.mdl
+[23:47:48] Lee Maylor<STEAM_0:1:53097688> spawned model models/combinefortification/combinewallv2.mdl
+[23:47:50] Lee Maylor<STEAM_0:1:53097688> spawned model models/combinefortification/personalbarricade.mdl
+[23:48:19] Lee Maylor<STEAM_0:1:53097688> spawned model models/combinefortification/combineguardtower.mdl
+[23:48:21] Lee Maylor<STEAM_0:1:53097688> spawned model models/combinefortification/combinehouse.mdl
+[23:48:23] Lee Maylor<STEAM_0:1:53097688> spawned model models/combinefortification/combinegatelittle.mdl
+[23:48:27] Lee Maylor<STEAM_0:1:53097688> spawned model models/combinefortification/combinevehiculegate.mdl
+[23:48:32] Lee Maylor<STEAM_0:1:53097688> spawned model models/combineinteriorpack/cmbcheckpoint.mdl
+[23:48:36] Lee Maylor<STEAM_0:1:53097688> spawned model models/combinefortifictaionpack/wall01a.mdl
+[23:48:38] Lee Maylor<STEAM_0:1:53097688> spawned model models/combinefortifictaionpack/pillard02b.mdl
+[23:48:39] Lee Maylor<STEAM_0:1:53097688> spawned model models/combinefortifictaionpack/combineweaponrack01a.mdl
+[23:48:45] Lee Maylor<STEAM_0:1:53097688> spawned model models/combinefortifictaionpack/combinelocker01a.mdl
+[23:48:47] Lee Maylor<STEAM_0:1:53097688> spawned model models/combinefortifictaionpack/combineheavygate01a.mdl
+[23:49:00] Lee Maylor<STEAM_0:1:53097688> spawned model models/combinefortification/personalbarricade.mdl
+[23:49:08] Lee Maylor<STEAM_0:1:53097688> spawned model models/combinefortification/personalbarricade.mdl
+[23:49:59] Lee Maylor<STEAM_0:1:53097688> spawned model models/combinefortification/personalbarricade.mdl
+[23:50:13] Lee Maylor<STEAM_0:1:53097688> spawned model models/combinefortification/personalbarricade.mdl
+[23:51:04] Lee Maylor<STEAM_0:1:53097688> spawned model models/combinefortifictaionpack/camerabase.mdl
+[23:51:07] Lee Maylor<STEAM_0:1:53097688> spawned model models/combinefortifictaionpack/combinelocker01a.mdl
+[23:51:18] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/combinefortifictaionpack/combinelocker01a.mdl
+[23:51:40] Lee Maylor<STEAM_0:1:53097688> used the tool stacker_improved on models/combinefortifictaionpack/combinelocker01a.mdl
+[23:51:40] Lee Maylor<STEAM_0:1:53097688> spawned model models/combinefortifictaionpack/combinelocker01a.mdl
+[23:51:51] Lee Maylor<STEAM_0:1:53097688> used the tool stacker_improved on models/combinefortifictaionpack/combinelocker01a.mdl
+[23:51:51] Lee Maylor<STEAM_0:1:53097688> spawned model models/combinefortifictaionpack/combinelocker01a.mdl
+[23:52:00] Lee Maylor<STEAM_0:1:53097688> spawned model models/combinefortifictaionpack/plate01a.mdl
+[23:52:01] Lee Maylor<STEAM_0:1:53097688> spawned model models/combinefortifictaionpack/combinelocker01a.mdl
+[23:52:05] Lee Maylor<STEAM_0:1:53097688> spawned model models/combinefortifictaionpack/combinelocker01a.mdl
+[23:52:08] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/combinefortifictaionpack/combinelocker01a.mdl
+[23:53:02] Lee Maylor<STEAM_0:1:53097688> used the tool stacker_improved on models/combinefortifictaionpack/combinelocker01a.mdl
+[23:53:02] Lee Maylor<STEAM_0:1:53097688> spawned model models/combinefortifictaionpack/combinelocker01a.mdl
+[23:53:11] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/combinefortifictaionpack/combinelocker01a.mdl
+[23:53:11] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/combinefortifictaionpack/combinelocker01a.mdl
+[23:53:11] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/combinefortifictaionpack/combinelocker01a.mdl
+[23:53:12] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/combinefortifictaionpack/combinelocker01a.mdl
+[23:53:12] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/combinefortifictaionpack/combinelocker01a.mdl
+[23:53:12] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/combinefortifictaionpack/combinelocker01a.mdl
+[23:53:13] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/combinefortifictaionpack/combinelocker01a.mdl
+[23:53:13] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/combinefortifictaionpack/combinelocker01a.mdl
+[23:53:13] Lee Maylor<STEAM_0:1:53097688> used the tool nocollideeverything on models/combinefortifictaionpack/combinelocker01a.mdl
+[23:53:15] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/combinefortifictaionpack/combinelocker01a.mdl
+[23:53:15] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/combinefortifictaionpack/combinelocker01a.mdl
+[23:53:16] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/combinefortifictaionpack/combinelocker01a.mdl
+[23:53:17] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/combinefortifictaionpack/combinelocker01a.mdl
+[23:53:26] Lee Maylor<STEAM_0:1:53097688> spawned NPC npc_turret_floor
+[23:53:38] Lee Maylor<STEAM_0:1:53097688> spawned NPC npc_turret_floor
+[23:53:48] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/combine_turrets/floor_turret.mdl
+[23:53:49] Lee Maylor<STEAM_0:1:53097688> used the tool permaprops on models/combine_turrets/floor_turret.mdl
+[23:53:58] Lee Maylor was killed by npc_turret_floor

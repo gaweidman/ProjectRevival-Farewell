@@ -1,0 +1,5 @@
+ITEM.name = "Red Loyalist Armband"
+ITEM.model = "models/props_junk/cardboard_box004a.mdl"
+ITEM.description = "A red citizen armband. It reminds of a Nazi armband. What a silly coincidence."
+ITEM.category = "Bands"
+ITEM.band = "red"

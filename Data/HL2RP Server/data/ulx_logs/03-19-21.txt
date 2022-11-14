@@ -1,0 +1,485 @@
+<Logging continued from "data/ulx_logs/03-18-21.txt">
+[00:04:41] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_lab/filecabinet02.mdl
+[00:04:48] CCA.C17-GRID.i3.26594: /chargiveitem grid padlock
+[00:17:50] CCA.C17-GRID.i3.26594: /toggleraise
+[00:22:44] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned/gave himself swep weapon_shotgun
+[00:22:44] CCA.C17-GRID.i3.26594: /toggleraise
+[00:24:53] CCA.C17-GRID.i3.26594: /toggleraise
+[00:27:16] CCA.C17-GRID.i3.26594: /adminspawnmenu
+[00:27:27] CCA.C17-GRID.i3.26594: /adminspawnmenu
+[00:28:31] CCA.C17-GRID.i3.26594: /chargiveitem grid "Handmade filter"
+[00:35:54] CCA.C17-GRID.i3.26594: /chargiveitem grid "Cca filter"
+[00:37:39] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned sent item_ammo_ar2_altfire
+[00:37:39] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned sent combine_mine
+[00:37:51] CCA.C17-GRID.i3.26594: !Vextignuishall
+[00:37:54] CCA.C17-GRID.i3.26594 extinguished all 3 fires.
+[00:37:54] CCA.C17-GRID.i3.26594: !vextinguishall
+[00:39:09] CCA.C17-GRID.i3.26594 extinguished all 0 fires.
+[00:39:09] CCA.C17-GRID.i3.26594: !vextinguishall
+[02:22:45] CCA.C17-GRID.i3.26594: /adminspawnmenu
+[02:22:55] CCA.C17-GRID.i3.26594: /chargiveitem grid lsd
+[02:23:06] CCA.C17-GRID.i3.26594: /adminspawnmenu
+[02:23:12] CCA.C17-GRID.i3.26594: /chargiveitem grid blunt
+[02:23:34] CCA.C17-GRID.i3.26594: /adminspawnmenu
+[02:29:18] Dropped "CCA.C17-GRID.i3.26594" from server<STEAM_0:1:53097688>
+
+
+
+[03:23:57] New map: rp_i17_variation_v0
+
+
+
+[04:51:31] New map: rp_i17_variation_v0
+[05:22:01] Client "Pyotr" connected.
+[11:53:17] Client "matt saton" connected.
+[11:55:15] Client "matt saton" spawned in server <STEAM_0:1:53097688> (took 118 seconds).
+[12:04:02] matt saton<STEAM_0:1:53097688> changed their name to Lee Maylor
+[12:29:48] Client "DRD" connected.
+[12:38:55] Client "DRD" connected.
+[12:41:10] Client "DRD" spawned in server <STEAM_0:0:193599766> (took 135 seconds).
+[12:41:44] Lee Maylor: /adminspawnmenu
+[12:45:18] Lee Maylor: /adminspawnmenu
+[12:47:58] Lee Maylor: /adminspawnmenu
+[12:50:46] Lee Maylor<STEAM_0:1:53097688> changed their name to CCA.C17-GRID.i3.26594
+[12:50:47] DRD<STEAM_0:0:193599766> changed their name to CCA.C17-GRID.i1.59212
+[12:51:00] CCA.C17-GRID.i1.59212: // the french aren't people
+[12:51:15] CCA.C17-GRID.i3.26594: //fuck frenhh canadians
+[12:51:31] CCA.C17-GRID.i3.26594: /adminspawnmenu
+[12:52:07] CCA.C17-GRID.i1.59212: // brb gotta deal with a troll on a discord server im on
+[12:53:59] CCA.C17-GRID.i3.26594: /adminspawnmenu
+[12:55:18] CCA.C17-GRID.i3.26594: /adminspawnmenu
+[12:57:45] CCA.C17-GRID.i3.26594: /toggleraise
+[12:58:32] CCA.C17-GRID.i3.26594: /adminspawnmenu
+[12:59:57] CCA.C17-GRID.i1.59212: // what the fuck is this
+[13:00:09] CCA.C17-GRID.i1.59212: // oh a shower
+[13:00:13] CCA.C17-GRID.i3.26594: //yeah
+[13:00:16] CCA.C17-GRID.i3.26594: //the front curtain is nocollided
+[13:00:20] CCA.C17-GRID.i3.26594: //i'll nocollide all three though
+[13:00:41] CCA.C17-GRID.i1.59212: // is it a curtain or one of those funky glass ones
+[13:00:50] CCA.C17-GRID.i3.26594: //curtain, is it a missing texturef ro you
+[13:01:03] CCA.C17-GRID.i3.26594: //or is it just a weird material
+[13:01:07] CCA.C17-GRID.i3.26594: //beacuse it's supposed to be a fabri mateiral
+[13:01:16] CCA.C17-GRID.i3.26594: //fabric
+[13:01:32] CCA.C17-GRID.i3.26594: /chargiveitem grid "Hybrid Radio"
+[13:01:35] CCA.C17-GRID.i3.26594: /chargiveitem grid "tools"
+[13:01:49] CCA.C17-GRID.i3.26594: /chargiveitem grid "Hybrid Radio"
+[13:01:58] CCA.C17-GRID.i1.59212: // it's kind of like
+[13:02:03] CCA.C17-GRID.i1.59212: // a cross-hatch pattern?
+[13:02:09] CCA.C17-GRID.i3.26594: //yeah
+[13:02:17] CCA.C17-GRID.i3.26594: //it think it's more a blanket but it's the best we had'
+[13:02:20] CCA.C17-GRID.i1.59212: // there is a curtain prop
+[13:02:31] CCA.C17-GRID.i3.26594: //i tried but it loosk weird
+[13:02:44] CCA.C17-GRID.i1.59212: // i wish there were more decoration props
+[13:02:54] CCA.C17-GRID.i3.26594: //you gotta get creative
+[13:02:59] CCA.C17-GRID.i1.59212: // also i just realized
+[13:03:08] CCA.C17-GRID.i1.59212: // we don't have an apc addon
+[13:03:17] CCA.C17-GRID.i3.26594: //it's borken
+[13:03:20] CCA.C17-GRID.i1.59212: // ah
+[13:03:25] CCA.C17-GRID.i3.26594: //the one main one is
+[13:03:32] CCA.C17-GRID.i3.26594: //and i don't want to download scars and all those depedencies
+[13:03:40] CCA.C17-GRID.i3.26594: //not worth it for something we'll rarely use
+[13:04:03] CCA.C17-GRID.i3.26594: //if it were uhhh
+[13:04:04] CCA.C17-GRID.i3.26594: //what's the one
+[13:04:06] CCA.C17-GRID.i3.26594: //city... 24?
+[13:04:07] CCA.C17-GRID.i3.26594: //yeah 24
+[13:04:14] CCA.C17-GRID.i3.26594: //if it were city 24, different story maybe
+[13:04:24] CCA.C17-GRID.i1.59212: // ah
+[13:04:44] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/combine_fence01b.mdl
+[13:04:45] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/combine_generator01.mdl
+[13:04:45] CCA.C17-GRID.i1.59212: // honestly
+[13:04:46] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/props_combine/combine_generator01.mdl
+[13:04:53] CCA.C17-GRID.i3.26594: //?
+[13:04:58] CCA.C17-GRID.i1.59212: // you'd think i17 would have a robust public transportation system
+[13:05:05] CCA.C17-GRID.i3.26594: //that would be kinda cool
+[13:05:06] CCA.C17-GRID.i1.59212: // since productivity and all that
+[13:05:18] CCA.C17-GRID.i3.26594: //but it wasn't in the liadlaw beta maps so it wasn't in i17
+[13:05:30] CCA.C17-GRID.i1.59212: // much faster than walking, which cuts down transit time, which makes more time for work
+[13:05:44] CCA.C17-GRID.i3.26594: //you make a good ppoint theough
+[13:06:03] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/combineinteriorpack/ctrlrm_north_field.mdl
+[13:06:03] CCA.C17-GRID.i1.59212: // uu bus driver
+[13:06:19] CCA.C17-GRID.i1.59212: // it's just a KING unit with a little peaked cap like a driver from the 50s
+[13:06:31] CCA.C17-GRID.i3.26594: //i'm excited for the new king unit mdoesl
+[13:06:51] CCA.C17-GRID.i1.59212: // ???
+[13:06:52] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned model models/combineinteriorpack/ctrlrm_north_field.mdl
+[13:07:15] CCA.C17-GRID.i3.26594: //because beta
+[13:07:20] CCA.C17-GRID.i3.26594: //so we're gonna use these
+[13:07:22] CCA.C17-GRID.i1.59212: // wait what would we use
+[13:07:30] CCA.C17-GRID.i3.26594: //its not would
+[13:07:31] CCA.C17-GRID.i3.26594: //it's will
+[13:07:39] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned ragdoll models/romka/rtb_elite.mdl
+[13:07:53] CCA.C17-GRID.i1.59212: // why can't i
+[13:07:58] CCA.C17-GRID.i1.59212: // GORILLA MASK
+[13:08:00] CCA.C17-GRID.i3.26594: //because it's mine'
+[13:08:16] CCA.C17-GRID.i3.26594: //i think
+[13:08:24] CCA.C17-GRID.i3.26594: //also the new soldier models are cool too
+[13:08:26] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> spawned ragdoll models/romka/romka_combine_soldier.mdl
+[13:08:36] CCA.C17-GRID.i3.26594: //we're no loner using this for regualr echo
+[13:08:47] CCA.C17-GRID.i1.59212: // i like the soldier model
+[13:09:14] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned ragdoll models/romka/romka_combine_soldier.mdl
+[13:09:20] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool rb655_easy_bodygroup on models/romka/romka_combine_soldier.mdl
+[13:09:23] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool rb655_easy_bodygroup on maps/rp_i17_variation_v0.bsp
+[13:09:23] Client "Regular Bandit nr. 36" connected.
+[13:09:23] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool rb655_easy_bodygroup on models/romka/romka_combine_soldier.mdl
+[13:09:24] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool rb655_easy_bodygroup on models/romka/romka_combine_soldier.mdl
+[13:09:32] CCA.C17-GRID.i1.59212: // this is the best one
+[13:09:42] CCA.C17-GRID.i3.26594: //so i have yet ot decide 
+[13:09:47] CCA.C17-GRID.i3.26594: //we're either gonna use this one here for standard echo
+[13:10:01] CCA.C17-GRID.i1.59212: // okay
+[13:10:05] CCA.C17-GRID.i3.26594: //OR
+[13:10:12] CCA.C17-GRID.i1.59212: // i think we should use this one for normal echo
+[13:10:12] CCA.C17-GRID.i3.26594: //this one
+[13:10:16] CCA.C17-GRID.i1.59212: // like OWS
+[13:10:31] CCA.C17-GRID.i3.26594: //yeah iether 10 or 11
+[13:10:35] CCA.C17-GRID.i1.59212: // also did you ever read the text on the bacxk\
+[13:10:44] CCA.C17-GRID.i1.59212: // LOLOLOL
+[13:10:48] CCA.C17-GRID.i3.26594: //THAT SAY SLOLOL
+[13:10:58] CCA.C17-GRID.i3.26594: //that's not hte original bet atexture
+[13:11:02] CCA.C17-GRID.i3.26594: //it says well done at the bottom
+[13:11:08] CCA.C17-GRID.i3.26594: //but that's not hte actual beta texture
+[13:11:14] CCA.C17-GRID.i3.26594: //i tried to recreate it and i know tha'ts dnot it
+[13:11:37] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned ragdoll models/combine_soldier.mdl
+[13:11:42] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned ragdoll models/armored_soldier.mdl
+[13:11:44] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned ragdoll models/combine_soldier_prisonguard.mdl
+[13:11:57] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool animprop on maps/rp_i17_variation_v0.bsp
+[13:11:58] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool animprop on maps/rp_i17_variation_v0.bsp
+[13:12:00] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool animprop on maps/rp_i17_variation_v0.bsp
+[13:12:00] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool animprop on maps/rp_i17_variation_v0.bsp
+[13:12:01] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool animprop on maps/rp_i17_variation_v0.bsp
+[13:12:02] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool animprop on maps/rp_i17_variation_v0.bsp
+[13:12:03] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool animprop on maps/rp_i17_variation_v0.bsp
+[13:12:05] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool animprop on maps/rp_i17_variation_v0.bsp
+[13:12:14] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned ragdoll models/ninja/combine/combine_soldier_prisonguard.mdl
+[13:12:15] CCA.C17-GRID.i3.26594: //either one or two is gonna be our new echo
+[13:12:25] CCA.C17-GRID.i3.26594: //i may use 3 for our regular hmamer but i'm not sure
+[13:12:28] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool animprop on models/romka/romka_combine_soldier.mdl
+[13:12:33] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool rb655_easy_bodygroup on models/romka/romka_combine_soldier.mdl
+[13:12:41] CCA.C17-GRID.i3.26594: //i may use this instead
+[13:12:53] CCA.C17-GRID.i1.59212: // Holy crap is this model ever detailed
+[13:12:57] CCA.C17-GRID.i3.26594: //or this one
+[13:13:08] CCA.C17-GRID.i3.26594: //what the hellis that
+[13:13:10] CCA.C17-GRID.i3.26594: //i van't see it
+[13:13:14] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool rb655_easy_bodygroup on models/romka/romka_combine_soldier.mdl
+[13:13:20] CCA.C17-GRID.i1.59212: // what
+[13:13:23] CCA.C17-GRID.i3.26594: //number 4 is gonan be statined on the beach
+[13:13:32] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool rb655_easy_bodygroup on models/romka/romka_combine_soldier.mdl
+[13:13:33] CCA.C17-GRID.i1.59212: // no. 4 best one 
+[13:13:37] CCA.C17-GRID.i1.59212: // i am biased
+[13:13:44] CCA.C17-GRID.i1.59212: // why are they spazzing out
+[13:13:52] CCA.C17-GRID.i3.26594: //ilike the nova prospect recreations
+[13:14:07] CCA.C17-GRID.i1.59212: // wait
+[13:14:10] CCA.C17-GRID.i1.59212: // go back
+[13:14:10] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool rb655_easy_bodygroup on models/romka/romka_combine_soldier.mdl
+[13:14:28] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned ragdoll models/romka/romka_combine_soldier.mdl
+[13:14:40] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool animprop on models/romka/romka_combine_soldier.mdl
+[13:14:41] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool animprop on models/romka/romka_combine_soldier.mdl
+[13:14:43] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool animprop on models/romka/romka_combine_soldier.mdl
+[13:14:44] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool animprop on models/romka/romka_combine_soldier.mdl
+[13:14:45] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool animprop on maps/rp_i17_variation_v0.bsp
+[13:14:55] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool rb655_easy_bodygroup on models/romka/romka_combine_soldier.mdl
+[13:14:56] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool animprop on maps/rp_i17_variation_v0.bsp
+[13:14:56] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool animprop on maps/rp_i17_variation_v0.bsp
+[13:14:59] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool animprop on maps/rp_i17_variation_v0.bsp
+[13:15:03] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool animprop on maps/rp_i17_variation_v0.bsp
+[13:15:05] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool animprop on maps/rp_i17_variation_v0.bsp
+[13:15:06] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool rb655_easy_bodygroup on models/romka/romka_combine_soldier.mdl
+[13:15:07] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool animprop on maps/rp_i17_variation_v0.bsp
+[13:15:08] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool rb655_easy_bodygroup on maps/rp_i17_variation_v0.bsp
+[13:15:09] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool animprop on maps/rp_i17_variation_v0.bsp
+[13:15:11] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool animprop on maps/rp_i17_variation_v0.bsp
+[13:15:17] CCA.C17-GRID.i1.59212: // ok look here
+[13:15:24] CCA.C17-GRID.i1.59212: // the patch
+[13:15:25] CCA.C17-GRID.i3.26594: //taiga b oys
+[13:15:31] CCA.C17-GRID.i3.26594: //yeah, he's uhh
+[13:15:33] CCA.C17-GRID.i1.59212: // is that a cross of lorraine mixed with the polish flah
+[13:15:33] CCA.C17-GRID.i3.26594: //don't say it
+[13:15:36] CCA.C17-GRID.i3.26594: //it's a horse
+[13:15:39] CCA.C17-GRID.i3.26594: //what's the horse, don't tell me
+[13:15:46] CCA.C17-GRID.i3.26594: //it's on the tip of my tongue
+[13:15:51] CCA.C17-GRID.i3.26594: //it's equius' sign
+[13:16:05] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool animprop on maps/rp_i17_variation_v0.bsp
+[13:16:06] CCA.C17-GRID.i1.59212: // i thought it was a funky cross of lorraine
+[13:16:09] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool animprop on maps/rp_i17_variation_v0.bsp
+[13:16:13] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool animprop on maps/rp_i17_variation_v0.bsp
+[13:16:15] CCA.C17-GRID.i1.59212: // are they spazzing out for you
+[13:16:15] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool animprop on models/police_nemez.mdl
+[13:16:16] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool animprop on maps/rp_i17_variation_v0.bsp
+[13:16:19] CCA.C17-GRID.i3.26594: //they're a lil shaky
+[13:16:22] CCA.C17-GRID.i3.26594: //or a little sway-y
+[13:16:27] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool animprop on models/police_nemez.mdl
+[13:16:28] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool animprop on models/police_nemez.mdl
+[13:16:30] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool animprop on maps/rp_i17_variation_v0.bsp
+[13:16:31] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool animprop on maps/rp_i17_variation_v0.bsp
+[13:16:35] CCA.C17-GRID.i3.26594: //not spazzing
+[13:16:36] CCA.C17-GRID.i1.59212: // wait what model is that
+[13:16:56] CCA.C17-GRID.i3.26594: models/romka/rtb_elite.mdl
+[13:16:59] CCA.C17-GRID.i3.26594: //models/romka/rtb_elite.mdl
+[13:17:04] CCA.C17-GRID.i3.26594: //romka pack
+[13:17:14] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool animprop on maps/rp_i17_variation_v0.bsp
+[13:17:16] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool animprop on maps/rp_i17_variation_v0.bsp
+[13:17:25] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool animprop on maps/rp_i17_variation_v0.bsp
+[13:17:27] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool animprop on maps/rp_i17_variation_v0.bsp
+[13:17:30] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool animprop on maps/rp_i17_variation_v0.bsp
+[13:17:33] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool animprop on maps/rp_i17_variation_v0.bsp
+[13:17:34] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool animprop on maps/rp_i17_variation_v0.bsp
+[13:17:45] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool rb655_easy_bodygroup on maps/rp_i17_variation_v0.bsp
+[13:17:50] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> spawned ragdoll models/romka/rtb_elite.mdl
+[13:17:51] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool rb655_easy_bodygroup on maps/rp_i17_variation_v0.bsp
+[13:17:52] CCA.C17-GRID.i1.59212<STEAM_0:0:193599766> used the tool rb655_easy_bodygroup on models/romka/rtb_elite.mdl
+[13:18:05] CCA.C17-GRID.i1.59212: // funky camo
+[13:18:22] CCA.C17-GRID.i1.59212: // wait
+[13:18:28] CCA.C17-GRID.i1.59212: // the garage doors
+[13:18:33] CCA.C17-GRID.i1.59212: // can anyone open those
+[13:19:38] CCA.C17-GRID.i3.26594: //no, they're locked
+[13:19:50] CCA.C17-GRID.i1.59212: // oh
+[13:30:09] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool animprop on maps/rp_i17_variation_v0.bsp
+[13:50:25] Client "Apollo7771FO3" connected.
+[13:53:16] Client "Apollo7771FO3" spawned in server <STEAM_0:1:40787669> (took 171 seconds).
+[13:54:33] Apollo7771FO3<STEAM_0:1:40787669> changed their name to Bubba
+[13:54:57] Bubba<STEAM_0:1:40787669> changed their name to CAC.C17-CRM.23470
+[13:55:03] CAC.C17-CRM.23470<STEAM_0:1:40787669> changed their name to Skinny
+[13:55:39] Skinny<STEAM_0:1:40787669> changed their name to CAC.C17-CRM.23470
+[13:56:25] CAC.C17-CRM.23470: /ooc :eyes:
+[14:05:14] CAC.C17-CRM.23470<STEAM_0:1:40787669> changed their name to Todd Muller
+[14:07:08] Todd Muller<STEAM_0:1:40787669> changed their name to Bubba
+[14:11:01] Bubba<STEAM_0:1:40787669> changed their name to Skinny
+[14:12:36] CCA.C17-GRID.i3.26594: //oh shit apollo wha'ts good
+[14:12:57] Skinny: /ooc Heya.
+[14:13:03] CCA.C17-GRID.i3.26594: //how a doin
+[14:13:04] CCA.C17-GRID.i3.26594: //ya*
+[14:13:09] Skinny: /ooc Good, you?
+[14:13:11] CCA.C17-GRID.i3.26594 added CCA.C17-GRID.i1.59212 to group moderator
+[14:13:14] CCA.C17-GRID.i3.26594: //doin alright
+[14:13:19] CCA.C17-GRID.i3.26594: //deeply depressed and terrified but repressing it
+[14:13:28] CCA.C17-GRID.i3.26594: //so otherwise good
+[14:13:34] Skinny: /ooc Ah.
+[14:13:40] CCA.C17-GRID.i3.26594: //since oyu're a fast zombei i'll let you climb the ladder
+[14:13:44] Client "Regular Bandit nr. 36" connected.
+[14:13:46] CCA.C17-GRID.i3.26594: //it's slow on purose
+[14:13:50] CCA.C17-GRID.i3.26594: //so aliens can't climb ladders
+[14:14:16] Skinny: /ooc Thank you.
+[14:14:19] CCA.C17-GRID.i3.26594: //yep, no problem
+[14:14:28] CCA.C17-GRID.i3.26594: //what i'm here for
+[14:15:27] CCA.C17-GRID.i3.26594: /chargiveitem grid.i3 "12-gauge shells"
+[14:15:30] CCA.C17-GRID.i3.26594: /chargiveitem grid.i3 "12-gauge shells"
+[14:15:30] CCA.C17-GRID.i3.26594: /chargiveitem grid.i3 "12-gauge shells"
+[14:15:31] CCA.C17-GRID.i3.26594: /chargiveitem grid.i3 "12-gauge shells"
+[14:15:32] CCA.C17-GRID.i3.26594: /chargiveitem grid.i3 "12-gauge shells"
+[14:16:36] CCA.C17-GRID.i3.26594: /chargiveitem grid.i3 "hybrid radio"
+[14:17:48] CCA.C17-GRID.i1.59212: // i forgot to close gmod??
+[14:17:51] CCA.C17-GRID.i3.26594: //big rip
+[14:18:01] CCA.C17-GRID.i3.26594: //also i put a fuckton of resin around the map
+[14:18:33] CCA.C17-GRID.i3.26594: //yo wuntch your flashlight is on
+[14:18:36] CCA.C17-GRID.i3.26594: //make sure to close that when you're in observer
+[14:18:42] CCA.C17-GRID.i1.59212: // no it isn't shh
+[14:18:50] CCA.C17-GRID.i3.26594: //i'm not mad, i'm just letting you know in the future
+[14:18:56] CCA.C17-GRID.i3.26594: //if you're watcihng minges they'll know
+[14:18:58] CCA.C17-GRID.i1.59212: // i know
+[14:19:08] CCA.C17-GRID.i3.26594: //and keep your physgun away too, because ith as the the gowing *ball*of doom
+[14:19:28] CCA.C17-GRID.i1.59212: // i've been on servers where when you noclip the physgun is still there
+[14:19:34] CCA.C17-GRID.i3.26594: /plysearch
+[14:19:35] CCA.C17-GRID.i3.26594: /plysearch
+[14:19:36] CCA.C17-GRID.i3.26594: /plysearch
+[14:19:43] CCA.C17-GRID.i3.26594: //breh
+[14:19:46] CCA.C17-GRID.i1.59212: // so you just look out a window and all you see is a big physgun 10x the size of the ship
+[14:19:52] CCA.C17-GRID.i3.26594: //:Thonk:
+[14:20:08] CCA.C17-GRID.i1.59212: // WHY IS THERE A TOW-AWAY SIGN
+[14:20:23] CCA.C17-GRID.i3.26594: //hospital curb
+[14:20:28] CCA.C17-GRID.i3.26594: //pre-war relic
+[14:20:38] CCA.C17-GRID.i1.59212 to admins: the car stopper thing is escaping
+[14:20:44] CCA.C17-GRID.i3.26594 to admins: how
+[14:20:46] CCA.C17-GRID.i3.26594 to admins: what
+[14:20:48] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on maps/rp_i17_variation_v0.bsp
+[14:21:00] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> used the tool permaprops on maps/rp_i17_variation_v0.bsp
+[14:21:33] Skinny: /looc Sus.
+[14:21:36] CCA.C17-GRID.i3.26594: .//no u
+[14:21:58] CCA.C17-GRID.i3.26594: //ඞ
+[14:22:00] CCA.C17-GRID.i3.26594: //oh
+[14:22:03] Skinny: /ooc Wha-
+[14:24:33] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> changed their name to CAC.C17-CRM.19491
+[14:24:37] CAC.C17-CRM.19491 suicided!
+[14:24:37] CAC.C17-CRM.19491 slayed Themself
+[14:24:37] CAC.C17-CRM.19491: !slay ^
+[14:25:00] CAC.C17-CRM.19491: /spawnadd cac cremator
+[14:25:01] CAC.C17-CRM.19491: /spawnadd cac cremator
+[14:25:02] CAC.C17-CRM.19491: /spawnadd cac cremator
+[14:25:03] CAC.C17-CRM.19491: /spawnadd cac cremator
+[14:25:05] CAC.C17-CRM.19491: /spawnadd cac cremator
+[14:25:07] CAC.C17-CRM.19491: /spawnadd cac cremator
+[14:25:07] CAC.C17-CRM.19491: /spawnadd cac cremator
+[14:25:08] CAC.C17-CRM.19491: /spawnadd cac cremator
+[14:25:09] CAC.C17-CRM.19491: /spawnadd cac cremator
+[14:25:09] CAC.C17-CRM.19491: /spawnadd cac cremator
+[14:25:10] CAC.C17-CRM.19491: /spawnadd cac cremator
+[14:25:12] CAC.C17-CRM.19491: /spawnadd cac cremator
+[14:25:12] CAC.C17-CRM.19491: /spawnadd cac cremator
+[14:25:13] CAC.C17-CRM.19491: /spawnadd cac cremator
+[14:25:14] CAC.C17-CRM.19491: /spawnadd cac cremator
+[14:25:15] CAC.C17-CRM.19491: /spawnadd cac cremator
+[14:25:16] CAC.C17-CRM.19491: /spawnadd cac cremator
+[14:25:17] CAC.C17-CRM.19491: /spawnadd cac cremator
+[14:25:33] CAC.C17-CRM.19491: t
+[14:25:38] CAC.C17-CRM.19491 suicided!
+[14:25:38] CAC.C17-CRM.19491 slayed Themself
+[14:25:38] CAC.C17-CRM.19491: !slay ^
+[14:25:43] CAC.C17-CRM.19491: //fuck, it seems like the cremator is borked
+[14:25:52] CAC.C17-CRM.19491: //that or sv_hooks is borken
+[14:25:58] CAC.C17-CRM.19491: //wait i think i nkwo
+[14:26:13] Skinny: /ooc Question; Do you not have your immolater?
+[14:26:27] CAC.C17-CRM.19491: //i do not
+[14:26:31] CAC.C17-CRM.19491: //and i'm not spawningat my spawnpoints
+[14:26:35] CAC.C17-CRM.19491: //and i'm walkingat nomral speed
+[14:26:45] CAC.C17-CRM.19491: //seems like something that runs on spawn from cremators is breaking
+[14:26:50] Skinny: /ooc Switch between character then switch back to your CRM, it will fix.
+[14:27:02] CAC.C17-CRM.19491<STEAM_0:1:53097688> changed their name to CCA.C17-JUDGE.OfC.36012
+[14:27:07] CCA.C17-JUDGE.OfC.36012<STEAM_0:1:53097688> changed their name to CAC.C17-CRM.19491
+[14:27:10] CAC.C17-CRM.19491 suicided!
+[14:27:10] CAC.C17-CRM.19491 slayed Themself
+[14:27:10] CAC.C17-CRM.19491: !slay ^
+[14:27:28] CAC.C17-CRM.19491: //didn't work
+[14:27:38] CAC.C17-CRM.19491 suicided!
+[14:27:38] CAC.C17-CRM.19491 slayed Themself
+[14:27:38] CAC.C17-CRM.19491: !slay ^
+[14:27:40] Skinny: /ooc Try switching between Two to three characters.
+[14:28:06] CAC.C17-CRM.19491: it's not throwing any error messages. could be my class is fucked
+[14:28:10] CAC.C17-CRM.19491: //it's not throwing any error messages. could be my class is fucked
+[14:28:14] CAC.C17-CRM.19491: /charsetclass cac cremator
+[14:28:14] CAC.C17-CRM.19491<STEAM_0:1:53097688> changed their name to CAC.C17-CRM.28454
+[14:28:17] CAC.C17-CRM.28454: //fixed
+[14:28:22] CAC.C17-CRM.28454: //guess my class got unset
+[14:28:53] CAC.C17-CRM.28454: /toggleraise
+[14:29:46] Skinny: /meY Lets out a scream before charging at the Cremator.
+[14:29:53] Skinny: /me Lets out a scream before charging at the Cremator.
+[14:30:15] CAC.C17-CRM.28454: .//hit me bitch
+[14:30:35] Skinny killed CAC.C17-CRM.28454 using ix_hands
+[14:30:47] Skinny: // What.
+[14:30:52] CAC.C17-CRM.28454<STEAM_0:1:53097688> changed their name to CCA.C17-GRID.i3.26594
+[14:30:59] Skinny: /ooc How did I win?
+[14:30:59] CCA.C17-GRID.i3.26594 killed Skinny
+[14:31:05] CCA.C17-GRID.i3.26594<STEAM_0:1:53097688> changed their name to CCA.C17-UNION.i1.51023
+[14:31:13] Skinny<STEAM_0:1:40787669> changed their name to Crab.
+[14:31:14] CCA.C17-UNION.i1.51023: //i was throwing because cremator should win that
+[14:31:20] CCA.C17-UNION.i1.51023: /charsethunger union 100
+[14:31:25] CCA.C17-UNION.i1.51023: /charsethirst union 100
+[14:31:28] CCA.C17-UNION.i1.51023: t
+[14:31:29] CCA.C17-UNION.i1.51023: t
+[14:31:29] CCA.C17-UNION.i1.51023: t
+[14:31:32] CCA.C17-UNION.i1.51023: t
+[14:31:33] CCA.C17-UNION.i1.51023: t
+[14:31:34] CCA.C17-UNION.i1.51023: t
+[14:31:34] CCA.C17-UNION.i1.51023: t
+[14:31:35] CCA.C17-UNION.i1.51023: t
+[14:31:36] CCA.C17-UNION.i1.51023: t
+[14:31:37] CCA.C17-UNION.i1.51023: t
+[14:31:37] CCA.C17-UNION.i1.51023: t
+[14:31:41] CCA.C17-UNION.i1.51023: //big bulky nad slow
+[14:31:47] CCA.C17-UNION.i1.51023: //i mean cremator shouldn't win that*
+[14:31:58] CCA.C17-UNION.i1.51023: /toggleraise
+[14:32:10] CCA.C17-UNION.i1.51023: /chargiveitme union magazine
+[14:32:14] CCA.C17-UNION.i1.51023 gave Themself 36 rounds
+[14:32:16] Crab.: /me Lets out a hiss before trying to jump at the CP.
+[14:32:18] CCA.C17-UNION.i1.51023 gave Themself 18 rounds
+[14:32:21] CCA.C17-UNION.i1.51023: /y agh, fuck!
+[14:32:25] CCA.C17-UNION.i1.51023: .//jump betch
+[14:32:39] CCA.C17-UNION.i1.51023: pain1
+[14:32:51] CCA.C17-UNION.i1.51023: /r Virome at my 10-20! help!
+[14:32:53] CCA.C17-UNION.i1.51023: /radio help
+[14:33:02] CCA.C17-UNION.i1.51023: 10-99
+[14:33:05] CCA.C17-UNION.i1.51023: .//wait wrong vc
+[14:33:06] CCA.C17-UNION.i1.51023: 11-99
+[14:33:09] CCA.C17-UNION.i1.51023 killed Crab. using player
+[14:33:13] Crab.: /looc GG.
+[14:33:14] CCA.C17-UNION.i1.51023: /r Virome down.
+[14:33:26] Crab.<STEAM_0:1:40787669> changed their name to CAC.C17-CRM.23470
+[14:33:33] CCA.C17-UNION.i1.51023: //ggs
+[14:33:38] CCA.C17-UNION.i1.51023: what the fu-
+[14:33:51] CCA.C17-UNION.i1.51023: uh, go burn it
+[14:34:02] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned ragdoll models/headcrabblack.mdl
+[14:34:11] Dropped "CCA.C17-GRID.i1.59212" from server<STEAM_0:0:193599766>
+[14:34:17] CCA.C17-UNION.i1.51023: /charsethirst union 100
+[14:34:27] CCA.C17-UNION.i1.51023: /charsethunger union 100
+[14:34:35] CAC.C17-CRM.23470: /me Looks down at its target before starting its immolater, sending a storm of flames at its target.
+[14:34:53] CCA.C17-UNION.i1.51023: /charsetthirst union 100
+[14:35:39] CCA.C17-UNION.i1.51023: stimpatch
+[14:36:02] CCA.C17-UNION.i1.51023: uh, burn the blood
+[14:36:15] CCA.C17-UNION.i1.51023: shit, that's gota spread
+[14:36:24] CCA.C17-UNION.i1.51023: /y EXTINGUISH IT 
+[14:36:25] CCA.C17-UNION.i1.51023: /Y NOW
+[14:36:31] CCA.C17-UNION.i1.51023: //whoops accidental vc
+[14:36:34] CCA.C17-UNION.i1.51023 cleared decals
+[14:36:43] CCA.C17-UNION.i1.51023: go look around for garbage to burn
+[14:36:54] CCA.C17-UNION.i1.51023: i'm coming with so you don't burn down the city
+[14:37:36] CCA.C17-UNION.i1.51023: /y WHAT THE FUCK
+[14:37:41] CCA.C17-UNION.i1.51023: /Y PUT THAT OUT! NOW!
+[14:37:51] CCA.C17-UNION.i1.51023: Oh, for-
+[14:37:59] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> spawned/gave himself swep weapon_extinguisher
+[14:38:03] CCA.C17-UNION.i1.51023: /toggleraise
+[14:38:10] CCA.C17-UNION.i1.51023: /toggleraise
+[14:38:14] CCA.C17-UNION.i1.51023: /toggleraise
+[14:38:41] CCA.C17-UNION.i1.51023: no
+[14:38:47] CCA.C17-UNION.i1.51023: /me shakes his head
+[14:38:48] CCA.C17-UNION.i1.51023: /y no
+[14:38:52] CCA.C17-UNION.i1.51023: /y no indoorws
+[14:38:56] CCA.C17-UNION.i1.51023: /y out
+[14:39:06] CCA.C17-UNION.i1.51023: /toggleraise
+[14:40:04] CCA.C17-UNION.i1.51023: /y Agh! no!
+[14:40:21] CCA.C17-UNION.i1.51023: /me vvipes the nitrate or whatever it is off of his body
+[14:40:24] CCA.C17-UNION.i1.51023: .//body.*
+[14:40:39] CCA.C17-UNION.i1.51023: I swear, we need better workers to make these things
+[14:40:49] CCA.C17-UNION.i1.51023: no
+[14:40:56] CCA.C17-UNION.i1.51023: you stay outside
+[14:41:35] CCA.C17-UNION.i1.51023: /me lets out a sigh
+[14:41:36] CCA.C17-UNION.i1.51023: no
+[14:41:39] CCA.C17-UNION.i1.51023: no fence
+[14:41:40] CCA.C17-UNION.i1.51023: no
+[14:42:31] CCA.C17-UNION.i1.51023: /toggleraise
+[14:42:37] CCA.C17-UNION.i1.51023: /toggleraise
+[14:42:43] CCA.C17-UNION.i1.51023: /toggleraise
+[14:43:11] CCA.C17-UNION.i1.51023: /toggleraise
+[14:43:21] CCA.C17-UNION.i1.51023: /toggleraise
+[14:44:32] CCA.C17-UNION.i1.51023: /toggleraise
+[14:44:38] CCA.C17-UNION.i1.51023: /toggleraise
+[14:44:43] CCA.C17-UNION.i1.51023: /toggleraise
+[14:44:48] CCA.C17-UNION.i1.51023: /toggleraise
+[14:44:49] CCA.C17-UNION.i1.51023: /toggleraise
+[14:44:50] CCA.C17-UNION.i1.51023: /toggleraise
+[14:48:34] CAC.C17-CRM.23470: /looc Alright,  because activity checks are stinky poo poo, I have to go. See you!
+[14:48:48] Dropped "CAC.C17-CRM.23470" from server<STEAM_0:1:40787669>
+[14:54:29] Client "jameliaelhage700" connected.
+[15:46:16] CCA.C17-UNION.i1.51023<STEAM_0:1:53097688> changed their name to Lee Maylor
+[23:40:08] Client "¢higgy ¢higgy" connected.
+[23:47:48] Client "¢higgy ¢higgy" spawned in server <STEAM_0:0:69154315> (took 460 seconds).
+[23:49:40] ¢higgy ¢higgy<STEAM_0:0:69154315> changed their name to Frank Jackson
+[23:51:53] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_c17/fence03a.mdl
+[23:52:05] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_borealis/borealis_door001a.mdl
+[23:53:09] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_junk/garbage_carboard002a.mdl
+[23:54:32] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_c17/furniturecouch001a.mdl
+[23:55:02] Frank Jackson<STEAM_0:0:69154315> used the tool nocollideeverything on models/props_c17/furniturecouch001a.mdl
+[23:55:26] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_c17/furniturecouch001a.mdl
+[23:55:49] Frank Jackson<STEAM_0:0:69154315> used the tool nocollideeverything on models/props_c17/furniturecouch001a.mdl
+[23:56:29] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_c17/furniturecouch002a.mdl
+[23:56:34] Frank Jackson<STEAM_0:0:69154315> used the tool nocollideeverything on models/props_c17/furniturecouch002a.mdl
+[23:56:34] Frank Jackson<STEAM_0:0:69154315> used the tool nocollideeverything on models/props_c17/furniturecouch002a.mdl
+[23:57:32] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_phx/construct/metal_dome360.mdl
+[23:57:40] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_phx/construct/metal_plate1.mdl
+[23:57:52] Frank Jackson<STEAM_0:0:69154315> spawned model models/props_c17/furniturecouch002a.mdl
+[23:57:53] Frank Jackson<STEAM_0:0:69154315> used the tool material on models/props_c17/furniturecouch002a.mdl
+[23:57:55] Frank Jackson<STEAM_0:0:69154315> used the tool material on models/props_phx/construct/metal_plate1.mdl
+[23:57:58] Frank Jackson<STEAM_0:0:69154315> used the tool material on models/props_c17/furniturecouch002a.mdl
+[23:57:58] Frank Jackson<STEAM_0:0:69154315> used the tool material on models/props_phx/construct/metal_plate1.mdl
+[23:57:58] Frank Jackson<STEAM_0:0:69154315> used the tool material on models/props_phx/construct/metal_plate1.mdl
+[23:58:01] Frank Jackson<STEAM_0:0:69154315> used the tool material on models/props_phx/construct/metal_plate1.mdl
+[23:58:02] Frank Jackson<STEAM_0:0:69154315> used the tool material on models/props_c17/furniturecouch002a.mdl
+[23:58:03] Frank Jackson<STEAM_0:0:69154315> used the tool material on models/props_c17/furniturecouch002a.mdl
+[23:58:05] Frank Jackson<STEAM_0:0:69154315> used the tool material on models/props_c17/furniturecouch002a.mdl
+[23:58:08] Frank Jackson<STEAM_0:0:69154315> used the tool material on models/props_c17/furniturecouch002a.mdl
+[23:58:10] Frank Jackson<STEAM_0:0:69154315> used the tool material on models/props_phx/construct/metal_plate1.mdl
+[23:58:13] Frank Jackson<STEAM_0:0:69154315> used the tool material on models/props_phx/construct/metal_plate1.mdl
+[23:58:42] Frank Jackson<STEAM_0:0:69154315> used the tool material on models/props_phx/construct/metal_plate1.mdl
+[23:58:59] Frank Jackson<STEAM_0:0:69154315> spawned model models/hunter/blocks/cube025x025x025.mdl
+[23:59:05] Frank Jackson<STEAM_0:0:69154315> spawned model models/hunter/blocks/cube075x075x075.mdl
+[23:59:08] Frank Jackson<STEAM_0:0:69154315> spawned model models/hunter/blocks/cube05x05x025.mdl
+[23:59:12] Frank Jackson<STEAM_0:0:69154315> used the tool material on models/hunter/blocks/cube05x05x025.mdl
+[23:59:30] Frank Jackson<STEAM_0:0:69154315> spawned model models/hunter/blocks/cube05x1x025.mdl
+[23:59:43] Frank Jackson<STEAM_0:0:69154315> spawned model models/hunter/blocks/cube075x3x025.mdl
+[23:59:51] Frank Jackson<STEAM_0:0:69154315> used the tool material on models/hunter/blocks/cube075x3x025.mdl
+<Logging continued in "data/ulx_logs/03-20-21.txt">

@@ -1,0 +1,551 @@
+[07:21:47]	matt saton has connected.
+[07:22:54]	matt saton loaded the character 'Lee Maylor'
+[07:22:56]	Lee Maylor entered observer.
+[07:23:18]	matt saton loaded the character 'CCA.C17-GRID.i3.26594'
+[07:23:34]	CCA.C17-GRID.i3.26594 rolled 8313 out of 99999.
+[07:23:34]	CCA.C17-GRID.i3.26594 used command '/Roll 99999'.
+[07:23:40]	CCA.C08-GRID.i3.08313 used command '/CharSetName i3 CCA.C08-GRID.i3.08313'.
+[07:23:40]	CCA.C08-GRID.i3.08313 entered observer.
+[07:23:43]	CCA.C08-GRID.i3.08313 exited observer at their location.
+[07:23:43]	CCA.C08-GRID.i3.08313 entered observer.
+[07:24:52]	CCA.C08-GRID.i3.08313 exited observer at their location.
+[07:24:54]	CCA.C08-GRID.i3.08313 ran 'drop' on item 'Axe' (#8419)
+[07:24:55]	CCA.C08-GRID.i3.08313 ran 'drop' on item 'Axe' (#8419)
+[07:24:57]	CCA.C08-GRID.i3.08313 ran 'drop' on item 'Axe' (#8419)
+[07:25:00]	CCA.C08-GRID.i3.08313 ran 'drop' on item 'Axe' (#8419)
+[07:25:03]	CCA.C08-GRID.i3.08313 ran 'drop' on item 'Relocation Coupon' (#10164)
+[07:25:03]	CCA.C08-GRID.i3.08313 has lost a 'Relocation Coupon' #10164.
+[07:25:04]	CCA.C08-GRID.i3.08313 ran 'drop' on item 'Citizen Filter' (#10016)
+[07:25:04]	CCA.C08-GRID.i3.08313 has lost a 'Citizen Filter' #10016.
+[07:25:05]	CCA.C08-GRID.i3.08313 ran 'Equip' on item 'Axe' (#8419)
+[07:25:08]	CCA.C08-GRID.i3.08313 ran 'EquipUn' on item 'Axe' (#8419)
+[07:25:08]	CCA.C08-GRID.i3.08313 ran 'drop' on item 'Axe' (#8419)
+[07:25:10]	CCA.C08-GRID.i3.08313 ran 'Equip' on item 'Axe' (#8419)
+[07:25:10]	CCA.C08-GRID.i3.08313 ran 'drop' on item 'Axe' (#8419)
+[07:25:11]	CCA.C08-GRID.i3.08313 ran 'drop' on item 'Sewing Kit' (#10035)
+[07:25:11]	CCA.C08-GRID.i3.08313 has lost a 'Sewing Kit' #10035.
+[07:25:18]	CCA.C08-GRID.i3.08313 entered observer.
+[07:25:18]	CCA.C08-GRID.i3.08313 exited observer at their location.
+[07:25:22]	CCA.C08-GRID.i3.08313 ran 'drop' on item 'Citizen ID' (#10124)
+[07:25:22]	CCA.C08-GRID.i3.08313 has lost a 'Citizen ID' #10124.
+[07:25:26]	CCA.C08-GRID.i3.08313 has gained a 'Suitcase' #13736.
+[07:25:26]	CCA.C08-GRID.i3.08313 used command '/CharGiveItem grid suitcase'.
+[07:25:30]	CCA.C08-GRID.i3.08313 ran 'EquipUn' on item 'Axe' (#8419)
+[07:25:39]	CCA.C08-GRID.i3.08313 ran 'drop' on item 'Suitcase' (#13736)
+[07:25:39]	CCA.C08-GRID.i3.08313 has lost a 'Suitcase' #13736.
+[07:25:39]	CCA.C08-GRID.i3.08313 has lost a 'Citizen Filter' #10015.
+[07:25:39]	CCA.C08-GRID.i3.08313 has lost a 'Pan' #9067.
+[07:25:39]	CCA.C08-GRID.i3.08313 has lost a 'Charcoal' #6676.
+[07:25:39]	CCA.C08-GRID.i3.08313 has lost a 'Hybrid Radio' #72.
+[07:25:39]	CCA.C08-GRID.i3.08313 has lost a 'LSD' #8390.
+[07:25:39]	CCA.C08-GRID.i3.08313 has lost a 'Axe' #8419.
+[07:25:40]	CCA.C08-GRID.i3.08313 ran 'drop' on item 'Metal Gas Can' (#9892)
+[07:25:40]	CCA.C08-GRID.i3.08313 has lost a 'Metal Gas Can' #9892.
+[07:25:49]	CCA.C08-GRID.i3.08313 entered observer.
+[07:25:49]	CCA.C08-GRID.i3.08313 used command '/ToggleRaise'.
+[07:25:50]	CCA.C08-GRID.i3.08313 exited observer at their location.
+[07:25:52]	CCA.C08-GRID.i3.08313 entered observer.
+[07:25:52]	CCA.C08-GRID.i3.08313 exited observer at their location.
+[07:25:53]	CCA.C08-GRID.i3.08313 entered observer.
+[07:25:53]	CCA.C08-GRID.i3.08313 destroyed a 'Metal Gas Can' #9892.
+[07:25:53]	CCA.C08-GRID.i3.08313 destroyed a 'Suitcase' #13736.
+[07:25:53]	CCA.C08-GRID.i3.08313 destroyed a 'Citizen Filter' #10016.
+[07:25:53]	CCA.C08-GRID.i3.08313 destroyed a 'Sewing Kit' #10035.
+[07:25:53]	CCA.C08-GRID.i3.08313 destroyed a 'Relocation Coupon' #10164.
+[07:25:53]	CCA.C08-GRID.i3.08313 destroyed a 'Citizen ID' #10124.
+[07:25:54]	CCA.C08-GRID.i3.08313 exited observer at their location.
+[07:25:55]	CCA.C08-GRID.i3.08313 used command '/ToggleRaise'.
+[07:25:57]	CCA.C08-GRID.i3.08313 used command '/ToggleRaise'.
+[07:26:00]	CCA.C08-GRID.i3.08313 used command '/ToggleRaise'.
+[07:26:00]	CCA.C08-GRID.i3.08313 entered observer.
+[07:26:03]	CCA.C08-GRID.i3.08313 exited observer at their location.
+[07:26:05]	CCA.C08-GRID.i3.08313 used command '/ToggleRaise'.
+[07:26:05]	CCA.C08-GRID.i3.08313 entered observer.
+[07:26:08]	CCA.C08-GRID.i3.08313 ran 'EquipUn' on item 'MP7' (#10131)
+[07:26:09]	CCA.C08-GRID.i3.08313 exited observer at their location.
+[07:26:11]	CCA.C08-GRID.i3.08313 used command '/ToggleRaise'.
+[07:26:12]	CCA.C08-GRID.i3.08313 entered observer.
+[07:26:22]	CCA.C08-GRID.i3.08313 has gained a 'Resin' #13736.
+[07:26:22]	CCA.C08-GRID.i3.08313 has gained a 'Resin' #13737.
+[07:26:22]	CCA.C08-GRID.i3.08313 has gained a 'Resin' #13738.
+[07:26:22]	CCA.C08-GRID.i3.08313 has gained a 'Resin' #13739.
+[07:26:22]	CCA.C08-GRID.i3.08313 has gained a 'Resin' #13740.
+[07:26:22]	CCA.C08-GRID.i3.08313 has gained a 'Resin' #13741.
+[07:26:22]	CCA.C08-GRID.i3.08313 has gained a 'Resin' #13742.
+[07:26:22]	CCA.C08-GRID.i3.08313 has gained a 'Resin' #13743.
+[07:26:22]	CCA.C08-GRID.i3.08313 has gained a 'Resin' #13744.
+[07:26:22]	CCA.C08-GRID.i3.08313 has gained a 'Resin' #13745.
+[07:26:22]	CCA.C08-GRID.i3.08313 has gained a 'Resin' #13746.
+[07:26:22]	CCA.C08-GRID.i3.08313 has gained a 'Resin' #13747.
+[07:26:22]	CCA.C08-GRID.i3.08313 has gained a 'Resin' #13748.
+[07:26:22]	CCA.C08-GRID.i3.08313 has gained a 'Resin' #13749.
+[07:26:22]	CCA.C08-GRID.i3.08313 has gained a 'Resin' #13750.
+[07:26:22]	CCA.C08-GRID.i3.08313 has gained a 'Resin' #13751.
+[07:26:22]	CCA.C08-GRID.i3.08313 used command '/CharGiveItem grid resin 99999'.
+[07:26:28]	CCA.C08-GRID.i3.08313 ran 'drop' on item 'Resin' (#13740)
+[07:26:28]	CCA.C08-GRID.i3.08313 has lost a 'Resin' #13740.
+[07:26:41]	CCA.C08-GRID.i3.08313 ran 'drop' on item 'Resin' (#13743)
+[07:26:41]	CCA.C08-GRID.i3.08313 has lost a 'Resin' #13743.
+[07:26:50]	CCA.C08-GRID.i3.08313 ran 'drop' on item 'Resin' (#13744)
+[07:26:50]	CCA.C08-GRID.i3.08313 has lost a 'Resin' #13744.
+[07:27:05]	CCA.C08-GRID.i3.08313 ran 'drop' on item 'Resin' (#13749)
+[07:27:05]	CCA.C08-GRID.i3.08313 has lost a 'Resin' #13749.
+[07:27:10]	CCA.C08-GRID.i3.08313 opened the '' #1268 container.
+[07:27:11]	CCA.C08-GRID.i3.08313 closed the '' #1268 container.
+[07:27:12]	CCA.C08-GRID.i3.08313 exited observer at their location.
+[07:27:13]	CCA.C08-GRID.i3.08313 entered observer.
+[07:27:54]	CCA.C08-GRID.i3.08313 ran 'drop' on item 'Resin' (#13742)
+[07:27:54]	CCA.C08-GRID.i3.08313 has lost a 'Resin' #13742.
+[07:28:14]	CCA.C08-GRID.i3.08313 ran 'drop' on item 'Resin' (#13741)
+[07:28:14]	CCA.C08-GRID.i3.08313 has lost a 'Resin' #13741.
+[07:28:18]	CCA.C08-GRID.i3.08313 has gained 10 tokens.
+[07:28:30]	CCA.C08-GRID.i3.08313 ran 'drop' on item 'Resin' (#13745)
+[07:28:30]	CCA.C08-GRID.i3.08313 has lost a 'Resin' #13745.
+[07:28:47]	CCA.C08-GRID.i3.08313 ran 'drop' on item 'Resin' (#13747)
+[07:28:47]	CCA.C08-GRID.i3.08313 has lost a 'Resin' #13747.
+[07:29:02]	CCA.C08-GRID.i3.08313 ran 'drop' on item 'Resin' (#13739)
+[07:29:02]	CCA.C08-GRID.i3.08313 has lost a 'Resin' #13739.
+[07:29:11]	CCA.C08-GRID.i3.08313 ran 'drop' on item 'Resin' (#13750)
+[07:29:11]	CCA.C08-GRID.i3.08313 has lost a 'Resin' #13750.
+[07:29:19]	CCA.C08-GRID.i3.08313 ran 'drop' on item 'Resin' (#13751)
+[07:29:19]	CCA.C08-GRID.i3.08313 has lost a 'Resin' #13751.
+[07:29:40]	CCA.C08-GRID.i3.08313 ran 'drop' on item 'Resin' (#13748)
+[07:29:40]	CCA.C08-GRID.i3.08313 has lost a 'Resin' #13748.
+[07:29:50]	CCA.C08-GRID.i3.08313 ran 'drop' on item 'Resin' (#13737)
+[07:29:50]	CCA.C08-GRID.i3.08313 has lost a 'Resin' #13737.
+[07:30:05]	CCA.C08-GRID.i3.08313 ran 'drop' on item 'Resin' (#13736)
+[07:30:05]	CCA.C08-GRID.i3.08313 has lost a 'Resin' #13736.
+[07:30:07]	CCA.C08-GRID.i3.08313 exited observer at their location.
+[07:30:10]	CCA.C08-GRID.i3.08313 entered observer.
+[07:30:11]	CCA.C08-GRID.i3.08313 exited observer at their location.
+[07:30:13]	CCA.C08-GRID.i3.08313 entered observer.
+[07:30:49]	CCA.C08-GRID.i3.08313 ran 'drop' on item 'Resin' (#13746)
+[07:30:49]	CCA.C08-GRID.i3.08313 has lost a 'Resin' #13746.
+[07:31:13]	CCA.C08-GRID.i3.08313 ran 'drop' on item 'Resin' (#13738)
+[07:31:13]	CCA.C08-GRID.i3.08313 has lost a 'Resin' #13738.
+[07:31:17]	CCA.C08-GRID.i3.08313 has gained a 'Resin' #13752.
+[07:31:17]	CCA.C08-GRID.i3.08313 has gained a 'Resin' #13753.
+[07:31:17]	CCA.C08-GRID.i3.08313 has gained a 'Resin' #13754.
+[07:31:17]	CCA.C08-GRID.i3.08313 has gained a 'Resin' #13755.
+[07:31:17]	CCA.C08-GRID.i3.08313 has gained a 'Resin' #13756.
+[07:31:17]	CCA.C08-GRID.i3.08313 has gained a 'Resin' #13757.
+[07:31:17]	CCA.C08-GRID.i3.08313 has gained a 'Resin' #13758.
+[07:31:17]	CCA.C08-GRID.i3.08313 has gained a 'Resin' #13759.
+[07:31:17]	CCA.C08-GRID.i3.08313 has gained a 'Resin' #13760.
+[07:31:17]	CCA.C08-GRID.i3.08313 has gained a 'Resin' #13761.
+[07:31:17]	CCA.C08-GRID.i3.08313 has gained a 'Resin' #13762.
+[07:31:17]	CCA.C08-GRID.i3.08313 has gained a 'Resin' #13763.
+[07:31:17]	CCA.C08-GRID.i3.08313 has gained a 'Resin' #13764.
+[07:31:17]	CCA.C08-GRID.i3.08313 has gained a 'Resin' #13765.
+[07:31:17]	CCA.C08-GRID.i3.08313 has gained a 'Resin' #13766.
+[07:31:17]	CCA.C08-GRID.i3.08313 has gained a 'Resin' #13767.
+[07:31:17]	CCA.C08-GRID.i3.08313 used command '/CharGiveItem grid resin 99999'.
+[07:31:21]	CCA.C08-GRID.i3.08313 ran 'drop' on item 'Resin' (#13760)
+[07:31:21]	CCA.C08-GRID.i3.08313 has lost a 'Resin' #13760.
+[07:31:29]	CCA.C08-GRID.i3.08313 ran 'drop' on item 'Resin' (#13765)
+[07:31:29]	CCA.C08-GRID.i3.08313 has lost a 'Resin' #13765.
+[07:31:34]	CCA.C08-GRID.i3.08313 ran 'drop' on item 'Resin' (#13759)
+[07:31:34]	CCA.C08-GRID.i3.08313 has lost a 'Resin' #13759.
+[07:31:37]	CCA.C08-GRID.i3.08313 ran 'drop' on item 'Resin' (#13761)
+[07:31:37]	CCA.C08-GRID.i3.08313 has lost a 'Resin' #13761.
+[07:31:42]	CCA.C08-GRID.i3.08313 ran 'drop' on item 'Resin' (#13758)
+[07:31:42]	CCA.C08-GRID.i3.08313 has lost a 'Resin' #13758.
+[07:31:46]	CCA.C08-GRID.i3.08313 ran 'drop' on item 'Resin' (#13766)
+[07:31:46]	CCA.C08-GRID.i3.08313 has lost a 'Resin' #13766.
+[07:32:13]	CCA.C08-GRID.i3.08313 ran 'drop' on item 'Resin' (#13756)
+[07:32:13]	CCA.C08-GRID.i3.08313 has lost a 'Resin' #13756.
+[07:32:18]	CCA.C08-GRID.i3.08313 ran 'drop' on item 'Resin' (#13767)
+[07:32:18]	CCA.C08-GRID.i3.08313 has lost a 'Resin' #13767.
+[07:32:22]	CCA.C08-GRID.i3.08313 ran 'drop' on item 'Resin' (#13764)
+[07:32:22]	CCA.C08-GRID.i3.08313 has lost a 'Resin' #13764.
+[07:32:25]	CCA.C08-GRID.i3.08313 ran 'drop' on item 'Resin' (#13763)
+[07:32:25]	CCA.C08-GRID.i3.08313 has lost a 'Resin' #13763.
+[07:32:31]	CCA.C08-GRID.i3.08313 ran 'drop' on item 'Resin' (#13757)
+[07:32:31]	CCA.C08-GRID.i3.08313 has lost a 'Resin' #13757.
+[07:32:38]	CCA.C08-GRID.i3.08313 ran 'drop' on item 'Resin' (#13752)
+[07:32:38]	CCA.C08-GRID.i3.08313 has lost a 'Resin' #13752.
+[07:32:54]	CCA.C08-GRID.i3.08313 ran 'drop' on item 'Resin' (#13755)
+[07:32:54]	CCA.C08-GRID.i3.08313 has lost a 'Resin' #13755.
+[07:32:55]	CCA.C08-GRID.i3.08313 exited observer at their location.
+[07:32:57]	CCA.C08-GRID.i3.08313 entered observer.
+[07:33:08]	CCA.C08-GRID.i3.08313 ran 'drop' on item 'Resin' (#13753)
+[07:33:08]	CCA.C08-GRID.i3.08313 has lost a 'Resin' #13753.
+[07:33:18]	CCA.C08-GRID.i3.08313 has gained 10 tokens.
+[07:33:27]	CCA.C08-GRID.i3.08313 exited observer at their location.
+[07:33:28]	CCA.C08-GRID.i3.08313 entered observer.
+[07:33:28]	CCA.C08-GRID.i3.08313 exited observer at their location.
+[07:33:28]	CCA.C08-GRID.i3.08313 entered observer.
+[07:33:29]	CCA.C08-GRID.i3.08313 exited observer at their location.
+[07:33:30]	CCA.C08-GRID.i3.08313 entered observer.
+[07:33:35]	CCA.C08-GRID.i3.08313 exited observer at their location.
+[07:33:35]	CCA.C08-GRID.i3.08313 entered observer.
+[07:33:36]	CCA.C08-GRID.i3.08313 exited observer at their location.
+[07:33:37]	CCA.C08-GRID.i3.08313 entered observer.
+[07:33:37]	CCA.C08-GRID.i3.08313 exited observer at their location.
+[07:33:38]	CCA.C08-GRID.i3.08313 entered observer.
+[07:33:38]	CCA.C08-GRID.i3.08313 exited observer at their location.
+[07:33:42]	CCA.C08-GRID.i3.08313 entered observer.
+[07:33:49]	CCA.C08-GRID.i3.08313 ran 'drop' on item 'Resin' (#13754)
+[07:33:49]	CCA.C08-GRID.i3.08313 has lost a 'Resin' #13754.
+[07:34:04]	CCA.C08-GRID.i3.08313 used command '/ToggleRaise'.
+[07:34:05]	CCA.C08-GRID.i3.08313 used command '/ToggleRaise'.
+[07:34:07]	CCA.C08-GRID.i3.08313 ran 'drop' on item 'Resin' (#13762)
+[07:34:07]	CCA.C08-GRID.i3.08313 has lost a 'Resin' #13762.
+[07:34:07]	CCA.C08-GRID.i3.08313 has gained a 'Resin' #13768.
+[07:34:07]	CCA.C08-GRID.i3.08313 has gained a 'Resin' #13769.
+[07:34:07]	CCA.C08-GRID.i3.08313 has gained a 'Resin' #13770.
+[07:34:07]	CCA.C08-GRID.i3.08313 has gained a 'Resin' #13771.
+[07:34:07]	CCA.C08-GRID.i3.08313 has gained a 'Resin' #13772.
+[07:34:07]	CCA.C08-GRID.i3.08313 has gained a 'Resin' #13773.
+[07:34:07]	CCA.C08-GRID.i3.08313 has gained a 'Resin' #13774.
+[07:34:07]	CCA.C08-GRID.i3.08313 has gained a 'Resin' #13775.
+[07:34:07]	CCA.C08-GRID.i3.08313 has gained a 'Resin' #13776.
+[07:34:07]	CCA.C08-GRID.i3.08313 has gained a 'Resin' #13777.
+[07:34:07]	CCA.C08-GRID.i3.08313 has gained a 'Resin' #13778.
+[07:34:07]	CCA.C08-GRID.i3.08313 has gained a 'Resin' #13779.
+[07:34:08]	CCA.C08-GRID.i3.08313 has gained a 'Resin' #13780.
+[07:34:08]	CCA.C08-GRID.i3.08313 has gained a 'Resin' #13781.
+[07:34:08]	CCA.C08-GRID.i3.08313 has gained a 'Resin' #13782.
+[07:34:08]	CCA.C08-GRID.i3.08313 has gained a 'Resin' #13783.
+[07:34:08]	CCA.C08-GRID.i3.08313 used command '/CharGiveItem grid resin 99999'.
+[07:34:21]	CCA.C08-GRID.i3.08313 exited observer at their location.
+[07:34:47]	CCA.C08-GRID.i3.08313 has spawned 'models/props_c17/bench01a.mdl'.
+[07:34:52]	CCA.C08-GRID.i3.08313 has spawned 'models/props_c17/bench01a.mdl'.
+[07:34:59]	CCA.C08-GRID.i3.08313 entered observer.
+[07:35:01]	CCA.C08-GRID.i3.08313 ran 'drop' on item 'Resin' (#13775)
+[07:35:01]	CCA.C08-GRID.i3.08313 has lost a 'Resin' #13775.
+[07:35:04]	CCA.C08-GRID.i3.08313 ran 'drop' on item 'Resin' (#13776)
+[07:35:04]	CCA.C08-GRID.i3.08313 has lost a 'Resin' #13776.
+[07:35:08]	CCA.C08-GRID.i3.08313 ran 'drop' on item 'Resin' (#13777)
+[07:35:08]	CCA.C08-GRID.i3.08313 has lost a 'Resin' #13777.
+[07:35:11]	CCA.C08-GRID.i3.08313 ran 'drop' on item 'Resin' (#13782)
+[07:35:11]	CCA.C08-GRID.i3.08313 has lost a 'Resin' #13782.
+[07:35:30]	CCA.C08-GRID.i3.08313 ran 'drop' on item 'Resin' (#13774)
+[07:35:30]	CCA.C08-GRID.i3.08313 has lost a 'Resin' #13774.
+[07:35:52]	CCA.C08-GRID.i3.08313 ran 'drop' on item 'Resin' (#13772)
+[07:35:52]	CCA.C08-GRID.i3.08313 has lost a 'Resin' #13772.
+[07:35:58]	CCA.C08-GRID.i3.08313 ran 'drop' on item 'Resin' (#13781)
+[07:35:58]	CCA.C08-GRID.i3.08313 has lost a 'Resin' #13781.
+[07:36:26]	CCA.C08-GRID.i3.08313 ran 'drop' on item 'Resin' (#13783)
+[07:36:26]	CCA.C08-GRID.i3.08313 has lost a 'Resin' #13783.
+[07:36:31]	CCA.C08-GRID.i3.08313 ran 'drop' on item 'Resin' (#13779)
+[07:36:31]	CCA.C08-GRID.i3.08313 has lost a 'Resin' #13779.
+[07:36:48]	CCA.C08-GRID.i3.08313 ran 'drop' on item 'Resin' (#13773)
+[07:36:48]	CCA.C08-GRID.i3.08313 has lost a 'Resin' #13773.
+[07:36:52]	CCA.C08-GRID.i3.08313 ran 'drop' on item 'Resin' (#13771)
+[07:36:52]	CCA.C08-GRID.i3.08313 has lost a 'Resin' #13771.
+[07:37:09]	CCA.C08-GRID.i3.08313 ran 'drop' on item 'Resin' (#13780)
+[07:37:09]	CCA.C08-GRID.i3.08313 has lost a 'Resin' #13780.
+[07:37:31]	CCA.C08-GRID.i3.08313 ran 'drop' on item 'Resin' (#13770)
+[07:37:31]	CCA.C08-GRID.i3.08313 has lost a 'Resin' #13770.
+[07:37:37]	CCA.C08-GRID.i3.08313 exited observer at their location.
+[07:37:37]	CCA.C08-GRID.i3.08313 entered observer.
+[07:37:38]	CCA.C08-GRID.i3.08313 exited observer at their location.
+[07:37:38]	CCA.C08-GRID.i3.08313 entered observer.
+[07:37:39]	CCA.C08-GRID.i3.08313 exited observer at their location.
+[07:37:39]	CCA.C08-GRID.i3.08313 entered observer.
+[07:37:54]	CCA.C08-GRID.i3.08313 ran 'drop' on item 'Resin' (#13778)
+[07:37:54]	CCA.C08-GRID.i3.08313 has lost a 'Resin' #13778.
+[07:38:06]	CCA.C08-GRID.i3.08313 ran 'drop' on item 'Resin' (#13768)
+[07:38:06]	CCA.C08-GRID.i3.08313 has lost a 'Resin' #13768.
+[07:38:18]	CCA.C08-GRID.i3.08313 has gained 10 tokens.
+[07:38:24]	CCA.C08-GRID.i3.08313 ran 'drop' on item 'Resin' (#13769)
+[07:38:24]	CCA.C08-GRID.i3.08313 has lost a 'Resin' #13769.
+[07:38:26]	CCA.C08-GRID.i3.08313 exited observer at their location.
+[07:38:28]	CCA.C08-GRID.i3.08313 entered observer.
+[07:38:29]	CCA.C08-GRID.i3.08313 exited observer at their location.
+[07:38:29]	CCA.C08-GRID.i3.08313 entered observer.
+[09:58:18]	CCA.C08-GRID.i3.08313 has gained 10 tokens.
+[10:43:18]	CCA.C08-GRID.i3.08313 has gained 10 tokens.
+[11:47:01]	Ястреб has connected.
+[11:49:32]	Ястреб created the character 'ggw gwgwgwgwg'
+[11:49:32]	ggw gwgwgwgwg has gained a 'Suitcase' #13784.
+[11:49:32]	ggw gwgwgwgwg has gained a 'Relocation Coupon' #13785.
+[11:49:32]	ggw gwgwgwgwg has gained a 'Green Citizen Suit' #13786.
+[11:49:32]	ggw gwgwgwgwg has gained a 'Citizen Filter' #13787.
+[11:49:32]	Ястреб loaded the character 'ggw gwgwgwgwg'
+[11:50:00]	[OOC] ggw gwgwgwgwg: мда
+[11:50:32]	ggw gwgwgwgwg has taken 1 damage from worldspawn.
+[11:50:33]	ggw gwgwgwgwg has taken 1 damage from worldspawn.
+[11:50:34]	ggw gwgwgwgwg has taken 1 damage from worldspawn.
+[11:50:34]	ggw gwgwgwgwg has taken 1 damage from worldspawn.
+[11:51:05]	Ястреб (STEAM_0:1:512925626) has disconnected.
+[14:58:20]	CCA.C08-GRID.i3.08313 has gained 10 tokens.
+[15:00:38]	CCA.C08-GRID.i3.08313 exited observer at their location.
+[15:00:38]	CCA.C08-GRID.i3.08313 entered observer.
+[15:00:39]	CCA.C08-GRID.i3.08313 exited observer at their location.
+[15:00:40]	CCA.C08-GRID.i3.08313 entered observer.
+[15:04:00]	CCA.C08-GRID.i3.08313 has spawned 'models/Combine_Strider.mdl'.
+[15:04:55]	CCA.C08-GRID.i3.08313 has spawned 'models/combine_soldier.mdl'.
+[15:04:56]	CCA.C08-GRID.i3.08313 has spawned 'models/combine_soldier_prisonguard.mdl'.
+[15:05:14]	CCA.C08-GRID.i3.08313 has spawned 'models/combine_soldier.mdl'.
+[15:05:16]	CCA.C08-GRID.i3.08313 has spawned 'models/combine_soldier.mdl'.
+[15:05:19]	CCA.C08-GRID.i3.08313 has spawned 'models/combine_soldier.mdl'.
+[15:05:28]	CCA.C08-GRID.i3.08313 has spawned 'models/combine_soldier_prisonguard.mdl'.
+[15:08:20]	CCA.C08-GRID.i3.08313 has gained 10 tokens.
+[15:18:57]	matt saton (STEAM_0:1:53097688) has disconnected.
+[20:32:18]	matt saton has connected.
+[20:33:06]	matt saton loaded the character 'Lee Maylor'
+[20:33:11]	Lee Maylor has taken 2 damage from Lee Maylor.
+[20:33:15]	matt saton loaded the character 'CCA.C08-UNION.i1.51023'
+[20:33:17]	CCA.C08-UNION.i1.51023 entered observer.
+[20:33:22]	CCA.C08-UNION.i1.51023 has gained a 'MP5K' #13788.
+[20:33:22]	CCA.C08-UNION.i1.51023 used command '/CharGiveItem union mp5k'.
+[20:33:25]	CCA.C08-UNION.i1.51023 ran 'drop' on item 'MP5K' (#13788)
+[20:33:25]	CCA.C08-UNION.i1.51023 has lost a 'MP5K' #13788.
+[20:33:27]	CCA.C08-UNION.i1.51023 exited observer at their location.
+[20:33:30]	CCA.C08-UNION.i1.51023 entered observer.
+[20:33:34]	CCA.C08-UNION.i1.51023 used command '/ToggleRaise'.
+[20:33:36]	CCA.C08-UNION.i1.51023 destroyed a 'MP5K' #13788.
+[20:33:42]	CCA.C08-UNION.i1.51023 used command '/ToggleRaise'.
+[20:34:01]	CCA.C08-UNION.i1.51023 exited observer at their location.
+[20:34:02]	CCA.C08-UNION.i1.51023 entered observer.
+[20:34:04]	CCA.C08-UNION.i1.51023 has spawned 'models/illusion/eftcontainers/morphine.mdl'.
+[20:35:37]	CCA.C08-UNION.i1.51023 exited observer at their location.
+[20:35:37]	CCA.C08-UNION.i1.51023 entered observer.
+[20:35:38]	CCA.C08-UNION.i1.51023 exited observer at their location.
+[20:35:38]	CCA.C08-UNION.i1.51023 entered observer.
+[20:35:39]	CCA.C08-UNION.i1.51023 exited observer at their location.
+[20:35:39]	CCA.C08-UNION.i1.51023 entered observer.
+[20:35:39]	CCA.C08-UNION.i1.51023 exited observer at their location.
+[20:35:40]	CCA.C08-UNION.i1.51023 entered observer.
+[20:35:40]	CCA.C08-UNION.i1.51023 exited observer at their location.
+[20:35:41]	CCA.C08-UNION.i1.51023 entered observer.
+[20:35:41]	CCA.C08-UNION.i1.51023 exited observer at their location.
+[20:35:41]	CCA.C08-UNION.i1.51023 entered observer.
+[20:35:41]	CCA.C08-UNION.i1.51023 exited observer at their location.
+[20:35:42]	CCA.C08-UNION.i1.51023 entered observer.
+[20:35:42]	CCA.C08-UNION.i1.51023 exited observer at their location.
+[20:35:43]	CCA.C08-UNION.i1.51023 entered observer.
+[20:35:43]	CCA.C08-UNION.i1.51023 exited observer at their location.
+[20:35:43]	CCA.C08-UNION.i1.51023 entered observer.
+[20:35:43]	CCA.C08-UNION.i1.51023 exited observer at their location.
+[20:35:44]	CCA.C08-UNION.i1.51023 entered observer.
+[20:35:44]	CCA.C08-UNION.i1.51023 exited observer at their location.
+[20:35:45]	CCA.C08-UNION.i1.51023 entered observer.
+[20:35:45]	CCA.C08-UNION.i1.51023 exited observer at their location.
+[20:35:46]	CCA.C08-UNION.i1.51023 has taken 0 damage from worldspawn.
+[20:35:46]	CCA.C08-UNION.i1.51023 entered observer.
+[20:35:50]	CCA.C08-UNION.i1.51023 used command '/CharSetHunger union 100'.
+[20:35:53]	CCA.C08-UNION.i1.51023 exited observer at their location.
+[20:35:53]	CCA.C08-UNION.i1.51023 entered observer.
+[20:36:14]	CCA.C08-UNION.i1.51023 used command '/ToggleRaise'.
+[20:38:15]	CCA.C08-UNION.i1.51023 has gained 10 tokens.
+[20:41:06]	CCA.C08-UNION.i1.51023 exited observer at their location.
+[20:41:07]	CCA.C08-UNION.i1.51023 entered observer.
+[20:41:20]	CCA.C08-UNION.i1.51023 exited observer at their location.
+[20:41:25]	CCA.C08-UNION.i1.51023 entered observer.
+[20:41:26]	CCA.C08-UNION.i1.51023 exited observer at their location.
+[20:41:28]	CCA.C08-UNION.i1.51023 entered observer.
+[20:41:29]	CCA.C08-UNION.i1.51023 exited observer at their location.
+[20:41:30]	CCA.C08-UNION.i1.51023 entered observer.
+[20:41:31]	CCA.C08-UNION.i1.51023 exited observer at their location.
+[20:41:33]	CCA.C08-UNION.i1.51023 entered observer.
+[20:41:34]	CCA.C08-UNION.i1.51023 exited observer at their location.
+[20:41:36]	CCA.C08-UNION.i1.51023 entered observer.
+[20:41:37]	CCA.C08-UNION.i1.51023 exited observer at their location.
+[20:41:37]	CCA.C08-UNION.i1.51023 entered observer.
+[20:41:38]	CCA.C08-UNION.i1.51023 exited observer at their location.
+[20:41:38]	CCA.C08-UNION.i1.51023 entered observer.
+[20:41:39]	CCA.C08-UNION.i1.51023 exited observer at their location.
+[20:41:40]	CCA.C08-UNION.i1.51023 entered observer.
+[20:41:42]	CCA.C08-UNION.i1.51023 exited observer at their location.
+[20:41:43]	CCA.C08-UNION.i1.51023 entered observer.
+[20:41:43]	CCA.C08-UNION.i1.51023 exited observer at their location.
+[20:41:46]	CCA.C08-UNION.i1.51023 entered observer.
+[20:41:46]	CCA.C08-UNION.i1.51023 exited observer at their location.
+[20:41:48]	CCA.C08-UNION.i1.51023 entered observer.
+[20:41:49]	CCA.C08-UNION.i1.51023 exited observer at their location.
+[20:41:49]	CCA.C08-UNION.i1.51023 entered observer.
+[20:41:50]	CCA.C08-UNION.i1.51023 exited observer at their location.
+[20:41:53]	CCA.C08-UNION.i1.51023 entered observer.
+[20:41:54]	CCA.C08-UNION.i1.51023 exited observer at their location.
+[20:41:55]	CCA.C08-UNION.i1.51023 entered observer.
+[20:41:56]	CCA.C08-UNION.i1.51023 exited observer at their location.
+[20:41:57]	CCA.C08-UNION.i1.51023 entered observer.
+[20:41:57]	CCA.C08-UNION.i1.51023 exited observer at their location.
+[20:41:58]	CCA.C08-UNION.i1.51023 entered observer.
+[20:41:59]	CCA.C08-UNION.i1.51023 exited observer at their location.
+[20:41:59]	CCA.C08-UNION.i1.51023 entered observer.
+[20:42:01]	CCA.C08-UNION.i1.51023 exited observer at their location.
+[20:42:01]	CCA.C08-UNION.i1.51023 entered observer.
+[20:42:04]	CCA.C08-UNION.i1.51023 exited observer at their location.
+[20:42:04]	CCA.C08-UNION.i1.51023 entered observer.
+[20:48:15]	CCA.C08-UNION.i1.51023 has gained 10 tokens.
+[21:04:37]	CCA.C08-UNION.i1.51023 exited observer at their location.
+[21:04:37]	CCA.C08-UNION.i1.51023 entered observer.
+[21:04:38]	CCA.C08-UNION.i1.51023 exited observer at their location.
+[21:04:38]	CCA.C08-UNION.i1.51023 entered observer.
+[21:06:26]	CCA.C08-UNION.i1.51023 exited observer at their location.
+[21:06:27]	CCA.C08-UNION.i1.51023 entered observer.
+[21:06:34]	CCA.C08-UNION.i1.51023 exited observer at their location.
+[21:06:35]	CCA.C08-UNION.i1.51023 entered observer.
+[21:08:15]	CCA.C08-UNION.i1.51023 has gained 10 tokens.
+[21:09:54]	Death Razor has connected.
+[21:12:46]	CCA.C08-UNION.i1.51023 exited observer at their location.
+[21:12:46]	CCA.C08-UNION.i1.51023 entered observer.
+[21:12:46]	CCA.C08-UNION.i1.51023 exited observer at their location.
+[21:12:47]	CCA.C08-UNION.i1.51023 entered observer.
+[21:12:47]	CCA.C08-UNION.i1.51023 exited observer at their location.
+[21:12:48]	CCA.C08-UNION.i1.51023 entered observer.
+[21:13:15]	CCA.C08-UNION.i1.51023 has gained 10 tokens.
+[21:14:11]	CCA.C08-UNION.i1.51023 used command '/CharSetThirst union 100'.
+[21:14:25]	Death Razor loaded the character 'Andrew 'Razor' Gonzalez'
+[21:14:34]	[OOC] Andrew 'Razor' Gonzalez: Yo
+[21:14:39]	[OOC] CCA.C08-UNION.i1.51023: what's good
+[21:15:11]	[OOC] Andrew 'Razor' Gonzalez: Anyone else planning to come on?
+[21:15:49]	[OOC] CCA.C08-UNION.i1.51023: probably not this late
+[21:15:56]	[OOC] Andrew 'Razor' Gonzalez: Fair
+[21:16:08]	[OOC] Andrew 'Razor' Gonzalez: Keep forgetting kids have a bed time
+[21:16:13]	[OOC] Andrew 'Razor' Gonzalez: Despite it being summer though
+[21:16:59]	[OOC] CCA.C08-UNION.i1.51023: it's not even that, a lot of our playerbase just doesn't stay up too late
+[21:17:06]	[OOC] CCA.C08-UNION.i1.51023: i use the word playerbaes pretty loosely
+[21:17:11]	CCA.C08-UNION.i1.51023 exited observer at their location.
+[21:17:31]	[OOC] Andrew 'Razor' Gonzalez: No one likes staying up late nowadays on hl2rp?
+[21:17:47]	CCA.C08-UNION.i1.51023 entered observer.
+[21:17:53]	[OOC] CCA.C08-UNION.i1.51023: none of the people i've met
+[21:17:56]	[OOC] CCA.C08-UNION.i1.51023: so far
+[21:18:04]	CCA.C08-UNION.i1.51023 has gained a 'Flashbang' #13788.
+[21:18:04]	CCA.C08-UNION.i1.51023 used command '/CharGiveItem i1 flashbang'.
+[21:18:06]	CCA.C08-UNION.i1.51023 has gained a 'Flashbang' #13789.
+[21:18:06]	CCA.C08-UNION.i1.51023 used command '/CharGiveItem i1 flashbang'.
+[21:18:06]	[OOC] Andrew 'Razor' Gonzalez: Damn
+[21:18:07]	CCA.C08-UNION.i1.51023 ran 'drop' on item 'Flashbang' (#13788)
+[21:18:07]	CCA.C08-UNION.i1.51023 has lost a 'Flashbang' #13788.
+[21:18:13]	CCA.C08-UNION.i1.51023 ran 'take' on item 'Flashbang' (#13788)
+[21:18:13]	CCA.C08-UNION.i1.51023 has gained a 'Flashbang' #13788.
+[21:18:15]	CCA.C08-UNION.i1.51023 has gained 10 tokens.
+[21:18:28]	[OOC] Andrew 'Razor' Gonzalez: Summer is always a good time to have late night rp gametimes
+[21:18:34]	[OOC] CCA.C08-UNION.i1.51023: yeah
+[21:18:37]	[OOC] CCA.C08-UNION.i1.51023: i agree
+[21:18:55]	[OOC] CCA.C08-UNION.i1.51023: weirdly, afternoon has been the golden time for our player booms half the time
+[21:19:05]	[OOC] CCA.C08-UNION.i1.51023: although our last one before city 8 was actually around like, 5 to 9
+[21:19:07]	[OOC] CCA.C08-UNION.i1.51023: but still
+[21:19:33]	[OOC] CCA.C08-UNION.i1.51023: real quick, lag spike
+[21:19:34]	[OOC] Andrew 'Razor' Gonzalez: Ah, I see
+[21:19:38]	[OOC] Andrew 'Razor' Gonzalez: All good
+[21:19:44]	[OOC] CCA.C08-UNION.i1.51023: the server isn't going down, just a lag spike to update a line of code
+[21:20:28]	[OOC] Andrew 'Razor' Gonzalez: Alright
+[21:20:43]	CCA.C08-UNION.i1.51023 exited observer at their location.
+[21:20:57]	[OOC] Andrew 'Razor' Gonzalez: I literally do not know what to do right now lmao
+[21:21:05]	[OOC] CCA.C08-UNION.i1.51023: resin hunting is always an option
+[21:21:08]	[OOC] CCA.C08-UNION.i1.51023: or just grinding for LP
+[21:21:18]	[OOC] Andrew 'Razor' Gonzalez: Guess more cleaning time
+[21:21:38]	[OOC] Andrew 'Razor' Gonzalez: Going to the city's MVP cleaner
+[21:22:34]	[LOOC] CCA.C08-UNION.i1.51023: is my "armored" tooltip showing up?
+[21:22:39]	[LOOC] Andrew 'Razor' Gonzalez: Yep
+[21:22:42]	[LOOC] Andrew 'Razor' Gonzalez: Somewhat armored
+[21:23:09]	[ME] CCA.C08-UNION.i1.51023: takes his datapad out from his utility belt and types on it, reading off of its screen.
+[21:23:15]	CCA.C08-UNION.i1.51023 has gained 10 tokens.
+[21:23:37]	[LOOC] Andrew 'Razor' Gonzalez: Time for 10 minutes of cleaning for 1 LP lol
+[21:26:05]	CCA.C08-UNION.i1.51023 has spawned 'models/hunter/blocks/cube05x1x05.mdl'.
+[21:26:07]	CCA.C08-UNION.i1.51023 has spawned 'models/hunter/blocks/cube075x1x075.mdl'.
+[21:26:25]	CCA.C08-UNION.i1.51023 has spawned 'models/hunter/blocks/cube075x1x075.mdl'.
+[21:26:28]	CCA.C08-UNION.i1.51023 has spawned 'models/hunter/blocks/cube075x1x075.mdl'.
+[21:26:34]	CCA.C08-UNION.i1.51023 has spawned 'models/hunter/blocks/cube075x1x075.mdl'.
+[21:27:13]	[ME] Andrew 'Razor' Gonzalez: would kneel down, tying his boot laces together again tightly, making a double knot to be secure.
+[21:27:14]	CCA.C08-UNION.i1.51023 entered observer.
+[21:27:14]	CCA.C08-UNION.i1.51023 exited observer at their location.
+[21:27:15]	CCA.C08-UNION.i1.51023 entered observer.
+[21:27:15]	CCA.C08-UNION.i1.51023 exited observer at their location.
+[21:27:19]	CCA.C08-UNION.i1.51023 entered observer.
+[21:27:19]	CCA.C08-UNION.i1.51023 exited observer at their location.
+[21:27:20]	CCA.C08-UNION.i1.51023 entered observer.
+[21:27:20]	CCA.C08-UNION.i1.51023 exited observer at their location.
+[21:27:47]	CCA.C08-UNION.i1.51023 entered observer.
+[21:27:49]	CCA.C08-UNION.i1.51023 exited observer at their location.
+[21:27:49]	CCA.C08-UNION.i1.51023 entered observer.
+[21:27:50]	CCA.C08-UNION.i1.51023 exited observer at their location.
+[21:28:15]	CCA.C08-UNION.i1.51023 has gained 10 tokens.
+[21:29:44]	[LOOC] Andrew 'Razor' Gonzalez: Uh
+[21:29:49]	[LOOC] Andrew 'Razor' Gonzalez: I'm blind
+[21:29:53]	[LOOC] Andrew 'Razor' Gonzalez: Nvm
+[21:29:55]	[LOOC] CCA.C08-UNION.i1.51023: sorry, that's my blind bind
+[21:30:09]	[LOOC] CCA.C08-UNION.i1.51023: i have it for events in case i need to pop into observer real quick so i don't break immersion too much
+[21:30:10]	[LOOC] Andrew 'Razor' Gonzalez: Your silent ulx commands scared me for a moment
+[21:30:17]	[LOOC] Andrew 'Razor' Gonzalez: Fair
+[21:30:27]	[LOOC] CCA.C08-UNION.i1.51023: if i do it fast enough it feels like blinking
+[21:31:17]	[ME] Andrew 'Razor' Gonzalez: would walk over to the first box, bending his knees down and keeping his back straight, using his legs for support.
+[21:31:26]	[ME] Andrew 'Razor' Gonzalez: would chuckle
+[21:31:43]	CCA.C08-UNION.i1.51023 entered observer.
+[21:31:51]	[OOC] CCA.C08-UNION.i1.51023: it's nocollide everythinged so
+[21:31:54]	[OOC] CCA.C08-UNION.i1.51023: try not to drop i
+[21:31:56]	[OOC] CCA.C08-UNION.i1.51023: it
+[21:32:05]	[OOC] Andrew 'Razor' Gonzalez: >when CCA don't have dolly's
+[21:32:14]	[OOC] CCA.C08-UNION.i1.51023: too much hard work
+[21:32:36]	[ME] Andrew 'Razor' Gonzalez: would slowly go up the steps, making sure he does not trip or go over his footing
+[21:33:15]	CCA.C08-UNION.i1.51023 has gained 10 tokens.
+[21:33:53]	[ME] Andrew 'Razor' Gonzalez: would set the box down quickly and gently here, then walking off to get the next one.
+[21:34:27]	Andrew 'Razor' Gonzalez ran 'equip' on item 'Citizen Filter' (#13707)
+[21:34:56]	[ME] Andrew 'Razor' Gonzalez: would walk over to the first box, bending his knees down and keeping his back straight, using his legs for support.
+[21:35:53]	[OOC] CCA.C08-UNION.i1.51023: grab 'im again
+[21:35:56]	[OOC] CCA.C08-UNION.i1.51023: i'll nocollide ihm
+[21:35:56]	[OOC] Andrew 'Razor' Gonzalez: You didn't nocollide it
+[21:36:06]	[OOC] CCA.C08-UNION.i1.51023: wtf?
+[21:36:09]	[OOC] Andrew 'Razor' Gonzalez: Bruh
+[21:36:20]	[OOC] Andrew 'Razor' Gonzalez: There you go
+[21:36:58]	[ME] Andrew 'Razor' Gonzalez: would set the box down quickly and gently here, then walking off to get the next one.
+[21:37:06]	[OOC] Andrew 'Razor' Gonzalez: .
+[21:37:14]	[OOC] Andrew 'Razor' Gonzalez: It fell
+[21:37:20]	[OOC] CCA.C08-UNION.i1.51023: i'll get it when you come back
+[21:37:40]	[ME] Andrew 'Razor' Gonzalez: would mumble to himself as he walks back to get another box
+[21:38:15]	CCA.C08-UNION.i1.51023 has gained 10 tokens.
+[21:38:45]	[ME] Andrew 'Razor' Gonzalez: would walk over to the first box, bending his knees down and keeping his back straight, using his legs for support.
+[21:39:32]	[ME] Andrew 'Razor' Gonzalez: would almost trip over but maintains his balance, panting under his mask due to it.
+[21:40:20]	[OOC] CCA.C08-UNION.i1.51023: jamming wit hthe crate fo today
+[21:40:21]	[OOC] Andrew 'Razor' Gonzalez: uhh
+[21:40:24]	CCA.C08-UNION.i1.51023 has spawned 'models/hunter/blocks/cube075x1x075.mdl'.
+[21:40:30]	CCA.C08-UNION.i1.51023 has spawned 'models/hunter/blocks/cube075x1x075.mdl'.
+[21:41:05]	[ME] Andrew 'Razor' Gonzalez: would set the box down quickly and gently here, then walking off to get the next one.
+[21:41:34]	CCA.C08-UNION.i1.51023 exited observer at their location.
+[21:41:34]	CCA.C08-UNION.i1.51023 entered observer.
+[21:41:34]	CCA.C08-UNION.i1.51023 exited observer at their location.
+[21:41:35]	CCA.C08-UNION.i1.51023 entered observer.
+[21:42:20]	[ME] Andrew 'Razor' Gonzalez: would walk over to the first box, bending his knees down and keeping his back straight, using his legs for support.
+[21:43:15]	CCA.C08-UNION.i1.51023 has gained 10 tokens.
+[21:43:41]	[ME] Andrew 'Razor' Gonzalez: starts to slow his pace a bit, somewhat struggling to keep the box in his hands
+[21:44:05]	CCA.C08-UNION.i1.51023 exited observer at their location.
+[21:44:11]	CCA.C08-UNION.i1.51023 entered observer.
+[21:44:15]	CCA.C08-UNION.i1.51023 exited observer at their location.
+[21:44:17]	CCA.C08-UNION.i1.51023 entered observer.
+[21:44:24]	CCA.C08-UNION.i1.51023 exited observer at their location.
+[21:44:33]	[ME] Andrew 'Razor' Gonzalez: would set the box down quickly and gently here, panting as he sees all of there are here accounted for.
+[21:44:42]	CCA.C08-UNION.i1.51023 used command '/ToggleRaise'.
+[21:44:44]	[OOC] CCA.C08-UNION.i1.51023: ignore this
+[21:44:45]	CCA.C08-UNION.i1.51023 destroyed a 'Charred Metal' #13466.
+[21:44:45]	CCA.C08-UNION.i1.51023 destroyed a 'Scrap Metal' #13682.
+[21:44:45]	CCA.C08-UNION.i1.51023 destroyed a 'Charred Metal' #13702.
+[21:44:45]	CCA.C08-UNION.i1.51023 destroyed a 'Charred Metal' #13693.
+[21:44:45]	CCA.C08-UNION.i1.51023 destroyed a 'Charred Metal' #13697.
+[21:44:45]	CCA.C08-UNION.i1.51023 destroyed a 'Charred Metal' #13700.
+[21:44:45]	CCA.C08-UNION.i1.51023 destroyed a 'Charred Metal' #13699.
+[21:44:45]	CCA.C08-UNION.i1.51023 destroyed a 'Charred Metal' #13627.
+[21:44:45]	CCA.C08-UNION.i1.51023 destroyed a 'Reclaimed Metal' #13648.
+[21:44:45]	CCA.C08-UNION.i1.51023 destroyed a 'Scrap Metal' #13638.
+[21:44:45]	CCA.C08-UNION.i1.51023 destroyed a 'Charred Metal' #13692.
+[21:44:45]	CCA.C08-UNION.i1.51023 destroyed a 'Charred Metal' #13583.
+[21:44:45]	CCA.C08-UNION.i1.51023 destroyed a 'Charred Metal' #13698.
+[21:44:45]	CCA.C08-UNION.i1.51023 destroyed a 'Blacksmith Tongs' #13084.
+[21:44:51]	[LOOC] CCA.C08-UNION.i1.51023: there
+[21:45:44]	[ME] Andrew 'Razor' Gonzalez: sweats a bit under his mask, then starts to pick up the boxes one by one and hauling them in onto the wall
+[21:46:13]	[LOOC] CCA.C08-UNION.i1.51023: the item rotate is a bitch
+[21:46:20]	[LOOC] Andrew 'Razor' Gonzalez: Yeah it's a pain
+[21:46:23]	[LOOC] CCA.C08-UNION.i1.51023: it doesn't feel like the physgun at all
+[21:47:05]	[ME] Andrew 'Razor' Gonzalez: would dust his gloves off, panting a bit from all the work going back and forth.
+[21:47:35]	[ME] Andrew 'Razor' Gonzalez: gives a half-assed thumbs up
+[21:48:15]	CCA.C08-UNION.i1.51023 has gained 10 tokens.
+[21:48:28]	[ME] Andrew 'Razor' Gonzalez: would start to speak slowly, trying to say it slowly. "Andrew..Gonzalez. Number 07966"
+[21:48:38]	[LOOC] Andrew 'Razor' Gonzalez: 07769*
+[21:48:41]	[LOOC] Andrew 'Razor' Gonzalez: f
+[21:49:19]	[ME] CCA.C08-UNION.i1.51023: unclips his PDA and activates it. Blue light shines on the unit's mask. He's seen typing something on it.
+[21:49:23]	CCA.C08-UNION.i1.51023 used command '/ViewData andrew'.
+[21:50:29]	CCA.C08-UNION.i1.51023 entered observer.
+[21:50:32]	[ME] Andrew 'Razor' Gonzalez: would give a light thumbs up as he walks off.
+[21:50:43]	[OOC] CCA.C08-UNION.i1.51023: i would love to stay for longer but my colon said "hmm eject" and i'm tired a sshit
+[21:50:46]	[OOC] CCA.C08-UNION.i1.51023: so i'm just gonna head to bed
+[21:50:52]	[OOC] CCA.C08-UNION.i1.51023: sorry we didn't get to RP for longer, take care
+[21:50:56]	[OOC] Andrew 'Razor' Gonzalez: Alright fair enough man, no worries
+[21:51:01]	[OOC] Andrew 'Razor' Gonzalez: You too, see you tomorrow
+[21:51:15]	[OOC] CCA.C08-UNION.i1.51023: see you then
+[21:51:16]	matt saton (STEAM_0:1:53097688) has disconnected.
+[21:51:20]	Death Razor (STEAM_0:1:66880501) has disconnected.

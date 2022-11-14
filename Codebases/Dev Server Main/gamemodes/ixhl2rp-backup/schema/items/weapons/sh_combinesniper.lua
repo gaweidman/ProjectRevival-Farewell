@@ -1,0 +1,11 @@
+ITEM.name = "Combine Sniper Rifle"
+ITEM.description = "A bulky, black sniper rifle with a long barrel."
+ITEM.model = "models/weapons/w_irifle.mdl"
+ITEM.class = "grub_combine_sniper"
+ITEM.weaponCategory = "primary"
+ITEM.classes = {CLASS_EOW}
+ITEM.canGenelock = true
+ITEM.canSerial = true
+ITEM.cmbWeapon = true
+ITEM.width = 4
+ITEM.height = 2

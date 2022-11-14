@@ -1,0 +1,83 @@
+<link href="https://fonts.googleapis.com/css2?family=VT323&display=swap" rel="stylesheet">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<meta charset="utf-8"/>
+<script>
+    var end = new Date('6/19/2020 9:30 PM EST');
+    
+    var _second = 1000;
+    var _minute = _second * 60;
+    var _hour = _minute * 60;
+    var _day = _hour * 24;
+    var timer;
+    
+    function getESTOffset() {
+    
+        return new Date().getTimezoneOffset() - (end.getTimezoneOffset())
+    }
+    
+    function showRemaining() {
+        var now = new Date();
+        var distance = end - now - getESTOffset() * _hour;
+        if (distance < 0) {
+    
+            clearInterval(timer);
+            document.getElementById('countdown').innerHTML = 'EXPIRED!';
+    
+            return;
+        }
+        var days = Math.floor(distance / _day);
+        var hours = Math.floor((distance % _day) / _hour);
+        var minutes = Math.floor((distance % _hour) / _minute);
+        var seconds = Math.floor((distance % _minute) / _second);
+    
+        document.getElementById('countdown').innerHTML = days + ':';
+        document.getElementById('countdown').innerHTML += hours + ':';
+        document.getElementById('countdown').innerHTML += minutes + ':';
+        document.getElementById('countdown').innerHTML += seconds + '';
+    }
+    
+    timer = setInterval(showRemaining, 1000);
+</script>
+
+<body style="background-color: black; font-family: 'VT323'; color: white; font-size: 15pt; position: relative;">
+    <div class="regularterminal">
+        <p>
+            <span>
+                <span>Waiting on verification uplink... <span style="color: lime">Done.</span></span>
+                <span style="float: right">USER: Jason Mackey</span>
+            </span>
+            <br/>
+            <span>Waiting on secure transmission... <span style="color: lime">Received.</span></span>
+            <br/>
+            <span>Decrypting from UniMaxSec Protocol... <span style="color: lime">Done.</span></span>
+            <br/>
+            <br/>
+            <span style="font-family: 'VT323'; color: white; font-size: 15pt">BEGIN MESSAGE DISPLAY</span>
+        </p>
+        
+    </div>
+    <p class="regularterminal">
+        <span>[<span style="color: cyan">Jason Mackey</span>] <span style="color: white">Commander, attached you will find my mockup of the tower model so far. I can explain any parts that aren't entirely clear, I understand it looks a bit scatterbrained.<span></span>
+        <br/>
+        <span>[<span style="color: red">UU-CmD.17</span>] Scatterbrained? This is incomprehensible. How do you expect me to understand any of it?</span>
+        <br/>
+        <span>[<span style="color: cyan">Jason Mackey</span>] <span style="color: white">It's that bad? My apologies, I'll get to rewriting this.<span></span>
+        <br/>
+    </p>
+    <p class="regularterminal">
+        <span style="font-family: 'VT323'; color: white; font-size: 15pt">END MESSAGE DISPLAY</span>
+        <br/>
+        <br/>
+        <span style="color: deepskyblue">Message has one attachment: towermodel.png</span>
+        <br/>
+        <span style="color: deepskyblue">Downloading: [==========]</span>
+        <br/>
+        <span style="color: deepskyblue">Download finished.</span>
+        <br/>
+        <br/>
+        <span ><a href="https://projectrevival.xyz/towermodel/towermodel.png" >towermodel.png</a></span>
+    </p>
+</body>

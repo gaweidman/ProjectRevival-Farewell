@@ -1,0 +1,106 @@
+[14:42:10]	FB|| light ROOM has connected.
+[14:43:00]	Chicken has connected.
+[14:43:18]	Mr. Chief has connected.
+[14:43:32]	Doughnut has connected.
+[14:43:59]	FB|| light ROOM loaded the character 'CCA.C17-UNION.SqL.72633'
+[15:03:15]	NamRm has connected.
+[15:04:11]	NamRm loaded the character 'Andre Black'
+[15:06:15]	NamRm (STEAM_0:0:69476140) has disconnected.
+[22:15:37]	FB|| light ROOM has connected.
+[22:16:29]	Chicken has connected.
+[22:16:49]	Mr. Chief has connected.
+[22:17:37]	FB|| light ROOM loaded the character 'CCA.C17-UNION.SqL.72633'
+[22:17:37]	Chicken loaded the character 'Sandra Remez'
+[22:17:43]	CCA.C17-UNION.SqL.72633 ran 'Equip' on item 'MP7' (#22164)
+[22:17:44]	CCA.C17-UNION.SqL.72633 ran 'Equip' on item '.9mm Pistol' (#18841)
+[22:18:07]	FB|| light ROOM loaded the character 'CCA.C17-QrM.98240'
+[22:19:13]	FB|| light ROOM (STEAM_0:1:17219621) has disconnected.
+[22:22:07]	Mr. Chief loaded the character 'Klaus Ludwig'
+[22:24:30]	Klaus Ludwig entered observer.
+[22:24:32]	Klaus Ludwig exited observer at their location.
+[22:24:57]	Klaus Ludwig entered observer.
+[22:25:03]	Klaus Ludwig exited observer at their location.
+[22:25:27]	Sandra Remez ran 'take' on item 'A Bar of Soap' (#35564)
+[22:25:27]	Sandra Remez has gained a 'A Bar of Soap' #35564.
+[22:26:07]	Klaus Ludwig entered observer.
+[22:26:10]	Klaus Ludwig exited observer at their location.
+[22:26:13]	Klaus Ludwig entered observer.
+[22:26:30]	[ME] Sandra Remez: searches dumpsters
+[22:26:33]	Sandra Remez rolled 18 out of 100.
+[22:26:33]	Sandra Remez used command '/Roll'.
+[22:26:43]	Klaus Ludwig used command '/adminspawnmenu'.
+[22:26:51]	Klaus Ludwig has spawned "Light Bulb"
+[22:26:55]	Sandra Remez ran 'take' on item 'Light Bulb' (#36267)
+[22:26:55]	Sandra Remez has gained a 'Light Bulb' #36267.
+[22:26:59]	[ME] Sandra Remez: searches dumpster
+[22:27:00]	Sandra Remez rolled 6 out of 100.
+[22:27:00]	Sandra Remez used command '/Roll'.
+[22:27:46]	Klaus Ludwig has gained a 'Paper.' #36268.
+[22:27:46]	Klaus Ludwig used command '/CreateCustomItem Paper. models/props_junk/garbage_newspaper001a.mdl Fuck you.'.
+[22:27:53]	Klaus Ludwig ran 'drop' on item 'Paper.' (#36268)
+[22:27:53]	Klaus Ludwig has lost a 'Paper.' #36268.
+[22:27:56]	Klaus Ludwig entered observer.
+[22:28:02]	[ME] Sandra Remez: searches dumpster
+[22:28:03]	Sandra Remez rolled 47 out of 100.
+[22:28:03]	Sandra Remez used command '/Roll'.
+[22:28:15]	Klaus Ludwig used command '/adminspawnmenu'.
+[22:28:31]	Klaus Ludwig has spawned "A Roll of Toilet Paper"
+[22:28:32]	Klaus Ludwig has spawned "A Roll of Toilet Paper"
+[22:28:35]	Klaus Ludwig has spawned "Box of Matches"
+[22:28:40]	Klaus Ludwig ran 'take' on item 'Box of Matches' (#36271)
+[22:28:40]	Klaus Ludwig has gained a 'Box of Matches' #36271.
+[22:28:44]	Klaus Ludwig used command '/adminspawnmenu'.
+[22:28:51]	Klaus Ludwig has spawned "Spark Plug"
+[22:28:54]	Klaus Ludwig entered observer.
+[22:29:02]	Sandra Remez ran 'take' on item 'Spark Plug' (#36272)
+[22:29:02]	Sandra Remez has gained a 'Spark Plug' #36272.
+[22:29:06]	[ME] Sandra Remez: searches dumpster
+[22:29:08]	Sandra Remez rolled 53 out of 100.
+[22:29:08]	Sandra Remez used command '/Roll'.
+[22:29:13]	Klaus Ludwig used command '/adminspawnmenu'.
+[22:29:25]	Klaus Ludwig has spawned "Pack of Screws"
+[22:29:26]	Klaus Ludwig has spawned "Wires"
+[22:29:34]	Sandra Remez ran 'take' on item 'Pack of Screws' (#36273)
+[22:29:34]	Sandra Remez has gained a 'Pack of Screws' #36273.
+[22:29:36]	Sandra Remez ran 'take' on item 'Wires' (#36274)
+[22:29:36]	Sandra Remez has gained a 'Wires' #36274.
+[22:29:54]	Klaus Ludwig ran 'drop' on item 'Box of Matches' (#36271)
+[22:29:54]	Klaus Ludwig has lost a 'Box of Matches' #36271.
+[22:29:58]	Klaus Ludwig entered observer.
+[22:30:00]	Klaus Ludwig destroyed a 'Box of Matches' #36271.
+[22:30:30]	Sandra Remez has taken 50 damage from Klaus Ludwig.
+[22:30:30]	Sandra Remez has taken 10 damage from Klaus Ludwig.
+[22:30:37]	Klaus Ludwig has spawned 'models/props_doors/door03_slotted_left.mdl'.
+[22:30:41]	Sandra Remez has taken 500 damage from Klaus Ludwig.
+[22:30:41]	Klaus Ludwig has killed Sandra Remez with weapon_physgun.
+[22:30:51]	Klaus Ludwig has spawned 'models/props_c17/doll01.mdl'.
+[22:31:02]	[ME] Sandra Remez: searches dumpster
+[22:31:08]	[ME] Sandra Remez: searches trashcan
+[22:31:10]	Sandra Remez rolled 20 out of 100.
+[22:31:10]	Sandra Remez used command '/Roll'.
+[22:31:45]	Klaus Ludwig has gained a 'Paper' #36275.
+[22:31:45]	Klaus Ludwig used command '/CreateCustomItem Paper models/props_junk/garbage_newspaper001a.mdl It reads a single word:  ock."'.
+[22:32:10]	Klaus Ludwig has gained a 'paper' #36276.
+[22:32:10]	Klaus Ludwig used command '/CreateCustomItem paper models/props_junk/garbage_newspaper001a.mdl It reads the word 'cock.''.
+[22:32:14]	Sandra Remez has taken 5 damage from Sandra Remez.
+[22:32:14]	Sandra Remez has gained 10 tokens.
+[22:32:19]	Klaus Ludwig used command '/adminspawnmenu'.
+[22:32:26]	Klaus Ludwig ran 'drop' on item 'paper' (#36276)
+[22:32:26]	Klaus Ludwig has lost a 'paper' #36276.
+[22:32:29]	Klaus Ludwig entered observer.
+[22:32:38]	Klaus Ludwig destroyed a 'paper' #36276.
+[22:32:49]	Klaus Ludwig ran 'drop' on item 'Paper' (#36275)
+[22:32:49]	Klaus Ludwig has lost a 'Paper' #36275.
+[22:32:52]	Klaus Ludwig entered observer.
+[22:32:52]	Klaus Ludwig destroyed a 'Paper' #36275.
+[22:32:55]	Klaus Ludwig exited observer at their location.
+[22:32:56]	Klaus Ludwig entered observer.
+[22:33:25]	Sandra Remez has taken 500 damage from turnstyle_1.
+[22:33:25]	turnstyle_1 has killed Sandra Remez.
+[22:33:50]	Sandra Remez has taken 20 damage from Klaus Ludwig.
+[22:33:50]	Sandra Remez has taken 50 damage from Klaus Ludwig.
+[22:33:58]	Sandra Remez has taken 5 damage from Klaus Ludwig.
+[22:33:58]	Sandra Remez has taken 5 damage from terminal_side_props.
+[22:34:11]	Klaus Ludwig exited observer at their location.
+[22:34:16]	Mr. Chief (STEAM_0:1:129270116) has disconnected.
+[22:34:23]	Chicken (STEAM_0:0:143523274) has disconnected.
