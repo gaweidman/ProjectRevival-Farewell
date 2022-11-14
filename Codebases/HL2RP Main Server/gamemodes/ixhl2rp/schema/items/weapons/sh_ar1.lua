@@ -1,0 +1,10 @@
+ITEM.name = "AR1 (Ordinal Rifle)"
+ITEM.description = "An older, dark energy powered assault rifle"
+ITEM.model = "models/hlvr/weapons/irifle/w_irifle.mdl"
+ITEM.class = "tfa_ordinalrifle"
+ITEM.weaponCategory = "primary"
+ITEM.canGenelock = true
+ITEM.canSerial = true
+ITEM.cmbWeapon = true
+ITEM.width = 3
+ITEM.height = 2

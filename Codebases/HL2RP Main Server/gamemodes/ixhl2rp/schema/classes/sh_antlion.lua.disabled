@@ -1,0 +1,5 @@
+CLASS.name = "Antlion"
+CLASS.faction = FACTION_ALIEN
+CLASS.isDefault = false
+
+CLASS_ANTLION = CLASS.index

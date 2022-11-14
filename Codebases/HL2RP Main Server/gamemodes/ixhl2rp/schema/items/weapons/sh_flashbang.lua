@@ -1,0 +1,9 @@
+ITEM.name = "Flashbang"
+ITEM.description = "A cylindrical grenade with orange bands on either end."
+ITEM.model = "models/weapons/w_eq_flashbang.mdl"
+ITEM.class = "weapon_flashbang_qi"
+ITEM.weaponCategory = "grenade"
+ITEM.isGrenade = true
+ITEM.classes = {CLASS_EOW}
+ITEM.width = 1
+ITEM.height = 1

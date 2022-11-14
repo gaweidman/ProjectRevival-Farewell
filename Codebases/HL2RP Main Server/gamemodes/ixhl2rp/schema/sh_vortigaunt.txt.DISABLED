@@ -1,0 +1,11 @@
+
+FACTION.name = "Vortigaunt"
+FACTION.description = "A regular vortigaunt enslaved by the Universal Union."
+FACTION.color = Color(247, 173, 2, 255)
+FACTION.models = {
+	"models/vortigaunt.mdl",
+
+}
+FACTION.isDefault = false
+
+FACTION_VORTIGAUNT = FACTION.index

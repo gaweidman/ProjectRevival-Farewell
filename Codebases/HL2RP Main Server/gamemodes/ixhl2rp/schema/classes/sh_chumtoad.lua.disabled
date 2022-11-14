@@ -1,0 +1,13 @@
+CLASS.name = "Chumtoad"
+CLASS.faction = FACTION_ALIEN
+CLASS.isDefault = false
+
+function CLASS:OnSpawn(client)
+    client:SetJumpPower(300)
+end
+
+function CLASS:OnSet(client)
+    client:SetJumpPower(300)
+end
+
+CLASS_CHUMTOAD = CLASS.index

@@ -1,0 +1,9 @@
+ITEM.name = "XM31 OICW"
+ITEM.description = "A black gun with blue detailing and a Combine emblem on its side."
+ITEM.model = "models/hlvr/weapons/irifle/w_irifle.mdl"
+ITEM.class = "weapon_oicw"
+ITEM.weaponCategory = "primary"
+ITEM.canSerial = true
+ITEM.cmbWeapon = true
+ITEM.width = 3
+ITEM.height = 2
